@@ -1,7 +1,7 @@
 # Rust
 
-Rust is a systems programming language focused on memory safety and performance without a garbage collector. It is gaining popularity for roles in systems programming, WebAssembly, and performance-critical applications. For LeetCode, Rust is the most challenging language to use due to its strict ownership model, which can make pointer-heavy problems like linked lists and trees significantly more complex to implement than in other languages. If you are already comfortable with Rust and want to use it for interviews, it is possible and impressive, but it is not recommended as a starting point for interview preparation.
+Rust é uma linguagem de programação de sistemas focada em segurança da memória e desempenho sem um coletor de lixo. Está ganhando popularidade para papéis em programação de sistemas, WebAssembly e aplicações críticas em termos de desempenho. Para o LeetCode, Rust é a linguagem mais desafiadora de usar devido ao seu modelo de propriedade estrito, que pode tornar problemas pesados em ponteiros como listas encadeadas e árvores significativamente mais complexos de implementar do que em outras linguagens. Se você já está confortável com Rust e deseja usá-lo para entrevistas, é possível e impressionante, mas não é recomendado como ponto de partida para a preparação das entrevistas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Visit the Dedicated Rust Roadmap](https://roadmap.sh/rust)
+- [@oficial@Visite o Caminho Dedidado do Rust](https://roadmap.sh/rust)

@@ -1,11 +1,11 @@
-# More Exercises
+# Mais Exercícios
 
-Below you can find other popular questions covering Advanced Graphs. Work through these once you are comfortable with the five above.
+Abaixo você encontrará outras perguntas populares cobrindo Grafos Avançados. Trabalhe nessas uma vez que esteja confortável com as cinco anteriores.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@article@Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)
-- [@article@Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/)
-- [@article@Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/)
-- [@article@Minimum Spanning Tree](https://leetcode.com/problems/connecting-cities-with-minimum-cost/)
-- [@article@Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)
+- [@artigo@Dicionário Alienígena](https://leetcode.com/problems/alien-dictionary/)
+- [@artigo@Caminho com Maior Probabilidade](https://leetcode.com/problems/path-with-maximum-probability/)
+- [@artigo@Encontre a Cidade com o Menor Número de Vizinhos em uma Distância de Limite](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/)
+- [@artigo@Árvore Geradora Mínima](https://leetcode.com/problems/connecting-cities-with-minimum-cost/)
+- [@artigo@Caminho Mais Curto em Matriz Binária](https://leetcode.com/problems/shortest-path-in-binary-matrix/)

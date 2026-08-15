@@ -1,9 +1,9 @@
-# Longest Increasing Subsequence
+# Sequência Crescente Mais Longa
 
-Given an array, find the length of the longest strictly increasing subsequence. For each element, you check all previous elements that are smaller and extend the best subsequence ending there. This problem teaches you patience sorting and the classic O(n²) DP formulation, with an O(n log n) binary search optimization as a natural follow-up.
+Dado um array, encontre o comprimento da sua sequência estritamente crescente mais longa. Para cada elemento, você verifica todos os elementos anteriores que são menores e estende a melhor subsequência terminando lá. Este problema ensina a você como fazer uma classificação de paciência e a formulación clássica do DP O(n²), com uma otimização natural de busca binária O(n log n) como um seguidor natural.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
-- [@video@Longest Increasing Subsequence - Leetcode 300](https://www.youtube.com/watch?v=MrPa5EFcDCU)
-- [@video@Longest Increasing Subsequence Problem Explained](https://www.youtube.com/watch?v=iQP5XFeXiMQ)
+- [@artigo@Sequência Crescente Mais Longa](https://leetcode.com/problems/longest-increasing-subsequence/)
+- [@vídeo@Sequência Crescente Mais Longa - Leetcode 300](https://www.youtube.com/watch?v=MrPa5EFcDCU)
+- [@vídeo@Problema de Sequência Crescente Mais Longa Explicado](https://www.youtube.com/watch?v=iQP5XFeXiMQ)

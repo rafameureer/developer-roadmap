@@ -1,9 +1,9 @@
-# Word Search
+# Pesquisa de Palavras
 
-Given a 2D grid of characters and a word, determine if the word exists in the grid by following adjacent cells. You do DFS from each cell that matches the first character, marking visited cells to avoid reuse in the current path. This problem teaches you backtracking on a 2D grid, where you must undo your visited marks when a path fails.
+Dado um grid 2D de caracteres e uma palavra, determine se a palavra existe no grid seguindo células adjacentes. Você faz DFS em cada célula que corresponde ao primeiro caractere, marcando células visitadas para evitar reutilizá-las no caminho atual. Este problema ensina backtracking em um grid 2D, onde você deve desmarcar suas marcações de visitado quando um caminho falhar.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Word Search](https://leetcode.com/problems/word-search/)
-- [@video@LeetCode Word Search Solution Explained - Java](https://www.youtube.com/watch?v=m9TrOL1ETxI)
-- [@video@Word Search - Leetcode 79 - Recursive Backtracking (Python)](https://www.youtube.com/watch?v=Sn2DqF-S2h8)
+- [@artigo@Pesquisa de Palavras](https://leetcode.com/problems/word-search/)
+- [@vídeo@Solução da Pesquisa de Palavras no LeetCode - Java](https://www.youtube.com/watch?v=m9TrOL1ETxI)
+- [@vídeo@Pesquisa de Palavras - Leetcode 79 - Backtracking Recursivo (Python)](https://www.youtube.com/watch?v=Sn2DqF-S2h8)

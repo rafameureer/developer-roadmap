@@ -1,9 +1,9 @@
-# Burst Balloons
+# Balões Explodindo
 
-Given an array of balloons with values, burst all of them to maximize coins, where bursting a balloon gives coins equal to the product of itself and its neighbors. You use interval DP: instead of choosing which balloon to burst first, you choose which to burst last within each interval. This problem teaches you that sometimes reversing the order of decisions makes the DP structure cleaner.
+Dado um array de balões com valores, exploda todos eles para maximizar as moedas, onde explodir um balão dá moedas iguais ao produto de si mesmo e seus vizinhos. Você usa DP em intervalo: em vez de escolher qual balão explodir primeiro, você escolhe qual explodir por último dentro de cada intervalo. Este problema te ensina que às vezes inverter a ordem das decisões torna a estrutura do DP mais limpa.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Burst Balloons](https://leetcode.com/problems/burst-balloons/)
-- [@video@Minimum Number of Arrows to Burst Balloons](https://www.youtube.com/watch?v=lPmkKnvNPrw)
-- [@video@Understand LeetCode 312. Burst Balloons in 6 minutes](https://www.youtube.com/watch?v=o3-PUPXiVfI)
+- [@artigo@Explodindo Balões](https://leetcode.com/problems/burst-balloons/)
+- [@vídeo@Número Mínimo de Flechas para Explodir Balões](https://www.youtube.com/watch?v=lPmkKnvNPrw)
+- [@vídeo@Entenda LeetCode 312. Explodindo Balões em 6 minutos](https://www.youtube.com/watch?v=o3-PUPXiVfI)

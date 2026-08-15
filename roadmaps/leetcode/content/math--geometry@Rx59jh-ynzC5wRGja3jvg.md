@@ -1,7 +1,7 @@
-# Math and Geometry
+# Matemática e Geometria
 
-Math and geometry problems test your ability to translate a visual or numerical pattern into clean algorithmic logic. Many of these problems have elegant solutions that depend on a single mathematical observation, such as the structure of matrix rotation or the periodicity of digit sums. Unlike the earlier stages, there is no dominant pattern here. Instead, you are developing the habit of looking for structure in a problem before reaching for a general algorithm. These problems are a good test of problem-solving maturity: can you find the insight, or do you default to brute force?
+Problemas de matemática e geometria testam sua habilidade de traduzir um padrão visual ou numérico em uma lógica algorítmica limpa. Muitos desses problemas têm soluções elegantes que dependem de uma única observação matemática, como a estrutura da rotação de matriz ou a periodicidade das somas dos dígitos. Diferentemente das etapas anteriores, não há um padrão dominante aqui. Em vez disso, você está desenvolvendo o hábito de procurar uma estrutura em um problema antes de buscar um algoritmo geral. Esses problemas são um bom teste da maturidade na resolução de problemas: você consegue encontrar a perspicácia ou recorre à força bruta?
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Basic Geometry](https://cp-algorithms.com/geometry/basic-geometry.html)
+- [@artigo@Geometria Básica](https://cp-algorithms.com/geometry/basic-geometry.html)

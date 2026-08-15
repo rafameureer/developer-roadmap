@@ -1,11 +1,11 @@
-# More Exercises
+# Mais Exercícios
 
-Below you can find other popular questions covering 1-D Dynamic Programming. Work through these once you are comfortable with the five above.
+Abaixo você encontrará outras perguntas populares cobrindo Programação Dinâmica 1-D. Resolva essas questões uma vez que esteja confortável com as cinco anteriores.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@article@House Robber II](https://leetcode.com/problems/house-robber-ii/)
-- [@article@Decode Ways](https://leetcode.com/problems/decode-ways/)
-- [@article@Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
-- [@article@Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
-- [@article@Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
+- [@artigo@Ladrão de Casas II](https://leetcode.com/problems/house-robber-ii/)
+- [@artigo@Decodificação de Modos](https://leetcode.com/problems/decode-ways/)
+- [@artigo@Substring Palíndromica Mais Longa](https://leetcode.com/problems/longest-palindromic-substring/)
+- [@artigo@Divisão Igual de Subconjunto](https://leetcode.com/problems/partition-equal-subset-sum/)
+- [@artigo@Produto Máximo do Subarray](https://leetcode.com/problems/maximum-product-subarray/)

@@ -1,9 +1,9 @@
-# Climbing Stairs
+# Subindo Escadas
 
-You can climb one or two steps at a time. Find the number of distinct ways to reach the top of n stairs. The number of ways to reach step n is the sum of ways to reach n-1 and n-2, which is exactly the Fibonacci pattern. This is the entry point to DP and teaches you to see a problem as a recurrence: the answer at each state depends on previous states.
+Você pode subir um ou dois degraus por vez. Encontre o número de maneiras distintas de chegar ao topo de n degraus. O número de maneiras de chegar no degrau n é a soma das maneiras de chegar em n-1 e n-2, que é exatamente o padrão da sequência de Fibonacci. Este é o ponto de entrada para DP e ensina você a ver um problema como uma recorrência: a resposta em cada estado depende dos estados anteriores.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
-- [@video@Climbing Stairs - Leetcode 70 - Dynamic Programming (Python)](https://www.youtube.com/watch?v=I-R1XsECJu8)
-- [@video@Climbing Stairs - LeetCode 70 - JavaScript](https://www.youtube.com/watch?v=Ifek5h5VqJw)
+- [@artigo@Subindo Escadas](https://leetcode.com/problems/climbing-stairs/)
+- [@vídeo@Subindo Escadas - Leetcode 70 - Programação Dinâmica (Python)](https://www.youtube.com/watch?v=I-R1XsECJu8)
+- [@vídeo@Subindo Escadas - LeetCode 70 - JavaScript](https://www.youtube.com/watch?v=Ifek5h5VqJw)

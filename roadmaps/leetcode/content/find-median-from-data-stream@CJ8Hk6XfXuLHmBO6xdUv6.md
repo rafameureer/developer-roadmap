@@ -1,8 +1,8 @@
-# Find Median from Data Stream
+# Encontrar a Mediana de um Fluxo de Dados
 
-Design a data structure that supports adding numbers one by one and returning the median at any point. You maintain two heaps: a max-heap for the lower half and a min-heap for the upper half, keeping them balanced so the median is always accessible at the top. This is the defining two-heap problem and teaches you how splitting a dataset into two heaps gives O(log n) insertion and O(1) median retrieval.
+Projete uma estrutura de dados que suporte adicionar números individualmente e retornar a mediana em qualquer momento. Você mantém duas pilhas: uma pilha máxima para a metade inferior e uma pilha mínima para a metade superior, manter as equilibrando para que a mediana sempre esteja acessível no topo. Este é o problema definidor de dois heaps e ensina como dividir um conjunto de dados em duas pilhas fornece inserção O(log n) e recuperação da mediana O(1).
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
-- [@video@Find Median from Data Stream: Real-Time Median with Heaps](https://www.youtube.com/watch?v=SdURPlHqc1g)
+- [@artigo@Encontrar a Mediana de um Fluxo de Dados](https://leetcode.com/problems/find-median-from-data-stream/)
+- [@vídeo@Encontrar a Mediana de um Fluxo de Dados: Mediana em Tempo Real com Heaps](https://www.youtube.com/watch?v=SdURPlHqc1g)

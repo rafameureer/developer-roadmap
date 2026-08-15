@@ -1,8 +1,8 @@
-# Contains Duplicate
+# Contém Duplicado
 
-Given an array, return true if any value appears more than once. The brute force compares every pair, but a hash set lets you check for duplicates in a single pass. Simple as it sounds, this problem is your first introduction to using a set for O(1) membership checks, a pattern you will see in almost every stage.
+Dada uma matriz, retorne verdadeiro se qualquer valor aparecer mais de uma vez. O método força bruta compara cada par, mas um conjunto hash permite verificar duplicatas em uma única passagem. Embora pareça simples, este problema é sua primeira introdução ao uso de um conjunto para verificações de pertencimento em O(1), um padrão que você verá em quase toda fase.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Contains Duplicate - LeetCode](https://leetcode.com/problems/contains-duplicate/description/)
-- [@video@Contains Duplicate](https://www.youtube.com/watch?v=a1_r3cLQ6wg)
+- [@artigo@Contém Duplicado - LeetCode](https://leetcode.com/problems/contains-duplicate/description/)
+- [@vídeo@Contém Duplicado](https://www.youtube.com/watch?v=a1_r3cLQ6wg)

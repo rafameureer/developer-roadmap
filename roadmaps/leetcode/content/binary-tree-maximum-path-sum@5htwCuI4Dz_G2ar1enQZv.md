@@ -1,9 +1,9 @@
-# Binary Tree Maximum Path Sum
+# Máximo Caminho em Árvore Binária
 
-Given a binary tree where nodes can have negative values, find the maximum sum of any path between any two nodes. At each node you decide whether to extend either child's path or start fresh, tracking the global maximum as you go. This is one of the hardest tree DFS problems and teaches you to separate what you return up the recursion from what you record as your answer.
+Dada uma árvore binária onde os nós podem ter valores negativos, encontre a soma máxima de qualquer caminho entre dois nós. Em cada nó, você decide se deseja estender o caminho de um dos filhos ou começar tudo de novo, rastreando o máximo global à medida que vai. Este é um dos problemas mais difíceis de DFS em árvores e ensina a separar o que retorna para a recursão do que registra como sua resposta.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
-- [@video@Binary Tree Maximum Path Sum - LeetCode 124 - Python](https://www.youtube.com/watch?v=cfn-G-7vVlo)
-- [@video@LeetCode 124. Binary Tree Maximum Path Sum](https://www.youtube.com/watch?v=mOdetMWwtoI)
+- [@artigo@Máximo Caminho em Árvore Binária](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+- [@vídeo@Máximo Caminho em Árvore Binária - LeetCode 124 - Python](https://www.youtube.com/watch?v=cfn-G-7vVlo)
+- [@vídeo@LeetCode 124. Máximo Caminho em Árvore Binária](https://www.youtube.com/watch?v=mOdetMWwtoI)

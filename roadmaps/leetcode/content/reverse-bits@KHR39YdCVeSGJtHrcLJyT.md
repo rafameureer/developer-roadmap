@@ -1,9 +1,9 @@
-# Reverse Bits
+# Inverter Bits
 
-Given a 32-bit unsigned integer, reverse its bits. You build the result bit by bit by extracting the last bit from the input and shifting it into the result. This problem teaches you how to construct a new number bit by bit using shifts and masks, which is useful in many low-level and embedded contexts.
+Dado um inteiro sem sinal de 32 bits, inverter seus bits. Você constrói o resultado bit a bit extraído o último bit do input e deslocando-o para o resultado. Este problema ensina como construir um novo número bit a bit usando deslocamentos e máscaras, o que é útil em muitos contextos de baixo nível e incorporados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Reverse Bits](https://leetcode.com/problems/reverse-bits/)
-- [@video@Reverse Bits - LeetCode 190 - Python](https://www.youtube.com/watch?v=PywybHkTtPo)
-- [@video@Reverse Bits | Leetcode 190 | Easy](https://www.youtube.com/watch?v=-5z9dimxxmI)
+- [@artigo@Inverter Bits](https://leetcode.com/problems/reverse-bits/)
+- [@vídeo@Inverter Bits - LeetCode 190 - Python](https://www.youtube.com/watch?v=PywybHkTtPo)
+- [@vídeo@Inverter Bits | Leetcode 190 | Fácil](https://www.youtube.com/watch?v=-5z9dimxxmI)

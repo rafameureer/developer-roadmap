@@ -1,9 +1,9 @@
-# Container With Most Water
+# Contêiner com Mais Água
 
-Given an array of bar heights, find two bars that together with the x-axis form a container holding the most water. You start with the widest possible container and move the pointer on the shorter side inward, since that is the only move that could increase the area. This problem teaches the key insight that moving the longer side never helps, which is a non-obvious greedy choice that the two pointer pattern makes visible.
+Dada uma lista de alturas de barras, encontre duas barras que juntas com o eixo x formem um contêiner que contenha a maior quantidade de água. Você começa com o contêiner mais amplo possível e move o ponteiro na barra mais curta para dentro, pois é a única movimentação que pode aumentar a área. Este problema ensina a chave de insight de que mover a barra mais longa nunca ajuda, que é uma escolha grega não óbvia que o padrão de dois ponteiros torna visível.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Container With Most Water - LeetCode](https://leetcode.com/problems/container-with-most-water/description/)
-- [@video@Container With Most Water - Leetcode 11](https://www.youtube.com/watch?v=Y_4_or0Sc7I)
-- [@video@Container With Most Water | Detailed Explanation](https://www.youtube.com/watch?v=mVkyZzmuQmg)
+- [@artigo@Contêiner com Mais Água - LeetCode](https://leetcode.com/problems/container-with-most-water/description/)
+- [@vídeo@Contêiner com Mais Água - Leetcode 11](https://www.youtube.com/watch?v=Y_4_or0Sc7I)
+- [@vídeo@Contêiner com Mais Água | Explicação Detalhada](https://www.youtube.com/watch?v=mVkyZzmuQmg)

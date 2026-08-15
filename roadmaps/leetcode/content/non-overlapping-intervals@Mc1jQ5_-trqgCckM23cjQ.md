@@ -1,9 +1,9 @@
-# Non-overlapping Intervals
+# Intervalos Não-Interseccionantes
 
-Given a list of intervals, find the minimum number of intervals to remove so that the rest do not overlap. You sort by end time and greedily keep every interval that does not conflict with the last kept one. This problem teaches the classic interval scheduling insight: always prefer the interval that ends earliest, since it leaves the most room for future intervals.
+Dada uma lista de intervalos, encontre o número mínimo de intervalos a serem removidos para que os restantes não se intersectem. Você pode ordenar por tempo final e manter cada intervalo que não conflita com o último mantido. Este problema ensina a visão clássica de programação de intervalos: sempre prefira o intervalo que termina mais cedo, pois ele oferece mais espaço para futuros intervalos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
-- [@video@Non-overlapping Intervals - LeetCode 435 - Python](https://www.youtube.com/watch?v=2LUQ6tBdGxo)
-- [@video@Non-overlapping Intervals (LeetCode 435)](https://www.youtube.com/watch?v=XsrJgwGlRoc)
+- [@artigo@Intervalos Não-Interseccionantes](https://leetcode.com/problems/non-overlapping-intervals/)
+- [@vídeo@Intervalos Não-Interseccionantes - LeetCode 435 - Python](https://www.youtube.com/watch?v=2LUQ6tBdGxo)
+- [@vídeo@Intervalos Não-Interseccionantes (LeetCode 435)](https://www.youtube.com/watch?v=XsrJgwGlRoc)

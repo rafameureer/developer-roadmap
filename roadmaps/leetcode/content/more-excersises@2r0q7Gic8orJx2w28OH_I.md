@@ -1,11 +1,11 @@
-# More Exercises
+# Mais Exercícios
 
-Below you can find other popular questions covering Binary Search. Work through these once you are comfortable with the five above.
+Abaixo você pode encontrar outras perguntas populares cobrindo Busca Binária. Trabalhe nessas uma vez que esteja confortável com os cinco acima.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
-- [@article@Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)
-- [@article@Capacity to Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
-- [@article@Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
-- [@article@Find Peak Element](https://leetcode.com/problems/find-peak-element/)
+- [@artigo@Procurar em uma Matriz 2D](https://leetcode.com/problems/search-a-2d-matrix/)
+- [@artigo@Armazenamento de Valor-Chave por Tempo](https://leetcode.com/problems/time-based-key-value-store/)
+- [@artigo@Capacidade para Transportar Pacotes Dentro de D Dias](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
+- [@artigo@Encontrar a Primeira e Última Posição de um Elemento em um Array Ordenado](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+- [@artigo@Encontrar o Elemento Pico](https://leetcode.com/problems/find-peak-element/)

@@ -1,8 +1,8 @@
-# Group Anagrams
+# Agrupamento de Anagramas
 
-Given a list of strings, group together all strings that are anagrams of each other. Since anagrams share the same characters, sorting each string gives a common key you can use in a hash map. A more optimal approach uses character frequency arrays as keys instead of sorting. This problem teaches you to think about what makes two things equivalent and use that equivalence as a grouping key, a useful mental model for many hash map problems.
+Dada uma lista de strings, agrupe todas as strings que são anagramas umas das outras. Como os anagramas compartilham os mesmos caracteres, ordenar cada string dá uma chave comum que você pode usar em um mapa de hash. Um abordagem mais otimizada usa arrays de frequência de caracteres como chaves em vez de ordenação. Este problema ensina a pensar o que torna duas coisas equivalentes e usar essa equivalência como uma chave de agrupamento, um modelo mental útil para muitos problemas de mapa de hash.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Group Anagrams - LeetCode](https://leetcode.com/problems/group-anagrams/description/)
-- [@video@Group Anagrams](https://www.youtube.com/watch?v=eDmxPfVa81k)
+- [@artigo@Anagramas Agrupados - LeetCode](https://leetcode.com/problems/group-anagrams/description/)
+- [@vídeo@Anagramas](https://www.youtube.com/watch?v=eDmxPfVa81k)

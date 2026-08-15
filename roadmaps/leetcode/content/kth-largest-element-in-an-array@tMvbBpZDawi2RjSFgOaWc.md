@@ -1,9 +1,9 @@
-# Kth Largest Element in an Array
+# K-ésimo Elemento Maior em um Array
 
-Given an unsorted array and an integer k, return the kth largest element. You can use a min-heap of size k: iterate through the array, push each element, and pop when the heap exceeds k. The top of the heap is then the kth largest. This problem teaches the core heap pattern: maintain a fixed-size heap to track top-k elements without sorting the entire array.
+Dado um array não ordenado e um inteiro k, retorne o k-ésimo elemento maior. Você pode usar uma min-heap de tamanho k: itere pelo array, empurre cada elemento e remova quando a heap exceder k. O topo da heap é então o k-ésimo maior. Este problema ensina o padrão de heap básico: manter um heap de tamanho fixo para rastrear os top-k elementos sem ordenar todo o array.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
-- [@video@Kth Largest Element in an Array](https://www.youtube.com/watch?v=dXV83KXt7KA)
-- [@video@Kth Largest Element in an Array - Heaps (Python)](https://www.youtube.com/watch?v=ZmGk7h8KZLs)
+- [@article@K-ésimo Elemento Maior em um Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+- [@video@K-ésimo Elemento Maior em um Array](https://www.youtube.com/watch?v=dXV83KXt7KA)
+- [@video@K-ésimo Elemento Maior em um Array - Heaps (Python)](https://www.youtube.com/watch?v=ZmGk7h8KZLs)

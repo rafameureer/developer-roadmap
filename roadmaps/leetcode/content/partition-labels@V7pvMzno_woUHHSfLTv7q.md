@@ -1,9 +1,9 @@
-# Partition Labels
+# Particionamento de Etiquetas
 
-Given a string, partition it into as many parts as possible so that each letter appears in at most one part. You find the last occurrence of each character first, then greedily extend the current partition's boundary as you scan. This problem teaches you how to greedily build non-overlapping intervals using the last-occurrence anchor, a pattern that appears in several interval problems.
+Dada uma string, particione-a em tantas partes quanto possível de forma que cada letra apareça em no máximo uma parte. Você encontra a última ocorrência de cada caractere primeiro, em seguida estende greedymente a fronteira da partição atual enquanto examina. Este problema ensina como construir non-overlapping intervals de maneira greedy usando o âncora da última ocorrência, um padrão que aparece em vários problemas de intervalos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Partition Labels](https://leetcode.com/problems/partition-labels/)
-- [@video@Partition Labels (LeetCode 763) | Solution with animations](https://www.youtube.com/watch?v=aUVEMnlcw4E)
-- [@video@LeetCode 763. Partition Labels (Solution Explained)](https://www.youtube.com/watch?v=5NCjHqx2v-k)
+- [@artigo@Particionamento de Etiquetas](https://leetcode.com/problems/partition-labels/)
+- [@vídeo@Particionamento de Etiquetas (LeetCode 763) | Solução com animações](https://www.youtube.com/watch?v=aUVEMnlcw4E)
+- [@vídeo@LeetCode 763. Particionamento de Etiquetas (Explicação da Solução)](https://www.youtube.com/watch?v=5NCjHqx2v-k)

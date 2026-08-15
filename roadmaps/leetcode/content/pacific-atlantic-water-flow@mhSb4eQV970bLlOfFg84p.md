@@ -1,9 +1,9 @@
-# Pacific Atlantic Water Flow
+# Fluxo de Água do Pacífico e Atlântico
 
-Given a matrix of heights, find all cells from which water can flow to both the Pacific and Atlantic oceans. You reverse the problem: do BFS inward from each ocean's border, marking all reachable cells, then return cells reachable from both. This problem teaches you that reversing the direction of traversal can turn an exponential problem into a linear one.
+Dada uma matriz de alturas, encontre todas as células a partir das quais a água pode fluir para ambos os oceanos Pacífico e Atlântico. Você inverte o problema: faça BFS para dentro de cada borda do oceano, marcando todas as células acessíveis, em seguida, retorne as células acessíveis de ambos. Este problema ensina que inverter a direção da travessia pode transformar um problema exponencial em um linear.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
-- [@video@Pacific Atlantic Water Flow - Leetcode 417 - Graphs (Python)](https://www.youtube.com/watch?v=pDvvDvgHUKE)
-- [@video@\[Java\] Leetcode 417. Pacific Atlantic Water Flow \[Search #4\]](https://www.youtube.com/watch?v=ZQp1oGp1y6s)
+- [@artigo@Fluxo de Água do Pacífico e Atlântico](https://leetcode.com/problems/pacific-atlantic-water-flow/)
+- [@vídeo@Fluxo de Água do Pacífico e Atlântico - Leetcode 417 - Gráficos (Python)](https://www.youtube.com/watch?v=pDvvDvgHUKE)
+- [@vídeo@\[Java\] Leetcode 417. Fluxo de Água do Pacífico e Atlântico \[Pesquisa #4\]](https://www.youtube.com/watch?v=ZQp1oGp1y6s)

@@ -1,9 +1,9 @@
-# Replace Words
+# Substituir Palavras
 
-Given a dictionary of root words and a sentence, replace each word in the sentence with its shortest matching root from the dictionary. You insert all roots into a trie, then for each word in the sentence traverse the trie character by character until you hit a root or fail. This problem teaches you practical trie lookup with early termination, which is the core of trie efficiency.
+Dado um dicionário de raízes de palavras e uma frase, substitua cada palavra na frase pelo seu correspondente raiz mais curto no dicionário. Insira todas as raízes em um trie, depois para cada palavra na frase percorra o trie caractere por caractere até encontrar uma raiz ou falhar. Este problema ensina a pesquisa prática de trie com terminação precoce, que é o núcleo da eficiência do trie.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Replace Words](https://leetcode.com/problems/replace-words/)
-- [@video@Leetcode 648 Replace Words](https://www.youtube.com/watch?v=5liJnc8iNeY)
-- [@video@✅ Replace Words - LeetCode 648 - Strings - Tries - Explained in Detail - Interview Solution](https://www.youtube.com/watch?v=HdQeNCwE2tU)
+- [@artigo@Substituir Palavras](https://leetcode.com/problems/replace-words/)
+- [@vídeo@Leetcode 648 Substituir Palavras](https://www.youtube.com/watch?v=5liJnc8iNeY)
+- [@vídeo@✅ Substituir Palavras - LeetCode 648 - Strings - Tries - Explicado em Detalhes - Solução de Entrevista](https://www.youtube.com/watch?v=HdQeNCwE2tU)

@@ -1,9 +1,9 @@
-# Happy Number
+# Número Feliz
 
-A happy number is one that eventually reaches 1 when you repeatedly replace it with the sum of the squares of its digits. Detect whether a number is happy. This is a cycle detection problem: if the process loops without reaching 1, the number is not happy. You can use Floyd's algorithm or a set to detect the cycle. This problem teaches you to recognize cycle detection in non-graph contexts.
+Um número feliz é aquele que eventualmente alcança 1 quando você substitui repetidamente por ele a soma dos quadrados de seus dígitos. Detecte se um número é feliz. Este é um problema de detecção de ciclo: se o processo loopar sem alcançar 1, o número não é feliz. Você pode usar o algoritmo de Floyd ou um conjunto para detectar o ciclo. Este problema ensina a reconhecer a detecção de ciclos em contextos não gráficos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Happy Number](https://leetcode.com/problems/happy-number/)
-- [@video@Happy Number - LeetCode 202 - Python](https://www.youtube.com/watch?v=8wDuRgQ2dvw)
-- [@video@Happy Number (LeetCode 202) | Full solution](https://www.youtube.com/watch?v=LkD0D0Xy-ro)
+- [@artigo@Número Feliz](https://leetcode.com/problems/happy-number/)
+- [@vídeo@Número Feliz - LeetCode 202 - Python](https://www.youtube.com/watch?v=8wDuRgQ2dvw)
+- [@vídeo@Número Feliz (LeetCode 202) | Solução Completa](https://www.youtube.com/watch?v=LkD0D0Xy-ro)

@@ -1,11 +1,11 @@
-# More Exercises
+# Mais Exercícios
 
-Below you can find other popular questions covering Arrays & Hashing. Work through these once you are comfortable with the five above.
+Abaixo você encontrará outras perguntas populares cobrindo Arrays & Hashing. Trabalhe nessas uma vez que esteja confortável com os cinco acima.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para saber mais:
 
-- [@article@Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
-- [@article@Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
-- [@article@Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
-- [@article@Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)
-- [@article@Majority Element](https://leetcode.com/problems/majority-element/)
+- [@artigo@Produto de Array Exceto Auto](https://leetcode.com/problems/product-of-array-except-self/)
+- [@artigo@Sudoku Válido](https://leetcode.com/problems/valid-sudoku/)
+- [@artigo@Sequência Consecutiva Mais Longa](https://leetcode.com/problems/longest-consecutive-sequence/)
+- [@artigo@Codificação e Decodificação de Strings](https://leetcode.com/problems/encode-and-decode-strings/)
+- [@artigo@Elemento Maioritário](https://leetcode.com/problems/majority-element/)

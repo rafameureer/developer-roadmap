@@ -1,8 +1,8 @@
-# Valid Anagram
+# Anagrama Válido
 
-Given two strings, decide if one is an anagram of the other, meaning both contain the exact same characters with the same frequency. The trick is not to sort (which works but is slower), but to count character frequencies using a hash map and compare them. This problem teaches you to think about strings as frequency distributions rather than sequences of characters.
+Dadas duas strings, determine se uma é um anagrama da outra, o que significa que ambas contêm os mesmos caracteres com a mesma frequência. A dica não é ordenar (que funciona, mas é mais lento), mas contar as frequências de caracteres usando um mapa de hash e compará-las. Este problema ensina você a pensar em strings como distribuições de frequência em vez de sequências de caracteres.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Valid Anagram - LeetCode](https://leetcode.com/problems/valid-anagram/description/)
-- [@video@Valid Anagram | LeetCode problem 242 | Top 150 interview question series](https://backoffice.roadmap.sh/tree/leetcode)
+- [@artigo@Anagrama Válido - LeetCode](https://leetcode.com/problems/valid-anagram/description/)
+- [@vídeo@Anagrama Válido | Problema 242 do LeetCode | Série de questões de entrevista top 150](https://backoffice.roadmap.sh/tree/leetcode)

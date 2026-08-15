@@ -1,11 +1,11 @@
-# More Exercises
+# Mais Exercícios
 
-Below you can find other popular questions covering Graphs. Work through these once you are comfortable with the five above.
+Abaixo você encontrará outras perguntas populares cobrindo Grafos. Trabalhe nessas uma vez que esteja confortável com as cinco acima.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@article@Max Area of Island](https://leetcode.com/problems/max-area-of-island/)
-- [@article@Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)
-- [@article@Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
-- [@article@Redundant Connection](https://leetcode.com/problems/redundant-connection/)
-- [@article@Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)
+- [@artigo@Má Área de Ilha](https://leetcode.com/problems/max-area-of-island/)
+- [@artigo@Ovos Em Ruína](https://leetcode.com/problems/rotting-oranges/)
+- [@artigo@Programação de Cursos II](https://leetcode.com/problems/course-schedule-ii/)
+- [@artigo@Conexão Redundante](https://leetcode.com/problems/redundant-connection/)
+- [@artigo@Componentes Conectados em um Grafo Não Direcionado](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)

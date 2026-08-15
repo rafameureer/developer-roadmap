@@ -1,9 +1,9 @@
-# Binary Tree Level Order Traversal
+# Navegação em Árvore Binária por Nível
 
-Given a binary tree, return its node values level by level. You use a queue to process all nodes at one level before moving to the next, collecting each level into its own list. This is the entry point for tree BFS and teaches you the queue-based level tracking pattern that applies to many tree and graph problems.
+Dada uma árvore binária, retorne os valores dos nós nível a nível. Você usa uma fila para processar todos os nós de um nível antes de passar para o próximo, coletando cada nível em sua própria lista. Isso é o ponto de entrada para a busca em largura (BFS) em árvores e ensina você o padrão de rastreamento de nível baseado em fila que se aplica a muitos problemas de árvore e gráfico.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
-- [@video@Binary Tree Level Order Traversal | Live Coding with Explanation](https://www.youtube.com/watch?v=vQrggrFMyp8)
-- [@video@Binary Tree Level Order Traversal (BFS)](http://youtube.com/watch?v=2_tm34ZtYT4)
+- [@artigo@Navegação em Árvore Binária por Nível](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+- [@vídeo@Navegação em Árvore Binária por Nível | Codificação ao Vivo com Explicação](https://www.youtube.com/watch?v=vQrggrFMyp8)
+- [@vídeo@Navegação em Árvore Binária por Nível (BFS)](http://youtube.com/watch?v=2_tm34ZtYT4)

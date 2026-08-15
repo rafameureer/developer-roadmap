@@ -1,8 +1,8 @@
 # Two Pointers
 
-Two pointers is the first real pattern you will learn, and it is one of the most reusable. The idea is simple: instead of checking every pair of elements with nested loops, you place one pointer at each end of a sorted structure and move them toward each other based on a condition. This brings many O(n²) problems down to O(n). Most problems here require a sorted input, so sorting is often the first step. Mastering this pattern also prepares you for fast and slow pointers, which appear in linked list problems later.
+Two pointers é o primeiro padrão real que você aprenderá, e é um dos mais reutilizáveis. A ideia é simples: em vez de verificar cada par de elementos com loops aninhados, você coloca um ponteiro em cada extremidade de uma estrutura ordenada e os move em direção um ao outro com base em uma condição. Isso traz muitos problemas O(n²) para O(n). A maioria dos problemas aqui requer uma entrada ordenada, então a ordenação é geralmente o primeiro passo. Dominar este padrão também prepara você para ponteiros rápido e lento, que aparecem em problemas de lista vinculada mais tarde.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Mastering Problem Solving: Two Pointers](https://medium.com/@elfrmkr98/mastering-problem-solving-two-pointers-technique-23dafb17e90b)
-- [@video@Two Pointers in 7 minutes](https://www.youtube.com/watch?v=QzZ7nmouLTI)
+- [@article@Dominando a resolução de problemas: Two Pointers](https://medium.com/@elfrmkr98/mastering-problem-solving-two-pointers-technique-23dafb17e90b)
+- [@video@Two Pointers em 7 minutos](https://www.youtube.com/watch?v=QzZ7nmouLTI)

@@ -1,9 +1,9 @@
-# Daily Temperatures
+# Temperaturas Diárias
 
-Given an array of daily temperatures, return an array where each element is the number of days until a warmer temperature. A monotonic stack stores indices of temperatures in decreasing order, and whenever a warmer day is found, all colder days in the stack get their answer. This problem is the entry point for the monotonic stack pattern, which appears in many harder problems.
+Dado um array de temperaturas diárias, retorne um array onde cada elemento é o número de dias até uma temperatura mais quente. Uma pilha monótona armazena índices de temperaturas em ordem decrescente, e sempre que encontrar um dia mais quente, todos os dias mais frios na pilha recebem sua resposta. Este problema é o ponto de entrada para o padrão de pilha monótona, que aparece em muitos problemas mais difíceis.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Daily Temperatures - LeetCode](https://leetcode.com/problems/daily-temperatures/description/)
-- [@video@Daily Temperatures (LeetCode 739)](https://www.youtube.com/watch?v=ekFs9Nb2RNQ)
-- [@video@Daily Temperatures - Leetcode 739](https://www.youtube.com/watch?v=_ZEvmycwXHs)
+- [@artigo@Temperaturas Diárias - LeetCode](https://leetcode.com/problems/daily-temperatures/description/)
+- [@vídeo@Temperaturas Diárias (LeetCode 739)](https://www.youtube.com/watch?v=ekFs9Nb2RNQ)
+- [@vídeo@Temperaturas Diárias - Leetcode 739](https://www.youtube.com/watch?v=_ZEvmycwXHs)

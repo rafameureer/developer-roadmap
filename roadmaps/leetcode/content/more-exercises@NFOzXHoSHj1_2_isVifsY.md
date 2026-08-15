@@ -1,11 +1,11 @@
-# More Exercises
+# Mais Exercícios
 
-Below you can find other popular questions covering Two Pointers. Work through these once you are comfortable with the five above.
+Abaixo você encontrará outras perguntas populares cobrindo Ponteiros Duplos. Trabalhe nessas uma vez que esteja confortável com as cinco acima.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@article@Sort Colors](https://leetcode.com/problems/sort-colors/)
-- [@article@Move Zeroes](https://leetcode.com/problems/move-zeroes/)
-- [@article@Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
-- [@article@Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)
-- [@article@4Sum](https://leetcode.com/problems/4sum/)
+- [@artigo@Ordenar Cores](https://leetcode.com/problems/sort-colors/)
+- [@artigo@Mover Zeros](https://leetcode.com/problems/move-zeroes/)
+- [@artigo@Remover Duplicatas de um Array Ordenado](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+- [@artigo@Barcos para Salvar Pessoas](https://leetcode.com/problems/boats-to-save-people/)
+- [@artigo@4Soma](https://leetcode.com/problems/4sum/)

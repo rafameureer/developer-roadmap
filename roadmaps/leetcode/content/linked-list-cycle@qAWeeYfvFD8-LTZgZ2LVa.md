@@ -1,9 +1,9 @@
-# Linked List Cycle
+# Ciclo na Lista Ligada
 
-Given the head of a linked list, determine if it contains a cycle. The fast and slow pointer technique has one pointer move one step at a time and the other move two steps at a time; if there is a cycle, they will eventually meet. This problem introduces the fast-and-slow-pointer pattern, which is used in several more advanced linked list problems.
+Dado a cabeça de uma lista ligada, determine se ela contém um ciclo. A técnica do ponteiro rápido e lento tem um ponteiro que avança um passo por vez e outro que avança dois passos por vez; se houver um ciclo, eles eventualmente se encontram. Este problema apresenta o padrão de ponteiro rápido e lento, que é usado em vários problemas mais avançados de lista ligada.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
-- [@video@LeetCode Linked List Cycle Solution Explained - Java](https://www.youtube.com/watch?v=6OrZ4wAy4uE)
-- [@video@Linked List Cycle - Leetcode 141 - Linked Lists (Python)](https://www.youtube.com/watch?v=y-ckZ2hpC8Y)
+- [@artigo@Ciclo na Lista Ligada](https://leetcode.com/problems/linked-list-cycle/)
+- [@vídeo@Solução Explicada do Ciclo na Lista Ligada - Java](https://www.youtube.com/watch?v=6OrZ4wAy4uE)
+- [@vídeo@Ciclo na Lista Ligada - Leetcode 141 - Listas Ligadas (Python)](https://www.youtube.com/watch?v=y-ckZ2hpC8Y)

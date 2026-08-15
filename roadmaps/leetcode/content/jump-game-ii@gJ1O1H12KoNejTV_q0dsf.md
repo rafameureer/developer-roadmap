@@ -1,9 +1,9 @@
-# Jump Game II
+# Salto Jogo II
 
-Given the same setup, find the minimum number of jumps to reach the last index. You greedily track the end of the current jump range and the furthest you can reach within it, incrementing the jump count when you exhaust the current range. This problem teaches you the two-range greedy technique, where you separate the current jump's boundary from the next one. Visit the question on the LeetCode [website](https://leetcode.com/problems/jump-game-ii/).
+Com a mesma configuração, encontre o número mínimo de saltos para chegar ao último índice. Você rastreia greedymente o final do intervalo de salto atual e o mais longe que pode alcançar dentro dele, incrementando o contador de saltos quando esgota o intervalo atual. Este problema ensina a técnica greedy de dois intervalos, onde você separa a fronteira do salto atual da próxima. Visite a pergunta no [site do LeetCode](https://leetcode.com/problems/jump-game-ii/).
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Jump Game II](https://leetcode.com/problems/jump-game-ii/)
-- [@video@PASS the coding interview | #45 Jump Game II (Leetcode)](https://www.youtube.com/watch?v=G8isnm2OylM)
-- [@video@Jump Game II - Leetcode 45 - Recursive Backtracking (Python)](https://www.youtube.com/watch?v=CsDI-yQuGeM)
+- [@artigo@Salto Jogo II](https://leetcode.com/problems/jump-game-ii/)
+- [@vídeo@PASS the coding interview | #45 Salto Jogo II (Leetcode)](https://www.youtube.com/watch?v=G8isnm2OylM)
+- [@vídeo@Salto Jogo II - Leetcode 45 - Backtracking Recursivo (Python)](https://www.youtube.com/watch?v=CsDI-yQuGeM)

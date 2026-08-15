@@ -1,9 +1,9 @@
-# Rotate Image
+# Girar Imagem
 
-Given an n by n matrix, rotate it 90 degrees clockwise in place. You first transpose the matrix (swap across the diagonal), then reverse each row. This problem teaches you that complex in-place transformations often decompose into two simpler operations applied in sequence.
+Dado uma matriz n x n, gire-a 90 graus no sentido horário in-place. Primeiro transponha a matriz (troque acrrossando a diagonal), em seguida inverta cada linha. Este problema ensina que transformações complexas in-place muitas vezes se descompõem em duas operações mais simples aplicadas em sequência.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Rotate Image](https://leetcode.com/problems/rotate-image/)
-- [@video@Rotate Image (Leetcode 48) | Full solution](https://www.youtube.com/watch?v=Ux058jpRB9Y)
-- [@video@Rotate Image - Leetcode 48 - Arrays & Strings (Python)](https://www.youtube.com/watch?v=-jhbxNJijyE)
+- [@artigo@Girar Imagem](https://leetcode.com/problems/rotate-image/)
+- [@vídeo@Girar Imagem (Leetcode 48) | Solução Completa](https://www.youtube.com/watch?v=Ux058jpRB9Y)
+- [@vídeo@Girar Imagem - Leetcode 48 - Arrays & Strings (Python)](https://www.youtube.com/watch?v=-jhbxNJijyE)

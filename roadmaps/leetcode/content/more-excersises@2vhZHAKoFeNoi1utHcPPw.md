@@ -1,11 +1,11 @@
-# More Exercises
+# Mais Exercícios
 
-Below you can find other popular questions covering Heap and Priority Queue. Work through these once you are comfortable with the five above.
+Abaixo você pode encontrar outras questões populares cobrindo Heap e Fila de Prioridade. Trabalhe nessas uma vez que esteja confortável com as cinco acima.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@article@Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
-- [@article@Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
-- [@article@Design Twitter](https://leetcode.com/problems/design-twitter/)
-- [@article@Reorganize String](https://leetcode.com/problems/reorganize-string/)
-- [@article@Sliding Window Median](https://leetcode.com/problems/sliding-window-median/)
+- [@artigo@Kth Maior Elemento em um Fluxo](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
+- [@artigo@Peso Final da Pedra](https://leetcode.com/problems/last-stone-weight/)
+- [@artigo@Design Twitter](https://leetcode.com/problems/design-twitter/)
+- [@artigo@Reorganizar String](https://leetcode.com/problems/reorganize-string/)
+- [@artigo@Mediana de uma Janela Deslizante](https://leetcode.com/problems/sliding-window-median/)

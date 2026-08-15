@@ -1,9 +1,9 @@
-# Combination Sum
+# Soma de Combinações
 
-Given an array of distinct integers and a target, return all unique combinations that sum to the target, where each number can be used unlimited times. You use backtracking, and at each step either reuse the current number or move to the next. This problem teaches you how to allow repetition in backtracking by staying at the same index instead of advancing.
+Dada uma lista de inteiros distintos e um valor-alvo, retorne todas as combinações únicas que somam o valor-alvo, onde cada número pode ser usado indefinidamente. Você usa backtracking, e em cada etapa, você reutiliza o número atual ou move para o próximo. Este problema ensina como permitir a repetição no backtracking permanecendo na mesma posição em vez de avançar.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Combination Sum](https://leetcode.com/problems/combination-sum/)
-- [@video@LEETCODE 39 COMBINATION SUM](https://www.youtube.com/watch?v=uaqDhPGR4ow)
-- [@video@Combination Sum - Leetcode 39 - Recursive Backtracking](https://www.youtube.com/watch?v=utBw5FbYswk)
+- [@artigo@Soma de Combinações](https://leetcode.com/problems/combination-sum/)
+- [@vídeo@LEETCODE 39 COMBINAÇÃO DE SOMAS](https://www.youtube.com/watch?v=uaqDhPGR4ow)
+- [@vídeo@Combinação de Somas - Leetcode 39 - Backtracking Recursivo](https://www.youtube.com/watch?v=utBw5FbYswk)

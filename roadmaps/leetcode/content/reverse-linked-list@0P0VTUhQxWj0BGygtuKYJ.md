@@ -1,9 +1,9 @@
-# Reverse Linked List
+# Inverter Lista Encadeada
 
-Given the head of a linked list, reverse it in place and return the new head. You iterate through the list, keeping track of the previous node, current node, and next node, rewiring each pointer as you go. This is the first linked list problem most people learn and it teaches you the three-pointer technique that underlies almost every in-place list manipulation.
+Dado o cabeçalho de uma lista encadeada, inverta-a in-place e retorne o novo cabeçalho. Você itera pela lista, mantendo um rastreamento do nó anterior, do nó atual e do próximo nó, remoldurando cada ponteiro conforme avança. Este é o primeiro problema de lista encadeada que a maioria das pessoas aprende e ensina a técnica de três ponteiros subjacente por trás de quase toda manipulação de lista em-place.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
-- [@video@Reverse Linked List - Leetcode 206 - Linked Lists (Python)](https://www.youtube.com/watch?v=KRxeMng7fBU)
-- [@video@LeetCode - Reverse Linked List Solution](https://www.youtube.com/watch?v=NhapasNIKuQ)
+- [@artigo@Inverter Lista Encadeada](https://leetcode.com/problems/reverse-linked-list/)
+- [@vídeo@Inverter Lista Encadeada - Leetcode 206 - Listas Encadeadas (Python)](https://www.youtube.com/watch?v=KRxeMng7fBU)
+- [@vídeo@LeetCode - Solução de Inverter Lista Encadeada](https://www.youtube.com/watch?v=NhapasNIKuQ)

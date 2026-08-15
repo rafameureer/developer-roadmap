@@ -1,9 +1,9 @@
-# Merge K Sorted Lists
+# Mesclar K Listas Ordenadas
 
-Given k sorted linked lists, merge them into one sorted list. The optimal approach uses a min-heap to always extract the smallest current node across all lists. This problem connects linked list manipulation with heap usage and is the defining example of the k-way merge pattern.
+Dada k listas encadeadas ordenadas, mesclá-las em uma única lista encadeada ordenada. O abordagem ótima usa uma min-heap para sempre extrair o nó atual mais pequeno em todas as listas. Este problema conecta a manipulação de listas encadeadas com o uso de heaps e é o exemplo definidor do padrão de mesclagem k-via.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
-- [@video@Merge K Sorted Linked Lists - Leetcode 23 - Heaps (Python)](https://www.youtube.com/watch?v=RyrVWP76lVo)
-- [@video@Merge K Sorted Arrays - Min Heap Algorithm](https://www.youtube.com/watch?v=ptYUCjfNhJY)
+- [@artigo@Mesclar K Listas Ordenadas](https://leetcode.com/problems/merge-k-sorted-lists/)
+- [@vídeo@Mesclar K Listas Encadeadas - Leetcode 23 - Heaps (Python)](https://www.youtube.com/watch?v=RyrVWP76lVo)
+- [@vídeo@Mesclar K Arrays Ordenados - Algoritmo de Heap Min](https://www.youtube.com/watch?v=ptYUCjfNhJY)

@@ -1,8 +1,8 @@
-# Minimum Interval to Include Each Query
+# Intervalo Mínimo para Incluir Cada Consulta
 
-Given a list of intervals and queries, for each query find the length of the smallest interval that contains it. You sort both intervals and queries, use a min-heap keyed by interval length, and process queries in order. This is the hardest interval problem in this stage and teaches you the offline query technique, processing queries in sorted order alongside a heap.
+Dado uma lista de intervalos e consultas, para cada consulta, encontre o comprimento do menor intervalo que o contém. Você ordena tanto os intervalos quanto as consultas, usa uma min-heap indexada pelo comprimento do intervalo e processa as consultas em ordem. Este é o problema de intervalo mais difícil nesta fase e ensina você a técnica de consulta offline, processando as consultas em ordem junto com uma heap.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Minimum Interval to Include Each Query](https://leetcode.com/problems/minimum-interval-to-include-each-query/)
-- [@video@Minimum Interval to Include Each Query: 1851](https://www.youtube.com/watch?v=FZtDTYzVUhU)
+- [@artigo@Intervalo Mínimo para Incluir Cada Consulta](https://leetcode.com/problems/minimum-interval-to-include-each-query/)
+- [@vídeo@Intervalo Mínimo para Incluir Cada Consulta: 1851](https://www.youtube.com/watch?v=FZtDTYzVUhU)

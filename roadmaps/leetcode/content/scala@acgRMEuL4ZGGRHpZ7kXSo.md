@@ -1,7 +1,7 @@
 # C
 
-C is a general-purpose, procedural programming language that provides low-level access to system memory and efficient mapping to machine instructions. It is known for its minimalist design, which relies on a simple set of keywords and a straightforward syntax to perform tasks. C remains a foundational language for building operating systems, embedded systems, and high-performance applications where execution speed and resource efficiency are critical.
+C é uma linguagem de programação geral e procedimental que fornece acesso a memória do sistema em nível baixo e um mapeamento eficiente para instruções de máquina. É conhecida por seu design minimalista, que depende de um conjunto simples de palavras-chave e uma sintaxe direta para realizar tarefas. C permanece uma linguagem fundamental para construir sistemas operacionais, sistemas embebidos e aplicações de alto desempenho onde a velocidade de execução e eficiência de recursos são cruciais.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated C Roadmap](https://roadmap.sh/c)
+- [@roadmap@Visite o Caminho Dedidado do C](https://roadmap.sh/c)

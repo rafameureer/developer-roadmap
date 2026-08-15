@@ -1,8 +1,8 @@
 # Tries
 
-A trie is a tree structure built from the characters of strings, where each path from the root to a marked node spells out a word. It is the right data structure when you need fast prefix lookups across a large set of strings. A hash map can check if a whole word exists, but a trie can check if any word in your dictionary starts with a given prefix in O(length) time. The three problems in this stage cover building a trie, searching with wildcards, and using a trie to prune a grid search, which together cover the full range of trie applications in interviews.
+A trie é uma estrutura de árvore construída a partir dos caracteres de strings, onde cada caminho da raiz até um nó marcado spell out uma palavra. É a estrutura de dados certa quando você precisa de pesquisas de prefixo rápidas em um grande conjunto de strings. Um hash map pode verificar se uma palavra inteira existe, mas um trie pode verificar se qualquer palavra em seu dicionário começa com um determinado prefixo em O(comprimento) tempo. Os três problemas nesta fase cobrem a construção de um trie, a busca com curingas e o uso de um trie para reduzir uma pesquisa em grade, que juntos cobrem a gama completa de aplicações de trie em entrevistas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Trying to Understand Tries](https://medium.com/basecs/trying-to-understand-tries-3ec6bede0014)
-- [@video@Data Structures: Tries](https://www.youtube.com/watch?v=zIjfhVPRZCg)
+- [@article@Tentando entender tries](https://medium.com/basecs/trying-to-understand-tries-3ec6bede0014)
+- [@video@Estruturas de Dados: Tries](https://www.youtube.com/watch?v=zIjfhVPRZCg)

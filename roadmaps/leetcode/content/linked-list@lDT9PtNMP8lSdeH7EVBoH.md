@@ -1,9 +1,9 @@
-# Linked List
+# Lista Ligada
 
-Linked list problems test your ability to manipulate pointers directly, without the convenience of index-based access. The core techniques are the dummy node (to simplify edge cases at the head), the fast and slow pointer (to find midpoints and detect cycles), and in-place reversal (to rearrange nodes without extra memory). These three techniques cover the majority of linked list problems. The problems here also build the pointer intuition you will need when working with trees in the next stage.
+Problemas de lista ligada testam sua capacidade de manipular ponteiros diretamente, sem a conveniência do acesso baseado em índice. As técnicas centrais são o nó dummy (para simplificar casos de borda no início), o ponteiro rápido e lento (para encontrar pontos médios e detectar ciclos) e a inversão in-place (para rearranjar nós sem memória extra). Essas três técnicas cobrem a maioria dos problemas de lista ligada. Os problemas aqui também construem a intuição de ponteiros que você precisará quando trabalhar com árvores na próxima fase.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@DSA Linked Lists](https://www.w3schools.com/dsa/dsa_theory_linkedlists.php)
-- [@article@Understanding Linked Lists: A Beginner’s Guide](https://medium.com/@ogundipe.eniola/understanding-linked-lists-a-beginners-guide-a7ca6aa6ee04)
-- [@video@Learn Linked Lists in 13 minutes 🔗](https://www.youtube.com/watch?v=N6dOwBde7-M)
+- [@artigo@DSA Listas Ligadas](https://www.w3schools.com/dsa/dsa_theory_linkedlists.php)
+- [@artigo@Compreendendo Listas Ligadas: Um Guia Iniciante](https://medium.com/@ogundipe.eniola/understanding-linked-lists-a-beginners-guide-a7ca6aa6ee04)
+- [@vídeo@Aprenda Listas Ligadas em 13 minutos 🔗](https://www.youtube.com/watch?v=N6dOwBde7-M)

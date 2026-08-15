@@ -1,7 +1,7 @@
 # Go
 
-Go is a statically typed, compiled language designed for simplicity and performance. It is increasingly popular in backend and infrastructure roles and is commonly used at companies like Uber, Cloudflare, and Docker. Its syntax is minimal, and its concurrency model is distinctive, but for LeetCode purposes, what matters is its straightforward standard library and fast execution. Go does not have a built-in generic data structure library as rich as Java or C++, so you will sometimes need to implement things like heaps from scratch using the container/heap interface. It is a good choice if Go is your day-to-day language.
+Go é uma linguagem de programação estáticamente tipada e compilada, projetada para simplicidade e desempenho. É cada vez mais popular em papéis de back-end e infraestrutura e é comumente usado por empresas como Uber, Cloudflare e Docker. Sua sintaxe é minimalista e seu modelo de concorrência é distintivo, mas para o propósito do LeetCode, o que importa é sua biblioteca padrão direta e execução rápida. Go não tem uma biblioteca de estruturas de dados genéricas tão rica quanto a de Java ou C++, então às vezes você precisará implementar coisas como pilhas de forma bruta usando a interface container/heap. É uma boa escolha se Go for sua linguagem diária.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated Go Roadmap](https://roadmap.sh/golang)
+- [@roadmap@Visite o Caminho Dedidado em Go](https://roadmap.sh/golang)

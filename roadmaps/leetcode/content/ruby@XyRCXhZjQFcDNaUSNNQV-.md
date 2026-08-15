@@ -1,7 +1,7 @@
 # Ruby
 
-Ruby is an expressive, readable language with clean syntax and strong built-in enumerable methods that make array and hash manipulation concise. It is less common in technical interviews than Python, JavaScript, or Java, but it is a valid choice if you use it professionally and are comfortable with it. One practical consideration is that Ruby solutions on LeetCode are sometimes slower than equivalent solutions in compiled languages, which can occasionally cause timeout issues on harder problems. Use Ruby if it is your strongest language, but be aware of this limitation.
+Ruby é um idioma expressivo, legível com sintaxe limpa e métodos enumeráveis fortes que tornam a manipulação de arrays e hashes concisa. É menos comum em entrevistas técnicas do que Python, JavaScript ou Java, mas é uma escolha válida se você o usar profissionalmente e estiver confortável com ele. Um consideração prática é que as soluções em Ruby no LeetCode às vezes são mais lentas que soluções equivalentes em linguagens compiladas, o que pode ocasionalmente causar problemas de tempo limite em problemas mais difíceis. Use Ruby se for seu idioma mais forte, mas esteja ciente desta limitação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated Ruby Roadmap](https://roadmap.sh/ruby)
+- [@roadmap@Visite a Estrada Dedicada ao Ruby](https://roadmap.sh/ruby)

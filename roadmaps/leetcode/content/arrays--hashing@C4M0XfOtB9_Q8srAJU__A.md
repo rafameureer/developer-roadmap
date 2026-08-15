@@ -1,10 +1,10 @@
 # Arrays & Hashing
 
-Arrays and hash maps are the building blocks of almost every algorithm problem. Before learning any pattern, you need to be comfortable navigating an array and reaching for a hash map when you need fast lookups. Most problems in this stage are solved in one or two passes, and the main skill you are developing is recognizing when a hash map can replace a nested loop. If you find yourself thinking about checking membership or counting frequencies, a hash map is almost always the right tool.
+Arrays e hash maps são os blocos de construção de quase todos os problemas de algoritmo. Antes de aprender qualquer padrão, você precisa estar confortável navegando em um array e buscando um hash map quando precisar de pesquisas rápidas. A maioria dos problemas nesta fase é resolvida em uma ou duas passagens, e a principal habilidade que você está desenvolvendo é reconhecer quando um hash map pode substituir um loop aninhado. Se você encontrar-se pensando em verificar a pertencência ou contar frequências, um hash map é quase sempre a ferramenta certa.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@DSA Arrays](https://www.w3schools.com/dsa/dsa_data_arrays.php)
-- [@article@DSA Hash Tables](https://www.w3schools.com/dsa/dsa_theory_hashtables.php)
-- [@article@Learning Data Structures](https://medium.com/@ashissh.dev/learning-data-structures-arrays-and-hash-tables-6ced329a9189)
-- [@video@Ep.1 - Arrays & Hashing](https://www.youtube.com/watch?v=nET1jqI_Ntk)
+- [@artigo@DSA Arrays](https://www.w3schools.com/dsa/dsa_data_arrays.php)
+- [@artigo@DSA Hash Tables](https://www.w3schools.com/dsa/dsa_theory_hashtables.php)
+- [@artigo@Aprendendo Estruturas de Dados](https://medium.com/@ashissh.dev/learning-data-structures-arrays-and-hash-tables-6ced329a9189)
+- [@vídeo@Ep.1 - Arrays & Hashing](https://www.youtube.com/watch?v=nET1jqI_Ntk)

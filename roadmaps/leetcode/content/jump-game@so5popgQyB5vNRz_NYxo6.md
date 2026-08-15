@@ -1,9 +1,9 @@
-# Jump Game
+# Salto Jogo
 
-Given an array where each element is the maximum jump length from that position, determine if you can reach the last index. You track the furthest position reachable so far and update it at each step. This problem teaches you the core greedy insight: you never need to track which specific jumps you take, only how far you can reach.
+Dada uma matriz onde cada elemento é o comprimento máximo de salto a partir dessa posição, determine se você pode chegar ao último índice. Você rastreia a posição mais longe alcançável até agora e atualiza-a em cada passo. Este problema ensina a visão fundamental greedy: você nunca precisa rastrear quais saltos específicos você pega, apenas como longe você pode chegar.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Jump Game](https://leetcode.com/problems/jump-game/)
-- [@video@LeetCode 55. Jump Game (Algorithm Explained)](https://www.youtube.com/watch?v=Zb4eRjuPHbM)
-- [@video@Jump Game (LeetCode 55) | Full solution](https://www.youtube.com/watch?v=Gtugy3mRV-A)
+- [@artigo@Salto Jogo](https://leetcode.com/problems/jump-game/)
+- [@vídeo@LeetCode 55. Salto Jogo (Algoritmo Explicado)](https://www.youtube.com/watch?v=Zb4eRjuPHbM)
+- [@vídeo@Salto Jogo (LeetCode 55) | Solução Completa](https://www.youtube.com/watch?v=Gtugy3mRV-A)

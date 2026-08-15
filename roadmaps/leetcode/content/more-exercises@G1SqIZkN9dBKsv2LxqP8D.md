@@ -1,11 +1,11 @@
-# More Exercises
+# Mais Exercícios
 
-Below you can find other popular questions covering Backtracking. Work through these once you are comfortable with the five above.
+Abaixo você encontrará outras perguntas populares cobrindo Backtracking. Trabalhe nessas uma vez que esteja confortável com os cinco acima.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para saber mais:
 
-- [@article@Subsets II](https://leetcode.com/problems/subsets-ii/)
-- [@article@Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)
-- [@article@Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
-- [@article@Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
-- [@article@Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
+- [@artigo@Subconjuntos II](https://leetcode.com/problems/subsets-ii/)
+- [@artigo@Soma de Combinações II](https://leetcode.com/problems/combination-sum-ii/)
+- [@artigo@Particionamento Palíndromo](https://leetcode.com/problems/palindrome-partitioning/)
+- [@artigo@Combinações de Letras de um Telefone](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+- [@artigo@Resolver Sudoku](https://leetcode.com/problems/sudoku-solver/)

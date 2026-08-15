@@ -1,8 +1,8 @@
-# Binary Search
+# Busca Binária
 
-Given a sorted array and a target, return the index of the target or -1 if not found. You repeatedly halve the search space by comparing the middle element to the target. This is the simplest form of binary search and the one you must be able to write without mistakes before moving to harder variants.
+Dada uma matriz ordenada e um alvo, retorne o índice do alvo ou -1 se não encontrado. Você reduz repetidamente o espaço de pesquisa comparando o elemento do meio com o alvo. Este é o formulário mais simples da busca binária e o que você deve ser capaz de escrever sem erros antes de passar para variantes mais difíceis.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Binary Search](https://leetcode.com/problems/binary-search/)
-- [@video@Binary Search | Leet code 704 | Theory explained + Python code](https://www.youtube.com/watch?v=B7lMQIcIyN4)
+- [@artigo@Busca Binária](https://leetcode.com/problems/binary-search/)
+- [@vídeo@Busca Binária | Leet code 704 | Teoria explicada + Código em Python](https://www.youtube.com/watch?v=B7lMQIcIyN4)

@@ -1,9 +1,9 @@
-# Subsets
+# Subconjuntos
 
-Given an array of unique integers, return all possible subsets, including the empty set. You use backtracking to make a binary decision at each element: include it or skip it, building subsets recursively. This problem teaches the foundation of backtracking, the include/exclude decision tree that underpins all subset and combination problems.
+Dado um array de inteiros únicos, retorne todos os subconjuntos possíveis, incluindo o conjunto vazio. Você usa backtracking para fazer uma decisão binária em cada elemento: incluí-lo ou ignorá-lo, construindo subconjuntos recursivamente. Este problema ensina a base do backtracking, a árvore de decisão incluir/excluir que sustenta todos os problemas de subconjunto e combinação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Subsets](https://leetcode.com/problems/subsets/)
-- [@video@Subsets (LeetCode 78) | Full solution with backtracking examples](https://www.youtube.com/watch?v=3tpjp5h3M6Y)
-- [@video@Subsets - Leetcode 78 - Recursive Backtracking (Python)](https://www.youtube.com/watch?v=UP3dOYJa05s)
+- [@artigo@Subconjuntos](https://leetcode.com/problems/subsets/)
+- [@vídeo@Subconjuntos (LeetCode 78) | Solução completa com exemplos de backtracking](https://www.youtube.com/watch?v=3tpjp5h3M6Y)
+- [@vídeo@Subconjuntos - Leetcode 78 - Backtracking Recursivo (Python)](https://www.youtube.com/watch?v=UP3dOYJa05s)

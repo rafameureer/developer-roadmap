@@ -1,9 +1,9 @@
-# Meeting Rooms
+# Salas de Reunião
 
-Given a list of meeting time intervals, determine if a person can attend all of them. You sort by start time and check if any meeting starts before the previous one ends. This is the simplest interval problem and teaches you that sorted order plus a single-pass scan resolves most interval overlap questions instantly.
+Dada uma lista de intervalos de tempo de reuniões, determine se uma pessoa pode participar de todas elas. Você ordena por hora de início e verifica se qualquer reunião começa antes que a anterior termine. Este é o problema mais simples de intervalo e ensina que a ordem ordenada mais uma passagem única resolvem a maioria das perguntas sobre sobreposição de intervalos instantaneamente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)
-- [@video@Meeting Rooms - LeetCode 252 Python](https://www.youtube.com/watch?v=XI9L0HDl-No)
-- [@video@Leetcode Premium - Intervals Interview Question](https://www.youtube.com/watch?v=5nqLIwo0oC0)
+- [@artigo@Salas de Reunião](https://leetcode.com/problems/meeting-rooms/)
+- [@vídeo@Salas de Reunião - LeetCode 252 Python](https://www.youtube.com/watch?v=XI9L0HDl-No)
+- [@vídeo@Leetcode Premium - Questão de Intervalo de Entrevista](https://www.youtube.com/watch?v=5nqLIwo0oC0)

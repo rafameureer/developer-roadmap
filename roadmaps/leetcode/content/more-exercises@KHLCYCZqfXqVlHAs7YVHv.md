@@ -1,11 +1,11 @@
-# More Exercises
+# Mais Exercícios
 
-Below you can find other popular questions covering Greedy. Work through these once you are comfortable with the five above.
+Abaixo você encontrará outras perguntas populares cobrindo Greedy. Trabalhe nessas uma vez que esteja confortável com os cinco acima.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para saber mais:
 
-- [@article@Hand of Straights](https://leetcode.com/problems/hand-of-straights/)
-- [@article@Merge Triplets to Form Target Triplet](https://leetcode.com/problems/merge-triplets-to-form-a-target-triplet/)
-- [@article@Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)
-- [@article@Candy](https://leetcode.com/problems/candy/)
-- [@article@IPO](https://leetcode.com/problems/ipo/)
+- [@artigo@Mão de Sequência](https://leetcode.com/problems/hand-of-straights/)
+- [@artigo@Mesclar Tripletos para Formar Triângulo Alvo](https://leetcode.com/problems/merge-triplets-to-form-a-target-triplet/)
+- [@artigo@String de Parênteses Válida](https://leetcode.com/problems/valid-parenthesis-string/)
+- [@artigo@Distribuição de Sweets](https://leetcode.com/problems/candy/)
+- [@artigo@IPO](https://leetcode.com/problems/ipo/)

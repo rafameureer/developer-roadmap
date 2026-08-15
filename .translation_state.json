@@ -4480,7 +4480,133 @@
     "roadmaps/laravel/content/views@PipmRcDfvwRYNLe9VMbeU.md",
     "roadmaps/laravel/content/what-is-laravel@QvWjQUrEYX9NRbzdm3Fvp.md",
     "roadmaps/laravel/content/why-web-frameworks@8wOQ-Kmz3dBlOKMg-ui5D.md",
-    "roadmaps/laravel/content/with-starter-kits@-yacHIWQ5Oylia9e0pJXT.md"
+    "roadmaps/laravel/content/with-starter-kits@-yacHIWQ5Oylia9e0pJXT.md",
+    "roadmaps/leetcode/content/1-d-dynamic-programming@sRU06JyWqwCnRDYEAV53L.md",
+    "roadmaps/leetcode/content/2-d-dynamic-programming@sXyW3ZAURJUze8_g9PvwW.md",
+    "roadmaps/leetcode/content/3sum@yis4-_D0GREukouiRcCwC.md",
+    "roadmaps/leetcode/content/advanced-graphs@jNYQFvR3IafFXbAQHL4bF.md",
+    "roadmaps/leetcode/content/arrays--hashing@C4M0XfOtB9_Q8srAJU__A.md",
+    "roadmaps/leetcode/content/backtracking@gEZFGJPq0JFjpRwl3z3XK.md",
+    "roadmaps/leetcode/content/best-time-to-buy-and-sell@K7qTp-hRmxxVLYvr4ftr7.md",
+    "roadmaps/leetcode/content/binary-search@OkNQABVymkpxvHE7gVids.md",
+    "roadmaps/leetcode/content/binary-search@kxvOWb6wyF8GWarP6jrqK.md",
+    "roadmaps/leetcode/content/binary-tree-level-order@7ac9oA-reXh7xFHj3LRX0.md",
+    "roadmaps/leetcode/content/binary-tree-maximum-path-sum@5htwCuI4Dz_G2ar1enQZv.md",
+    "roadmaps/leetcode/content/bit-manipulation@VIXFdmkwl9vw6LyxxoT74.md",
+    "roadmaps/leetcode/content/burst-balloons@ImPbL26vNvxvPm4Kg5Vpl.md",
+    "roadmaps/leetcode/content/c@IWmq4UFB5j6O3UJfarh1u.md",
+    "roadmaps/leetcode/content/character-replacement@aLQVocF91X1-IrTP7Vb_b.md",
+    "roadmaps/leetcode/content/cheapest-flights-within-k-stops@ijY7CmX7wD5uP_6WwO97H.md",
+    "roadmaps/leetcode/content/climbing-stairs@bXcvRnpO1aVN8XLLTSghB.md",
+    "roadmaps/leetcode/content/clone-graph@WO238sUhvIiZHdLF6Kmfl.md",
+    "roadmaps/leetcode/content/coin-change@WtOHLWoHNkE9JdxtmBlwC.md",
+    "roadmaps/leetcode/content/combination-sum@P0ODrjdYJGSHvn02sjWIe.md",
+    "roadmaps/leetcode/content/container-with-most-water@YxfJQl5bHYnhryt9RooV0.md",
+    "roadmaps/leetcode/content/contains-duplicate@_wCmBewDz7Qb21u8HSZtp.md",
+    "roadmaps/leetcode/content/counting-bits@jZscKonByp5QDMcXUA50W.md",
+    "roadmaps/leetcode/content/course-schedule@CLOI_M9A3D1UFavCYKCSE.md",
+    "roadmaps/leetcode/content/daily-temperatures@pMCIlFk-XfN91VNYtWjXq.md",
+    "roadmaps/leetcode/content/design-add-and-search-words@xRqfE6liWrkLOVqqkXtjy.md",
+    "roadmaps/leetcode/content/edit-distance@xemUw3R72U4hvgHSOcaMg.md",
+    "roadmaps/leetcode/content/find-median-from-data-stream@CJ8Hk6XfXuLHmBO6xdUv6.md",
+    "roadmaps/leetcode/content/gas-station@UWJLu3cfCGo487MOeu63T.md",
+    "roadmaps/leetcode/content/generate-parentheses@-dW4-xzasJY2CrwS2PyhN.md",
+    "roadmaps/leetcode/content/go@OkdM_PJge70j5tsjT2Esl.md",
+    "roadmaps/leetcode/content/graphs@ssT7KZITndEvfyqmjeclx.md",
+    "roadmaps/leetcode/content/greedy@MU6i1n0KKiAU_FkBTB3hW.md",
+    "roadmaps/leetcode/content/group-anagrams@p7_B-NIBlqyKzR2PkrVWC.md",
+    "roadmaps/leetcode/content/happy-number@VVB6zLZG6IxB4LQg8jIYT.md",
+    "roadmaps/leetcode/content/heap--priority-queue@mvcSC0kFiD0AT5a2ffU5l.md",
+    "roadmaps/leetcode/content/intervals@zHDAHN1gN5Ofx2eyQg5_7.md",
+    "roadmaps/leetcode/content/java@gjZZOwmYkXQHPfg9Ynz80.md",
+    "roadmaps/leetcode/content/javascript@HVD9G3JlLBsAg111vQILj.md",
+    "roadmaps/leetcode/content/jump-game-ii@gJ1O1H12KoNejTV_q0dsf.md",
+    "roadmaps/leetcode/content/jump-game@so5popgQyB5vNRz_NYxo6.md",
+    "roadmaps/leetcode/content/k-closest-points-to-origin@iou03PtccY58DXKHARz_P.md",
+    "roadmaps/leetcode/content/koko-eating-bananas@wyU9wyyQ54KgMeRsbS9AM.md",
+    "roadmaps/leetcode/content/kth-largest-element-in-an-array@tMvbBpZDawi2RjSFgOaWc.md",
+    "roadmaps/leetcode/content/largest-rectangle-in-hist@zLM5eW7hZ7TrUzyNpvMyG.md",
+    "roadmaps/leetcode/content/linked-list-cycle@qAWeeYfvFD8-LTZgZ2LVa.md",
+    "roadmaps/leetcode/content/linked-list@lDT9PtNMP8lSdeH7EVBoH.md",
+    "roadmaps/leetcode/content/longest-common-prefix@8HrT_SZWMlscj13G0gIID.md",
+    "roadmaps/leetcode/content/longest-common-subsequence@iodbhwYOWDM5JTaaqG4-m.md",
+    "roadmaps/leetcode/content/longest-increasing-subsequ@h9yvrxDYEZ9mCqbeKoPEu.md",
+    "roadmaps/leetcode/content/lowest-common-ancestor@cHPRRjBTrznI6UBC-WQP6.md",
+    "roadmaps/leetcode/content/math--geometry@Rx59jh-ynzC5wRGja3jvg.md",
+    "roadmaps/leetcode/content/maximum-depth-of-binary-tree@3ny1naGanScRUAOv2IiYz.md",
+    "roadmaps/leetcode/content/median-of-two-arrays@kV9z7UQsYFMR6umo0fDM1.md",
+    "roadmaps/leetcode/content/meeting-rooms@9evXTNz1IVOnqWCQ7L5BW.md",
+    "roadmaps/leetcode/content/merge-intervals@JsjPXTe3Zp5E7vCWUMeSe.md",
+    "roadmaps/leetcode/content/merge-k-sorted-lists@EC2dVHYWqGnu_1HmBeAPT.md",
+    "roadmaps/leetcode/content/merge-k-sorted-lists@eHnN9thTtLPIUtz9Z28OL.md",
+    "roadmaps/leetcode/content/merge-two-sorted-lists@qEYz2Dj1hqLDBFWYX7XmE.md",
+    "roadmaps/leetcode/content/min-cost-to-connect-all-points@5NxA27PJ7_pN40xzd7Slp.md",
+    "roadmaps/leetcode/content/min-interval-to-include-query@eYPhWnyTPhfbXco_G4bN_.md",
+    "roadmaps/leetcode/content/min-stack@XjJhO0gX0Dw8yF09TnJwK.md",
+    "roadmaps/leetcode/content/minimum-in-rotated-array@XYTIX8oNH3qCmXjRbycDi.md",
+    "roadmaps/leetcode/content/minimum-window-substring@P7scdQHmNUPA6UI36yBtL.md",
+    "roadmaps/leetcode/content/more-excersises@0u8IQZvJV7ORHcBfUBQ7R.md",
+    "roadmaps/leetcode/content/more-excersises@2r0q7Gic8orJx2w28OH_I.md",
+    "roadmaps/leetcode/content/more-excersises@2vhZHAKoFeNoi1utHcPPw.md",
+    "roadmaps/leetcode/content/more-excersises@AMT2zQPDlKUm-d2vT1Sae.md",
+    "roadmaps/leetcode/content/more-excersises@EBqzxy-2FWK4FwHyNKVHP.md",
+    "roadmaps/leetcode/content/more-excersises@y-quVGz8J5Rmz2ixUFwBI.md",
+    "roadmaps/leetcode/content/more-exercises@0u8IQZvJV7ORHcBfUBQ7R.md",
+    "roadmaps/leetcode/content/more-exercises@2r0q7Gic8orJx2w28OH_I.md",
+    "roadmaps/leetcode/content/more-exercises@2vhZHAKoFeNoi1utHcPPw.md",
+    "roadmaps/leetcode/content/more-exercises@AMT2zQPDlKUm-d2vT1Sae.md",
+    "roadmaps/leetcode/content/more-exercises@EBqzxy-2FWK4FwHyNKVHP.md",
+    "roadmaps/leetcode/content/more-exercises@G1SqIZkN9dBKsv2LxqP8D.md",
+    "roadmaps/leetcode/content/more-exercises@JtV6pQzvcXFoNG01tx9pq.md",
+    "roadmaps/leetcode/content/more-exercises@KHLCYCZqfXqVlHAs7YVHv.md",
+    "roadmaps/leetcode/content/more-exercises@NFOzXHoSHj1_2_isVifsY.md",
+    "roadmaps/leetcode/content/more-exercises@Q-vNw7YUh-4U6im7nrHe8.md",
+    "roadmaps/leetcode/content/more-exercises@Q0AxfKbRuyY5rY2pO5xcP.md",
+    "roadmaps/leetcode/content/more-exercises@Ur6eSm0t-jQD2j710Vc89.md",
+    "roadmaps/leetcode/content/more-exercises@VpquOgXr8OG_jLkeDSk3H.md",
+    "roadmaps/leetcode/content/more-exercises@XjViEOLzyd_BK9dhgNtdK.md",
+    "roadmaps/leetcode/content/more-exercises@awYK5VUD2HS9ywJQfFYU7.md",
+    "roadmaps/leetcode/content/more-exercises@i4A57jKrkhlw-jW3i3HSi.md",
+    "roadmaps/leetcode/content/more-exercises@licG83FALxf4jPOV7v_an.md",
+    "roadmaps/leetcode/content/non-overlapping-intervals@Mc1jQ5_-trqgCckM23cjQ.md",
+    "roadmaps/leetcode/content/non-overlapping-intervals@k0XOp6P-EIyRKrSbsgr0w.md",
+    "roadmaps/leetcode/content/number-of-1-bits@XzQHEP8HYq_vYFWLon4rI.md",
+    "roadmaps/leetcode/content/number-of-islands@LInRfygQmBDTFbezzM97o.md",
+    "roadmaps/leetcode/content/pacific-atlantic-water-flow@mhSb4eQV970bLlOfFg84p.md",
+    "roadmaps/leetcode/content/partition-labels@V7pvMzno_woUHHSfLTv7q.md",
+    "roadmaps/leetcode/content/powx-n@ea7dib41v61Vz--ewLcF4.md",
+    "roadmaps/leetcode/content/python@BZvNEZjCNuHPg5SkX90bt.md",
+    "roadmaps/leetcode/content/reconstruct-itinerary@Edk5ydpwut57XDc08QEgc.md",
+    "roadmaps/leetcode/content/regular-expression-matching@XTDdSFywX863IErL0rmc6.md",
+    "roadmaps/leetcode/content/reorder-list@FYgKuhnZ20g6-v4UrQDJc.md",
+    "roadmaps/leetcode/content/replace-words@IINhLJ2evjsS_v2DH3AA1.md",
+    "roadmaps/leetcode/content/reverse-bits@KHR39YdCVeSGJtHrcLJyT.md",
+    "roadmaps/leetcode/content/reverse-linked-list@0P0VTUhQxWj0BGygtuKYJ.md",
+    "roadmaps/leetcode/content/rotate-image@P9U_DFbutAYwQGZjjf-oP.md",
+    "roadmaps/leetcode/content/ruby@XyRCXhZjQFcDNaUSNNQV-.md",
+    "roadmaps/leetcode/content/rust@9h1mz0xAUvPrnRm9VndJF.md",
+    "roadmaps/leetcode/content/scala@acgRMEuL4ZGGRHpZ7kXSo.md",
+    "roadmaps/leetcode/content/search-in-rotated-array@aDKtHMczSpCIT-ST0irRa.md",
+    "roadmaps/leetcode/content/sliding-window-maximum@zIpM4hiGUSXwkokZFRzSB.md",
+    "roadmaps/leetcode/content/sliding-window@1boDzMfojddbf1ZwzOvEV.md",
+    "roadmaps/leetcode/content/spiral-matrix@H6lLJWRhjRVq5ZqKEJ8bL.md",
+    "roadmaps/leetcode/content/stacks@Ovs61JkceGbWV3BfUo4Ra.md",
+    "roadmaps/leetcode/content/subsets@2AfJtRru4gll77Vl-6IJM.md",
+    "roadmaps/leetcode/content/substring-without-repetition@wnHn7ooWZSUfk3HahuyG6.md",
+    "roadmaps/leetcode/content/top-k-frequent-elements@-RjNtskTl7CZYWUpQ6YPh.md",
+    "roadmaps/leetcode/content/trapping-rain-water@GuWseHiGMKbBqkYKrZNuT.md",
+    "roadmaps/leetcode/content/trees@PQ31G4_7Y5K6D34hVRyRK.md",
+    "roadmaps/leetcode/content/tries@dmY-zE1Lql_HfTnhMfKMV.md",
+    "roadmaps/leetcode/content/two-pointers@NHv86YI2-MSH8BkfUsaEx.md",
+    "roadmaps/leetcode/content/two-sum-ii@vTpv8AliKFv0Sf13PmVCo.md",
+    "roadmaps/leetcode/content/two-sum@XbfUbWaGtpcEGa31QyrXN.md",
+    "roadmaps/leetcode/content/unique-paths@xhEBSwgHsrCQolM9UvJ-c.md",
+    "roadmaps/leetcode/content/valid-anagram@iqR33GoIxK-CJdbatQqg3.md",
+    "roadmaps/leetcode/content/what-is-leetcode@DUZWC157r-xhcJZ__p8wQ.md",
+    "roadmaps/leetcode/content/word-break@1i59D4ME10oOkxthILaNP.md",
+    "roadmaps/leetcode/content/word-ladder@J8YZFOS2sVwILJWdUphIU.md",
+    "roadmaps/leetcode/content/word-search-ii@46Y-wvaUJZwd32mRqrRix.md",
+    "roadmaps/leetcode/content/word-search@boJmdiyIgbV61MDKsB-k-.md"
   ],
   "completed_roadmaps": [
     "frontend-beginner",
@@ -4533,7 +4659,8 @@
     "javascript",
     "kotlin",
     "kubernetes",
-    "laravel"
+    "laravel",
+    "leetcode"
   ],
   "flagged_issues": [
     {
@@ -10200,8 +10327,153 @@
       "file": "roadmaps/laravel/content/livewire@5A0DGzGXXBHQTRuzWEkuW.md",
       "reason": "Falha na tradução automática após tentativas no Ollama",
       "timestamp": "2026-08-15T08:58:31.923150"
+    },
+    {
+      "file": "roadmaps/leetcode/content/house-robber@GeLGoM3ocxZ-gjMUes4sE.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T09:06:28.498284"
+    },
+    {
+      "file": "roadmaps/leetcode/content/implement-trie@_zumaNoKiaD4zS3wntAsd.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T09:06:32.487269"
+    },
+    {
+      "file": "roadmaps/leetcode/content/insert-interval@BhiAYH1ug08LnPH8DtR1D.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T09:06:36.701756"
+    },
+    {
+      "file": "roadmaps/leetcode/content/more-excersises@G1SqIZkN9dBKsv2LxqP8D.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T09:09:22.863918"
+    },
+    {
+      "file": "roadmaps/leetcode/content/more-excersises@JtV6pQzvcXFoNG01tx9pq.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T09:09:26.311516"
+    },
+    {
+      "file": "roadmaps/leetcode/content/more-excersises@KHLCYCZqfXqVlHAs7YVHv.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T09:09:29.665724"
+    },
+    {
+      "file": "roadmaps/leetcode/content/more-excersises@NFOzXHoSHj1_2_isVifsY.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T09:09:44.094705"
+    },
+    {
+      "file": "roadmaps/leetcode/content/more-excersises@Q-vNw7YUh-4U6im7nrHe8.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T09:09:47.377489"
+    },
+    {
+      "file": "roadmaps/leetcode/content/more-excersises@Q0AxfKbRuyY5rY2pO5xcP.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T09:09:50.875324"
+    },
+    {
+      "file": "roadmaps/leetcode/content/more-excersises@Ur6eSm0t-jQD2j710Vc89.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T09:10:06.058392"
+    },
+    {
+      "file": "roadmaps/leetcode/content/more-excersises@VpquOgXr8OG_jLkeDSk3H.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T09:10:09.483387"
+    },
+    {
+      "file": "roadmaps/leetcode/content/more-excersises@XjViEOLzyd_BK9dhgNtdK.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T09:10:13.288361"
+    },
+    {
+      "file": "roadmaps/leetcode/content/more-excersises@awYK5VUD2HS9ywJQfFYU7.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T09:10:28.543775"
+    },
+    {
+      "file": "roadmaps/leetcode/content/more-excersises@i4A57jKrkhlw-jW3i3HSi.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T09:10:32.697706"
+    },
+    {
+      "file": "roadmaps/leetcode/content/more-excersises@licG83FALxf4jPOV7v_an.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T09:10:36.205739"
+    },
+    {
+      "file": "roadmaps/leetcode/content/more-exercises@y-quVGz8J5Rmz2ixUFwBI.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T09:12:04.095905"
+    },
+    {
+      "file": "roadmaps/leetcode/content/n-queens@fBtsnKP5n3WBjMycwIfir.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T09:12:08.166409"
+    },
+    {
+      "file": "roadmaps/leetcode/content/network-delay-time@zSqCHDbPvWsDRtEURoVNK.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T09:12:12.699668"
+    },
+    {
+      "file": "roadmaps/leetcode/content/permutations@-9-5g5Qyb3JiSwEfabmRD.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T09:13:00.129284"
+    },
+    {
+      "file": "roadmaps/leetcode/content/pick-a-language@SKsKYHmpPBjG9tHHFbTLI.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T09:13:03.479104"
+    },
+    {
+      "file": "roadmaps/leetcode/content/serialize-and-deserialize@DH3ZU-8q765Kjm7SIu_qP.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T09:14:11.721743"
+    },
+    {
+      "file": "roadmaps/leetcode/content/set-matrix-zeroes@ScROycnqOk2U2GW-Ghy2W.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T09:14:16.026872"
+    },
+    {
+      "file": "roadmaps/leetcode/content/single-number@4UGevGjQBhbISeh_5bm_e.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T09:14:20.334640"
+    },
+    {
+      "file": "roadmaps/leetcode/content/sum-of-two-integers@cUgRS-8TyPT98LemGFBf3.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T09:15:06.070787"
+    },
+    {
+      "file": "roadmaps/leetcode/content/swim-in-rising-water@0x9RwyrxbUZj30e-tMdWP.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T09:15:10.668481"
+    },
+    {
+      "file": "roadmaps/leetcode/content/task-scheduler@HLTc2xupm-CNM9rgzrcwS.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T09:15:15.240531"
+    },
+    {
+      "file": "roadmaps/leetcode/content/valid-palindrome@x6-LRp_zgv3WNE-gsS3Cw.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T09:16:18.187773"
+    },
+    {
+      "file": "roadmaps/leetcode/content/valid-parentheses@YNt85B--HBS2IKDFVLJpx.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T09:16:22.925362"
+    },
+    {
+      "file": "roadmaps/leetcode/content/what-are-coding-patterns@ScTtg57POE0kxlZFxYUCs.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T09:16:27.465079"
     }
   ],
-  "last_updated": "2026-08-15T09:03:12.185930",
+  "last_updated": "2026-08-15T09:16:50.742896",
   "total_translated_count": 54
 }

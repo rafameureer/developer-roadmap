@@ -1,8 +1,8 @@
-# Graphs
+# Gráficos
 
-Graphs generalize trees by allowing arbitrary connections and cycles. The two core traversal techniques, DFS and BFS, work on graphs the same way they do on trees, but you must now track visited nodes explicitly to avoid infinite loops. This stage covers the main graph problem types: counting connected components, detecting cycles, finding shortest paths in unweighted graphs, and topological ordering of dependencies. Grids are also implicit graphs, where each cell is a node and adjacency is defined by its four neighbors. Most graph problems reduce to one of these patterns once you recognize the structure.
+Os gráficos generalizam as árvores permitindo conexões e ciclos arbitrários. As duas técnicas de varredura principais, DFS (Busca em Profundidade) e BFS (Busca em Largura), funcionam nos gráficos da mesma forma que nas árvores, mas agora você deve rastrear explicitamente os nós visitados para evitar loops infinitos. Esta fase cobre os tipos principais de problemas de gráfico: contagem de componentes conectados, detecção de ciclos, encontro de caminhos mais curtos em grafos não pesados e ordenação topológica de dependências. Grids também são gráficos implícitos, onde cada célula é um nó e a adjacência é definida por seus quatro vizinhos. A maioria dos problemas de gráfico reduz-se a um desses padrões uma vez que você reconhece a estrutura.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Graphs DSA](https://www.w3schools.com/dsa/dsa_theory_graphs.php)
-- [@video@Learn Graphs in 5 minutes 🌐](https://www.youtube.com/watch?v=-VgHk7UMPP4)
+- [@article@Gráficos DSA](https://www.w3schools.com/dsa/dsa_theory_graphs.php)
+- [@video@Aprenda Gráficos em 5 minutos 🌐](https://www.youtube.com/watch?v=-VgHk7UMPP4)

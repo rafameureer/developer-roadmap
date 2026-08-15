@@ -1,9 +1,9 @@
-# Lowest Common Ancestor of a BST
+# Ancestral Comum mais Baixo de um BST
 
-Given a BST and two nodes, find their lowest common ancestor. Because it is a BST, you can use the values to decide whether to go left, right, or stop: the ancestor is where the two nodes diverge. This problem teaches you to exploit BST ordering as a navigation tool, rather than doing a general tree search.
+Dado um BST e dois nós, encontre seu ancestral comum mais baixo. Como é um BST, você pode usar os valores para decidir se ir à esquerda, à direita ou parar: o ancestral é onde as duas nós divergem. Este problema ensina a você como aproveitar a ordem do BST como uma ferramenta de navegação, em vez de fazer uma pesquisa geral em árvores.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Lowest Common Ancestor of a BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
-- [@video@LOWEST COMMON ANCESTOR OF A BINARY TREE I](https://www.youtube.com/watch?v=WO1tfq2sbsI)
-- [@video@Lowest Common Ancestor of a Binary Search Tree](https://www.youtube.com/watch?v=r6AXIfdi9oQ)
+- [@artigo@Ancestral Comum mais Baixo de um BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+- [@vídeo@ANCESTRAL COMUM MAIS BAIXO DE UMA ÁRVORE BINÁRIA I](https://www.youtube.com/watch?v=WO1tfq2sbsI)
+- [@vídeo@Ancestral Comum mais Baixo de um BST](https://www.youtube.com/watch?v=r6AXIfdi9oQ)

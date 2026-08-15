@@ -1,9 +1,9 @@
-# Longest Common Subsequence
+# Sequência Comum Mais Longa
 
-Given two strings, find the length of their longest common subsequence. If characters match, you extend the LCS from the diagonal; otherwise you take the best from dropping one character in either string. This is the canonical 2D DP problem and teaches you how a 2D table captures the relationship between two sequences simultaneously.
+Dadas duas strings, encontre o comprimento da sua sequência comum mais longa. Se os caracteres correspondem, você estende a LCS da diagonal; caso contrário, você pega o melhor resultado ao remover um caractere em qualquer uma das strings. Este é o problema canônico de DP 2D e ensina como uma tabela 2D captura a relação entre duas sequências simultaneamente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
-- [@video@Longest Common Subsequence (LeetCode 1143)](https://www.youtube.com/watch?v=e9tUPwZZSBI)
-- [@video@Longest Common Subsequence Problem Visually Explained](https://www.youtube.com/watch?v=4ClOkX0SWW4)
+- [@artigo@Sequência Comum Mais Longa](https://leetcode.com/problems/longest-common-subsequence/)
+- [@vídeo@Sequência Comum Mais Longa (LeetCode 1143)](https://www.youtube.com/watch?v=e9tUPwZZSBI)
+- [@vídeo@Problema de Sequência Comum Mais Longa Explicado Visualmente](https://www.youtube.com/watch?v=4ClOkX0SWW4)

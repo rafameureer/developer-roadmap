@@ -1,7 +1,7 @@
 # Java
 
-Java is one of the most commonly used interview languages, especially at large companies with backend and enterprise codebases. Its type system is verbose but explicit, and the standard library is comprehensive with well-documented data structures including priority queues, linked lists, and tree maps. Java forces you to think about types and interfaces clearly, which can actually help structure your thinking on harder problems. The main downside for interview prep is boilerplate: simple operations require more lines than in Python or Ruby. If Java is your primary language, it is a strong and widely accepted choice.
+Java é um dos idiomas mais comumente usados em entrevistas, especialmente em grandes empresas com códigos de backend e base de código empresarial. Seu sistema de tipos é verboso, mas explícito, e a biblioteca padrão é abrangente, incluindo estruturas de dados bem documentadas como filas de prioridade, listas encadeadas e mapas de árvores. Java obriga você a pensar em tipos e interfaces claramente, o que na verdade pode ajudar a estruturar seu pensamento em problemas mais difíceis. A principal desvantagem para a preparação de entrevistas é o boilerplate: operações simples requerem mais linhas do que em Python ou Ruby. Se Java for seu idioma principal, ele é uma escolha forte e amplamente aceita.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated Java Roadmap](https://roadmap.sh/java)
+- [@rota@Visite a Rotação Específica de Java](https://roadmap.sh/java)

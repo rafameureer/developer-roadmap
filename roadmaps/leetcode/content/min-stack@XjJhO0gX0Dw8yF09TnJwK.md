@@ -1,9 +1,9 @@
-# Min Stack
+# Pilha Mínima
 
-Design a stack that supports push, pop, top, and retrieving the minimum element, all in O(1) time. The trick is to maintain a second stack that tracks the current minimum at each level. This problem teaches you that stacks can be augmented to carry extra state without breaking their core behavior.
+Projete uma pilha que suporte push, pop, top e recuperar o elemento mínimo, todos em O(1) tempo. A dica é manter uma segunda pilha que rastreia o valor mínimo atual em cada nível. Este problema ensina você que as pilhas podem ser aumentadas para carregar um estado extra sem quebrar seu comportamento básico.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Min Stack - LeetCode](https://leetcode.com/problems/min-stack/description/)
-- [@video@Min Stack (LeetCode 155)](https://www.youtube.com/watch?v=lkYzexIVlOY)
-- [@video@Min Stack - Leetcode 155 - Stacks (Python)](https://www.youtube.com/watch?v=RfMroCV17-4)
+- [@artigo@Pilha Mínima - LeetCode](https://leetcode.com/problems/min-stack/description/)
+- [@vídeo@Pilha Mínima (LeetCode 155)](https://www.youtube.com/watch?v=lkYzexIVlOY)
+- [@vídeo@Pilha Mínima - Leetcode 155 - Pilhas (Python)](https://www.youtube.com/watch?v=RfMroCV17-4)

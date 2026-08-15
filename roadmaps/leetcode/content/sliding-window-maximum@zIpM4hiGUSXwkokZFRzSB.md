@@ -1,9 +1,9 @@
-# Sliding Window Maximum
+# Máximo da Janela Deslizante
 
-Given an array and a window size k, return the maximum value in each window. A monotonic deque stores indices in decreasing order of value, so the front is always the current maximum. This problem teaches you the monotonic deque, which gives O(n) window max where a heap would give O(n log n).
+Dado um array e um tamanho de janela k, retorne o valor máximo em cada janela. Uma deque monótona armazena índices em ordem decrescente de valor, então a frente sempre é o valor atual máximo. Este problema ensina você a deque monótona, que dá uma complexidade O(n) para o máximo da janela onde uma heap daria O(n log n).
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
-- [@video@Sliding Window Maximum (LeetCode 239)](https://www.youtube.com/watch?v=WcTMo1SHV_s)
-- [@video@Sliding Window Maximum: Efficient  Solution](https://www.youtube.com/watch?v=5VjQD62gOYA)
+- [@artigo@Máximo da Janela Deslizante](https://leetcode.com/problems/sliding-window-maximum/)
+- [@vídeo@Máximo da Janela Deslizante (LeetCode 239)](https://www.youtube.com/watch?v=WcTMo1SHV_s)
+- [@vídeo@Máximo da Janela Deslizante: Solução Eficiente](https://www.youtube.com/watch?v=5VjQD62gOYA)

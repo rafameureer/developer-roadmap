@@ -1,11 +1,11 @@
-# More Exercises
+# Mais Exercícios
 
-Below you can find other popular questions covering Bit Manipulation. Work through these once you are comfortable with the five above.
+Abaixo você encontrará outras perguntas populares cobrindo Manipulação de Bits. Trabalhe nessas uma vez que esteja confortável com as cinco anteriores.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@article@Missing Number](https://leetcode.com/problems/missing-number/)
-- [@article@Reverse Integer](https://leetcode.com/problems/reverse-integer/)
-- [@article@Power of Two](https://leetcode.com/problems/power-of-two/)
-- [@article@Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)
-- [@article@Single Number II](https://leetcode.com/problems/single-number-ii/)
+- [@artigo@Número Faltante](https://leetcode.com/problems/missing-number/)
+- [@artigo@Inteiro Invertido](https://leetcode.com/problems/reverse-integer/)
+- [@artigo@Potência de Dois](https://leetcode.com/problems/power-of-two/)
+- [@artigo@AND Bitwise de Números no Intervalo](https://leetcode.com/problems/bitwise-and-of-numbers-range/)
+- [@artigo@Número Único II](https://leetcode.com/problems/single-number-ii/)

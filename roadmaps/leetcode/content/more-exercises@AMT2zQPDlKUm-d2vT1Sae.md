@@ -1,11 +1,11 @@
-# More Exercises
+# Mais Exercícios
 
-Below you can find other popular questions covering Sliding Window. Work through these once you are comfortable with the five above.
+Abaixo você encontrará outras perguntas populares cobrindo Janela Deslizante. Resolva essas questões uma vez que esteja confortável com as cinco anteriores.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@article@Permutation in String](https://leetcode.com/problems/permutation-in-string/)
-- [@article@Fruits into Baskets](https://leetcode.com/problems/fruit-into-baskets/)
-- [@article@Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
-- [@article@Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)
-- [@article@Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)
+- [@artigo@Permutação em String](https://leetcode.com/problems/permutation-in-string/)
+- [@artigo@Frutas em Bacia](https://leetcode.com/problems/fruit-into-baskets/)
+- [@artigo@Tamanho Mínimo do Subarray com Soma](https://leetcode.com/problems/minimum-size-subarray-sum/)
+- [@artigo@Produto de Subarray Menor que K](https://leetcode.com/problems/subarray-product-less-than-k/)
+- [@artigo@Máximo Número Consecutivo III](https://leetcode.com/problems/max-consecutive-ones-iii/)

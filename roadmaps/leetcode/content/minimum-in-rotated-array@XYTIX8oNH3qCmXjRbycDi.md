@@ -1,9 +1,9 @@
-# Find Minimum in Rotated Sorted Array
+# Encontrar o Mínimo em um Array Rotacionado
 
-Given a rotated sorted array, find the minimum element in O(log n). The minimum is always at the rotation point, and you can locate it by checking which half is sorted and narrowing toward the unsorted side. This problem teaches you to think about what binary search is really doing: eliminating halves, not just finding a value.
+Dado um array rotacionado ordenado, encontre o elemento mínimo em O(log n). O mínimo sempre está no ponto de rotação e você pode localizá-lo verificando qual metade está ordenada e se aproximando da metade não ordenada. Este problema ensina você a pensar sobre o que binário busca realmente está fazendo: eliminando metades, não apenas encontrando um valor.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
-- [@video@LeetCode 153. Find Minimum in Rotated Sorted Array](https://www.youtube.com/watch?v=IzHR_U8Ly6c)
-- [@video@Find Minimum in Rotated Sorted Array](https://www.youtube.com/watch?v=H2U24n4bcQQ)
+- [@artigo@Encontrar o Mínimo em um Array Rotacionado](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+- [@vídeo@LeetCode 153. Encontrar o Mínimo em um Array Rotacionado](https://www.youtube.com/watch?v=IzHR_U8Ly6c)
+- [@vídeo@Encontrar o Mínimo em um Array Rotacionado](https://www.youtube.com/watch?v=H2U24n4bcQQ)

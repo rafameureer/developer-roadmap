@@ -1,9 +1,9 @@
-# Maximum Depth of Binary Tree
+# Profundidade Máxima de Árvore Binária
 
-Given a binary tree, return its maximum depth, meaning the number of nodes along the longest root-to-leaf path. You recursively compute the depth of left and right subtrees and return one plus the greater. This is the simplest tree DFS problem and teaches you to think about trees recursively: a tree's depth is defined in terms of its subtrees' depths.
+Dada uma árvore binária, retorne sua profundidade máxima, o que significa o número de nós ao longo do caminho raiz-folha mais longo. Você computa recursivamente a profundidade dos subárvores esquerda e direita e retorna um mais o maior. Este é o problema de DFS de árvore mais simples e ensina você a pensar em árvores de forma recursiva: a profundidade de uma árvore é definida em termos das profundidades de suas subárvores.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
-- [@video@LeetCode 104: Maximum Depth of Binary Tree | Recursive DFS](https://www.youtube.com/watch?v=p-eMCRpvbIY)
-- [@video@Maximum Depth of Binary Tree - Leetcode 104 - Trees (Python)](https://www.youtube.com/watch?v=ScvTcU2Aifs)
+- [@artigo@Profundidade Máxima de Árvore Binária](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+- [@vídeo@LeetCode 104: Profundidade Máxima de Árvore Binária | DFS Recursivo](https://www.youtube.com/watch?v=p-eMCRpvbIY)
+- [@vídeo@Profundidade Máxima de Árvore Binária - Leetcode 104 - Árvores (Python)](https://www.youtube.com/watch?v=ScvTcU2Aifs)

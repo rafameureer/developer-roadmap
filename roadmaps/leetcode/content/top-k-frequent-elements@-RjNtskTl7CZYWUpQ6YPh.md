@@ -1,8 +1,8 @@
-# Top K Frequent Elements
+# Top K Elementos Frequentes
 
-Given an array and a number k, return the k most frequent elements. You could sort by frequency, but the optimal approach uses bucket sort. Since no element can appear more times than the length of the array, you can create buckets indexed by frequency and scan from the top. This problem bridges hash maps and sorting, and introduces the idea that the constraints of a problem often suggest a faster algorithm.
+Dado um array e um número k, retorne os k elementos mais frequentes. Você poderia ordenar por frequência, mas o método ótimo usa classificação em caixas. Como nenhum elemento pode aparecer mais vezes do que a comprimento do array, você pode criar caixas indexadas pela frequência e percorrer de cima para baixo. Este problema conecta mapas de hash e classificação, introduzindo a ideia de que as restrições de um problema muitas vezes sugerem um algoritmo mais rápido.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Top K Frequent Elements - LeetCode](https://leetcode.com/problems/top-k-frequent-elements/description/)
-- [@video@Top K Elements in 6 minutes](https://www.youtube.com/watch?v=6_v6OoxvMOE)
+- [@artigo@Top K Elementos Frequentes - LeetCode](https://leetcode.com/problems/top-k-frequent-elements/description/)
+- [@vídeo@Top K Elementos em 6 minutos](https://www.youtube.com/watch?v=6_v6OoxvMOE)

@@ -1,7 +1,7 @@
 # Python
 
-Python is the most popular language for LeetCode preparation and for good reason. Its syntax is concise, its built-in data structures like lists, dictionaries, and sets map directly to the structures you use in almost every problem, and the standard library includes a heap module and collections utilities that save significant time. Writing a sliding window or a DFS in Python requires far fewer lines than in most other languages. If you do not have a strong preference, Python is the recommended default for this roadmap.
+Python é o idioma mais popular para a preparação no LeetCode e por uma boa razão. Sua sintaxe é concisa, suas estruturas de dados internas, como listas, dicionários e conjuntos, se mapeiam diretamente para as estruturas que você usa em quase todos os problemas, e a biblioteca padrão inclui um módulo de heap e utilitários de coleções que economizam tempo significativo. Escrever uma janela deslizante ou uma DFS em Python requer muito menos linhas do que em muitos outros idiomas. Se você não tiver uma preferência forte, Python é o recomendado como padrão para este roadmap.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated Python Roadmap](https://roadmap.sh/python)
+- [@roadmap@Visite o Caminho Dedicado de Python](https://roadmap.sh/python)

@@ -1,9 +1,9 @@
-# Heaps and Priority Queue
+# Montículos e Fila de Prioridade
 
-A heap is the right data structure when you repeatedly need the largest or smallest element from a changing collection. The problems in this stage cover three heap patterns: top-k elements (maintain a heap of size k), two heaps (split a dataset into two halves to track the median), and k-way merge (combine multiple sorted sequences using a single heap). If you find yourself wanting to sort something repeatedly as new elements arrive, a heap is almost always the better choice. Getting comfortable with heap operations and knowing which variant to reach for is the main skill this stage develops.
+Um montículo é a estrutura de dados certa quando você precisa repetidamente o maior ou menor elemento de uma coleção que muda. Os problemas nesta fase cobrem três padrões de montículos: os k maiores elementos (mantenha um montículo do tamanho k), dois montículos (divida um conjunto de dados em duas metades para rastrear a mediana) e mesclagem k-way (combine várias sequências ordenadas usando um único montículo). Se você encontrar-se querendo classificar algo repetidamente à medida que novos elementos chegam, um montículo é quase sempre a escolha melhor. Acomodar-se com operações de montículos e saber qual variante usar é a principal habilidade desenvolvida nesta fase.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Priority Queue](https://www.programiz.com/dsa/priority-queue)
-- [@video@Learn Priority Queue data structures in 5 minutes 🥇](https://www.youtube.com/watch?v=7z_HXFZqXqc)
-- [@video@Heaps in 3 minutes — Intro](https://www.youtube.com/watch?v=0wPlzMU-k00)
+- [@artigo@Fila de Prioridade](https://www.programiz.com/dsa/priority-queue)
+- [@vídeo@Conheça as estruturas de dados de fila de prioridade em 5 minutos 🥇](https://www.youtube.com/watch?v=7z_HXFZqXqc)
+- [@vídeo@Montículos em 3 minutos — Introdução](https://www.youtube.com/watch?v=0wPlzMU-k00)

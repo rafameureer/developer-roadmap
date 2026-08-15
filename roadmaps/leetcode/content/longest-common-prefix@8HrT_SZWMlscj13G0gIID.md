@@ -1,9 +1,9 @@
-# Longest Common Prefix
+# Prefixo Comum Mais Longo
 
-Given an array of strings, find the longest common prefix among all of them. One approach inserts all strings into a trie and traverses down as long as each node has exactly one child and is not a word end. This problem is simpler than the others but it teaches you that tries are not only for search, they also encode shared structure between strings.
+Dado um array de strings, encontre o prefixo comum mais longo entre todas elas. Um abordagem insere todas as strings em uma trie e percorre para baixo enquanto cada nó tiver exatamente um filho e não for o final de uma palavra. Este problema é mais simples que os outros, mas ensina que tries não são apenas para busca; eles também codificam estrutura compartilhada entre strings.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
-- [@video@Longest Common Prefix - Leetcode 14 - Arrays & Strings (Python)](https://www.youtube.com/watch?v=8C6F8_nM0qs)
-- [@video@LeetCode 14. Longest Common Prefix Solution Explained - Java](https://www.youtube.com/watch?v=bl8ue-dTxgs)
+- [@artigo@Prefixo Comum Mais Longo](https://leetcode.com/problems/longest-common-prefix/)
+- [@vídeo@Prefixo Comum Mais Longo - Leetcode 14 - Arrays & Strings (Python)](https://www.youtube.com/watch?v=8C6F8_nM0qs)
+- [@vídeo@Solução Explicada do Prefixo Comum Mais Longo - Java](https://www.youtube.com/watch?v=bl8ue-dTxgs)

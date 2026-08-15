@@ -1,9 +1,9 @@
-# Number of Islands
+# Número de Ilhas
 
-Given a 2D grid of land and water cells, count the number of islands. You do DFS from each unvisited land cell, marking the entire connected landmass as visited before moving on. This is the entry point for graph DFS on a matrix and teaches you to treat a grid as an implicit graph where adjacency is defined by up, down, left, right neighbors.
+Dada uma grade 2D de células de terra e água, conte o número de ilhas. Você faz DFS a partir de cada célula de terra não visitada, marcando toda a massa de terra conectada como visitada antes de seguir em frente. Isso é o ponto de entrada para o DFS de um gráfico em uma matriz e ensina você a tratar uma grade como um grafo implícito onde a adjacência é definida por vizinhos acima, abaixo, à esquerda e à direita.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Number of Islands](https://leetcode.com/problems/number-of-islands/)
-- [@video@Number of Islands (LeetCode 200) | Full solution](https://www.youtube.com/watch?v=ZgCZfXPo3hI)
-- [@video@Number of Islands - Leetcode 200 - Graphs (Python)](https://www.youtube.com/watch?v=gCswsDauXPc)
+- [@artigo@Número de Ilhas](https://leetcode.com/problems/number-of-islands/)
+- [@vídeo@Número de Ilhas (LeetCode 200) | Solução Completa](https://www.youtube.com/watch?v=ZgCZfXPo3hI)
+- [@vídeo@Número de Ilhas - Leetcode 200 - Gráficos (Python)](https://www.youtube.com/watch?v=gCswsDauXPc)

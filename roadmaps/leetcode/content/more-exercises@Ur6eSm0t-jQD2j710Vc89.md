@@ -1,11 +1,11 @@
-# More Exercises
+# Mais Exercícios
 
-Below you can find other popular questions covering Linked List. Work through these once you are comfortable with the five above.
+Abaixo você encontrará outras perguntas populares cobrindo Listas Encadeadas. Trabalhe nessas uma vez que esteja confortável com as cinco acima.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@article@Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
-- [@article@Copy List With Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
-- [@article@Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
-- [@article@LRU Cache](https://leetcode.com/problems/lru-cache/)
-- [@article@Reverse Nodes in K-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
+- [@artigo@Remover Nésimo Nó da Fim da Lista](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+- [@artigo@Cópia de Lista com Ponteiro Aleatório](https://leetcode.com/problems/copy-list-with-random-pointer/)
+- [@artigo@Somar Dois Números](https://leetcode.com/problems/add-two-numbers/)
+- [@artigo@Cache LRU](https://leetcode.com/problems/lru-cache/)
+- [@artigo@Reverter Nós em Grupo K](https://leetcode.com/problems/reverse-nodes-in-k-group/)

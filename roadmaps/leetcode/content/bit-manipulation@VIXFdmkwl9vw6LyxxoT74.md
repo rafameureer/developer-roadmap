@@ -1,9 +1,9 @@
-# Bit Manipulation
+# Manipulação de Bits
 
-Bit manipulation uses the binary representation of integers directly through bitwise operators: AND, OR, XOR, and shifts. It is useful for problems involving pairs, uniqueness, flags, or any situation where you need to extract or toggle individual bits. XOR is particularly powerful because it is its own inverse: XOR-ing a value twice cancels out. The problems here are mostly short, but they require a different way of thinking about numbers. Once you internalize the basic bit operations, you will start seeing where they can replace more expensive data structures in problems across other categories.
+A manipulação de bits usa a representação binária dos inteiros diretamente através de operadores bitwise: AND, OR, XOR e deslocamentos. É útil para problemas envolvendo pares, unicidade, flags ou qualquer situação em que você precisa extrair ou alternar bits individuais. O XOR é particularmente poderoso porque ele é seu próprio inverso: XORar um valor duas vezes anula. Os problemas aqui são geralmente curtos, mas exigem uma abordagem diferente de pensar em números. Uma vez que internalize as operações básicas de bit, você começará a ver onde eles podem substituir estruturas de dados mais caras em problemas em outras categorias.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Bit manipulation](https://cp-algorithms.com/algebra/bit-manipulation.html)
-- [@video@Algorithms: Bit Manipulation](https://www.youtube.com/watch?v=NLKQEOgBAnw)
-- [@video@Bitwise Operators and WHY we use them](https://www.youtube.com/watch?v=igIjGxF2J-w)
+- [@artigo@Manipulação de Bits](https://cp-algorithms.com/algebra/bit-manipulation.html)
+- [@vídeo@Algoritmos: Manipulação de Bits](https://www.youtube.com/watch?v=NLKQEOgBAnw)
+- [@vídeo@Operadores Bitwise e POR QUE usamos eles](https://www.youtube.com/watch?v=igIjGxF2J-w)

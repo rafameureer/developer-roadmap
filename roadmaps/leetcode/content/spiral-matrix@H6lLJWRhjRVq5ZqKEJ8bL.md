@@ -1,9 +1,9 @@
-# Spiral Matrix
+# Matriz em Espiral
 
-Given an m by n matrix, return all elements in spiral order. You maintain four boundaries (top, bottom, left, right) and peel one layer at a time, moving right, down, left, then up, shrinking the boundaries after each direction. This problem teaches careful boundary management and is a good test of whether you can translate a visual pattern into clean code.
+Dada uma matriz m por n, retorne todos os elementos na ordem de espiral. Você mantém quatro limites (superior, inferior, esquerda, direita) e remove uma camada de cada vez, movendo para a direita, para baixo, para a esquerda e então para cima, reduzindo os limites após cada direção. Este problema ensina o gerenciamento cuidadoso dos limites e é um bom teste para ver se você pode traduzir um padrão visual em código limpo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
-- [@video@Spiral Matrix (LeetCode 54) | Full Solution](https://www.youtube.com/watch?v=aqVW8IuXUF0)
-- [@video@Spiral Matrix - Leetcode 54 - Arrays & Strings (Python)](https://www.youtube.com/watch?v=fcn8qkRcFVM)
+- [@artigo@Matriz em Espiral](https://leetcode.com/problems/spiral-matrix/)
+- [@vídeo@Matriz em Espiral (LeetCode 54) | Solução Completa](https://www.youtube.com/watch?v=aqVW8IuXUF0)
+- [@vídeo@Matriz em Espiral - Leetcode 54 - Arrays & Strings (Python)](https://www.youtube.com/watch?v=fcn8qkRcFVM)

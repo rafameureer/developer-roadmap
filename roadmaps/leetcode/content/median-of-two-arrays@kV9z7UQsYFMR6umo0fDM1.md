@@ -1,9 +1,9 @@
-# Median of Two Sorted Arrays
+# Mediana de Dois Arrays Ordenados
 
-Given two sorted arrays, find the median of their combined elements in O(log(min(m, n))). You binary search on the smaller array to find a partition where all elements on the left side are smaller than all on the right. This is one of the hardest binary search problems and teaches you to think about partitioning rather than searching for a single value.
+Dado dois arrays ordenados, encontre a mediana dos seus elementos combinados em O(log(min(m, n))). Você faz uma busca binária no menor array para encontrar uma partição onde todos os elementos à esquerda são menores que todos à direita. Este é um dos problemas de busca binária mais difíceis e ensina você a pensar em particionamento em vez de procurar por um único valor.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
-- [@video@Median of Two Sorted Arrays Python Solution - LeetCode #4](https://www.youtube.com/watch?v=BhxyUWR_Efc)
-- [@video@Median of Two Sorted Arrays](http://youtube.com/watch?v=eUvfNcHhi5o)
+- [@artigo@Mediana de Dois Arrays Ordenados](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+- [@vídeo@Solução Python da Mediana de Dois Arrays Ordenados - LeetCode #4](https://www.youtube.com/watch?v=BhxyUWR_Efc)
+- [@vídeo@Mediana de Dois Arrays](http://youtube.com/watch?v=eUvfNcHhi5o)

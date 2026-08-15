@@ -1,9 +1,9 @@
-# Non-overlapping Intervals
+# Intervalos Não-Interseccionantes
 
-Given a list of intervals, find the minimum number to remove so that no two intervals overlap. Sorting by end time and greedily keeping non-conflicting intervals gives the maximum number you can keep, and the answer is total minus that. This problem reinforces the greedy interval scheduling principle and connects directly to the activity selection problem in algorithm theory.
+Dada uma lista de intervalos, encontre o número mínimo a ser removido para que nenhum dos dois intervalos se intersecte. Ordenar por tempo final e manter intervalos não conflitantes dá o máximo que você pode manter, e a resposta é total menos isso. Este problema reforça o princípio de programação de intervalos guloso e conecta diretamente ao problema de seleção de atividades na teoria dos algoritmos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
-- [@video@Non-overlapping Intervals (LeetCode 435)](https://www.youtube.com/watch?v=XsrJgwGlRoc)
-- [@video@Non-overlapping Intervals - LeetCode 435](https://www.youtube.com/watch?v=2LUQ6tBdGxo)
+- [@artigo@Intervalos Não-Interseccionantes](https://leetcode.com/problems/non-overlapping-intervals/)
+- [@vídeo@Intervalos Não-Interseccionantes (LeetCode 435)](https://www.youtube.com/watch?v=XsrJgwGlRoc)
+- [@vídeo@Intervalos Não-Interseccionantes - LeetCode 435](https://www.youtube.com/watch?v=2LUQ6tBdGxo)

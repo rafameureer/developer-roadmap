@@ -1,9 +1,9 @@
-# Koko Eating Bananas
+# Koko Comendo Bananas
 
-Koko can eat at most k bananas per hour and must finish all piles within h hours. Find the minimum k. The answer lies in a range, and you can binary search on that range, checking for each candidate k whether it is feasible. This problem teaches you to binary search on the answer rather than on the input array, a shift in thinking that unlocks many harder problems.
+Koko pode comer no máximo k bananas por hora e deve terminar todas as pilhas em h horas. Encontre o mínimo k. A resposta está em um intervalo, e você pode fazer uma busca binária nesse intervalo, verificando para cada candidato k se ele é viável. Este problema ensina a fazer uma busca binária na resposta em vez do array de entrada, uma mudança de pensamento que desbloqueia muitos problemas mais difíceis.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
-- [@video@Koko Eating Bananas](https://www.youtube.com/watch?v=JGYXNpZaW2U)
-- [@video@BS-12. Koko Eating Bananas](https://www.youtube.com/watch?v=qyfekrNni90)
+- [@article@Koko Comendo Bananas](https://leetcode.com/problems/koko-eating-bananas/)
+- [@video@Koko Comendo Bananas](https://www.youtube.com/watch?v=JGYXNpZaW2U)
+- [@video@BS-12. Koko Comendo Bananas](https://www.youtube.com/watch?v=qyfekrNni90)

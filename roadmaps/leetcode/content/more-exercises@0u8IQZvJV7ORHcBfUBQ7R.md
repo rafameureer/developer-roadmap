@@ -1,11 +1,11 @@
-# More Exercises
+# Mais Exercícios
 
-Below you can find other popular questions covering Math and Geometry. Work through these once you are comfortable with the five above.
+Abaixo você encontrará outras perguntas populares cobrindo Matemática e Geometria. Trabalhe nessas uma vez que esteja confortável com as cinco anteriores.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@article@Multiply Strings](https://leetcode.com/problems/multiply-strings/)
-- [@article@Detect Squares](https://leetcode.com/problems/detect-squares/)
-- [@article@Plus One](https://leetcode.com/problems/plus-one/)
-- [@article@Count Primes](https://leetcode.com/problems/count-primes/)
-- [@article@Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
+- [@artigo@Multiplicar Strings](https://leetcode.com/problems/multiply-strings/)
+- [@artigo@Detectar Quadrados](https://leetcode.com/problems/detect-squares/)
+- [@artigo@Somar Um](https://leetcode.com/problems/plus-one/)
+- [@artigo@Contar Primos](https://leetcode.com/problems/count-primes/)
+- [@artigo Número da Coluna de uma Planilha do Excel](https://leetcode.com/problems/excel-sheet-column-number/)

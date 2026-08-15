@@ -1,11 +1,11 @@
-# More Exercises
+# Mais Exercícios
 
-Below you can find other popular questions covering 2-D Dynamic Programming. Work through these once you are comfortable with the five above.
+Abaixo você encontrará outras perguntas populares cobrindo Programação Dinâmica 2-D. Trabalhe nessas uma vez que esteja confortável com as cinco anteriores.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@article@Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
-- [@article@Coin Change II](https://leetcode.com/problems/coin-change-ii/)
-- [@article@Target Sum](https://leetcode.com/problems/target-sum/)
-- [@article@Interleaving String](https://leetcode.com/problems/interleaving-string/)
-- [@article@Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)
+- [@artigo@Melhor Tempo para Comprar e Vender Ações com Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
+- [@artigo@Mudança de Moeda II](https://leetcode.com/problems/coin-change-ii/)
+- [@artigo@Soma Alvo](https://leetcode.com/problems/target-sum/)
+- [@artigo@String Interleaving](https://leetcode.com/problems/interleaving-string/)
+- [@artigo@Subsequências Distintas](https://leetcode.com/problems/distinct-subsequences/)

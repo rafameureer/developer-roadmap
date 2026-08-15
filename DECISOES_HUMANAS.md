@@ -4,7 +4,7 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 
 ---
 
-> ⚠️ **Total de itens sinalizados:** 1133
+> ⚠️ **Total de itens sinalizados:** 1162
 
 | Arquivo / Tópico | Motivo da Sinalização | Data/Hora |
 |---|---|---|
@@ -1141,3 +1141,32 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 | `roadmaps/laravel/content/laravel-herd@Kee5SXZbkwmoxAF8O6Y2f.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:58:22.143207 |
 | `roadmaps/laravel/content/layouts@NkxalJLKZxQPvTzecBrJa.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:58:27.244173 |
 | `roadmaps/laravel/content/livewire@5A0DGzGXXBHQTRuzWEkuW.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:58:31.923150 |
+| `roadmaps/leetcode/content/house-robber@GeLGoM3ocxZ-gjMUes4sE.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:06:28.498284 |
+| `roadmaps/leetcode/content/implement-trie@_zumaNoKiaD4zS3wntAsd.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:06:32.487269 |
+| `roadmaps/leetcode/content/insert-interval@BhiAYH1ug08LnPH8DtR1D.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:06:36.701756 |
+| `roadmaps/leetcode/content/more-excersises@G1SqIZkN9dBKsv2LxqP8D.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:09:22.863918 |
+| `roadmaps/leetcode/content/more-excersises@JtV6pQzvcXFoNG01tx9pq.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:09:26.311516 |
+| `roadmaps/leetcode/content/more-excersises@KHLCYCZqfXqVlHAs7YVHv.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:09:29.665724 |
+| `roadmaps/leetcode/content/more-excersises@NFOzXHoSHj1_2_isVifsY.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:09:44.094705 |
+| `roadmaps/leetcode/content/more-excersises@Q-vNw7YUh-4U6im7nrHe8.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:09:47.377489 |
+| `roadmaps/leetcode/content/more-excersises@Q0AxfKbRuyY5rY2pO5xcP.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:09:50.875324 |
+| `roadmaps/leetcode/content/more-excersises@Ur6eSm0t-jQD2j710Vc89.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:10:06.058392 |
+| `roadmaps/leetcode/content/more-excersises@VpquOgXr8OG_jLkeDSk3H.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:10:09.483387 |
+| `roadmaps/leetcode/content/more-excersises@XjViEOLzyd_BK9dhgNtdK.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:10:13.288361 |
+| `roadmaps/leetcode/content/more-excersises@awYK5VUD2HS9ywJQfFYU7.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:10:28.543775 |
+| `roadmaps/leetcode/content/more-excersises@i4A57jKrkhlw-jW3i3HSi.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:10:32.697706 |
+| `roadmaps/leetcode/content/more-excersises@licG83FALxf4jPOV7v_an.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:10:36.205739 |
+| `roadmaps/leetcode/content/more-exercises@y-quVGz8J5Rmz2ixUFwBI.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:12:04.095905 |
+| `roadmaps/leetcode/content/n-queens@fBtsnKP5n3WBjMycwIfir.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:12:08.166409 |
+| `roadmaps/leetcode/content/network-delay-time@zSqCHDbPvWsDRtEURoVNK.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:12:12.699668 |
+| `roadmaps/leetcode/content/permutations@-9-5g5Qyb3JiSwEfabmRD.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:13:00.129284 |
+| `roadmaps/leetcode/content/pick-a-language@SKsKYHmpPBjG9tHHFbTLI.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:13:03.479104 |
+| `roadmaps/leetcode/content/serialize-and-deserialize@DH3ZU-8q765Kjm7SIu_qP.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:14:11.721743 |
+| `roadmaps/leetcode/content/set-matrix-zeroes@ScROycnqOk2U2GW-Ghy2W.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:14:16.026872 |
+| `roadmaps/leetcode/content/single-number@4UGevGjQBhbISeh_5bm_e.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:14:20.334640 |
+| `roadmaps/leetcode/content/sum-of-two-integers@cUgRS-8TyPT98LemGFBf3.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:15:06.070787 |
+| `roadmaps/leetcode/content/swim-in-rising-water@0x9RwyrxbUZj30e-tMdWP.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:15:10.668481 |
+| `roadmaps/leetcode/content/task-scheduler@HLTc2xupm-CNM9rgzrcwS.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:15:15.240531 |
+| `roadmaps/leetcode/content/valid-palindrome@x6-LRp_zgv3WNE-gsS3Cw.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:16:18.187773 |
+| `roadmaps/leetcode/content/valid-parentheses@YNt85B--HBS2IKDFVLJpx.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:16:22.925362 |
+| `roadmaps/leetcode/content/what-are-coding-patterns@ScTtg57POE0kxlZFxYUCs.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:16:27.465079 |

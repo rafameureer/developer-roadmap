@@ -1,9 +1,9 @@
-# Reorder List
+# Reorganizar Lista
 
-Given a linked list, reorder it so that nodes alternate from the front and back of the original list. You find the middle, reverse the second half, then merge the two halves. This problem combines three sub-techniques (finding middle, reversing, merging) and teaches you to decompose complex pointer problems into simpler steps.
+Dada uma lista vinculada, reorganize-a de forma que os nós alternem entre o início e o fim da lista original. Encontre o meio, inverta a segunda metade e, em seguida, mescla as duas metades. Este problema combina três sub-tecniques (encontrar o meio, inverter, mesclar) e te ensina a decompor problemas complexos de ponteiros em etapas mais simples.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Reorder List](https://leetcode.com/problems/reorder-list/)
-- [@video@LeetCode Reorder List Solution Explained - Java](https://www.youtube.com/watch?v=xRYPjDMSUFw)
-- [@video@Reorder List (LeetCode 143) | Full Solution](https://www.youtube.com/watch?v=Pno7rUOZM-o)
+- [@artigo@Reorganizar Lista](https://leetcode.com/problems/reorder-list/)
+- [@vídeo@Resolução do Problema Reorganizar Lista no LeetCode - Java](https://www.youtube.com/watch?v=xRYPjDMSUFw)
+- [@vídeo@Reorganizar Lista (LeetCode 143) | Solução Completa](https://www.youtube.com/watch?v=Pno7rUOZM-o)

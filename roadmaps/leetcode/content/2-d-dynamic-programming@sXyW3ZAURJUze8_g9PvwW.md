@@ -1,8 +1,8 @@
-# 2-D Dynamic Programming
+# Programação Dinâmica 2-Dimensional
 
-Two-dimensional DP extends the same ideas to problems where the state depends on two variables simultaneously, typically two indices into two sequences or two dimensions of a grid. The table is now a matrix, and each cell is filled based on cells above it, to its left, or diagonally adjacent. The problems here include string comparison (edit distance, longest common subsequence), grid path counting, and interval DP where you think about ranges rather than prefixes. These problems tend to be harder to set up than 1-D DP, but once you identify the state and the transition, the code follows directly from the recurrence.
+A programação dinâmica bidimensional estende as mesmas ideias para problemas onde o estado depende simultaneamente de duas variáveis, geralmente dois índices em duas sequências ou duas dimensões de uma grade. A tabela agora é uma matriz, e cada célula é preenchida com base nas células acima dela, à sua esquerda ou diagonalmente adjacentes. Os problemas aqui incluem comparação de strings (distância de edição, subsequência comum mais longa), contagem de caminhos em grades e DP de intervalo onde você pensa em faixas em vez de prefixos. Esses problemas tendem a ser mais difíceis de configurar do que o DP 1-Dimensional, mas uma vez que você identifique o estado e a transição, o código segue diretamente da recorrência.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@Learn Dynamic Programming with Animations – Full Course for Beginners](https://www.youtube.com/watch?v=66hDgWottdA)
-- [@video@Dynamic Programming 2D - Full Course - Python](https://www.youtube.com/watch?v=qMky6D6YtXU)
+- [@vídeo@Aprenda Programação Dinâmica com Animações – Curso Completo para Iniciantes](https://www.youtube.com/watch?v=66hDgWottdA)
+- [@vídeo@Programação Dinâmica 2D - Curso Completo - Python](https://www.youtube.com/watch?v=qMky6D6YtXU)

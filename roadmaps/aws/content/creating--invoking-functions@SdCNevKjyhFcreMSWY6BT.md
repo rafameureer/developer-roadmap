@@ -1,8 +1,8 @@
-# Creating / Invoking Functions
+# Criando / Invocando Funções
 
-To create a Lambda function in AWS, navigate to the AWS Management Console, select "Lambda" under "Compute" and then "Create function". Specify the function name, execution role and runtime environment. Once the function is created, you can write or paste the code into the inline editor. To invoke a Lambda function, you can either do it manually, via an API gateway, or schedule it. Manually invoking can be done by selecting your function in the AWS console, then "Test", add the event JSON and "Test" again. If set up with an API gateway, it'll be triggered when the endpoints are hit. Scheduling involves using AWS Cloudwatch to trigger the functions periodically.
+Para criar uma função Lambda no AWS, navegue para a AWS Management Console, selecione "Lambda" em "Compute" e depois "Create function". Especifique o nome da função, papel de execução e ambiente de tempo de execução. Uma vez que a função for criada, você pode escrever ou colar o código no editor embutido. Para invocar uma função Lambda, você pode fazer isso manualmente, via API Gateway ou agendando-a. A invocação manual pode ser feita selecionando sua função na console AWS, em seguida "Test", adicionando o JSON do evento e testando novamente. Se configurado com um API Gateway, será acionado quando os endpoints forem atingidos. Agendar envolve usar o AWS CloudWatch para disparar as funções periodicamente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Create Your First Lambda Function](https://docs.aws.amazon.com/lambda/latest/dg/getting-started.html)
-- [@video@First AWS Lambda Function](https://www.youtube.com/watch?v=e1tkFsFOBHA)
+- [@oficial@Criar Sua Primeira Função Lambda](https://docs.aws.amazon.com/lambda/latest/dg/getting-started.html)
+- [@vídeo@Sua Primeira Função Lambda AWS](https://www.youtube.com/watch?v=e1tkFsFOBHA)

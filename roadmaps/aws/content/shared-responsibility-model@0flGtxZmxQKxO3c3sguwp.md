@@ -1,7 +1,7 @@
-# Shared Responsibility Model
+# Modelo de Responsabilidade Compartilhada
 
-In Amazon Web Services (AWS), the concept of 'Shared Responsibility' pertains to the distribution of security and compliance responsibilities between AWS and the user/client. Under this model, AWS is responsible for the security "of" the cloud — including the infrastructure, hardware, software, networking, and facilities that run AWS cloud services. On the other hand, the user is responsible for security "in" the cloud — this includes managing and configuring the customer-controlled services, protecting account credentials, and securing customer data. This shared model aims to lessen operational burden for users and provide flexible security controls.
+No Amazon Web Services (AWS), o conceito de 'Responsabilidade Compartilhada' se refere à distribuição das responsabilidades de segurança e conformidade entre AWS e o usuário/cliente. Neste modelo, a AWS é responsável pela segurança "do" nuvem — incluindo a infraestrutura, hardware, software, rede e instalações que executam os serviços do Amazon ECS na nuvem. Por outro lado, o usuário é responsável pela segurança "no" nuvem — isso inclui gerenciar e configurar os serviços controlados pelo cliente, proteger as credenciais da conta e garantir a segurança dos dados do cliente. Este modelo compartilhado visa reduzir a carga operacional para os usuários e fornecer controles de segurança flexíveis.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Shared Responsibility Model](https://aws.amazon.com/compliance/shared-responsibility-model/)
+- [@oficial@Modelo de Responsabilidade Compartilhada](https://aws.amazon.com/compliance/shared-responsibility-model/)

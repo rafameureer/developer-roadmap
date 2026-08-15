@@ -1,7 +1,7 @@
 # Streams
 
-AWS DynamoDB Streams is a time-ordered sequence of item-level modifications in any DynamoDB table. When you enable a stream on a table, DynamoDB captures information about every modification to data items in the table. The changes are recorded in near real-time and can be set up to trigger AWS Lambda functions immediately after an event has occurred. With DynamoDB Streams, applications can access this log and view the data modifications in the order they occurred. The stream records item-level data modifications such as `Insert`, `Modify`, and `Remove`. Each stream record is then organized into a stream view type, where applications can access up to 24 hours of data modification history.
+O AWS DynamoDB Streams é uma sequência ordenada em tempo real de modificações a nível de item em qualquer tabela do DynamoDB. Quando você ativa um stream em uma tabela, o DynamoDB captura informações sobre todas as modificações aos itens de dados na tabela. As alterações são registradas em tempo real e podem ser configuradas para disparar funções Lambda do AWS imediatamente após ocorrer um evento. Com DynamoDB Streams, as aplicações podem acessar esse log e visualizar as modificação de dados na ordem em que ocorreram. O stream registra modificações de dados a nível de item como `Insert`, `Modify` e `Remove`. Cada registro do stream é então organizado em um tipo de exibição de stream, onde as aplicações podem acessar até 24 horas de histórico de modificação de dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Streams](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Streams.Lambda.html)
+- [@oficial@Streams](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Streams.Lambda.html)

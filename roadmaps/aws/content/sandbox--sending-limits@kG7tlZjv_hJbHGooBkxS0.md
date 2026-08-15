@@ -1,7 +1,7 @@
-# Sandbox / Sending Limits
+# Sandbox / Limites de Envio
 
-In AWS SES, when your account is in the sandbox (default mode for all new accounts), you can only send emails to verified email addresses and the maximum send rate is 1 email per second. The maximum sending quota is 200 messages per 24-hour period. To move out of this sandbox environment and increase your sending limits, you will need to request a sending limit increase. This is achieved by submitting an SES Sending Limit Increase case in the AWS Support Center. For more details, one can refer to the AWS SES documentation.
+No AWS SES, quando sua conta estiver no sandbox (o modo padrão para todas as novas contas), você pode enviar apenas e-mails para endereços de e-mail verificados e a taxa máxima de envio é 1 e-mail por segundo. A quota máxima de envio é 200 mensagens por período de 24 horas. Para sair deste ambiente de sandbox e aumentar seus limites de envio, você precisará solicitar um aumento no limite de envio. Isso é feito submetendo um caso de Aumento de Limite de Envio do SES no Centro de Suporte AWS. Para mais detalhes, consulte a documentação do AWS SES.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para saber mais:
 
-- [@official@Sandbox / Sending Limits](https://docs.aws.amazon.com/ses/latest/dg/manage-sending-quotas.html)
+- [@official@Sandbox / Limites de Envio](https://docs.aws.amazon.com/ses/latest/dg/manage-sending-quotas.html)

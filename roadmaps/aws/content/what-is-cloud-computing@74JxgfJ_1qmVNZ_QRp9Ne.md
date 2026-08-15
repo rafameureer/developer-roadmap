@@ -1,8 +1,8 @@
-# What is Cloud Computing?
+# O que é Computação em Nuvem?
 
-Cloud Computing refers to the delivery of computing services over the internet instead of using local servers. It offers reliable, scalable, and inexpensive cloud computing services which include data storage, databases, applications, analytics, machine learning, and even setting up virtual servers. The biggest names providing cloud computing services are Amazon Web Services (AWS), Microsoft Azure, Google Cloud, and others. The main selling point is that you only pay for the services you use, helping you manage your expenses more effectively.
+A Computação em Nuvem refere-se à entrega de serviços de computação pela internet, em vez de usar servidores locais. Oferece serviços de computação em nuvem confiáveis, escalonáveis e econômicos, incluindo armazenamento de dados, bancos de dados, aplicativos, análise, aprendizado de máquina e até mesmo a configuração de servidores virtuais. As maiores empresas que fornecem serviços de computação em nuvem são Amazon Web Services (AWS), Microsoft Azure, Google Cloud e outras. O principal ponto de venda é que você paga apenas pelos serviços que usa, ajudando você a gerenciar seus gastos de forma mais eficaz.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Cloud Computing - IBM](https://www.ibm.com/topics/cloud-computing)
-- [@article@Cloud Computing - AWS](https://aws.amazon.com/what-is-cloud-computing/)
+- [@artigo@O que é Computação em Nuvem - IBM](https://www.ibm.com/topics/cloud-computing)
+- [@artigo@Computação em Nuvem - AWS](https://aws.amazon.com/what-is-cloud-computing/)

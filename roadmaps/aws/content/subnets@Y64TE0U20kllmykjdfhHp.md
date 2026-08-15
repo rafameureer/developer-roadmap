@@ -1,7 +1,7 @@
 # Subnets
 
-Subnets or subnetworks in Amazon VPC (Virtual Private Cloud) are divisions of a VPC's IP address range. You can launch Amazon Elastic Compute Cloud (Amazon EC2) instances into a selected subnet. When you create a subnet, you specify the CIDR block for the subnet, which is a subset of the VPC CIDR block. Each subnet must be associated with a route table, which controls the traffic flow between the subnets. There are two types of subnets: public and private. A public subnet is one in which the associated route table directs the subnet to the Internet Gateway (IGW) of the VPC. A private subnet does not have a route to the IGW and hence has no direct route to the internet.
+Subnets ou sub-redes em Amazon VPC (Virtual Private Cloud) são divisões do intervalo de endereços IP da VPC. Você pode lançar instâncias do Amazon Elastic Compute Cloud (Amazon EC2) em uma sub-rede selecionada. Quando você cria uma sub-rede, especifica o bloco CIDR para a sub-rede, que é um subconjunto do bloco CIDR da VPC. Cada sub-rede deve ser associada a uma tabela de roteamento, que controla o fluxo de tráfego entre as sub-redes. Existem dois tipos de sub-redes: públicas e privadas. Uma sub-rede pública é aquela em que a tabela de roteamento associada direciona a sub-rede para a Internet Gateway (IGW) da VPC. Uma sub-rede privada não tem um caminho para o IGW e, portanto, não tem um caminho direto para a internet.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Subnets](https://docs.aws.amazon.com/vpc/latest/userguide/configure-subnets.html)
+- [@oficial@Subnets](https://docs.aws.amazon.com/vpc/latest/userguide/configure-subnets.html)

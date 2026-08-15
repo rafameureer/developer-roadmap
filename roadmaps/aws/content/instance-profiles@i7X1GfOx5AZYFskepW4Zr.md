@@ -1,7 +1,7 @@
-# Instance Profiles
+# Perfil de Instância
 
-Instance profiles are AWS IAM entities that you can use to grant permissions to applications running on your EC2 instances. They effectively allow your instances to make secure API requests. An instance profile is essentially a container for an AWS Identity and Access Management (IAM) role that you can use to pass roles to EC2 instances at launch time. Once an IAM role is associated with an instance at launch time, we can't change the role. However, you can modify the permissions policies attached to the role, and the updated permissions do take effect immediately.
+Perfis de instância são entidades do AWS IAM que você pode usar para conceder permissões a aplicativos em execução nas suas instâncias EC2. Eles permitem efetivamente que as instâncias façam solicitações de API seguras. Um perfil de instância é essencialmente um contêiner para uma função do AWS Identity and Access Management (IAM) que você pode usar para passar funções às instâncias EC2 no momento da inicialização. Uma vez que uma função IAM seja associada a uma instância no momento da inicialização, não podemos alterar a função. No entanto, você pode modificar as políticas de permissões anexadas à função, e as permissões atualizadas entram em vigor imediatamente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Instance Profiles](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_use_switch-role-ec2_instance-profiles.html)
+- [@official@Perfis de Instância](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_use_switch-role-ec2_instance-profiles.html)

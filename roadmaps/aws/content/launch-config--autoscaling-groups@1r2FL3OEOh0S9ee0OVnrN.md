@@ -1,7 +1,7 @@
-# Launch Config / Autoscaling Groups
+# Configuração de Lançamento / Grupos de Escalabilidade Automática
 
-`Launch Configuration` is a template that an Auto Scaling group uses to launch EC2 instances. When you create a launch configuration, you specify information for the instances such as the ID of the Amazon Machine Image (AMI), the instance type, a key pair, one or more security groups, and a block device mapping. If you've launched an instance before, you can specify the same parameters for your launch configuration. Any parameters that you don't specify are automatically filled in with the default values that are set by the launch wizard.
+`Configuração de Lançamento` é um modelo que um grupo de escalabilidade automática do EC2 usa para lançar instâncias EC2. Quando você cria uma configuração de lançamento, especifica informações para as instâncias como o ID da Imagem de Máquina Amazon (AMI), o tipo de instância, um par de chaves, um ou mais grupos de segurança e um mapeamento de dispositivos de bloco. Se você já tiver lançado uma instância antes, pode especificar os mesmos parâmetros para sua configuração de lançamento. Qualquer parâmetro que você não especifique é automaticamente preenchido com os valores padrão definidos pelo assistente de lançamento.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Launch Config in EC2](https://docs.aws.amazon.com/autoscaling/ec2/userguide/launch-configurations.html)
+- [@official@Configuração de Lançamento no EC2](https://docs.aws.amazon.com/autoscaling/ec2/userguide/launch-configurations.html)

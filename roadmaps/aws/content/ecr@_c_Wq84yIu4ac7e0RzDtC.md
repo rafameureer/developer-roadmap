@@ -1,8 +1,8 @@
 # ECR
 
-AWS Elastic Container Registry (ECR) is a fully-managed Docker container registry that makes it easy for developers to store, manage, and deploy Docker container images. ECR eliminates the need to operate your own container repositories or worry about scaling the underlying infrastructure. ECR hosts your images in a highly available and scalable architecture, allowing you to reliably deploy containers for your applications. Integration with AWS Identity and Access Management (IAM) provides resource-level control of each repository.
+O AWS Elastic Container Registry (ECR) é um repositório de contêiner Docker totalmente gerenciado que facilita a armazenamento, gestão e implantação de imagens de contêiner Docker. O ECR elimina a necessidade de operar seus próprios repositórios de contêiner ou preocupações com o dimensionamento da infraestrutura subjacente. O ECR aloca suas imagens em uma arquitetura altamente disponível e escalável, permitindo que você implante confiavelmente contêineres para suas aplicações. A integração com o AWS Identity and Access Management (IAM) fornece controle de nível de recurso em cada repositório.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@AWS Elastic Container Registry (ECR)](https://aws.amazon.com/ecr/)
-- [@official@Concepts of Amazon ECR](https://docs.aws.amazon.com/AmazonECR/latest/userguide/concept-and-components.html)
+- [@official@Conceitos do Amazon ECR](https://docs.aws.amazon.com/AmazonECR/latest/userguide/concept-and-components.html)

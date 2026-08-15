@@ -1,7 +1,7 @@
-# Identity Verification
+# Verificação de Identidade
 
-Amazon Simple Email Service (SES) requires users to verify their identities to ensure they own the email addresses or domains they plan to use as 'From', 'Source', 'Sender', or 'Return-Path' addresses. The verification process prevents unauthorized use of identities. There are two types of identities to verify, email address, and domain. Verifying an email address allows you to send emails from that address. If you verify a domain, you can send emails from any address on that domain. Moreover, while sending an email, the 'From' or 'Return-Path' address must be a verified email or domain.
+O Amazon Simple Email Service (SES) requer que os usuários verifiquem suas identidades para garantir que eles possuam os endereços de e-mail ou domínios que planejam usar como 'De', 'Origem', 'Remetente' ou 'Endereço de Retorno'. O processo de verificação previne o uso não autorizado de identidades. Existem dois tipos de identidades para verificar: endereço de e-mail e domínio. Verificar um endereço de e-mail permite que você envie e-mails a partir desse endereço. Se você verificar um domínio, poderá enviar e-mails de qualquer endereço nesse domínio. Além disso, enquanto envia um e-mail, o 'De' ou 'Endereço de Retorno' deve ser um endereço de e-mail ou domínio verificado.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Identity Verification](https://docs.aws.amazon.com/ses/latest/dg/Welcome.html)
+- [@official@Verificação de Identidade](https://docs.aws.amazon.com/ses/latest/dg/Welcome.html)

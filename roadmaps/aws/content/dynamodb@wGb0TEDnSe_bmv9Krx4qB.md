@@ -1,7 +1,7 @@
 # DynamoDB
 
-Amazon DynamoDB is a fully managed NoSQL database solution that provides fast and predictable performance with seamless scalability. It is a key-value and document database that delivers single-digit millisecond performance at any scale. DynamoDB can handle more than 10 trillion requests per day and support peaks of more than 20 million requests per second. It maintains high durability of data via automatic replication across three different zones in an Amazon defined region.
+O Amazon DynamoDB é uma solução de banco de dados NoSQL totalmente gerenciada que fornece desempenho rápido e previsível com escalabilidade suave. É um banco de dados chave-valor e documento que oferece desempenho em dígitos únicos de milissegundo a qualquer escala. O DynamoDB pode lidar com mais de 10 trilhões de solicitações por dia e suporta picos de mais de 20 milhões de solicitações por segundo. Ele mantém alta durabilidade dos dados através da replicação automática em três diferentes zonas em uma região definida pela Amazon.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Amazon DynamoDB](https://aws.amazon.com/dynamodb/)
+- [@oficial@Amazon DynamoDB](https://aws.amazon.com/dynamodb/)

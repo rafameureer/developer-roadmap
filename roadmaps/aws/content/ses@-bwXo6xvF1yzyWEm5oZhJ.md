@@ -1,7 +1,7 @@
 # SES
 
-Amazon Simple Email Service (SES) is a scalable and cost-effective email sending service tailored for marketers, developers, and businesses. It enables users to send notifications, transactional emails, and marketing communications using a highly reliable infrastructure. Amazon SES eliminates the complexity and challenge of building an in-house email solution or licensing, installing, and managing a third-party service. This service can be easily integrated into your existing applications while ensuring your email reaches the recipient's inbox.
+O Amazon Simple Email Service (SES) é um serviço de envio de e-mail escalável e eficiente, projetado para marcadores, desenvolvedores e negócios. Ele permite que usuários enviem notificações, e-mails transacionais e comunicações de marketing usando uma infraestrutura altamente confiável. O Amazon SES elimina a complexidade e os desafios de construir uma solução de e-mail em casa ou licenciar, instalar e gerenciar um serviço de terceiros. Este serviço pode ser facilmente integrado às suas aplicativos existentes enquanto garante que o e-mail atinja a caixa de entrada do destinatário.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@SES](https://aws.amazon.com/ses/)
+- [@oficial@SES](https://aws.amazon.com/ses/)

@@ -1,7 +1,7 @@
-# Security Groups
+# Grupos de Segurança
 
-Security Groups in AWS act as a virtual firewall for your instance to control inbound and outbound traffic. When you launch an instance in a VPC, you can assign up to five security groups to the instance. Security Groups are stateful — if you send a request from your instance, the response traffic for that request is allowed to flow in regardless of inbound security group rules. You can specify allow rules, but not deny rules. You can specify separate rules for inbound and outbound traffic. Therefore, if you need to allow specific communication between your instances, you'll need to configure both outbound rules for the sender security group and inbound rules for the receiver security group.
+Os Grupos de Segurança no AWS atuam como um firewall virtual para sua instância para controlar o tráfego de entrada e saída. Quando você lança uma instância em uma VPC, pode atribuir até cinco grupos de segurança à instância. Os Grupos de Segurança são stateful — se você enviar uma solicitação da sua instância, a resposta ao tráfego dessa solicitação é permitida a fluir independentemente das regras de segurança de entrada. Você pode especificar regras de permissão, mas não regras de negação. Você pode especificar regras separadas para o tráfego de entrada e saída. Portanto, se você precisar permitir uma comunicação específica entre suas instâncias, você precisará configurar tanto as regras de saída quanto as regras de entrada dos grupos de segurança remetente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Security Groups](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-security-groups.html)
+- [@official@Grupos de Segurança](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-security-groups.html)

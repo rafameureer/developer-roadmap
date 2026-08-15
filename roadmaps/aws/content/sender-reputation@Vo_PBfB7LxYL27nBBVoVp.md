@@ -1,7 +1,7 @@
-# Sender Reputation
+# Reputação do Remetente
 
-Sender reputation in Amazon Web Services (AWS) Simple Email Service (SES) is essentially a measure of your sending practices and how they align with the expectations of ISPs and email recipients. This reputation is determined by factors such as your email bounce rate, complaints, content quality, email volume, consistency of email sending, etc. Maintaining a good sender reputation is crucial as it impacts your email deliverability rate - i.e., whether your emails land in recipients' inbox or spam folder. AWS SES encourages good sending practices to help sustain a positive sender reputation.
+A reputação do remetente no Amazon Web Services (AWS) Simple Email Service (SES) é essencialmente uma medida de suas práticas de envio e como elas se alinham com as expectativas dos provedores de serviços de Internet (ISPs) e destinatários de email. Essa reputação é determinada por fatores como a taxa de rejeição de emails, reclamações, qualidade do conteúdo, volume de emails, consistência no envio de emails, etc. Manter uma boa reputação do remetente é crucial, pois afeta sua taxa de entrega de emails — ou seja, se seus emails chegam ao caixa postal dos destinatários ou à pasta de spam. O AWS SES incentiva boas práticas de envio para ajudar a manter uma reputação positiva do remetente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Sender Reputation](https://aws.amazon.com/blogs/messaging-and-targeting/the-four-pillars-of-email-reputation/)
+- [@official@Reputação do Remetente](https://aws.amazon.com/blogs/messaging-and-targeting/the-four-pillars-of-email-reputation/)

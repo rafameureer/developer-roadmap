@@ -1,7 +1,7 @@
-# Hosted Zones
+# Zonas Hosted
 
-A **Hosted Zone** in AWS Route 53 is essentially a container that holds information about how you want to route traffic on the internet for a specific domain, such as example.com. Each hosted zone is associated with a set of DNS records, which control the flow of traffic for that domain. AWS Route 53 automatically creates a record set that includes a name server (NS) record and a start of authority (SOA) record when you create a hosted zone. These records provide necessary information about your domain to the DNS system, establishing the basis for routing traffic for that domain to the appropriate IP address in your AWS environment.
+Uma **Zona Hosted** no AWS Route 53 é essencialmente um contêiner que armazena informações sobre como você deseja direcionar o tráfego na internet para um domínio específico, como example.com. Cada zona hospedada está associada a um conjunto de registros DNS, que controlam o fluxo de tráfego para aquele domínio. O AWS Route 53 cria automaticamente um conjunto de registros que inclui um registro de servidor de nome (NS) e um registro de início de autoridade (SOA) quando você cria uma zona hospedada. Esses registros fornecem informações necessárias sobre seu domínio ao sistema DNS, estabelecendo a base para direcionar o tráfego para o endereço IP apropriado em seu ambiente AWS.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Hosted Zones](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/hosted-zones-working-with.html)
+- [@official@Zonas Hosted](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/hosted-zones-working-with.html)

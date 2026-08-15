@@ -1,7 +1,7 @@
 # ElastiCache
 
-Amazon ElastiCache is a fully managed in-memory data store from Amazon Web Services (AWS). It is designed to speed up dynamic web applications by reducing the latency and throughput constraints associated with disk-based databases. ElastiCache supports two open-source in-memory engines: Memcached and Redis. Redis is commonly used for database caching, session management, messaging, and queueing, while Memcached is typically used for caching smaller, simpler datasets. One of the key features of ElastiCache is its uniform performance and scalability, which enables it to handle large datasets and high-traffic websites.
+O Amazon ElastiCache é um armazenamento em memória totalmente gerenciado da Amazon Web Services (AWS). Ele foi projetado para acelerar aplicativos web dinâmicos reduzindo a latência e as restrições de吞吐量 associadas aos bancos de dados baseados em disco. O ElastiCache suporta dois motores em memória open-source: Memcached e Redis. O Redis é comumente usado para caching de banco de dados, gerenciamento de sessão, mensageria e fila, enquanto o Memcached é geralmente usado para caching de conjuntos de dados menores e mais simples. Uma das principais características do ElastiCache é sua performance uniforme e escalabilidade, que lhe permite lidar com grandes conjuntos de dados e sites web de alta taxa de tráfego.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Amazon ElastiCache](https://docs.aws.amazon.com/AmazonElastiCache/latest/dg/WhatIs.html)

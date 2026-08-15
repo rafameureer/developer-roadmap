@@ -1,7 +1,7 @@
-# AMIs
+# Imagens de Máquina do AWS (AMI)
 
-Amazon Machine Images (AMIs) are pre-configured templates for EC2 instances. When you launch an instance in EC2, you start with an AMI. An AMI includes details such as the operating system to use, applications to install, and the volume type and size. AMIs can be either public or private — public AMIs are available for anyone to use, while private AMIs are only available to specific AWS accounts. You can create your own custom AMIs, enabling you to quickly start and replicate a known configuration for your EC2 instances.
+As Imagens de Máquina do AWS (AMIs) são modelos pré-configurados para as instâncias EC2. Quando você inicia uma instância no EC2, começa com uma AMI. Uma AMI inclui detalhes como o sistema operacional a ser usado, aplicativos a serem instalados e o tipo e tamanho do volume. As AMIs podem ser públicas ou privadas — as AMIs públicas estão disponíveis para qualquer pessoa usar, enquanto as AMIs privadas estão disponíveis apenas para contas específicas do AWS. Você pode criar suas próprias AMIs personalizadas, permitindo que você inicie rapidamente e repita uma configuração conhecida para suas instâncias EC2.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@AMIs](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html)
+- [@oficial@AMIs](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html)

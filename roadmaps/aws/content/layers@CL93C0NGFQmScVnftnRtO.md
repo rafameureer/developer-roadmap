@@ -1,8 +1,8 @@
-# Layers
+# Camadas
 
-AWS Lambda layers are distribution mechanisms for libraries, custom runtimes, and other function dependencies. In other words, they are a distribution mechanism for artifacts. The layers can be versioned, and each version is immutable. An AWS Lambda layer is a ZIP archive that contains libraries, a custom runtime, or other dependencies. Lambda functions can be configured to reference these layers. The layer is then extracted to the `/opt` directory in the function execution environment. Each runtime looks for libraries in a different location under the `/opt` folder, depending on the language.
+As camadas do AWS Lambda são mecanismos de distribuição para bibliotecas, tempo de execução personalizado e outras dependências de funções. Em outras palavras, são um mecanismo de distribuição para artefatos. As camadas podem ser versificadas, e cada versão é imutável. Uma camada do AWS Lambda é um arquivo ZIP que contém bibliotecas, um tempo de execução personalizado ou outras dependências. Funções Lambda podem ser configuradas para fazer referência a essas camadas. A camada é então extraída para o diretório `/opt` no ambiente de execução da função. Cada tempo de execução procura por bibliotecas em uma localização diferente sob o diretório `/opt`, dependendo da linguagem.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@AWS Lambda Layers](https://docs.aws.amazon.com/lambda/latest/dg/chapter-layers.html)
-- [@video@Create and Use Lambda Layers](https://www.youtube.com/watch?v=jyuZDkiHe2Q)
+- [@oficial@Camadas do AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/chapter-layers.html)
+- [@vídeo@Criar e Usar Camadas do Lambda](https://www.youtube.com/watch?v=jyuZDkiHe2Q)

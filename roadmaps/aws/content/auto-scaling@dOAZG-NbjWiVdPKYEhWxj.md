@@ -1,7 +1,7 @@
-# Auto-Scaling
+# Auto-Escalação
 
-AWS Auto Scaling is a service that automatically scales resources to meet the demands of your applications. It uses policies, health status, and schedules to determine when to add more instances, ensuring that your application always has the right amount of capacity. AWS Auto Scaling can scale resources across multiple services and manage the scaling process in real time. It optimizes for cost and performance, and with the help of Amazon CloudWatch, it adjusts capacity based on the demand patterns of your workloads.
+O AWS Auto Scaling é um serviço que dimensiona recursos automaticamente para atender às demandas de suas aplicações. Ele usa políticas, status de saúde e horários para determinar quando adicionar mais instâncias, garantindo que sua aplicação sempre tenha a quantidade certa de capacidade. O AWS Auto Scaling pode dimensionar recursos em várias serviços e gerenciar o processo de dimensionamento em tempo real. Ele otimiza custos e desempenho, e com a ajuda do Amazon CloudWatch, ele ajusta a capacidade com base nos padrões de demanda de seus cargas de trabalho.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@AWS Autoscaling](https://docs.aws.amazon.com/autoscaling/ec2/userguide/what-is-amazon-ec2-auto-scaling.html)
+- [@official@Auto Scaling](https://docs.aws.amazon.com/autoscaling/ec2/userguide/what-is-amazon-ec2-auto-scaling.html)

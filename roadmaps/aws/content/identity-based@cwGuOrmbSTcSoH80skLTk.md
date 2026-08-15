@@ -1,7 +1,7 @@
-# Identity-Based
+# Baseado em Identidade
 
-"Identity-based policies" are one of the types of policies you can create in AWS (Amazon Web Services). They are attached directly to an identity (like an IAM user, group, or role) and control what actions that identity can perform, on which resources, and under what conditions. There are two types - inline and managed. Inline policies are created and managed individually, while managed policies are standalone policies that you can attach to multiple identities. This offers a flexible framework for managing permissions across your AWS resources. These policies are written in a language called JSON (JavaScript Object Notation).
+"Políticas baseadas em identidade" são um dos tipos de políticas que você pode criar no AWS (Amazon Web Services). Eles são anexados diretamente a uma identidade (como um usuário, grupo ou função do IAM) e controlam quais ações aquela identidade pode realizar, em quais recursos e sob quais condições. Há dois tipos - embutidos e gerenciados. Políticas embutidas são criadas e gerenciadas individualmente, enquanto políticas gerenciadas são políticas independentes que você pode anexar a várias identidades. Isso oferece um quadro flexível para gerenciar permissões em seus recursos do AWS. Essas políticas são escritas em uma linguagem chamada JSON (JavaScript Object Notation).
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Identity Based Policies](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_identity-vs-resource.html)
+- [@official@Políticas Baseadas em Identidade](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_identity-vs-resource.html)

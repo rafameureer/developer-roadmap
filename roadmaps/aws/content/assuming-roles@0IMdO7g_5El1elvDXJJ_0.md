@@ -1,7 +1,7 @@
-# Assuming Roles
+# Suposição de Papéis
 
-Assuming roles in AWS allows one AWS identity to perform actions and access resources in another AWS account, without having to share security credentials. This is achieved using temporary security credentials. You assume a role by calling the `AWS Security Token Service (STS)` AssumeRole APIs, passing the ARN of the role to assume. After successfully assuming a role, STS returns temporary security credentials that you can use to make requests to any AWS service. The assumed role provides specific permissions that determine what the role user can and cannot do. Thus, users can switch between roles using AWS Management Console, AWS CLI, or AWS API.
+A suposição de papéis no AWS permite que uma identidade do AWS execute ações e acesse recursos em outra conta do AWS, sem ter que compartilhar credenciais de segurança. Isso é feito usando credenciais de segurança temporárias. Você assume um papel chamando as APIs `AWS Security Token Service (STS) AssumeRole`, passando o ARN do papel a ser assumido. Após assumir com sucesso um papel, STS retorna credenciais de segurança temporárias que você pode usar para fazer solicitações a qualquer serviço do AWS. O papel assumido fornece permissões específicas que determinam o que o usuário do papel pode e não pode fazer. Assim, os usuários podem alternar entre papéis usando o Console de Gerenciamento do AWS, CLI do AWS ou API do AWS.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Assuming Roles](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_manage-assume.html)
+- [@oficial@Suposição de Papéis](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_manage-assume.html)

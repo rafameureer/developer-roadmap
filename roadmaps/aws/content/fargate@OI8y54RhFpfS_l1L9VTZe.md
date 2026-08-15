@@ -1,7 +1,7 @@
 # Fargate
 
-Fargate is a technology used for the deployment of containers in Amazon's Elastic Container Service (ECS). This technology completely removes the need to manage the EC2 instances for your infrastructure; therefore, you would not have to be concerned about selecting the right type of EC2 instances, deciding when to scale your clusters, or optimizing cluster packing. In simple terms, Fargate allows you to focus on designing and building your applications instead of managing the infrastructure.
+O Fargate é uma tecnologia usada para a implantação de contêineres no Amazon Elastic Container Service (ECS). Esta tecnologia remove completamente a necessidade de gerenciar as instâncias EC2 para sua infraestrutura; portanto, você não precisaria se preocupar em selecionar o tipo certo de instância EC2, decidir quando escalar seus clusters ou otimizar a compactação do cluster. Em termos simples, o Fargate permite que você se concentre em projetar e construir suas aplicações em vez de gerenciar a infraestrutura.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Amazon Fargate](https://aws.amazon.com/fargate/)

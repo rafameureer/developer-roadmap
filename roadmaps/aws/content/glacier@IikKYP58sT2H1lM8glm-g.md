@@ -1,7 +1,7 @@
 # Glacier
 
-AWS Glacier is a secure, durable, and extremely low-cost storage service for data archiving and long-term backup. It is designed to reliably store data for as long as you need. Its main features are optimized for infrequently accessed data where retrieval time of minutes is acceptable. AWS Glacier supports the archiving of data that is not needed in real-time but might be required for future reference or are legally required to be maintained. AWS Glacier is used when there is no immediate need for data and substantial retrieval time is acceptable, due to its low storage cost.
+O AWS Glacier é um serviço de armazenamento seguro, duradouro e extremamente baixo custo para arquivamento de dados e backup a longo prazo. Ele está projetado para armazenar dados por qualquer período necessário com confiabilidade. Suas principais características são otimizadas para dados que não são acessados frequentemente, onde um tempo de recuperação em minutos é aceitável. O AWS Glacier suporta o arquivamento de dados que não são necessários em tempo real, mas podem ser necessários para referências futuras ou que estão legalmente obrigados a serem mantidos. O AWS Glacier é usado quando não há necessidade imediata de dados e um tempo de recuperação significativo é aceitável, devido ao baixo custo de armazenamento.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@AWS Glacier](https://aws.amazon.com/s3/storage-classes/glacier/)

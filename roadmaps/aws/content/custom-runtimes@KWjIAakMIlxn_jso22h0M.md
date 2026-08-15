@@ -1,7 +1,7 @@
-# Custom Runtimes
+# Runtimes Personalizados
 
-AWS Lambda supports several preconfigured runtimes for you to choose from, including Node.js, Java, Ruby, Python, and Go. However, if your preferred programming language or specific language version isn't supported natively, you can use **custom runtimes**. A custom runtime in AWS Lambda is a Linux executable that handles invocations and communicates with the Lambda service. It enables you to use any programming language to handle AWS Lambda events. The runtime is responsible for running the bootstrap, which is an executable file, to start the execution process environment, process incoming requests, and manage interaction between your function code and the infrastructure.
+O AWS Lambda suporta vários runtimes pré-configurados que você pode escolher, incluindo Node.js, Java, Ruby, Python e Go. No entanto, se o seu idioma de programação preferido ou versão específica do idioma não for suportado nativamente, você pode usar **runtimes personalizados**. Um runtime personalizado no AWS Lambda é um executável Linux que lida com as invocações e comunica-se com o serviço Lambda. Ele habilita você a usar qualquer linguagem de programação para lidar com eventos do AWS Lambda. O runtime é responsável por executar o bootstrap, que é um arquivo executável, iniciando o ambiente de execução, processando solicitações de entrada e gerenciando a interação entre seu código de função e a infraestrutura.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@AWS Lambda Runtimes](https://docs.aws.amazon.com/lambda/latest/dg/lambda-runtimes.html)
+- [@oficial@Runtimes do AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/lambda-runtimes.html)

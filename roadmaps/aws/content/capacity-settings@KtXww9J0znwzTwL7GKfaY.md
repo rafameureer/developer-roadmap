@@ -1,7 +1,7 @@
-# Capacity Settings
+# Configurações de Capacidade
 
-Amazon DynamoDB capacity settings refer to the read and write capacity of your tables. The read capacity unit is a measure of the number of strong consistent reads per second, while the write capacity unit is a measure of the number of writes per second. You can set up these capacities either as provisioned or on-demand. Provisioned capacity is where you specify the number of reads and writes per second that you expect your application to require. On the other hand, on-demand capacity allows DynamoDB to automatically manage your read and write capacity to meet the needs of your workload.
+As configurações de capacidade do Amazon DynamoDB se referem à capacidade de leitura e escrita de suas tabelas. A unidade de capacidade de leitura é uma medida do número de leituras consistentes fortes por segundo, enquanto a unidade de capacidade de escrita é uma medida do número de escritas por segundo. Você pode configurar essas capacidades como provisionadas ou em demanda. A capacidade provisionada é onde você especifica o número de leituras e escritas por segundo que espera que sua aplicação exija. Por outro lado, a capacidade em demanda permite que o DynamoDB gerencie automaticamente a capacidade de leitura e escrita para atender às necessidades do seu trabalho de carga.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Capacity Settings](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/capacity-mode.html)
+- [@oficial@Configurações de Capacidade](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/capacity-mode.html)

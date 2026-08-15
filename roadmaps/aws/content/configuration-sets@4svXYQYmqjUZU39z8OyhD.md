@@ -1,7 +1,7 @@
-# Configuration Sets
+# Conjuntos de Configuração
 
-Configuration Sets in SES (Simple Email Service) of AWS (Amazon Web Services) allow you to publish email sending events. These sets are used to group together similar rules that you can apply to emails you send using AWS SES. You can apply a configuration set to an email by including it in the headers of the email. It can be used to specify the dedicated sending IP pools, configure the message delivery parameters, and to enable open and click tracking. AWS SES sends information about each email sent with the set to CloudWatch and Kinesis Firehose which can be later utilized for further analysis or to manage your customer interactions more effectively.
+Os Conjuntos de Configuração no SES (Simple Email Service) do AWS (Amazon Web Services) permitem que você publique eventos de envio de e-mail. Esses conjuntos são usados para agrupar regras semelhantes que você pode aplicar aos e-mails que envia usando o AWS SES. Você pode aplicar um conjunto de configuração a um e-mail incluindo-o nos cabeçalhos do e-mail. Ele pode ser usado para especificar pools de IPs dedicados de envio, configurar os parâmetros de entrega da mensagem e habilitar o rastreamento de abertura e clique. O AWS SES envia informações sobre cada e-mail enviado com o conjunto para o CloudWatch e Kinesis Firehose, que podem ser usados posteriormente para análise adicional ou para gerenciar suas interações com os clientes de maneira mais eficaz.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@SES](https://docs.aws.amazon.com/ses/latest/dg/using-configuration-sets.html)
+- [@oficial@SES](https://docs.aws.amazon.com/ses/latest/dg/using-configuration-sets.html)

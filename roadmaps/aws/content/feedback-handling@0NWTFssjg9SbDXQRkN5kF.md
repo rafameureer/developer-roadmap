@@ -1,7 +1,7 @@
-# Feedback Handling
+# Tratamento de Feedback
 
-AWS Simple Email Service (SES) provides a mechanism for handling bounces, complaints, and delivery notifications. This mechanism is called feedback handling. Bounces occur when an email can't be delivered to a recipient. Complaints happen when a recipient marks an email as spam. Delivery notifications are sent when Amazon SES successfully delivers an email to a recipient's mail server. AWS SES enables you to receive these feedback notifications by email, relayed to an Amazon SNS topic, or through Amazon CloudWatch. The process of deciding on what action to take when your emails bounce or are marked as spam is called feedback handling. AWS SES automatically handles all feedback loop (FBL) complaints for you, but when it comes to bounces, you are given the flexibility to choose how you want your system to respond.
+O AWS Simple Email Service (SES) fornece um mecanismo para lidar com rejeições, reclamações e notificações de entrega. Este mecanismo é chamado de tratamento de feedback. As rejeições ocorrem quando um email não pode ser entregue a um destinatário. As reclamações acontecem quando um destinatário marca um email como spam. As notificações de entrega são enviadas quando o Amazon SES consegue entregar com sucesso um email para o servidor de correio do destinatário. O AWS SES permite que você receba essas notificações de feedback por email, relaying-as a um tópico do Amazon SNS ou através do Amazon CloudWatch. O processo de decidir qual ação tomar quando seus emails forem rejeitados ou marcados como spam é chamado de tratamento de feedback. O AWS SES lida automaticamente com todas as reclamações de loop de feedback (FBL), mas em relação às rejeições, você tem a flexibilidade de escolher como deseja que o seu sistema responda.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Feedbacks](https://aws.amazon.com/ses/faqs)
+- [@official@Reclamações](https://aws.amazon.com/ses/faqs)

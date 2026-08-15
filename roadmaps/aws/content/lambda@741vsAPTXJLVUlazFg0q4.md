@@ -1,7 +1,7 @@
 # Lambda
 
-AWS Lambda is a serverless computing service that runs code in response to events and automatically manages the computing resources required by that code. It lets us run applications and services without thinking about servers. You can execute your back-end application code, run code in response to HTTP requests using Amazon API Gateway, or call your functions using API calls made using AWS SDKs. AWS Lambda automatically scales your applications in response to incoming requests. AWS Lambda supports Java, Go, PowerShell, Node.js, C#, Python, and Ruby code, and provides a Runtime API which allows you to use any additional programming languages to author your functions.
+O AWS Lambda é um serviço de computação sem servidor que executa código em resposta a eventos e gerencia automaticamente os recursos de computação necessários para esse código. Ele nos permite executar aplicativos e serviços sem precisar pensar em servidores. Você pode executar o código do seu aplicativo back-end, executar código em resposta a solicitações HTTP usando o Amazon API Gateway ou chamar suas funções usando chamadas de API feitas usando os SDKs do AWS. O AWS Lambda escala automaticamente seus aplicativos em resposta a solicitações entrantes. O AWS Lambda suporta código em Java, Go, PowerShell, Node.js, C#, Python e Ruby e fornece uma API Runtime que permite usar qualquer linguagem de programação adicional para autorizar suas funções.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/welcome.html)

@@ -1,8 +1,8 @@
-# AWS Global Infrastructure
+# Infraestrutura Global do AWS
 
-AWS Global Infrastructure refers to the layout of AWS regions and availability zones around the world. A region is a geographical area, each consisting of two or more availability zones (AZs) which are engineered to be isolated from failures in other AZs. AZs provide inexpensive, low-latency network connectivity to other AZs in the same region. In addition to the regions and AZs, AWS also includes edge locations for content delivery and regional edge caches, enhancing user experience by reducing latency. AWS currently operates in many geographic regions around the world.
+A Infraestrutura Global do AWS refere-se ao layout das regiões e zonas de disponibilidade do AWS em todo o mundo. Uma região é uma área geográfica, composta por duas ou mais zonas de disponibilidade (AZs) que são projetadas para serem isoladas dos falhas em outras AZs. As AZs fornecem conexão de rede a baixa latência e barata entre as AZs na mesma região. Além das regiões e AZs, o AWS também inclui locais de borda para entrega de conteúdo e caches de borda regionais, melhorando a experiência do usuário reduzindo a latência. O AWS opera atualmente em muitas regiões geográficas em todo o mundo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@AWS Global Infrastructure](https://aws.amazon.com/about-aws/global-infrastructure/?p=ngi&loc=0)
-- [@official@AWS Regions / Availability Zones](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-regions-availability-zones.html)
+- [@official@Infraestrutura Global do AWS](https://aws.amazon.com/about-aws/global-infrastructure/?p=ngi&loc=0)
+- [@official@Regiões / Zonas de Disponibilidade do AWS](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-regions-availability-zones.html)

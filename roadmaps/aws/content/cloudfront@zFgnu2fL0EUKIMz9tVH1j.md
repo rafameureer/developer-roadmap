@@ -1,7 +1,7 @@
-# Cloudfront
+# CloudFront
 
-Amazon CloudFront is a fast content delivery network (CDN) service that securely delivers data, videos, applications, and APIs to customers globally with low latency, high transfer speeds all within a developer-friendly environment. It integrates with AWS services including AWS Shield for DDoS mitigation, Amazon S3, Elastic Load Balancing or Amazon EC2 as origins for your applications, and Lambda@Edge to run custom code closer to customers’ users and to customize the user experience. Essentially, it accelerates the distribution of your static and dynamic web content, such as .html, .css, .php, image, and media files, to end users.
+O Amazon CloudFront é um serviço de rede de distribuição de conteúdo rápido (CDN) que entrega dados, vídeos, aplicativos e APIs globalmente com baixa latência e alta velocidade de transferência em um ambiente amigável ao desenvolvedor. Ele integra-se a serviços da AWS, incluindo o AWS Shield para mitigação de DDoS, o Amazon S3, o Elastic Load Balancing ou o Amazon EC2 como origens para seus aplicativos, e o Lambda@Edge para executar código personalizado mais próximo dos usuários finais e para personalizar a experiência do usuário. Em essência, ele acelera a distribuição de seu conteúdo web estático e dinâmico, como arquivos .html, .css, .php, imagens e mídia, aos usuários finais.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Amazon Cloudfront](https://aws.amazon.com/cloudfront/)

@@ -1,7 +1,7 @@
-# API Gateway
+# Gateway de API do AWS
 
-AWS API Gateway is a fully-managed service that makes it easy to create, publish, maintain, monitor, and secure APIs at any scale. It acts as a "front door" for applications to access data, business logic, or functionality from your backend services, like workloads running on Amazon EC2, AWS Lambda, or any web application. API Gateway handles all the tasks involved in accepting and processing up to hundreds of thousands of concurrent API calls, including traffic management, authorization and access control, throttling, and API version management. It provides robust, native capabilities to deliver the API governance and lifecycle management capabilities your business needs to productize its APIs.
+O Gateway de API do AWS é um serviço totalmente gerenciado que facilita a criação, publicação, manutenção, monitoramento e segurança de APIs em qualquer escala. Ele atua como uma "porta frontal" para aplicativos acessarem dados, lógica de negócios ou funcionalidades dos seus serviços de back-end, como cargas de trabalho executando no Amazon EC2, AWS Lambda ou qualquer aplicativo web. O Gateway de API lida com todas as tarefas envolvidas em aceitar e processar até centenas de milhares de chamadas de API simultâneas, incluindo gerenciamento de tráfego, autorização e controle de acesso, limitação de taxa e gerenciamento de versão da API. Ele fornece capacidades robustas e nativas para entregar a governança e o gerenciamento de ciclo de vida das APIs que sua empresa precisa para comercializar suas APIs.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@AWS API Gateway](https://aws.amazon.com/api-gateway/)
+- [@oficial@Gateway de API do AWS](https://aws.amazon.com/api-gateway/)

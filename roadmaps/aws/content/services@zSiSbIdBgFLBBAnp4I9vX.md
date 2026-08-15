@@ -1,7 +1,7 @@
-# Services
+# Serviços
 
-AWS ECS Services are defined as a set of part or all of your task definitions that run and maintain a specified number of instances of a task definition simultaneously in an Amazon ECS cluster. If any of your tasks should fail or stop for any reason, the Amazon ECS service scheduler launches another instance of your task definition to replace it and maintain the desired count of tasks, ensuring the service's reliability and availability. ECS services can be scaled manually or with automated scaling policies based on CloudWatch alarms. In addition, ECS service scheduling options define how Amazon ECS places and terminates tasks.
+Os serviços do Amazon ECS (Elastic Container Service) são definidos como um conjunto de parte ou todo de suas definições de tarefas que executam e mantêm um número especificado de instâncias de uma definição de tarefa simultaneamente em um cluster do Amazon ECS. Se qualquer uma das suas tarefas falhar ou parar por qualquer motivo, o agendador de serviços do Amazon ECS lançará outra instância da definição de tarefa para substituí-la e manter a contagem desejada de tarefas, garantindo a confiabilidade e disponibilidade do serviço. Os serviços ECS podem ser dimensionados manualmente ou com políticas de escalonamento automático baseadas em alarmes do CloudWatch. Além disso, as opções de agendamento de serviços ECS definem como o Amazon ECS coloca e termina tarefas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Services in ECS](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/ecs_services.html)
+- [@oficial@Serviços no ECS](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/ecs_services.html)

@@ -1,7 +1,7 @@
-# Magnetic
+# Armazenamento Magnético
 
-"Magnetic" in AWS refers to Magnetic storage, also known as Amazon EBS (Elastic Block Store) Magnetic volumes. These storage types are designed for workloads where data is accessed infrequently, and sceneries where the lowest storage cost is important. Magnetic volumes offer cost-effective storage for applications with moderate or bursty I/O requirements. Though magnetic storage provides the lowest cost per gigabyte of all EBS volume types, it has the poorest performance capability and a higher latency compared to solid-state drive storage options.
+No AWS, "Armazenamento Magnético" se refere a volumes de armazenamento magnético, também conhecidos como Amazon EBS (Elastic Block Store) Volumes Magnéticos. Esses tipos de armazenamento são projetados para cargas de trabalho onde os dados são acessados infrequentemente e em cenários onde o custo mais baixo de armazenamento é importante. Os volumes magnéticos oferecem armazenamento de custo efetivo para aplicativos com requisitos moderados ou de picos de I/O. Embora o armazenamento magnético forneça a menor taxa de custo por gigabyte entre todos os tipos de volume EBS, ele tem a pior capacidade de desempenho e uma maior latência em comparação com as opções de armazenamento baseado em SSD.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Magnetic Storage](https://aws.amazon.com/ebs/previous-generation/)
+- [@official@Armazenamento Magnético](https://aws.amazon.com/ebs/previous-generation/)

@@ -1,8 +1,8 @@
 # VPC
 
-Amazon VPC (Virtual Private Cloud) is a service that lets you launch AWS resources in a logically isolated virtual network that you define. It provides advanced security features such as security groups and network access control lists to enable inbound and outbound filtering at the instance and subnet level. Additionally, you can create a Hardware Virtual Private Network (VPN) connection between your corporate datacenter and your VPC to leverage the AWS cloud as an extension of your corporate datacenter.
+O Amazon Virtual Private Cloud (VPC) é um serviço que permite lançar recursos do AWS em uma rede virtual lógica e isolada que você define. Ele fornece recursos avançados de segurança como grupos de segurança e listas de controle de acesso de rede para permitir o filtro de entrada e saída no nível da instância e sub-rede. Além disso, você pode criar uma conexão de Hardware Virtual Private Network (VPN) entre seu centro de dados corporativo e o VPC para aproveitar a nuvem AWS como uma extensão do centro de dados corporativo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@VPC](https://aws.amazon.com/vpc/)
 - [@video@AWS VPC Beginner to Advanced uses](https://www.youtube.com/watch?v=g2JOHLHh4rI)

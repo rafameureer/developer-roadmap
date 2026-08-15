@@ -1,8 +1,8 @@
-# CPU Credits
+# Créditos de CPU
 
-AWS EC2 instances earn CPU Credits when they are idle and consume CPU credits when they are active. A CPU credit provides the performance of a full CPU core for one minute. T2 and T3 instances accrue CPU Credits and use them to burst beyond their baseline performance. For example, a t2.micro instance receives credits continuously at a rate of 6 CPU Credits per hour. The credit balance of an instance can be saved for up to 7 days. When the instance does not have any CPU credits, it performs at the baseline. It's important to note that CPU credit pricing is different and additional to the instance pricing. AWS also offers Unlimited mode for instances that need to burst beyond the baseline performance for extended periods.
+As instâncias EC2 do AWS ganham Créditos de CPU quando estão ociosas e consomem créditos de CPU quando estão ativas. Um crédito de CPU fornece a performance de um núcleo completo de CPU por um minuto. As instâncias T2 e T3 acumulam Créditos de CPU e os usam para ultrapassar o desempenho básico. Por exemplo, uma instância t2.micro recebe créditos continuamente em uma taxa de 6 Créditos de CPU por hora. O saldo de créditos da instância pode ser salvo até 7 dias. Quando a instância não tem nenhum crédito de CPU, ela opera no desempenho básico. É importante notar que o preço dos créditos de CPU é diferente e adicional ao preço das instâncias. AWS também oferece o modo Ilimitado para instâncias que precisam ultrapassar o desempenho básico por períodos prolongados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Burstable Performance Instances and CPU Credits](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/burstable-credits-baseline-concepts.html)
+- [@oficial@Instâncias de Desempenho Burstable e Créditos de CPU](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/burstable-credits-baseline-concepts.html)
 - [@feed@Explore top posts about Computing](https://app.daily.dev/tags/computing?ref=roadmapsh)

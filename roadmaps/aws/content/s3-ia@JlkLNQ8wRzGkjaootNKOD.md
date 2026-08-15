@@ -1,7 +1,7 @@
 # S3-IA
 
-Amazon S3 Infrequent Access (S3 IA) is a storage class in Amazon S3 designed for data that is accessed less frequently, but requires rapid access when needed. S3 IA offers the high durability, high throughput, and low latency of Amazon S3 Standard, with a lower cost per GB for storage and a per GB retrieval fee. This makes S3 IA suitable for long-term storage, backups, and as a data store for disaster recovery files.
+A classe de armazenamento Amazon S3 Infrequent Access (S3 IA) é projetada para dados que são acessados com menos frequência, mas requerem acesso rápido quando necessário. O S3 IA oferece a alta durabilidade, alta taxa de transferência e baixa latência do Amazon S3 Standard, com um custo mais baixo por GB de armazenamento e uma taxa por GB de recuperação. Isso torna o S3 IA adequado para armazenamento a longo prazo, backups e como um repositório de dados para arquivos de recuperação em caso de desastre.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para saber mais:
 
 - [@official@AWS S3-IA](https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-class-intro.html)

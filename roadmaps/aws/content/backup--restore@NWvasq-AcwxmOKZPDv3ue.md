@@ -1,7 +1,7 @@
 # Backup / Restore
 
-In AWS, DynamoDB has built-in support for data backup and restore features. This includes both on-demand and continuous backups. On-demand backups allow you to create complete backups of your tables for long-term retention and archival, helping meet corporate and governmental regulatory requirements. Continuous backups enable you to restore your table data to any point in time in the last 35 days, thus offering protection from accidental writes or deletes. During a restore operation, you can choose to restore the data to a new DynamoDB table or overwrite data in an existing table. These backups include all necessary metadata, including DynamoDB global secondary indexes.
+No AWS, o DynamoDB possui suporte embutido para recursos de backup e restauração de dados. Isso inclui tanto backups demanda como backups contínuos. Os backups demanda permitem que você crie cópias completas das suas tabelas para retenção a longo prazo e arquivamento, ajudando a atender aos requisitos regulatórios corporativos e governamentais. Os backups contínuos permitem restaurar os dados da tabela em qualquer ponto no tempo nos últimos 35 dias, oferecendo proteção contra escritas ou exclusões acidentais. Durante uma operação de restauração, você pode escolher restaurar os dados para uma nova tabela do DynamoDB ou sobrescrever dados em uma tabela existente. Esses backups incluem todas as metadados necessários, incluindo índices secundários globais do DynamoDB.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Backup & Restore](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Backup-and-Restore.html)

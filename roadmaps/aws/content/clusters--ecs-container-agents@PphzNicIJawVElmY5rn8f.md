@@ -1,8 +1,8 @@
 # Clusters / ECS Container Agents
 
-In AWS, an ECS **Cluster** is a logical grouping of tasks or services. If you run tasks or create services, you do it inside a cluster, so it's a vital building block of the Amazon ECS infrastructure. It serves as a namespace for your tasks and services, as these entities cannot span multiple clusters. The Amazon ECS tasks that run in a cluster are fundamentally distributed across all the Container Instances within an ECS Cluster.
+No AWS, um **Cluster** ECS é um agrupamento lógico de tarefas ou serviços. Se você executar tarefas ou criar serviços, fará isso dentro de um cluster, então ele é uma peça vital da infraestrutura do Amazon ECS. Ele atua como um namespace para suas tarefas e serviços, pois essas entidades não podem abranger múltiplos clusters. As tarefas ECS que executam em um cluster são fundamentalmente distribuídas em todas as Instâncias de Contêiner dentro de um Cluster ECS.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Clusters](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/clusters.html)
 - [@official@ECS Container Agents](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/ecs-agent-config.html)

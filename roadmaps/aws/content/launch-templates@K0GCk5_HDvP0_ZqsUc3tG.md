@@ -1,7 +1,7 @@
-# Launch Templates
+# Modelos de Lançamento
 
-"Launch Templates" in AWS Auto Scaling are configurations that an Auto Scaling group uses to launch EC2 instances. They store the configuration information necessary to launch an instance, which includes the ID of the Amazon Machine Image (AMI), the instance type, a key pair, security groups, and the storage configuration. It helps in setting up new instances quickly and prevent configuration inconsistencies across instances. These templates can also be versioned, allowing updates and roll backs to previous configurations.
+"Modelos de Lançamento" no AWS Auto Scaling são configurações que um grupo de escalabilidade automática usa para lançar instâncias EC2. Eles armazenam as informações de configuração necessárias para lançar uma instância, que incluem o ID da Imagem de Máquina Amazon (AMI), o tipo de instância, um par de chaves, grupos de segurança e a configuração de armazenamento. Ajuda a configurar novas instâncias rapidamente e prevenir inconsistências de configuração entre as instâncias. Esses modelos também podem ser versados, permitindo atualizações e roll backs para configurações anteriores.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Launch Templates](https://aws.amazon.com/about-aws/whats-new/2017/11/introducing-launch-templates-for-amazon-ec2-instances/)
+- [@official@Modelos de Lançamento](https://aws.amazon.com/about-aws/whats-new/2017/11/introducing-launch-templates-for-amazon-ec2-instances/)

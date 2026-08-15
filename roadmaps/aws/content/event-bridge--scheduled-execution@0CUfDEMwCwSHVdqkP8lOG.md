@@ -1,7 +1,7 @@
-# Event Bridge / Scheduled Execution
+# Event Bridge / Execução Agendada
 
-Amazon EventBridge is a serverless event bus that makes it easy to connect applications together using data from your own applications, Software-as-a-Service (SaaS) applications, and AWS services. It enables you to build a bridge between your applications, regardless of where they are. With EventBridge, you simply ingest, filter, transform, and deliver events. It simplifies the process of ingesting and delivering events across your application architecture, while also handling event management. EventBridge combines all of the functionality of CloudWatch Events with new and enhanced features.
+O Amazon EventBridge é um evento de ponta sem servidor que facilita a conexão de aplicativos usando dados dos seus próprios aplicativos, aplicativos como serviço (SaaS) e serviços da AWS. Ele permite que você crie uma ponte entre seus aplicativos, independentemente de onde estejam localizados. Com o EventBridge, você simplesmente ingere, filtra, transforma e entrega eventos. Simplifica o processo de ingestão e entrega de eventos em sua arquitetura de aplicativo, enquanto também lida com a gestão de eventos. O EventBridge combina todas as funcionalidades do CloudWatch Events com novos e melhorados recursos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Amazon EventBridge](https://docs.aws.amazon.com/eventbridge/latest/userguide/eb-what-is.html)

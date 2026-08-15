@@ -1,7 +1,7 @@
 # DynamoDB Local
 
-DynamoDB Local is a downloadable version of Amazon DynamoDB that lets you write and test applications without accessing the real AWS services. It mimics the actual DynamoDB service. You can write code while sitting in a place where internet isn't available as you don't need internet connectivity to use DynamoDB Local. It supports the same API as DynamoDB and works with your existing DynamoDB API calls. The data is stored locally in your system, not on a network, and persists between restarts of DynamoDB Local.
+DynamoDB Local é uma versão baixável do Amazon DynamoDB que permite escrever e testar aplicativos sem acessar os serviços reais da AWS. Ele simula o serviço DynamoDB real. Você pode escrever código enquanto estiver em um lugar onde a internet não está disponível, pois você não precisa de conectividade à internet para usar DynamoDB Local. Ele suporta a mesma API do DynamoDB e funciona com suas chamadas de API existentes do DynamoDB. Os dados são armazenados localmente no seu sistema, não na rede, e persistem entre reinicializações do DynamoDB Local.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@DynamoDB Local](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DynamoDBLocal.html)
+- [@oficial@DynamoDB Local](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DynamoDBLocal.html)

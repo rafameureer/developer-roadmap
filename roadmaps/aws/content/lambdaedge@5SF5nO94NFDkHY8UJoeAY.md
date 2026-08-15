@@ -1,7 +1,7 @@
 # Lambda Edge
 
-Lambda Edge is a feature of AWS Lambda that allows you to run coding functions at AWS edge locations, closest to your customers. This can result in lower latency response times and better customer experiences. It allows you to customize the content that CloudFront delivers, executing the code after the CloudFront response or request. Lambda@Edge scales automatically, from a few requests per day to thousands per second.
+Lambda Edge é uma funcionalidade do AWS Lambda que permite executar funções de codificação em locais de borda da AWS, mais próximos dos seus clientes. Isso pode resultar em tempos de resposta com menor latência e melhores experiências de cliente. Ele permite personalizar o conteúdo que o CloudFront entrega, executando o código após a resposta ou solicitação do CloudFront. O Lambda@Edge escala automaticamente, desde algumas requisições por dia até milhares por segundo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@AWS Lambda Edge](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/lambda-at-the-edge.html)
+- [@official@Lambda Edge da AWS](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/lambda-at-the-edge.html)

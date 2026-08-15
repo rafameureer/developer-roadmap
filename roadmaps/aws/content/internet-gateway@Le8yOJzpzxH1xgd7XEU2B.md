@@ -1,7 +1,7 @@
-# Internet Gateway
+# Gateway da Internet
 
-An **Internet Gateway** is a redundant, horizontally scalable component in AWS that performs bi-directional routing between a VPC and the Internet. It serves two purposes; routing outbound traffic from the VPC to the internet (NAT), and routing inbound traffic from the Internet to the VPC. It's automatically highly available and provides bandwidth and redundancy across all AWS Regions. It becomes associated with a VPC upon creation, and cannot be detached or attached to another VPC once created. Security to and from the Internet Gateway can be controlled using route tables and security groups or network ACLs.
+Um **Gateway da Internet** é um componente redundante e escalável horizontalmente na AWS que realiza roteamento bidirecional entre uma VPC e a Internet. Ele serve dois propósitos; rotear o tráfego de saída da VPC para a internet (NAT), e rotear o tráfego de entrada da Internet para a VPC. Ele é automaticamente altamente disponível e fornece largura de banda e redundância em todas as regiões da AWS. Ele se associa a uma VPC na criação, e não pode ser desassociado ou reassociado a outra VPC uma vez criado. A segurança para e do Gateway da Internet pode ser controlada usando tabelas de roteamento e grupos de segurança ou ACLs de rede.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Internet Gateway](https://www.cisco.com/c/en/us/products/routers/what-is-a-network-gateway.html)
+- [@artigo@Gateway da Internet](https://www.cisco.com/c/en/us/products/routers/what-is-a-network-gateway.html)

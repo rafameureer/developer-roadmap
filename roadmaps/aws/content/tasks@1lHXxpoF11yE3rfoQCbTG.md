@@ -1,7 +1,7 @@
-# Tasks
+# Tarefas
 
-Tasks in Amazon ECS are the instantiation of a task definition within a cluster. They can be thought of as the running instance of the definition, the same way an object is an instance of a class in object-oriented programming. A task definition is a text file in JSON format that describes one or more containers, up to a maximum of 10. The task definition parameters specify the container image to use, the amount of CPU and memory to allocate for each container, and the launch type to use for the task, among other options. When a task is launched, it is scheduled on an available container instance within the cluster.
+As tarefas no Amazon ECS são a instância de uma definição de tarefa dentro de um cluster. Elas podem ser pensadas como a instância em execução da definição, da mesma forma que um objeto é uma instância de uma classe em programação orientada a objetos. Uma definição de tarefa é um arquivo de texto no formato JSON que descreve um ou mais contêineres, até um máximo de 10. Os parâmetros da definição de tarefa especificam a imagem do contêiner a ser usada, a quantidade de CPU e memória a ser alocada para cada contêiner e o tipo de lançamento a ser usado para a tarefa, entre outras opções. Quando uma tarefa é iniciada, ela é agendada em uma instância de contêiner disponível dentro do cluster.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Tasks in ECS](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/task_definitions.html)
+- [@official@Tarefas no ECS](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/task_definitions.html)

@@ -1,7 +1,7 @@
-# Cloudwatch
+# CloudWatch
 
-"Amazon CloudWatch" is a monitoring service for AWS resources and applications that you run on Amazon Web Services. You can use Amazon CloudWatch to collect and track metrics, collect and monitor log files, and respond to system-wide performance changes. CloudWatch gives system-wide visibility into resource utilization, application performance, and operational health. It utilizes operational data (logs and metrics) to automatically respond to changes in AWS resources. It allows you to work seamlessly with various AWS services like Amazon EC2, Amazon DynamoDB, Amazon S3, Amazon ECS, AWS Lambda, and many more.
+"Amazon CloudWatch" é um serviço de monitoramento para recursos e aplicativos que você executa no Amazon Web Services. Você pode usar o Amazon CloudWatch para coletar e rastrear métricas, coletar e monitorar arquivos de log e responder a mudanças de desempenho em escala global. O CloudWatch fornece uma visão global sobre o uso dos recursos, o desempenho do aplicativo e a saúde operacional. Ele utiliza dados operacionais (logs e métricas) para responder automaticamente às mudanças nos recursos da AWS. Ele permite que você trabalhe de forma fluida com vários serviços da AWS como o Amazon EC2, o Amazon DynamoDB, o Amazon S3, o Amazon ECS, o AWS Lambda e muito mais.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Amazon Cloudwatch](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.html)

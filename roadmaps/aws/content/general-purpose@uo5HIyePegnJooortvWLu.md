@@ -1,7 +1,7 @@
-# General Purpose
+# Propósito Geral
 
-General Purpose Storage in AWS refers to Amazon Elastic Block Store (Amazon EBS) volumes designed for a broad range of workloads, including small to medium-sized databases, development and test environments, and boot volumes. The General Purpose SSD (gp2) volumes offer cost-effective storage that is ideal for a broad range of transactional workloads and delivers consistent baseline performance of 3 IOPS/GB to a maximum of 16000 IOPS. Moreover, General Purpose SSD (gp2) volumes also provide the ability to burst to higher levels of performance when needed.
+O Armazenamento de Propósito Geral no AWS refere-se a volumes do Amazon Elastic Block Store (Amazon EBS) projetados para um amplo range de cargas de trabalho, incluindo bancos de dados pequenos e médios, ambientes de desenvolvimento e teste e volumes de inicialização. Os volumes SSD de Propósito Geral (gp2) oferecem armazenamento econômico eficaz que é ideal para uma ampla gama de cargas de trabalho transacionais e entrega uma taxa de desempenho base consistente de 3 IOPS/GB até um máximo de 16000 IOPS. Além disso, os volumes SSD de Propósito Geral (gp2) também oferecem a capacidade de atingir níveis mais altos de desempenho quando necessário.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@General Purpose Storage](https://aws.amazon.com/ebs/general-purpose/)
+- [@official@Armazenamento de Propósito Geral](https://aws.amazon.com/ebs/general-purpose/)

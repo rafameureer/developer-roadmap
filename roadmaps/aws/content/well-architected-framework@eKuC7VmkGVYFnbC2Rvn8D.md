@@ -1,7 +1,7 @@
-# Well Architected Framework
+# Estrutura Arquitetada de Excelência
 
-AWS Well-Architected Framework is a set of strategic guidelines provided by Amazon Web Services. It is designed to provide high-performing and resilient systems while maintaining cost efficiency. The framework divides the architectural best practices across six pillars which include operational excellence, security, reliability, performance efficiency, cost optimization and the sustainability. With this framework, you can assess and improve your cloud-based architectures and applications by leveraging AWS technologies.
+A AWS Well-Architected Framework é um conjunto de diretrizes estratégicas fornecidas pela Amazon Web Services. Está projetado para fornecer sistemas de alto desempenho e resistência, mantendo a eficiência custo-benefício. O quadro divide as melhores práticas arquitetônicas em seis pilares que incluem excelência operacional, segurança, confiabilidade, eficiência de desempenho, otimização de custos e sustentabilidade. Com este quadro, você pode avaliar e melhorar suas arquiteturas e aplicativos baseados em nuvem usando tecnologias da AWS.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@AWS Well-Architected](https://aws.amazon.com/architecture/well-architected)
+- [@oficial@Estrutura Arquitetada de Excelência da AWS](https://aws.amazon.com/architecture/well-architected)

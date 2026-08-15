@@ -1,7 +1,7 @@
-# Primary Keys / Secondary Indexes
+# Chaves Primárias / Índices Secundários
 
-DynamoDB supports two types of primary keys, namely `Partition Key` and `Composite Key` (Partition Key and Sort Key). A `Partition Key`, also known as a hash key, is a simple primary key that has a scalar value (a string, a number, or a binary blob). DynamoDB uses the partition key's value to distribute data across multiple partitions for scalable performance. A `Composite Key` consists of two attributes. The first attribute is the partition key, and the second attribute is the sort key. DynamoDB uses the partition key to spread data across partitions and also uses the sort key to store items in sorted order within those partitions. This sort key provides further granular control over data organization.
+O DynamoDB suporta dois tipos de chaves primárias, que são `Chave de Partição` e `Chave Composta` (Chave de Partição e Chave de Classificação). Uma `Chave de Partição`, também conhecida como chave hash, é uma chave primária simples que tem um valor escalar (uma string, um número ou um blob binário). O DynamoDB usa o valor da chave de partição para distribuir dados em várias partições para desempenho escalonável. Uma `Chave Composta` consiste em dois atributos. O primeiro atributo é a chave de partição, e o segundo atributo é a chave de classificação. O DynamoDB usa a chave de partição para espalhar os dados nas partições e também usa a chave de classificação para armazenar itens em ordem crescente dentro dessas partições. Esta chave de classificação fornece um controle granular adicional sobre a organização dos dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Primary Keys / Secondary Indexes](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/SecondaryIndexes.html)
+- [@oficial@Chaves Primárias / Índices Secundários](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/SecondaryIndexes.html)

@@ -1,7 +1,7 @@
-# User Data Scripts
+# Scripts de Dados do Usuário
 
-"User Data Scripts" in EC2 instances are used to perform common automated configuration tasks and even run scripts after the instance starts. These scripts run as the root user, and can be used to install software or download files from an S3 bucket. You can pass up to 16 KB of data to an instance, either as plain text or base64-encoded. The User Data script is executed only one time when the instance is first launched. If you stop and start the instance, the script does not run again. However, it will run on every boot if the instance reboots.
+"Scripts de Dados do Usuário" em instâncias EC2 são usados para realizar tarefas de configuração automatizada comuns e até mesmo executar scripts após a inicialização da instância. Esses scripts são executados como o usuário root e podem ser usados para instalar software ou baixar arquivos de um bucket S3. Você pode passar até 16 KB de dados para uma instância, seja em formato de texto simples ou codificado em base64. O script de Dados do Usuário é executado apenas uma vez quando a instância é inicializada pela primeira vez. Se você parar e reiniciar a instância, o script não será executado novamente. No entanto, ele será executado em cada inicialização se a instância reiniciar.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@User Data Scripts EC2](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/user-data.html)
+- [@official@Scripts de Dados do Usuário EC2](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/user-data.html)

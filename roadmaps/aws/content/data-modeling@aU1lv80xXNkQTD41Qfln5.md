@@ -1,8 +1,7 @@
-# Data Modeling
+# Modelagem de Dados
 
-In AWS DynamoDB, data modeling is a process that involves determining how to organize, access, and understand the data stored in a database. This process is crucial as it outlines how data will be stored and accessed across a wide range of databases and applications. The primary components of data modeling in DynamoDB include tables, items, and attributes. Tables are collections of data. Items are individual pieces of data that are stored in a table. Attributes are elements of data that relate to a particular item. DynamoDB uses a NoSQL model which means it’s schema-less, i.e., the data can be structured in any way that your business needs  
-prescribe, and can be changed at any time. This contrasts with traditional relational databases which require pre-defined schemas.
+No AWS DynamoDB, a modelagem de dados é um processo que envolve determinar como organizar, acessar e entender os dados armazenados em um banco de dados. Esse processo é crucial porque ele define como os dados serão armazenados e acessados em uma ampla gama de bancos de dados e aplicativos. Os principais componentes da modelagem de dados no DynamoDB incluem tabelas, itens e atributos. As tabelas são coleções de dados. Itens são partes individuais de dados que são armazenados em uma tabela. Atributos são elementos de dados que se relacionam a um item específico. O DynamoDB usa um modelo NoSQL, o que significa que é sem esquema, ou seja, os dados podem ser estruturados de qualquer forma que sua empresa precise prescrever e podem ser alterados em qualquer momento. Isso contrasta com bancos de dados relacionais tradicionais, que exigem esquemas pré-definidos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Data Modeling](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/data-modeling.html)
+- [@oficial@Modelagem de Dados](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/data-modeling.html)

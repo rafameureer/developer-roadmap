@@ -1,7 +1,7 @@
-# Policies
+# Políticas
 
-Amazon CloudFront works with AWS Identity and Access Management (IAM) and AWS Organizations to provide you with options to implement fine-grained access control over your CloudFront distributions. CloudFront policies allow you to specify the permissions of a resource. You can create a policy to allow an IAM user to create or delete distributions, to allow an AWS account to create a CloudFront origin access identity, or to allow an organization to update the settings for a distribution. You can also use policies to specify which Amazon S3 bucket a CloudFront distribution can access.
+O Amazon CloudFront trabalha com o AWS Identity and Access Management (IAM) e o AWS Organizations para fornecer opções de controle de acesso granular sobre suas distribuições do CloudFront. As políticas do CloudFront permitem especificar as permissões de um recurso. Você pode criar uma política para permitir que um usuário IAM crie ou exclua distribuições, para permitir que uma conta AWS crie uma identidade de acesso à origem do CloudFront, ou para permitir que uma organização atualize as configurações de uma distribuição. Você também pode usar políticas para especificar qual bucket do Amazon S3 uma distribuição do CloudFront pode acessar.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Cloudfront IAM](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/security-iam.html)
+- [@oficial@IAM do Cloudfront](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/security-iam.html)

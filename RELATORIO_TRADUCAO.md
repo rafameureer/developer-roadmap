@@ -1,11 +1,11 @@
 # 📊 Relatório de Progresso da Tradução Autônoma (PT-BR)
 
-**Última atualização:** 15/08/2026 02:02:22
+**Última atualização:** 15/08/2026 02:12:05
 
 ## 📈 Estatísticas Gerais
-- **Progresso Global:** `775 / 10365` arquivos (`7.48%`)
-- **Roadmaps Concluídos:** `13 / 91`
-- **Itens Pendentes para Decisão Humana:** `215` (veja [DECISOES_HUMANAS.md](./DECISOES_HUMANAS.md))
+- **Progresso Global:** `854 / 10365` arquivos (`8.24%`)
+- **Roadmaps Concluídos:** `14 / 91`
+- **Itens Pendentes para Decisão Humana:** `237` (veja [DECISOES_HUMANAS.md](./DECISOES_HUMANAS.md))
 
 ---
 
@@ -19,6 +19,7 @@
 - ✅ `angular`
 - ✅ `api-design`
 - ✅ `aspnet-core`
+- ✅ `aws`
 - ✅ `backend-beginner`
 - ✅ `devops-beginner`
 - ✅ `frontend-beginner`

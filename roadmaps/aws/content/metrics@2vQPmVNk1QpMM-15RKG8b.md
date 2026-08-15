@@ -1,7 +1,7 @@
-# Metrics
+# Métricas
 
-In Amazon CloudWatch, **metrics** are fundamental concepts that you work with. A metric is the fundamental concept in CloudWatch and represents a time-ordered set of data points that are published to CloudWatch. Think of a metric as a variable to monitor, and the data points as representing the values of that variable over time. Metrics are uniquely defined by a name, a namespace, and zero or more dimensions up to 30 dimensions per metric. Every data point must have a timestamp. You can retrieve statistics about those data points as an ordered set of time-series data. CloudWatch provides metrics for every service in AWS.
+No Amazon CloudWatch, **métricas** são conceitos fundamentais com os quais você trabalha. Uma métrica é o conceito fundamental no CloudWatch e representa um conjunto ordenado de pontos de dados publicados para o CloudWatch. Imagine uma métrica como uma variável a ser monitorada, e os pontos de dados representando os valores dessa variável ao longo do tempo. As métricas são únicasmente definidas por um nome, um namespace e zero ou mais dimensões até 30 dimensões por métrica. Cada ponto de dados deve ter uma marca temporal. Você pode recuperar estatísticas sobre esses pontos de dados como um conjunto ordenado de dados em série temporais. O CloudWatch fornece métricas para todos os serviços do AWS.
 
-Learn more from the following resources:
+Saiba mais dos seguintes recursos:
 
-- [@official@CloudWatch Metrics](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/publishingMetrics.html)
+- [@official@Métricas do CloudWatch](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/publishingMetrics.html)

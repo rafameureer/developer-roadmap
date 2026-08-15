@@ -1,7 +1,7 @@
-# Health checks
+# Verificações de Saúde
 
-Route53 health checks enable you to monitor the health and performance of your applications, network, and servers. You can create custom health checks that verify the status of specific resources, such as a web server or email server. If the health check fails, Route 53 routes traffic away from the unhealthy resources. Health checks run periodically, at intervals that you specify, to help you detect issues before your end-users do. You can configure alarms to notify you when a resource becomes unhealthy, helping you respond rapidly to potential issues. AWS Route 53 Health Checks also integrates with CloudWatch, providing detailed metrics and graphs for analyzed data.
+As verificações de saúde do Route53 permitem que você monitore a saúde e o desempenho das suas aplicações, redes e servidores. Você pode criar verificações de saúde personalizadas que verifiquem o status de recursos específicos, como um servidor web ou servidor de email. Se uma verificação de saúde falhar, o Route 53 direciona o tráfego para fora dos recursos saudáveis. As verificações de saúde são executadas periodicamente, em intervalos que você especificar, ajudando a detectar problemas antes que os seus usuários finais percebam. Você pode configurar alarmes para notificá-lo quando um recurso se torna insaudável, ajudando a responder rapidamente a possíveis problemas. As verificações de saúde do AWS Route 53 também integram-se com o CloudWatch, fornecendo métricas e gráficos detalhados para dados analisados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Route53 Health Checks](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/welcome-health-checks.html)
+- [@official@Verificações de Saúde do Route53](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/welcome-health-checks.html)

@@ -720,7 +720,86 @@
     "roadmaps/aspnet-core/content/transient@-N0XM0-VtCZ6QMo2YyMD-.md",
     "roadmaps/aspnet-core/content/triggers@2f_CJMnXwPxjMEwm5P_QJ.md",
     "roadmaps/aspnet-core/content/web-sockets@tBl8neu3tJd5GPwGfJbjZ.md",
-    "roadmaps/aspnet-core/content/webapplicationfactory@Xx5G09n4WWnnydCgxnL0A.md"
+    "roadmaps/aspnet-core/content/webapplicationfactory@Xx5G09n4WWnnydCgxnL0A.md",
+    "roadmaps/aws/content/amis@AfagmWcllSi81D2XIQz0V.md",
+    "roadmaps/aws/content/api-gateway@T0dvezPWX6rAiKweT0TkG.md",
+    "roadmaps/aws/content/assuming-roles@0IMdO7g_5El1elvDXJJ_0.md",
+    "roadmaps/aws/content/auto-scaling-groups@gBKHVG7FvlCEgINKmw00s.md",
+    "roadmaps/aws/content/auto-scaling@dOAZG-NbjWiVdPKYEhWxj.md",
+    "roadmaps/aws/content/aws-global-infrastructure@z9R1BWUGalmnw0E7QqiW6.md",
+    "roadmaps/aws/content/backup--restore@NWvasq-AcwxmOKZPDv3ue.md",
+    "roadmaps/aws/content/backup--restore@tBKc7tHOiJaTmwEl3q--Y.md",
+    "roadmaps/aws/content/bucket--object-lifecycle@8i6zpjkMC_Pg-tDNmrx4n.md",
+    "roadmaps/aws/content/buckets--objects@rTgjDj5HqbjRpcJ7PR-EC.md",
+    "roadmaps/aws/content/capacity-settings@KtXww9J0znwzTwL7GKfaY.md",
+    "roadmaps/aws/content/cidr-blocks@2hFBv2fhKDYBN-9ITs82J.md",
+    "roadmaps/aws/content/cloudfront@zFgnu2fL0EUKIMz9tVH1j.md",
+    "roadmaps/aws/content/cloudwatch@VAYxwJH10PFjGS8poKd9-.md",
+    "roadmaps/aws/content/clusters--ecs-container-agents@PphzNicIJawVElmY5rn8f.md",
+    "roadmaps/aws/content/cold-start-and-limitations@EuOv19jDSj56Cy7PqvtNv.md",
+    "roadmaps/aws/content/configuration-sets@4svXYQYmqjUZU39z8OyhD.md",
+    "roadmaps/aws/content/cpu-credits@_U2bKjxIrAAk7TMrPttpb.md",
+    "roadmaps/aws/content/creating--invoking-functions@SdCNevKjyhFcreMSWY6BT.md",
+    "roadmaps/aws/content/custom-runtimes@KWjIAakMIlxn_jso22h0M.md",
+    "roadmaps/aws/content/data-modeling@aU1lv80xXNkQTD41Qfln5.md",
+    "roadmaps/aws/content/dkim-setup@zwVd1vNm1ks6MdHZoi-5W.md",
+    "roadmaps/aws/content/dynamodb-local@yauCWo1VoG-X483-4mfdn.md",
+    "roadmaps/aws/content/dynamodb@wGb0TEDnSe_bmv9Krx4qB.md",
+    "roadmaps/aws/content/ecr@_c_Wq84yIu4ac7e0RzDtC.md",
+    "roadmaps/aws/content/elasticache@9TcYdsdmvKWWHoyE6uNbC.md",
+    "roadmaps/aws/content/event-bridge--scheduled-execution@0CUfDEMwCwSHVdqkP8lOG.md",
+    "roadmaps/aws/content/events@tHQ6NRVDPCPEOmzgjQDLX.md",
+    "roadmaps/aws/content/fargate@OI8y54RhFpfS_l1L9VTZe.md",
+    "roadmaps/aws/content/feedback-handling@0NWTFssjg9SbDXQRkN5kF.md",
+    "roadmaps/aws/content/general-purpose@uo5HIyePegnJooortvWLu.md",
+    "roadmaps/aws/content/glacier@IikKYP58sT2H1lM8glm-g.md",
+    "roadmaps/aws/content/health-checks@LXG_znJ3XzPAlDxUH2-Xp.md",
+    "roadmaps/aws/content/hosted-zones@z-o-2cGYSM6KW_CNJyw3p.md",
+    "roadmaps/aws/content/iaas-vs-paas-vs-saas@i4ijY3T5gLgNz0XqRipXe.md",
+    "roadmaps/aws/content/iam@xmKeB4hEi2DunmhAsvS1X.md",
+    "roadmaps/aws/content/identity-based@cwGuOrmbSTcSoH80skLTk.md",
+    "roadmaps/aws/content/identity-verification@bTCVHXPG-LtaaFmgiB2SL.md",
+    "roadmaps/aws/content/instance-profiles@i7X1GfOx5AZYFskepW4Zr.md",
+    "roadmaps/aws/content/instance-types@VHD2ISW9WoSWjp8Hh6Zft.md",
+    "roadmaps/aws/content/internet-gateway@Le8yOJzpzxH1xgd7XEU2B.md",
+    "roadmaps/aws/content/invalidations@hRXbAADgRTXEFwbBXeNu7.md",
+    "roadmaps/aws/content/keypairs@wFT-fddGn__DRoqG0joFk.md",
+    "roadmaps/aws/content/lambda@741vsAPTXJLVUlazFg0q4.md",
+    "roadmaps/aws/content/lambdaedge@5SF5nO94NFDkHY8UJoeAY.md",
+    "roadmaps/aws/content/launch-config--autoscaling-groups@1r2FL3OEOh0S9ee0OVnrN.md",
+    "roadmaps/aws/content/launch-templates@K0GCk5_HDvP0_ZqsUc3tG.md",
+    "roadmaps/aws/content/layers@CL93C0NGFQmScVnftnRtO.md",
+    "roadmaps/aws/content/limits@0ctJa-V6aenimSr5h303J.md",
+    "roadmaps/aws/content/logs@oC6KIjWAXw0hLl4FwkB9F.md",
+    "roadmaps/aws/content/magnetic@y0CoNcEFHyz350f7pNddt.md",
+    "roadmaps/aws/content/metrics@2vQPmVNk1QpMM-15RKG8b.md",
+    "roadmaps/aws/content/nat-gateway@6D-gs32jrCyvMVhr9PSAY.md",
+    "roadmaps/aws/content/policies@dO9ZfUyNia7L_fCh4d0n7.md",
+    "roadmaps/aws/content/policies@eQAn3e-k9WNufPqOnwY_K.md",
+    "roadmaps/aws/content/primary-keys--secondary-indexes@oWtWgaFznTPJhQIyfIIQf.md",
+    "roadmaps/aws/content/rds@fkMF-2PQZ00UdwxhQt1ds.md",
+    "roadmaps/aws/content/resource-based@v_YmmlOk-DkzJ8mI5Ftgr.md",
+    "roadmaps/aws/content/roles@7nI202hX41mI5ms9LZonh.md",
+    "roadmaps/aws/content/s3-ia@JlkLNQ8wRzGkjaootNKOD.md",
+    "roadmaps/aws/content/s3@PN3xAYfQ-_QgZCRCnsEca.md",
+    "roadmaps/aws/content/sandbox--sending-limits@kG7tlZjv_hJbHGooBkxS0.md",
+    "roadmaps/aws/content/scaling-policies@fRBaiw8Qx8kapzCphmM4v.md",
+    "roadmaps/aws/content/security-groups@Cd9gdbkCFdrTLrnJMy5F3.md",
+    "roadmaps/aws/content/sender-reputation@Vo_PBfB7LxYL27nBBVoVp.md",
+    "roadmaps/aws/content/services@zSiSbIdBgFLBBAnp4I9vX.md",
+    "roadmaps/aws/content/ses@-bwXo6xvF1yzyWEm5oZhJ.md",
+    "roadmaps/aws/content/shared-responsibility-model@0flGtxZmxQKxO3c3sguwp.md",
+    "roadmaps/aws/content/storage-types@Xs057ESpvxXg2r_rDQnOa.md",
+    "roadmaps/aws/content/streams@0C3GCGdSXozJK2MNeWerg.md",
+    "roadmaps/aws/content/subnets@Y64TE0U20kllmykjdfhHp.md",
+    "roadmaps/aws/content/tables--items--attributes@DN_iuLo9gYDqU8JleE1WJ.md",
+    "roadmaps/aws/content/tasks@1lHXxpoF11yE3rfoQCbTG.md",
+    "roadmaps/aws/content/user-data-scripts@ZKjjgXZ89zV2atWcSal-s.md",
+    "roadmaps/aws/content/users--user-groups@Nn2zawk6A31NwZa40jOhX.md",
+    "roadmaps/aws/content/versioning--aliases@75ZjuGozDfoZPLj32P2t2.md",
+    "roadmaps/aws/content/vpc@Sv2aT8eI1RvJhvoKVYQEX.md",
+    "roadmaps/aws/content/well-architected-framework@eKuC7VmkGVYFnbC2Rvn8D.md",
+    "roadmaps/aws/content/what-is-cloud-computing@74JxgfJ_1qmVNZ_QRp9Ne.md"
   ],
   "completed_roadmaps": [
     "frontend-beginner",
@@ -735,7 +814,8 @@
     "android",
     "angular",
     "api-design",
-    "aspnet-core"
+    "aspnet-core",
+    "aws"
   ],
   "flagged_issues": [
     {
@@ -1812,8 +1892,118 @@
       "file": "roadmaps/aspnet-core/content/yarp@2axfolu26P8XwxMxgMaS3.md",
       "reason": "Falha na tradução automática após tentativas no Ollama",
       "timestamp": "2026-08-15T02:02:22.537262"
+    },
+    {
+      "file": "roadmaps/aws/content/db-instances@l9oq3LiEd8ZrPtupPk-Fn.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:04:23.035702"
+    },
+    {
+      "file": "roadmaps/aws/content/dedicated-ip@pnX1dfkjS8woWc4KGXlh_.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:04:26.820852"
+    },
+    {
+      "file": "roadmaps/aws/content/distributions@fAK7GRKunmoidlD32OBma.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:04:30.673730"
+    },
+    {
+      "file": "roadmaps/aws/content/ec2@cL7vis8H5L2vv6LqJ5wvC.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:05:01.435600"
+    },
+    {
+      "file": "roadmaps/aws/content/ecs@EqUT0wpdPRDGtGAZ7nneY.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:05:10.464301"
+    },
+    {
+      "file": "roadmaps/aws/content/eks@kvHzEDZQV72AUjqisg8PB.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:05:27.370204"
+    },
+    {
+      "file": "roadmaps/aws/content/elastic-ip@DCvkZSp25pjaimG0THLTu.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:05:30.985985"
+    },
+    {
+      "file": "roadmaps/aws/content/elastic-load-balancers@YAZPKMbmrxYNqF6alXMyL.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:05:35.852446"
+    },
+    {
+      "file": "roadmaps/aws/content/introduction-to-aws@Dg1v9TV-wGSNLPfAals_y.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:07:11.457251"
+    },
+    {
+      "file": "roadmaps/aws/content/introduction@Py9nst2FDJ1_hoXeX_qSF.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:07:18.302231"
+    },
+    {
+      "file": "roadmaps/aws/content/private-subnet@ymuURDwW8JG3NSIXcl0FL.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:08:42.833942"
+    },
+    {
+      "file": "roadmaps/aws/content/provisioned-iops@3l1ji4JToj277vpgONmLw.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:08:46.843661"
+    },
+    {
+      "file": "roadmaps/aws/content/public-subnet@ABCH1rATHmecyWHyK3n-m.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:08:51.359482"
+    },
+    {
+      "file": "roadmaps/aws/content/public-vs-private-vs-hybrid-cloud@3hatcMVLDbMuz73uTx-9P.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:09:15.018736"
+    },
+    {
+      "file": "roadmaps/aws/content/purchasing-options@8v9T6Y6JC7qaqIgkbT-nr.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:09:20.249091"
+    },
+    {
+      "file": "roadmaps/aws/content/quotas@PYgs4niQRlLKCBMfM4qf9.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:09:23.533705"
+    },
+    {
+      "file": "roadmaps/aws/content/route-tables@FCdOnwQubhOnCFFnF8uJN.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:09:57.658768"
+    },
+    {
+      "file": "roadmaps/aws/content/route53@f89qL7Cg9R_LTxBEG4jUK.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:10:02.381642"
+    },
+    {
+      "file": "roadmaps/aws/content/routing-policies@IQhPG1La7dZeSXnX23D1n.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:10:10.114010"
+    },
+    {
+      "file": "roadmaps/aws/content/standard@Ll5FPCtkpYq_niJd7WoTC.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:11:06.634061"
+    },
+    {
+      "file": "roadmaps/aws/content/storage--volumes@A0u7CJwj5ULAMiAm12vZI.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:11:10.803305"
+    },
+    {
+      "file": "roadmaps/aws/content/storage-types@PJaAqax4fABnkObY5UwNp.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:11:14.615500"
     }
   ],
-  "last_updated": "2026-08-15T02:02:22.539485",
+  "last_updated": "2026-08-15T02:12:05.275031",
   "total_translated_count": 54
 }

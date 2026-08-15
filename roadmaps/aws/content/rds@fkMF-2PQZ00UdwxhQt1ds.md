@@ -1,7 +1,7 @@
 # RDS
 
-Amazon RDS (Relational Database Service) is a web service from Amazon Web Services. It's designed to simplify the setup, operation, and scaling of relational databases in the cloud. This service provides cost-efficient, resizable capacity for an industry-standard relational database and manages common database administration tasks. RDS supports six database engines: Amazon Aurora, PostgreSQL, MySQL, MariaDB, Oracle Database, and SQL Server. These engines give you the ability to run instances ranging from 5GB to 6TB of memory, accommodating your specific use case. It also ensures the database is up-to-date with the latest patches, automatically backs up your data and offers encryption at rest and in transit.
+O Amazon RDS (Relational Database Service) é um serviço da Web da Amazon Web Services. Ele foi projetado para simplificar a configuração, operação e escala de bancos de dados relacionais na nuvem. Este serviço oferece capacidade escalonável e eficiente em custo para um banco de dados relacional padrão do setor e gerencia tarefas comuns de administração de banco de dados. O RDS suporta seis motores de banco de dados: Amazon Aurora, PostgreSQL, MySQL, MariaDB, Oracle Database e SQL Server. Esses motores lhe permitem executar instâncias que variam em memória de 5GB a 6TB, adaptando-se ao seu caso de uso específico. Ele também garante que o banco de dados esteja atualizado com as últimas patches, faz backup automático dos seus dados e oferece criptografia em repouso e em transito.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Amazon RDS](https://aws.amazon.com/rds/)

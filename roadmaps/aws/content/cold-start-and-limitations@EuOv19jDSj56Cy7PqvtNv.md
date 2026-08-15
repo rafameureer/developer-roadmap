@@ -1,7 +1,7 @@
-# Cold Start and Limitations
+# Início frio e limitações
 
-AWS Lambda's cold start refers to the delay experienced when Lambda invokes a function for the first time or after it has updated its code or dependencies. This happens because Lambda needs to do some initial setup, such as initializing the runtime, before it can execute the function code. This setup process adds to the function's execution time, and is particularly noticeable in situations where low latency is critical. Cold start times also vary based on the memory size, with bigger lambda functions taking longer times to start. Further, unused functions may face a cold start again as AWS may clear out idle resources from time to time.
+O início frio do AWS Lambda se refere ao atraso experimentado quando o Lambda invoca uma função pela primeira vez ou após atualizar seu código ou dependências. Isso acontece porque o Lambda precisa realizar algumas configurações iniciais, como inicializar o tempo de execução, antes de poder executar o código da função. Esse processo de configuração adiciona ao tempo de execução da função e é particularmente perceptível em situações onde a latência baixa é crítica. Os tempos de início frio também variam com base no tamanho da memória, com funções lambda maiores levando mais tempo para iniciar. Além disso, funções não utilizadas podem enfrentar um novo início frio conforme AWS pode limpar recursos ociosos em determinados momentos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@AWS Cold Start and Limitations](https://docs.aws.amazon.com/lambda/latest/dg/snapstart.html)
+- [@oficial@Início frio e limitações do Lambda](https://docs.aws.amazon.com/lambda/latest/dg/snapstart.html)

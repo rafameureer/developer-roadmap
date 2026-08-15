@@ -1,7 +1,7 @@
 # Bucket / Object Lifecycle
 
-AWS S3 Lifecycle is a feature within the AWS S3 resources that allows users to manage their objects so that they are automatically transferred to different storage classes or expire at the end of their lifetimes. It facilitates transitioning objects between different storage classes at set times or according to specified conditions, and can also automate the cleanup of expired objects to help reduce storage consumed by obsolete data. A lifecycle can be applied to a bucket or a subset of objects. Note that each transition or expiration activity is a separate action within the lifecycle.
+O AWS S3 Lifecycle é uma funcionalidade dentro dos recursos do AWS S3 que permite aos usuários gerenciar seus objetos para que sejam automaticamente transferidos para diferentes classes de armazenamento ou expirem no final de suas vidas. Ele facilita a transição de objetos entre diferentes classes de armazenamento em tempos definidos ou conforme condições especificadas, e também pode automatizar a limpeza de objetos expirados para ajudar a reduzir o armazenamento consumido por dados obsoletos. Um ciclo de vida pode ser aplicado a um bucket ou a uma subconjunto de objetos. Note que cada transição ou atividade de expiração é uma ação separada dentro do ciclo de vida.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Bucket / Object Lifecycle](https://docs.aws.amazon.com/AmazonS3/latest/userguide/object-lifecycle-mgmt.html)

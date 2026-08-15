@@ -4,7 +4,7 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 
 ---
 
-> ⚠️ **Total de itens sinalizados:** 215
+> ⚠️ **Total de itens sinalizados:** 237
 
 | Arquivo / Tópico | Motivo da Sinalização | Data/Hora |
 |---|---|---|
@@ -223,3 +223,25 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 | `roadmaps/aspnet-core/content/solr@2sY_p_8cOOBmZtDHO2Cmy.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:00:36.425965 |
 | `roadmaps/aspnet-core/content/xunit@R8C6s53RYjkRVma0nCJpy.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:02:18.041684 |
 | `roadmaps/aspnet-core/content/yarp@2axfolu26P8XwxMxgMaS3.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:02:22.537262 |
+| `roadmaps/aws/content/db-instances@l9oq3LiEd8ZrPtupPk-Fn.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:04:23.035702 |
+| `roadmaps/aws/content/dedicated-ip@pnX1dfkjS8woWc4KGXlh_.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:04:26.820852 |
+| `roadmaps/aws/content/distributions@fAK7GRKunmoidlD32OBma.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:04:30.673730 |
+| `roadmaps/aws/content/ec2@cL7vis8H5L2vv6LqJ5wvC.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:05:01.435600 |
+| `roadmaps/aws/content/ecs@EqUT0wpdPRDGtGAZ7nneY.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:05:10.464301 |
+| `roadmaps/aws/content/eks@kvHzEDZQV72AUjqisg8PB.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:05:27.370204 |
+| `roadmaps/aws/content/elastic-ip@DCvkZSp25pjaimG0THLTu.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:05:30.985985 |
+| `roadmaps/aws/content/elastic-load-balancers@YAZPKMbmrxYNqF6alXMyL.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:05:35.852446 |
+| `roadmaps/aws/content/introduction-to-aws@Dg1v9TV-wGSNLPfAals_y.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:07:11.457251 |
+| `roadmaps/aws/content/introduction@Py9nst2FDJ1_hoXeX_qSF.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:07:18.302231 |
+| `roadmaps/aws/content/private-subnet@ymuURDwW8JG3NSIXcl0FL.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:08:42.833942 |
+| `roadmaps/aws/content/provisioned-iops@3l1ji4JToj277vpgONmLw.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:08:46.843661 |
+| `roadmaps/aws/content/public-subnet@ABCH1rATHmecyWHyK3n-m.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:08:51.359482 |
+| `roadmaps/aws/content/public-vs-private-vs-hybrid-cloud@3hatcMVLDbMuz73uTx-9P.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:09:15.018736 |
+| `roadmaps/aws/content/purchasing-options@8v9T6Y6JC7qaqIgkbT-nr.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:09:20.249091 |
+| `roadmaps/aws/content/quotas@PYgs4niQRlLKCBMfM4qf9.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:09:23.533705 |
+| `roadmaps/aws/content/route-tables@FCdOnwQubhOnCFFnF8uJN.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:09:57.658768 |
+| `roadmaps/aws/content/route53@f89qL7Cg9R_LTxBEG4jUK.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:10:02.381642 |
+| `roadmaps/aws/content/routing-policies@IQhPG1La7dZeSXnX23D1n.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:10:10.114010 |
+| `roadmaps/aws/content/standard@Ll5FPCtkpYq_niJd7WoTC.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:11:06.634061 |
+| `roadmaps/aws/content/storage--volumes@A0u7CJwj5ULAMiAm12vZI.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:11:10.803305 |
+| `roadmaps/aws/content/storage-types@PJaAqax4fABnkObY5UwNp.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:11:14.615500 |

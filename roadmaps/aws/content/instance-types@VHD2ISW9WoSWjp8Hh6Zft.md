@@ -1,7 +1,7 @@
-# Instance Types
+# Tipos de Instância
 
-AWS EC2 instances come in a variety of types optimized to fit different use cases. They are grouped into categories depending on their performance capacity and pricing structure. There are five categories of instance types including General Purpose, Compute Optimized, Memory Optimized, Storage Optimized, and Accelerated Computing instances. Each category is suited best for specific workloads and they consist of different instance types each given a specific name, for example, 't2.micro'. Each instance type has a specific amount of CPU, memory, storage, and network capacity. Understanding the workloads of your applications can help you determine which instance type would be best suited to your needs.
+As instâncias do Amazon EC2 vêm em vários tipos otimizados para atender a diferentes casos de uso. Eles são agrupados em categorias dependendo da capacidade de desempenho e estrutura de preços. Existem cinco categorias de tipos de instância, incluindo Instâncias Gerais-Purpose, Instâncias Computação-Otimizadas, Instâncias Memória-Otimizadas, Instâncias Armazenamento-Otimizadas e Instâncias de Computação-Acelerada. Cada categoria é adequada para os tipos específicos de carregamentos de trabalho e consiste em diferentes tipos de instância, cada um com um nome específico, por exemplo, 't2.micro'. Cada tipo de instância tem uma quantidade específica de CPU, memória, armazenamento e capacidade de rede. Entender os carregamentos de trabalho dos seus aplicativos pode ajudar a determinar qual tipo de instância seria mais adequado para suas necessidades.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@AWS EC2 Instance Types](https://aws.amazon.com/ec2/instance-types)
+- [@official@Tipos de Instâncias do AWS EC2](https://aws.amazon.com/ec2/instance-types)

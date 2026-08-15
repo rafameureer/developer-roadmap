@@ -1,7 +1,7 @@
 # Logs
 
-AWS CloudWatch Logs service allows you to monitor, store, and access your log files from Amazon Elastic Compute Cloud (Amazon EC2) instances, AWS CloudTrail, and other sources. It centralizes the logs from all your systems, applications, and AWS services that you use, into a single, highly scalable service. You can then easily view them, search through them, set alarms, and correlate them to other operational data. It also integrates with AWS Lambda, providing the ability to respond quickly to critical operational events.
+O serviço AWS CloudWatch Logs permite que você monitore, armazene e acesse seus arquivos de log de instâncias do Amazon Elastic Compute Cloud (Amazon EC2), AWS CloudTrail e outros fontes. Ele centraliza os logs de todos os sistemas, aplicativos e serviços do AWS que você usa em um único serviço altamente escalável. Você pode então visualizá-los facilmente, pesquisar por eles, definir alarmes e correlacioná-los a outros dados operacionais. Ele também integra-se com o AWS Lambda, permitindo responder rapidamente a eventos operacionais críticos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Amazon Cloudwatch Logs](https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/WhatIsCloudWatchLogs.html)
+- [@oficial@Amazon CloudWatch Logs](https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/WhatIsCloudWatchLogs.html)

@@ -1,7 +1,7 @@
-# Binary Trees
+# Árvores Binárias
 
-A **Binary Tree** is a type of tree data structure in which each node has at most two children, referred to as the left child and the right child. This distinguishes it from trees in which nodes can have any number of children. A binary tree is further classified as a strictly binary tree if every non-leaf node in the tree has non-empty left and right child nodes. A binary tree is complete if all levels of the tree, except possibly the last, are fully filled, and all nodes are as left-justified as possible. Multiple algorithms and functions employ binary trees due to their suitable properties for mathematical operations and data organization.
+Uma **Árvore Binária** é uma estrutura de dados em árvore onde cada nó tem no máximo dois filhos, referidos como filho esquerdo e filho direito. Isso a distingue das árvores em que os nós podem ter qualquer número de filhos. Uma árvore binária é classificada adicionalmente como uma árvore binária estritamente se cada nó não-folha na árvore tiver filhos esquerdo e direito não-vazios. Uma árvore binária é completa se todos os níveis da árvore, exceto possivelmente o último, estiverem completamente preenchidos, e todos os nós estiverem tão à esquerda quanto possível. Muitos algoritmos e funções utilizam árvores binárias devido às suas propriedades adequadas para operações matemáticas e organização de dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@Binary Tree](https://youtu.be/4r_XR9fUPhQ?si=PBsRjix_Z9kVHgMM)
+- [@video@Árvore Binária](https://youtu.be/4r_XR9fUPhQ?si=PBsRjix_Z9kVHgMM)

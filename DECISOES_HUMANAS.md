@@ -4,7 +4,7 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 
 ---
 
-> ⚠️ **Total de itens sinalizados:** 592
+> ⚠️ **Total de itens sinalizados:** 634
 
 | Arquivo / Tópico | Motivo da Sinalização | Data/Hora |
 |---|---|---|
@@ -600,3 +600,45 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 | `roadmaps/data-engineer/content/networking-fundamentals@cgkzFMmQils2sYj4NW8VW.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:58:31.097776 |
 | `roadmaps/data-engineer/content/new-relic@r1KmASWAa_MOqQOC9gvvF.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:58:32.800215 |
 | `roadmaps/data-engineer/content/yarn@KcW4z48pk2x6IjQhZs_Ub.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:01:43.403232 |
+| `roadmaps/datastructures-and-algorithms/content/2-3-trees@o0fNAhJ1LsCdmGzY2ni_x.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:01:59.847285 |
+| `roadmaps/datastructures-and-algorithms/content/a-algorithm@AabJqPUwFVBVS02YPDPvL.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:02:01.848902 |
+| `roadmaps/datastructures-and-algorithms/content/advanced-data-structures@KnyUHDvpDTUO0EkAs9pT8.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:02:07.095417 |
+| `roadmaps/datastructures-and-algorithms/content/big--notation@CkUi93TvTkEm2_isHNvqr.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:03:14.690549 |
+| `roadmaps/datastructures-and-algorithms/content/big--notation@Ex6tzu6gwrarWm1CNFufO.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:03:18.443540 |
+| `roadmaps/datastructures-and-algorithms/content/big-o-notation@oylTfop_JDPHJ3jYuA2Nq.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:03:24.486579 |
+| `roadmaps/datastructures-and-algorithms/content/depth-first-search@gR8KcOIADUxS8hdiEaGZy.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:04:50.431875 |
+| `roadmaps/datastructures-and-algorithms/content/dijkstras-algorithm@87UugvReiywF0E7Acos9U.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:04:54.249534 |
+| `roadmaps/datastructures-and-algorithms/content/directed-graph@XVw2_dL3uN0SOWmjH1Uao.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:04:57.417515 |
+| `roadmaps/datastructures-and-algorithms/content/disjoint-set-union-find@La8XAT0BWvqRCrvQxtZIp.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:05:14.487069 |
+| `roadmaps/datastructures-and-algorithms/content/divide-and-conquer@xchWhsizaKgYuHPC4Tz9H.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:05:18.061075 |
+| `roadmaps/datastructures-and-algorithms/content/dynamic-programming@jKAZNybU9cxufNBdFsqsP.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:05:24.742716 |
+| `roadmaps/datastructures-and-algorithms/content/go@OkdM_PJge70j5tsjT2Esl.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:06:08.505555 |
+| `roadmaps/datastructures-and-algorithms/content/graph-data-structures@j_r1tB16bA7R3yDAWN7Oj.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:06:13.377116 |
+| `roadmaps/datastructures-and-algorithms/content/greedy-algorithms@qUlqyTjk3XKF9DEm6Lsgb.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:06:17.862589 |
+| `roadmaps/datastructures-and-algorithms/content/linear-search@AtX-PeI8nY4-5bA-xLla0.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:07:37.201181 |
+| `roadmaps/datastructures-and-algorithms/content/linear@4noav5w_8GrMTXN1Lxm5h.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:07:40.416083 |
+| `roadmaps/datastructures-and-algorithms/content/linear@HOpL-4jYhOe0LNrrkPrET.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:07:43.326913 |
+| `roadmaps/datastructures-and-algorithms/content/merge-sort@k0UBAj3hOYab4mUziOYyW.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:08:13.558881 |
+| `roadmaps/datastructures-and-algorithms/content/minimum-spanning-tree@Ktqau1VkVrnnVYByqcacM.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:08:18.430120 |
+| `roadmaps/datastructures-and-algorithms/content/multi-threaded@gaaRAL3HR48Qj9rz1CkDU.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:08:20.481859 |
+| `roadmaps/datastructures-and-algorithms/content/prims-algorithm@yEWnYjW0ZLVhsLc9rH4ae.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:08:58.122563 |
+| `roadmaps/datastructures-and-algorithms/content/problem-solving-techniques@Y1Uz6XRbR1YqFtO4akiPA.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:09:02.670604 |
+| `roadmaps/datastructures-and-algorithms/content/programming-fundamentals@ebQdTOAOV54WBToHmFtBk.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:09:05.766852 |
+| `roadmaps/datastructures-and-algorithms/content/pseudo-code@tvy3Vic8Vp-Ie2x_OyZ5b.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:09:24.853135 |
+| `roadmaps/datastructures-and-algorithms/content/python@XyRCXhZjQFcDNaUSNNQV-.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:09:29.879582 |
+| `roadmaps/datastructures-and-algorithms/content/queues@v0phjC75jhmE1z-f9ZMck.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:09:35.044785 |
+| `roadmaps/datastructures-and-algorithms/content/quick-sort@LgEV0Wm4avrOqR8bV5GXW.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:09:58.147654 |
+| `roadmaps/datastructures-and-algorithms/content/randomised-algorithms@RiS8KZs3YBE6mKWPHszMp.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:10:02.433436 |
+| `roadmaps/datastructures-and-algorithms/content/recursion@4ZAzcwP0oPGZ9Rw042V8-.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:10:06.617948 |
+| `roadmaps/datastructures-and-algorithms/content/ruby@9h1mz0xAUvPrnRm9VndJF.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:10:24.710203 |
+| `roadmaps/datastructures-and-algorithms/content/rust@acgRMEuL4ZGGRHpZ7kXSo.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:10:29.157713 |
+| `roadmaps/datastructures-and-algorithms/content/search-algorithms@LW5HZMca4lvhbbA8KYaOa.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:10:34.032230 |
+| `roadmaps/datastructures-and-algorithms/content/search-algorithms@YJsAQWJpLwVN6oCxNwNAn.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:10:49.539508 |
+| `roadmaps/datastructures-and-algorithms/content/search-algorithms@z_Cf_alLAYSCyYtNviRcO.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:10:51.503544 |
+| `roadmaps/datastructures-and-algorithms/content/segment-trees@iFNS3x9wVRIjpixct6H7x.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:10:55.776895 |
+| `roadmaps/datastructures-and-algorithms/content/selection-sort@SMgBHvqXLD6Cgr2nix4wR.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:11:14.835441 |
+| `roadmaps/datastructures-and-algorithms/content/shortest-path-algorithms@N-qvYirxpORcaTslvlOL0.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:11:19.607237 |
+| `roadmaps/datastructures-and-algorithms/content/skip-list@TQu-OBpvR-aQfMByUcwyM.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:11:23.908682 |
+| `roadmaps/datastructures-and-algorithms/content/tree-data-structures@r2Jagzbx0qOG-VtxBY-mz.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:12:13.190966 |
+| `roadmaps/datastructures-and-algorithms/content/tree-traversal@2Od5lNc6fCM6Gyj_axj4n.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:12:17.291932 |
+| `roadmaps/datastructures-and-algorithms/content/trie@zy3wpb1MjizfUfx9_rZy2.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:12:21.758158 |

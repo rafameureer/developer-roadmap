@@ -1,7 +1,7 @@
-# AVL Trees
+# Árvores AVL
 
-An **AVL tree** is a type of binary search tree that is self-balancing, which means the heights of the two child subtrees of any node in the tree differ by at most one. If at any point the difference becomes greater than one, rebalancing is done to restore the property. The tree is named after its inventors, G.M. Adelson-Velsky and E.M. Landis, who introduced it in 1962. Each node in an AVL tree carries extra information (its Balance Factor) which could be either -1, 0, or +1. AVL trees balance themselves by rotating sub-trees in different manners(named as Left-Left rotation, Right-Right rotation, Left-Right rotation, and Right-Left rotation) whenever an insert operation causes the balance factor to go beyond this range.
+Uma **árvore AVL** é um tipo de árvore binária de busca que é auto-balanceada, o que significa que as alturas das duas subárvores dos filhos de qualquer nó na árvore diferem em no máximo uma unidade. Se a diferença entre as alturas se tornar maior do que uma unidade em algum momento, um balanceamento é realizado para restaurar a propriedade. A árvore está nomeada após seus inventores, G.M. Adelson-Velsky e E.M. Landis, que introduziram-a em 1962. Cada nó em uma árvore AVL carrega informações extras (seu Fator de Balanceamento), que pode ser -1, 0 ou +1. As árvores AVL se auto-balanceiam rotacionando sub-árvores de diferentes maneiras (chamadas de rotação à esquerda-esquerda, rotação à direita-direita, rotação à esquerda-direita e rotação à direita-esquerda) sempre que uma operação de inserção causar o fator de balanceamento a ultrapassar esse intervalo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@AVL trees in 5 minutes — Intro & Search](https://www.youtube.com/watch?v=DB1HFCEdLxA)
+- [@video@Árvores AVL em 5 minutos — Introdução & Busca](https://www.youtube.com/watch?v=DB1HFCEdLxA)

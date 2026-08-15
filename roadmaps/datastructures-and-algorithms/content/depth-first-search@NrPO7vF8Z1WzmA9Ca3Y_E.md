@@ -1,7 +1,7 @@
-# Depth First Search
+# Busca em Profundidade
 
-**Depth-First Search (DFS)** is an algorithm used for traversing or searching tree or graph data structures. The process starts at the root node (selecting some arbitrary node as the root in the case of a graph), and explores as far as possible along each branch before backtracking. It uses a last in, first out (LIFO) stack to remember to get the next vertex to start a search when a dead end occurs in any iteration. DFS has been used in a variety of applications including finding connected components, topological sorting, and finding articulation points (or cut vertices) in a graph.
+**Busca em Profundidade (DFS)** é um algoritmo usado para percorrer ou pesquisar estruturas de dados de árvore ou gráfico. O processo começa no nó raiz (selecionando algum nó arbitrário como a raiz em caso de um gráfico), e explora o máximo possível ao longo de cada ramo antes de voltar atrás. Ele usa uma pilha de último a entrar, primeiro a sair (LIFO) para lembrar de qual vértice começar uma busca quando ocorrer um fim-de-caminho em qualquer iteração. DFS tem sido usado em uma variedade de aplicações incluindo encontrar componentes conectados, classificação topológica e encontrar pontos de articulação (ou vértices de corte) em um gráfico.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@Learn Depth First Search in 7 minutes](https://youtu.be/by93qH4ACxo?si=FXcUfuwB5atV5SIY)
+- [@vídeo@Aprenda Busca em Profundidade em 7 minutos](https://youtu.be/by93qH4ACxo?si=FXcUfuwB5atV5SIY)

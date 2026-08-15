@@ -1,8 +1,8 @@
-# Sliding Window Technique
+# Técnica de Janela Deslizante
 
-The **Sliding Window Technique** is an algorithmic paradigm that manages a subset of items in a collection of objects, like an array or list, by maintaining a range of elements observed, which is referred to as the 'window'. The window 'slides' over the data to examine different subsets of its contents. This technique is often used in array-related coding problems and is particularly useful for problems that ask for maximums or minimums over a specific range within the dataset. This technique can help to greatly reduce the time complexity when dealing with problems revolving around sequential or contiguous data. Common examples of its application are in solving problems like maximum sum subarray or minimum size subsequence with a given sum.
+A **Técnica de Janela Deslizante** é um paradigma algorítmico que gerencia um subconjunto de itens em uma coleção de objetos, como um array ou lista, mantendo um intervalo de elementos observados, que é referido como 'janela'. A janela 'desliza' sobre os dados para examinar diferentes subconjuntos de seus conteúdos. Esta técnica é frequentemente usada em problemas relacionados a arrays e é particularmente útil para problemas que pedem máximos ou mínimos em um intervalo específico dentro dos dados. Esta técnica pode ajudar a reduzir significativamente a complexidade do tempo ao lidar com problemas envolvendo dados sequenciais ou contínuos. Exemplos comuns de sua aplicação são na solução de problemas como subarray com maior soma ou subsequência com tamanho mínimo com uma soma dada.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Mastering Sliding Window Techniques](https://medium.com/@rishu__2701/mastering-sliding-window-techniques-48f819194fd7)
-- [@video@Sliding window technique](https://www.youtube.com/watch?v=p-ss2JNynmw)
+- [@artigo@Dominando as Técnicas de Janela Deslizante](https://medium.com/@rishu__2701/mastering-sliding-window-techniques-48f819194fd7)
+- [@vídeo@Técnica de janela deslizante](https://www.youtube.com/watch?v=p-ss2JNynmw)

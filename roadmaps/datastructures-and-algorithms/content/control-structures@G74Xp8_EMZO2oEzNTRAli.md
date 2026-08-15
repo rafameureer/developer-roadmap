@@ -1,7 +1,7 @@
-# Control Structures
+# Estruturas de Controle
 
-Control structures are fundamental elements in most programming languages that facilitate the flow of control through a program. There are three main types of control structures: Sequential, Selection and Iteration.
+As estruturas de controle são elementos fundamentais em maioria dos idiomas de programação que facilitam a fluência do controle através de um programa. Existem três tipos principais de estruturas de controle: Sequencial, Seleção e Iteração.
 
-*   **Sequential** control structures are the default mode where instructions happen one after another.
-*   **Selection** control structures (often called "conditional" or "decision" structures) allow one set of instructions to be executed if a condition is true and another if it's false. These typically include `if...else` statements.
-*   **Iteration** control structures (also known as _loops_) allow a block of code to be repeated multiple times. Common loop structures include `for`, `while`, and `do...while` loops. All these control structures play a vital role in shaping the program logic.
+*   **Sequencial** as estruturas de controle são o modo padrão onde as instruções acontecem uma após outra.
+*   **Seleção** as estruturas de controle (geralmente chamadas de "condicionais" ou "decisões") permitem que um conjunto de instruções seja executado se uma condição for verdadeira e outro caso contrário. Esses geralmente incluem declarações `if...else`.
+*   **Iteração** as estruturas de controle (também conhecidas como _loops_) permitem que um bloco de código seja repetido várias vezes. Estruturas comuns de loop incluem loops `for`, `while` e `do...while`. Todas essas estruturas de controle desempenham um papel vital na formação da lógica do programa.

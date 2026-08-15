@@ -1,3 +1,3 @@
-# Pre-Order Traversal
+# Percurso Pré-Ordem
 
-Pre Order Traversal is a very specific kind of tree traversal in data structures. In this method of traversal, the process starts from the root node, then proceeds to the left subtree, and finally to the right subtree. To put it concisely, the order of traversal is Root, Left, and Right (often abbreviated as R-L-R). This makes it particularly useful in scenarios where it's important to duplicate or clone a tree, or to get a prefix expression (Polish notation) of a binary expression tree.
+O Percurso Pré-Ordem é um tipo específico de percurso em estruturas de dados. Neste método de percurso, o processo começa pelo nó raiz, depois prossegue para a subárvore esquerda e finalmente para a subárvore direita. Em termos concisos, a ordem de percurso é Raiz, Esquerda e Direita (geralmente abreviada como R-L-R). Isso o torna particularmente útil em cenários onde é importante duplicar ou clonar uma árvore, ou obter uma expressão prefixa (notação polonesa) de uma árvore de expressão binária.

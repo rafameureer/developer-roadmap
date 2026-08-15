@@ -1,3 +1,3 @@
-# Pick a Language
+# Escolha um Idioma
 
-Pick a programming language to practice data structures and algorithms with. You should pick a language that you are comfortable with or plan to adopt.
+Escolha um idioma de programação para praticar estruturas de dados e algoritmos. Você deve escolher um idioma que você esteja confortável ou planeje adotar.

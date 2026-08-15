@@ -1,3 +1,3 @@
-# Constant
+# Constante
 
-Constant time complexity is denoted as O(1). This means the running time of the algorithm remains constant, regardless of the size of the input data set. Whether you're working with an array of 10 elements or 1 million, if an operation takes the same amount of time regardless of the size of the array, it is said to have a constant time complexity. For example, accessing any element in an array by index is an O(1) operation, as the access operation takes the same amount of time regardless of the position of the element in the array.
+A complexidade de tempo constante é denotada como O(1). Isso significa que o tempo de execução do algoritmo permanece constante, independentemente do tamanho do conjunto de dados de entrada. Seja trabalhando com um array de 10 elementos ou 1 milhão, se uma operação levar o mesmo tempo independente do tamanho do array, é dito que tem complexidade de tempo constante. Por exemplo, acessar qualquer elemento em um array por índice é uma operação O(1), pois a operação de acesso leva o mesmo tempo independentemente da posição do elemento no array.

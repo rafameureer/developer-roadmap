@@ -1,6 +1,6 @@
 # Insertion Sort
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@Insertion Sort](https://youtu.be/JU767SDMDvA)
-- [@article@Insertion Sort Visualization](https://www.hackerearth.com/practice/algorithms/sorting/insertion-sort/visualize/)
+- [@curso@Insertion Sort](https://youtu.be/JU767SDMDvA)
+- [@artigo@Visualização do Insertion Sort](https://www.hackerearth.com/practice/algorithms/sorting/insertion-sort/visualize/)

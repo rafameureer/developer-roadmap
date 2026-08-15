@@ -1,10 +1,10 @@
 # C++
 
-C++ is a powerful general-purpose programming language. It can be used to develop operating systems, browsers, games, and so on. C++ supports different ways of programming like procedural, object-oriented, functional, and so on. This makes C++ powerful as well as flexible.
+O C++ é uma linguagem de programação poderosa de propósito geral. Pode ser usada para desenvolver sistemas operacionais, navegadores, jogos e muito mais. O C++ suporta diferentes maneiras de programar como procedural, orientado a objetos, funcional, etc. Isso o torna tanto poderoso quanto flexível.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Visit Dedicated C++ Roadmap](https://roadmap.sh/cpp)
-- [@article@Learn Cpp](https://learncpp.com/)
-- [@article@C++ Reference](https://en.cppreference.com/)
+- [@official@Visite a rotação dedicada ao C++](https://roadmap.sh/cpp)
+- [@article@Aprenda Cpp](https://learncpp.com/)
+- [@article@Referência do C++](https://en.cppreference.com/)
 - [@feed@Explore top posts about C++](https://app.daily.dev/tags/c++?ref=roadmapsh)

@@ -1,3 +1,3 @@
-# Cyclic Sort
+# Classificação Ciclônica
 
-Cyclic sort is a sorting technique for arrays whose values fall in a known, contiguous range, typically `1` to `n`. Each element is swapped to the position matching its value, placing everything correctly in O(n) time and O(1) space — ideal as a building block for problems such as finding missing or duplicate numbers.
+A classificação ciclônica é uma técnica de classificação para arrays cujos valores caem em um intervalo conhecido e contínuo, geralmente `1` a `n`. Cada elemento é trocado para a posição correspondente ao seu valor, colocando tudo corretamente em O(n) tempo e O(1) espaço — ideal como uma peça de construção para problemas como encontrar números faltantes ou duplicados.

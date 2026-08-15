@@ -1,9 +1,9 @@
 # Heap
 
-A heap is a type of data structure in computer science that is like a tree, where each parent node is always bigger (in a max heap) or smaller (in a min heap) than its child nodes.
+Um heap é um tipo de estrutura de dados em ciência da computação que é como uma árvore, onde cada nó pai sempre é maior (em uma Max-Heap) ou menor (em uma Min-Heap) do que seus nós filhos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Heap Data Structure](https://www.programiz.com/dsa/heap-data-structure)
-- [@video@Heap Data Structure](https://www.youtube.com/watch?v=t0Cq6tVNRBA)
-- [@video@Heaps and Priority Queues](https://www.youtube.com/watch?v=B7hVxCmfPtM)
+- [@artigo@Estrutura de Dados Heap](https://www.programiz.com/dsa/heap-data-structure)
+- [@vídeo@Estrutura de Dados Heap](https://www.youtube.com/watch?v=t0Cq6tVNRBA)
+- [@vídeo@Heaps e Filas de Prioridade](https://www.youtube.com/watch?v=B7hVxCmfPtM)

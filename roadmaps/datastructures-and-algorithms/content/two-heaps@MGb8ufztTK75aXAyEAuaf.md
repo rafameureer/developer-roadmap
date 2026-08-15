@@ -1,8 +1,8 @@
-# Two Heaps
+# Dois Montículos
 
-The two heaps method uses a max-heap to store the lower half of the numbers and a min-heap to store the upper half. This setup allows you to quickly access the largest value of the lower half and the smallest value of the upper half in constant time. Insertions and deletions take logarithmic time, and the heaps are balanced so that the median can be found in O(1) time. This approach is especially useful for dynamically maintaining the median of a long or streaming data sequence, where repeatedly sorting the data would be inefficient (O(n log n) per sort).
+O método de dois montículos usa um montículo máximo para armazenar a metade inferior dos números e um montículo mínimo para armazenar a metade superior. Esse setup permite acessar rapidamente o maior valor da metade inferior e o menor valor da metade superior em tempo constante. Inserções e deleções têm complexidade logarítmica, e os montículos são balanceados para que o mediano possa ser encontrado em O(1) tempo. Esse abordagem é especialmente útil para manter dinamicamente o mediano de uma sequência de dados longa ou em fluxo, onde repetirmente ordenar os dados seria ineficiente (O(n log n) por ordenação).
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Two Heaps — A Coding Pattern for Median-finding (Emre Bolat)](https://emre.me/coding-patterns/two-heaps/)
-- [@video@Coding Pattern - Two Heaps](https://www.youtube.com/watch?v=9P7W5aEaatQ)
+- [@artigo@Dois Montículos — Um Padrão de Codificação para a Encontrada do Mediano (Emre Bolat)](https://emre.me/coding-patterns/two-heaps/)
+- [@vídeo@Padrão de Codificação - Dois Montículos](https://www.youtube.com/watch?v=9P7W5aEaatQ)

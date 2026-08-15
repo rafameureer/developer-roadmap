@@ -1,7 +1,7 @@
-# OOP Basics
+# Básicos de POO
 
-Object-oriented programming (OOP) is a programming paradigm that uses "objects" to design applications and software. In OOP, each object is an instance of a class. A class defines the properties (often known as attributes or fields) and methods (actions) that are common to all objects of a certain kind. A key principle of OOP is the ability to hide certain parts of the objects’ data from the outside, a concept known as encapsulation. Other key principles are inheritance, a way to form new classes using classes that have already been defined, and polymorphism, the concept of designing objects to share behaviors and being able to override shared behaviors with specifics.
+A programação orientada a objetos (POO) é um paradigma de programação que usa "objetos" para projetar aplicativos e software. Na POO, cada objeto é uma instância de uma classe. Uma classe define as propriedades (geralmente conhecidas como atributos ou campos) e os métodos (ações) comuns a todos os objetos de um certo tipo. Um princípio fundamental da POO é a capacidade de ocultar certas partes dos dados dos objetos do exterior, um conceito conhecido como encapsulamento. Outros princípios importantes são herança, uma maneira de formar novas classes usando classes que já foram definidas, e polimorfismo, o conceito de projetar objetos para compartilhar comportamentos e ser capazes de substituir comportamentos compartilhados por específicos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@Object-Oriented Programming (Simplified)](https://youtu.be/pTB0EiLXUC8?si=I8rV2K5fhpoqmixX)
+- [@vídeo@Programação Orientada a Objetos (Simplificado)](https://youtu.be/pTB0EiLXUC8?si=I8rV2K5fhpoqmixX)

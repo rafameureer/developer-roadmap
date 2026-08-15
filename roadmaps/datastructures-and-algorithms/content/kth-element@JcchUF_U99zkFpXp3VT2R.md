@@ -1,3 +1,3 @@
-# Kth Element
+# Elemento K
 
-Kth element problems ask you to find the kth smallest (or largest) element in a collection without fully sorting it. Common solutions include heaps, quickselect, or sorting, depending on the constraints — a pattern that also appears in questions about arrays, streams, and binary search trees.
+Problemas de elemento K pedem que você encontre o k-ésimo menor (ou maior) elemento em uma coleção sem ordená-la completamente. Soluções comuns incluem filas de prioridade, quickselect ou classificação, dependendo das restrições — um padrão também aparece em perguntas sobre arrays, streams e árvores binárias de busca.

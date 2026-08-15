@@ -1,8 +1,8 @@
-# Brute Force
+# Força Bruta
 
-"Brute Force" is a straightforward method to solve problems. It involves trying every possible solution until the right one is found. This technique does not require any specific skills or knowledge and the approach is directly applied to the problem at hand. However, while it can be effective, it is not always efficient since it often requires a significant amount of time and resources to go through all potential solutions. In terms of computational problems, a brute force algorithm examines all possibilities one by one until a satisfactory solution is found. With growing complexity, the processing time of brute force solutions dramatically increases leading to combinatorial explosion. Brute force is a base for complex problem-solving algorithms which improve the time and space complexity by adding heuristics or rules of thumb.
+"Força Bruta" é um método direto para resolver problemas. Envolve tentar todas as possíveis soluções até encontrar a certa. Esta técnica não requer qualquer habilidade específica ou conhecimento e o abordagem é aplicada diretamente ao problema em questão. No entanto, embora possa ser eficaz, nem sempre é eficiente, pois muitas vezes requer um significativo tempo e recursos para passar por todas as soluções potenciais. Em termos de problemas computacionais, um algoritmo de força bruta examina todas as possibilidades uma após a outra até encontrar uma solução satisfatória. Com crescente complexidade, o tempo de processamento das soluções de força bruta aumenta dramaticamente, levando à explosão combinatória. A força bruta é uma base para algoritmos de resolução de problemas complexos que melhoram a complexidade de tempo e espaço adicionando heurísticas ou regras de thumb.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Brute Force Technique in Algorithms](https://medium.com/@shraddharao_/brute-force-technique-in-algorithms-34bac04bde8a)
-- [@video@Brute Force Algorithm Explained With C++ Examples](https://www.youtube.com/watch?v=BYWf6-tpQ4k)
+- [@artigo@Técnica de Força Bruta em Algoritmos](https://medium.com/@shraddharao_/brute-force-technique-in-algorithms-34bac04bde8a)
+- [@vídeo@Algoritmo de Força Bruta Explicado com Exemplos em C++](https://www.youtube.com/watch?v=BYWf6-tpQ4k)

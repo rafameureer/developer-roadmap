@@ -1,8 +1,8 @@
-# Binary Search Trees
+# Árvores de Busca Binária
 
-A **Binary Search Tree** (BST) is a type of binary tree data structure where each node carries a unique key (a value), and each key/node has up to two referenced sub-trees, the left and right child. The key feature of a BST is that every node on the right subtree must have a value greater than its parent node, while every node on the left subtree must have a value less than its parent node. This property must be true for all the nodes, not just the root. Due to this property, searching, insertion, and removal of a node in a BST perform quite fast, and the operations can be done in O(log n) time complexity, making it suitable for data-intensive operations.
+A **Árvore de Busca Binária** (BST) é uma estrutura de dados em árvore binária onde cada nó carrega uma chave única (um valor), e cada chave/nó tem até dois sub-árvores referenciados, o filho esquerdo e o filho direito. A característica principal da BST é que todos os nós na subárvore à direita devem ter um valor maior do que o nó pai, enquanto todos os nós na subárvore à esquerda devem ter um valor menor do que o nó pai. Essa propriedade deve ser verdadeira para todos os nós, não apenas a raiz. Devido a essa propriedade, a busca, inserção e remoção de um nó em uma BST são bastante rápidas, e as operações podem ser realizadas com complexidade de tempo O(log n), tornando-a adequada para operações intensivas em dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@Binary Search Tree Part-1](https://youtu.be/lFq5mYUWEBk?si=GKRm1O278NCetnry)
-- [@video@Binary Search Tree Part-2](https://youtu.be/JnrbMQyGLiU?si=1pfKn2akKXWLshY6)
+- [@video@Árvore de Busca Binária Parte 1](https://youtu.be/lFq5mYUWEBk?si=GKRm1O278NCetnry)
+- [@video@Árvore de Busca Binária Parte 2](https://youtu.be/JnrbMQyGLiU?si=1pfKn2akKXWLshY6)

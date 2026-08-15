@@ -1,7 +1,7 @@
-# B/B+ Trees
+# Árvores B/B+
 
-`B trees` and `B+ trees` are both types of self-balancing, sorted, tree-based data structures that maintain sorted data in a way that allows for efficient insertion, deletion, and search operations. A `B tree` is a tree data structure in which each node has multiple keys and can be in more than two children nodes. Each internal node in a `B tree` can contain a variable number of keys and pointers. The keys act as separation values which divide its subtrees. One important aspect of a `B tree` is that every key in the node also appears in the parent node. On the other hand, a `B+ tree` is an extension of a `B tree` which allows for efficient traversal of data. In a `B+ tree`, data pointers are stored only at the leaf nodes of the tree, making every leaf node of a `B+ tree` a linked list. The intermediary nodes only use the keys to aid with the search.
+As `Árvores B` e `Árvores B+` são ambos tipos de estruturas de dados de árvore balanceadas e ordenadas que mantêm dados ordenados de maneira que permita operações de inserção, deleção e busca eficientes. Uma `Árvore B` é uma estrutura de dados em forma de árvore na qual cada nó tem múltiplas chaves e pode ter mais de dois nós filhos. Cada nó interno em uma `Árvore B` pode conter um número variável de chaves e ponteiros. As chaves atuam como valores de separação que dividem seus subárvores. Um aspecto importante de uma `Árvore B` é que cada chave no nó também aparece no nó pai. Por outro lado, uma `Árvore B+` é uma extensão de uma `Árvore B` que permite uma navegação eficiente dos dados. Em uma `Árvore B+`, os ponteiros de dados são armazenados apenas nos nós folha da árvore, tornando cada nó folha de uma `Árvore B+` uma lista encadeada. Os nós intermediários usam apenas as chaves para auxiliar na busca.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@B Trees and B+ Trees. How they are useful in Databases](https://www.youtube.com/watch?v=aZjYr87r1b8)
+- [@video@Árvores B e Árvores B+. Como elas são úteis em Bancos de Dados](https://www.youtube.com/watch?v=aZjYr87r1b8)

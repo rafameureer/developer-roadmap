@@ -1,7 +1,7 @@
-# Binary Search
+# Busca Binária
 
-`Binary Search` is a type of search algorithm that follows the divide and conquer strategy. It works on a sorted array by repeatedly dividing the search interval in half. Initially, the search space is the entire array and the target is compared with the middle element of the array. If they are not equal, the half in which the target cannot lie is eliminated and the search continues on the remaining half, again taking the middle element to compare to the target, and repeating this until the target is found. If the search ends with the remaining half being empty, the target is not in the array. Binary Search is log(n) as it cuts down the search space by half each step.
+A `Busca Binária` é um tipo de algoritmo de busca que segue a estratégia dividir e conquistar. Funciona em um array ordenado dividindo repetidamente o intervalo de busca ao meio. Inicialmente, o espaço de busca é todo o array e o alvo é comparado com o elemento do meio do array. Se eles não forem iguais, a metade em que o alvo não pode estar é eliminada e a busca continua na metade restante, novamente pegando o elemento do meio para comparar com o alvo, e repetindo isso até que o alvo seja encontrado. Se a busca terminar com a metade restante sendo vazia, o alvo não está no array. A Busca Binária é log(n) porque corta o espaço de busca pela metade a cada passo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@Learn Binary Search in 10 minutes](https://www.youtube.com/watch?v=xrMppTpoqdw)
+- [@video@Aprenda Busca Binária em 10 minutos](https://www.youtube.com/watch?v=xrMppTpoqdw)

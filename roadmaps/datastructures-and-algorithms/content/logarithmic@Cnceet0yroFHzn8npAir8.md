@@ -1,3 +1,3 @@
-# Logarithmic
+# Logarítmico
 
-Logarithmic time complexity (O(log n)) often indicates that the algorithm halves the size of the input at each step. It's more efficient compared to linear time complexity. Binary search is a classic example of logarithmic time complexity where at every step, the algorithm breaks the list into half until it finds the desired element. As the size of the input increases, the growth of the time taken by an algorithm with logarithmic complexity grows slowly because it divides the problem into smaller parts in each step.
+A complexidade de tempo logarítmica (O(log n)) geralmente indica que o algoritmo divide a tamanho da entrada pela metade em cada etapa. É mais eficiente em comparação com a complexidade de tempo linear. A busca binária é um exemplo clássico de complexidade de tempo logarítmica, onde na cada etapa, o algoritmo quebra a lista ao meio até encontrar o elemento desejado. À medida que o tamanho da entrada aumenta, o crescimento do tempo necessário por um algoritmo com complexidade de tempo logarítmica cresce lentamente porque ele divide o problema em partes menores em cada etapa.

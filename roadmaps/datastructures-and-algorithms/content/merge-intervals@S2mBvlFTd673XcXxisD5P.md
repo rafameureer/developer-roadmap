@@ -1,3 +1,3 @@
-# Merge Intervals
+# Mesclar Intervalos
 
-The merge intervals pattern deals with overlapping ranges, typically merging a list of intervals that intersect. The standard approach sorts the intervals by start time and then folds them together in a single pass — a technique used in scheduling, availability, and range problems.
+O padrão de mesclagem de intervalos lida com intervalos sobrepostos, geralmente mesclando uma lista de intervalos que se intersectam. O método padrão é ordenar os intervalos por hora de início e depois dobrá-los em uma única passada — uma técnica usada em problemas de agendamento, disponibilidade e intervalo.

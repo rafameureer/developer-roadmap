@@ -1,8 +1,8 @@
-# Functions
+# Funções
 
-Functions in programming are named sections of a program that perform a specific task. They allow us to write a piece of code once and reuse it in different places throughout the program, making our code more modular and easier to maintain. Functions often take in input, do something with it, and return output. Functions can be categorized into four main types:
+As funções em programação são seções nomeadas de um programa que executam uma tarefa específica. Elas nos permitem escrever um pedaço de código uma vez e reutilizá-lo em diferentes lugares ao longo do programa, tornando nosso código mais modular e mais fácil de manter. As funções geralmente recebem entrada, fazem algo com ela e retornam saída. As funções podem ser categorizadas em quatro tipos principais:
 
-*   **Built-in** functions: provided by the programming language, like `print()` in Python.
-*   **User-defined** functions: written by the user for a specific use case.
-*   **Anonymous** functions: also known as lambda functions, which are not declared using the standard keyword (`def` in Python, for example).
-*   **Higher-order** functions: functions that take other functions as arguments or return a function.
+*   **Funções embutidas**: fornecidas pelo próprio idioma de programação, como `print()` em Python.
+*   **Funções definidas pelo usuário**: escritas pelo usuário para um uso específico.
+*   **Funções anônimas**: também conhecidas como funções lambda, que não são declaradas usando a palavra-chave padrão (`def` em Python, por exemplo).
+*   **Funções de ordem superior**: funções que recebem outras funções como argumentos ou retornam uma função.

@@ -2307,7 +2307,72 @@
     "roadmaps/data-engineer/content/what-and-why-use-them@1qju7UlcMo2Ebp4a3BGxH.md",
     "roadmaps/data-engineer/content/what-is-cluster-computing@Ad10evrGQuYRl5GaMhQwu.md",
     "roadmaps/data-engineer/content/what-is-data-engineering@WB2PRVI9C6RIbJ6l9zdbd.md",
-    "roadmaps/data-engineer/content/what-is-data-warehouse@dc3lJI27hJ3zZ45UCVqM1.md"
+    "roadmaps/data-engineer/content/what-is-data-warehouse@dc3lJI27hJ3zZ45UCVqM1.md",
+    "roadmaps/datastructures-and-algorithms/content/algorithmic-complexity@VotdHk0_bI3CeoIf-KoKu.md",
+    "roadmaps/datastructures-and-algorithms/content/array@lxY3ErxJ_D3zkSAXIBUpv.md",
+    "roadmaps/datastructures-and-algorithms/content/asymptotic-notation@v0LrabYYOKzV4oCXOK2Rs.md",
+    "roadmaps/datastructures-and-algorithms/content/avl-trees@5MCgKpylPzDZaGBEUU51r.md",
+    "roadmaps/datastructures-and-algorithms/content/b-trees@2F6BcbAzICynOK3oEj-Is.md",
+    "roadmaps/datastructures-and-algorithms/content/backtracking@mKoC5o__gLSTjAlq8iXkV.md",
+    "roadmaps/datastructures-and-algorithms/content/basic-data-structures@iTlpa9A7h33FkUAv0UaVZ.md",
+    "roadmaps/datastructures-and-algorithms/content/bb-trees@2G6vn7K11_mPQQ7_IXJ96.md",
+    "roadmaps/datastructures-and-algorithms/content/bellman-ford-algoritm@7CgGwdwHnOmISmEPtJegN.md",
+    "roadmaps/datastructures-and-algorithms/content/binary-search-trees@UYm7unZfXd9Ge5EYV4odb.md",
+    "roadmaps/datastructures-and-algorithms/content/binary-search@Wt74MRKaZcs8lYvfqjffT.md",
+    "roadmaps/datastructures-and-algorithms/content/binary-trees@RPU5CGp2Li5lk0UB-zNHT.md",
+    "roadmaps/datastructures-and-algorithms/content/breadth-first-search@c7LdXJPv-5M-NPKSCXYuB.md",
+    "roadmaps/datastructures-and-algorithms/content/breadth-first-search@pfg-qclOpvlsGMdlZ1aoj.md",
+    "roadmaps/datastructures-and-algorithms/content/brute-force@5T2y6Iqi-I_zOtLkeSPzY.md",
+    "roadmaps/datastructures-and-algorithms/content/bubble-sort@zUDKCJCQHLW4c_6A349R3.md",
+    "roadmaps/datastructures-and-algorithms/content/c@BZvNEZjCNuHPg5SkX90bt.md",
+    "roadmaps/datastructures-and-algorithms/content/c@IWmq4UFB5j6O3UJfarh1u.md",
+    "roadmaps/datastructures-and-algorithms/content/common-runtimes@nqnO1Wz3gYIMR98_BnF2V.md",
+    "roadmaps/datastructures-and-algorithms/content/complex-data-structures@kSpgFuAHyzySWlGBLOHZR.md",
+    "roadmaps/datastructures-and-algorithms/content/constant@_bpV8MkVOY8ZatTXYaEE4.md",
+    "roadmaps/datastructures-and-algorithms/content/control-structures@G74Xp8_EMZO2oEzNTRAli.md",
+    "roadmaps/datastructures-and-algorithms/content/cyclic-sort@L1FIJAluyxG6CGaVLM20O.md",
+    "roadmaps/datastructures-and-algorithms/content/depth-first-search@NrPO7vF8Z1WzmA9Ca3Y_E.md",
+    "roadmaps/datastructures-and-algorithms/content/edabit@8-7phxPp1D1mv2yubpLBo.md",
+    "roadmaps/datastructures-and-algorithms/content/exponential@xqzaYJBvlsNtT6qZ59ktv.md",
+    "roadmaps/datastructures-and-algorithms/content/factorial@wclY3cmt1fBNYjLsmijdW.md",
+    "roadmaps/datastructures-and-algorithms/content/fast-and-slow-pointers@J_No8GTa92DcwPtua30wL.md",
+    "roadmaps/datastructures-and-algorithms/content/fenwick-trees@V9SWO58kaMsU1NT7q26WG.md",
+    "roadmaps/datastructures-and-algorithms/content/functions@Cu08m5JOfvrPUDGony144.md",
+    "roadmaps/datastructures-and-algorithms/content/hash-tables@kSy-8ubESdmIX4Fyl8TSu.md",
+    "roadmaps/datastructures-and-algorithms/content/heap-sort@yMv9Oa3hsgT8Adx6m_rdL.md",
+    "roadmaps/datastructures-and-algorithms/content/heap@R3Coq0TG1_cSOXzXWgpuI.md",
+    "roadmaps/datastructures-and-algorithms/content/how-to-calculate-complexity@HosRc0hczubBHrWxCzEJj.md",
+    "roadmaps/datastructures-and-algorithms/content/in-order-traversal@iCA7UKZih4ItDmDNEC8Q-.md",
+    "roadmaps/datastructures-and-algorithms/content/indexing@Ar7GEGfI9O_dLPbIEVhF_.md",
+    "roadmaps/datastructures-and-algorithms/content/insertion-sort@liJfTV5ajAFZcfwBdVGpU.md",
+    "roadmaps/datastructures-and-algorithms/content/isam@uxErZ4gLeKqwhrUG88InQ.md",
+    "roadmaps/datastructures-and-algorithms/content/island-traversal@q9qLI6HzOJ0vYaIVrZ5CU.md",
+    "roadmaps/datastructures-and-algorithms/content/java@gjZZOwmYkXQHPfg9Ynz80.md",
+    "roadmaps/datastructures-and-algorithms/content/javascript@HVD9G3JlLBsAg111vQILj.md",
+    "roadmaps/datastructures-and-algorithms/content/kruskals-algorithm@F3bPbwIdCNMzL7QXEYJK3.md",
+    "roadmaps/datastructures-and-algorithms/content/kth-element@JcchUF_U99zkFpXp3VT2R.md",
+    "roadmaps/datastructures-and-algorithms/content/language-syntax@kE6qddRhO8C5ur3JbeuhF.md",
+    "roadmaps/datastructures-and-algorithms/content/leetcode@waM_j5mbe_XoA7h8u4vFN.md",
+    "roadmaps/datastructures-and-algorithms/content/linked-lists@bRu9u8pEAQ1TmKygjIjyI.md",
+    "roadmaps/datastructures-and-algorithms/content/logarithmic@Cnceet0yroFHzn8npAir8.md",
+    "roadmaps/datastructures-and-algorithms/content/merge-intervals@S2mBvlFTd673XcXxisD5P.md",
+    "roadmaps/datastructures-and-algorithms/content/oop-basics@QFR1FMOf2OV3n3jcDnOCP.md",
+    "roadmaps/datastructures-and-algorithms/content/pick-a-language@Z4uVzAoNzcAkyjd-lp3_M.md",
+    "roadmaps/datastructures-and-algorithms/content/platforms-to-practice@VMV4F-SPKWn9CtpHXEjeN.md",
+    "roadmaps/datastructures-and-algorithms/content/polynomial@QKhmM_IG1FkBudfdrf1aT.md",
+    "roadmaps/datastructures-and-algorithms/content/post-order-traversal@j6_DyKiyG1wBuygQkxWB7.md",
+    "roadmaps/datastructures-and-algorithms/content/pre-order-traversal@BMEoO65zsX51H4Js1gcWI.md",
+    "roadmaps/datastructures-and-algorithms/content/sliding-window-technique@gbHVR-ojRxv9I0E5eSlWy.md",
+    "roadmaps/datastructures-and-algorithms/content/sorting-algorithms@WzFkdkcbL8ea9DBkjfSwa.md",
+    "roadmaps/datastructures-and-algorithms/content/stacks@jvKRykGNy140FlquF2fcK.md",
+    "roadmaps/datastructures-and-algorithms/content/suffix-trees-and-arrays@zprVkxpojaxNo0LQar3Ex.md",
+    "roadmaps/datastructures-and-algorithms/content/time-vs-space-complexity@unaYmPzK761Eh_iZMLeRC.md",
+    "roadmaps/datastructures-and-algorithms/content/tree-based@ZXUfeyfC5oSKkGktXuK8t.md",
+    "roadmaps/datastructures-and-algorithms/content/two-heaps@MGb8ufztTK75aXAyEAuaf.md",
+    "roadmaps/datastructures-and-algorithms/content/two-pointer-technique@itvhUXbe9dr9JN5ga2jYy.md",
+    "roadmaps/datastructures-and-algorithms/content/undirected-graph@VnKm_j7McUW9Lo0iKyPUp.md",
+    "roadmaps/datastructures-and-algorithms/content/what-are-data-structures@jvWuYXWRtt_ePawc4q1Tg.md",
+    "roadmaps/datastructures-and-algorithms/content/why-are-data-structures-important@8_GkF9zhRL8tvT2qu-bGj.md"
   ],
   "completed_roadmaps": [
     "frontend-beginner",
@@ -2336,7 +2401,8 @@
     "css",
     "cyber-security",
     "data-analyst",
-    "data-engineer"
+    "data-engineer",
+    "datastructures-and-algorithms"
   ],
   "flagged_issues": [
     {
@@ -5298,8 +5364,218 @@
       "file": "roadmaps/data-engineer/content/yarn@KcW4z48pk2x6IjQhZs_Ub.md",
       "reason": "Falha na tradução automática após tentativas no Ollama",
       "timestamp": "2026-08-15T05:01:43.403232"
+    },
+    {
+      "file": "roadmaps/datastructures-and-algorithms/content/2-3-trees@o0fNAhJ1LsCdmGzY2ni_x.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:01:59.847285"
+    },
+    {
+      "file": "roadmaps/datastructures-and-algorithms/content/a-algorithm@AabJqPUwFVBVS02YPDPvL.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:02:01.848902"
+    },
+    {
+      "file": "roadmaps/datastructures-and-algorithms/content/advanced-data-structures@KnyUHDvpDTUO0EkAs9pT8.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:02:07.095417"
+    },
+    {
+      "file": "roadmaps/datastructures-and-algorithms/content/big--notation@CkUi93TvTkEm2_isHNvqr.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:03:14.690549"
+    },
+    {
+      "file": "roadmaps/datastructures-and-algorithms/content/big--notation@Ex6tzu6gwrarWm1CNFufO.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:03:18.443540"
+    },
+    {
+      "file": "roadmaps/datastructures-and-algorithms/content/big-o-notation@oylTfop_JDPHJ3jYuA2Nq.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:03:24.486579"
+    },
+    {
+      "file": "roadmaps/datastructures-and-algorithms/content/depth-first-search@gR8KcOIADUxS8hdiEaGZy.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:04:50.431875"
+    },
+    {
+      "file": "roadmaps/datastructures-and-algorithms/content/dijkstras-algorithm@87UugvReiywF0E7Acos9U.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:04:54.249534"
+    },
+    {
+      "file": "roadmaps/datastructures-and-algorithms/content/directed-graph@XVw2_dL3uN0SOWmjH1Uao.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:04:57.417515"
+    },
+    {
+      "file": "roadmaps/datastructures-and-algorithms/content/disjoint-set-union-find@La8XAT0BWvqRCrvQxtZIp.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:05:14.487069"
+    },
+    {
+      "file": "roadmaps/datastructures-and-algorithms/content/divide-and-conquer@xchWhsizaKgYuHPC4Tz9H.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:05:18.061075"
+    },
+    {
+      "file": "roadmaps/datastructures-and-algorithms/content/dynamic-programming@jKAZNybU9cxufNBdFsqsP.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:05:24.742716"
+    },
+    {
+      "file": "roadmaps/datastructures-and-algorithms/content/go@OkdM_PJge70j5tsjT2Esl.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:06:08.505555"
+    },
+    {
+      "file": "roadmaps/datastructures-and-algorithms/content/graph-data-structures@j_r1tB16bA7R3yDAWN7Oj.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:06:13.377116"
+    },
+    {
+      "file": "roadmaps/datastructures-and-algorithms/content/greedy-algorithms@qUlqyTjk3XKF9DEm6Lsgb.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:06:17.862589"
+    },
+    {
+      "file": "roadmaps/datastructures-and-algorithms/content/linear-search@AtX-PeI8nY4-5bA-xLla0.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:07:37.201181"
+    },
+    {
+      "file": "roadmaps/datastructures-and-algorithms/content/linear@4noav5w_8GrMTXN1Lxm5h.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:07:40.416083"
+    },
+    {
+      "file": "roadmaps/datastructures-and-algorithms/content/linear@HOpL-4jYhOe0LNrrkPrET.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:07:43.326913"
+    },
+    {
+      "file": "roadmaps/datastructures-and-algorithms/content/merge-sort@k0UBAj3hOYab4mUziOYyW.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:08:13.558881"
+    },
+    {
+      "file": "roadmaps/datastructures-and-algorithms/content/minimum-spanning-tree@Ktqau1VkVrnnVYByqcacM.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:08:18.430120"
+    },
+    {
+      "file": "roadmaps/datastructures-and-algorithms/content/multi-threaded@gaaRAL3HR48Qj9rz1CkDU.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:08:20.481859"
+    },
+    {
+      "file": "roadmaps/datastructures-and-algorithms/content/prims-algorithm@yEWnYjW0ZLVhsLc9rH4ae.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:08:58.122563"
+    },
+    {
+      "file": "roadmaps/datastructures-and-algorithms/content/problem-solving-techniques@Y1Uz6XRbR1YqFtO4akiPA.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:09:02.670604"
+    },
+    {
+      "file": "roadmaps/datastructures-and-algorithms/content/programming-fundamentals@ebQdTOAOV54WBToHmFtBk.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:09:05.766852"
+    },
+    {
+      "file": "roadmaps/datastructures-and-algorithms/content/pseudo-code@tvy3Vic8Vp-Ie2x_OyZ5b.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:09:24.853135"
+    },
+    {
+      "file": "roadmaps/datastructures-and-algorithms/content/python@XyRCXhZjQFcDNaUSNNQV-.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:09:29.879582"
+    },
+    {
+      "file": "roadmaps/datastructures-and-algorithms/content/queues@v0phjC75jhmE1z-f9ZMck.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:09:35.044785"
+    },
+    {
+      "file": "roadmaps/datastructures-and-algorithms/content/quick-sort@LgEV0Wm4avrOqR8bV5GXW.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:09:58.147654"
+    },
+    {
+      "file": "roadmaps/datastructures-and-algorithms/content/randomised-algorithms@RiS8KZs3YBE6mKWPHszMp.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:10:02.433436"
+    },
+    {
+      "file": "roadmaps/datastructures-and-algorithms/content/recursion@4ZAzcwP0oPGZ9Rw042V8-.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:10:06.617948"
+    },
+    {
+      "file": "roadmaps/datastructures-and-algorithms/content/ruby@9h1mz0xAUvPrnRm9VndJF.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:10:24.710203"
+    },
+    {
+      "file": "roadmaps/datastructures-and-algorithms/content/rust@acgRMEuL4ZGGRHpZ7kXSo.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:10:29.157713"
+    },
+    {
+      "file": "roadmaps/datastructures-and-algorithms/content/search-algorithms@LW5HZMca4lvhbbA8KYaOa.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:10:34.032230"
+    },
+    {
+      "file": "roadmaps/datastructures-and-algorithms/content/search-algorithms@YJsAQWJpLwVN6oCxNwNAn.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:10:49.539508"
+    },
+    {
+      "file": "roadmaps/datastructures-and-algorithms/content/search-algorithms@z_Cf_alLAYSCyYtNviRcO.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:10:51.503544"
+    },
+    {
+      "file": "roadmaps/datastructures-and-algorithms/content/segment-trees@iFNS3x9wVRIjpixct6H7x.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:10:55.776895"
+    },
+    {
+      "file": "roadmaps/datastructures-and-algorithms/content/selection-sort@SMgBHvqXLD6Cgr2nix4wR.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:11:14.835441"
+    },
+    {
+      "file": "roadmaps/datastructures-and-algorithms/content/shortest-path-algorithms@N-qvYirxpORcaTslvlOL0.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:11:19.607237"
+    },
+    {
+      "file": "roadmaps/datastructures-and-algorithms/content/skip-list@TQu-OBpvR-aQfMByUcwyM.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:11:23.908682"
+    },
+    {
+      "file": "roadmaps/datastructures-and-algorithms/content/tree-data-structures@r2Jagzbx0qOG-VtxBY-mz.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:12:13.190966"
+    },
+    {
+      "file": "roadmaps/datastructures-and-algorithms/content/tree-traversal@2Od5lNc6fCM6Gyj_axj4n.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:12:17.291932"
+    },
+    {
+      "file": "roadmaps/datastructures-and-algorithms/content/trie@zy3wpb1MjizfUfx9_rZy2.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:12:21.758158"
     }
   ],
-  "last_updated": "2026-08-15T05:01:43.408406",
+  "last_updated": "2026-08-15T05:12:49.671783",
   "total_translated_count": 54
 }

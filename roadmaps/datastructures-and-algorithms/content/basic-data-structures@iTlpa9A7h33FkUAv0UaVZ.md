@@ -1,9 +1,9 @@
-# Basic Data Structures
+# Estruturas de Dados Básicas
 
-The five main types of basic data structures are: **Arrays**, **Linked Lists**, **Stacks**, **Queues**, and **Hash Tables**.
+As cinco principais tipos de estruturas de dados básicas são: **Arrays**, **Listas Encadeadas**, ** Pilhas**, **Filas** e **Tabelas Hash**.
 
-*   **Arrays** are static data structures that store elements of the same type in contiguous memory locations.
-*   **Linked Lists** are dynamic data structures that store elements in individual nodes, with each node pointing to the next.
-*   **Stacks** follow the Last-In-First-Out principle (LIFO) and primarily assist in function calls in most programming languages.
-*   **Queues** operate on the First-In-First-Out principle (FIFO) and are commonly used in task scheduling.
-*   Lastly, **Hash Tables** store key-value pairs allowing for fast insertion, deletion, and search operations.
+*   **Arrays** são estruturas de dados estáticas que armazenam elementos do mesmo tipo em locações de memória contíguas.
+*   **Listas Encadeadas** são estruturas de dados dinâmicas que armazenam elementos em nós individuais, com cada nó apontando para o próximo.
+*   **Pilhas** seguem o princípio Last-In-First-Out (LIFO) e principalmente auxiliam nas chamadas de funções em maioria das linguagens de programação.
+*   **Filas** operam no princípio First-In-First-Out (FIFO) e são comumente usadas na programação para agendamento de tarefas.
+*   Por fim, as **Tabelas Hash** armazenam pares chave-valor, permitindo operações de inserção, deleção e busca rápidas.

@@ -1,3 +1,3 @@
-# Post-Order Traversal
+# Percurso Pós-Ordem
 
-Post Order Traversal is a technique used in Binary Tree structure where each node is processed after its child nodes. As the name suggests, it first traverses the left subtree, then the right subtree, and finally the root node. The process is recursively repeated for each subtree until the entire tree has been traversed. This traversal method is often used for calculations that require that all child nodes be processed before the parent, such as evaluating a mathematical expression represented in a tree structure.
+O Percurso Pós-Ordem é uma técnica usada na estrutura de árvore binária onde cada nó é processado após seus nós filhos. Como sugere o nome, ele primeiro percorre a subárvore esquerda, depois a subárvore direita e finalmente o nó raiz. O processo é repetido recursivamente para cada subárvore até que toda a árvore tenha sido percorrida. Esse método de percurso é frequentemente usado em cálculos que exigem que todos os nós filhos sejam processados antes do pai, como avaliar uma expressão matemática representada em uma estrutura de árvore.

@@ -1,3 +1,3 @@
-# Undirected Graph
+# Gráfico Não-Direcionado
 
-An **Undirected Graph** is a type of graph in which the edges are not directed. That is, they do not point in any specific direction and are not ordered pairs. They cannot be referred to as originating or ending node, instead, they are endpoints of the edges. In this type of graph, the edges essentially represent a two-way relationship, in the sense that, a travel can be made back and forth between the two vertices without any restriction. Every edge of the undirected graph always connects two different vertices or nodes.
+Um **Gráfico Não-Direcionado** é um tipo de gráfico em que as arestas não são direcionadas. Isso significa que elas não apontam em qualquer direção específica e não são pares ordenados. Eles não podem ser referidos como nó de origem ou nó de destino, em vez disso, eles são os extremos das arestas. Neste tipo de gráfico, as arestas essencialmente representam uma relação bidirecional, no sentido de que um percurso pode ser feito para e de volta entre dois vértices sem qualquer restrição. Cada aresta do gráfico não direcionado sempre conecta dois vértices ou nós diferentes.

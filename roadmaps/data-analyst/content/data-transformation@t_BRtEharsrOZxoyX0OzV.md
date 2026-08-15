@@ -1,7 +1,7 @@
-# Data Transformation
+# Transformação de Dados
 
-Data Transformation, also known as Data Wrangling, is an essential part of a Data Analyst's role. This process involves the conversion of data from a raw format into another format to make it more appropriate and valuable for a variety of downstream purposes such as analytics. Data Analysts transform data to make the data more suitable for analysis, ensure accuracy, and to improve data quality. The right transformation techniques can give the data a structure, multiply its value, and enhance the accuracy of the analytics performed by serving meaningful results.
+A Transformação de Dados, também conhecida como Manipulação de Dados, é uma parte essencial do papel de Analista de Dados. Esse processo envolve a conversão de dados de um formato bruto em outro para torná-los mais adequados e valiosos para diversos fins downstream, como análise. Os Analistas de Dados transformam dados para torná-los mais adequados para análise, garantir a precisão e melhorar a qualidade dos dados. As técnicas de transformação corretas podem dar estrutura aos dados, multiplicar seu valor e aumentar a precisão das análises realizadas fornecendo resultados significativos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is data transformation?](https://www.qlik.com/us/data-management/data-transformation)
+- [@article@O que é a transformação de dados?](https://www.qlik.com/us/data-management/data-transformation)

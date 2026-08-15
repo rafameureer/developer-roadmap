@@ -1,7 +1,7 @@
-# Supervised Learning
+# Aprendizagem Supervisionada
 
-Supervised learning trains models on labeled data, where each example has an input and a known output. The model learns a mapping from inputs to outputs that generalizes to new examples. Classification and regression are the two main tasks in supervised learning.
+A aprendizagem supervisionada treina modelos em dados rotulados, onde cada exemplo tem uma entrada e uma saída conhecida. O modelo aprende um mapeamento das entradas para as saídas que generaliza a novos exemplos. Classificação e regressão são as duas principais tarefas na aprendizagem supervisionada.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Supervised Learning?](https://cloud.google.com/discover/what-is-supervised-learning)
+- [@artigo@O que é Aprendizagem Supervisionada?](https://cloud.google.com/discover/what-is-supervised-learning)

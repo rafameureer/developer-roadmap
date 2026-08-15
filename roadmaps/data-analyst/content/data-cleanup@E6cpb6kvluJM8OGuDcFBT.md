@@ -1,7 +1,7 @@
-# Data Cleanup
+# Limpeza de Dados
 
-Data cleanup is the process of identifying and resolving quality issues in a dataset before analysis. Raw data from real-world sources almost always contains errors, missing values, duplicates, and inconsistencies. Thorough cleaning ensures that analysis results reflect reality rather than artifacts of data collection.
+A limpeza de dados é o processo de identificar e resolver problemas de qualidade em um conjunto de dados antes do análise. Os dados brutos provenientes de fontes reais geralmente contêm erros, valores faltantes, duplicatas e inconsistências. Uma limpeza aprofundada garante que os resultados da análise reflitam a realidade em vez dos artefatos da coleta de dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Data Cleaning](https://www.tableau.com/learn/articles/what-is-data-cleaning#:~:text=tools%20and%20software-,What%20is%20data%20cleaning%3F,to%20be%20duplicated%20or%20mislabeled.)
+- [@article@Limpeza de Dados](https://www.tableau.com/learn/articles/what-is-data-cleaning#:~:text=tools%20and%20software-,O que é limpeza de dados%3F,to%20serem%20duplicados%20ou%20mislabeled.)

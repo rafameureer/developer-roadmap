@@ -1,9 +1,9 @@
-# Data Manipulation Libraries
+# Bibliotecas de Manipulação de Dados
 
-Data manipulation libraries are essential tools in data science and analytics, enabling efficient handling, transformation, and analysis of large datasets. Python, a popular language for data science, offers several powerful libraries for this purpose. Pandas is a highly versatile library that provides data structures like DataFrames, which allow for easy manipulation and analysis of tabular data. NumPy, another fundamental library, offers support for large, multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on these arrays. Together, Pandas and NumPy form the backbone of data manipulation in Python, facilitating tasks such as data cleaning, merging, reshaping, and statistical analysis, thus streamlining the data preparation process for machine learning and other data-driven applications.
+As bibliotecas de manipulação de dados são ferramentos essenciais na ciência de dados e análise, permitindo o tratamento eficiente, transformação e análise de grandes conjuntos de dados. O Python, uma linguagem popular para a ciência de dados, oferece várias bibliotecas poderosas para esse propósito. O Pandas é uma biblioteca altamente versátil que fornece estruturas de dados como DataFrames, o que permite a manipulação e análise fácil de dados tabulares. O NumPy, outra biblioteca fundamental, oferece suporte para grandes arrays e matrizes multidimensionais, além de uma coleção de funções matemáticas para operar nesses arrays. Juntos, Pandas e NumPy formam a base da manipulação de dados no Python, facilitando tarefas como limpeza de dados, mesclagem, redimensionamento e análise estatística, assim simplificando o processo de preparação de dados para aprendizado de máquina e outras aplicações orientadas por dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@article@Pandas](https://pandas.pydata.org/)
 - [@article@NumPy](https://numpy.org/)
-- [@article@Top Python Libraries for Data Science](https://www.simplilearn.com/top-python-libraries-for-data-science-article)
+- [@article@As Melhores Bibliotecas Python para Ciência de Dados](https://www.simplilearn.com/top-python-libraries-for-data-science-article)

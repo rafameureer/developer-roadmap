@@ -1,8 +1,8 @@
-# Heatmap
+# Mapa de calor
 
-A heatmap uses color intensity to represent the magnitude of values in a matrix. It is commonly used to visualize correlation matrices, frequency tables, and geographic data. Heatmaps make it easy to spot patterns and relationships across two categorical dimensions.
+Um mapa de calor usa a intensidade da cor para representar a magnitude dos valores em uma matriz. Ele é comumente usado para visualizar matrizes de correlação, tabelas de frequência e dados geográficos. Os mapas de calor facilitam a detecção de padrões e relações entre duas dimensões categóricas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@A Complete Guide to Heatmaps](https://www.hotjar.com/heatmaps/)
-- [@article@What is a Heatmap?](https://www.atlassian.com/data/charts/heatmap-complete-guide)
+- [@article@Um guia completo sobre mapas de calor](https://www.hotjar.com/heatmaps/)
+- [@article@O que é um mapa de calor?](https://www.atlassian.com/data/charts/heatmap-complete-guide)

@@ -1,7 +1,7 @@
-# Finding Outliers
+# Encontrando Outliers
 
-Outliers are data points that differ significantly from the rest of the dataset. They can result from data entry errors, measurement anomalies, or genuine extreme values. Detecting outliers using statistical methods (z-scores, IQR) or visualization (box plots, scatter plots) is necessary before deciding whether to remove, transform, or investigate them further.
+Outliers são pontos de dados que diferem significativamente dos demais do conjunto de dados. Eles podem resultar de erros na entrada de dados, anomalias de medição ou valores extremos genuínos. Detectar outliers usando métodos estatísticos (z-scores, IQR) ou visualização (gráficos de caixa, gráficos de dispersão) é necessário antes de decidir se removê-los, transformá-los ou investigá-los mais a fundo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@article@Outliers](https://www.mathsisfun.com/data/outliers.html)

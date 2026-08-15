@@ -1,8 +1,8 @@
-# Statistical Analysis
+# Análise Estatística
 
-Statistical analysis applies formal mathematical methods to data to test hypotheses, measure relationships, and draw inferences. Core techniques include hypothesis testing, correlation analysis, and regression modeling. Statistical rigor ensures that findings are not the result of random variation.
+A análise estatística aplica métodos matemáticos formais a dados para testar hipóteses, medir relações e tirar conclusões. As técnicas centrais incluem teste de hipóteses, análise de correlação e modelagem de regressão. A rigor estatístico garante que os resultados não sejam o resultado da variação aleatória.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Understanding Statistical Analysis](https://www.simplilearn.com/what-is-statistical-analysis-article)
-- [@video@Statistical Analysis](https://www.youtube.com/watch?v=XjMBZE1DuBY)
+- [@artigo@Entendendo a Análise Estatística](https://www.simplilearn.com/what-is-statistical-analysis-article)
+- [@vídeo@Análise Estatística](https://www.youtube.com/watch?v=XjMBZE1DuBY)

@@ -1,8 +1,8 @@
 # MPI
 
-MPI (Message Passing Interface) is a standard for parallel programming across distributed memory systems. It allows processes on different machines to communicate and coordinate. MPI is used in high-performance computing (HPC) environments for scientific simulations and large-scale numerical computations.
+MPI (Message Passing Interface) é um padrão para programação paralela em sistemas de memória distribuída. Ele permite que processos em diferentes máquinas se comuniquem e coordenem. MPI é usado em ambientes de computação de alto desempenho (HPC) para simulações científicas e cálculos numéricos em escala.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Message Passing Interface Forum](https://www.mpi-forum.org/)
-- [@article@Microsoft MPI](https://learn.microsoft.com/en-us/message-passing-interface/microsoft-mpi)
+- [@oficial@Fórum da Interface de Mensagem MPI](https://www.mpi-forum.org/)
+- [@artigo@MPI do Microsoft](https://learn.microsoft.com/en-us/message-passing-interface/microsoft-mpi)

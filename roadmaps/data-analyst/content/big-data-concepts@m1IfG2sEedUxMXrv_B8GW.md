@@ -1,8 +1,8 @@
-# Big Data Concepts
+# Conceitos de Big Data
 
-Big data concepts describe the properties and challenges of working with very large datasets. The three Vs (volume, velocity, variety) capture the main dimensions: how much data there is, how fast it arrives, and how many formats it comes in. Understanding these concepts helps in choosing appropriate storage and processing technologies.
+Conceitos de big data descrevem as propriedades e os desafios associados ao trabalho com conjuntos de dados muito grandes. As três Vs (volume, velocidade, variedade) capturam as principais dimensões: quantos dados há, quanto rápido eles chegam e em quantas formatos eles chegam. Entender esses conceitos ajuda na escolha de tecnologias de armazenamento e processamento apropriadas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@An Introduction to Big Data Concepts and Terminology](https://www.digitalocean.com/community/tutorials/an-introduction-to-big-data-concepts-and-terminology)
-- [@article@An Introduction to Big Data Concepts](https://www.suse.com/c/rancher_blog/an-introduction-to-big-data-concepts/)
+- [@article@Introdução aos Conceitos e Terminologia de Big Data](https://www.digitalocean.com/community/tutorials/an-introduction-to-big-data-concepts-and-terminology)
+- [@article@Introdução aos Conceitos de Big Data](https://www.suse.com/c/rancher_blog/an-introduction-to-big-data-concepts/)

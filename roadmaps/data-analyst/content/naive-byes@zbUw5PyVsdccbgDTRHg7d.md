@@ -1,8 +1,8 @@
-# Naive Byes
+# Naive Bayes
 
-Naive Bayes is a probabilistic classification algorithm based on Bayes' theorem, with the assumption that features are independent of each other given the class. Despite this simplifying assumption, it performs well in practice for text classification, spam detection, and other categorical problems. It is fast to train and works well with small datasets.
+Naive Bayes é um algoritmo de classificação probabilística baseado no teorema de Bayes, com a suposição de que as características são independentes uma da outra dado a classe. Apesar desta suposição simplificadora, ele funciona bem na prática para classificação de texto, detecção de spam e outros problemas categóricos. Ele é rápido em treinamento e funciona bem com conjuntos de dados pequenos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What are Naïve Bayes classifiers?](https://www.ibm.com/topics/naive-bayes)
-- [@article@Naive Bayes](https://scikit-learn.org/stable/modules/naive_bayes.html)
+- [@artigo@O que são Classificadores Naive Bayes?](https://www.ibm.com/topics/naive-bayes)
+- [@artigo@Naive Bayes](https://scikit-learn.org/stable/modules/naive_bayes.html)

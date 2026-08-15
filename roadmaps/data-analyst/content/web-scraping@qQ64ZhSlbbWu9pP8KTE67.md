@@ -1,8 +1,8 @@
 # Web Scraping
 
-Web scraping plays a significant role in collecting unique datasets for data analysis. In the realm of a data analyst's tasks, web scraping refers to the method of extracting information from websites and converting it into a structured usable format like a CSV, Excel spreadsheet, or even into databases. This technique allows data analysts to gather large sets of data from the internet, which otherwise could be time-consuming if done manually. The capability of web scraping and parsing data effectively can give data analysts a competitive edge in their data analysis process, from unlocking in-depth, insightful information to making data-driven decisions.
+O web scraping desempenha um papel significativo na coleta de conjuntos únicos de dados para análise de dados. No contexto das tarefas de analista de dados, o web scraping refere-se ao método de extrair informações de sites e convertê-las em formatos estruturados e usáveis como CSV, planilha do Excel ou até mesmo em bancos de dados. Esta técnica permite que os analistas de dados coletem grandes conjuntos de dados na internet, o que seria demorado se feito manualmente. A capacidade de web scraping e análise eficaz de dados pode dar aos analistas de dados uma vantagem competitiva em seu processo de análise de dados, desde a descoberta de informações profundas e perspicazes até as decisões baseadas em dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Web Scraping & What is it used for?](https://www.parsehub.com/blog/what-is-web-scraping/)
-- [@video@What is Web Scraping?](https://www.youtube.com/watch?v=dlj_QL-ENJM)
+- [@article@O que é Web Scraping & Para Que Serve?](https://www.parsehub.com/blog/what-is-web-scraping/)
+- [@video@O que é Web Scraping?](https://www.youtube.com/watch?v=dlj_QL-ENJM)

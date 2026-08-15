@@ -1,8 +1,8 @@
-# Descriptive Analysis
+# Análise Descritiva
 
-Descriptive analysis summarizes the main features of a dataset using statistics and visualizations. It answers basic questions about the data: what are the typical values, how spread out are they, and what does the distribution look like. Descriptive analysis is always the first step before any more advanced analytical work.
+A análise descritiva resume as principais características de um conjunto de dados usando estatísticas e visualizações. Responde a perguntas básicas sobre os dados: quais são os valores típicos, como estão distribuídos e como a distribuição parece. A análise descritiva é sempre o primeiro passo antes de qualquer trabalho analítico avançado.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Descriptive Analytics: What They Are and Related Terms](https://www.investopedia.com/terms/d/descriptive-analytics.asp)
-- [@video@What are Descriptive Analytics?](https://www.youtube.com/watch?v=DlFqQy10aCs)
+- [@artigo@Análise Descritiva: O que São e Termos Relacionados](https://www.investopedia.com/terms/d/descriptive-analytics.asp)
+- [@vídeo@O Que são Análises Descritivas?](https://www.youtube.com/watch?v=DlFqQy10aCs)

@@ -1,8 +1,8 @@
-# CSV Files
+# Arquivos CSV
 
-CSV (Comma-Separated Values) files are plain text files where each row represents a record and columns are separated by commas. They are the most common format for exchanging tabular data between systems and tools. CSV files are easy to read into Pandas, R, and Excel, but require care when handling special characters, encoding, and missing values.
+Arquivos CSV (Comma-Separated Values) são arquivos de texto simples onde cada linha representa um registro e as colunas são separadas por vírgulas. Eles são o formato mais comum para a troca de dados tabulares entre sistemas e ferramentas. Os arquivos CSV são fáceis de ler em Pandas, R e Excel, mas requerem cuidado ao lidar com caracteres especiais, codificação e valores ausentes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is a CSV file: A comprehensive guide](https://flatfile.com/blog/what-is-a-csv-file-guide-to-uses-and-benefits/)
-- [@video@Understanding CSV Files](https://www.youtube.com/watch?v=UofTplCVkYI)
+- [@artigo@O que é um arquivo CSV: Um guia completo](https://flatfile.com/blog/what-is-a-csv-file-guide-to-uses-and-benefits/)
+- [@vídeo@Entendendo arquivos CSV](https://www.youtube.com/watch?v=UofTplCVkYI)

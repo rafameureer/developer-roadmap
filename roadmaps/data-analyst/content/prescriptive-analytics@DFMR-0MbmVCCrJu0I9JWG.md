@@ -1,8 +1,8 @@
-# Prescriptive Analytics
+# Análise Prescritiva
 
-Prescriptive analytics recommends actions to achieve a desired outcome, answering "what should we do?" It builds on predictive analytics by combining forecasts with optimization and decision logic. Examples include recommendation engines, dynamic pricing systems, and supply chain optimization tools.
+A análise prescritiva recomenda ações para atingir um resultado desejado, respondendo à pergunta "O que devemos fazer?" Ela se baseia na análise preditiva combinando previsões com otimização e lógica de decisão. Exemplos incluem motores de recomendação, sistemas de preços dinâmicos e ferramentas de otimização da cadeia de suprimentos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Prescriptive Analysis?](https://www.investopedia.com/terms/p/prescriptive-analytics.asp)
-- [@video@Examples of Prescriptive Analysis](https://www.youtube.com/watch?v=NOo8Nc9zG20)
+- [@article@O que é a Análise Prescritiva?](https://www.investopedia.com/terms/p/prescriptive-analytics.asp)
+- [@video@Exemplos de Análise Prescritiva](https://www.youtube.com/watch?v=NOo8Nc9zG20)

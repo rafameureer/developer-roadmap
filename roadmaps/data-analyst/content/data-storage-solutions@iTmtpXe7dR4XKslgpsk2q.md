@@ -1,8 +1,8 @@
-# Data Storage Solutions
+# Soluções de Armazenamento de Dados
 
-Big data storage solutions are designed to hold large volumes of structured, semi-structured, and unstructured data reliably. Options include distributed file systems like HDFS, object stores like S3, and columnar databases optimized for analytics. The choice depends on access patterns, data format, and the processing framework being used.
+As soluções de armazenamento de dados grandes são projetadas para manter volumes grandes de dados estruturados, semi-estruturados e não estruturados de forma confiável. As opções incluem sistemas de arquivos distribuídos como HDFS, armazenamentos de objetos como S3 e bancos de dados coluna otimizados para análise. A escolha depende dos padrões de acesso, do formato de dados e do quadro de processamento sendo usado.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit Dedicated SQL Roadmap](https://roadmap.sh/sql)
-- [@roadmap@Visit Dedicated PostgreSQL Roadmap](https://roadmap.sh/postgresql-dba)
+- [@roadmap@Visite o Caminho Dedidado em SQL](https://roadmap.sh/sql)
+- [@roadmap@Visite o Caminho Dedidado em PostgreSQL DBA](https://roadmap.sh/postgresql-dba)

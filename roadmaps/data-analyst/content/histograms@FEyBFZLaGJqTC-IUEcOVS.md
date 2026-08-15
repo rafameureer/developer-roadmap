@@ -1,8 +1,8 @@
-# Histograms
+# Histogramas
 
-Histograms display the distribution of a numeric variable by grouping values into bins and showing the frequency of each bin. They reveal the shape, center, and spread of the data. Histograms are the standard first chart to create when exploring a new numeric variable.
+Histogramas exibem a distribuição de uma variável numérica agrupando valores em faixas e mostrando a frequência de cada faixa. Eles revelam a forma, centro e dispersão dos dados. Os histogramas são o primeiro gráfico padrão a criar ao explorar uma nova variável numérica.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@How a histogram works to display data](https://www.investopedia.com/terms/h/histogram.asp)
-- [@article@What is a histogram](https://www.mathsisfun.com/data/histograms.html)
+- [@artigo@Como um histograma funciona para exibir dados](https://www.investopedia.com/terms/h/histogram.asp)
+- [@artigo@O que é um histograma](https://www.mathsisfun.com/data/histograms.html)

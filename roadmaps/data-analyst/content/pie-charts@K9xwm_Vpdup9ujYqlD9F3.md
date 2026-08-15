@@ -1,8 +1,8 @@
-# Pie Charts
+# Gráficos de Pizza
 
-Pie charts show the proportional composition of a whole by dividing a circle into slices. They are best used for a small number of categories (typically fewer than five) where the relative sizes are meaningfully different. Pie charts are often criticized for being harder to interpret accurately than bar charts for the same data.
+Gráficos de pizza mostram a composição proporcional de um todo dividindo um círculo em fatias. Eles são mais adequados para categorias pequenas (geralmente menos de cinco) onde as tamanhos relativos têm significado. Gráficos de pizza frequentemente são criticados por serem mais difíceis de interpretar com precisão do que gráficos de barras para os mesmos dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@A Complete Guide to Pie Charts](https://www.atlassian.com/data/charts/pie-chart-complete-guide)
-- [@video@What is a Pie Chart](https://www.youtube.com/watch?v=GjJdZaQrItg)
+- [@artigo@Guia Completo sobre Gráficos de Pizza](https://www.atlassian.com/data/charts/pie-chart-complete-guide)
+- [@vídeo@O Que é um Gráfico de Pizza](https://www.youtube.com/watch?v=GjJdZaQrItg)

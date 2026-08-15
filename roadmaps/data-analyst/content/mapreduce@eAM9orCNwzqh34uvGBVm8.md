@@ -1,8 +1,8 @@
 # MapReduce
 
-MapReduce is a programming model for processing large datasets in parallel. The map phase transforms input data into key-value pairs, and the reduce phase aggregates them into a final result. It was the original processing model for Hadoop and, while largely replaced by Spark, the map-reduce paradigm still underlies many distributed data processing patterns.
+MapReduce é um modelo de programação para processar grandes conjuntos de dados em paralelo. A fase map transforma os dados de entrada em pares chave-valor, e a fase reduce os agrupa em um resultado final. Foi o modelo de processamento original para o Hadoop e, embora largely substituído pelo Spark, o paradigma map-reduce ainda underlie muitos padrões de processamento distribuído.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@article@MapReduce](https://www.databricks.com/glossary/mapreduce)
-- [@article@What is Apache MapReduce?](https://www.ibm.com/topics/mapreduce)
+- [@article@O que é Apache MapReduce?](https://www.ibm.com/topics/mapreduce)

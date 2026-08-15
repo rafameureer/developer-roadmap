@@ -1,8 +1,8 @@
-# Mode
+# Modo
 
-The mode is the value that appears most frequently in a dataset. It is the only measure of central tendency applicable to categorical data. A dataset can have no mode, one mode, or multiple modes (bimodal or multimodal).
+O modo é o valor que aparece com mais frequência em um conjunto de dados. É a única medida de tendência central aplicável a dados categóricos. Um conjunto de dados pode não ter modo, ter um único modo ou ter múltiplos modos (bimodal ou multimodal).
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Mode: What is it and how to calculate it](https://www.investopedia.com/terms/m/mode.asp)
-- [@article@Mean Median Mode Formula](https://www.cuemath.com/mean-median-mode-formula/)
+- [@artigo@Modo: O que é e como calcular](https://www.investopedia.com/terms/m/mode.asp)
+- [@artigo@Fórmula de Moda, Mediana e Moda](https://www.cuemath.com/mean-median-mode-formula/)

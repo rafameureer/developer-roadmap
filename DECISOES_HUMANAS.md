@@ -4,7 +4,7 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 
 ---
 
-> ⚠️ **Total de itens sinalizados:** 524
+> ⚠️ **Total de itens sinalizados:** 546
 
 | Arquivo / Tópico | Motivo da Sinalização | Data/Hora |
 |---|---|---|
@@ -532,3 +532,25 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 | `roadmaps/cyber-security/content/wps@HSCGbM2-aTnJWUX6jGaDP.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:37:05.236333 |
 | `roadmaps/cyber-security/content/zero-day@v9njgIxZyabJZ5iND3JGc.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:37:13.636861 |
 | `roadmaps/cyber-security/content/zero-day@zqRaMmqcLfx400kJ-h0LO.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:37:21.918225 |
+| `roadmaps/data-analyst/content/analysis--reporting-with-excel@sgXIjVTbwdwdYoaxN3XBM.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:37:44.006762 |
+| `roadmaps/data-analyst/content/apis@4DFcXSSHxg5wv0uXLIRij.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:37:48.316519 |
+| `roadmaps/data-analyst/content/average@FDYunL9KJkR_tHEcUV2iC.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:37:53.006927 |
+| `roadmaps/data-analyst/content/cnns@XlCv2OirEfuBFa4ranyyE.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:38:31.005177 |
+| `roadmaps/data-analyst/content/collection@mDUSpexdq3ITV6qokwSJl.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:38:33.894463 |
+| `roadmaps/data-analyst/content/concat@SIiIfcy-jeiRoDlxw385V.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:38:37.105880 |
+| `roadmaps/data-analyst/content/data-visualisation@2g19zjEASJw2ve57hxpr0.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:39:28.757028 |
+| `roadmaps/data-analyst/content/datedif@yBlJrNo9eO470dLp6OaQZ.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:39:35.655836 |
+| `roadmaps/data-analyst/content/logistic-regression@ofOQKAIu4rezWmgZeE-KT.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:41:35.960330 |
+| `roadmaps/data-analyst/content/machine-learning@U55hwR0HRCIz2cveVR8FZ.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:41:40.715350 |
+| `roadmaps/data-analyst/content/machine-learning@f4GuzeokP9w_gwtOquP0g.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:41:43.782503 |
+| `roadmaps/data-analyst/content/median@qdXoikVh2xkJkOQNKcyvb.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:42:11.464327 |
+| `roadmaps/data-analyst/content/min--max@F3-cr5onkWqKKPRdxu8lV.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:42:16.991621 |
+| `roadmaps/data-analyst/content/pytorch@LJSqfz6aYJbCe_bK8EWI1.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:43:19.318636 |
+| `roadmaps/data-analyst/content/r@g_EBQizZsIe-vn8ir6FTv.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:43:23.547464 |
+| `roadmaps/data-analyst/content/range@tSxtyJhL5wjU0XJcjsJmm.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:43:26.091994 |
+| `roadmaps/data-analyst/content/stacked-charts@329BrtmXjXNLfi1SFfdeo.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:44:21.099608 |
+| `roadmaps/data-analyst/content/standard-deviation@MXIP8ekH4YtczODKM_G_l.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:44:24.296373 |
+| `roadmaps/data-analyst/content/statistical-analysis@2pUq-7hu5EjGpowz98YoV.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:44:27.501718 |
+| `roadmaps/data-analyst/content/tableau@Sz2Y8HLbSmDjSKAJztDql.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:44:55.137785 |
+| `roadmaps/data-analyst/content/tensorflow@FJ4Sx477FWxyDsQr0R8rl.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:44:59.595532 |
+| `roadmaps/data-analyst/content/trim@D5Q6o6ydr1j51kB0ASFPE.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:45:04.645684 |

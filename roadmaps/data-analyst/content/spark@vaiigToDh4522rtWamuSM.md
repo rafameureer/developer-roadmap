@@ -1,8 +1,8 @@
 # Spark
 
-Apache Spark is a distributed data processing engine for large-scale batch and streaming workloads. It processes data in memory across a cluster, making it significantly faster than MapReduce for iterative computations. Spark supports Python (PySpark), Scala, SQL, and provides libraries for machine learning (MLlib) and graph processing.
+Apache Spark é um motor de processamento de dados distribuído para cargas de trabalho em lote e streaming em larga escala. Ele processa dados na memória em um cluster, tornando-o significativamente mais rápido que o MapReduce para computações iterativas. O Spark suporta Python (PySpark), Scala, SQL e fornece bibliotecas para aprendizado de máquina (MLlib) e processamento de grafos.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
 - [@official@Apache Spark](https://spark.apache.org/)
 - [@opensource@apache/spark](https://github.com/apache/spark)

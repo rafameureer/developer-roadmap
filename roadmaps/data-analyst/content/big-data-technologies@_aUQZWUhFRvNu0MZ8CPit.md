@@ -1,7 +1,7 @@
-# Big Data Technologies
+# Tecnologias de Big Data
 
-Big data technologies handle datasets that are too large or complex for traditional tools to process. The defining characteristics of big data are often described as volume, velocity, and variety. Distributed processing frameworks like Hadoop and Spark allow computation to be spread across clusters of machines.
+Tecnologias de big data lidam com conjuntos de dados que são muito grandes ou complexos para serem processados por ferramentas tradicionais. As características definidoras do big data são geralmente descritas como volume, velocidade e variedade. Estruturas de processamento distribuído como o Hadoop e o Spark permitem que a computação seja distribuída em clusters de máquinas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Big Data Analytics](https://www.ibm.com/think/topics/big-data-analytics)
+- [@article@Análise de Big Data](https://www.ibm.com/think/topics/big-data-analytics)

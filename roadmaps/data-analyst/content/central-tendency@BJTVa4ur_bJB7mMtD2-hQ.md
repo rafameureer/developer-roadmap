@@ -1,8 +1,8 @@
-# Central Tendency
+# Tendência Central
 
-Measures of central tendency describe the center or typical value of a dataset. The three main measures are mean (arithmetic average), median (middle value), and mode (most frequent value). The choice between them depends on the data's distribution and whether outliers are present.
+As medidas de tendência central descrevem o centro ou valor típico de um conjunto de dados. As três principais medidas são a média (média aritmética), a mediana (valor do meio) e a moda (valor mais frequente). A escolha entre elas depende da distribuição dos dados e se há valores atípicos presentes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Measures of central tendency](https://www.abs.gov.au/statistics/understanding-statistics/statistical-terms-and-concepts/measures-central-tendency)
-- [@video@Understanding Central Tendency](https://www.youtube.com/watch?v=n_sSVhHBdj4)
+- [@artigo@Medidas de tendência central](https://www.abs.gov.au/statistics/understanding-statistics/statistical-terms-and-concepts/measures-central-tendency)
+- [@vídeo@Entendendo a Tendência Central](https://www.youtube.com/watch?v=n_sSVhHBdj4)

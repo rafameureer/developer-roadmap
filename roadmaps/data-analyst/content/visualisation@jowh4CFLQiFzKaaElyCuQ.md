@@ -1,8 +1,8 @@
-# Visualisation
+# Visualização
 
-Data visualisation is the representation of data in graphical or visual form. Charts, graphs, and dashboards make patterns and relationships in data easier to perceive and communicate than tables of numbers alone. Effective visualisation is both analytical (for exploring data) and communicative (for presenting findings to others).
+A visualização de dados é a representação dos dados em forma gráfica ou visual. Gráficos, tabelas e painéis permitem perceber e comunicar padrões e relações nos dados de maneira mais fácil do que apenas tabelas de números. A visualização eficaz é tanto analítica quanto comunicativa.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Data Visualization Beginner's Guide](https://www.tableau.com/en-gb/learn/articles/data-visualization)
-- [@video@Top 11 Data Science Skills to Master in 2026](https://roadmap.sh/ai-data-scientist/skills)
+- [@artigo@Guia Iniciante de Visualização de Dados](https://www.tableau.com/en-gb/learn/articles/data-visualization)
+- [@vídeo@11 Habilidades de Ciência dos Dados a Aprender em 2026](https://roadmap.sh/ai-data-scientist/skills)

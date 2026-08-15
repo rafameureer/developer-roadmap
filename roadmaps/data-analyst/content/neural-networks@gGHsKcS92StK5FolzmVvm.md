@@ -1,8 +1,8 @@
-# Neural Networks
+# Redes Neurais
 
-Neural networks are machine learning models inspired by the structure of the brain, consisting of layers of interconnected nodes (neurons) that transform inputs into outputs. They learn by adjusting connection weights during training to minimize prediction error. Neural networks are the foundation of deep learning and power most modern AI applications.
+As redes neurais são modelos de aprendizado de máquina inspirados na estrutura do cérebro, composto por camadas de nós interconectados (neurônios) que transformam as entradas em saídas. Eles aprendem ajustando os pesos das conexões durante o treinamento para minimizar o erro de previsão. As redes neurais são a base do aprendizado profundo e alimentam a maioria dos aplicativos de IA modernos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is a Neural Network?](https://aws.amazon.com/what-is/neural-network/)
-- [@article@Explained: Neural networks](https://news.mit.edu/2017/explained-neural-networks-deep-learning-0414)
+- [@artigo@O que é uma Rede Neural?](https://aws.amazon.com/what-is/neural-network/)
+- [@artigo@Explained: Redes Neurais](https://news.mit.edu/2017/explained-neural-networks-deep-learning-0414)

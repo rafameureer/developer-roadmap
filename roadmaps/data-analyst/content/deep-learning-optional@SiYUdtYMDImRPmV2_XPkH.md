@@ -1,8 +1,8 @@
-# Deep Learning (Optional)
+# Aprendizado Profundo (Opcional)
 
-Deep learning is a subset of machine learning that uses neural networks with many layers to learn representations from large amounts of data. It excels at tasks like image recognition, natural language processing, and speech recognition. For data analysts, deep learning is an advanced optional topic that extends capabilities for unstructured data problems.
+O aprendizado profundo é um subconjunto do aprendizado de máquina que usa redes neurais com muitas camadas para aprender representações a partir de grandes quantidades de dados. Ele excelle em tarefas como reconhecimento de imagens, processamento de linguagem natural e reconhecimento de fala. Para analistas de dados, o aprendizado profundo é um tópico avançado opcional que estende as capacidades para problemas de dados não estruturados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated Machine Learning Roadmap](https://roadmap.sh/machine-learning)
-- [@article@Deep Learning for Data Analysis](https://www.ibm.com/think/topics/deep-learning)
+- [@roadmap@Visite a Rota do Aprendizado de Máquina](https://roadmap.sh/machine-learning)
+- [@artigo@Aprendizado Profundo para Análise de Dados](https://www.ibm.com/think/topics/deep-learning)

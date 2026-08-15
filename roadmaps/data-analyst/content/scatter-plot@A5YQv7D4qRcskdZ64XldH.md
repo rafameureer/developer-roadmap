@@ -1,8 +1,8 @@
-# Scatter Plot
+# Gráfico de Dispersão
 
-A scatter plot, a crucial aspect of data visualization, is a mathematical diagram using Cartesian coordinates to represent values from two different variables. As a data analyst, understanding and interpreting scatter plots can be instrumental in identifying correlations and trends within a dataset, drawing meaningful insights, and showcasing these findings in a clear, visual manner. In addition, scatter plots are paramount in predictive analytics as they reveal patterns which can be used to predict future occurrences.
+Um gráfico de dispersão, um aspecto crucial da visualização de dados, é um diagrama matemático usando coordenadas cartesianas para representar valores de duas variáveis diferentes. Como analista de dados, entender e interpretar gráficos de dispersão pode ser essencial para identificar correlações e tendências em um conjunto de dados, extrair insights significativos e apresentar esses achados de maneira clara e visual. Além disso, gráficos de dispersão são fundamentais na análise preditiva, pois revelam padrões que podem ser usados para prever ocorrências futuras.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Mastering Scatter Plots](https://www.atlassian.com/data/charts/what-is-a-scatter-plot)
-- [@video@Scatter Graphs: What are they and how to plot them](https://www.youtube.com/watch?v=Vyg9qmBsgAc)
+- [@artigo@Dominando Gráficos de Dispersão](https://www.atlassian.com/data/charts/what-is-a-scatter-plot)
+- [@vídeo@Gráficos de Dispersão: O que são e como plotar](https://www.youtube.com/watch?v=Vyg9qmBsgAc)

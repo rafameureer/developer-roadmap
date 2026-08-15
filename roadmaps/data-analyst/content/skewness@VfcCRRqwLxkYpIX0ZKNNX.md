@@ -1,7 +1,7 @@
-# Skewness
+# Assimetria
 
-Skewness is a crucial statistical concept driven by data analysis and is a significant parameter in understanding the distribution shape of a dataset. In essence, skewness provides a measure to define the extent and direction of asymmetry in data. A positive skewness indicates a distribution with an asymmetric tail extending towards more positive values, while a negative skew indicates a distribution with an asymmetric tail extending towards more negative values. For a data analyst, recognizing and analyzing skewness is essential as it can greatly influence model selection, prediction accuracy, and interpretation of results.
+A assimetria é um conceito estatístico crucial baseado em análise de dados e é um parâmetro significativo para entender a forma da distribuição de um conjunto de dados. Em essência, a assimetria fornece uma medida para definir o grau e direção da assimetria nos dados. Uma assimetria positiva indica uma distribuição com uma cauda assimétrica estendendo-se em valores mais positivos, enquanto uma assimetria negativa indica uma distribuição com uma cauda assimétrica estendendo-se em valores mais negativos. Para um analista de dados, reconhecer e analisar a assimetria é essencial, pois pode influenciar significativamente a seleção do modelo, a precisão da previsão e a interpretação dos resultados.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@article@Skewed Data](https://www.mathsisfun.com/data/skewness.html)
+- [@article@Dados Assimétricos](https://www.mathsisfun.com/data/skewness.html)

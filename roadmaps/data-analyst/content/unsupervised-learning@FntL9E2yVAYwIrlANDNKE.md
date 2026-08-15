@@ -1,7 +1,7 @@
-# Unsupervised Learning
+# Aprendizado Não Supervisionado
 
-Unsupervised learning finds patterns in data without labeled training examples. Common techniques include clustering (grouping similar data points together) and dimensionality reduction (compressing data while preserving structure). K-Means and PCA are widely used unsupervised methods in data analysis.
+O aprendizado não supervisionado encontra padrões em dados sem exemplos de treinamento rotulados. Técnicas comuns incluem agrupamento (agrupando pontos de dados similares juntos) e redução de dimensionalidade (comprimindo dados enquanto preserva a estrutura). O K-Means e o PCA são métodos não supervisionados amplamente utilizados na análise de dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Unsupervised Learning?](https://cloud.google.com/discover/what-is-unsupervised-learning)
+- [@artigo@O Que é Aprendizado Não Supervisionado?](https://cloud.google.com/discover/what-is-unsupervised-learning)

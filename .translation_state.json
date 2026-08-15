@@ -2083,7 +2083,87 @@
     "roadmaps/cyber-security/content/wireshark@Sm9bxKUElINHND8FdZ5f2.md",
     "roadmaps/cyber-security/content/wlan@QCVYF1rmPsMVtklBNDNaB.md",
     "roadmaps/cyber-security/content/wpa-vs-wpa2-vs-wpa3-vs-wep@MBnDE0VyVh2u2p-r90jVk.md",
-    "roadmaps/cyber-security/content/xss@2jo1r9O_rCnDwRv1_4Wo-.md"
+    "roadmaps/cyber-security/content/xss@2jo1r9O_rCnDwRv1_4Wo-.md",
+    "roadmaps/data-analyst/content/bar-charts@EVk1H-QLtTlpG7lVEenDt.md",
+    "roadmaps/data-analyst/content/big-data-concepts@m1IfG2sEedUxMXrv_B8GW.md",
+    "roadmaps/data-analyst/content/big-data-technologies@_aUQZWUhFRvNu0MZ8CPit.md",
+    "roadmaps/data-analyst/content/central-tendency@BJTVa4ur_bJB7mMtD2-hQ.md",
+    "roadmaps/data-analyst/content/charting@Vk3JErqxpnPY44iyfkLMl.md",
+    "roadmaps/data-analyst/content/cleanup@nC7tViln4UyQFYP_-fyjB.md",
+    "roadmaps/data-analyst/content/correlation-analysis@murioZ0NdrTix_lqSGz-8.md",
+    "roadmaps/data-analyst/content/count@uAdxP1ZkgzcU8JcWjvw6d.md",
+    "roadmaps/data-analyst/content/csv-files@iWOK0mRY-hAGxMnHYJ0tt.md",
+    "roadmaps/data-analyst/content/data-cleanup@E6cpb6kvluJM8OGuDcFBT.md",
+    "roadmaps/data-analyst/content/data-collection@_sjXCLHHTbZromJYn6fnu.md",
+    "roadmaps/data-analyst/content/data-manipulation-libraries@M1QtGTLyygIjePoCfvjve.md",
+    "roadmaps/data-analyst/content/data-storage-solutions@iTmtpXe7dR4XKslgpsk2q.md",
+    "roadmaps/data-analyst/content/data-transformation@t_BRtEharsrOZxoyX0OzV.md",
+    "roadmaps/data-analyst/content/data-visualisation-libraries@l1SnPc4EMqGdaIAhIQfrT.md",
+    "roadmaps/data-analyst/content/databases@tYPeLCxbqvMFlTkCGjdHg.md",
+    "roadmaps/data-analyst/content/decision-trees@vHDm_9Lh4EqvXNYSOBaqZ.md",
+    "roadmaps/data-analyst/content/deep-learning-optional@SiYUdtYMDImRPmV2_XPkH.md",
+    "roadmaps/data-analyst/content/descriptive-analysis@il6KQXVPGBza5libN38ib.md",
+    "roadmaps/data-analyst/content/descriptive-analytics@hWDh0ooidbqZb000ENVok.md",
+    "roadmaps/data-analyst/content/diagnostic-analytics@j7DA2J3speSaBsZAV4M0v.md",
+    "roadmaps/data-analyst/content/dispersion@2ldO-_ZnIg364Eo8Jyfgr.md",
+    "roadmaps/data-analyst/content/distribution-shape@Fyqg3MRcwY7g-Q3gjiqwK.md",
+    "roadmaps/data-analyst/content/dplyr@v8TfY-b4W5ygOv7r-syHq.md",
+    "roadmaps/data-analyst/content/exploration@XFnw4_dQYSzm96-srWa7X.md",
+    "roadmaps/data-analyst/content/finding-outliers@-rQ8h_6NFxEOhxXgo7LHo.md",
+    "roadmaps/data-analyst/content/funnel-charts@muFy-C2agCX9vR_NU7UZF.md",
+    "roadmaps/data-analyst/content/ggplot2@n3M49lgNPn28hm7kzki-a.md",
+    "roadmaps/data-analyst/content/hadoop@wECWIRMlWNoTxz5eKwaSf.md",
+    "roadmaps/data-analyst/content/handling-missing-data@X9WmfHOks82BIAzs6abqO.md",
+    "roadmaps/data-analyst/content/heatmap@G8resQXEVEHCaQfDlt3nj.md",
+    "roadmaps/data-analyst/content/histograms@FEyBFZLaGJqTC-IUEcOVS.md",
+    "roadmaps/data-analyst/content/hypothesis-testing@Xygwu0m5TeYT6S_8FKKXh.md",
+    "roadmaps/data-analyst/content/if@wME4MSldOWlMB54ekpReS.md",
+    "roadmaps/data-analyst/content/image-recognition@bHPJ6yOHtUq5EjJBSrJUE.md",
+    "roadmaps/data-analyst/content/introduction@3xp2fogAVmwXQhdzhZDWR.md",
+    "roadmaps/data-analyst/content/k-means-clustering@h2xF5bZeUByDgsAi4dga2.md",
+    "roadmaps/data-analyst/content/key-concepts-of-data@R12sArWVpbIs_PHxBqVaR.md",
+    "roadmaps/data-analyst/content/knn@SStzU_iXSvI_9QWbvGNou.md",
+    "roadmaps/data-analyst/content/kurtosis@PqGO8AU1zE2ZdtqrIrOkZ.md",
+    "roadmaps/data-analyst/content/learn-a-programming-lang@i2uEcaO4bJhcZ5ayRs2CQ.md",
+    "roadmaps/data-analyst/content/learn-common-functions@5GarFKYApjrhxHBLNPVnJ.md",
+    "roadmaps/data-analyst/content/line-chart@v9T0DX56jFNhUz9nzubzS.md",
+    "roadmaps/data-analyst/content/mapreduce@eAM9orCNwzqh34uvGBVm8.md",
+    "roadmaps/data-analyst/content/matplotlib@tvDdXwaRPsUSTqJGaLS3P.md",
+    "roadmaps/data-analyst/content/mean@923KGEUG9ofBm7dYkkrxz.md",
+    "roadmaps/data-analyst/content/mode@fY8zVG2tVbmtx5OhY7hj-.md",
+    "roadmaps/data-analyst/content/model-evaluation-techniques@7ikA373qH88HBx5irCgIH.md",
+    "roadmaps/data-analyst/content/mpi@fqCAH4Enc4AAJHoSkk2Pe.md",
+    "roadmaps/data-analyst/content/naive-byes@zbUw5PyVsdccbgDTRHg7d.md",
+    "roadmaps/data-analyst/content/natural-language-processing@DFv-eiYDicF4cA4jgVk9_.md",
+    "roadmaps/data-analyst/content/neural-networks@gGHsKcS92StK5FolzmVvm.md",
+    "roadmaps/data-analyst/content/pandas@TucngXKNptbeo3PtdJHX8.md",
+    "roadmaps/data-analyst/content/parallel-processing@Fwwve0j-KDfc605IIgmil.md",
+    "roadmaps/data-analyst/content/pie-charts@K9xwm_Vpdup9ujYqlD9F3.md",
+    "roadmaps/data-analyst/content/pivot-tables@2DDJUFr0AJTVR2Whj8zub.md",
+    "roadmaps/data-analyst/content/power-bi@SJLeose5vZU8w_18C8_t0.md",
+    "roadmaps/data-analyst/content/predictive-analytics@3WZORRCwme3HsaKew23Z5.md",
+    "roadmaps/data-analyst/content/prescriptive-analytics@DFMR-0MbmVCCrJu0I9JWG.md",
+    "roadmaps/data-analyst/content/regression@lTycWscyFPi-BtkNg9cdm.md",
+    "roadmaps/data-analyst/content/reinforcement-learning@XdBwqLoYYiLJNlWPBEDUj.md",
+    "roadmaps/data-analyst/content/removing-duplicates@Xltm7B-8TZ1-igLjVJXoR.md",
+    "roadmaps/data-analyst/content/replace--substitute@dke_pySrqYZZ7K3rprnIT.md",
+    "roadmaps/data-analyst/content/rnn@Gocm98_tRg5BGxKcP-7zg.md",
+    "roadmaps/data-analyst/content/scatter-plot@A5YQv7D4qRcskdZ64XldH.md",
+    "roadmaps/data-analyst/content/seaborn@-cJb8gEBvdVFf7FlgG3Ud.md",
+    "roadmaps/data-analyst/content/skewness@VfcCRRqwLxkYpIX0ZKNNX.md",
+    "roadmaps/data-analyst/content/spark@vaiigToDh4522rtWamuSM.md",
+    "roadmaps/data-analyst/content/statistical-analysis@TeewVruErSsD4VLXcaDxp.md",
+    "roadmaps/data-analyst/content/sum@_FO80Cm2iAD_bThmnsEgp.md",
+    "roadmaps/data-analyst/content/supervised-learning@FIYCkGXofKMsXmsqHSMh9.md",
+    "roadmaps/data-analyst/content/types-of-data-analytics@Lsapbmg-eMIYJAHpV97nO.md",
+    "roadmaps/data-analyst/content/unsupervised-learning@FntL9E2yVAYwIrlANDNKE.md",
+    "roadmaps/data-analyst/content/upper--lower--proper@YReKRRgE_2dWfGGdBQqbf.md",
+    "roadmaps/data-analyst/content/variance@ict4JkoVM-AzPbp9bDztg.md",
+    "roadmaps/data-analyst/content/visualisation@jowh4CFLQiFzKaaElyCuQ.md",
+    "roadmaps/data-analyst/content/visualizing-distributions@mCUW07rx74_dUNi7OGVlj.md",
+    "roadmaps/data-analyst/content/vlookup--hlookup@9sIP-jpNjtA1JPCBjTf-H.md",
+    "roadmaps/data-analyst/content/web-scraping@qQ64ZhSlbbWu9pP8KTE67.md",
+    "roadmaps/data-analyst/content/what-is-data-analytics@yCnn-NfSxIybUQ2iTuUGq.md"
   ],
   "completed_roadmaps": [
     "frontend-beginner",
@@ -2110,7 +2190,8 @@
     "computer-science",
     "cpp",
     "css",
-    "cyber-security"
+    "cyber-security",
+    "data-analyst"
   ],
   "flagged_issues": [
     {
@@ -4732,8 +4813,118 @@
       "file": "roadmaps/cyber-security/content/zero-day@zqRaMmqcLfx400kJ-h0LO.md",
       "reason": "Falha na tradução automática após tentativas no Ollama",
       "timestamp": "2026-08-15T04:37:21.918225"
+    },
+    {
+      "file": "roadmaps/data-analyst/content/analysis--reporting-with-excel@sgXIjVTbwdwdYoaxN3XBM.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:37:44.006762"
+    },
+    {
+      "file": "roadmaps/data-analyst/content/apis@4DFcXSSHxg5wv0uXLIRij.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:37:48.316519"
+    },
+    {
+      "file": "roadmaps/data-analyst/content/average@FDYunL9KJkR_tHEcUV2iC.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:37:53.006927"
+    },
+    {
+      "file": "roadmaps/data-analyst/content/cnns@XlCv2OirEfuBFa4ranyyE.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:38:31.005177"
+    },
+    {
+      "file": "roadmaps/data-analyst/content/collection@mDUSpexdq3ITV6qokwSJl.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:38:33.894463"
+    },
+    {
+      "file": "roadmaps/data-analyst/content/concat@SIiIfcy-jeiRoDlxw385V.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:38:37.105880"
+    },
+    {
+      "file": "roadmaps/data-analyst/content/data-visualisation@2g19zjEASJw2ve57hxpr0.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:39:28.757028"
+    },
+    {
+      "file": "roadmaps/data-analyst/content/datedif@yBlJrNo9eO470dLp6OaQZ.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:39:35.655836"
+    },
+    {
+      "file": "roadmaps/data-analyst/content/logistic-regression@ofOQKAIu4rezWmgZeE-KT.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:41:35.960330"
+    },
+    {
+      "file": "roadmaps/data-analyst/content/machine-learning@U55hwR0HRCIz2cveVR8FZ.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:41:40.715350"
+    },
+    {
+      "file": "roadmaps/data-analyst/content/machine-learning@f4GuzeokP9w_gwtOquP0g.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:41:43.782503"
+    },
+    {
+      "file": "roadmaps/data-analyst/content/median@qdXoikVh2xkJkOQNKcyvb.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:42:11.464327"
+    },
+    {
+      "file": "roadmaps/data-analyst/content/min--max@F3-cr5onkWqKKPRdxu8lV.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:42:16.991621"
+    },
+    {
+      "file": "roadmaps/data-analyst/content/pytorch@LJSqfz6aYJbCe_bK8EWI1.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:43:19.318636"
+    },
+    {
+      "file": "roadmaps/data-analyst/content/r@g_EBQizZsIe-vn8ir6FTv.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:43:23.547464"
+    },
+    {
+      "file": "roadmaps/data-analyst/content/range@tSxtyJhL5wjU0XJcjsJmm.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:43:26.091994"
+    },
+    {
+      "file": "roadmaps/data-analyst/content/stacked-charts@329BrtmXjXNLfi1SFfdeo.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:44:21.099608"
+    },
+    {
+      "file": "roadmaps/data-analyst/content/standard-deviation@MXIP8ekH4YtczODKM_G_l.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:44:24.296373"
+    },
+    {
+      "file": "roadmaps/data-analyst/content/statistical-analysis@2pUq-7hu5EjGpowz98YoV.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:44:27.501718"
+    },
+    {
+      "file": "roadmaps/data-analyst/content/tableau@Sz2Y8HLbSmDjSKAJztDql.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:44:55.137785"
+    },
+    {
+      "file": "roadmaps/data-analyst/content/tensorflow@FJ4Sx477FWxyDsQr0R8rl.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:44:59.595532"
+    },
+    {
+      "file": "roadmaps/data-analyst/content/trim@D5Q6o6ydr1j51kB0ASFPE.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:45:04.645684"
     }
   ],
-  "last_updated": "2026-08-15T04:37:21.922773",
+  "last_updated": "2026-08-15T04:45:43.214122",
   "total_translated_count": 54
 }

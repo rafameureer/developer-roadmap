@@ -1,8 +1,8 @@
-# Bar Charts
+# Gráficos de Barras
 
-Bar charts display categorical data with rectangular bars whose lengths represent values. They are used to compare quantities across different categories. Horizontal bar charts work well for long category names; vertical bar charts (column charts) are standard for time-based comparisons.
+Gráficos de barras exibem dados categóricos com barras retangulares cujas comprimentos representam valores. Eles são usados para comparar quantidades em diferentes categorias. Gráficos de barras horizontais funcionam bem para nomes de categoria longos; gráficos de barras verticais (também conhecidos como gráficos de coluna) são padrão para comparações baseadas no tempo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@A Complete Guide to Bar Charts](https://www.atlassian.com/data/charts/bar-chart-complete-guide)
-- [@video@What is a Bar Chart?](https://www.youtube.com/watch?v=WTVdncVCvKo)
+- [@article@Guia Completo sobre Gráficos de Barras](https://www.atlassian.com/data/charts/bar-chart-complete-guide)
+- [@video@O que é um Gráfico de Barras?](https://www.youtube.com/watch?v=WTVdncVCvKo)

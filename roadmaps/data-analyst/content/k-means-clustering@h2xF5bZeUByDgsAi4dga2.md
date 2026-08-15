@@ -1,8 +1,8 @@
-# K-Means Clustering
+# Agrupamento K-Means
 
-K-Means is an unsupervised clustering algorithm that partitions data into K groups by iteratively assigning points to the nearest cluster centroid and updating the centroids. It is simple and scalable but requires specifying K in advance and is sensitive to outliers and initial centroid placement. It is used for customer segmentation, anomaly detection, and data compression.
+O K-Means é um algoritmo de agrupamento não supervisionado que particiona os dados em K grupos iterativamente atribuindo pontos ao centroide mais próximo e atualizando os centroides. É simples e escalável, mas requer especificar K em antecedência e é sensível a outliers e à colocação inicial dos centroides. Ele é usado para segmentação de clientes, detecção de anomalias e compressão de dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@K-Means Clustering](https://en.wikipedia.org/wiki/K-means_clustering)
-- [@article@K-Means](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html)
+- [@artigo@K-Means Clustering](https://en.wikipedia.org/wiki/K-means_clustering)
+- [@artigo@K-Means](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html)

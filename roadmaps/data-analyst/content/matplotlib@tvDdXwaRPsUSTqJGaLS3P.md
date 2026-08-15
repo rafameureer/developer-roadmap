@@ -1,8 +1,8 @@
 # Matplotlib
 
-Matplotlib is Python's foundational plotting library. It supports a wide range of chart types and gives detailed control over every visual element. While more verbose than higher-level libraries, Matplotlib is the base on which many other Python visualization tools are built and is essential for custom or publication-quality plots.
+Matplotlib é a biblioteca de plotagem fundamental do Python. Ele suporta uma ampla gama de tipos de gráficos e dá controle detalhado sobre cada elemento visual. Embora mais verboso que as bibliotecas de nível superior, o Matplotlib é a base sobre a qual muitas outras ferramentas de visualização em Python são construídas e é essencial para gráficos personalizados ou de qualidade publicacional.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Matplotlib](https://matplotlib.org/)
-- [@video@Learn Matplotlib in 6 minutes](https://www.youtube.com/watch?v=nzKy9GY12yo)
+- [@video@Aprenda o Matplotlib em 6 minutos](https://www.youtube.com/watch?v=nzKy9GY12yo)

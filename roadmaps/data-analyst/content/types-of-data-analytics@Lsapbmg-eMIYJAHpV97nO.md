@@ -1,9 +1,9 @@
-# Types of Data Analytics
+# Tipos de Análise de Dados
 
-Data analytics is divided into four types based on the questions they answer: descriptive, diagnostic, predictive, and prescriptive. Each type builds on the previous, moving from understanding what happened to recommending what to do. Knowing which type of analysis a problem requires shapes the tools and techniques used.
+A análise de dados é dividida em quatro tipos com base nas perguntas que respondem: descritiva, diagnóstica, preditiva e prescritiva. Cada tipo se baseia no anterior, passando da compreensão do que aconteceu para a recomendação de o que fazer. Saber qual tipo de análise é necessário para um problema molda as ferramentas e técnicas utilizadas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@The 4 Types of Data Analysis: Ultimate Guide](https://careerfoundry.com/en/blog/data-analytics/different-types-of-data-analysis/)
-- [@video@Descriptive vs Diagnostic vs Predictive vs Prescriptive Analytics: What's the Difference?](https://www.youtube.com/watch?v=QoEpC7jUb9k)
-- [@video@Types of Data Analytics](https://www.youtube.com/watch?v=lsZnSgxMwBA)
+- [@artigo@Os 4 Tipos de Análise de Dados: Guia Completo](https://careerfoundry.com/en/blog/data-analytics/different-types-of-data-analysis/)
+- [@vídeo@Descritiva vs Diagnóstica vs Preditiva vs Prescritiva Analytics: O que é a Diferença?](https://www.youtube.com/watch?v=QoEpC7jUb9k)
+- [@vídeo@Tipos de Análise de Dados](https://www.youtube.com/watch?v=lsZnSgxMwBA)

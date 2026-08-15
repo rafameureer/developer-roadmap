@@ -1,8 +1,8 @@
-# Databases
+# Banco de Dados
 
-Databases are structured storage systems that hold organized data accessible via query languages like SQL. Data analysts connect to databases to extract relevant subsets of data for analysis. Understanding basic SQL and database concepts is necessary for working with most organizational data.
+Bancos de dados são sistemas de armazenamento estruturados que mantêm dados organizados acessíveis por meio de linguagens de consulta como SQL. Analistas de dados se conectam a bancos de dados para extrair subconjuntos relevantes de dados para análise. Entender os conceitos básicos de SQL e banco de dados é necessário para trabalhar com a maioria dos dados organizacionais.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit Dedicated SQL Roadmap](https://roadmap.sh/sql)
-- [@roadmap@Visit Dedicated PostgreSQL Roadmap](https://roadmap.sh/postgresql-dba)
+- [@roadmap@Visite o Caminho Dedidado em SQL](https://roadmap.sh/sql)
+- [@roadmap@Visite o Caminho Dedidado em PostgreSQL DBA](https://roadmap.sh/postgresql-dba)

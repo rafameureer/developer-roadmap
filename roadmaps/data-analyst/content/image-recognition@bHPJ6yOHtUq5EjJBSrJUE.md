@@ -1,8 +1,8 @@
-# Image Recognition
+# Reconhecimento de Imagens
 
-Image recognition is the task of identifying objects, scenes, or attributes in images. Deep learning models, particularly CNNs, have achieved human-level performance on standard image recognition benchmarks. Practicing image recognition involves training models on labeled image datasets and evaluating their accuracy on unseen images.
+O reconhecimento de imagens é a tarefa de identificar objetos, cenas ou atributos em imagens. Modelos de aprendizado profundo, especialmente as CNNs (Convolutional Neural Networks), têm alcançado o desempenho humano em benchmarks padrão de reconhecimento de imagens. Praticar o reconhecimento de imagens envolve treinar modelos em conjuntos de dados de imagens rotulados e avaliar sua precisão em imagens não vistas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Image Recognition?](https://www.techtarget.com/searchenterpriseai/definition/image-recognition)
-- [@article@Image Recognition: Definition, Algorithms & Uses](https://www.v7labs.com/blog/image-recognition-guide)
+- [@artigo@O que é Reconhecimento de Imagens?](https://www.techtarget.com/searchenterpriseai/definition/image-recognition)
+- [@artigo@Reconhecimento de Imagens: Definição, Algoritmos e Usos](https://www.v7labs.com/blog/image-recognition-guide)

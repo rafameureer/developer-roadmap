@@ -1,8 +1,8 @@
-# If
+# Se
 
-The IF function in Excel is a crucial tool for data analysts, enabling them to create conditional statements, clean and validate data, perform calculations based on specific conditions, create custom metrics, apply conditional formatting, automate tasks, and generate dynamic reports. Data analysts use IF to categorize data, handle missing values, calculate bonuses or custom metrics, highlight trends, and enhance visualizations, ultimately facilitating informed decision-making through data analysis.
+A função IF no Excel é uma ferramenta crucial para analistas de dados, permitindo que eles criem declarações condicionais, limitem e validem os dados, realizem cálculos com base em condições específicas, criem métricas personalizadas, apliquem formatação condicional, automatizem tarefas e gerenciem relatórios dinâmicos. Analistas de dados usam IF para categorizar dados, lidar com valores faltantes, calcular bônus ou métricas personalizadas, destacar tendências e melhorar visualizações, finalmente facilitando a tomada de decisões informadas através da análise de dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@IF Function](https://support.microsoft.com/en-gb/office/if-function-69aed7c9-4e8a-4755-a9bc-aa8bbff73be2)
-- [@article@Excel IF Function](https://exceljet.net/functions/if-function)
+- [@artigo@Função IF](https://support.microsoft.com/en-gb/office/if-function-69aed7c9-4e8a-4755-a9bc-aa8bbff73be2)
+- [@artigo@Função IF do Excel](https://exceljet.net/functions/if-function)

@@ -1,8 +1,8 @@
 # Pandas
 
-Pandas is used extensively for data cleanup tasks: loading raw data, filling or dropping missing values, removing duplicates, renaming columns, filtering rows, and converting data types. Its DataFrame API provides a comprehensive set of methods for every stage of the cleanup workflow, making it the go-to tool for Python-based data preparation.
+O Pandas é amplamente utilizado para tarefas de limpeza de dados: carregamento de dados brutos, preenchimento ou exclusão de valores faltantes, remoção de duplicatas, renomeação de colunas, filtragem de linhas e conversão de tipos de dados. Sua API DataFrame fornece um conjunto completo de métodos para cada etapa do fluxo de trabalho de limpeza de dados, tornando-o a ferramenta ideal para preparação de dados baseada em Python.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Pandas](https://pandas.pydata.org/)
-- [@video@NumPy vs Pandas](https://www.youtube.com/watch?v=KHoEbRH46Zk)
+- [@oficial@Pandas](https://pandas.pydata.org/)
+- [@vídeo@NumPy vs Pandas](https://www.youtube.com/watch?v=KHoEbRH46Zk)

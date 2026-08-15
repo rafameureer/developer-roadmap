@@ -1,8 +1,8 @@
 # ggplot2
 
-ggplot2 is R's most popular visualization library, based on the Grammar of Graphics framework. Plots are built by layering geometric elements (points, lines, bars) on top of aesthetic mappings (x, y, color, size). It produces clean, professional-looking charts with minimal code and is the standard for data visualization in R.
+ggplot2 é a biblioteca de visualização mais popular do R, baseada no quadro de gramática dos gráficos. Os gráficos são construídos empilhando elementos geométricos (pontos, linhas, barras) sobre mapeamentos estéticos (x, y, cor, tamanho). Ele produz gráficos limpos e profissionais com código mínimo e é o padrão para a visualização de dados no R.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@ggplot2 website](https://ggplot2.tidyverse.org/)
-- [@video@Make beautiful graphs in R](https://www.youtube.com/watch?v=qnw1xDnt_Ec)
+- [@article@Site do ggplot2](https://ggplot2.tidyverse.org/)
+- [@video@Faça gráficos bonitos em R](https://www.youtube.com/watch?v=qnw1xDnt_Ec)

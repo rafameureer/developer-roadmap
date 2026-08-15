@@ -1,8 +1,8 @@
-# Charting
+# Gráficos
 
-Excel charts turn tabular data into visual representations like bar charts, line charts, pie charts, and scatter plots. Charts are created directly from selected data and can be formatted and embedded in reports and dashboards. Knowing which chart type suits different data and messages is an important analytical skill.
+Os gráficos do Excel transformam dados tabulares em representações visuais como gráficos de barras, gráficos de linha, gráficos de pizza e diagramas de dispersão. Os gráficos são criados diretamente a partir dos dados selecionados e podem ser formatados e incorporados em relatórios e painéis. Saber qual tipo de gráfico se adequa a diferentes conjuntos de dados e mensagens é uma habilidade analítica importante.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Create a chart from start to finish](https://support.microsoft.com/en-gb/office/create-a-chart-from-start-to-finish-0baf399e-dd61-4e18-8a73-b3fd5d5680c2)
-- [@video@Excel Charts and Graphs Tutorial](https://www.youtube.com/watch?v=eHtZrIb0oWY)
+- [@artigo@Criar um gráfico do início ao fim](https://support.microsoft.com/en-gb/office/create-a-chart-from-start-to-finish-0baf399e-dd61-4e18-8a73-b3fd5d5680c2)
+- [@vídeo@Tutorial de Gráficos e Gráficos do Excel](https://www.youtube.com/watch?v=eHtZrIb0oWY)

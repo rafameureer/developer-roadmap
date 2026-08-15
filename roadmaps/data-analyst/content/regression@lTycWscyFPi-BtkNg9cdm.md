@@ -1,8 +1,8 @@
-# Regression
+# Regressão
 
-Regression models the relationship between a dependent variable and one or more independent variables. Simple linear regression fits a line to describe how one variable changes with another. Multiple regression extends this to several predictors. Regression is used for prediction, forecasting, and understanding which factors influence an outcome.
+Os modelos de regressão modelam a relação entre uma variável dependente e uma ou mais variáveis independentes. A regressão linear simples ajusta uma linha para descrever como uma variável muda em relação à outra. A regressão múltipla estende isso para vários preditores. A regressão é usada para previsão, previsão e entender quais fatores influenciam um resultado.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@article@Regression: Definition, Analysis, Calculation, and Example](https://www.investopedia.com/terms/r/regression.asp)
-- [@article@A Refresher on Regression Analysis - Harvard](https://hbr.org/2015/11/a-refresher-on-regression-analysis)
+- [@artigo@Regressão: Definição, Análise, Cálculo e Exemplo](https://www.investopedia.com/terms/r/regression.asp)
+- [@artigo@Um Refresher em Análise de Regressão - Harvard](https://hbr.org/2015/11/a-refresher-on-regression-analysis)

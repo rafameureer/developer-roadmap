@@ -1,7 +1,7 @@
-# Model Evaluation Techniques
+# Técnicas de Avaliação de Modelos
 
-Model evaluation measures how well a machine learning model performs on unseen data. Common metrics include accuracy, precision, recall, F1 score for classification, and mean squared error for regression. Techniques like cross-validation and train/test splits ensure that evaluation reflects real-world performance rather than overfitting to training data.
+As técnicas de avaliação de modelos medem como bem um modelo de aprendizado de máquina desempenha com dados não vistos. Métricas comuns incluem precisão, recall, F1-score para classificação e erro quadrático médio para regressão. Técnicas como validação cruzada e divisões de treino/teste garantem que a avaliação reflete o desempenho no mundo real em vez de se ajustar demais aos dados de treinamento.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Model Evaluation](https://domino.ai/data-science-dictionary/model-evaluation)
+- [@artigo@O que é Avaliação de Modelo](https://domino.ai/data-science-dictionary/model-evaluation)

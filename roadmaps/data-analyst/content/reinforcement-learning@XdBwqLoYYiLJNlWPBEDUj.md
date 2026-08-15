@@ -1,8 +1,8 @@
-# Reinforcement Learning
+# Aprendizagem por Reforço
 
-Reinforcement learning is a type of machine learning where an agent learns to make decisions by interacting with an environment and receiving rewards or penalties. Unlike supervised learning, it does not require labeled training data. It is used in robotics, game-playing AI, and dynamic optimization problems.
+A aprendizagem por reforço é um tipo de aprendizado de máquina onde um agente aprende a tomar decisões interagindo com um ambiente e recebendo recompensas ou penalidades. Diferentemente da aprendizagem supervisionada, ela não requer dados de treinamento rotulados. É usada em robótica, IA para jogos e problemas de otimização dinâmica.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@article@What is reinforcement learning](https://aws.amazon.com/what-is/reinforcement-learning/#:~:text=Reinforcement%20learning%20(RL)%20is%20a,use%20to%20achieve%20their%20goals.)
-- [@article@What is reinforcement learning - IBM](https://www.ibm.com/topics/reinforcement-learning)
+- [@artigo@O que é a aprendizagem por reforço](https://aws.amazon.com/what-is/reinforcement-learning/#:~:text=Aprendizagem%20por%20reforço%20(RL)%20é%20um,usar%20para%20atingir%20seus%20objetivos.)
+- [@artigo@O que é a aprendizagem por reforço - IBM](https://www.ibm.com/topics/reinforcement-learning)

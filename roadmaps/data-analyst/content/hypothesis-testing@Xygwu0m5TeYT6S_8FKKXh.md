@@ -1,7 +1,7 @@
-# Hypothesis Testing
+# Testes de Hipótese
 
-Hypothesis testing is a statistical method for evaluating whether observed data provides enough evidence to support or reject a claim about a population. It involves defining a null hypothesis, choosing a significance level, computing a test statistic, and comparing it to a critical value or p-value. Common tests include t-tests, chi-square tests, and ANOVA.
+O teste de hipótese é um método estatístico para avaliar se os dados observados fornecem evidências suficientes para apoiar ou rejeitar uma declaração sobre uma população. Involves definir uma hipótese nula, escolher um nível de significância, calcular uma estatística de teste e compará-la com um valor crítico ou p-valor. Testes comuns incluem testes t, testes qui-quadrado e ANOVA.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Hypothesis Testing - 4 Step](https://www.investopedia.com/terms/h/hypothesistesting.asp)
+- [@artigo@Teste de Hipótese - 4 Passos](https://www.investopedia.com/terms/h/hypothesistesting.asp)

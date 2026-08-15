@@ -1,7 +1,7 @@
-# Visualizing Distributions
+# Visualizando Distribuições
 
-Visualizing distributions helps analysts understand the shape, spread, and outliers of a variable more intuitively than summary statistics alone. Common visualizations include histograms, density plots, box plots, and violin plots. These charts reveal whether data is normally distributed, skewed, or multi-modal.
+A visualização de distribuições ajuda os analistas a entender a forma, dispersão e outliers de uma variável de maneira mais intuitiva do que estatísticas resumidas. Visualizações comuns incluem histogramas, gráficos de densidade, box plots e violino plots. Esses gráficos revelam se os dados estão normalmente distribuídos, assimétricos ou multimodais.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@Visualising Distributions in Power BI](https://www.youtube.com/watch?v=rOemr3sz2vw)
+- [@vídeo@Visualizando Distribuições no Power BI](https://www.youtube.com/watch?v=rOemr3sz2vw)

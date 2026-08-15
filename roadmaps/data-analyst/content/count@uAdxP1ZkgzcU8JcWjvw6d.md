@@ -1,8 +1,8 @@
-# Count
+# Contagem
 
-The Count function in data analysis is one of the most fundamental tasks that a Data Analyst gets to handle. This function is a simple yet powerful tool that aids in understanding the underlying data by providing the count or frequency of occurrences of unique elements in data sets. The relevance of count comes into play in various scenarios – from understanding the popularity of a certain category to analyzing customer activity, and much more. This basic function offers crucial insights into data, making it an essential skill in the toolkit of any data analyst.
+A função Count na análise de dados é uma das tarefas fundamentais que um Analista de Dados tem a chance de lidar. Esta função é uma ferramenta simples, mas poderosa, que ajuda a entender os dados subjacentes fornecendo a contagem ou frequência de ocorrências de elementos únicos em conjuntos de dados. A relevância da contagem entra em jogo em várias situações – desde entender a popularidade de uma certa categoria até analisar a atividade do cliente, e muito mais. Esta função básica oferece insights cruciais sobre os dados, tornando-se uma habilidade essencial na ferramentaria de qualquer analista de dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@COUNT Function](https://support.microsoft.com/en-gb/office/count-function-a59cd7fc-b623-4d93-87a4-d23bf411294c)
-- [@video@How to Count Cells in Microsoft Excel (COUNT, COUNTA, COUNTIF, COUNTIFS Functions)](https://www.youtube.com/watch?v=5RFLncJuMng)
+- [@artigo@Função COUNT](https://support.microsoft.com/en-gb/office/count-function-a59cd7fc-b623-4d93-87a4-d23bf411294c)
+- [@vídeo@Como contar células no Microsoft Excel (Funções COUNT, COUNTA, COUNTIF, COUNTIFS)](https://www.youtube.com/watch?v=5RFLncJuMng)

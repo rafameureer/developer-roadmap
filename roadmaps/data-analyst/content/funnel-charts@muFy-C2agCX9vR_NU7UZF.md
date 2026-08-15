@@ -1,8 +1,8 @@
-# Funnel Charts
+# Gráficos de Funnel
 
-Funnel charts display values decreasing progressively across stages of a process, such as a sales pipeline or user conversion flow. Each stage is represented as a narrowing bar. They highlight where the largest drop-offs occur in a sequential process.
+Gráficos de funnel mostram valores diminuindo progressivamente em cada etapa de um processo, como uma pipeline de vendas ou fluxo de conversão do usuário. Cada etapa é representada por uma barra que se encolhe. Eles destacam onde ocorrem as maiores quedas em um processo sequencial.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is a Funnel Chart?](https://www.atlassian.com/data/charts/funnel-chart-complete-guide)
-- [@video@Explain your data with a funnel chart](https://www.youtube.com/watch?v=AwFB9Qg96Ek)
+- [@article@O que é um Gráfico de Funnel?](https://www.atlassian.com/data/charts/funnel-chart-complete-guide)
+- [@video@Explique seus dados com um gráfico de funnel](https://www.youtube.com/watch?v=AwFB9Qg96Ek)

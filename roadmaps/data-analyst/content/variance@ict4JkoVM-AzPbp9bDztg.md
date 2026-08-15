@@ -1,8 +1,8 @@
-# Variance
+# Variância
 
-Variance measures the average squared deviation of each value from the mean. It quantifies how much the data points differ from the average. A higher variance indicates greater spread. Variance is the basis for standard deviation and many inferential statistical tests.
+A variância mede a média dos quadrados das desvios de cada valor em relação à média. Ela quantifica como os pontos de dados diferem da média. Uma maior variância indica uma maior dispersão. A variância é a base para o desvio padrão e muitos testes estatísticos inferenciais.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Variance?](https://www.investopedia.com/terms/v/variance.asp)
-- [@article@How to Calculate Variance](https://www.scribbr.co.uk/stats/variance-meaning/)
+- [@artigo@O que é Variância?](https://www.investopedia.com/terms/v/variance.asp)
+- [@artigo@Como Calcular a Variância](https://www.scribbr.co.uk/stats/variance-meaning/)

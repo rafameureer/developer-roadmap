@@ -1,8 +1,8 @@
 # Dplyr
 
-Dplyr provides the primary toolkit for data transformation in R. Functions like `mutate()`, `filter()`, `select()`, `arrange()`, and `summarise()` cover the most common transformation tasks. Combined with the pipe operator, dplyr code reads clearly as a sequence of transformation steps applied to a dataset.
+Dplyr oferece o principal conjunto de ferramentas para a transformação de dados em R. Funções como `mutate()`, `filter()`, `select()`, `arrange()` e `summarise()` cobrem as tarefas de transformação mais comuns. Combinadas com o operador de pipe, o código dplyr lê-se claramente como uma sequência de etapas de transformação aplicadas a um conjunto de dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@dplyr](https://dplyr.tidyverse.org/)
-- [@video@Dplyr Essentials](https://www.youtube.com/watch?v=Gvhkp-Yw65U)
+- [@oficial@dplyr](https://dplyr.tidyverse.org/)
+- [@vídeo@Essenciais do Dplyr](https://www.youtube.com/watch?v=Gvhkp-Yw65U)

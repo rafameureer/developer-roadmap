@@ -1,10 +1,10 @@
-# What is Data Analytics
+# O Que é Análise de Dados
 
-Data analytics is the process of collecting, cleaning, transforming, and analyzing data to discover useful information, identify patterns, and support decisions. It spans a wide range of activities from basic reporting to predictive modeling. The goal is to turn raw data into actionable insights.
+A análise de dados é o processo de coletar, limpar, transformar e analisar dados para descobrir informações úteis, identificar padrões e apoiar decisões. Ela abrange uma ampla gama de atividades desde relatórios básicos até modelagem preditiva. O objetivo é transformar dados brutos em insights ação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@Introduction to Data Analytics](https://www.coursera.org/learn/introduction-to-data-analytics)
-- [@article@What Does a Data Analyst Do?](https://roadmap.sh/data-analyst/what-does-a-data-analyst-do)
-- [@article@Data Science Lifecycle 101: A Beginners' Ultimate Guide](https://roadmap.sh/ai-data-scientist/lifecycle)
-- [@article@Data Analyst vs. Business Analyst Roles: How to Choose](https://roadmap.sh/data-analyst/vs-business-analyst)
+- [@course@Introdução à Análise de Dados](https://www.coursera.org/learn/introduction-to-data-analytics)
+- [@article@O que um Analista de Dados Faz?](https://roadmap.sh/data-analyst/what-does-a-data-analyst-do)
+- [@article@Ciclo de Vida da Ciência dos Dados 101: Um Guia Último para Iniciantes](https://roadmap.sh/ai-data-scientist/lifecycle)
+- [@article@Analista de Dados vs. Analista de Negócios: Como Escolher](https://roadmap.sh/data-analyst/vs-business-analyst)

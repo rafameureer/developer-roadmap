@@ -1,8 +1,8 @@
-# Predictive Analytics
+# Análise Preditiva
 
-Predictive analytics uses historical data and statistical models to forecast future outcomes. It answers the question "what is likely to happen?" Techniques include regression, time series analysis, and machine learning models trained on past data to predict future behavior or events.
+A análise preditiva usa dados históricos e modelos estatísticos para prever resultados futuros. Ele responde à pergunta "O que é provavelmente acontecer?" Técnicas incluem regressão, análise de séries temporais e modelos de aprendizado de máquina treinados em dados passados para prever o comportamento ou eventos futuros.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Predictive Analytics? - Google](https://cloud.google.com/learn/what-is-predictive-analytics)
-- [@video@What is Predictive Analytics?](https://www.youtube.com/watch?v=cVibCHRSxB0)
+- [@article@O que é a Análise Preditiva? - Google](https://cloud.google.com/learn/what-is-predictive-analytics)
+- [@video@O que é a Análise Preditiva?](https://www.youtube.com/watch?v=cVibCHRSxB0)

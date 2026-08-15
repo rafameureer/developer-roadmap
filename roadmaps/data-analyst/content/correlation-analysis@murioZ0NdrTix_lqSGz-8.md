@@ -1,8 +1,8 @@
-# Correlation Analysis
+# Análise de Correlação
 
-Correlation analysis measures the strength and direction of the relationship between two numeric variables. The Pearson correlation coefficient ranges from -1 (perfect negative relationship) to +1 (perfect positive relationship), with 0 indicating no linear relationship. Correlation does not imply causation, and further analysis is needed to understand underlying relationships.
+A análise de correlação mede a força e a direção da relação entre duas variáveis numéricas. O coeficiente de correlação de Pearson varia de -1 (relação negativa perfeita) a +1 (relação positiva perfeita), com 0 indicando nenhuma relação linear. A correlação não implica causalidade, e uma análise adicional é necessária para entender as relações subjacentes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Correlation](https://www.mathsisfun.com/data/correlation.html)
-- [@article@What is correlation analysis?](https://blog.flexmr.net/correlation-analysis-definition-exploration)
+- [@artigo@Correlação](https://www.mathsisfun.com/data/correlation.html)
+- [@artigo@O que é a análise de correlação?](https://blog.flexmr.net/correlation-analysis-definition-exploration)

@@ -1,8 +1,8 @@
-# Kurtosis
+# Curtose
 
-Kurtosis measures the heaviness of a distribution's tails compared to a normal distribution. High kurtosis (leptokurtic) means more values in the tails and a sharper peak; low kurtosis (platykurtic) means thinner tails and a flatter peak. It is used alongside skewness to assess whether data approximates a normal distribution.
+A curtose mede a gravidade das caudas de uma distribuição em comparação com uma distribuição normal. Alta curtose (leptocúrtica) significa mais valores nas caudas e um pico afiado; baixa curtose (platykúrtica) significa caudas finas e um pico plano. É usado junto com a assimetria para avaliar se os dados aproximam-se de uma distribuição normal.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Kurtosis: Definition, Types, and Importance](https://www.investopedia.com/terms/k/kurtosis.asp)
-- [@video@What is Kurtosis?](https://www.youtube.com/watch?v=AsxEDBhESJg)
+- [@article@Curtose: Definição, Tipos e Importância](https://www.investopedia.com/terms/k/kurtosis.asp)
+- [@video@O que é Curtose?](https://www.youtube.com/watch?v=AsxEDBhESJg)

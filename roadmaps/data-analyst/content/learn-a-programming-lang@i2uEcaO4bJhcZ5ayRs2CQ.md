@@ -1,8 +1,8 @@
-# Learn a Programming Language
+# Aprenda um Idioma de Programação
 
-Programming extends the analytical capabilities of a data analyst beyond what spreadsheet tools can handle. Python and R are the two most common languages used in data analysis for data manipulation, statistical modeling, and visualization. Choosing one and learning it well is the foundation for working with large datasets and building repeatable analyses.
+A programação estende as capacidades analíticas de um analista de dados além do que os ferramentas de planilhas podem lidar. Python e R são os dois idiomas mais comuns usados em análise de dados para manipulação de dados, modelagem estatística e visualização. Escolher um e aprender bem é a base para trabalhar com grandes conjuntos de dados e construir análises repetíveis.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
-- [@article@How to Become a Data Analyst with No Experience: My Advice](https://roadmap.sh/data-analyst/how-to-become)
+- [@artigo@Guia do Python para Ciência dos Dados](https://jakevdp.github.io/PythonDataScienceHandbook/)
+- [@artigo@Como se tornar um Analista de Dados sem experiência: Meu Conselho](https://roadmap.sh/data-analyst/how-to-become)

@@ -1,8 +1,8 @@
 # RNN
 
-Recurrent Neural Networks (RNNs) are a type of neural network designed for sequential data, where the output at each step depends on previous steps. They maintain a hidden state that carries information from earlier in the sequence. RNNs and their variants (LSTM, GRU) are used for time series forecasting, text generation, and language modeling.
+Redes Neurais Recorrentes (RNNs) são um tipo de rede neural projetada para dados sequenciais, onde a saída em cada passo depende dos passos anteriores. Elas mantêm um estado oculto que carrega informações da sequência anterior. RNNs e suas variantes (LSTM, GRU) são usadas para previsão de séries temporais, geração de texto e modelagem linguística.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is a Recurrent Neural Network (RNN)?](https://www.ibm.com/topics/recurrent-neural-networks)
-- [@article@Recurrent Neural Networks Cheat-sheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)
+- [@artigo@O que é uma Rede Neural Recorrente (RNN)?](https://www.ibm.com/topics/recurrent-neural-networks)
+- [@artigo@Guia Rápido de Redes Neurais Recorrentes](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)

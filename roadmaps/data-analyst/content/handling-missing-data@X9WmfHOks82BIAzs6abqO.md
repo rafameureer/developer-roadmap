@@ -1,8 +1,8 @@
-# Handling Missing Data
+# Lidando com Dados Ausentes
 
-Missing data occurs when values are absent in a dataset, which can distort analysis if not handled carefully. Common strategies include removing rows with missing values, imputing with the mean, median, or a predicted value, and flagging missingness as its own category. The right approach depends on how much data is missing and why.
+Dados ausentes ocorrem quando valores estão faltando em um conjunto de dados, o que pode distorcer a análise se não for tratado cuidadosamente. Estratégias comuns incluem remover linhas com valores ausentes, imputar com a média, mediana ou um valor predito, e sinalizar a ausência como sua própria categoria. A abordagem correta depende de quantos dados estão faltando e por que.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@How to Handle Missing Data Values While Data Cleaning](https://insightsoftware.com/blog/how-to-handle-missing-data-values-while-data-cleaning/)
-- [@article@Handling Missing Data in Data Preprocessing and Cleaning](https://medium.com/@yennhi95zz/handling-missing-data-in-data-preprocessing-and-cleaning-methods-and-examples-19a893336b2a)
+- [@article@Como lidar com valores ausentes durante a limpeza de dados](https://insightsoftware.com/blog/how-to-handle-missing-data-values-while-data-cleaning/)
+- [@article@Lidando com dados ausentes em pré-processamento e limpeza de dados](https://medium.com/@yennhi95zz/handling-missing-data-in-data-preprocessing-and-cleaning-methods-and-examples-19a893336b2a)

@@ -1,8 +1,8 @@
-# Parallel Processing
+# Processamento Paralelo
 
-Parallel processing divides a computation into tasks that run simultaneously across multiple processors or machines. It is the core technique that makes big data processing feasible, as tasks that would take hours on a single machine can complete in minutes when distributed. Spark and Hadoop both use parallelism to handle large-scale data.
+O processamento paralelo divide um cálculo em tarefas que são executadas simultaneamente em vários processadores ou máquinas. É a técnica central que torna o processamento de grandes volumes de dados viável, pois tarefas que levariam horas em uma única máquina podem ser concluídas em minutos quando distribuídas. O Spark e o Hadoop ambos usam paralelismo para lidar com dados em escala.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What Is Parallel Processing?](https://www.spiceworks.com/tech/iot/articles/what-is-parallel-processing/)
-- [@article@How Parallel Computing Works](https://computer.howstuffworks.com/parallel-processing.htm)
+- [@artigo@O Que é Processamento Paralelo?](https://www.spiceworks.com/tech/iot/articles/what-is-parallel-processing/)
+- [@artigo@Como Funciona o Computação Paralela](https://computer.howstuffworks.com/parallel-processing.htm)

@@ -1,11 +1,11 @@
 # Ocelot
 
-Ocelot is an open-source API gateway for [ASP.NET](http://ASP.NET) Core. It is designed to work as a reverse proxy, routing incoming requests to the appropriate service and aggregating the responses to return to the client. Ocelot allows you to define routing rules, handle requests and responses, and perform other common API gateway tasks such as rate limiting, caching, and authentication.
+Ocelot é uma API gateway de código aberto para [ASP.NET](http://ASP.NET) Core. Ele foi projetado para funcionar como um proxy reverso, encaminhando solicitações recebidas para o serviço apropriado e agregando as respostas para retornar ao cliente. Ocelot permite definir regras de roteamento, lidar com solicitações e respostas, e realizar outras tarefas comuns do gateway de API como limitação de taxa, caching e autenticação.
 
-One of the key features of Ocelot is its flexibility, it can route incoming requests to multiple services, aggregate the responses, and return them as a single response to the client. It also allows you to define dynamic routes, based on the request's content, perform request and response transformations, and handle errors.
+Uma das principais características do Ocelot é sua flexibilidade; ele pode encaminhar solicitações recebidas para vários serviços, agrupar as respostas e retorná-las como uma única resposta ao cliente. Ele também permite definir rotas dinâmicas, com base no conteúdo da solicitação, realizar transformações de solicitação e resposta e lidar com erros.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Implement API Gateways with Ocelot](https://learn.microsoft.com/en-us/dotnet/architecture/microservices/multi-container-microservice-net-applications/implement-api-gateways-with-ocelot)
-- [@article@Getting Started with Ocelot](https://ocelot.readthedocs.io/en/latest/introduction/gettingstarted.html)
-- [@video@Building an API Gateway in ASP.NET using Ocelotss](https://www.youtube.com/watch?v=hlUGZ6Hmv6s)
+- [@artigo@Implementando Gateways de API com Ocelot](https://learn.microsoft.com/en-us/dotnet/architecture/microservices/multi-container-microservice-net-applications/implement-api-gateways-with-ocelot)
+- [@artigo@Introdução ao Ocelot](https://ocelot.readthedocs.io/en/latest/introduction/gettingstarted.html)
+- [@vídeo@Construindo um Gateway de API em ASP.NET usando Ocelot](https://www.youtube.com/watch?v=hlUGZ6Hmv6s)

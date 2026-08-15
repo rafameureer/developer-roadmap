@@ -4,7 +4,7 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 
 ---
 
-> ⚠️ **Total de itens sinalizados:** 187
+> ⚠️ **Total de itens sinalizados:** 215
 
 | Arquivo / Tópico | Motivo da Sinalização | Data/Hora |
 |---|---|---|
@@ -195,3 +195,31 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 | `roadmaps/api-design/content/web-sockets@UQ8N7gcVpRLAYXgUNHBt5.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:46:14.360259 |
 | `roadmaps/api-design/content/webhooks-vs-polling@75NVxS0iwoQXxOHCkWQxH.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:46:19.797721 |
 | `roadmaps/api-design/content/what-are-apis@r8M3quACGO2piu0u_R4hO.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:46:25.278455 |
+| `roadmaps/aspnet-core/content/aspnet-core-basics@v2ZTCQQFQPoJNhOVGMG2g.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:47:05.077288 |
+| `roadmaps/aspnet-core/content/autofac@gbpSbjF12dBE1Tb3PX8Bz.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:47:09.806501 |
+| `roadmaps/aspnet-core/content/autofixture@K49M_7gSpfJuZaE6WaHxQ.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:47:12.086036 |
+| `roadmaps/aspnet-core/content/coravel@p3bZnKIyRgLmB764Kkhju.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:48:59.030775 |
+| `roadmaps/aspnet-core/content/cosmos-db@KrkV1w9b_Nwm6pe9diDRS.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:49:01.545967 |
+| `roadmaps/aspnet-core/content/databases@Ujzn_dILCA7xoupnz398l.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:50:03.374018 |
+| `roadmaps/aspnet-core/content/dependency-injection@IejHMMVKwA0sIInla4FjX.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:50:08.274993 |
+| `roadmaps/aspnet-core/content/di-containers@iM760f8Ys66-VSkMiZfIX.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:50:14.461917 |
+| `roadmaps/aspnet-core/content/git---version-control@OtdCmkj0SvrGwCUSfm96C.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:51:48.196562 |
+| `roadmaps/aspnet-core/content/github-gitlab-bitbucket@KAZF-mIg-FlfMonfdOLhb.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:51:58.050718 |
+| `roadmaps/aspnet-core/content/hotchocolate@XMrQx9JH0eSQJpMzhvy0F.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:52:47.986783 |
+| `roadmaps/aspnet-core/content/http--https-protocol@YI3cAezupWNntFw4B6elY.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:52:55.401330 |
+| `roadmaps/aspnet-core/content/kafka@L8RkeMYm0WGNeLLcHKF1R.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:53:00.297189 |
+| `roadmaps/aspnet-core/content/mariadb@Gs8XcsTo11MeCsiSGpjkU.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:54:17.619631 |
+| `roadmaps/aspnet-core/content/marten@ipb6proIZKG-_vCOMAiBu.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:54:19.302508 |
+| `roadmaps/aspnet-core/content/mass-transit@SQKIUa_UsJ4cls-Vs9yHU.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:54:24.141621 |
+| `roadmaps/aspnet-core/content/net-aspire@HqhqqiA5X00Xl1RnZgrNJ.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:55:56.836244 |
+| `roadmaps/aspnet-core/content/net-aspire@Ohc0xzI6qX4hOFVNfRj1F.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:55:58.703138 |
+| `roadmaps/aspnet-core/content/netmq@8d4f7_3VO03vy7YDWwPI9.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:56:33.351481 |
+| `roadmaps/aspnet-core/content/nhibernate@z24IJndpQYTl1PhiUI2mx.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:56:39.780101 |
+| `roadmaps/aspnet-core/content/nlog@ykF2bB_68AhCOzeQ_QSW1.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:56:44.972547 |
+| `roadmaps/aspnet-core/content/nservicebus@vf8W1FLhcb3awx4JBaY5r.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:57:13.607005 |
+| `roadmaps/aspnet-core/content/nsubstitute@iZCxinqlVefBk5-ICqt4v.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:57:18.610241 |
+| `roadmaps/aspnet-core/content/signalr-core@8dvd4M0TKNyQR8dEolGNT.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:00:25.406161 |
+| `roadmaps/aspnet-core/content/singleton@y9bDrCjkDbxSIrEEtu_Mi.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:00:30.124524 |
+| `roadmaps/aspnet-core/content/solr@2sY_p_8cOOBmZtDHO2Cmy.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:00:36.425965 |
+| `roadmaps/aspnet-core/content/xunit@R8C6s53RYjkRVma0nCJpy.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:02:18.041684 |
+| `roadmaps/aspnet-core/content/yarp@2axfolu26P8XwxMxgMaS3.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:02:22.537262 |

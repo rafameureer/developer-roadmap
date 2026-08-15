@@ -1,8 +1,8 @@
 # ORM
 
-ORM stands for Object-Relational Mapping, and it is a technique that allows a developer to work with a database using objects. It is a way of abstracting the database so that the developer can think in terms of objects, rather than tables and SQL queries. This can make it easier to write and maintain code, as well as improve the performance of the application.
+ORM significa Mapeamento Objeto-Relacional, e é uma técnica que permite a um desenvolvedor trabalhar com um banco de dados usando objetos. É uma maneira de abstrair o banco de dados de forma que o desenvolvedor possa pensar em termos de objetos, em vez de tabelas e consultas SQL. Isso pode tornar mais fácil escrever e manter código, bem como melhorar o desempenho da aplicação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@ORM (Object Relational Mapping)](https://www.telerik.com/blogs/dotnet-basics-orm-object-relational-mapping)
-- [@article@Understanding Object-Relational Mapping: Pros, Cons](https://www.altexsoft.com/blog/object-relational-mapping/)
+- [@artigo@ORM (Mapeamento Objeto-Relacional)](https://www.telerik.com/blogs/dotnet-basics-orm-object-relational-mapping)
+- [@artigo@Entendendo Mapeamento Objeto-Relacional: Vantagens e Desvantagens](https://www.altexsoft.com/blog/object-relational-mapping/)

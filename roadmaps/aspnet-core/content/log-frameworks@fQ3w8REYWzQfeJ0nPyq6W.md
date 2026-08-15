@@ -1,6 +1,6 @@
-# Log Frameworks
+# Frameworks de Log
 
-In [ASP.NET](http://ASP.NET), log frameworks are libraries that provide a way to log and analyze data in an application. Some popular log frameworks for [ASP.NET](http://ASP.NET) include:
+No [ASP.NET](http://ASP.NET), os frameworks de log são bibliotecas que fornecem uma maneira de registrar e analisar dados em um aplicativo. Alguns dos frameworks de log populares para o [ASP.NET](http://ASP.NET) incluem:
 
 *   Serilog
 *   NLog
@@ -8,10 +8,10 @@ In [ASP.NET](http://ASP.NET), log frameworks are libraries that provide a way to
 *   ELMAH
 *   Microsoft.Extensions.Logging
 
-These are some of the most popular log frameworks in [ASP.NET](http://ASP.NET), each of them has its own set of features and use cases, and the choice of which log framework to use will depend on the specific requirements of the application.
+Estes são alguns dos frameworks de log mais populares no [ASP.NET](http://ASP.NET), cada um com seu próprio conjunto de recursos e casos de uso. A escolha do framework de log a ser usado dependerá das especificidades dos requisitos da aplicação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Implement logging in ASP.NET](https://learn.microsoft.com/en-us/training/modules/aspnet-logging/)
-- [@article@ASP.NET Core: Logging with log4net](https://www.linkedin.com/learning/asp-dot-net-core-logging-with-log4net)
-- [@feed@Explore top posts about Logging](https://app.daily.dev/tags/logging?ref=roadmapsh)
+- [@artigo@Implementando log no ASP.NET](https://learn.microsoft.com/en-us/training/modules/aspnet-logging/)
+- [@artigo@ASP.NET Core: Log com log4net](https://www.linkedin.com/learning/asp-dot-net-core-logging-with-log4net)
+- [@feed@Explore os principais posts sobre Logging](https://app.daily.dev/tags/logging?ref=roadmapsh)

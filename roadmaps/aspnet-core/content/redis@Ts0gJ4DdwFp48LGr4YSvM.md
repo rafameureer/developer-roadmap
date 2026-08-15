@@ -1,12 +1,12 @@
 # Redis
 
-Redis is an open source (BSD licensed) which is an in-memory data structure store used as a database, cache, message broker, and streaming engine. Redis provides data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes, and streams. Redis has built-in replication, Lua scripting, LRU eviction, transactions, and various levels of on-disk persistence, and provides high availability via Redis Sentinel and automatic partitioning with Redis Cluster.
+Redis é um software de armazenamento de estruturas de dados em memória, open source (licenciado sob BSD), usado como banco de dados, cache, intermediário de mensagens e motor de streaming. Redis fornece estruturas de dados como strings, hashes, listas, conjuntos, conjuntos ordenados com consultas de intervalo, bitmaps, hyperloglogs, índices geoespaciais e streams. Redis possui replicação interna, script Lua, evitamento LRU, transações e vários níveis de persistência em disco, e oferece alta disponibilidade através do Sentinel do Redis e particionamento automático com o Cluster do Redis.
 
-You can use Redis in many programming languages. It is such a popular and widely used cache that Microsoft Azure also provides its cloud-based version with the name Azure Cache for Redis.
+Você pode usar Redis em muitos idiomas de programação. É talvez a cache mais popular e amplamente utilizada que a Microsoft Azure também fornece sua versão baseada na nuvem com o nome Cache do Azure para Redis.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Learn how to build with Redis Stack and .NET](https://redis.io/docs/stack/get-started/tutorials/stack-dotnet/)
-- [@article@Redis Cache In ASP.NET 6.0 Web API](https://www.c-sharpcorner.com/article/easily-use-redis-cache-in-asp-net-6-0-web-api/)
-- [@video@ASP.Net Core Distributed Caching - Redis Caching](https://www.youtube.com/watch?v=4Br-QnBo6Yw)
-- [@feed@Explore top posts about Redis](https://app.daily.dev/tags/redis?ref=roadmapsh)
+- [@official@Como construir com Redis Stack e .NET](https://redis.io/docs/stack/get-started/tutorials/stack-dotnet/)
+- [@article@Cache Redis no ASP.NET 6.0 Web API](https://www.c-sharpcorner.com/article/easily-use-redis-cache-in-asp-net-6-0-web-api/)
+- [@video@Distribuído Caching do ASP.Net Core - Cache do Redis](https://www.youtube.com/watch?v=4Br-QnBo6Yw)
+- [@feed@Explore os melhores posts sobre Redis](https://app.daily.dev/tags/redis?ref=roadmapsh)

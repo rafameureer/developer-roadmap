@@ -1,12 +1,12 @@
 # Docker
 
-Docker is a platform for developing, shipping, and running applications in containers. A container is a lightweight, standalone, and executable package of software that includes everything needed to run a piece of software, including the code, a runtime, system tools, libraries, and settings.
+Docker é uma plataforma para desenvolver, enviar e executar aplicativos em contêineres. Um contêiner é um pacote leve, independente e executável de software que inclui tudo necessário para executar um pedaço de software, incluindo o código, o tempo de execução, ferramentas do sistema, bibliotecas e configurações.
 
-Docker allows developers to package their applications and dependencies into a container, which can then be easily deployed and run on any host machine with Docker installed. This makes it easy to run the same software on different environments, such as development, staging, and production, without worrying about compatibility issues.s
+O Docker permite aos desenvolvedores empacotar seus aplicativos e dependências em um contêiner, que pode então ser facilmente implantado e executado em qualquer máquina host com o Docker instalado. Isso facilita a execução do mesmo software em diferentes ambientes, como desenvolvimento, staging e produção, sem preocupações sobre problemas de compatibilidade.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@ASP.NET and Docker](https://www.tatvasoft.com/blog/asp-net-core-and-docker/)
-- [@article@Introduction to .NET and Docker](https://learn.microsoft.com/en-us/dotnet/core/docker/introduction)
-- [@video@What is Docker, Why use it?](https://www.youtube.com/watch?v=vmnvOITMoIg)
-- [@feed@Explore top posts about Docker](https://app.daily.dev/tags/docker?ref=roadmapsh)
+- [@artigo@ASP.NET e Docker](https://www.tatvasoft.com/blog/asp-net-core-and-docker/)
+- [@artigo@Introdução ao .NET e Docker](https://learn.microsoft.com/pt-br/dotnet/core/docker/introduction)
+- [@vídeo@O que é Docker, por que usar?](https://www.youtube.com/watch?v=vmnvOITMoIg)
+- [@feed@Explore os principais posts sobre Docker](https://app.daily.dev/tags/docker?ref=roadmapsh)

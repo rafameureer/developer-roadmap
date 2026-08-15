@@ -1,10 +1,10 @@
 # Quartz
 
-Quartz is an open-source, job scheduling library for .NET that can be used in [ASP.NET](http://ASP.NET) applications. It is based on the popular Quartz scheduler for Java, and provides a similar feature set for scheduling and executing background jobs in .NET applications.
+Quartz é uma biblioteca de código aberto, de agendamento de tarefas para .NET que pode ser usada em aplicativos [ASP.NET](http://ASP.NET). Ele está baseado na popular biblioteca de agendamento Quartz para Java e fornece um conjunto semelhante de recursos para agendar e executar tarefas em segundo plano em aplicativos .NET.
 
-With Quartz, you can schedule jobs to run at specific times or intervals, and you can also set up triggers to start a job based on certain events. Quartz also provides a rich set of options for configuring and managing your jobs, such as pausing, resuming, and canceling jobs, as well as job chaining and priorities.
+Com o Quartz, você pode agendar tarefas para serem executadas em momentos específicos ou intervalos regulares, e também pode configurar gatilhos para iniciar uma tarefa com base em certos eventos. O Quartz também oferece um conjunto rico de opções para configurar e gerenciar suas tarefas, como pausar, retomar e cancelar tarefas, bem como encadeamento de tarefas e prioridades.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Intro to Quartz in ASP.NET](https://aspnetboilerplate.com/Pages/Documents/Quartz-Integration)
-- [@article@How to work with Quartz.Net in ASP.NET](https://www.infoworld.com/article/3078781/how-to-work-with-quartz-net-in-c.html)
+- [@article@Introdução ao Quartz em ASP.NET](https://aspnetboilerplate.com/Pages/Documents/Quartz-Integration)
+- [@article@Como trabalhar com o Quartz.Net em ASP.NET](https://www.infoworld.com/article/3078781/how-to-work-with-quartz-net-in-c.html)

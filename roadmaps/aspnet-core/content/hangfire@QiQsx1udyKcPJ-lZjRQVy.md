@@ -1,11 +1,11 @@
 # Hangfire
 
-Hangfire is an open-source, lightweight library for .NET that allows you to easily perform background processing in your [ASP.NET](http://ASP.NET) application. It provides a simple and elegant way to run background jobs, schedule future tasks, and monitor the progress of your background jobs.
+Hangfire é uma biblioteca de código-fonte aberto e leve para .NET que permite que você execute facilmente o processamento em segundo plano em sua aplicação [ASP.NET](http://ASP.NET). Ele fornece um modo simples e elegante de executar trabalhos em segundo plano, agendar tarefas futuras e monitorar o progresso dos seus trabalhos em segundo plano.
 
-Hangfire uses a storage backend, such as SQL Server or Redis, to persist the state of your background jobs. This allows you to easily scale your background processing and to monitor and manage your background jobs, even if your application restarts or crashes.
+Hangfire usa um backend de armazenamento, como SQL Server ou Redis, para persistir o estado dos seus trabalhos em segundo plano. Isso permite que você facilmente escale o processamento em segundo plano e monitore e gerencie os seus trabalhos em segundo plano, mesmo se sua aplicação reiniciar ou falhar.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Hangfire with ASP.NET Core](https://code-maze.com/hangfire-with-asp-net-core/)
-- [@article@Intro to Hangfire](https://www.partech.nl/nl/publicaties/2021/05/a-beginners-guide-to-hangfire)
-- [@article@How to use Hangfire with ASP.NET](https://blog.christian-schou.dk/how-to-use-hangfire-with-asp-net-core-5-0-api/)
+- [@article@Hangfire com ASP.NET Core](https://code-maze.com/hangfire-with-asp-net-core/)
+- [@article@Introdução ao Hangfire](https://www.partech.nl/nl/publicaties/2021/05/a-beginners-guide-to-hangfire)
+- [@article@Como usar o Hangfire com ASP.NET](https://blog.christian-schou.dk/how-to-use-hangfire-with-asp-net-core-5-0-api/)

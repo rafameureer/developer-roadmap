@@ -1,10 +1,10 @@
 # REST
 
-REST (Representational State Transfer) is an architectural style for building web services. In the context of .NET, RESTful web services can be created using the [ASP.NET](http://ASP.NET) Web API framework, which allows developers to create HTTP-based services that can be consumed by a wide range of clients, including web browsers and mobile devices. The Web API framework provides a set of tools and libraries for creating RESTful services, including routing, request/response handling, and support for a variety of data formats, such as JSON and XML.
+REST (Representacional Estado Transferente) é um estilo arquitetônico para a construção de serviços web. No contexto do .NET, serviços web RESTful podem ser criados usando o framework Web API do [ASP.NET](http://ASP.NET), que permite aos desenvolvedores criar serviços HTTP baseados em protocolos que podem ser consumidos por uma ampla gama de clientes, incluindo navegadores da web e dispositivos móveis. O framework Web API fornece um conjunto de ferramentas e bibliotecas para a criação de serviços RESTful, incluindo roteamento, manipulação de solicitações/respostas e suporte a vários formatos de dados, como JSON e XML.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is REST Services?](http://www.codedigest.com/quick-start/16/what-is-rest-services-how-to-create-rest-services-in-aspnet)
-- [@article@Restful API In ASP.NET: Introduction of REST & Web API](https://www.c-sharpcorner.com/UploadFile/4b0136/restful-api-in-Asp-Net-introduction-of-rest-web-api/)
-- [@article@What are RESTful APIs](https://www.pragimtech.com/blog/blazor/what-are-restful-apis/)
-- [@feed@Explore top posts about REST API](https://app.daily.dev/tags/rest-api?ref=roadmapsh)
+- [@artigo@O que são Serviços REST?](http://www.codedigest.com/quick-start/16/what-is-rest-services-how-to-create-rest-services-in-aspnet)
+- [@artigo@API RESTful em ASP.NET: Introdução a REST e Web API](https://www.c-sharpcorner.com/UploadFile/4b0136/restful-api-in-Asp-Net-introduction-of-rest-web-api/)
+- [@artigo@O que são APIs RESTful](https://www.pragimtech.com/blog/blazor/what-are-restful-apis/)
+- [@feed@Explore os principais posts sobre API REST](https://app.daily.dev/tags/rest-api?ref=roadmapsh)

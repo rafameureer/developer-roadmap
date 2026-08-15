@@ -1,11 +1,11 @@
 # Orleans
 
-Orleans is an open-source virtual actor model framework for building distributed, high-scale, and low-latency applications in .NET. It is designed to make it easy to build and operate large-scale, distributed systems, such as cloud services, IoT applications, and gaming servers.
+Orleans é um framework de modelo de ator virtual de código aberto para a construção de aplicativos distribuídos, de escala alta e baixa latência em .NET. Ele está projetado para tornar fácil a criação e operação de sistemas distribuídos de escala, como serviços na nuvem, aplicações IoT e servidores de jogos.
 
-One of the key features of Orleans is its use of the virtual actor model, which is a programming model that allows developers to write concurrent and parallel code in a way that is similar to writing single-threaded code. Orleans provides a set of abstractions for building stateful actors, which are similar to objects in object-oriented programming, that can be distributed across multiple machines. These actors can communicate with each other using message passing, and can be accessed remotely using a transparent proxy
+Um dos principais recursos do Orleans é seu uso do modelo de ator virtual, que é um modelo de programação que permite aos desenvolvedores escrever código concorrente e paralelo de uma maneira semelhante à escrita de código em thread única. O Orleans fornece um conjunto de abstrações para a construção de atores com estado, que são similares a objetos no programação orientada a objetos, que podem ser distribuídos em várias máquinas. Esses atores podem se comunicar entre si usando passagem de mensagens e podem ser acessados remotamente usando um proxy transparente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@article@Microsoft Orleans](https://learn.microsoft.com/en-us/dotnet/orleans/overview)
-- [@article@Introduction to Orleans](https://dev.to/willvelida/introduction-to-microsoft-orleans-796)
-- [@video@Building real applications with Orleans](https://www.youtube.com/watch?v=8duFuggnj8o)
+- [@article@Introdução ao Orleans](https://dev.to/willvelida/introduction-to-microsoft-orleans-796)
+- [@video@Construindo aplicativos reais com o Orleans](https://www.youtube.com/watch?v=8duFuggnj8o)

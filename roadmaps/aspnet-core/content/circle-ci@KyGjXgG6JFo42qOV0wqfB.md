@@ -1,11 +1,11 @@
 # CircleCI
 
-CircleCI is a cloud-based continuous integration and continuous delivery (CI/CD) platform that allows developers to automate the process of building, testing, and deploying code. It is a popular platform that supports a wide range of languages and frameworks, including [ASP.NET](http://ASP.NET).
+CircleCI é uma plataforma de integração contínua e entrega contínua (CI/CD) baseada em nuvem que permite aos desenvolvedores automatizar o processo de construção, teste e implantação de código. É uma plataforma popular que suporta uma ampla gama de linguagens e frameworks, incluindo [ASP.NET](http://ASP.NET).
 
-In [ASP.NET](http://ASP.NET), CircleCI can be used to automate various tasks related to the development, testing, and deployment of [ASP.NET](http://ASP.NET) applications. For example, you can use CircleCI to automatically build, test, and deploy an [ASP.NET](http://ASP.NET) application to a hosting provider, such as Azure or AWS, every time you push code to your source control repository.
+No [ASP.NET](http://ASP.NET), CircleCI pode ser usado para automatizar várias tarefas relacionadas ao desenvolvimento, teste e implantação de aplicativos [ASP.NET]. Por exemplo, você pode usar CircleCI para automatizar a construção, teste e implantação de um aplicativo [ASP.NET] em um provedor de hospedagem, como Azure ou AWS, toda vez que você empurrar código para seu repositório de controle de versão.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@official@Building and testing an ASP.NET apps with CircleCI](https://circleci.com/blog/building-and-testing-an-asp-net-core-application/)
-- [@article@How to Setup CircleCI for ASP.NET project](https://discuss.circleci.com/t/setup-circleci-for-asp-net-project/33796s)
+- [@oficial@Construindo e testando apps ASP.NET com CircleCI](https://circleci.com/blog/building-and-testing-an-asp-net-core-application/)
+- [@artigo@Como configurar o CircleCI para um projeto ASP.NET](https://discuss.circleci.com/t/setup-circleci-for-asp-net-project/33796s)
 - [@feed@Explore top posts about CI/CD](https://app.daily.dev/tags/cicd?ref=roadmapsh)

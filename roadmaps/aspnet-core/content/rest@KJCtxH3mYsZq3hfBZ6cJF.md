@@ -1,12 +1,12 @@
 # REST
 
-REST (Representational State Transfer) is an architectural style for building web services. It is based on the principles of the HTTP protocol, and it uses the conventions of HTTP to create a standard interface for interacting with web services.
+REST (Representacional Estado Transferente) é um estilo arquitetônico para a construção de serviços web. Ele se baseia nos princípios do protocolo HTTP e usa as convenções do HTTP para criar uma interface padrão para interagir com serviços web.
 
-In [ASP.NET](http://ASP.NET), REST can be used to create web services that expose data in a standardized way. RESTful web services in [ASP.NET](http://ASP.NET) are typically built using the Web API framework, which provides a set of libraries and tools for building RESTful web services.
+No [ASP.NET](http://ASP.NET), REST pode ser usado para criar serviços web que expõem dados de maneira padronizada. Serviços web RESTful no [ASP.NET](http://ASP.NET) são típicamente construídos usando o framework Web API, que fornece um conjunto de bibliotecas e ferramentas para a criação de serviços web RESTful.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is REST Services in ASP.NET?](http://www.codedigest.com/quick-start/16/what-is-rest-services-how-to-create-rest-services-in-aspnet)
-- [@article@What are RESTful APIs?](https://www.pragimtech.com/blog/blazor/what-are-restful-apis/)
-- [@video@Tutorial of Rest and Restful API](https://www.youtube.com/watch?v=4r1CIUs5s2I)
-- [@feed@Explore top posts about REST API](https://app.daily.dev/tags/rest-api?ref=roadmapsh)
+- [@artigo@O que são Serviços REST em ASP.NET?](http://www.codedigest.com/quick-start/16/what-is-rest-services-how-to-create-rest-services-in-aspnet)
+- [@artigo@O que são APIs RESTful?](https://www.pragimtech.com/blog/blazor/what-are-restful-apis/)
+- [@vídeo@Tutorial de Rest e API RESTful](https://www.youtube.com/watch?v=4r1CIUs5s2I)
+- [@feed@Explore os principais posts sobre API REST](https://app.daily.dev/tags/rest-api?ref=roadmapsh)

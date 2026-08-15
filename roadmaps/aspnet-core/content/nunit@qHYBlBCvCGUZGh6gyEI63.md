@@ -1,8 +1,8 @@
 # NUnit
 
-NUnit is a unit testing framework for the .NET framework, it's an open-source testing framework that provides a set of attributes and classes that can be used to create unit tests. In the context of [ASP.NET](http://ASP.NET), NUnit can be used to write unit tests for web applications built using the [ASP.NET](http://ASP.NET) framework. NUnit provides features such as support for data-driven tests, support for parallel test execution, and support for test discovery and execution, it also provides support for test isolation which allows developers to run tests in isolation from each other. NUnit is a popular alternative to other testing frameworks like MSTest and xUnit and it has a similar syntax as JUnit and it's considered as one of the oldest testing frameworks for .NET.
+O NUnit é um framework de teste unitário para o .NET Framework, é um framework de teste aberto que fornece um conjunto de atributos e classes que podem ser usados para criar testes unitários. No contexto do [ASP.NET](http://ASP.NET), o NUnit pode ser usado para escrever testes unitários para aplicativos web construídos usando o [ASP.NET](http://ASP.NET) framework. O NUnit oferece recursos como suporte a testes orientados a dados, suporte à execução paralela de testes e suporte à descoberta e execução de testes, ele também oferece suporte à isolamento de testes que permite aos desenvolvedores executar testes em isolamento um dos outros. O NUnit é uma alternativa popular aos outros frameworks de teste como MSTest e xUnit e tem uma sintaxe semelhante ao JUnit e é considerado como um dos mais antigos frameworks de teste para .NET.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@NUnit With C#](https://www.c-sharpcorner.com/UploadFile/84c85b/nunit-with-C-Sharp/)
-- [@article@Unit testing C# with NUnit and .NET Core](https://learn.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-nunit)
+- [@article@NUnit com C#](https://www.c-sharpcorner.com/UploadFile/84c85b/nunit-with-C-Sharp/)
+- [@article@Teste unitário em C# com NUnit e .NET Core](https://learn.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-nunit)

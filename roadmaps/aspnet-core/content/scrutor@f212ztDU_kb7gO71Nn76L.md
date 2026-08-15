@@ -1,10 +1,10 @@
 # Scrutor
 
-Scrutor is an open-source library for .NET that extends the functionality of the built-in dependency injection framework in .NET Core. It provides a set of extension methods for the `IServiceCollection` interface, which can be used to register and configure services in a more convenient and flexible way.
+Scrutor é uma biblioteca de código-fonte aberto para .NET que estende a funcionalidade do framework de injeção de dependência embutido no .NET Core. Ele fornece um conjunto de métodos de extensão para a interface `IServiceCollection`, que podem ser usados para registrar e configurar serviços de maneira mais conveniente e flexível.
 
-One of the main features of Scrutor is its ability to automatically scan assemblies for services and register them with the dependency injection container, allowing you to avoid having to manually register each service one by one. It also provides a fluent API that makes it easy to configure services, such as specifying the lifetime of a service, adding decorators, and more.
+Um dos principais recursos do Scrutor é sua capacidade de escanear automaticamente assemblies em busca de serviços e registrá-los no contêiner de injeção de dependência, permitindo que você evite ter que registrar manualmente cada serviço um por um. Ele também fornece uma API fluente que torna fácil configurar serviços, como especificar o tempo de vida de um serviço, adicionar decoradores e mais.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@How to use Scrutor in ASP.Net Core?](https://www.infoworld.com/article/3321356/how-to-use-scrutor-in-aspnet-core.html)
-- [@article@Complete Guide to Scrutor](https://andrewlock.net/using-scrutor-to-automatically-register-your-services-with-the-asp-net-core-di-container/)
+- [@artigo@Como usar Scrutor em ASP.Net Core?](https://www.infoworld.com/article/3321356/how-to-use-scrutor-in-aspnet-core.html)
+- [@artigo@Guia Completo sobre Scrutor](https://andrewlock.net/using-scrutor-to-automatically-register-your-services-with-the-asp-net-core-di-container/)

@@ -1,3 +1,3 @@
 # GitLab CI/CD
 
-GitLab CI/CD is the continuous integration and delivery tooling built into GitLab. Pipelines are defined in a `.gitlab-ci.yml` file, where jobs run on GitLab runners to build, test, and deploy your application automatically on every change.
+O GitLab CI/CD é a ferramenta de integração contínua e entrega integrada ao GitLab. Os pipelines são definidos em um arquivo `.gitlab-ci.yml`, onde os trabalhos são executados em runtimes do GitLab para construir, testar e implantar seu aplicativo automaticamente com cada alteração.

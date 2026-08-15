@@ -1,11 +1,11 @@
 # MongoDB
 
-MongoDB is a cross-platform, open-source, NoSQL document-oriented database that can be used to store and retrieve large amounts of data. It uses a flexible, JSON-like data structure called BSON (binary JSON) and it is designed to handle large amounts of unstructured data.
+O MongoDB é um banco de dados não relacional, open-source e de código aberto que pode ser usado para armazenar e recuperar grandes quantidades de dados. Ele usa uma estrutura de dados flexível, semelhante ao JSON, chamada BSON (JSON binário) e está projetado para lidar com grandes quantidades de dados não estruturados.
 
-In an [ASP.NET](http://ASP.NET) application, MongoDB can be used as a data store to persist and retrieve application data. There are several libraries available for integrating MongoDB with an [ASP.NET](http://ASP.NET) application, such as MongoDB.Driver and C# MongoDB Driver. These libraries provide a .NET client for MongoDB, which can be used to interact with the MongoDB server from within an [ASP.NET](http://ASP.NET) application.
+Em um aplicativo [ASP.NET](http://ASP.NET), o MongoDB pode ser usado como um armazenamento de dados para persistir e recuperar dados da aplicação. Existem várias bibliotecas disponíveis para integrar o MongoDB com um aplicativo [ASP.NET](http://ASP.NET), como MongoDB.Driver e C# MongoDB Driver. Essas bibliotecas fornecem um cliente .NET para o MongoDB, que pode ser usado para interagir com o servidor MongoDB dentro de um aplicativo [ASP.NET](http://ASP.NET).
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Use MongoDB in Your C# ASP.NET Apps](https://developer.okta.com/blog/2020/01/02/mongodb-csharp-aspnet-datastore)
-- [@article@MongoDB With ASP.NET Core Web API](https://www.c-sharpcorner.com/article/using-mongodb-with-asp-net-core-web-api/)
-- [@feed@Explore top posts about MongoDB](https://app.daily.dev/tags/mongodb?ref=roadmapsh)
+- [@artigo@Usando MongoDB em Aplicativos ASP.NET C#](https://developer.okta.com/blog/2020/01/02/mongodb-csharp-aspnet-datastore)
+- [@artigo@MongoDB com ASP.NET Core Web API](https://www.c-sharpcorner.com/article/using-mongodb-with-asp-net-core-web-api/)
+- [@feed@Explore os melhores posts sobre MongoDB](https://app.daily.dev/tags/mongodb?ref=roadmapsh)

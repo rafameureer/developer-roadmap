@@ -1,9 +1,9 @@
 # Moq
 
-Moq is an open-source library for .NET that allows developers to create mock objects for use in unit testing, it is a popular mocking framework that provides a simple and intuitive syntax for creating mock objects and setting up mock behavior. In the context of [ASP.NET](http://ASP.NET), Moq can be used to create mock objects for testing web applications built using the [ASP.NET](http://ASP.NET) framework, it provides a simple and expressive syntax for creating mock objects and setting up mock behavior. Moq supports a wide range of testing frameworks, including MSTest, NUnit, and xUnit and it also supports various platforms including .NET Framework, .NET Core and Xamarin. Moq is lightweight and easy to use, making it a good choice for developers who are new to mocking and unit testing, it also provides a rich set of features, such as support for setting up mock behavior, making assertions on calls made to the mock objects, and more.
+O Moq é uma biblioteca open-source para .NET que permite aos desenvolvedores criar objetos simulados (mocks) para uso em testes unitários. É um framework de mock popular que fornece uma sintaxe simples e intuitiva para criar objetos simulados e configurar o comportamento do mock. No contexto do [ASP.NET](http://ASP.NET), o Moq pode ser usado para criar objetos simulados para testar aplicativos web construídos usando o framework [ASP.NET](http://ASP.NET). Ele oferece uma sintaxe simples e expressiva para criar objetos simulados e configurar o comportamento do mock. O Moq suporta uma ampla gama de frameworks de teste, incluindo MSTest, NUnit e xUnit, e também suporta várias plataformas, como .NET Framework, .NET Core e Xamarin. O Moq é leve e fácil de usar, tornando-se uma boa escolha para desenvolvedores que são novos em mock e testes unitários. Ele também fornece um conjunto rico de recursos, como suporte para configurar o comportamento do mock, fazer afirmações sobre as chamadas feitas aos objetos simulados, e mais.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is use of Moq?](https://stackoverflow.com/questions/678878/what-is-use-of-moq)
-- [@article@Moq - Unit Test In .NET Core App](https://www.c-sharpcorner.com/article/moq-unit-test-net-core-app-using-mock-object/)
-- [@video@Getting started with Mocking using Moq in .NET](https://www.youtube.com/watch?v=9ZvDBSQa_so)
+- [@artigo@O que é o uso do Moq?](https://stackoverflow.com/questions/678878/what-is-use-of-moq)
+- [@artigo@Moq - Teste Unitário em Aplicativos .NET Core usando Objetos Simulados](https://www.c-sharpcorner.com/article/moq-unit-test-net-core-app-using-mock-object/)
+- [@vídeo@Começando com Mocking usando Moq no .NET](https://www.youtube.com/watch?v=9ZvDBSQa_so)

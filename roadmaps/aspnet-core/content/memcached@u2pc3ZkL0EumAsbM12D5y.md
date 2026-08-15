@@ -1,9 +1,9 @@
 # Memcached
 
-Memcached is an open-source, high-performance, distributed memory object caching system which helps in reducing database load. It maintains data as an in-memory key-value store for small chunks of arbitrary data (strings, objects) which can be result of API calls, database reads and so on.
+Memcached é um sistema de cache em memória distribuído de código aberto, de alto desempenho e de alta performance que ajuda a reduzir o carregamento do banco de dados. Ele mantém os dados como uma loja de chave-valor na memória principal para pequenos trechos de dados arbitrários (strings, objetos) que podem ser resultado de chamadas à API, leituras do banco de dados e assim por diante.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Intro to Memcached](https://memcached.org/)
-- [@article@Using Memcached as Distributed Cache in .NET Core](https://dotnetcorecentral.com/blog/using-memcached-as-distributed-cache-in-net-core/)
-- [@video@Memcached as Distributed Cache in .Net Core Application](https://www.youtube.com/watch?v=yQ8Kwx9M_Hg)
+- [@oficial@Introdução ao Memcached](https://memcached.org/)
+- [@artigo@Usando o Memcached como Cache Distribuído no .NET Core](https://dotnetcorecentral.com/blog/using-memcached-as-distributed-cache-in-net-core/)
+- [@vídeo@Memcached como Cache Distribuído em Aplicativos .Net Core](https://www.youtube.com/watch?v=yQ8Kwx9M_Hg)

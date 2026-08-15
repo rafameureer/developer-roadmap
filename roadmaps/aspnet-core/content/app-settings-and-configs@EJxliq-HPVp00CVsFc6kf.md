@@ -1,13 +1,13 @@
-# App Settings and Configurations
+# Configurações de Aplicativos e Configurações
 
-In the [ASP.NET](http://ASP.NET) Core framework, app settings and configurations refer to the process of storing and managing application-specific settings and configuration data.
+No framework [ASP.NET](http://ASP.NET) Core, as configurações de aplicativos e configurações se referem ao processo de armazenamento e gerenciamento de configurações específicas do aplicativo e dados de configuração.
 
-*   **App Settings** refers to the key-value pairs of data that an application uses to configure its behavior, such as database connection strings, api keys, or other settings. These settings are typically stored in configuration files, such as `appsettings.json`, `appsettings.development.json`, or `appsettings.production.json`, and can be accessed using the IConfiguration interface.
+*   **Configurações de Aplicativos** refere-se aos pares chave-valor de dados que um aplicativo usa para configurar seu comportamento, como strings de conexão de banco de dados, chaves da API ou outras configurações. Essas configurações são geralmente armazenadas em arquivos de configuração, como `appsettings.json`, `appsettings.development.json` ou `appsettings.production.json`, e podem ser acessadas usando a interface IConfiguration.
     
-*   **Configurations** refer to the process of loading and managing the app settings, including specifying the source of the settings and the format of the configuration files. In [ASP.NET](http://ASP.NET) Core, the `Startup` class is responsible for configuring the application's settings, and typically loads configuration data from various sources, such as JSON files, environment variables, or command-line arguments.
+*   **Configurações** refere-se ao processo de carregar e gerenciar as configurações de aplicativos, incluindo especificar a fonte das configurações e o formato dos arquivos de configuração. No [ASP.NET](http://ASP.NET) Core, a classe `Startup` é responsável por configurar as configurações do aplicativo e geralmente carrega dados de configuração de várias fontes, como arquivos JSON, variáveis de ambiente ou argumentos de linha de comando.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Azure App Configuration?](https://learn.microsoft.com/en-us/azure/azure-app-configuration/overview)
-- [@article@What are App Configurations and how do I work with them?](https://support.procore.com/faq/what-are-app-configurations)
-- [@article@Configuration & AppSettings](https://docs.servicestack.net/appsettings)
+- [@artigo@O que é Azure App Configuration?](https://learn.microsoft.com/en-us/azure/azure-app-configuration/overview)
+- [@artigo@O que são Configurações de Aplicativos e como eu trabalho com elas?](https://support.procore.com/faq/what-are-app-configurations)
+- [@artigo@Configuração & AppSettings](https://docs.servicestack.net/appsettings)

@@ -1,13 +1,13 @@
 # MVC
 
-MVC is an architectural design pattern used for developing applications, specifically web applications. This pattern separates an application into three main logical components **Model View Controller**. Each architectural component is built to handle specific development aspects of an application.
+MVC é um padrão de design arquitetônico usado para desenvolver aplicativos, especificamente aplicativos web. Este padrão separa um aplicativo em três componentes lógicos principais **Model View Controller**. Cada componente arquitetônico é construído para lidar com aspectos específicos do desenvolvimento de um aplicativo.
 
-*   **Model** - Handles all data-related logic. Interacts with Database.
-*   **View** - Handles UI part of the applications (data presentation).
-*   **Controller** - Handles request flow, and acts as an intermediary between view and model.
+*   **Modelo** - Lida com toda a lógica relacionada aos dados. Interage com o banco de dados.
+*   **Exibição** - Lida com a parte da interface do usuário do aplicativo (apresentação dos dados).
+*   **Controlador** - Lida com o fluxo de solicitações e atua como intermediário entre a exibição e o modelo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@MVC Official Documentation](https://learn.microsoft.com/en-us/aspnet/core/mvc/overview?WT.mc_id=dotnet-35129-website&view=aspnetcore-7.0)
-- [@article@ASP.NET MVC Architecture](https://www.tutorialsteacher.com/mvc/mvc-architecture)
-- [@article@MVC Framework - Introduction](https://www.tutorialspoint.com/mvc_framework/mvc_framework_introduction.htm)
+- [@article@Documentação oficial do MVC](https://learn.microsoft.com/en-us/aspnet/core/mvc/overview?WT.mc_id=dotnet-35129-website&view=aspnetcore-7.0)
+- [@article@Arquitetura MVC no ASP.NET](https://www.tutorialsteacher.com/mvc/mvc-architecture)
+- [@article@Introdução ao Framework MVC](https://www.tutorialspoint.com/mvc_framework/mvc_framework_introduction.htm)

@@ -1,11 +1,11 @@
 # ActiveMQ
 
-ActiveMQ is an open-source message broker written in Java that implements the Java Message Service (JMS) API. It can be used to send and receive messages between different applications in a loosely coupled, asynchronous manner. ActiveMQ supports a variety of messaging protocols, including JMS, AMQP, STOMP, MQTT, and OpenWire.
+ActiveMQ é um intermediário de mensagens de código aberto escrito em Java que implementa a API do Java Message Service (JMS). Ele pode ser usado para enviar e receber mensagens entre diferentes aplicativos de maneira desacoplada e assíncrona. O ActiveMQ suporta uma variedade de protocolos de mensagem, incluindo JMS, AMQP, STOMP, MQTT e OpenWire.
 
-In the context of an [ASP.NET](http://ASP.NET) application, ActiveMQ can be used to send and receive messages to and from other systems. For example, it can be used to send messages from a web application to a background service, or to send messages between different microservices.
+No contexto de um aplicativo [ASP.NET](http://ASP.NET), o ActiveMQ pode ser usado para enviar e receber mensagens entre sistemas. Por exemplo, ele pode ser usado para enviar mensagens de uma aplicação web a um serviço em segundo plano ou para enviar mensagens entre diferentes microserviços.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What Is ActiveMQ And How Can You Use It?](https://www.c-sharpcorner.com/article/what-is-activemq-and-how-can-you-use-it/)
-- [@article@Messaging with .NET and ActiveMQ](https://remark.wordpress.com/articles/messaging-with-net-and-activemq/)
-- [@article@Messaging with ActiveMQ and ASP.NET](https://havret.io/activemq-artemis-net-core)
+- [@artigo@O que é ActiveMQ e como você pode usá-lo?](https://www.c-sharpcorner.com/article/what-is-activemq-and-how-can-you-use-it/)
+- [@artigo@Mensagem com .NET e ActiveMQ](https://remark.wordpress.com/articles/messaging-with-net-and-activemq/)
+- [@artigo@Mensagem com ActiveMQ e ASP.NET](https://havret.io/activemq-artemis-net-core)

@@ -1,13 +1,13 @@
-# API Clients
+# Clientes de API
 
-API clients in [ASP.NET](http://ASP.NET) are software libraries that allow applications to interact with external APIs. They provide a set of methods and classes that make it easy to send requests to an API and process the responses.
+Clientes de API em [ASP.NET](http://ASP.NET) são bibliotecas de software que permitem que aplicativos interajam com APIs externas. Eles fornecem um conjunto de métodos e classes que facilitam o envio de solicitações a uma API e o processamento das respostas.
 
-API clients can be used to access a wide variety of services, such as web services, cloud services, and social media platforms. They can be used to perform tasks such as fetching data, posting updates, and deleting resources.
+Clientes de API podem ser usados para acessar uma ampla variedade de serviços, como serviços web, serviços em nuvem e plataformas de mídia social. Eles podem ser usados para realizar tarefas como buscar dados, postar atualizações e excluir recursos.
 
-API clients in [ASP.NET](http://ASP.NET) are typically built using the HttpClient class, which is part of the System.Net.Http namespace. This class provides a set of methods for sending HTTP requests and receiving HTTP responses.
+Os clientes de API em [ASP.NET](http://ASP.NET) são geralmente construídos usando a classe HttpClient, que faz parte do namespace System.Net.Http. Esta classe fornece um conjunto de métodos para enviar solicitações HTTP e receber respostas HTTP.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@How to Call a Web API From a .NET Client](https://learn.microsoft.com/en-us/aspnet/web-api/overview/advanced/calling-a-web-api-from-a-net-client)
-- [@article@Overview of Web API REST Service in ASP.NET](https://www.c-sharpcorner.com/article/consuming-asp-net-web-api-rest-service-in-asp-net-mvc-using-http-client/)
-- [@article@Building an ASP.NET Web API With ASP.NET](https://www.toptal.com/asp-dot-net/asp-net-web-api-tutorial)
+- [@artigo@Como chamar uma API Web de um cliente .NET](https://learn.microsoft.com/en-us/aspnet/web-api/overview/advanced/calling-a-web-api-from-a-net-client)
+- [@artigo@Visão geral do serviço REST da API Web em ASP.NET](https://www.c-sharpcorner.com/article/consuming-asp-net-web-api-rest-service-in-asp-net-mvc-using-http-client/)
+- [@artigo@Construindo uma API Web ASP.NET com ASP.NET](https://www.toptal.com/asp-dot-net/asp-net-web-api-tutorial)

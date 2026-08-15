@@ -1,8 +1,8 @@
 # Dapr
 
-Dapr (Distributed Application Runtime) is an open-source, portable runtime that makes it easy to build microservices-based applications that run on the cloud and edge. It provides a set of building blocks for building microservices, including service discovery, state management, pub-sub messaging, and more. It is designed to be language-agnostic, so it can be used with any programming language, including .NET.
+Dapr (Distributed Application Runtime) é um tempo de execução aberto e portátil que facilita a construção de aplicativos baseados em microservices que funcionam na nuvem e no bordo. Ele fornece uma série de blocos de construção para a criação de microservices, incluindo descoberta de serviço, gerenciamento de estado, mensagens de publicação/assinatura e muito mais. Ele está projetado para ser linguagem-agnostic, então pode ser usado com qualquer linguagem de programação, incluindo .NET.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Get started with Dapr](https://learn.microsoft.com/en-us/dotnet/architecture/dapr-for-net-developers/getting-started)
-- [@article@Building an event-driven .NET Core app with Dapr](https://medium.com/polarsquad/building-an-event-driven-net-core-app-with-dapr-58cc83ab120b)
+- [@artigo@Começando com o Dapr](https://learn.microsoft.com/en-us/dotnet/architecture/dapr-for-net-developers/getting-started)
+- [@artigo@Construindo uma aplicação .NET Core orientada a eventos com o Dapr](https://medium.com/polarsquad/building-an-event-driven-net-core-app-with-dapr-58cc83ab120b)

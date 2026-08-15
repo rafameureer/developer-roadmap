@@ -1,24 +1,24 @@
-# General development skills
+# Habilidades Gerais de Desenvolvimento
 
-There are several skills that are generally considered to be important for working with .NET and C#:
+Existem várias habilidades que são geralmente consideradas importantes para trabalhar com o .NET e C#:
 
-*   Object-oriented programming: Understanding the concepts of classes, objects, inheritance, and polymorphism is essential for working with C# and the .NET Framework.
+*   Programação orientada a objetos: Entender os conceitos de classes, objetos, herança e polimorfismo é essencial para trabalhar com C# e o .NET Framework.
     
-*   C# language: A strong understanding of the C# language, including its syntax, keywords, and built-in classes and types, is necessary for writing efficient and maintainable code.
+*   Linguagem C#: Uma compreensão forte da linguagem C#, incluindo sua sintaxe, palavras-chave e tipos de classe e estrutura interna, é necessária para escrever código eficiente e manterável.
     
-*   .NET Framework: Familiarity with the .NET Framework, including the Common Language Runtime (CLR) and the Base Class Library (BCL), is important for understanding how C# code is executed and for utilizing the framework's many built-in features.
+*   .NET Framework: Familiaridade com o .NET Framework, incluindo a Common Language Runtime (CLR) e a Base Class Library (BCL), é importante para entender como o código C# é executado e para utilizar as muitas funcionalidades internas do framework.
     
-*   Web & Software development: Knowledge of web development technologies such as HTML, CSS, JavaScript, and [ASP.NET](http://ASP.NET) is important for creating web applications using C# and the .NET Framework and knowledge of software development methodologies such as Agile, Scrum, or Waterfall is also useful.
+*   Desenvolvimento Web & Software: Conhecimento de tecnologias de desenvolvimento web como HTML, CSS, JavaScript e [ASP.NET](http://ASP.NET) é importante para criar aplicativos web usando C# e o .NET Framework. Conhecimento de metodologias de desenvolvimento de software como Ágil, Scrum ou Metodologia Água Viva também é útil.
     
-*   Database: Familiarity with database concepts and technologies, such as SQL and [ADO.NET](http://ADO.NET), is important for working with data in C# applications.
+*   Banco de Dados: Familiaridade com conceitos e tecnologias de banco de dados, como SQL e [ADO.NET](http://ADO.NET), é importante para trabalhar com dados em aplicativos C#.
     
-*   Cloud computing: Familiarity with cloud computing concepts and technologies, such as Azure, is becoming increasingly important for deploying and scaling C# applications.
+*   Computação na Nuvem: Familiaridade com conceitos e tecnologias de computação na nuvem, como Azure, está se tornando cada vez mais importante para implantar e dimensionar aplicativos C#.
     
-*   DevOps: Understanding of DevOps concepts and practices, such as continuous integration and continuous deployment, is necessary for automating and streamlining the software development process.
+*   DevOps: Entendimento dos conceitos e práticas de DevOps, como integração contínua e implantação contínua, é necessário para automatizar e streamlinhar o processo de desenvolvimento de software.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@Asp.net - Complete Tutorial](https://www.youtube.com/watch?v=kdPtNMb8tPw)
-- [@video@Learn Cloud Computing](https://www.youtube.com/watch?v=eWwK2FKWp0g)
-- [@video@DevOps Course for Beginners](https://www.youtube.com/watch?v=hQcFE0RD0cQ)
-- [@feed@Explore top posts about Career](https://app.daily.dev/tags/career?ref=roadmapsh)
+- [@vídeo@Tutorial Completo do ASP.NET](https://www.youtube.com/watch?v=kdPtNMb8tPw)
+- [@vídeo@Aprenda Computação na Nuvem](https://www.youtube.com/watch?v=eWwK2FKWp0g)
+- [@vídeo@Curso de DevOps para Iniciantes](https://www.youtube.com/watch?v=hQcFE0RD0cQ)
+- [@feed@Explore os melhores posts sobre Carreira](https://app.daily.dev/tags/career?ref=roadmapsh)

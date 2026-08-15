@@ -1,8 +1,8 @@
 # Shouldly
 
-Shouldly is a .NET library that provides a set of extension methods for writing expressive and readable assertions in unit tests, it's designed to be an alternative to traditional assertion libraries. In the context of [ASP.NET](http://ASP.NET), Shouldly can be used in conjunction with test frameworks such as MSTest, xUnit, and NUnit to write more expressive and readable unit tests for the application. It provides advanced features such as support for collection-specific assertions, support for asynchronous code, and support for custom types, also includes options to customize the error message.
+Shouldly é uma biblioteca .NET que fornece um conjunto de métodos de extensão para escrever afirmações expressivas e legíveis em testes unitários, ela foi projetada como alternativa a bibliotecas de afirmação tradicionais. No contexto de [ASP.NET](http://ASP.NET), Shouldly pode ser usado em conjunto com frameworks de teste como MSTest, xUnit e NUnit para escrever testes unitários expressivos e legíveis para a aplicação. Ele fornece recursos avançados como suporte a afirmações específicas de coleção, suporte a código assíncrono e suporte a tipos personalizados, também inclui opções para personalizar a mensagem de erro.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@How to Use Shouldly to Improve Unit Tests in .NET?](https://code-maze.com/improve-unit-tests-shouldly-dotnet/)
-- [@article@Improve Test Asserts with Shouldly](https://visualstudiomagazine.com/articles/2015/08/01/improve-test-asserts-with-shouldly.aspx?admgarea=ALM)
+- [@artigo@Como usar Shouldly para melhorar os testes unitários em .NET?](https://code-maze.com/improve-unit-tests-shouldly-dotnet/)
+- [@artigo@Melhore as afirmações de teste com o Shouldly](https://visualstudiomagazine.com/articles/2015/08/01/improve-test-asserts-with-shouldly.aspx?admgarea=ALM)

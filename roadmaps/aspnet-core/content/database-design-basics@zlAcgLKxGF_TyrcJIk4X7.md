@@ -1,9 +1,9 @@
-# Database design basics
+# Básicos de Design de Banco de Dados
 
-Database Design is a collection of processes that facilitate the designing, development, implementation and maintenance of enterprise data management systems. Properly designed database are easy to maintain, improves data consistency and are cost effective in terms of disk storage space. The main objectives of database design in DBMS are to produce logical and physical designs models of the proposed database system.
+O Design de Banco de Dados é uma coleção de processos que facilitam o planejamento, desenvolvimento, implementação e manutenção dos sistemas de gerenciamento de dados corporativos. Bancos de dados bem projetados são fáceis de manter, melhoram a consistência dos dados e são econômicos em termos de espaço de armazenamento em disco. Os principais objetivos do design de banco de dados no DBMS são produzir modelos lógicos e físicos do sistema de banco de dados proposto.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Database design basics](https://support.microsoft.com/en-us/office/database-design-basics-eb2159cf-1e30-401a-8084-bd4f9c9ca1f5)
-- [@video@Database Design Course](https://www.youtube.com/watch?v=ztHopE5Wnpc)
+- [@artigo@Básicos de Design de Banco de Dados](https://support.microsoft.com/en-us/office/database-design-basics-eb2159cf-1e30-401a-8084-bd4f9c9ca1f5)
+- [@vídeo@Curso de Design de Banco de Dados](https://www.youtube.com/watch?v=ztHopE5Wnpc)
 - [@feed@Explore top posts about Database](https://app.daily.dev/tags/database?ref=roadmapsh)

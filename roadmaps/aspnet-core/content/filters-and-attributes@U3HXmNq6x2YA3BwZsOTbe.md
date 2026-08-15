@@ -1,3 +1,3 @@
-# Filters and Attributes
+# Filtros e Atributos
 
-In the [ASP.NET](http://ASP.NET) Core framework, filters and attributes are used to add additional functionality to controllers and action methods, such as authentication, authorization, caching, and exception handling.
+No framework [ASP.NET](http://ASP.NET) Core, filtros e atributos são usados para adicionar funcionalidades adicionais a controladores e métodos de ação, como autenticação, autorização, caching e tratamento de exceções.

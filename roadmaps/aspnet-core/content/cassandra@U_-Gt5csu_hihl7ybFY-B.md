@@ -1,11 +1,11 @@
 # Cassandra
 
-Apache Cassandra is a free and open-source, NoSQL, distributed, wide-column store, and high-performance database management system designed to handle large amounts of data across many commodity servers, providing high availability with no single point of failure. It is designed to handle large amounts of data across many commodity servers, providing high availability with no single point of failure.
+Apache Cassandra é um sistema de gerenciamento de banco de dados livre e de código aberto, NoSQL, distribuído e de larga coluna, e de alto desempenho projetado para lidar com grandes quantidades de dados em muitos servidores comerciais, fornecendo alta disponibilidade sem um único ponto de falha. Ele é projetado para lidar com grandes quantidades de dados em muitos servidores comerciais, fornecendo alta disponibilidade sem um único ponto de falha.
 
-Cassandra is a column-family store and it stores data in a structured format, using tables and columns. It is based on a data model that is similar to that of Google's Bigtable, and it provides a query language that is similar to SQL.
+Cassandra é um armazenamento de família de colunas e armazena dados em um formato estruturado, usando tabelas e colunas. Ele se baseia em um modelo de dados semelhante ao de Google's Bigtable e fornece uma linguagem de consulta semelhante ao SQL.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Introduction to Cassandra](https://www.tutorialspoint.com/cassandra/cassandra_introduction.htm)
-- [@article@Overview of Cassandra in ASP.NET](https://www.spiceworks.com/tech/big-data/articles/what-is-cassandra/)
-- [@feed@Explore top posts about Apache Cassandra](https://app.daily.dev/tags/apache-cassandra?ref=roadmapsh)
+- [@artigo@Introdução a Cassandra](https://www.tutorialspoint.com/cassandra/cassandra_introduction.htm)
+- [@artigo@Visão geral do Cassandra em ASP.NET](https://www.spiceworks.com/tech/big-data/articles/what-is-cassandra/)
+- [@feed@Explore os principais posts sobre Apache Cassandra](https://app.daily.dev/tags/apache-cassandra?ref=roadmapsh)

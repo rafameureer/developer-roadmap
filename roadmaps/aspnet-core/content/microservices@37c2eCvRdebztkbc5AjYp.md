@@ -1,11 +1,11 @@
 # Microservices
 
-Microservices are a software architectural style in which a large application is built as a set of small, independent services that communicate with each other through APIs. These services are typically built using different technologies and run in their own processes, and can be deployed, scaled, and updated independently.
+Microservices são um estilo arquitetônico de software em que uma grande aplicação é construída como um conjunto de pequenos, independentes serviços que se comunicam entre si através de APIs. Esses serviços são tipicamente construídos usando diferentes tecnologias e executados em seus próprios processos, podendo ser implantados, escalonados e atualizados independentemente.
 
-In [ASP.NET](http://ASP.NET), microservices can be built using the .NET Core framework, which is a cross-platform, open-source version of the .NET framework that can run on Windows, Linux, and macOS. Each microservice can be built as a self-contained, small web application that handles a specific set of functionality, such as user management, product catalog, or order processing.
+No [ASP.NET](http://ASP.NET), microservices podem ser construídos usando o framework .NET Core, que é uma versão cruz-plataforma e de código aberto do framework .NET que pode ser executado no Windows, Linux e macOS. Cada microservice pode ser construído como uma aplicação web autônoma, pequena e independente que lida com um conjunto específico de funcionalidades, como gerenciamento de usuários, catálogo de produtos ou processamento de pedidos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Intro to Microservices Using ASP.NET Core](https://www.c-sharpcorner.com/article/microservice-using-asp-net-core/)
-- [@article@Advantages and Disadvantages of Microservices Architecture](https://www.dotnettricks.com/learn/microservices/architecture-example-advantages)
-- [@feed@Explore top posts about Microservices](https://app.daily.dev/tags/microservices?ref=roadmapsh)
+- [@artigo@Introdução a Microservices usando ASP.NET Core](https://www.c-sharpcorner.com/article/microservice-using-asp-net-core/)
+- [@artigo@Vantagens e Desvantagens da Arquitetura de Microservices](https://www.dotnettricks.com/learn/microservices/architecture-example-advantages)
+- [@feed@Explore os principais posts sobre Microservices](https://app.daily.dev/tags/microservices?ref=roadmapsh)

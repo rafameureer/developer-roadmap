@@ -1,9 +1,9 @@
 # FluentValidation
 
-FluentValidation is an open-source library for .NET that provides a fluent, easy-to-use API for validating domain models. It allows developers to define validation rules using a fluent, chainable syntax. It separates validation rules into separate classes called validators, it supports async validation, custom validation rules, and cascading validation. It makes it easy to read and understand the validation logic, and it returns a ValidationResult object, which contains information about any validation errors that were found.
+FluentValidation é uma biblioteca de código aberto para .NET que fornece uma API fluente e fácil de usar para validar modelos de domínio. Ele permite aos desenvolvedores definir regras de validação usando uma sintaxe fluente e encadeável. As regras de validação são separadas em classes chamadas validadores, suporta validação assíncrona, regras de validação personalizadas e validação encadeada. Facilita a leitura e compreensão da lógica de validação, e retorna um objeto ValidationResult, que contém informações sobre quaisquer erros de validação encontrados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Documentations of FluentValidation](https://docs.fluentvalidation.net/en/latest/)
-- [@article@FluentValidation in ASP.NET Core](https://docs.fluentvalidation.net/en/latest/aspnet.html)
-- [@article@Overview of FluentValidation in ASP.NET Core](https://code-maze.com/fluentvalidation-in-aspnet/)
+- [@article@Documentações do FluentValidation](https://docs.fluentvalidation.net/en/latest/)
+- [@article@FluentValidation no ASP.NET Core](https://docs.fluentvalidation.net/en/latest/aspnet.html)
+- [@article@Visão geral do FluentValidation no ASP.NET Core](https://code-maze.com/fluentvalidation-in-aspnet/)

@@ -1,9 +1,9 @@
 # MSTest
 
-MSTest is a unit testing framework for the .NET framework, it's one of the built-in test frameworks in Visual Studio and it's widely used for unit testing in the .NET ecosystem. In the context of [ASP.NET](http://ASP.NET), MSTest can be used to write unit tests for web applications built using the [ASP.NET](http://ASP.NET) framework. MSTest provides features such as data-driven testing, parallel test execution, and test discovery and execution, it also provides the ability to run tests on multiple frameworks.
+O MSTest é um framework de teste unitário para o .NET Framework, sendo um dos frameworks de teste integrados no Visual Studio e amplamente utilizado para testes unitários no ecossistema .NET. No contexto do [ASP.NET](http://ASP.NET), o MSTest pode ser usado para escrever testes unitários para aplicativos web construídos usando o framework [ASP.NET](http://ASP.NET). O MSTest oferece recursos como teste orientado a dados, execução paralela de testes e descoberta e execução de testes, além de permitir a execução de testes em vários frameworks.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@.NET Core testing with MSTest](https://www.oreilly.com/library/view/c-and-net/9781788292481/aa08c601-f374-4e31-be8e-8eb69d63bd19.xhtml)
-- [@article@Unit testing with MSTest and .NET](https://learn.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-mstest)
-- [@article@Complete Guide of MSTest for Unit Testing in ASP.NET](https://sweetcode.io/a-complete-guide-of-mstest-for-unit-testing-in-asp-net/)
+- [@article@Teste unitário com MSTest no .NET Core](https://www.oreilly.com/library/view/c-and-net/9781788292481/aa08c601-f374-4e31-be8e-8eb69d63bd19.xhtml)
+- [@article@Testes unitários com MSTest e .NET](https://learn.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-mstest)
+- [@article@Guia completo de MSTest para testes unitários no ASP.NET](https://sweetcode.io/a-complete-guide-of-mstest-for-unit-testing-in-asp-net/)

@@ -1,9 +1,9 @@
 # Cypress
 
-Cypress is an open-source end-to-end testing framework for web applications, it's built on top of JavaScript and provides a set of APIs that allows developers to automate browser interactions. It's commonly used for testing web applications, as it can be used to automate browser-based tests and assert that the application behaves as expected. Cypress for .NET is not built on top of the .NET Core runtime and it does not provide bindings for C# or any other .NET languages, it's built on top of JavaScript and can be run in the browser.
+Cypress é um quadro de testes de ponta a ponta para aplicativos web, construído em cima do JavaScript e fornecendo uma série de APIs que permitem aos desenvolvedores automatizar interações com o navegador. Ele é comumente usado para testar aplicativos web, pois pode ser usado para automatizar testes baseados no navegador e afirmar que o aplicativo se comporta conforme esperado. Cypress para .NET não é construído em cima do tempo de execução .NET Core e não fornece vinculações para C# ou qualquer outra linguagem .NET, ele é construído em cima do JavaScript e pode ser executado no navegador.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Overview of Cypress](https://www.cypress.io/)
-- [@article@Cypress - End To End Testing Tool](https://www.c-sharpcorner.com/article/getting-started-with-cypress-io/)
-- [@feed@Explore top posts about Cypress](https://app.daily.dev/tags/cypress?ref=roadmapsh)
+- [@oficial@Visão geral do Cypress](https://www.cypress.io/)
+- [@artigo@Cypress - Ferramenta de Teste de Ponta a Ponta](https://www.c-sharpcorner.com/article/getting-started-with-cypress-io/)
+- [@feed@Explore os principais posts sobre o Cypress](https://app.daily.dev/tags/cypress?ref=roadmapsh)

@@ -1,10 +1,10 @@
-# StyleCop Rules
+# Regras do StyleCop
 
-StyleCop is a tool used for developers to standardize their code and ensure they all follow the same syntax principles. With StyleCop, one standard can be defined in a `stylecop.json` file and shared across your team so that each member has the same guidelines when formatting your code. Beyond a single project, StyleCop can also be added as an extension, so all of the projects on your IDE follow the same formatting rules, this is especially useful if your organization follows the same rule standards for all projects.
+O StyleCop é uma ferramenta utilizada por desenvolvedores para padronizar seu código e garantir que todos seguem as mesmas regras de sintaxe. Com o StyleCop, pode-se definir um padrão em um arquivo `stylecop.json` e compartilhá-lo com a equipe, de forma que cada membro tenha as mesmas diretrizes quando formatar seu código. Além de um único projeto, o StyleCop também pode ser adicionado como uma extensão, garantindo que todos os projetos no IDE sigam as mesmas regras de formatação, especialmente útil se a organização seguir os mesmos padrões de regras para todos os projetos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@opensource@StyleCop GitHub official page](https://github.com/StyleCop/StyleCop)
-- [@opensource@StyeleCop Analyzers, a more modern version of StyleCop](https://github.com/DotNetAnalyzers/StyleCopAnalyzers)
-- [@article@StyleCop: A Detailed Guide to Starting and Using It](https://blog.submain.com/stylecop-detailed-guide/)
-- [@video@The StyleCop setup and Advantages](https://www.youtube.com/watch?v=dmpOKmz3lPw)
+- [@opensource@Página oficial do StyleCop no GitHub](https://github.com/StyleCop/StyleCop)
+- [@opensource@Analisadores do StyleCop, uma versão mais moderna do StyleCop](https://github.com/DotNetAnalyzers/StyleCopAnalyzers)
+- [@article@StyleCop: Um guia detalhado sobre como começar e usar](https://blog.submain.com/stylecop-detailed-guide/)
+- [@video@Configuração do StyleCop e seus benefícios](https://www.youtube.com/watch?v=dmpOKmz3lPw)

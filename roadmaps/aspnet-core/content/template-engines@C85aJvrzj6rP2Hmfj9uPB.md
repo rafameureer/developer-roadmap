@@ -1,8 +1,8 @@
-# Template Engines
+# Engenheiros de Modelo
 
-Template engines in [ASP.NET](http://ASP.NET) are libraries that allow developers to embed dynamic data in HTML templates. These engines are used to separate the logic of the application from the presentation of the data, making it easy to change the appearance of the application without having to change the underlying code.
+Os engenheiros de modelo no [ASP.NET](http://ASP.NET) são bibliotecas que permitem aos desenvolvedores incorporar dados dinâmicos em modelos HTML. Esses motores são usados para separar a lógica da aplicação da apresentação dos dados, tornando fácil alterar a aparência da aplicação sem ter que modificar o código subjacente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Template Engine in ASP.NET](https://ej2.syncfusion.com/aspnetmvc/documentation/common/template-engine)
-- [@article@How to Create Custom Templates using the .Net Template Engine ](https://www.infoq.com/articles/dotnet-core-template-engine/)
+- [@article@Engenheiro de Modelo no ASP.NET](https://ej2.syncfusion.com/aspnetmvc/documentation/common/template-engine)
+- [@article@Como criar modelos personalizados usando o Motor de Modelos do .Net ](https://www.infoq.com/articles/dotnet-core-template-engine/)

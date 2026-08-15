@@ -1,12 +1,12 @@
-# Framework Basics
+# Conceitos Básicos do Framework
 
-An ORM (Object-Relational Mapping) framework is a tool that maps the objects in an application to the database tables, allowing developers to work with the database using familiar, object-oriented concepts.
+Um framework de ORM (Object-Relational Mapping) é uma ferramenta que mapeia os objetos em um aplicativo para as tabelas do banco de dados, permitindo aos desenvolvedores trabalhar com o banco de dados usando conceitos orientados a objetos familiares.
 
-ORM frameworks are tools that map the objects in an application to the database tables, allowing developers to work with the database using familiar, object-oriented concepts such as Entities, Mapping, Context, Queries, Lazy Loading, Change Tracking, and Caching.
+Frameworks de ORM são ferramentas que mapeiam os objetos em um aplicativo para as tabelas do banco de dados, permitindo aos desenvolvedores trabalhar com o banco de dados usando conceitos orientados a objetos como Entidades, Mapeamento, Contexto, Consultas, Carregamento Eager, Rastreamento de Mudanças e Cache.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@ORM Framework](https://www.h2kinfosys.com/blog/orm-framework/)
-- [@article@What are Frameworks in ORM](https://www.killerphp.com/articles/what-are-orm-frameworks/)
-- [@article@Essentials of ORM Framework](https://medium.com/@mikependon/the-essentials-of-orm-framework-in-your-software-development-837131efd91b)
-- [@article@ORM Frameworks – What is an Object-Relational Mapping Framework](https://onlinecode.org/what-are-orm-frameworks/)
+- [@artigo@Framework ORM](https://www.h2kinfosys.com/blog/orm-framework/)
+- [@artigo@O que são Frameworks em ORM](https://www.killerphp.com/articles/what-are-orm-frameworks/)
+- [@artigo@Essenciais do Framework ORM](https://medium.com/@mikependon/the-essentials-of-orm-framework-in-your-software-development-837131efd91b)
+- [@artigo@Frameworks ORM – O que é um Framework de Mapeamento Objeto-Relacional](https://onlinecode.org/what-are-orm-frameworks/)

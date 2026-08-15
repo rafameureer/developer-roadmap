@@ -1,11 +1,11 @@
-# Object Mapping
+# Mapeamento de Objetos
 
-Object mapping in [ASP.NET](http://ASP.NET) refers to the process of converting an object of one type to an object of another type. This can be useful in a number of scenarios, such as when working with domain models and data transfer objects (DTOs) in a layered architecture, or when mapping between different versions of an object or different formats such as JSON and XML.
+O mapeamento de objetos no [ASP.NET](http://ASP.NET) refere-se ao processo de converter um objeto de um tipo em um objeto de outro tipo. Isso pode ser útil em vários cenários, como quando trabalhando com modelos de domínio e objetos de transferência de dados (DTOs) em uma arquitetura camada, ou ao mapear entre diferentes versões de um objeto ou diferentes formatos como JSON e XML.
 
-There are several libraries available for object mapping in [ASP.NET](http://ASP.NET), such as AutoMapper, ExpressMapper, AgileMapper, AgileMapster and Mapster. These libraries provide a convenient and flexible way to map between objects, using a convention-based approach or a fluent API to configure more complex mappings. They also support for a wide range of mapping scenarios, including nested and circular object graphs, collections, and different types of inheritance.
+Existem várias bibliotecas disponíveis para o mapeamento de objetos no [ASP.NET](http://ASP.NET), como AutoMapper, ExpressMapper, AgileMapper, AgileMapster e Mapster. Essas bibliotecas fornecem uma maneira conveniente e flexível de mapear entre objetos, usando um abordagem baseada em convenções ou uma API fluente para configurar mapeamentos mais complexos. Eles também suportam uma ampla gama de cenários de mapeamento, incluindo gráficos de objeto aninhados e cíclicos, coleções e diferentes tipos de herança.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Building a Fast Object-to-Object Mapper in .NET](https://www.twilio.com/blog/building-blazing-fast-object-mapper-c-sharp-net-core)
-- [@article@Overview of Object Mapping in ASP.NET](https://docs.abp.io/en/abp/latest/Object-To-Object-Mapping)
-- [@article@Comparison of Object Mapper Libraries](https://www.simplilearn.com/tutorials/asp-dot-net-tutorial/automapper-in-c-sharp)
+- [@article@Construindo um Mapper de Objetos Rápido em .NET](https://www.twilio.com/blog/building-blazing-fast-object-mapper-c-sharp-net-core)
+- [@article@Visão geral do Mapeamento de Objetos no ASP.NET](https://docs.abp.io/en/abp/latest/Object-To-Object-Mapping)
+- [@article@Comparação de Bibliotecas de Mapper de Objetos](https://www.simplilearn.com/tutorials/asp-dot-net-tutorial/automapper-in-c-sharp)

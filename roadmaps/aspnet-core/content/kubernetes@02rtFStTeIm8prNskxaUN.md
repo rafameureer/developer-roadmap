@@ -1,14 +1,14 @@
 # Kubernetes
 
-Kubernetes is an [open source](https://github.com/kubernetes/kubernetes) container management platform, and the dominant product in this space. Using Kubernetes, teams can deploy images across multiple underlying hosts, defining their desired availability, deployment logic, and scaling logic in YAML. Kubernetes evolved from Borg, an internal Google platform used to provision and allocate compute resources (similar to the Autopilot and Aquaman systems of Microsoft Azure).
+Kubernetes é uma plataforma de gerenciamento de contêineres [open source](https://github.com/kubernetes/kubernetes), e o produto dominante nesse espaço. Usando o Kubernetes, equipes podem implantar imagens em vários hosts subjacentes, definindo sua disponibilidade desejada, lógica de implantação e lógica de escalabilidade em YAML. O Kubernetes evoluiu do Borg, uma plataforma interna do Google usada para provisionar e alocar recursos computacionais (similar aos sistemas Autopilot e Aquaman da Microsoft Azure).
 
-The popularity of Kubernetes has made it an increasingly important skill for the DevOps Engineer and has triggered the creation of Platform teams across the industry. These Platform engineering teams often exist with the sole purpose of making Kubernetes approachable and usable for their product development colleagues.
+A popularidade do Kubernetes tornou-se uma habilidade cada vez mais importante para o Engenheiro DevOps e acionou a criação de equipes de Platform em toda a indústria. Essas equipes de engenharia de plataforma geralmente existem com o único propósito de tornar o Kubernetes acessível e utilizável para seus colegas de desenvolvimento de produtos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Kubernetes Website](https://kubernetes.io/)
-- [@official@Kubernetes Documentation](https://kubernetes.io/docs/home/)
-- [@article@Primer: How Kubernetes Came to Be, What It Is, and Why You Should Care](https://thenewstack.io/primer-how-kubernetes-came-to-be-what-it-is-and-why-you-should-care/)
-- [@article@Kubernetes: An Overview](https://thenewstack.io/kubernetes-an-overview/)
-- [@video@Kubernetes Crash Course for Absolute Beginners](https://www.youtube.com/watch?v=s_o8dwzRlu4)
-- [@feed@Explore top posts about Kubernetes](https://app.daily.dev/tags/kubernetes?ref=roadmapsh)
+- [@official@Site oficial do Kubernetes](https://kubernetes.io/)
+- [@official@Documentação do Kubernetes](https://kubernetes.io/docs/home/)
+- [@article@Primer: Como o Kubernetes surgiu, o que é e por que você deve se importar](https://thenewstack.io/primer-how-kubernetes-came-to-be-what-it-is-and-why-you-should-care/)
+- [@article@Kubernetes: Uma visão geral](https://thenewstack.io/kubernetes-an-overview/)
+- [@video@Curso de introdução ao Kubernetes para iniciantes absolutos](https://www.youtube.com/watch?v=s_o8dwzRlu4)
+- [@feed@Explore as principais postagens sobre Kubernetes](https://app.daily.dev/tags/kubernetes?ref=roadmapsh)

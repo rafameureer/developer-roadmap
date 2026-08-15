@@ -1,9 +1,9 @@
-# Memory Cache
+# Cache de Memória
 
-Memory caching (often simply referred to as caching) is a technique in which computer applications temporarily store data in a computer’s main memory (i.e., random access memory, or RAM) to enable fast retrievals of that data. The RAM that is used for the temporary storage is known as the cache.
+O cache em memória (geralmente simplesmente chamado de caching) é uma técnica em que aplicativos computacionais armazenam temporariamente dados na memória principal do computador (ou seja, na memória de acesso aleatório, ou RAM) para permitir a recuperação rápida desses dados. A RAM usada para o armazenamento temporário é conhecida como cache.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Cache in-memory in ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/performance/caching/memory?view=aspnetcore-7.0)
-- [@article@What is Memory Caching?](https://hazelcast.com/glossary/memory-caching/)
-- [@video@Intro to In-Memory Caching in C#](https://www.youtube.com/watch?v=2jj2wH60QuE)
+- [@artigo@Cache em Memória no ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/performance/caching/memory?view=aspnetcore-7.0)
+- [@artigo@O que é Cache de Memória?](https://hazelcast.com/glossary/memory-caching/)
+- [@vídeo@Introdução ao Cache em Memória em C#](https://www.youtube.com/watch?v=2jj2wH60QuE)

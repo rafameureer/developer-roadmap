@@ -1,9 +1,9 @@
 # Playwright
 
-Playwright is an open-source library for automating web browsers built by Microsoft, similar to Selenium, it's commonly used for testing web applications. It's built on top of the .NET Core runtime and it provides bindings for C#, it allows developers to write tests for web applications in C# or other .NET languages. Playwright is designed to be fast and reliable and allows developers to run tests in multiple browsers.
+Playwright é uma biblioteca de código aberto para automatizar navegadores da web criada pela Microsoft, semelhante ao Selenium. É comumente usado para testar aplicativos web. Ele está construído em cima do tempo de execução .NET Core e fornece vinculações para C#, permitindo aos desenvolvedores escrever testes para aplicativos web em C# ou outras linguagens .NET. O Playwright foi projetado para ser rápido e confiável, permitindo que os desenvolvedores executem testes em vários navegadores.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@opensource@Playwright for .NET](https://github.com/microsoft/playwright-dotnet)
-- [@article@How to test Apps with Playwright and .NETs](https://www.twilio.com/blog/test-web-apps-with-playwright-and-csharp-dotnet)
-- [@article@End-to-End Tests With ASP.NET and Playwright](https://khalidabuhakmeh.com/end-to-end-test-with-aspnet-core-xunit-and-playwright)
+- [@opensource@Playwright para .NET](https://github.com/microsoft/playwright-dotnet)
+- [@article@Como testar aplicativos com o Playwright e .NET](https://www.twilio.com/blog/test-web-apps-with-playwright-and-csharp-dotnet)
+- [@article@Testes de ponta a ponta com ASP.NET e Playwright](https://khalidabuhakmeh.com/end-to-end-test-with-aspnet-core-xunit-and-playwright)

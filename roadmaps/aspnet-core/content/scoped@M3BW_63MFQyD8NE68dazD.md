@@ -1,10 +1,10 @@
-# Scoped
+# Escopo
 
-Scoped lifetime is a type of dependency injection that creates a new instance of an object for each unique request, but reuses the same instance for the same request. This means that if multiple components within the same request depend on the same service, they will all receive the same instance. However, if another request is made, a new instance of the service will be created for that request.
+O escopo de vida é um tipo de injeção de dependência que cria uma nova instância de um objeto para cada solicitação única, mas reutiliza a mesma instância para a mesma solicitação. Isso significa que se vários componentes dentro da mesma solicitação dependerem do mesmo serviço, todos receberão a mesma instância. No entanto, se outra solicitação for feita, uma nova instância do serviço será criada para essa solicitação.
 
-Scoped lifetime is useful when you have services that are specific to a given request, such as a request-scoped database context. This allows you to have a separate and isolated instance of a service for each unique request, which can help to prevent cross-request contamination of data and improve performance.
+O escopo de vida é útil quando você tem serviços específicos para uma determinada solicitação, como um contexto de banco de dados com escopo de solicitação. Isso permite que você tenha uma instância separada e isolada do serviço para cada solicitação única, o que pode ajudar a prevenir a contaminação cruzada de dados entre solicitações e melhorar o desempenho.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Dependency Injection - What is Scope?](https://javaranch.com/journal/2008/10/dependency-injection-what-is-scope.html)
-- [@article@Effective Dependency Injection Scoping](https://medium.com/android-news/effective-dependency-injection-scoping-4bac813d4491)
+- [@artigo@Injeção de Dependência - O que é Escopo?](https://javaranch.com/journal/2008/10/dependency-injection-what-is-scope.html)
+- [@artigo@Escopo Efetivo da Injeção de Dependência](https://medium.com/android-news/effective-dependency-injection-scoping-4bac813d4491)

@@ -1,3 +1,3 @@
 # Frameworks
 
-.NET offers a range of frameworks built on the base runtime, each addressing a specific domain: ASP.NET Core for web applications and APIs, EF Core for data access, and .NET MAUI for cross-platform client apps. Choosing the right framework for the job is one of the first decisions when starting a new .NET project.
+O .NET oferece uma variedade de frameworks baseados no tempo de execução básico, cada um abordando um domínio específico: ASP.NET Core para aplicativos web e APIs, EF Core para acesso a dados e .NET MAUI para aplicativos cliente multiplataforma. Escolher o framework certo para o trabalho é uma das primeiras decisões quando iniciar um novo projeto do .NET.

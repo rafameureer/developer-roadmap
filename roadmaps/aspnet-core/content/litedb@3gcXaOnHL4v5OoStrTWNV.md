@@ -1,10 +1,10 @@
 # LiteDB
 
-LiteDB is a lightweight, open-source, NoSQL embedded document-oriented database engine for .NET and .NET Core. It uses a file-based storage system, meaning that the entire database is stored in a single file on disk. It uses a similar syntax to MongoDB, but it is designed to be simple and easy to use, and it does not require a separate server or installation.
+LiteDB é um banco de dados NoSQL leve, aberto-fonte e orientado a documentos para .NET e .NET Core. Ele usa um sistema de armazenamento baseado em arquivos, o que significa que todo o banco de dados é armazenado em um único arquivo no disco. Ele usa uma sintaxe semelhante ao MongoDB, mas está projetado para ser simples e fácil de usar, e não requer um servidor separado ou instalação.
 
-LiteDB supports data types like string, int, decimal, DateTime, and also supports binary data and serialized objects. It also supports LINQ, transactions, indexes and collections.
+O LiteDB suporta tipos de dados como string, int, decimal, DateTime, além de suportar dados binários e objetos serializados. Ele também suporta LINQ, transações, índices e coleções.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Getting started with LiteDB](https://www.litedb.org/)
-- [@official@Overview of LiteDB in ASP.NET](https://www.litedb.org/docs/)
+- [@oficial@Começando com o LiteDB](https://www.litedb.org/)
+- [@oficial@Visão Geral do LiteDB no ASP.NET](https://www.litedb.org/docs/)

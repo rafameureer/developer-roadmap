@@ -1,11 +1,11 @@
-# Transient
+# Transiente
 
-Transient lifetime is a type of dependency injection that creates a new instance of an object each time it is requested. This means that if multiple components within the same request or across different requests depend on the same service, they will each receive a new instance of the service.
+A vida útil transiente é um tipo de injeção de dependência que cria uma nova instância de um objeto sempre que ele é solicitado. Isso significa que se vários componentes dentro da mesma solicitação ou em diferentes solicitações dependerem do mesmo serviço, cada um receberá uma nova instância do serviço.
 
-Transient lifetime is useful when you have services that are stateless and do not need to maintain any data between requests, such as a service that performs a simple calculation or returns data from a database.
+A vida útil transiente é útil quando você tem serviços sem estado e não precisam manter nenhum dado entre as solicitações, como um serviço que realiza um cálculo simples ou retorna dados de um banco de dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What are Transient Dependencies?](https://blazor-university.com/dependency-injection/dependency-lifetimes-and-scopes/transient-dependencies/)
-- [@article@Dependency Injection Lifetime](https://www.tektutorialshub.com/asp-net-core/asp-net-core-dependency-injection-lifetime/)
-- [@video@Dependency Injection Explained with Transient](https://www.youtube.com/watch?v=NkTF_6IQPiY)
+- [@artigo@O que são Dependências Transientes?](https://blazor-university.com/dependency-injection/dependency-lifetimes-and-scopes/transient-dependencies/)
+- [@artigo@Vida útil da Injeção de Dependência](https://www.tektutorialshub.com/asp-net-core/asp-net-core-dependency-injection-lifetime/)
+- [@vídeo@Injeção de Dependência Explicada com Transiente](https://www.youtube.com/watch?v=NkTF_6IQPiY)

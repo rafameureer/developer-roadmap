@@ -1,11 +1,11 @@
-# Entity Framework Cache
+# Cache do Entity Framework
 
-Entity Framework Core(EF Core) is a cross-platform version of the popular Entity Framework data access technology that is lightweight, extendable, and open source. It can be used as an object-relational mapper (O/RM), which can Allow .NET developers to use .NET objects to interact with a database and Removes the requirement for most of the data-access code that is generally required.
+Entity Framework Core (EF Core) é uma versão multiplataforma da popular tecnologia de acesso a dados Entity Framework que é leve, extensível e open source. Ele pode ser usado como um mapeador objeto-relacional (O/RM), permitindo aos desenvolvedores .NET usar objetos .NET para interagir com um banco de dados e removendo a necessidade da maioria do código de acesso a dados que geralmente é necessário.
 
-However, during peak loads, high-transaction .NET Core apps using EF Core have performance and scalability problems in the database tier. This is because, although you can scale the application layer by adding more application servers, you can't scale the database tier by adding more database servers.
+No entanto, durante picos de carga, aplicativos .NET Core de alta transação usando EF Core têm problemas de desempenho e escalabilidade na camada de banco de dados. Isso ocorre porque, embora você possa escalar a camada de aplicativo adicionando mais servidores de aplicativo, não é possível escalar a camada de banco de dados adicionando mais servidores de banco de dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Entity Framework 2nd Level Cache](https://www.gridgain.com/docs/latest/developers-guide/net-specific/net-entity-framework-cache)
-- [@article@Caching In Entity Framework](https://www.c-sharpcorner.com/article/caching-in-entity-framework-ef-core-using-ncache/)
-- [@video@What is Entity Framework?](https://www.youtube.com/watch?v=Z7713GBhi4k)
+- [@article@Cache do Entity Framework 2º nível](https://www.gridgain.com/docs/latest/developers-guide/net-specific/net-entity-framework-cache)
+- [@article@Caching no Entity Framework](https://www.c-sharpcorner.com/article/caching-in-entity-framework-ef-core-using-ncache/)
+- [@video@O que é o Entity Framework?](https://www.youtube.com/watch?v=Z7713GBhi4k)

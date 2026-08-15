@@ -1,11 +1,11 @@
 # RabbitMQ
 
-RabbitMQ is an open-source message broker software that implements the Advanced Message Queuing Protocol (AMQP). It is written in Erlang and can be used to send and receive messages between different applications in a loosely coupled, asynchronous manner. RabbitMQ supports a variety of messaging patterns, including point-to-point, publish-subscribe, and request-response.
+RabbitMQ é um software de roteador de mensagens de código aberto que implementa o Protocolo de Fila de Mensagens Avançado (AMQP). Ele está escrito em Erlang e pode ser usado para enviar e receber mensagens entre diferentes aplicativos de maneira desacoplada e assíncrona. RabbitMQ suporta uma variedade de padrões de mensagem, incluindo ponto-a-ponto, publicar-assinar e solicitar-resposta.
 
-In the context of an [ASP.NET](http://ASP.NET) application, RabbitMQ can be used to send and receive messages to and from other systems. For example, it can be used to send messages from a web application to a background service, or to send messages between different microservices.
+No contexto de um aplicativo [ASP.NET](http://ASP.NET), RabbitMQ pode ser usado para enviar e receber mensagens entre outros sistemas. Por exemplo, ele pode ser usado para enviar mensagens de uma aplicação web a um serviço em segundo plano, ou para enviar mensagens entre diferentes microserviços.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Introduction of RabbitMQ](https://www.rabbitmq.com/tutorials/tutorial-one-dotnet.html)
-- [@article@How to Use RabbitMQ in ASP NET?](https://www.freecodespot.com/blog/use-rabbitmq-in-asp-net-core/)
-- [@article@ASP.NET and RabbitMQ](https://referbruv.com/blog/integrating-rabbitmq-with-aspnet-core-quickstart-with-an-example/)
+- [@official@Introdução ao RabbitMQ](https://www.rabbitmq.com/tutorials/tutorial-one-dotnet.html)
+- [@article@Como usar o RabbitMQ no ASP NET?](https://www.freecodespot.com/blog/use-rabbitmq-in-asp-net-core/)
+- [@article@ASP.NET e RabbitMQ](https://referbruv.com/blog/integrating-rabbitmq-with-aspnet-core-quickstart-with-an-example/)

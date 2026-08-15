@@ -1,7 +1,7 @@
 # Fluid
 
-Fluid is a template engine for .NET that is based on the Fluid template language, it is similar to Liquid, but it's written in C#. It provides a simple and easy-to-use API for parsing and rendering templates, and supports a wide range of features such as variables, loops, conditionals, and functions. It also provides a wide range of built-in functions for working with strings, numbers, dates, and other types of data. It also supports advanced features such as scripting and metaprogramming. It is often used in web applications to separate the logic of the application from the presentation of the data, making it easy to change the appearance of the application without having to change the underlying code.
+Fluid é um motor de modelo para .NET que se baseia no idioma de modelo Fluid, é semelhante ao Liquid, mas foi escrito em C#. Ele fornece uma API simples e fácil de usar para analisar e renderizar modelos, e suporta uma ampla gama de recursos como variáveis, loops, condições e funções. Também fornece uma ampla gama de funções internas para trabalhar com strings, números, datas e outros tipos de dados. Ele também suporta recursos avançados como scripting e metaprogramação. É frequentemente usado em aplicativos web para separar a lógica do aplicativo da apresentação dos dados, tornando fácil alterar a aparência do aplicativo sem ter que alterar o código subjacente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@opensource@Overview of Fluid](https://github.com/sebastienros/fluid)
+- [@opensource@Visão geral do Fluid](https://github.com/sebastienros/fluid)

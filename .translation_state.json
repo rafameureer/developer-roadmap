@@ -602,7 +602,125 @@
     "roadmaps/api-design/content/unit-testing@JvmW78cDm84GNhq8VEYZp.md",
     "roadmaps/api-design/content/uri-design@b3qRTLwCC_9uDoPGrd9Bu.md",
     "roadmaps/api-design/content/url-query--path-parameters@P-rGIk50Bg7nFmWieAW07.md",
-    "roadmaps/api-design/content/versioning-strategies@itILK2SXvLvAjk1Kul7EK.md"
+    "roadmaps/api-design/content/versioning-strategies@itILK2SXvLvAjk1Kul7EK.md",
+    "roadmaps/aspnet-core/content/activemq@sNYYEBMHV_NO_NToP51VY.md",
+    "roadmaps/aspnet-core/content/api-clients-and-communication@GLkDH0X0uy8_1DIdCzbUD.md",
+    "roadmaps/aspnet-core/content/app-settings-and-configs@EJxliq-HPVp00CVsFc6kf.md",
+    "roadmaps/aspnet-core/content/automapper@GPmlueMnuLCUW_t4jvGhc.md",
+    "roadmaps/aspnet-core/content/azure-pipelines@_-GQNpsb7KZw76hNNOq3h.md",
+    "roadmaps/aspnet-core/content/azure-service-bus@gBuaVZfqJ0-g21sKohQtx.md",
+    "roadmaps/aspnet-core/content/benchmarknet@9LEVN-uVEwxJooEiB9ApK.md",
+    "roadmaps/aspnet-core/content/blazor@4iD_hDtgJ15IlJGxiO-E8.md",
+    "roadmaps/aspnet-core/content/bogus@QERTjawqCCCkHfR44Ca0s.md",
+    "roadmaps/aspnet-core/content/c@fxANnSiTb2VzA9u-YeBL1.md",
+    "roadmaps/aspnet-core/content/caching@7Nth4LOrM_KirhvjDGkgS.md",
+    "roadmaps/aspnet-core/content/cassandra@U_-Gt5csu_hihl7ybFY-B.md",
+    "roadmaps/aspnet-core/content/change-tracker-api@wfEOvAkGXkTZGdGX341D4.md",
+    "roadmaps/aspnet-core/content/ci--cd@KIFmahcNiSo2NGoLtAyRR.md",
+    "roadmaps/aspnet-core/content/circle-ci@KyGjXgG6JFo42qOV0wqfB.md",
+    "roadmaps/aspnet-core/content/cloud@LrjmJs6_rXUkc2A7fEq24.md",
+    "roadmaps/aspnet-core/content/code-first--migrations@ZPeebwJ3OBuywEgLLgQTG.md",
+    "roadmaps/aspnet-core/content/constraints@1-XdtrGPbUoxpu9ZcQlBA.md",
+    "roadmaps/aspnet-core/content/couchdb@vHcwt6ARi5YR3v-eDDjfl.md",
+    "roadmaps/aspnet-core/content/cypress@f2UP2jDnDr7XEFIdAtBhH.md",
+    "roadmaps/aspnet-core/content/dapper@UkWc41r0bZ1lptjse3As6.md",
+    "roadmaps/aspnet-core/content/dapr@IHY9uL3dzYmf2D2wWgIh-.md",
+    "roadmaps/aspnet-core/content/data-structures-and-algorithms@RAX2xN37taw9cqA3pnORh.md",
+    "roadmaps/aspnet-core/content/database-design-basics@zlAcgLKxGF_TyrcJIk4X7.md",
+    "roadmaps/aspnet-core/content/database-fundamentals@tnKUdsgp6bnFtQTexEmfy.md",
+    "roadmaps/aspnet-core/content/distributed-cache@SiG0FWWznjDg-2mIWlchy.md",
+    "roadmaps/aspnet-core/content/distributed-lock@T2FsSndxzSuKTFdjoyPi-.md",
+    "roadmaps/aspnet-core/content/docker@rmRESzLiZNWdBFXLrwQFJ.md",
+    "roadmaps/aspnet-core/content/dynamo-db@1Om9aQDZmnj_DN10ogwDL.md",
+    "roadmaps/aspnet-core/content/easynetq@X6iSHoHnFFMaGb6YPQFhl.md",
+    "roadmaps/aspnet-core/content/elastic-search@mK9OAwjReZoQZr1WSLRKJ.md",
+    "roadmaps/aspnet-core/content/entity-framework-2nd-level-cache@FV4GsPjUyAc99DnIwkkCC.md",
+    "roadmaps/aspnet-core/content/entity-framework-core@ET74_7ieahNaGdPT11_NI.md",
+    "roadmaps/aspnet-core/content/fakeiteasy@diRJ_F6kx42Ucs0fxidtZ.md",
+    "roadmaps/aspnet-core/content/filters-and-attributes@U3HXmNq6x2YA3BwZsOTbe.md",
+    "roadmaps/aspnet-core/content/fluentvalidation@sa0zXd8lpNs_SFQ2y-PY4.md",
+    "roadmaps/aspnet-core/content/fluid@ZaOhWWDgVxrn0hbesJ7xT.md",
+    "roadmaps/aspnet-core/content/framework-basics@eGVaAz3VhGu3cXBNxTAWd.md",
+    "roadmaps/aspnet-core/content/frameworks@1YL7aXluINOO15W3waaiD.md",
+    "roadmaps/aspnet-core/content/general-development-skills@NEnna_8DstfYH4T9qrP3-.md",
+    "roadmaps/aspnet-core/content/github-actions@0-PLMXGlRyRzTk-EjXMs2.md",
+    "roadmaps/aspnet-core/content/gitlab-cicd@8Y73Ae32eo6_ye7dw5QRQ.md",
+    "roadmaps/aspnet-core/content/graphql-net@Efxu9gDodODMTKJbWcXzB.md",
+    "roadmaps/aspnet-core/content/graphql@BdTQ5ZMNDNZvkAUoCfL5H.md",
+    "roadmaps/aspnet-core/content/gridlify@w5RnrhsP4p-AdSOLYVAY9.md",
+    "roadmaps/aspnet-core/content/grpc@x3SJlLc19DNJ-PyDOOj_G.md",
+    "roadmaps/aspnet-core/content/hangfire@QiQsx1udyKcPJ-lZjRQVy.md",
+    "roadmaps/aspnet-core/content/kubernetes@02rtFStTeIm8prNskxaUN.md",
+    "roadmaps/aspnet-core/content/lazy-eager-explicit-loading@9AMotSwdEbB8uOg80SykE.md",
+    "roadmaps/aspnet-core/content/learn-the-basics-of-c@NvODRFR0DLINB0RlPSsvt.md",
+    "roadmaps/aspnet-core/content/life-cycles@Tjaczp2E-cCn0qSv89xgo.md",
+    "roadmaps/aspnet-core/content/light-bdd@aWRv5sU9dksgcpE9RGJb1.md",
+    "roadmaps/aspnet-core/content/litedb@3gcXaOnHL4v5OoStrTWNV.md",
+    "roadmaps/aspnet-core/content/log-frameworks@fQ3w8REYWzQfeJ0nPyq6W.md",
+    "roadmaps/aspnet-core/content/manual-mapping@oMMBzRrHkUymxAR4oqr75.md",
+    "roadmaps/aspnet-core/content/mapperly@x0OopRTwIvoWgT8qi0CE9.md",
+    "roadmaps/aspnet-core/content/mediatr@cc0UNQwbDlySue-CvpChR.md",
+    "roadmaps/aspnet-core/content/memcached@u2pc3ZkL0EumAsbM12D5y.md",
+    "roadmaps/aspnet-core/content/memory-cache@8CRsr7UZszjc_fZ-4ZmIx.md",
+    "roadmaps/aspnet-core/content/microservices@37c2eCvRdebztkbc5AjYp.md",
+    "roadmaps/aspnet-core/content/microsoftextensions@J9XdYLo7qJiBoL8p3c68P.md",
+    "roadmaps/aspnet-core/content/middlewares@dG--AAcZZdltYCeg6zCz2.md",
+    "roadmaps/aspnet-core/content/minimal-apis@ipABerBcM9zCte9pYaIse.md",
+    "roadmaps/aspnet-core/content/mongodb@-wYRa8qSuKVKo_yOTKV67.md",
+    "roadmaps/aspnet-core/content/moq@eyOXWb1kL80Wqiwc2WHd_.md",
+    "roadmaps/aspnet-core/content/mstest@236VJJjMvqHfSj-MHSDPV.md",
+    "roadmaps/aspnet-core/content/mvc@D3aQw0-pk3ycO-n10HBaA.md",
+    "roadmaps/aspnet-core/content/mysql@WsGwg4qdlu_vBsFEpmBvU.md",
+    "roadmaps/aspnet-core/content/native-background-service@uP1nqbmFmZL_wA2DoqP8C.md",
+    "roadmaps/aspnet-core/content/net-cli@6HJQ1Evgah0Pki04Z2hQt.md",
+    "roadmaps/aspnet-core/content/net-maui@olqSPUU3RoxhQ6exfMzeN.md",
+    "roadmaps/aspnet-core/content/net@3GGvuxdfuDwLpNX_gtjCK.md",
+    "roadmaps/aspnet-core/content/nosql@WUis4K9vduriYdVkKvM9r.md",
+    "roadmaps/aspnet-core/content/nuke@EsC1JwFOMOlQVelpmxISh.md",
+    "roadmaps/aspnet-core/content/nunit@qHYBlBCvCGUZGh6gyEI63.md",
+    "roadmaps/aspnet-core/content/object-mapping@9ECykIIvXlDblbFbRVcJS.md",
+    "roadmaps/aspnet-core/content/object-relational-mapping@POQPoN98eqOH2873ZI6Hm.md",
+    "roadmaps/aspnet-core/content/ocelot@2k-rGuhYTTAR9XN3aDAnW.md",
+    "roadmaps/aspnet-core/content/odata@YojZ5fpzw-5WgoqqkO6wl.md",
+    "roadmaps/aspnet-core/content/orleans@XKsLqDDco5OXKURCcWAmv.md",
+    "roadmaps/aspnet-core/content/playwright@AtyL0ij8FeJCBmqG2YvTO.md",
+    "roadmaps/aspnet-core/content/polly@gQhiEpvx__70N1WbEHGYJ.md",
+    "roadmaps/aspnet-core/content/postgresql@An9TLvo-I6NtC8wFU3bh4.md",
+    "roadmaps/aspnet-core/content/puppeteer@UCpoLiQJ4LeniI9x3uGcY.md",
+    "roadmaps/aspnet-core/content/quartz@zOWlPXIl4XPs_0pA8-yi5.md",
+    "roadmaps/aspnet-core/content/rabbitmq@KqvBn2_wvYhFdv0dBZMC9.md",
+    "roadmaps/aspnet-core/content/razor-components@vePinRjDfSGULKw0LE9K-.md",
+    "roadmaps/aspnet-core/content/razor-pages@qpVxwuyA2oE06MZLtEdP1.md",
+    "roadmaps/aspnet-core/content/razor@nUE2-egUMNFQoPVrVRFPl.md",
+    "roadmaps/aspnet-core/content/real-time-communication@9Vv3OxafB6BlHhi1ZkeVO.md",
+    "roadmaps/aspnet-core/content/redis@Ts0gJ4DdwFp48LGr4YSvM.md",
+    "roadmaps/aspnet-core/content/relational@FnRxRY3uDZdTve1w-nBfc.md",
+    "roadmaps/aspnet-core/content/repodb@tYDVcnG0oUF3R8DwASvAh.md",
+    "roadmaps/aspnet-core/content/respawn@TCswZHviRiu6SIOwUisu8.md",
+    "roadmaps/aspnet-core/content/rest@KJCtxH3mYsZq3hfBZ6cJF.md",
+    "roadmaps/aspnet-core/content/rest@dZ9fYWMBa1OemTmLOI8_q.md",
+    "roadmaps/aspnet-core/content/scalar@Zb4Gugxf7d6MoeEcfngrV.md",
+    "roadmaps/aspnet-core/content/scoped@M3BW_63MFQyD8NE68dazD.md",
+    "roadmaps/aspnet-core/content/scriban@dWB5OCvWVYkD30Op_dMwy.md",
+    "roadmaps/aspnet-core/content/scrutor@f212ztDU_kb7gO71Nn76L.md",
+    "roadmaps/aspnet-core/content/search-engines@6p5atMYw3b3bXkQuXZsDV.md",
+    "roadmaps/aspnet-core/content/serilog@xL0s4-HfRxNy2ru0jiIWR.md",
+    "roadmaps/aspnet-core/content/shouldly@zhn-VLGPfV6FZT2OMl6zf.md",
+    "roadmaps/aspnet-core/content/specflow@9WZmjiFowydYrkHQ2xeNm.md",
+    "roadmaps/aspnet-core/content/sphinx@Ye9WHfwZa-Fc2YDaTCmU1.md",
+    "roadmaps/aspnet-core/content/sql-basics@aOJMVrTcA_I2y_QHzj7aM.md",
+    "roadmaps/aspnet-core/content/sql-server@HQHSzsqBGSVYNLQ9o5EI-.md",
+    "roadmaps/aspnet-core/content/steeltoe@s8evqe2MireS1UhxoXrd1.md",
+    "roadmaps/aspnet-core/content/stored-procedures@ZiK-c9zNbi5RZkKUi44wP.md",
+    "roadmaps/aspnet-core/content/stylecop-rules@R7Qk5hsEIl9dspQXdaJAJ.md",
+    "roadmaps/aspnet-core/content/task-scheduling@s57tKy1rajlJbKFDVXLqs.md",
+    "roadmaps/aspnet-core/content/template-engines@C85aJvrzj6rP2Hmfj9uPB.md",
+    "roadmaps/aspnet-core/content/test-containers@8eW5BaOjJbnQ7uk4zMOiU.md",
+    "roadmaps/aspnet-core/content/testing@XofWWhlU_vWCG5oXVMZze.md",
+    "roadmaps/aspnet-core/content/transient@-N0XM0-VtCZ6QMo2YyMD-.md",
+    "roadmaps/aspnet-core/content/triggers@2f_CJMnXwPxjMEwm5P_QJ.md",
+    "roadmaps/aspnet-core/content/web-sockets@tBl8neu3tJd5GPwGfJbjZ.md",
+    "roadmaps/aspnet-core/content/webapplicationfactory@Xx5G09n4WWnnydCgxnL0A.md"
   ],
   "completed_roadmaps": [
     "frontend-beginner",
@@ -616,7 +734,8 @@
     "ai-red-teaming",
     "android",
     "angular",
-    "api-design"
+    "api-design",
+    "aspnet-core"
   ],
   "flagged_issues": [
     {
@@ -1553,8 +1672,148 @@
       "file": "roadmaps/api-design/content/what-are-apis@r8M3quACGO2piu0u_R4hO.md",
       "reason": "Falha na tradução automática após tentativas no Ollama",
       "timestamp": "2026-08-15T01:46:25.278455"
+    },
+    {
+      "file": "roadmaps/aspnet-core/content/aspnet-core-basics@v2ZTCQQFQPoJNhOVGMG2g.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:47:05.077288"
+    },
+    {
+      "file": "roadmaps/aspnet-core/content/autofac@gbpSbjF12dBE1Tb3PX8Bz.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:47:09.806501"
+    },
+    {
+      "file": "roadmaps/aspnet-core/content/autofixture@K49M_7gSpfJuZaE6WaHxQ.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:47:12.086036"
+    },
+    {
+      "file": "roadmaps/aspnet-core/content/coravel@p3bZnKIyRgLmB764Kkhju.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:48:59.030775"
+    },
+    {
+      "file": "roadmaps/aspnet-core/content/cosmos-db@KrkV1w9b_Nwm6pe9diDRS.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:49:01.545967"
+    },
+    {
+      "file": "roadmaps/aspnet-core/content/databases@Ujzn_dILCA7xoupnz398l.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:50:03.374018"
+    },
+    {
+      "file": "roadmaps/aspnet-core/content/dependency-injection@IejHMMVKwA0sIInla4FjX.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:50:08.274993"
+    },
+    {
+      "file": "roadmaps/aspnet-core/content/di-containers@iM760f8Ys66-VSkMiZfIX.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:50:14.461917"
+    },
+    {
+      "file": "roadmaps/aspnet-core/content/git---version-control@OtdCmkj0SvrGwCUSfm96C.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:51:48.196562"
+    },
+    {
+      "file": "roadmaps/aspnet-core/content/github-gitlab-bitbucket@KAZF-mIg-FlfMonfdOLhb.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:51:58.050718"
+    },
+    {
+      "file": "roadmaps/aspnet-core/content/hotchocolate@XMrQx9JH0eSQJpMzhvy0F.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:52:47.986783"
+    },
+    {
+      "file": "roadmaps/aspnet-core/content/http--https-protocol@YI3cAezupWNntFw4B6elY.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:52:55.401330"
+    },
+    {
+      "file": "roadmaps/aspnet-core/content/kafka@L8RkeMYm0WGNeLLcHKF1R.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:53:00.297189"
+    },
+    {
+      "file": "roadmaps/aspnet-core/content/mariadb@Gs8XcsTo11MeCsiSGpjkU.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:54:17.619631"
+    },
+    {
+      "file": "roadmaps/aspnet-core/content/marten@ipb6proIZKG-_vCOMAiBu.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:54:19.302508"
+    },
+    {
+      "file": "roadmaps/aspnet-core/content/mass-transit@SQKIUa_UsJ4cls-Vs9yHU.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:54:24.141621"
+    },
+    {
+      "file": "roadmaps/aspnet-core/content/net-aspire@HqhqqiA5X00Xl1RnZgrNJ.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:55:56.836244"
+    },
+    {
+      "file": "roadmaps/aspnet-core/content/net-aspire@Ohc0xzI6qX4hOFVNfRj1F.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:55:58.703138"
+    },
+    {
+      "file": "roadmaps/aspnet-core/content/netmq@8d4f7_3VO03vy7YDWwPI9.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:56:33.351481"
+    },
+    {
+      "file": "roadmaps/aspnet-core/content/nhibernate@z24IJndpQYTl1PhiUI2mx.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:56:39.780101"
+    },
+    {
+      "file": "roadmaps/aspnet-core/content/nlog@ykF2bB_68AhCOzeQ_QSW1.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:56:44.972547"
+    },
+    {
+      "file": "roadmaps/aspnet-core/content/nservicebus@vf8W1FLhcb3awx4JBaY5r.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:57:13.607005"
+    },
+    {
+      "file": "roadmaps/aspnet-core/content/nsubstitute@iZCxinqlVefBk5-ICqt4v.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:57:18.610241"
+    },
+    {
+      "file": "roadmaps/aspnet-core/content/signalr-core@8dvd4M0TKNyQR8dEolGNT.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:00:25.406161"
+    },
+    {
+      "file": "roadmaps/aspnet-core/content/singleton@y9bDrCjkDbxSIrEEtu_Mi.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:00:30.124524"
+    },
+    {
+      "file": "roadmaps/aspnet-core/content/solr@2sY_p_8cOOBmZtDHO2Cmy.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:00:36.425965"
+    },
+    {
+      "file": "roadmaps/aspnet-core/content/xunit@R8C6s53RYjkRVma0nCJpy.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:02:18.041684"
+    },
+    {
+      "file": "roadmaps/aspnet-core/content/yarp@2axfolu26P8XwxMxgMaS3.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:02:22.537262"
     }
   ],
-  "last_updated": "2026-08-15T01:46:25.280221",
+  "last_updated": "2026-08-15T02:02:22.539485",
   "total_translated_count": 54
 }

@@ -1,12 +1,12 @@
-# Sql basics
+# Básicos do SQL
 
-SQL stands for Structured Query Language. SQL lets you access and manipulate databases SQL became a standard of the American National Standards Institute (ANSI) in 1986, and of the International Organization for Standardization (ISO) in 1987.
+SQL significa Linguagem de Consulta Estruturada. O SQL permite acessar e manipular bancos de dados. O SQL se tornou um padrão da American National Standards Institute (ANSI) em 1986, e da International Organization for Standardization (ISO) em 1987.
 
-Although SQL is an ANSI/ISO standard, there are different versions of the SQL language.
+Apesar do SQL ser um padrão ANSI/ISO, existem diferentes versões do idioma SQL.
 
-However, to be compliant with the ANSI standard, they all support at least the major commands (such as SELECT, UPDATE, DELETE, INSERT, WHERE) in a similar manner.
+No entanto, para se conformar com o padrão ANSI, todos eles suportam pelo menos os principais comandos (como SELECT, UPDATE, DELETE, INSERT, WHERE) de maneira semelhante.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@SQL Tutorial - Full Database Course for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY)
-- [@feed@Explore top posts about SQL](https://app.daily.dev/tags/sql?ref=roadmapsh)
+- [@video@Tutorial SQL - Curso completo de banco de dados para iniciantes](https://www.youtube.com/watch?v=HXV3zeQKqGY)
+- [@feed]Explore as principais postagens sobre SQL[/feed]

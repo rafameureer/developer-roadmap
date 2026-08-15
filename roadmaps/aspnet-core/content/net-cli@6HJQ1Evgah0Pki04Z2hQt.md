@@ -1,9 +1,9 @@
-# .NET CLI
+# CLI do .NET
 
-.NET CLI is the command-line interface (CLI) for the .NET platform. It is a tool that provides a common interface for running .NET Core command-line tools and utilities. .NET Core is a cross-platform, open-source, and modular version of the .NET framework, and the .NET CLI provides a way to interact with it from the command line.
+A CLI (Interface de Linha de Comando) do .NET é a interface de linha de comando para o ecossistema .NET. É uma ferramenta que fornece uma interface comum para executar ferramentas e utilitários da linha de comando do .NET Core. O .NET Core é uma versão cruz-plataforma, open-source e modular do framework .NET, e a CLI do .NET oferece uma maneira de interagir com ele pela linha de comando.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Microsoft - .NET CLI overview](https://learn.microsoft.com/en-us/dotnet/core/tools/)
-- [@video@Intro To The .NET CLI](https://youtu.be/RQLzp2Z8-BE)
-- [@feed@Explore top posts about CLI](https://app.daily.dev/tags/cli?ref=roadmapsh)
+- [@artigo@Microsoft - Visão geral da CLI do .NET](https://learn.microsoft.com/en-us/dotnet/core/tools/)
+- [@vídeo@Introdução à CLI do .NET](https://youtu.be/RQLzp2Z8-BE)
+- [@feed@Explore os principais posts sobre a CLI](https://app.daily.dev/tags/cli?ref=roadmapsh)

@@ -1,9 +1,9 @@
 # Serilog
 
-Serilog is a third-party logging library for [ASP.NET](http://ASP.NET) Core that allows developers to easily create structured and searchable log data. It is built on top of the `Microsoft.Extensions.Logging` framework, which is included in [ASP.NET](http://ASP.NET) Core. Serilog provides features such as automatic logging of request and response data, and the ability to write logs to a variety of destinations, including the console, files, and various logging services. It also supports for filtering and formatting log messages.
+Serilog é uma biblioteca de registro de terceiros para [ASP.NET](http://ASP.NET) Core que permite aos desenvolvedores criar facilmente dados de log estruturados e pesquisáveis. Ele é construído sobre o `Microsoft.Extensions.Logging` framework, que está incluído em [ASP.NET](http://ASP.NET) Core. Serilog fornece recursos como registro automático de dados de solicitação e resposta, e a capacidade de escrever logs em várias destinações, incluindo a console, arquivos e vários serviços de log. Ele também suporta filtragem e formatação de mensagens de log.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@opensource@Complete guide to Serilog in ASP.NET](https://github.com/serilog/serilog-aspnetcore)
-- [@article@How to Work with Serilog in ASP.NET?](https://www.codeguru.com/dotnet/serilog-c-sharp/)
-- [@article@Advanced Serilog features in ASP.NET](https://www.infoworld.com/article/3624022/how-to-use-advanced-serilog-features-in-aspnet-core-mvc.html)
+- [@opensource@Guia completo sobre Serilog em ASP.NET](https://github.com/serilog/serilog-aspnetcore)
+- [@artigo@Como trabalhar com Serilog em ASP.NET?](https://www.codeguru.com/dotnet/serilog-c-sharp/)
+- [@artigo@Recursos avançados do Serilog em ASP.NET](https://www.infoworld.com/article/3624022/how-to-use-advanced-serilog-features-in-aspnet-core-mvc.html)

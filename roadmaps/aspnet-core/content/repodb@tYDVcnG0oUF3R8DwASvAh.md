@@ -1,11 +1,11 @@
 # RepoDB
 
-RepoDB is an open-source ORM (Object-Relational Mapping) library for .NET that simplifies the process of working with databases. It is a lightweight, fast, and easy-to-use library that provides a simple and consistent API for performing common database operations such as querying, inserting, updating, and deleting data.
+RepoDB é uma biblioteca de ORM (Object-Relational Mapping) open-source para .NET que simplifica o processo de trabalhar com bancos de dados. É uma biblioteca leve, rápida e fácil de usar que fornece uma API simples e consistente para realizar operações comuns no banco de dados, como consulta, inserção, atualização e exclusão de dados.
 
-RepoDb is built on top of [ADO.NET](http://ADO.NET), which is the native data access technology in .NET, and provides a higher-level abstraction on top of it. This allows RepoDb to take advantage of the performance and scalability of [ADO.NET](http://ADO.NET) while providing a simpler and more convenient API for developers.
+RepoDB é construído sobre [ADO.NET](http://ADO.NET), que é a tecnologia de acesso a dados nativa em .NET, e fornece uma abstração de nível superior sobre ela. Isso permite que RepoDB aproveite o desempenho e escalabilidade do [ADO.NET](http://ADO.NET) enquanto oferece uma API mais simples e conveniente para os desenvolvedores.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Get Started with RepoDB](https://repodb.net/)
-- [@article@Complete Guide to RepoDB](https://medium.com/nerd-for-tech/everything-you-need-to-know-about-repodb-23cd4b9939c1)
-- [@article@Why Choose RepoDB?](https://blog.devgenius.io/why-choose-repodb-orm-over-dapper-da87432c7830)
+- [@oficial@Começando com RepoDB](https://repodb.net/)
+- [@artigo@Guia Completo sobre RepoDB](https://medium.com/nerd-for-tech/everything-you-need-to-know-about-repodb-23cd4b9939c1)
+- [@artigo@Por que Escolher o RepoDB?](https://blog.devgenius.io/why-choose-repodb-orm-over-dapper-da87432c7830)

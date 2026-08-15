@@ -1,10 +1,10 @@
-# Relational
+# Relacional
 
-A relational database is a type of database that stores data in a structured format, using tables and relationships between them. It is based on the relational model, which organizes data into one or more tables, with each table consisting of a set of rows and columns.
+Um banco de dados relacional é um tipo de banco de dados que armazena dados em um formato estruturado, usando tabelas e relacionamentos entre elas. Ele se baseia no modelo relacional, que organiza os dados em uma ou mais tabelas, com cada tabela composta por um conjunto de linhas e colunas.
 
-The main feature of a relational database is the ability to establish relationships between tables, using a feature called a foreign key. A foreign key is a column or set of columns in one table that is used to link to the primary key of another table. This allows data to be spread across multiple tables, but still be connected and easily accessed through these relationships.
+A principal característica de um banco de dados relacional é a capacidade de estabelecer relacionamentos entre as tabelas, usando uma funcionalidade chamada chave estrangeira. Uma chave estrangeira é uma coluna ou conjunto de colunas em uma tabela que é usada para vincular à chave primária de outra tabela. Isso permite que os dados sejam distribuídos em várias tabelas, mas ainda estejam conectados e facilmente acessíveis através desses relacionamentos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Introduction to Working with Database in ASP.NET](https://learn.microsoft.com/en-us/aspnet/web-pages/overview/data/5-working-with-data)
-- [@article@Implement a Relational Database with ASP.NET](https://openclassrooms.com/en/courses/5671811-implement-a-relational-database-with-asp-net-core)
+- [@artigo@Introdução ao Trabalho com Banco de Dados no ASP.NET](https://learn.microsoft.com/pt-br/aspnet/web-pages/overview/data/5-working-with-data)
+- [@artigo@Implementar um Banco de Dados Relacional com o ASP.NET](https://openclassrooms.com/en/courses/5671811-implement-a-relational-database-with-asp-net-core)

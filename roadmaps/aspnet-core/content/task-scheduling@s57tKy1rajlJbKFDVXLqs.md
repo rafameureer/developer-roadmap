@@ -1,10 +1,10 @@
-# Task Scheduling
+# Agendamento de Tarefas
 
-Task scheduling in [ASP.NET](http://ASP.NET) refers to the process of scheduling and executing background tasks in an application. This can include tasks such as sending emails, processing data, generating reports, or performing maintenance tasks.
+O agendamento de tarefas no [ASP.NET](http://ASP.NET) refere-se ao processo de agendar e executar tarefas em segundo plano em uma aplicação. Isso pode incluir tarefas como enviar e-mails, processar dados, gerar relatórios ou realizar tarefas de manutenção.
 
-In [ASP.NET](http://ASP.NET), task scheduling can be implemented using a variety of libraries and frameworks such as [Quartz.NET](http://Quartz.NET), Hangfire, Coravel and Microsoft's built-in IHostedService interface. These libraries and frameworks provide a way to schedule tasks to run at specific times or intervals, and also provide APIs for managing and monitoring the progress of scheduled tasks.
+No [ASP.NET](http://ASP.NET), o agendamento de tarefas pode ser implementado usando uma variedade de bibliotecas e frameworks como [Quartz.NET](http://Quartz.NET), Hangfire, Coravel e a interface `IHostedService` incorporada do Microsoft. Essas bibliotecas e frameworks fornecem um modo de agendar tarefas para executar em momentos específicos ou intervalos regulares, e também oferecem APIs para gerenciar e monitorar o progresso das tarefas agendadas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@How schedule Tasks in ASP.NET?](https://beansoftware.com/ASP.NET-Tutorials/Scheduled-Tasks.aspx)
-- [@video@Task Scheduling in ASP.NET](https://www.youtube.com/watch?v=Vg4AOpb7OqA)
+- [@article@Como agendar tarefas no ASP.NET?](https://beansoftware.com/ASP.NET-Tutorials/Scheduled-Tasks.aspx)
+- [@video@Agendamento de tarefas no ASP.NET](https://www.youtube.com/watch?v=Vg4AOpb7OqA)

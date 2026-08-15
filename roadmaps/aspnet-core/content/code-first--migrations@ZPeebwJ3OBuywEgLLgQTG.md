@@ -1,11 +1,11 @@
-# Code First Migrations
+# Migrações Code First
 
-Code First Migrations is a feature of Entity Framework that enables you to change the model classes in your application and then propagate those changes to the database. When you use Code First Migrations, Entity Framework generates the necessary SQL commands to update the database schema to match the model classes.
+Migrações Code First é uma funcionalidade do Entity Framework que permite alterar as classes de modelo em sua aplicação e, em seguida, propagar essas alterações para o banco de dados. Quando você usa Migrações Code First, o Entity Framework gera os comandos SQL necessários para atualizar o esquema do banco de dados para corresponder às classes de modelo.
 
-To use Code First Migrations, you need to enable it in your Entity Framework application. This can be done by adding a reference to the Entity Framework Migrations NuGet package, and then enabling Migrations in your application.
+Para usar Migrações Code First, você precisa habilitá-las em sua aplicação do Entity Framework. Isso pode ser feito adicionando uma referência ao pacote NuGet Entity Framework Migrations e, em seguida, habilitando Migrações em sua aplicação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is a Code First Migration?](https://www.entityframeworktutorial.net/code-first/what-is-code-first.aspx)
-- [@article@Example for Code First Migrations](https://learn.microsoft.com/en-us/ef/ef6/modeling/code-first/migrations/)
-- [@article@Code First Migrations in Entity Framework](https://www.c-sharpcorner.com/UploadFile/26b237/code-first-migrations-in-entity-framework/)
+- [@artigo@O que é uma Migração Code First?](https://www.entityframeworktutorial.net/code-first/what-is-code-first.aspx)
+- [@artigo@Exemplo de Migrações Code First](https://learn.microsoft.com/en-us/ef/ef6/modeling/code-first/migrations/)
+- [@artigo@Migrações Code First no Entity Framework](https://www.c-sharpcorner.com/UploadFile/26b237/code-first-migrations-in-entity-framework/)

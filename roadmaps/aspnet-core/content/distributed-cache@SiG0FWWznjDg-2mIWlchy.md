@@ -1,9 +1,9 @@
-# Distributed Cache
+# Cache Distribuído
 
-A distributed cache is a cache shared by multiple app servers, typically maintained as an external service to the app servers that access it. A distributed cache can improve the performance and scalability of an [ASP.NET](http://ASP.NET) Core app, especially when the app is hosted by a cloud service or a server farm.
+Um cache distribuído é um cache compartilhado por vários servidores de aplicativos, geralmente mantido como um serviço externo aos servidores de aplicativos que o acessam. Um cache distribuído pode melhorar a performance e escalabilidade de uma [ASP.NET](http://ASP.NET) Core app, especialmente quando a app é hospedada em um serviço de nuvem ou uma farma de servidores.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Distributed caching in ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/performance/caching/distributed?view=aspnetcore-7.0)
-- [@article@What is a Distributed Cached?](https://hazelcast.com/glossary/distributed-cache/)
-- [@video@Distributed Caching In ASP.NET Core With Redis](https://www.youtube.com/watch?v=Tt5zIKVMMbs)
+- [@artigo@Cache distribuído no ASP.NET Core](https://learn.microsoft.com/pt-br/aspnet/core/performance/caching/distributed?view=aspnetcore-7.0)
+- [@artigo@O que é um Cache Distribuído?](https://hazelcast.com/glossary/cache-distribuido/)
+- [@vídeo@Cache distribuído no ASP.NET Core com Redis](https://www.youtube.com/watch?v=Tt5zIKVMMbs)

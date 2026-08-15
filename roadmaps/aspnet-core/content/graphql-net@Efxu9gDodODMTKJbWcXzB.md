@@ -1,10 +1,10 @@
 # GraphQL .NET
 
-GraphQL is a query language for your API, it allows clients to define the structure of the data they need, and the server will return only the requested data. It is an alternative to RESTful web services, and it is gaining popularity because of its flexibility and efficiency.
+O GraphQL é um idioma de consulta para sua API, permitindo que os clientes definam a estrutura dos dados que precisam e o servidor retornará apenas os dados solicitados. É uma alternativa aos serviços web RESTful e está ganhando popularidade devido à sua flexibilidade e eficiência.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Introduction to GraphQL .NET in ASP.NET](https://graphql-dotnet.github.io/docs/getting-started/introduction/)
-- [@article@How to use GraphQL in .NET?](https://softchris.github.io/pages/dotnet-graphql.html)
-- [@article@Building and consuming GraphQL API in ASP.NET](https://www.red-gate.com/simple-talk/development/dotnet-development/building-and-consuming-graphql-api-in-asp-net-core-5/)
-- [@feed@Explore top posts about GraphQL](https://app.daily.dev/tags/graphql?ref=roadmapsh)
+- [@artigo@Introdução ao GraphQL .NET em ASP.NET](https://graphql-dotnet.github.io/docs/getting-started/introduction/)
+- [@artigo@Como usar o GraphQL no .NET?](https://softchris.github.io/pages/dotnet-graphql.html)
+- [@artigo@Criando e consumindo API GraphQL em ASP.NET](https://www.red-gate.com/simple-talk/development/dotnet-development/building-and-consuming-graphql-api-in-asp-net-core-5/)
+- [@feed@Explore os principais posts sobre GraphQL](https://app.daily.dev/tags/graphql?ref=roadmapsh)

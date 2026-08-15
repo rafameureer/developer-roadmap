@@ -1,11 +1,11 @@
 # DynamoDB
 
-Amazon DynamoDB is a fully-managed, NoSQL database service provided by Amazon Web Services (AWS) that can be used to store and retrieve large amounts of data. It is a highly-scalable, fast, and flexible NoSQL database service that supports both document and key-value data models.
+O Amazon DynamoDB é um serviço de banco de dados NoSQL gerenciado por completo fornecido pela Amazon Web Services (AWS) que pode ser usado para armazenar e recuperar grandes quantidades de dados. É um serviço de banco de dados NoSQL altamente escalável, rápido e flexível que suporta tanto modelos de dados de documento quanto modelos de dados chave-valor.
 
-DynamoDB is designed to handle extremely high levels of read and write throughput, and it automatically scales to accommodate the traffic of an application. It also provides built-in support for data replication, allowing data to be automatically spread across multiple availability zones for increased durability and availability.
+O DynamoDB foi projetado para lidar com níveis extremamente altos de吞吐量 de leitura e escrita, e ele escala automaticamente para se adequar ao tráfego de uma aplicação. Ele também fornece suporte integrado à replicação de dados, permitindo que os dados sejam distribuídos automaticamente em várias zonas de disponibilidade para maior durabilidade e disponibilidade.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Getting started with DynamoDB](https://aws.amazon.com/dynamodb/)
-- [@article@Introduction to DynamoDB](https://cloudacademy.com/lab/introduction-dynamodb/)
+- [@artigo@Introdução ao DynamoDB](https://aws.amazon.com/dynamodb/)
+- [@artigo@Visão geral do DynamoDB](https://cloudacademy.com/lab/introduction-dynamodb/)
 - [@feed@Explore top posts about AWS DynamoDB](https://app.daily.dev/tags/aws-dynamodb?ref=roadmapsh)

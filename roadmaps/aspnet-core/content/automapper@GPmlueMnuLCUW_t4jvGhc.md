@@ -1,11 +1,11 @@
 # AutoMapper
 
-AutoMapper is a library for .NET that allows you to easily map between objects of different types. It is particularly useful when working with domain models and data transfer objects (DTOs) in a layered architecture. It can also be used to map between different versions of an object, or to map between objects in different formats, such as JSON and XML.
+AutoMapper é uma biblioteca para .NET que permite mapear facilmente objetos de diferentes tipos. É particularmente útil quando trabalhando com modelos de domínio e objetos de transferência de dados (DTOs) em uma arquitetura em camadas. Também pode ser usado para mapear entre diferentes versões de um objeto ou para mapear entre objetos em diferentes formatos, como JSON e XML.
 
-AutoMapper uses a convention-based approach to mapping, which means that it automatically maps properties with the same name and type from one object to another. It also provides a fluent API for configuring more complex mappings, such as ignoring certain properties, using custom logic to map properties, or mapping properties based on a value in another property.
+AutoMapper usa uma abordagem baseada em convenções para o mapeamento, o que significa que ele automaticamente mapeia propriedades com o mesmo nome e tipo de um objeto para outro. Ele também fornece uma API fluente para configurar mapeamentos mais complexos, como ignorar certas propriedades, usar lógica personalizada para mapear propriedades ou mapear propriedades com base em um valor em outra propriedade.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Automapper in ASP.NET?](https://www.simplilearn.com/tutorials/asp-dot-net-tutorial/automapper-in-c-sharp)
-- [@article@Getting Started with AutoMapper in ASP.NET](https://code-maze.com/automapper-net-core/)
-- [@article@Examples of AutoMapper in ASP.NET](https://dotnettutorials.net/lesson/automapper-in-c-sharp/)
+- [@article@O que é o AutoMapper no ASP.NET?](https://www.simplilearn.com/tutorials/asp-dot-net-tutorial/automapper-in-c-sharp)
+- [@article@Começando com o AutoMapper no ASP.NET](https://code-maze.com/automapper-net-core/)
+- [@article@Exemplos de uso do AutoMapper no ASP.NET](https://dotnettutorials.net/lesson/automapper-in-c-sharp/)

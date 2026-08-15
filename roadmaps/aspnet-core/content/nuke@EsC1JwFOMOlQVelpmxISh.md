@@ -1,10 +1,10 @@
 # NUKE
 
-NUKE (Build Automation for .NET) is an open-source build automation tool for .NET projects. It is designed to be simple, flexible, and extensible, making it easy to automate the build, test, and deployment process of your .NET projects.
+O NUKE (Build Automation for .NET) é uma ferramenta de automação de build aberta para projetos .NET. Ele foi projetado para ser simples, flexível e extensível, tornando-o fácil automatizar o processo de build, teste e implantação dos seus projetos .NET.
 
-NUKE allows you to define your build process using a simple, declarative syntax, making it easy to understand and maintain. It provides a set of built-in tasks for common build actions, such as compiling, testing, and publishing, as well as a powerful extensibility model that allows you to add custom tasks and scripts.
+O NUKE permite definir seu processo de build usando uma sintaxe declarativa simples, tornando-o fácil de entender e manter. Ele fornece um conjunto de tarefas internas para ações de build comuns, como compilação, teste e publicação, bem como um modelo de extensibilidade poderoso que permite adicionar tarefas e scripts personalizados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@How to Build Automation with NUKE](https://learn.microsoft.com/en-us/shows/on-net/build-automation-with-nuke)
-- [@article@Automate your .NET project builds with NUKE](https://laurentkempe.com/2022/02/02/automate-your-dotnet-project-builds-with-nuke-a-cross-platform-build-automation-solution/)
+- [@article@Como realizar automação de build com o NUKE](https://learn.microsoft.com/en-us/shows/on-net/build-automation-with-nuke)
+- [@article@Automatize as builds dos seus projetos .NET com o NUKE](https://laurentkempe.com/2022/02/02/automate-your-dotnet-project-builds-with-nuke-a-cross-platform-build-automation-solution/)

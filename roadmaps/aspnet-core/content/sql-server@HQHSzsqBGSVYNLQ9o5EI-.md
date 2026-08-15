@@ -1,10 +1,10 @@
 # SQL Server
 
-MS SQL (or Microsoft SQL Server) is the Microsoft developed relational database management system (RDBMS). MS SQL uses the T-SQL (Transact-SQL) query language to interact with the relational databases. There are many different versions and editions available of MS SQL
+MS SQL (ou Microsoft SQL Server) é o sistema de gerenciamento de banco de dados relacional desenvolvido pela Microsoft. MS SQL usa o T-SQL (Transact-SQL) como linguagem de consulta para interagir com os bancos de dados relacionais. Existem várias versões e edições diferentes disponíveis do MS SQL.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para saber mais:
 
-- [@article@MS SQL website](https://www.microsoft.com/en-ca/sql-server/)
-- [@article@Tutorials for SQL Server](https://docs.microsoft.com/en-us/sql/sql-server/tutorials-for-sql-server-2016?view=sql-server-ver15)
-- [@video@SQL Server tutorial for beginners](https://www.youtube.com/watch?v=-EPMOaV7h_Q)
-- [@feed@Explore top posts about SQL](https://app.daily.dev/tags/sql?ref=roadmapsh)
+- [@article@Site oficial do MS SQL](https://www.microsoft.com/pt-br/sql-server/)
+- [@article@Aulas práticas do MS SQL](https://docs.microsoft.com/pt-br/sql/sql-server/tutorials-for-sql-server-2016?view=sql-server-ver15)
+- [@video@Tutorial básico do MS SQL](https://www.youtube.com/watch?v=-EPMOaV7h_Q)
+- [@feed@Explore os principais posts sobre SQL](https://app.daily.dev/tags/sql?ref=roadmapsh)

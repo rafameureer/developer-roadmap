@@ -1,8 +1,8 @@
 # Polly
 
-Polly is an open-source library for .NET that provides a simple and flexible API for handling transient faults and other types of errors that occur during the execution of a service. It allows developers to define a set of policies, such as retry, circuit breaker, and timeout, that can be used to handle specific types of errors and improve the resiliency of the service. It provides a fluent API that makes it easy to define and configure policies, supports advanced features such as async and sync execution, fallback policies, and policy wrapping. Additionally, it allows to specify the exception type that is thrown and it would trigger the policy.
+Polly é uma biblioteca de código aberto para .NET que fornece uma API simples e flexível para lidar com falhas transitórias e outros tipos de erros que ocorrem durante a execução de um serviço. Ele permite aos desenvolvedores definir um conjunto de políticas, como repetição, circuit breaker e tempo limite, que podem ser usados para lidar com tipos específicos de erros e melhorar a resiliência do serviço. Ele fornece uma API fluente que facilita a definição e configuração de políticas, suporta recursos avançados como execução assíncrona e síncrona, políticas de fallback e envolvimento de políticas. Além disso, permite especificar o tipo de exceção que será lançada e que acionará a política.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Using Polly for .NET Resilience](https://www.telerik.com/blogs/using-polly-for-net-resilience-and-transient-fault-handling-with-net-core)
-- [@article@Build Resilient Microservices Using Polly In ASP.NET](https://procodeguide.com/programming/polly-in-aspnet-core/)
+- [@article@Usando Polly para resiliência em .NET](https://www.telerik.com/blogs/using-polly-for-net-resilience-and-transient-fault-handling-with-net-core)
+- [@article@Construindo microserviços resilientes com o Polly no ASP.NET](https://procodeguide.com/programming/polly-in-aspnet-core/)

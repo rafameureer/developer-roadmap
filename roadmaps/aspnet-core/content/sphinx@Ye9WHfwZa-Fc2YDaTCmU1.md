@@ -1,11 +1,11 @@
 # Sphinx
 
-Sphinx is an open-source full-text search engine that can be used to index, search and analyze large volumes of data quickly and in near real-time. It is designed to handle high-traffic websites and large data sets and can be used for full-text search, faceted search, and geospatial search.
+Sphinx é um motor de busca em texto completo de código aberto que pode ser usado para indexar, pesquisar e analisar grandes volumes de dados rapidamente e quase em tempo real. Ele foi projetado para lidar com sites de alta taxa de tráfego e conjuntos de dados grandes e pode ser usado para pesquisa em texto completo, busca faceta e busca espacial.
 
-In an [ASP.NET](http://ASP.NET) application, Sphinx can be integrated as a search engine to provide advanced search functionality to the application. There are several libraries available for integrating Sphinx with an [ASP.NET](http://ASP.NET) application, such as [SphinxQL.NET](http://SphinxQL.NET) and SphinxClient. These libraries provide a .NET client for Sphinx, which can be used to interact with the Sphinx engine from within an [ASP.NET](http://ASP.NET) application.
+Em um aplicativo [ASP.NET](http://ASP.NET), o Sphinx pode ser integrado como um mecanismo de busca para fornecer funcionalidades de pesquisa avançadas ao aplicativo. Há várias bibliotecas disponíveis para integrar o Sphinx com um aplicativo [ASP.NET](http://ASP.NET), como [SphinxQL.NET](http://SphinxQL.NET) e SphinxClient. Essas bibliotecas fornecem um cliente .NET para o Sphinx, que pode ser usado para interagir com o mecanismo de busca do Sphinx dentro de um aplicativo [ASP.NET](http://ASP.NET).
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Overview of Sphinx in ASP.NET](https://www.sphinxconnector.net/)
-- [@article@Intro to Sphinx](http://sphinxsearch.com/forum/view.html?id=3609)
-- [@article@Documentation of Sphinx in ASP.NET](https://www.ericholscher.com/blog/2016/jul/1/sphinx-and-rtd-for-writers/)
+- [@article@Visão geral do Sphinx em ASP.NET](https://www.sphinxconnector.net/)
+- [@article@Introdução ao Sphinx](http://sphinxsearch.com/forum/view.html?id=3609)
+- [@article@Documentação do Sphinx em ASP.NET](https://www.ericholscher.com/blog/2016/jul/1/sphinx-and-rtd-for-writers/)

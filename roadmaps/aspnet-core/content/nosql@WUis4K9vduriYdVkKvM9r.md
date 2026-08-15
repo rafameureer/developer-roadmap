@@ -1,12 +1,12 @@
-# Nosql
+# NoSQL
 
-NoSQL (Not Only SQL) is a type of database that does not use the traditional table-based relational model. It is designed to handle large amounts of unstructured or semi-structured data, and it is often used in big data and real-time web applications. NoSQL databases are highly scalable and can handle high-performance needs and large data sets.
+NoSQL (Not Only SQL) é um tipo de banco de dados que não usa o modelo relacional tradicional baseado em tabelas. Ele está projetado para lidar com grandes quantidades de dados não estruturados ou semi-estruturados, e frequentemente é usado em aplicações de big data e web em tempo real. Bancos de dados NoSQL são altamente escaláveis e podem lidar com necessidades de desempenho alto e conjuntos de dados grandes.
 
-There are several types of NoSQL databases, such as document databases, key-value databases, graph databases, and column-family databases, each with their own unique features and use cases. Some examples of NoSQL databases include MongoDB, Cassandra, RavenDB, CouchDB, and Redis.
+Existem vários tipos de bancos de dados NoSQL, como bancos de dados orientados a documentos, bancos de dados chave-valor, bancos de dados gráficos e bancos de dados de família de colunas, cada um com suas próprias características únicas e casos de uso. Alguns exemplos de bancos de dados NoSQL incluem MongoDB, Cassandra, RavenDB, CouchDB e Redis.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@NoSQL in .NET Applications](https://www.slideshare.net/shijucv/nosql-database-in-net-apps)
-- [@article@Open Source NoSQL Database for .NET](https://www.alachisoft.com/nosdb/)
-- [@article@Use NoSQL databases in ASP.NET](https://learn.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/nosql-database-persistence-infrastructure)
-- [@feed@Explore top posts about NoSQL](https://app.daily.dev/tags/nosql?ref=roadmapsh)
+- [@artigo@NoSQL em Aplicações .NET](https://www.slideshare.net/shijucv/nosql-database-in-net-apps)
+- [@artigo@Banco de Dados NoSQL Aberto Fonte para .NET](https://www.alachisoft.com/nosdb/)
+- [@artigo@Usar bancos de dados NoSQL em ASP.NET](https://learn.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/nosql-database-persistence-infrastructure)
+- [@feed@Explore os melhores posts sobre NoSQL](https://app.daily.dev/tags/nosql?ref=roadmapsh)

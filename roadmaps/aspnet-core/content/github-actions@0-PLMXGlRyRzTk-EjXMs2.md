@@ -1,12 +1,12 @@
 # GitHub Actions
 
-GitHub Actions is a powerful and flexible automation platform that enables developers to create custom workflows for their software development lifecycle (SDLC) directly in their GitHub repository. It allows developers to automate various tasks, such as building, testing, and deploying code, directly from their GitHub repository.
+GitHub Actions é uma plataforma de automação poderosa e flexível que permite aos desenvolvedores criar fluxos de trabalho personalizados para seu ciclo de vida de desenvolvimento de software (SDLC) diretamente em seu repositório do GitHub. Ele permite aos desenvolvedores automatizar várias tarefas, como compilação, teste e implantação de código, diretamente a partir do seu repositório do GitHub.
 
-In [ASP.NET](http://ASP.NET), GitHub Actions can be used to automate various tasks related to the development, testing, and deployment of [ASP.NET](http://ASP.NET) applications. For example, you can use GitHub Actions to automatically build, test, and deploy an [ASP.NET](http://ASP.NET) application to a hosting provider, such as Azure or AWS, every time you push code to your GitHub repository.
+No [ASP.NET](http://ASP.NET), GitHub Actions pode ser usado para automatizar várias tarefas relacionadas ao desenvolvimento, teste e implantação de aplicativos [ASP.NET](http://ASP.NET). Por exemplo, você pode usar GitHub Actions para automatizar a compilação, teste e implantação de um aplicativo [ASP.NET](http://ASP.NET) em um provedor de hospedagem, como Azure ou AWS, toda vez que você empurrar código para seu repositório do GitHub.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Intro to GitHub Actions for .NET](https://devblogs.microsoft.com/dotnet/dotnet-loves-github-actions/)
-- [@article@Tutorial: Create a GitHub Action with .NET](https://learn.microsoft.com/en-us/dotnet/devops/create-dotnet-github-action)
-- [@article@Building and testing .NET](https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-net)
+- [@artigo@Introdução ao GitHub Actions para .NET](https://devblogs.microsoft.com/dotnet/dotnet-loves-github-actions/)
+- [@tutorial@Tutorial: Criar um GitHub Action com .NET](https://learn.microsoft.com/en-us/dotnet/devops/create-dotnet-github-action)
+- [@artigo@Compilando e testando .NET](https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-net)
 - [@feed@Explore top posts about GitHub](https://app.daily.dev/tags/github?ref=roadmapsh)

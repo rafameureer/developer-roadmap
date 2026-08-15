@@ -1,14 +1,14 @@
 # C#
 
-C# (pronounced "C-sharp") is a general-purpose, object-oriented programming language developed by Microsoft. It is part of the .NET family of languages and is used to build a wide range of applications, from web and mobile applications to games and cloud services.
+C# (pronunciado "C-sharp") é um idioma de programação orientado a objetos de propósito geral desenvolvido pela Microsoft. É parte da família de linguagens .NET e é usado para construir uma ampla gama de aplicativos, desde aplicativos web e móveis até jogos e serviços em nuvem.
 
-C# is a statically-typed language, which means that the type of a variable must be specified when it is declared, and that the type of a value cannot be changed after it has been assigned. C# also supports object-oriented programming, which means that it provides features such as encapsulation, inheritance, and polymorphism.
+C# é uma linguagem tipada estaticamente, o que significa que o tipo de uma variável deve ser especificado quando ela é declarada, e que o tipo de um valor não pode ser alterado após ele ter sido atribuído. C# também suporta programação orientada a objetos, o que significa que fornece recursos como encapsulamento, herança e polimorfismo.
 
-C# is a popular language for building .NET applications, and it is used by many large companies and organizations, including Microsoft, Dell, and IBM. It is a versatile language that can be used for a wide range of purposes, and it is well-suited for building scalable and maintainable software systems.
+C# é uma linguagem popular para construir aplicativos .NET, e é usada por muitas grandes empresas e organizações, incluindo Microsoft, Dell e IBM. É uma linguagem versátil que pode ser usada em uma ampla gama de propósitos, sendo bem sucedida na construção de sistemas de software escaláveis e manteráveis.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Introduction to C#](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/)
-- [@article@Basics Of C#](https://www.c-sharpcorner.com/UploadFile/e9fdcd/basics-of-C-Sharp/)
-- [@article@C# Tutorials](https://dotnettutorials.net/course/csharp-dot-net-tutorials/)
-- [@feed@Explore top posts about C#](https://app.daily.dev/tags/csharp?ref=roadmapsh)
+- [@article@Introdução ao C#](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/)
+- [@article@Básico do C#](https://www.c-sharpcorner.com/UploadFile/e9fdcd/basics-of-C-Sharp/)
+- [@article@Tutoriais em C#](https://dotnettutorials.net/course/csharp-dot-net-tutorials/)
+- [@feed@Explore as principais postagens sobre C#](https://app.daily.dev/tags/csharp?ref=roadmapsh)

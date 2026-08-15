@@ -1,12 +1,12 @@
 # MySQL
 
-MySQL is an open-source relational database management system (RDBMS) that is widely used in web and enterprise applications. It is developed, distributed, and supported by Oracle Corporation. MySQL provides a rich set of features to handle high-performance, high-availability, and high-scalability requirements of modern web applications.
+O MySQL é um sistema de gerenciamento de banco de dados relacional (RDBMS) de código aberto amplamente utilizado em aplicativos web e corporativos. Desenvolvido, distribuído e suportado pela Oracle Corporation, o MySQL oferece um conjunto rico de recursos para lidar com os requisitos de desempenho alto, alta disponibilidade e escalabilidade modernos dos aplicativos web.
 
-In an [ASP.NET](http://ASP.NET) application, MySQL can be used as the underlying database for storing and retrieving data. There are several libraries available for integrating MySQL with an [ASP.NET](http://ASP.NET) application, such as MySql.Data, Dapper and EF Core. These libraries provide a .NET client for MySQL, which can be used to interact with the MySQL database from within an [ASP.NET](http://ASP.NET) application.
+Em um aplicativo [ASP.NET](http://ASP.NET), o MySQL pode ser usado como o banco de dados subjacente para armazenamento e recuperação de dados. Há várias bibliotecas disponíveis para integrar o MySQL com um aplicativo [ASP.NET](http://ASP.NET), como MySql.Data, Dapper e EF Core. Essas bibliotecas fornecem um cliente .NET para o MySQL, que pode ser usado para interagir com o banco de dados MySQL dentro de um aplicativo [ASP.NET](http://ASP.NET).
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Getting started with ASP.NET Core and MySQL](https://dev.mysql.com/blog-archive/getting-started-with-asp-net-core-and-mysql-connectornet/)
-- [@article@MySql database connectivity with ASP.Net](https://www.c-sharpcorner.com/UploadFile/brij_mcn/mysql-database-connectivity-with-Asp-Net/)
-- [@video@How To Connect MySQL With ASP.NET](https://www.youtube.com/watch?v=g5rVd1JGbIg)
-- [@feed@Explore top posts about MySQL](https://app.daily.dev/tags/mysql?ref=roadmapsh)
+- [@article@Introdução ao uso do ASP.NET Core e MySQL](https://dev.mysql.com/blog-archive/getting-started-with-asp-net-core-and-mysql-connectornet/)
+- [@article@Conexão com o banco de dados MySQL no ASP.Net](https://www.c-sharpcorner.com/UploadFile/brij_mcn/mysql-database-connectivity-with-Asp-Net/)
+- [@video@Como conectar MySQL ao ASP.NET](https://www.youtube.com/watch?v=g5rVd1JGbIg)
+- [@feed@Explore os melhores posts sobre MySQL](https://app.daily.dev/tags/mysql?ref=roadmapsh)

@@ -1,15 +1,15 @@
-# Life Cycles
+# Ciclos de Vida
 
-In [ASP.NET](http://ASP.NET), dependency injection (DI) lifecycles determine the lifetime of objects that are resolved through the DI container. There are several predefined lifecycle options in the `Microsoft.Extensions.DependencyInjection` library, including:
+No [ASP.NET](http://ASP.NET), os ciclos de vida da injeção de dependência (DI) determinam a duração dos objetos que são resolvidos através do contêiner DI. Existem várias opções de ciclo de vida pré-definidas na biblioteca `Microsoft.Extensions.DependencyInjection`, incluindo:
 
-*   **Transient:** A new instance of the object is created every time it is requested.
-*   **Scoped:** A new instance of the object is created for each request within the same scope.
-*   **Singleton:** A single instance of the object is created and shared across the entire application.
+*   **Transient:** Um novo objeto é criado toda vez que ele é solicitado.
+*   **Scoped:** Um novo objeto é criado para cada solicitação dentro do mesmo escopo.
+*   **Singleton:** Um único objeto é criado e compartilhado em todo o aplicativo.
 
-Additionally, you can also create a custom lifecycle by implementing the `Microsoft.Extensions.DependencyInjection.IServiceScopeFactory` interface
+Além disso, você também pode criar um ciclo de vida personalizado implementando a interface `Microsoft.Extensions.DependencyInjection.IServiceScopeFactory`.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What are Service Life Cycles in ASP.NET Core?](https://endjin.com/blog/2022/09/service-lifetimes-in-aspnet-core)
-- [@article@Learn Service Lifetimes in .NET Core](https://henriquesd.medium.com/dependency-injection-and-service-lifetimes-in-net-core-ab9189349420)
-- [@video@Complete Guide to Dependency Injection Lifecycles](https://www.youtube.com/watch?v=wA5bPsv2CLA)
+- [@artigo@O que são Ciclos de Vida dos Serviços no ASP.NET Core?](https://endjin.com/blog/2022/09/service-lifetimes-in-aspnet-core)
+- [@artigo@Aprenda sobre Ciclos de Vida dos Serviços no .NET Core](https://henriquesd.medium.com/dependency-injection-and-service-lifetimes-in-net-core-ab9189349420)
+- [@vídeo@Guia Completo sobre os Ciclos de Vida da Injeção de Dependência](https://www.youtube.com/watch?v=wA5bPsv2CLA)

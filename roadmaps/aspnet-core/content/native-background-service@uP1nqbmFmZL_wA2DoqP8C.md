@@ -1,11 +1,11 @@
-# Native Background Service
+# Serviço de Fundo Nativo
 
-A Native Background Service in [ASP.NET](http://ASP.NET) is a type of service that can run in the background on a device, without the need for an active user session. These services are typically used for tasks that need to run continuously, such as sending notifications, polling for updates, or processing data.
+Um Serviço de Fundo Nativo no [ASP.NET](http://ASP.NET) é um tipo de serviço que pode ser executado em segundo plano em um dispositivo, sem a necessidade de uma sessão de usuário ativa. Esses serviços são tipicamente usados para tarefas que precisam ser executadas continuamente, como enviar notificações, pesquisar por atualizações ou processar dados.
 
-In [ASP.NET](http://ASP.NET), a Native Background Service can be implemented using the IHostedService interface, which is part of the Microsoft.Extensions.Hosting namespace. This interface allows you to create a background service that can run continuously, even when the main application is not running.
+No [ASP.NET](http://ASP.NET), um Serviço de Fundo Nativo pode ser implementado usando a interface IHostedService, que faz parte do namespace Microsoft.Extensions.Hosting. Essa interface permite criar um serviço em segundo plano que pode ser executado continuamente, mesmo quando a aplicação principal não estiver em execução.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Background tasks with hosted services in ASP.NET](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/host/hosted-services?view=aspnetcore-7.0&tabs=visual-studio)
-- [@article@BackgroundService in ASP.NET Core](https://medium.com/@daniel.sagita/backgroundservice-for-a-long-running-work-3debe8f8d25b)
-- [@video@Tutorial on Background Tasks in ASP.NET](https://youtube.com/watch?v=rugxQIH_p3A)
+- [@artigo@Tarefas de fundo com serviços hospedados no ASP.NET](https://learn.microsoft.com/pt-br/aspnet/core/fundamentals/host/hosted-services?view=aspnetcore-7.0&tabs=visual-studio)
+- [@artigo@BackgroundService no ASP.NET Core](https://medium.com/@daniel.sagita/backgroundservice-para-trabalhos-de-longa-execução-3debe8f8d25b)
+- [@vídeo@Tutorial sobre Tarefas de Fundo no ASP.NET](https://youtube.com/watch?v=rugxQIH_p3A)

@@ -1,8 +1,8 @@
 # Gridify
 
-Gridify offers a powerful string-based dynamic LINQ query language that is both simple and easy to use. Gridify is a dynamic LINQ library that simplifies the process of converting strings to LINQ queries. Gridify makes it effortless to apply filtering, sorting, and pagination using text-based data. It also has a Javascript/Typescript client to integrate the Gridify with the frontend tables.
+Gridify oferece um poderoso idioma de consulta dinâmica baseado em strings que é simples e fácil de usar. Gridify é uma biblioteca de LINQ dinâmica que simplifica o processo de converter strings em consultas LINQ. Gridify torna fácil aplicar filtros, classificações e paginação usando dados baseados em texto. Ele também tem um cliente Javascript/Typescript para integrar o Gridify com as tabelas do frontend.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@opensource@Gridify Library](https://github.com/alirezanet/Gridify)
-- [@article@Working with Dynamic Filters Using Gridify in .NET](https://levelup.gitconnected.com/working-with-dynamic-filters-using-gridify-in-net-6bba618dd9f8)
+- [@opensource@Biblioteca Gridify](https://github.com/alirezanet/Gridify)
+- [@article@Trabalhando com Filtros Dinâmicos Usando Gridify no .NET](https://levelup.gitconnected.com/working-with-dynamic-filters-using-gridify-in-net-6bba618dd9f8)

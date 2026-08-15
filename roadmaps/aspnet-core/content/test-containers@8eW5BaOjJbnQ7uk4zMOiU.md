@@ -1,3 +1,3 @@
 # Test Containers
 
-Testcontainers is a library that runs throwaway Docker containers for your tests. The .NET version lets you spin up real instances of databases, message brokers, and other services inside integration tests, then disposes of them automatically when the tests finish.
+Testcontainers é uma biblioteca que executa contêineres Docker temporários para seus testes. A versão .NET permite que você inicie instâncias reais de bancos de dados, brokers de mensagens e outros serviços dentro de testes de integração, então descarta automaticamente quando os testes terminam.

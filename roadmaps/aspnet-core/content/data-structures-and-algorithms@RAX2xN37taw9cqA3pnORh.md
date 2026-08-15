@@ -1,10 +1,10 @@
-# Data Structures
+# Estruturas de Dados
 
-As the name indicates, a **Data Structure** is a way of organizing the data in the **memory** so it can be used efficiently. Some common data structures are array, linked list, stack, hashtable, queue, tree, heap, and graph.
+Como indica o nome, uma **Estrutura de Dados** é um método de organizar os dados na **memória** de forma que possam ser usados eficientemente. Alguns exemplos comuns de estruturas de dados incluem array, lista encadeada, pilha, tabela hash, fila, árvore, heap e grafo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@C# resources](https://dev.to/adavidoaiei/fundamental-data-structures-and-algorithms-in-c-4ocf)
-- [@article@Interview Questions about Data Structures](https://www.csharpstar.com/csharp-algorithms/)
-- [@video@Data Structures Illustrated](https://www.youtube.com/watch?v=9rhT3P1MDHk&list=PLkZYeFmDuaN2-KUIv-mvbjfKszIGJ4FaY)
+- [@artigo@Recursos em C#](https://dev.to/adavidoaiei/fundamental-data-structures-and-algorithms-in-c-4ocf)
+- [@artigo@Perguntas de Entrevista sobre Estruturas de Dados](https://www.csharpstar.com/csharp-algorithms/)
+- [@vídeo@Estruturas de Dados Ilustradas](https://www.youtube.com/watch?v=9rhT3P1MDHk&list=PLkZYeFmDuaN2-KUIv-mvbjfKszIGJ4FaY)
 - [@feed@Explore top posts about Algorithms](https://app.daily.dev/tags/algorithms?ref=roadmapsh)

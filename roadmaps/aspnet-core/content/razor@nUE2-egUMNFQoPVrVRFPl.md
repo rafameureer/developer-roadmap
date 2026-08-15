@@ -1,8 +1,8 @@
 # Razor
 
-Razor is a markup syntax for embedding server-side code in web pages. It was introduced with [ASP.NET](http://ASP.NET) MVC 3 and later became a part of [ASP.NET](http://ASP.NET) Web Pages. It allows developers to write server-side code using C# or Visual Basic and embed it in HTML markup. Its syntax is designed to be compact and easy to read. It provides a rich set of features for building web applications, such as a component model for building reusable UI, a routing system for navigation, and support for dependency injection, it also allows you to use the same libraries, frameworks, and tools that you're already familiar with from building traditional [ASP.NET](http://ASP.NET) web applications.
+Razor é uma sintaxe de marcação para incorporar código do lado do servidor em páginas web. Ele foi introduzido com [ASP.NET](http://ASP.NET) MVC 3 e mais tarde se tornou parte dos [ASP.NET](http://ASP.NET) Web Pages. Permite aos desenvolvedores escrever código do lado do servidor usando C# ou Visual Basic e incorporá-lo em marcação HTML. Sua sintaxe é projetada para ser compacta e fácil de ler. Ele oferece um conjunto rico de recursos para construir aplicativos web, como um modelo de componente para a criação de UI reutilizável, um sistema de roteamento para navegação e suporte à injeção de dependência; também permite o uso das mesmas bibliotecas, frameworks e ferramentas que você já está familiarizado ao construir aplicativos web tradicionais [ASP.NET](http://ASP.NET).
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Introduction to ASP.NET Web Programming Using Razor](https://learn.microsoft.com/en-us/aspnet/web-pages/overview/getting-started/introducing-razor-syntax-c)
-- [@article@An Introduction To Razor](https://khalidabuhakmeh.com/what-is-razor-aspnet)
+- [@article@Introdução à programação web com Razor usando ASP.NET](https://learn.microsoft.com/pt-br/aspnet/web-pages/overview/getting-started/introducing-razor-syntax-c)
+- [@article@Introdução ao Razor](https://khalidabuhakmeh.com/o-que-e-razor-aspnet)

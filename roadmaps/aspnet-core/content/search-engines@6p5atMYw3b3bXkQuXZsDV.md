@@ -1,11 +1,11 @@
-# Search Engines
+# Engenhos de Busca
 
-A search engine in an [ASP.NET](http://ASP.NET) application is a tool or module that allows users to search for and retrieve specific information from the application's database or other data sources. Search engines can be used to perform full-text search, faceted search, and geospatial search, among other things.
+Um engenho de busca em uma aplicação [ASP.NET](http://ASP.NET) é uma ferramenta ou módulo que permite aos usuários pesquisar e recuperar informações específicas do banco de dados da aplicação ou outras fontes de dados. Os engenhos de busca podem ser usados para realizar buscas de texto completo, busca facética e busca espacial, entre outros.
 
-Search engines can be integrated into an [ASP.NET](http://ASP.NET) application by using libraries or frameworks that provide a .NET client for interacting with the search engine. Some popular search engines that can be integrated with an [ASP.NET](http://ASP.NET) application include Elasticsearch, Apache Solr, Sphinx, and Microsoft Azure Search.
+Os engenhos de busca podem ser integrados em uma aplicação [ASP.NET](http://ASP.NET) usando bibliotecas ou estruturas que fornecem um cliente .NET para interagir com o engenho de busca. Alguns populares engenhos de busca que podem ser integrados a uma aplicação [ASP.NET](http://ASP.NET) incluem Elasticsearch, Apache Solr, Sphinx e Microsoft Azure Search.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Search Engine Optimization with ASP.NET](https://learn.microsoft.com/en-us/archive/msdn-magazine/2009/september/search-engine-optimization-with-asp-net-4-0-visual-studio-2010-and-iis7)
-- [@article@Creating an ASP.NET Search Engine](https://www.developerfusion.com/article/4389/create-a-site-search-engine-in-aspnet/)
-- [@video@Simple Search Engine in ASP.NET](https://www.youtube.com/watch?v=KTkubhS-u50)
+- [@artigo@Otimização de motores de busca com ASP.NET](https://learn.microsoft.com/en-us/archive/msdn-magazine/2009/september/search-engine-optimization-with-asp-net-4-0-visual-studio-2010-and-iis7)
+- [@artigo@Criando um engenho de busca em ASP.NET](https://www.developerfusion.com/article/4389/create-a-site-search-engine-in-aspnet/)
+- [@vídeo@Engenho de busca simples em ASP.NET](https://www.youtube.com/watch?v=KTkubhS-u50)

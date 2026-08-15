@@ -1,9 +1,9 @@
-# Manual Mapping
+# Mapeamento Manual
 
-Manual object mapping in [ASP.NET](http://ASP.NET) Core means explicitly assigning values from one object to another without using third-party libraries like AutoMapper. This approach gives you full control over how properties are mapped and allows for custom transformations if needed.
+O mapeamento de objetos manual no [ASP.NET](http://ASP.NET) Core significa atribuir explicitamente valores de um objeto para outro sem usar bibliotecas de terceiros como o AutoMapper. Esse abordagem dá a você o controle completo sobre como as propriedades são mapeadas e permite transformações personalizadas se necessário.
 
-For instance, if an **Employee** entity has properties such as Id, Name, Email, and Department, and we need to convert it into an **EmployeeDTO** without exposing sensitive data like Id, a manual mapping method can selectively map only the necessary fields. However, it comes with trade-offs, such as increased boilerplate code and the need for manual updates whenever the data model changes. In a real-world [ASP.NET](http://ASP.NET) Core application, manual mapping can be implemented using static helper methods or extension methods that take an entity as input and return a DTO, ensuring that the mapping logic remains centralized and reusable across different parts of the application.
+Por exemplo, se uma entidade **Employee** tiver propriedades como Id, Nome, Email e Departamento, e precisarmos convertê-la em um **EmployeeDTO** sem expor dados sensíveis como Id, um método de mapeamento manual pode selecionar apenas os campos necessários. No entanto, isso vem com desafios, como o aumento do código boilerplate e a necessidade de atualizações manuais sempre que o modelo de dados mudar. Em uma aplicação real do [ASP.NET](http://ASP.NET) Core, o mapeamento manual pode ser implementado usando métodos auxiliares estáticos ou métodos de extensão que recebem uma entidade como entrada e retornam um DTO, garantindo que a lógica de mapeamento permaneça centralizada e reutilizável em diferentes partes da aplicação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Manual vs Automapping in ASP.NET?](https://medium.com/@anderson.buenogod/manual-vs-automated-mapping-in-c-which-approach-is-best-for-your-project-50de1fd73bfa)
+- [@artigo@Mapeamento manual vs Automático no ASP.NET?](https://medium.com/@anderson.buenogod/manual-vs-automated-mapping-in-c-which-approach-is-best-for-your-project-50de1fd73bfa)

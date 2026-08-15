@@ -1,10 +1,10 @@
 # CouchDB
 
-CouchDB is an open-source, NoSQL document database designed for the web. It uses a document-oriented data model, which means that it stores data in semi-structured JSON format, and it is designed to be simple and easy to use. CouchDB provides a built-in web interface, called Futon, which can be used to interact with the database, and it also provides an HTTP API that can be used to interact with the database from an [ASP.NET](http://ASP.NET) application.
+CouchDB é um banco de dados de documentos NoSQL de código aberto, projetado para a web. Ele usa um modelo de dados orientado a documentos, o que significa que armazena dados em formato JSON semi-estruturado e está projetado para ser simples e fácil de usar. CouchDB fornece uma interface web integrada chamada Futon, que pode ser usada para interagir com o banco de dados, e também fornece uma API HTTP que pode ser usada para interagir com o banco de dados a partir de um aplicativo [ASP.NET](http://ASP.NET).
 
-In an [ASP.NET](http://ASP.NET) application, CouchDB can be used as a data store to persist and retrieve application data. There are several libraries available for integrating CouchDB with an [ASP.NET](http://ASP.NET) application, such as Couchbase, which provides a .NET client for CouchDB that can be used to interact with the CouchDB server from within an [ASP.NET](http://ASP.NET) application.
+Em um aplicativo [ASP.NET](http://ASP.NET), CouchDB pode ser usado como um armazenamento de dados para persistir e recuperar dados do aplicativo. Há várias bibliotecas disponíveis para integrar CouchDB com um aplicativo [ASP.NET](http://ASP.NET), como o Couchbase, que fornece um cliente .NET para CouchDB que pode ser usado para interagir com o servidor CouchDB dentro de um aplicativo [ASP.NET](http://ASP.NET).
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@CouchDB in ASP.NET Core Application](https://www.c-sharpcorner.com/article/crud-operation-to-couchdb-via-rest-api-in-asp-net-core-application/)
-- [@article@Use CouchDB with .NET](https://stackoverflow.com/questions/1050152/use-couchdb-with-net)
+- [@artigo@Operações CRUD em CouchDB via API REST no Aplicativo ASP.NET Core](https://www.c-sharpcorner.com/article/crud-operation-to-couchdb-via-rest-api-in-asp-net-core-application/)
+- [@artigo@Usando CouchDB com .NET](https://stackoverflow.com/questions/1050152/use-couchdb-with-net)

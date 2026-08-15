@@ -1,10 +1,10 @@
 # EasyNetQ
 
-EasyNetQ is a simple and easy-to-use .NET client for RabbitMQ, a popular open-source message broker. It provides a simple and fluent API for connecting to RabbitMQ, publishing and consuming messages, and managing message queues.
+O EasyNetQ é um cliente simples e fácil de usar do .NET para o RabbitMQ, um popular broker de mensagens de código aberto. Ele fornece uma API simples e fluente para se conectar ao RabbitMQ, publicar e consumir mensagens, e gerenciar filas de mensagens.
 
-EasyNetQ supports a wide range of messaging patterns, such as publish-subscribe, request-response, and message-based sagas, and makes it easy to work with RabbitMQ's advanced features, such as message routing, message persistence, and message acknowledgements.
+O EasyNetQ suporta uma ampla gama de padrões de mensagem, como publish-subscribe, request-response e sagas baseadas em mensagens, facilitando o trabalho com recursos avançados do RabbitMQ, como roteamento de mensagens, persistência de mensagens e confirmação de mensagens.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Overview of EasyNetQ](https://easynetq.com/)
-- [@video@RabbitMQ with EasyNetQ Tutorials](https://www.youtube.com/watch?v=CqxV_Xn4PlI)
+- [@oficial@Visão geral do EasyNetQ](https://easynetq.com/)
+- [@vídeo@Tutoriais do RabbitMQ com o EasyNetQ](https://www.youtube.com/watch?v=CqxV_Xn4PlI)

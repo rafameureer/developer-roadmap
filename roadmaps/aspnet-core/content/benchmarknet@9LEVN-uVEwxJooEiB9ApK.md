@@ -1,9 +1,9 @@
 # BenchmarkDotNet
 
-BenchmarkDotNet is an open-source library for .NET that provides a simple and easy-to-use API for benchmarking the performance of code. It allows you to measure the performance of methods, classes, and entire assemblies, and provides a rich set of features for analyzing and comparing the results. It provides a wide range of performance metrics, such as CPU cycles, memory allocation, and garbage collection, and can generate detailed reports that include charts, tables, and source code highlighting. It has support for multithreading and a built-in support for .NET Core.
+BenchmarkDotNet é uma biblioteca de código aberto para .NET que fornece uma API simples e fácil de usar para benchmarkar o desempenho do código. Ele permite medir o desempenho dos métodos, classes e assemblies inteiros, e oferece um conjunto rico de recursos para analisar e comparar os resultados. Ele fornece uma ampla gama de métricas de desempenho, como ciclos de CPU, alocação de memória e coleta de lixo, e pode gerar relatórios detalhados que incluem gráficos, tabelas e destacamento do código-fonte. Ele tem suporte a multithreading e um suporte embutido para .NET Core.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Benchmarking .NET Using BenchmarkDotNet](https://www.codemag.com/Article/2209061/Benchmarking-.NET-6-Applications-Using-BenchmarkDotNet-A-Deep-Dive)
-- [@video@Benchmarking ASP.NET Applications with .NET Crank](https://www.youtube.com/watch?v=2IgfrnG-128)
-- [@video@Intro to BenchmarkDotNet](https://www.youtube.com/watch?v=mmza9x3QxYE)
+- [@artigo@Benchmarking .NET Using BenchmarkDotNet](https://www.codemag.com/Article/2209061/Benchmarking-.NET-6-Applications-Using-BenchmarkDotNet-A-Deep-Dive)
+- [@vídeo@Benchmarking ASP.NET Applications with .NET Crank](https://www.youtube.com/watch?v=2IgfrnG-128)
+- [@vídeo@Intro to BenchmarkDotNet](https://www.youtube.com/watch?v=mmza9x3QxYE)

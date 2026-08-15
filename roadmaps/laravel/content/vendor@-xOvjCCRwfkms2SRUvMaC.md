@@ -1,7 +1,7 @@
-# Vendor Directory
+# Diretório Vendor
 
-The `vendor` directory in a Laravel project houses all the Composer-installed dependencies. These dependencies are third-party packages and libraries that your project relies on for various functionalities, such as database interactions, authentication, or templating. It's essentially a collection of code that you didn't write yourself but is essential for your application to function correctly.
+O diretório `vendor` em um projeto Laravel abriga todas as dependências instaladas via Composer. Essas dependências são pacotes e bibliotecas de terceiros que seu projeto depende para diversas funcionalidades, como interações com o banco de dados, autenticação ou modelagem de templates. É essencialmente uma coleção de código que você não escreveu por conta própria, mas é essencial para que sua aplicação funcione corretamente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@The Vendor Directory](https://laravel.com/docs/structure#the-vendor-directory)
+- [@artigo@O Diretório Vendor](https://laravel.com/docs/structure#the-vendor-directory)

@@ -1,11 +1,11 @@
 # Octane
 
-Octane supercharges your Laravel application's performance by serving it using high-powered application servers like Swoole or RoadRunner. Instead of creating a fresh application instance for each request, Octane keeps the application loaded in memory, significantly reducing boot times and overhead. This allows your application to handle a much higher volume of requests with lower latency.
+Octane supercarrega o desempenho do seu aplicativo Laravel servindo-o usando servidores de aplicativos de alta potência como Swoole ou RoadRunner. Em vez de criar uma nova instância de aplicativo para cada solicitação, Octane mantém o aplicativo carregado na memória, significativamente reduzindo os tempos de inicialização e sobrecarga. Isso permite que seu aplicativo lidar com um volume muito maior de solicitações com menor latência.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Octane](https://laravel.com/docs/12.x/octane)
+- [@oficial@Octane](https://laravel.com/docs/12.x/octane)
 - [@opensource@octane](https://github.com/laravel/octane)
-- [@article@Laravel Octane – What It Is, Why It Matters & How To Take Advantage Of It](https://runcloud.io/blog/laravel-octane)
-- [@video@Laravel Octane: supercharge your Laravel applications](https://www.youtube.com/watch?v=YGBvdAWt0W8)
-- [@video@Make faster outbound requests with Laravel (10x faster, actually)](https://www.youtube.com/watch?v=BWAocgJVCbw)
+- [@artigo@Laravel Octane – O que é, Por Que Importa e Como Usar](https://runcloud.io/blog/laravel-octane)
+- [@vídeo@Octane do Laravel: supercarregue seus aplicativos Laravel](https://www.youtube.com/watch?v=YGBvdAWt0W8)
+- [@vídeo@Faça solicitações de saída mais rápidas com o Laravel (10x mais rápido, na verdade)](https://www.youtube.com/watch?v=BWAocgJVCbw)

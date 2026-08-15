@@ -1,10 +1,10 @@
-# Eloquent ORM
+# ORM Eloquent
 
-Eloquent is an Object-Relational Mapper (ORM) that provides a simple and enjoyable way to interact with your database. It allows you to define models that represent database tables, and then use those models to query, insert, update, and delete data without writing raw SQL queries. Eloquent uses an Active Record implementation, meaning each model instance corresponds to a single row in its associated table.
+Eloquent é um Mapper Relacional de Objetos (ORM) que fornece uma maneira simples e agradável de interagir com o banco de dados. Ele permite definir modelos que representam tabelas do banco de dados, e então usar esses modelos para consultar, inserir, atualizar e deletar dados sem escrever consultas SQL brutas. O Eloquent usa uma implementação de Registro Ativo, o que significa que cada instância de modelo corresponde a uma única linha em sua tabela associada.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Eloquent: Getting Started](https://laravel.com/docs/eloquent)
-- [@article@Mastering Eloquent ORM: A Beginner's Guide to Laravel's Magic 🚀](https://dev.to/icornea/mastering-eloquent-orm-a-beginners-guide-to-laravels-magic-2pj3)
-- [@article@Eloquent Queries - From beginner to advanced techniques](https://laravel-news.com/effective-eloquent)
-- [@video@Laravel Tutorial for Beginners #9 - Eloquent Models](https://www.youtube.com/watch?v=0LCAS5WXnL4)
+- [@oficial@Eloquent: Introdução](https://laravel.com/docs/eloquent)
+- [@artigo@Dominando o ORM Eloquent: Um Guia Iniciante para o Magia do Laravel 🚀](https://dev.to/icornea/mastering-eloquent-orm-a-beginners-guide-to-laravels-magic-2pj3)
+- [@artigo@Consultas Eloquent - De iniciante a técnicas avançadas](https://laravel-news.com/effective-eloquent)
+- [@vídeo@Tutorial do Laravel para Iniciantes #9 - Modelos Eloquent](https://www.youtube.com/watch?v=0LCAS5WXnL4)

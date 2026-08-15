@@ -1,11 +1,11 @@
-# Artisan Console
+# Console Artisan
 
-Artisan is the command-line interface (CLI) included with Laravel. It provides a number of helpful commands that can assist you while building your application. These commands can automate repetitive tasks, generate boilerplate code, interact with your database, and perform other useful functions, ultimately streamlining the development process.
+Artisan é a interface de linha de comando (CLI) incluída com o Laravel. Ele fornece um número de comandos úteis que podem auxiliá-lo enquanto constrói seu aplicativo. Esses comandos podem automatizar tarefas repetitivas, gerar código boilerplate, interagir com seu banco de dados e realizar outras funções úteis, finalmente streamlinando o processo de desenvolvimento.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Artisan](https://laravel.com/docs/artisan)
-- [@article@Laravel - Artisan Console](https://www.tutorialspoint.com/laravel/laravel_artisan_console.htm)
-- [@article@Laravel commands: Top Artisan commands to know and how to create them](https://www.hostinger.com/tutorials/laravel-commands)
-- [@video@Getting Started with Artisan Commands in Laravel | Learn Laravel The Right Way](https://www.youtube.com/watch?v=gw7O8P0J1jE)
-- [@video@Basic Artisan Commands | Laravel For Beginners | Learn Laravel](https://www.youtube.com/watch?v=u5AgUYbEWFE)
+- [@article@Laravel - Console Artisan](https://www.tutorialspoint.com/laravel/laravel_artisan_console.htm)
+- [@article@Comandos do Laravel: Top comandos Artisan a conhecer e como criar](https://www.hostinger.com/tutorials/laravel-commands)
+- [@video@Introdução aos Comandos Artisan no Laravel | Aprenda o Laravel da Maneira Certa](https://www.youtube.com/watch?v=gw7O8P0J1jE)
+- [@video@Comandos Básicos do Artisan | Laravel para Iniciantes | Aprenda o Laravel](https://www.youtube.com/watch?v=u5AgUYbEWFE)

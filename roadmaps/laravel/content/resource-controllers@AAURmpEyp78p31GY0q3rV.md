@@ -1,10 +1,10 @@
-# Resource Controllers
+# Controladores de Recursos
 
-Resource controllers provide a standardized way to manage CRUD (Create, Read, Update, Delete) operations for a specific model. They group related request handling logic into a single class, making your code more organized and easier to maintain by mapping conventional HTTP verbs (like GET, POST, PUT, DELETE) to specific controller methods. This approach promotes a RESTful architecture for your application.
+Os controladores de recursos fornecem uma maneira padrão de gerenciar operações CRUD (Criar, Ler, Atualizar, Excluir) para um modelo específico. Eles agrupam a lógica de manipulação de solicitações relacionadas em uma única classe, tornando o código mais organizado e fácil de manter ao mapear verbos HTTP convencionais (como GET, POST, PUT, DELETE) para métodos específicos do controlador. Esse abordagem promove uma arquitetura RESTful para sua aplicação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Resource controllers](https://laravel.com/docs/controllers#resource-controllers)
-- [@article@What is a Resource Controller in Laravel, and what are its Actions?](http://webdew.com/blog/what-is-a-resource-controller-in-laravel?srsltid=AfmBOor4QIQckQzQ4o6EeD_bsn-wsRR87DetunjF-bB6j4rt7QLJaida)
-- [@article@Simple Laravel CRUD with Resource Controllers](https://www.digitalocean.com/community/tutorials/simple-laravel-crud-with-resource-controllers)
-- [@video@11 | Laravel Controller Resource Methods Step-by-Step (CRUD Example)](https://www.youtube.com/watch?v=XAwQUUr1obM)
+- [@official@Controladores de Recursos](https://laravel.com/docs/controllers#resource-controllers)
+- [@article@O que é um Controlador de Recursos no Laravel, e quais são suas Ações?](http://webdew.com/blog/what-is-a-resource-controller-in-laravel?srsltid=AfmBOor4QIQckQzQ4o6EeD_bsn-wsRR87DetunjF-bB6j4rt7QLJaida)
+- [@article@CRUD Simples com Controladores de Recursos no Laravel](https://www.digitalocean.com/community/tutorials/simple-laravel-crud-with-resource-controllers)
+- [@video@11 | Métodos do Controlador de Recursos em Laravel Passo a Passo (Exemplo CRUD)](https://www.youtube.com/watch?v=XAwQUUr1obM)

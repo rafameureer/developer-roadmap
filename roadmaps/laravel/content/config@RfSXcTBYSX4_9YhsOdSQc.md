@@ -1,7 +1,7 @@
-# Configuration in Laravel
+# Configuração no Laravel
 
-Configuration files in Laravel allow you to manage settings for your application in a centralized and organized manner. These files store key-value pairs that define various aspects of your application's behavior, such as database connections, mail settings, and application-specific parameters. By using configuration files, you can easily modify your application's settings without directly altering the code, making it more flexible and maintainable across different environments.
+Os arquivos de configuração no Laravel permitem gerenciar as configurações da sua aplicação de forma centralizada e organizada. Esses arquivos armazenam pares chave-valor que definem várias aspectos do comportamento da sua aplicação, como conexões de banco de dados, configurações de e-mail e parâmetros específicos da aplicação. Ao usar arquivos de configuração, você pode facilmente modificar as configurações da sua aplicação sem alterar diretamente o código, tornando-a mais flexível e manterável em diferentes ambientes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@The Config Directory](http://laravel.com/docs/structure#the-config-directory)
+- [@oficial@O Diretório Config](http://laravel.com/docs/structure#the-config-directory)

@@ -1,10 +1,10 @@
 # Sanctum
 
-Sanctum is a lightweight authentication system primarily designed for single-page applications (SPAs), mobile applications, and simple APIs. It provides a straightforward method for authenticating users using API tokens, allowing them to access protected routes and resources. Sanctum focuses on issuing API tokens that are scoped to specific abilities, offering a more granular control over user permissions compared to traditional session-based authentication.
+Sanctum é um sistema de autenticação leve principalmente projetado para aplicativos de página única (SPAs), aplicativos móveis e APIs simples. Ele oferece um método direto de autenticar usuários usando tokens de API, permitindo que eles acessem rotas e recursos protegidos. Sanctum se concentra em emitir tokens de API que estão escopados para habilidades específicas, oferecendo um controle mais granular sobre permissões de usuário em comparação com a autenticação baseada em sessão tradicional.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Laravel Sanctum](https://laravel.com/docs/sanctum)
+- [@oficial@Laravel Sanctum](https://laravel.com/docs/sanctum)
 - [@opensource@sanctum](https://github.com/laravel/sanctum)
-- [@article@Laravel Sanctum Installation: A Quick 5-Minute Guide for Secure REST API](https://medium.com/@sarfaraz.muhammad.sajib/laravel-sanctum-installation-a-quick-5-minute-guide-for-secure-rest-api-00e0eb27a8c1)
-- [@video@Example of Laravel Sanctum with API Tokens](https://www.youtube.com/watch?v=Ql5z9TjXWLY)
+- [@artigo@Instalação do Laravel Sanctum: Um Guia Rápido de 5 Minutos para APIs REST Seguras](https://medium.com/@sarfaraz.muhammad.sajib/laravel-sanctum-installation-a-quick-5-minute-guide-for-secure-rest-api-00e0eb27a8c1)
+- [@vídeo@Exemplo do Laravel Sanctum com Tokens de API](https://www.youtube.com/watch?v=Ql5z9TjXWLY)

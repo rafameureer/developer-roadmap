@@ -1,9 +1,9 @@
 # Pint
 
-Pint is an opinionated PHP code style fixer. It automatically corrects coding style issues in your PHP code, ensuring consistency and adherence to defined coding standards. It simplifies the process of maintaining a clean and uniform codebase by automatically applying formatting rules.
+Pint é um correitor de estilo de código PHP opinativo. Ele corrige automaticamente os problemas de estilo de codificação em seu código PHP, garantindo consistência e conformidade com os padrões de codificação definidos. Simplifica o processo de manter uma base de código limpa e uniforme aplicando regras de formatação automaticamente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@article@Laravel Pint](https://laravel.com/docs/pint)
 - [@article@pint](https://github.com/laravel/pint)
-- [@video@New Laravel Pint: Code Styling Made Easier](https://www.youtube.com/watch?v=5khyIHIYIK4)
+- [@video@Novo Laravel Pint: Estilização de Código Simplificada](https://www.youtube.com/watch?v=5khyIHIYIK4)

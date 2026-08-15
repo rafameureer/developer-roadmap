@@ -1,10 +1,10 @@
-# CRUD Operations in Eloquent ORM
+# Operações CRUD no ORM Eloquent
 
-CRUD operations stand for Create, Read, Update, and Delete. These are the four basic functions of persistent storage, and they represent the fundamental operations performed on data within a database. In the context of Eloquent ORM, CRUD operations are simplified through intuitive methods that allow developers to interact with database tables as if they were working with PHP objects.
+As operações CRUD representam Create (Criar), Read (Ler), Update (Atualizar) e Delete (Excluir). São as quatro funções básicas de armazenamento persistente, e representam as operações fundamentais realizadas em dados dentro de um banco de dados. No contexto do ORM Eloquent, as operações CRUD são simplificadas através de métodos intuitivos que permitem aos desenvolvedores interagir com tabelas de banco de dados como se estivessem trabalhando com objetos PHP.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Eloquent: Getting Started](https://laravel.com/docs/eloquent)
-- [@article@How To CRUD (Create, Read, Update, and Delete) With Laravel](https://kinsta.com/blog/laravel-crud/)
-- [@article@Eloquent Queries - From beginner to advanced techniques](https://laravel-news.com/effective-eloquent)
-- [@video@Laravel Models - The Basics You Must Know (Eloquent & Query Builder in 10 Minutes)](https://www.youtube.com/watch?v=TdEZcP1JTf8&t=342s)
+- [@oficial@Eloquent: Introdução](https://laravel.com/docs/eloquent)
+- [@artigo@Como Criar, Ler, Atualizar e Excluir (CRUD) com Laravel](https://kinsta.com/blog/laravel-crud/)
+- [@artigo@Consultas Eloquent - De iniciante a técnicas avançadas](https://laravel-news.com/effective-eloquent)
+- [@vídeo@Modelos do Laravel - Os Básicos que Você Precisa Saber (Eloquent & Query Builder em 10 minutos)](https://www.youtube.com/watch?v=TdEZcP1JTf8&t=342s)

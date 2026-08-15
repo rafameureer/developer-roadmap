@@ -1,9 +1,9 @@
-# Authorization Gates
+# Portas de Autorização
 
-Authorization gates provide a way to control access to specific resources or actions within your application. They are essentially closures that determine if a user is authorized to perform a given action. You define these gates with a name and a callback function that receives the authenticated user as an argument, allowing you to implement custom authorization logic based on user roles, permissions, or any other criteria.
+As portas de autorização fornecem uma maneira de controlar o acesso a recursos específicos ou ações dentro do seu aplicativo. Elas são essencialmente fechaduras que determinam se um usuário está autorizado a realizar uma ação específica. Você define essas portas com um nome e uma função de retorno de chamada que recebe o usuário autenticado como argumento, permitindo que você implemente lógica de autorização personalizada com base em papéis do usuário, permissões ou qualquer outro critério.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Gates](https://laravel.com/docs/authorization#gates)
-- [@article@Laravel Gates: A Rapid Introduction.](https://www.twilio.com/en-us/blog/developers/community/rapid-introduction-laravel-gates)
-- [@video@Laravel 11 Full Course 2025: Authorization with Policies & Gates [Lesson #8]](https://www.youtube.com/watch?v=tJANVX2IhkM)
+- [@oficial@Portas](https://laravel.com/docs/authorization#gates)
+- [@artigo@Portas do Laravel: Uma Introdução Rápida.](https://www.twilio.com/en-us/blog/developers/community/rapid-introduction-laravel-gates)
+- [@vídeo@Curso Completo do Laravel 11 2025: Autorização com Políticas e Portas [Aula #8]](https://www.youtube.com/watch?v=tJANVX2IhkM)

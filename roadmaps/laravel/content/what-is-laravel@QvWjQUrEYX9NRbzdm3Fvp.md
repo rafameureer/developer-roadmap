@@ -1,13 +1,13 @@
-# Laravel
+# O que é o Laravel?
 
-Laravel is a PHP web application framework that provides tools and structure for building web applications using the Model-View-Controller (MVC) architectural pattern. It aims to simplify common tasks used in web development, such as routing, templating, authentication, and database interactions, by providing a clean and expressive syntax. Laravel emphasizes developer experience and promotes rapid application development.
+O Laravel é um framework de aplicativos web em PHP que fornece ferramentas e estrutura para construir aplicativos web usando o padrão arquitetônico Modelo-Exibição-Controlador (MVC). Ele visa simplificar tarefas comuns usadas no desenvolvimento web, como roteamento, modelagem de dados, autenticação e interações com banco de dados, fornecendo uma sintaxe limpa e expressiva. O Laravel enfatiza a experiência do desenvolvedor e promove o desenvolvimento rápido de aplicativos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@Learn Laravel - Free Video Courses](https://laravel.com/learn)
-- [@course@[FREE] Laravel 11 For Beginners: Your First Project](https://laraveldaily.com/course/laravel-beginners)
-- [@official@Laravel](https://laravel.com/)
-- [@official@Laravel Docs](https://laravel.com/docs/master)
-- [@article@What is Laravel: core features, use cases, and advantages of the PHP framework](https://www.hostinger.com/tutorials/what-is-laravel)
-- [@video@Laravel 12 in 11 hours - Laravel for Beginners Full Course](https://www.youtube.com/watch?v=0M84Nk7iWkA)
-- [@video@Learn Laravel from Scratch [FULL BOOTCAMP COURSE]](https://www.youtube.com/watch?v=MOLZOXqaomM)
+- [@curso@Aprenda o Laravel - Cursos de Vídeo Gratuitos](https://laravel.com/learn)
+- [@curso@[GRÁTIS] Laravel 11 Para Iniciantes: Seu Primeiro Projeto](https://laraveldaily.com/course/laravel-beginners)
+- [@oficial@Laravel](https://laravel.com/)
+- [@oficial@Documentação do Laravel](https://laravel.com/docs/master)
+- [@artigo@O que é o Laravel: características principais, casos de uso e vantagens do framework PHP](https://www.hostinger.com/tutorials/what-is-laravel)
+- [@vídeo@Laravel 12 em 11 horas - Tutorial Completo para Iniciantes no Laravel](https://www.youtube.com/watch?v=0M84Nk7iWkA)
+- [@vídeo@Aprenda o Laravel do Zero [CURSO COMPLETO DE BOOTCAMP]](https://www.youtube.com/watch?v=MOLZOXqaomM)

@@ -1,7 +1,7 @@
-# Routes
+# Rotas
 
-The `routes` directory in Laravel houses all the route definitions for your application. These files tell Laravel how to respond to different HTTP requests (like GET, POST, PUT, DELETE) for specific URLs. Each file typically defines a set of routes, mapping a URL to a specific controller action or closure that will handle the request and return a response.
+O diretório `routes` no Laravel abriga todas as definições de rota para sua aplicação. Esses arquivos instruem o Laravel como responder a diferentes solicitações HTTP (como GET, POST, PUT, DELETE) para URLs específicas. Cada arquivo geralmente define um conjunto de rotas, mapeando uma URL para uma ação específica do controlador ou fechamento que lidará com a solicitação e retornará uma resposta.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Routes Directory](https://laravel.com/docs/structure#the-routes-directory)
+- [@artigo@Diretório de Rotas](https://laravel.com/docs/estrutura#o-diretorio-routes)

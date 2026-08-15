@@ -1,11 +1,11 @@
 # 📊 Relatório de Progresso da Tradução Autônoma (PT-BR)
 
-**Última atualização:** 15/08/2026 08:53:17
+**Última atualização:** 15/08/2026 09:03:12
 
 ## 📈 Estatísticas Gerais
-- **Progresso Global:** `4439 / 10365` arquivos (`42.83%`)
-- **Roadmaps Concluídos:** `50 / 91`
-- **Itens Pendentes para Decisão Humana:** `1125` (veja [DECISOES_HUMANAS.md](./DECISOES_HUMANAS.md))
+- **Progresso Global:** `4535 / 10365` arquivos (`43.75%`)
+- **Roadmaps Concluídos:** `51 / 91`
+- **Itens Pendentes para Decisão Humana:** `1133` (veja [DECISOES_HUMANAS.md](./DECISOES_HUMANAS.md))
 
 ---
 
@@ -60,3 +60,4 @@
 - ✅ `javascript`
 - ✅ `kotlin`
 - ✅ `kubernetes`
+- ✅ `laravel`

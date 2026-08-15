@@ -1,9 +1,9 @@
 # Breeze
 
-Breeze is a minimal, simple implementation of all of Laravel's authentication features, including login, registration, password reset, email verification, and password confirmation. It provides a basic starting point for building a new Laravel application with authentication already configured, allowing developers to quickly scaffold the user authentication system and focus on building the core features of their application. Breeze offers Blade templates, Tailwind CSS styling, and can be optionally configured with Inertia.js or Livewire.
+Breeze é uma implementação minimal e simples de todas as funcionalidades de autenticação do Laravel, incluindo login, registro, redefinição de senha, verificação de e-mail e confirmação de senha. Ele fornece um ponto de partida básico para a construção de um novo aplicativo Laravel com autenticação já configurada, permitindo aos desenvolvedores rapidamente estruturar o sistema de autenticação do usuário e se concentrar na implementação dos recursos principais do aplicativo. Breeze oferece modelos Blade, estilização Tailwind CSS e pode ser opcionalmente configurado com Inertia.js ou Livewire.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Laravel Breeze](https://laravel.com/docs/10.x/starter-kits)
 - [@opensource@Laravel Breeze](https://github.com/laravel/breeze)
-- [@video@Kickstart Your Laravel Project with Breeze: The Minimal Starter Kit](https://www.youtube.com/watch?v=iZWprN9RYDo)
+- [@video@Comece seu projeto Laravel com Breeze: O Starter Kit Minimalista](https://www.youtube.com/watch?v=iZWprN9RYDo)

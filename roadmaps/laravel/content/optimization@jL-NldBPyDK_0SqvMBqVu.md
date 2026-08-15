@@ -1,8 +1,8 @@
-# Optimization
+# Otimização
 
-Optimization, in the context of deployment, refers to the process of refining and improving a deployed application's performance, efficiency, and resource utilization. This involves identifying bottlenecks, reducing resource consumption (like memory and CPU), and enhancing the overall speed and responsiveness of the application to ensure a smooth and scalable user experience in a production environment.
+A otimização, no contexto da implantação, refere-se ao processo de aprimorar e melhorar o desempenho, eficiência e utilização de recursos de uma aplicação implantada. Isso envolve identificar gargalos, reduzir o consumo de recursos (como memória e CPU) e aumentar a velocidade geral e a resposta da aplicação para garantir uma experiência de usuário suave e escalável em um ambiente de produção.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Optimization](https://laravel.com/docs/deployment#optimization)
-- [@video@10+ Mistakes When Deploying Laravel Project to Production](https://www.youtube.com/watch?v=9gEsqgO05ZE)
+- [@oficial@Otimização](https://laravel.com/docs/deployment#optimization)
+- [@vídeo@10+ Erros Quando Implanta Projeto Laravel na Produção](https://www.youtube.com/watch?v=9gEsqgO05ZE)

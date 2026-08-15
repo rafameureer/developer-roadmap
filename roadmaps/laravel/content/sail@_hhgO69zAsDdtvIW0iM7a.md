@@ -1,11 +1,11 @@
 # Sail
 
-Sail is a light-weight command-line interface (CLI) for interacting with Laravel's default Docker development environment. It provides a simple way to manage and run your Laravel application using Docker, without requiring prior Docker experience. It offers commands to start, stop, and manage your application's containers, making local development easier and more consistent.
+Sail é uma interface de linha de comando leve (CLI) para interagir com o ambiente de desenvolvimento padrão do Docker do Laravel. Ele oferece um modo simples de gerenciar e executar sua aplicação Laravel usando Docker, sem a necessidade de experiência prévia em Docker. Ele fornece comandos para iniciar, parar e gerenciar os contêineres da sua aplicação, tornando o desenvolvimento local mais fácil e consistente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Sail](https://laravel.com/docs/sail)
+- [@oficial@Sail](https://laravel.com/docs/sail)
 - [@opensource@sail](https://github.com/laravel/sail)
-- [@article@A Complete Guide to Laravel Sail](https://hackernoon.com/a-complete-guide-to-laravel-sail)
-- [@article@Laravel Sail](https://laravel-news.com/laravel-sail)
-- [@video@The Laravel Ecosystem - Sail ⛵](https://www.youtube.com/watch?v=jEzqiloXKMs)
+- [@artigo@Guia Completo sobre Laravel Sail](https://hackernoon.com/a-complete-guide-to-laravel-sail)
+- [@artigo@Laravel Sail](https://laravel-news.com/laravel-sail)
+- [@vídeo@O Ecosistema do Laravel - Sail ⛵](https://www.youtube.com/watch?v=jEzqiloXKMs)

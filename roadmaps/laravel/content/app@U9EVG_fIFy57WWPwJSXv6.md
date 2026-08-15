@@ -1,7 +1,7 @@
-# App Directory
+# Diretório App
 
-The `app` directory in a Laravel project houses the core logic of your application. It contains the code that defines your application's behavior, including models, controllers, middleware, services, and other custom classes. This directory is structured to promote organization and maintainability, making it easier to manage and scale your application as it grows.
+O diretório `app` em um projeto Laravel abriga a lógica central do seu aplicativo. Ele contém o código que define o comportamento do seu aplicativo, incluindo modelos, controladores, middleware, serviços e outras classes personalizadas. Este diretório está estruturado para promover organização e manutenibilidade, tornando mais fácil gerenciar e escalar seu aplicativo à medida que ele cresce.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@App directory](https://laravel.com/docs/structure#the-root-app-directory)
+- [@official@Diretório App](https://laravel.com/docs/structure#the-root-app-directory)

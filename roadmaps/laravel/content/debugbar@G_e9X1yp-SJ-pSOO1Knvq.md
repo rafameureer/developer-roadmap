@@ -1,10 +1,10 @@
 # Debugbar
 
-Debugbar is a package that provides a convenient toolbar displayed in the browser, offering insights into your application's performance and debugging information. It allows you to inspect things like queries executed, views rendered, routes matched, and other useful data without having to dig through log files or use `dd()` statements extensively. This makes it easier to identify bottlenecks and understand how your application is behaving during development.
+Debugbar é um pacote que fornece uma barra de ferramentas conveniente exibida no navegador, oferecendo insights sobre o desempenho e as informações de depuração do seu aplicativo. Ele permite inspecionar coisas como consultas executadas, vistas renderizadas, rotas correspondidas e outros dados úteis sem ter que procurar em arquivos de log ou usar instruções `dd()` extensivamente. Isso torna mais fácil identificar gargalos e entender como seu aplicativo está se comportando durante o desenvolvimento.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Debugbar](https://laraveldebugbar.com/)
+- [@oficial@Debugbar](https://laraveldebugbar.com/)
 - [@opensource@laravel-debugbar](https://github.com/barryvdh/laravel-debugbar)
-- [@article@Debugging Laravel Applications with Laravel Debugbar](https://www.inmotionhosting.com/support/edu/laravel/debugging-laravel-applications-with-laravel-debugbar/)
-- [@video@Laravel Debugbar: 4 Features You May Not Know](https://www.youtube.com/watch?v=YuxXSHKkNJc)
+- [@artigo@Depurando Aplicações Laravel com o Debugbar de Laravel](https://www.inmotionhosting.com/support/edu/laravel/debugging-laravel-applications-with-laravel-debugbar/)
+- [@vídeo@Debugbar do Laravel: 4 Recursos Que Você Talvez Não Saiba](https://www.youtube.com/watch?v=YuxXSHKkNJc)

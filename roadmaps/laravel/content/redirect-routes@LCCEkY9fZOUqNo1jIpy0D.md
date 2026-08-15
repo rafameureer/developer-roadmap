@@ -1,8 +1,8 @@
-# Redirect Routes
+# Rotas de Redirecionamento
 
-Redirect routes provide a simple way to create HTTP redirects within your application. Instead of defining a full route with a controller action, you can directly instruct the application to redirect the user to another URL or route. This is useful for creating permanent or temporary redirects, handling old URLs, or simplifying route definitions when only a redirection is needed.
+As rotas de redirecionamento fornecem uma maneira simples de criar redirecionamentos HTTP dentro da sua aplicação. Em vez de definir uma rota completa com uma ação do controlador, você pode instruir diretamente a aplicação para redirecionar o usuário para outra URL ou rota. Isso é útil para criar redirecionamentos permanentes ou temporários, lidar com URLs obsoletas ou simplificar as definições de rota quando apenas um redirecionamento for necessário.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Redirect Routes](https://laravel.com/docs/routing#redirect-routes)
-- [@article@Route Redirect in Laravel: The Complete Guide](https://larafast.com/blog/route-redirect-in-laravel-the-complete-guide)
+- [@oficial@Rotas de Redirecionamento](https://laravel.com/docs/routing#redirect-routes)
+- [@artigo@Redirecionamento de Rotas no Laravel: Guia Completo](https://larafast.com/blog/route-redirect-in-laravel-the-complete-guide)

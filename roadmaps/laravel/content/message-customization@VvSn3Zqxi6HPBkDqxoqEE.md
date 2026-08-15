@@ -1,7 +1,7 @@
-# Customizing Error Messages
+# Personalização de Mensagens de Erro
 
-Error message customization involves tailoring the default error messages displayed to users when validation or other exceptions occur. This allows developers to provide more user-friendly and contextually relevant feedback, improving the overall user experience by guiding them towards correcting errors more effectively. Instead of generic messages, you can display specific instructions or explanations that are easier for users to understand.
+A personalização de mensagens de erro envolve ajustar as mensagens padrão exibidas aos usuários quando ocorrem erros de validação ou outras exceções. Isso permite que os desenvolvedores forneçam feedback mais amigável e contextualmente relevante, melhorando a experiência do usuário ao orientá-los para corrigir erros de forma mais eficaz. Em vez de mensagens genéricas, você pode exibir instruções ou explicações específicas que são mais fáceis de entender pelos usuários.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Rendering Exceptions](https://laravel.com/docs/errors#rendering-exceptions)
+- [@oficial@Renderizando Exceções](https://laravel.com/docs/errors#rendering-exceptions)

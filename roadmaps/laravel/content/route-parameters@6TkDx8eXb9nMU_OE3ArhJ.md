@@ -1,10 +1,10 @@
-# Route Parameters
+# Parâmetros de Rota
 
-Route parameters allow you to capture segments of the URI within your route definitions. These captured segments can then be passed as arguments to your route's controller or closure, enabling you to create dynamic routes that respond to different data. You define parameters by enclosing them in curly braces, such as `{id}`, within the route URI.
+Os parâmetros de rota permitem capturar segmentos da URI dentro das definições de suas rotas. Esses segmentos capturados podem então ser passados como argumentos para o controlador ou fechamento da rota, permitindo que você crie rotas dinâmicas que respondam a diferentes dados. Você define parâmetros envolvendo-os em chaves curvas, como `{id}`, dentro da URI da rota.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Route parameters](https://laravel.com/docs/routing#route-parameters)
-- [@article@Route Parameters and Route Model Binding](https://laraveldaily.com/lesson/laravel-beginners/route-parameters-route-model-binding)
-- [@article@Get Laravel Route Parameters in Middleware](https://www.digitalocean.com/community/tutorials/get-laravel-route-parameters-in-middleware)
-- [@video@Working with Route Parameters in Laravel | Learn Laravel The Right Way](https://www.youtube.com/watch?v=DgQEDXBcyZw)
+- [@oficial@Parâmetros de Rota](https://laravel.com/docs/routing#route-parameters)
+- [@artigo@Parâmetros de Rota e Ligação de Modelo de Rota](https://laraveldaily.com/lesson/laravel-beginners/route-parameters-route-model-binding)
+- [@artigo@Obtenha Parâmetros de Rota do Laravel em Middleware](https://www.digitalocean.com/community/tutorials/get-laravel-route-parameters-in-middleware)
+- [@vídeo@Trabalhando com Parâmetros de Rota no Laravel | Aprenda o Laravel da Forma Correta](https://www.youtube.com/watch?v=DgQEDXBcyZw)

@@ -1,11 +1,11 @@
-# Dependency Injection
+# Injeção de Dependência
 
-Dependency Injection is a design pattern where a component receives its dependencies from external sources rather than creating them itself. This promotes loose coupling, making code more modular, testable, and reusable. Instead of a class being responsible for instantiating its dependencies, those dependencies are "injected" into the class, typically through its constructor, setter methods, or interface injection.
+A Injeção de Dependência é um padrão de design onde um componente recebe suas dependências de fontes externas em vez de criá-las por conta própria. Isso promove a desacoplamento, tornando o código mais modular, testável e reutilizável. Em vez de uma classe ser responsável pela instanciação de suas dependências, essas dependências são "injetadas" na classe, geralmente através do seu construtor, métodos setter ou injeção por interface.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Dependency Injection](https://laravel.com/docs/routing#dependency-injection)
-- [@article@Learn all about Laravel's dependency injection container](https://laravel-news.com/leaning-on-the-container)
-- [@article@Dependency Injection and Service Container in Laravel](https://www.codemag.com/Article/2212041/Dependency-Injection-and-Service-Container-in-Laravel)
-- [@video@The Power of Dependency Injection in Laravel: Best Practices for Developers💻](https://www.youtube.com/watch?v=xOxTdXicWd0)
-- [@video@Why the Laravel Service Container is the Key to Better Dependency Management](https://www.youtube.com/watch?v=8HBQ2-_39VE)
+- [@oficial@Injeção de Dependência](https://laravel.com/docs/routing#dependency-injection)
+- [@artigo@Saiba tudo sobre o contêiner de injeção de dependência do Laravel](https://laravel-news.com/leaning-on-the-container)
+- [@artigo@Injeção de Dependência e Contêiner de Serviço no Laravel](https://www.codemag.com/Article/2212041/Dependency-Injection-and-Service-Container-in-Laravel)
+- [@vídeo@A Potência da Injeção de Dependência no Laravel: Melhores Práticas para Desenvolvedores💻](https://www.youtube.com/watch?v=xOxTdXicWd0)
+- [@vídeo@Por que o Contêiner de Serviço do Laravel é a Chave para uma Melhor Gerenciamento de Dependências](https://www.youtube.com/watch?v=8HBQ2-_39VE)

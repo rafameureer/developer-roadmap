@@ -1,10 +1,10 @@
-# Cross-Origin Resource Sharing (CORS)
+# Compartilhamento de Recursos entre Origens Cruzadas (CORS)
 
-Cross-Origin Resource Sharing (CORS) is a browser security feature that restricts web pages from making requests to a different domain than the one that served the web page. This policy prevents malicious websites from accessing sensitive data from other sites. CORS defines a way for servers to specify which origins (domains, schemes, or ports) are permitted to access their resources.
+Compartilhamento de Recursos entre Origens Cruzadas (CORS) é uma funcionalidade de segurança do navegador que restringe as páginas da web de fazer solicitações a um domínio diferente do que serviu a página da web. Esta política previne sites maliciosos de acessar dados sensíveis de outros sites. CORS define uma maneira para os servidores especificarem quais origens (domínios, esquemas ou portas) são permitidas para acessar seus recursos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Cross-Origin Resource Sharing (CORS)](https://laravel.com/docs/routing#cors)
-- [@article@Laravel CORS Guide: What It Is and How to Enable It](https://www.stackhawk.com/blog/laravel-cors/)
-- [@article@Diving into Cross-Origin Resource Sharing](https://laravel-news.com/diving-into-cross-origin-resource-sharing)
-- [@video@CORS in Laravel & Sanctum](https://www.youtube.com/watch?v=VW5fWPxv7Ak)
+- [@oficial@Compartilhamento de Recursos entre Origens Cruzadas (CORS)](https://laravel.com/docs/routing#cors)
+- [@artigo@Guia CORS do Laravel: O Que É e Como Habilitar](https://www.stackhawk.com/blog/laravel-cors/)
+- [@artigo@Diving into Cross-Origin Resource Sharing](https://laravel-news.com/diving-into-cross-origin-resource-sharing)
+- [@vídeo@CORS no Laravel & Sanctum](https://www.youtube.com/watch?v=VW5fWPxv7Ak)

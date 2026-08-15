@@ -1,8 +1,8 @@
-# Views in Laravel
+# Exibições no Laravel
 
-Laravel, beyond processing data and logic, can also present information to the user. One common way to do this is by sending a "view" as a response. A view is essentially an HTML template file that Laravel renders, often populated with data you pass to it from your application's logic. This allows you to dynamically generate web pages and other user interfaces.
+O Laravel, além de processar dados e lógica, também pode apresentar informações ao usuário. Um modo comum de fazer isso é enviando uma "exibição" como resposta. Uma exibição é essencialmente um arquivo de modelo HTML que o Laravel renderiza, geralmente preenchido com dados que você passa a ele da sua lógica de aplicativo. Isso permite gerar dinamicamente páginas web e outras interfaces do usuário.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@View Responses](https://laravel.com/docs/12.x/responses#view-responses)
-- [@article@Laravel Response](https://www.w3schools.in/laravel/response)
+- [@oficial@Respostas de Exibição](https://laravel.com/docs/12.x/responses#view-responses)
+- [@artigo@Resposta no Laravel](https://www.w3schools.in/laravel/response)

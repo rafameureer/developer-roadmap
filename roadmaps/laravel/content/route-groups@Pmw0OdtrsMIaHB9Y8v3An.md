@@ -1,10 +1,10 @@
-# Route Groups
+# Grupos de Rotas
 
-Route groups provide a way to share route attributes, such as middleware, namespaces, prefixes, and subdomain restrictions, across a large number of routes without needing to define them individually for each route. This allows for cleaner and more organized route definitions, reducing redundancy and improving maintainability. They essentially bundle common configurations for a set of routes.
+Grupos de rotas fornecem uma maneira de compartilhar atributos de rota, como middleware, namespaces, prefixos e restrições de subdomínio, em um grande número de rotas sem precisar definir cada uma delas individualmente. Isso permite definições de rotas mais limpas e organizadas, reduzindo a redundância e melhorando a manutenibilidade. Eles agrupam essencialmente as configurações comuns para um conjunto de rotas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Route Groups](https://laravel.com/docs/routing#route-groups)
-- [@article@How Laravel Route Groups Can Simplify and Organize Your Code](https://redberry.international/laravel-route-group-organize-your-code/)
-- [@article@6 Tips To Organize Your Routes](https://laravel-news.com/laravel-route-organization-tips)
-- [@video@Laravel 12 Route Grouping & Naming – Organize Your Routes Like a Pro](https://www.youtube.com/watch?v=qXulJqduM4I)
+- [@oficial@Grupos de Rotas](https://laravel.com/docs/routing#route-groups)
+- [@artigo@Como Grupos de Rotas do Laravel podem Simplificar e Organizar Seu Código](https://redberry.international/laravel-route-group-organize-your-code/)
+- [@artigo@6 Dicas para Organizar Suas Rotas](https://laravel-news.com/laravel-route-organization-tips)
+- [@vídeo@Laravel 12 Agrupamento e Nomenclatura de Grupos de Rotas – Organize Suas Rotas Como um Profissional](https://www.youtube.com/watch?v=qXulJqduM4I)

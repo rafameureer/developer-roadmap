@@ -1,10 +1,10 @@
-# Basic Routes
+# Rotas Básicas
 
-Routing in Laravel determines how your application responds to client requests. It essentially maps URLs (like `/about` or `/contact`) to specific functions or controllers within your application. When a user visits a particular URL, Laravel's router identifies the corresponding route and executes the associated code, which might involve displaying a view, processing data, or performing other actions. This system allows you to define the structure and behavior of your web application based on the URLs users access.
+A roteirização no Laravel determina como sua aplicação responde a solicitações de clientes. Ela essencialmente mapeia URLs (como `/about` ou `/contact`) para funções específicas ou controladores dentro da sua aplicação. Quando um usuário visita uma URL específica, o roteador do Laravel identifica a rota correspondente e executa o código associado, que pode envolver exibir uma exibição, processar dados ou realizar outras ações. Esse sistema permite definir a estrutura e o comportamento da sua aplicação web com base nas URLs acessadas pelos usuários.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Basic Routes](https://laravel.com/docs/routing#basic-routing)
-- [@article@Laravel Routing Guide – How to Create Route to Call a View](http://cloudways.com/blog/routing-in-laravel/)
-- [@article@Laravel - Routing](https://www.tutorialspoint.com/laravel/laravel_routing.htm)
-- [@video@The Basics of Routing in Laravel | Learn Laravel The Right Way](https://www.youtube.com/watch?v=pP4g0xPq0TQ)
+- [@oficial@Rotas Básicas](https://laravel.com/docs/routing#basic-routing)
+- [@artigo@Guia de Roteirização no Laravel – Como Criar uma Rota para Chamar uma Exibição](http://cloudways.com/blog/routing-in-laravel/)
+- [@artigo@Roteirização no Laravel](https://www.tutorialspoint.com/laravel/laravel_routing.htm)
+- [@vídeo@As Básicas de Roteirização no Laravel | Aprenda o Laravel da maneira certa](https://www.youtube.com/watch?v=pP4g0xPq0TQ)

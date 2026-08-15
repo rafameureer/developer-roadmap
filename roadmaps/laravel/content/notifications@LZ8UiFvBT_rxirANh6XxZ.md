@@ -1,11 +1,11 @@
-# Notifications
+# Notificações
 
-Notifications provide a way to alert users about events that occur in your application, such as when a task is completed, a comment is posted, or a new follower is gained. These alerts can be delivered through various channels, including email, SMS, database entries, or even custom channels, allowing for flexible and tailored communication with users. The system typically involves defining notification classes that represent specific events and then sending these notifications to the appropriate recipients.
+As notificações fornecem uma maneira de alertar usuários sobre eventos que ocorrem em seu aplicativo, como quando uma tarefa é concluída, um comentário é postado ou um novo seguidor é ganho. Esses alertas podem ser entregues por meio de vários canais, incluindo e-mail, SMS, entradas no banco de dados ou até mesmo canais personalizados, permitindo comunicação flexível e personalizada com os usuários. O sistema geralmente envolve definir classes de notificação que representam eventos específicos e depois enviar essas notificações aos destinatários apropriados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Notifications](https://laravel.com/docs/notifications)
-- [@article@Laravel Notifications: dynamic channels, priority, and delayed sending](https://crnkovic.me/laravel-notifications-on-steroids)
-- [@article@How to create notifications in Laravel](https://www.honeybadger.io/blog/php-laravel-notifications/)
-- [@video@Should You Use a Notification or a Mailable?](https://www.youtube.com/watch?v=GGZF9E9mM_E)
-- [@video@Laravel Notifications: "Database" Driver - Demo Project](https://www.youtube.com/watch?v=5DREuAvFnps)
+- [@oficial@Notificações](https://laravel.com/docs/notifications)
+- [@artigo@Notificações do Laravel: canais dinâmicos, prioridade e envio atrasado](https://crnkovic.me/laravel-notifications-on-steroids)
+- [@artigo@Como criar notificações no Laravel](https://www.honeybadger.io/blog/php-laravel-notifications/)
+- [@vídeo@Você deve usar uma notificação ou um e-mail?](https://www.youtube.com/watch?v=GGZF9E9mM_E)
+- [@vídeo@Notificações do Laravel: "Driver" de Banco de Dados - Projeto Demo](https://www.youtube.com/watch?v=5DREuAvFnps)

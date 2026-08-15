@@ -1,9 +1,9 @@
-# Request–Response Flow
+# Fluxo de Solicitação-Resposta
 
-In Laravel, the request-response flow begins when a user sends a request to the application. This request first hits the `public/index.php` file, which bootstraps the Laravel framework. The request is then passed to the HTTP kernel, which identifies the appropriate route based on the request URI. The route then calls a controller action or closure, which processes the request and generates a response. Finally, the response is sent back to the user's browser.
+No Laravel, o fluxo de solicitação-resposta começa quando um usuário envia uma solicitação para a aplicação. Esta solicitação primeiro atinge o arquivo `public/index.php`, que inicializa o framework do Laravel. A solicitação é então passada para o kernel HTTP, que identifica a rota adequada com base na URI da solicitação. A rota em seguida chama uma ação de controlador ou fechamento, que processa a solicitação e gera uma resposta. Finalmente, a resposta é enviada de volta ao navegador do usuário.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Request Lifecycle](https://laravel.com/docs/lifecycle)
-- [@article@Understanding the Laravel Request/Response Lifecycle: A Simple Guide for Developers](https://chandankshaw.medium.com/understanding-the-laravel-request-response-lifecycle-a-simple-guide-for-developers-e6afdf887a6d)
-- [@article@Requests and Responses](https://www.fastcomet.com/tutorials/laravel/requests-and-responses)
+- [@oficial@Ciclo de Vida da Solicitação](https://laravel.com/docs/lifecycle)
+- [@artigo@Entendendo o Ciclo de Vida da Solicitação/Resposta no Laravel: Um Guia Simples para Desenvolvedores](https://chandankshaw.medium.com/understanding-the-laravel-request-response-lifecycle-a-simple-guide-for-developers-e6afdf887a6d)
+- [@artigo@Solicitações e Respostas](https://www.fastcomet.com/tutorials/laravel/requests-and-responses)

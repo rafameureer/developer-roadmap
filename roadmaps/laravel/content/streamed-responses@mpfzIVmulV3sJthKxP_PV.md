@@ -1,10 +1,10 @@
-# Streamed Responses
+# Respostas Streamed
 
-Streamed responses allow you to send large files or data streams to the user's browser in chunks, rather than loading the entire content into memory at once. This is particularly useful for handling large downloads, video streaming, or any situation where you need to send data incrementally to avoid memory limitations and improve performance. Instead of waiting for the entire file to be processed, the browser can start receiving and displaying the content as it becomes available.
+As respostas streamadas permitem enviar arquivos grandes ou fluxos de dados ao navegador do usuário em partes, em vez de carregar todo o conteúdo na memória de uma só vez. Isso é particularmente útil para lidar com downloads grandes, streaming de vídeo ou qualquer situação onde você precisa enviar dados incrementalmente para evitar limitações de memória e melhorar o desempenho. Em vez de esperar que o arquivo inteiro seja processado, o navegador pode começar a receber e exibir o conteúdo conforme ele se torna disponível.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Streamed Responses](https://laravel.com/docs/responses#streamed-responses)
-- [@article@Optimizing Large Data Delivery with Laravel Streaming Responses](https://laravel-news.com/streaming-responses)
-- [@article@Streaming Responses in Laravel: A Guide to Efficient Data Delivery](https://medium.com/@harrisrafto/streaming-responses-in-laravel-a-guide-to-efficient-data-delivery-bac37aa76c03)
-- [@video@Welcome the New Stream Hooks for React & Vue](https://www.youtube.com/watch?v=mSssWRUkmXAv)
+- [@official@Respostas Streamadas](https://laravel.com/docs/responses#streamed-responses)
+- [@article@Otimizando a Entrega de Grandes Dados com Respostas Streamadas do Laravel](https://laravel-news.com/streaming-responses)
+- [@article@Guia Completo sobre o Streaming de Respostas no Laravel](https://medium.com/@harrisrafto/streaming-responses-in-laravel-a-guide-to-efficient-data-delivery-bac37aa76c03)
+- [@video@Bem-vindo aos Novos Hooks de Stream para React & Vue](https://www.youtube.com/watch?v=mSssWRUkmXAv)

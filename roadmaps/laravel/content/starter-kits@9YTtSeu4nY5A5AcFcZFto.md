@@ -1,9 +1,9 @@
-# Starter Kits
+# Kits Iniciais
 
-Starter kits provide a pre-built scaffolding for new Laravel applications, offering a foundation with common features like authentication, user interface components, and basic styling already configured. This allows developers to quickly begin building application-specific functionality without having to set up these fundamental elements from scratch. They streamline the initial development process and promote consistency across projects.
+Kits iniciais fornecem uma estrutura pré-construída para novas aplicações Laravel, oferecendo uma base com recursos comuns como autenticação, componentes de interface do usuário e estilos básicos já configurados. Isso permite que os desenvolvedores iniciem rapidamente a construção de funcionalidades específicas da aplicação sem ter que configurar esses elementos fundamentais do zero. Eles streamlinham o processo inicial de desenvolvimento e promovem consistência em projetos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Starter Kits](https://laravel.com/docs/starter-kits#main-content)
-- [@article@Laravel Starter Kits List: Official and Community](https://nabilhassen.com/laravel-starter-kits-list-official-and-community)
-- [@article@10 Best Laravel Starter Kits for 2025](https://saasykit.com/blog/10-best-laravel-starter-kits-for-2025)
+- [@official@Kits Iniciais](https://laravel.com/docs/starter-kits#main-content)
+- [@article@Lista de Kits Iniciais do Laravel: Oficiais e Comunidade](https://nabilhassen.com/laravel-starter-kits-list-official-and-community)
+- [@article@10 Melhores Kits Iniciais do Laravel para 2025](https://saasykit.com/blog/10-best-laravel-starter-kits-for-2025)

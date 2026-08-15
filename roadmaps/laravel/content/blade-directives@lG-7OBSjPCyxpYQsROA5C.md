@@ -1,10 +1,10 @@
-# Blade Directives
+# Diretrizes do Blade
 
-Blade directives are shortcuts to common PHP control structures, like `if` statements and loops, within Laravel's Blade templating engine. They provide a cleaner and more readable syntax for embedding PHP logic directly into your HTML views. Instead of writing verbose PHP code, you can use directives like `@if`, `@foreach`, and `@csrf` to control the flow and output of your templates.
+Diretrizes do Blade são atalhos para estruturas de controle PHP comuns, como declarações `if` e loops, dentro do mecanismo de templating do Blade do Laravel. Elas fornecem uma sintaxe mais limpa e legível para incorporar lógica PHP diretamente em suas visualizações HTML. Em vez de escrever código PHP verboso, você pode usar diretrizes como `@if`, `@foreach` e `@csrf` para controlar o fluxo e a saída de seus modelos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Blade Directives](https://laravel.com/docs/blade#blade-directives)
-- [@article@What are blade directives?](https://www.educative.io/answers/what-are-blade-directives)
-- [@article@Useful Blade Directives](https://laracasts.com/discuss/channels/laravel/useful-blade-directives)
-- [@video@Laravel Tutorial for Beginners #4 - Blade Directives](https://www.youtube.com/watch?v=cNE0HIRpeiU)
+- [@oficial@Diretrizes do Blade](https://laravel.com/docs/blade#blade-directives)
+- [@artigo@O que são diretrizes do Blade?](https://www.educative.io/answers/what-are-blade-directives)
+- [@artigo@Diretrizes úteis do Blade](https://laracasts.com/discuss/channels/laravel/useful-blade-directives)
+- [@vídeo@Tutorial do Laravel para iniciantes #4 - Diretrizes do Blade](https://www.youtube.com/watch?v=cNE0HIRpeiU)

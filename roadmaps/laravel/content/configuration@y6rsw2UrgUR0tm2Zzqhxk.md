@@ -1,7 +1,7 @@
-# Database Configuration
+# Configuração do Banco de Dados
 
-Laravel simplifies database interaction by allowing you to configure database connections within the `.env` file and the `config/database.php` file. The `.env` file stores sensitive information like database credentials, while `config/database.php` defines the available database connections and their default settings. You can specify the database driver (e.g., MySQL, PostgreSQL, SQLite), host, port, database name, username, and password. Laravel supports multiple database connections, enabling you to interact with different databases within the same application.
+O Laravel simplifica a interação com o banco de dados permitindo que você configure as conexões com o banco de dados no arquivo `.env` e no arquivo `config/database.php`. O arquivo `.env` armazena informações sensíveis como credenciais de banco de dados, enquanto `config/database.php` define as conexões de banco de dados disponíveis e suas configurações padrão. Você pode especificar o driver do banco de dados (por exemplo, MySQL, PostgreSQL, SQLite), o host, a porta, o nome do banco de dados, o usuário e a senha. O Laravel suporta múltiplas conexões com o banco de dados, permitindo que você interaja com diferentes bancos de dados dentro da mesma aplicação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Configuration](https://laravel.com/docs/configuration#main-content)
+- [@artigo@Configuração](https://laravel.com/docs/configuration#main-content)

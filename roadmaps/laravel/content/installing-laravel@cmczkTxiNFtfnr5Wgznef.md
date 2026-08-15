@@ -1,9 +1,9 @@
-# Installing Laravel
+# Instalando o Laravel
 
-Installing Laravel involves setting up a new project environment where you can begin building your web application. This process typically includes downloading the Laravel framework, configuring your server environment to meet its requirements, and setting up any necessary dependencies. The installation process ensures that you have a clean and functional starting point for your Laravel project.
+Instalar o Laravel envolve configurar um novo ambiente de projeto onde você pode começar a construir sua aplicação web. Esse processo geralmente inclui baixar o framework do Laravel, configurar seu ambiente de servidor para atender às suas necessidades e configurar quaisquer dependências necessárias. O processo de instalação garante que você tenha um ponto de partida limpo e funcional para o seu projeto do Laravel.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Installation](https://laravel.com/docs/installation)
-- [@article@How To Install Laravel on Windows, macOS, and Linux](https://kinsta.com/blog/install-laravel/)
-- [@video@How to Easily Install Laravel | Laravel for Complete Beginners | Laravel Tutorial](https://www.youtube.com/watch?v=iBaM5LYgyPk)
+- [@oficial@Instalação](https://laravel.com/docs/installation)
+- [@artigo@Como instalar o Laravel em Windows, macOS e Linux](https://kinsta.com/blog/install-laravel/)
+- [@vídeo@Como instalar facilmente o Laravel | Laravel para iniciantes | Tutorial do Laravel](https://www.youtube.com/watch?v=iBaM5LYgyPk)

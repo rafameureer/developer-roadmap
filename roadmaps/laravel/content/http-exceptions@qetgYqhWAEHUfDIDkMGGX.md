@@ -1,7 +1,7 @@
-# HTTP Exceptions
+# Exceções HTTP
 
-HTTP Exceptions are a specific type of exception used to represent HTTP error responses. They allow you to easily return standard HTTP error codes (like 404 Not Found or 500 Internal Server Error) along with a corresponding message and optional headers directly from your application logic. This provides a clean and consistent way to handle errors and communicate them to the client.
+Exceções HTTP são um tipo específico de exceção usado para representar respostas de erro HTTP. Eles permitem que você facilmente retorne códigos de erro padrão HTTP (como 404 Não Encontrado ou 500 Erro Interno do Servidor) junto com uma mensagem correspondente e cabeçalhos opcionais diretamente da lógica da sua aplicação. Isso fornece um modo limpo e consistente de lidar com erros e comunicá-los ao cliente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@HTTP Exceptions](https://laravel.com/docs/errors#http-exceptions)
+- [@oficial@Exceções HTTP](https://laravel.com/docs/errors#http-exceptions)

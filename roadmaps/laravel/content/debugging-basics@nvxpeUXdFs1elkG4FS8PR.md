@@ -1,8 +1,8 @@
-# Debugging Basics
+# Básicos de Depuração
 
-Debugging is the process of identifying and removing errors or defects from software code. It involves systematically testing the code, locating the source of problems, and then correcting them to ensure the software functions as intended. Effective debugging is crucial for producing reliable and maintainable applications.
+A depuração é o processo de identificar e remover erros ou defeitos do código de software. Envolve testar sistematicamente o código, localizar a origem dos problemas e corrigi-los para garantir que o software funcione conforme o planejado. A depuração eficaz é crucial para produzir aplicativos confiáveis e manteráveis.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@How to debug Laravel apps](https://madewithlaravel.com/blog/debugging-in-laravel)
-- [@video@Laravel 11 Debugging: The Ultimate Guide to Using the Dumpable Trait](https://www.youtube.com/watch?v=4y40zvSifQg)
+- [@artigo@Como depurar aplicações Laravel](https://madewithlaravel.com/blog/debugging-in-laravel)
+- [@vídeo@Depuração do Laravel 11: O Guia Último sobre o Uso do Trait Dumpable](https://www.youtube.com/watch?v=4y40zvSifQg)

@@ -4,7 +4,7 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 
 ---
 
-> ⚠️ **Total de itens sinalizados:** 1125
+> ⚠️ **Total de itens sinalizados:** 1133
 
 | Arquivo / Tópico | Motivo da Sinalização | Data/Hora |
 |---|---|---|
@@ -1133,3 +1133,11 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 | `roadmaps/kubernetes/content/role-based-access-control-rbac@jOq0WwLrq8tlmOgo64QDc.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:51:40.221606 |
 | `roadmaps/kubernetes/content/rolling-updates--rollbacks@yMSXdwDO36CLtp2TBC7aB.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:51:45.557058 |
 | `roadmaps/kubernetes/content/why-use-kubernetes@q-Ky0ietZGpyUcBQfh-BJ.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:53:17.657172 |
+| `roadmaps/laravel/content/casts-accessors@lPuBSP-PNifc0jIWzn_Gd.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:54:40.654766 |
+| `roadmaps/laravel/content/components@bDM7WPrs8fW_V4KkIfbru.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:54:46.239341 |
+| `roadmaps/laravel/content/facades@182iKn3FXLZEKI47S7GIk.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:56:33.161374 |
+| `roadmaps/laravel/content/file-storage@oB20h3_6U41cVvoACb63y.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:56:39.689689 |
+| `roadmaps/laravel/content/files@PaAvakZ8NziU1mEAN6okm.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:56:42.926815 |
+| `roadmaps/laravel/content/laravel-herd@Kee5SXZbkwmoxAF8O6Y2f.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:58:22.143207 |
+| `roadmaps/laravel/content/layouts@NkxalJLKZxQPvTzecBrJa.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:58:27.244173 |
+| `roadmaps/laravel/content/livewire@5A0DGzGXXBHQTRuzWEkuW.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:58:31.923150 |

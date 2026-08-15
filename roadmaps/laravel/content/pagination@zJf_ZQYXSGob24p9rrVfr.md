@@ -1,10 +1,10 @@
-# Pagination
+# Paginação
 
-Pagination is the process of dividing content into discrete pages, allowing users to navigate through large datasets in a manageable way. Instead of displaying all the data at once, which can be overwhelming and slow down performance, pagination presents the data in smaller, more digestible chunks, typically with navigation controls to move between pages. This improves user experience and reduces the load on the server.
+A paginação é o processo de dividir conteúdo em páginas discretas, permitindo que os usuários naveguem por grandes conjuntos de dados de maneira gerenciável. Em vez de exibir todos os dados de uma só vez, o que pode ser overwhelming e prejudicar o desempenho, a paginação apresenta os dados em partes menores e mais digestíveis, geralmente com controles de navegação para mover entre as páginas. Isso melhora a experiência do usuário e reduz a carga no servidor.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Pagination](https://laravel.com/docs/pagination#main-content)
-- [@article@A Guide to Pagination in Laravel](https://laravel-news.com/laravel-pagination)
-- [@article@How to use Pagination in Laravel?](https://bagisto.com/en/how-to-use-pagination-in-laravel/)
-- [@video@Laravel Tutorial for Beginners #15 - Pagination](https://www.youtube.com/watch?v=tPhp3PunmuU)
+- [@oficial@Paginação](https://laravel.com/docs/pagination#main-content)
+- [@artigo@Guia de Paginação no Laravel](https://laravel-news.com/laravel-pagination)
+- [@artigo@Como Usar a Paginação no Laravel?](https://bagisto.com/en/how-to-use-pagination-in-laravel/)
+- [@vídeo@Tutorial do Laravel para Iniciantes #15 - Paginação](https://www.youtube.com/watch?v=tPhp3PunmuU)

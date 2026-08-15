@@ -1,10 +1,10 @@
-# Eloquent Relationships
+# Relacionamentos Eloquent
 
-Eloquent relationships define how different database tables are connected. They allow you to easily retrieve related data from multiple tables using intuitive methods. For example, a user might have many posts, or a post might belong to a single category. Eloquent supports various relationship types like one-to-one, one-to-many, many-to-many, and polymorphic relationships, enabling you to model complex data structures and retrieve related data with ease.
+Os relacionamentos Eloquent definem como diferentes tabelas de banco de dados estão conectadas. Eles permitem que você recupere facilmente dados relacionados de várias tabelas usando métodos intuitivos. Por exemplo, um usuário pode ter muitos posts, ou um post pode pertencer a uma única categoria. O Eloquent suporta vários tipos de relacionamentos como relação um-para-um, um-para-muitos, muitos-para-muitos e relacionamentos polimórficos, permitindo que você modele estruturas de dados complexas e recupere facilmente dados relacionados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Eloquent: Relationships](https://laravel.com/docs/eloquent-relationships)
-- [@article@Laravel Eloquent Relationships: An Advanced Guide](https://kinsta.com/blog/laravel-relationships/)
-- [@article@Mastering Laravel Eloquent Relationships: A Complete Guide to Using “with()”](https://medium.com/@zulfikarditya/mastering-laravel-eloquent-relationships-a-complete-guide-to-using-with-b2258c857e44)
-- [@video@Laravel Eloquent Relationships](https://www.youtube.com/playlist?list=PL1JpS8jP1wgA7YIkG5pJDa0XwvonK-mQR)
+- [@oficial@Eloquent: Relacionamentos](https://laravel.com/docs/eloquent-relationships)
+- [@artigo@Relacionamentos Eloquent do Laravel: Um Guia Avançado](https://kinsta.com/blog/laravel-relationships/)
+- [@artigo@Dominando os Relacionamentos Eloquent do Laravel: Um Guia Completo para o Uso de "with()"](@medium.com/@zulfikarditya/mastering-laravel-eloquent-relationships-a-complete-guide-to-using-with-b2258c857e44)
+- [@vídeo@Relacionamentos Eloquent do Laravel](https://www.youtube.com/playlist?list=PL1JpS8jP1wgA7YIkG5pJDa0XwvonK-mQR)

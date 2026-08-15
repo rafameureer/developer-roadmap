@@ -1,8 +1,8 @@
-# Laravel for Full Stack
+# Laravel para Full Stack
 
-Full-stack development involves building both the front-end (what users see and interact with) and the back-end (the server-side logic, database interactions, and APIs) of a web application. Laravel, primarily a back-end framework, can be effectively used in full-stack development by pairing it with front-end technologies like Vue.js, React, or even Blade templates to create complete web applications. This approach allows developers to leverage Laravel's robust features for handling data, authentication, and routing, while using front-end tools to create dynamic and interactive user interfaces.
+O desenvolvimento full-stack envolve a construção tanto da frontend (o que os usuários veem e interagem) quanto da backend (a lógica do lado do servidor, interações com bancos de dados e APIs) de um aplicativo web. O Laravel, principalmente um framework de backend, pode ser utilizado efetivamente no desenvolvimento full-stack ao combinar-se com tecnologias frontend como Vue.js, React ou até mesmo templates Blade para criar aplicativos web completos. Este abordagem permite aos desenvolvedores aproveitar as funcionalidades robustas do Laravel para lidar com dados, autenticação e roteamento, enquanto usam ferramentas frontend para criar interfaces de usuário dinâmicas e interativas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Livewire](https://laravel-livewire.com/)
-- [@video@Vue + Laravel API Full Stack App - Build and Deploy](https://www.youtube.com/watch?v=qVi3vv9K8Fk)
+- [@video@Vue + Laravel API Full Stack App - Construir e Deployar](https://www.youtube.com/watch?v=qVi3vv9K8Fk)

@@ -1,7 +1,7 @@
-# Tests
+# Testes
 
-The `tests` directory in Laravel projects houses all the automated tests for your application. These tests are designed to verify that your code functions as expected, covering various aspects like models, controllers, routes, and features. It typically includes subdirectories like `Feature` for high-level feature tests and `Unit` for testing individual components in isolation. The tests are written using PHPUnit and provide a way to ensure code quality and prevent regressions as your application evolves.
+O diretório `tests` em projetos Laravel abriga todas as testes automatizados para sua aplicação. Esses testes são projetados para verificar que seu código funciona conforme o esperado, cobrindo diversos aspectos como modelos, controladores, rotas e recursos. Geralmente inclui subdiretórios como `Feature` para testes de alto nível de funcionalidades e `Unit` para testar componentes individuais em isolamento. Os testes são escritos usando o PHPUnit e fornecem uma maneira de garantir a qualidade do código e prevenir regressões à medida que sua aplicação evolui.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@The Tests Directory](https://laravel.com/docs/structure#the-tests-directory)
+- [@oficial@O Diretório de Testes](https://laravel.com/docs/structure#the-tests-directory)

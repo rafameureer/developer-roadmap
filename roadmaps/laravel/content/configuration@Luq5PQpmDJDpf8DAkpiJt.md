@@ -1,12 +1,12 @@
-# Deployment Configuration
+# Configuração de Implantação
 
-Deployment configuration involves setting up the necessary environment variables and settings for your Laravel application to run correctly in a production environment. This includes configuring database connections, cache settings, session drivers, and other environment-specific parameters to ensure optimal performance and security when the application is live.
+A configuração de implantação envolve configurar as variáveis de ambiente e as configurações necessárias para que o seu aplicativo Laravel funcione corretamente em um ambiente de produção. Isso inclui a configuração das conexões com o banco de dados, as configurações de cache, os drivers de sessão e outros parâmetros específicos do ambiente para garantir o desempenho e segurança ótimos quando o aplicativo estiver em execução.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Deployment](https://laravel.com/docs/12.x/deployment#introduction)
-- [@article@Deploying Laravel 12: From Local Development to Production Using CI/CD](https://medium.com/@zulfikarditya/deploying-laravel-12-from-local-development-to-production-using-ci-cd-615defdb7827)
-- [@article@How to Deploy Laravel Project on a Virtual Private Server](https://www.hostinger.com/tutorials/how-to-deploy-laravel)
-- [@video@Deploy Laravel applications fast and cheap](https://www.youtube.com/watch?v=kG8RP6Rk0K8)
-- [@video@Laravel Cloud vs. Laravel Forge](https://www.youtube.com/watch?v=I-WGiX-tQF8)
-- [@video@10+ Mistakes When Deploying Laravel Project to Production](https://www.youtube.com/watch?v=9gEsqgO05ZE)
+- [@oficial@Implantação](https://laravel.com/docs/12.x/deployment#introduction)
+- [@artigo@Implantando Laravel 12: De Desenvolvimento Local até a Produção Usando CI/CD](https://medium.com/@zulfikarditya/deploying-laravel-12-from-local-development-to-production-using-ci-cd-615defdb7827)
+- [@artigo@Como Implantar um Projeto Laravel em um Servidor Virtual Privado](https://www.hostinger.com/tutorials/how-to-deploy-laravel)
+- [@vídeo@Implantar Aplicações Laravel Rápido e Barato](https://www.youtube.com/watch?v=kG8RP6Rk0K8)
+- [@vídeo@Laravel Cloud vs. Laravel Forge](https://www.youtube.com/watch?v=I-WGiX-tQF8)
+- [@vídeo@10+ Erros Comuns ao Implantar Projeto Laravel para Produção](https://www.youtube.com/watch?v=9gEsqgO05ZE)

@@ -1,12 +1,12 @@
-# Blade Templating
+# Templating com o Blade
 
-Blade is a simple yet powerful templating engine provided with Laravel. It allows you to use plain PHP in your views, but also offers convenient shortcuts and directives for common tasks like displaying data, looping through arrays, and conditional statements. Blade templates are compiled into plain PHP code and cached, meaning they add essentially zero overhead to your application.
+O Blade é um mecanismo de templating simples e poderoso fornecido pelo Laravel. Ele permite que você use PHP puro em suas visualizações, mas também oferece atalhos convenientes e diretivas para tarefas comuns como exibir dados, iterar sobre arrays e declarações condicionais. Os modelos do Blade são compilados em código PHP puro e armazenados em cache, o que significa que adicionam quase zero overhead à sua aplicação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Blade Templating](https://laravel.com/docs/blade#main-content)
-- [@article@Laravel - Blade Templates](https://www.tutorialspoint.com/laravel/laravel_blade_templates.htm)
-- [@article@Laravel Blade Template Engine: A Beginner's Guide](https://dev.to/icornea/laravel-blade-template-engine-a-beginners-guide-54bi)
-- [@article@Laravel Blade Basics](https://www.inmotionhosting.com/support/edu/laravel/laravel-blade-basics/)
-- [@video@Laravel 12 – Creating Layouts with Blade for Reusable Templates](https://www.youtube.com/watch?v=gZkpUNVFiYE)
-- [@video@Blade templates & Layouts | Laravel 10 Tutorial #7](https://www.youtube.com/watch?v=3UhgEsLxmG8)
+- [@oficial@Templating com o Blade](https://laravel.com/docs/blade#main-content)
+- [@artigo@Laravel - Templates do Blade](https://www.tutorialspoint.com/laravel/laravel_blade_templates.htm)
+- [@artigo@Guia iniciante para o Motor de Template Blade do Laravel](https://dev.to/icornea/laravel-blade-template-engine-a-beginners-guide-54bi)
+- [@artigo@Básico do Blade no Laravel](https://www.inmotionhosting.com/support/edu/laravel/laravel-blade-basics/)
+- [@vídeo@Laravel 12 – Criando Layouts com o Blade para Templates Reutilizáveis](https://www.youtube.com/watch?v=gZkpUNVFiYE)
+- [@vídeo@Templates e Layouts do Blade | Tutorial do Laravel 10 #7](https://www.youtube.com/watch?v=3UhgEsLxmG8)

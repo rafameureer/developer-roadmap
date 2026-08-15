@@ -1,8 +1,8 @@
-# Blade and Livewire Integration
+# Integração de Blade e Livewire
 
-Blade is Laravel's templating engine, allowing developers to use simple syntax to create dynamic web pages. Livewire is a full-stack framework for Laravel that enables you to build dynamic interfaces using Laravel and PHP, without writing JavaScript. Combining Blade and Livewire allows you to create interactive and reactive user interfaces with the power and simplicity of Laravel's templating system and the real-time capabilities of Livewire components.
+Blade é o mecanismo de templating do Laravel, permitindo aos desenvolvedores usar uma sintaxe simples para criar páginas web dinâmicas. Livewire é um framework full-stack para o Laravel que permite você construir interfaces dinâmicas usando Laravel e PHP, sem escrever JavaScript. Combinar Blade e Livewire permite criar interfaces de usuário interativas e reativas com a potência e simplicidade do sistema de templating do Blade do Laravel e as capacidades em tempo real dos componentes do Livewire.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Supercharging Blade With Livewire](https://laravel.com/docs/blade#supercharging-blade-with-livewire)
-- [@official@Livewire](https://livewire.laravel.com/)
+- [@oficial@Superlendos o Blade com o Livewire](https://laravel.com/docs/blade#supercharging-blade-with-livewire)
+- [@oficial@Livewire](https://livewire.laravel.com/)

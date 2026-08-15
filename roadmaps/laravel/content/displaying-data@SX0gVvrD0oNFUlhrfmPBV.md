@@ -1,8 +1,8 @@
-# Displaying Data in Laravel Views
+# Exibindo Dados nas Views do Laravel
 
-Displaying data in Laravel views involves passing information from your application's logic (controllers) to the view templates, which are then rendered into HTML and presented to the user. This process allows you to dynamically generate web pages with content that changes based on user input, database records, or other application data. Blade, Laravel's templating engine, provides a simple and powerful syntax for embedding PHP code within your HTML, making it easy to display variables, loop through arrays, and perform other data manipulations directly within your views.
+Exibir dados nas views do Laravel envolve passar informações da lógica de sua aplicação (controladores) para os modelos de visualização, que são então renderizados em HTML e apresentados ao usuário. Esse processo permite gerar dinamicamente páginas web com conteúdo que muda com base na entrada do usuário, registros do banco de dados ou outros dados da aplicação. O Blade, o motor de template do Laravel, fornece uma sintaxe simples e poderosa para incorporar código PHP em seu HTML, tornando fácil exibir variáveis, percorrer arrays e realizar outras manipulações de dados diretamente nas suas views.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Displaying data](https://laravel.com/docs/blade#displaying-data)
-- [@article@Laravel | Working with Blade Template Engine](https://magecomp.com/blog/laravel-working-with-blade-template-engine/)
+- [@oficial@Exibindo Dados](https://laravel.com/docs/blade#displaying-data)
+- [@artigo@Laravel | Trabalhando com o Motor de Template Blade](https://magecomp.com/blog/laravel-working-with-blade-template-engine/)

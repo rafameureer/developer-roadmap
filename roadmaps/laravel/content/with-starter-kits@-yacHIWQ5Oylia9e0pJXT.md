@@ -1,10 +1,10 @@
-# Authentication with Starter Kits
+# Autenticação com Kits Iniciais
 
-Authentication is the process of verifying a user's identity. Laravel starter kits provide pre-built scaffolding for authentication features like registration, login, password reset, and email verification. These kits offer a quick and convenient way to implement authentication in your Laravel application, saving you from writing the boilerplate code from scratch.
+A autenticação é o processo de verificar a identidade do usuário. Os kits iniciais do Laravel fornecem estruturação pré-construída para recursos de autenticação como registro, login, redefinição de senha e verificação de e-mail. Esses kits oferecem uma maneira rápida e conveniente de implementar autenticação em seu aplicativo Laravel, economizando tempo ao não ter que escrever o código boilerplate do zero.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Authentication with Starter Kits](https://laravel.com/docs/authentication#starter-kits)
-- [@article@Starter Kits and Using Laravel Breeze](https://laraveldaily.com/lesson/laravel-from-scratch/starter-kits-breeze)
-- [@video@Laravel 12 Starter Kits: THREE Layouts for Auth](https://www.youtube.com/watch?v=hSzSMrRFvtk)
-- [@video@Two-Factor Authentication Now Available in Laravel Starter Kits](https://www.youtube.com/watch?v=4osPfTw-FB0)
+- [@official@Autenticação com Kits Iniciais](https://laravel.com/docs/authentication#starter-kits)
+- [@article@Kits Iniciais e Usando Laravel Breeze](https://laraveldaily.com/lesson/laravel-from-scratch/starter-kits-breeze)
+- [@video@Laravel 12 Kits Iniciais: TRÊS Layouts para Autenticação](https://www.youtube.com/watch?v=hSzSMrRFvtk)
+- [@video@Autenticação de Dois Fatores Agora Disponível nos Kits Iniciais do Laravel](https://www.youtube.com/watch?v=4osPfTw-FB0)

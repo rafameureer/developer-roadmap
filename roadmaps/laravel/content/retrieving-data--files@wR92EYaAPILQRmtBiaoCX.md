@@ -1,10 +1,10 @@
-# Retrieving Data and Files
+# Recuperando Dados e Arquivos
 
-When a user interacts with a web application, they often send data to the server through forms or file uploads. Retrieving data involves accessing and using the information submitted by the user, such as form inputs or query parameters. Similarly, retrieving files involves accessing and processing files that users upload to the server, enabling the application to handle and store these files appropriately.
+Quando um usuário interage com uma aplicação web, eles geralmente enviam dados para o servidor através de formulários ou uploads de arquivos. A recuperação de dados envolve acessar e usar as informações enviadas pelo usuário, como entradas de formulário ou parâmetros de consulta. Da mesma forma, a recuperação de arquivos envolve acessar e processar arquivos que os usuários carregam no servidor, permitindo que a aplicação manipule e armazene esses arquivos adequadamente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Retrieving Files](https://laravel.com/docs/filesystem#retrieving-files)
-- [@article@HTTP Requests](https://laravel.com/docs/requests)
-- [@video@Laravel and External APIs: Get Data with HTTP Client](https://www.youtube.com/watch?v=oEDDZsmMLc0)
-- [@video@File Upload in Laravel: Main Things You Need To Know](https://www.youtube.com/watch?v=xN-CF7dzeyM)
+- [@article@Recuperando Arquivos](https://laravel.com/docs/filesystem#retrieving-files)
+- [@article@Requisições HTTP](https://laravel.com/docs/requests)
+- [@video@Laravel e APIs Externas: Obtenha Dados com Cliente HTTP](https://www.youtube.com/watch?v=oEDDZsmMLc0)
+- [@video@Upload de Arquivos no Laravel: Coisas Principais que Você Precisa Saber](https://www.youtube.com/watch?v=xN-CF7dzeyM)

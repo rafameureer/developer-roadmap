@@ -1,7 +1,7 @@
-# Resources Directory
+# Diretório de Recursos
 
-The `resources` directory in a Laravel project is where you store your application's raw, uncompiled assets. This includes things like your views (HTML templates), language files, CSS, JavaScript, and images. These assets are often processed by tools like Webpack or Vite before being served to the user.
+O diretório `resources` em um projeto Laravel é onde você armazena seus ativos brutos e não compilados da aplicação. Isso inclui coisas como suas views (modelos HTML), arquivos de idioma, CSS, JavaScript e imagens. Esses ativos são frequentemente processados por ferramentas como Webpack ou Vite antes de serem servidos ao usuário.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@The Routes Directory](https://laravel.com/docs/structure#the-routes-directory)
+- [@official@O Diretório de Rotas](https://laravel.com/docs/structure#the-routes-directory)

@@ -1,9 +1,9 @@
-# Route Caching
+# Cacheamento de Rotas
 
-Route caching in Laravel involves storing the compiled routes in a cache file to significantly reduce the time it takes to register all of your application's routes on each request. Instead of re-parsing route definitions every time, Laravel can quickly load the routes from the cached file, leading to improved application performance, especially in larger applications with many routes. This is particularly beneficial in production environments where route definitions rarely change.
+O cacheamento de rotas no Laravel envolve armazenar as rotas compiladas em um arquivo de cache para significativamente reduzir o tempo que leva a registrar todas as rotas do seu aplicativo em cada solicitação. Em vez de re-analisar as definições de rota toda vez, o Laravel pode carregar rapidamente as rotas do arquivo de cache, levando a um melhor desempenho do aplicativo, especialmente em aplicativos maiores com muitas rotas. Isso é particularmente benéfico em ambientes de produção onde as definições de rota raramente mudam.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Route Caching](https://laravel.com/docs/routing#route-caching)
-- [@article@Optimize your app with Route Caching in Laravel](https://medium.com/@harrisrafto/optimize-your-app-with-route-caching-in-laravel-5def92abdd0a)
-- [@video@#2: Route Cache | Laravel Performance Tips 🚀](https://www.youtube.com/watch?v=NBVY4e3oQLc)
+- [@official@Cacheamento de Rotas](https://laravel.com/docs/routing#route-caching)
+- [@article@Optimize seu app com Cacheamento de Rotas no Laravel](https://medium.com/@harrisrafto/optimize-your-app-with-route-caching-in-laravel-5def92abdd0a)
+- [@video#2: Cacheamento de Rotas | Dicas de Desempenho do Laravel 🚀](https://www.youtube.com/watch?v=NBVY4e3oQLc)

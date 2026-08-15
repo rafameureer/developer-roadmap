@@ -1,9 +1,9 @@
-# Named Routes
+# Rotas Nomeadas
 
-Named routes provide a convenient way to refer to routes throughout your application. Instead of hardcoding route URIs, you can assign a name to a route and then use that name to generate URLs or redirects. This makes your code more maintainable because if the route URI changes, you only need to update it in one place (the route definition) rather than everywhere it's used.
+As rotas nomeadas oferecem uma maneira conveniente de se referir a rotas em todo o seu aplicativo. Em vez de codificar URIs de rota, você pode atribuir um nome a uma rota e depois usar esse nome para gerar URLs ou redirecionamentos. Isso torna seu código mais manterável porque, se a URI da rota mudar, você só precisa atualizá-la em um único lugar (a definição da rota) em vez de em todo o lugar onde ela é usada.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Names Routes](https://laravel.com/docs/routing#named-routes)
-- [@article@What are Named Routes in Laravel?](https://www.tutorialspoint.com/what-are-named-routes-in-laravel)
-- [@video@Laravel Tutorial for Beginners #14 - Named Routes](https://www.youtube.com/watch?v=awStsyqYcbc)
+- [@artigo@Rotas Nomeadas](https://laravel.com/docs/routing#named-routes)
+- [@artigo@O que são Rotas Nomeadas no Laravel?](https://www.tutorialspoint.com/what-are-named-routes-in-laravel)
+- [@vídeo@Tutorial do Laravel para Iniciantes #14 - Rotas Nomeadas](https://www.youtube.com/watch?v=awStsyqYcbc)

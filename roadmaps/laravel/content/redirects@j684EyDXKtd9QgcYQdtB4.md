@@ -1,7 +1,7 @@
-# Redirects
+# Redirecionamentos
 
-Redirects are a way to send a user from one URL to another. They are commonly used after a form submission to prevent resubmitting data, or to guide users to a different part of a website after an action has been completed. A redirect response contains an HTTP status code in the 300 range, indicating that the client should perform another request to a different URL.
+Os redirecionamentos são uma maneira de enviar um usuário de uma URL para outra. Eles são comumente usados após a submissão de um formulário para prevenir o resubmit de dados, ou para guiar os usuários para uma parte diferente do site após uma ação ter sido concluída. Uma resposta de redirecionamento contém um código de status HTTP no intervalo 300, indicando que o cliente deve realizar outra solicitação para uma URL diferente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Redirects Response](https://laravel.com/docs/responses#redirects)
+- [@oficial@Respostas de Redirecionamento](https://laravel.com/docs/responses#redirects)

@@ -1,10 +1,10 @@
-# Creating Responses
+# Criando Respostas
 
-Creating responses in web applications involves generating and sending data back to the client in response to a request. This data can be in various formats, such as HTML, JSON, or XML, and often includes information requested by the client or the result of an action performed on the server. The response also includes HTTP status codes and headers that provide additional information about the response.
+Criar respostas em aplicações web envolve gerar e enviar dados de volta ao cliente como resposta a uma solicitação. Esses dados podem estar em vários formatos, como HTML, JSON ou XML, e muitas vezes incluem informações solicitadas pelo cliente ou o resultado de uma ação realizada no servidor. A resposta também inclui códigos de status HTTP e cabeçalhos que fornecem informações adicionais sobre a resposta.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@HTTP Responses](https://laravel.com/docs/responses)
-- [@article@Laravel Response Classes](https://laravel-news.com/laravel-response-classes)
-- [@article@Laravel Response](https://www.w3schools.in/laravel/response)
-- [@video@Laravel Return Types in API Controller: Five Options?](https://www.youtube.com/watch?v=xC2QzRzefVg)
+- [@oficial@Respostas HTTP](https://laravel.com/docs/responses)
+- [@artigo@Classes de Resposta no Laravel](https://laravel-news.com/laravel-response-classes)
+- [@artigo@Resposta no Laravel](https://www.w3schools.in/laravel/response)
+- [@vídeo@Tipos de Retorno em Controladores API do Laravel: Cinco Opções?](https://www.youtube.com/watch?v=xC2QzRzefVg)

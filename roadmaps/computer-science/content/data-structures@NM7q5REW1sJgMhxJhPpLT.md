@@ -1,11 +1,11 @@
-# Data Structures
+# Estruturas de Dados
 
-As the name indicates itself, a **Data Structure** is a way of organizing the data in the **memory** so that it can be used efficiently. Some common data structures are array, linked list, stack, hashtable, queue, tree, heap, and graph.
+Como o próprio nome sugere, uma **Estrutura de Dados** é uma maneira de organizar os dados na **memória** de forma que possam ser usados eficientemente. Alguns exemplos comuns de estruturas de dados são array, lista encadeada, pilha, tabela hash, fila, árvore, heap e grafo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit Dedicated DSA Roadmap](https://roadmap.sh/datastructures-and-algorithms)
-- [@course@Data Structures and Algorithms By Google](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/)
-- [@video@Data Structures Illustrated](https://www.youtube.com/watch?v=9rhT3P1MDHk&list=PLkZYeFmDuaN2-KUIv-mvbjfKszIGJ4FaY)
-- [@video@Data Structures playlist](https://youtube.com/playlist?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu&si=_EEf7x58G6lUcMGG)
-- [@feed@Explore top posts about Data Structures](https://app.daily.dev/tags/data-structures?ref=roadmapsh)
+- [@roadmap@Visite a Estrutura de Dados Específica](https://roadmap.sh/datastructures-and-algorithms)
+- [@curso@Estruturas de Dados e Algoritmos pelo Google](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/)
+- [@vídeo@Ilustração de Estruturas de Dados](https://www.youtube.com/watch?v=9rhT3P1MDHk&list=PLkZYeFmDuaN2-KUIv-mvbjfKszIGJ4FaY)
+- [@playlist@Lista de reprodução de Estruturas de Dados](https://youtube.com/playlist?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu&si=_EEf7x58G6lUcMGG)
+- [@feed@Explore os principais posts sobre Estruturas de Dados](https://app.daily.dev/tags/data-structures?ref=roadmapsh)

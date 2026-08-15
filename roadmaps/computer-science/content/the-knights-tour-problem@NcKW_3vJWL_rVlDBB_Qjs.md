@@ -1,9 +1,9 @@
-# Knight's Tour Problem
+# Problema do Tour de Cavalo
 
-Knight's Tour Problem is a problem where we have to find a path for a knight to visit all the cells of a chessboard without visiting any cell twice.
+O Problema do Tour de Cavalo é um problema onde temos que encontrar um caminho para uma cavalo visitar todas as células de um tabuleiro de xadrez sem visitar nenhuma célula duas vezes.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@article@Knights Tour](https://bradfieldcs.com/algos/graphs/knights-tour/)
-- [@article@Knights Tour Problem](https://www.codesdope.com/course/algorithms-knights-tour-problem/)
-- [@article@Backtracking: The Knight’s Tour Problem](https://www.codingninjas.com/codestudio/library/backtracking-the-knights-tour-problem)
+- [@artigo@Tour de Cavalo](https://bradfieldcs.com/algos/graphs/knights-tour/)
+- [@artigo@Problema do Tour de Cavalo](https://www.codesdope.com/course/algorithms-knights-tour-problem/)
+- [@artigo@Backtracking: O Problema do Tour de Cavalo](https://www.codingninjas.com/codestudio/library/backtracking-the-knights-tour-problem)

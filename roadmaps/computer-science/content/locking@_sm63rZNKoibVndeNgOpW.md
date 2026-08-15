@@ -1,9 +1,9 @@
-# Locking
+# Bloqueio
 
-Locks are used to prevent data from being modified by multiple processes at the same time. This is important because if two processes are modifying the same data at the same time, the data can become corrupted. Locks are used to prevent this from happening.
+Os bloqueios são usados para prevenir que os dados sejam modificados por vários processos ao mesmo tempo. Isso é importante porque, se dois processos estiverem modificando os mesmos dados ao mesmo tempo, os dados podem se tornar corrompidos. Os bloqueios são usados para evitar isso de acontecer.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Locking in Databases and Isolation Mechanisms](https://medium.com/inspiredbrilliance/what-are-database-locks-1aff9117c290)
-- [@article@Understanding Database Lock Timeouts and Deadlocks](https://www.dbta.com/Columns/DBA-Corner/Understanding-Database-Lock-Timeouts-and-Deadlocks-148659.aspx)
-- [@video@Row-Level Database Locks Explained - (Read vs Exclusive)](https://www.youtube.com/watch?v=nuBi2XbHH18)
+- [@artigo@Bloqueio em Bancos de Dados e Mecanismos de Isolamento](https://medium.com/inspiredbrilliance/what-are-database-locks-1aff9117c290)
+- [@artigo@Entendendo os Tempos Limite de Bloqueio e Deadlocks em Bancos de Dados](https://www.dbta.com/Columns/DBA-Corner/Understanding-Database-Lock-Timeouts-and-Deadlocks-148659.aspx)
+- [@vídeo@Bloqueios de Nível de Linha em Bancos de Dados Explained - (Leitura vs Exclusivo)](https://www.youtube.com/watch?v=nuBi2XbHH18)

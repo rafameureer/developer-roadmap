@@ -1,8 +1,8 @@
-# Views
+# Visualizações
 
-Views in SQL are kind of virtual tables. A view also has rows and columns as they are in a real table in the database. We can create a view by selecting fields from one or more tables present in the database. A View can either have all the rows of a table or specific rows based on certain condition.
+As visualizações em SQL são como tabelas virtuais. Uma visualização também tem linhas e colunas, assim como uma tabela real no banco de dados. Podemos criar uma visualização selecionando campos de uma ou mais tabelas presentes no banco de dados. Uma visualização pode ter todas as linhas de uma tabela ou linhas específicas com base em determinada condição.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Database Views](https://www.ibm.com/docs/en/eamfoc/7.6.0?topic=structure-views)
-- [@article@SQL Views - Wikipedia](https://en.wikipedia.org/wiki/View_(SQL))
+- [@artigo@Visualizações do Banco de Dados](https://www.ibm.com/docs/en/eamfoc/7.6.0?topic=structure-views)
+- [@artigo@Visualizações SQL - Wikipedia](https://en.wikipedia.org/wiki/View_(SQL))

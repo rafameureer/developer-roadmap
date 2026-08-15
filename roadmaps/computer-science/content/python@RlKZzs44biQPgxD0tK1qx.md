@@ -1,15 +1,15 @@
 # Python
 
-Python is a well known programming language which is both a strongly typed and a dynamically typed language. Being an interpreted language, code is executed as soon as it is written and the Python syntax allows for writing code in functional, procedural or object-oriented programmatic ways.
+Python é um popular idioma de programação que é tanto fortemente tipado quanto dinamicamente tipado. Como sendo um idioma interpretado, o código é executado assim que é escrito e a sintaxe do Python permite escrever código em estilos funcionais, procedurais ou orientados a objetos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit Dedicated Python Roadmap](https://roadmap.sh/python)
-- [@official@Python](https://www.python.org/)
-- [@official@Getting Started with Python](https://www.python.org/about/gettingstarted/)
-- [@article@Automate the Boring Stuff](https://automatetheboringstuff.com/)
-- [@article@Python principles - Python basics](https://pythonprinciples.com/)
-- [@article@Python Crash Course](https://ehmatthes.github.io/pcc/)
-- [@article@An Introduction to Python for Non-Programmers](https://thenewstack.io/an-introduction-to-python-for-non-programmers/)
-- [@article@Getting Started with Python and InfluxDB](https://thenewstack.io/getting-started-with-python-and-influxdb/)
+- [@roadmap@Visite o Caminho Dedidado de Python](https://roadmap.sh/python)
+- [@oficial@Python](https://www.python.org/)
+- [@oficial@Começando com Python](https://www.python.org/about/gettingstarted/)
+- [@artigo@Automatize the Boring Stuff](https://automatetheboringstuff.com/)
+- [@artigo@Princípios de Python - Introdução básica ao Python](https://pythonprinciples.com/)
+- [@artigo@Curso de Crachá do Python](https://ehmatthes.github.io/pcc/)
+- [@artigo@Introdução ao Python para Não-Programadores](https://thenewstack.io/an-introduction-to-python-for-non-programmers/)
+- [@artigo@Começando com Python e InfluxDB](https://thenewstack.io/getting-started-with-python-and-influxdb/)
 - [@feed@Explore top posts about Python](https://app.daily.dev/tags/python?ref=roadmapsh)

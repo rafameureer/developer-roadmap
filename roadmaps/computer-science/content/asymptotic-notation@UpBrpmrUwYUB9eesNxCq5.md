@@ -1,17 +1,17 @@
-# Asymptotic Notation
+# Notação Assintótica
 
-The efficiency of an algorithm depends on the amount of time, storage and other resources required to execute the algorithm. The efficiency is measured with the help of asymptotic notations.
+A eficiência de um algoritmo depende da quantidade de tempo, armazenamento e outros recursos necessários para executar o algoritmo. A eficiência é medida com a ajuda das notações assintóticas.
 
-An algorithm may not have the same performance for different types of inputs. With the increase in the input size, the performance will change.
+Um algoritmo pode não ter desempenho igual para diferentes tipos de entradas. Com o aumento do tamanho da entrada, o desempenho mudará.
 
-The study of change in performance of the algorithm with the change in the order of the input size is defined as asymptotic analysis.
+O estudo do change no desempenho do algoritmo com o change no order do tamanho da entrada é definido como análise assintótica.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Asymptotic Analysis: Big-O Notation and More](https://www.programiz.com/dsa/asymptotic-notations)
-- [@article@Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
-- [@article@Big O Notation | Brilliant Math & Science Wiki](https://brilliant.org/wiki/big-o-notation/)
-- [@video@Big O Notation — Calculating Time Complexity](https://www.youtube.com/watch?v=Z0bH0cMY0E8)
-- [@video@Big O Notation in 5 Minutes](https://www.youtube.com/watch?v=__vX2sjlpXU)
-- [@video@Asymptotic Notation - CS50](https://www.youtube.com/watch?v=iOq5kSKqeR4)
-- [@video@CS 61B Lecture 19: Asymptotic Analysis](https://archive.org/details/ucberkeley_webcast_VIS4YDpuP98)
+- [@artigo@Análise Assintótica: Notação Big-O e Mais](https://www.programiz.com/dsa/asymptotic-notations)
+- [@folha de dicas@Folha de Dicas Big-O](https://www.bigocheatsheet.com/)
+- [@artigo@Notação Big O | Wiki Matemática & Científica Brilhante](https://brilliant.org/wiki/big-o-notation/)
+- [@vídeo@Notação Big O — Calculando Complexidade de Tempo](https://www.youtube.com/watch?v=Z0bH0cMY0E8)
+- [@vídeo@Big O Notation em 5 Minutos](https://www.youtube.com/watch?v=__vX2sjlpXU)
+- [@vídeo@Notação Assintótica - CS50](https://www.youtube.com/watch?v=iOq5kSKqeR4)
+- [@vídeo@Aula 19 do UC Berkeley CS61B: Análise Assintótica](https://archive.org/details/ucberkeley_webcast_VIS4YDpuP98)

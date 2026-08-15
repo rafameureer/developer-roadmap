@@ -1,8 +1,8 @@
-# How Computers Calculate?
+# Como os Computadores Calculam?
 
-Computers calculate using the binary system, where all data is represented as 0s and 1s. These binary states correspond to the ON/OFF positions of transistors, which are the building blocks of logic gates (AND, OR, NOT). Numbers, characters, and instructions are broken into binary sequences (bits), and grouped into bytes (8 bits). Arithmetic operations like addition are performed through logic gates, which combine binary values. The CPU executes these calculations by following a fetch-decode-execute cycle. Complex calculations, such as handling decimals, use floating-point representation. Programs written in high-level languages are compiled into machine code for the CPU to execute.
+Os computadores calculam usando o sistema binário, onde todos os dados são representados como 0s e 1s. Estes estados binários correspondem às posições ON/OFF dos transistores, que são os blocos de construção das portas lógicas (AND, OR, NOT). Números, caracteres e instruções são quebrados em sequências binárias (bits) e agrupados em bytes (8 bits). Operações aritméticas como adição são realizadas através de portas lógicas, que combinam valores binários. O CPU executa esses cálculos seguindo um ciclo fetch-decode-execute. Cálculos complexos, como o tratamento de decimais, usam a representação de ponto flutuante. Programas escritos em linguagens de alto nível são compilados em código máquina para que o CPU possa executá-los.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@How Does A Computer Calculate Numbers?](https://www.sciencing.com/computer-calculate-numbers-4705975/)
-- [@video@How Computers Calculate - ALU](https://youtu.be/1I5ZMmrOfnA)
+- [@artigo@Como um Computador Calcula Números?](https://www.sciencing.com/computer-calculate-numbers-4705975/)
+- [@vídeo@Como os Computadores Calculam - ALU](https://youtu.be/1I5ZMmrOfnA)

@@ -1,12 +1,12 @@
 # Lock / Mutex / Semaphore
 
-A lock allows only one thread to enter the part that's locked and the lock is not shared with any other processes.
+Um lock permite que apenas uma thread entre na parte que está bloqueada e o lock não é compartilhado com nenhum outro processo.
 
-A mutex is the same as a lock but it can be system wide (shared by multiple processes).
+Um mutex é o mesmo que um lock, mas pode ser de escopo global (compartilhado por vários processos).
 
-A semaphore does the same as a mutex but allows x number of threads to enter, this can be used for example to limit the number of cpu, io or ram intensive tasks running at the same time.
+Um semaphore faz a mesma coisa que um mutex, mas permite x número de threads entrar. Isso pode ser usado, por exemplo, para limitar o número de tarefas intensivas em CPU, I/O ou RAM sendo executadas simultaneamente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is the difference between lock, mutex and semaphore?](https://stackoverflow.com/questions/2332765/what-is-the-difference-between-lock-mutex-and-semaphore)
-- [@article@What is a Semaphore](https://stackoverflow.com/questions/34519/what-is-a-semaphore/40238#40238)
+- [@article@O que é a diferença entre lock, mutex e semaphore?](https://stackoverflow.com/questions/2332765/what-is-the-difference-between-lock-mutex-and-semaphore)
+- [@article@O que é um Semaphore](https://stackoverflow.com/questions/34519/what-is-a-semaphore/40238#40238)

@@ -1,8 +1,8 @@
-# OSI and TCP/IP Models
+# Modelo OSI e TCP/IP
 
-The OSI and TCP/IP model is used to help the developer to design their system for interoperability. The OSI model has 7 layers while the TCP/IP model has a more summarized form of the OSI model only consisting 4 layers. This is important if you're trying to design a system to communicate with other systems.
+O modelo OSI e o modelo TCP/IP são usados para ajudar o desenvolvedor a projetar seu sistema para interoperabilidade. O modelo OSI tem 7 camadas, enquanto o modelo TCP/IP tem uma forma resumida do modelo OSI, composta apenas por 4 camadas. Isso é importante se você estiver tentando projetar um sistema para se comunicar com outros sistemas.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@article@Cloudflare - What is the OSI model](https://www.cloudflare.com/learning/ddos/glossary/open-systems-interconnection-model-osi/)
-- [@video@TCP/IP and the OSI Model Explained!](https://www.youtube.com/watch?v=e5DEVa9eSN0)
+- [@artigo@Cloudflare - O que é o Modelo OSI](https://www.cloudflare.com/learning/ddos/glossary/open-systems-interconnection-model-osi/)
+- [@vídeo@TCP/IP e o Modelo OSI Explicado!](https://www.youtube.com/watch?v=e5DEVa9eSN0)

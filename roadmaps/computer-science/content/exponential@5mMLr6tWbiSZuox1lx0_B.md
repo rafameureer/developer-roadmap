@@ -1,6 +1,6 @@
-# Exponential
+# Exponencial
 
-Exponential algorithms are those that grow at a rate of 2^n. This means that for each additional input, the algorithm will take twice as long to run. The following function is an example of an exponential algorithm:
+Algoritmos exponenciais são aqueles que crescem em uma taxa de 2^n. Isso significa que para cada entrada adicional, o algoritmo levará o dobro do tempo para ser executado. A seguinte função é um exemplo de um algoritmo exponencial:
 
     def exponential(n):
         if n == 0:
@@ -8,9 +8,9 @@ Exponential algorithms are those that grow at a rate of 2^n. This means that for
         return exponential(n - 1) + exponential(n - 1)
     
 
-As you can see, the algorithm's runtime grows exponentially. For each additional input, the algorithm will take twice as long to run.
+Como você pode ver, o tempo de execução do algoritmo cresce exponencialmente. Para cada entrada adicional, o algoritmo levará o dobro do tempo para ser executado.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@Big O Notation — Calculating Time Complexity](https://www.youtube.com/watch?v=Z0bH0cMY0E8)
-- [@video@Big O Notations](https://www.youtube.com/watch?v=V6mKVRU1evU)
+- [@vídeo@Notação Big O — Calculando Complexidade Temporal](https://www.youtube.com/watch?v=Z0bH0cMY0E8)
+- [@vídeo@Notações Big O](https://www.youtube.com/watch?v=V6mKVRU1evU)

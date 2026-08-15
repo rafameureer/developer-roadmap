@@ -1,13 +1,13 @@
-# Polynomial
+# Polinômio
 
-Polynomial algorithms are algorithms that have a runtime that is a polynomial function of the input size. This means that the runtime is a function of the form `n^k` where `k` is a constant. For example, the runtime of the following algorithm is `n^2`:
+Algoritmos polinomiais são algoritmos que têm um tempo de execução que é uma função polinomial do tamanho da entrada. Isso significa que o tempo de execução é uma função da forma `n^k` onde `k` é uma constante. Por exemplo, o tempo de execução do seguinte algoritmo é `n^2`:
 
     def polynomial_algorithm(n):
         for i in range(n):
             for j in range(n):
                 print(i, j)
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para saber mais:
 
-- [@video@Big O Notation — Calculating Time Complexity](https://www.youtube.com/watch?v=Z0bH0cMY0E8)
-- [@video@Big O Notations](https://www.youtube.com/watch?v=V6mKVRU1evU)
+- [@video@Notação Big O — Calculando Complexidade de Tempo](https://www.youtube.com/watch?v=Z0bH0cMY0E8)
+- [@video@Notações Big O](https://www.youtube.com/watch?v=V6mKVRU1evU)

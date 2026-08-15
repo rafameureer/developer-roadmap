@@ -1,15 +1,15 @@
-# Usecase Diagrams
+# Diagramas de Casos de Uso
 
-Usecase diagrams are a type of diagram that are used to model the interactions between the **actors** and the **usecases** of the system.
+Diagramas de casos de uso são um tipo de diagrama que são usados para modelar as interações entre os **atores** e os **casos de uso** do sistema.
 
-An actor is a person or a system that interacts with the system. Actors are represented by a rectangle with the name of the actor written inside it.
+Um ator é uma pessoa ou um sistema que interage com o sistema. Atores são representados por um retângulo com o nome do ator escrito dentro dele.
 
-A usecase is a task that the system performs. Usecases are represented by an ellipse with the name of the usecase written inside it.
+Um caso de uso é uma tarefa que o sistema realiza. Casos de uso são representados por uma elipse com o nome do caso de uso escrito dentro dela.
 
-A usecase diagram is a diagram that shows the actors and the usecases of the system. The diagram is represented by a rectangle that contains the name of the system inside it. The actors are represented by rectangles and the usecases are represented by ellipses.
+Um diagrama de casos de uso é um diagrama que mostra os atores e os casos de uso do sistema. O diagrama é representado por um retângulo que contém o nome do sistema dentro dele. Os atores são representados por retângulos e os casos de uso são representados por elipses.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@UML Use Case Diagram Tutorial](https://www.lucidchart.com/pages/uml-use-case-diagram)
-- [@article@What is Use Case Diagram?](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-use-case-diagram/)
-- [@video@UML Use Case Diagram Tutorial](https://www.youtube.com/watch?v=zid-MVo7M-E)
+- [@artigo@Tutorial de Diagrama de Caso de Uso UML](https://www.lucidchart.com/pages/uml-use-case-diagram)
+- [@artigo@O que é Diagrama de Caso de Uso?](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-use-case-diagram/)
+- [@vídeo@Tutorial de Diagrama de Caso de Uso UML](https://www.youtube.com/watch?v=zid-MVo7M-E)

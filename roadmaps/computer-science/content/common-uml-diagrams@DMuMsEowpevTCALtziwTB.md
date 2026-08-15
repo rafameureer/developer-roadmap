@@ -1,8 +1,8 @@
 # UML
 
-UML is a standard way of visualizing a software system. It is a general-purpose, developmental, modeling language in the field of software engineering that is intended to provide a standard way to visualize the design of a system.
+UML é uma maneira padrão de visualizar um sistema de software. É uma linguagem de modelagem geral, desenvolvente e orientada ao campo da engenharia de software com o intuito de fornecer uma maneira padrão de visualizar o design de um sistema.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Unified Modeling Language (UML) Description](https://www.uml-diagrams.org/)
-- [@video@UML Diagrams Full Course (Unified Modeling Language)](https://www.youtube.com/watch?v=WnMQ8HlmeXc)
+- [@article@Descrição do Unified Modeling Language (UML)](https://www.uml-diagrams.org/)
+- [@video@Curso Completo sobre Diagramas UML (Unified Modeling Language)](https://www.youtube.com/watch?v=WnMQ8HlmeXc)

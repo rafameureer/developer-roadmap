@@ -1,7 +1,7 @@
-# Architectural Styles
+# Estilos Arquitetônicos
 
-Architectural patterns are the fundamental organization of a system, defining how the system is composed and how its components interact. Architectural patterns are identified by their name, like client-server, peer-to-peer, and layered.
+Os padrões arquitetônicos são a organização fundamental de um sistema, definindo como o sistema é composto e como seus componentes interagem. Os padrões arquitetônicos são identificados por seu nome, como cliente-servidor, peer-to-peer e camadas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@List of Software Architecture Styles and Patterns](https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns)
+- [@artigo@Lista de Estilos e Padrões de Arquitetura de Software](https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns)

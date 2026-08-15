@@ -1,8 +1,8 @@
-# In-Order Traversal
+# Percursos em Ordem
 
-In-order traversal is a tree traversal algorithm that visits the left subtree, the root, and then the right subtree. This is the most common way to traverse a binary search tree. It is also used to create a sorted list of nodes in a binary search tree.
+O percurso em ordem é um algoritmo de navegação em árvores que visita primeiro a subárvore esquerda, depois a raiz e finalmente a subárvore direita. Este é o método mais comum para navegar em uma árvore de busca binária. Ele também é usado para criar uma lista ordenada de nós em uma árvore de busca binária.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Tree Traversal Techniques](https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/)
-- [@video@Tree | Illustrated Data Structures](https://www.youtube.com/watch?v=S2W3SXGPVyU)
+- [@artigo@Técnicas de Navegação em Árvores](https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/)
+- [@vídeo@Árvore | Estruturas de Dados Ilustradas](https://www.youtube.com/watch?v=S2W3SXGPVyU)

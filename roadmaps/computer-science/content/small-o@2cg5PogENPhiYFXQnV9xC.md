@@ -1,9 +1,9 @@
-# Small O Notation
+# Notação Pequena O
 
-Small o notation, denoted as o(g(n)), defines an upper bound on the growth of a function f(n) that is *not* asymptotically tight. In simpler terms, f(n) is o(g(n)) if, for any positive constant c, there exists a value n₀ such that f(n) is strictly less than c*g(n) for all n greater than n₀. This means that g(n) grows strictly faster than f(n) as n approaches infinity.
+A notação pequena o (o(g(n))) define uma cota superior para a taxa de crescimento de uma função f(n) que *não* é estritamente assintótica. Em termos mais simples, f(n) é o(g(n)) se, para qualquer constante positiva c, existir um valor n₀ tal que f(n) seja estritamente menor que c*g(n) para todos os n maiores que n₀. Isso significa que g(n) cresce estritamente mais rápido do que f(n) à medida que n se aproxima de infinito.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Little-o notation | Wikipedia](https://en.wikipedia.org/wiki/Big_O_notation#Little-o_notation)
-- [@article@Difference between Big-O and Little-o Notations](https://www.baeldung.com/cs/big-o-vs-little-o-notation)
-- [@video@The Little o Notation](https://www.youtube.com/watch?v=Hk_AWLNjGLs)
+- [@artigo@Notação Little-o | Wikipedia](https://en.wikipedia.org/wiki/Big_O_notation#Little-o_notation)
+- [@artigo@Diferença entre Big-O e Notações Little-o](https://www.baeldung.com/cs/big-o-vs-little-o-notation)
+- [@vídeo@A Notação Little o](https://www.youtube.com/watch?v=Hk_AWLNjGLs)

@@ -1,8 +1,8 @@
-# Entity Relationship Model
+# Modelo de Relação de Entidade
 
-Entity relationship model is a high-level data model that describes the logical structure of a database. It is a graphical representation of entities and their relationships to each other, typically used in modeling the organization of data within databases or information systems.
+O modelo de relação de entidade é um modelo de dados de alto nível que descreve a estrutura lógica de um banco de dados. É uma representação gráfica de entidades e suas relações entre si, típicamente usado para modelar a organização dos dados dentro de bancos de dados ou sistemas de informações.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@Entity Relationship Diagram (ERD) Tutorial - Part 1](https://www.youtube.com/watch?v=QpdhBUYk7Kk)
-- [@video@Entity Relationship Diagram (ERD) Tutorial - Part 2](https://www.youtube.com/watch?v=-CuY5ADwn24)
+- [@vídeo@Tutorial de Diagrama de Relação de Entidade (ERD) - Parte 1](https://www.youtube.com/watch?v=QpdhBUYk7Kk)
+- [@vídeo@Tutorial de Diagrama de Relação de Entidade (ERD) - Parte 2](https://www.youtube.com/watch?v=-CuY5ADwn24)

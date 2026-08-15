@@ -1,8 +1,8 @@
-# Architectural Patterns
+# Padrões Arquitetônicos
 
-Architectural patterns are a high-level design pattern that focuses on the overall structure of the system. They are similar to design patterns, but they are more concerned with the structure of the system. They are used to solve problems that are common to many software systems.
+Os padrões arquitetônicos são um padrão de design de alto nível que se concentra na estrutura geral do sistema. Eles são semelhantes aos padrões de design, mas estão mais preocupados com a estrutura do sistema. Eles são usados para resolver problemas comuns em muitos sistemas de software.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@10 Common Software Architectural Patterns in a nutshell](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
-- [@article@Architectural Pattern - Wikipedia](https://en.wikipedia.org/wiki/Architectural_pattern)
+- [@artigo@10 Padrões Arquitetônicos de Software em um Nutshell](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
+- [@artigo@Padrão Arquitetônico - Wikipedia](https://en.wikipedia.org/wiki/Architectural_pattern)

@@ -1,7 +1,7 @@
-# DCL (Data Control Language)
+# DCL (Linguagem de Controle de Dados)
 
-DCL includes commands such as GRANT and REVOKE which mainly deal with the rights, permissions, and other controls of the database system.
+DCL inclui comandos como GRANT e REVOKE que principalemente lidam com os direitos, permissões e outros controles do sistema de banco de dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@DCL](https://en.wikipedia.org/wiki/Data_Control_Language)
+- [@artigo@DCL](https://en.wikipedia.org/wiki/Data_Control_Language)

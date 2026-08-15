@@ -1,8 +1,8 @@
-# DML (Data Manipulation Language)
+# DML (Linguagem de Manipulação de Dados)
 
-The SQL commands that manipulate data in the database belong to DML, or Data Manipulation Language, and this includes most of the SQL statements. DCL is the component of the SQL statement that controls access to data and to the database. Basically, DCL statements are grouped with DML statements.
+Os comandos SQL que manipulam dados no banco de dados pertencem à DML, ou Linguagem de Manipulação de Dados, e isso inclui a maioria dos comandos SQL. O DCL é o componente do comando SQL que controla o acesso aos dados e ao banco de dados. Basicamente, os comandos DCL são agrupados com os comandos DML.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@DML: Data Manipulation Language](https://satoricyber.com/glossary/dml-data-manipulation-language)
-- [@article@Difference Between DDL and DML](https://appmaster.io/blog/difference-between-ddl-and-dml)
+- [@artigo@DML: Linguagem de Manipulação de Dados](https://satoricyber.com/glossary/dml-data-manipulation-language)
+- [@artigo@Diferença entre DDL e DML](https://appmaster.io/blog/difference-between-ddl-and-dml)

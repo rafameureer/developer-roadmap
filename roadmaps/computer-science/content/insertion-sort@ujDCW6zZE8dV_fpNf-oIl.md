@@ -1,9 +1,9 @@
-# Insertion Sort
+# Ordenação por Inserção
 
-Insertion sort is a simple sorting algorithm that builds the final sorted array one item at a time by comparisons. It is much less efficient on large lists than more advanced algorithms such as quicksort, heapsort, or merge sort.
+A ordenação por inserção é um algoritmo de classificação simples que constrói o array final ordenado, item a item, através de comparações. É muito menos eficiente em listas grandes do que algoritmos mais avançados como quicksort, heapsort ou merge sort.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para saber mais:
 
-- [@article@Insertion Sort](https://www.programiz.com/dsa/insertion-sort)
-- [@video@Insertion Sort — MIT](https://www.youtube.com/watch?v=Kg4bqzAqRBM&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=4)
-- [@video@Insertion Sort in 3 Minutes](https://www.youtube.com/watch?v=JU767SDMDvA)
+- [@artigo@Ordenação por Inserção](https://www.programiz.com/dsa/insertion-sort)
+- [@vídeo@Ordenação por Inserção — MIT](https://www.youtube.com/watch?v=Kg4bqzAqRBM&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=4)
+- [@vídeo@Ordenação por Inserção em 3 Minutos](https://www.youtube.com/watch?v=JU767SDMDvA)

@@ -1,15 +1,15 @@
 # gRPC
 
-gRPC is a platform agnostic serialization protocol that is used to communicate between services. Designed by Google in 2015, it is a modern alternative to REST APIs. It is a binary protocol that uses HTTP/2 as a transport layer. It is a high performance, open source, general-purpose RPC framework that puts mobile and HTTP/2 first.
+gRPC é um protocolo de serialização agnóstico de plataforma usado para comunicação entre serviços. Desenvolvido pela Google em 2015, é uma alternativa moderna a APIs REST. É um protocolo binário que usa HTTP/2 como camada de transporte. É um framework RPC de alto desempenho, open source e de propósito geral que coloca mobilidade e HTTP/2 no primeiro plano.
 
-It's main use case is for communication between two different languages within the same application. You can use Python to communicate with Go, or Java to communicate with C#.
+Seu uso principal é para comunicação entre dois diferentes idiomas dentro da mesma aplicação. Você pode usar Python para se comunicar com Go, ou Java para se comunicar com C#.
 
-gRPC uses the protocol buffer language to define the structure of the data that is
+gRPC usa o protocolo de buffer do Google para definir a estrutura dos dados que são
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@gRPC Website](https://grpc.io/)
-- [@official@gRPC Introduction](https://grpc.io/docs/what-is-grpc/introduction/)
-- [@official@gRPC Core Concepts](https://grpc.io/docs/what-is-grpc/core-concepts/)
-- [@video@Stephane Maarek - gRPC Introduction](https://youtu.be/XRXTsQwyZSU)
-- [@feed@Explore top posts about gRPC](https://app.daily.dev/tags/grpc?ref=roadmapsh)
+- [@official@Site oficial do gRPC](https://grpc.io/)
+- [@official@Introdução ao gRPC](https://grpc.io/docs/what-is-grpc/introduction/)
+- [@official@Conceitos Core do gRPC](https://grpc.io/docs/what-is-grpc/core-concepts/)
+- [@video@Introdução ao gRPC por Stéphane Maarek](https://youtu.be/XRXTsQwyZSU)
+- [@feed@Explore os principais posts sobre gRPC](https://app.daily.dev/tags/grpc?ref=roadmapsh)

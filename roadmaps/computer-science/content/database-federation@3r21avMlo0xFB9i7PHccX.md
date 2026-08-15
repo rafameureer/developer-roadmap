@@ -1,8 +1,8 @@
-# Database Federation
+# Federação de Banco de Dados
 
-Federation (or functional partitioning) splits up databases by function. The federation architecture makes several distinct physical databases appear as one logical database to end-users.
+A Federação (ou particionamento funcional) divide bancos de dados por função. A arquitetura de federação faz com que vários bancos de dados físicos distintos apareçam como um único banco de dados lógico aos usuários finais.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Database Federation](https://dev.to/karanpratapsingh/system-design-the-complete-course-10fo#database-federation)
-- [@feed@Explore top posts about Database](https://app.daily.dev/tags/database?ref=roadmapsh)
+- [@artigo@Federação de Banco de Dados](https://dev.to/karanpratapsingh/system-design-the-complete-course-10fo#database-federation)
+- [@feed@Explore os principais posts sobre Banco de Dados](https://app.daily.dev/tags/database?ref=roadmapsh)

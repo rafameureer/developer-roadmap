@@ -1,8 +1,8 @@
-# Boyer Moore Algorithm
+# Algoritmo Boyer Moore
 
-Boyer Moore algorithm is a string searching algorithm that is used to find the index of a substring in a string. It is a very efficient algorithm that is used in many applications. It is used in text editors, compilers, and many other applications.
+O algoritmo Boyer Moore é um algoritmo de busca em cadeias que é usado para encontrar o índice de uma subcadeia em uma cadeia. É um algoritmo muito eficiente que é usado em muitas aplicações. Ele é usado em editores de texto, compiladores e muitas outras aplicações.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@course@Boyer Moore Algorithm](https://www.coursera.org/learn/algorithms-part2/lecture/CYxOT/boyer-moore)
-- [@article@Boyer-Moore String-search Algorithm](https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_string-search_algorithm)
+- [@curso@Algoritmo Boyer Moore](https://www.coursera.org/learn/algorithms-part2/lecture/CYxOT/boyer-moore)
+- [@artigo@Algoritmo de busca em cadeias Boyer-Moore](https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_string-search_algorithm)

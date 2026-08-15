@@ -1,9 +1,9 @@
-# Depth First Search
+# Busca em Profundidade
 
-Depth first search is a graph traversal algorithm that starts at a root node and explores as far as possible along each branch before backtracking.
+A busca em profundidade é um algoritmo de percurso de grafos que começa em um nó raiz e explora o máximo possível ao longo de cada ramo antes de voltar atrás.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para saber mais:
 
-- [@article@Breadth-First Search (BFS) and Depth-First Search (DFS) for Binary Trees in Java](https://www.digitalocean.com/community/tutorials/breadth-first-search-depth-first-search-bfs-dfs)
-- [@video@BFS and DFS in a Binary Tree](https://www.youtube.com/watch?v=uWL6FJhq5fM)
-- [@video@Depth First Search in 4 Minutes](https://www.youtube.com/watch?v=Urx87-NMm6c)
+- [@artigo@Busca Largura (BFS) e Busca em Profundidade (DFS) para Árvores Binárias em Java](https://www.digitalocean.com/community/tutorials/breadth-first-search-depth-first-search-bfs-dfs)
+- [@vídeo@BFS e DFS em uma Árvore Binária](https://www.youtube.com/watch?v=uWL6FJhq5fM)
+- [@vídeo@Busca em Profundidade em 4 Minutos](https://www.youtube.com/watch?v=Urx87-NMm6c)

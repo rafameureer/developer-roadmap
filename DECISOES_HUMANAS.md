@@ -4,7 +4,7 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 
 ---
 
-> ⚠️ **Total de itens sinalizados:** 402
+> ⚠️ **Total de itens sinalizados:** 425
 
 | Arquivo / Tópico | Motivo da Sinalização | Data/Hora |
 |---|---|---|
@@ -410,3 +410,26 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 | `roadmaps/cloudflare/content/wrangler@n0vIbHmUZHrF4WjEhYdb8.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:30:53.750370 |
 | `roadmaps/code-review/content/implementation-semantics.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:31:21.522283 |
 | `roadmaps/code-review/content/tests.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:31:25.261808 |
+| `roadmaps/computer-science/content/avl-trees@OUistS7H7hQQxVV-lOg39.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:33:02.904976 |
+| `roadmaps/computer-science/content/b-tree@s0Pi6CemUUsmZSEu2j2gH.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:33:11.763011 |
+| `roadmaps/computer-science/content/balanced-search-trees@7DF3UhefOSqqTuccH8c8X.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:33:16.493114 |
+| `roadmaps/computer-science/content/binary-search@8kTg4O9MrTHRUrp6U-ctA.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:34:37.418376 |
+| `roadmaps/computer-science/content/binary-tree@G9dnegZ6zNvxrCZ3O_b_z.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:34:41.671626 |
+| `roadmaps/computer-science/content/bitwise-operators@hTPLcuOW7eEE5oYhNfmOG.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:34:44.792094 |
+| `roadmaps/computer-science/content/class-diagrams@FZ8znJSz8PvQlnEyRLXmQ.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:35:54.658618 |
+| `roadmaps/computer-science/content/clustering@wAsZ-M5N9ERufQnBaXbAE.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:36:02.531642 |
+| `roadmaps/computer-science/content/np-hard@mJJ8DGUpBuHEJ7I6UTy1T.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:43:15.919720 |
+| `roadmaps/computer-science/content/p--np@0btHNkzWL1w_-pUgU_k2y.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:44:03.044424 |
+| `roadmaps/computer-science/content/pacelc@g6HeyLptaAYx9QBKuHQyM.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:44:16.087751 |
+| `roadmaps/computer-science/content/process-forking@RbdT5MOE4L-E7PPWKRITX.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:45:04.013226 |
+| `roadmaps/computer-science/content/processes-and-threads@ETEUA7jaEGyOEX8tAVNWs.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:45:08.564454 |
+| `roadmaps/computer-science/content/processes-vs-threads@IEX6v_MYpE5Ylk_28K2ZU.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:45:12.168519 |
+| `roadmaps/computer-science/content/security@JnJbJtsqKbVETY2vdLqCO.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:46:59.840528 |
+| `roadmaps/computer-science/content/selection-sort@rOsHFXQm5jNz0RyZQ5ZGs.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:47:02.914752 |
+| `roadmaps/computer-science/content/sequence-diagrams@gaUT5K2xS-WQMrIA0Bkb_.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:47:05.645801 |
+| `roadmaps/computer-science/content/sse@JckRqZA8C6IqQLPpTCgf4.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:48:07.288035 |
+| `roadmaps/computer-science/content/stack@hJB5gO9tosRlC4UmdSNzl.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:48:11.220262 |
+| `roadmaps/computer-science/content/statemachine-diagrams@X0CKM9LaJUrgI5gIdqFvU.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:48:15.122868 |
+| `roadmaps/computer-science/content/suffix-arrays@Ld1TUNS8713coMNvwhNIJ.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:48:41.514352 |
+| `roadmaps/computer-science/content/system-design@w-fvEiSJysywR3AOAB0ve.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:48:46.460449 |
+| `roadmaps/computer-science/content/tail-recursion@0_qNhprnXU3i8koW3XTdD.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:48:49.746238 |

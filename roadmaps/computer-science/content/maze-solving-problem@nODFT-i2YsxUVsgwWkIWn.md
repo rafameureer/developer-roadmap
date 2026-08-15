@@ -1,10 +1,10 @@
-# Maze Solving Problem
+# Problema de Resolução de Labirinto
 
-Maze solving problem is a classic problem in computer science. It is a problem where we have to find a path from a starting point to an end point in a maze. The maze is represented as a grid of cells. Each cell can be either a wall or a path. The path cells are connected to each other. The starting point and the end point are also given. The goal is to find a path from the starting point to the end point. The path can only be made up of path cells. The path cannot go through the wall cells.
+O problema de resolução de labirinto é um problema clássico na ciência da computação. É um problema onde temos que encontrar um caminho de um ponto inicial a um ponto final em um labirinto. O labirinto é representado como uma grade de células. Cada célula pode ser uma parede ou um caminho. As células do caminho estão conectadas entre si. O ponto inicial e o ponto final também são dados. O objetivo é encontrar um caminho do ponto inicial ao ponto final. O caminho só pode ser composto por células de caminho. O caminho não pode passar pelas células de parede.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@opensource@Maze Solving Algorithms](https://github.com/john-science/mazelib/blob/main/docs/MAZE_SOLVE_ALGOS.md)
-- [@article@Maze Solving Algorithms](https://kidscodecs.com/maze-solving-algorithms/)
-- [@video@Maze Solving - Computerphile](https://www.youtube.com/watch?v=rop0W4QDOUI)
-- [@video@Python Maze Solving Tutorial (Using Recursion)](https://www.youtube.com/watch?v=XP94WC_XnZc)
+- [@opensource@Algoritmos de Resolução de Labirinto](https://github.com/john-science/mazelib/blob/main/docs/MAZE_SOLVE_ALGOS.md)
+- [@article@Algoritmos de Resolução de Labirinto](https://kidscodecs.com/maze-solving-algorithms/)
+- [@video@Resolução de Labirinto - Computerphile](https://www.youtube.com/watch?v=rop0W4QDOUI)
+- [@video@Tutorial de Resolução de Labirinto em Python (Usando Recursão)](https://www.youtube.com/watch?v=XP94WC_XnZc)

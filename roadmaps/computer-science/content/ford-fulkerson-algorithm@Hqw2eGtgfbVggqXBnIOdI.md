@@ -1,9 +1,9 @@
-# Ford Fulkerson Algorithm
+# Algoritmo Ford Fulkerson
 
-Ford Fulkerson Algorithm is a greedy algorithm that is used to find the maximum flow in a flow network. It is also known as the Edmonds-Karp Algorithm.
+O Algoritmo Ford Fulkerson é um algoritmo guloso usado para encontrar o fluxo máximo em uma rede de fluxo. Ele também é conhecido como o Algoritmo Edmonds-Karp.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Ford-Fulkerson Algorithm](https://www.programiz.com/dsa/ford-fulkerson-algorithm)
-- [@video@Ford-Fulkerson in 5 minutes](https://www.youtube.com/watch?v=Tl90tNtKvxs)
+- [@article@Algoritmo Ford-Fulkerson](https://www.programiz.com/dsa/ford-fulkerson-algorithm)
+- [@video@Ford-Fulkerson em 5 minutos](https://www.youtube.com/watch?v=Tl90tNtKvxs)
 - [@feed@Explore top posts about Data Science](https://app.daily.dev/tags/data-science?ref=roadmapsh)

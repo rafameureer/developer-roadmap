@@ -1,7 +1,7 @@
-# Stored Procedures
+# Procedimentos Armazenados
 
-Stored Procedures are created to perform one or more DML operations on Database. It is nothing but the group of SQL statements that accepts some input in the form of parameters and performs some task and may or may not returns a value.
+Procedimentos armazenados são criados para realizar uma ou mais operações DML em um banco de dados. É nada mais do que um grupo de instruções SQL que aceitam algum tipo de entrada no formato de parâmetros e realizam alguma tarefa, podendo ou não retornar um valor.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@SQL Stored Procedures](https://www.programiz.com/sql/stored-procedures)
+- [@artigo@Procedimentos Armazenados em SQL](https://www.programiz.com/sql/stored-procedures)

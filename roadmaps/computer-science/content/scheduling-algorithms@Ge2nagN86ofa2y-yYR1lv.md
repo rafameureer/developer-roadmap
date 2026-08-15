@@ -1,19 +1,19 @@
-# Scheduling Algorithms
+# Algoritmos de Agendamento
 
-CPU Scheduling is the process of selecting a process from the ready queue and allocating the CPU to it. The selection of a process is based on a particular scheduling algorithm. The scheduling algorithm is chosen depending on the type of system and the requirements of the processes.
+O agendamento do CPU é o processo de selecionar um processo da fila pronta e atribuir o CPU a ele. A seleção de um processo é baseada em um algoritmo de agendamento específico. O algoritmo de agendamento é escolhido dependendo do tipo de sistema e das exigências dos processos.
 
-Here is the list of some of the most commonly used scheduling algorithms:
+Aqui está a lista de alguns dos algoritmos de agendamento mais comumente usados:
 
-*   **First Come First Serve (FCFS):** The process that arrives first is allocated the CPU first. It is a non-preemptive algorithm.
-*   **Shortest Job First (SJF):** The process with the smallest execution time is allocated the CPU first. It is a non-preemptive algorithm.
-*   **Shortest Remaining Time First (SRTF):** The process with the smallest remaining execution time is allocated the CPU first. It is a preemptive algorithm.
-*   **Round Robin (RR):** The process is allocated the CPU for a fixed time slice. The time slice is usually 10 milliseconds. It is a preemptive algorithm.
-*   **Priority Scheduling:** The process with the highest priority is allocated the CPU first. It is a preemptive algorithm.
-*   **Multi-level Queue Scheduling:** The processes are divided into different queues based on their priority. The process with the highest priority is allocated the CPU first. It is a preemptive algorithm.
-*   **Multi-level Feedback Queue Scheduling:** The processes are divided into different queues based on their priority. The process with the highest priority is allocated the CPU first. If a process is preempted, it is moved to the next queue. It is a preemptive algorithm.
-*   **Highest Response Ratio Next(HRRN):** CPU is allotted to the next process which has the highest response ratio and not to the process having less burst time. It is a Non-Preemptive algorithm.
-*   **Lottery Scheduling:** The process is allocated the CPU based on a lottery system. It is a preemptive algorithm.
+*   **First Come First Serve (FCFS):** O processo que chega primeiro é atribuído o CPU primeiro. É um algoritmo não preemptivo.
+*   **Shortest Job First (SJF):** O processo com o menor tempo de execução é atribuído o CPU primeiro. É um algoritmo não preemptivo.
+*   **Shortest Remaining Time First (SRTF):** O processo com o menor tempo de execução restante é atribuído o CPU primeiro. É um algoritmo preemptivo.
+*   **Round Robin (RR):** O processo é atribuído o CPU por um intervalo de tempo fixo. O intervalo de tempo geralmente é 10 milissegundos. É um algoritmo preemptivo.
+*   **Agendamento por Prioridade:** O processo com a maior prioridade é atribuído o CPU primeiro. É um algoritmo preemptivo.
+*   **Agendamento em Níveis de Fila:** Os processos são divididos em diferentes filas com base na sua prioridade. O processo com a maior prioridade é atribuído o CPU primeiro. É um algoritmo preemptivo.
+*   **Agendamento em Filas de Feedback Multinível:** Os processos são divididos em diferentes filas com base na sua prioridade. O processo com a maior prioridade é atribuído o CPU primeiro. Se um processo for preemptado, ele é movido para a próxima fila. É um algoritmo preemptivo.
+*   **Highest Response Ratio Next (HRRN):** O CPU é atribuído ao próximo processo que tem a maior taxa de resposta e não ao processo com menos tempo de burto. É um algoritmo não preemptivo.
+*   **Agendamento por Loteria:** O processo é atribuído o CPU com base em um sistema de loteria. É um algoritmo preemptivo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@CPU Scheduling in Operating System](https://www.scaler.com/topics/operating-system/cpu-scheduling/)
+- [@article@Agendamento do CPU no Sistema Operacional](https://www.scaler.com/topics/operating-system/cpu-scheduling/)

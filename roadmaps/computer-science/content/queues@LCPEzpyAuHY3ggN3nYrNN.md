@@ -1,9 +1,9 @@
-# Queues
+# Filas
 
-Messaging queues are a common way to decouple systems. They are used to decouple the producer of a message from the consumer of a message. This allows the producer to send a message and not have to wait for the consumer to process it. It also allows the consumer to process the message at their own pace.
+As filas de mensagens são uma maneira comum de desacoplar sistemas. Elas são usadas para desacoplar o produtor de uma mensagem do consumidor de uma mensagem. Isso permite que o produtor envie uma mensagem e não precise esperar pelo consumidor processá-la. Também permite que o consumidor processe a mensagem em seu próprio ritmo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Message Queues - System Design](https://dev.to/karanpratapsingh/system-design-the-complete-course-10fo#message-queues)
-- [@video@What is a Message Queue?](https://www.youtube.com/watch?v=xErwDaOc-Gs)
-- [@video@What is a Message Queue and Where is it used?](https://www.youtube.com/watch?v=oUJbuFMyBDk)
+- [@artigo@Fila de Mensagens - Design de Sistemas](https://dev.to/karanpratapsingh/system-design-the-complete-course-10fo#message-queues)
+- [@vídeo@O que é uma Fila de Mensagens?](https://www.youtube.com/watch?v=xErwDaOc-Gs)
+- [@vídeo@O que é uma Fila de Mensagens e onde ela é usada?](https://www.youtube.com/watch?v=oUJbuFMyBDk)

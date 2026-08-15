@@ -1,9 +1,9 @@
 # Horizontal vs Vertical Scaling
 
-Horizontal scaling is the process of adding more machines to your system. This is also known as scaling out. Vertical scaling is the process of adding more power to a single machine. This is also known as scaling up.
+O escalonamento horizontal é o processo de adicionar mais máquinas ao seu sistema. Isso também é conhecido como escalonar para fora. O escalonamento vertical é o processo de adicionar mais potência a uma única máquina. Isso também é conhecido como escalonar para cima.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Scaling Horizontally vs. Scaling Vertically](https://www.digitalocean.com/resources/article/horizontal-scaling-vs-vertical-scaling)
-- [@video@System Design Basics: Horizontal vs. Vertical Scaling](https://www.youtube.com/watch?v=xpDnVSmNFX0)
-- [@video@Vertical vs. Horizontal Scaling for Database Servers](https://www.youtube.com/watch?v=R99R-SNbo9g)
+- [@artigo@Escalonamento Horizontal vs. Escalonamento Vertical](https://www.digitalocean.com/resources/article/horizontal-scaling-vs-vertical-scaling)
+- [@vídeo@Básicos de Design de Sistema: Escalonamento Horizontal vs. Escalonamento Vertical](https://www.youtube.com/watch?v=xpDnVSmNFX0)
+- [@vídeo@Escalonamento Vertical vs. Escalonamento Horizontal para Servidores de Banco de Dados](https://www.youtube.com/watch?v=R99R-SNbo9g)

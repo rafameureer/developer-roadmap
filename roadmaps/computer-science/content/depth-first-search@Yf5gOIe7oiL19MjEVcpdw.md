@@ -1,7 +1,7 @@
-# Depth First Search
+# Busca em Profundidade
 
-Depth first search is a graph traversal algorithm that starts at a root node and explores as far as possible along each branch before backtracking.
+A busca em profundidade é um algoritmo de percurso de grafos que começa em um nó raiz e explora o máximo possível ao longo de cada ramo antes de voltar atrás.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para saber mais:
 
-- [@article@Depth-first Search](https://en.wikipedia.org/wiki/Depth-first_search)
+- [@artigo@Busca em Profundidade](https://en.wikipedia.org/wiki/Depth-first_search)

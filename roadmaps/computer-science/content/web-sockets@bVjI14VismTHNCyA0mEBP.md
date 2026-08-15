@@ -1,8 +1,8 @@
-# Web Sockets
+# Sockets Web
 
-Web sockets are a bidirectional communication protocol between a client and a server. They are used for real-time applications like chat, multiplayer games, and live data updates. Web sockets are also used to establish a connection between a server and a client. This connection is then used to send data in both directions.
+Os sockets web são um protocolo de comunicação bidirecional entre um cliente e um servidor. Eles são usados para aplicativos em tempo real como chat, jogos multijogador e atualizações de dados em tempo real. Os sockets web também são usados para estabelecer uma conexão entre um servidor e um cliente. Essa conexão é então usada para enviar dados em ambas as direções.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@WebSockets](https://en.wikipedia.org/wiki/WebSocket)
-- [@article@Web Sockets API](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
+- [@artigo@Sockets Web](https://en.wikipedia.org/wiki/WebSocket)
+- [@artigo@API de Sockets Web](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)

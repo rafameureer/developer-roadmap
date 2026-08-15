@@ -1,10 +1,10 @@
-# Normalization vs Denormalization
+# Normalização vs Denormalização
 
-Database normalization is a process used to organize a database into tables and columns. The idea is that a table should be about a specific topic and that only those columns which support that topic are included. This limits the number of duplicate data contained within your database. This makes the database more flexible by eliminating issues stemming from database modifications.
+A normalização de banco de dados é um processo usado para organizar um banco de dados em tabelas e colunas. A ideia é que uma tabela deve ser sobre um tópico específico e que apenas as colunas que suportam esse tópico devem ser incluídas. Isso limita o número de dados duplicados contidos no seu banco de dados. Isso torna o banco de dados mais flexível eliminando problemas decorrentes das modificações do banco de dados.
 
-Denormalization is the opposite of normalization. It is the process of adding redundant data to a database to improve read performance. This is done by adding duplicate data into multiple tables to avoid expensive joins. This is done at the expense of increased storage and decreased write performance.
+A denormalização é a oposta da normalização. É o processo de adicionar dados redundantes a um banco de dados para melhorar o desempenho de leitura. Isso é feito adicionando dados duplicados em várias tabelas para evitar junções caras. Isso é feito ao custo de aumentar o armazenamento e diminuir o desempenho de escrita.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@Normalization vs. Denormalization | Events and Event Streaming](https://www.youtube.com/watch?v=sDU94hraq8g)
-- [@video@Normalization - 1NF, 2NF, 3NF and 4NF](https://www.youtube.com/watch?v=UrYLYV7WSHM)
+- [@video@Normalização vs. Denormalização | Eventos e Streaming de Eventos](https://www.youtube.com/watch?v=sDU94hraq8g)
+- [@video@Normalização - 1NF, 2NF, 3NF e 4NF](https://www.youtube.com/watch?v=UrYLYV7WSHM)

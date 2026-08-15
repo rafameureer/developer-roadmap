@@ -1,13 +1,13 @@
 # Non-tail recursion
 
-Tail recursion is when a function can directly return the result of a recursive call - there are no outstanding operations, and there is no need for the call stack frame to be preserved. So it can be translated to a “goto with arguments”, and the stack usage will be constant.
+A recursão de cauda é quando uma função pode retornar diretamente o resultado de uma chamada recursiva - não há operações pendentes e não há necessidade de preservar a estrutura do quadro da pilha. Então, ela pode ser traduzida para um "goto com argumentos", e o uso da pilha será constante.
 
-In “non-tail recursion”, there are outstanding operations after the recursive call, and the stack frame cannot be nuked.
+Na "non-tail recursion", há operações pendentes após a chamada recursiva, e o quadro da pilha não pode ser removido.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is non-tail recursion?](https://www.quora.com/What-is-non-tail-recursion)
+- [@article@O que é non-tail recursion?](https://www.quora.com/What-is-non-tail-recursion)
 - [@article@Tail vs Non-Tail Recursion](https://www.baeldung.com/cs/tail-vs-non-tail-recursion)
-- [@video@Recursion (Solved Problem 1)](https://www.youtube.com/watch?v=IVLUGb_gDDE)
-- [@video@Types of Recursion (Part 2) | Tail & Non-tail Recursion](https://www.youtube.com/watch?v=HIt_GPuD7wk)
-- [@feed@Explore top posts about Recursion](https://app.daily.dev/tags/recursion?ref=roadmapsh)
+- [@video@Recursão (Problema Resolvido 1)](https://www.youtube.com/watch?v=IVLUGb_gDDE)
+- [@video@Tipos de Recursão (Parte 2) | Tail & Non-tail Recursion](https://www.youtube.com/watch?v=HIt_GPuD7wk)
+- [@feed@Explore os melhores posts sobre Recursão](https://app.daily.dev/tags/recursion?ref=roadmapsh)

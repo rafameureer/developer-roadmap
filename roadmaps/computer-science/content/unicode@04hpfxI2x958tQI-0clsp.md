@@ -1,8 +1,8 @@
 # Unicode
 
-Unicode is a standard for encoding characters. It is a superset of ASCII, which means that ASCII is a subset of Unicode. Unicode is a 16-bit encoding, which means that it can encode 2^16 = 65536 characters. This is a lot more than ASCII, which can only encode 128 characters.
+Unicode é um padrão para codificação de caracteres. É um superconjunto do ASCII, o que significa que o ASCII é um subconjunto do Unicode. Unicode é uma codificação de 16 bits, o que significa que ele pode codificar 2^16 = 65536 caracteres. Isso é muito mais do que o ASCII, que só pode codificar 128 caracteres.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@How Unicode Works: What Every Developer Needs to Know About Strings and 🦄](https://deliciousbrains.com/how-unicode-works/)
-- [@video@Characters, Symbols and the Unicode Miracle - Computerphile](https://www.youtube.com/watch?v=MijmeoH9LT4)
+- [@artigo@Como Funciona o Unicode: O Que Todo Desenvolvedor Precisa Saber sobre Strings e 🦄](https://deliciousbrains.com/how-unicode-works/)
+- [@vídeo@Caracteres, Símbolos e a Maravilha do Unicode - Computerphile](https://www.youtube.com/watch?v=MijmeoH9LT4)

@@ -1,11 +1,11 @@
-# N-ary (K-ary, M-ary) Trees
+# Árvores N-árias (K-árias, M-árias)
 
-Note: the N or K is the branching factor (max branches)
+Observação: o N ou K é o fator de ramificação (número máximo de filhos).
 
-Binary trees are a 2-ary tree, with branching factor = 2
+As árvores binárias são uma árvore 2-ária, com fator de ramificação = 2
 
-2-3 trees are 3-ary
+As árvores 2-3 são 3-árias.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@K-Ary Tree](https://en.wikipedia.org/wiki/K-ary_tree)
+- [@artigo@Árvore N-ária](https://en.wikipedia.org/wiki/K-ary_tree)

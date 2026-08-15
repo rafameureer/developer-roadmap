@@ -1,9 +1,9 @@
-# Load Balancing
+# Balanceamento de Carga
 
-Load balancing is the process of distributing network or application traffic across a cluster of servers. Load balancing is used to improve responsiveness and reliability of applications, maximize throughput, minimize response time, and avoid overload of any single server.
+O balanceamento de carga é o processo de distribuir o tráfego de rede ou aplicativo em um cluster de servidores. O balanceamento de carga é usado para melhorar a resposta e a confiabilidade dos aplicativos, maximizar a taxa de transferência, minimizar o tempo de resposta e evitar sobrecarga de qualquer servidor único.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Load Balancing? | How load balancers work](https://www.cloudflare.com/learning/performance/what-is-load-balancing/)
-- [@video@Load Balancers 101](https://www.youtube.com/watch?v=galcDRNd5Ow)
-- [@video@What is Load Balancing?](https://www.youtube.com/watch?v=gGLophKzJs8)
+- [@article@O que é Balanceamento de Carga? | Como funcionam os balanceadores de carga](https://www.cloudflare.com/learning/performance/what-is-load-balancing/)
+- [@video@Balanceadores de Carga 101](https://www.youtube.com/watch?v=galcDRNd5Ow)
+- [@video@O que é Balanceamento de Carga?](https://www.youtube.com/watch?v=gGLophKzJs8)

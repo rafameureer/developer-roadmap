@@ -1,12 +1,12 @@
-# Graph Representation
+# Representação de Grafos
 
-A graph can either be represented as an adjacency matrix or an adjacency list.
+Um grafo pode ser representado como uma matriz de adjacência ou uma lista de adjacência.
 
-The adjacency matrix is a 2D array of size `V x V` where `V` is the number of vertices in a graph. Let the 2D array be `adj[][]`, a slot `adj[i][j] = 1` indicates that there is an edge from vertex `i` to vertex `j`.
+A matriz de adjacência é um array bidimensional de tamanho `V x V` onde `V` é o número de vértices em um grafo. Considere que o array bidimensional seja `adj[][]`, uma posição `adj[i][j] = 1` indica que há uma aresta do vértice `i` ao vértice `j`.
 
-Adjacency list is an array of vectors. Size of the array is equal to the number of vertices. Let the array be `array[]`. An entry `array[i]` represents the list of vertices adjacent to the ith vertex. This representation can also be used to represent a weighted graph. The weights of edges can be represented as lists of pairs.
+A lista de adjacência é um array de vetores. O tamanho do array é igual ao número de vértices. Considere que o array seja `array[]`. Uma entrada `array[i]` representa a lista de vértices adjacentes ao vértice i-ésimo. Esta representação também pode ser usada para representar um grafo pesado. Os pesos das arestas podem ser representados como listas de pares.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Adjacency Matrix - Graph Representation](https://www.programiz.com/dsa/graph-adjacency-matrix)
-- [@article@Adjacency List - Graph Representation](https://www.programiz.com/dsa/graph-adjacency-list)
+- [@article@Matriz de Adjacência - Representação de Grafo](https://www.programiz.com/dsa/graph-adjacency-matrix)
+- [@article@Lista de Adjacência - Representação de Grafo](https://www.programiz.com/dsa/graph-adjacency-list)

@@ -1,8 +1,8 @@
 # Design Patterns
 
-Design patterns are solutions to common problems in software design. They are formalized best practices that the programmer can use to solve common problems when designing an application or system.
+Design patterns são soluções para problemas comuns na engenharia de software. Eles são práticas formalizadas que o programador pode usar para resolver problemas comuns ao projetar uma aplicação ou sistema.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@opensource@Design Patterns for Humans](https://github.com/nilbuild/design-patterns-for-humans)
 - [@article@Design Patterns](https://en.wikipedia.org/wiki/Software_design_pattern)

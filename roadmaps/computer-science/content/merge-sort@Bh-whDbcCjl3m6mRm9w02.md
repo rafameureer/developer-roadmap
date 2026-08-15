@@ -1,8 +1,8 @@
 # Merge Sort
 
-Merge sort is a divide and conquer algorithm. It divides the input array into two halves, calls itself for the two halves, and then merges the two sorted halves. The `merge()` function is used for merging two halves. The `merge(arr, l, m, r)` is key process that assumes that `arr[l..m]` and `arr[m+1..r]` are sorted and merges the two sorted sub-arrays into one.
+Merge sort é um algoritmo de divisão e conquista. Ele divide o array de entrada em duas metades, chama-se a si mesmo para as duas metades e depois mescla as duas metades ordenadas. A função `merge()` é usada para mesclar duas metades. A função `merge(arr, l, m, r)` é o processo chave que assume que `arr[l..m]` e `arr[m+1..r]` estão ordenados e mescla as duas sub-arrays ordenadas em uma.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Merge Sort Algorithm](https://www.programiz.com/dsa/merge-sort)
-- [@video@Merge Sort in 3 Minutes](https://www.youtube.com/watch?v=4VqmGXwpLqc)
+- [@artigo@Algoritmo de Merge Sort](https://www.programiz.com/dsa/merge-sort)
+- [@vídeo@Merge Sort em 3 Minutos](https://www.youtube.com/watch?v=4VqmGXwpLqc)

@@ -1,9 +1,9 @@
-# Breadth First Search
+# Busca em Largura
 
-Breadth first search is a graph traversal algorithm that starts at the root node and explores all of the neighbor nodes at the present depth prior to moving on to the nodes at the next depth level.
+A busca em largura é um algoritmo de percurso de gráficos que começa no nó raiz e explora todos os nós vizinhos na profundidade atual antes de passar para os nós na próxima profundidade.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@article@Breadth-First Search (BFS) and Depth-First Search (DFS) for Binary Trees in Java](https://www.digitalocean.com/community/tutorials/breadth-first-search-depth-first-search-bfs-dfs)
-- [@video@BFS and DFS in a Binary Tree](https://www.youtube.com/watch?v=uWL6FJhq5fM)
-- [@video@Breadth-first search in 4 minutes](https://www.youtube.com/watch?v=HZ5YTanv5QE)
+- [@artigo@Busca em Largura (BFS) e Busca em Profundidade (DFS) para Árvores Binárias em Java](https://www.digitalocean.com/community/tutorials/breadth-first-search-depth-first-search-bfs-dfs)
+- [@vídeo@Busca em Largura e Busca em Profundidade em uma Árvore Binária](https://www.youtube.com/watch?v=uWL6FJhq5fM)
+- [@vídeo@Busca em largura em 4 minutos](https://www.youtube.com/watch?v=HZ5YTanv5QE)

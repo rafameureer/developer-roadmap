@@ -1,8 +1,8 @@
-# Tree
+# Árvore
 
-A tree is non-linear and a hierarchical data structure consisting of a collection of nodes such that each node of the tree stores a value and a list of references to other nodes (the “children”).
+Uma árvore é não-linear e uma estrutura de dados hierárquica composta por uma coleção de nós, tais que cada nó da árvore armazena um valor e uma lista de referências a outros nós (os "filhos").
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Tree Data Structure](https://www.programiz.com/dsa/trees)
-- [@video@Tree | Illustrated Data Structures](https://www.youtube.com/watch?v=S2W3SXGPVyU)
+- [@artigo@Estrutura de Dados Árvore](https://www.programiz.com/dsa/trees)
+- [@vídeo@Árvore | Estruturas de Dados Ilustradas](https://www.youtube.com/watch?v=S2W3SXGPVyU)

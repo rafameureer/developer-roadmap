@@ -1,29 +1,29 @@
-# Factorial
+# Fatorial
 
-Factorial complexity algorithms have a runtime of `O(n!)`. This is the worst case scenario for an algorithm. Factorial complexity algorithms are very inefficient and should be avoided.
+Algoritmos com complexidade fatorial têm um tempo de execução de `O(n!)`. Este é o pior cenário para um algoritmo. Algoritmos com complexidade fatorial são muito ineficientes e devem ser evitados.
 
     def generate_permutations(s):
-        # Base case: If the string length is 1, return a list containing the string
+        # Caso base: Se a comprimento da string for 1, retorne uma lista contendo a string
         if len(s) == 1:
             return [s]
     
-        # Initialize the result list
+        # Inicialize a lista de resultados
         permutations = []
     
-        # Recursively generate all permutations
+        # Gere recursivamente todas as permutações
         for i in range(len(s)):
-            # Current character
+            # Caractere atual
             current_char = s[i]
-            # Remaining characters
+            # Caracteres restantes
             remaining_chars = s[:i] + s[i + 1 :]
-            # Generate all permutations of the remaining characters
+            # Gere todas as permutações dos caracteres restantes
             for perm in generate_permutations(remaining_chars):
-                # Add the current character to the front of each generated permutation
+                # Adicione o caractere atual à frente de cada permutação gerada
                 permutations.append(current_char + perm)
     
         return permutations
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Big O Cheat Sheet - Time Complexity Chart](https://www.freecodecamp.org/news/big-o-cheat-sheet-time-complexity-chart/)
-- [@video@Factorial Explained](https://www.youtube.com/watch?v=pxh__ugRKz8)
+- [@artigo@Folha de Dicas Big O - Gráfico de Complexidade Temporal](https://www.freecodecamp.org/news/big-o-cheat-sheet-time-complexity-chart/)
+- [@vídeo@Fatorial Explicado](https://www.youtube.com/watch?v=pxh__ugRKz8)

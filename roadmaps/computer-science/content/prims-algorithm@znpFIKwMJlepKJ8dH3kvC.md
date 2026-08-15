@@ -1,9 +1,9 @@
-# Prim's Algorithm
+# Algoritmo de Prim
 
-Prim's algorithm is a greedy algorithm that finds a minimum spanning tree for a weighted undirected graph. A minimum spanning tree is a subset of the edges of a connected, edge-weighted undirected graph that connects all the vertices together, without any cycles and with the minimum possible total edge weight. A minimum spanning tree for a weighted undirected graph is also called a minimum weight spanning tree or minimum cost spanning tree.
+O algoritmo de Prim é um algoritmo guloso que encontra uma árvore geradora mínima para um gráfico não direcionado ponderado. Uma árvore geradora mínima é um subconjunto das arestas de um grafo conectado, com pesos nas arestas, que conecta todos os vértices juntos, sem ciclos e com o peso total da aresta mínimo possível. Uma árvore geradora mínima para um gráfico não direcionado ponderado também é chamada de árvore geradora mínima em peso ou árvore geradora mínima em custo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Prims Algorithm](https://www.programiz.com/dsa/prim-algorithm)
-- [@video@Graph Algorithms I - Topological Sorting, Prims Algorithm - Lecture 6](https://www.youtube.com/watch?v=i_AQT_XfvD8&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&index=7)
+- [@artigo@Algoritmo de Prim](https://www.programiz.com/dsa/prim-algorithm)
+- [@vídeo@Algoritmos de Grafos I - Ordenação Topológica, Algoritmo de Prim - Aula 6](https://www.youtube.com/watch?v=i_AQT_XfvD8&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&index=7)
 - [@feed@Explore top posts about Data Science](https://app.daily.dev/tags/data-science?ref=roadmapsh)

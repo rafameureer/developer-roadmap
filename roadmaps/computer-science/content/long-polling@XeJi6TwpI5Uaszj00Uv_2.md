@@ -1,8 +1,8 @@
 # Long Polling
 
-Long polling is a technique used to implement server push functionality over HTTP. It is a method of opening a request on the server and keeping it open until an event occurs, at which point the server responds. This is in contrast to a regular HTTP request, where the server responds immediately with whatever data is available at the time.
+Long polling é uma técnica usada para implementar a funcionalidade de push do servidor sobre HTTP. É um método de abrir uma solicitação no servidor e mantê-la aberta até que ocorra um evento, nesse momento o servidor responde. Isso é em contraste com uma solicitação HTTP regular, onde o servidor responde imediatamente com os dados disponíveis no momento.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Long Polling](https://javascript.info/long-polling)
-- [@article@What are Long-Polling, Websockets, Server-Sent Events (SSE) and Comet?](https://stackoverflow.com/questions/11077857/what-are-long-polling-websockets-server-sent-events-sse-and-comet)
+- [@artigo@Long Polling](https://javascript.info/long-polling)
+- [@artigo@O que são Long-Polling, Websockets, Server-Sent Events (SSE) e Comet?](https://stackoverflow.com/questions/11077857/what-are-long-polling-websockets-server-sent-events-sse-and-comet)

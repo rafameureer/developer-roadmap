@@ -1,8 +1,8 @@
-# Huffman Coding
+# Codificação de Huffman
 
-Huffman coding is a lossless data compression algorithm. The idea is to assign variable-length codes to input characters, lengths of the assigned codes are based on the frequencies of corresponding characters. The most frequent character gets the smallest code and the least frequent character gets the largest code.
+A codificação de Huffman é um algoritmo de compressão de dados sem perdas. A ideia é atribuir códigos de comprimento variável aos caracteres de entrada, com os comprimentos dos códigos baseados nas frequências dos caracteres correspondentes. O caractere mais frequente recebe o código mais curto e o caractere menos frequente recebe o código mais longo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Huffman Coding](https://www.programiz.com/dsa/huffman-coding)
-- [@video@Huffman Coding - Greedy Method](https://www.youtube.com/watch?v=co4_ahEDCho)
+- [@artigo@Codificação de Huffman](https://www.programiz.com/dsa/huffman-coding)
+- [@vídeo@Codificação de Huffman - Método Greedy](https://www.youtube.com/watch?v=co4_ahEDCho)

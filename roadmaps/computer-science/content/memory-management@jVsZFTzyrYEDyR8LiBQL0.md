@@ -1,8 +1,8 @@
-# Memory Management
+# Gerenciamento de Memória
 
-Memory management is the process of allocating and deallocating memory. It is a very important part of any programming language.
+O gerenciamento de memória é o processo de alocar e desalocar memória. É uma parte muito importante de qualquer linguagem de programação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@MIT 6.004 L15: The Memory Hierarchy](https://www.youtube.com/watch?v=vjYF_fAZI5E&list=PLrRW1w6CGAcXbMtDFj205vALOGmiRc82-&index=24)
-- [@video@MIT 6.004 L16: Cache Issues](https://www.youtube.com/watch?v=ajgC3-pyGlk&index=25&list=PLrRW1w6CGAcXbMtDFj205vALOGmiRc82-)
+- [@vídeo@MIT 6.004 L15: A Hierarquia da Memória](https://www.youtube.com/watch?v=vjYF_fAZI5E&list=PLrRW1w6CGAcXbMtDFj205vALOGmiRc82-&index=24)
+- [@vídeo@MIT 6.004 L16: Problemas de Cache](https://www.youtube.com/watch?v=ajgC3-pyGlk&index=25&list=PLrRW1w6CGAcXbMtDFj205vALOGmiRc82-)

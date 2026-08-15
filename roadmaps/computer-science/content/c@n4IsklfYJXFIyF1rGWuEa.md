@@ -1,12 +1,12 @@
 # C
 
-C is a general-purpose computer programming language. It was created in the 1970s by Dennis Ritchie, and remains very widely used and influential. By design, C's features cleanly reflect the capabilities of the targeted CPUs.
+C é uma linguagem de programação de propósito geral. Foi criada no final dos anos 70 por Dennis Ritchie e continua sendo amplamente utilizada e influente. Por design, as características do C refletem claramente as capacidades dos processadores alvo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@book@Beej's Guide to C Programming](https://beej.us/guide/bgc/)
-- [@book@Beej's Guide to C Programming](https://beej.us/guide/bgc/)
-- [@article@Learn C - Tutorials Point](https://www.tutorialspoint.com/cprogramming/index.htm)
-- [@video@C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0)
-- [@video@Learn C Programming with Dr. Chuck](https://www.youtube.com/watch?v=j-_s8f5K30I)
-- [@video@C Programming Full Course 2025 (Bro Code)](https://youtu.be/xND0t1pr3KY?si=sy-Xzz7JHMqS6ruA)
+- [@livro@Guia de Beej sobre Programação em C](https://beej.us/guide/bgc/)
+- [@livro@Guia de Beej sobre Programação em C](https://beej.us/guide/bgc/)
+- [@artigo@Aprenda C - Tutorialspoint](https://www.tutorialspoint.com/cprogramming/index.htm)
+- [@vídeo@Tutorial de Introdução à Programação em C para Iniciantes](https://www.youtube.com/watch?v=KJgsSFOSQv0)
+- [@vídeo@Aprenda a Programar em C com Dr. Chuck](https://www.youtube.com/watch?v=j-_s8f5K30I)
+- [@vídeo@Curso Completo de Programação em C 2025 (Bro Code)](https://youtu.be/xND0t1pr3KY?si=sy-Xzz7JHMqS6ruA)

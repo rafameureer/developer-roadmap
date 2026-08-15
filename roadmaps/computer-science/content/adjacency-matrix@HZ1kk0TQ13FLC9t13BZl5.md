@@ -1,7 +1,7 @@
-# Adjacency Matrix
+# Matriz de Adjacência
 
-An adjacency matrix is a square matrix used to represent a finite graph. It is used to represent the connections between vertices in a graph. The matrix is filled with 0s and 1s, where a 1 represents a connection between two vertices and a 0 represents no connection.
+Uma matriz de adjacência é uma matriz quadrada usada para representar um grafo finito. Ela é usada para representar as conexões entre vértices em um grafo. A matriz é preenchida com 0s e 1s, onde um 1 representa uma conexão entre dois vértices e um 0 representa nenhuma conexão.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Adjacency Matrix](https://en.wikipedia.org/wiki/Adjacency_matrix)
+- [@artigo@Matriz de Adjacência](https://en.wikipedia.org/wiki/Adjacency_matrix)

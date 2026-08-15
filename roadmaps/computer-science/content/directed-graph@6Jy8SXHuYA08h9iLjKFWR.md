@@ -1,7 +1,7 @@
-# Directed Graph
+# Gráfico Direcionado
 
-A directed graph is graph, i.e., a set of objects (called vertices or nodes) that are connected together, where all the edges are directed from one vertex to another. A directed graph is sometimes called a digraph or a directed network. In contrast, a graph where the edges are bidirectional is called an undirected graph.
+Um gráfico direcionado é um tipo de gráfico, ou seja, um conjunto de objetos (chamados vértices ou nós) que estão conectados entre si, onde todas as arestas são direcionadas de um vértice para outro. Um gráfico direcionado às vezes é chamado de digrafo ou rede direcionada. Em contraste, um gráfico onde as arestas são bidirecionais é chamado de gráfico não direcionado.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Directed Graph](https://en.wikipedia.org/wiki/Directed_graph)
+- [@artigo@Gráfico Direcionado](https://en.wikipedia.org/wiki/Directed_graph)

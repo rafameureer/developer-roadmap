@@ -1,7 +1,7 @@
-# Null Object Pattern
+# Padrão de Objeto Nulo
 
-Null object pattern is a design pattern that is used to represent a null value with an object. It is a way to avoid null reference exceptions by providing a default object that does nothing. It is a way to provide a default behavior in case data is not available.
+O padrão de objeto nulo é um padrão de design usado para representar um valor nulo com um objeto. É uma maneira de evitar exceções de referência nula fornecendo um objeto padrão que não faz nada. É uma maneira de fornecer um comportamento padrão caso os dados estejam indisponíveis.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Design Patterns - Null Object Pattern](https://www.tutorialspoint.com/design_pattern/null_object_pattern.htm)
+- [@artigo@Design Patterns - Padrão de Objeto Nulo](https://www.tutorialspoint.com/design_pattern/null_object_pattern.htm)

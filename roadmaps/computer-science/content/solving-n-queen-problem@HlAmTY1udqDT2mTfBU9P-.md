@@ -1,8 +1,8 @@
-# Solving n Queen Problem
+# Problema das N Rainhas
 
-N Queen Problem is a famous problem in Computer Science. It is a problem of placing n queens on an n x n chessboard such that no two queens attack each other. The problem is to find all possible solutions to the problem.
+O Problema das N Rainhas é um famoso problema na Ciência da Computação. É um problema de colocar N rainhas em um tabuleiro de xadrez N x N de tal forma que nenhuma duas rainhas ataquem uma à outra. O problema é encontrar todas as possíveis soluções para o problema.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@N-Queens problem using backtracking in Java/C++](https://www.digitalocean.com/community/tutorials/n-queens-problem-java-c-plus-plus)
-- [@video@6.1 N Queens Problem using Backtracking](https://www.youtube.com/watch?v=xFv_Hl4B83A)
+- [@artigo@Problema das N Rainhas usando Backtracking em Java/C++](https://www.digitalocean.com/community/tutorials/n-queens-problem-java-c-plus-plus)
+- [@vídeo@6.1 Problema das N Rainhas usando Backtracking](https://www.youtube.com/watch?v=xFv_Hl4B83A)

@@ -1,10 +1,10 @@
-# Quick Sort
+# Ordenação Rápida
 
-Quick Sort is a divide and conquer algorithm. It picks an element as pivot and partitions the given array around the picked pivot. There are many different versions of quickSort that pick pivot in different ways.
+A Ordenação Rápida é um algoritmo de divisão e conquista. Ele escolhe um elemento como pivô e particiona o array dado em torno do pivô escolhido. Existem muitas diferentes versões da ordenação rápida que escolhem o pivô de maneiras diferentes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@opensource@Quick Sort Implementation in Python](https://github.com/jwasham/practice-python/blob/master/quick_sort/quick_sort.py)
-- [@article@Quick Sort Algorithm](https://www.programiz.com/dsa/quick-sort)
-- [@article@Quick Sort Implementation in C](http://www.cs.yale.edu/homes/aspnes/classes/223/examples/randomization/quick.c)
-- [@video@Quick Sort in 4 Minutes](https://www.youtube.com/watch?v=Hoixgm4-P4M&feature=youtu.be)
+- [@opensource@Implementação de Ordenação Rápida em Python](https://github.com/jwasham/practice-python/blob/master/quick_sort/quick_sort.py)
+- [@artigo@Algoritmo de Ordenação Rápida](https://www.programiz.com/dsa/quick-sort)
+- [@artigo@Implementação de Ordenação Rápida em C](http://www.cs.yale.edu/homes/aspnes/classes/223/examples/randomization/quick.c)
+- [@vídeo@Ordenação Rápida em 4 Minutos](https://www.youtube.com/watch?v=Hoixgm4-P4M&feature=youtu.be)

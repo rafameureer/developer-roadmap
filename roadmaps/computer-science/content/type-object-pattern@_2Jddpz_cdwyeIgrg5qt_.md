@@ -1,7 +1,7 @@
-# Type Object Pattern
+# Pattern de Objeto Tipo
 
-Type object pattern is a creational design pattern that allows us to create a new object of a type without exposing the object creation logic to the client. It is used when we need to create a new object of a type, but we don't know which type we need to create until runtime. It is like a factory pattern, but instead of returning a new object of a type, it returns a new object of a type that is already created.
+O pattern de objeto tipo é um padrão de design criacional que nos permite criar um novo objeto de um tipo sem expor a lógica de criação do objeto ao cliente. É usado quando precisamos criar um novo objeto de um tipo, mas não sabemos qual tipo precisamos criar até o tempo de execução. É como um padrão de fábrica, mas em vez de retornar um novo objeto de um tipo, ele retorna um novo objeto de um tipo que já foi criado.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Type Object Pattern](https://gameprogrammingpatterns.com/type-object.html)
+- [@artigo@Pattern de Objeto Tipo](https://gameprogrammingpatterns.com/type-object.html)

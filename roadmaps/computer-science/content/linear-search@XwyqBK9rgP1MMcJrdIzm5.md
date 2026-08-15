@@ -1,7 +1,7 @@
-# Linear Search
+# Busca Linear
 
-Linear search is a very simple algorithm that is used to search for a value in an array. It sequentially checks each element of the array until a match is found or until all the elements have been searched.
+A busca linear é um algoritmo muito simples usado para pesquisar um valor em uma matriz. Ele verifica sequencialmente cada elemento da matriz até encontrar uma correspondência ou até que todos os elementos tenham sido verificados.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para saber mais:
 
-- [@article@Linear Search](https://www.programiz.com/dsa/linear-search)
+- [@artigo@Busca Linear](https://www.programiz.com/dsa/linear-search)

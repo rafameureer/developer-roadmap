@@ -1,7 +1,7 @@
-# Full Binary Tree
+# Árvore Binária Completa
 
-A full Binary tree is a special type of binary tree in which every parent node/internal node has either two or no children. It is also known as a proper binary tree.
+Uma árvore binária completa é um tipo especial de árvore binária em que cada nó pai/interno tem either dois ou nenhum filho. Ela também é conhecida como uma árvore binária adequada.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Full Binary Tree](https://www.programiz.com/dsa/full-binary-tree)
+- [@article@Árvore Binária Completa](https://www.programiz.com/dsa/full-binary-tree)

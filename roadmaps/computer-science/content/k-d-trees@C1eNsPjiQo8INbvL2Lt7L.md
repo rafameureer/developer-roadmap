@@ -1,8 +1,8 @@
-# K-D Trees
+# Árvores K-D
 
-K-D Trees are a data structure that allow for fast nearest neighbor search in high dimensional spaces. They are a generalization of binary search trees, and are used in a variety of applications, including computer vision and computational geometry.
+As árvores K-D são uma estrutura de dados que permitem uma busca rápida do vizinho mais próximo em espaços de alta dimensão. São uma generalização das árvores de busca binárias e são usadas em várias aplicações, incluindo visão computacional e geometria computacional.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@K-D Tree Algorithm](https://www.youtube.com/watch?v=Y4ZgLlDfKDg)
-- [@video@K-d Trees - Computerphile](https://www.youtube.com/watch?v=BK5x7IUTIyU)
+- [@vídeo@Algoritmo da Árvore K-D](https://www.youtube.com/watch?v=Y4ZgLlDfKDg)
+- [@vídeo@Árvores K-d - Computerphile](https://www.youtube.com/watch?v=BK5x7IUTIyU)

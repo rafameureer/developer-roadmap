@@ -1,19 +1,19 @@
-# Common Algorithms
+# Algoritmos Comuns
 
-Here are some common algorithms that you should know. You can find more information about them in the Algorithms section of the Computer Science course.
+Aqui estão alguns algoritmos comuns que você deve conhecer. Você pode encontrar mais informações sobre eles na seção de Algoritmos do curso de Ciência da Computação.
 
-*   Sorting
-*   Recursion
-*   Searching
-*   Cache Algorithms
-*   Tree Algorithms
-*   Graph Algorithms
-*   Greedy Algorithms
+*   Ordenação
+*   Recursão
+*   Busca
+*   Algoritmos de Cache
+*   Algoritmos de Árvore
+*   Algoritmos de Grafo
+*   Algoritmos Greedy
 *   Backtracking
-*   Substring Search
-*   Suffix Arrays
-*   Dynamic Programming
+*   Pesquisa por Substring
+*   Arrays Sufixo
+*   Programação Dinâmica
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Top Algorithms and Data Structures](https://medium.com/data-science/top-algorithms-and-data-structures-you-really-need-to-know-ab9a2a91c7b5)
+- [@article@Top Algoritmos e Estruturas de Dados](https://medium.com/data-science/top-algorithms-and-data-structures-you-really-need-to-know-ab9a2a91c7b5)

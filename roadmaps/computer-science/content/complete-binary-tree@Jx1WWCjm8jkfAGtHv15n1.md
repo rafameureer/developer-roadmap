@@ -1,8 +1,8 @@
-# Complete Binary Tree
+# Árvore Binária Completa
 
-A complete binary tree is a special type of binary tree where all the levels of the tree are filled completely except the lowest level nodes which are filled from as left as possible.
+Uma árvore binária completa é um tipo especial de árvore binária onde todos os níveis da árvore estão completamente preenchidos, exceto pelos nós do último nível que são preenchidos da esquerda para a direita.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Complete Binary Tree - Programiz](https://www.programiz.com/dsa/complete-binary-tree)
-- [@article@Complete Binary Trees](https://www.wscubetech.com/resources/dsa/complete-binary-tree)
+- [@article@Árvore Binária Completa - Programiz](https://www.programiz.com/dsa/complete-binary-tree)
+- [@article@Árvores Binárias Completas](https://www.wscubetech.com/resources/dsa/complete-binary-tree)

@@ -1,11 +1,11 @@
-# How Computers Work?
+# Como Funcionam os Computadores?
 
-Computers are everywhere. They are in our phones, our cars, our homes, and even in our pockets. But how do they actually work? How do they take in information, and how do they output information?
+Os computadores estão em todas as partes. Eles estão em nossos telefones, carros, casas e até mesmo nos bolsos. Mas como eles realmente funcionam? Como eles recebem informações e como eles produzem informações?
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@How CPU Executes A Program](https://www.youtube.com/watch?v=XM4lGflQFvA)
-- [@video@How Computers Calculate - ALU](https://youtu.be/1I5ZMmrOfnA)
-- [@video@Registers and RAM](https://youtu.be/fpnE6UAfbtU)
-- [@video@The Central Processing Unit (CPU)](https://youtu.be/FZGugFqdr60)
-- [@video@Instructions and Programs](https://youtu.be/zltgXvg6r3k)
+- [@vídeo@Como o CPU Executa um Programa](https://www.youtube.com/watch?v=XM4lGflQFvA)
+- [@vídeo@Como Computadores Calculam - ALU](https://youtu.be/1I5ZMmrOfnA)
+- [@vídeo@Registradores e RAM](https://youtu.be/fpnE6UAfbtU)
+- [@vídeo@Unidade Central de Processamento (CPU)](https://youtu.be/FZGugFqdr60)
+- [@vídeo@Instruções e Programas](https://youtu.be/zltgXvg6r3k)

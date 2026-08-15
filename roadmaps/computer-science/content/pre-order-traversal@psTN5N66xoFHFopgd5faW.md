@@ -1,8 +1,8 @@
-# Pre-Order Traversal
+# Pré-Ordem de Visitação
 
-Pre-order traversal is a way to visit every node in a tree data structure. It follows a specific order: first, the current node is processed (or visited). Then, the left subtree of the current node is traversed using pre-order. Finally, the right subtree of the current node is traversed using pre-order. This "node-left-right" sequence ensures each node is visited exactly once.
+A pré-ordem de visitação é um método para visitar todos os nós em uma estrutura de dados de árvore. Ela segue uma ordem específica: primeiro, o nó atual é processado (ou visitado). Em seguida, a subárvore esquerda do nó atual é percorrida usando a pré-ordem. Por fim, a subárvore direita do nó atual é percorrida usando a pré-ordem. Esta sequência "nó-esquerda-direita" garante que cada nó seja visitado exatamente uma vez.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@Tree | Illustrated Data Structures](https://www.youtube.com/watch?v=S2W3SXGPVyU)
-- [@video@Pre-order tree traversal in 3 minutes](https://www.youtube.com/watch?v=1WxLM2hwL-U)
+- [@vídeo@Árvores | Estruturas de Dados Ilustradas](https://www.youtube.com/watch?v=S2W3SXGPVyU)
+- [@vídeo@Pré-ordem de árvore em 3 minutos](https://www.youtube.com/watch?v=1WxLM2hwL-U)

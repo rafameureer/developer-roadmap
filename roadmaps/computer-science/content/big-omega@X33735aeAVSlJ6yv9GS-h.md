@@ -1,9 +1,9 @@
-# Big Omega Notation
+# Notação Big Omega
 
-The Big Omega notation is similar to the Big O notation. The only difference is that it denotes the lower bound on the growth rate of a function.
+A notação Big Omega é semelhante à notação Big O. A única diferença é que ela denota o limite inferior na taxa de crescimento de uma função.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@article@Big O Notation | Brilliant Math & Science Wiki](https://brilliant.org/wiki/big-o-notation/)
-- [@video@Big Oh Notation (and Omega and Theta)](https://www.youtube.com/watch?v=ei-A_wy5Yxw&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN&index=3)
-- [@video@Asymptotic Notation - CS50](https://www.youtube.com/watch?v=iOq5kSKqeR4)
+- [@artigo@Notação Big O | Wiki Matemática e Científica Brilhante](https://brilliant.org/wiki/big-o-notation/)
+- [@vídeo@Big Oh Notation (e Omega e Theta)](https://www.youtube.com/watch?v=ei-A_wy5Yxw&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN&index=3)
+- [@vídeo@Notação Assintótica - CS50](https://www.youtube.com/watch?v=iOq5kSKqeR4)

@@ -1,9 +1,9 @@
-# Dijkstra's Algorithm
+# Algoritmo de Dijkstra
 
-Dijkstra's algorithm is a graph traversal algorithm that finds the shortest path between two nodes in a graph. It is a weighted graph algorithm, meaning that each edge in the graph has a weight associated with it. The algorithm works by finding the shortest path from the starting node to all other nodes in the graph. It does this by keeping track of the distance from the starting node to each node, and then choosing the node with the shortest distance from the starting node to visit next. It then updates the distance of each node from the starting node, and repeats the process until all nodes have been visited.
+O algoritmo de Dijkstra é um algoritmo de varredura de grafo que encontra o caminho mais curto entre dois nós em um grafo. É um algoritmo de gráfico pesado, o que significa que cada aresta no grafo tem um peso associado a ela. O algoritmo funciona encontrando o caminho mais curto do nó inicial para todos os outros nós no grafo. Ele faz isso rastreando a distância do nó inicial para cada nó e então escolhendo o nó com a menor distância do nó inicial para visitar next. Em seguida, ele atualiza a distância de cada nó do nó inicial e repete o processo até que todos os nós tenham sido visitados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@Dijkstras Algorithm - MIT](https://www.youtube.com/watch?v=NSHizBK9JD8&t=1731s&ab_channel=MITOpenCourseWare)
-- [@video@Dijkstras Algorithm in 3 Minutes](https://www.youtube.com/watch?v=_lHSawdgXpI)
+- [@video@Algoritmo de Dijkstra - MIT](https://www.youtube.com/watch?v=NSHizBK9JD8&t=1731s&ab_channel=MITOpenCourseWare)
+- [@video@Algoritmo de Dijkstra em 3 minutos](https://www.youtube.com/watch?v=_lHSawdgXpI)
 - [@feed@Explore top posts about Data Science](https://app.daily.dev/tags/data-science?ref=roadmapsh)

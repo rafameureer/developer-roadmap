@@ -1,8 +1,8 @@
-# Replication
+# Replicação
 
-Replication is a process that involves sharing information to ensure consistency between redundant resources such as multiple databases, to improve reliability, fault-tolerance, or accessibility.
+A replicação é um processo que envolve compartilhar informações para garantir a consistência entre recursos redundantes, como várias bases de dados, melhorando a confiabilidade, tolerância a falhas ou acessibilidade.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para saber mais:
 
-- [@article@Database Replication](https://dev.to/karanpratapsingh/system-design-the-complete-course-10fo#database-replication)
-- [@article@Replication (computing)](https://en.wikipedia.org/wiki/Replication_(computing))
+- [@artigo@Replicação de Banco de Dados](https://dev.to/karanpratapsingh/system-design-the-complete-course-10fo#database-replication)
+- [@artigo@Replicação (computação)](https://en.wikipedia.org/wiki/Replication_(computing))

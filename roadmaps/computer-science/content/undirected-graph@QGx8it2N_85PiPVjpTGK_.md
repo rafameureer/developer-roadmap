@@ -1,7 +1,7 @@
-# Undirected Graph
+# Gráfico Não-Direcionado
 
-An undirected graph is graph, i.e., a set of objects (called vertices or nodes) that are connected together, where all the edges are bidirectional. An undirected graph is sometimes called an undirected network. In contrast, a graph where the edges point in a direction is called a directed graph.
+Um gráfico não-direcionado é um tipo de gráfico, ou seja, um conjunto de objetos (chamados vértices ou nós) que estão conectados entre si, onde todas as arestas são bidirecionais. Um gráfico não-direcionado às vezes é chamado de rede não-direcionada. Em contraste, um gráfico onde as arestas apontam em uma direção é chamado de gráfico direcionado.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Undirected Graph](https://mathinsight.org/definition/undirected_graph)
+- [@artigo@Gráfico Não-Direcionado](https://mathinsight.org/definition/undirected_graph)

@@ -1,8 +1,8 @@
-# Longest Path Problem
+# Problema do Caminho Mais Longo
 
-Longest path problem is a problem that asks us to find the longest path in a graph.
+O problema do caminho mais longo é um problema que nos pede para encontrar o caminho mais longo em um gráfico.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@Shortest/Longest path on a Directed Acyclic Graph (DAG) | Graph Theory](https://www.youtube.com/watch?v=TXkDpqjDMHA)
-- [@video@Longest Simple Path - Intro to Algorithms](https://www.youtube.com/watch?v=lRH0tax5dFA)
+- [@video@Menor/Maior caminho em um Gráfico Direcionado Acíclico (DAG) | Teoria dos Grafos](https://www.youtube.com/watch?v=TXkDpqjDMHA)
+- [@video@Caminho Simples Mais Longo - Introdução a Algoritmos](https://www.youtube.com/watch?v=lRH0tax5dFA)

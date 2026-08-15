@@ -1,7 +1,7 @@
-# DDL (Data Definition Language)
+# DDL (Linguagem de Definição de Dados)
 
-DDL or Data Definition Language actually consists of the SQL commands that can be used to define the database schema. It simply deals with descriptions of the database schema and is used to create and modify the structure of database objects in the database. DDL is a set of SQL commands used to create, modify, and delete database structures but not data. These commands are normally not used by a general user, who should be accessing the database via an application.
+DDL ou Linguagem de Definição de Dados na verdade consiste nos comandos SQL que podem ser usados para definir o esquema do banco de dados. Ele simplesmente lida com as descrições do esquema do banco de dados e é usado para criar e modificar a estrutura dos objetos do banco de dados no banco de dados. O DDL é um conjunto de comandos SQL usados para criar, modificar e excluir estruturas de banco de dados, mas não dados. Esses comandos normalmente não são usados por um usuário geral, que deve estar acessando o banco de dados via uma aplicação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@DDL](https://en.wikipedia.org/wiki/Data_definition_language)
+- [@artigo@DDL](https://en.wikipedia.org/wiki/Data_definition_language)

@@ -1,9 +1,9 @@
-# Brute Force Search
+# Busca Força Bruta
 
-Brute force search is a simple algorithm that checks for a pattern in a string by comparing each character of the string with the first character of the pattern. If the first character matches, it then compares the next character of the string with the next character of the pattern and so on. If all the characters of the pattern match, then the pattern is found. If the first character does not match, then the algorithm compares the second character of the string with the first character of the pattern and so on.
+A busca por força bruta é um algoritmo simples que verifica um padrão em uma string comparando cada caractere da string com o primeiro caractere do padrão. Se o primeiro caractere corresponder, ele então compara o próximo caractere da string com o próximo caractere do padrão e assim por diante. Se todos os caracteres do padrão corresponderem, então o padrão é encontrado. Se o primeiro caractere não corresponder, então o algoritmo compara o segundo caractere da string com o primeiro caractere do padrão e assim por diante.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@Brute-Force Substring Search](https://www.coursera.org/learn/algorithms-part2/lecture/2Kn5i/brute-force-substring-search)
-- [@article@A Beginner Guide to Brute Force Algorithm for Substring Search](https://nulpointerexception.com/2019/02/10/a-beginner-guide-to-brute-force-algorithm-for-substring-search/)
-- [@article@Brute Force Algorithm in Cybersecurity and String Search](https://www.baeldung.com/cs/brute-force-cybersecurity-string-search)
+- [@curso@Busca de Substring por Força Bruta](https://www.coursera.org/learn/algorithms-part2/lecture/2Kn5i/brute-force-substring-search)
+- [@artigo@Guia Iniciante para Algoritmo de Busca por Força Bruta para Substrings](https://nulpointerexception.com/2019/02/10/a-beginner-guide-to-brute-force-algorithm-for-substring-search/)
+- [@artigo@Algoritmo de Força Bruta em Segurança Cibernética e Pesquisa de Strings](https://www.baeldung.com/cs/brute-force-cybersecurity-string-search)

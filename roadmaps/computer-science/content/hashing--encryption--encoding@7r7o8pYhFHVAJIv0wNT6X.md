@@ -1,12 +1,12 @@
-# Hashing/Encryption/Encoding
+# Hashing/Encriptação/Codificação
 
-Hashing is a one-way function that takes an input and produces a fixed-length output. The output is called a hash. The hash is a unique representation of the input. The hash is deterministic, meaning that the same input will always produce the same hash. The hash is irreversible, meaning that it is impossible to go from the hash back to the original input. The hash is not collision-resistant, meaning that it is possible to find two different inputs that produce the same hash.
+O hashing é uma função unidirecional que recebe uma entrada e produz uma saída de comprimento fixo. A saída é chamada de hash. O hash é uma representação única da entrada. O hash é determinístico, o que significa que a mesma entrada sempre produzirá o mesmo hash. O hash é irreversível, o que significa que não é possível voltar da hash para a entrada original. O hash não é resistente a colisões, o que significa que é possível encontrar duas entradas diferentes que produzem o mesmo hash.
 
-Encryption is a two-way function that takes an input and produces an output. The output is called ciphertext. The ciphertext is a unique representation of the input. The ciphertext is deterministic, meaning that the same input will always produce the same ciphertext. The ciphertext is reversible, meaning that it is possible to go from the ciphertext back to the original input. The ciphertext is collision-resistant, meaning that it is impossible to find two different inputs that produce the same ciphertext.
+A encriptação é uma função bidirecional que recebe uma entrada e produz uma saída. A saída é chamada de texto cifrado. O texto cifrado é uma representação única da entrada. O texto cifrado é determinístico, o que significa que a mesma entrada sempre produzirá o mesmo texto cifrado. O texto cifrado é reversível, o que significa que é possível voltar do texto cifrado para a entrada original. O texto cifrado é resistente a colisões, o que significa que não é possível encontrar duas entradas diferentes que produzem o mesmo texto cifrado.
 
-Encoding is a two-way function that takes an input and produces an output. The output is called encoded text. The encoded text is a unique representation of the input. The encoded text is deterministic, meaning that the same input will always produce the same encoded text. The encoded text is reversible, meaning that it is possible to go from the encoded text back to the original input. The encoded text is collision-resistant, meaning that it is impossible to find two different inputs that produce the same encoded text.
+A codificação é uma função bidirecional que recebe uma entrada e produz uma saída. A saída é chamada de texto codificado. O texto codificado é uma representação única da entrada. O texto codificado é determinístico, o que significa que a mesma entrada sempre produzirá o mesmo texto codificado. O texto codificado é reversível, o que significa que é possível voltar do texto codificado para a entrada original. O texto codificado é resistente a colisões, o que significa que não é possível encontrar duas entradas diferentes que produzem o mesmo texto codificado.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@video@Encoding, Encryption and Hashing -- What's the Difference?](https://www.youtube.com/watch?v=-bAnBzvMLig)
+- [@vídeo@Codificação, Encriptação e Hashing -- Qual a Diferença?](https://www.youtube.com/watch?v=-bAnBzvMLig)
 - [@feed@Explore top posts about Encryption](https://app.daily.dev/tags/encryption?ref=roadmapsh)

@@ -1,8 +1,8 @@
 # Sockets
 
-A socket is an interface for network communication. It is a way for two programs to communicate with each other over a network. It is a way for a client to send a request to a server and for the server to send a response back to the client.
+Um socket é uma interface para comunicação de rede. É uma maneira para dois programas se comunicarem um com o outro por uma rede. É uma maneira para um cliente enviar uma solicitação a um servidor e para o servidor responder de volta ao cliente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@A Beginners Guide to WebSockets](https://www.youtube.com/watch?v=8ARodQ4Wlf4)
-- [@video@WebSockets in 100 Seconds & Beyond with Socket.io](https://www.youtube.com/watch?v=1BfCnjr_Vjg)
+- [@vídeo@Um Guia Iniciante sobre WebSockets](https://www.youtube.com/watch?v=8ARodQ4Wlf4)
+- [@vídeo@WebSockets em 100 Segundos e Além com Socket.io](https://www.youtube.com/watch?v=1BfCnjr_Vjg)

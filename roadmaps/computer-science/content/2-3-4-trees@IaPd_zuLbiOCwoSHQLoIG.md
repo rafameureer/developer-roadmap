@@ -1,9 +1,9 @@
-# 2-3-4 Search Trees
+# Árvores 2-3-4
 
-In practice: For every 2-4 tree, there are corresponding red–black trees with data elements in the same order. The insertion and deletion operations on 2-4 trees are also equivalent to color-flipping and rotations in red–black trees. This makes 2-4 trees an important tool for understanding the logic behind red–black trees, and this is why many introductory algorithm texts introduce 2-4 trees just before red–black trees, even though 2-4 trees are not often used in practice.
+Na prática: Para cada árvore 2-3-4, há árvores vermelho-preto correspondentes com elementos de dados na mesma ordem. As operações de inserção e exclusão em árvores 2-3-4 são também equivalentes às rotações e inverter cores em árvores vermelho-preto. Isso torna as árvores 2-3-4 uma ferramenta importante para entender a lógica por trás das árvores vermelho-preto, e é por isso que muitos textos introdutórios sobre algoritmos introduzem árvores 2-3-4 antes das árvores vermelho-preto, mesmo que as árvores 2-3-4 não sejam frequentemente usadas na prática.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@CS 61B Lecture 26: Balanced Search Trees](https://archive.org/details/ucberkeley_webcast_zqrqYXkth6Q)
-- [@video@Bottom Up 234-Trees](https://www.youtube.com/watch?v=DQdMYevEyE4&index=4&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6)
-- [@video@Top Down 234-Trees](https://www.youtube.com/watch?v=2679VQ26Fp4&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6&index=5)
+- [@article@CS 61B Aula 26: Árvores de Busca Balanceadas](https://archive.org/details/ucberkeley_webcast_zqrqYXkth6Q)
+- [@video@Árvores 234 Desde Baixo para Cima](https://www.youtube.com/watch?v=DQdMYevEyE4&index=4&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6)
+- [@video@Árvores 234 Desde Cima para Baixo](https://www.youtube.com/watch?v=2679VQ26Fp4&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6&index=5)

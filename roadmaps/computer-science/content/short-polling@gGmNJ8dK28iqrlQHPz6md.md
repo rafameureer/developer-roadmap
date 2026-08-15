@@ -1,7 +1,7 @@
-# Short Polling
+# Pollagem Curta
 
-In short polling, the client requests information from the server. The server processes the request. If data is available for the request, server responds to the request with the required information. However, if the server has no data available for the client, server returns an empty response. In both the situation, the connection will be closed after returning the response. Clients keep issuing new requests even after server sends the empty responses. This mechanism increases the network cost on the server.
+Na pollagem curta, o cliente solicita informações ao servidor. O servidor processa a solicitação. Se dados estiverem disponíveis para a solicitação, o servidor responde à solicitação com as informações necessárias. No entanto, se o servidor não tiver dados disponíveis para o cliente, ele retorna uma resposta vazia. Em ambas as situações, a conexão será fechada após retornar a resposta. Os clientes continuam emitindo novas solicitações mesmo depois que o servidor envia respostas vazias. Este mecanismo aumenta o custo de rede no servidor.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para saber mais:
 
-- [@article@What are Long-Polling, Websockets, Server-Sent Events (SSE) and Comet?](https://stackoverflow.com/questions/11077857/what-are-long-polling-websockets-server-sent-events-sse-and-comet)
+- [@artigo@O que são Long-Polling, Websockets, Server-Sent Events (SSE) e Comet?](https://stackoverflow.com/questions/11077857/what-are-long-polling-websockets-server-sent-events-sse-and-comet)

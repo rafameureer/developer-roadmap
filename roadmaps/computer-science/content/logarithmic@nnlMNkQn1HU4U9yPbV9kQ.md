@@ -1,8 +1,8 @@
-# Logarithmic
+# Logarítmico
 
-Logarithmic complexity algorithms are the second fastest algorithms. They are faster than linear algorithms, but slower than constant algorithms.
+Algoritmos de complexidade logarítmica são os segundos mais rápidos. Eles são mais rápidos que algoritmos lineares, mas mais lentos que algoritmos constantes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@Big O Notation — Calculating Time Complexity](https://www.youtube.com/watch?v=Z0bH0cMY0E8)
-- [@video@Big O Notations](https://www.youtube.com/watch?v=V6mKVRU1evU)
+- [@vídeo@Notação Big O — Calculando a Complexidade de Tempo](https://www.youtube.com/watch?v=Z0bH0cMY0E8)
+- [@vídeo@Notações Big O](https://www.youtube.com/watch?v=V6mKVRU1evU)

@@ -1,10 +1,10 @@
-# CPU Cache
+# Cache da CPU
 
-A CPU cache is a hardware cache used by the central processing unit of a computer to reduce the average cost to access data from the main memory. A cache is a smaller, faster memory, located closer to a processor core, which stores copies of the data from frequently used main memory locations.
+O cache da CPU é um cache de hardware usado pela unidade central de processamento de um computador para reduzir o custo médio de acesso a dados na memória principal. Um cache é uma memória menor e mais rápida, localizada mais próxima do núcleo do processador, que armazena cópias dos dados das locações de memória principal frequentemente usadas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is CPU Cache](https://www.howtogeek.com/854138/what-is-cpu-cache/)
-- [@video@MIT 6.004 L15: The Memory Hierarchy](https://www.youtube.com/watch?v=vjYF_fAZI5E&list=PLrRW1w6CGAcXbMtDFj205vALOGmiRc82-&index=24)
-- [@video@MIT 6.004 L16: Cache Issues](https://www.youtube.com/watch?v=ajgC3-pyGlk&index=25&list=PLrRW1w6CGAcXbMtDFj205vALOGmiRc82-)
+- [@artigo@O que é Cache da CPU](https://www.howtogeek.com/854138/what-is-cpu-cache/)
+- [@vídeo@MIT 6.004 L15: A Hierarquia de Memória](https://www.youtube.com/watch?v=vjYF_fAZI5E&list=PLrRW1w6CGAcXbMtDFj205vALOGmiRc82-&index=24)
+- [@vídeo@MIT 6.004 L16: Problemas de Cache](https://www.youtube.com/watch?v=ajgC3-pyGlk&index=25&list=PLrRW1w6CGAcXbMtDFj205vALOGmiRc82-)
 - [@feed@Explore top posts about Computing](https://app.daily.dev/tags/computing?ref=roadmapsh)

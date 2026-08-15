@@ -1,8 +1,8 @@
 # ASCII
 
-ASCII is a character encoding standard for electronic communication. It was developed from telegraph code and uses 7 bits to represent 128 different characters. The first 32 characters are non-printable control characters used to control devices like printers and typewriters. The remaining 96 characters are printable and include the letters of the English alphabet, numbers, punctuation, and various symbols.
+ASCII é um padrão de codificação de caracteres para comunicação eletrônica. Foi desenvolvido a partir do código telegráfico e usa 7 bits para representar 128 diferentes caracteres. Os primeiros 32 caracteres são caracteres de controle não imprimíveis usados para controlar dispositivos como impressoras e teclados mecânicos. Os caracteres restantes, 96, são imprimíveis e incluem as letras do alfabeto inglês, números, pontuação e vários símbolos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Must Know about Character Encodings](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
-- [@article@Character Encoding](https://cs.lmu.edu/~ray/notes/charenc/)
+- [@artigo@O que Você Precisa Saber sobre Codificações de Caracteres](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
+- [@artigo@Codificação de Caracteres](https://cs.lmu.edu/~ray/notes/charenc/)

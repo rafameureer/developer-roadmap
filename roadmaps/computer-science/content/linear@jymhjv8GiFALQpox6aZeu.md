@@ -1,9 +1,9 @@
 # Linear
 
-Linear algorithms are algorithms that have a runtime that is directly proportional to the size of the input. This means that the runtime of the algorithm will increase linearly with the size of the input. For example, if the input size is 10, the runtime will be 10 times the runtime of the algorithm when the input size is 1. If the input size is 100, the runtime will be 100 times the runtime of the algorithm when the input size is 1.
+Algoritmos lineares são algoritmos cujo tempo de execução é proporcional diretamente ao tamanho da entrada. Isso significa que o tempo de execução do algoritmo aumentará linearmente com o tamanho da entrada. Por exemplo, se o tamanho da entrada for 10, o tempo de execução será 10 vezes o tempo de execução do algoritmo quando o tamanho da entrada for 1. Se o tamanho da entrada for 100, o tempo de execução será 100 vezes o tempo de execução do algoritmo quando o tamanho da entrada for 1.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para saber mais:
 
-- [@article@Linear Search Algorithm](https://www.geeksforgeeks.org/linear-search/)
-- [@video@Big O Notation — Calculating Time Complexity](https://www.youtube.com/watch?v=Z0bH0cMY0E8)
-- [@video@Big O Notations](https://www.youtube.com/watch?v=V6mKVRU1evU)
+- [@artigo@Algoritmo de Busca Linear](https://www.geeksforgeeks.org/linear-search/)
+- [@vídeo@Notação Big O — Calculando Complexidade Temporal](https://www.youtube.com/watch?v=Z0bH0cMY0E8)
+- [@vídeo@Notações Big O](https://www.youtube.com/watch?v=V6mKVRU1evU)

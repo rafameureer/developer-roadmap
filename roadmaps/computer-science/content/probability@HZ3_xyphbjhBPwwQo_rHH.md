@@ -1,8 +1,8 @@
-# Probability
+# Probabilidade
 
-Probability is the study of how likely an event is to occur. It is a measure of how certain we are that an event will happen.
+A probabilidade é o estudo de como provável é que um evento ocorra. É uma medida da certeza com a qual estamos de que um evento acontecerá.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Probability - Khan Academy](https://www.khanacademy.org/math/statistics-probability/probability-library)
-- [@video@MIT 6.042J - Probability Introduction](https://www.youtube.com/watch?v=SmFwFdESMHI&index=18&list=PLB7540DEDD482705B)
+- [@artigo@Probabilidade - Khan Academy](https://www.khanacademy.org/math/statistics-probability/probability-library)
+- [@vídeo@MIT 6.042J - Introdução à Probabilidade](https://www.youtube.com/watch?v=SmFwFdESMHI&index=18&list=PLB7540DEDD482705B)

@@ -1,8 +1,8 @@
-# Knapsack Problem
+# Problema da Mochila
 
-KnapSack Problem is a classic problem in computer science. It is a problem in which we are given a set of items, each with a weight and a value, and we need to determine which items to include in a collection so that the total weight is less than or equal to a given limit and the total value is as large as possible.
+O Problema da Mochila é um problema clássico na ciência da computação. É um problema em que são dados um conjunto de itens, cada um com peso e valor, e é necessário determinar quais itens incluir em uma coleção de forma que o peso total seja menor ou igual a um limite dado e o valor total seja o máximo possível.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@How to solve the Knapsack Problem with dynamic programming](https://medium.com/@fabianterh/how-to-solve-the-knapsack-problem-with-dynamic-programming-eb88c706d3cf)
-- [@video@3.1 Knapsack Problem - Greedy Method](https://www.youtube.com/watch?v=oTTzNMHM05I)
+- [@artigo@Como resolver o Problema da Mochila com programação dinâmica](https://medium.com/@fabianterh/how-to-solve-the-knapsack-problem-with-dynamic-programming-eb88c706d3cf)
+- [@vídeo@3.1 Problema da Mochila - Método Guloso](https://www.youtube.com/watch?v=oTTzNMHM05I)

@@ -1,7 +1,7 @@
-# DQL (Data Query Language)
+# LQL (Linguagem de Consulta de Dados)
 
-DQL statements are used for performing queries on the data within schema objects. The purpose of the DQL Command is to get some schema relation based on the query passed to it. We can define DQL as follows it is a component of SQL statement that allows getting data from the database and imposing order upon it. It includes the SELECT statement. This command allows getting the data out of the database to perform operations with it. When a SELECT is fired against a table or tables the result is compiled into a further temporary table, which is displayed or perhaps received by the program i.e. a front-end.
+As instruções LQL são usadas para realizar consultas nos dados dentro dos objetos do esquema. O propósito do comando LQL é obter uma relação de esquema com base na consulta passada a ele. Podemos definir o LQL da seguinte forma: é um componente da declaração SQL que permite obter dados do banco de dados e impondo ordem a eles. Ele inclui a declaração SELECT. Este comando permite obter os dados do banco de dados para realizar operações com ele. Quando uma consulta SELECT é disparada contra uma tabela ou tabelas, o resultado é compilado em uma tabela temporária adicional, que é exibida ou talvez recebida pelo programa, ou seja, a interface de front-end.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Data Query Language](https://en.wikipedia.org/wiki/Data_query_language)
+- [@artigo@Linguagem de Consulta de Dados](https://en.wikipedia.org/wiki/Data_query_language)

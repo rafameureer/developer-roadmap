@@ -1,7 +1,7 @@
-# Balanced Tree
+# Árvore Balanceada
 
-A balanced binary tree, also referred to as a height-balanced binary tree, is defined as a binary tree in which the height of the left and right subtree of any node differ by not more than 1.
+Uma árvore binária balanceada, também conhecida como uma árvore binária de altura balanceada, é definida como uma árvore binária em que a altura da subárvore esquerda e direita de qualquer nó difere por não mais de 1.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Balanced Binary Tree](https://www.programiz.com/dsa/balanced-binary-tree)
+- [@article@Árvore Binária Balanceada](https://www.programiz.com/dsa/balanced-binary-tree)

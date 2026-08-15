@@ -1,12 +1,12 @@
 # DNS
 
-The Domain Name System (DNS) is the phonebook of the Internet. Humans access information online through domain names, like [nytimes.com](http://nytimes.com) or [espn.com](http://espn.com). Web browsers interact through Internet Protocol (IP) addresses. DNS translates domain names to IP addresses so browsers can load Internet resources.
+O Sistema de Nomes de Domínio (DNS) é o caderno telefônico da Internet. As pessoas acessam informações online através de nomes de domínio, como [nytimes.com](http://nytimes.com) ou [espn.com](http://espn.com). Os navegadores da web interagem através de endereços IP. O DNS traduz nomes de domínio em endereços IP para que os navegadores possam carregar recursos da Internet.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is DNS?](https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/)
-- [@article@How DNS works (comic)](https://howdns.works/)
-- [@video@DNS and How does it Work?](https://www.youtube.com/watch?v=Wj0od2ag5sk)
-- [@video@DNS Records](https://www.youtube.com/watch?v=7lxgpKh_fRY)
-- [@video@Complete DNS mini-series](https://www.youtube.com/watch?v=zEmUuNFBgN8&list=PLTk5ZYSbd9MhMmOiPhfRJNW7bhxHo4q-K)
-- [@feed@Explore top posts about DNS](https://app.daily.dev/tags/dns?ref=roadmapsh)
+- [@artigo@O que é DNS?](https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/)
+- [@artigo@Como funciona o DNS (quadrinhos)](https://howdns.works/)
+- [@vídeo@DNS e Como Ele Funciona?](https://www.youtube.com/watch?v=Wj0od2ag5sk)
+- [@vídeo@Registros DNS](https://www.youtube.com/watch?v=7lxgpKh_fRY)
+- [@vídeo@Mini-série completa sobre DNS](https://www.youtube.com/watch?v=zEmUuNFBgN8&list=PLTk5ZYSbd9MhMmOiPhfRJNW7bhxHo4q-K)
+- [@feed@Explore os principais posts sobre DNS](https://app.daily.dev/tags/dns?ref=roadmapsh)

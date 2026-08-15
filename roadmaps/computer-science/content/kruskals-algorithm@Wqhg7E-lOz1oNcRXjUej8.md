@@ -1,9 +1,9 @@
-# Kruskal's algorithm
+# Algoritmo de Kruskal
 
-Kruskal's algorithm is a greedy algorithm that finds a minimum spanning tree for a connected weighted graph. It is a minimum spanning tree algorithm that takes a graph as input and finds the subset of the edges of that graph which form a tree that includes every vertex, where the total weight of all the edges in the tree is minimized. If the graph is not connected, then it finds a minimum spanning forest (a minimum spanning tree for each connected component).
+O algoritmo de Kruskal é um algoritmo guloso que encontra uma árvore geradora mínima para um grafo conectado ponderado. É um algoritmo de árvore geradora mínima que recebe um grafo como entrada e encontra o subconjunto das arestas desse grafo que formam uma árvore que inclui todos os vértices, onde o peso total de todas as arestas na árvore é minimizado. Se o grafo não for conectado, então ele encontra uma floresta geradora mínima (uma árvore geradora mínima para cada componente conectado).
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@Kruskals Algorithm in 2 Minutes](https://www.youtube.com/watch?v=71UQH7Pr9kU)
-- [@video@Graph Algorithms II - DFS, BFS, Kruskals Algorithm, Union Find Data Structure - Lecture 7](https://www.youtube.com/watch?v=ufj5_bppBsA&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&index=8)
+- [@vídeo@Algoritmo de Kruskal em 2 Minutos](https://www.youtube.com/watch?v=71UQH7Pr9kU)
+- [@vídeo@Algoritmos de Grafos II - DFS, BFS, Algoritmo de Kruskal, Estrutura de Dados União-Find - Aula 7](https://www.youtube.com/watch?v=ufj5_bppBsA&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&index=8)
 - [@feed@Explore top posts about Data Science](https://app.daily.dev/tags/data-science?ref=roadmapsh)

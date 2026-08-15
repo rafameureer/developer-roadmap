@@ -1,8 +1,8 @@
-# Character Encodings
+# Codificações de Caracteres
 
-Character encodings are a way of representing characters as numbers. They are used to store and transmit text. The most common character encoding is ASCII, which is a 7-bit encoding. This means that each character is represented by a number between 0 and 127. The ASCII character set contains 128 characters, including letters, numbers, punctuation, and control characters. The ASCII character set is a subset of the Unicode character set, which is a 16-bit encoding. Unicode is a superset of ASCII, so ASCII characters can be represented by Unicode. Unicode is the most common character encoding used on the web.
+Codificações de caracteres são uma maneira de representar caracteres como números. Elas são usadas para armazenar e transmitir texto. A codificação de caracteres mais comum é ASCII, que é uma codificação de 7 bits. Isso significa que cada caractere é representado por um número entre 0 e 127. O conjunto de caracteres ASCII contém 128 caracteres, incluindo letras, números, pontuação e caracteres de controle. O conjunto de caracteres ASCII é um subconjunto do conjunto de caracteres Unicode, que é uma codificação de 16 bits. Unicode é um superconjunto de ASCII, então os caracteres ASCII podem ser representados por Unicode. Unicode é a codificação de caracteres mais comum usada na web.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Must Know about Character Encodings](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
-- [@article@Character Encoding](https://cs.lmu.edu/~ray/notes/charenc/)
+- [@artigo@O que você precisa saber sobre codificações de caracteres](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
+- [@artigo@Codificação de Caracteres](https://cs.lmu.edu/~ray/notes/charenc/)

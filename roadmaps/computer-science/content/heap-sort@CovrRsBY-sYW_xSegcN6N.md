@@ -1,11 +1,11 @@
 # Heap Sort
 
-Heap sort is a comparison based sorting algorithm. It is similar to selection sort where we first find the maximum element and place the maximum element at the end. We repeat the same process for remaining element.
+O heap sort é um algoritmo de classificação baseado em comparação. É semelhante ao selection sort, onde primeiro encontramos o elemento máximo e colocamos o elemento máximo no final. Repetimos o mesmo processo para os elementos restantes.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@course@Heap Sort Algorithm](https://www.coursera.org/lecture/data-structures/heap-sort-hSzMO)
-- [@article@Heap Sort Algorithm](https://www.programiz.com/dsa/heap-sort)
-- [@video@Heap Sort in 4 Minutes](https://www.youtube.com/watch?v=2DmK_H7IdTo)
-- [@video@Heap Sort Algorithm - MIT](https://www.youtube.com/watch?v=odNJmw5TOEE&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&t=3291s)
-- [@video@Lecture 4 - Heaps and Heap Sort](https://www.youtube.com/watch?v=B7hVxCmfPtM&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=5)
+- [@curso@Heap Sort Algorithm](https://www.coursera.org/lecture/data-structures/heap-sort-hSzMO)
+- [@artigo@Heap Sort Algorithm](https://www.programiz.com/dsa/heap-sort)
+- [@vídeo@Heap Sort in 4 Minutes](https://www.youtube.com/watch?v=2DmK_H7IdTo)
+- [@vídeo@Heap Sort Algorithm - MIT](https://www.youtube.com/watch?v=odNJmw5TOEE&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&t=3291s)
+- [@vídeo@Lecture 4 - Heaps and Heap Sort](https://www.youtube.com/watch?v=B7hVxCmfPtM&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=5)

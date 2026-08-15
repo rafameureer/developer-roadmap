@@ -1,7 +1,7 @@
-# String Search and Manipulations
+# Busca e Manipulação de Strings
 
-String search and manipulation is a very important topic in computer science. It is used in many different applications, such as searching or replacing a specific pattern, word or character in a string.
+A busca e manipulação de strings é um tópico muito importante na ciência da computação. É usado em muitas diferentes aplicações, como a busca ou substituição de um padrão específico, palavra ou caractere em uma string.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@String-searching Algorithm](https://en.wikipedia.org/wiki/String-searching_algorithm)
+- [@artigo@Algoritmos de Busca de String](https://en.wikipedia.org/wiki/String-searching_algorithm)

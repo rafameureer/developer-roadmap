@@ -1,10 +1,10 @@
-# Travelling Salesman Problem
+# Problema do Caixeiro Viajante
 
-The Travelling Salesman Problem (TSP) is a classic problem in computer science. It is a problem that is NP-complete, which means that it is a problem that is hard to solve. It is also a problem that is used to test the efficiency of algorithms.
+O Problema do Caixeiro Viajante (TSP) é um problema clássico na ciência da computação. É um problema que é NP-completo, o que significa que é um problema difícil de resolver. Também é um problema usado para testar a eficiência dos algoritmos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Traveling Salesman Problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem)
-- [@video@What is the Traveling Salesman Problem?](https://www.youtube.com/watch?v=1pmBjIZ20pE)
-- [@video@4.7 Traveling Salesperson Problem - Dynamic Programming](https://www.youtube.com/watch?v=XaXsJJh-Q5Y)
-- [@video@Traveling Salesman Problem | Dynamic Programming | Graph Theory](https://www.youtube.com/watch?v=cY4HiiFHO1o)
+- [@artigo@Problema do Caixeiro Viajante](https://en.wikipedia.org/wiki/Travelling_salesman_problem)
+- [@vídeo@O que é o Problema do Caixeiro Viajante?](https://www.youtube.com/watch?v=1pmBjIZ20pE)
+- [@vídeo@4.7 Problema do Caixeiro Vendedores - Programação Dinâmica](https://www.youtube.com/watch?v=XaXsJJh-Q5Y)
+- [@vídeo@Problema do Caixeiro Viajante | Programação Dinâmica | Teoria dos Grafos](https://www.youtube.com/watch?v=cY4HiiFHO1o)

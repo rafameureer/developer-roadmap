@@ -1,11 +1,11 @@
-# 2-3 Search Trees
+# Árvores 2-3
 
-In practice: 2-3 trees have faster inserts at the expense of slower searches (since height is more compared to AVL trees).
+Na prática: As árvores 2-3 têm inserções mais rápidas em troca de buscas mais lentas (já que a altura é maior em comparação com as árvores AVL).
 
-You would use 2-3 tree very rarely because its implementation involves different types of nodes. Instead, people use Red Black trees.
+Você usaria uma árvore 2-3 muito raramente porque sua implementação envolve diferentes tipos de nós. Em vez disso, as pessoas usam árvores vermelho-preto.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@23-Tree Intuition and Definition](https://www.youtube.com/watch?v=C3SsdUqasD4&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6&index=2)
-- [@video@Binary View of 23-Tree](https://www.youtube.com/watch?v=iYvBtGKsqSg&index=3&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6)
-- [@video@2-3 Trees (student recitation)](https://www.youtube.com/watch?v=TOb1tuEZ2X4&index=5&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)
+- [@video@Intuição e Definição da Árvore 23](https://www.youtube.com/watch?v=C3SsdUqasD4&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6&index=2)
+- [@video@Visualização Binária da Árvore 23](https://www.youtube.com/watch?v=iYvBtGKsqSg&index=3&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6)
+- [@video@Árvores 2-3 (recitação de estudante)](https://www.youtube.com/watch?v=TOb1tuEZ2X4&index=5&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)

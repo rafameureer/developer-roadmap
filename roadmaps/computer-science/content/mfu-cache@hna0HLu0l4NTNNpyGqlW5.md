@@ -1,8 +1,8 @@
 # MFU Cache
 
-MFU Cache is another cache algorithm. The difference is that instead of deleting the least frequently used entry, the MFU Cache deletes the most frequently used entry.
+MFU Cache é outro algoritmo de cache. A diferença é que, em vez de deletar a entrada menos frequentemente usada, o MFU Cache exclui a entrada mais frequentemente usada.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Comparison of MFU and LRU page replacement algorithms](https://stackoverflow.com/questions/13597246/comparison-of-mfu-and-lru-page-replacement-algorithms)
-- [@article@Why does cache use Most Recently Used (MRU) algorithm as evict policy?](https://stackoverflow.com/questions/5088128/why-does-cache-use-most-recently-used-mru-algorithm-as-evict-policy)
+- [@artigo@Comparação dos Algoritmos de Substituição MFU e LRU](https://stackoverflow.com/questions/13597246/comparison-of-mfu-and-lru-page-replacement-algorithms)
+- [@artigo@Por que o cache usa o algoritmo Mais Recente Usado (MRU) como política de expulsão?](https://stackoverflow.com/questions/5088128/why-does-cache-use-most-recently-used-mru-algorithm-as-evict-policy)

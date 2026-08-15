@@ -1,11 +1,11 @@
 # OWASP
 
-OWASP or Open Web Application Security Project is an online community that produces freely-available articles, methodologies, documentation, tools, and technologies in the field of web application security.
+OWASP ou Projeto de Segurança de Aplicações Web Aberta é uma comunidade online que produz artigos, metodologias, documentação, ferramentas e tecnologias gratuitamente disponíveis no campo da segurança de aplicativos web.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@OWASP](https://owasp.org/)
-- [@opensource@OWASP Web Application Security Testing Checklist](https://github.com/0xRadi/OWASP-Web-Checklist)
-- [@article@OWASP - Wiki](https://en.wikipedia.org/wiki/OWASP)
-- [@article@OWASP Top 10 Security Risks](https://sucuri.net/guides/owasp-top-10-security-vulnerabilities-2021/)
-- [@article@OWASP Cheatsheets](https://cheatsheetseries.owasp.org/cheatsheets/AJAX_Security_Cheat_Sheet.html)
+- [@oficial@OWASP](https://owasp.org/)
+- [@opensource@Lista de Verificação OWASP para Teste de Segurança de Aplicações Web](https://github.com/0xRadi/OWASP-Web-Checklist)
+- [@artigo@OWASP - Wiki](https://en.wikipedia.org/wiki/OWASP)
+- [@artigo@Top 10 Riscos de Segurança OWASP](https://sucuri.net/guides/owasp-top-10-security-vulnerabilities-2021/)
+- [@artigo@Cheat Sheets OWASP](https://cheatsheetseries.owasp.org/cheatsheets/AJAX_Security_Cheat_Sheet.html)

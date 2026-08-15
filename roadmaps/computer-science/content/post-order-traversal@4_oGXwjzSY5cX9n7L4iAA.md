@@ -1,8 +1,8 @@
-# Post-Order Traversal
+# Percursos Pós-Ordem
 
-Post-order traversal is a type of tree traversal that visits the left subtree, then the right subtree, and finally the root node. This is the opposite of pre-order traversal, which visits the root node first, then the left subtree, and finally the right subtree.
+O percurso pós-ordem é um tipo de percurso em árvore que visita primeiro a subárvore esquerda, depois a subárvore direita e finalmente o nó raiz. Isso é o oposto do percurso pré-ordem, que visita primeiro o nó raiz, depois a subárvore esquerda e finalmente a subárvore direita.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para saber mais:
 
-- [@article@Postorder Traversal of Binary Tree](https://www.geeksforgeeks.org/postorder-traversal-of-binary-tree/)
-- [@video@Tree | Illustrated Data Structures](https://www.youtube.com/watch?v=S2W3SXGPVyU)
+- [@article@Percursos Pós-Ordem de Árvores Binárias](https://www.geeksforgeeks.org/postorder-traversal-of-binary-tree/)
+- [@video@Árvore | Estruturas de Dados Ilustradas](https://www.youtube.com/watch?v=S2W3SXGPVyU)

@@ -1,11 +1,11 @@
-# Hashing Algorithms
+# Algoritmos de Hashing
 
-Hashing algorithms are used to generate a unique value for a given input. This value is called a hash. Hashing algorithms are used to verify the integrity of data, to store passwords, and to generate unique identifiers for data.
+Os algoritmos de hashing são usados para gerar um valor único para uma determinada entrada. Esse valor é chamado de hash. Os algoritmos de hashing são usados para verificar a integridade dos dados, armazenar senhas e gerar identificadores únicos para os dados.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@article@Hashing Algorithm Overview:](https://www.okta.com/identity-101/hashing-algorithms/)
-- [@video@Hashing Algorithms and Security - Computerphile](https://www.youtube.com/watch?v=b4b8ktEV4Bg)
-- [@video@Top Hashing Algorithms In Cryptography | MD5 and SHA 256 Algorithms Explained | Simplilearn](https://www.youtube.com/watch?v=Plp4F3ZfC7A)
-- [@video@SHA: Secure Hashing Algorithm - Computerphile](https://www.youtube.com/watch?v=DMtFhACPnTY)
+- [@artigo@Overview of Hashing Algorithm:](https://www.okta.com/identity-101/hashing-algorithms/)
+- [@vídeo@Hashing Algorithms and Security - Computerphile](https://www.youtube.com/watch?v=b4b8ktEV4Bg)
+- [@vídeo@Top Hashing Algorithms In Cryptography | MD5 and SHA 256 Algorithms Explained | Simplilearn](https://www.youtube.com/watch?v=Plp4F3ZfC7A)
+- [@vídeo@SHA: Secure Hashing Algorithm - Computerphile](https://www.youtube.com/watch?v=DMtFhACPnTY)
 - [@feed@Explore top posts about Algorithms](https://app.daily.dev/tags/algorithms?ref=roadmapsh)

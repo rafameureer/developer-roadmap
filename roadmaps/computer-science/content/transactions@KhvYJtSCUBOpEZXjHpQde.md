@@ -1,8 +1,8 @@
-# Transactions
+# Transações
 
-In short, a database transaction is a sequence of multiple operations performed on a database, and all served as a single logical unit of work — taking place wholly or not at all. In other words, there's never a case where only half of the operations are performed and the results saved.
+Em resumo, uma transação de banco de dados é uma sequência de várias operações realizadas em um banco de dados e todas elas servidas como uma única unidade lógica de trabalho — ocorrendo inteiramente ou não ocorrendo. Em outras palavras, nunca há um caso onde apenas metade das operações são realizadas e os resultados salvos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What are Transactions?](https://fauna.com/blog/database-transaction)
-- [@article@Database Transaction](https://en.wikipedia.org/wiki/Database_transaction)
+- [@artigo@O que são Transações?](https://fauna.com/blog/database-transaction)
+- [@artigo@Transação de Banco de Dados](https://en.wikipedia.org/wiki/Database_transaction)

@@ -1,12 +1,12 @@
-# Registers and RAMs
+# Registradores e Memórias RAM
 
-**_Registers_** are the smallest data-holding elements built into the processor itself. Registers are the memory locations that are directly accessible by the processor. The registers hold the instruction or operands currently accessed by the CPU.
+**_Registradores_** são os elementos de armazenamento de dados mais pequenos construídos diretamente no processador. Os registradores são as localizações de memória que podem ser acessadas diretamente pelo processador. Os registradores armazenam a instrução ou operandos atualmente acessados pelo CPU.
 
-Registers are the high-speed accessible storage elements. The processor accesses the registers within one CPU clock cycle. The processor can decode the instructions and perform operations on the register contents at more than one operation per CPU clock cycle.
+Os registradores são os elementos de armazenamento de alta velocidade acessíveis. O processador acessa os registradores em um ciclo de clock do CPU. O processador pode decodificar as instruções e realizar operações nos conteúdos dos registradores a mais de uma operação por ciclo de clock.
 
-**_Memory_** is a hardware device that stores computer programs, instructions, and data. The memory that is internal to the processor is primary memory (RAM), and the memory that is external to the processor is secondary (**Hard Drive**).
+**_Memória_** é um dispositivo de hardware que armazena programas, instruções e dados do computador. A memória interna ao processador é a memória primária (RAM), e a memória externa ao processador é secundária (**Disquete/Rígido**).
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@RAM vs. Registers - What's the Difference?](https://thisvsthat.io/ram-vs-registers)
-- [@video@Registers and RAM](https://youtu.be/fpnE6UAfbtU)
+- [@artigo@RAM vs. Registradores - O que é a Diferença?](https://thisvsthat.io/ram-vs-registers)
+- [@vídeo@Registradores e RAM](https://youtu.be/fpnE6UAfbtU)

@@ -1,10 +1,10 @@
-# Cloud Design Patterns
+# Design de Nuvem
 
-These design patterns are useful for building reliable, scalable, secure applications in the cloud.
+Esses padrões de design são úteis para construir aplicativos confiáveis, escaláveis e seguros na nuvem.
 
-The link below has cloud design patterns where each pattern describes the problem that the pattern addresses, considerations for applying the pattern, and an example based on Microsoft Azure. Most patterns include code samples or snippets that show how to implement the pattern on Azure. However, most patterns are relevant to any distributed system, whether hosted on Azure or other cloud platforms.
+O link abaixo contém padrões de design de nuvem onde cada padrão descreve o problema que o padrão aborda, considerações para aplicar o padrão e um exemplo baseado no Microsoft Azure. A maioria dos padrões inclui amostras de código ou trechos que mostram como implementar o padrão na Azure. No entanto, a maioria dos padrões é relevante para qualquer sistema distribuído, independentemente de estar hospedado na Azure ou em outras plataformas de nuvem.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Cloud Design Patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/)
+- [@artigo@Padrões de Design de Nuvem](https://learn.microsoft.com/en-us/azure/architecture/patterns/)
 - [@feed@Explore top posts about Cloud](https://app.daily.dev/tags/cloud?ref=roadmapsh)

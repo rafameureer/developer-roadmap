@@ -1,11 +1,11 @@
-# CAP Theorem
+# Teorema CAP
 
-CAP is an acronym for Consistency, Availability, and Partition Tolerance. According to the CAP theorem, any distributed system can only guarantee two of the three properties at any time. You can't guarantee all three properties at once.
+CAP é um acrônimo para Consistência, Disponibilidade e Tolerância a Partição. De acordo com o teorema CAP, qualquer sistema distribuído pode garantir apenas duas das três propriedades em qualquer momento. Você não pode garantir todas as três propriedades simultaneamente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is CAP Theorem?](https://www.bmc.com/blogs/cap-theorem/)
-- [@article@CAP Theorem - Wikipedia](https://en.wikipedia.org/wiki/CAP_theorem)
-- [@article@An Illustrated Proof of the CAP Theorem](https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/)
-- [@article@CAP Theorem and its applications in NoSQL Databases](https://www.ibm.com/uk-en/cloud/learn/cap-theorem)
-- [@video@What is CAP Theorem?](https://www.youtube.com/watch?v=_RbsFXWRZ10)
+- [@artigo@O que é Teorema CAP?](https://www.bmc.com/blogs/cap-theorem/)
+- [@artigo@Teorema CAP - Wikipedia](https://en.wikipedia.org/wiki/CAP_theorem)
+- [@artigo@Uma Prova Ilustrada do Teorema CAP](https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/)
+- [@artigo@Aplicações do Teorema CAP em Bancos de Dados NoSQL](https://www.ibm.com/uk-en/cloud/learn/cap-theorem)
+- [@vídeo@O que é Teorema CAP?](https://www.youtube.com/watch?v=_RbsFXWRZ10)

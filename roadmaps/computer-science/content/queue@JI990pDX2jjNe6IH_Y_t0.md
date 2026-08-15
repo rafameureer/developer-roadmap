@@ -1,10 +1,10 @@
-# Queue
+# Fila
 
-Queue is a linear collection of items where items are inserted and removed in a particular order. The queue is also called a FIFO Data Structure because it follows the "First In, First Out" principle i.e., the item that is inserted in the first is the one that is taken out first.
+A fila é uma coleção linear de itens onde os itens são inseridos e removidos em um determinado ordem. A fila também é chamada de Estrutura de Dados FIFO (First In, First Out) porque segue o princípio "Primeiro Entrou, Primeiro Sai", ou seja, o item que é inserido primeiro é o que é retirado primeiro.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@Queues - Coursera](https://www.coursera.org/lecture/data-structures/queues-EShpq)
-- [@article@Circular Buffer - Wikipedia](https://en.wikipedia.org/wiki/Circular_buffer)
-- [@video@Queue Data Structure | Illustrated Data Structures](https://www.youtube.com/watch?v=mDCi1lXd9hc)
-- [@video@Queue in 3 Minutes](https://www.youtube.com/watch?v=D6gu-_tmEpQ)
+- [@curso@Fila - Coursera](https://www.coursera.org/lecture/data-structures/queues-EShpq)
+- [@artigo@Buffer Circular - Wikipedia](https://en.wikipedia.org/wiki/Circular_buffer)
+- [@vídeo@Estrutura de Dados Fila | Estruturas de Dados Ilustradas](https://www.youtube.com/watch?v=mDCi1lXd9hc)
+- [@vídeo@Fila em 3 Minutos](https://www.youtube.com/watch?v=D6gu-_tmEpQ)

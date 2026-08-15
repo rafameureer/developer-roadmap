@@ -1,9 +1,9 @@
-# Big Theta Notation
+# Notação Big Theta
 
-If a function has the same Big O and Big Omega, they also become the function's Big Theta. Big Theta is used to describe the exact growth rate of a function. It is denoted by the symbol Θ.
+Se uma função tiver a mesma notação Big O e Big Omega, elas também se tornam a notação Big Theta da função. A notação Big Theta é usada para descrever a taxa de crescimento exata de uma função. Ela é denotada pelo símbolo Θ.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@article@Big O Notation | Brilliant Math & Science Wiki](https://brilliant.org/wiki/big-o-notation/)
-- [@video@Big Oh Notation (and Omega and Theta)](https://www.youtube.com/watch?v=ei-A_wy5Yxw&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN&index=3)
-- [@video@Asymptotic Notation - CS50](https://www.youtube.com/watch?v=iOq5kSKqeR4)
+- [@artigo@Notação Big O | Wiki Matemática e Científica Brilhante](https://brilliant.org/wiki/big-o-notation/)
+- [@vídeo@Big Oh Notation (e Omega e Theta)](https://www.youtube.com/watch?v=ei-A_wy5Yxw&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN&index=3)
+- [@vídeo@Notação Assintótica - CS50](https://www.youtube.com/watch?v=iOq5kSKqeR4)

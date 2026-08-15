@@ -1,8 +1,8 @@
-# Search Pattern in Text
+# Padrão de Busca em Texto
 
-Searching pattern in text is a very common task in computer science. It is used in many applications like spell checkers, text editors, and many more.
+A busca por padrões em texto é uma tarefa muito comum na ciência da computação. É usada em muitas aplicações como verificadores ortográficos, editores de texto e muito mais.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@Search Pattern in Text](https://www.coursera.org/learn/data-structures/lecture/tAfHI/search-pattern-in-text)
-- [@article@Pattern Searching](https://www.geeksforgeeks.org/pattern-searching/)
+- [@course@Busca de Padrão em Texto](https://www.coursera.org/learn/data-structures/lecture/tAfHI/search-pattern-in-text)
+- [@article@Busca de Padrões](https://www.geeksforgeeks.org/pattern-searching/)

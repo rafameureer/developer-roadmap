@@ -1,8 +1,8 @@
-# Activity Diagrams
+# Diagramas de Atividade
 
-Activity diagrams are used to model the flow of control in a system. They are used in conjunction with use case diagrams to model the behavior of the system for each use case. They are also used to model the behavior of a single class.
+Os diagramas de atividade são usados para modelar o fluxo de controle em um sistema. Eles são usados em conjunto com os diagramas de caso de uso para modelar o comportamento do sistema para cada caso de uso. Também são usados para modelar o comportamento de uma única classe.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@UML Activity Diagram Tutorial](https://www.lucidchart.com/pages/uml-activity-diagram)
-- [@article@What is Activity Diagram?](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-activity-diagram/)
+- [@article@Tutorial de Diagrama de Atividade UML](https://www.lucidchart.com/pages/uml-activity-diagram)
+- [@article@O que é um Diagrama de Atividade?](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-activity-diagram/)

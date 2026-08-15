@@ -1,8 +1,8 @@
 # Proxy
 
-A proxy server is an intermediary piece of hardware/software sitting between the client and the backend server. It receives requests from clients and relays them to the origin servers. Typically, proxies are used to filter requests, log requests, or sometimes transform requests (by adding/removing headers, encrypting/decrypting, or compression).
+Um servidor proxy é um dispositivo ou software intermediário que se encontra entre o cliente e o servidor de back-end. Ele recebe solicitações dos clientes e as encaminha para os servidores originais. Geralmente, proxies são usados para filtrar solicitações, registrar solicitações ou às vezes transformar solicitações (adicionando/removendo cabeçalhos, criptografando/descriptografando ou comprimindo).
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Proxy Servers](https://roadmap.sh/guides/proxy-servers)
-- [@article@Proxy - System Design](https://dev.to/karanpratapsingh/system-design-the-complete-course-10fo#proxy)
+- [@artigo@Servidores Proxy](https://roadmap.sh/guides/proxy-servers)
+- [@artigo@Proxy - Design de Sistema](https://dev.to/karanpratapsingh/system-design-the-complete-course-10fo#proxy)

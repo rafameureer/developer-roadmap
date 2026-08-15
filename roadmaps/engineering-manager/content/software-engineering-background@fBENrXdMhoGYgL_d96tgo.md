@@ -1,7 +1,7 @@
-# Software Engineering Background
+# Fundamentos da Engenharia de Software
 
-An Engineering Manager with a Software Engineering background is well-equipped to handle technical challenges within the team. They can effectively provide direction and guidance on software development, use their knowledge to troubleshoot problems and offer practical solutions. Their role entails not only supervising the team's work but also assisting in technical aspects.
+Um Gerente de Engenharia com fundamentos em Engenharia de Software está bem equipado para lidar com desafios técnicos dentro do time. Eles podem fornecer orientação e direção eficazes sobre o desenvolvimento de software, usar seu conhecimento para diagnosticar problemas e oferecer soluções práticas. Seu papel envolve não apenas supervisionar o trabalho da equipe, mas também auxiliar em aspectos técnicos.
 
-The main challenge is to strike a balance between managerial work and active technical contribution. They need to keep their software engineering skills up-to-date to maintain credibility and effectiveness. Prioritizing tasks, constant learning, and effective delegation are crucial aspects in this regard.
+O principal desafio é equilibrar o trabalho gerencial com a contribuição ativa técnica. Eles precisam manter suas habilidades de engenharia de software atualizadas para manter credibilidade e eficácia. Priorizar tarefas, aprender constantemente e delegação efetiva são aspectos cruciais nessa questão.
 
-A manager in this scenario should be proficient in specific programming languages that their team uses, software design principles, testing methods, and debugging. They should also have a good understanding of different software development methodologies to manage their team optimally.
+Um gestor neste cenário deve ser proficiente em linguagens de programação específicas que seu time usa, princípios de design de software, métodos de teste e depuração. Eles também devem ter uma boa compreensão de diferentes metodologias de desenvolvimento de software para gerenciar efetivamente o seu time.

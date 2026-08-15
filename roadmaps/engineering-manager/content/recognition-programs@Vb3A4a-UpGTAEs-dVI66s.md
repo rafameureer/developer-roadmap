@@ -1,7 +1,7 @@
-# Recognition programs
+# Programas de Reconhecimento
 
-Engineering Managers play a vital role in establishing and executing recognition programs in team culture. They understand the importance of acknowledging their team's contributions and achievements. As such, their main responsibility is designing and implementing effective recognition programs that motivate and inspire the team.
+Os Gerentes de Engenharia desempenham um papel vital na estabelecimento e execução de programas de reconhecimento na cultura da equipe. Eles entendem a importância de reconhecer as contribuições e realizações da equipe. Assim, sua principal responsabilidade é projetar e implementar programas de reconhecimento eficazes que motivem e inspirem a equipe.
 
-One challenge they face in this role is ensuring genuine and inclusive recognition. They tackle this by regular feedback sessions, timely appreciation, and personalized recognitions. They also need to balance recognitions between small daily wins and significant achievements.
+Um desafio nesta função é garantir o reconhecimento genuíno e inclusivo. Eles lidam com isso por meio de sessões regulares de feedback, apreciação imediata e reconhecimentos personalizados. Eles também precisam equilibrar os reconhecimentos entre pequenas vitórias diárias e realizações significativas.
 
-Success in this role requires a keen understanding of the team's work and an empathetic approach. Trust-building and communication skills are also necessary to foster a sense of appreciation within the team. Engineering Managers must create spaces where everyone feels their work is valued.
+O sucesso nesta função requer um profundo entendimento do trabalho da equipe e uma abordagem empática. Habilidades de construção de confiança e comunicação também são necessárias para criar um sentimento de apreciação dentro da equipe. Os Gerentes de Engenharia devem criar espaços onde todos se sintam valorizados.

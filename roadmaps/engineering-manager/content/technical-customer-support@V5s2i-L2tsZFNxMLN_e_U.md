@@ -1,7 +1,7 @@
-# Technical customer support
+# Suporte ao cliente técnico
 
-Engineering Managers play a vital role in technical customer support. They're responsible for ensuring that their team provides accurate and timely solutions to the customer's technical issues. Their key responsibilities include devising effective strategies for problem-solving, conducting regular team meetings to discuss pressing issues, and maintaining strong communication with other teams to understand system issues or software bugs.
+Gerentes de engenharia desempenham um papel crucial no suporte ao cliente técnico. Eles são responsáveis por garantir que sua equipe forneça soluções precisas e em tempo hábil para os problemas técnicos dos clientes. Suas principais responsabilidades incluem desenvolver estratégias eficazes para resolver problemas, realizar reuniões regulares da equipe para discutir questões urgentes e manter uma comunicação forte com outras equipes para entender problemas de sistema ou bugs de software.
 
-Engineering Managers also often face the challenge of reducing response time, managing customer expectations, and providing quality tech support. To tackle these, they prioritize regular training and upskilling for their team, foster an environment of continuous improvement, and use customer feedback for process enhancements.
+Gerentes de engenharia também frequentemente enfrentam o desafio de reduzir o tempo de resposta, gerenciar as expectativas dos clientes e fornecer suporte técnico de qualidade. Para lidar com isso, eles priorizam a formação regular e atualização da equipe, criam um ambiente de melhoria contínua e usam feedback dos clientes para melhorias nos processos.
 
-Success in this aspect requires strong technical acumen, excellent communication skills, and a customer-centric approach. The capability to turn customer feedback into actionable improvements is an invaluable asset in this role.
+O sucesso nesta área requer uma mistura de conhecimento técnico e habilidades de liderança. Um gerente de engenharia eficaz mantém comunicação aberta sobre o débito técnico entre os membros da equipe e os stakeholders. Eles aproveitam suas ações para garantir que os esforços da equipe estejam alinhados com os objetivos da empresa.

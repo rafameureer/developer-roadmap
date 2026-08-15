@@ -1,7 +1,7 @@
-# War Room Management
+# Gestão de Sala de Batalha
 
-Managing a War Room during an incident response requires the Engineering Manager to harness effective cross-functional communication skills. They coordinate with various teams, aligning everyone towards resolving the issue in the fastest possible way. At the same time, they minimize the impact on services and maintain transparency with stakeholders about progress.
+Gerenciar uma Sala de Batalha durante uma resposta a incidentes exige que o Gerente de Engenharia domine habilidades eficazes de comunicação interdisciplinar. Eles coordenam com várias equipes, alinhando todos para resolver o problema da maneira mais rápida possível. Ao mesmo tempo, eles minimizam o impacto nos serviços e mantêm transparência com os interessados sobre o progresso.
 
-A key responsibility of the Engineering Manager is to ensure that each War Room participant has a clear role and understands it. This includes assigning who will detail the incident, who will analyze and fix the issue, and who will communicate with impacted stakeholders.
+Um dos principais responsabilidades do Gerente de Engenharia é garantir que cada participante na Sala de Batalha tenha um papel claro e entenda-o. Isso inclui atribuir quem detalhará o incidente, quem analisará e corrigirá o problema, e quem comunicará com os interessados afetados.
 
-Challenge in War Room management can arise due to various technical difficulties or miscommunication. These challenges are best tackled by the Engineering Manager through regular reviewing and practicing of War Room procedures and by continuing education on the latest incident handling strategies.
+Desafios na gestão da Sala de Batalha podem surgir por várias dificuldades técnicas ou mal-entendidos. Esses desafios são melhor enfrentados pelo Gerente de Engenharia através da revisão regular e prática dos procedimentos da Sala de Batalha e pela continuidade do aprendizado sobre as últimas estratégias de gestão de incidentes.

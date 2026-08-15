@@ -1,7 +1,7 @@
-# Technical Debt and Management
+# Débito Técnico e Gestão
 
-Engineering Managers play a crucial role in managing technical debt. This involves identifying, prioritizing, and tackling issues. It's the manager's job to strike a balance between improving the existing codebase and delivering new features.
+Gerentes de engenharia desempenham um papel crucial na gestão do débito técnico. Isso envolve identificar, priorizar e lidar com problemas. É a responsabilidade do gerente equilibrar melhorias no código existente e entrega de novos recursos.
 
-Addressing technical debt demands constant vigilance. Key responsibilities include conducting code reviews, advocating for coding standards, and allocating time for refactoring and updates. They face challenges like pushback from stakeholders and proper risk assessment.
+Endurecer o débito técnico exige constante vigilância. As principais responsabilidades incluem revisões de código, defesa de padrões de codificação e alocação de tempo para refatoração e atualizações. Eles enfrentam desafios como rejeição dos stakeholders e avaliação adequada de riscos.
 
-Success in this area requires a mix of technical knowhow and leadership skills. An effective Engineering Manager maintains open communication about technical debt among team members and stakeholders. They leverage their actions towards ensuring the team's efforts align with the company's goals.
+O sucesso nesta área requer uma mistura de conhecimento técnico e habilidades de liderança. Um gerente de engenharia eficaz mantém comunicação aberta sobre o débito técnico entre os membros da equipe e os stakeholders. Eles aproveitam suas ações para garantir que os esforços da equipe estejam alinhados com os objetivos da empresa.

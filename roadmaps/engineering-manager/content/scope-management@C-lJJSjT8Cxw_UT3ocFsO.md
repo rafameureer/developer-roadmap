@@ -1,7 +1,7 @@
-# Scope Management
+# Gerenciamento de Escopo
 
-As an Engineering Manager, scope management is crucial because it ensures all work required, and only the work required, is included in the project. Their key role involves defining the scope, focusing on the project requirements, and acknowledging potential scope creep scenarios which may deviate the project from its objectives.
+Como um Gerente de Engenharia, o gerenciamento de escopo é crucial porque garante que todo trabalho necessário e apenas o trabalho necessário esteja incluído no projeto. Seu papel chave envolve definir o escopo, focar nas exigências do projeto e reconhecer cenários potenciais de aumento do escopo que podem desviar o projeto dos seus objetivos.
 
-The challenges faced often include managing the team's expectations and time, while striving to deliver a product that meets client's specs on time & budget. They need to delegate tasks effectively and ensure everyone sticks to the agreed scope.
+Os desafios enfrentados frequentemente incluem gerenciar as expectativas da equipe e o tempo, enquanto se esforça para entregar um produto que atenda às especificações do cliente no prazo e orçamento. Eles precisam delegar tarefas de forma eficaz e garantir que todos sigam o escopo acordado.
 
-To excel in scope management, one requires assertiveness, excellent communication and interpersonal skills and the knack for anticipating potential hurdles. A proficiency in risk management also plays a crucial role in preventing scope creep.
+Para excelir no gerenciamento de escopo, é necessário ter assertividade, comunicação excepcional e habilidades interpessoais e a capacidade de prever obstáculos potenciais. Uma proficiência em gestão de riscos também desempenha um papel crucial na prevenção do aumento do escopo.

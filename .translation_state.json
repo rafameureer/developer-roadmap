@@ -2976,7 +2976,43 @@
     "roadmaps/elasticsearch/content/update-document@5HcPuuPpsNudiuzpAFU8z.md",
     "roadmaps/elasticsearch/content/value-count@q8SWm-tJ9c7uIY6wxzQdI.md",
     "roadmaps/elasticsearch/content/vector-search@MH1AKsuv654fdXX6hVhtv.md",
-    "roadmaps/elasticsearch/content/wildcard-query@KtRZM5xTa4rHE7JnTAwAD.md"
+    "roadmaps/elasticsearch/content/wildcard-query@KtRZM5xTa4rHE7JnTAwAD.md",
+    "roadmaps/engineering-manager/content/burnout-prevention@mIUx8zAHWyPWPGvxuTK4y.md",
+    "roadmaps/engineering-manager/content/business-case-development@vhOHvfF_lfQrrOK6sGLTY.md",
+    "roadmaps/engineering-manager/content/business-continuity@v6N7BH0B55gX0oNXb55D7.md",
+    "roadmaps/engineering-manager/content/cicd-implementation@gAEmpSMvNyjmTa5q9oZSg.md",
+    "roadmaps/engineering-manager/content/code-review-best-practices@40yK6XzI8lSxdiAXxtF75.md",
+    "roadmaps/engineering-manager/content/communication-planning@Mxi4g_PzT0oYc3NgR0UVg.md",
+    "roadmaps/engineering-manager/content/company-culture@KA0y6KdVTjJFeX3frHUNo.md",
+    "roadmaps/engineering-manager/content/emergency-protocols@Xaeb67Nqdi0kwvehQUYeJ.md",
+    "roadmaps/engineering-manager/content/emergency-staffing@FwK-B7jRbBXVnuY9JxI1w.md",
+    "roadmaps/engineering-manager/content/emotional-intelligence@h7gEQNbGiabDA1q1Bk_IB.md",
+    "roadmaps/engineering-manager/content/feature-prioritization@2QwMcO27H3ygtLlWVplxr.md",
+    "roadmaps/engineering-manager/content/integration-management@f3P0fF4UzgVQZuMVTVmP1.md",
+    "roadmaps/engineering-manager/content/kpi-definition@Wd8FCEaGZBTvsD-k4t0r4.md",
+    "roadmaps/engineering-manager/content/legacy-system-retirement@QUxpEK8smXRBs2gMdDInB.md",
+    "roadmaps/engineering-manager/content/lessons-learned@HUQ_-vU2pdBPyF0mBocHz.md",
+    "roadmaps/engineering-manager/content/market-awareness@P2gIOt-i0sQEOMBo-XjZO.md",
+    "roadmaps/engineering-manager/content/migration-planning@QMAIEkVFHrrP6lUWvd0S8.md",
+    "roadmaps/engineering-manager/content/quality-metrics@ZWWsuFm_G4kvvl_cv8l_t.md",
+    "roadmaps/engineering-manager/content/recognition-programs@Vb3A4a-UpGTAEs-dVI66s.md",
+    "roadmaps/engineering-manager/content/release-management@-Qc6E3gkUUonfzifYqeJJ.md",
+    "roadmaps/engineering-manager/content/roi-analysis@XinUWPahOdufmLYcEwMj_.md",
+    "roadmaps/engineering-manager/content/scope-management@C-lJJSjT8Cxw_UT3ocFsO.md",
+    "roadmaps/engineering-manager/content/security--best-practices@sQCLhk__jvbityuuLlxiW.md",
+    "roadmaps/engineering-manager/content/security-incident-handling@FNp4-RgPvfC76pJKjX56a.md",
+    "roadmaps/engineering-manager/content/service-recovery@2fHcb1dAnf34APCAAlwnR.md",
+    "roadmaps/engineering-manager/content/social-connections@LE3ykySYFL23KvuwxeBaR.md",
+    "roadmaps/engineering-manager/content/software-engineering-background@fBENrXdMhoGYgL_d96tgo.md",
+    "roadmaps/engineering-manager/content/tech-talks@2LO0iWf-y3l4rA1n_oG1g.md",
+    "roadmaps/engineering-manager/content/technical-customer-support@V5s2i-L2tsZFNxMLN_e_U.md",
+    "roadmaps/engineering-manager/content/technical-debt-and-management@EY6Hk5wPd9Y_VA1UROk44.md",
+    "roadmaps/engineering-manager/content/timeline-estimation@QWO5QFS7kXwfu3aa8IiRt.md",
+    "roadmaps/engineering-manager/content/tool-transitions@f-52wRfPRrA9iniOMYQB7.md",
+    "roadmaps/engineering-manager/content/trust--influence-building@7PBmYoSmIgZT21a2Ip3_S.md",
+    "roadmaps/engineering-manager/content/vendor-management@Imgt669vbUT_Iec2o4Gvt.md",
+    "roadmaps/engineering-manager/content/war-room-management@LQ3YfAgJ4UaDgtnN-cMht.md",
+    "roadmaps/engineering-manager/content/what-is-engineering-management@_hYN0gEi9BL24nptEtXWU.md"
   ],
   "completed_roadmaps": [
     "frontend-beginner",
@@ -3013,7 +3049,8 @@
     "devsecops",
     "django",
     "docker",
-    "elasticsearch"
+    "elasticsearch",
+    "engineering-manager"
   ],
   "flagged_issues": [
     {
@@ -7060,8 +7097,493 @@
       "file": "roadmaps/elasticsearch/content/sql@Hg5LjcPxxBJyFcfhbrE_o.md",
       "reason": "Falha na tradução automática após tentativas no Ollama",
       "timestamp": "2026-08-15T06:21:50.229779"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/agile-methodologies@n9gvPHn4c1U-l6v-W9v6r.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:23:56.719917"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/api-strategy@ukmMMWacekcejEiEKCLzh.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:24:01.633239"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/architectural-decision-making@FtWNnOE3zObmjS-Og26M3.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:24:07.111644"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/architecture-documentation@gHhNi32MSBmqk-oKOy-uj.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:24:29.686908"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/best-practices@4-MCXFOkMGcN369OPG-vw.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:24:34.409443"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/bias-recognition--mitigation@g9FvFKC715tZL2ZGlPl3N.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:24:39.525772"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/blameless-post-mortems@fYkKo8D35AHd8agr3YrIP.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:24:58.308070"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/board-presentations@5MM1ccB1pmQcd3Uyjmbr7.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:25:02.756780"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/brown-bags@S8-nwYKlG7YHL2dWwR303.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:25:07.111641"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/budget-planning@oqjr26B27SHSYVQ4IFnA1.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:25:26.927646"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/budget-requests@pLUOU2AmAJ9aJAmIlVD7D.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:25:32.036411"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/build-vs-buy-evaluation@H0aav5qKDNiNegJOGP2rx.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:25:36.834956"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/career-development-planning@fhFSR_N4ZDTHINEinubHG.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:26:13.802456"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/change-management@tt02qGHSn4fPbpboZ1Ni_.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:26:18.925556"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/change-strategy@1__zRE1iu1FDX9ynpWSBS.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:26:23.301740"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/competitive-analysis@76GjwwEYaEX_kh02OSpdr.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:27:03.360867"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/conflict-resolution@QA5CR5f0geC_RQc_SOK-N.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:27:08.173352"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/contingency-planning@2RwpGPegD2GyiiV6SVbbM.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:27:27.320038"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/cost-optimization@rbhZJZtRV1ZZ5QaYW77ry.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:27:32.891288"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/critical-situation-leadership@nnoVA8W70hrNDxN3XQCVL.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:27:37.431475"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/cross-department-collaboration@Hb_rZe4k37Rr0enSh7woV.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:27:59.546733"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/cross-functional-collaboration@ZyNbSBd8plAZ5lt5OEUYu.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:28:05.998745"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/culture-evolution@y7YHIz7OI4sNfC_nhfLcu.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:28:11.192210"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/customer-feedback-integration@QEViLNgG4Uv9Q9PWig0u3.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:28:32.215070"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/customer-success-alignment@A-Aa7VdDAYfaMUZD_cWwP.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:28:37.327871"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/decision-records@dTjp_rEl1ITZjvELqVtfv.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:28:41.861755"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/defining-and-enforcing-values@ZuZuzwy-Frsn_PFJZVuAQ.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:29:02.437304"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/delegation@bx2SMhR58ud45se5dK7qS.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:29:07.056987"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/dependency-management@hH-UDVFlgKoMJcI1ssDFv.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:29:12.264365"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/development--release-workflow@bpJPDbifPwS4ScOoATlEI.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:29:31.903070"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/disaster-recovery@KOTzJ8e7mc0wmF46vrj3I.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:29:36.620656"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/em-vs-tech-lead-vs-ic@oKbeLp4YB8rI1Q3vi0EnG.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:29:41.725654"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/executive-summaries@CHothgVl8ulFthwS7uKqK.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:30:17.653444"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/external-collaboration@Jctp5tPCK_vY35_bh7QFk.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:30:22.846007"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/feedback-delivery@Az9GgkLFoat2t_sYRUBv5.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:30:47.312365"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/hiring-and-recruitment@3na5mBIPl5f6mjEzkgD_C.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:30:51.460023"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/impact-assessment@oGmtkOGVgA4huGJqkBEfj.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:30:56.315083"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/incident-management@o1xPrfg8iNWQpD12xsbQJ.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:31:17.267862"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/inclusive-environment-creation@6iM0n4faMNhk4mezS9AcG.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:31:22.180529"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/innovation-fostering@njqjYPMQK3nGYtqHzUylo.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:31:26.982337"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/knowledge-bases@7t9jmv3_lRCEG5y5DA8bF.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:31:51.619366"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/knowledge-sharing-practices@74-7hDXaBVXYo6LJdgac_.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:31:57.135556"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/learning-culture-development@aeD-kBZEr1NHFtAD8yHI_.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:32:23.623438"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/legacy-system-retirement@9mNLfntu1TPjcX3RoUeMq.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:32:28.870828"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/mentoring-and-coaching@0ULnfq0ZFJXgoLbKM1gxC.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:33:04.914802"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/mentoring-programs@g6K9fxWdRQT5h_u4Y_bkq.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:33:09.548176"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/milestone-management@PXobPGPgCX3_55w4UtxT9.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:33:34.870574"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/one-on-one-meetings@b3qoH_LuW-Gz4N8WdGnZs.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:33:39.912282"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/organization-structure@mjMRNhPkeb4lEZXBb8Iot.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:33:44.122136"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/people@aSZ2uVCmpAdEPjJt6VKG4.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:34:05.293513"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/performance-evaluations@eJzYnoB6sArLjXRm51cM4.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:34:11.036535"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/politics-navigation@Zoz01JcNU69gr95IcWhYM.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:34:15.670127"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/post-incident-analysis@8zyK34SwHry2lrWchw0KZ.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:34:34.929304"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/process-changes@ev9ZKygqETctLMSt1GAFU.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:34:39.304176"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/process-documentation@Kwy9O1z2hpeE0Sb3qtxEg.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:34:44.276638"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/process@iZFn0FaRdrGv_-_8zii_-.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:35:06.031652"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/product-strategy-alignment@nC5dfGlxbLoXUAp2u-6Gl.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:35:11.071093"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/product@p9ecMvHCqjmvxf67di7pY.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:35:15.838173"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/production-issues-management@kQG_wk66-51dA4Ly9ivjM.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:35:37.210089"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/project-postmortems@g9WWa50V8ZbhIJgBRx0Nd.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:35:44.017482"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/project-tracking@SuT6q5lMMSyVkadlQp7iU.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:35:49.026597"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/reorganizations@5_CE3p5jMA1uEqFNfp7Kh.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:36:25.662071"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/resistance-management@vfp6VmWnhpre_eDORg7ht.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:36:30.471510"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/resource-allocation@4v5yLKYVcMh0s7SQuf__C.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:36:35.648769"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/resource-forecasting@iwwxnSVvCmZ57stXwzk8G.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:36:57.026941"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/responsibility-shifts@eIlW4mZKNQfBsTDmZf7ex.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:37:01.798772"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/risk-management@mgw6M8I9qy1EoJpJV-gy1.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:37:07.405134"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/role-transitions@FayHWdUHHYFFBwnXx37Gk.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:37:33.378107"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/scaling-infrastructure@EyoVFmqOJbH1sAPHLISFt.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:37:37.640438"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/sprint-planning@7BcToTqL78QmG4qb43X5Q.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:38:30.222862"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/stakeholder-communication@irEwTIubCjORnlH27QpEo.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:38:35.694326"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/stakeholder-management@34uOnta7dKOyZL0et_RC8.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:38:40.581472"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/stakeholder-management@TVqVlJqegLZRSkwNoHbBf.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:39:00.997646"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/status-reporting@gqKEgKjEu5sOf5Gl-HS-j.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:39:06.002850"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/strategic-proposals@uBrsV_EocAkRWEqJYjoZn.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:39:10.579966"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/stress-management@QFhhOgwz_bgZgOfKFg5XA.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:39:29.744657"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/system-design-and-architecture@iX4HPgoiEbc_gze1A01n4.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:39:34.557608"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/system-monitoring--performance@pduPcv2QPpVmVvDdK4CPi.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:39:39.338350"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/team-health-metrics@KPDHk7tl_BnIj_obnq3Kl.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:40:01.377316"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/team-meetings@e0ZuiCoS8sJ0XB1lNiz7_.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:40:06.588345"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/team-mergers@ph0U4l2alVJ8lUJ96q7co.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:40:11.587685"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/team-motivation@U_oOnDXkCE387r9olvMZB.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:40:31.849212"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/team-structure-and-design@tPDmXXjvFI_8-MTo_dEUw.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:40:36.650895"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/team-traditions-and-rituals@8Nro6PTkEkNugYBjQfJ6O.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:40:41.122689"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/technical-documentation@_2xnTKt5yi__jj_WgcLa7.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:41:17.620380"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/technical-excellence-mindset@Cq0OFaWqSRathZO-bxBrP.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:41:22.532337"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/technical-partnerships@tCT2syTMyEHCspDLXxk6R.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:41:27.483457"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/technical-risk-assessment@d7zMBhMFgY9MwmKC9CVVh.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:41:49.011957"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/technical-roadmapping@ikCJ8Ybu2AD1w5VuPNVAO.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:41:53.209528"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/technical-standards-setting@C2YsaZ32An_UXV8lB7opm.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:41:58.280797"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/technology-adoption@jerPoyfCcwZbNuE_cl1hq.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:42:19.534085"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/technology-partnerships@xMN575nnnQJeHe2oJYw17.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:42:24.877883"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/testing-strategies@q5SJyM1d8cQzzAcR-kotB.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:42:29.807870"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/velocity-tracking@idd92ZTBVUzptBl5jRdc3.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:43:07.688479"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/vendor-relationships@WYoqfmk5ejB2UOiYXh4Zi.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:43:17.852562"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/vision-alignment@QssXmeifoI3dtu-eXp8PK.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:43:36.822516"
+    },
+    {
+      "file": "roadmaps/engineering-manager/content/work-life-balance-during-crises@tmY4Ktu6luFg5wKylJW76.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:43:55.877791"
     }
   ],
-  "last_updated": "2026-08-15T06:23:31.576967",
+  "last_updated": "2026-08-15T06:43:55.885684",
   "total_translated_count": 54
 }

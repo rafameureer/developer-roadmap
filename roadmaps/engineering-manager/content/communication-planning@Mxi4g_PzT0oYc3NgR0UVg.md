@@ -1,7 +1,7 @@
-# Communication planning
+# Planejamento de Comunicação
 
-An Engineering Manager is pivotal in communication planning during organizational changes. His key tasks are to ensure timely and clear communication to prevent confusion and keep the team committed. They keep a balance between providing too much detail that would overwhelm and too little that might result in anxiety and fear.
+Um Gerente de Engenharia desempenha um papel crucial no planejamento de comunicação durante as mudanças organizacionais. Suas principais tarefas incluem garantir a comunicação pontual e clara para prevenir confusão e manter a equipe comprometida. Eles equilibram entre fornecer detalhes demais que possam sobrecarregar e poucos demais que possam resultar em ansiedade e medo.
 
-The manager can face issues like hesitance from teams to change or rumors spreading due to unclear messages. To mitigate these, he needs to create an effective communication plan, ensuring that it is proactive and on-going, so the team remains informed about the changes.
+O gerente pode enfrentar problemas como hesitação dos times em mudar ou rumores se espalhando devido a mensagens ambíguas. Para mitigar isso, ele precisa criar um plano de comunicação eficaz, garantindo que seja proativo e contínuo, para que a equipe permaneça informada sobre as mudanças.
 
-Lastly, having strong leadership and communication skills will enable the Engineering Manager to successfully guide their team through the change. Also, empathy and patience are needed, as change can be stressful and it takes time for people to adjust.
+Além disso, ter fortes habilidades de liderança e comunicação permitirá ao Gerente de Engenharia guiá-la com sucesso através da mudança. Empatia e paciência são necessárias, pois a mudança pode ser estressante e leva tempo para que as pessoas se acostumem.

@@ -1,11 +1,11 @@
-# Trust / Influence Building
+# Confiança / Construção de influência
 
-Building trust and influence is crucial for any Engineering Manager. This involves establishing a solid reputation, delivering on promises and being an active listener to your team's ideas and issues. It's a manager's job to ensure there's an open, honest environment that promotes trust. Balancing delegation and taking charge, especially in difficult situations, is key to building influence.
+A construção da confiança e influência é crucial para qualquer Gerente de Engenharia. Isso envolve estabelecer uma reputação sólida, cumprir promessas e ser um ouvinte ativo às ideias e problemas do time. É o trabalho de um gerente garantir que haja um ambiente aberto e honesto que promova confiança. Equilibrar a delegação e assumir o controle, especialmente em situações difíceis, é crucial para construir influência.
 
-One challenge in this area is building trust between team members of varying experiences and skills. Managers must not only show the team they're competent, but also that they value everyone's inputs. They can achieve this by promoting inclusivity and praising team contributions regularly.
+Um desafio nesta área é construir confiança entre membros do time de diferentes experiências e habilidades. Os gestores não só devem mostrar ao time que são competentes, mas também que valorizam as contribuições de todos. Eles podem alcançar isso promovendo a inclusão e elogiando regularmente as contribuições do time.
 
-Being patient, communicate clearly, and showing empathy are critical skills that can help an Engineering Manager in trust and influence building. By embodying these traits, managers can build a stronger, united, and more effective engineering team.
+Ser paciente, comunicar-se claramente e mostrar empatia são habilidades cruciais que podem ajudar um Gerente de Engenharia na construção da confiança e influência. Ao incorporar essas características, os gestores podem construir uma equipe mais forte, unida e eficaz.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Understanding The Trust Equation](https://trustedadvisor.com/why-trust-matters/understanding-trust/understanding-the-trust-equation)
+- [@artigo@Entendendo a Equação da Confiança](https://trustedadvisor.com/why-trust-matters/understanding-trust/understanding-the-trust-equation)

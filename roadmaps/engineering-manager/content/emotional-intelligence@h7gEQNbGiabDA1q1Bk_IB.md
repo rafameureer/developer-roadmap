@@ -1,11 +1,11 @@
-# Emotional Intelligence
+# Inteligência Emocional
 
-Emotional intelligence is crucial for an Engineering Manager. It helps them understand team dynamics, enhances communication, and strengthens relationships. Their main responsibilities include recognizing team members' emotions, gauging their reactions appropriately, and managing their responses effectively.
+A inteligência emocional é crucial para um Gerenciador de Engenharia. Ela ajuda a entender as dinâmicas da equipe, melhora a comunicação e fortalece relacionamentos. Suas principais responsabilidades incluem reconhecer as emoções dos membros da equipe, avaliar suas reações adequadamente e gerenciar suas respostas de forma eficaz.
 
-Engineering Managers often face challenges in dealing with various personalities within a team. By applying emotional intelligence, they can navigate these difficulties, resolve conflicts, and maintain a positive working environment. Their challenge is to balance their own emotions while addressing those of their team.
+Gerenciadores de Engenharia muitas vezes enfrentam desafios ao lidar com várias personalidades dentro de uma equipe. Ao aplicar inteligência emocional, eles podem navegar esses desafios, resolver conflitos e manter um ambiente de trabalho positivo. Seu desafio é equilibrar suas próprias emoções enquanto atende às das suas equipes.
 
-Success in this aspect requires strong listening skills, empathy, and patience. Engineering Managers also need to continuously improve their emotional intelligence through self-reflection and seeking feedback. This helps them foster a team environment where everyone is understood and valued.
+O sucesso nesta área requer fortes habilidades de ouvido, empatia e paciência. Gerenciadores de Engenharia também precisam melhorar continuamente sua inteligência emocional através da reflexão autoconsciente e pedir feedback. Isso ajuda a criar um ambiente de equipe onde todos são compreendidos e valorizados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@Daniel Goleman on the different kinds of empathy](https://www.youtube.com/watch?v=WdDVvLEKoc8)
+- [@vídeo@Daniel Goleman sobre os diferentes tipos de empatia](https://www.youtube.com/watch?v=WdDVvLEKoc8)

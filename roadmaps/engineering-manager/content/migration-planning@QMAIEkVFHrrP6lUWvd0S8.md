@@ -1,7 +1,7 @@
-# Migration planning
+# Planejamento de migração
 
-Migration planning is a key facet of an Engineering Manager's responsibilities. They play a pivotal role in planning, coordinating, and overseeing the technical changes that include systems, databases, or application migration. This process requires them to have a solid understanding of the current technologies and the new systems being adopted, align migration activities with business needs and ensure minimal disruption to services.
+O planejamento de migração é um aspecto crucial dos responsabilidades de um Gerenciador de Engenharia. Eles desempenham um papel fundamental na planificação, coordenação e supervisão das mudanças técnicas que incluem sistemas, bancos de dados ou migração de aplicativos. Esse processo requer que eles tenham uma compreensão sólida das tecnologias atuais e dos novos sistemas adotados, alinhe as atividades de migração com as necessidades do negócio e garanta a mínima interrupção nos serviços.
 
-Some of the challenges they may encounter include ensuring data integrity, managing downtime, and unforeseen technical issues. Addressing these hurdles requires clear communication, effective risk management, and technology prowess.
+Alguns dos desafios que podem enfrentar incluem garantir a integridade dos dados, gerenciar o tempo de inatividade e problemas técnicos imprevistos. Endurecer esses obstáculos requer comunicação clara, gestão eficaz de riscos e domínio em tecnologia.
 
-Success in migration planning hinges on a detailed understanding of the systems involved, robust planning, and leadership skills. It involves meticulous resource allocation, timeline management, and the ability to facilitate smooth collaboration among various teams.
+O sucesso no planejamento de migração depende de uma compreensão detalhada dos sistemas envolvidos, planejamento robusto e habilidades de liderança. Involvem a alocação meticulosa de recursos, gerenciamento de cronograma e a capacidade de facilitar a colaboração suave entre diversos times.

@@ -1,9 +1,9 @@
-# Burnout Prevention
+# Prevenção do Burnout
 
-Burnout prevention focuses on strategies and practices aimed at minimizing and mitigating the risk of employees experiencing burnout, a state of emotional, physical, and mental exhaustion caused by prolonged or excessive stress. It involves creating a supportive work environment, promoting healthy work-life balance, and equipping individuals and teams with the tools and resources needed to manage stress effectively and maintain their well-being.
+A prevenção do burnout se concentra em estratégias e práticas voltadas para minimizar e mitigar o risco de funcionários experimentarem burnout, um estado de esgotamento emocional, físico e mental causado por estresse prolongado ou excessivo. Envolve a criação de um ambiente de trabalho suportativo, promover um equilíbrio saudável entre vida profissional e pessoal, e equipar indivíduos e equipes com as ferramentas e recursos necessários para gerenciar o estresse de forma eficaz e manter sua bem-estar.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Preventing Burnout: A Guide to Protecting Your Well-Being](https://www.psychiatry.org/news-room/apa-blogs/preventing-burnout-protecting-your-well-being)
-- [@article@Beating Burnout](https://hbr.org/2016/11/beating-burnout)
-- [@video@How to Avoid Burnout](https://www.youtube.com/watch?v=smjGAcyqDnk)
+- [@artigo@Prevenção do Burnout: Um Guia para Proteger Sua Bem-Estar](https://www.psychiatry.org/news-room/apa-blogs/preventing-burnout-protecting-your-well-being)
+- [@artigo@Derrotando o Burnout](https://hbr.org/2016/11/beating-burnout)
+- [@vídeo@Como Evitar o Burnout](https://www.youtube.com/watch?v=smjGAcyqDnk)

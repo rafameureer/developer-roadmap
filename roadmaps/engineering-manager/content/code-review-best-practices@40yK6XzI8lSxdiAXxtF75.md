@@ -1,7 +1,7 @@
-# Code Review Best Practices
+# Melhores Práticas de Revisão de Código
 
-An Engineering Manager has the responsibility to guide their team on code review best practices. They not only need to ensure the team is delivering quality code, but also that the process is efficient and educative. This involves creating a culture where constructive feedback is welcomed, and where discussing and learning about the codebase is a part of the daily routine.
+Um Gerente de Engenharia tem a responsabilidade de guiar sua equipe nas melhores práticas de revisão de código. Eles não só precisam garantir que a equipe esteja entregando código de qualidade, mas também que o processo seja eficiente e educativo. Isso envolve criar uma cultura onde feedback construtivo seja bem-vindo e onde discutir e aprender sobre o código-fonte seja parte da rotina diária.
 
-Challenges could include conflicts among team members, varying levels of coding skills, or different understandings of code standards. To tackle these, the manager might need to step in and mediate discussions, offer training, or even set up some basic coding standards.
+Desafios podem incluir conflitos entre membros da equipe, níveis variados de habilidades de codificação ou diferentes interpretações dos padrões de código. Para lidar com isso, o gerente pode precisar intervir e mediar discussões, oferecer treinamento ou até mesmo estabelecer alguns padrões básicos de codificação.
 
-A successful Engineering Manager in this realm balances technical competency with strong communication and diplomatic skills, fostering a team environment where high quality code is a shared achievement.
+Um Gerente de Engenharia bem-sucedido nesta área equilibra competência técnica com fortes habilidades de comunicação e diplomacia, criando um ambiente de equipe onde o código de alta qualidade é uma conquista compartilhada.

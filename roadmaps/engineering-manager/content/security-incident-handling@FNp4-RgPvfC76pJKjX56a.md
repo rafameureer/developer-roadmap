@@ -1,7 +1,7 @@
-# Security incident handling
+# Tratamento de Incidentes de Segurança
 
-An Engineering Manager plays a pivotal role in security incident handling. Key responsibilities include establishing protocols for incident response and ensuring the team is well-prepared to manage any security breach. The manager needs to promote a culture of security awareness, regularly updating the team on potential risks and implementing security best practices.
+Como um Gerente de Engenharia, desempenha um papel crucial no tratamento de incidentes de segurança. As responsabilidades principais incluem estabelecer protocolos para resposta a incidentes e garantir que a equipe esteja bem-preparada para lidar com qualquer violação de segurança. O gerente precisa promover uma cultura de conscientização em segurança, atualizando regularmente a equipe sobre possíveis riscos e implementando as melhores práticas de segurança.
 
-Challenges may include staying up-to-date with emerging threats and utilizing the appropriate technologies to defend against them. Crafting a strong incident response strategy can be complex, but a good manager will use their expertise to overcome these hurdles, adapting their approach as necessary.
+Desafios podem incluir manter-se atualizado com ameaças emergentes e utilizar as tecnologias adequadas para se defender contra elas. Elaborar uma estratégia eficaz de resposta a incidentes pode ser complexo, mas um bom gerente usará sua expertise para superar esses obstáculos, adaptando seu abordagem conforme necessário.
 
-Key skills include maintaining a level head under pressure, strong communication to coordinate team responses, and a deep understanding of potential security vulnerabilities. By applying these skills, an Engineering Manager can successfully negotiate the delicate balance between risk, security, and business needs.
+Habilidades-chave incluem manter o equilíbrio sob pressão, comunicação forte para coordenar as respostas da equipe e uma compreensão profunda de vulnerabilidades potenciais de segurança. Ao aplicar essas habilidades, um Gerente de Engenharia pode negociar com sucesso o equilíbrio delicado entre risco, segurança e necessidades do negócio.

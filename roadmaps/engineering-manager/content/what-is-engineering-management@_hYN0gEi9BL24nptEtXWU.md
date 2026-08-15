@@ -1,8 +1,8 @@
-# What is Engineering Management?
+# O que é a Gerenciamento de Engenharia?
 
-Engineering management is the integration of engineering principles with business practices to oversee and optimize complex engineering-driven enterprises. It involves planning, organizing, allocating resources, and directing activities that have a technological component.
+O gerenciamento de engenharia é a integração de princípios de engenharia com práticas empresariais para supervisionar e otimizar complexas empresas orientadas por engenharia. Envolve planejamento, organização, alocação de recursos e direcionamento de atividades que têm um componente tecnológico.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Engineering Management Resources](https://github.com/engineering-management/awesome-engineering-management)
-- [@article@Software Engineering at Google: The Engineering Manager](https://abseil.io/resources/swe-book/html/ch05.html#the_engineering_manager)
+- [@artigo@Recursos de Gerenciamento de Engenharia](https://github.com/engineering-management/awesome-engineering-management)
+- [@artigo@Engenharia de Software na Google: O Gerente de Engenharia](https://abseil.io/resources/swe-book/html/ch05.html#the_engineering_manager)

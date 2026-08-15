@@ -1,7 +1,7 @@
-# Market awareness
+# Consciência do Mercado
 
-An Engineering Manager needs to have both technology and market awareness. By understanding the market trends, they can lead the team towards developing products or features that meet client needs and stand out from the competition. This involves close collaboration with the marketing, sales, and product management teams to incorporate market feedback into the engineering process.
+Um Gerente de Engenharia precisa ter tanto conhecimento técnico quanto do mercado. Compreendendo as tendências do mercado, eles podem liderar a equipe para desenvolver produtos ou recursos que atendam às necessidades dos clientes e se destaquem da concorrência. Isso envolve uma colaboração próxima com os times de marketing, vendas e gerenciamento de produtos para incorporar feedback do mercado no processo de engenharia.
 
-The challenge often lies in balancing market demands with technical feasibility and team capacity. An effective approach is to maintain open communication channels with all stakeholders involved and conduct regular market trend analysis.
+O desafio frequentemente reside em equilibrar as demandas do mercado com a viabilidade técnica e a capacidade da equipe. Um abordagem eficaz é manter canais de comunicação abertos com todos os interessados e realizar análises regulares das tendências do mercado.
 
-To do this job effectively, an Engineering Manager needs good analytical, communication and decision-making skills. They should also have the ability to grasp new market trends quickly and synthesize this information into actionable insights for their team.
+Para fazer esse trabalho de forma efetiva, um Gerente de Engenharia precisa de habilidades analíticas, de comunicação e de tomada de decisão boas. Eles também devem ter a capacidade de entender rapidamente novas tendências do mercado e sintetizar essa informação em insights práticos para sua equipe.

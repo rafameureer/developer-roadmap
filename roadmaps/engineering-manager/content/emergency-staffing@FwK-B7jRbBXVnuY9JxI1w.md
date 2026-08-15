@@ -1,7 +1,7 @@
-# Emergency Staffing
+# Recrutamento em Situações de Emergência
 
-Emergency staffing refers to the process of quickly securing and deploying personnel to address unexpected and critical situations that disrupt normal operations. This involves identifying skill gaps, finding available resources (either internal or external), and rapidly onboarding them to mitigate the impact of the emergency and restore stability. The goal is to minimize disruption and maintain essential functions during a crisis.
+O recrutamento em situações de emergência refere-se ao processo de obter e implantar rapidamente pessoal para lidar com situações inesperadas e críticas que interrompem as operações normais. Isso envolve identificar lacunas de habilidade, encontrar recursos disponíveis (internos ou externos) e treiná-los rapidamente para mitigar o impacto da emergência e restaurar a estabilidade. O objetivo é minimizar a interrupção e manter funções essenciais durante uma crise.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Five Components of Effective Emergency Staffing Solutions](https://www.atriumglobal.com/resources/effective-emergency-staffing-solutions/)
+- [@artigo@Cinco Componentes de Soluções Efetivas de Recrutamento em Situações de Emergência](https://www.atriumglobal.com/resources/effective-emergency-staffing-solutions/)

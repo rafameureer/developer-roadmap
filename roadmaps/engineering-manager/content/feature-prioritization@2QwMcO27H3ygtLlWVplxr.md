@@ -1,7 +1,7 @@
-# Feature prioritization
+# Priorização de recursos
 
-As an Engineering Manager, they play a crucial role in feature prioritization. Their key responsibility is to balance the demands of the customers with the resources of their engineering team. Gleaning insights from customer feedback, market trends, and competitor analysis, they guide the team to focus on what's crucial for the business.
+Como Gerenciador de Engenharia, desempenham um papel crucial na priorização de recursos. Sua principal responsabilidade é equilibrar as demandas dos clientes com os recursos da equipe de engenharia. Coletando insights do feedback dos clientes, tendências do mercado e análise de concorrentes, eles guiam a equipe para se concentrar em o que é crucial para o negócio.
 
-Challenges faced by Engineering Managers in feature prioritization include time and resource constraints. They tackle these issues by adopting smart resourcing practices and clear-cut project management methodologies.
+Os desafios enfrentados pelos Gerenciadores de Engenharia na priorização de recursos incluem restrições de tempo e recursos. Eles lidam com esses problemas adotando práticas inteligentes de alocação de recursos e métodos metodológicos de gerenciamento de projetos claros.
 
-Flourishing in feature prioritization requires excellent decision-making skills and adept stakeholder management. It's about understanding customer needs, foreseeing benefits of potential features, and skilled negotiation with the project team to achieve the best outcome for the company.
+A prosperidade na priorização de recursos requer habilidades excepcionais de tomada de decisão e gestão eficaz dos interessados. Isso envolve entender as necessidades dos clientes, prever os benefícios potenciais das funcionalidades e negociação habilidosa com a equipe do projeto para obter o melhor resultado para a empresa.

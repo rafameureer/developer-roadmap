@@ -1,7 +1,7 @@
-# ROI analysis
+# Análise de ROI
 
-An Engineering Manager leverages ROI (Return on Investment) analysis to ensure strategic objectives align with financial viability. They analyze projected costs and benefits related to engineering projects. Their key responsibilities include identifying potential risks and calculating the profitability of various alternatives based on expected returns.
+Um Gerenciador de Engenharia usa a análise de ROI (Retorno sobre Investimento) para garantir que os objetivos estratégicos estejam alinhados com a viabilidade financeira. Eles analisam os custos e benefícios projetados relacionados aos projetos de engenharia. Suas principais responsabilidades incluem identificar riscos potenciais e calcular a rentabilidade de várias alternativas com base nos retornos esperados.
 
-Conducting an ROI analysis can pose challenges, including acquiring accurate data and quantifying soft benefits. An Engineering Manager may address these by systematic data gathering and using structured frameworks for quantification.
+Realizar uma análise de ROI pode apresentar desafios, como obter dados precisos e quantificar benefícios suaves. Um Gerenciador de Engenharia pode lidar com isso coletando dados de maneira sistemática e usando estruturas organizadas para a quantificação.
 
-Success in ROI analysis requires skills in financial literacy, critical thinking, and data interpretation. A proactive approach, coupled with a comprehensive understanding of the business, allows Engineering Managers to effectively evaluate the economic impact of engineering decisions.
+O sucesso na análise de ROI requer habilidades em alfabetização financeira, pensamento crítico e interpretação de dados. Uma abordagem proativa, combinada com uma compreensão abrangente do negócio, permite que os Gerenciadores de Engenharia avaliem efetivamente o impacto econômico das decisões de engenharia.

@@ -1,7 +1,7 @@
-# Timeline Estimation
+# Estimação de cronograma
 
-Timeline estimation is a vital part of an Engineering Manager's role. Typically, they'll leverage their experience, industry knowledge, and sometimes, gut feeling, to envisage a project's duration. They are responsible for considering factors such as workload, complexity, team size, and risks to determine a realistic timeline.
+A estimação de cronograma é uma parte vital do papel de um Gerente de Engenharia. Geralmente, eles usam sua experiência, conhecimento da indústria e às vezes, intuição para imaginar a duração de um projeto. Eles são responsáveis por considerar fatores como carga de trabalho, complexidade, tamanho do time e riscos para determinar um cronograma realista.
 
-They often face challenges in ensuring that timelines are accurate and achievable. This can be from uncertain project requirements or unforeseen obstacles. To combat these, a good approach is to use methods like PERT or 'Three-point estimation' which factor in the best, worst and most likely scenarios.
+Eles frequentemente enfrentam desafios em garantir que os cronogramas sejam precisos e alcançáveis. Isso pode ser devido a requisitos de projeto incertos ou obstáculos inesperados. Para combater isso, uma abordagem boa é usar métodos como PERT ou 'Estimação com três pontos', que consideram as melhores, piores e mais prováveis cenas.
 
-To thrive in timeline estimation, Engineering Managers need a fine balance of technical depth, data analysis skills, probability knowledge, and communication proficiency. Robust project management tools to visually map progress can also be invaluable.
+Para prosperar na estimação de cronograma, os Gerentes de Engenharia precisam de um equilíbrio fino entre a profundidade técnica, habilidades de análise de dados, conhecimento sobre probabilidade e proficiência em comunicação. Ferramentas robustas de gerenciamento de projetos que mapeiam progressivamente podem ser valiosas.

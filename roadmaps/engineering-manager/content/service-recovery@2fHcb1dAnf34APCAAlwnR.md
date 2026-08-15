@@ -1,7 +1,7 @@
-# Service Recovery
+# Recuperação de Serviços
 
-Service recovery is a critical responsibility for an Engineering Manager. They lead their teams through restoring and maintaining essential services following any disruption. This could be due to a server failure, software crashes, or unexpected logical errors.
+A recuperação de serviços é uma responsabilidade crítica para um Gerente de Engenharia. Eles lideram seus times no processo de restaurar e manter os serviços essenciais após qualquer interrupção. Isso pode ocorrer devido a falhas em servidores, crashes de software ou erros lógicos inesperados.
 
-As this role requires swift and effective actions, Engineering Managers often face challenges in balancing resources, troubleshooting, and maintaining good communication with stakeholders. The ability to stay calm under pressure, effective problem-solving skills, and strong communication are key to succeeding in this area.
+Como esta função requer ações rápidas e eficazes, Gerentes de Engenharia frequentemente enfrentam desafios em equilibrar recursos, diagnosticar problemas e manter boas comunicações com os stakeholders. A capacidade de permanecer calmo sob pressão, habilidades efetivas de resolução de problemas e uma comunicação forte são cruciais para o sucesso nesta área.
 
-To handle these challenges, they define recovery plans, protocols, and procedures, coordinate with respective teams, manage necessary resources and, most importantly, learn from each incident. Improving over time helps prevent similar future incidents, ensuring the smooth running of the service.
+Para lidar com esses desafios, eles definem planos de recuperação, protocolos e procedimentos, coordenam com os respectivos times, gerenciam os recursos necessários e, mais importante, aprendem com cada incidente. Aprimorar-se ao longo do tempo ajuda a prevenir incidentes semelhantes no futuro, garantindo o funcionamento suave dos serviços.

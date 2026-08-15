@@ -1,7 +1,7 @@
-# Integration management
+# Gestão de integração
 
-An engineering manager in partner management has a critical role in managing integrations. Their responsibilities include overseeing the development of tools and technologies that facilitate seamless connectivity with partners, ensuring the integration process meets partner requirements and goals.
+Um gerente de engenharia em gestão de parceiros desempenha um papel crucial na gestão de integrações. Suas responsabilidades incluem supervisionar o desenvolvimento de ferramentas e tecnologias que facilitam a conexão semântica com parceiros, garantindo que o processo de integração atenda às necessidades e objetivos dos parceiros.
 
-Engineering managers face challenges like dealing with complex integration scenarios, aligning technological needs, and handling communication between multiple teams. To succeed in this area, they need skills in API management, technical knowledge and the ability to communicate effectively.
+Os gerentes de engenharia enfrentam desafios como lidar com cenários complexos de integração, alinhar as necessidades tecnológicas e lidar com a comunicação entre várias equipes. Para se destacar nesta área, eles precisam habilidades em gestão de API, conhecimento técnico e a capacidade de comunicar efetivamente.
 
-An important approach here is proactive problem solving. An engineering manager will benefit from anticipating possible issues and implementing solutions ahead of time. This will make the integration process smoother and prevent major disruptions.
+Um abordagem importante aqui é resolver problemas proativamente. Um gerente de engenharia beneficiará de prever possíveis problemas e implementar soluções antecipadamente. Isso tornará o processo de integração mais suave e previnirá interrupções significativas.

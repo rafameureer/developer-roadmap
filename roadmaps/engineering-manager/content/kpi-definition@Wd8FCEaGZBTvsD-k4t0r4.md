@@ -1,7 +1,7 @@
-# KPI Definition
+# Definição de KPI
 
-An Engineering Manager is pivotal in the process of defining key performance indicators (KPIs) for a project. They identify the crucial metrics that reflect success and are aligned with the project goals. To accomplish this, they work closely with their team and other stakeholders, clarifying the key outcomes that matter most.
+Um Gerenciador de Engenharia desempenha um papel crucial no processo de definir indicadores-chave de desempenho (KPIs) para um projeto. Eles identificam as métricas cruciais que refletem o sucesso e estão alinhadas com os objetivos do projeto. Para isso, trabalham em estreita colaboração com seu time e outros stakeholders, esclarecendo os resultados-chave que importam mais.
 
-The definition of KPIs can be challenging due to the potential range of metrics available. The Engineering Manager must strike a balance between choosing relevant KPIs and avoiding those which may inflate success results artificially. They address this challenge by focusing on KPIs that accurately measure performance and drive improvement.
+A definição de KPIs pode ser desafiadora devido à ampla gama de métricas disponíveis. O Gerenciador de Engenharia deve equilibrar a escolha de KPIs relevantes e evitar aquelas que possam inflar os resultados de sucesso artificialmente. Eles lidam com esse desafio focando em KPIs que medem precisamente o desempenho e incentivam melhorias.
 
-Strong analytical skills, critical thinking and a firm understanding of their team's capabilities and project goals are crucial for an Engineering Manager to succeed in this aspect. Continuous evaluation and flexibility in adapting the KPIs are also imperative.
+Habilidades analíticas fortes, pensamento crítico e uma compreensão firme das capacidades do time e dos objetivos do projeto são cruciais para um Gerenciador de Engenharia ter sucesso nessa área. Avaliação contínua e flexibilidade na adaptação dos KPIs também são imperativas.

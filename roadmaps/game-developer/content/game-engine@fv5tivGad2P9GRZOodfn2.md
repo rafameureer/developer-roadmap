@@ -1,8 +1,8 @@
-# Game Engine
+# Motor de Jogo
 
-A _Game Engine_ is a software framework designed to facilitate the creation and development of video games. Developers use them to create games for consoles, mobile devices, and personal computers. The core functionality typically provided by a game engine includes a rendering engine ("renderer") for 2D or 3D graphics, a physics engine or collision detection (and collision response), sound, scripting, animation, artificial intelligence, networking, streaming, memory management, and a scene graph. Game Engines can save a significant amount of development time by providing these reusable components. However, they aren't one-size-fits-all solutions, as developers must still customize much of the code to fit their games' unique needs. Some popular game engines are Unity, Unreal Engine, and Godot.
+Um _Motor de Jogo_ é um framework de software projetado para facilitar a criação e desenvolvimento de videogames. Desenvolvedores usam esses motores para criar jogos para consoles, dispositivos móveis e computadores pessoais. A funcionalidade principal típicamente fornecida por um motor de jogo inclui um motor de renderização ("renderer") para gráficos 2D ou 3D, um motor de física ou detecção de colisão (e resposta à colisão), som, scripting, animação, inteligência artificial, rede, streaming, gerenciamento de memória e uma hierarquia de cena. Motores de jogos podem economizar uma quantidade significativa de tempo de desenvolvimento fornecendo esses componentes reutilizáveis. No entanto, eles não são soluções prontas para todos os casos, pois os desenvolvedores ainda devem personalizar muito do código para se adequar às necessidades únicas dos seus jogos. Alguns motores de jogos populares são Unity, Unreal Engine e Godot.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Game Engine](https://en.wikipedia.org/wiki/Game_engine)
-- [@video@Choosing a Game Engine is Easy!](https://www.youtube.com/watch?v=aMgB018o71U)
+- [@artigo@Motor de Jogo](https://en.wikipedia.org/wiki/Game_engine)
+- [@vídeo@Escolhendo um Motor de Jogo é Fácil!](https://www.youtube.com/watch?v=aMgB018o71U)

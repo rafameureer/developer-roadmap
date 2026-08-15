@@ -1,9 +1,9 @@
 # Python
 
-Python is a popular high-level programming language that was designed by Guido van Rossum and published in 1991. It is preferred for its simplicity in learning and usage, making it a great choice for beginners. Python's design philosophy emphasizes code readability with its use of significant indentation. Its language constructs and object-oriented approach aim to help developers write clear, logical code for small and large-scale projects. Python is dynamically-typed and garbage-collected. Moreover, it supports multiple programming paradigms, including procedural, object-oriented, and functional programming. Python is often used for web development, software development, database operations, and machine learning. Although not typically used for game development, some game developers utilize Python for scripting and automating tasks.
+Python é uma popular linguagem de programação de alto nível que foi projetada por Guido van Rossum e publicada em 1991. É preferida por sua simplicidade na aprendizagem e uso, tornando-se uma ótima escolha para iniciantes. A filosofia de design do Python enfatiza a legibilidade do código com seu uso de indentação significativa. Suas construções linguísticas e abordagem orientada a objetos visam ajudar os desenvolvedores a escrever código claro e lógico para projetos pequenos e grandes. Python é dinamicamente-tipo e coletor de lixo. Além disso, ele suporta múltiplos paradigmas de programação, incluindo procedural, orientado a objetos e programação funcional. Python é frequentemente usado para desenvolvimento web, desenvolvimento de software, operações em banco de dados e aprendizado de máquina. Embora não seja típicamente usado para o desenvolvimento de jogos, alguns desenvolvedores de jogos utilizam Python para scripting e automação de tarefas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit Dedicated Python Roadmap](https://roadmap.sh/python)
+- [@roadmap@Visite a Rota Python dedicada](https://roadmap.sh/python)
 - [@official@Python](https://www.python.org/)
-- [@official@Python Documentation](https://www.python.org/doc/)
+- [@official@Documentação do Python](https://www.python.org/doc/)

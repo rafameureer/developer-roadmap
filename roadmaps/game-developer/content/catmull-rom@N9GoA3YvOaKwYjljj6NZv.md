@@ -1,8 +1,8 @@
 # Catmull-Rom
 
-The **Catmull-Rom** spline is a form of interpolation used in 2D and 3D graphics. Named after Edwin Catmull and Raphael Rom, it offers a simple way to smoothly move objects along a set of points or, in terms of graphics, to smoothly draw a curve connecting several points. It's a cubic interpolating spline, meaning it uses the cubic polynomial to compute coordinates. This makes Catmull-Rom ideal for creating smooth and natural curves in graphics and animation. It also has a feature called C1 continuity, ensuring the curve doesn't have any abrupt changes in direction. However, if not managed properly, it can create loops between points.
+O **Catmull-Rom** spline é uma forma de interpolação usada em gráficos 2D e 3D. Nomeado após Edwin Catmull e Raphael Rom, oferece uma maneira simples de mover objetos suavemente ao longo de um conjunto de pontos ou, em termos de gráficos, para desenhar uma curva suave conectando vários pontos. É um spline interpolante cúbico, o que significa que usa o polinômio cúbico para calcular as coordenadas. Isso torna o Catmull-Rom ideal para criar curvas suaves e naturais em gráficos e animação. Ele também tem uma característica chamada continuidade C1, garantindo que a curva não tenha qualquer mudança repentina de direção. No entanto, se não for gerenciado adequadamente, pode criar laços entre os pontos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Catmull Rom](https://gamedev.net/forums/topic/535895-catmull-rom-in-shmups/)
-- [@article@Catmull Rom Spline - Game Development](https://gamedev.stackexchange.com/questions/47354/catmull-rom-spline-constant-speed)
+- [@artigo@Catmull Rom](https://gamedev.net/forums/topic/535895-catmull-rom-in-shmups/)
+- [@artigo@Catmull Rom Spline - Desenvolvimento de Jogos](https://gamedev.stackexchange.com/questions/47354/catmull-rom-spline-constant-speed)

@@ -1,8 +1,8 @@
-# Graphics Pipeline
+# Pipeline Gráfico
 
-The **Graphics Pipeline**, also often referred to as the rendering pipeline, is a sequence of steps that a graphics system follows to convert a 3D model into a 2D image or view that can be displayed onto a screen. These steps typically include transformation, clipping, lighting, rasterization, shading, and other processes. Each step in the pipeline represents an operation that prepares or manipulates data to be used in downstream stages. The pipeline begins with a high-level description of a scene and ends with the final image rendered onto the screen. It is a primary concept in computer graphics that developers should learn as it can help in efficient rendering and high-quality visualization.
+O **Pipeline Gráfico**, também conhecido como pipeline de renderização, é uma sequência de etapas que um sistema gráfico segue para converter um modelo 3D em uma imagem ou vista 2D que pode ser exibida na tela. Essas etapas geralmente incluem transformação, corte, iluminação, rasterização, shading e outros processos. Cada etapa no pipeline representa uma operação que prepara ou manipula dados para serem usados em estágios downstream. O pipeline começa com uma descrição de nível alto de um cenário e termina com a imagem final renderizada na tela. É um conceito primordial em gráficos computacionais que os desenvolvedores devem aprender, pois pode ajudar na renderização eficiente e visualização de alta qualidade.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Graphics Pipelines](https://www.cs.cornell.edu/courses/cs4620/2020fa/slides/11pipeline.pdf)
-- [@article@Definition of Graphics Pipeline](https://www.pcmag.com/encyclopedia/term/graphics-pipeline)
+- [@article@Pipelines Gráficos](https://www.cs.cornell.edu/courses/cs4620/2020fa/slides/11pipeline.pdf)
+- [@article@Definição do Pipeline Gráfico](https://www.pcmag.com/encyclopedia/term/graphics-pipeline)

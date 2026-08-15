@@ -1,9 +1,9 @@
-# Dynamics
+# Dinâmica
 
-**Dynamics** in game physics refers to the calculation and simulation of the movement and interaction of objects over time, taking into account properties such as mass, force, and velocity. Its purpose is to ensure the motion of game elements matches expectations in the real-world, or the specific conditions defined by the game designers. This typically includes topics like kinematics (velocity and acceleration), Newton's laws of motion, forces (like gravity or friction), and conservation laws (such as momentum or energy). This also involves solving equations of motions for the game objects, detecting collisions and resolving them. Dynamics, together with Statics (dealing with how forces balance on rigid bodies at rest), makes up the core of game physics simulation.
+**A Dinâmica** na física de jogos refere-se ao cálculo e simulação do movimento e interação de objetos ao longo do tempo, considerando propriedades como massa, força e velocidade. Seu propósito é garantir que o movimento dos elementos do jogo se alinhe com as expectativas no mundo real ou nas condições específicas definidas pelos designers de jogos. Isso geralmente inclui tópicos como kinemática (velocidade e aceleração), leis de Newton sobre a movimentação, forças (como gravidade ou fricção) e leis de conservação (como momentum ou energia). Isso também envolve resolver equações de movimento para os objetos do jogo, detectar colisões e resolvê-las. A Dinâmica, junto com a Estática (que lida com como as forças se equilibram em corpos rígidos em repouso), constitui o núcleo da simulação física de jogos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Game Mechanics & Game Dynamics: Gamification 101](https://www.gamify.com/gamification-blog/game-mechanics-game-dynamics-gamification-101)
-- [@article@Unpacking Game Mechanics and Game Dynamics](https://maxlearn.info/blog/game-mechanics-and-game-dynamics/)
-- [@article@Game Mechanics](https://en.wikipedia.org/wiki/Game_mechanics)
+- [@artigo@Mecânicas de Jogo e Dinâmica de Jogos: Gamificação 101](https://www.gamify.com/gamification-blog/game-mechanics-game-dynamics-gamification-101)
+- [@artigo@Desvendando Mecânicas de Jogo e Dinâmica](https://maxlearn.info/blog/game-mechanics-and-game-dynamics/)
+- [@artigo@Mecânicas de Jogo](https://en.wikipedia.org/wiki/Game_mechanics)

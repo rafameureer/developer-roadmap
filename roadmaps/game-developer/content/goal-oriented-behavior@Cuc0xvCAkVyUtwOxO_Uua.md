@@ -1,7 +1,7 @@
-# Goal Oriented Behavior
+# Comportamento Orientado a Objetivos
 
-Goal oriented behavior in game development refers to the artificial intelligence algorithms employed that give non-player characters (NPCs) the ability to make decisions based on certain objectives or tasks. These NPCs analyze the circumstances in the game environment, formulate a plan to achieve specific goals, and then execute it. The degree of sophistication in these algorithms can range from simple pathways to complex problem-solving solutions. As the behavior models are not hard-coded, it provides NPCs with greater adaptability and autonomy.
+O comportamento orientado a objetivos na desenvolvimento de jogos refere-se aos algoritmos de inteligência artificial utilizados que concedem aos personagens não-jogadores (NPCs) a capacidade de tomar decisões com base em certos objetivos ou tarefas. Esses NPCs analisam as circunstâncias no ambiente do jogo, formulam um plano para atingir metas específicas e, em seguida, o executam. A sofisticação desses algoritmos pode variar de caminhos simples a soluções complexas de resolução de problemas. Como os modelos de comportamento não são codificados em hard-code, isso proporciona aos NPCs maior adaptabilidade e autonomia.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Goal Oriented Action Planning](https://duckduckgo.com/?q=Goal%20Oriented%20Behaviorin%20Game%20Dev+site:www.gamedeveloper.com)
+- [@artigo@Planejamento Orientado a Objetivos](https://duckduckgo.com/?q=Comportamento%20Orientado%20a%20Objetivos+no+Desenvolvimento+de+Jogos+site:www.gamedeveloper.com)

@@ -1,7 +1,7 @@
-# Polygon
+# Polígono
 
-In computer graphics and game development, a polygon is a 2D or 3D shape composed of a set of vertices connected by edges. Polygons are used to represent objects, characters, and environments in games and simulations.
+Em gráficos computacionais e desenvolvimento de jogos, um polígono é uma forma 2D ou 3D composta por um conjunto de vértices conectados por arestas. Polígonos são usados para representar objetos, personagens e ambientes em jogos e simulações.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Polygons and Shading](https://electronics.howstuffworks.com/3do5.htm)
+- [@artigo@Polígonos e Esombreamento](https://electronics.howstuffworks.com/3do5.htm)

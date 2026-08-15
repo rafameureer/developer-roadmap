@@ -1,8 +1,8 @@
-# Computer Graphics
+# Gráficos Computacionais
 
-Computer Graphics is a subfield of computer science that studies methods for digitally synthesizing and manipulating visual content. It involves creating and manipulating visual content using specialized computer software and hardware. This field is primarily used in the creation of digital and video games, CGI in films, and also in visual effects for commercials. The field is divided into two major categories: **Raster graphics** and **Vector graphics**. Raster graphics, also known as bitmap, involve the representation of images through a dot matrix data structure, while Vector graphics involve the use of polygons to represent images in computer graphics. Both of these methods have their unique usage scenarios. Other concepts integral to the study of computer graphics include rendering (including both real-time rendering and offline rendering), animation, and 3D modeling. Generally, computer graphics skills are essential for game developers and animation experts.
+Os Gráficos Computacionais são um subcampo da ciência da computação que estuda métodos para sintetizar e manipular conteúdo visual digitalmente. Envolve a criação e manipulação de conteúdo visual usando software e hardware especializados em computador. Este campo é principalmente usado na criação de jogos digitais e de vídeo, CGI em filmes, e também em efeitos visuais publicitários. O campo é dividido em duas categorias principais: **Gráficos Raster** e **Gráficos Vectoriais**. Os gráficos raster, também conhecidos como bitmap, envolvem a representação de imagens através de uma estrutura de dados de matriz de pontos, enquanto os gráficos vectoriais envolvem o uso de polígonos para representar imagens em gráficos computacionais. Ambos esses métodos têm seus próprios cenários de uso únicos. Outros conceitos integrais ao estudo dos gráficos computacionais incluem renderização (incluindo tanto renderização em tempo real quanto renderização offline), animação e modelagem 3D. Geralmente, habilidades em gráficos computacionais são essenciais para desenvolvedores de jogos e especialistas em animação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Introduction to Computer Graphics](https://open.umn.edu/opentextbooks/textbooks/420)
-- [@video@How do Video Game Graphics Work?](https://www.youtube.com/watch?v=C8YtdC8mxTU)
+- [@artigo@Introdução aos Gráficos Computacionais](https://open.umn.edu/opentextbooks/textbooks/420)
+- [@vídeo@Como funcionam os gráficos de jogos de vídeo?](https://www.youtube.com/watch?v=C8YtdC8mxTU)

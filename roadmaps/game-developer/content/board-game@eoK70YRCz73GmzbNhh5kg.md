@@ -1,7 +1,7 @@
-# Board Game
+# Jogo Tabuleiro
 
-**Board Games** represent a type of tabletop game that involves counters or pieces moved or placed on a pre-marked surface or "board", according to a set of rules. Some games are based on pure strategy, but many contain an element of chance, and others are purely chance, with no element of skill. Games usually have a goal that a player aims to achieve. Early board games represented a battle between two armies, and most modern board games are still based on defeating opponents in terms of counters, winning position, or accruement of points. With the digitalization of board games, developers use various **Game APIs** to create engaging and interactive board game experiences. An API defines a set of rules and protocols for building and interacting with different software applications. Game APIs allow developers to integrate with game-specific features like game mechanics, player statistics, achievements, and more.
+**Jogos Tabuleiros** representam um tipo de jogo de mesa que envolve movimentar ou colocar peças ou contadores em uma superfície pré-marcada ou "tabuleiro", de acordo com um conjunto de regras. Alguns jogos são baseados em estratégia pura, mas muitos contêm um elemento de sorte, e outros são puramente aleatórios, sem nenhum elemento de habilidade. Os jogos geralmente têm um objetivo que o jogador busca atingir. Jogos antigos representavam uma batalha entre duas forças armadas, e a maioria dos jogos modernos ainda é baseada em derrotar os inimigos em termos de peças, posição vitoriosa ou acumulação de pontos. Com a digitalização dos jogos tabuleiros, os desenvolvedores usam várias **APIs de Jogo** para criar experiências de jogo envolventes e interativas. Uma API define um conjunto de regras e protocolos para construir e interagir com diferentes aplicativos de software. As APIs de jogo permitem que os desenvolvedores integrem-se com recursos específicos do jogo, como mecânicas de jogo, estatísticas do jogador, conquistas e muito mais.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is a Board Game?](https://code.tutsplus.com/how-to-learn-board-game-design-and-development--gamedev-11607a)
+- [@artigo@O Que é um Jogo Tabuleiro?](https://code.tutsplus.com/how-to-learn-board-game-design-and-development--gamedev-11607a)

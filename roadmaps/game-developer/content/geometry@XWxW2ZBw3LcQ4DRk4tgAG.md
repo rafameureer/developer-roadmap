@@ -1,8 +1,8 @@
-# Geometry
+# Geometria
 
-Geometry in game development refers to the mathematical study used to define the spatial elements within a game. This is vital in determining how objects interact within a game's environment. Particularly, geometry is employed in various aspects like object rendering, collision detection, character movement, and the calculation of angles and distance. It allows developers to create the spatial parameters for a game, including object dimensions and orientations. Understanding the basics such as 2D vs 3D, polygons, vertices, meshes and more advanced topics such as vectors, matrices, quaternions etc. is crucial to this field.
+A geometria no desenvolvimento de jogos refere-se à estudo matemático usado para definir os elementos espaciais dentro de um jogo. É essencial para determinar como os objetos interagem em um ambiente de jogo. Especialmente, a geometria é empregada em várias áreas como renderização de objetos, detecção de colisões, movimento do personagem e cálculo de ângulos e distância. Permite aos desenvolvedores criar os parâmetros espaciais para um jogo, incluindo dimensões e orientações dos objetos. Entender os conceitos básicos como 2D vs 3D, polígonos, vértices, malhas e tópicos mais avançados como vetores, matrizes, quaternions etc. é crucial nesta área.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Game Geometry - Math is Fun](https://www.mathsisfun.com/geometry/index.html)
-- [@article@Geometry and Primitives for Games](https://dev.to/fkkarakurt/geometry-and-primitives-in-game-development-1og)
+- [@artigo@Geometria dos Jogos - Matemática é Fácil](https://www.mathsisfun.com/geometry/index.html)
+- [@artigo@Geometria e Primitivas para Jogos](https://dev.to/fkkarakurt/geometry-and-primitives-in-game-development-1og)

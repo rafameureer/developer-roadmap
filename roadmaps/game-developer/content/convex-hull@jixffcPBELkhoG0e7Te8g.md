@@ -1,7 +1,7 @@
-# Convex Hull
+# Casco Convexo
 
-The **Convex Hull** is a foundational concept used in various areas of game development, particularly in the creation of physics engines and collision detection. Essentially, it is the smallest convex polygon that can enclose a set of points in a two-dimensional space, or the smallest convex polyhedron for a set of points in a three-dimensional space. It can be thought of as the shape that a rubber band would take if it was stretched around the points and then released. In computational geometry, various algorithms like Graham's Scan and QuickHull have been developed to compute Convex Hulls rapidly. Using Convex Hulls in game engines can drastically improve the performance of collision detection routines as fewer points need to be checked for overlap, which in turn helps in creating smoother gameplay.
+O **Casco Convexo** é um conceito fundamental usado em várias áreas do desenvolvimento de jogos, especialmente na criação de motores físicos e detecção de colisão. Em essência, é o menor polígono convexo que pode envolver um conjunto de pontos em um espaço bidimensional ou o menor poliedro convexo para um conjunto de pontos em um espaço tridimensional. Pode ser pensado como a forma que uma faixa elástica tomaria se ela fosse esticada ao redor dos pontos e então liberada. Em geometria computacional, vários algoritmos como o Algoritmo de Graham e QuickHull foram desenvolvidos para calcular cascos convexos rapidamente. Usar cascos convexos em motores de jogos pode melhorar drasticamente a performance das rotinas de detecção de colisão, pois é necessário verificar menos pontos para sobreposição, o que ajuda na criação de jogos mais suaves.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Convex Decomposition for 3D](https://colin97.github.io/CoACD/)
+- [@artigo@Decomposição Convexa para 3D](https://colin97.github.io/CoACD/)

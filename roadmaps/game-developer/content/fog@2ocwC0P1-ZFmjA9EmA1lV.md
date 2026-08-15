@@ -1,7 +1,7 @@
-# Fog
+# Fumaça
 
-Fog in game development refers to a visual effect used to simulate atmospheric conditions and enhance the depth perception in a game environment. It creates a gradient of visibility, often fading objects into the background, which can improve performance by reducing the number of objects rendered at a distance. Fog can be implemented in various ways, such as linear fog, which gradually obscures objects based on their distance from the camera, or exponential fog, which creates a more dramatic effect by rapidly increasing the density of fog with distance.
+A fumaça no desenvolvimento de jogos se refere a um efeito visual usado para simular condições atmosféricas e aumentar a percepção de profundidade em um ambiente de jogo. Cria uma gradiente de visibilidade, geralmente desvanecendo objetos no fundo, o que pode melhorar o desempenho reduzindo o número de objetos renderizados à distância. A fumaça pode ser implementada de várias maneiras, como a fumaça linear, que obscurece gradualmente os objetos com base em sua distância da câmera, ou a fumaça exponencial, que cria um efeito mais dramático aumentando rapidamente a densidade de fumaça à medida que se afasta.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Fog - Graphics and GPU Programming](https://gamedev.net/reference/articles/article677.asp)
+- [@artigo@Fumaça - Gráficos e Programação GPU](https://gamedev.net/reference/articles/article677.asp)

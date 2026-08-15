@@ -1,7 +1,7 @@
 # Clipping
 
-`Clipping` is a fundamental technique in computer graphics primarily used for efficiently rendering a three-dimensional scene. This process involves eliminating certain parts of objects in the scene that are out-of-view or obstructed by other objects. Clipping can occur in various ways, one of the most common methods being `View-frustum culling` where objects completely outside of the camera view are discarded. The aim of clipping is to optimize the graphic rendering pipeline by reducing the number of polygons that the graphic hardware needs to process. Consequently, this helps in improving the speed and overall performance of the rendering process.
+`Clipping` é uma técnica fundamental em gráficos computacionais, principalmente usada para renderizar eficientemente um cenário tridimensional. Esse processo envolve eliminar certas partes de objetos no cenário que estão fora da visão ou bloqueadas por outros objetos. O clipping pode ocorrer de várias maneiras, uma das métodos mais comuns sendo `Culling de Frustum de Visão` onde objetos completamente fora do campo de visão da câmera são descartados. O objetivo do clipping é otimizar a pipeline de renderização gráfica reduzindo o número de polígonos que a hardware gráfica precisa processar. Consequentemente, isso ajuda a melhorar a velocidade e o desempenho geral do processo de renderização.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Clipping in Games](https://www.haroldserrano.com/blog/what-is-clipping-in-opengl)
+- [@artigo@Clipping em Jogos](https://www.haroldserrano.com/blog/what-is-clipping-in-opengl)

@@ -1,8 +1,8 @@
-# Affine Space
+# Espaço Affine
 
-In the context of game mathematics, an **Affine Space** is a fundamental concept you should understand. It is a geometric structure with properties related to both geometry and algebra. The significant aspect of an affine space is that it allows you to work more comfortably with points and vectors. While a vector space on its own focuses on vectors which have both magnitude and direction, it does not involve points. An affine space makes it easy to add vectors to points or subtract points from each other to get vectors. This concept proves extremely useful in the field of game development, particularly when dealing with graphical models, animations, and motion control.
+No contexto das matemáticas de jogos, um **Espaço Affine** é um conceito fundamental que você deve entender. É uma estrutura geométrica com propriedades relacionadas tanto à geometria quanto à álgebra. A característica significativa do espaço affine é que permite trabalhar mais confortavelmente com pontos e vetores. Enquanto um espaço vetorial em si mesmo se concentra em vetores que têm tanto magnitude quanto direção, não envolve pontos. Um espaço affine torna fácil adicionar vetores a pontos ou subtrair pontos uns dos outros para obter vetores. Este conceito é extremamente útil no campo do desenvolvimento de jogos, especialmente ao lidar com modelos gráficos, animações e controle de movimento.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Affine Space](https://en.wikipedia.org/wiki/Affine_space)
-- [@article@Understanding Affine Space](https://brilliant.org/wiki/affine-spaces/)
+- [@artigo@Espaço Affine](https://en.wikipedia.org/wiki/Affine_space)
+- [@artigo@Entendendo Espaço Affine](https://brilliant.org/wiki/affine-spaces/)

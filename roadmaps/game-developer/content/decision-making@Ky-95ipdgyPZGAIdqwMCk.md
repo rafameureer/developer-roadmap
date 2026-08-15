@@ -1,7 +1,7 @@
-# Decision Making
+# Tomada de Decisão
 
-In game development, decision making often refers to the logic or processes that determine the behavior of non-playable characters or game environments. Three main types of decision making are used: deterministic, stochastic, and strategic. Deterministic decision making is based on predefined rules. With stochastic decision making, outcomes are probability-based, providing an element of randomness. Strategic decision making involves planning a sequence of actions to achieve a specified goal. Decisions can also be guided using various API tools such as **pathfinding algorithms** (which determine the shortest path between two points) or **decision trees** (which facilitate the selection of an action based on certain conditions). The choice of decision-making method depends largely on the desired complexity and behavior of your game elements.
+No desenvolvimento de jogos, a tomada de decisão geralmente se refere à lógica ou processos que determinam o comportamento dos personagens não-jogáveis ou ambientes do jogo. Três principais tipos de tomada de decisão são usados: determinística, estocástica e estratégica. A tomada de decisão determinística é baseada em regras pré-definidas. Com a tomada de decisão estocástica, os resultados são baseados na probabilidade, fornecendo um elemento de aleatoriedade. A tomada de decisão estratégica envolve planejamento de uma sequência de ações para atingir um objetivo especificado. As decisões também podem ser guiadas usando várias ferramentas de API como **algoritmos de busca por caminho** (que determinam o caminho mais curto entre dois pontos) ou **árvores de decisão** (que facilitam a seleção de uma ação com base em certas condições). A escolha do método de tomada de decisão depende muito da complexidade desejada e comportamento dos elementos do jogo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Decision Making in Game Development](https://www.cgspectrum.com/blog/game-design-decision-making-troy-dunniway)
+- [@artigo@Tomada de Decisão no Desenvolvimento de Jogos](https://www.cgspectrum.com/blog/game-design-decision-making-troy-dunniway)

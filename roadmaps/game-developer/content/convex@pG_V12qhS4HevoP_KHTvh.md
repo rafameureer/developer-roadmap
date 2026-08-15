@@ -1,7 +1,7 @@
-# Convex
+# Convexo
 
-The term "convex" in game development relates primarily to shapes and collision detection within the gaming environment. A shape is convex if all line segments between any two points in the shape lie entirely within the shape. This is an essential concept when programming collision detection and physics engines in games since the mathematical calculations can be more straightforward and efficient when the objects are convex. In addition to this, many rendering algorithms also operate optimally on convex objects, thereby helping improve the game’s graphical performance.
+O termo "convexo" em desenvolvimento de jogos se refere principalmente a formas e detecção de colisão no ambiente de jogo. Uma forma é convexa se todos os segmentos de linha entre qualquer dois pontos na forma estiverem completamente dentro da forma. Este é um conceito essencial quando programar a detecção de colisões e motores físicos em jogos, pois as cálculos matemáticos podem ser mais diretos e eficientes quando os objetos são convexos. Além disso, muitos algoritmos de renderização também operam de maneira otimizada em objetos convexos, ajudando a melhorar o desempenho gráfico do jogo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Convex in Game Development](https://dev.to/fkkarakurt/geometry-and-primitives-in-game-development-1og)
+- [@artigo@Convexo em Desenvolvimento de Jogos](https://dev.to/fkkarakurt/geometry-and-primitives-in-game-development-1og)

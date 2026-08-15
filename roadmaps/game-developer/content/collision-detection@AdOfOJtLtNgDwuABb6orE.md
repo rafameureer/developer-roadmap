@@ -1,7 +1,7 @@
-# Collision Detection
+# Detecção de Colisão
 
-**Collision Detection** is a critical aspect in game physics that handles the computer’s ability to calculate and respond when two or more objects come into contact in a game environment. This is vital to ensure objects interact realistically, don't pass through each other, and impact the game world in intended ways. Techniques for collision detection can vary based on the complexity required by the game. Simple methods may involve bounding boxes or spheres that encapsulate objects. When these spheres or boxes overlap, a collision is assumed. More complex methods consider the object's shape and volume for precise detection. Several libraries and game engines offer built-in support for collision detection, making it easier for developers to implement in their games.
+**Detecção de Colisão** é um aspecto crucial na física dos jogos que lida com a capacidade do computador de calcular e responder quando dois ou mais objetos entram em contato em um ambiente de jogo. Isso é vital para garantir que os objetos interajam realistas, não passem por um ao outro e impactem o mundo do jogo de maneiras intencionais. Técnicas de detecção de colisão podem variar com base na complexidade exigida pelo jogo. Métodos simples podem envolver caixas delimitadoras ou esferas que encapsulam objetos. Quando essas esferas ou caixas se sobrepõem, uma colisão é suposta. Métodos mais complexos consideram a forma e o volume do objeto para detecção precisa. Várias bibliotecas e motores de jogos oferecem suporte integrado à detecção de colisão, tornando mais fácil para os desenvolvedores implementá-la em seus jogos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Collision Detection in Games](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript/Collision_detection)
+- [@artigo@Detecção de Colisão em Jogos](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript/Collision_detection)

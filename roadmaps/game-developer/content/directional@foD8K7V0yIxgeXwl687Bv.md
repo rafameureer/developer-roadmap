@@ -1,7 +1,7 @@
-# Directional
+# Direcional
 
-Directional light simulates a distant light source like the sun. It has only a direction, not a specific position, meaning its light rays are parallel and cast consistent shadows regardless of object location within the scene. This makes it ideal for simulating sunlight or moonlight, providing realistic outdoor lighting while being relatively performant for rendering.
+A luz direcional simula uma fonte de luz distante como o sol. Ela tem apenas uma direção, não uma posição específica, o que significa que suas raios de luz são paralelos e lançam sombras consistentes independentemente da localização dos objetos na cena. Isso a torna ideal para simular luz do sol ou lua, fornecendo iluminação real outdoors com desempenho relativamente eficiente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Directional Light](https://www.a23d.co/blog/difference-between-albedo-and-diffuse-map/)
+- [@artigo@Direcional Light](https://www.a23d.co/blog/difference-between-albedo-and-diffuse-map/)

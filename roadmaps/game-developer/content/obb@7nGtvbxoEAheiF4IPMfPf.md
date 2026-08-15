@@ -1,8 +1,8 @@
 # OBB
 
-`Oriented Bounding Box (OBB)` is a type of bounding volume used in computer graphics and computational geometry. It is often used to simplify complex geometric objects by correlating them as a box much closer in size and orientation to the actual object. Unlike the `Axis-Aligned Bounding Box (AABB)`, the `OBB` is not constrained to align with the axis, so the box can be rotated. This orientation is usually chosen based on the object's local coordinate system, so the `OBB` maintains its rotation. Properties of an `OBB` include its center, dimensions, and orientation. However, it is worth noting that `OBBs` can be more computationally intensive than `AABBs` due to mathematical complexity.
+`Oriented Bounding Box (OBB)` é um tipo de volume delimitador usado em gráficos computacionais e geometria computacional. Ele é frequentemente usado para simplificar objetos geométricos complexos correlacionando-os como uma caixa muito mais próxima em tamanho e orientação ao objeto real. Diferentemente da `Axis-Aligned Bounding Box (AABB)`, o `OBB` não está limitado a alinhar com os eixos, então a caixa pode ser rotacionada. Esta orientação geralmente é escolhida com base no sistema de coordenadas locais do objeto, então o `OBB` mantém sua rotação. As propriedades de um `OBB` incluem seu centro, dimensões e orientação. No entanto, vale ressaltar que os `OBBs` podem ser mais intensos em termos computacionais do que os `AABBs` devido à complexidade matemática.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@OBB vs OBB Collision Detection](https://gamedev.stackexchange.com/questions/25397/obb-vs-obb-collision-detection)
-- [@article@Oriented Bounding Box](https://gamedev.stackexchange.com/questions/49041/oriented-bounding-box-how-to)
+- [@artigo@Comparação entre OBB e OBB](https://gamedev.stackexchange.com/questions/25397/obb-vs-obb-collision-detection)
+- [@artigo@Oriented Bounding Box](https://gamedev.stackexchange.com/questions/49041/oriented-bounding-box-how-to)

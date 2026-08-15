@@ -1,7 +1,7 @@
-# Narrow Phase
+# Fase de Detecção de Colisão
 
-The **Narrow Phase** of collision detection is a process that dives deeply into detailed collision checks for pairs of objects that are already found to be potentially colliding during the broad phase. Narrow phase is essentially a fine-tuning process. Upon positive detection from the broad phase, it identifies the precise points of collision between the two objects, and it may involve more detailed shape representations and more expensive algorithms. It might also calculate additional information necessary for the physics simulation (like the exact time of impact and contact normals). The usual methods used for this phase involve bounding box, bounding sphere or separating axis theorem. However, the method can vary depending on the complexity of shapes of objects and the specific needs of the game.
+A **Fase de Detecção de Colisão** é um processo que mergulha profundamente em verificações detalhadas de colisão para pares de objetos que já são identificados como potencialmente colidindo durante a fase larga. A fase de detecção de colisão é essencialmente um processo de ajuste fino. Após uma detecção positiva da fase larga, ela identifica os pontos de colisão precisos entre os dois objetos e pode envolver representações mais detalhadas de formas e algoritmos mais caros. Ela também pode calcular informações adicionais necessárias para a simulação física (como o tempo exato de impacto e normais de contato). Os métodos usualmente usados nesta fase incluem caixa delimitadora, esfera delimitadora ou teorema do eixo separador. No entanto, o método pode variar dependendo da complexidade das formas dos objetos e das necessidades específicas do jogo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Narrow Phase in Game Development](https://rocketbrush.com/blog/game-development-process-guide)
+- [@artigo@Fase de Detecção de Colisão em Desenvolvimento de Jogos](https://rocketbrush.com/blog/game-development-process-guide)

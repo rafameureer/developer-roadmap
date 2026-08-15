@@ -1,8 +1,8 @@
-# Bezier
+# Bézier
 
-`Bezier curves` are named after Pierre Bezier, a French engineer working at Renault, who used them in the 1960s for designing car bodies. A Bezier curve is defined by a set of control points with a minimum of two but no upper limit. The curve is calculated between the first and the last control point and does not pass through the controlling points, which only influence the direction of the curve. There are linear, quadratic, and cubic Bezier curves, but curves with more control points are also possible. They are widely used in computer graphics, animations, and are extensively used in vector images and tools to create shapes, texts, and objects.
+As `curvas de Bézier` são nomeadas em homenagem a Pierre Bézier, um engenheiro francês trabalhando na Renault, que as usou nos anos 1960 para projetar corpos de carros. Uma curva de Bézier é definida por um conjunto de pontos de controle com pelo menos dois, mas sem limite superior. A curva é calculada entre o primeiro e o último ponto de controle e não passa pelos pontos de controle, que apenas influenciam a direção da curva. Existem curvas lineares, quadráticas e cúbicas de Bézier, mas também são possíveis curvas com mais pontos de controle. Elas são amplamente utilizadas em gráficos computacionais, animações e são extensivamente usadas em imagens vetoriais e ferramentas para criar formas, textos e objetos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Bezier Curves for Your Games](http://devmag.org.za/2011/04/05/bzier-curves-a-tutorial/)
-- [@video@Bezier Curves Explained](https://www.youtube.com/watch?v=pnYccz1Ha34)
+- [@artigo@Curvas de Bézier para Seus Jogos](http://devmag.org.za/2011/04/05/bezier-curves-a-tutorial/)
+- [@vídeo@Explicação das Curvas de Bézier](https://www.youtube.com/watch?v=pnYccz1Ha34)

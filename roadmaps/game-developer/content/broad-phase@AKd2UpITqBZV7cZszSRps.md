@@ -1,7 +1,7 @@
-# Broad Phase
+# Fase Ampla
 
-**Broad Phase Collision Detection** is the first step in the collision detection process. Its primary function is to identify which pairs of objects might potentially collide. Rather than examining the entire body of every object for possible collision, it wraps up each one in a simpler shape like a bounding box or sphere, aiming to reduce the number of calculations. The output of this phase is a list of 'candidate pairs' which are passed onto the next phase, often referred to as the narrow phase, for in-depth overlap checks.
+**Fase de Colisão Ampla (Broad Phase Collision Detection)** é o primeiro passo no processo de detecção de colisões. Sua função principal é identificar quais pares de objetos podem potencialmente colidir. Em vez de examinar todo o corpo de cada objeto em busca de possíveis colisões, ele envolve cada um em uma forma mais simples como uma caixa limitante ou esfera, com o objetivo de reduzir o número de cálculos. A saída desta fase é uma lista de 'pares candidatos' que são passados para a próxima fase, geralmente referida como a fase estreita (narrow phase), para verificações mais profundas de sobreposição.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Broad Phase Collision Detection](http://buildnewgames.com/broad-phase-collision-detection/)
+- [@artigo@Fase Ampla de Detecção de Colisão](http://buildnewgames.com/broad-phase-collision-detection/)

@@ -1,8 +1,8 @@
-# Vector
+# Vetor
 
-`Vector` in game development is a mathematical concept and an integral part of game physics. It represents a quantity that has both magnitude and direction. A vector can be used to represent different elements in a game like positions, velocities, accelerations, or directions. In 3D games, it's commonly used to define 3D coordinates (x, y, z). For example, if you have a character in a game and you want to move it up, you'd apply a vector that points upward. Hence, understanding how to manipulate vectors is a fundamental skill in game development.
+`Vetor` no desenvolvimento de jogos é um conceito matemático e uma parte integral da física dos jogos. Ele representa uma quantidade que tem tanto magnitude quanto direção. Um vetor pode ser usado para representar diferentes elementos em um jogo como posições, velocidades, acelerações ou direções. Em jogos 3D, ele é comumente usado para definir coordenadas 3D (x, y, z). Por exemplo, se você tiver um personagem em um jogo e quiser movê-lo para cima, você aplicará um vetor que aponta para cima. Portanto, entender como manipular vetores é uma habilidade fundamental no desenvolvimento de jogos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Practical Introduction to Vectors for Game Development](https://dev.to/marcbeaujean/practical-introduction-to-vectors-for-game-development-532f)
-- [@video@Introduction to Vectors (By Sebastian Lague)](https://youtu.be/m7VY1T6f8Ak?feature=shared)
+- [@artigo@Introdução Prática aos Vetores para o Desenvolvimento de Jogos](https://dev.to/marcbeaujean/practical-introduction-to-vectors-for-game-development-532f)
+- [@vídeo@Introdução aos Vetores (Por Sebastian Lague)](https://youtu.be/m7VY1T6f8Ak?feature=shared)

@@ -1,7 +1,7 @@
 # AABB
 
-`AABB`, short for Axis-Aligned Bounding Box, is a commonly used form of bounding volume in game development. It is a box that directly aligns with the axes of the coordinate system and encapsulates a game object. The sides of an AABB are aligned with the axes, which is helpful when carrying out certain calculations, as non-axis-aligned boxes would require more complex math. AABBs are primarily used for broad-phase collision detection, which means checking whether two objects might be in the process of colliding. Although AABBs are relatively conservative and can have more bounding volume than oriented bounding boxes (OBBs), they are simpler and faster to use in collision detection.
+`AABB`, sigla para Axis-Aligned Bounding Box, é um formato comum de volume limitante usado no desenvolvimento de jogos. É uma caixa que se alinha diretamente com os eixos do sistema de coordenadas e envolve um objeto de jogo. Os lados de um AABB estão alinhados aos eixos, o que é útil quando se realiza determinados cálculos, já que caixas não alinhadas aos eixos exigiriam matemática mais complexa. Os AABBs são principalmente usados para a detecção de colisão de fase ampla, o que significa verificar se dois objetos podem estar em processo de colidir. Apesar dos AABBs serem relativamente conservadores e terem mais volume limitante do que caixas de volume limitante orientadas (OBBs), eles são mais simples e mais rápidos de usar na detecção de colisão.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Axis-Aligned Bounding Box](https://gdbooks.gitbooks.io/3dcollisions/content/Chapter1/aabb.html)
+- [@artigo@Axis-Aligned Bounding Box](https://gdbooks.gitbooks.io/3dcollisions/content/Chapter1/aabb.html)

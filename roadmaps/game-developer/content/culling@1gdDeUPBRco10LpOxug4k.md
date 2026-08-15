@@ -1,8 +1,8 @@
 # Culling
 
-**Culling** is a performance optimization strategy employed in game development to improve efficiency and speed. Culling helps in reducing the rendering workload by eliminating the elements that are not visible to the player or are outside the viewport of the game. There are several types of culling, two main being; **frustum culling** and **occlusion culling**. Frustum culling involves eliminating objects that are outside of the camera's field of view. On the other hand, Occlusion culling discards objects that are hidden or blocked by other objects. Culling ensures that only the elements that are necessary or add value to the player's experience are processed.
+**Culling** é uma estratégia de otimização de desempenho empregada em desenvolvimento de jogos para melhorar a eficiência e velocidade. O culling ajuda a reduzir o trabalho de renderização eliminando os elementos que não são visíveis ao jogador ou estão fora da viewport do jogo. Existem vários tipos de culling, dois principais sendo; **culling frustum** e **culling occlusão**. O culling frustum envolve eliminar objetos que estão fora do campo de visão da câmera. Por outro lado, o culling occlusão descarta objetos que são escondidos ou bloqueados por outros objetos. O culling garante que apenas os elementos necessários ou que adicionam valor à experiência do jogador sejam processados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Culling in Game Development](https://medium.com/@niitwork0921/what-is-culling-in-game-design-a97c0b6344dd)
-- [@article@Object Culling in Unreal Engine](https://gamedevinsider.com/object-culling-in-unreal-engine/)
+- [@artigo@Culling em Desenvolvimento de Jogos](https://medium.com/@niitwork0921/what-is-culling-in-game-design-a97c0b6344dd)
+- [@artigo@Culling de Objetos no Unreal Engine](https://gamedevinsider.com/object-culling-in-unreal-engine/)

@@ -1,9 +1,9 @@
 # Rust
 
-**Rust** is a modern, open-source, multi-paradigm programming language designed for performance and safety, especially safe concurrency. It was initially designed by Mozilla Research as a language that can provide memory safety without garbage collection. Since then, it has gained popularity due to its features and performance that often compare favorably to languages like C++. Its rich type system and ownership model guarantee memory-safety and thread-safety while maintaining a high level of abstraction. Rust supports a mixture of imperative procedural, concurrent actor, object-oriented and pure functional styles.
+**Rust** é um idioma de programação moderno, open-source e multi-paradigma projetado para o desempenho e segurança, especialmente segurança em concorrência segura. Foi inicialmente projetado pela Mozilla Research como uma linguagem que pode fornecer segurança da memória sem coleta de lixo. Desde então, ganhou popularidade devido às suas características e desempenho que muitas vezes se comparam favoravelmente a linguagens como C++. Seu rico sistema de tipos e modelo de propriedade garantem a segurança da memória e da concorrência enquanto mantêm um alto nível de abstração. Rust suporta uma mistura de estilos de programação imperativo procedimental, concorrente ator, orientado a objetos e funcional pura.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit Dedicated Rust Roadmap](https://roadmap.sh/rust)
-- [@article@Building Games with Rust](https://rustmeup.com/building-games-with-rust)
-- [@video@Learn Rust](https://youtu.be/BpPEoZW5IiY?si=lyBbBPLXQ0HWdJNr)
+- [@roadmap@Visite o Caminho Dedidado do Rust](https://roadmap.sh/rust)
+- [@artigo@Construindo Jogos com Rust](https://rustmeup.com/building-games-with-rust)
+- [@vídeo@Aprenda Rust](https://youtu.be/BpPEoZW5IiY?si=lyBbBPLXQ0HWdJNr)

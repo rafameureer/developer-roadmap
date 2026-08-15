@@ -1,8 +1,8 @@
 # SPIR-V
 
-`SPIR-V` is a binary intermediate language for graphics and computation kernels, which is defined by the Khronos Group. This programming language has been largely adopted and used by Vulkan, a low-overhead, cross-platform 3D graphics and computing API. Vulkan consumes `SPIR-V` directly, serving as the final shader stage before the GPU. The `SPIR-V` binary format is designed for portability and flexibility, allowing it to be a powerful tool for developers because of its extensibility through the addition of new instructions, without the need to rebuild toolchains or shaders. This makes `SPIR-V` an essential part of Vulkan, especially for game developers creating large, diverse worldscapes and intricate graphics.
+O `SPIR-V` é um idioma intermediário binário para kernels de gráficos e computação, definido pela Khronos Group. Este idioma de programação foi amplamente adotado e usado pelo Vulkan, uma API de gráficos 3D e computação de baixo overhead e cross-platform. O Vulkan consome `SPIR-V` diretamente, servindo como a última fase do shader antes da GPU. O formato binário `SPIR-V` é projetado para portabilidade e flexibilidade, permitindo que seja uma ferramenta poderosa para os desenvolvedores devido à sua extensibilidade através da adição de novas instruções, sem a necessidade de reconstruir cadeias de ferramentas ou shaders. Isso torna o `SPIR-V` uma parte essencial do Vulkan, especialmente para desenvolvedores de jogos criando mundos vastos e diversificados e gráficos complexos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@SPIR Overview - The Khronos Group Inc](https://www.khronos.org/spir/)
-- [@official@SPIR-V - OpenGL Wiki - The Khronos Group](https://www.khronos.org/opengl/wiki/SPIR-V)
+- [@oficial@Visão Geral do SPIR - Khronos Group Inc](https://www.khronos.org/spir/)
+- [@oficial@SPIR-V - OpenGL Wiki - Khronos Group](https://www.khronos.org/opengl/wiki/SPIR-V)

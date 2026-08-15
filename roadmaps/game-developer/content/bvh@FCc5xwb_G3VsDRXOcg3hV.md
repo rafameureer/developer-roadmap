@@ -1,7 +1,7 @@
-# BVH
+# Hierarquia de Volume Limitante (BVH)
 
-BVH, or Bounding Volume Hierarchy, is an algorithm used in 3D computer graphics to speed up the rendering process. It organizes the geometry in a hierarchical structure where each node in the tree represents a bounding volume (a volume enclosing or containing one or more geometric objects). The root node of the BVH contains all other nodes or geometric objects, its child nodes represent a partition of the space, and the leaf nodes are often individual geometric objects. The main objective of using BVH is to quickly exclude large portions of the scene from the rendering process, to reduce the computational load of evaluating every single object in the scene individually.
+BVH, ou Hierarquia de Volume Limitante, é um algoritmo usado em gráficos computacionais 3D para acelerar o processo de renderização. Ele organiza a geometria em uma estrutura hierárquica onde cada nó na árvore representa um volume limitante (um volume que envolve ou contém um ou mais objetos geométricos). O nó raiz da BVH contém todos os outros nós ou objetos geométricos, seus nós filhos representam uma partição do espaço e as folhas são geralmente objetos geométricos individuais. A principal meta de usar BVH é excluir rapidamente grandes partes da cena do processo de renderização, para reduzir a carga computacional de avaliar cada objeto individualmente na cena.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@opensource@UnityBoundingVolumeHeirachy](https://github.com/rossborchers/UnityBoundingVolumeHeirachy)

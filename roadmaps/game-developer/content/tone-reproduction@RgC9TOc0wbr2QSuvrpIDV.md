@@ -1,8 +1,8 @@
-# Tone Reproduction
+# Reprodução de Tom
 
-`Tone Reproduction` or `Tone Mapping` is the technique used in computer graphics to simulate the appearance of high-dynamic-range images in media with a more limited dynamic range. Print-outs, CRT, LCD monitors, and other displays can only reproduce a reduced dynamic range. This technique is widely used in gaming development, where developers employ it to improve the visual experience. The process involves taking light from a scene and mapping it to a smaller range of tones while preserving the visual appearance—i.e., regarding brightness, saturation, and hue. There are various tone mapping algorithms available, each with unique attributes suitable for different imaging tasks.
+A `reprodução de tom` ou `mapeamento de tom` é a técnica utilizada em gráficos computacionais para simular a aparência de imagens de faixa dinâmica alta em mídias com uma faixa dinâmica mais limitada. Impressos, monitores CRT e LCD só podem reproduzir uma faixa dinâmica reduzida. Essa técnica é amplamente utilizada no desenvolvimento de jogos, onde os desenvolvedores a empregam para melhorar a experiência visual. O processo envolve pegar luz de um cenário e mapeá-la em um intervalo mais pequeno de tons, preservando a aparência visual—ou seja, considerando brilho, saturação e tom. Existem vários algoritmos de mapeamento de tom disponíveis, cada um com atributos únicos adequados para diferentes tarefas de imaging.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Tone Mapping](https://graphics-programming.org/resources/tonemapping/index.html)
-- [@article@Sound Design for Video Games](https://www.gamedeveloper.com/audio/sound-design-for-video-games-a-primer)
+- [@artigo@Mapeamento de Tom](https://graphics-programming.org/resources/tonemapping/index.html)
+- [@artigo@Design Sonoro para Jogos de Vídeo](https://www.gamedeveloper.com/audio/sound-design-for-video-games-a-primer)

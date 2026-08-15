@@ -1,7 +1,7 @@
 # Minimax
 
-`Minimax` is an artificial intelligence (AI) decision-making algorithm mainly used in decision making and game theory, particularly for two player zero-sum games. It formulates a strategy by simulating all possible game scenarios and assuming that the opponent is playing an optimal game. Minimax operates by the player minimizing the possible loss for a worst case scenario and thus making the 'maximum of the minimum' possible scenarios. This algorithm is often combined with `alpha-beta pruning` technique to increase its efficiency.
+`Minimax` é um algoritmo de tomada de decisão de inteligência artificial (IA) usado principalmente em tomas de decisão e teoria dos jogos, particularmente para jogos a dois jogadores com zero soma. Ele formula uma estratégia simulando todas as possíveis cenas de jogo e assumindo que o adversário está jogando um jogo ótimo. O Minimax opera minimizando a possível perda em cenários piores e assim fazendo o 'máximo da mínima' possível cenários. Este algoritmo é frequentemente combinado com a técnica `pruning alpha-beta` para aumentar sua eficiência.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Minimax](https://en.wikipedia.org/wiki/Minimax)
+- [@artigo@Minimax](https://en.wikipedia.org/wiki/Minimax)

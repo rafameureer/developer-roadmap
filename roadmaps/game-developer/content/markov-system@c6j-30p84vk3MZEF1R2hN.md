@@ -1,8 +1,8 @@
-# Markov System
+# Sistema de Markov
 
-A **Markov System** or **Markov Chain** represents a statistical model that is used in decision-making scenarios within game development. This model is based on the notion of "memorylessness" where a certain event's probability depends solely on the state attained in the previous event. It employs a sequence of possible events where the probability of each event hinges on the state achieved in the previous event. A common usage of a Markov System is in designing AI behavior within games, where each state symbolizes a different behavior, and transitions between them are governed by the Markov chain probabilities.
+Um **Sistema de Markov** ou **Cadeia de Markov** representa um modelo estatístico usado em cenários de tomada de decisão no desenvolvimento de jogos. Este modelo é baseado na ideia de "memória nula", onde a probabilidade de um certo evento depende apenas do estado atingido no evento anterior. Ele utiliza uma sequência de eventos possíveis, onde a probabilidade de cada evento depende do estado alcançado no evento anterior. Uma utilização comum de um Sistema de Markov é na criação de comportamentos de IA dentro dos jogos, onde cada estado simboliza um comportamento diferente e as transições entre eles são governadas pelas probabilidades da cadeia de Markov.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Markov System](https://towardsdatascience.com/modeling-games-with-markov-chains-c7b614731a7f)
-- [@article@Using Markov Chain in Game Development](https://www.gamedeveloper.com/design/advanced-math-in-game-design-random-walks-and-markov-chains-in-action)
+- [@artigo@Sistema de Markov](https://towardsdatascience.com/modeling-games-with-markov-chains-c7b614731a7f)
+- [@artigo@Using Markov Chain in Game Development](https://www.gamedeveloper.com/design/advanced-math-in-game-design-random-walks-and-markov-chains-in-action)

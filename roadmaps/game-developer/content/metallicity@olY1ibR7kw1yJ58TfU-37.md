@@ -1,8 +1,8 @@
-# Metallicity
+# Metalicidade
 
-In Physically Based Rendering (PBR), **Metallicity** is a critical property of a material, which influences how it interacts with light. It's a binary property, indicating whether the material is a 'metal' or 'non-metal'. Metals have a high metallicity value (often 1), non-metals (such as wood, plastic, etc.) have a low metallicity value (often 0). Interestingly, with PBR, there exists no 'partially metal' materials ― it's an all or nothing characteristic. This property significantly impacts color handling, too, as metals derive their color from specular reflection while non-metals derive from subsurface scattering (diffuse).
+Na Renderização Baseada em Física (PBR), a **Metalicidade** é uma propriedade crítica de um material, que influencia como ele interage com a luz. É uma propriedade binária, indicando se o material é 'metálico' ou 'não-metálico'. Os metais têm um valor alto de metalicidade (geralmente 1), enquanto os não-metálicos (como madeira, plástico, etc.) têm um valor baixo de metalicidade (geralmente 0). Interessantemente, com PBR, não existem materiais 'parcialmente metais' – é uma característica todos ou nada. Esta propriedade também tem um impacto significativo na manipulação de cores, pois os metais derivam sua cor da reflexão especular enquanto os não-metálicos derivam da dispersão sub-superficial (difusa).
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Metallicty in PBR](https://en.wikipedia.org/wiki/Physically_based_rendering)
-- [@article@What is PBR in 3D Games](https://www.adobe.com/products/substance3d/discover/pbr.html)
+- [@artigo@Metalicidade em PBR](https://en.wikipedia.org/wiki/Physically_based_rendering)
+- [@artigo@O que é PBR nos Jogos 3D](https://www.adobe.com/products/substance3d/discover/pbr.html)

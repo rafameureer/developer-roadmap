@@ -1,9 +1,9 @@
 # Vulkan
 
-Vulkan is a high-performance, cross-platform API for graphics and computation tasks published by the Khronos Group. Unlike other graphics APIs, Vulkan provides developers with direct control over the GPU and aims to take full advantage of multicore processors, enabling significant performance gains in 3D applications. It supports Windows, Linux, Android, iOS, and MacOS platforms. It's built from ground-up to ensure minimal overhead on the CPU side, providing a more balanced CPU/GPU usage, hence not limiting the game to a single core. Vulkan can be seen as the successor to OpenGL, as it offers lower-level functionality and more efficient multi-threading capabilities.
+Vulkan é uma API de alto desempenho e multiplataforma para tarefas gráficas e computacionais publicada pela Khronos Group. Diferentemente de outras APIs gráficas, Vulkan fornece aos desenvolvedores controle direto sobre a GPU e visa aproveitar plenamente processadores multicore, permitindo ganhos significativos em desempenho em aplicativos 3D. Ele suporta Windows, Linux, Android, iOS e MacOS. Foi construído do zero para garantir um mínimo de sobrecarga no lado do CPU, fornecendo uma utilização mais equilibrada entre CPU e GPU, portanto, não limitando o jogo a um único núcleo. Vulkan pode ser visto como o sucessor do OpenGL, já que oferece funcionalidades de nível inferior e capacidades de multi-threading mais eficientes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Vulkan](https://www.vulkan.org/)
-- [@official@What is Vulkan?](https://docs.vulkan.org/guide/latest/what_is_vulkan.html)
-- [@article@Vulkan Driver Support](https://developer.nvidia.com/vulkan-driver)
+- [@oficial@Vulkan](https://www.vulkan.org/)
+- [@oficial@O que é Vulkan?](https://docs.vulkan.org/guide/latest/what_is_vulkan.html)
+- [@artigo@Suporte de Driver Vulkan](https://developer.nvidia.com/vulkan-driver)

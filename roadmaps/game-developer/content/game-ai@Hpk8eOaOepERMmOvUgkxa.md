@@ -1,8 +1,8 @@
-# Game AI
+# Inteligência Artificial em Jogos
 
-Game AI is a subfield of artificial intelligence (AI) that is used to create video game characters that act and react like real human players. Game AI is used in a variety of video games, from simple puzzle games to complex strategy games. Game AI can be used to create non-player characters (NPCs) that interact with the player, as well as to create intelligent opponents that challenge the player.
+A Inteligência Artificial (IA) em jogos é um subcampo da IA que é usado para criar personagens de videogame que se comportem e reagem como jogadores humanos reais. A IA em jogos é usada em uma variedade de videogames, desde jogos simples de quebra-cabeças até jogos complexos de estratégia. A IA pode ser usada para criar personagens não-jogadores (NPCs) que interagem com o jogador, bem como para criar inimigos inteligentes que desafiem o jogador.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Game AI](https://medium.com/@alidrsn/game-development-with-ai-strategy-tools-and-examples-7ae77257c062)
-- [@article@AI Game Development](https://modl.ai/ai-game-development/)
+- [@artigo@Inteligência Artificial em Jogos](https://medium.com/@alidrsn/game-development-with-ai-strategy-tools-and-examples-7ae77257c062)
+- [@artigo@Desenvolvimento de Jogos com IA](https://modl.ai/ai-game-development/)

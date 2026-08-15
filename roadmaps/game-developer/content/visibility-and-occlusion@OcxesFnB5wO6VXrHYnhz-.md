@@ -1,8 +1,8 @@
-# Visibility and Occlusion
+# Visibilidade e Ocultação
 
-"Visibility and occlusion" in computer graphics refers to the process of determining which parts of a particular object are visible from a certain viewpoint and which are hidden. "Occlusion" describes the phenomenon where an object is blocked from view by another object. Understanding these concepts is important for creating realistic renderings in game design. Real-time engines typically use data structures like BSP-trees, Quad-trees or Octrees to quickly identify occlusion. Advanced techniques such as Occlusion culling and Z-buffering are used to further optimize the representation of visible and hidden parts of 3D objects. Understanding the depths and dimensions related to visibility and occlusion empowers the game developer to enhance presentation and performance.
+"Visibilidade e ocultação" na gráfica computacional se refere ao processo de determinar quais partes de um objeto específico são visíveis a partir de uma certa perspectiva e quais estão escondidas. "Ocultação" descreve o fenômeno onde um objeto é bloqueado da vista por outro objeto. Entender esses conceitos é importante para criar renderizações realistas no design de jogos. Os motores em tempo real geralmente usam estruturas de dados como árvores BSP, Quad-trees ou Octrees para identificar rapidamente a ocultação. Técnicas avançadas como Ocultação de Culling e Z-buffering são usadas para otimizar ainda mais a representação das partes visíveis e escondidas dos objetos 3D. Entender as profundidades e dimensões relacionadas à visibilidade e ocultação dá ao desenvolvedor de jogos a capacidade de melhorar a apresentação e o desempenho.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Introduction to Occlusion Culling](https://medium.com/@Umbra3D/introduction-to-occlusion-culling-3d6cfb195c79)
-- [@article@Visibility in Computer Graphics](https://ima.udg.edu/~sellares/ComGeo/VisComGra.pdf)
+- [@artigo@Introdução à Ocultação de Culling](https://medium.com/@Umbra3D/introduction-to-occlusion-culling-3d6cfb195c79)
+- [@artigo@Visibilidade na Gráfica Computacional](https://ima.udg.edu/~sellares/ComGeo/VisComGra.pdf)

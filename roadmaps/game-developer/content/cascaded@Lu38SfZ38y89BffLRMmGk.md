@@ -1,7 +1,7 @@
 # Cascaded
 
-Cascaded usually refers to cascaded shadow maps, a technique for rendering realistic shadows over a large area.
+Cascaded geralmente se refere a mapas de sombra encadeados, uma técnica para renderizar sombras realistas em uma área ampla.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Cascading Shadows](https://www.gamedev.net/forums/topic/632574-cascading-shadow-maps-best-approach-to-learn/4988720/)
+- [@artigo@Sombras Encadeadas](https://www.gamedev.net/forums/topic/632574-cascading-shadow-maps-best-approach-to-learn/4988720/)

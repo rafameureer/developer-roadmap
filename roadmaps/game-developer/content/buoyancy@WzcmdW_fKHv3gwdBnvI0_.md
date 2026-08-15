@@ -1,7 +1,7 @@
-# Buoyancy
+# Flutuação
 
-**Buoyancy** refers to a specific interaction in physics where an object submerged in fluid (such as a game character in water) experiences an upward force that counteracts the force of gravity. This makes the object either float or appear lighter. In game development, implementing buoyancy can enhance realism particularly in games that involve water-based activities or environments. Buoyancy can be manipulated through adjustments in density and volume to create various effects - from making heavy objects float to sinking light ones. Calculating it typically requires approximating the object to a sphere or another simple geometric shape, and using this in Archimedes' Principle. This principle states that buoyant force equals the weight of the fluid that the object displaces. In the realm of video games, programming buoyancy can involve complex physics equations and careful testing to achieve a balance between realism and playability.
+**Flutuação** se refere a uma interação específica na física onde um objeto mergulhado em fluido (como um personagem de jogo na água) experimenta uma força ascendente que atua contra a força da gravidade. Isso faz com que o objeto flote ou pareça mais leve. No desenvolvimento de jogos, implementar flutuação pode aumentar a realismo, especialmente em jogos que envolvem atividades ou ambientes baseados em água. A flutuação pode ser manipulada através de ajustes na densidade e volume para criar vários efeitos - desde fazer objetos pesados flutuar até deixar leves sumergir. Calcular isso geralmente requer a aproximação do objeto a uma esfera ou outra forma geométrica simples, e usá-la em Princípio de Arquimedes. Esse princípio afirma que a força de flutuação é igual ao peso do fluido deslocado pelo objeto. No mundo dos videogames, programar flutuação pode envolver equações físicas complexas e testes cuidadosos para alcançar um equilíbrio entre realismo e jogabilidade.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Buoyancy in Game Development](https://www.gamedeveloper.com/programming/water-interaction-model-for-boats-in-video-games-part-2)
+- [@artigo@Flutuação no Desenvolvimento de Jogos](https://www.gamedeveloper.com/programming/water-interaction-model-for-boats-in-video-games-part-2)

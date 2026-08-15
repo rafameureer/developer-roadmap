@@ -1,7 +1,7 @@
-# Convexity
+# Convexidade
 
-Convexity is a significant concept used in game development, particularly in the narrow phase of collision detection. A shape is considered convex if, for every pair of points inside the shape, the complete line segment between them is also inside the shape. Essentially, a convex shape has no angles pointing inwards. Convex shapes can be of great benefit in game development because they're simpler to handle computationally. For instance, in collision detection algorithms such as separating axis theorem (SAT) and Gilbert–Johnson–Keerthi (GJK), the input shapes are often convex. Non-convex shapes or concave shapes usually require more complex methods for collision detection, often involving partitioning the shape into smaller convex parts.
+A convexidade é um conceito significativo usado em desenvolvimento de jogos, especialmente na fase estreita da detecção de colisões. Uma forma é considerada convexa se, para cada par de pontos dentro da forma, o segmento de linha completo entre eles também estiver dentro da forma. Em essência, uma forma convexa não tem ângulos voltados para dentro. As formas convexas podem ser de grande benefício no desenvolvimento de jogos porque são mais fáceis de lidar computacionalmente. Por exemplo, em algoritmos de detecção de colisões como o Teorema do Eixo Separador (SAT) e o Gilbert–Johnson–Keerthi (GJK), as formas de entrada geralmente são convexas. Formas não-convexas ou concavas normalmente requerem métodos mais complexos para a detecção de colisões, frequentemente envolvendo a partição da forma em partes menores convexas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Convexity in Game Development](https://www.gamedeveloper.com/game-platforms/understanding-convexity-in-ltv-modelling)
+- [@artigo@Convexidade em Desenvolvimento de Jogos](https://www.gamedeveloper.com/game-platforms/understanding-convexity-in-ltv-modelling)

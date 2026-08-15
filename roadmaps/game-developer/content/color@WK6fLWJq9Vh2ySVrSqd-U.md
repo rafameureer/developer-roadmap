@@ -1,7 +1,7 @@
-# Color
+# Cor
 
-In the realm of computer graphics, color plays an integral role. It can be defined in various color models such as RGB (Red, Green, Blue), CMYK (Cyan, Magenta, Yellow, Black), and others. RGB is a color model that combines the primary colors (red, green, blue) in different amounts to produce a spectrum of colors. This model is often used in digital displays. In contrast, CMYK is a color model used in color printing. It uses cyan, magenta, yellow, and black as the primary colors. HSL (Hue, Saturation, Lightness) and HSV (Hue, Saturation, Value) are other useful models that represent colors based on human perceptions. Another important element of color in computer graphics is the color depth, also known as bit depth, which determines the number of colors that can be displayed at once.
+No mundo dos gráficos computacionais, a cor desempenha um papel integral. Ela pode ser definida em vários modelos de cor como RGB (Vermelho, Verde, Azul), CMYK (Ciano, Magenta, Amarelo, Preto) e outros. O modelo RGB combina as cores primárias (vermelho, verde, azul) em diferentes quantidades para produzir uma gama de cores. Esse modelo é frequentemente usado em exibições digitais. Em contraste, o CMYK é um modelo de cor usado na impressão colorida. Ele usa ciano, magenta, amarelo e preto como as cores primárias. O HSL (Matiz, Saturação, Brilho) e o HSV (Matiz, Saturação, Valor) são outros modelos úteis que representam as cores com base em percepções humanas. Outro elemento importante da cor nos gráficos computacionais é a profundidade de cor, também conhecida como profundidade de bits, que determina o número de cores que podem ser exibidas simultaneamente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@Pixar in a Box - Color](https://www.khanacademy.org/computing/pixar/animate/ball/v/intro-animation)
+- [@vídeo@Pixar em uma Caixa - Cor](https://www.khanacademy.org/computing/pixar/animate/ball/v/intro-animation)

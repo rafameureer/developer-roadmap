@@ -1,9 +1,9 @@
-# Decision Tree Learning
+# Aprendizado de Árvore de Decisão
 
-`Decision Tree Learning` is an important concept in game development, particularly in the development of artificial intelligence for game characters. It is a kind of machine learning method that is based on using decision tree models to predict or classify information. A decision tree is a flowchart-like model, where each internal node denotes a test on an attribute, each branch represents an outcome of that test, and each leaf node holds a class label (decision made after testing all attributes). By applying decision tree learning models, computer-controlled characters can make decisions based on different conditions or states. They play a key role in creating complex and interactive gameplay experiences, by enabling game characters to adapt to the player's actions and the ever-changing game environment.
+`Aprendizado de Árvore de Decisão` é um conceito importante no desenvolvimento de jogos, especialmente no desenvolvimento de IA para personagens de jogo. É um tipo de método de aprendizagem de máquina baseado em usar modelos de árvore de decisão para prever ou classificar informações. Uma árvore de decisão é um modelo semelhante a um fluxograma, onde cada nó interno representa um teste em um atributo, cada ramo representa um resultado desse teste e cada nó folha armazena uma etiqueta de classe (decisão tomada após testar todos os atributos). Ao aplicar modelos de aprendizado de árvore de decisão, personagens controlados por computador podem tomar decisões com base em diferentes condições ou estados. Eles desempenham um papel crucial na criação de jogos complexos e interativos, permitindo que personagens de jogo adaptem-se às ações do jogador e ao ambiente de jogo sempre em mudança.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Game Strategy - Real Time Decision Tree](https://medium.com/@aleena.sebastian/game-strategy-optimization-using-decision-trees-d4067008eed1)
-- [@article@Real Time Decision Tree](https://www.codewithc.com/real-time-decision-trees-in-pygame-ai/)
-- [@video@Decision Trees - A Friendly Introduction](https://www.youtube.com/watch?v=HkyWAhr9v8g)
+- [@artigo@Estratégia de Jogo - Árvore de Decisão em Tempo Real](https://medium.com/@aleena.sebastian/game-strategy-optimization-using-decision-trees-d4067008eed1)
+- [@artigo@Árvore de Decisão em Tempo Real](https://www.codewithc.com/real-time-decision-trees-in-pygame-ai/)
+- [@vídeo@Árvores de Decisão - Uma Introdução Amigável](https://www.youtube.com/watch?v=HkyWAhr9v8g)

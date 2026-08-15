@@ -1,8 +1,8 @@
 # C Sharp
 
-**CSharp (C#)** is a modern, object-oriented programming language developed and maintained by Microsoft. It's primarily used for developing desktop applications and, more prominently, for Windows applications within the [Microsoft.Net](http://Microsoft.Net) framework. However, the language is versatile and has a wide range of uses in web services, websites, enterprise software, and even mobile app development. C# is known for its simplicity, type-safety, and support for component-oriented software development. It's also been adopted by Unity, a widely used game engine, thus making it one of the preferred languages for game development.
+**CSharp (C#)** é um linguagem de programação moderna e orientada a objetos desenvolvida e mantida pela Microsoft. É principalmente usada para desenvolver aplicativos desktop e, mais prominentemente, para aplicativos do Windows dentro do framework [Microsoft.Net](http://Microsoft.Net). No entanto, o idioma é versátil e tem uma ampla gama de usos em serviços web, sites, software empresarial e até mesmo no desenvolvimento de aplicativos móveis. C# é conhecido por sua simplicidade, segurança de tipos e suporte ao desenvolvimento orientado a componentes. Ele também foi adotado pelo Unity, um motor de jogos amplamente utilizado, tornando-o uma das linguagens preferidas para o desenvolvimento de jogos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Learn C#](https://learn.microsoft.com/en-us/dotnet/csharp/)
-- [@article@C Sharp Programming Language](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
+- [@oficial@Aprenda C#](https://learn.microsoft.com/en-us/dotnet/csharp/)
+- [@artigo@Linguagem de Programação C Sharp](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))

@@ -1,8 +1,8 @@
-# Spatial Partitioning
+# Particionamento Espacial
 
-"Spatial partitioning" is a technique used in computational geometry, intended to make calculations involving objects in space more efficient. It involves dividing a large virtual space into a series of smaller spaces, or "partitions". These partitions can be used to quickly eliminate areas that are irrelevant to a particular calculation or query, thus lowering the overall computational cost. This technique is widely used in game development in contexts such as collision detection, rendering, pathfinding, and more. Various methods exist for spatial partitioning, including grid-based, tree-based (like Quadtree and Octree), and space-filling curve (like Z-order or Hilbert curve) approaches.
+O "particionamento espacial" é uma técnica utilizada na geometria computacional, com o objetivo de tornar mais eficientes os cálculos envolvendo objetos no espaço. Involves dividir um grande espaço virtual em uma série de espaços menores, ou "partições". Essas partições podem ser usadas para eliminar rapidamente áreas irrelevantes a um cálculo ou consulta específica, reduzindo assim o custo computacional total. Esta técnica é amplamente utilizada no desenvolvimento de jogos em contextos como detecção de colisão, renderização, busca por caminho e muito mais. Vários métodos existem para o particionamento espacial, incluindo abordagens baseadas em grade, árvores (como Quadtree e Octree) e curvas que preenchem o espaço (como a curva Z-order ou a curva de Hilbert).
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Spatial Partitioning](https://en.wikipedia.org/wiki/Space_partitioning)
-- [@article@Spatial Partitioning in Game Programming](https://gameprogrammingpatterns.com/spatial-partition.html)
+- [@artigo@Particionamento Espacial](https://en.wikipedia.org/wiki/Space_partitioning)
+- [@artigo@Particionamento Espacial em Programação de Jogos](https://gameprogrammingpatterns.com/spatial-partition.html)

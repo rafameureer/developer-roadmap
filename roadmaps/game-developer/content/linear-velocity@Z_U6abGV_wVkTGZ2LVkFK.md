@@ -1,8 +1,8 @@
-# Linear Velocity
+# Velocidade Linear
 
-**Linear Velocity** is a fundamental concept in physics that is extensively used in game development. It refers to the rate of change of an object's position with respect to a frame of reference. It's calculated by dividing the change in position by the change in time, often represented with the vector 'v'. In game development, an object's linear velocity can be manipulated to control its speed and direction. This is especially important in the development of physics simulations or movement-dependent gameplay elements. For instance, it can be used to make a character run or drive, or to throw an object at different speeds and directions.
+A **Velocidade Linear** é um conceito fundamental na física que é amplamente utilizado no desenvolvimento de jogos. Ela se refere à taxa de mudança da posição de um objeto em relação a uma referência de quadro. É calculada dividindo a mudança na posição pela mudança no tempo, geralmente representada pelo vetor 'v'. No desenvolvimento de jogos, a velocidade linear de um objeto pode ser manipulada para controlar sua velocidade e direção. Isso é especialmente importante no desenvolvimento de simulações físicas ou elementos de jogo baseados em movimento. Por exemplo, ela pode ser usada para fazer um personagem correr ou dirigir, ou lançar um objeto a diferentes velocidades e direções.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Linear Velocity](https://byjus.com/physics/linear-velocity/)
+- [@artigo@Velocidade Linear](https://byjus.com/physics/linear-velocity/)
 - [@feed@Explore top posts about Math](https://app.daily.dev/tags/math?ref=roadmapsh)

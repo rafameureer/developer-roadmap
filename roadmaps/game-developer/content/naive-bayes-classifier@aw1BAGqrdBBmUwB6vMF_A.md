@@ -1,8 +1,8 @@
-# Naive Bayes Classifier
+# Classificador Naïve Bayes
 
-The Naive Bayes Classifier is a type of probabilistic machine learning model that is utilized for classification tasks. These tasks can range from email filtering to sentiment analysis or even document categorization. This model is termed 'naive' because it operates under the assumption that each input feature is independent from one another. This simplifying assumption allows for the computation of the probabilities involved to be severely less complicated. It follows the Bayes' Theorem equation to predict the class of the given data point. While this classifier might seem simplistic, it holds its own quite well in complex real-world situations. Due to its simplicity and high efficiency, the Naive Bayes Classifier is one of the most reliable and practical methods in machine learning applications.
+O Classificador Naïve Bayes é um tipo de modelo de aprendizado de máquina probabilístico usado para tarefas de classificação. Essas tarefas podem variar desde o filtro de e-mails até a análise de sentimentos ou até mesmo a categorização de documentos. Esse modelo é chamado de 'naïve' porque opera sob a suposição de que cada característica de entrada é independente uma da outra. Essa suposição simplificante permite que o cálculo das probabilidades envolvidas seja significativamente menos complicado. Ele segue a equação do Teorema de Bayes para prever a classe do dado fornecido. Embora esse classificador possa parecer simples, ele se mantém bem em situações reais complexas. Devido à sua simplicidade e eficiência alta, o Classificador Naïve Bayes é um dos métodos mais confiáveis e práticos em aplicações de aprendizado de máquina.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@How Naive Bayes Classifier Works?](https://www.machinelearningplus.com/predictive-modeling/how-naive-bayes-algorithm-works-with-example-and-full-code/)
-- [@article@Text Classification With Naive Bayes Classifier](https://gamedevacademy.org/text-classification-tutorial-with-naive-bayes/)
+- [@artigo@Como Funciona o Classificador Naïve Bayes?](https://www.machinelearningplus.com/predictive-modeling/how-naive-bayes-algorithm-works-with-example-and-full-code/)
+- [@artigo@Classificação de Texto com Classificador Naïve Bayes](https://gamedevacademy.org/text-classification-tutorial-with-naive-bayes/)

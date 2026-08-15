@@ -1,8 +1,8 @@
-# Behavior Tree
+# Árvore de Comportamento
 
-The **Behavior Tree** is a decision-making system used in game development, primarily for AI character behavior. These trees help define the actions an AI character will take, based on predefined tasks and conditions. The tree structure starts from a single root, branching out to nodes that represent these decisions or tasks. The tasks can be simple, such as moving from one point to another, or can be complex decisions like whether to attack or retreat. This kind of structure is advantageous because it is easy to add, remove, or modify tasks without breaking the tree or affecting other tasks. This makes it highly flexible and easy to manage, irrespective of the complexity of the tasks.
+O **Árvore de Comportamento** é um sistema de tomada de decisão usado no desenvolvimento de jogos, principalmente para o comportamento dos personagens de inteligência artificial (AI). Essas árvores ajudam a definir as ações que um personagem AI tomará, com base em tarefas e condições pré-definidas. A estrutura da árvore começa por uma única raiz, ramificando-se para nós que representam essas decisões ou tarefas. As tarefas podem ser simples, como se mover de um ponto a outro, ou podem ser decisões complexas, como atacar ou recuar. Esse tipo de estrutura é vantajoso porque é fácil adicionar, remover ou modificar tarefas sem quebrar a árvore ou afetar outras tarefas. Isso o torna altamente flexível e fácil de gerenciar, independentemente da complexidade das tarefas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Open Behavior Tree](https://sterberino.github.io/open-behavior-trees-documentation/index.html)
-- [@video@Unreal Engine 5 Tutorial - AI Part 2: Behavior Tree](https://www.youtube.com/watch?v=hbHqv9ov8IM&list=PL4G2bSPE_8uklDwraUCMKHRk2ZiW29R6e&index=3&t=16s)
+- [@artigo@Árvores de Comportamento Abertas](https://sterberino.github.io/open-behavior-trees-documentation/index.html)
+- [@vídeo@Tutorial do Unreal Engine 5 - Parte 2: Árvore de Comportamento da IA](https://www.youtube.com/watch?v=hbHqv9ov8IM&list=PL4G2bSPE_8uklDwraUCMKHRk2ZiW29R6e&index=3&t=16s)

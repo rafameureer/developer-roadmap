@@ -1,8 +1,8 @@
-# Intersection
+# Interseção
 
-`Intersection` is a concept in the narrow phase of game development where the exact point or points of collision are determined between two potentially colliding objects. This process takes place once a potential collision is determined in the broad phase. Algorithms such as Axis-Aligned Bounding Boxes (AABB), Separating Axis Theorem (SAT), Spherical or Capsule bounding, and many others are used for different intersection tests based on the shape of the objects. The intersection provides valuable data such as the point of contact, direction and depth of penetration, which are used to calculate the accurate physical response in the collision.
+`Interseção` é um conceito na fase de fase reduzida da desenvolvimento de jogos onde os pontos exatos ou pontos de colisão são determinados entre dois objetos potencialmente colidindo. Esse processo ocorre uma vez que uma colisão potencial seja determinada na fase ampla. Algoritmos como Caixas Limitantes Alinhadas aos Eixos (AABB), Teorema do Eixo Separador (SAT), Colisão Sférica ou Cilíndrica, e muitos outros são usados para diferentes testes de interseção com base na forma dos objetos. A interseção fornece dados valiosos como o ponto de contato, direção e profundidade de penetração, que são usados para calcular a resposta física precisa na colisão.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Intersection Tests for Games](https://www.gamedeveloper.com/game-platforms/simple-intersection-tests-for-games)
-- [@article@Intersection Geometry](https://www.petercollingridge.co.uk/tutorials/computational-geometry/line-line-intersections/)
+- [@artigo@Testes de Interseção em Jogos](https://www.gamedeveloper.com/game-platforms/simple-intersection-tests-for-games)
+- [@artigo@Geometria de Interseção](https://www.petercollingridge.co.uk/tutorials/computational-geometry/line-line-intersections/)

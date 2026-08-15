@@ -1,8 +1,8 @@
-# Center of Mass
+# Centro de Massa
 
-The **center of mass** is a position defined relative to an object or system of objects. Typically denoted by the symbol (COM), it refers to the average position of all the parts of the system, weighted according to their masses. For instance, if you have a uniformly dense object, the center of mass would be in the geometric center of that object. In gaming, the center of mass of an object can have a significant impact on how the object behaves when forces are applied to it. This includes how the object moves in response to these forces, and can affect the realism of the physics simulations in a game.
+O **centro de massa** é uma posição definida em relação a um objeto ou sistema de objetos. Normalmente notado pelo símbolo (COM), ele se refere à posição média de todos os componentes do sistema, ponderada de acordo com suas massas. Por exemplo, se você tiver um objeto denso uniformemente distribuído, o centro de massa estará no centro geométrico desse objeto. Em jogos, o centro de massa de um objeto pode ter um impacto significativo na forma como o objeto se comporta quando for aplicada força a ele. Isso inclui como o objeto se move em resposta a essas forças e pode afetar a realismo das simulações físicas em um jogo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Center of Mass](https://medium.com/@brazmogu/physics-for-game-dev-a-platformer-physics-cheatsheet-f34b09064558)
-- [@video@Playing With Unreal Engine Physics: Center of Mass](https://www.youtube.com/watch?v=JVX7TA8GkzE)
+- [@artigo@Centro de Massa](https://medium.com/@brazmogu/physics-for-game-dev-a-platformer-physics-cheatsheet-f34b09064558)
+- [@vídeo@Jogando com Física do Unreal Engine: Centro de Massa](https://www.youtube.com/watch?v=JVX7TA8GkzE)

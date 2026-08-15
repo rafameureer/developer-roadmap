@@ -1,8 +1,8 @@
-# Diffuse
+# Diufusão
 
-In the world of 3D rendering and game development, "diffuse" refers to diffuse lighting or diffuse reflection. It's a key concept in making objects look three-dimensional and realistically lit.
+No mundo da renderização 3D e desenvolvimento de jogos, "diufusão" refere-se à iluminação difusa ou reflexão difusa. É um conceito chave para fazer objetos parecerem tridimensionais e iluminados realistas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Difference Between Albedo and Diffuse Map](https://www.a23d.co/blog/difference-between-albedo-and-diffuse-map/)
-- [@article@Complete Guide to Learn Texture Styles](https://cgobsession.com/complete-guide-to-texture-map-types/)
+- [@artigo@Diferença entre Albedo e Mapa Diffuse](https://www.a23d.co/blog/difference-between-albedo-and-diffuse-map/)
+- [@artigo@Guia Completo para Aprender Estilos de Textura](https://cgobsession.com/complete-guide-to-texture-map-types/)

@@ -1,8 +1,8 @@
-# Affine Transformation
+# Transformação Afim
 
-An **affine transformation**, in the context of game mathematics, is a function between affine spaces which preserves points, straight lines and planes. Also, sets of parallel lines remain parallel after an affine transformation. In video games, it's typically used for manipulating an object's position in 3D space. This operation allows game developers to perform multiple transformations such as translation (moving an object from one place to another), scaling (changing the size of an object), and rotation (spinning the object around a point). An important feature of affine transformation is that it preserves points uniqueness; if two points are distinct to start with, they remain distinct after transformation. It's important to note that these transformations are applied relative to an object's own coordinate system, not the world coordinate system.
+Uma **transformação afim**, no contexto das matemáticas de jogos, é uma função entre espaços afins que preserva pontos, linhas retas e planos. Além disso, conjuntos de linhas paralelas permanecem paralelos após uma transformação afim. Em jogos eletrônicos, é tipicamente usado para manipular a posição de um objeto no espaço tridimensional. Esta operação permite que os desenvolvedores de jogos realizem várias transformações como translação (movendo um objeto de um lugar para outro), escala (mudando o tamanho do objeto) e rotação (girando o objeto em torno de um ponto). Um aspecto importante da transformação afim é que ela preserva a unicidade dos pontos; se dois pontos forem distintos no início, eles permanecem distintos após a transformação. É importante notar que essas transformações são aplicadas em relação ao próprio sistema de coordenadas do objeto, não ao sistema de coordenadas mundial.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Affine Transformation](https://www.gamedevs.org/uploads/affine-transformations.pdf)
-- [@article@Understanding Affine Transformations](https://code.tutsplus.com/understanding-affine-transformations-with-matrix-mathematics--active-10884t)
+- [@artigo@Transformação Afim](https://www.gamedevs.org/uploads/affine-transformations.pdf)
+- [@artigo@Compreendendo Transformações Afins](https://code.tutsplus.com/understanding-affine-transformations-with-matrix-mathematics--active-10884t)

@@ -1,7 +1,7 @@
-# Decision Learning
+# Aprendizado de Decisão
 
-In the realm of game development, **Decision Learning** refers to information systems that recognize and analyze patterns to help in making decisions. It’s particularly used in AI game development where decision-making algorithms or artificial intelligence are programmed to learn from and make decisions based on past experiences or an established decision tree. These decisions can be about game behaviors, player interactions, environment changes and so on. Various methods such as reinforcement learning, Bayesian methods, Decision trees, Neural networks are used to facilitate decision learning in game development.
+No campo da desenvolvimento de jogos, **Aprendizado de Decisão** refere-se a sistemas de informações que reconhecem e analisam padrões para auxiliar na tomada de decisões. Ele é particularmente usado no desenvolvimento de IA em jogos onde algoritmos ou inteligência artificial são programados para aprender com e tomar decisões com base em experiências passadas ou uma árvore de decisão estabelecida. Essas decisões podem ser sobre comportamentos de jogo, interações do jogador, mudanças no ambiente e muito mais. Várias métodos como aprendizado por reforço, métodos bayesianos, árvores de decisão e redes neurais são usados para facilitar o aprendizado de decisões em desenvolvimento de jogos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Decision Learning in Game Development](https://medium.com/@alidrsn/game-development-with-ai-strategy-tools-and-examples-7ae77257c062)
+- [@artigo@Aprendizado de Decisão no Desenvolvimento de Jogos](https://medium.com/@alidrsn/game-development-with-ai-strategy-tools-and-examples-7ae77257c062)

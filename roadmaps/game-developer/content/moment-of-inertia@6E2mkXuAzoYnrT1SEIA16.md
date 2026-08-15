@@ -1,7 +1,7 @@
-# Moment of Inertia
+# Momento de Inércia
 
-The **moment of inertia**, also known as rotational inertia, is a measure of an object's resistance to changes to its rotation. In simpler terms, it's essentially how difficult it is to start or stop an object from spinning. It is determined by both the mass of an object and its distribution of mass around the axis of rotation. In the context of game development, the moment of inertia is crucial for creating realistic movements of characters, objects or vehicles within the game. This is particularly relevant in scenarios where the motion involves spinning or revolving entities. Calculating and applying these physics ensures a more immersive and believable gaming experience.
+O **momento de inércia**, também conhecido como inércia rotacional, é uma medida da resistência de um objeto a mudanças em sua rotação. Em termos mais simples, é essencialmente como difícil é iniciar ou parar um objeto de girar. Ele é determinado pela massa do objeto e pela distribuição de massa ao redor do eixo de rotação. No contexto da desenvolvimento de jogos, o momento de inércia é crucial para criar movimentos realistas dos personagens, objetos ou veículos dentro do jogo. Isso é particularmente relevante em cenários onde a movimentação envolve entidades que giram ou se revolvem. Calcular e aplicar essas físicas garante uma experiência de jogo mais imersiva e convincente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Moment of Inertia](https://en.wikipedia.org/wiki/Moment_of_inertia)
+- [@artigo@Momento de Inércia](https://en.wikipedia.org/wiki/Moment_of_inertia)

@@ -1,8 +1,8 @@
-# Light Source
+# Fonte de Luz
 
-In game development, a **light source** is a critical component that impacts the visual appeal and realism of the scene. It represents any object in the game scene that emits light, such as the sun, a lamp, or a torch. Light sources can be categorized as static or dynamic. Static light sources do not move or change throughout the game, while dynamic light sources can move and their properties can change in real-time. The properties of light sources that can be manipulated include intensity (how bright the light is), color, range (how far the light extends), direction, and type (point, directional, or spot). The lighting and shading effects are then computed based on these light source properties and how they interact with various objects in the game scene.
+No desenvolvimento de jogos, uma **fonte de luz** é um componente crucial que impacta a aparência visual e a realismo da cena. Representa qualquer objeto na cena do jogo que emite luz, como o sol, uma lanterna ou uma vela. As fontes de luz podem ser categorizadas como estáticas ou dinâmicas. As fontes de luz estáticas não se movem ou mudam ao longo do jogo, enquanto as fontes de luz dinâmicas podem se mover e suas propriedades podem mudar em tempo real. As propriedades das fontes de luz que podem ser manipuladas incluem intensidade (quão brilhante a luz é), cor, alcance (quão longe a luz se estende), direção e tipo (ponto, direcional ou ponteira). Os efeitos de iluminação e sombreado são então calculados com base nessas propriedades da fonte de luz e como elas interagem com diversos objetos na cena do jogo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@The Art of Game Lighting](https://3dskillup.com/effective-lighting-for-games/)
-- [@article@Lightning Game Environments](https://cgcookie.com/posts/art-of-lighting-game-environments)
+- [@artigo@A Arte da Iluminação em Jogos](https://3dskillup.com/effective-lighting-for-games/)
+- [@artigo@Iluminando Ambientes de Jogos](https://cgcookie.com/posts/art-of-lighting-game-environments)

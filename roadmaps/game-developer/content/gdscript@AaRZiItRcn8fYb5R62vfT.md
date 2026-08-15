@@ -1,8 +1,8 @@
 # GDScript
 
-GDScript is a high-level, dynamically-typed programming language designed specifically for the Godot Engine, an open-source game development platform. It is tailored for ease of use and rapid development of game logic and functionality. GDScript features a syntax similar to Python, which simplifies learning and coding for developers familiar with Python, while providing direct access to Godot's rich set of built-in functions and game-specific APIs. The language integrates closely with Godot's scene system and scripting environment, enabling developers to create and manipulate game objects, handle input, and control game behavior efficiently.
+GDScript é um linguagem de programação de alto nível e dinamicamente tipada projetada especificamente para o Motor Godot, uma plataforma de desenvolvimento de jogos open-source. Está otimizada para facilitar a usabilidade e o desenvolvimento rápido da lógica e funcionalidade dos jogos. GDScript possui uma sintaxe semelhante ao Python, simplificando o aprendizado e a codificação para os desenvolvedores familiarizados com Python, enquanto fornece acesso direto às ricas funções embutidas do Motor Godot e APIs específicas de jogos. A linguagem integra-se estreitamente com o sistema de cena e ambiente de script do Motor Godot, permitindo aos desenvolvedores criar e manipular objetos de jogo, lidar com entrada e controlar o comportamento dos jogos de forma eficiente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@GDScript Website](https://gdscript.com/)
-- [@video@How to program in Godot - GDScript Tutorial](https://www.youtube.com/watch?v=e1zJS31tr88)
+- [@site_oficial@Site oficial do GDScript](https://gdscript.com/)
+- [@vídeo@Como programar no Godot - Tutorial de GDScript](https://www.youtube.com/watch?v=e1zJS31tr88)

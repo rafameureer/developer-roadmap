@@ -1,8 +1,8 @@
-# Friction
+# Atrito
 
-`Friction` is a crucial concept in game dynamics. In the context of games, it's typically used to slow down or impede movement, providing a realistic feel to characters or objects movement. For example, when a player's character runs on a smooth surface as compared to a rough one, friction influences the speed and control of that character. It can be seen in how cars skid on icy surfaces, how walking speed changes depending on the terrain, or how a ball rolls and eventually slows. The equation to compute friction is usually `f = μN`, where `f` is the force of friction, `μ` is the coefficient of friction (which depends on the two surfaces interacting), and `N` is the normal force (which is generally the weight of the object). You can adjust the coefficient of friction in a game to have different effects depending upon the desired outcome.
+`Atrito` é um conceito crucial na dinâmica dos jogos. No contexto dos jogos, ele geralmente é usado para frear ou impedir o movimento, fornecendo um sentimento realista no movimento de personagens ou objetos. Por exemplo, quando um personagem do jogador corre em uma superfície lisa em comparação com uma rugosa, o atrito influencia a velocidade e o controle desse personagem. Pode ser visto como os carros escorregam em superfícies geladas, como a mudança na velocidade de andar dependendo da topografia ou como uma bola rola e eventualmente se esfria. A equação para calcular atrito geralmente é `f = μN`, onde `f` é a força de atrito, `μ` é o coeficiente de atrito (que depende das duas superfícies interagindo), e `N` é a força normal (geralmente o peso do objeto). Você pode ajustar o coeficiente de atrito em um jogo para ter diferentes efeitos dependendo do resultado desejado.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Friction in Game Dev](https://medium.com/@originallearguy/rub-the-right-way-applying-friction-in-game-design-122bd98de69d)
-- [@video@Friction](https://youtu.be/t1HWIoDUWXg?si=FmFsIGTSHpLS72vp)
+- [@artigo@Atrito no Desenvolvimento de Jogos](https://medium.com/@originallearguy/rub-the-right-way-applying-friction-in-game-design-122bd98de69d)
+- [@vídeo@Atrito](https://youtu.be/t1HWIoDUWXg?si=FmFsIGTSHpLS72vp)

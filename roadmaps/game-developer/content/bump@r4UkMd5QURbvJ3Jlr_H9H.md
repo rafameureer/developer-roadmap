@@ -1,9 +1,9 @@
 # Bump
 
-`Bump` is very similar to texture. It is, as a matter of fact, a type of texture itself. If you take the texture of a bricked wall, it will becoming increasingly obvious that the amount of detail present inside the wall, if geometrically processed would be incredibly demanding and wasteful. In order to combat this ineffeciency, the `bump` maps were created. Traditionally, a flat texture would just be an image of something called a `color map`, that is to say, where does each individual color of the pixel should be to represent a texture. When you take the picture of your floor, wall, or any object, that image in essence is the color map. The bump map is different as it informs the texture about it's `normal` values. So, if you take a flat 2D mesh and apply a bump map on it, it will render the same 2D mesh with all the normal values baked into the flat 2D mesh, creating a graphically effect mimicking 3-dimensionality.
+`Bump` é muito semelhante a texturas. Na verdade, é um tipo de textura em si. Se você pegar a textura de uma parede revestida com tijolos, vai se perceber gradualmente que a quantidade de detalhes presentes dentro da parede, se processados geometricamente, seria extremamente exigente e desperdiçoso. Para combater essa ineficiência, foram criadas as `bump maps`. Tradicionalmente, uma textura plana seria apenas uma imagem de algo chamado de `mapa de cor`, ou seja, onde cada cor individual do pixel deve estar para representar uma textura. Quando você tira a foto da sua chão, parede ou qualquer objeto, essa imagem na essência é o mapa de cor. O bump map é diferente porque informa à textura seus valores `normal`. Então, se você pegar uma malha 2D plana e aplicar um bump map nela, ela renderizará a mesma malha 2D com todos os valores normais incorporados na malha 2D plana, criando um efeito gráfico que simula a dimensionalidade tridimensional.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Bump Maps](https://developer.valvesoftware.com/wiki/Bump_map)
-- [@video@Normals, Normal maps and Bump maps](https://www.youtube.com/watch?v=l5PYyzsZED8)
-- [@video@Bump, normal and displacement](https://www.youtube.com/watch?v=43Ilra6fNGc)
+- [@artigo@Bump Maps](https://developer.valvesoftware.com/wiki/Bump_map)
+- [@vídeo@Normais, Mapas Normais e Bump Maps](https://www.youtube.com/watch?v=l5PYyzsZED8)
+- [@vídeo@Bump, Normal e Deslocamento](https://www.youtube.com/watch?v=43Ilra6fNGc)

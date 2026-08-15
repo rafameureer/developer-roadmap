@@ -1,7 +1,7 @@
-# Perspective
+# Perspectiva
 
-In game development, **Perspective** plays a significant role in creating a three-dimensional world on a two-dimensional space. It mimics the way our eyes perceive distance and depth, with objects appearing smaller as they go farther away. Essentially, this is achieved by projecting 3D co-ordinates on a virtual screen. Perspective projection is done in two types - one-point where only one axis displays a change in size with depth and two-point where both axis display a change. It creates more realistic views, enhancing game visualization and immersion. An important aspect is the player's viewpoint, which is the vanishing point where parallel lines converge in the distance.
+No desenvolvimento de jogos, a **Perspectiva** desempenha um papel significativo na criação de um mundo tridimensional em um espaço bidimensional. Ela simula a maneira como nossos olhos percebem distância e profundidade, com objetos aparecendo menores à medida que se afastam. Essencialmente, isso é alcançado projetando coordenadas 3D em uma tela virtual. A projeção perspectiva é feita em dois tipos - um-ponto onde apenas um eixo exibe uma mudança de tamanho com profundidade e dois-pontos onde ambos os eixos exibem uma mudança. Ele cria visualizações mais realistas, melhorando a visualização e imersão do jogo. Um aspecto importante é o ponto de vista do jogador, que é o ponto de desaparecimento onde as linhas paralelas se convergem à distância.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Perspective in Games](https://www.gamedeveloper.com/design/making-the-most-out-of-the-first-person-perspectives)
+- [@artigo@Perspectiva em Jogos](https://www.gamedeveloper.com/design/making-the-most-out-of-the-first-person-perspectives)

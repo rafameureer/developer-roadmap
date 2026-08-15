@@ -1,8 +1,8 @@
 # DBVT
 
-`DBVT` or `Dynamic Bounding Volume Tree` is an acceleration data structure that's primarily used in physics simulations like collision detection. It's a type of BVH (`Bounding Volume Hierarchy`), but the unique aspect of a DBVT is its handling of dynamic objects. As the name suggests, it's specifically designed to efficiently handle changing scenarios, such as objects moving or environments evolving, better than a typical BVH. Unlike a static BVH, a DBVT dynamically updates the tree as objects move, maintaining efficiency of collision queries. It primarily does this through tree rotations and refitting bounding volumes rather than fully rebuilding the tree. This makes DBVT a highly appealing option for scenarios with considerable dynamics.
+`DBVT` ou `Dynamic Bounding Volume Tree` é uma estrutura de dados de aceleração que é principalmente usada em simulações físicas como detecção de colisão. É um tipo de BVH (`Bounding Volume Hierarchy`), mas a característica única do DBVT é seu tratamento de objetos dinâmicos. Como o nome sugere, ele foi especificamente projetado para lidar eficientemente com cenários em mudança, como objetos se movendo ou ambientes evoluindo, melhor que um BVH típico. Diferentemente de um BVH estático, o DBVT atualiza dinamicamente a árvore conforme os objetos se movem, mantendo a eficiência das consultas de colisão. Ele faz isso principalmente através da rotação da árvore e ajuste dos volumes delimitadores em vez de reconstruir completamente a árvore. Isso torna o DBVT uma opção altamente atraente para cenários com dinâmica significativa.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@DBVT](https://sopiro.github.io/DynamicBVH/)
-- [@article@Dynamic Bounding Volume Hierarchies](https://box2d.org/files/ErinCatto_DynamicBVH_Full.pdf)
+- [@artigo@DBVT](https://sopiro.github.io/DynamicBVH/)
+- [@artigo@Hierarquias de Volume Delimitador Dinâmicas](https://box2d.org/files/ErinCatto_DynamicBVH_Full.pdf)

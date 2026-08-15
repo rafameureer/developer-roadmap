@@ -1,8 +1,8 @@
 # DirectX
 
-**DirectX** is a collection of Application Programming Interfaces (APIs) developed by Microsoft to handle tasks related to multimedia, especially game programming and video, on Microsoft platforms. It was first introduced in 1995 and has become a crucial component for PC gaming. DirectX serves as an intermediary between a hardware and a software, managing the state of the hardware and giving commands to it. Some technologies under DirectX includes Direct3D for 3D graphics, DirectDraw for 2D graphics, DirectSound for sound, and DirectInput for interfacing with input devices such as keyboard and mouse.
+**DirectX** é uma coleção de Interfaces de Programação de Aplicativos (APIs) desenvolvidas pela Microsoft para lidar com tarefas relacionadas a mídia, especialmente programação de jogos e vídeo, em plataformas da Microsoft. Foi introduzido pela primeira vez em 1995 e se tornou um componente crucial para jogos PC. O DirectX atua como uma intermediária entre hardware e software, gerenciando o estado do hardware e dando comandos a ele. Alguns tecnologias sob DirectX incluem Direct3D para gráficos tridimensionais, DirectDraw para gráficos bidimensionais, DirectSound para som e DirectInput para interface com dispositivos de entrada como teclado e mouse.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Microsoft's DirectX](https://visualstudio.microsoft.com/vs/features/directx-game-dev/)
-- [@official@Learn DirectX](https://learn.microsoft.com/en-us/shows/introduction-to-c-and-directx-game-development/)
+- [@oficial@Microsoft's DirectX](https://visualstudio.microsoft.com/vs/features/directx-game-dev/)
+- [@oficial@Aprenda DirectX](https://learn.microsoft.com/en-us/shows/introduction-to-c-and-directx-game-development/)

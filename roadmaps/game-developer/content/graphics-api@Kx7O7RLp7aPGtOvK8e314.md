@@ -1,7 +1,7 @@
-# Graphics API
+# API Gráfica
 
-A Graphics API (Application Programming Interface) is a collection of commands, functions, protocols, and tools that game developers use to build games. It forms an interface between the game and the hardware of the device, usually a computer or console, and assists in rendering 2D and 3D graphics performance. Complex tasks such as drawing polygons, texturing, or lighting are encapsulated in a more manageable, higher-level process by the API. Common examples are Vulkan, DirectX, OpenGL, and Metal. Each one varies in availability and performance across different platforms and devices and has unique features that can be utilized for game development.
+Uma API de Gráficos (Interface de Programação de Aplicativos) é uma coleção de comandos, funções, protocolos e ferramentas que os desenvolvedores de jogos usam para construir jogos. Ela forma uma interface entre o jogo e a hardware do dispositivo, geralmente um computador ou console, e ajuda na renderização desempenho gráfico 2D e 3D. Tarefas complexas como desenhar polígonos, texturização ou iluminação são encapsuladas em um processo mais gerenciável e de nível superior pela API. Exemplos comuns incluem Vulkan, DirectX, OpenGL e Metal. Cada uma delas varia em disponibilidade e desempenho em diferentes plataformas e dispositivos e tem características únicas que podem ser utilizadas na desenvolvimento de jogos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Graphics API in Unity](https://docs.unity3d.com/2022.3/Documentation/ScriptReference/PlayerSettings.SetGraphicsAPIs.html)
+- [@article@API Gráfica no Unity](https://docs.unity3d.com/2022.3/Documentation/ScriptReference/PlayerSettings.SetGraphicsAPIs.html)

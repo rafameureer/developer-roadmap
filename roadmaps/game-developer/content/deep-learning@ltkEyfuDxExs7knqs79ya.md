@@ -1,10 +1,10 @@
-# Deep Learning
+# Aprendizado Profundo
 
-Deep Learning is a sub-field of machine learning, inspired by the structure and function of the human brain, specifically designed to process complex input/output transformations. It uses artificial neural networks with many layers (hence the term 'deep' learning) to model complex, non-linear hypotheses and discover hidden patterns within large datasets. Deep learning techniques are crucial in game development, primarily in creating intelligent behaviors and features in gaming agents, procedural content generation, and player profiling. You might have heard about the uses of deep learning technologies in popular, cutting-edge games like Google DeepMind's AlphaGo. Coding languages like Python, R, and frameworks like TensorFlow, Keras, and PyTorch are commonly used for deep learning tasks. Learning Deep Learning can be a prominent game-changer in your game development journey.
+O Aprendizado Profundo é um subcampo do aprendizado de máquina, inspirado na estrutura e função do cérebro humano, especificamente projetado para processar transformações complexas de entrada/saída. Ele usa redes neurais artificiais com muitas camadas (por isso o termo 'aprendizado profundo') para modelar hipóteses complexas e não-lineares e descobrir padrões ocultos em grandes conjuntos de dados. Técnicas de aprendizado profundo são cruciais no desenvolvimento de jogos, principalmente na criação de comportamentos inteligentes e recursos em agentes de jogo, geração de conteúdo procedural e perfilamento do jogador. Você pode ter ouvido falar sobre o uso de tecnologias de aprendizado profundo em jogos populares e de ponta como AlphaGo da Google DeepMind.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Deep Learning](https://en.wikipedia.org/wiki/Deep_learning)
-- [@article@Deep Learning Book](https://www.deeplearningbook.org/)
-- [@article@Introduction to Deep Learning](https://www.ibm.com/topics/deep-learning)
-- [@video@What is a Neural Network?](https://www.youtube.com/watch?v=aircAruvnKk)
+- [@artigo@Aprendizado Profundo](https://en.wikipedia.org/wiki/Deep_learning)
+- [@artigo@Livro de Aprendizado Profundo](https://www.deeplearningbook.org/)
+- [@artigo@Introdução ao Aprendizado Profundo](https://www.ibm.com/topics/deep-learning)
+- [@vídeo@O que é uma Rede Neural?](https://www.youtube.com/watch?v=aircAruvnKk)

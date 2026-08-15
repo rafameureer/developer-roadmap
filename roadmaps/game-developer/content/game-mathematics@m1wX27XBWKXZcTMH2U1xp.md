@@ -1,7 +1,7 @@
-# Game Mathematics
+# Matemática em Jogos
 
-"Game Mathematics" is a critical aspect of game development that deals with the use of mathematical concepts to create and control game mechanics. This involves areas such as geometry for 3D modelling, logic for game rules, algebra for scoring systems, and trigonometry for movements or trajectories. Understanding game mathematics enables developers to implement features like physics simulation, AI behaviours, and procedural generation. Advanced topics include complex calculations for graphics (e.g., shaders, lighting) and calculus for continuous animation or advanced physics. The mathematical complexity depends on the game's demands, but a solid foundation is crucial for any game developer.
+"Matemática em Jogos" é um aspecto crucial do desenvolvimento de jogos que lida com o uso de conceitos matemáticos para criar e controlar mecanismos de jogo. Isso envolve áreas como geometria para modelagem 3D, lógica para regras de jogo, álgebra para sistemas de pontuação e trigonometria para movimentos ou trajetórias. Entender a matemática em jogos permite aos desenvolvedores implementar recursos como simulação física, comportamentos de IA e geração procedural. Tópicos avançados incluem cálculos complexos para gráficos (por exemplo, shaders, iluminação) e cálculo para animação contínua ou física avançada. A complexidade matemática depende das demandas do jogo, mas uma base sólida é crucial para qualquer desenvolvedor de jogos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Game Math](https://gamemath.com/book/intro.html)
+- [@artigo@Matemática em Jogos](https://gamemath.com/book/intro.html)

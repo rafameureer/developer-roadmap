@@ -1,7 +1,7 @@
-# Convex Decomposition
+# Decomposição Convexa
 
-`Convex Decomposition` represents a process within game development that involves breaking down complex, concave shapes into simpler, convex shapes. This technique considerably simplifies the computation involved in collision detection, a critical aspect of any game development project that involves physical simulations. In concrete terms, a concave shape has one or more parts that 'cave in' or have recesses, while a convex shape has no such depressions - in simplistic terms, it 'bulges out' with no interior angles exceeding 180 degrees. So, Convex decomposition is essentially a process of breaking down a shape with 'caves' or 'recesses' into simpler shapes that only 'bulge out'.
+A `Decomposição Convexa` representa um processo dentro do desenvolvimento de jogos que envolve a decomposição de formas complexas e concavas em formas mais simples e convexas. Esta técnica simplifica significativamente o cálculo envolvido na detecção de colisão, um aspecto crucial de qualquer projeto de desenvolvimento de jogos que envolva simulações físicas. Em termos concretos, uma forma concava tem uma ou mais partes que 'cavam' ou têm recessos, enquanto uma forma convexa não possui tais depressões - em termos simplificados, ela 'protrai' com nenhum ângulo interno excedendo 180 graus. Portanto, a decomposição convexa é essencialmente um processo de quebrar uma forma com 'cavidades' ou 'recessos' em formas mais simples que apenas 'protrai'.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Convex Decomposition for 3D](https://colin97.github.io/CoACD/)
+- [@artigo@Decomposição Convexa para 3D](https://colin97.github.io/CoACD/)

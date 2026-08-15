@@ -1,8 +1,8 @@
-# Visual Perception
+# Percepção Visual
 
-Visual Perception is a fundamental aspect of game development, widely explored within the field of computer graphics. It involves the ability to interpret and understand the visual information that our eyes receive, essential to create immersive and dynamic visual experiences in games. The study involves the understanding of light, color, shape, form, depth, and motion, among others, which are key elements to create aesthetically pleasing and engaging graphics. Making full use of visual perception allows the game developers to control and manipulate how the gamers interact with and experience the game world, significantly enhancing not only the visual appeal but also the overall gameplay.
+A Percepção Visual é um aspecto fundamental do desenvolvimento de jogos, amplamente explorado no campo da gráfica computacional. Envolve a capacidade de interpretar e entender as informações visuais que nossos olhos recebem, essencial para criar experiências visuais imersivas e dinâmicas em jogos. A pesquisa envolve o entendimento da luz, das cores, das formas, dos formatos, das profundidades e dos movimentos, entre outros, que são elementos-chave para criar gráficos atraentes e engajantes. Usar plenamente a percepção visual permite ao desenvolvedor de jogos controlar e manipular como os jogadores interagem e experimentam o mundo do jogo, significativamente melhorando tanto a aparência visual quanto o desempenho geral.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Visual Psychology and Perception](https://www.gamedeveloper.com/design/it-s-all-in-your-mind-visual-psychology-and-perception-in-game-design)
-- [@article@Expanding the Video Game Concept](https://link.springer.com/chapter/10.1007/978-3-030-45545-3_7)
+- [@artigo@Psicologia Visual e Percepção](https://www.gamedeveloper.com/design/it-s-all-in-your-mind-visual-psychology-and-perception-in-game-design)
+- [@artigo@Expandindo o Conceito de Jogo de Vídeo](https://link.springer.com/chapter/10.1007/978-3-030-45545-3_7)

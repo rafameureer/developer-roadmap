@@ -1,11 +1,11 @@
-# Programming Languages
+# Linguagens de Programação
 
-Programming languages are very crucial to game development as they are the backbone of game design and functionality. A variety of languages can be used, but some are more commonly preferred in the industry due to their robustness and efficiency. The most popular ones include C++, C#, and Java. **C++**, a high-level language primarily used for developing video games, is known for its speed and efficiency. **C#**, which was developed by Microsoft, is extensively used with the Unity game engine to develop multi-platform games. **Java** is well-established in the sector as well, and it often utilized in the development of Android games. It's pivotal for a game developer to select a language that aligns with the project's requirements and nature. Despite the programming language you choose, a deep understanding of its constructs, logic, and capabilities is required for successful game development.
+As linguagens de programação são cruciais para o desenvolvimento de jogos, pois servem como a base da design e funcionalidade dos jogos. Muitas linguagens podem ser usadas, mas algumas são mais comumente preferidas na indústria devido à sua robustez e eficiência. As mais populares incluem C++, C# e Java. **C++**, uma linguagem de alto nível principalmente usada para desenvolver jogos de vídeo, é conhecida por sua velocidade e eficiência. **C#**, que foi desenvolvida pela Microsoft, é amplamente usado com o motor de jogo Unity para desenvolver jogos multiplataforma. **Java** também é bem estabelecido no setor e é frequentemente utilizado na desenvolvimento de jogos Android. É essencial para um desenvolvedor de jogos escolher uma linguagem que alinhe com as necessidades e natureza do projeto. Independentemente da linguagem de programação que você escolha, é necessário ter uma compreensão profunda de suas construções, lógica e capacidades para o sucesso no desenvolvimento de jogos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit Dedicated C++ Roadmap](https://roadmap.sh/cpp)
-- [@roadmap@Visit Dedicated Rust Roadmap](https://roadmap.sh/rust)
-- [@roadmap@Visit Dedicated Java Roadmap](https://roadmap.sh/java)
-- [@article@Learn Game Development with C++](https://learn.microsoft.com/en-us/cpp/overview/game-development-cpp?view=msvc-170)
-- [@article@Building Games with Rust](https://rustmeup.com/building-games-with-rust)
+- [@roadmap@Visite a Rota C++ dedicada](https://roadmap.sh/cpp)
+- [@roadmap@Visite a Rota Rust dedicada](https://roadmap.sh/rust)
+- [@roadmap@Visite a Rota Java dedicada](https://roadmap.sh/java)
+- [@article@Aprenda o Desenvolvimento de Jogos com C++](https://learn.microsoft.com/en-us/cpp/overview/game-development-cpp?view=msvc-170)
+- [@article@Construindo Jogos com Rust](https://rustmeup.com/building-games-with-rust)

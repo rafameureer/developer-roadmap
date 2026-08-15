@@ -4,7 +4,7 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 
 ---
 
-> ⚠️ **Total de itens sinalizados:** 990
+> ⚠️ **Total de itens sinalizados:** 1020
 
 | Arquivo / Tópico | Motivo da Sinalização | Data/Hora |
 |---|---|---|
@@ -998,3 +998,33 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 | `roadmaps/full-stack/content/checkpoint--monitoring@NQmEl27eBPYhivcXdOEz3.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:14:49.178088 |
 | `roadmaps/full-stack/content/checkpoint--simple-crud-apps@3EtGLO6cwkLc1-o9gwFNk.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:14:54.432394 |
 | `roadmaps/full-stack/content/vpc@QtL-bLKtWIdH00K6k_PdC.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:16:27.249565 |
+| `roadmaps/game-developer/content/computer-animation@1RdyzTI_TXqmct2bIbNh9.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:19:20.815647 |
+| `roadmaps/game-developer/content/concave@jslk7Gy58VspO1uXGDgBp.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:19:33.013136 |
+| `roadmaps/game-developer/content/epa@vWLKYK2KUzV1fO-vQunzW.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:21:42.130832 |
+| `roadmaps/game-developer/content/euler-angle@L0J2kvveJNsmN9ueXhqKf.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:21:47.683819 |
+| `roadmaps/game-developer/content/frustum@UcLGWYu41Ok2NYdLNIY5C.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:22:23.766119 |
+| `roadmaps/game-developer/content/fuzzy-logic@4ZCVUpYrCT14d_JULulLe.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:22:28.154120 |
+| `roadmaps/game-developer/content/game-ai@Hpf_CPmLpCSP8Qo07Kq1X.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:22:32.186576 |
+| `roadmaps/game-developer/content/gjk@lwd3Gz9bJEKCIwhXD6m-v.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:23:24.638864 |
+| `roadmaps/game-developer/content/glsl@j8mWMFMQCEIPUzegDDsm1.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:23:28.692732 |
+| `roadmaps/game-developer/content/hermite@m4AuHjEBnHS0wyATG-I1Z.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:24:07.783985 |
+| `roadmaps/game-developer/content/hlsl@wYUDJb-q1rtM4w2QV3Wr1.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:24:12.286772 |
+| `roadmaps/game-developer/content/horizon@9cBOfj58I4hBlxlQIyV9g.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:24:15.639109 |
+| `roadmaps/game-developer/content/lighting-and-shadow@DDN3mn0LTueBhjRzXFcbU.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:25:13.841036 |
+| `roadmaps/game-developer/content/linear-algebra@grRf-MmaXimDB4iODOV47.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:25:20.422415 |
+| `roadmaps/game-developer/content/linear-transformation@XABzEU9owCx9-zw1id9xU.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:25:25.221044 |
+| `roadmaps/game-developer/content/matrix@Kg6Mg9ieUUGXWX9Lai7B0.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:25:56.709791 |
+| `roadmaps/game-developer/content/mcts@QD9TfZn3yhGPVwiyJ6d0V.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:26:00.864963 |
+| `roadmaps/game-developer/content/metal@oEznLciLxZJaulMlBGgg4.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:26:01.790155 |
+| `roadmaps/game-developer/content/quaternion@zPs_LlDvkfxvvCrk5fXB2.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:28:29.226978 |
+| `roadmaps/game-developer/content/rasterization@vYNj9nzu90e9xlrzHULnP.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:28:33.902943 |
+| `roadmaps/game-developer/content/ray-tracing@JW5c_0JEtO-OiBoXUia6A.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:28:39.129507 |
+| `roadmaps/game-developer/content/real-time-ray-tracing@_i7BXZq-iLxQc3QZRMees.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:29:03.432082 |
+| `roadmaps/game-developer/content/reflection@eI2jym4AAz3ani-lreSKE.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:29:09.804028 |
+| `roadmaps/game-developer/content/reinforcements-learning@rGEHTfdNeBAX3_XqC-vvI.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:29:15.012977 |
+| `roadmaps/game-developer/content/shadow-map@ygtru6fqQ3gpFZRN_I8rP.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:30:11.832387 |
+| `roadmaps/game-developer/content/shadow@lqfW8hkuN3vWtacrqBBtI.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:30:15.584961 |
+| `roadmaps/game-developer/content/sort--sweep@STdvFYM9V0a36IkPXjvrB.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:30:20.955597 |
+| `roadmaps/game-developer/content/translucency--transparency@PuhXaRZ-Ql5PCqzMyz3en.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:31:34.936253 |
+| `roadmaps/game-developer/content/unity-3d@rNeOti8DDyWTMP9FB9kJ_.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:31:40.501104 |
+| `roadmaps/game-developer/content/unreal-engine@a6H-cZtp3A_fB8jnfMxBR.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:31:46.530824 |

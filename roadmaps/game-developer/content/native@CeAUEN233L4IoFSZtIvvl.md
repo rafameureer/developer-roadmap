@@ -1,10 +1,10 @@
-# Native
+# Nativo
 
-You don't necessarily have to use tools like Unreal, Unity3d, or Godot to make games. You can also use native languages like C++ or Rust to make games. However, you will have to do a lot of work yourself, and you will have to learn a lot of things that are already done for you in game engines.
+Você não precisa necessariamente usar ferramentas como Unreal, Unity3d ou Godot para fazer jogos. Você também pode usar linguagens nativas como C++ ou Rust para fazer jogos. No entanto, terá que fazer muito trabalho por conta própria e aprender muitas coisas que já são feitas por você em motores de jogos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit Dedicated C++ Roadmap](https://roadmap.sh/cpp)
-- [@roadmap@Visit Dedicated Rust Roadmap](https://roadmap.sh/rust)
-- [@article@Learn Game Development with C++](https://learn.microsoft.com/en-us/cpp/overview/game-development-cpp?view=msvc-170)
-- [@article@Building Games with Rust](https://rustmeup.com/building-games-with-rust)
+- [@roadmap@Visite o Caminho Dedicado do C++](https://roadmap.sh/cpp)
+- [@roadmap@Visite o Caminho Dedicado do Rust](https://roadmap.sh/rust)
+- [@artigo@Aprenda Desenvolvimento de Jogos com C++](https://learn.microsoft.com/en-us/cpp/overview/game-development-cpp?view=msvc-170)
+- [@artigo@Construindo Jogos com Rust](https://rustmeup.com/building-games-with-rust)

@@ -1,7 +1,7 @@
-# Stencil Shadow
+# Sombra de Stencil
 
-`Stencil shadows` are a technique used in 3D computer graphics for creating shadows. The stencil shadow algorithm operates by treating a shadow as a 3D volume of space, known as a shadow volume. Any part of the scene that lies inside this shadow volume will be in shadow. If it lies outside the shadow volume, it will be in light. The shadow volume is created by extruding the polygonal silhouette of a 3D object into space along the lines of sight from the light source. For equivalent complex objects, the number of edges or vertices to fill the stencil buffer will generally be less than the number of pixels needed to compute shadow maps, making stencil shadows more efficient in that regard. However, the shadows produced by this technique can look blocky or unrealistic if not further refined.
+As `sombras de stencil` são uma técnica utilizada em gráficos computacionais 3D para criar sombras. O algoritmo de sombra de stencil opera tratando a sombra como um volume tridimensional de espaço, conhecido como volume de sombra. Qualquer parte da cena que esteja dentro deste volume de sombra estará em sombra. Se estiver fora do volume de sombra, estará na luz. O volume de sombra é criado extrudando a silhueta poligonal de um objeto 3D no espaço pelas linhas de visão da fonte de luz. Para objetos complexos equivalentes, o número de arestas ou vértices para preencher o buffer de stencil geralmente será menor que o número de pixels necessários para calcular mapas de sombra, tornando as sombras de stencil mais eficientes nesse aspecto. No entanto, as sombras produzidas por essa técnica podem parecer bloqueadas ou realistas se não forem refinadas adicionalmente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Stencil Shadows Implementation](https://devforum.roblox.com/t/stencil-shadows-implementation/2079287)
+- [@artigo@Implementação de Sombras de Stencil](https://devforum.roblox.com/t/stencil-shadows-implementation/2079287)

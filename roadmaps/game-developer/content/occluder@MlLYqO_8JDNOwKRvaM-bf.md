@@ -1,8 +1,8 @@
 # Occluder
 
-An **Occluder** in game development is basically a tool or method used to hide other objects in the game environment. When a certain object, which is known as the occluder, blocks the line of sight to another object from the camera's perspective, the hidden or blocked object does not need to be rendered. This object could be anything from a building to a terrain feature. The process of managing these occluders is known as occlusion culling. The purpose of using occluders is to optimize the game and improve its performance by reducing unnecessary rendering workload. However, it's important to note that setting up occluders requires careful planning to ensure that it does not impact the gameplay or visual quality.
+Um **Occluder** em desenvolvimento de jogos é, essencialmente, uma ferramenta ou método usado para ocultar outros objetos no ambiente do jogo. Quando um certo objeto, conhecido como occluder, bloqueia a linha de visão para outro objeto da perspectiva da câmera, o objeto oculto ou bloqueado não precisa ser renderizado. Esse objeto pode ser qualquer coisa desde uma edificação até uma característica de terreno. O processo de gerenciamento desses occluders é conhecido como culling de occlusão. O propósito de usar occluders é otimizar o jogo e melhorar seu desempenho reduzindo a carga de trabalho desnecessária de renderização. No entanto, é importante notar que configurar occluders requer planejamento cuidadoso para garantir que não impacte na jogabilidade ou qualidade visual.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Occluder and How to Use Them](https://80.lv/articles/occluders-and-how-to-use-them-for-level-design/)
-- [@article@Occlusion Culling Tutorial](https://thegamedev.guru/unity-performance/occlusion-culling-tutorial/)
+- [@artigo@Occluder e Como Usá-los](https://80.lv/articles/occluders-and-how-to-use-them-for-level-design/)
+- [@artigo@Tutorial de Culling de Occlusão](https://thegamedev.guru/unity-performance/occlusion-culling-tutorial/)

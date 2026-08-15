@@ -1,8 +1,8 @@
-# Artificial Neutral Network
+# Rede Neural Artificial
 
-Artificial Neural Networks (ANN) are a branch of machine learning that draw inspiration from biological neural networks. ANNs are capable of 'learning' from observational data, thereby enhancing game development in numerous ways. They consist of interconnected layers of nodes, or artificial neurons, that process information through their interconnected network. Each node's connection has numerical weight that gets adjusted during learning, which helps in optimizing problem solving. ANNs are utilized in various aspects of game development, such as improving AI behavior, procedural content generation, and game testing. They can also be used for image recognition tasks, such as identifying objects or actions in a game environment.
+As Redes Neurais Artificiais (RNA) são uma ramificação do aprendizado de máquina que se inspira em redes neurais biológicas. As RNAs conseguem 'aprender' a partir de dados observacionais, o que as torna úteis em várias maneiras no desenvolvimento de jogos. Elas consistem em camadas interconectadas de nós, ou neurônios artificiais, que processam informações através da sua rede interconectada. Cada conexão entre os nós tem um peso numérico que é ajustado durante o aprendizado, o que ajuda na otimização do problema de resolução. As RNAs são utilizadas em várias partes do desenvolvimento de jogos, como melhorar o comportamento da inteligência artificial, a geração de conteúdo procedural e os testes de jogos. Elas também podem ser usadas para tarefas de reconhecimento de imagem, como identificar objetos ou ações em um ambiente de jogo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is ANN?](https://www.coursera.org/articles/artificial-neural-network)
-- [@article@What is Neural Network?](https://www.ibm.com/topics/neural-networks)
+- [@artigo@O que é RNA?](https://www.coursera.org/articles/artificial-neural-network)
+- [@artigo@O que é Rede Neural?](https://www.ibm.com/topics/neural-networks)

@@ -1,8 +1,8 @@
-# Vulkan Ray Tracing
+# Ray Tracing com Vulkan
 
-`Vulkan Ray Tracing` is an extension of the Vulkan API (Application Programming Interface), which is an open-source, cross-platform API developed by the Khronos Group. Its main goal is to provide developers with greater control over the GPU, enabling better performance and more efficient multisystem and multicore use. The Vulkan Ray Tracing extension provides a standardized ray tracing interface similar to DirectX Raytracing, enabling real-time ray tracing applications to be built on Vulkan. This extension includes a number of functionalities such as acceleration structure building and management, ray tracing shader stages and pipelines, and indirect ray tracing dispatch.
+`Ray Tracing com Vulkan` é uma extensão da API Vulkan (Interface de Programação de Aplicativos), que é uma API de código aberto e multiplataforma desenvolvida pela Khronos Group. Seu objetivo principal é fornecer aos desenvolvedores maior controle sobre a GPU, permitindo melhor desempenho e uso mais eficiente de sistemas multicore e multiprocessador. A extensão Vulkan Ray Tracing fornece uma interface padrão de ray tracing semelhante ao DirectX Raytracing, permitindo que aplicações de ray tracing em tempo real sejam construídas com Vulkan. Esta extensão inclui várias funcionalidades como a construção e gerenciamento de estruturas de acelerção, estágios e pipelines de shader de ray tracing, e disparo indireto de ray tracing.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Ray Tracing with Vulkan](https://docs.vulkan.org/guide/latest/extensions/ray_tracing.html)
-- [@article@NVIDIA Vulkan Ray Tracing Tutorial](https://developer.nvidia.com/rtx/raytracing/vkray)
+- [@oficial@Ray Tracing com Vulkan](https://docs.vulkan.org/guide/latest/extensions/ray_tracing.html)
+- [@artigo@Tutorial NVIDIA Vulkan Ray Tracing](https://developer.nvidia.com/rtx/raytracing/vkray)

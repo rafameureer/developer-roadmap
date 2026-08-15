@@ -1,7 +1,7 @@
-# Sampling
+# Amostragem
 
-**Sampling** in computer graphics is a method used to convert a continuous mathematical function (image, signal, light and sound), into a discrete digital representation. The process is done by taking snapshots at regular intervals which are also known as samples, and it's this that gives us the concept of 'sampling'. Some common types of sampling techniques include: uniform sampling (evenly spaced samples), random sampling (samples taken at random intervals), and jittered sampling (a compromise between uniform and random sampling). The higher the sampling rate, the more accurately the original function can be reconstructed from the discrete samples. Effective sampling is a significant aspect of achieving realistic computer graphics.
+**Amostragem** em gráficos computacionais é um método usado para converter uma função matemática contínua (imagem, sinal, luz e som) em uma representação digital discreta. O processo é feito tirando instantâneos a intervalos regulares, que também são conhecidos como amostras, e é isso que nos dá o conceito de 'amostragem'. Alguns tipos comuns de técnicas de amostragem incluem: amostragem uniforme (amostras espalhadas igualmente), amostragem aleatória (amostras tomadas a intervalos aleatórios) e amostragem jittered (um equilíbrio entre a amostragem uniforme e aleatória). Quanto maior a taxa de amostragem, mais precisamente a função original pode ser reconstruída das amostras discretas. A amostragem eficaz é um aspecto significativo para alcançar gráficos computacionais realistas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Textures and Sampling](https://cglearn.eu/pub/computer-graphics/textures-and-sampling)
+- [@artigo@Texturas e Amostragem](https://cglearn.eu/pub/computer-graphics/textures-and-sampling)

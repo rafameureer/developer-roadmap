@@ -1,7 +1,7 @@
-# Cube
+# Cubo
 
-In computer graphics, "cube" in the context of shadows often refers to using a cube-shaped object to visualize the concept of a "shadow volume." Imagine a light source shining on a cube. The silhouette of the cube from the light's perspective, extended infinitely outwards, forms a volume. Any object inside this "shadow volume" is considered to be in shadow. While helpful for understanding, shadow volumes themselves are not always shaped like cubes - their complexity depends on the object casting the shadow.
+No gráfico computacional, "cubo" no contexto de sombras frequentemente se refere ao uso de um objeto cúbico para visualizar o conceito de uma "volume de sombra". Imagine uma fonte de luz projetando sobre um cubo. A silhueta do cubo da perspectiva da luz, estendida infinitamente para fora, forma um volume. Qualquer objeto dentro deste "volume de sombra" é considerado estar em sombra. Embora útil para entender, os volumes de sombra em si não são sempre formados como cúbicos - sua complexidade depende do objeto que lança a sombra.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Draw a Cube](https://dev-tut.com/2022/unity-draw-a-debug-cube/)
+- [@artigo@Desenhe um Cubo](https://dev-tut.com/2022/unity-draw-a-debug-cube/)

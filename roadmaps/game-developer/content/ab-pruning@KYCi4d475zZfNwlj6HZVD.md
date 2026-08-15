@@ -1,8 +1,8 @@
 # AB Pruning
 
-`Alpha-Beta pruning` is an optimization technique for the minimax algorithm used in artificial intelligence (AI) programming, such as game development. It cuts off branches in the game tree that don't need to be searched because there's already a better move available. It uses two parameters, alpha and beta, which represent the minimum score that the maximizing player is assured of and the maximum score that the minimizing player is assured of, respectively. During the traversal of the game tree, branches of the tree that cannot possibly influence the final decision are not explored. This process 'prunes' the minimax tree, saving computational time and resources.
+`Alpha-Beta pruning` é uma técnica de otimização para o algoritmo minimax usado em programação de inteligência artificial (IA), como no desenvolvimento de jogos. Ele corta ramos na árvore do jogo que não precisam ser pesquisados porque já há um movimento melhor disponível. Ele usa dois parâmetros, alpha e beta, que representam a pontuação mínima que o jogador maximizante está garantido de obter e a pontuação máxima que o jogador minimizante está garantido de obter, respectivamente. Durante a navegação pela árvore do jogo, ramos da árvore que não podem possivelmente influenciar a decisão final não são explorados. Esse processo 'corta' a árvore minimax, economizando tempo computacional e recursos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@AB Pruning](https://en.wikipedia.org/wiki/Alpha-beta_pruning)
-- [@article@Alpha-Beta Pruning: A Deep Dive into its History](https://dev.to/vedantasati03/alpha-beta-pruning-a-deep-dive-into-its-history-implementation-and-functionality-4ojf)
+- [@artigo@AB Pruning](https://en.wikipedia.org/wiki/Alpha-beta_pruning)
+- [@artigo@Alpha-Beta Pruning: Uma Profundidade de Vida em sua História](https://dev.to/vedantasati03/alpha-beta-pruning-a-deep-dive-into-its-history-implementation-and-functionality-4ojf)

@@ -1,7 +1,7 @@
 # Parallax
 
-In game development and graphics, parallax refers to the apparent displacement or difference in the apparent position of an object viewed along two different lines of sight, and is measured by the angle or semi-angle of inclination between those two lines. In simpler terms, parallax is a technique used to create the illusion of depth in 2D environments by moving background layers at different speeds relative to the foreground.
+No desenvolvimento de jogos e gráficos, parallax refere-se à deslocamento aparente ou diferença na posição aparente de um objeto visto em duas linhas de visão diferentes, e é medida pelo ângulo ou semiângulo de inclinação entre essas duas linhas. Em termos mais simples, o parallax é uma técnica usada para criar a ilusão de profundidade em ambientes 2D movendo camadas de fundo em velocidades diferentes em relação à frente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Parallax Effect](https://www.encora.com/insights/how-to-take-advantage-of-parallax-in-programming-and-video-games)
+- [@artigo@Efeito Parallax](https://www.encora.com/insights/how-to-take-advantage-of-parallax-in-programming-and-video-games)

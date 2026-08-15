@@ -1,7 +1,7 @@
-# Movement
+# Movimento
 
-In the context of game development and game API (Application Programming Interface), movement refers to the process of changing the position or orientation of game objects. This involves using programming functions to control objects' movement like walk, run, jump, fly, or any such physical action in the game world. Movement is at the core to creating the dynamics of a game and is critical to both game physics and game logic. Different game engines offer different ways for handling movement. In some APIs, this process could be as simple as setting a new position directly, such as `object.position = new Vector3(5, 10, 0)`. Meanwhile, in others, more complex methods involving real-world physics are required, such as applying forces or altering velocity.
+No contexto do desenvolvimento de jogos e da API de jogo (Interface de Programação de Aplicativos), o movimento refere-se ao processo de alterar a posição ou orientação dos objetos de jogo. Isso envolve o uso de funções de programação para controlar os movimentos dos objetos, como caminhar, correr, pular, voar ou qualquer outra ação física no mundo do jogo. O movimento é fundamental para criar as dinâmicas de um jogo e é crucial tanto para as físicas do jogo quanto para a lógica do jogo. Diferentes motores de jogos oferecem diferentes maneiras de lidar com o movimento. Em algumas APIs, esse processo pode ser tão simples quanto definir uma nova posição diretamente, como `objeto.posição = novo Vector3(5, 10, 0)`. Por outro lado, em outras, métodos mais complexos envolvendo física do mundo real são necessários, como aplicar forças ou alterar a velocidade.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Movement in Games](https://www.gamedeveloper.com/design/analyzing-core-character-movement-in-3d)
+- [@artigo@Movimento nos Jogos](https://www.gamedeveloper.com/design/analyzing-core-character-movement-in-3d)

@@ -1,8 +1,8 @@
-# Mapping
+# Mapeamento
 
-"Mapping" in game development, especially in the context of shaders, predominantly refers to Texture Mapping and Normal Mapping. **Texture Mapping** is the application of a texture (an image or colour data) onto a 3D model's surface. It's a process of defining how a 2D surface wraps around a 3D model or the way that a flat image is stretched across a model's surface to paint its appearance. This could be anything from the colour of objects to their roughness or reflectivity. Whereas, **Normal Mapping** is a technique used to create the illusion of complexity in the surface of a 3D model without adding any additional geometry. A Normal Map is a special kind of texture that allows the addition of surface details, such as bumps, grooves, and scratches which catch the light as if they are represented by real geometry, making a low-polygon model appear as a much more complex shape.
+No desenvolvimento de jogos, especialmente no contexto dos shaders, o "mapeamento" predominantemente se refere ao Mapeamento de Texturas e Mapeamento Normal. **Mapeamento de Texturas** é a aplicação de uma textura (uma imagem ou dados de cor) em superfície de um modelo 3D. É um processo de definir como uma superfície 2D envolve um modelo 3D ou a maneira como uma imagem plana é esticada sobre a superfície de um modelo para pintar sua aparência. Isso pode ser qualquer coisa do cor dos objetos até sua rugosidade ou reflexividade. Enquanto isso, **Mapeamento Normal** é uma técnica usada para criar a ilusão de complexidade na superfície de um modelo 3D sem adicionar nenhuma geometria adicional. Um Mapa Normal é um tipo especial de textura que permite a adição de detalhes de superfície, como buracos, raios e arranhões, que capturam a luz como se estivessem representados por geometria real, tornando um modelo de baixa poligonal parecer uma forma muito mais complexa.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Designing Maps](https://www.gamedeveloper.com/design/designing-maps-that-complement-game-mechanics)
-- [@article@Mapping and Tiles in Game Development](https://code.tutsplus.com/an-introduction-to-creating-a-tile-map-engine--gamedev-10900t)
+- [@artigo@Designing Maps](https://www.gamedeveloper.com/design/designing-maps-that-complement-game-mechanics)
+- [@artigo@Mapping and Tiles in Game Development](https://code.tutsplus.com/an-introduction-to-creating-a-tile-map-engine--gamedev-10900t)

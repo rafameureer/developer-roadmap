@@ -1,8 +1,8 @@
-# Advanced Rendering
+# Renderização Avançada
 
-**Advanced rendering** is a sophisticated technique used in game development that involves translating a 3D model or scene into a 2D image or animation. Advanced rendering techniques can involve various complex methods such as physically-based rendering, ray tracing, global illumination, subsurface scattering, caustics, and volumetric rendering. The use of advanced rendering can result in highly realistic graphics, as it uses complex calculations to depict how light behaves in the real world. Advanced rendering often requires powerful hardware resources and specialized software tools in order to achieve the desired images and animations.
+**Renderização avançada** é uma técnica sofisticada usada no desenvolvimento de jogos que envolve traduzir um modelo 3D ou cena em uma imagem 2D ou animação. As técnicas de renderização avançadas podem envolver vários métodos complexos como renderização baseada em física, traçado por raios, iluminação global, dispersão sub-superficial, causticas e renderização volumétrica. O uso da renderização avançada pode resultar em gráficos altamente realistas, pois usa cálculos complexos para representar como a luz se comporta no mundo real. A renderização avançada geralmente requer recursos de hardware potentes e ferramentas de software especializadas para obter as imagens e animações desejadas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Advanced Rendering](https://www.advances.realtimerendering.com/)
-- [@article@Advances in Real Time Rendering](https://www.advances.realtimerendering.com/s2024/index.html)
+- [@artigo@Renderização Avançada](https://www.advances.realtimerendering.com/)
+- [@artigo@Avanços na Renderização em Tempo Real](https://www.advances.realtimerendering.com/s2024/index.html)

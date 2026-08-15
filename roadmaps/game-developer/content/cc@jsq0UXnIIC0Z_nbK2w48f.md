@@ -1,10 +1,10 @@
 # C / C++
 
-**C** and **C++ (commonly known as CPP)** are two of the most foundational high-level programming languages in computer science. **C** was developed in the 1970s and it is a procedural language, meaning it follows a step-by-step approach. Its fundamental principles include structured programming and lexical variable scope.
+**C** e **C++ (comumente conhecido como CPP)** são dois dos principais idiomas de alto nível fundamentais em ciência da computação. **C** foi desenvolvido nos anos 1970 e é um idioma procedural, o que significa seguir uma abordagem passo a passo. Seus princípios fundamentais incluem programação estruturada e escopo de variáveis léxicas.
 
-On the other hand, **C++** follows the paradigm of both procedural and object-oriented programming. It was developed as an extension to C to add the concept of "classes" - a core feature of object-oriented programming. C++ enhances C by introducing new features like function overloading, exception handling, and templates.
+Por outro lado, **C++** segue o paradigma tanto de programação procedural quanto orientada a objetos. Foi desenvolvido como uma extensão do C para adicionar o conceito de "classes" - um recurso fundamental da programação orientada a objetos. C++ melhora o C introduzindo novos recursos como sobrecarga de funções, tratamento de exceções e templates.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@C Programming Language](https://en.wikipedia.org/wiki/C_%28programming_language%29)
-- [@article@C++ Programming Language](https://en.wikipedia.org/wiki/C%2B%2B)
+- [@artigo@Linguagem de Programação C](https://en.wikipedia.org/wiki/C_%28programming_language%29)
+- [@artigo@Linguagem de Programação C++](https://en.wikipedia.org/wiki/C%2B%2B)

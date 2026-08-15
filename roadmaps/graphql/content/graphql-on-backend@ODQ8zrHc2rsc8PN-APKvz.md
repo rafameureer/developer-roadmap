@@ -1,8 +1,8 @@
-# GraphQL on the Backend
+# GraphQL no Backend
 
-GraphQL on the backend involves implementing servers that execute GraphQL queries, mutations, and subscriptions. It includes defining schemas, writing resolvers, handling data sources, implementing authentication/authorization, and optimizing performance through caching and batching strategies.
+GraphQL no backend envolve implementar servidores que executam consultas, mutações e assinaturas GraphQL. Isso inclui definir esquemas, escrever resolvers, lidar com fontes de dados, implementar autenticação/autorização e otimizar desempenho através de estratégias de caching e batch.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@How to use GraphQL in Backend?](https://www.howtographql.com/)
+- [@article@Como usar o GraphQL no Backend?](https://www.howtographql.com/)
 - [@feed@Explore top posts about Backend Development](https://app.daily.dev/tags/backend?ref=roadmapsh)

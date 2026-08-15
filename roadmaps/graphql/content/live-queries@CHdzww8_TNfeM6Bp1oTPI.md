@@ -1,7 +1,7 @@
-# Live Queries
+# Consultas em Tempo Real
 
-Live Queries automatically update query results when underlying data changes, providing real-time synchronization without manual subscription management. This advanced feature simplifies building reactive applications by maintaining fresh data automatically, though it requires specialized GraphQL implementations.
+As Consultas em Tempo Real atualizam automaticamente os resultados da consulta quando os dados subjacentes são alterados, fornecendo sincronização em tempo real sem a necessidade de gerenciamento manual de assinaturas. Esta funcionalidade avançada simplifica o desenvolvimento de aplicativos reativos mantendo dados frescos automaticamente, embora exija implementações especializadas do GraphQL.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@GraphQL Live Queries](https://the-guild.dev/blog/collecting-graphql-live-query-resource-identifier-with-graphql-tools)
+- [@artigo@Consultas em Tempo Real no GraphQL](https://the-guild.dev/blog/collecting-graphql-live-query-resource-identifier-with-graphql-tools)

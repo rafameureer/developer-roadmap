@@ -1,7 +1,7 @@
-# Directives
+# Diretivas
 
-Directives in GraphQL modify query execution by adding behavior or validation to fields, operations, and fragments. They can take arguments to configure behavior and include built-in directives like @include and @skip, or custom ones defined by developers for specific functionality.
+As diretivas em GraphQL modificam a execução da consulta adicionando comportamento ou validação a campos, operações e fragmentos. Elas podem receber argumentos para configurar o comportamento e incluir diretivas internas como @include e @skip, ou diretivas personalizadas definidas por desenvolvedores para funcionalidades específicas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Directives in GraphQL](https://graphql.org/learn/queries/#directives)
+- [@official@Diretivas em GraphQL](https://graphql.org/learn/queries/#directives)

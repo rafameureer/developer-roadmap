@@ -1,8 +1,8 @@
 # Apollo Client
 
-Apollo Client is a popular GraphQL client library for JavaScript that provides data fetching, caching, and state management. It offers declarative data fetching with React hooks, intelligent caching, optimistic UI updates, and error handling for building efficient GraphQL-powered applications.
+Apollo Client é uma biblioteca de cliente popular para GraphQL em JavaScript que fornece a obtenção de dados, caching e gerenciamento de estado. Ele oferece busca de dados declarativa com hooks do React, caching inteligente, atualizações de UI otimistas e tratamento de erros para construir aplicativos baseados em GraphQL eficientes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Why Apollo Client - Frontend?](https://www.howtographql.com/react-apollo/0-introduction/)
+- [@article@Por que usar Apollo Client - Frontend?](https://www.howtographql.com/react-apollo/0-introduction/)
 - [@feed@Explore top posts about Apollo](https://app.daily.dev/tags/apollo?ref=roadmapsh)

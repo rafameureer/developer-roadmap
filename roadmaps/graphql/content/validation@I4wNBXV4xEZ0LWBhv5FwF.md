@@ -1,7 +1,7 @@
-# Validation
+# Validação
 
-Validation in GraphQL ensures queries and mutations adhere to schema rules by verifying field access, type correctness, and input constraints. GraphQL servers validate all incoming operations before execution, returning errors for invalid queries with specific details about violations.
+A validação no GraphQL garante que as consultas e mutações estejam em conformidade com regras de esquema verificando o acesso a campos, corretude de tipos e restrições de entrada. Servidores GraphQL validam todas as operações recebidas antes da execução, retornando erros para consultas inválidas com detalhes específicos sobre as violações.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Get Started with Validation in GraphQL](https://graphql.org/learn/validation/)
+- [@official@Começar com a Validação no GraphQL](https://graphql.org/learn/validation/)

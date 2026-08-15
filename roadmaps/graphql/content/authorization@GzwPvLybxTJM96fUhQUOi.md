@@ -1,14 +1,14 @@
-# Authorization
+# Autorização
 
-Authorization in GraphQL refers to the process of controlling access to specific fields, types, or operations in a GraphQL schema based on user roles or permissions. It allows you to restrict access to certain data or functionality in your application based on the user's role or permissions.
+A autorização em GraphQL refere-se ao processo de controle do acesso a campos, tipos ou operações específicos em um esquema GraphQL com base nos papéis ou permissões do usuário. Ela permite que você restrinja o acesso a certos dados ou funcionalidades em sua aplicação com base no papel ou permissões do usuário.
 
-There are several ways to implement authorization in GraphQL:
+Existem várias maneiras de implementar autorização em GraphQL:
 
-*   Using middleware
-*   Using schema directives
-*   Using a data source layer
+*   Usando middleware
+*   Usando diretivas de esquema
+*   Usando uma camada de fonte de dados
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Get Started with Authorization](https://graphql.org/learn/authorization/)
-- [@feed@Explore top posts about Authorization](https://app.daily.dev/tags/authorization?ref=roadmapsh)
+- [@oficial@Comece com a Autorização](https://graphql.org/learn/authorization/)
+- [@feed@Explore as principais postagens sobre Autorização](https://app.daily.dev/tags/authorization?ref=roadmapsh)

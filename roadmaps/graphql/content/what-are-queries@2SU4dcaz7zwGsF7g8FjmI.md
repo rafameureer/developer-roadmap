@@ -1,7 +1,7 @@
-# What are Queries
+# O que são Consultas
 
-In GraphQL, queries are client requests to retrieve data from the server. They're structured as hierarchical trees of fields that correspond to the properties of the requested data, allowing clients to specify exactly what data they need in a predictable format.
+No GraphQL, as consultas são solicitações de cliente para recuperar dados do servidor. Elas estão estruturadas como árvores hierárquicas de campos que correspondem às propriedades dos dados solicitados, permitindo que os clientes especifiquem exatamente quais dados precisam em um formato previsível.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Introduction of GraphQL - Query](https://graphql.org/learn/queries/)
+- [@oficial@Introdução ao GraphQL - Consulta](https://graphql.org/learn/queries/)

@@ -1,7 +1,7 @@
-# Fields
+# Campos
 
-Fields in GraphQL are individual pieces of data that can be queried or modified, representing properties of the requested data. They're defined in the GraphQL schema and serve as building blocks for queries and mutations, specifying what data is available for each type.
+Os campos em GraphQL são peças individuais de dados que podem ser consultados ou modificados, representando propriedades dos dados solicitados. Eles são definidos no esquema do GraphQL e servem como blocos de construção para consultas e mutações, especificando quais dados estão disponíveis para cada tipo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@GraphQL: Types and Fields](https://graphql.org/learn/queries/#fields)
+- [@official@GraphQL: Tipos e Campos](https://graphql.org/learn/queries/#fields)

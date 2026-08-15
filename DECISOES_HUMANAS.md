@@ -4,7 +4,7 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 
 ---
 
-> ⚠️ **Total de itens sinalizados:** 1055
+> ⚠️ **Total de itens sinalizados:** 1061
 
 | Arquivo / Tópico | Motivo da Sinalização | Data/Hora |
 |---|---|---|
@@ -1063,3 +1063,9 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 | `roadmaps/golang/content/runes@IAXI7OAAAG4fU6JvVNSZI.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:54:31.926691 |
 | `roadmaps/golang/content/scope-and-shadowing@xUKsD2eTP9-RszHvKYp9Y.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:54:35.281241 |
 | `roadmaps/golang/content/zerolog@TR7N68_evDMu3qWHbGJcz.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:57:20.616427 |
+| `roadmaps/graphql/content/arguments@A54vi3Ao7fBHyTuqoH_it.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:57:42.347313 |
+| `roadmaps/graphql/content/arguments@hrpb108R8Gyu3hhzkMYzL.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:57:44.592180 |
+| `roadmaps/graphql/content/asynchronous@tbDvQBtLRAcD-xYX9V7Va.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:57:47.020436 |
+| `roadmaps/graphql/content/batching@v9gVexHfDkpG9z3NL5S-9.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:58:11.288049 |
+| `roadmaps/graphql/content/caching@UYwuUVTeurwODV4_Kdt_W.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:58:14.240471 |
+| `roadmaps/graphql/content/defer--stream-directives@t6XxFB_lx27kS4FE2_GMH.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:58:16.812486 |

@@ -1,7 +1,7 @@
-# Lists
+# Listas
 
-Lists in GraphQL represent ordered collections of items, defined using square brackets around the item type. They can contain scalars, objects, or other lists, enabling complex nested data structures and array-based field returns in schemas.
+As listas no GraphQL representam coleções ordenadas de itens, definidas usando colchetes ao redor do tipo de item. Elas podem conter escalares, objetos ou outras listas, permitindo estruturas de dados aninhadas complexas e retornos de campo baseados em arrays nos esquemas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Get started with Lists](https://graphql.org/learn/schema/#lists-and-non-null)
+- [@oficial@Começando com Listas](https://graphql.org/learn/schema/#lists-and-non-null)

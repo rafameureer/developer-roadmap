@@ -1,7 +1,7 @@
-# Thinking in Graphs
+# Pensando em Grafos
 
-"Thinking in Graphs" is a GraphQL mindset where data is organized as a graph with nodes (objects) and edges (relationships). This approach allows flexible and intuitive querying by following relationships between connected data points, making complex data retrieval more natural and efficient.
+"Pensando em Grafos" é uma abordagem GraphQL onde os dados são organizados como um grafo com nós (objetos) e arestas (relacionamentos). Esse método permite consultas flexíveis e intuitivas seguindo as relações entre pontos de dados conectados, tornando a recuperação de dados complexos mais natural e eficiente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@GraphQL - Thinking in Graphs](https://graphql.org/learn/thinking-in-graphs/)
+- [@oficial@GraphQL - Pensando em Grafos](https://graphql.org/learn/thinking-in-graphs/)

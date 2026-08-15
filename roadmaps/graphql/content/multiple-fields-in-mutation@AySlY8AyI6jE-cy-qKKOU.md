@@ -1,7 +1,7 @@
-# Multiple Mutation Fields
+# Campos Mutação Múltiplos
 
-GraphQL allows multiple mutations in a single query by including multiple mutation fields, a practice often called batching mutations. This approach improves network efficiency by reducing the number of round-trips between the client and server.
+O GraphQL permite múltiplas mutações em uma única consulta incluindo múltiplos campos de mutação, um método frequentemente chamado de loteamento de mutações. Este abordagem melhora a eficiência da rede reduzindo o número de viagens de ida e volta entre o cliente e o servidor.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Guide to Multiple fields in mutations](https://graphql.org/learn/mutations/#multiple-fields-in-mutations)
+- [@oficial@Guia sobre Campos Mutação Múltiplos](https://graphql.org/learn/mutations/#multiple-fields-in-mutations)

@@ -3699,7 +3699,66 @@
     "roadmaps/golang/content/worker-pools@z8ItWHAupaastLcXY3npY.md",
     "roadmaps/golang/content/wrappingunwrapping-errors@s2WlOMMKNXf6O2Qiqcm_m.md",
     "roadmaps/golang/content/zap@4D8QsZVAUB9vGbVFgRHt4.md",
-    "roadmaps/golang/content/zero-values@QWixUXjC8YG-i1gsKVY1v.md"
+    "roadmaps/golang/content/zero-values@QWixUXjC8YG-i1gsKVY1v.md",
+    "roadmaps/graphql/content/aliases@B77yLU4SuRChSjEbmYwc-.md",
+    "roadmaps/graphql/content/apollo-client@D5O7ky5eXwm_Ys1IcFNaq.md",
+    "roadmaps/graphql/content/apollo-server@o_VkyoN6DmUUkfl0u0cro.md",
+    "roadmaps/graphql/content/authorization@G50ZMlmP7Ru5LcFne5Rhu.md",
+    "roadmaps/graphql/content/authorization@GzwPvLybxTJM96fUhQUOi.md",
+    "roadmaps/graphql/content/authorization@i-zcfN6RNXhA_sb7DcIon.md",
+    "roadmaps/graphql/content/directives@MnmwccPahqPCzOhqjfbsY.md",
+    "roadmaps/graphql/content/enums@wfOsfb0zSAIdNkwFHfBcw.md",
+    "roadmaps/graphql/content/event-based-subscriptions@kJMyRhasBKfBypent3GxK.md",
+    "roadmaps/graphql/content/execution@72wGg6yP8WnEdmkeKL9vh.md",
+    "roadmaps/graphql/content/fields@HPdntdgTar1T34CZX8Y6y.md",
+    "roadmaps/graphql/content/fields@Pc9H7AcoqJQkWnuhbytyD.md",
+    "roadmaps/graphql/content/fragments@CehwjrCG_wbUU-TFNCuJn.md",
+    "roadmaps/graphql/content/graphql-go@9nVo95gRNGHGIbaJQPH1x.md",
+    "roadmaps/graphql/content/graphql-http@N-vsu-wvOikuoTbzdgX3X.md",
+    "roadmaps/graphql/content/graphql-http@datKo3vPDwXoyVskcrdkc.md",
+    "roadmaps/graphql/content/graphql-java@7szipojhVb2VoL3VcS619.md",
+    "roadmaps/graphql/content/graphql-on-backend@ODQ8zrHc2rsc8PN-APKvz.md",
+    "roadmaps/graphql/content/graphql-on-frontend@6r9XbwlBtHmJrhviG2cTD.md",
+    "roadmaps/graphql/content/graphql-over-http-spec@V3bgswBFr1xames3F8S_V.md",
+    "roadmaps/graphql/content/graphql-queries@W_Lg8086ZhrIqtck1sgnb.md",
+    "roadmaps/graphql/content/graphql-yoga@Gotb1xtxySCVC5MrnkPSs.md",
+    "roadmaps/graphql/content/graphqljs@jCzrMElTo-c9xGcpPOOPl.md",
+    "roadmaps/graphql/content/interfaces@tc_rjJZrr2x3bp8mcoQ0F.md",
+    "roadmaps/graphql/content/introduction@JfXwzkN29UGz17FYHHE3A.md",
+    "roadmaps/graphql/content/lists@d2ikbo4sZq7PmaCi5znkd.md",
+    "roadmaps/graphql/content/lists@sJ1_c3e08aehiqNMbIEEP.md",
+    "roadmaps/graphql/content/live-queries@CHdzww8_TNfeM6Bp1oTPI.md",
+    "roadmaps/graphql/content/mercurius@iTV2H8clmRTOksul4v38p.md",
+    "roadmaps/graphql/content/multiple-fields-in-mutation@AySlY8AyI6jE-cy-qKKOU.md",
+    "roadmaps/graphql/content/mutations@jy_91mhFWbpR6sYVbuX1x.md",
+    "roadmaps/graphql/content/objects@LX9vZpx7yKlf0iR6AtBWz.md",
+    "roadmaps/graphql/content/operation-name@q9TYEygvUyHourdZIvk8G.md",
+    "roadmaps/graphql/content/pagination@Uf8XxJPs7RzKVhlxiQdbB.md",
+    "roadmaps/graphql/content/problems-graphql-solves@2rlmLn_yQQV-7DpX1qT98.md",
+    "roadmaps/graphql/content/producing-the-result@zQHifboRreE4OgJ7GnUlp.md",
+    "roadmaps/graphql/content/realtime@2YLm_S1j_832pb1OGSNaM.md",
+    "roadmaps/graphql/content/relay@Ab_ngkf6bmejvcp9okuw6.md",
+    "roadmaps/graphql/content/resolvers@VDur5xYBC0LJtQgDrSEyj.md",
+    "roadmaps/graphql/content/root-fields@AlJlHZD3_SPoLNaqdM-pB.md",
+    "roadmaps/graphql/content/scalar-coercion@QFUOmJlPkkjpcl1vJxg9h.md",
+    "roadmaps/graphql/content/scalars@U-tLelmNQtR-pUq-sxU_2.md",
+    "roadmaps/graphql/content/schema@lj1WEh4WbfBsoZFYsi1Yz.md",
+    "roadmaps/graphql/content/serving-over-internet@inhjhH-7xJyX8o4DQqErF.md",
+    "roadmaps/graphql/content/specification@A-PQ3_FVuCK3Eud75hsdj.md",
+    "roadmaps/graphql/content/specification@O8k-m6s9B_uXkLsXKVFnL.md",
+    "roadmaps/graphql/content/subscriptions@IbEqXlGjsyNLKE9dZrPPk.md",
+    "roadmaps/graphql/content/synchronous@uPpsj2kCdgKsJpmTaw86u.md",
+    "roadmaps/graphql/content/thinking-in-graphs@J5mU0v491qrm-mr1W3Msd.md",
+    "roadmaps/graphql/content/type-system@jpu0_FAlxtD-H80mPcod5.md",
+    "roadmaps/graphql/content/unions@59COH3rerJJzKr6vrj4bF.md",
+    "roadmaps/graphql/content/urql@WP0Oo_YMfLBlXqDQQtKes.md",
+    "roadmaps/graphql/content/validation@I4wNBXV4xEZ0LWBhv5FwF.md",
+    "roadmaps/graphql/content/validation@iYkHCKTsjtvo40f3eZoet.md",
+    "roadmaps/graphql/content/variables@YZaFEK547FYricfOuANvH.md",
+    "roadmaps/graphql/content/what-are-mutations@9Q2pGidY-rfkltHq3vChp.md",
+    "roadmaps/graphql/content/what-are-queries@2SU4dcaz7zwGsF7g8FjmI.md",
+    "roadmaps/graphql/content/what-are-subscriptions@RlBc-hWEUOPaEQLTgJa-K.md",
+    "roadmaps/graphql/content/what-is-graphql@cMfsRtvzvDZZJ0TqeUOxm.md"
   ],
   "completed_roadmaps": [
     "frontend-beginner",
@@ -3744,7 +3803,8 @@
     "full-stack",
     "game-developer",
     "git-github",
-    "golang"
+    "golang",
+    "graphql"
   ],
   "flagged_issues": [
     {
@@ -9021,8 +9081,38 @@
       "file": "roadmaps/golang/content/zerolog@TR7N68_evDMu3qWHbGJcz.md",
       "reason": "Falha na tradução automática após tentativas no Ollama",
       "timestamp": "2026-08-15T07:57:20.616427"
+    },
+    {
+      "file": "roadmaps/graphql/content/arguments@A54vi3Ao7fBHyTuqoH_it.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:57:42.347313"
+    },
+    {
+      "file": "roadmaps/graphql/content/arguments@hrpb108R8Gyu3hhzkMYzL.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:57:44.592180"
+    },
+    {
+      "file": "roadmaps/graphql/content/asynchronous@tbDvQBtLRAcD-xYX9V7Va.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:57:47.020436"
+    },
+    {
+      "file": "roadmaps/graphql/content/batching@v9gVexHfDkpG9z3NL5S-9.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:58:11.288049"
+    },
+    {
+      "file": "roadmaps/graphql/content/caching@UYwuUVTeurwODV4_Kdt_W.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:58:14.240471"
+    },
+    {
+      "file": "roadmaps/graphql/content/defer--stream-directives@t6XxFB_lx27kS4FE2_GMH.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:58:16.812486"
     }
   ],
-  "last_updated": "2026-08-15T07:57:20.624888",
+  "last_updated": "2026-08-15T08:00:47.144921",
   "total_translated_count": 54
 }

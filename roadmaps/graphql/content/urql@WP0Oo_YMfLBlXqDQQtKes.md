@@ -1,7 +1,7 @@
 # URQL
 
-URQL is a lightweight, highly customizable GraphQL client for React, Vue, and Svelte. It provides caching, real-time subscriptions, offline support, and a modular architecture with exchanges for extending functionality, offering an alternative to Apollo Client with better performance.
+URQL é um cliente GraphQL leve e altamente personalizável para React, Vue e Svelte. Ele oferece caching, assinaturas em tempo real, suporte offline e uma arquitetura modular com exchanges para estender a funcionalidade, oferecendo uma alternativa ao Apollo Client com melhor desempenho.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@article@urql - Formidable Labs](https://formidable.com/open-source/urql/)

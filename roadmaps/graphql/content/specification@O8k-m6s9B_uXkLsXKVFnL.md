@@ -1,8 +1,8 @@
-# Specification
+# Especificação
 
-The GraphQL specification defines the core language, type system, execution model, and validation rules for GraphQL. Maintained by the GraphQL Foundation, it provides the technical foundation that all GraphQL implementations must follow to ensure interoperability and consistency across platforms.
+A especificação do GraphQL define o idioma básico, o sistema de tipos, o modelo de execução e as regras de validação para o GraphQL. Mantida pela GraphQL Foundation, ela fornece a base técnica que todas as implementações do GraphQL devem seguir para garantir a interoperabilidade e consistência em plataformas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@GraphQL Specification](https://spec.graphql.org/)
-- [@official@GraphQL Foundation](https://foundation.graphql.org/)
+- [@oficial@Especificação do GraphQL](https://spec.graphql.org/)
+- [@oficial@GraphQL Foundation](https://foundation.graphql.org/)

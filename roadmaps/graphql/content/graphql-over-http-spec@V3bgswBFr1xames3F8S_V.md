@@ -1,3 +1,3 @@
-# GraphQL Over HTTP Spec
+# Especificação GraphQL por HTTP
 
-The GraphQL over HTTP specification defines standard practices for serving GraphQL over HTTP, including request/response formats, status codes, and content types. It ensures interoperability between different GraphQL implementations and provides guidance for consistent API behavior across platforms.
+A especificação GraphQL por HTTP define práticas padrão para servir o GraphQL por HTTP, incluindo formatos de solicitação/resposta, códigos de status e tipos de conteúdo. Ela garante a interoperabilidade entre diferentes implementações do GraphQL e fornece orientação para um comportamento consistente da API em plataformas.

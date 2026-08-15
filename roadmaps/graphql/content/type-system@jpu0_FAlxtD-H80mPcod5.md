@@ -1,7 +1,7 @@
-# Type System
+# Sistema de Tipos
 
-GraphQL is strongly typed with a type system that defines data types available in applications. It includes Scalar, Object, Query, Mutation, and Enum types. The type system defines the schema, acting as a contract between client and server for predictable API interactions.
+O GraphQL é fortemente tipado com um sistema de tipos que define os tipos de dados disponíveis em aplicativos. Ele inclui tipos Escalar, Objeto, Consulta, Mutação e Enum. O sistema de tipos define o esquema, atuando como um contrato entre cliente e servidor para interações API previsíveis.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Get started with Type system](https://graphql.org/learn/schema/#type-system)
+- [@oficial@Comece com o Sistema de Tipos](https://graphql.org/learn/schema/#type-system)

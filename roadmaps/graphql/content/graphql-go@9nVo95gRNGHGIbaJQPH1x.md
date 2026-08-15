@@ -1,8 +1,8 @@
 # GraphQL Go
 
-GraphQL Go refers to implementing GraphQL servers and clients using the Go programming language. Popular libraries include graphql-go/graphql for schema-first development and 99designs/gqlgen for code-first generation. Go's strong typing and performance make it excellent for building scalable GraphQL APIs.
+GraphQL Go refere-se à implementação de servidores e clientes GraphQL usando o idioma de programação Go. Bibliotecas populares incluem graphql-go/graphql para desenvolvimento schema-first e 99designs/gqlgen para geração de código-first. A tipagem forte e a performance do Go tornam-o excelente para construir APIs GraphQL escaláveis.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@opensource@graphql-go/graphql](https://github.com/graphql-go/graphql)
 - [@opensource@99designs/gqlgen](https://github.com/99designs/gqlgen)

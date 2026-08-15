@@ -1,8 +1,8 @@
-# Variables
+# Variáveis
 
-Variables in GraphQL pass dynamic values to queries and mutations, making them flexible and reusable. Defined with the $ symbol and a type, their values are passed in a separate JSON object. Variables are type-safe, ensuring values match the defined types.
+As variáveis em GraphQL passam valores dinâmicos para consultas e mutações, tornando-as flexíveis e reutilizáveis. Elas são definidas com o símbolo $ e um tipo, seus valores são passados em um objeto JSON separado. As variáveis são tipadas, garantindo que os valores correspondam aos tipos definidos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Intro to Variables in GraphQL](https://graphql.org/learn/queries/#variables)
-- [@article@GraphQL Variables](https://dgraph.io/docs/graphql/api/variables/)
+- [@oficial@Introdução a Variáveis em GraphQL](https://graphql.org/learn/queries/#variables)
+- [@artigo@Variáveis em GraphQL](https://dgraph.io/docs/graphql/api/variables/)

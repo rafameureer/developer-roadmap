@@ -1,7 +1,7 @@
-# Enums
+# Enumeradores (Enums)
 
-Enums (enumeration types) are special scalars restricted to a particular set of allowed values. They validate arguments against allowed values and communicate through the type system that fields will always be one of a finite set of predefined options.
+Os enumeradores (tipos de enumeração) são escalares especiais restritos a um conjunto particular de valores permitidos. Eles validam argumentos contra valores permitidos e comunicam através do sistema de tipos que os campos sempre serão uma das opções predefinidas finitas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@What are Enums?](https://graphql.org/learn/schema/#enumeration-types)
+- [@official@O que são Enumeradores?](https://graphql.org/learn/schema/#enumeration-types)

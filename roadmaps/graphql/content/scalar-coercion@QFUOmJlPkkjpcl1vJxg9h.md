@@ -1,7 +1,7 @@
-# Scalar Coercion
+# Coerção de Escalares
 
-Scalar coercion in GraphQL converts input values from one type to another when they don't match the expected type but can be successfully converted. This process is implemented using custom scalar types with coerce functions that handle the type conversion.
+A coerção de escalares no GraphQL converte valores de entrada de um tipo para outro quando eles não correspondem ao tipo esperado, mas podem ser convertidos com sucesso. Esse processo é implementado usando tipos de escalar personalizados com funções de coerção que lidam com a conversão de tipos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Get started with Scalar coercion](https://graphql.org/learn/execution/#scalar-coercion)
+- [@oficial@Comece com Coerção de Escalares](https://graphql.org/learn/execution/#scalar-coercion)

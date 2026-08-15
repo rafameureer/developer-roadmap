@@ -1,8 +1,8 @@
 # GraphQL Java
 
-GraphQL Java is a popular library for implementing GraphQL APIs in Java applications. It provides schema-first development capabilities, runtime query execution, and integrates well with Spring Boot and other Java frameworks, making it a solid choice for enterprise GraphQL implementations.
+GraphQL Java é uma biblioteca popular para implementar APIs GraphQL em aplicativos Java. Ele fornece capacidades de desenvolvimento schema-first, execução de consultas em tempo de execução e integra-se bem com o Spring Boot e outros frameworks Java, tornando-se uma escolha sólida para implementações de GraphQL empresariais.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@GraphQL Java Repository](https://github.com/graphql-java/graphql-java)
-- [@article@GraphQL Java Documentation](https://www.graphql-java.com/)
+- [@official@Repositório do GraphQL Java](https://github.com/graphql-java/graphql-java)
+- [@article@Documentação do GraphQL Java](https://www.graphql-java.com/)

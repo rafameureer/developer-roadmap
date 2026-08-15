@@ -1,7 +1,7 @@
-# Schema
+# Esquema
 
-A GraphQL schema defines the structure and capabilities of a GraphQL API using Schema Definition Language (SDL). It specifies types, fields, arguments, relationships, and root operations (Query, Mutation, Subscription) that serve as entry points, acting as a contract between client and server.
+O esquema do GraphQL define a estrutura e as capacidades de uma API GraphQL usando o Linguagem de Definição de Esquema (SDL). Ele especifica tipos, campos, argumentos, relações e operações raiz (Query, Mutation, Subscription) que atuam como pontos de entrada, servindo como um contrato entre cliente e servidor.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@What is Schema?](https://graphql.org/learn/schema/)
+- [@official@O que é Esquema?](https://graphql.org/learn/schema/)

@@ -1,7 +1,7 @@
 # Aliases
 
-Aliases in GraphQL rename fields in query responses, useful when requesting the same field multiple times with different arguments or when field names aren't suitable for client usage. They distinguish fields in responses and improve query readability and usability.
+Aliases em GraphQL renomeiam campos nas respostas de consulta, útil quando solicitando o mesmo campo várias vezes com argumentos diferentes ou quando os nomes dos campos não são adequados para uso pelo cliente. Eles distinguem campos nas respostas e melhoram a legibilidade e usabilidade das consultas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@What are GraphQL Aliases?](https://graphql.org/learn/queries/#aliases)
+- [@official@O que são Aliases em GraphQL?](https://graphql.org/learn/queries/#aliases)

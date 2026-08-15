@@ -1,7 +1,7 @@
-# Mutations
+# Mutações
 
-Mutations in GraphQL are used to modify data on the server, including creating, updating, or deleting records. They're structured like queries but use the "mutation" field at the top level and include fields specifying the data to be changed and the operation type.
+As mutações no GraphQL são usadas para modificar dados no servidor, incluindo a criação, atualização ou exclusão de registros. Elas estão estruturadas como consultas, mas usam o campo "mutation" no nível superior e incluem campos especificando os dados a serem alterados e o tipo de operação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Getting started with Mutations](https://graphql.org/learn/queries/#mutations)
+- [@official@Introdução às Mutações](https://graphql.org/learn/queries/#mutations)

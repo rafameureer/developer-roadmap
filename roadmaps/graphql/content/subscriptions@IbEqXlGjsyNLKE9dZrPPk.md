@@ -1,7 +1,7 @@
-# Subscriptions
+# Assinaturas
 
-Subscriptions in GraphQL enable real-time updates by allowing clients to subscribe to specific events or data changes on the server. The server maintains an open connection and pushes updates to subscribed clients as soon as events occur or data changes.
+As assinaturas no GraphQL permitem atualizações em tempo real permitindo que os clientes se inscrevam em eventos específicos ou mudanças de dados no servidor. O servidor mantém uma conexão aberta e empurra as atualizações aos clientes inscritos assim que ocorrem eventos ou mudanças de dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Subscriptions and Live Queries - Real Time with GraphQL](https://the-guild.dev/blog/subscriptions-and-live-queries-real-time-with-graphql)
+- [@artigo@Assinaturas e Consultas em Tempo Real - Real Time com GraphQL](https://the-guild.dev/blog/subscriptions-and-live-queries-real-time-with-graphql)

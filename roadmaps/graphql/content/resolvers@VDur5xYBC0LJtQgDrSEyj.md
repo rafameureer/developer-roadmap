@@ -1,7 +1,7 @@
 # Resolvers
 
-Resolvers are functions responsible for fetching data for each field in GraphQL queries and mutations. Defined in the schema and executed by the GraphQL server, they retrieve data from databases, APIs, or other sources and return it to clients.
+Os resolvers são funções responsáveis por buscar dados para cada campo em consultas e mutações GraphQL. Definidos no esquema e executados pelo servidor GraphQL, eles recuperam dados de bancos de dados, APIs ou outras fontes e retornam esses dados aos clientes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Guide to Resolver](https://the-guild.dev/blog/better-type-safety-for-resolvers-with-graphql-codegen)
+- [@artigo@Guia dos Resolvers](https://the-guild.dev/blog/better-type-safety-for-resolvers-with-graphql-codegen)

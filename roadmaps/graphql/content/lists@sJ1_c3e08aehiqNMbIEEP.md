@@ -1,7 +1,7 @@
-# Lists
+# Listas
 
-Lists in GraphQL represent ordered collections of items and can be used as return types for fields. They can contain any type of items including scalars and objects, with resolver functions typically returning data as arrays from databases or APIs.
+As listas no GraphQL representam coleções ordenadas de itens e podem ser usadas como tipos de retorno para campos. Elas podem conter qualquer tipo de itens, incluindo escalares e objetos, com funções resolvers típicamente retornando dados como arrays a partir de bancos de dados ou APIs.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Get started with Lists and Non-Null](https://graphql.org/learn/schema/#lists-and-non-null)
+- [@oficial@Começando com Listas e Non-Null](https://graphql.org/learn/schema/#lists-and-non-null)

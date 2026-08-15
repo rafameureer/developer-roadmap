@@ -1,8 +1,8 @@
 # GraphQL Yoga
 
-GraphQL Yoga is an open-source GraphQL server library for Node.js built on Express.js. It provides minimal boilerplate setup with built-in authentication, authorization, data validation, and subscription support for real-time updates, making GraphQL server development streamlined.
+GraphQL Yoga é uma biblioteca de servidor GraphQL open-source para Node.js baseada em Express.js. Ele oferece um setup mínimo de boilerplate com autenticação integrada, autorização, validação de dados e suporte a assinaturas para atualizações em tempo real, tornando o desenvolvimento de servidores GraphQL fluído.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@GraphQL Armor - for Yoga Server 2](https://the-guild.dev/blog/improved-security-with-graphql-armor-support-for-yoga-server-2)
+- [@artigo@GraphQL Armor - para Servidor Yoga 2](https://the-guild.dev/blog/improved-security-with-graphql-armor-support-for-yoga-server-2)
 - [@feed@Explore top posts about GraphQL](https://app.daily.dev/tags/graphql?ref=roadmapsh)

@@ -1,7 +1,7 @@
-# Fields
+# Campos
 
-Fields in GraphQL are units of data that can be queried or manipulated. Each field has a name, type, and optional description, and can return scalar values or objects, enabling complex nested data structures and taking arguments for filtering.
+Os campos em GraphQL são unidades de dados que podem ser consultados ou manipulados. Cada campo tem um nome, um tipo e uma descrição opcional, e pode retornar valores escalares ou objetos, permitindo estruturas de dados aninhadas complexas e aceitando argumentos para filtragem.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@GraphQL: Types and Fields](https://graphql.org/learn/queries/#fields)
+- [@official@GraphQL: Tipos e Campos](https://graphql.org/learn/queries/#fields)

@@ -1,7 +1,7 @@
-# Producing The Result
+# Produzindo o Resultado
 
-Producing the result in GraphQL involves generating the final response to queries and mutations. This process includes parsing the request, validating against the schema, executing resolvers to fetch data, and formatting the response according to the query requirements.
+Produzir o resultado no GraphQL envolve gerar a resposta final para consultas e mutações. Esse processo inclui a análise da solicitação, validação contra o esquema, execução dos resolvers para buscar dados e formatação da resposta de acordo com as exigências da consulta.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Get Started with GraphQL](https://graphql.org/learn/)
+- [@oficial@Comece com GraphQL](https://graphql.org/learn/)

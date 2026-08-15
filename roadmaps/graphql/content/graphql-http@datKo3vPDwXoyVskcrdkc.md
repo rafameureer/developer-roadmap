@@ -1,9 +1,9 @@
 # GraphQL HTTP
 
-GraphQL HTTP is a specification for serving GraphQL over HTTP protocol. It defines standard methods for sending queries and mutations, primarily using POST requests with JSON payloads in the request body, and receiving results in the response body.
+GraphQL HTTP é uma especificação para servir GraphQL usando o protocolo HTTP. Ele define métodos padrão para enviar consultas e mutações, principalmente usando solicitações POST com payloads JSON no corpo da solicitação e recebendo resultados no corpo da resposta.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Overview of GraphQL HTTP](https://graphql.org/graphql-js/express-graphql/#graphqlhttp)
-- [@official@Get Started with GraphQL HTTP](https://graphql.org/learn/serving-over-http/)
+- [@official@Visão geral do GraphQL HTTP](https://graphql.org/graphql-js/express-graphql/#graphqlhttp)
+- [@official@Começando com o GraphQL HTTP](https://graphql.org/learn/serving-over-http/)
 - [@feed@Explore top posts about GraphQL](https://app.daily.dev/tags/graphql?ref=roadmapsh)

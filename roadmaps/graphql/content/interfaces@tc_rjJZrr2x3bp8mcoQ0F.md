@@ -1,7 +1,7 @@
 # Interfaces
 
-Interfaces in GraphQL define a set of fields that implementing types must include. They enable polymorphism by allowing common field querying across different types that implement the same interface, promoting code reuse and consistent API design.
+Interfaces no GraphQL definem um conjunto de campos que os tipos implementadores devem incluir. Eles permitem a polimorfismo permitindo a consulta comum de campos em diferentes tipos que implementam a mesma interface, promovendo o reuso de código e design de API consistente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Get started with Interfaces](https://graphql.org/learn/schema/#interfaces)
+- [@oficial@Comece com Interfaces](https://graphql.org/learn/schema/#interfaces)

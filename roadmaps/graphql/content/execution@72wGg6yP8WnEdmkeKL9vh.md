@@ -1,8 +1,8 @@
-# Execution
+# Execução
 
-Execution in GraphQL is the process of running queries or mutations and returning results to clients. The GraphQL engine performs parsing, validation, and data retrieval steps to produce the final response, coordinating resolver functions to fetch data from various sources.
+A execução em GraphQL é o processo de executar consultas ou mutações e retornar resultados aos clientes. O motor do GraphQL realiza etapas de análise, validação e recuperação de dados para produzir a resposta final, coordenando funções resolutoras para recuperar dados de várias fontes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Get Started with Execution in GraphQL](https://graphql.org/learn/execution/)
-- [@official@Intro to Execution](https://graphql.org/graphql-js/execution/)
+- [@official@Começando com Execução em GraphQL](https://graphql.org/learn/execution/)
+- [@official@Introdução à Execução](https://graphql.org/graphql-js/execution/)

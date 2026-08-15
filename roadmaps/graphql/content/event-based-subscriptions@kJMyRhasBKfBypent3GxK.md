@@ -1,8 +1,8 @@
-# Event-Based Subscriptions
+# Assinaturas Baseadas em Eventos
 
-Event-based subscriptions in GraphQL provide real-time updates by subscribing to specific events or data changes. Clients maintain persistent connections through WebSockets to receive live updates when subscribed events occur, enabling reactive applications with real-time functionality.
+As assinaturas baseadas em eventos em GraphQL fornecem atualizações em tempo real ao se inscrever em eventos específicos ou alterações de dados. Os clientes mantêm conexões persistentes através do WebSockets para receber atualizações em tempo real quando ocorrem eventos inscritos, permitindo aplicativos reativos com funcionalidade em tempo real.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@GraphQL Subscriptions Documentation](https://graphql.org/blog/subscriptions-in-graphql-and-relay/)
-- [@article@GraphQL Subscriptions](https://the-guild.dev/blog/subscriptions-and-live-queries-real-time-with-graphql)
+- [@official@Documentação de Assinaturas em GraphQL](https://graphql.org/blog/subscriptions-in-graphql-and-relay/)
+- [@article@Assinaturas em GraphQL](https://the-guild.dev/blog/subscriptions-and-live-queries-real-time-with-graphql)

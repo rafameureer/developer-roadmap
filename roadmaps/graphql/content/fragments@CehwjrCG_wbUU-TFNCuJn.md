@@ -1,7 +1,7 @@
 # Fragments
 
-Fragments in GraphQL are reusable pieces of queries that retrieve specific fields from one or more types. Defined with the "fragment" keyword, they promote code reuse, reduce duplication, and make complex queries more maintainable by separating common field selections.
+Os fragments em GraphQL são pedaços reutilizáveis de consultas que recuperam campos específicos de um ou mais tipos. Definidos com a palavra-chave "fragment", eles promovem o reuso de código, reduzem a duplicação e tornam as consultas complexas mais manteráveis separando seleções de campo comuns.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Intro to Fragments in GraphQL](https://graphql.org/learn/queries/#fragments)
+- [@official@Introdução aos Fragments em GraphQL](https://graphql.org/learn/queries/#fragments)

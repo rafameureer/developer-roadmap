@@ -1,8 +1,8 @@
-# GraphQL on the Frontend
+# GraphQL no Frontend
 
-GraphQL on the frontend enables efficient data fetching with clients like Apollo, URQL, or Relay. It provides declarative data requirements, intelligent caching, real-time subscriptions, and type safety, allowing frontend applications to request exactly the data they need in a single query.
+O GraphQL no frontend habilita a obtenção de dados eficiente com clientes como Apollo, URQL ou Relay. Ele fornece requisitos declarativos de dados, cache inteligente, assinaturas em tempo real e segurança de tipos, permitindo que as aplicações front-end solicitem exatamente os dados necessários em uma única consulta.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Get started with GraphQL on the frontend](https://www.howtographql.com/react-apollo/0-introduction/)
-- [@feed@Explore top posts about Frontend Development](https://app.daily.dev/tags/frontend?ref=roadmapsh)
+- [@artigo@Comece com o GraphQL no frontend](https://www.howtographql.com/react-apollo/0-introduction/)
+- [@feed@Explore as principais postagens sobre Desenvolvimento Front-end](https://app.daily.dev/tags/frontend?ref=roadmapsh)

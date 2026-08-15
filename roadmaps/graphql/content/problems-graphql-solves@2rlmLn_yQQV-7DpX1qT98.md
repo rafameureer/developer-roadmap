@@ -1,3 +1,3 @@
-# Problems GraphQL Solves
+# Problemas que o GraphQL Resolve
 
-GraphQL solves major API problems including over-fetching (getting unnecessary data), under-fetching (multiple requests needed), inefficient versioning, and lack of flexibility. It enables precise data requests, single queries for multiple resources, seamless versioning through schema evolution, and microservice communication through federation.
+O GraphQL resolve problemas maiores de API, como a sobrecarga (obter dados desnecessários), subrecuperação (necessidade de múltiplos pedidos), versão ineficiente e falta de flexibilidade. Ele permite solicitações de dados precisas, consultas únicas para múltiplos recursos, versão suave através da evolução do esquema e comunicação entre microserviços através da federação.

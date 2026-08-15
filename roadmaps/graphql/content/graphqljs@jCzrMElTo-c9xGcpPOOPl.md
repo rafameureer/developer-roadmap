@@ -1,8 +1,8 @@
 # GraphQL.js
 
-GraphQL.js is the reference implementation of GraphQL for JavaScript and Node.js. It provides the core functionality for parsing, validating, and executing GraphQL queries, serving as the foundation for many other GraphQL tools and libraries in the JavaScript ecosystem.
+GraphQL.js é a implementação de referência do GraphQL para JavaScript e Node.js. Ele fornece a funcionalidade básica para análise, validação e execução de consultas GraphQL, servindo como a base para muitos outros ferramentas e bibliotecas GraphQL no ecossistema JavaScript.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@GraphQL.js Repository](https://github.com/graphql/graphql-js)
-- [@official@GraphQL.js Documentation](https://graphql.org/graphql-js/)
+- [@oficial@Repositório do GraphQL.js](https://github.com/graphql/graphql-js)
+- [@oficial@Documentação do GraphQL.js](https://graphql.org/graphql-js/)

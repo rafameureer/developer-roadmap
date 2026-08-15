@@ -1,7 +1,7 @@
-# Pagination
+# Paginação
 
-Pagination in GraphQL handles large datasets by breaking them into smaller chunks. Common approaches include cursor-based pagination (using cursors for stable pagination) and offset-based pagination (using skip/take), with cursor-based being preferred for performance and consistency.
+A paginação no GraphQL lida com grandes conjuntos de dados dividindo-os em partes menores. Abordagens comuns incluem a paginação baseada em cursor (usando cursores para paginação estável) e a paginação baseada em deslocamento (usando skip/take), com a baseada em cursor sendo preferida por desempenho e consistência.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Get Started with Pagination](https://graphql.org/learn/pagination/)
+- [@oficial@Comece com a Paginação](https://graphql.org/learn/pagination/)

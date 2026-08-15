@@ -1,7 +1,7 @@
-# Serving over Internet
+# Servindo na Internet
 
-Serving GraphQL over the internet involves making a GraphQL server accessible to clients through a public IP address or domain name. This can be done using reverse proxies, cloud services, or serverless functions to expose the GraphQL endpoint publicly.
+Servir GraphQL na internet envolve tornar um servidor GraphQL acessível a clientes através de um endereço IP público ou nome de domínio. Isso pode ser feito usando proxies reversos, serviços em nuvem ou funções sem servidor para expor o ponto final do GraphQL publicamente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Introduction to Serving over HTTPs](https://graphql.org/learn/serving-over-http/)
+- [@official@Introdução ao Serviço sobre HTTPS](https://graphql.org/learn/serving-over-http/)

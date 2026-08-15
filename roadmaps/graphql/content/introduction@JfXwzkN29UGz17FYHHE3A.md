@@ -1,9 +1,9 @@
-# GraphQL Introduction
+# Introdução ao GraphQL
 
-GraphQL is a query language and runtime for APIs that enables clients to request exactly the data they need in a single call. It provides a predictable format, reducing multiple API calls and eliminating over-fetching, making data retrieval more efficient than traditional REST APIs.
+GraphQL é uma linguagem de consulta e tempo de execução para APIs que permite aos clientes solicitar exatamente os dados necessários em uma única chamada. Ele fornece um formato previsível, reduzindo múltiplas chamadas à API e eliminando o sobre-carregamento de dados, tornando a recuperação de dados mais eficiente do que as APIs REST tradicionais.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Introduction to GraphQL](https://graphql.org/learn/)
-- [@official@Getting started with GraphQL](https://graphql.org/)
+- [@oficial@Introdução ao GraphQL](https://graphql.org/learn/)
+- [@oficial@Começando com o GraphQL](https://graphql.org/)
 - [@feed@Explore top posts about GraphQL](https://app.daily.dev/tags/graphql?ref=roadmapsh)

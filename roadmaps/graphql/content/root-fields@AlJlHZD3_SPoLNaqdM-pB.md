@@ -1,7 +1,7 @@
-# Root Fields
+# Campos Raiz
 
-Root fields are the top-level fields available to clients in GraphQL queries and mutations. They serve as entry points for client requests, with Query fields for retrieving data and Mutation fields for modifying data on the server.
+Os campos raiz são os campos de nível superior disponíveis aos clientes em consultas e mutações do GraphQL. Eles servem como pontos de entrada para solicitações de cliente, com campos Query para recuperar dados e campos Mutation para modificar dados no servidor.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Get Started with Root Fields](https://graphql.org/learn/execution/#root-fields-resolvers)
+- [@oficial@Comece com Campos Raiz](https://graphql.org/learn/execution/#root-fields-resolvers)

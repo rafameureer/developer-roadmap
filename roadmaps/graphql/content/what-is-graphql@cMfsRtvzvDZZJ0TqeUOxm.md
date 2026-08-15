@@ -1,9 +1,9 @@
-# What is GraphQL
+# O que é GraphQL
 
-GraphQL is a query language for APIs and server-side runtime that lets clients request exactly the data they need. Unlike REST, it uses a type system to define data structure and allows fetching multiple resources in a single request, reducing over-fetching and under-fetching problems.
+GraphQL é um idioma de consulta para APIs e tempo de execução do lado do servidor que permite aos clientes solicitar exatamente os dados que precisam. Diferentemente do REST, ele usa um sistema de tipos para definir a estrutura dos dados e permite obter múltiplos recursos em uma única solicitação, reduzindo problemas de sobre-solicitação e sub-solicitação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Introduction to graphQL](https://graphql.org/learn/)
-- [@article@Tutorial - What is graphQL?](https://www.howtographql.com/basics/0-introduction/)
-- [@feed@Explore top posts about GraphQL](https://app.daily.dev/tags/graphql?ref=roadmapsh)
+- [@oficial@Introdução ao GraphQL](https://graphql.org/learn/)
+- [@artigo@Tutorial - O que é GraphQL?](https://www.howtographql.com/basics/0-introduction/)
+- [@feed]Explore as principais postagens sobre GraphQL[/feed](https://app.daily.dev/tags/graphql?ref=roadmapsh)

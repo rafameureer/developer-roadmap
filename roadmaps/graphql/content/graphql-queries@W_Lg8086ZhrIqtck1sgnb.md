@@ -1,8 +1,8 @@
-# GraphQL Queries
+# Consultas GraphQL
 
-GraphQL queries are client requests to retrieve specific data from a server. They specify exactly which fields should be returned, using a hierarchical structure that matches the data requirements. Queries are written in GraphQL syntax and executed by the server to fetch the requested data.
+As consultas GraphQL são solicitações de clientes para recuperar dados específicos de um servidor. Elas especificam exatamente quais campos devem ser retornados, usando uma estrutura hierárquica que corresponde às exigências de dados. As consultas são escritas na sintaxe do GraphQL e executadas pelo servidor para obter os dados solicitados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@What are GraphQL Queries?](https://graphql.org/learn/queries/)
-- [@feed@Explore top posts about GraphQL](https://app.daily.dev/tags/graphql?ref=roadmapsh)
+- [@oficial@O que são Consultas GraphQL?](https://graphql.org/learn/queries/)
+- [@feed@Explore as principais postagens sobre GraphQL](https://app.daily.dev/tags/graphql?ref=roadmapsh)

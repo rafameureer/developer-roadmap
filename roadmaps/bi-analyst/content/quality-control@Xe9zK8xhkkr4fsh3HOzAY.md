@@ -1,7 +1,7 @@
-# Quality Control
+# Controle de Qualidade
 
-Quality control in manufacturing involves systematically monitoring and evaluating products or processes to ensure they meet predefined standards and specifications. This includes identifying defects, analyzing their root causes, and implementing corrective actions to improve product quality and process efficiency. The goal is to minimize errors, reduce waste, and consistently deliver high-quality products to customers.
+O controle de qualidade na indústria envolve monitorar e avaliar sistematicamente produtos ou processos para garantir que eles atendam a padrões e especificações pré-definidos. Isso inclui identificar defeitos, analisar suas causas raízes e implementar medidas correctivas para melhorar a qualidade dos produtos e a eficiência do processo. O objetivo é minimizar erros, reduzir desperdício e entregar consistentemente produtos de alta qualidade aos clientes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Business Intelligence for Manufacturing: Optimizing Production with Data](https://okundata.com/blog/business-intelligence-for-manufacturing)
+- [@article@Inteligência de Negócios na Indústria: Otimizando a Produção com Dados](https://okundata.com/blog/business-intelligence-for-manufacturing)

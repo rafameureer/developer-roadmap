@@ -1,9 +1,9 @@
-# P-Value
+# Valor P
 
-The p-value is a number that tells you how likely it is that your data could have occurred under the null hypothesis. It represents the probability of observing a test statistic as extreme as, or more extreme than, the one computed from your sample data, assuming the null hypothesis is true. A small p-value (typically ≤ 0.05) suggests strong evidence against the null hypothesis, so you reject the null hypothesis. A large p-value (> 0.05) suggests weak evidence against the null hypothesis, so you fail to reject the null hypothesis.
+O valor-p é um número que indica a probabilidade de que seus dados tenham ocorrido sob a hipótese nula. Ele representa a probabilidade de observar uma estatística de teste tão extrema quanto, ou mais extrema que, aquela calculada a partir dos seus dados amostrais, supondo que a hipótese nula seja verdadeira. Um pequeno valor-p (geralmente ≤ 0,05) sugere fortes evidências contra a hipótese nula, então você rejeita a hipótese nula. Um grande valor-p (> 0,05) sugere evidências fracos contra a hipótese nula, então você não rejeita a hipótese nula.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@P-value](https://en.wikipedia.org/wiki/P-value)
-- [@article@P-Value: What It Is, How to Calculate It, and Examples](https://www.investopedia.com/terms/p/p-value.asp)
-- [@video@What Is A P-Value? - Clearly Explained](https://www.youtube.com/watch?v=ukcFrzt6cHk)
+- [@artigo@Valor P](https://en.wikipedia.org/wiki/P-value)
+- [@artigo@Valor-P: O Que É, Como Calcular e Exemplos](https://www.investopedia.com/terms/p/p-value.asp)
+- [@vídeo@O que é um Valor P? - Explicado Claramente](https://www.youtube.com/watch?v=ukcFrzt6cHk)

@@ -1,8 +1,8 @@
-# Variables and Data Types
+# Variáveis e Tipos de Dados
 
-Variables are characteristics or attributes that can be measured or counted, and they can take on different values. Data types classify these variables based on the kind of values they can hold, such as numbers (integers, decimals), text (strings), or logical values (true/false). Understanding variables and their data types is fundamental for organizing, analyzing, and interpreting data effectively.
+As variáveis são características ou atributos que podem ser medida ou contada, e elas podem assumir diferentes valores. Os tipos de dados classificam essas variáveis com base no tipo de valores que eles podem conter, como números (inteiros, decimais), texto (strings) ou valores lógicos (verdadeiro/falso). Entender as variáveis e seus tipos de dados é fundamental para organizar, analisar e interpretar os dados de forma eficaz.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Variable Data Types Explained](https://www.freecodecamp.org/news/variable-data-types-explained/)
-- [@article@Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101)
+- [@artigo@Tipos de Dados de Variável Explained](https://www.freecodecamp.org/news/variable-data-types-explained/)
+- [@curso@Introdução a Estatística](https://www.udacity.com/course/intro-to-statistics--st101)

@@ -1,9 +1,9 @@
-# R Programming for Business Intelligence
+# Programação em R para Inteligência de Negócios
 
-R is a programming language and free software environment widely used for statistical computing and graphics. For BI analysts, R is valuable because it allows for advanced data analysis, statistical modeling, and the creation of custom visualizations beyond the capabilities of many standard BI tools. It empowers analysts to uncover deeper insights, build predictive models, and communicate findings effectively.
+O R é um idioma de programação e ambiente de software livre amplamente utilizado para cálculos estatísticos e gráficos. Para analistas de BI, o R é valioso porque permite análises avançadas de dados, modelagem estatística e a criação de visualizações personalizadas além das capacidades de muitos ferramentários BI padrão. Ele empodera os analistas a descobrir insights mais profundos, construir modelos preditivos e comunicar seus achados de forma eficaz.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@book@R for Data Science](https://r4ds.hadley.nz/)
+- [@book@R para Ciência de Dados](https://r4ds.hadley.nz/)
 - [@official@R](https://www.r-project.org/)
-- [@video@R Programming For Beginners](https://www.youtube.com/watch?v=KlsYCECWEWE&list=PLEiEAq2VkUUKAw0aAJ1W4jpZ1q9LpX4yG)
+- [@video@Programação em R Para Iniciantes](https://www.youtube.com/watch?v=KlsYCECWEWE&list=PLEiEAq2VkUUKAw0aAJ1W4jpZ1q9LpX4yG)

@@ -1,7 +1,7 @@
-# Customer Lifetime Value (CLV)
+# Valor de Vida do Cliente (CLV)
 
-Customer Lifetime Value (CLV) predicts the total revenue a business can expect from a single customer account throughout their relationship. It considers factors like purchase frequency, average order value, and customer lifespan to estimate the long-term profitability of each customer. This metric helps businesses understand which customer segments are most valuable and informs decisions about customer acquisition, retention, and marketing strategies.
+Valor de Vida do Cliente (CLV) prevee o total da receita que uma empresa pode esperar de uma conta de cliente individual ao longo de sua relação. Ele considera fatores como frequência de compra, valor médio do pedido e a vida útil do cliente para estimar a rentabilidade a longo prazo de cada cliente. Esta métrica ajuda as empresas a entender quais segmentos de clientes são mais valiosos e informa decisões sobre aquisição de clientes, retenção e estratégias de marketing.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What Customer Lifetime Value (CLV) Is and How to Calculate It](https://www.netsuite.com/portal/resource/articles/ecommerce/customer-lifetime-value-clv.shtml)
+- [@artigo@O que é Valor de Vida do Cliente (CLV) e como calcular](https://www.netsuite.com/portal/resource/articles/ecommerce/customer-lifetime-value-clv.shtml)

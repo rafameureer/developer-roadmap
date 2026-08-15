@@ -1,7 +1,7 @@
-# Data Quality
+# Qualidade dos Dados
 
-Data quality refers to the overall usability and reliability of data. It encompasses various dimensions like accuracy, completeness, consistency, timeliness, validity, and uniqueness. High-quality data is essential for making informed decisions and drawing accurate insights, while poor data quality can lead to flawed analyses and incorrect conclusions.
+A qualidade dos dados se refere à usabilidade e confiabilidade geral dos dados. Ele abrange várias dimensões como precisão, completude, consistência, atualização, validade e unicidade. Dados de alta qualidade são essenciais para tomar decisões informadas e obter insights precisos, enquanto uma baixa qualidade dos dados pode levar a análises flawadas e conclusões incorretas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What Is Data Quality?](https://www.ibm.com/think/topics/data-quality)
+- [@artigo@O que é Qualidade dos Dados?](https://www.ibm.com/think/topics/data-quality)

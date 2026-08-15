@@ -1,16 +1,16 @@
-# Data Transformation Techniques
+# Técnicas de Transformação de Dados
 
-Data transformation techniques involve changing data from one format or structure to another. Common techniques include:
+As técnicas de transformação de dados envolvem alterar os dados de um formato ou estrutura para outro. Técnicas comuns incluem:
 
-*   **Cleaning:** Handling missing values, correcting errors, and removing duplicates.
-*   **Filtering:** Selecting specific data based on defined criteria.
-*   **Aggregation:** Summarizing data (e.g., calculating sums, averages, counts).
-*   **Joining:** Combining data from multiple sources based on related fields.
-*   **Pivoting:** Rotating data to change rows into columns or vice versa.
-*   **Normalization/Standardization:** Scaling numerical data to a specific range.
-*   **Data Type Conversion:** Changing the data type of a field (e.g., string to integer).
+*   **Limpeza:** Lidando com valores em branco, corrigindo erros e removendo duplicatas.
+*   **Filtro:** Selecionando dados específicos com base em critérios definidos.
+*   **Agregação:** Resumindo os dados (por exemplo, calculando somas, médias, contagens).
+*   **Junção:** Combinando dados de várias fontes com base em campos relacionados.
+*   **Pivoteamento:** Rotacionando os dados para mudar linhas em colunas ou vice-versa.
+*   **Normalização/Standardização:** Dimensionando dados numéricos a um intervalo específico.
+*   **Conversão de Tipo de Dado:** Mudando o tipo de dado de um campo (por exemplo, string para inteiro).
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Data Transformation](https://www.qlik.com/us/data-management/data-transformation)
-- [@video@What is Data Transformation? (Types of Data Transformations and Examples!)](https://www.youtube.com/watch?v=TY0NAPAWR3M)
+- [@artigo@Transformação de Dados](https://www.qlik.com/us/data-management/data-transformation)
+- [@vídeo@O que é Transformação de Dados? (Tipos de Transformações de Dados e Exemplos!)](https://www.youtube.com/watch?v=TY0NAPAWR3M)

@@ -1,7 +1,7 @@
-# Cloud Data Warehouses
+# Data Warehouses na Nuvem
 
-Cloud data warehouses are databases designed for analytical workloads that are hosted on cloud computing platforms. They allow businesses to store and analyze large volumes of data from various sources in a centralized, scalable, and cost-effective manner. These warehouses are optimized for read-heavy operations, enabling fast query performance for business intelligence and reporting.
+Data Warehouses na Nuvem são bancos de dados projetados para cargas de trabalho analíticas que estão hospedados em plataformas de computação na nuvem. Eles permitem que as empresas armazenem e analisem grandes volumes de dados de várias fontes de maneira centralizada, escalável e de custo eficiente. Esses data warehouses são otimizados para operações de leitura pesadas, permitindo desempenho rápido em consultas para inteligência de negócios e relatórios.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is a Data Warehouse?](https://cloud.google.com/learn/what-is-a-data-warehouse)
+- [@artigo@O que é um Data Warehouse?](https://cloud.google.com/learn/what-is-a-data-warehouse)

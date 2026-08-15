@@ -1,8 +1,8 @@
-# Chart Categories
+# Categorias de Gráficos
 
-Charts are visual representations of data, used to identify patterns, trends, and relationships. They generally fall into a few main categories: **comparison** charts (like bar charts and column charts) which show differences between values; **relationship** charts (such as scatter plots) that reveal correlations between variables; **composition** charts (like pie charts and stacked area charts) which display parts of a whole; and **distribution** charts (histograms and box plots) that illustrate the spread and frequency of data. Choosing the right chart type depends on the data you have and the story you want to tell.
+Gráficos são representações visuais de dados, usados para identificar padrões, tendências e relações. Geralmente se enquadram em algumas categorias principais: **comparação** (como gráficos de barras e colunas) que mostram diferenças entre valores; **relacionamento** (como gráficos de dispersão) que revelam correlações entre variáveis; **composição** (como gráficos de pizza e árvores de área empilhada) que exibem partes de um todo; e **distribuição** (histogramas e diagramas de caixa) que ilustram a dispersão e frequência dos dados. A escolha do tipo certo de gráfico depende dos dados disponíveis e da história que você deseja contar.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@The Python Graph Gallery](https://python-graph-gallery.com/)
-- [@article@The Data Visualisation Catalogue](https://datavizcatalogue.com/)
+- [@artigo@The Python Graph Gallery](https://python-graph-gallery.com/)
+- [@artigo@The Data Visualisation Catalogue](https://datavizcatalogue.com/)

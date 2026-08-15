@@ -1,7 +1,7 @@
-# Types of data
+# Tipos de Dados
 
-Data types are categorized into structured, unstructured, and semi-structured data, differing in their organization and format
+Os tipos de dados são categorizados em estruturados, não estruturados e semi-estruturados, diferindo em sua organização e formato.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Data Basics: Structured, Unstructured, and Semi-structured Data](https://www.alation.com/blog/structured-unstructured-semi-structured-data/)
+- [@artigo@Básico dos Dados: Estruturados, Não Estruturados e Semi-Estruturados](https://www.alation.com/blog/structured-unstructured-semi-structured-data/)

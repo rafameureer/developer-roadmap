@@ -1,7 +1,7 @@
-# Writing Executive Summaries
+# Redação de Sumários Executivos
 
-Executive summaries are concise overviews of longer reports or analyses, designed to quickly inform decision-makers. The best executive summaries clearly state the problem or opportunity, the key findings, the recommended actions, and the expected benefits. They should be brief, typically no more than one page, and written in plain language, avoiding technical jargon. Prioritize clarity and focus on the most important information, ensuring the summary is easily understood and actionable.
+Sumários executivos são resumos concisos de relatórios ou análises mais longos, projetados para informar rapidamente os tomadores de decisão. Os melhores sumários executivos claramente estatam o problema ou oportunidade, as principais descobertas, as ações recomendadas e os benefícios esperados. Eles devem ser curtos, geralmente não mais que uma página, e escritos em linguagem simples, evitando jargão técnico. Priorize a clareza e concentre-se nas informações mais importantes, garantindo que o resumo seja facilmente compreensível e executável.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@How to write an executive summary, with examples](https://asana.com/resources/executive-summary-examples)
+- [@artigo@Como escrever um sumário executivo, com exemplos](https://asana.com/resources/executive-summary-examples)

@@ -1,3 +1,3 @@
-# Key Business Functions
+# Funções de Negócio Chave
 
-Key business functions are the specialized activities that a company undertakes to operate effectively and achieve its goals. These functions typically include areas like finance, marketing, operations, human resources, sales, nd research & development, each playing a distinct role in the overall success of the organization. Understanding how these functions interact and contribute to the business is crucial for analyzing performance and identifying areas for improvement.
+As funções de negócios chave são as atividades especializadas que uma empresa realiza para operar efetivamente e atingir seus objetivos. Essas funções normalmente incluem áreas como finanças, marketing, operações, recursos humanos, vendas e pesquisa & desenvolvimento, cada uma desempenhando um papel distinto na sucesso geral da organização. Entender como essas funções interagem e contribuem para o negócio é crucial para analisar o desempenho e identificar áreas para melhoria.

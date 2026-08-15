@@ -1,7 +1,7 @@
-# Databases
+# Bases de Dados
 
-A database is a collection of useful data of one or more related organizations structured in a way to make data an asset to the organization. A database management system is a software designed to assist in maintaining and extracting large collections of data in a timely fashion. Each database type has its own set of features and use cases, and the choice of which database to use will depend on the specific requirements of the application.
+Uma base de dados é uma coleção de dados úteis de uma ou mais organizações relacionadas estruturada de forma a tornar os dados um ativo para a organização. Um sistema gerenciador de banco de dados é um software projetado para auxiliar na manutenção e extração de grandes conjuntos de dados de maneira eficiente. Cada tipo de banco de dados tem seu próprio conjunto de características e casos de uso, e a escolha do qual banco de dados usar dependerá dos requisitos específicos da aplicação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is a database?://www.ibm.com/think/topics/database](https://www.ibm.com/think/topics/database)
+- [@article@O que é um banco de dados?](https://www.ibm.com/think/topics/database)

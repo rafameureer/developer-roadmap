@@ -1,3 +1,3 @@
-# Heatmaps
+# Mapas de calor
 
-A heatmap is a graphical representation of data where values are depicted using color. It allows you to quickly identify patterns, correlations, and variations in large datasets by representing data points as colored cells in a matrix. The color intensity typically corresponds to the magnitude of the value, making it easy to spot high and low values at a glance.
+Um mapa de calor é uma representação gráfica de dados onde os valores são exibidos usando cores. Ele permite identificar rapidamente padrões, correlações e variações em grandes conjuntos de dados representando pontos de dados como células coloridas em uma matriz. A intensidade da cor geralmente corresponde à magnitude do valor, tornando fácil destacar valores altos e baixos a vista.

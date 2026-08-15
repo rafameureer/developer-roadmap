@@ -1,7 +1,7 @@
-# Types of Errors
+# Erros Tipos
 
-In hypothesis testing, a Type I error (false positive) occurs when you incorrectly reject a true null hypothesis, while a Type II error (false negative) happens when you fail to reject a false null hypothesis. These are the two types of mistakes that can be made when deciding whether to accept or reject the null hypothesis, with their probabilities denoted by alpha (α) and beta (β), respectively.
+Em testes de hipótese, um erro do tipo I (falso positivo) ocorre quando você rejeita incorretamente uma hipótese nula verdadeira, enquanto um erro do tipo II (falso negativo) acontece quando você não rejeita uma hipótese nula falsa. São os dois tipos de erros que podem ser cometidos ao decidir aceitar ou rejeitar a hipótese nula, com suas probabilidades notadas por alfa (α) e beta (β), respectivamente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Type I & Type II Errors | Differences, Examples, Visualizations](https://www.scribbr.com/statistics/type-i-and-type-ii-errors/)
+- [@article@Erros do Tipo I & Erros do Tipo II | Diferenças, Exemplos, Visualizações](https://www.scribbr.com/statistics/type-i-and-type-ii-errors/)

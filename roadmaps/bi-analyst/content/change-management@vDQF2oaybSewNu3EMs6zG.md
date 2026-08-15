@@ -1,3 +1,3 @@
-# Change Management
+# Gerenciamento de Mudança
 
-Change management is the process, tools, and techniques used to manage the people-side of change to achieve the required business outcome. It involves helping individuals and teams understand, accept, and adapt to changes in their work environment, processes, technologies, or organizational structure. Effective change management minimizes disruption, resistance, and negative impacts, while maximizing adoption and realizing the benefits of the change initiative.
+O gerenciamento de mudança é o processo, ferramentas e técnicas usadas para lidar com a parte humana da mudança para atingir o resultado empresarial necessário. Envolve ajudar indivíduos e equipes a entenderem, aceitem e adaptem-se às mudanças em seu ambiente de trabalho, processos, tecnologias ou estrutura organizacional. Um gerenciamento de mudança eficaz minimiza a interrupção, resistência e impactos negativos, enquanto maximiza a adoção e realiza os benefícios da iniciativa de mudança.

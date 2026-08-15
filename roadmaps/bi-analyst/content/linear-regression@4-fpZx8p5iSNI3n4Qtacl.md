@@ -1,9 +1,9 @@
-# Linear Regression
+# Regressão Linear
 
-Linear regression is a statistical method used to model the relationship between a dependent variable and one or more independent variables by fitting a linear equation to observed data. It aims to find the best-fitting line (in simple linear regression) or plane (in multiple linear regression) that minimizes the difference between the predicted values and the actual values of the dependent variable. This allows for predicting future values or understanding the influence of the independent variables on the dependent variable.
+A regressão linear é um método estatístico usado para modelar a relação entre uma variável dependente e uma ou mais variáveis independentes, ajustando uma equação linear aos dados observados. Ela visa encontrar a linha de melhor ajuste (na regressão simples) ou plano (na regressão múltipla) que minimiza a diferença entre os valores preditos e os valores reais da variável dependente. Isso permite prever valores futuros ou entender o impacto das variáveis independentes na variável dependente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
-- [@article@What Is Linear Regression?](https://www.ibm.com/think/topics/linear-regression)
-- [@article@Linear regression](https://en.wikipedia.org/wiki/Linear_regression)
+- [@curso@Introdução à Estatística Inferencial](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
+- [@artigo@O que é Regressão Linear?](https://www.ibm.com/think/topics/linear-regression)
+- [@artigo@Regressão linear](https://en.wikipedia.org/wiki/Linear_regression)

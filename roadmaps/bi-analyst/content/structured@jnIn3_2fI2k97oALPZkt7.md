@@ -1,3 +1,3 @@
-# Structured Data
+# Dados Estruturados
 
-Structured data refers to information organized in a predefined format, typically stored in relational databases. This data has a defined length and type, making it easily searchable and analyzable. Common examples include data found in spreadsheets or SQL databases, where information is organized into rows and columns.
+Dados estruturados se referem a informações organizadas em um formato predefinido, geralmente armazenadas em bancos de dados relacionais. Esses dados têm uma definição de comprimento e tipo, tornando-os fáceis de pesquisar e analisar. Exemplos comuns incluem dados encontrados em planilhas ou bancos de dados SQL, onde as informações são organizadas em linhas e colunas.

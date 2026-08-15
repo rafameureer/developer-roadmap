@@ -1,3 +1,3 @@
-# Public Health Data Analytics
+# Análise de dados em saúde pública
 
-Data analytics in public health uses information to understand and tackle health issues affecting large groups of people. During events like pandemics, analyzing data on disease spread, patient demographics, and resource availability helps identify hotspots, predict future outbreaks, and optimize the distribution of medical supplies. This allows public health officials to make informed decisions, implement targeted interventions, and ultimately improve health outcomes for the population.
+A análise de dados em saúde pública usa informações para entender e abordar problemas de saúde que afetam grandes grupos de pessoas. Durante eventos como pandemias, analisar dados sobre a disseminação do doença, a demografia dos pacientes e a disponibilidade de recursos ajuda a identificar focos quentes, prever futuras epidemias e otimizar a distribuição de suprimentos médicos. Isso permite que os órgãos públicos de saúde tomem decisões informadas, implementem intervenções direcionadas e, finalmente, melhorem os resultados de saúde da população.

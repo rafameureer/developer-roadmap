@@ -1,7 +1,7 @@
-# Design Principles for Data Visualization
+# Princípios de Design para a Visualização de Dados
 
-Effective data visualization design principles include Clarity, Simplicity, Accuracy, and Consistency, ensuring your visuals are easy to understand and don't mislead the audience. Also important are the context (i.e. providing enough information to understand the data); choosing the right chart type to best tell the story; and applying Design Principles like balance, contrast, and emphasis to create engaging and effective visuals.
+Princípios eficazes de design para visualização de dados incluem Clareza, Simplicidade, Precisão e Consistência, garantindo que suas visuais sejam fáceis de entender e não enganem o público. Também importantes são o contexto (ou seja, fornecer informações suficientes para entender os dados); escolher o tipo certo de gráfico para melhor contar a história; e aplicar Princípios de Design como equilíbrio, contraste e ênfase para criar visuais envolventes e eficazes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@10 Essential Data Visualization Design Principles for Clearer Insights](https://www.tenscope.com/post/data-visualization-design-principles-for-clarity)
+- [@artigo@10 Principais Princípios de Design para Visualização de Dados Claras](https://www.tenscope.com/post/data-visualization-design-principles-for-clarity)

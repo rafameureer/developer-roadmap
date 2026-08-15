@@ -1,7 +1,7 @@
-# Trends in Time Series Analysis
+# Tendências na Análise de Séries Temporais
 
-Trends in time series analysis refer to the long-term movement or direction of data points in a dataset over a period of time. Identifying trends helps to understand the underlying patterns and predict future values. These trends can be upward (increasing), downward (decreasing), or stationary (relatively constant) and are often analyzed to make informed decisions and forecasts.
+As tendências na análise de séries temporais se referem ao movimento ou direção a longo prazo dos pontos de dados em um conjunto de dados ao longo de um período de tempo. Identificar as tendências ajuda a entender os padrões subjacentes e prever valores futuros. Essas tendências podem ser ascendentes (aumentando), descendentes (diminuindo) ou estacionárias (relativamente constantes) e são frequentemente analisadas para tomar decisões informadas e previsões.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Complete Time Series Analysis and Forecasting with Python](https://www.youtube.com/watch?v=eKiXtGzEjos)
+- [@artigo@Análise Completa e Previsão de Séries Temporais com Python](https://www.youtube.com/watch?v=eKiXtGzEjos)

@@ -1,3 +1,3 @@
-# BI Analyst
+# Analista de BI
 
-A Business Intelligence (BI) Analyst interprets data to identify patterns and trends, providing insights that help organizations make better decisions. They work with data from various sources, clean and transform it, and then use tools and techniques to analyze it. The goal is to translate complex data into actionable recommendations for improving business performance.
+O Analista de Business Intelligence (BI) interpreta dados para identificar padrões e tendências, fornecendo insights que ajudam as organizações a tomar decisões melhores. Eles trabalham com dados de várias fontes, limpam e transformam-os, e depois usam ferramentas e técnicas para analisá-los. O objetivo é traduzir dados complexos em recomendações práticas para melhorar o desempenho da empresa.

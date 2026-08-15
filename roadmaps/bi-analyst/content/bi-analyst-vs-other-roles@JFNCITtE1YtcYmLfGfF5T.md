@@ -1,7 +1,7 @@
-# BI Analyst vs. Other Roles
+# BI Analyst vs. Outras Funções
 
-A BI Analyst focuses on analyzing data (normally, structured data stored in a data warehouse) and leverage it to create insights and recommendations for business improvements. This role differs from other data-related roles like **Data Scientists**, who build predictive models, or **Data Engineers**, who focus on building and maintaining data infrastructure. While a BI Analyst uses data to understand past and current performance, other roles might focus on predicting future outcomes or ensuring the data is readily available for analysis.
+Um BI Analyst se concentra em analisar dados (normalmente, dados estruturados armazenados em um data warehouse) e usá-los para criar insights e recomendações para melhorias de negócios. Esta função difere das outras funções relacionadas aos dados como **Data Scientists**, que construem modelos preditivos, ou **Data Engineers**, que se concentram na construção e manutenção da infraestrutura de dados. Enquanto um BI Analyst usa dados para entender o desempenho passado e atual, outras funções podem focar em prever resultados futuros ou garantir que os dados estejam disponíveis para análise.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@The Types of Data Science Roles Explained](https://365datascience.com/career-advice/types-of-data-science-roles-explained/)
+- [@artigo@Os Tipos de Funções de Data Science Explained](https://365datascience.com/career-advice/types-of-data-science-roles-explained/)

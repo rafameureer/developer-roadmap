@@ -1,8 +1,8 @@
-# Interquartile Range (IQR)
+# Intervalo Interquartil (IQR)
 
-The Interquartile Range (IQR) is a measure of statistical dispersion, representing the spread of the middle 50% of a dataset. It's calculated as the difference between the third quartile (Q3) and the first quartile (Q1). The IQR is resistant to outliers, making it a robust measure of variability when extreme values are present.
+O Intervalo Interquartil (IQR) é uma medida de dispersão estatística, representando a distribuição dos 50% do meio de um conjunto de dados. É calculado como a diferença entre o terceiro quartil (Q3) e o primeiro quartil (Q1). O IQR é resistente a outliers, tornando-se uma medida robusta de variabilidade quando valores extremos estão presentes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Interquartile range](https://en.wikipedia.org/wiki/Interquartile_range)
-- [@article@How to Find Interquartile Range (IQR)](https://www.scribbr.com/statistics/interquartile-range/)
+- [@artigo@Intervalo Interquartil](https://en.wikipedia.org/wiki/Interquartile_range)
+- [@artigo@Como Encontrar o Intervalo Interquartil (IQR)](https://www.scribbr.com/statistics/interquartile-range/)

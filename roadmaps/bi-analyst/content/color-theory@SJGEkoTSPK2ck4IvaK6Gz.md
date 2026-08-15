@@ -1,8 +1,8 @@
-# Color Theory
+# Teoria do Corre
 
-Color theory is a set of principles that guide how colors are mixed, combined, and used to create visually appealing and effective designs. It encompasses understanding the color wheel, color harmonies, and the psychological effects of different colors. Applying color theory helps ensure that visualizations are not only aesthetically pleasing but also communicate data accurately and effectively.
+A teoria do corre é um conjunto de princípios que orientam como cores são misturadas, combinadas e usadas para criar designs visuais atraentes e eficazes. Ela abrange o entendimento da roda dos cores, harmonias de cores e os efeitos psicológicos de diferentes cores. Aplicar a teoria do corre ajuda a garantir que as visualizações não só sejam esteticamente agradáveis, mas também comuniquem dados com precisão e eficácia.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@How to choose colors for data visualizations](https://www.atlassian.com/data/charts/how-to-choose-colors-data-visualization)
-- [@video@Why Colors Matter in Data Visualization? What is Color Theory?](https://www.youtube.com/watch?v=Zs-Rbkr9LVI)
+- [@artigo@Como escolher cores para visualizações de dados](https://www.atlassian.com/data/charts/how-to-choose-colors-data-visualization)
+- [@vídeo@Por que as Cores Importam na Visualização de Dados? O Que é a Teoria do Corre?](https://www.youtube.com/watch?v=Zs-Rbkr9LVI)

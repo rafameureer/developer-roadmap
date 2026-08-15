@@ -1,7 +1,7 @@
-# Categorical vs Numerical
+# Categórico vs Numérico
 
-Categorical data describes groups or qualities and uses words or labels (e.g., hair color), while numerical data represents measurable quantities with numbers (e.g., height). Numerical data can be discrete (countable, like the number of books) or continuous (measurable within a range, like temperature), whereas categorical data can be nominal (unordered categories, like gender) or ordinal (ordered categories, like shirt sizes).
+Os dados categóricos descrevem grupos ou qualidades e usam palavras ou rótulos (por exemplo, cor do cabelo), enquanto os dados numéricos representam quantidades medíveis com números (por exemplo, altura). Os dados numéricos podem ser discretos (contáveis, como o número de livros) ou contínuos (medidos em um intervalo, como temperatura), enquanto os dados categóricos podem ser nominais (categorias não ordenadas, como gênero) ou ordinais (categorias ordenadas, como tamanhos de camisa).
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101)
+- [@artigo@Introdução à Estatística](https://www.udacity.com/course/intro-to-statistics--st101)

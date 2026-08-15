@@ -1,9 +1,9 @@
 # dbt
 
-dbt, also known as the data build tool, is designed to simplify the management of data warehouses and transform the data within. This is primarily the T, or transformation, within ELT (or sometimes ETL) processes. It allows for easy transition between data warehouse types, such as Snowflake, BigQuery, Postgres, or DuckDB. dbt also provides the ability to use SQL across teams of multiple users, simplifying interaction. In addition, dbt translates between SQL dialects as appropriate to connect to different data sources and warehouses.
+dbt, também conhecido como a ferramenta de construção de dados, é projetada para simplificar o gerenciamento de data warehouses e transformar os dados dentro. Isso é principalmente a T, ou transformação, dentro dos processos ELT (ou às vezes ETL). Ele permite uma transição fácil entre tipos de data warehouse, como Snowflake, BigQuery, Postgres ou DuckDB. O dbt também fornece a capacidade de usar SQL em equipes de usuários múltiplos, simplificando a interação. Além disso, o dbt traduz entre dialectos SQL conforme necessário para se conectar a diferentes fontes e data warehouses.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@dbt Official Course](https://learn.getdbt.com/catalog)
+- [@course@Curso Oficial do dbt](https://learn.getdbt.com/catalog)
 - [@official@dbt](https://www.getdbt.com/product/what-is-dbt)
-- [@official@dbt Docs](https://docs.getdbt.com/docs/build/documentation)
+- [@official@Documentação do dbt](https://docs.getdbt.com/docs/build/documentation)

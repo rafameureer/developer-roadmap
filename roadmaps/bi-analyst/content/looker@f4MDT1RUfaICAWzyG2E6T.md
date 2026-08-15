@@ -1,8 +1,8 @@
 # Looker
 
-Looker is a Google cloud-based business intelligence and data analytics platform. It allows users to explore, analyze, and visualize data to gain insights and make data-driven decisions. Looker is known for its ability to connect to various data sources, create custom dashboards, and generate reports. It also facilitates the integration of analytics, visualizations, and relevant information into business processes.
+Looker é uma plataforma de inteligência empresarial e análise de dados baseada em nuvem do Google. Ele permite que usuários explorem, analisem e visualizem dados para obter insights e tomar decisões baseadas em dados. Looker é conhecido por sua capacidade de se conectar a várias fontes de dados, criar painéis personalizados e gerar relatórios. Ele também facilita a integração de análises, visualizações e informações relevantes em processos empresariais.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@ooker business intelligence platform embedded analytics](https://cloud.google.com/looker)
-- [@official@What is Looker?](ttps://www.youtube.com/watch?v=EmkNPAzla0Y&pp=0gcJCfwAo7VqN5tD)
+- [@oficial@Plataforma de análise incorporada do Looker](https://cloud.google.com/looker)
+- [@oficial@O que é o Looker?](ttps://www.youtube.com/watch?v=EmkNPAzla0Y&pp=0gcJCfwAo7VqN5tD)

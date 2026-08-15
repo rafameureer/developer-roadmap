@@ -1,3 +1,3 @@
-# IoT Data Sources
+# Fontes de Dados IoT
 
-IoT (Internet of Things) data sources refer to the vast array of devices and sensors connected to the internet that generate data. These devices, ranging from smart home appliances and wearable fitness trackers to industrial sensors and connected vehicles, continuously collect and transmit information about their environment or usage. This data can include measurements like temperature, location, pressure, speed, and a multitude of other variables, providing a rich stream of real-time insights.
+As fontes de dados IoT (Internet das Coisas) se referem ao amplo conjunto de dispositivos e sensores conectados à internet que geram dados. Esses dispositivos variam desde aplicativos domésticos inteligentes e rastreadores de fitness portáteis até sensores industriais e veículos conectados, continuamente coletando e transmitindo informações sobre seu ambiente ou uso. Esses dados podem incluir medições como temperatura, localização, pressão, velocidade e uma variedade multitudinosa de outras variáveis, fornecendo uma rica corrente de insights em tempo real.

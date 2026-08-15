@@ -1,3 +1,3 @@
-# Operational BI
+# BI Operacional
 
-Operational planning is the starting point for implementing the actions and goals outlined by tactical planning; aiming to achieve the objectives established in strategic decisions. Operational planning focuses on short-term activities, typically with a 3-6 month horizon. All sectors of the organization are involved in this process, dedicating themselves to monitoring daily activities to ensure execution.
+O planejamento operacional é o ponto de partida para implementar as ações e objetivos definidos pelo planejamento tático; com o objetivo de atingir os objetivos estabelecidos pelas decisões estratégicas. O planejamento operacional se concentra em atividades de curto prazo, típicamente com um horizonte de 3-6 meses. Todos os setores da organização estão envolvidos nesse processo, dedicando-se a monitorar as atividades diárias para garantir a execução.

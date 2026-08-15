@@ -1,7 +1,7 @@
 # CSV
 
-CSV (Comma Separated Values) is a plain text file format used to store tabular data, such as spreadsheets or databases. Each line in a CSV file represents a row of data, and the values within each row are separated by commas. It's a simple and widely supported format for exchanging data between different applications.
+CSV (Valores Separados por Vírgula) é um formato de arquivo de texto simples usado para armazenar dados tabulares, como planilhas ou bancos de dados. Cada linha em um arquivo CSV representa uma linha de dados e os valores dentro de cada linha são separados por vírgulas. É um formato simples e amplamente suportado para a troca de dados entre diferentes aplicativos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Comma-Separated Values](https://en.wikipedia.org/wiki/Comma-separated_values)
+- [@artigo@Valores Separados por Vírgula](https://en.wikipedia.org/wiki/Comma-separated_values)

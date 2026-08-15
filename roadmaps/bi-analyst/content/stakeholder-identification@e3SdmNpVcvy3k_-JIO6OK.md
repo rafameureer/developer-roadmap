@@ -1,7 +1,7 @@
-# Stakeholder Identification
+# Identificação de Stakeholders
 
-**Stakeholder identification** is the process of determining who the key individuals or groups are that have an interest in, or are affected by, a project or business initiative. This involves understanding their roles, influence, and potential impact on the project's success. Identifying stakeholders early and accurately is crucial for effective communication, managing expectations, and ensuring that the project aligns with the needs and goals of all relevant parties.
+A **identificação de stakeholders** é o processo de determinar quem são os indivíduos ou grupos-chave que têm interesse em, ou são afetados por, um projeto ou iniciativa empresarial. Isso envolve entender seus papéis, influência e potencial impacto no sucesso do projeto. Identificar stakeholders cedo e com precisão é crucial para comunicação eficaz, gerenciamento de expectativas e garantir que o projeto esteja alinhado às necessidades e objetivos de todas as partes relevantes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@4 Most Common Stakeholders in Business Intelligence](https://www.youtube.com/watch?v=iPfwEjRhm7w)
+- [@video@4 Principais Tipos de Stakeholders em Inteligência de Negócios](https://www.youtube.com/watch?v=iPfwEjRhm7w)

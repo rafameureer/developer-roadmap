@@ -1,8 +1,8 @@
-# Population & Sample
+# População e Amostra
 
-In statistics, a population refers to the entire group you want to draw conclusions about, while a sample is a smaller, manageable subset of that population that you actually collect data from. Because it's often impractical or impossible to study an entire population, we use samples to make inferences or generalizations about the larger group. The goal is to ensure the sample is representative of the population so that the conclusions drawn from the sample data are accurate and reliable for the entire population.
+Na estatística, a população refere-se ao grupo completo sobre o qual você deseja tirar conclusões, enquanto uma amostra é um subconjunto mais pequeno e gerenciável dessa população do qual você coleta efetivamente os dados. Porque é muitas vezes impraticável ou impossível estudar toda a população, usamos amostras para fazer inferências ou generalizações sobre o grupo maior. O objetivo é garantir que a amostra seja representativa da população de modo que as conclusões tiradas dos dados da amostra sejam precisas e confiáveis para toda a população.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Population vs. Sample | Definitions, Differences & Examples](https://www.scribbr.com/methodology/population-vs-sample/)
-- [@article@Difference Between Population And Sample](https://www.simplilearn.com/tutorials/machine-learning-tutorial/population-vs-sample)
+- [@article@População vs. Amostra | Definições, Diferenças & Exemplos](https://www.scribbr.com/methodology/population-vs-sample/)
+- [@article@Diferença entre População e Amostra](https://www.simplilearn.com/tutorials/machine-learning-tutorial/population-vs-sample)

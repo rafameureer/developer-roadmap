@@ -1,3 +1,3 @@
-# Job Preparation
+# Preparação para o Trabalho
 
-Job preparation involves the steps you take to get ready for the job application and interview process. This includes activities like researching potential employers, tailoring your resume and cover letter to specific job descriptions, practicing common interview questions, and developing your professional network. The goal is to present yourself as a qualified and compelling candidate, increasing your chances of landing a job offer.
+A preparação para o trabalho envolve os passos que você leva para se preparar para o processo de aplicação e entrevista. Isso inclui atividades como pesquisar potenciais empregadores, personalizar seu currículo e carta de apresentação para descrições específicas de cargos, praticar perguntas comuns de entrevistas e desenvolver sua rede profissional. O objetivo é apresentar-se como um candidato qualificado e convincente, aumentando suas chances de obter uma oferta de emprego.

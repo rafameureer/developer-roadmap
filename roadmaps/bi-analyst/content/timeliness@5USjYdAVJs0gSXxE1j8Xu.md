@@ -1,3 +1,3 @@
-# Timeliness
+# Atualidade
 
-Timeliness, in the context of data quality, refers to how up-to-date data is when it's needed. It measures the gap between when data is expected and when it's actually available for use. Data that is too old or delayed can lead to inaccurate analysis and poor decision-making.
+Atualidade, no contexto da qualidade dos dados, refere-se à atualização dos dados quando são necessários. Mede o intervalo entre a data em que os dados são esperados e a data em que estão disponíveis para uso. Dados que são muito antigos ou atrasados podem levar a análises imprecisas e tomadas de decisão inadequadas.

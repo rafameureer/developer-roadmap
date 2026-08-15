@@ -1,3 +1,3 @@
-# Semistructured Data
+# Dados Semiestruturados
 
-Semistructured data doesn't conform to the rigid structure of a relational database but still has some organizational properties, like tags or markers, that separate data elements and enforce hierarchies of records and fields within the data. It's not raw data, but it also doesn't fit neatly into tables with rows and columns. Examples include JSON and XML files, where data is organized using tags and attributes, making it easier to parse and understand than completely unstructured data.
+Os dados semiestruturados não se conformam com a estrutura rígida de um banco de dados relacional, mas ainda têm algumas propriedades organizacionais, como tags ou marcadores, que separam os elementos de dados e impõem hierarquias de registros e campos dentro dos dados. Não são dados brutos, mas também não se encaixam perfeitamente em tabelas com linhas e colunas. Exemplos incluem arquivos JSON e XML, onde os dados são organizados usando tags e atributos, tornando mais fácil analisar e entender do que dados completamente semiestruturados.

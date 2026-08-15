@@ -1,8 +1,8 @@
-# Descriptive Analytics
+# Análise Descritiva
 
-Descriptive Analytics is one of the fundamental types of Data Analytics that provides insight into the past. As a Data Analyst, utilizing Descriptive Analytics involves the technique of using historical data to understand changes that have occurred in a business over time. Primarily concerned with the “what has happened” aspect, it analyzes raw data from the past to draw inferences and identify patterns and trends. This helps companies understand their strengths, weaknesses and pinpoint operational problems, setting the stage for accurate Business Intelligence and decision-making processes.
+A Análise Descritiva é um dos tipos fundamentais de Análise de Dados que fornece insights sobre o passado. Como Analista de Dados, utilizar a Análise Descritiva envolve o uso da técnica de usar dados históricos para entender as mudanças que ocorreram em uma empresa ao longo do tempo. Principalmente preocupada com a "o que aconteceu", ela analisa os dados brutos do passado para tirar conclusões e identificar padrões e tendências. Isso ajuda as empresas a entenderem suas forças, fraquezas e apontar problemas operacionais, preparando o terreno para uma Inteligência de Negócios precisa e processos de tomada de decisão.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Descriptive Analytics: What They Are and Related Terms](https://www.investopedia.com/terms/d/descriptive-analytics.asp)
-- [@article@What are Descriptive Analytics?](https://www.youtube.com/watch?v=DlFqQy10aCs)
+- [@artigo@Análise Descritiva: O que São e Termos Relacionados](https://www.investopedia.com/terms/d/descriptive-analytics.asp)
+- [@artigo@O que são Análises Descritivas?](https://www.youtube.com/watch?v=DlFqQy10aCs)

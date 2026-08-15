@@ -4,7 +4,7 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 
 ---
 
-> ⚠️ **Total de itens sinalizados:** 281
+> ⚠️ **Total de itens sinalizados:** 343
 
 | Arquivo / Tópico | Motivo da Sinalização | Data/Hora |
 |---|---|---|
@@ -289,3 +289,65 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 | `roadmaps/backend/content/what-is-domain-name@ZhSuu2VArnzPDp6dPQQSC.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:26:42.356508 |
 | `roadmaps/backend/content/what-is-hosting@aqMaEY8gkKMikiqleV5EP.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:26:47.752872 |
 | `roadmaps/backend/content/what-is-http@R12sArWVpbIs_PHxBqVaR.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:26:52.314743 |
+| `roadmaps/bi-analyst/content/barplot@BUizLtQ7vpdyBRjS8KyIl.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:27:44.716428 |
+| `roadmaps/bi-analyst/content/basic-machine-learning@ZGazuCNruu09bd7C-aSFC.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:27:50.631083 |
+| `roadmaps/bi-analyst/content/bi-platforms@kpRqKLtAd3IO3nbs8Yxrh.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:28:27.751240 |
+| `roadmaps/bi-analyst/content/bias-recognition@9aNVqEyygNGeicdce5X8b.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:28:30.761481 |
+| `roadmaps/bi-analyst/content/building-your-portfolio@UIdwl_KLELI8xL2VxYJmX.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:28:44.237943 |
+| `roadmaps/bi-analyst/content/business-acumen@OmhvVSTtzH5sxOIZRVYfQ.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:28:47.474838 |
+| `roadmaps/bi-analyst/content/calculated-fields--measures@fFzCnLfZ_vSbhQjdAKLlJ.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:28:50.223143 |
+| `roadmaps/bi-analyst/content/cloud-bi-ecosystem@zGU6DyEm6xEYf1_73cbjL.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:29:30.993629 |
+| `roadmaps/bi-analyst/content/compliance-reporting@j-GXKpMnsVuUUUdRxAXLe.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:30:09.598115 |
+| `roadmaps/bi-analyst/content/compliance-reporting@omvGuhou7_63k-Fwcc7Mu.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:30:12.348181 |
+| `roadmaps/bi-analyst/content/conferences--webinars@UDF8wyYT8127wfFHcq37P.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:30:16.607866 |
+| `roadmaps/bi-analyst/content/confidence-intervals@xgP3zIiSEr9dtYcCQikPb.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:30:36.475946 |
+| `roadmaps/bi-analyst/content/correlation-analysis@ASHk2LOjlhwpwpWSRs_Bi.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:30:40.723764 |
+| `roadmaps/bi-analyst/content/correlation-vs-causation@JXYmXAYuA-zxrkl4PRLQd.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:30:45.480908 |
+| `roadmaps/bi-analyst/content/dashboard-design@qvPTiDbsY5ol_K-BNLmzk.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:31:10.406502 |
+| `roadmaps/bi-analyst/content/data-architectures@Zxuvc9F3bINLTdfbsx_S_.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:31:13.474241 |
+| `roadmaps/bi-analyst/content/data-cleaning@Vo7LJ_W-DBvxvVrnz33BM.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:31:17.492952 |
+| `roadmaps/bi-analyst/content/data-mart@5x4NfuP6dAgjISlB-esIW.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:31:44.092679 |
+| `roadmaps/bi-analyst/content/data-modeling-for-bi@Dk31XtS7wWRzO31sdsEDo.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:31:46.773034 |
+| `roadmaps/bi-analyst/content/data-pipeline-design@yvSf7sGEd7QiaVoetalHc.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:31:50.028364 |
+| `roadmaps/bi-analyst/content/diagnostic-analysis@m5aC9aNy9mwLXz0xXBp40.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:32:47.936619 |
+| `roadmaps/bi-analyst/content/discrete-vs-continuous@YSxvg2HrfGoGtpkwY0kGc.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:32:51.433430 |
+| `roadmaps/bi-analyst/content/dispersion@1D98k1HNCaaiaI20euVwA.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:32:55.962153 |
+| `roadmaps/bi-analyst/content/end-to-end-analytics-project@3xDVJwdl3uu5EcjlZ1ytA.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:33:18.979759 |
+| `roadmaps/bi-analyst/content/ethical-data-use@Vb06K0D2vWAlSe95QJrth.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:33:22.111859 |
+| `roadmaps/bi-analyst/content/etl-tools@lAK9QVs97hL3ysjz2blp8.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:33:40.226811 |
+| `roadmaps/bi-analyst/content/excel@9BWyA0b4WrmQetSMph_mY.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:33:44.641695 |
+| `roadmaps/bi-analyst/content/excel@Dh62zxyyUHh0galD472p8.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:33:47.029205 |
+| `roadmaps/bi-analyst/content/forecasting@ExHCSUDxDBwsJtTelvxjP.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:34:27.076575 |
+| `roadmaps/bi-analyst/content/fraud-detection@aJLGan5dkMefvkspFlcYo.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:34:31.112432 |
+| `roadmaps/bi-analyst/content/gdpr@CWf_vL78f8-mSUQbPnU8e.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:34:36.082576 |
+| `roadmaps/bi-analyst/content/hospital-efficiency@ku3m0ZmNg23F0Z5CEb4JI.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:35:02.679763 |
+| `roadmaps/bi-analyst/content/inferential-statistics@7DNtRMBZ_F0K1FQk-UCM4.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:35:27.504392 |
+| `roadmaps/bi-analyst/content/interpretability@uP8MWZqM9Z0i3eDF4Ldxv.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:35:29.354184 |
+| `roadmaps/bi-analyst/content/mean@S4XEOd2-PHIHOiiGgKVLJ.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:36:47.584972 |
+| `roadmaps/bi-analyst/content/median@mfLRVcxvAjqmSG-KBpJ4J.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:36:51.551777 |
+| `roadmaps/bi-analyst/content/metrics-and-kpis@c0ywBrs9u7MciWAXSgVVg.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:36:56.804071 |
+| `roadmaps/bi-analyst/content/misleading-charts@qGVDuU9RA9Y5g5vlPd-xq.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:37:13.245816 |
+| `roadmaps/bi-analyst/content/missing-values@fhreEuoT8ZBRwJqbSGrEZ.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:37:16.478776 |
+| `roadmaps/bi-analyst/content/mitigation-strategies@5MUwKGfSTKlam8KCG0A1U.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:37:22.095714 |
+| `roadmaps/bi-analyst/content/mobile-apps@1cC6LKxcncaKg4Jm53pUy.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:37:35.035401 |
+| `roadmaps/bi-analyst/content/mobile-responsiveness@7t0WfLLqrD5VJQwIAmXMo.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:37:38.798678 |
+| `roadmaps/bi-analyst/content/mysql@eqnAEp2VT7FD2VDy5WVDP.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:37:58.066095 |
+| `roadmaps/bi-analyst/content/normalization-vs-denormalization@Prfa0LUmgxcp52IEObFom.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:38:05.697007 |
+| `roadmaps/bi-analyst/content/oracle@uoQS4g-c6QndacUeiaWrq.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:38:30.419317 |
+| `roadmaps/bi-analyst/content/other-formats@k80q5FPNiIUdxn5A8R3Hu.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:38:34.472843 |
+| `roadmaps/bi-analyst/content/outliers@OqolfBQRQvwg6PI_t8Mrt.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:38:38.592342 |
+| `roadmaps/bi-analyst/content/predictive-analysis@4zpVE3R0lLyWpHePdBVpl.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:39:39.113501 |
+| `roadmaps/bi-analyst/content/predictive-maintenance@yimCxOdNtyGcbd6ZxHsBQ.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:39:43.282110 |
+| `roadmaps/bi-analyst/content/prescriptive-analysis@NnbtaO2MiqsHeJ-ds0Q5m.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:39:48.520985 |
+| `roadmaps/bi-analyst/content/professional-development@tUxwKTml2Go8zR9tR3cjn.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:40:10.202292 |
+| `roadmaps/bi-analyst/content/programming-languages@KSxjcWV6C325kZITzAhWs.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:40:12.825845 |
+| `roadmaps/bi-analyst/content/project-management@r8NoX426-ngu6ZQZe06oK.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:40:15.393162 |
+| `roadmaps/bi-analyst/content/retail--e-commerce@7LbhfkmS7oFoSF1k5ZR1U.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:41:26.082485 |
+| `roadmaps/bi-analyst/content/salary-negotiation-strategies@k3F9Tdqo3XYgMLOKGjpxA.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:41:34.293150 |
+| `roadmaps/bi-analyst/content/sales-performance@VPu8vn7-baZQ5ORJ6ViW0.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:41:46.420224 |
+| `roadmaps/bi-analyst/content/scatterplot@hCSZo7jT9arBLUbtCVFfD.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:41:48.413879 |
+| `roadmaps/bi-analyst/content/seasonality@moWrEfuKE06QwbznsH3V-.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:41:51.671550 |
+| `roadmaps/bi-analyst/content/std@vqtzg9bydAqHMwZhPHo1a.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:42:56.752577 |
+| `roadmaps/bi-analyst/content/storytelling-framework@t_J0MZTMWMnrImGHjXYov.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:43:01.167249 |
+| `roadmaps/bi-analyst/content/strategic-bi@3BxbkrBp8veZj38zdwN8s.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:43:03.248389 |
+| `roadmaps/bi-analyst/content/window-functions@1toMuRZResgse1AtwEck6.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:44:51.048548 |

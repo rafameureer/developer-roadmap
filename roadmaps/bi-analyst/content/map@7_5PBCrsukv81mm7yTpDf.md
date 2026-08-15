@@ -1,3 +1,3 @@
-# Maps in Data Visualization
+# Mapas na Visualização de Dados
 
-Maps are visual representations of geographical data, used to display information across different locations. They allow you to see spatial patterns and relationships, such as population density, sales distribution, or resource locations. Different types of maps, like choropleth maps (using color shading) or point maps (using markers), can highlight specific aspects of the data and provide valuable insights based on location.
+Os mapas são representações visuais de dados geográficos, usados para exibir informações em diferentes locais. Eles permitem ver padrões espaciais e relações, como a densidade populacional, a distribuição de vendas ou os locais dos recursos. Tipos diferentes de mapas, como mapas de coropleta (usando esquemas de cores) ou mapas de pontos (usando marcadores), podem destacar aspectos específicos dos dados e fornecer insights valiosos com base na localização.

@@ -1,9 +1,9 @@
 # Tableau
 
-Tableau is a powerful data visualization tool utilized extensively by data analysts worldwide. Its primary role is to transform raw, unprocessed data into an understandable format without any technical skills or coding. Data analysts use Tableau to create data visualizations, reports, and dashboards that help businesses make more informed, data-driven decisions. They also use it to perform tasks like trend analysis, pattern identification, and forecasts, all within a user-friendly interface. Moreover, Tableau's data visualization capabilities make it easier for stakeholders to understand complex data and act on insights quickly.
+Tableau é uma poderosa ferramenta de visualização de dados utilizada amplamente por analistas de dados em todo o mundo. Seu papel principal é transformar dados brutos e não processados em um formato compreensível sem nenhuma habilidade técnica ou codificação. Os analistas de dados usam o Tableau para criar visualizações de dados, relatórios e painéis que ajudam as empresas a tomar decisões mais informadas e baseadas em dados. Eles também usam-o para realizar tarefas como análise de tendências, identificação de padrões e previsões, tudo dentro de uma interface fácil de usar. Além disso, as capacidades de visualização de dados do Tableau tornam mais fácil para os stakeholders entenderem dados complexos e agirem em insights rapidamente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Tableau](https://www.tableau.com/en-gb)
-- [@video@What is Tableau?](https://www.youtube.com/watch?v=NLCzpPRCc7U)
-- [@video@Learn Tableau in Under 2 hours](https://www.youtube.com/watch?v=j8FSP8XuFyk)
+- [@oficial@Tableau](https://www.tableau.com/en-gb)
+- [@vídeo@O que é o Tableau?](https://www.youtube.com/watch?v=NLCzpPRCc7U)
+- [@vídeo@Aprenda o Tableau em menos de 2 horas](https://www.youtube.com/watch?v=j8FSP8XuFyk)

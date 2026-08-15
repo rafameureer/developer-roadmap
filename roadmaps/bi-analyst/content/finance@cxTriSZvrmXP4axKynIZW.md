@@ -1,3 +1,3 @@
 # Finance
 
-Finance encompasses the activities related to managing money and investments. It involves planning, organizing, controlling, and monitoring financial resources to achieve organizational goals. Key areas within finance include budgeting, financial planning, investment management, and risk management, all aimed at ensuring the financial health and stability of a business.
+A Finança abrange as atividades relacionadas ao gerenciamento de dinheiro e investimentos. Envolve planejamento, organização, controle e monitoramento dos recursos financeiros para atingir os objetivos da organização. Áreas-chave na finança incluem orçamentação, planejamento financeiro, gestão de investimentos e gestão de riscos, todas voltadas a garantir a saúde financeira e a estabilidade de um negócio.

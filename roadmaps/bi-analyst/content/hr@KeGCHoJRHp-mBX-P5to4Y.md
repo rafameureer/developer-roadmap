@@ -1,3 +1,3 @@
-# Human Resources (HR)
+# Recursos Humanos (RH)
 
-Human Resources (HR) is the area within a company responsible for managing employees. This includes recruiting, hiring, training, and developing employees, as well as handling compensation, benefits, and employee relations. HR ensures legal compliance with labor laws and company policies, and aims to create a positive and productive work environment.
+Recursos Humanos (RH) é a área de uma empresa responsável por gerenciar funcionários. Isso inclui recrutamento, contratação, treinamento e desenvolvimento de funcionários, bem como o tratamento de compensação, benefícios e relações com os funcionários. A RH garante a conformidade legal com as leis trabalhistas e as políticas da empresa, e visa criar um ambiente de trabalho positivo e produtivo.

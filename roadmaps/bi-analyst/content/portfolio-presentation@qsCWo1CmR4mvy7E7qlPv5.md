@@ -1,3 +1,3 @@
-# Portfolio Presentation
+# Apresentação de Portfólio
 
-A portfolio presentation is a structured way to showcase your skills and experience to potential employers. It involves selecting relevant projects, highlighting your contributions and the impact of your work, and presenting them in a clear and compelling manner. The goal is to demonstrate your abilities and how you can add value to their organization.
+A apresentação de portfólio é uma maneira estruturada de mostrar suas habilidades e experiência para empregadores potenciais. Envolve a seleção de projetos relevantes, destacar suas contribuições e o impacto do seu trabalho, e apresentá-los de forma clara e persuasiva. O objetivo é demonstrar suas habilidades e como você pode adicionar valor à sua organização.

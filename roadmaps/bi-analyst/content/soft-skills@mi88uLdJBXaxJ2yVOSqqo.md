@@ -1,8 +1,8 @@
-# Soft Skills
+# Habilidades Sociais
 
-Soft skills are personal attributes that enable someone to interact effectively and harmoniously with other people. These skills, like communication, teamwork, and problem-solving, are crucial for building strong relationships, navigating complex situations, and achieving shared goals. They complement technical abilities and contribute significantly to overall professional success by fostering collaboration, understanding, and a positive work environment.
+As habilidades sociais são atributos pessoais que permitem a interação eficaz e harmônica com outras pessoas. Essas habilidades, como comunicação, trabalho em equipe e resolução de problemas, são cruciais para construir relacionamentos fortes, navegar situações complexas e atingir metas compartilhadas. Eles complementam as habilidades técnicas e contribuem significativamente para o sucesso profissional geral ao fomentar a colaboração, compreensão e um ambiente de trabalho positivo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@The Skills You Need to Work in Business Intelligence Analytics](https://tripleten.com/blog/posts/the-skills-you-need-to-work-in-business-intelligence-analytics)
-- [@article@10 Essential Soft Skills for Data Analysts](https://bigblue.academy/en/soft-skills-for-data-analysts)
+- [@artigo@As Habilidades Necessárias para Trabalhar em Análise de Inteligência de Negócios](https://tripleten.com/blog/posts/the-skills-you-need-to-work-in-business-intelligence-analytics)
+- [@artigo@10 Habilidades Sociais Essenciais para Analistas de Dados](https://bigblue.academy/en/soft-skills-for-data-analysts)

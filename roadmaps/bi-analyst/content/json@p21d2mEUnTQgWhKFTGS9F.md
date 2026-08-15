@@ -1,7 +1,7 @@
 # JSON
 
-JSON (JavaScript Object Notation) is a lightweight, human-readable format for storing and transporting data. It uses a text-based format to represent data objects as attribute-value pairs and arrays, making it easy for both humans and machines to parse and generate. JSON is commonly used for transmitting data in web applications (e.g., sending data from a server to a web browser) and is supported by many programming languages.
+JSON (JavaScript Object Notation) é um formato leve e legível por humanos para armazenar e transportar dados. Ele usa um formato baseado em texto para representar objetos de dados como pares de atributo-valor e arrays, tornando-o fácil tanto para humanos quanto para máquinas analisarem e gerarem. O JSON é comumente usado para transmitir dados em aplicações web (por exemplo, enviando dados de um servidor para um navegador da web) e é suportado por muitas linguagens de programação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@JSON](https://www.json.org/)
+- [@artigo@JSON](https://www.json.org/)

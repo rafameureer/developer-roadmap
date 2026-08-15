@@ -1,9 +1,9 @@
 # Power BI
 
-PowerBI, an interactive data visualization and business analytics tool developed by Microsoft, plays a crucial role in the field of a data analyst's work. It helps data analysts to convert raw data into meaningful insights through it's easy-to-use dashboards and reports function. This tool provides a unified view of business data, allowing analysts to track and visualize key performance metrics and make better-informed business decisions. With PowerBI, data analysts also have the ability to manipulate and produce visualizations of large data sets that can be shared across an organization, making complex statistical information more digestible.
+PowerBI, uma ferramenta de visualização de dados interativa e análise de negócios desenvolvida pela Microsoft, desempenha um papel crucial no campo do trabalho de analista de dados. Ele ajuda os analistas de dados a converter dados brutos em insights significativos através da sua função fácil de usar de dashboards e relatórios. Esta ferramenta fornece uma visão unificada dos dados empresariais, permitindo aos analistas rastrear e visualizar métricas de desempenho-chave e tomar decisões de negócios mais informadas. Com o PowerBI, os analistas de dados também têm a capacidade de manipular e produzir visualizações de grandes conjuntos de dados que podem ser compartilhados em toda a organização, tornando informações estatísticas complexas mais digestíveis.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Power BI](https://www.microsoft.com/en-us/power-platform/products/power-bi)
-- [@video@Power BI for beginners](https://www.youtube.com/watch?v=NNSHu0rkew8)
-- [@video@Power BI Full Course for Free in 20 Hours](https://www.youtube.com/watch?v=cyWVzAQF9YU)
+- [@video@Power BI para iniciantes](https://www.youtube.com/watch?v=NNSHu0rkew8)
+- [@video@Curso Completo do Power BI Gratuito em 20 Horas](https://www.youtube.com/watch?v=cyWVzAQF9YU)

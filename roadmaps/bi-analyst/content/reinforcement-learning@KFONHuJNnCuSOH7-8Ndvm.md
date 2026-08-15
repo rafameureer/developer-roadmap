@@ -1,10 +1,10 @@
-# Reinforcement Learning
+# Aprendizagem por Reforço
 
-Reinforcement learning is a type of machine learning where an agent learns to make decisions in an environment to maximize a cumulative reward. It involves the agent taking actions, receiving feedback in the form of rewards or penalties, and adjusting its strategy to improve its performance over time. Unlike supervised learning, it doesn't rely on labeled data but rather learns through trial and error.
+A aprendizagem por reforço é um tipo de aprendizado de máquina onde um agente aprende a tomar decisões em um ambiente para maximizar uma recompensa cumulativa. Envolve o agente realizando ações, recebendo feedback na forma de recompensas ou penalidades e ajustando sua estratégia para melhorar seu desempenho ao longo do tempo. Diferentemente da aprendizagem supervisionada, ela não depende de dados rotulados, mas sim aprende através de tentativa e erro.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@Deep Reinforcement Learning Course by HuggingFace](https://huggingface.co/learn/deep-rl-course/unit0/introduction)
-- [@article@What is reinforcement learning?](https://online.york.ac.uk/resources/what-is-reinforcement-learning/)
-- [@article@Resources to Learn Reinforcement Learning](https://towardsdatascience.com/best-free-courses-and-resources-to-learn-reinforcement-learning-ed6633608cb2/)
-- [@video@Reinforcement Learning in 3 Hours | Full Course using Python](https://www.youtube.com/watch?v=Mut_u40Sqz4)
+- [@curso@Curso de Aprendizado Profundo por HuggingFace](https://huggingface.co/learn/deep-rl-course/unit0/introduction)
+- [@artigo@O que é a aprendizagem por reforço?](https://online.york.ac.uk/resources/what-is-reinforcement-learning/)
+- [@artigo@Recursos para Aprender Aprendizagem por Reforço](https://towardsdatascience.com/best-free-courses-and-resources-to-learn-reinforcement-learning-ed6633608cb2/)
+- [@vídeo@Aprendizagem por Reforço em 3 Horas | Curso Completo usando Python](https://www.youtube.com/watch?v=Mut_u40Sqz4)

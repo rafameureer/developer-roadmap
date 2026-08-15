@@ -1,8 +1,8 @@
-# Cohort Analysis
+# Análise de Cohort
 
-Cohort analysis is a behavioral analytics technique that groups users with shared characteristics over a specific time span. These groups, or cohorts, are then tracked and compared to understand how their behavior evolves over time. This helps identify patterns, trends, and insights related to user engagement, retention, and other key metrics.
+A análise de cohort é uma técnica de análise comportamental que agrupa usuários com características compartilhadas em um período específico. Esses grupos, ou cohorts, são então rastreados e comparados para entender como seu comportamento evolui ao longo do tempo. Isso ajuda a identificar padrões, tendências e insights relacionados à participação dos usuários, retenção e outras métricas-chave.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Understanding Cohort Analysis: A Comprehensive Guide 101](https://hevodata.com/learn/understanding-cohort-analysis-a-guide/)
-- [@article@Cohort analysis](https://en.wikipedia.org/wiki/Cohort_analysis)
+- [@artigo@Entendendo Análise de Cohort: Um Guia Completo 101](https://hevodata.com/learn/understanding-cohort-analysis-a-guide/)
+- [@artigo@Análise de cohort](https://en.wikipedia.org/wiki/Cohort_analysis)

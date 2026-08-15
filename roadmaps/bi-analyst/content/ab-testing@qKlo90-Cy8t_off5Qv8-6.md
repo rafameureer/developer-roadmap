@@ -1,9 +1,9 @@
-# A/B Testing
+# Teste A/B
 
-A/B testing, also known as split testing, is a method of comparing two versions of something to determine which one performs better. This is done by showing the two versions (A and B) to similar audiences and measuring which version achieves a specific goal, such as a higher click-through rate or conversion rate. The version that performs better is then implemented.
+O teste A/B, também conhecido como teste de divisão, é um método de comparação de duas versões de algo para determinar qual delas funciona melhor. Isso é feito mostrando as duas versões (A e B) a audiências semelhantes e medindo qual delas atinge um objetivo específico, como uma taxa de cliques mais alta ou taxa de conversão maior. A versão que funcionar melhor é então implementada.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@article@A/B Testing](https://en.wikipedia.org/wiki/A/B_testing)
-- [@article@A Refresher on A/B Testing](https://hbr.org/2017/06/a-refresher-on-ab-testing)
-- [@video@How to Do A/B Testing: 15 Steps for the Perfect Split Test](https://www.youtube.com/watch?v=vV3g5VuSrIQ)
+- [@artigo@Teste A/B](https://en.wikipedia.org/wiki/A/B_testing)
+- [@artigo@Um Refrescante Revisto sobre Teste A/B](https://hbr.org/2017/06/a-refresher-on-ab-testing)
+- [@vídeo@Como Fazer um Teste A/B: 15 Passos para o Perfeito Teste de Divisão](https://www.youtube.com/watch?v=vV3g5VuSrIQ)

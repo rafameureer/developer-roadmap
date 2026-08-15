@@ -1,7 +1,7 @@
-# Fact vs Dimension Tables
+# Tabelas de Fato vs Dimensão
 
-Fact tables store quantitative data (facts) about business events, like sales or website visits. These tables are typically large and contain foreign keys referencing dimension tables. Dimension tables, on the other hand, store descriptive attributes about the facts, such as customer details, product information, or dates. They provide context for analyzing the facts in the fact table.
+As tabelas de fato armazenam dados quantitativos (fatos) sobre eventos de negócios, como vendas ou visitas ao site. Essas tabelas são geralmente grandes e contêm chaves estrangeiras referenciando as tabelas de dimensão. As tabelas de dimensão, por outro lado, armazenam atributos descritivos dos fatos, como detalhes do cliente, informações do produto ou datas. Elas fornecem contexto para analisar os fatos nas tabelas de fato.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Fact Table vs Dimension Table: What's the Difference](https://www.simplilearn.com/fact-table-vs-dimension-table-article)
+- [@article@Tabela de Fato vs Tabela de Dimensão: O que é a Diferença](https://www.simplilearn.com/fact-table-vs-dimension-table-article)

@@ -1,8 +1,8 @@
 # CCPA
 
-The California Consumer Privacy Act (CCPA) is a California state law that grants consumers specific rights regarding their personal information held by businesses. These rights include the right to know what personal information is being collected about them, the right to request deletion of their personal information, and the right to opt-out of the sale of their personal information. CCPA aims to give consumers more control over their data and increase transparency in data handling practices.
+A Lei de Privacidade do Consumidor da Califórnia (CCPA) é uma lei estadual da Califórnia que concede aos consumidores direitos específicos em relação à sua informação pessoal mantida por empresas. Esses direitos incluem o direito de saber quais informações pessoais estão sendo coletadas sobre eles, o direito de solicitar a exclusão de suas informações pessoais e o direito de optar por não vender suas informações pessoais. A CCPA visa dar aos consumidores mais controle sobre seus dados e aumentar a transparência nas práticas de tratamento de dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@California Consumer Privacy Act (CCPA)](https://oag.ca.gov/privacy/ccpa)
-- [@article@What is the CCPA?](https://www.cloudflare.com/en-gb/learning/privacy/what-is-the-ccpa/)
+- [@oficial@Lei de Privacidade do Consumidor da Califórnia (CCPA)](https://oag.ca.gov/privacy/ccpa)
+- [@artigo@O que é o CCPA?](https://www.cloudflare.com/en-gb/learning/privacy/what-is-the-ccpa/)

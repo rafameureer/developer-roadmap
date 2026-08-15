@@ -1,8 +1,8 @@
-# Interview Preparation
+# Preparação para Entrevistas
 
-Interview preparation involves actively preparing for job interviews by practicing common questions, researching the company and role, and refining your communication skills. This process helps you present yourself effectively, demonstrate your qualifications, and increase your confidence during the interview, ultimately improving your chances of landing the job.
+A preparação para entrevistas envolve ativamente se preparar para as entrevistas de emprego praticando perguntas comuns, pesquisando a empresa e o cargo, e refinando suas habilidades de comunicação. Esse processo ajuda você a apresentar-se de forma eficaz, demonstrar suas qualificações e aumentar sua confiança durante a entrevista, o que, por fim, melhora suas chances de conseguir o emprego.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@BI Analyst Interview Questions and Answers (2025)](https://365datascience.com/career-advice/job-interview-tips/bi-analyst-interview-questions/)
-- [@video@2 Hour Data Analyst Interview Masterclass](https://www.youtube.com/watch?v=F5v2dRYU5IA)
+- [@artigo@Perguntas e Respostas de Entrevistas de Analistas BI (2025)](https://365datascience.com/career-advice/job-interview-tips/bi-analyst-interview-questions/)
+- [@vídeo@Classe Master em Entrevistas de Analistas de Dados por 2 Horas](https://www.youtube.com/watch?v=F5v2dRYU5IA)

@@ -1,8 +1,8 @@
-# Unsupervised Learning
+# Aprendizado Não Supervisionado
 
-Unsupervised learning, as a fundamental aspect of Machine Learning, holds great implications in the realm of data analytics. It is an approach where a model learns to identify patterns and relationships within a dataset that isn't labelled or classified. It is especially useful for a Data Analyst as it can assist in recognizing unforeseen trends, providing new insights or preparing data for other machine learning tasks. This ability to infer without direct supervision allows a vast potential for latent structure discovery and new knowledge derivation from raw data.
+O aprendizado não supervisionado, como um aspecto fundamental do Machine Learning, tem grandes implicações no campo da análise de dados. É uma abordagem onde um modelo aprende a identificar padrões e relações dentro de um conjunto de dados que não está rotulado ou classificado. Ele é especialmente útil para analistas de dados, pois pode auxiliar na reconhecimento de tendências inesperadas, fornecendo novas perspectivas ou preparando os dados para outras tarefas de aprendizado de máquina. Esta capacidade de inferência sem supervisão permite uma vasta potencialidade para a descoberta de estruturas latentes e a derivação de novos conhecimentos a partir de dados brutos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Unsupervised Learning?](https://cloud.google.com/discover/what-is-unsupervised-learning)
-- [@video@Unsupervised Machine Learning Explained For Beginners](https://www.youtube.com/watch?v=yteYU_QpUxs&pp=ygUbI3doYXRpc3Vuc3VwZXJ2aXNlZGxlYXJuaW5n)
+- [@article@O que é Aprendizado Não Supervisionado?](https://cloud.google.com/discover/what-is-unsupervised-learning)
+- [@video@Explicando o Aprendizado Não Supervisionado Para Iniciantes](https://www.youtube.com/watch?v=yteYU_QpUxs&pp=ygUbI3doYXRpc3Vuc3VwZXJ2aXNlZGxlYXJuaW5n)

@@ -1,8 +1,8 @@
-# Hypothesis Testing
+# Teste de Hipóteses
 
-Hypothesis testing is a statistical method used to determine whether there is enough evidence in a sample of data to infer that a certain condition is true for an entire population. It involves formulating a null hypothesis (a statement of no effect or no difference) and an alternative hypothesis (a statement that contradicts the null hypothesis), then using sample data to assess the likelihood of observing the data if the null hypothesis were true. Based on this likelihood, a decision is made to either reject the null hypothesis in favor of the alternative or fail to reject the null hypothesis.
+O teste de hipóteses é um método estatístico usado para determinar se há evidências suficientes em uma amostra de dados para inferir que uma certa condição é verdadeira para uma população inteira. Envolve a formulação de uma hipótese nula (uma declaração de não efeito ou não diferença) e uma hipótese alternativa (uma declaração que contradiz a hipótese nula), em seguida, usar dados amostrais para avaliar a probabilidade de observar os dados se a hipótese nula for verdadeira. Com base nesta probabilidade, é tomada uma decisão para rejeitar ou não rejeitar a hipótese nula em favor da alternativa.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Hypothesis Testing - 4 Steps](https://www.investopedia.com/terms/h/hypothesistesting.asp)
-- [@article@Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
+- [@artigo@Teste de Hipóteses - 4 Passos](https://www.investopedia.com/terms/h/hypothesistesting.asp)
+- [@curso@Introdução às Estatísticas Inferenciais](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)

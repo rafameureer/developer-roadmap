@@ -1,10 +1,10 @@
-# Time Series Analysis
+# Análise de Séries Temporais
 
-Time series analysis is a statistical method used to analyze data points collected over time to identify patterns, trends, and seasonal variations. It involves examining a sequence of data points indexed in time order, allowing for forecasting future values based on historical observations. This analysis helps in understanding the underlying processes that generate the data and predicting future behavior.
+A análise de séries temporais é um método estatístico usado para analisar pontos de dados coletados ao longo do tempo, identificando padrões, tendências e variações sazonais. Envolve examinar uma sequência de pontos de dados indexados em ordem temporal, permitindo prever valores futuros com base em observações históricas. Esta análise ajuda a entender os processos subjacentes que geram os dados e prever o comportamento futuro.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Time Series Analysis: Definition, Types & Techniques](https://www.tableau.com/analytics/what-is-time-series-analysis)
-- [@article@Introduction to Time Series Analysis](https://www.itl.nist.gov/div898/handbook/pmc/section4/pmc4.htm)
-- [@video@What is Time Series Analysis?](https://www.youtube.com/watch?v=GE3JOFwTWVM)
-- [@video@Complete Time Series Analysis and Forecasting with Python](https://www.youtube.com/watch?v=eKiXtGzEjos)
+- [@artigo@Análise de Séries Temporais: Definição, Tipos & Técnicas](https://www.tableau.com/analytics/what-is-time-series-analysis)
+- [@artigo@Introdução à Análise de Séries Temporais](https://www.itl.nist.gov/div898/handbook/pmc/section4/pmc4.htm)
+- [@vídeo@O que é Análise de Séries Temporais?](https://www.youtube.com/watch?v=GE3JOFwTWVM)
+- [@vídeo@Análise Completa e Previsão de Séries Temporais com Python](https://www.youtube.com/watch?v=eKiXtGzEjos)

@@ -1,7 +1,7 @@
-# Analog vs. Digital Data
+# Análogo vs. Digital
 
-Analog data is continuous information represented by physical quantities, like sound waves or temperature, that vary smoothly over time. Digital data, on the other hand, is discrete information represented by numerical values, typically binary digits (0s and 1s), allowing for precise storage and manipulation by computers.
+Os dados analógicos são informações contínuas representadas por quantidades físicas, como ondas sonoras ou temperatura, que variam suavemente ao longo do tempo. Os dados digitais, por outro lado, são informações discretas representadas por valores numéricos, geralmente dígitos binários (0s e 1s), permitindo uma armazenamento e manipulação precisos por computadores.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Analog vs. Digital](https://www.diffen.com/difference/Analog_vs_Digital)
+- [@artigo@Análogo vs. Digital](https://www.diffen.com/difference/Analog_vs_Digital)

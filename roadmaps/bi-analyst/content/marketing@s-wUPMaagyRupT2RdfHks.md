@@ -1,3 +1,3 @@
 # Marketing
 
-Marketing encompasses the strategies and tactics organizations use to promote and sell their products or services. It involves understanding customer needs, creating compelling messaging, choosing the right channels to reach target audiences, and measuring the effectiveness of campaigns to optimize for better results. Ultimately, marketing aims to drive revenue and build brand awareness.
+O marketing abrange as estratégias e táticas que as organizações usam para promover e vender seus produtos ou serviços. Envolve entender as necessidades dos clientes, criar mensagens persuasivas, escolher os canais certos para atingir o público-alvo e medir a eficácia das campanhas para otimizar resultados melhores. No final, o marketing visa gerar receita e construir consciência da marca.

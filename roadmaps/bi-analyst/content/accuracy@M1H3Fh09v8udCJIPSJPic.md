@@ -1,3 +1,3 @@
-# Accuracy
+# Precisão
 
-Accuracy refers to the degree to which data correctly reflects the real-world object or event it is intended to represent. It ensures that the data values are correct, reliable, and free from errors, misrepresentations, or inconsistencies. High accuracy is crucial for making sound business decisions and generating trustworthy insights.
+A precisão refere-se ao grau em que os dados refletem corretamente o objeto ou evento do mundo real que pretendem representar. Ela garante que os valores dos dados sejam corretos, confiáveis e livres de erros, distorções ou incongruências. Uma alta precisão é crucial para tomar decisões comerciais informadas e gerar insights confiáveis.

@@ -1,8 +1,8 @@
-# Certifications for BI Analysts
+# Certificações para Analistas BI
 
-Certifications for BI Analysts are credentials that validate a professional's skills and knowledge in business intelligence tools, techniques, and methodologies. These certifications often cover areas like data analysis, data visualization, data warehousing, and specific software platforms such as Tableau, Power BI, or SQL. Earning a certification can demonstrate expertise to employers and clients, potentially leading to career advancement and increased earning potential.
+As certificações para analistas BI são credenciais que validam as habilidades e o conhecimento de um profissional em ferramentas, técnicas e metodologias de inteligência empresarial. Essas certificações geralmente cobrem áreas como análise de dados, visualização de dados, armazenamento de dados e plataformas de software específicas como Tableau, Power BI ou SQL. Ganhar uma certificação pode demonstrar especialidade aos empregadores e clientes, potencialmente levando a avanço na carreira e aumento do potencial remuneratório.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@16 Top Business Intelligence Certifications for a Successful Career](https://onlinedegrees.sandiego.edu/business-intelligence-certifications/)
-- [@article@9 Popular Data Analyst Certifications 2025 Guide](https://www.onlc.com/blog/popular-data-analyst-certifications/)
+- [@artigo@16 Top Certificações em Inteligência Empresarial para um Carreira Sucesso](https://onlinedegrees.sandiego.edu/business-intelligence-certifications/)
+- [@artigo@9 Guia 2025 das Certificações Populares de Analistas de Dados](https://www.onlc.com/blog/popular-data-analyst-certifications/)

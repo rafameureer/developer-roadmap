@@ -1,7 +1,7 @@
-# Distribution
+# Distribuição
 
-Two additional statistics to better understand the distribution of your datasets are skewness and kurtosis. Skewness measures distribution asymmetry, whereas kurtosis measures the "tailedness" and peakedness of a distribution.
+Dois estatísticas adicionais para entender melhor a distribuição dos seus conjuntos de dados são a assimetria e a curtose. A assimetria mede a simetria da distribuição, enquanto a curtose mede a "cauda" e a ponta de uma distribuição.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101)
+- [@artigo@Introdução à Estatística](https://www.udacity.com/course/intro-to-statistics--st101)

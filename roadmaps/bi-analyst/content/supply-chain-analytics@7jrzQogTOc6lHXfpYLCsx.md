@@ -1,7 +1,7 @@
-# Supply Chain Analytics
+# Análise da cadeia de suprimentos
 
-Supply Chain Analytics involves using data to understand and improve all aspects of a company's supply chain, from sourcing raw materials to delivering finished products to customers. This includes analyzing data related to inventory levels, transportation costs, supplier performance, and demand forecasting to identify bottlenecks, optimize processes, and reduce costs. The goal is to create a more efficient, responsive, and resilient supply chain.
+A análise da cadeia de suprimentos envolve o uso de dados para entender e melhorar todos os aspectos de uma empresa's cadeia de suprimentos, desde a obtenção de materiais brutos até a entrega de produtos finais aos clientes. Isso inclui analisar dados relacionados ao nível de estoque, custos de transporte, desempenho dos fornecedores e previsão da demanda para identificar gargalos, otimizar processos e reduzir custos. O objetivo é criar uma cadeia de suprimentos mais eficiente, respondente e resiliente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What Is Supply Chain Analytics?](https://www.ibm.com/think/topics/supply-chain-analytics)
+- [@artigo@O que é Análise da Cadeia de Suprimentos?](https://www.ibm.com/think/topics/supply-chain-analytics)

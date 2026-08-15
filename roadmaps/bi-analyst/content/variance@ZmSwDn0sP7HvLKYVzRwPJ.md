@@ -1,12 +1,12 @@
-# Variance
+# Variação
 
-The variance measures the spread between numbers in a dataset. Simply put, it measures how far each number in the set is from the mean (average). It helps us understand how spread out or consistent the values are in a dataset.
+A variação mede a dispersão entre os números em um conjunto de dados. Em outras palavras, ela mede o quão longe cada número no conjunto está da média (média). Ajuda-nos a entender como espalhados ou consistentes são os valores em um conjunto de dados.
 
-Variance is calculated by averaging the squared differences from the mean. First, find the mean of your data set. Then, subtract the mean from each data point, square those differences, sum them up, and finally, divide by either (n-1) for a sample or n for a population, where n is the number of data points.
+A variação é calculada pela média das diferenças quadradas da média. Primeiro, encontre a média do seu conjunto de dados. Em seguida, subtraia a média de cada ponto de dados, eleve essas diferenças ao quadrado, some-as e, finalmente, divida por (n-1) para uma amostra ou n para uma população, onde n é o número de pontos de dados.
 
-Variance can't be interpreted in the original units of measurement due to its squared nature, which is why it is often used in conjunction with its square root, the standard deviation.
+A variação não pode ser interpretada nas unidades originais de medição devido à sua natureza quadrática, por isso ela é frequentemente usada em conjunto com seu raiz quadrado, a desvio padrão.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Variance?](https://www.investopedia.com/terms/v/variance.asp)
-- [@article@How to Calculate Variance](https://www.scribbr.co.uk/stats/variance-meaning)
+- [@artigo@O que é Variação?](https://www.investopedia.com/terms/v/variance.asp)
+- [@artigo@Como Calcular Variação](https://www.scribbr.co.uk/stats/variance-meaning)

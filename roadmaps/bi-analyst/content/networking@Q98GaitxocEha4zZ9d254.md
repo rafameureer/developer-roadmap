@@ -1,3 +1,3 @@
 # Networking
 
-Networking involves building and maintaining relationships with other professionals. It's about connecting with people in your field, sharing information, and offering support. This can involve attending industry events, joining online communities, or simply reaching out to individuals whose work you admire.
+Networking envolve a construção e manutenção de relacionamentos com outros profissionais. É sobre se conectar com pessoas em seu campo, compartilhar informações e oferecer suporte. Isso pode envolver participar de eventos indústriais, juntar-se a comunidades online ou simplesmente entrar em contato com indivíduos cujo trabalho você admira.

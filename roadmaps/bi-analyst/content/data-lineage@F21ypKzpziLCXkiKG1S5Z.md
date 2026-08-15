@@ -1,8 +1,8 @@
-# Data Lineage
+# Linhagem de Dados
 
-Data lineage is the process of understanding and documenting the journey of data, from its origin to its destination. It tracks how data is transformed, moved, and used throughout its lifecycle. This includes identifying the sources of data, the transformations applied to it (e.g., cleaning, aggregation), and the systems and users that access or modify it.
+A linhagem de dados é o processo de entender e documentar a jornada dos dados, desde sua origem até seu destino. Ele rastreia como os dados são transformados, movidos e usados ao longo de toda a vida útil. Isso inclui identificar as fontes dos dados, as transformações aplicadas a eles (por exemplo, limpeza, agregação) e os sistemas e usuários que acessam ou modificam-os.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What Is Data Lineage?](https://www.ibm.com/think/topics/data-lineage)
-- [@article@The Ultimate Guide To Data Lineage](http://montecarlodata.com/blog-data-lineage/)
+- [@artigo@O Que é Linhagem de Dados?](https://www.ibm.com/think/topics/data-lineage)
+- [@artigo@Guia Completo sobre Linhagem de Dados](http://montecarlodata.com/blog-data-lineage/)

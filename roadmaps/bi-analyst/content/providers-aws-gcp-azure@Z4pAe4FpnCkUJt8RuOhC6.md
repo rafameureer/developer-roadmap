@@ -1,10 +1,10 @@
-# Cloud Providers: AWS, GCP, and Azure
+# Provedores de nuvem: AWS, GCP e Azure
 
-Amazon Web Services (AWS), Google Cloud Platform (GCP), and Microsoft Azure are the leading cloud providers, offering a wide range of services. These services include computing power, data storage, networking, databases, analytics, machine learning, and more, all accessible over the internet. They allow businesses to avoid the upfront costs and complexities of owning and managing their own IT infrastructure, providing scalable and on-demand resources.
+Amazon Web Services (AWS), Google Cloud Platform (GCP) e Microsoft Azure são os principais provedores de nuvem, oferecendo uma ampla gama de serviços. Esses serviços incluem potência de computação, armazenamento de dados, rede, bancos de dados, análise, aprendizado de máquina e muito mais, todos acessíveis pela internet. Eles permitem que as empresas evitem os custos de investimento inicial e complexidades de possuir e gerenciar sua própria infraestrutura de TI, fornecendo recursos escalonáveis e disponíveis a pedido.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Amazon Web Services](https://aws.amazon.com/)
-- [@article@Microsoft Azure](https://azure.microsoft.com/)
-- [@article@Google Cloud](https://cloud.google.com/)
-- [@video@The Basics You Need to Know about AWS, Azure, and Google Cloud](https://www.youtube.com/watch?v=wFsOjHgvUfM)
+- [@oficial@Amazon Web Services](https://aws.amazon.com/)
+- [@artigo@Microsoft Azure](https://azure.microsoft.com/)
+- [@artigo@Google Cloud](https://cloud.google.com/)
+- [@vídeo@As Básicas que Você Precisa Saber sobre AWS, Azure e Google Cloud](https://www.youtube.com/watch?v=wFsOjHgvUfM)

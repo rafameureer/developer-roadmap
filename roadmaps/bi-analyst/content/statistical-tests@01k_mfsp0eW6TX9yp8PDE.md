@@ -1,8 +1,8 @@
-# Statistical Tests
+# Testes Estatísticos
 
-Statistical tests are methods used to determine if there's enough evidence to reject a null hypothesis. They help us decide whether observed differences or relationships in data are likely due to a real effect or simply due to random chance. These tests involve calculating a test statistic and comparing it to a critical value or calculating a p-value to assess the strength of the evidence against the null hypothesis. The choice of a specific statistical test, like a t-test or chi-square test, depends on the research design, data type (e.g., normal distribution), and the variables being analyzed.
+Os testes estatísticos são métodos usados para determinar se há evidências suficientes para rejeitar uma hipótese nula. Eles nos ajudam a decidir se as diferenças ou relações observadas em dados provavelmente são devido a um efeito real ou simplesmente por acaso aleatório. Esses testes envolvem o cálculo de um estático de teste e sua comparação com um valor crítico ou o cálculo de um p-valor para avaliar a força das evidências contra a hipótese nula. A escolha de um teste estatístico específico, como um teste t ou um teste do qui-quadrado, depende do design da pesquisa, do tipo de dados (por exemplo, distribuição normal) e das variáveis sendo analisadas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Choosing the Right Statistical Test | Types & Examples](https://www.scribbr.com/statistics/statistical-tests/)
-- [@article@List of statistical tests](https://en.wikipedia.org/wiki/List_of_statistical_tests)
+- [@article@Escolhendo o Teste Estatístico Apropriado | Tipos & Exemplos](https://www.scribbr.com/statistics/statistical-tests/)
+- [@article@Lista de testes estatísticos](https://en.wikipedia.org/wiki/List_of_statistical_tests)

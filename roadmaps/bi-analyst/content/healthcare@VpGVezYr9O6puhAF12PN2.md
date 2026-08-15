@@ -1,7 +1,7 @@
-# Healthcare
+# Saúde
 
-Business Intelligence can be a game-changer in healthcare, helping hospitals, clinics, and other medical organizations make better decisions. It involves collecting and analyzing data from various sources, like patient records, insurance claims, and operational systems. This data is then used to identify trends, improve patient care, optimize resource allocation, reduce costs, and enhance overall efficiency within the healthcare system.
+A Inteligência de Negócios (BI) pode ser um revolucionário na saúde, ajudando hospitais, clínicas e outras organizações médicas a tomar melhores decisões. Envolve coletar e analisar dados de várias fontes, como registros do paciente, reclamações de seguros e sistemas operacionais. Esses dados são então usados para identificar tendências, melhorar o atendimento ao paciente, otimizar a alocação de recursos, reduzir custos e aumentar a eficiência geral no sistema de saúde.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What Is Health Care Business Intelligence?](https://www.coursera.org/articles/healthcare-business-intelligence)
+- [@artigo@O que é Inteligência de Negócios em Saúde?](https://www.coursera.org/articles/healthcare-business-intelligence)

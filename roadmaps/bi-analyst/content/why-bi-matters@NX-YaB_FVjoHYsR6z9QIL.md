@@ -1,7 +1,7 @@
-# Why BI Matters
+# Por que a BI Importa
 
-In today's data-driven world, organizations need to make informed decisions quickly and efficiently. Business Intelligence (BI) analysis and the role of a Business Analyst are crucial for transforming raw data into actionable insights. By identifying trends, patterns, and anomalies, BI helps organizations understand their performance, optimize processes, and gain a competitive edge. A skilled Business Analyst bridges the gap between data and business strategy, ensuring that insights are translated into tangible improvements and strategic advantages.
+No mundo atualmente baseado em dados, as organizações precisam tomar decisões informadas rapidamente e eficientemente. A Análise de Negócios (BI) e o papel de um Analista de Negócios são cruciais para transformar dados brutos em insights ação. Ao identificar tendências, padrões e anomalias, a BI ajuda as organizações a entenderem seu desempenho, otimizar processos e ganhar uma vantagem competitiva. Um analista de negócios habilidoso preenche o vazio entre dados e estratégia empresarial, garantindo que os insights sejam traduzidos em melhorias tangíveis e vantagens estratégicas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@Business Intelligence Fundamentals](https://www.simplilearn.com/free-business-intelligence-course-online-skillup)
+- [@curso@Fundamentos da Análise de Negócios](https://www.simplilearn.com/free-business-intelligence-course-online-skillup)

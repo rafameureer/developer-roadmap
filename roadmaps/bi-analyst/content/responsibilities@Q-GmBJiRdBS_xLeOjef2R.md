@@ -1,15 +1,15 @@
-# BI Analyst Responsibilities
+# Responsabilidades do Analista BI
 
-As a BI Analyst, you're the bridge between raw data and actionable insights. You transform complex information into clear, understandable reports and dashboards that drive strategic decision-making. Your work empowers stakeholders to identify trends, optimize performance, and achieve business goals.
+Como Analista BI, você é a ponte entre os dados brutos e as informações operacionais. Você transforma informações complexas em relatórios e painéis de controle claros e fáceis de entender que impulsam decisões estratégicas. Seu trabalho empodera os stakeholders para identificar tendências, otimizar o desempenho e atingir metas comerciais.
 
-Here are 5 main responsibilities of a BI Analyst:
+Aqui estão 5 principais responsabilidades do Analista BI:
 
-*   **Data Collection & Cleaning:** Gathering data from various sources and ensuring its accuracy and consistency.
-*   **Data Analysis & Modeling:** Analyzing data to identify trends, patterns, and insights, and creating data models for reporting.
-*   **Report & Dashboard Development:** Designing and building interactive dashboards and reports to visualize data and communicate findings.
-*   **Stakeholder Communication:** Presenting findings and recommendations to stakeholders in a clear and concise manner.
-*   **Performance Monitoring:** Tracking key performance indicators (KPIs) and identifying areas for improvement.
+*   **Coleta e Limpeza de Dados:** Coletar dados de várias fontes e garantir sua precisão e consistência.
+*   **Análise e Modelagem de Dados:** Analisar dados para identificar tendências, padrões e insights, e criar modelos de dados para relatórios.
+*   **Desenvolvimento de Relatórios e Painéis de Controle:** Projetar e construir painéis de controle e relatórios interativos para visualizar os dados e comunicar as descobertas.
+*   **Comunicação com Stakeholders:** Apresentar as descobertas e recomendações aos stakeholders de forma clara e concisa.
+*   **Monitoramento do Desempenho:** Rastrear indicadores-chave de desempenho (KPIs) e identificar áreas para melhoria.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@So What Do You Actually Do As A BI Analyst?](https://www.youtube.com/watch?v=TaRuzC8RSZU)
+- [@vídeo@O que você realmente faz como Analista BI?](https://www.youtube.com/watch?v=TaRuzC8RSZU)

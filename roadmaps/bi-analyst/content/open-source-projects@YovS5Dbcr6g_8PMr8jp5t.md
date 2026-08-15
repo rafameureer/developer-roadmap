@@ -1,8 +1,8 @@
-# Open-Source Projects
+# Projetos Open-Source
 
-Open-source projects are collaborative software development initiatives where the source code is freely available for anyone to use, modify, and distribute. This allows for community-driven innovation and improvement. Two popular open-source BI projects are Metabase, a user-friendly data exploration and visualization tool, and Apache Superset, a modern, enterprise-ready BI web application.
+Os projetos open-source são iniciativas de desenvolvimento de software colaborativo onde o código-fonte está livremente disponível para qualquer pessoa usar, modificar e distribuir. Isso permite a inovação e melhoria guiadas pela comunidade. Dois projetos BI populares open-source são Metabase, uma ferramenta amigável ao usuário para exploração e visualização de dados, e Apache Superset, um aplicativo web moderno e pronto para o ambiente empresarial de BI.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@opensource@Metabase](https://github.com/metabase/metabase)
 - [@opensource@Superset](https://github.com/apache/superset)

@@ -1,8 +1,8 @@
-# Basic Queries
+# Consultas Básicas
 
-Learning how to make basic SQL queries in esencial for BI analysts. Queries are the foundation for retrieving data from a SQL database. They involve using the `SELECT` statement to specify which columns to retrieve, the `FROM` clause to indicate the table to retrieve data from, and optionally, the `WHERE` clause to filter the data based on specific conditions. These queries allow you to extract specific information from a database, forming the basis for more complex data analysis and reporting.
+Aprender a fazer consultas SQL básicas é essencial para analistas de BI. As consultas são a base para recuperar dados de um banco de dados SQL. Elas envolvem o uso da instrução `SELECT` para especificar quais colunas recuperar, a cláusula `FROM` para indicar a tabela de onde recuperar os dados e opcionalmente, a cláusula `WHERE` para filtrar os dados com base em condições específicas. Essas consultas permitem extrair informações específicas de um banco de dados, formando a base para análises de dados mais complexas e relatórios.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@SQL Roadmap](https://roadmap.sh/sql)
-- [@article@Basic SQL Commands](https://www.freecodecamp.org/news/basic-sql-commands/)
+- [@official@Rotação SQL](https://roadmap.sh/sql)
+- [@article@Comandos SQL Básicos](https://www.freecodecamp.org/news/basic-sql-commands/)

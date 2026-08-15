@@ -1,3 +1,3 @@
-# Critical Thinking
+# Pensamento Crítico
 
-Critical thinking involves analyzing information objectively and forming a reasoned judgment. It's about evaluating evidence, identifying assumptions, and considering different perspectives to arrive at well-supported conclusions. This process helps in problem-solving and decision-making by ensuring that conclusions are logical and based on facts rather than emotions or biases.
+O pensamento crítico envolve analisar informações objetivamente e formular uma julgamento racional. Isso envolve avaliar evidências, identificar suposições e considerar diferentes perspectivas para chegar a conclusões bem suportadas. Esse processo ajuda no resolução de problemas e tomada de decisão garantindo que as conclusões sejam lógicas e baseadas em fatos, em vez de emoções ou preconceitos.

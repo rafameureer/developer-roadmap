@@ -1,13 +1,16 @@
-# Types of Data Analysis
+# Tipos de Análise de Dados
 
-Data Analytics has proven to be a critical part of decision-making in modern business ventures. It is responsible for discovering, interpreting, and transforming data into valuable information. Different types of data analytics look at past, present, or predictive views of business operations.
+A Análise de Dados tem provado ser uma parte crítica do processo de tomada de decisão em negócios modernos. Ela é responsável por descobrir, interpretar e transformar dados em informações valiosas. Diferentes tipos de análise de dados examinam visões passadas, atuais ou preditivas das operações comerciais.
 
-BI Analysts, as ambassadors of this domain, employ these types, to answer various questions:
+Os analistas BI, como ambas as caras deste domínio, empregam esses tipos para responder a várias perguntas:
 
-Descriptive Analytics (what happened in the past?) Diagnostic Analytics (why did it happened in the past?) Predictive Analytics (what will happen in the future?) Prescriptive Analytics (how can we make it happen?)
+- Análise Descritiva (o que aconteceu no passado?)
+- Análise Diagnóstica (por que aconteceu no passado?)
+- Análise Preditiva (o que acontecerá no futuro?)
+- Análise Prescritiva (como podemos fazer isso acontecer?)
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@The 4 Types of Data Analysis: Ultimate Guide](https://careerfoundry.com/en/blog/data-analytics/different-types-of-data-analysis/)
-- [@video@Descriptive vs Diagnostic vs Predictive vs Prescriptive Analytics: What's the Difference?](https://www.youtube.com/watch?v=QoEpC7jUb9k)
-- [@video@Types of Data Analytics](https://www.youtube.com/watch?v=lsZnSgxMwBA)
+- [@artigo@Os 4 Tipos de Análise de Dados: Guia Completo](https://careerfoundry.com/en/blog/data-analytics/different-types-of-data-analysis/)
+- [@vídeo@Análise Descritiva vs Diagnóstica vs Preditiva vs Prescritiva: O que é a Diferença?](https://www.youtube.com/watch?v=QoEpC7jUb9k)
+- [@vídeo@Tipos de Análise de Dados](https://www.youtube.com/watch?v=lsZnSgxMwBA)

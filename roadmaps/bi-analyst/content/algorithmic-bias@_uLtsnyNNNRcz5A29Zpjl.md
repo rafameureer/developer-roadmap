@@ -1,8 +1,8 @@
-# Algorithmic Bias
+# Viés Algorítmico
 
-Algorithmic bias occurs when a computer system reflects the implicit values of the humans who created the algorithm or the data used to train it. This can lead to unfair or discriminatory outcomes for certain groups of people, even if the algorithm is not explicitly designed to be biased. It arises from flawed assumptions, incomplete data, or biased data used in the development process, ultimately perpetuating and amplifying existing societal biases.
+O viés algorítmico ocorre quando um sistema de computador reflete os valores implícitos das pessoas que criaram o algoritmo ou os dados usados para treiná-lo. Isso pode levar a resultados injustos ou discriminatoriais para certos grupos de pessoas, mesmo se o algoritmo não for explicitamente projetado para ser viés. Ele surge de suposições equivocadas, dados incompletos ou dados viésos usados no processo de desenvolvimento, perpetuando e amplificando assim os vieses sociais existentes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What Is Algorithmic Bias?](https://www.ibm.com/think/topics/algorithmic-bias)
-- [@video@AI: Training Data & Bias](https://www.youtube.com/watch?v=x2mRoFNm22g)
+- [@artigo@O que é Viés Algorítmico?](https://www.ibm.com/think/topics/algorithmic-bias)
+- [@vídeo@IA: Dados de Treinamento e Viés](https://www.youtube.com/watch?v=x2mRoFNm22g)

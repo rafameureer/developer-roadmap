@@ -911,7 +911,148 @@
     "roadmaps/backend/content/vectors@yKNdBbahm_h81xdMDT-qx.md",
     "roadmaps/backend/content/version-control-systems@ezdqQW9wTUw93F6kjOzku.md",
     "roadmaps/backend/content/web-security@RBrIP5KbVQ2F0ly7kMfTo.md",
-    "roadmaps/backend/content/websockets@sVuIdAe08IWJVqAt4z-ag.md"
+    "roadmaps/backend/content/websockets@sVuIdAe08IWJVqAt4z-ag.md",
+    "roadmaps/bi-analyst/content/ab-testing@qKlo90-Cy8t_off5Qv8-6.md",
+    "roadmaps/bi-analyst/content/accesibility@BiyrAHB34evej_0cnDzOa.md",
+    "roadmaps/bi-analyst/content/accessibility@wtEzdO_ZNu9jHJrFS3CrG.md",
+    "roadmaps/bi-analyst/content/accuracy@M1H3Fh09v8udCJIPSJPic.md",
+    "roadmaps/bi-analyst/content/advanced-queries@-gbb16Wl--Rjx5aoM0krL.md",
+    "roadmaps/bi-analyst/content/airflow@qnUHw2f2VmTPU3-NMnoLl.md",
+    "roadmaps/bi-analyst/content/algorithmic-bias@_uLtsnyNNNRcz5A29Zpjl.md",
+    "roadmaps/bi-analyst/content/analog-vs-digital-data@kb216tShKrRPWv7mE9sVa.md",
+    "roadmaps/bi-analyst/content/apis@xQDGmVwUkrmGdviOdG8Hu.md",
+    "roadmaps/bi-analyst/content/basic-queries@TuBJ2yUz1c5KMRGVHdvU5.md",
+    "roadmaps/bi-analyst/content/beyond-linear-regression@_QyIZ2_vH3e3yic5NTuak.md",
+    "roadmaps/bi-analyst/content/bi-analyst-vs-other-roles@JFNCITtE1YtcYmLfGfF5T.md",
+    "roadmaps/bi-analyst/content/bi-communities@X8U-NQD0rYqFr_xgDWL2s.md",
+    "roadmaps/bi-analyst/content/bi-competitions@aTGsJj7Ntv5BWIzjaqvu_.md",
+    "roadmaps/bi-analyst/content/categorical-vs-numerical@yXz6MkU3-HnlkmRmYh-Ev.md",
+    "roadmaps/bi-analyst/content/ccpa@IwnXDA-f3FHK4EEeFuToC.md",
+    "roadmaps/bi-analyst/content/central-tendency@F-fC2JWOuEeDbOHH1O6EB.md",
+    "roadmaps/bi-analyst/content/certifications@hqpFbDhAvyT9_4hcoSLhC.md",
+    "roadmaps/bi-analyst/content/change-management@vDQF2oaybSewNu3EMs6zG.md",
+    "roadmaps/bi-analyst/content/chart-categories@GVgfPajmSqIgFZ6u2I1tK.md",
+    "roadmaps/bi-analyst/content/cloud-computing-basics@_KYKLd-RNhVy-Sn1A-G5j.md",
+    "roadmaps/bi-analyst/content/cloud-data-warehouses@D94743lQ1fAerVSpJWXfP.md",
+    "roadmaps/bi-analyst/content/cloud@WXk0-vebMUQC25he2lmbh.md",
+    "roadmaps/bi-analyst/content/clv@OqHNW0PzIRsw7IBgh5U5Q.md",
+    "roadmaps/bi-analyst/content/coherence@4U66ZrBZqg7-ckOTmxAQj.md",
+    "roadmaps/bi-analyst/content/cohort-analysis@R2zg0Ql-RsnIkV5Gmc1vN.md",
+    "roadmaps/bi-analyst/content/color-theory@SJGEkoTSPK2ck4IvaK6Gz.md",
+    "roadmaps/bi-analyst/content/communication--storytelling@TBcLXYtKs7_j_h_m2pAyh.md",
+    "roadmaps/bi-analyst/content/critical-thinking@NFKiPXrkjRre1yUZc27gl.md",
+    "roadmaps/bi-analyst/content/csv@LcLfC6BiOxJAkk2p424wL.md",
+    "roadmaps/bi-analyst/content/dashboard-design@KXhNou5nlekbSTfLYPs_8.md",
+    "roadmaps/bi-analyst/content/data-formats@GsZWvJPNzN6XLDp2G1db4.md",
+    "roadmaps/bi-analyst/content/data-lake@iqpVtvoebAaoB_Dj9-gdw.md",
+    "roadmaps/bi-analyst/content/data-lineage@F21ypKzpziLCXkiKG1S5Z.md",
+    "roadmaps/bi-analyst/content/data-quality@bGCMAgaenZ0t3WeO5joyP.md",
+    "roadmaps/bi-analyst/content/data-sources@VUgxDDkoxkOcLxqpTDXzt.md",
+    "roadmaps/bi-analyst/content/data-transformation-techniques@hrkMVMYWCedRxhNd2N9wE.md",
+    "roadmaps/bi-analyst/content/data-warehouse@wJiKBbTMLhIzelUtKn7jl.md",
+    "roadmaps/bi-analyst/content/databases@g44bQY90HOeI_dZ8gK2Uj.md",
+    "roadmaps/bi-analyst/content/dbt@-KzusmyDQ1NgqOADpqmEX.md",
+    "roadmaps/bi-analyst/content/descriptive-analysis@vTW3jSZ1bvc0OrP_bl22t.md",
+    "roadmaps/bi-analyst/content/descriptive-statistics@xc1hm_XTyiMUVtWiTKXWG.md",
+    "roadmaps/bi-analyst/content/design-principles@EDQjtoTd01ftwXxYkV9it.md",
+    "roadmaps/bi-analyst/content/distribution@JSqwWsfojjZTe8ynmA7fc.md",
+    "roadmaps/bi-analyst/content/dplyr@ZAhjB_ghHukD4RPAtNDxh.md",
+    "roadmaps/bi-analyst/content/duplicates@xjgqmJmetKpWXSWZHPwaL.md",
+    "roadmaps/bi-analyst/content/etl-basics@Du4GD-6pxbWYl4uSJRnOE.md",
+    "roadmaps/bi-analyst/content/excel@LLK3_hudKDX5d-fd98vlx.md",
+    "roadmaps/bi-analyst/content/exploratory-data-analysis-eda@ETT9eATuyLHQe2jPqaF5I.md",
+    "roadmaps/bi-analyst/content/fact-vs-dimension-tables@hcbS18cpVxd55hVlUeLLT.md",
+    "roadmaps/bi-analyst/content/finance@cxTriSZvrmXP4axKynIZW.md",
+    "roadmaps/bi-analyst/content/finance@xftv5BiyoVrFjpSN0tjsw.md",
+    "roadmaps/bi-analyst/content/financial-performance@1T2PyytlmndHreWgueD55.md",
+    "roadmaps/bi-analyst/content/healthcare@VpGVezYr9O6puhAF12PN2.md",
+    "roadmaps/bi-analyst/content/heatmap@SNkYi2VZsCRG31v63v8_x.md",
+    "roadmaps/bi-analyst/content/histogram@wqLcUFVsLa_l9yQIee9MG.md",
+    "roadmaps/bi-analyst/content/hr@KeGCHoJRHp-mBX-P5to4Y.md",
+    "roadmaps/bi-analyst/content/hypothesis-testing@6xfQic8dMwUsMQa7VtS8_.md",
+    "roadmaps/bi-analyst/content/interview-preparation@4XM5ikPiHVehEtT4AB-Ea.md",
+    "roadmaps/bi-analyst/content/introduction@PxOEfMSQYA2jy3zrMZXjZ.md",
+    "roadmaps/bi-analyst/content/inventory-optimization@LkbB0rpS3Du2K7_ogoc34.md",
+    "roadmaps/bi-analyst/content/iot@GrwdQldCWu2zWAaNj6LFk.md",
+    "roadmaps/bi-analyst/content/iqr@LEHK7ohKIzKhlGebd0k_j.md",
+    "roadmaps/bi-analyst/content/job-preparation@TojDB4o0i2rs7Qcb10k1r.md",
+    "roadmaps/bi-analyst/content/json@p21d2mEUnTQgWhKFTGS9F.md",
+    "roadmaps/bi-analyst/content/key-business-functions@PkzUqwT21Owk_TfepFPDm.md",
+    "roadmaps/bi-analyst/content/kurtosis@jvU1iu2M_y1IH62oUpAeU.md",
+    "roadmaps/bi-analyst/content/linear-regression@4-fpZx8p5iSNI3n4Qtacl.md",
+    "roadmaps/bi-analyst/content/lineplot@BVDaFmDat48nN3hj5NE71.md",
+    "roadmaps/bi-analyst/content/looker@f4MDT1RUfaICAWzyG2E6T.md",
+    "roadmaps/bi-analyst/content/manufacturing@zEGmDHaFa-F81tWqa3i9E.md",
+    "roadmaps/bi-analyst/content/map@7_5PBCrsukv81mm7yTpDf.md",
+    "roadmaps/bi-analyst/content/marketing-campaigns@0qRm81lJX_Eb6aJkJMjeL.md",
+    "roadmaps/bi-analyst/content/marketing@s-wUPMaagyRupT2RdfHks.md",
+    "roadmaps/bi-analyst/content/mode@DQtznxvW5x4s-zGLpUpNY.md",
+    "roadmaps/bi-analyst/content/networking@Q98GaitxocEha4zZ9d254.md",
+    "roadmaps/bi-analyst/content/open-source-projects@YovS5Dbcr6g_8PMr8jp5t.md",
+    "roadmaps/bi-analyst/content/operational-bi@GN6SnI7RXIeW8JeD-qORW.md",
+    "roadmaps/bi-analyst/content/operations@dJZqe47kzRqYIG-4AZTlz.md",
+    "roadmaps/bi-analyst/content/p-value@rkEdx_mZBoDjMhiluJl7O.md",
+    "roadmaps/bi-analyst/content/pandas@25f76eB9-vy3Usta-Pbsi.md",
+    "roadmaps/bi-analyst/content/patient-management@LI09SvvUUCQxLZZee_j0n.md",
+    "roadmaps/bi-analyst/content/performance@y9Fnjnbiqt7WkrhjPITpW.md",
+    "roadmaps/bi-analyst/content/popular-databases@gJBaVERU3prru-qRksxN4.md",
+    "roadmaps/bi-analyst/content/population--sample@7VDxA9bQ1P1fym4eQVKkN.md",
+    "roadmaps/bi-analyst/content/portfolio-presentation@qsCWo1CmR4mvy7E7qlPv5.md",
+    "roadmaps/bi-analyst/content/postgresql@nhl9FM79femgqENNR0HbE.md",
+    "roadmaps/bi-analyst/content/power-bi@eqGsO6ZGk2jdG0z9-cHzz.md",
+    "roadmaps/bi-analyst/content/presentation-design@9G-pI5NsRCq4p0FLfaMR_.md",
+    "roadmaps/bi-analyst/content/privacy@fuxGZx3WGjP2TzzVV29ux.md",
+    "roadmaps/bi-analyst/content/production-efficiency@L50rpcgGjsQU3S0zRn6xh.md",
+    "roadmaps/bi-analyst/content/providers-aws-gcp-azure@Z4pAe4FpnCkUJt8RuOhC6.md",
+    "roadmaps/bi-analyst/content/public-health@Cydlrtg_FClBUkjezqGie.md",
+    "roadmaps/bi-analyst/content/python@vQQSYPpcGO7ri0RFSWi0h.md",
+    "roadmaps/bi-analyst/content/qlik@GoMIAQwusbT7fqJ-VnCrq.md",
+    "roadmaps/bi-analyst/content/quality-control@Xe9zK8xhkkr4fsh3HOzAY.md",
+    "roadmaps/bi-analyst/content/r@0OTmTRHlR3ImNU0zyLt8G.md",
+    "roadmaps/bi-analyst/content/range@jll2iRbjdx7iiNwY13KYD.md",
+    "roadmaps/bi-analyst/content/regression-analysis@m9ejACzRBJza0v-fpdfkn.md",
+    "roadmaps/bi-analyst/content/reinforcement-learning@KFONHuJNnCuSOH7-8Ndvm.md",
+    "roadmaps/bi-analyst/content/relevance@UhcniUDKmi7KNuXlolf5O.md",
+    "roadmaps/bi-analyst/content/responsibilities@Q-GmBJiRdBS_xLeOjef2R.md",
+    "roadmaps/bi-analyst/content/resume-optimization@m9EwcekZ_l0XHiKeQ8emr.md",
+    "roadmaps/bi-analyst/content/risk-analytics@JHGV0V78GXubiSY9P3nTw.md",
+    "roadmaps/bi-analyst/content/semistructured@qHcRrxenhogymMQ6EPiMa.md",
+    "roadmaps/bi-analyst/content/skewness@X0DBG0mEWk25PEbLHhs7v.md",
+    "roadmaps/bi-analyst/content/skills@iRgtog5A13CTNDxnbGN9x.md",
+    "roadmaps/bi-analyst/content/soft-skills@mi88uLdJBXaxJ2yVOSqqo.md",
+    "roadmaps/bi-analyst/content/sql-fundamentals@s8LZgRwrlm1V4meGM7gj0.md",
+    "roadmaps/bi-analyst/content/sql@_iV_5O5Rq07P9qRGrraTM.md",
+    "roadmaps/bi-analyst/content/sqlite@lrksz861rE5m2XzOQPwgh.md",
+    "roadmaps/bi-analyst/content/stakeholder-identification@e3SdmNpVcvy3k_-JIO6OK.md",
+    "roadmaps/bi-analyst/content/stakeholder-management@r-m88g8xrUnuEpV2lHJfN.md",
+    "roadmaps/bi-analyst/content/standardisation@TCYG6vmFqq1zAPNQWoOH8.md",
+    "roadmaps/bi-analyst/content/star-vs-snowflake-schema@iYe42G31fhkAO0MBaHutF.md",
+    "roadmaps/bi-analyst/content/statistical-tests@01k_mfsp0eW6TX9yp8PDE.md",
+    "roadmaps/bi-analyst/content/structured@jnIn3_2fI2k97oALPZkt7.md",
+    "roadmaps/bi-analyst/content/supervised-learning@eZN_ty8VDX9mi5KtCWTFL.md",
+    "roadmaps/bi-analyst/content/supply-chain-analytics@7jrzQogTOc6lHXfpYLCsx.md",
+    "roadmaps/bi-analyst/content/supply-chain-optimization@-hNguvT6SQCqAgVpoQByr.md",
+    "roadmaps/bi-analyst/content/tableau@WzPj94lYxQCjFx5YW4X9x.md",
+    "roadmaps/bi-analyst/content/tactical-bi@jJukG4XxfFcID_VlQKqe-.md",
+    "roadmaps/bi-analyst/content/time-series-analysis@yseEaLsEzIcqJ0YIoGujl.md",
+    "roadmaps/bi-analyst/content/timeliness@5USjYdAVJs0gSXxE1j8Xu.md",
+    "roadmaps/bi-analyst/content/trends@On6kznZxLTCpBPskdZtgT.md",
+    "roadmaps/bi-analyst/content/types-of-bi-operations@LjeipkY01Hlkp22kmlAMh.md",
+    "roadmaps/bi-analyst/content/types-of-data-analysis@3DVF8zo-_WM_9GTuzQFO8.md",
+    "roadmaps/bi-analyst/content/types-of-data@H1s1PQj8CHQ_VBQIy1VtJ.md",
+    "roadmaps/bi-analyst/content/types-of-errors@SosOXxErMn0t2KCoHoxvS.md",
+    "roadmaps/bi-analyst/content/unstructured@DJKXgelIxuahxJiqvwP6I.md",
+    "roadmaps/bi-analyst/content/unsupervised-learning@6l_tHC1R5zgABHMc_G6RD.md",
+    "roadmaps/bi-analyst/content/variables-and-data-types@HM1w6JJquaV6Vq4mjxM7p.md",
+    "roadmaps/bi-analyst/content/variance@ZmSwDn0sP7HvLKYVzRwPJ.md",
+    "roadmaps/bi-analyst/content/visualization-best-practices@eKBORkRU6HCH-D4GWHyKR.md",
+    "roadmaps/bi-analyst/content/visualization-fundamentals@sltVKaKKjmzu17jDv9OFF.md",
+    "roadmaps/bi-analyst/content/web@xQLsuJ3uohVzOxGfFLyFw.md",
+    "roadmaps/bi-analyst/content/what-is-bi@jVXwlHRGgVpcoWCYzSB5W.md",
+    "roadmaps/bi-analyst/content/what-is-data@g5j_mbjx2yZUIK5lfN3eT.md",
+    "roadmaps/bi-analyst/content/why-bi-matters@NX-YaB_FVjoHYsR6z9QIL.md",
+    "roadmaps/bi-analyst/content/writing-executive-summaries@Slg3fXGPTa-Z4sdZY86XK.md",
+    "roadmaps/bi-analyst/content/xml@ytgK7van84j5DsfD0JyZ3.md"
   ],
   "completed_roadmaps": [
     "frontend-beginner",
@@ -928,7 +1069,8 @@
     "api-design",
     "aspnet-core",
     "aws",
-    "backend"
+    "backend",
+    "bi-analyst"
   ],
   "flagged_issues": [
     {
@@ -2335,8 +2477,318 @@
       "file": "roadmaps/backend/content/what-is-http@R12sArWVpbIs_PHxBqVaR.md",
       "reason": "Falha na tradução automática após tentativas no Ollama",
       "timestamp": "2026-08-15T02:26:52.314743"
+    },
+    {
+      "file": "roadmaps/bi-analyst/content/barplot@BUizLtQ7vpdyBRjS8KyIl.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:27:44.716428"
+    },
+    {
+      "file": "roadmaps/bi-analyst/content/basic-machine-learning@ZGazuCNruu09bd7C-aSFC.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:27:50.631083"
+    },
+    {
+      "file": "roadmaps/bi-analyst/content/bi-platforms@kpRqKLtAd3IO3nbs8Yxrh.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:28:27.751240"
+    },
+    {
+      "file": "roadmaps/bi-analyst/content/bias-recognition@9aNVqEyygNGeicdce5X8b.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:28:30.761481"
+    },
+    {
+      "file": "roadmaps/bi-analyst/content/building-your-portfolio@UIdwl_KLELI8xL2VxYJmX.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:28:44.237943"
+    },
+    {
+      "file": "roadmaps/bi-analyst/content/business-acumen@OmhvVSTtzH5sxOIZRVYfQ.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:28:47.474838"
+    },
+    {
+      "file": "roadmaps/bi-analyst/content/calculated-fields--measures@fFzCnLfZ_vSbhQjdAKLlJ.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:28:50.223143"
+    },
+    {
+      "file": "roadmaps/bi-analyst/content/cloud-bi-ecosystem@zGU6DyEm6xEYf1_73cbjL.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:29:30.993629"
+    },
+    {
+      "file": "roadmaps/bi-analyst/content/compliance-reporting@j-GXKpMnsVuUUUdRxAXLe.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:30:09.598115"
+    },
+    {
+      "file": "roadmaps/bi-analyst/content/compliance-reporting@omvGuhou7_63k-Fwcc7Mu.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:30:12.348181"
+    },
+    {
+      "file": "roadmaps/bi-analyst/content/conferences--webinars@UDF8wyYT8127wfFHcq37P.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:30:16.607866"
+    },
+    {
+      "file": "roadmaps/bi-analyst/content/confidence-intervals@xgP3zIiSEr9dtYcCQikPb.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:30:36.475946"
+    },
+    {
+      "file": "roadmaps/bi-analyst/content/correlation-analysis@ASHk2LOjlhwpwpWSRs_Bi.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:30:40.723764"
+    },
+    {
+      "file": "roadmaps/bi-analyst/content/correlation-vs-causation@JXYmXAYuA-zxrkl4PRLQd.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:30:45.480908"
+    },
+    {
+      "file": "roadmaps/bi-analyst/content/dashboard-design@qvPTiDbsY5ol_K-BNLmzk.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:31:10.406502"
+    },
+    {
+      "file": "roadmaps/bi-analyst/content/data-architectures@Zxuvc9F3bINLTdfbsx_S_.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:31:13.474241"
+    },
+    {
+      "file": "roadmaps/bi-analyst/content/data-cleaning@Vo7LJ_W-DBvxvVrnz33BM.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:31:17.492952"
+    },
+    {
+      "file": "roadmaps/bi-analyst/content/data-mart@5x4NfuP6dAgjISlB-esIW.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:31:44.092679"
+    },
+    {
+      "file": "roadmaps/bi-analyst/content/data-modeling-for-bi@Dk31XtS7wWRzO31sdsEDo.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:31:46.773034"
+    },
+    {
+      "file": "roadmaps/bi-analyst/content/data-pipeline-design@yvSf7sGEd7QiaVoetalHc.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:31:50.028364"
+    },
+    {
+      "file": "roadmaps/bi-analyst/content/diagnostic-analysis@m5aC9aNy9mwLXz0xXBp40.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:32:47.936619"
+    },
+    {
+      "file": "roadmaps/bi-analyst/content/discrete-vs-continuous@YSxvg2HrfGoGtpkwY0kGc.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:32:51.433430"
+    },
+    {
+      "file": "roadmaps/bi-analyst/content/dispersion@1D98k1HNCaaiaI20euVwA.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:32:55.962153"
+    },
+    {
+      "file": "roadmaps/bi-analyst/content/end-to-end-analytics-project@3xDVJwdl3uu5EcjlZ1ytA.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:33:18.979759"
+    },
+    {
+      "file": "roadmaps/bi-analyst/content/ethical-data-use@Vb06K0D2vWAlSe95QJrth.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:33:22.111859"
+    },
+    {
+      "file": "roadmaps/bi-analyst/content/etl-tools@lAK9QVs97hL3ysjz2blp8.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:33:40.226811"
+    },
+    {
+      "file": "roadmaps/bi-analyst/content/excel@9BWyA0b4WrmQetSMph_mY.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:33:44.641695"
+    },
+    {
+      "file": "roadmaps/bi-analyst/content/excel@Dh62zxyyUHh0galD472p8.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:33:47.029205"
+    },
+    {
+      "file": "roadmaps/bi-analyst/content/forecasting@ExHCSUDxDBwsJtTelvxjP.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:34:27.076575"
+    },
+    {
+      "file": "roadmaps/bi-analyst/content/fraud-detection@aJLGan5dkMefvkspFlcYo.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:34:31.112432"
+    },
+    {
+      "file": "roadmaps/bi-analyst/content/gdpr@CWf_vL78f8-mSUQbPnU8e.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:34:36.082576"
+    },
+    {
+      "file": "roadmaps/bi-analyst/content/hospital-efficiency@ku3m0ZmNg23F0Z5CEb4JI.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:35:02.679763"
+    },
+    {
+      "file": "roadmaps/bi-analyst/content/inferential-statistics@7DNtRMBZ_F0K1FQk-UCM4.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:35:27.504392"
+    },
+    {
+      "file": "roadmaps/bi-analyst/content/interpretability@uP8MWZqM9Z0i3eDF4Ldxv.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:35:29.354184"
+    },
+    {
+      "file": "roadmaps/bi-analyst/content/mean@S4XEOd2-PHIHOiiGgKVLJ.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:36:47.584972"
+    },
+    {
+      "file": "roadmaps/bi-analyst/content/median@mfLRVcxvAjqmSG-KBpJ4J.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:36:51.551777"
+    },
+    {
+      "file": "roadmaps/bi-analyst/content/metrics-and-kpis@c0ywBrs9u7MciWAXSgVVg.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:36:56.804071"
+    },
+    {
+      "file": "roadmaps/bi-analyst/content/misleading-charts@qGVDuU9RA9Y5g5vlPd-xq.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:37:13.245816"
+    },
+    {
+      "file": "roadmaps/bi-analyst/content/missing-values@fhreEuoT8ZBRwJqbSGrEZ.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:37:16.478776"
+    },
+    {
+      "file": "roadmaps/bi-analyst/content/mitigation-strategies@5MUwKGfSTKlam8KCG0A1U.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:37:22.095714"
+    },
+    {
+      "file": "roadmaps/bi-analyst/content/mobile-apps@1cC6LKxcncaKg4Jm53pUy.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:37:35.035401"
+    },
+    {
+      "file": "roadmaps/bi-analyst/content/mobile-responsiveness@7t0WfLLqrD5VJQwIAmXMo.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:37:38.798678"
+    },
+    {
+      "file": "roadmaps/bi-analyst/content/mysql@eqnAEp2VT7FD2VDy5WVDP.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:37:58.066095"
+    },
+    {
+      "file": "roadmaps/bi-analyst/content/normalization-vs-denormalization@Prfa0LUmgxcp52IEObFom.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:38:05.697007"
+    },
+    {
+      "file": "roadmaps/bi-analyst/content/oracle@uoQS4g-c6QndacUeiaWrq.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:38:30.419317"
+    },
+    {
+      "file": "roadmaps/bi-analyst/content/other-formats@k80q5FPNiIUdxn5A8R3Hu.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:38:34.472843"
+    },
+    {
+      "file": "roadmaps/bi-analyst/content/outliers@OqolfBQRQvwg6PI_t8Mrt.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:38:38.592342"
+    },
+    {
+      "file": "roadmaps/bi-analyst/content/predictive-analysis@4zpVE3R0lLyWpHePdBVpl.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:39:39.113501"
+    },
+    {
+      "file": "roadmaps/bi-analyst/content/predictive-maintenance@yimCxOdNtyGcbd6ZxHsBQ.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:39:43.282110"
+    },
+    {
+      "file": "roadmaps/bi-analyst/content/prescriptive-analysis@NnbtaO2MiqsHeJ-ds0Q5m.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:39:48.520985"
+    },
+    {
+      "file": "roadmaps/bi-analyst/content/professional-development@tUxwKTml2Go8zR9tR3cjn.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:40:10.202292"
+    },
+    {
+      "file": "roadmaps/bi-analyst/content/programming-languages@KSxjcWV6C325kZITzAhWs.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:40:12.825845"
+    },
+    {
+      "file": "roadmaps/bi-analyst/content/project-management@r8NoX426-ngu6ZQZe06oK.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:40:15.393162"
+    },
+    {
+      "file": "roadmaps/bi-analyst/content/retail--e-commerce@7LbhfkmS7oFoSF1k5ZR1U.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:41:26.082485"
+    },
+    {
+      "file": "roadmaps/bi-analyst/content/salary-negotiation-strategies@k3F9Tdqo3XYgMLOKGjpxA.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:41:34.293150"
+    },
+    {
+      "file": "roadmaps/bi-analyst/content/sales-performance@VPu8vn7-baZQ5ORJ6ViW0.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:41:46.420224"
+    },
+    {
+      "file": "roadmaps/bi-analyst/content/scatterplot@hCSZo7jT9arBLUbtCVFfD.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:41:48.413879"
+    },
+    {
+      "file": "roadmaps/bi-analyst/content/seasonality@moWrEfuKE06QwbznsH3V-.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:41:51.671550"
+    },
+    {
+      "file": "roadmaps/bi-analyst/content/std@vqtzg9bydAqHMwZhPHo1a.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:42:56.752577"
+    },
+    {
+      "file": "roadmaps/bi-analyst/content/storytelling-framework@t_J0MZTMWMnrImGHjXYov.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:43:01.167249"
+    },
+    {
+      "file": "roadmaps/bi-analyst/content/strategic-bi@3BxbkrBp8veZj38zdwN8s.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:43:03.248389"
+    },
+    {
+      "file": "roadmaps/bi-analyst/content/window-functions@1toMuRZResgse1AtwEck6.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:44:51.048548"
     }
   ],
-  "last_updated": "2026-08-15T02:26:52.317878",
+  "last_updated": "2026-08-15T02:44:58.368070",
   "total_translated_count": 54
 }

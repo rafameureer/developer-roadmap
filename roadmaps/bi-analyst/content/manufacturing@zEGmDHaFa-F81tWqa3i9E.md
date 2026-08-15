@@ -1,8 +1,8 @@
-# BI in Manufacturing
+# BI na Indústria
 
-Data analytics and BI in manufacturing involves using data to understand and improve how things are made in industrial settings. It's about collecting information from different parts of the manufacturing process – like production lines, supply chains, and sales – and then analyzing it to find patterns and insights. This helps manufacturers make smarter decisions about things like optimizing production, reducing costs, improving quality, and predicting future demand.
+A análise de dados e o BI na indústria envolvem usar dados para entender e melhorar como as coisas são feitas em ambientes industriais. Isso é sobre coletar informações de diferentes partes do processo de produção – como linhas de produção, cadeias de suprimentos e vendas – e então analisá-las para encontrar padrões e insights. Isso ajuda os fabricantes a tomar decisões mais inteligentes sobre assuntos como otimizar a produção, reduzir custos, melhorar a qualidade e prever o futuro da demanda.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What Is Manufacturing Analytics?](http://oracle.com/au/scm/manufacturing/manufacturing-analytics/)
-- [@article@The future of manufacturing is powered by data and analytics. Here's why](https://www.weforum.org/stories/2022/09/manufacturing-data-advanced-analytics/)
+- [@artigo@O que é a Análise de Produtos?](http://oracle.com/au/scm/manufacturing/manufacturing-analytics/)
+- [@artigo@O futuro da indústria está alimentado por dados e análise avançada. Aqui está o motivo](https://www.weforum.org/stories/2022/09/manufacturing-data-advanced-analytics/)

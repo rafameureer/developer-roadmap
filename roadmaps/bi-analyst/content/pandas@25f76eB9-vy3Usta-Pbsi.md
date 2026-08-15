@@ -1,8 +1,8 @@
-# Pandas for Exploratory Data Analysis
+# Pandas para Análise Exploratória de Dados
 
-Pandas is a powerful Python library that makes exploring and understanding data much easier. It provides data structures like DataFrames, which are like spreadsheets but much more versatile. With Pandas, you can quickly clean, transform, and analyze your data. It allows you to easily filter rows, select columns, calculate summary statistics (like mean and median), and handle missing values. This makes it a go-to tool for getting a feel for your data and uncovering initial insights before diving into more complex analysis.
+O Pandas é uma poderosa biblioteca Python que torna mais fácil explorar e entender dados. Ele fornece estruturas de dados como DataFrames, que são como planilhas, mas muito mais versáteis. Com o Pandas, você pode limpar, transformar e analisar seus dados rapidamente. Permite filtrar facilmente linhas, selecionar colunas, calcular estatísticas de resumo (como média e mediana) e lidar com valores faltantes. Isso o torna uma ferramenta essencial para obter um sentimento dos seus dados e descobrir insights iniciais antes de mergulhar em análises mais complexas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Pandas Docs](https://pandas.pydata.org/docs/index.html)
-- [@video@Exploratory Data Analysis in Pandas | Python Pandas Tutorials](https://www.youtube.com/watch?v=Liv6eeb1VfE)
+- [@oficial@Documentação do Pandas](https://pandas.pydata.org/docs/index.html)
+- [@vídeo@Análise Exploratória de Dados no Pandas | Tutoriais Python Pandas](https://www.youtube.com/watch?v=Liv6eeb1VfE)

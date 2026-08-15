@@ -1,3 +1,3 @@
-# Types of BI Operations
+# Tipos de Operações BI
 
-Business operations are traditionally grouped in 3 hierarchical levels of management: strategic, tactical, and operational operations, each with a different scope, time frame, and purpose.
+As operações comerciais são tradicionalmente agrupadas em 3 níveis hierárquicos de gestão: estratégica, tática e operacional, cada um com um escopo, prazo e propósito diferentes.

@@ -1,9 +1,9 @@
-# Communication & Storytelling
+# Comunicação e Contato
 
-Communication and storytelling involve conveying insights and findings from data analysis in a clear, concise, and engaging manner. It's about transforming complex data into understandable narratives that resonate with the audience, enabling them to grasp the significance of the information and make informed decisions. This includes using visuals, language, and structure to effectively present data-driven insights.
+A comunicação e o contato envolvem transmitir insights e descobertas de análise de dados de maneira clara, concisa e envolvente. É sobre transformar dados complexos em narrativas compreensíveis que ressoam com a audiência, permitindo que eles entendaem a importância das informações e tomem decisões informadas. Isso inclui o uso de visuais, linguagem e estrutura para apresentar efetivamente insights baseados em dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is data storytelling?](http://microsoft.com/en-us/power-platform/products/power-bi/topics/data-storytelling)
-- [@article@Data Storytelling: How to Effectively Tell a Story with Data](https://online.hbs.edu/blog/post/data-storytelling)
-- [@video@Telling Stories with Data in 3 Steps (Quick Study)](https://www.youtube.com/watch?v=r5_34YnCmMY)
+- [@artigo@O que é a Contato com Dados?](http://microsoft.com/en-us/power-platform/products/power-bi/topics/data-storytelling)
+- [@artigo@Contato com Dados: Como Comunicar Efetivamente uma História com Dados](https://online.hbs.edu/blog/post/data-storytelling)
+- [@vídeo@Contando Histórias com Dados em 3 Passos (Estudo Rápido)](https://www.youtube.com/watch?v=r5_34YnCmMY)

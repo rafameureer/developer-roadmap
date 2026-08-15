@@ -1,8 +1,8 @@
-# Exploratory Data Analysis (EDA)
+# Análise Exploratória de Dados (EDA)
 
-Exploratory Data Analysis (EDA) is an approach to analyzing data sets to summarize their main characteristics, often with visual methods. It's used to discover patterns, spot anomalies, test hypotheses, and check assumptions with the help of summary statistics and graphical representations. The goal of EDA is to gain a deeper understanding of the data before formal modelling or hypothesis testing.
+A Análise Exploratória de Dados (EDA) é uma abordagem para analisar conjuntos de dados com o objetivo de resumir suas principais características, geralmente usando métodos visuais. Ela é usada para descobrir padrões, identificar anomalias, testar hipóteses e verificar suposições com a ajuda de estatísticas de resumo e representações gráficas. O objetivo da EDA é obter uma compreensão mais profunda dos dados antes do modelamento formal ou teste de hipóteses.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Exploratory Data Analysis?](https://www.ibm.com/think/topics/exploratory-data-analysis)
-- [@video@Exploratory Data Analysis](https://www.youtube.com/watch?v=QiqZliDXCCg)
+- [@article@O que é Análise Exploratória de Dados?](https://www.ibm.com/think/topics/exploratory-data-analysis)
+- [@video@Análise Exploratória de Dados](https://www.youtube.com/watch?v=QiqZliDXCCg)

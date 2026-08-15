@@ -1,3 +1,3 @@
-# What is Data?
+# O que é Dados?
 
-Data are facts or pieces of information. They are often measurements or observations, or opinions. Usually, data is collected to be analyzed to find insights, draw a conclusion, or make a decision.
+Os dados são fatos ou pedaços de informações. Eles são frequentemente medições ou observações, ou opiniões. Geralmente, os dados são coletados para serem analisados a fim de encontrar insights, tirar conclusões ou tomar decisões.

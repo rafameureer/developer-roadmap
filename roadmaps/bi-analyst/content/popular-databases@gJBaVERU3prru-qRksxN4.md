@@ -1,3 +1,3 @@
-# Popular Databases
+# Bancos de Dados Populares
 
-Relational databases are a common way to store and organize data in tables with rows and columns. They use relationships between these tables to efficiently manage information. Some popular examples include MySQL, a widely used open-source database; PostgreSQL, known for its robustness and adherence to standards; SQLite, a lightweight database often embedded in applications; and Oracle, a commercial database known for its scalability and features.
+Os bancos de dados relacionais são uma maneira comum de armazenar e organizar dados em tabelas com linhas e colunas. Eles usam relações entre essas tabelas para gerenciar eficientemente informações. Alguns exemplos populares incluem MySQL, um banco de dados de código aberto amplamente utilizado; PostgreSQL, conhecido por sua robustez e conformidade com padrões; SQLite, um banco de dados leve frequentemente incorporado em aplicativos; e Oracle, um banco de dados comercial conhecido por sua escalabilidade e recursos.

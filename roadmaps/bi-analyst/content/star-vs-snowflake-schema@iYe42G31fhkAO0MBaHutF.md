@@ -1,7 +1,7 @@
-# Star vs Snowflake Schema
+# Esquema de Estrela vs Esquema de Nuvem Branca
 
-Star and snowflake schemas are methods used to organize data in a relational database for analytics and reporting. A star schema features a central fact table connected directly to multiple denormalized dimension tables, creating a structure that resembles a star and prioritizing query performance. A snowflake schema is an extension of the star schema where dimension tables are normalized into multiple related tables, which reduces data redundancy but increases the complexity of joins required to retrieve information.
+Os esquemas de estrela e de nuvem branca são métodos usados para organizar dados em um banco de dados relacional para análises e relatórios. Um esquema de estrela tem uma tabela fatos central conectada diretamente a várias tabelas de dimensão denormalizadas, criando uma estrutura que se assemelha a uma estrela e priorizando o desempenho das consultas. Um esquema de nuvem branca é uma extensão do esquema de estrela onde as tabelas de dimensão são normalizadas em várias tabelas relacionadas, reduzindo a redundância dos dados mas aumentando a complexidade dos joins necessários para recuperar informações.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Star Schema vs Snowflake Schema: 6 Key differences](https://www.thoughtspot.com/data-trends/data-modeling/star-schema-vs-snowflake-schema)
+- [@article@Esquema de Estrela vs Esquema de Nuvem Branca: 6 Diferenças Chave](https://www.thoughtspot.com/data-trends/data-modeling/star-schema-vs-snowflake-schema)

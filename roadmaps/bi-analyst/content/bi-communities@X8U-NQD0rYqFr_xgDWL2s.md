@@ -1,9 +1,9 @@
-# BI Communities
+# Comunidades BI
 
-BI communities are groups of people who share an interest in business intelligence. These communities provide a space for BI professionals to connect, share knowledge, and learn from each other. They often host events, online forums, and other resources to help members grow their skills and advance their careers. Some of the most popular BI communities include the Data Visualization Society, the Tableau Community, and the Power BI Forums.
+Comunidades BI são grupos de pessoas que compartilham um interesse em inteligência de negócios. Essas comunidades oferecem um espaço para profissionais BI se conectarem, compartilharem conhecimento e aprender uns com os outros. Eles frequentemente anfitriam eventos, fóruns online e outros recursos para ajudar os membros a desenvolver suas habilidades e avançar carreiras. Alguns dos grupos de BI mais populares incluem a Sociedade de Visualização de Dados, a Comunidade Tableau e os Fóruns do Power BI.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Tableau Community](https://community.tableau.com/s/)
-- [@article@Power Bi Forums](https://community.fabric.microsoft.com/t5/Power-BI-forums/ct-p/powerbi)
-- [@article@Data Visualization Society](https://www.datavisualizationsociety.org/)
+- [@artigo@Comunidade Tableau](https://community.tableau.com/s/)
+- [@artigo@Fóruns do Power Bi](https://community.fabric.microsoft.com/t5/Power-BI-forums/ct-p/powerbi)
+- [@artigo@Sociedade de Visualização de Dados](https://www.datavisualizationsociety.org/)

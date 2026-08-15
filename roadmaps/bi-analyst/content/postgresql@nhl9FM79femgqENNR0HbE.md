@@ -1,10 +1,10 @@
 # PostgreSQL
 
-PostgreSQL is an advanced, open-source relational database management system (RDBMS) known for its robustness, extensibility, and standards compliance. It supports a wide range of data types and advanced features, including complex queries, foreign keys, and full-text search. PostgreSQL is highly extensible, allowing users to define custom data types, operators, and functions.
+PostgreSQL é um sistema de gerenciamento de banco de dados relacional (RDBMS) avançado e de código aberto conhecido por sua robustez, extensibilidade e conformidade com padrões. Ele suporta uma ampla gama de tipos de dados e recursos avançados, incluindo consultas complexas, chaves estrangeiras e busca em texto completo. O PostgreSQL é altamente extensível, permitindo que os usuários definam tipos de dados personalizados, operadores e funções.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated PostgreSQL DBA Roadmap](https://roadmap.sh/postgresql-dba)
-- [@official@PostgreSQL Website](https://www.postgresql.org/)
-- [@course@PostgreSQL: Become an SQL developer](https://www.simplilearn.com/free-postgresql-course-skillup)
-- [@article@Learn PostgreSQL - Full Tutorial for Beginners](ttps://www.postgresqltutorial.com/)
+- [@roadmap@Visite o Caminho Dedicado ao Administrador DBA do PostgreSQL](https://roadmap.sh/postgresql-dba)
+- [@official@Site oficial do PostgreSQL](https://www.postgresql.org/)
+- [@course@PostgreSQL: Seja um desenvolvedor SQL](https://www.simplilearn.com/free-postgresql-course-skillup)
+- [@article@Aprenda o PostgreSQL - Tutorial Completo para Iniciantes](ttps://www.postgresqltutorial.com/)

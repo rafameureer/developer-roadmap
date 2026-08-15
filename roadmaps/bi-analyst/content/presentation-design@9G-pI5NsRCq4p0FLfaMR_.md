@@ -1,7 +1,7 @@
-# Presentation Design
+# Design de Apresentação
 
-Presentation design involves creating visually appealing and engaging slides or materials to effectively communicate information to an audience. It encompasses elements like layout, color schemes, typography, imagery, and data visualization to ensure the message is clear, concise, and memorable. A well-designed presentation helps to capture attention, maintain interest, and facilitate understanding of the key insights being presented.
+O design de apresentação envolve criar slides ou materiais visualmente atraentes e engajantes para comunicar efetivamente informações a um público. Ele abrange elementos como layout, esquemas de cores, tipografia, imagens e visualização de dados para garantir que a mensagem seja clara, concisa e memorável. Um design bem estruturado de apresentação ajuda a capturar a atenção, manter o interesse e facilitar a compreensão dos principais insights sendo apresentados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@Visual storytelling 101: elevating presentations with data visualization](https://www.youtube.com/watch?v=NXx0xQn7OXI)
+- [@vídeo@Conto Visual 101: elevando as apresentações com visualização de dados](https://www.youtube.com/watch?v=NXx0xQn7OXI)

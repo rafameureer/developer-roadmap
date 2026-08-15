@@ -1,10 +1,10 @@
 # SQLite
 
-SQLite is a lightweight, serverless, self-contained SQL database engine that is designed for simplicity and efficiency. It is widely used in embedded systems and applications where a full-featured database server is not required, such as mobile apps, desktop applications, and small to medium-sized websites. SQLite stores data in a single file, which makes it easy to deploy and manage. It supports standard SQL queries and provides ACID (Atomicity, Consistency, Isolation, Durability) compliance to ensure data integrity.
+SQLite é um motor de banco de dados SQL leve, sem servidor e autônomo que foi projetado para simplicidade e eficiência. É amplamente usado em sistemas embarcados e aplicativos onde não é necessário um servidor de banco de dados completo, como aplicativos móveis, aplicativos desktop e sites pequenos a médios. O SQLite armazena os dados em um único arquivo, o que facilita sua implantação e gerenciamento. Ele suporta consultas SQL padrão e fornece conformidade ACID (Atomicidade, Consistência, Isolamento, Durabilidade) para garantir a integridade dos dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@SQLite](https://www.sqlite.org/index.html)
-- [@article@SQLite Tutorial](https://www.sqlitetutorial.net/)
-- [@article@SQLite Introduction](https://www.youtube.com/watch?v=8Xyn8R9eKB8)
-- [@video@SQLite Introduction - Beginners Guide to SQL and Databases](https://www.youtube.com/watch?v=8Xyn8R9eKB8)
+- [@article@Tutorial SQLite](https://www.sqlitetutorial.net/)
+- [@article@Introdução ao SQLite](https://www.youtube.com/watch?v=8Xyn8R9eKB8)
+- [@video@Introdução ao SQLite - Guia Iniciante em SQL e Bancos de Dados](https://www.youtube.com/watch?v=8Xyn8R9eKB8)

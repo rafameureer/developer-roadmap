@@ -1,3 +1,3 @@
-# Cloud Data Sources
+# Fontes de Dados na Nuvem
 
-Cloud data sources refer to data that is stored and accessed through a network of remote servers hosted on the internet, rather than on local servers or personal devices. These sources can include databases, data warehouses, data lakes, and various applications offered by cloud providers like AWS, Azure, and Google Cloud. They offer scalability, accessibility, and often cost-effectiveness for storing and processing large volumes of data.
+As fontes de dados na nuvem se referem a dados armazenados e acessados através de uma rede de servidores remotos hospedados na internet, em vez de em servidores locais ou dispositivos pessoais. Essas fontes podem incluir bancos de dados, data warehouses, data lakes e várias aplicações oferecidas por provedores de nuvem como AWS, Azure e Google Cloud. Elas oferecem escalabilidade, acessibilidade e muitas vezes economia ao armazenar e processar grandes volumes de dados.

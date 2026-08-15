@@ -1,9 +1,9 @@
-# Cloud Computing
+# Computação na Nuvem
 
-**Cloud Computing** refers to the delivery of computing services over the internet rather than using local servers or personal devices. These services include servers, storage, databases, networking, software, analytics, and intelligence. Cloud Computing enables faster innovation, flexible resources, and economies of scale. There are various types of cloud computing such as public clouds, private clouds, and hybrids clouds. Furthermore, it's divided into different services like Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS). These services differ mainly in the level of control an organization has over their data and infrastructures.
+**Computação na Nuvem** refere-se à entrega de serviços de computação pela internet em vez de usar servidores locais ou dispositivos pessoais. Esses serviços incluem servidores, armazenamento, bancos de dados, rede, software, análise e inteligência. A Computação na Nuvem habilita a inovação mais rápida, recursos flexíveis e economias de escala. Existem vários tipos de computação na nuvem, como nuvens públicas, nuvens privadas e nuvens híbridas. Além disso, ela é dividida em diferentes serviços como Serviço como uma Máquina (IaaS), Plataforma como uma Serviço (PaaS) e Software como uma Serviço (SaaS). Esses serviços diferem principalmente no nível de controle que uma organização tem sobre seus dados e infraestruturas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Cloud Computing - IBM](https://www.ibm.com/think/topics/cloud-computing)
-- [@article@What is Cloud Computing? - Azure](https://azure.microsoft.com/en-gb/resources/cloud-computing-dictionary/what-is-cloud-computing)
-- [@video@hat is Cloud Computing?](https://www.youtube.com/watch?v=mxT233EdY5c)
+- [@artigo@Computação na Nuvem - IBM](https://www.ibm.com/think/topics/cloud-computing)
+- [@artigo@O que é Computação na Nuvem? - Azure](https://azure.microsoft.com/en-gb/resources/cloud-computing-dictionary/what-is-cloud-computing)
+- [@vídeo@O que é Computação na Nuvem?](https://www.youtube.com/watch?v=mxT233EdY5c)

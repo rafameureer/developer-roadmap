@@ -1,8 +1,8 @@
 # Excel
 
-Excel is a spreadsheet program used for organizing, analyzing, and storing data in tables. It allows users to perform calculations, create charts and graphs, and automate tasks using formulas and macros. It is widely used for data entry, data cleaning, and basic data analysis.
+O Excel é um programa de planilhas usado para organizar, analisar e armazenar dados em tabelas. Ele permite que os usuários realizem cálculos, criem gráficos e tabelas e automatizem tarefas usando fórmulas e macros. É amplamente utilizado para entrada de dados, limpeza de dados e análise básica de dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Microsoft Excel](https://www.microsoft.com/microsoft-365/)
-- [@video@Excel Full Course Tutorial (4+ Hours)](https://www.youtube.com/watch?v=rro5t8eHXaY)
+- [@video@Curso Completo do Excel (4+ Horas)](https://www.youtube.com/watch?v=rro5t8eHXaY)

@@ -1,7 +1,7 @@
-# Duplicate Data
+# Dados Duplicados
 
-Duplicate data refers to instances where the same piece of information is repeated within a dataset. This can occur due to various reasons, such as human error during data entry, system glitches, or integration of data from multiple sources. Identifying and removing or merging these duplicates is crucial for ensuring data accuracy and reliability.
+Dados duplicados se referem a instâncias em que a mesma informação é repetida dentro de um conjunto de dados. Isso pode ocorrer por várias razões, como erros humanos durante a entrada de dados, falhas do sistema ou integração de dados de múltiplos fontes. Identificar e remover ou mesclar esses duplicados é crucial para garantir a precisão e confiabilidade dos seus dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Data Duplication Implications and Solutions](https://www.oracle.com/uk/data-duplication/)
+- [@artigo@Implicações e Soluções da Duplicação de Dados](https://www.oracle.com/uk/data-duplication/)

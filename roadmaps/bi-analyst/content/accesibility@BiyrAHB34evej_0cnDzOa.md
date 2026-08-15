@@ -1,3 +1,3 @@
-# Data Accessibility
+# Acessibilidade dos Dados
 
-Data accessibility refers to the ease with which individuals or systems can locate, retrieve, and utilize data. It encompasses factors like data discoverability, format compatibility, and the presence of appropriate permissions and tools. Ensuring data is accessible is crucial for effective analysis, reporting, and decision-making, as it allows users to readily leverage available information.
+A acessibilidade dos dados refere-se à facilidade com que indivíduos ou sistemas podem localizar, recuperar e utilizar dados. Isso abrange fatores como a descoberta de dados, compatibilidade de formato e a presença de permissões e ferramentas adequadas. Garantir que os dados sejam acessíveis é crucial para uma análise, relatórios e tomada de decisão eficazes, pois permite que os usuários explorem facilmente as informações disponíveis.

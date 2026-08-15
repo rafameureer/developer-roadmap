@@ -1,7 +1,7 @@
-# Range
+# Intervalo
 
-The range is a simple measure of dispersion that indicates the spread of data in a dataset. It's calculated by subtracting the smallest value from the largest value. The range provides a quick and easy way to understand the variability within a dataset, showing the total distance covered by the data points.
+O intervalo é uma medida simples de dispersão que indica a distribuição dos dados em um conjunto de dados. É calculado subtraindo o menor valor do maior valor. O intervalo fornece uma maneira rápida e fácil de entender a variabilidade dentro de um conjunto de dados, mostrando a distância total coberta pelos pontos de dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@How to Find the Range of a Data Set](https://www.scribbr.co.uk/stats/range-statistics/)
+- [@artigo@Como encontrar o intervalo de um conjunto de dados](https://www.scribbr.co.uk/stats/range-statistics/)

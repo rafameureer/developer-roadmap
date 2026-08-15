@@ -1,8 +1,8 @@
-# Supervised Learning
+# Aprendizagem Supervisionada
 
-Supervised machine learning forms an integral part of the toolset for a Data Analyst. With a direct focus on building predictive models from labeled datasets, it involves training an algorithm based on these known inputs and outputs, helping Data Analysts establish correlations and make reliable predictions. Fortifying a Data Analyst's role, supervised machine learning enables the accurate interpretation of complex data, enhancing decision-making processes.
+A aprendizagem supervisionada é uma parte integral do conjunto de ferramentas para um Analista de Dados. Com um foco direto na construção de modelos preditivos a partir de conjuntos de dados rotulados, envolve treinar um algoritmo com base nessas entradas e saídas conhecidas, ajudando os Analistas de Dados a estabelecer correlações e fazer previsões confiáveis. Fortalecendo o papel do Analista de Dados, a aprendizagem supervisionada permite uma interpretação precisa de dados complexos, melhorando os processos de tomada de decisão.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Supervised Learning?](https://cloud.google.com/discover/what-is-supervised-learning)
-- [@video@Supervised Machine Learning Explained For Beginners](https://www.youtube.com/watch?v=Mu3POlNoLdc&pp=0gcJCf8Ao7VqN5tD)
+- [@artigo@O que é Aprendizagem Supervisionada?](https://cloud.google.com/discover/what-is-supervised-learning)
+- [@vídeo@Aprendizagem Supervisionada Explicada Para Iniciantes](https://www.youtube.com/watch?v=Mu3POlNoLdc&pp=0gcJCf8Ao7VqN5tD)

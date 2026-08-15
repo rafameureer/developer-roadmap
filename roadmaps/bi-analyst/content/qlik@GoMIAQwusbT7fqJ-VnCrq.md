@@ -1,8 +1,8 @@
 # Qlik
 
-Qlik is a data analytics platform that allows users to explore data, discover insights, and make data-driven decisions. It uses associative technology, which enables users to explore relationships within data regardless of where it's stored. Qlik offers self-service analytics, data visualization, and data integration capabilities, empowering users to analyze data without relying solely on IT or data science teams.
+O Qlik é uma plataforma de análise de dados que permite aos usuários explorar dados, descobrir insights e tomar decisões baseadas em dados. Ele usa tecnologia associativa, o que habilita os usuários a explorar relações dentro dos dados independentemente da localização onde eles estão armazenados. O Qlik oferece capacidades de análise autosserviço, visualização de dados e integração de dados, empoderando os usuários a analisar dados sem depender exclusivamente das equipes de TI ou ciência de dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Qlik](https://www.qlik.com/)
-- [@video@Qlik Sense Tutorial: 3.5 Hours of Beginner to Advanced Qlik Sense Training](https://www.youtube.com/watch?v=ny8d2XlTWsQ)
+- [@video@Tutorial do Qlik Sense: 3,5 Horas de Treinamento Iniciante a Avançado em Qlik Sense](https://www.youtube.com/watch?v=ny8d2XlTWsQ)

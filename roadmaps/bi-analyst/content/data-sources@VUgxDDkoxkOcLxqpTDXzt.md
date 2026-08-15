@@ -1,3 +1,3 @@
-# Data Sources
+# Fontes de Dados
 
-Data sources are the origins from which data is collected. These sources can be varied, ranging from databases and spreadsheets to web APIs and social media feeds. They provide the raw material that is then processed, analyzed, and transformed into meaningful insights. Understanding the different types of data sources and how to access them is crucial for effective data analysis.
+As fontes de dados são os lugares de origem dos quais os dados são coletados. Essas fontes podem variar, indo desde bancos de dados e planilhas até APIs da web e feeds de mídia social. Eles fornecem o material bruto que é então processado, analisado e transformado em insights significativos. Entender os diferentes tipos de fontes de dados e como acessá-las é crucial para uma análise de dados eficaz.

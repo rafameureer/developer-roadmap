@@ -1,3 +1,3 @@
-# Production Efficiency
+# Eficiência na Produção
 
-Production efficiency measures how well a manufacturing process converts inputs (like raw materials, labor, and energy) into outputs (finished goods). It focuses on minimizing waste, optimizing resource utilization, and streamlining workflows to produce the maximum possible output with the least amount of input. Analyzing production efficiency involves tracking key performance indicators (KPIs) such as throughput, cycle time, and defect rates to identify areas for improvement and ultimately reduce costs and increase profitability.
+A eficiência na produção mede como bem um processo de fabricação converte os inputs (como materiais brutos, mão-de-obra e energia) em outputs (bem-fáceis). Ela se concentra em minimizar o desperdício, otimizar a utilização dos recursos e streamlinar as workflows para produzir a maior quantidade possível de output com o menor input possível. Analisar a eficiência na produção envolve rastrear indicadores-chave de desempenho (KPIs) como throughput, tempo de ciclo e taxas de defeito para identificar áreas para melhoria e, eventualmente, reduzir custos e aumentar a lucratividade.

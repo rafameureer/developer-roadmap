@@ -1,7 +1,7 @@
-# Privacy
+# Privacidade
 
-Privacy refers to the right of individuals to control how their personal information is collected, used, and shared. It encompasses various aspects, including data security, confidentiality, and compliance with regulations like GDPR and CCPA. Protecting privacy involves implementing policies and procedures to safeguard sensitive data and ensuring transparency in data handling practices.
+A privacidade refere-se ao direito dos indivíduos de controlar como suas informações pessoais são coletadas, usadas e compartilhadas. Ela abrange vários aspectos, incluindo segurança de dados, confidencialidade e conformidade com regulamentos como GDPR e CCPA. Proteger a privacidade envolve implementar políticas e procedimentos para proteger dados sensíveis e garantir transparência nas práticas de tratamento de dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What Is Data Privacy?](https://www.ibm.com/think/topics/data-privacy)
+- [@artigo@O que é Privacidade de Dados?](https://www.ibm.com/think/topics/data-privacy)

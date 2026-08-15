@@ -1,3 +1,3 @@
-# Office Hours
- 
-Office hours are scheduled sessions where developers can join a live call to ask questions, get help debugging, or discuss their use case directly with a member of the DevRel or product team. They provide high-touch support for developers who are stuck and create direct feedback opportunities that are harder to get through asynchronous channels.
+# Horários de Consulta
+
+Os horários de consulta são sessões agendadas onde os desenvolvedores podem se juntar a uma chamada ao vivo para fazer perguntas, obter ajuda com depuração ou discutir seu caso de uso diretamente com um membro da equipe DevRel ou do produto. Eles oferecem suporte personalizado para desenvolvedores que estão presos e criam oportunidades diretas de feedback que são mais difíceis de obter através de canais assíncronos.

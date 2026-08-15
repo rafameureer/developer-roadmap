@@ -1,8 +1,8 @@
-# Community Management
- 
-Community management is the day-to-day work of keeping a developer community active, healthy, and growing. It includes moderating discussions, welcoming new members, facilitating conversations, resolving conflicts, and recognizing contributors. Effective community management makes the difference between a community that thrives and one that goes quiet.
+# Gestão de Comunidade
 
-Visit the following resources to learn more:
+A gestão da comunidade é o trabalho diário de manter uma comunidade de desenvolvedores ativa, saudável e em crescimento. Inclui moderar discussões, bem-vindo novos membros, facilitar conversas, resolver conflitos e reconhecer contribuidores. A gestão eficaz da comunidade faz a diferença entre uma comunidade que prospera e outra que fica quieta.
 
-- [@article@The Ultimate Guide to Community Management](https://blog.hubspot.com/marketing/community-management-expert-advice)
-- [@article@Online Community Management Tactics](https://www.higherlogic.com/blog/online-community-management-guide/)
+Acesse os seguintes recursos para saber mais:
+
+- [@artigo@Guia Último Sobre Gestão de Comunidade](https://blog.hubspot.com/marketing/community-management-expert-advice)
+- [@artigo@Táticas de Gestão de Comunidade Online](https://www.higherlogic.com/blog/online-community-management-guide/)

@@ -1,3 +1,3 @@
-# Managing Discussions
- 
-GitHub Discussions provides a forum-like space within a repository for longer-form conversations that are not bug reports or feature requests. DevRel teams use it for Q&A, announcements, polls, and general community conversations. Actively managing Discussions keeps the community informed and creates a searchable knowledge base for common questions.
+# Gerenciando Discussões
+
+As discussões no GitHub fornecem um espaço semelhante a um fórum dentro de um repositório para conversas mais longas que não sejam relatos de bugs ou solicitações de recursos. Equipes da DevRel usam isso para Q&A, anúncios, pesquisas e conversações gerais com a comunidade. Gerenciar ativamente as discussões mantém a comunidade informada e cria um banco de conhecimento pesquisável para perguntas comuns.

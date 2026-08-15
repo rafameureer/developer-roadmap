@@ -1,7 +1,7 @@
-# Code Samples
+# Exemplos de Código
 
-Code samples are essential in sample projects as they provide concrete, practical examples that help developers understand how to use a platform, library, or tool. Well-crafted code samples should be clear, concise, and focused on demonstrating specific functionality, avoiding unnecessary complexity that might distract from the core concept. They should be easy to read, following consistent naming conventions, proper formatting, and best practices for the relevant programming language. Including inline comments and explanations can help clarify key steps, while additional context in the accompanying documentation or blog post can guide developers through the logic and potential use cases.
+Exemplos de código são essenciais em projetos de amostra, pois fornecem exemplos concretos e práticos que ajudam os desenvolvedores a entender como usar uma plataforma, biblioteca ou ferramenta. Exemplos de código bem elaborados devem ser claros, concisos e focados na demonstração de funcionalidades específicas, evitando complexidade desnecessária que possa distrair da conceito central. Eles devem ser fáceis de ler, seguindo convenções de nomenclatura consistentes, formatação adequada e práticas recomendadas para o idioma de programação relevante. Incluir comentários e explicações em linha pode ajudar a esclarecer os passos-chave, enquanto contexto adicional na documentação ou postagem de blog que acompanha pode orientar os desenvolvedores através da lógica e possíveis casos de uso.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Code Documentation Best Practices and Standards: A Complete Guide](https://blog.codacy.com/code-documentation)
+- [@artigo@Melhores Práticas e Normas para a Documentação do Código: Um Guia Completo](https://blog.codacy.com/code-documentation)

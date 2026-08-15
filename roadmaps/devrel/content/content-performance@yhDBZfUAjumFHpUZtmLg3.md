@@ -1,8 +1,8 @@
-# Content Performance
+# Desempenho do Conteúdo
 
-Content performance involves measuring, analyzing, and optimizing the impact of created content on the target audience. This multifaceted process encompasses tracking various metrics such as engagement rates, conversion rates, time spent on page, and social shares to gauge the effectiveness of content in achieving its intended goals. By leveraging sophisticated analytics tools and techniques, DevRel professionals can gain valuable insights into audience behavior, preferences, and pain points, enabling them to refine their content strategy, improve user experience, and ultimately drive better outcomes for both developers and the organization.
+O desempenho do conteúdo envolve medir, analisar e otimizar o impacto do conteúdo criado no público-alvo. Este processo multifacetado abrange o acompanhamento de várias métricas como taxas de engajamento, taxas de conversão, tempo gasto na página e compartilhamentos sociais para avaliar a eficácia do conteúdo em atingir seus objetivos inteiros. Ao aproveitar ferramentas e técnicas de análise avançadas, profissionais de DevRel podem obter insights valiosos sobre o comportamento, preferências e pontos fracos do público-alvo, permitindo-lhes refinarem sua estratégia de conteúdo, melhorar a experiência do usuário e, finalmente, levar a melhores resultados tanto para os desenvolvedores quanto para a organização.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Content Performance: 19 Metrics to Track Your Results](https://www.semrush.com/blog/content-performance/)
-- [@video@How to measure the ROI of your content efforts](https://www.youtube.com/watch?v=j1CNmi302Oc)
+- [@artigo@Desempenho do Conteúdo: 19 Métricas para Rastrear Seus Resultados](https://www.semrush.com/blog/content-performance/)
+- [@vídeo@Como medir o ROI dos seus esforços de conteúdo](https://www.youtube.com/watch?v=j1CNmi302Oc)

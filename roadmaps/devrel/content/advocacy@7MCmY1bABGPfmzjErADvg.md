@@ -1,9 +1,9 @@
-# Advocacy
+# Defesa
 
-Developer Advocacy is the practice of representing and supporting the needs and interests of developers both within a company and in the broader developer community. Developer Advocates act as liaisons between the company’s development team and external developers, ensuring that the developers have the tools, resources, and knowledge to effectively use the company's products or platforms. They create educational content, provide technical support, gather feedback, and participate in community events.
+A Defesa de Desenvolvedores é a prática de representar e apoiar as necessidades e interesses dos desenvolvedores tanto dentro da empresa quanto na comunidade de desenvolvedores em escala maior. Os defensores de desenvolvedores atuam como intermediários entre o time de desenvolvimento da empresa e os desenvolvedores externos, garantindo que os desenvolvedores tenham as ferramentas, recursos e conhecimento necessários para usar efetivamente os produtos ou plataformas da empresa. Eles criam conteúdo educacional, fornecem suporte técnico, coletam feedback e participam de eventos da comunidade.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is developer advocacy?](https://appsembler.com/glossary/developer-advocacy/)
-- [@article@The Developer Advocate Playbook: Your Go-To Guide to Turning Users into Champions 🚀](https://www.doc-e.ai/post/the-developer-advocate-playbook-your-go-to-guide-to-turning-users-into-champions)
-- [@video@Developer Relations: New Career Path for Developers](https://www.youtube.com/watch?v=iA2SQ4OL4GU)
+- [@artigo@O que é defesa de desenvolvedores?](https://appsembler.com/glossary/developer-advocacy/)
+- [@artigo@O Guia do Defensor de Desenvolvedores: Seu guia essencial para transformar usuários em campeões 🚀](https://www.doc-e.ai/post/the-developer-advocate-playbook-your-go-to-guide-to-turning-users-into-champions)
+- [@vídeo@Relações com Desenvolvedores: Um Novo Caminho Profissional para Desenvolvedores](https://www.youtube.com/watch?v=iA2SQ4OL4GU)

@@ -1,3 +1,3 @@
-# Mind Mapping
- 
-Mind mapping is a visual technique for organizing ideas around a central concept, with branches representing related topics. It is used in talk preparation to explore the full scope of a subject before deciding what to include or cut. Mind maps help speakers see connections between ideas and avoid presenting in an overly linear way.
+# Mapeamento Mental
+
+O mapeamento mental é uma técnica visual para organizar ideias ao redor de um conceito central, com ramos representando tópicos relacionados. Ele é usado na preparação de palestras para explorar o escopo completo de um assunto antes de decidir o que incluir ou cortar. Mapeamentos mentais ajudam os oradores a ver conexões entre ideias e evitar apresentações em uma forma linear excessivamente.

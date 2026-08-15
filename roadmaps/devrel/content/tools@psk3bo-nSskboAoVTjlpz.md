@@ -1,3 +1,3 @@
-# Tools
+# Ferramentas
  
-DevRel teams use a range of analytics tools to measure content and community performance. These include general web analytics, social media native analytics, and platform-specific tools. Using the right tools for each channel ensures the team has accurate, actionable data rather than relying on manual tracking.
+Equipes DevRel usam uma variedade de ferramentas analíticas para medir o desempenho do conteúdo e da comunidade. Isso inclui análises gerais de web, análises nativas de mídias sociais e ferramentas específicas de plataforma. Usar as ferramentas certas para cada canal garante que a equipe tenha dados precisos e práticos em vez de depender do rastreamento manual.

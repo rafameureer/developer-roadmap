@@ -1,3 +1,3 @@
-# Tutorials
+# Tutoriais
  
-Tutorials guide developers through completing a specific task step by step. A good tutorial has a clear goal, working code at every step, and is written for the developer's current level of knowledge. Tutorials are the most effective onboarding content because they give developers a concrete win early in their experience with a product.
+Os tutoriais orientam os desenvolvedores através de um processo específico, passo a passo. Um bom tutorial tem um objetivo claro, código funcional em cada etapa e é escrito para o nível atual de conhecimento do desenvolvedor. Os tutoriais são o conteúdo de boas-vindas mais eficazes porque fornecem aos desenvolvedores uma vitória concreta cedo na sua experiência com um produto.

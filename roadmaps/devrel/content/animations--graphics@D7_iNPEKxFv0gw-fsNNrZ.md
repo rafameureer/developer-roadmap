@@ -1,8 +1,8 @@
-# Animations & Graphics
+# Animações e Gráficos
 
-Animations and graphics can be a great addition to your live streaming setup, especially if they're related to the brand that you're representing. Be aware though that excessive animations and graphics can take its toll on your machine and potentially result in a bad experience for viewers, so it's important to find the right balance.
+Animações e gráficos podem ser uma adição excelente à sua configuração de transmissão ao vivo, especialmente se estiverem relacionados à marca que você está representando. No entanto, é importante estar ciente de que animações e gráficos excessivos podem colocar pressão em seu computador e potencialmente resultar em uma experiência ruim para os espectadores, então é importante encontrar o equilíbrio certo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@How to Create Animated Overlays For Your Live Streams](https://www.youtube.com/watch?v=y6BykyZGUlE)
-- [@video@How to Install & Use Overlays in OBS](https://www.youtube.com/watch?v=pxB9ET8gZH0)
+- [@vídeo@Como criar overlays animados para suas transmissões ao vivo](https://www.youtube.com/watch?v=y6BykyZGUlE)
+- [@vídeo@Como instalar e usar overlays no OBS](https://www.youtube.com/watch?v=pxB9ET8gZH0)

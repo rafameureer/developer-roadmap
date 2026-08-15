@@ -1,9 +1,9 @@
-# Community Support
- 
-Community support involves being present in the spaces where developers ask questions and share problems, such as forums, Discord servers, GitHub issues, and Stack Overflow. DevRel teams monitor these channels, answer questions, and connect developers with the right resources. Active support signals that the company cares about developer success beyond the sale.
+# Suporte à Comunidade
 
-Visit the following resources to learn more:
+O suporte à comunidade envolve estar presente nos espaços onde os desenvolvedores perguntam e compartilham problemas, como fóruns, servidores do Discord, questões no GitHub e o Stack Overflow. Os times de DevRel monitoram essas canais, respondem perguntas e conectam os desenvolvedores com os recursos certos. O suporte ativo indica que a empresa se importa com o sucesso dos desenvolvedores além da venda.
 
-- [@article@Community and DevRel](https://developerrelations.com/podcast/community-and-devrel)
-- [@article@New to DevRel? Talk to your community!](https://dev.to/amandamartindev/new-to-devrel-talk-to-your-community-hmf)
-- [@video@DevRel & Community](https://www.youtube.com/watch?v=CfXkY2m_0dU)
+Acesse os seguintes recursos para saber mais:
+
+- [@artigo@Comunidade e DevRel](https://developerrelations.com/podcast/community-and-devrel)
+- [@artigo@Novo em DevRel? Fale com sua comunidade!](https://dev.to/amandamartindev/new-to-devrel-talk-to-your-community-hmf)
+- [@vídeo@DevRel & Comunidade](https://www.youtube.com/watch?v=CfXkY2m_0dU)

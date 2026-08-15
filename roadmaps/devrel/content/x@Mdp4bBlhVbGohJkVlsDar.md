@@ -1,3 +1,3 @@
 # X
  
-X (formerly Twitter) remains a primary platform for developer conversations, announcements, and real-time discussion. For live streaming, X allows broadcasts directly to followers and integrates with Streamyard and other tools. It is useful for reaching developers who follow technical accounts and for amplifying live event announcements.
+X (anteriormente conhecido como Twitter) continua sendo a plataforma principal para conversas, anúncios e discussões em tempo real entre desenvolvedores. Para transmissão ao vivo, o X permite transmissões diretas aos seguidores e integra-se com Streamyard e outras ferramentas. É útil para atingir desenvolvedores que seguem contas técnicas e para amplificar anúncios de eventos em tempo real.

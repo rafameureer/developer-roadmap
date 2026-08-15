@@ -1,7 +1,7 @@
 # Facebook
 
-Facebook serves as a powerful platform for building and engaging developer communities. It allows developer advocates to share resources, host live events, and create dedicated groups or pages for discussions, fostering collaboration and knowledge sharing. Facebook’s global reach and engagement tools help advocates amplify content, provide support, and maintain an active presence in the developer ecosystem, creating a space for feedback, networking, and promoting tools or products to a broad audience.
+Facebook é uma plataforma poderosa para construir e engajar comunitários de desenvolvedores. Ele permite que os defensores de desenvolvedores compartilhem recursos, realizem eventos ao vivo e criem grupos ou páginas dedicados para discussões, fomentando a colaboração e o compartilhamento de conhecimento. O alcance global e as ferramentas de engajamento do Facebook ajudam os defensores a amplificar conteúdo, fornecer suporte e manter uma presença ativa no ecossistema de desenvolvedores, criando um espaço para feedback, networking e promover ferramentas ou produtos a um público amplo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Facebook marketing: The complete guide for your brand’s strategy](https://sproutsocial.com/insights/facebook-marketing-strategy/)
+- [@artigo@Marketing do Facebook: Guia completo para sua estratégia de marca](https://sproutsocial.com/insights/facebook-marketing-strategy/)

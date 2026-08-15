@@ -1,3 +1,3 @@
-# Video
+# Vídeo
  
-Video quality in live streaming covers resolution, frame rate, lighting, and camera angle. Good lighting, particularly a key light facing the presenter, makes a significant difference in perceived production quality. While 1080p is standard, consistent framing and a clean background matter more than raw resolution.
+A qualidade do vídeo em transmissão ao vivo cobre resolução, taxa de quadros, iluminação e ângulo da câmera. Uma boa iluminação, especialmente uma luz-chave voltada para o apresentador, faz uma grande diferença na percepção da qualidade de produção. Embora 1080p seja padrão, a consistência no enquadramento e um fundo limpo são mais importantes do que a resolução bruta.

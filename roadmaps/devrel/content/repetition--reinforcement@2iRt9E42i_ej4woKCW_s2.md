@@ -1,3 +1,3 @@
-# Repetition & Reinforcement
- 
-Repetition and reinforcement involve stating key messages multiple times across a talk in different ways to improve retention. The principle is to tell the audience what you will say, say it, then summarize what you said. Repeating the core idea in varied forms helps different types of learners absorb it.
+# Repetição e Reforço
+
+A repetição e o reforço envolvem a declaração de mensagens-chave várias vezes em uma palestra de diferentes maneiras para melhorar a retenção. O princípio é dizer à audiência o que você vai falar, falar e então resumir o que foi dito. Repetir a ideia central em formas variadas ajuda diferentes tipos de aprendizes a absorver.

@@ -1,8 +1,8 @@
-# Encouraging Participation
- 
-Encouraging participation means reducing the barriers and increasing the motivations for members to contribute. Tactics include welcoming new members publicly, asking direct questions to quiet members, creating low-effort entry points like polls or reactions, and making it easy to find ways to help. Communities that actively encourage participation grow faster and retain members longer.
+# Incentivando a Participação
 
-Visit the following resources to learn more:
+Incentivar a participação significa reduzir os obstáculos e aumentar as motivações para que membros contribuam. Táticas incluem boas-vindas públicas aos novos membros, perguntas diretas aos membros silenciosos, criação de pontos de entrada de baixo esforço como pesquisas ou reações, e facilitar a descoberta de maneiras de ajudar. Comunidades que incentivam ativamente a participação crescem mais rapidamente e mantêm os membros por mais tempo.
 
-- [@article@12 tips to encourage activity in an online community](https://www.yunits.com/en/blogs/12-tips-to-encourage-activity-in-an-online-community/)
-- [@article@How To Increase Community Engagement](https://www.aluminati.net/how-to-increase-community-engagement/)
+Acesse os seguintes recursos para saber mais:
+
+- [@artigo@12 dicas para incentivar atividade em uma comunidade online](https://www.yunits.com/en/blogs/12-tips-to-encourage-activity-in-an-online-community/)
+- [@artigo@Como Aumentar a Engajamento Comunitário](https://www.aluminati.net/how-to-increase-community-engagement/)

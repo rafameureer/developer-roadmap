@@ -1,8 +1,8 @@
-# Building a Personal Brand
+# Construindo uma Marca Pessoal
 
-Building a personal brand in developer relations is about establishing a unique and authentic presence that showcases your expertise, values, and contributions to the developer community. It involves consistently sharing knowledge, insights, and experiences through various channels such as blogs, social media, podcasts, or public speaking, while engaging in meaningful conversations and collaborations. A strong personal brand helps build credibility and trust, making it easier to connect with other developers, influencers, and potential partners.
+Construir uma marca pessoal em relações com desenvolvedores envolve estabelecer uma presença única e autêntica que destaque suas especialidades, valores e contribuições para a comunidade de desenvolvedores. Isso envolve compartilhar consistentemente conhecimento, insights e experiências por meio de diversos canais como blogs, redes sociais, podcasts ou palestras públicas, enquanto se envolve em conversas e colaborações significativas. Uma marca pessoal forte ajuda a construir credibilidade e confiança, tornando mais fácil conectar-se com outros desenvolvedores, influenciadores e potenciais parceiros.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@A New Approach to Building Your Personal Brand](https://hbr.org/2023/05/a-new-approach-to-building-your-personal-brand)
-- [@video@5 Steps to Building a Personal Brand You Feel Good About](https://www.youtube.com/watch?v=ozMCb0wOnMU)
+- [@artigo@Um novo abordagem para construir sua marca pessoal](https://hbr.org/2023/05/a-new-approach-to-building-your-personal-brand)
+- [@vídeo@5 passos para construir uma marca pessoal que você se sinta confortável](https://www.youtube.com/watch?v=ozMCb0wOnMU)

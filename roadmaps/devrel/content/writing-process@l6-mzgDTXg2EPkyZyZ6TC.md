@@ -1,3 +1,3 @@
-# Writing Process
+# Processo de Escrita
  
-A structured writing process produces better blog posts more consistently. It typically involves outlining the structure before writing, drafting without self-editing, revising for clarity and accuracy, and getting a technical review before publishing. A repeatable process reduces the time spent on each post and improves quality over time.
+Um processo de escrita estruturado produz melhores posts de blog com mais consistência. Geralmente envolve esboçar a estrutura antes de escrever, redigir sem auto-revisão, revisar pela clareza e precisão e obter uma revisão técnica antes de publicar. Um processo repetível reduz o tempo gasto em cada post e melhora a qualidade ao longo do tempo.

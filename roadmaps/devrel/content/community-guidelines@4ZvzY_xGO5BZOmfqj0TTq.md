@@ -1,8 +1,8 @@
-# Community Guidelines
- 
-Community guidelines define the norms of behavior expected from all members. They cover how to treat other members, what content is appropriate, how to ask for help, and what will result in removal. Clear guidelines create a safer, more welcoming environment and give moderators a consistent basis for making decisions.
+# Diretrizes da Comunidade
 
-Visit the following resources to learn more:
+As diretrizes da comunidade definem as normas de comportamento esperadas por todos os membros. Elas abrangem como tratar outros membros, quais conteúdos são apropriados, como pedir ajuda e o que resultará na remoção. Diretrizes claras criam um ambiente mais seguro e acolhedor e fornecem aos moderadores uma base consistente para tomar decisões.
 
-- [@article@Community Guidelines: How to Write and Enforce Them](https://www.commsor.com/post/community-guidelines)
-- [@article@Community Guidelines Mastery: From Creation to Enforcement](https://bettermode.com/blog/community-guidelines)
+Acesse os seguintes recursos para saber mais:
+
+- [@artigo@Diretrizes da Comunidade: Como Escrever e Aplicá-las](https://www.commsor.com/post/community-guidelines)
+- [@artigo@Mestre em Diretrizes da Comunidade: Da Criação à Aplicação](https://bettermode.com/blog/community-guidelines)

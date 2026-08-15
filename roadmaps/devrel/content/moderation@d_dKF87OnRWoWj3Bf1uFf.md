@@ -1,3 +1,3 @@
-# Moderation
- 
-Moderation involves reviewing content and member behavior to ensure the community stays within its guidelines. It ranges from removing spam and off-topic posts to handling reports of harassment or conflict. Good moderation is consistent, fair, and transparent, and it responds promptly enough to prevent problems from escalating.
+# Moderação
+
+A moderação envolve revisar conteúdo e o comportamento dos membros para garantir que a comunidade esteja dentro de suas diretrizes. Isso vai desde remover spam e postagens fora do tópico até lidar com relatórios de assédio ou conflito. Boa moderação é consistente, equânime e transparente, e responde o suficiente rapidamente para evitar que problemas escalassem.

@@ -1,3 +1,3 @@
-# Video Production
+# Produção de Vídeo
  
-Video production is a significant part of DevRel content work, covering tutorial screencasts, conference talk recordings, product demos, and interview content. Good technical video requires clear scripting, quality audio, and competent editing to be worth a developer's time. Video content reaches audiences who prefer watching to reading and performs well on YouTube and social media.
+A produção de vídeo é uma parte significativa do trabalho de conteúdo da DevRel, cobrindo gravações de tutoriais em tela, gravações de palestras em conferências, demos de produtos e conteúdo de entrevistas. Um bom vídeo técnico requer um scripting claro, áudio de qualidade e edição competente para ser valioso ao desenvolvedor. O conteúdo de vídeo atinge públicos que preferem assistir em vez de ler e desempenha bem no YouTube e nas mídias sociais.

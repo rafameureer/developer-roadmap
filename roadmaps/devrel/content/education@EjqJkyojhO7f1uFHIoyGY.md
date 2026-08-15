@@ -1,9 +1,9 @@
-# Education
+# Educação
 
-Developer Education focuses on providing developers with the knowledge and skills they need to effectively use a product, platform, or technology. This involves creating and delivering a variety of educational materials such as documentation, tutorials, courses, webinars, and interactive workshops. Effective developer education programs cater to different learning styles and levels of expertise, from beginners to advanced users.
+A educação para desenvolvedores se concentra em fornecer aos profissionais as conhecimentos e habilidades necessárias para usar efetivamente um produto, plataforma ou tecnologia. Isso envolve a criação e entrega de diversos materiais educacionais como documentação, tutoriais, cursos, webinars e workshops interativos. Programas de educação para desenvolvedores eficazes atendem a diferentes estilos de aprendizagem e níveis de expertise, desde iniciantes até usuários avançados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is developer education?](https://appsembler.com/glossary/developer-education/)
-- [@article@What is developer education - Dev.to](https://dev.to/jacobandrewsky/what-is-developer-education-5a01)
-- [@article@Successful Developer Education: What you need to know](https://www.developermarketing.io/successful-developer-education-what-you-need-to-know/)
+- [@artigo@O que é educação para desenvolvedores?](https://appsembler.com/glossary/developer-education/)
+- [@artigo@O que é educação para desenvolvedores - Dev.to](https://dev.to/jacobandrewsky/what-is-developer-education-5a01)
+- [@artigo@Educação para Desenvolvedores Sucesso: O que você precisa saber](https://www.developermarketing.io/successful-developer-education-what-you-need-to-know/)

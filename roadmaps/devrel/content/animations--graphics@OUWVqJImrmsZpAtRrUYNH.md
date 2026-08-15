@@ -1,8 +1,8 @@
-# Animations & Graphics
- 
-Animations and graphics are used in both video production and live streaming to illustrate concepts that are difficult to convey through code or speech alone. Architecture diagrams, data flow animations, and branded lower-thirds all add clarity and professionalism. Tools like After Effects, Motion, and simpler web-based tools make this accessible without specialist design skills.
+# Animações e Gráficos
 
-Visit the following resources to learn more:
+Animações e gráficos são usados tanto na produção de vídeo quanto na transmissão ao vivo para ilustrar conceitos que são difíceis de transmitir apenas através do código ou da fala. Diagramas arquitetônicos, animações de fluxo de dados e rodapés personalizados adicionam clareza e profissionalismo. Ferramentas como After Effects, Motion e simples ferramentas baseadas na web tornam isso acessível sem habilidades especializadas em design.
 
-- [@video@3 AMAZING Graphic Animations For Level UP Your Videos](https://www.youtube.com/watch?v=cnyQkr21oM8)
-- [@video@Essential Motion Graphics for Youtube](https://www.youtube.com/watch?v=HH0VBOyht0E)
+Acesse os seguintes recursos para saber mais:
+
+- [@vídeo@3 ANIMações GRÁFICAS MARAVILHOSAS Para Aumentar Seus Vídeos](https://www.youtube.com/watch?v=cnyQkr21oM8)
+- [@vídeo@Gráficos de Motion Essenciais para o YouTube](https://www.youtube.com/watch?v=HH0VBOyht0E)

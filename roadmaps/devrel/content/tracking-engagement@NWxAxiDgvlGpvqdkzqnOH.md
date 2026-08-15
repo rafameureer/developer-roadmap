@@ -1,3 +1,3 @@
-# Tracking Engagement
+# Monitoramento de Engajamento
  
-Tracking engagement means monitoring likes, comments, shares, replies, and saves across social platforms to understand how the audience is responding to content. High engagement relative to reach indicates the content is resonating. Engagement data is more useful than follower count because it reflects active interest rather than passive presence.
+Monitorar o engajamento significa acompanhar curtidas, comentários, compartilhamentos, respostas e salvamentos em plataformas sociais para entender como a audiência está respondendo ao conteúdo. Um alto engajamento em relação à alcance indica que o conteúdo está resonando. Os dados de engajamento são mais úteis do que o número de seguidores porque refletem um interesse ativo em vez de uma presença passiva.

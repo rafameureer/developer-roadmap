@@ -1,9 +1,9 @@
 # Git
  
-Git is the standard distributed version control system. Core operations include committing changes, branching, merging, and pushing to remote repositories. DevRel professionals use Git daily when maintaining sample code, contributing to open-source projects, and collaborating on documentation.
+Git é o sistema de controle de versão distribuído padrão. Operações básicas incluem commitar alterações, ramificar, mesclar e empurrar para repositórios remotos. Profissionais DevRel usam o Git diariamente ao manter código de exemplo, contribuir em projetos open-source e colaborar na documentação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Git?](https://www.atlassian.com/git/tutorials/what-is-git)
-- [@article@What is Git? Our beginner’s guide to version control](https://github.blog/developer-skills/programming-languages-and-frameworks/what-is-git-our-beginners-guide-to-version-control/)
-- [@video@What is Git? Explained in 2 Minutes!](https://www.youtube.com/watch?v=2ReR1YJrNOM)
+- [@artigo@O que é Git?](https://www.atlassian.com/git/tutorials/what-is-git)
+- [@artigo@O que é Git? Nosso guia iniciante sobre controle de versão](https://github.blog/developer-skills/programming-languages-and-frameworks/what-is-git-our-beginners-guide-to-version-control/)
+- [@vídeo@O que é Git? Explicado em 2 minutos!](https://www.youtube.com/watch?v=2ReR1YJrNOM)

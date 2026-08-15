@@ -1,7 +1,7 @@
-# Anticipate Questions
+# Antecipe-se a Perguntas
 
-When giving talks, especially at developer conferences or events, its important to anticipate the audience asking questions at the end of your talk. Being prepared to handle common questions related to your topic can help you with confidence and show that you're a subject matter expert when you answer them correctly. It's important however not to lie or give incorrect answers so make sure that if you don't know the answer, you're honest about it.
+Quando você está dando palestras, especialmente em conferências ou eventos de desenvolvedores, é importante prever as perguntas que o público pode fazer no final da sua apresentação. Estar preparado para lidar com perguntas comuns relacionadas ao seu tópico pode ajudá-lo a ter confiança e mostrar que você é um especialista em seu assunto quando responder corretamente. No entanto, é importante não mentir ou dar respostas incorretas, então certifique-se de ser honesto se não souber a resposta.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@How to handle questions during a presentation](https://www.secondnature.com.au/blog/how-to-handle-questions-during-a-presentation)
+- [@artigo@Como lidar com perguntas durante uma apresentação](https://www.secondnature.com.au/blog/how-to-handle-questions-during-a-presentation)

@@ -4,7 +4,7 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 
 ---
 
-> ⚠️ **Total de itens sinalizados:** 697
+> ⚠️ **Total de itens sinalizados:** 758
 
 | Arquivo / Tópico | Motivo da Sinalização | Data/Hora |
 |---|---|---|
@@ -705,3 +705,64 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 | `roadmaps/devops/content/white--grey-listing@E-lSLGzgOPrz-25ER2Hk7.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:33:50.198413 |
 | `roadmaps/devops/content/windows@UOQimp7QkM3sxmFvk5d3i.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:33:55.223278 |
 | `roadmaps/devops/content/zabbix@W9sKEoDlR8LzocQkqSv82.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:33:58.629239 |
+| `roadmaps/devrel/content/be-concise@rhs6QwxZ7PZthLfi38FJn.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:35:02.094070 |
+| `roadmaps/devrel/content/blog-posts@c0w241EL0Kh4ek76IgsEs.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:35:07.898542 |
+| `roadmaps/devrel/content/conference-speaking@ue0NaNnNpF7UhvJ8j0Yuo.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:36:18.798052 |
+| `roadmaps/devrel/content/conflict-resolution@8ls5kQvDgvwLbIrwYg1OL.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:36:22.644197 |
+| `roadmaps/devrel/content/consistent-posting@l2P44pL9eF8xarBwC_CVO.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:36:26.479149 |
+| `roadmaps/devrel/content/data-driven-strategy-shift@46iMfYgC7fCZLCy-qzl1B.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:37:16.591799 |
+| `roadmaps/devrel/content/data-visualization@0dRnUlgze87eq2FVU_mWp.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:37:21.184779 |
+| `roadmaps/devrel/content/developer-experience@No-UnhdGmtLW9uFGLy-ca.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:37:40.706514 |
+| `roadmaps/devrel/content/developer-journey@BooGiYTMoS0N5eobwjPHY.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:37:46.097126 |
+| `roadmaps/devrel/content/developer-marketing@UhMk8g5MMhvi3kWLLI6B1.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:37:50.060980 |
+| `roadmaps/devrel/content/developer-satisfaction@AwMwMU9hg_gCKPP4tykHb.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:38:08.211766 |
+| `roadmaps/devrel/content/documentation@g3M6nfLr0DMcn-NCFF7nZ.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:38:10.234584 |
+| `roadmaps/devrel/content/editing@6zK9EJDKBC89UArY7sfgs.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:38:14.413620 |
+| `roadmaps/devrel/content/engaging-audience@iKYmUvWFT_C0wnO0iB6gM.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:38:47.291544 |
+| `roadmaps/devrel/content/engaging-content@WIH216mHg2OiSebzQYI-f.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:38:52.078102 |
+| `roadmaps/devrel/content/event-management@usorG1GkkvGAZ0h_AGHVk.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:38:57.079392 |
+| `roadmaps/devrel/content/event-participation@C2w8R4tNy2lOhhWU9l32s.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:39:10.918004 |
+| `roadmaps/devrel/content/example-apps@mWcMSKnUQamUykBxND-Ju.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:39:14.474770 |
+| `roadmaps/devrel/content/execution@1m1keusP-PTjEwy0dCJJL.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:39:17.610974 |
+| `roadmaps/devrel/content/google-analytics@8xrhjG9qmbsoBC3F8zS-b.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:39:58.506415 |
+| `roadmaps/devrel/content/guest-blogging@2QiQW9tygpeaES8Wp1Kw6.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:40:00.651752 |
+| `roadmaps/devrel/content/handling-qa@Xf-Lxi1cKReo4yDLylBbL.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:40:13.006801 |
+| `roadmaps/devrel/content/handouts@tbIAEStaoVWnEWbdk7EGc.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:40:15.004268 |
+| `roadmaps/devrel/content/history-and-evolution@KP28dl1I9hxM130gIPxSZ.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:40:19.272526 |
+| `roadmaps/devrel/content/identifying-audience@UKi3waPx2pozvZf2aQ52s.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:40:33.465517 |
+| `roadmaps/devrel/content/ides@KdFYmj36M2jrGfsYkukpo.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:40:39.320531 |
+| `roadmaps/devrel/content/issue-tracking@j6tr3mAaKqTuEFTRSCsrK.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:41:02.265734 |
+| `roadmaps/devrel/content/issues--pull-requests@vCoEJyS4qMWTTiL17PmWr.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:41:04.580994 |
+| `roadmaps/devrel/content/jetbrains-ides@NCnKS435DCl-8vilr1_XE.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:41:06.577996 |
+| `roadmaps/devrel/content/key-metrics@DCj1teu8Hp82EKnakFRPn.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:41:17.319817 |
+| `roadmaps/devrel/content/media-appearances@QrDqUGWC2t9r6p4aR8I5g.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:41:40.788173 |
+| `roadmaps/devrel/content/milestones--releases@v_lDqjtxjRK67GsbtxXgT.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:41:45.365573 |
+| `roadmaps/devrel/content/online-communities@lMbj0WdoEia_tdpO5rXph.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:42:09.013818 |
+| `roadmaps/devrel/content/open-source@NhQUDVA9q1hnV44EKapbU.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:42:10.950905 |
+| `roadmaps/devrel/content/pechakucha@_FZNqUKgPkzbgOPoiSLSU.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:42:12.981935 |
+| `roadmaps/devrel/content/planning@RQk3uOikjQYRyTu7vuAG7.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:42:22.071279 |
+| `roadmaps/devrel/content/platform-selection@WItTQ1QboHoRkqeHJzCM9.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:42:24.239568 |
+| `roadmaps/devrel/content/platform-specific-analytics@AL3-UzREwTpsADTU0YtRW.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:42:26.426199 |
+| `roadmaps/devrel/content/public-backlog@7ZFTmlQHYQKNjKprwV8zk.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:42:43.295904 |
+| `roadmaps/devrel/content/public-speaking@LRZ8yxTfEGCXsYp4N1_uD.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:42:45.288737 |
+| `roadmaps/devrel/content/publishing@I7RBMfoD30OstVLeTrMs9.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:42:47.554001 |
+| `roadmaps/devrel/content/recording@_QHUpFW4kZ5SBaP7stXY2.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:43:00.021044 |
+| `roadmaps/devrel/content/regular-reports@U2QKCu6TvDuxSNRfdM74n.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:43:02.332216 |
+| `roadmaps/devrel/content/rules-of-three@vH_ECVYSQ3Fg-DASO1EgK.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:43:19.396889 |
+| `roadmaps/devrel/content/sample-projects@xy9Kqtwrh5IhYHaqEhvl_.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:43:21.496576 |
+| `roadmaps/devrel/content/scripting@rLDRkUht9K1m4noMAIgKU.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:43:23.607786 |
+| `roadmaps/devrel/content/seo-basics@zVBy8o66FdZueg-2v3gaw.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:43:33.142976 |
+| `roadmaps/devrel/content/social-media-analytics@x8RIrK2VB-LBFbt6hAcQb.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:43:35.332725 |
+| `roadmaps/devrel/content/social-media@71BBFjaON1NJi4rOHKW6K.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:43:37.499725 |
+| `roadmaps/devrel/content/social-media@urbtoZtuJryK-6TJ3lmRN.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:43:49.726686 |
+| `roadmaps/devrel/content/storytelling@Y0GUZynSXjITDOA-TP6LH.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:43:51.697838 |
+| `roadmaps/devrel/content/streamyard@meZDgDJMy4aH5VqS-NJL4.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:43:53.563150 |
+| `roadmaps/devrel/content/support@LwNa3u9Lf88ju5w7CvSN5.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:44:02.938227 |
+| `roadmaps/devrel/content/surveys@_Qe_0RksYpX7Spzgc6Fw3.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:44:04.872422 |
+| `roadmaps/devrel/content/technical-documentation@X0xUzEP0S6SyspvqyoDDk.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:44:08.562855 |
+| `roadmaps/devrel/content/technical-setup@8aiLVG4clveX1Luiehvxr.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:44:18.113216 |
+| `roadmaps/devrel/content/the-hook@VTGsmk3p4RVXiNhDmx2l8.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:44:19.806985 |
+| `roadmaps/devrel/content/thought-leadership@wcfrXA9zWZ4Taey7mR2yG.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:44:21.845064 |
+| `roadmaps/devrel/content/visualization@SNhrYZsmyDHN_JWh0eZy2.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:45:06.106007 |
+| `roadmaps/devrel/content/vs-code@j5nNSYI8s-cH8EA6G1EWY.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:45:10.156510 |
+| `roadmaps/devrel/content/webinars@1fc0iWwOkheUJ7d0np86L.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:45:12.217450 |

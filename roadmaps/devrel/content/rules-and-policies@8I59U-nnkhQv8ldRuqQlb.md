@@ -1,3 +1,3 @@
-# Rules and Policies
- 
-Rules and policies go beyond the code of conduct to cover operational details: how to post in different channels, what is off-topic, how to report issues, and what promotional content is allowed. Well-documented rules reduce ambiguity and lower the moderation burden by preventing common misunderstandings before they arise.
+# Regras e Políticas
+
+Regras e políticas vão além do código de conduta para cobrir detalhes operacionais: como postar em diferentes canais, o que é fora do tópico, como denunciar problemas e quais conteúdos promocionais são permitidos. Regras bem documentadas reduzem ambiguidades e diminuem a carga de moderação ao evitar mal-entendidos comuns antes que eles ocorram.

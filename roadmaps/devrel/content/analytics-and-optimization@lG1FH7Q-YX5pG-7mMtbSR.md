@@ -1,8 +1,8 @@
-# Analytics and Optimization
+# Análise e Otimização
 
-When engaging with developer communities on social media, it's important to monitor your analytics in order to maximise the potential of your content. Platforms like X provide great analytics that help you keep an eye on which posts perform well with data such as impressions, likes, and shares.
+Quando se envolve com a comunidade de desenvolvedores nas redes sociais, é importante monitorar suas análises para maximizar o potencial do seu conteúdo. Plataformas como X oferecem ótimas análises que ajudam você a acompanhar quais posts desempenham bem com dados como visualizações, curtidas e compartilhamentos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is social media analytics?](https://blog.hootsuite.com/social-media-analytics/)
-- [@article@2024 Guide to X (Twitter) Analytics](https://blog.hootsuite.com/twitter-analytics-guide/)
+- [@artigo@O que é análise de mídias sociais?](https://blog.hootsuite.com/social-media-analytics/)
+- [@artigo@Guia 2024 das Análises do X (Twitter)](https://blog.hootsuite.com/twitter-analytics-guide/)

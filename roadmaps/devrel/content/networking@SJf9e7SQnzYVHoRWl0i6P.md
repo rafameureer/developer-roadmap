@@ -1,3 +1,3 @@
 # Networking
- 
-Networking in DevRel involves building professional relationships with other developers, advocates, event organizers, and community leaders. Strong networks amplify the reach of DevRel work through referrals, collaborations, and co-promotion. Conferences, meetups, and online communities are the primary venues for building these connections.
+
+O networking em DevRel envolve a construção de relacionamentos profissionais com outros desenvolvedores, defensores, organizadores de eventos e líderes da comunidade. Redes fortes amplificam o alcance do trabalho de DevRel através de indicações, colaborações e promoção conjunta. Conferências, encontros presenciais e comunidades online são os principais locais para estabelecer essas conexões.

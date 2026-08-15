@@ -1,8 +1,8 @@
-# Building a Community
+# Construindo uma Comunidade
 
-Online developer communities have become the heart of successful DevTools (Developer Tools) go-to-market (GTM) strategies. They provide a platform for developers to connect, collaborate, learn, and share their expertise, ultimately fostering loyalty, driving product adoption, and fueling innovation.
+Comunidades de desenvolvedores online têm se tornado o coração das estratégias de lançamento bem-sucedidas dos DevTools (Ferramentas para Desenvolvedores). Elas fornecem um plataforma para os desenvolvedores se conectarem, colaborarem, aprender e compartilhar suas especialidades, promovendo assim lealdade, impulsionando a adoção do produto e alimentando a inovação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Building and Nurturing Online Developer Communities: The Ultimate Guide](https://www.doc-e.ai/post/building-and-nurturing-online-developer-communities-the-ultimate-guide)
-- [@article@10 Proven Strategies for Building a Developer Community That Thrives: A Guide to Inclusion & Engagement](https://dev.to/swati1267/10-proven-strategies-for-building-a-developer-community-that-thrives-a-guide-to-inclusion-engagement-21cm)
+- [@artigo@Construindo e nutrindo comunidades de desenvolvedores online: guia definitivo](https://www.doc-e.ai/post/building-and-nurturing-online-developer-communities-the-ultimate-guide)
+- [@artigo@10 estratégias provadas para construir uma comunidade de desenvolvedores que prospera: um guia sobre inclusão e engajamento](https://dev.to/swati1267/10-proven-strategies-for-building-a-developer-community-that-thrives-a-guide-to-inclusion-engagement-21cm)

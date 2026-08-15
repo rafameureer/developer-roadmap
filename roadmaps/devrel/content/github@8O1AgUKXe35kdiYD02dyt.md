@@ -1,8 +1,8 @@
 # GitHub
- 
-GitHub is the most widely used platform for hosting Git repositories and collaborating on code. Beyond version control, it provides tools for project management, issue tracking, community engagement through Discussions, and public backlog management. For many developer communities, a company's GitHub presence is a key signal of openness and developer investment.
 
-Visit the following resources to learn more:
+GitHub é a plataforma mais amplamente utilizada para hospedar repositórios Git e colaborar no código. Além do controle de versão, ele oferece ferramentas para gerenciamento de projetos, rastreamento de problemas, engajamento com a comunidade através das Discussões e gestão pública de backlog. Para muitas comunidades de desenvolvedores, a presença da empresa no GitHub é um sinal-chave de abertura e investimento em desenvolvedores.
 
-- [@official@GitHub Website](https://github.com)
-- [@video@How to Use GitHub](https://www.youtube.com/watch?v=v_1iqtOnUMg)
+Acesse os seguintes recursos para saber mais:
+
+- [@official@Site oficial do GitHub](https://github.com)
+- [@video@Como usar o GitHub](https://www.youtube.com/watch?v=v_1iqtOnUMg)

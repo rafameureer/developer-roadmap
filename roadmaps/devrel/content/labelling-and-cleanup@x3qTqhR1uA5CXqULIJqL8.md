@@ -1,3 +1,3 @@
-# Labelling and Cleanup
- 
-Labels in GitHub categorize issues and pull requests by type, priority, status, or area. Consistent labelling makes it easier for contributors to find beginner-friendly issues, understand what needs review, and filter by topic. Regular cleanup of stale issues and outdated labels keeps the repository approachable and the backlog meaningful.
+# Etiquetamento e Limpeza
+
+As etiquetas no GitHub categorizam problemas e solicitações de pull por tipo, prioridade, status ou área. Um etiquetamento consistente facilita para os contribuidores encontrar problemas iniciantes, entender o que precisa ser revisado e filtrar por tópico. A limpeza regular de problemas obsoletos e rótulos desatualizados mantém o repositório acessível e a backlog significativa.

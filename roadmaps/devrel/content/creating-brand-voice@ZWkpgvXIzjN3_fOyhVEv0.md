@@ -1,9 +1,9 @@
-# Creating Brand Voice
- 
-Brand voice is the consistent tone, style, and personality expressed across all of a company's communications. For DevRel, the brand voice needs to feel credible and peer-like to developers, avoiding corporate speak. Defining the brand voice in a brief guide helps everyone who creates content maintain a consistent identity across platforms.
+# Criando a Voz da Marca
 
-Visit the following resources to learn more:
+A voz da marca é o tom, estilo e personalidade consistente expressos em todas as comunicações de uma empresa. Para DevRel, a voz da marca precisa se sentir credível e peer-like aos desenvolvedores, evitando linguagem corporativa. Definir a voz da marca em um guia breve ajuda todos aqueles que criam conteúdo a manter uma identidade consistente em diferentes plataformas.
 
-- [@article@Creating Your Brand Voice: A Complete Guide](https://blog.hubspot.com/marketing/brand-voice)
-- [@article@How to Define Your Brand’s Tone of Voice](https://www.semrush.com/blog/how-to-define-your-tone-of-voice)
-- [@video@Branding 101: How To Build Customer Loyalty With Brand Voice](https://www.youtube.com/watch?v=et-a39drCsU)
+Acesse os seguintes recursos para saber mais:
+
+- [@artigo@Criando a Voz da Sua Marca: Um Guia Completo](https://blog.hubspot.com/marketing/brand-voice)
+- [@artigo@Como Definir o Tom de Voce da Sua Marca](https://www.semrush.com/blog/how-to-define-your-tone-of-voice)
+- [@vídeo@Branding 101: Como Construir Lealdade do Cliente com a Voz da Marca](https://www.youtube.com/watch?v=et-a39drCsU)

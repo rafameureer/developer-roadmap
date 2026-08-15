@@ -1,9 +1,9 @@
-# Writing Skills
+# Habilidades de Escrita
  
-Writing is one of the most high-leverage skills in DevRel because written content reaches far more developers than any single presentation. DevRel writing spans technical documentation, blog posts, social media, and email. Clear, accurate, and well-structured writing builds trust and helps developers succeed without needing direct assistance.
+A escrita é uma das habilidades mais efetivas em DevRel porque o conteúdo escrito alcança muito mais desenvolvedores do que qualquer única apresentação. A escrita em DevRel abrange documentação técnica, posts de blog, mídia social e e-mails. Uma escrita clara, precisa e bem estruturada constrói confiança e ajuda os desenvolvedores a ter sucesso sem precisar de assistência direta.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Putting Ideas into Words](https://www.paulgraham.com/words.html)
-- [@article@Patterns in confusing explanations](https://jvns.ca/blog/confusing-explanations/)
-- [@article@Signposting: How to reduce cognitive load for your reader](https://newsletter.weskao.com/p/sign-posting-how-to-reduce-cognitive)
+- [@artigo@Colocando Ideias em Palavras](https://www.paulgraham.com/words.html)
+- [@artigo@Padrões em explicações confusas](https://jvns.ca/blog/confusing-explanations/)
+- [@artigo@Indicação: Como reduzir o carregamento cognitivo para seu leitor](https://newsletter.weskao.com/p/sign-posting-how-to-reduce-cognitive)

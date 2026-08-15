@@ -1,3 +1,3 @@
 # APIs & SDKs
- 
-APIs and SDKs are the primary technical surfaces that DevRel teams support and promote. Understanding how they work, how they are designed, and how they are documented is fundamental to the role. DevRel professionals often serve as the bridge between the developers building on these interfaces and the teams that create them.
+
+APIs e SDKs são as superfícies técnicas principais que os times de DevRel suportam e promovem. Entender como elas funcionam, como foram projetadas e como são documentadas é fundamental para o papel. Profissionais de DevRel geralmente servem como ponte entre os desenvolvedores construindo nessas interfaces e as equipes que criam elas.

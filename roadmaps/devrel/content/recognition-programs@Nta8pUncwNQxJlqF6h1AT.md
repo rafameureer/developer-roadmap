@@ -1,3 +1,3 @@
-# Recognition Programs
- 
-Recognition programs acknowledge and reward community members who contribute positively through answering questions, creating content, reporting bugs, or helping onboard new members. Formats include MVPs, badges, featured spotlights, and early access programs. Recognition programs increase motivation, build loyalty, and identify potential advocates and future collaborators.
+# Programas de Reconhecimento
+
+Os programas de reconhecimento reconhecem e recompensam membros da comunidade que contribuem positivamente respondendo perguntas, criando conteúdo, relatando bugs ou ajudando a orientar novos membros. Os formatos incluem MVPs, badges, destaque em destaque e programas de acesso antecipado. Os programas de reconhecimento aumentam a motivação, construem lealdade e identificam potenciais defensores e futuros colaboradores.

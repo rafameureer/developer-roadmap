@@ -1,3 +1,3 @@
 # Instagram
- 
-Instagram is a visual platform used by some DevRel programs for brand building, event coverage, and behind-the-scenes content. It works best for reaching developers interested in company culture, community events, and visually engaging technical content like architecture diagrams or infographics. It is less effective for driving direct technical engagement than X or LinkedIn.
+
+O Instagram é uma plataforma visual usada por alguns programas DevRel para construção de marca, cobertura de eventos e conteúdo por trás dos panos. Funciona melhor para alcançar desenvolvedores interessados em cultura da empresa, eventos da comunidade e conteúdo técnico visivamente envolvente como diagramas arquitetônicos ou infográficos. É menos eficaz para estimular a participação técnica direta do que o X ou LinkedIn.

@@ -1,8 +1,8 @@
-# Code of Conduct
- 
-A code of conduct is a formal document that sets expectations for member behavior and describes consequences for violations. It typically covers harassment, discrimination, and respectful communication. Publishing a code of conduct signals that the community takes inclusion seriously and provides recourse for members who experience problems.
+# Código de Conduta
 
-Visit the following resources to learn more:
+Um código de conduta é um documento formal que estabelece expectativas para o comportamento dos membros e descreve as consequências por violações. Geralmente cobre assédio, discriminação e comunicação respeitosa. Publicar um código de conduta sinaliza que a comunidade leva a inclusão a sério e fornece recursos para membros que experimentam problemas.
 
-- [@article@Guide to writing a Code of Conduct](https://projectinclude.org/writing_cocs)
-- [@article@Code of Conduct meaning and template](https://humaans.io/hr-glossary/code-of-conduct)
+Acesse os seguintes recursos para saber mais:
+
+- [@artigo@Guia para escrever um Código de Conduta](https://projectinclude.org/writing_cocs)
+- [@artigo@Significado e modelo de Código de Conduta](https://humaans.io/hr-glossary/code-of-conduct)

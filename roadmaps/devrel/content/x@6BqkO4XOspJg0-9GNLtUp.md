@@ -1,3 +1,3 @@
 # X
  
-X is the platform where a significant portion of the developer and tech community discusses tools, ideas, and industry news in real time. It is used by DevRel professionals for product announcements, sharing tutorials, engaging with community members, and joining trending technical conversations. A consistent, authentic presence on X builds visibility and credibility among developers.
+X é a plataforma onde uma grande parte da comunidade de desenvolvedores e tecnologia discute ferramentas, ideias e notícias do setor em tempo real. É usada por profissionais de DevRel para anúncios de produtos, compartilhamento de tutoriais, engajamento com membros da comunidade e participação em conversas técnicas populares. Uma presença consistente e autêntica no X constrói visibilidade e credibilidade entre os desenvolvedores.

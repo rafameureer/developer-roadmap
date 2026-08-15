@@ -1,3 +1,3 @@
-# Writing Documentation
+# Escrevendo Documentação
  
-Writing documentation for APIs and SDKs requires combining technical accuracy with clarity. Good API documentation includes authentication instructions, endpoint references with request and response examples, error code explanations, and quickstart guides. Documentation is often the first thing a developer consults and directly affects whether they continue evaluating the product.
+Escrever documentação para APIs e SDKs requer combinar a precisão técnica com a clareza. Boa documentação de API inclui instruções de autenticação, referências de endpoints com exemplos de solicitação e resposta, explicações de códigos de erro e guias de início rápido. A documentação é frequentemente a primeira coisa que um desenvolvedor consulta e diretamente afeta se eles continuarão avaliando o produto.

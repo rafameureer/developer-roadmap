@@ -1,8 +1,8 @@
-# Audio
+# Áudio
 
-Having good quality audio when live streaming or creating video content is a must; it is often said that viewers will accept lower quality video, but poor audio is a deal breaker. Unfortunately, this often includes purchasing a good quality microphone, although there are many improvements you can make to an existing setup, such as streaming from a quiet location with good acoustics and applying filters in your software of choice.
+Ter áudio de boa qualidade ao fazer streamings em tempo real ou criar conteúdo de vídeo é essencial; muitas vezes se diz que os espectadores aceitam vídeos de menor qualidade, mas uma má qualidade de áudio é um ponto de ruptura. Infelizmente, isso às vezes inclui a compra de um microfone de boa qualidade, embora haja muitos melhoramentos que você pode fazer em uma configuração existente, como streamar de um local silencioso com bom acústico e aplicar filtros no seu software de escolha.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@How to Improve Your Live Stream Audio](https://www.soundproofcow.com/improve-live-stream-audio/)
-- [@video@How to improve your live stream audio quality!](https://www.youtube.com/watch?app=desktop&v=_bTb0YqJX9w)
+- [@artigo@Como melhorar o áudio do seu stream em tempo real](https://www.soundproofcow.com/improve-live-stream-audio/)
+- [@vídeo@Como melhorar a qualidade do áudio do seu stream em tempo real!](https://www.youtube.com/watch?app=desktop&v=_bTb0YqJX9w)

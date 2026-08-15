@@ -1,3 +1,3 @@
-# What is DevRel?
+# O que é DevRel?
  
-Developer Relations (DevRel) is the practice of building and maintaining relationships between a company and the developers who use its products, APIs, or platforms. It sits at the intersection of engineering, marketing, and community management. DevRel teams work to make developers successful with a product, which in turn drives adoption, retention, and trust.
+Developer Relations (DevRel) é a prática de construir e manter relações entre uma empresa e os desenvolvedores que usam seus produtos, APIs ou plataformas. Ele se encontra na interseção da engenharia, marketing e gestão de comunidades. Equipes de DevRel trabalham para tornar os desenvolvedores bem-sucedidos com um produto, o que por sua vez impulsiona a adoção, retenção e confiança.

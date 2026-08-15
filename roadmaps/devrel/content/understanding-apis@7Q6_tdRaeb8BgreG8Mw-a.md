@@ -1,3 +1,3 @@
-# Understanding APIs
+# Entendendo APIs
  
-An API (Application Programming Interface) defines how software components interact, specifying the requests that can be made, the data formats used, and the authentication required. DevRel professionals must understand REST, GraphQL, and webhook patterns well enough to explain them clearly, write accurate documentation, and identify friction points in the developer experience.
+Uma API (Interface de Programação de Aplicativos) define como os componentes de software se comunicam, especificando as solicitações que podem ser feitas, os formatos de dados usados e a autenticação necessária. Profissionais DevRel devem entender bem o padrão REST, GraphQL e webhooks para explicá-los claramente, escrever documentação precisa e identificar pontos de fricção na experiência do desenvolvedor.

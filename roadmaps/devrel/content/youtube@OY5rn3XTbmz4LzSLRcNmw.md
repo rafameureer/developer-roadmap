@@ -1,3 +1,3 @@
 # YouTube
- 
-YouTube is the dominant platform for hosting and distributing recorded and live video content to developers. Videos on YouTube are indexable by search engines and accumulate views long after publication. A well-maintained YouTube channel with organized playlists becomes a durable resource for developer education.
+
+YouTube é a plataforma dominante para hospedar e distribuir conteúdo de vídeo gravado e ao vivo para desenvolvedores. Vídeos no YouTube são indexáveis pelos motores de busca e acumulam visualizações muito tempo após a publicação. Um canal do YouTube bem manter com listas de reprodução organizadas se torna um recurso duradouro para a educação dos desenvolvedores.

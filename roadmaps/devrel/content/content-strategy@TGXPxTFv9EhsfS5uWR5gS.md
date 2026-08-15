@@ -1,8 +1,8 @@
-# Content Strategy
+# Estratégia de Conteúdo
 
-A social media content strategy is a plan to use platforms effectively to engage and grow an audience. It starts with setting clear goals, like increasing brand awareness or driving traffic, and understanding the target audience. The strategy focuses on creating diverse, valuable content—tutorials, updates, tips, and interactive posts—that resonates with followers and encourages engagement. Choosing the right platforms, posting consistently, and actively responding to comments are key to building relationships.
+Uma estratégia de conteúdo para mídias sociais é um plano para usar efetivamente as plataformas para engajar e crescer o público. Começa com a definição de objetivos claros, como aumentar a consciência da marca ou trazer mais tráfego, e entender o público-alvo. A estratégia se concentra na criação de conteúdo diversificado e valioso—tutoriais, atualizações, dicas e postagens interativas—that ressoa com os seguidores e encoraja a participação. Escolher as plataformas certas, publicar consistentemente e responder ativamente aos comentários são chaves para construir relações.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@The Ultimate Guide to Creating a Content Marketing Strategy](https://www.semrush.com/blog/content-marketing-strategy-guide/)
-- [@article@How to craft an effective social media content strategy](https://sproutsocial.com/insights/social-media-content-strategy/)
+- [@artigo@O Guia Último para Criar uma Estratégia de Marketing de Conteúdo](https://www.semrush.com/blog/content-marketing-strategy-guide/)
+- [@artigo@Como criar uma estratégia eficaz de conteúdo para mídias sociais](https://sproutsocial.com/insights/social-media-content-strategy/)

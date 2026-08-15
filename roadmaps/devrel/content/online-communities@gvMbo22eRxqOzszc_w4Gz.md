@@ -1,3 +1,3 @@
-# Online Communities
- 
-Online communities are digital spaces where developers gather to discuss topics, ask questions, and share work. Examples include Discord servers, Slack workspaces, Reddit communities, GitHub Discussions, and Stack Overflow. DevRel professionals participate in these spaces to support developers, gather feedback, and build visibility for their product.
+# Comunidades Online
+
+Comunidades online são espaços digitais onde os desenvolvedores se reúnem para discutir tópicos, fazer perguntas e compartilhar trabalho. Exemplos incluem servidores do Discord, workspaces do Slack, comunidades do Reddit, discussões do GitHub e o Stack Overflow. Profissionais de DevRel participam desses espaços para apoiar os desenvolvedores, coletar feedback e construir visibilidade para seu produto.

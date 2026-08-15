@@ -1,7 +1,7 @@
 # LinkedIn
- 
-LinkedIn is the professional social network where developers follow company pages, read industry articles, and make career decisions. DevRel content on LinkedIn tends to perform well when it focuses on career insights, technical learnings, product announcements, and developer success stories. LinkedIn reaches a different segment of the developer audience than X, including more senior roles and enterprise buyers.
 
-Visit the following resources to learn more:
+LinkedIn é a rede social profissional onde os desenvolvedores seguem as páginas das empresas, lerem artigos da indústria e tomam decisões sobre carreira. Conteúdo DevRel no LinkedIn tende a desempenhar bem quando se concentra em insights de carreira, aprendizado técnico, anúncios de produtos e histórias de sucesso dos desenvolvedores. LinkedIn atinge um segmento diferente da audiência de desenvolvedores em comparação com X, incluindo papéis mais sênior e compradores corporativos.
 
-- [@official@Visit LinkedIn](https://linkedin.com)
+Acesse os seguintes recursos para saber mais:
+
+- [@official@Visite o LinkedIn](https://linkedin.com)

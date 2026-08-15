@@ -1,8 +1,8 @@
-# API References
+# Referências de API
 
-Adding API References to your products documentation is a key component and the most common reason for developers using documentation. When creating API documentation, ensure you add examples for the most common languages as well as any details around authorization and common issues faced.
+Adicionar referências de API à documentação dos seus produtos é um componente chave e a razão mais comum para os desenvolvedores usar a documentação. Ao criar a documentação da API, certifique-se de adicionar exemplos para as linguagens mais comuns, bem como detalhes sobre autorização e problemas comuns enfrentados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What Is API Documentation?](https://blog.hubspot.com/website/api-documentation)
-- [@video@API Documentation and Why it Matters](https://www.youtube.com/watch?v=39Tt1IkLiQQ)
+- [@artigo@O que é Documentação de API?](https://blog.hubspot.com/website/api-documentation)
+- [@vídeo@Documentação de API e por que ela importa](https://www.youtube.com/watch?v=39Tt1IkLiQQ)

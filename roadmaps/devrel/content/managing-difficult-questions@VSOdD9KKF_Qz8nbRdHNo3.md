@@ -1,3 +1,3 @@
-# Managing Difficult Questions
- 
-Difficult questions include those that are hostile, outside the speaker's knowledge, or designed to derail the discussion. Effective strategies include acknowledging the question honestly, offering to follow up offline, and redirecting to the talk's core topic when appropriate. Remaining calm and professional when challenged builds credibility with the rest of the audience.
+# Gerenciando Perguntas Difíceis
+
+Perguntas difíceis incluem aquelas que são hostis, fora do conhecimento da oradora ou projetadas para desviar a discussão. Estratégias eficazes incluem reconhecer a pergunta honestamente, oferecer-se para seguir em contato offline e redirecionar para o tópico central da apresentação quando apropriado. Manter calma e profissional durante os desafios constrói credibilidade com o resto do público.

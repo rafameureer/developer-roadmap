@@ -1,3 +1,3 @@
-# Post Event Followup
- 
-Post-event followup extends the value of an event beyond the day it occurred. This includes sending recordings and resources to attendees, publishing a summary, following up with speakers, and reaching out to new contacts made during the event. Timely followup reinforces relationships and converts event energy into lasting community connections.
+# Seguimento Pós-Evento
+
+O seguimento pós-evento estende o valor de um evento além do dia em que ocorreu. Isso inclui enviar gravações e recursos aos participantes, publicar um resumo, seguir-se com os oradores e entrar em contato com novos contatos feitos durante o evento. O seguimento apropriado fortalece relações e converte energia de eventos em conexões da comunidade duradouras.

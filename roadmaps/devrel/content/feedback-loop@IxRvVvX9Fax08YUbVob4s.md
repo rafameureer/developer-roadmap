@@ -1,8 +1,8 @@
-# Feedback Loop
+# Loop de Feedback
 
-Feedback loops are a crucial process that involves collecting, analyzing, and acting on feedback from developers to improve products and services. This loop begins with gathering insights through various channels such as forums, surveys, social media, direct interactions at events, and support tickets. The feedback is then communicated to internal teams, including product management, engineering, and marketing, to inform product enhancements, feature requests, and bug fixes.
+Os loops de feedback são um processo crucial que envolve a coleta, análise e ação sobre o feedback dos desenvolvedores para melhorar produtos e serviços. Este loop começa com a coleta de insights através de diversos canais como fóruns, pesquisas, mídias sociais, interações diretas em eventos e bilhetes de suporte. O feedback é então comunicado aos equipes internas, incluindo gerenciamento de produtos, engenharia e marketing, para informar melhorias de produto, solicitações de funcionalidades e correções de bugs.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Harnessing the Power of Community Feedback for Product Development](https://draft.dev/learn/devrel-harnessing-the-power-of-community-feedback-for-product-development)
-- [@article@The Developer Advocacy Feedback Loop](https://glaforge.dev/talks/2020/08/06/the-developer-advocacy-feedback-loop/)
+- [@artigo@Domine o Poder da Feedback da Comunidade para o Desenvolvimento de Produtos](https://draft.dev/learn/devrel-harnessing-the-power-of-community-feedback-for-product-development)
+- [@artigo@O Loop de Feedback da Advocacia ao Desenvolvedor](https://glaforge.dev/talks/2020/08/06/the-developer-advocacy-feedback-loop/)

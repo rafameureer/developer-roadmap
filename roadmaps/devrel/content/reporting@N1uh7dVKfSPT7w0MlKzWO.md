@@ -1,3 +1,3 @@
-# Reporting
- 
-Reporting translates raw analytics data into structured summaries that communicate the impact of DevRel work to stakeholders. Regular reports build organizational trust in the team and provide a record of progress over time. Good reports focus on trends and insights rather than raw numbers, and connect metrics to business outcomes.
+# Relatórios
+
+O relatório traduz dados de análise brutos em resumos estruturados que comunicam o impacto do trabalho DevRel aos stakeholders. Os relatórios regulares construem a confiança organizacional na equipe e fornecem um registro do progresso ao longo do tempo. Boas relações focam em tendências e insights em vez de números brutos, e conectam métricas a resultados empresariais.

@@ -1,3 +1,3 @@
-# Meetups
- 
-Meetups are local or virtual gatherings of developers around a specific technology, interest, or geography. Attending and speaking at meetups builds relationships at a community level and reaches developers who may not attend large conferences. Organizing meetups creates a recurring touchpoint with the local developer community.
+# Encontros (Meetups)
+
+Encontros são reuniões locais ou virtuais de desenvolvedores em torno de uma tecnologia específica, um interesse ou uma geografia. Participar e falar em encontros estabelece relações no nível da comunidade e alcança desenvolvedores que podem não participar de grandes conferências. Organizar encontros cria um ponto de contato recorrente com a comunidade local de desenvolvedores.

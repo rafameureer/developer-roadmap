@@ -52,14 +52,20 @@
     "roadmaps/ai-agents/content/tool-sandboxing--permissioning@UVzLGXG6K7HQVHmw8ZAv2.md",
     "roadmaps/ai-agents/content/web-search@kBtqT8AduLoYDWopj-V9_.md",
     "roadmaps/ai-agents/content/what-are-ai-agents@aFZAm44nP5NefX_9TpT0A.md",
-    "roadmaps/ai-agents/content/what-are-tools@2zsOUWJQ8e7wnoHmq1icG.md"
+    "roadmaps/ai-agents/content/what-are-tools@2zsOUWJQ8e7wnoHmq1icG.md",
+    "roadmaps/ai-data-scientist/content/coding@XLDWuSt4tI4gnmqMFdpmy.md",
+    "roadmaps/ai-data-scientist/content/deep-learning@cjvVLN0XjrKPn6o20oMmc.md",
+    "roadmaps/ai-data-scientist/content/econometrics@Gd2egqKZPnbPW1W2jw4j8.md",
+    "roadmaps/ai-data-scientist/content/mlops@Qa85hEVe2kz62k9Pj4QCA.md",
+    "roadmaps/ai-data-scientist/content/statistics@4WZL_fzJ3cZdWLLDoWN8D.md"
   ],
   "completed_roadmaps": [
     "frontend-beginner",
     "backend-beginner",
     "devops-beginner",
     "git-github-beginner",
-    "ai-agents"
+    "ai-agents",
+    "ai-data-scientist"
   ],
   "flagged_issues": [
     {
@@ -301,8 +307,23 @@
       "file": "roadmaps/ai-agents/content/what-is-prompt-engineering@Y8EqzFx3qxtrSh7bWbbV8.md",
       "reason": "Falha na tradução automática após tentativas no Ollama",
       "timestamp": "2026-08-15T00:41:29.226147"
+    },
+    {
+      "file": "roadmaps/ai-data-scientist/content/exploratory-data-analysis@l1027SBZxTHKzqWw98Ee-.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T00:42:03.326490"
+    },
+    {
+      "file": "roadmaps/ai-data-scientist/content/machine-learning@kBdt_t2SvVsY3blfubWIz.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T00:42:06.237118"
+    },
+    {
+      "file": "roadmaps/ai-data-scientist/content/mathematics@aStaDENn5PhEa-cFvNzXa.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T00:42:09.465447"
     }
   ],
-  "last_updated": "2026-08-15T00:41:29.227129",
+  "last_updated": "2026-08-15T00:42:18.336121",
   "total_translated_count": 54
 }

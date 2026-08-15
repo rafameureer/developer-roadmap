@@ -1,9 +1,9 @@
-# Econometrics
+# Econometria
 
-Econometrics is the application of statistical methods to economic data. It is a branch of economics that aims to give empirical content to economic relations. More precisely, it is "the quantitative analysis of actual economic phenomena based on the concurrent development of theory and observation, related by appropriate methods of inference." Econometrics can be described as something that allows economists "to sift through mountains of data to extract simple relationships."
+A econometria é a aplicação de métodos estatísticos aos dados econômicos. É uma ramificação da economia que visa dar conteúdo empírico às relações econômicas. Mais precisamente, ela é "a análise quantitativa de fenômenos econômicos atuais baseada no desenvolvimento simultâneo da teoria e da observação, relacionados por métodos apropriados de inferência." A econometria pode ser descrita como algo que permite aos economistas "siftar através de montanhas de dados para extrair relações simples."
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Econometrics (MIT OpenCourseWare)](https://ocw.mit.edu/courses/14-382-econometrics-spring-2017/)
-- [@course@Econometrics: Methods and Applications](https://www.coursera.org/learn/erasmus-econometrics)
-- [@article@Lecture Notes and Short Texts in Econometrics](https://economicsnetwork.ac.uk/teaching/Lecture%20Notes%20and%20Short%20Texts/Econometrics)
+- [@oficial@Econometria (MIT OpenCourseWare)](https://ocw.mit.edu/courses/14-382-econometrics-spring-2017/)
+- [@curso@Econometria: Métodos e Aplicações](https://www.coursera.org/learn/erasmus-econometrics)
+- [@artigo@Notas de Aula e Textos Curtos em Econometria](https://economicsnetwork.ac.uk/teaching/Lecture%20Notes%20and%20Short%20Texts/Econometrics)

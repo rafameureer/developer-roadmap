@@ -4,7 +4,7 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 
 ---
 
-> ⚠️ **Total de itens sinalizados:** 48
+> ⚠️ **Total de itens sinalizados:** 51
 
 | Arquivo / Tópico | Motivo da Sinalização | Data/Hora |
 |---|---|---|
@@ -56,3 +56,6 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 | `roadmaps/ai-agents/content/web-scraping--crawling@5oLc-235bvKhApxzYFkEc.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T00:40:46.581188 |
 | `roadmaps/ai-agents/content/what-is-agent-memory@TBH_DZTAfR8Daoh-njNFC.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T00:41:23.712191 |
 | `roadmaps/ai-agents/content/what-is-prompt-engineering@Y8EqzFx3qxtrSh7bWbbV8.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T00:41:29.226147 |
+| `roadmaps/ai-data-scientist/content/exploratory-data-analysis@l1027SBZxTHKzqWw98Ee-.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T00:42:03.326490 |
+| `roadmaps/ai-data-scientist/content/machine-learning@kBdt_t2SvVsY3blfubWIz.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T00:42:06.237118 |
+| `roadmaps/ai-data-scientist/content/mathematics@aStaDENn5PhEa-cFvNzXa.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T00:42:09.465447 |

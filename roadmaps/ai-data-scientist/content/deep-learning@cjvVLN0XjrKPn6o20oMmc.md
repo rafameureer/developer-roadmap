@@ -1,7 +1,7 @@
-# Deep Learning
+# Aprendizado Profundo
 
-Deep Learning is a subset of machine learning that uses artificial neural networks with multiple layers (hence "deep") to analyze data and learn complex patterns. These networks are inspired by the structure and function of the human brain, and they are particularly effective at tasks like image recognition, natural language processing, and speech recognition. By processing data through these layers, deep learning models can automatically extract features and make predictions with high accuracy.
+O Aprendizado Profundo é um subconjunto do aprendizado de máquina que usa redes neurais artificiais com várias camadas (por isso "profundo") para analisar dados e aprender padrões complexos. Essas redes são inspiradas na estrutura e função do cérebro humano, e elas são particularmente eficazes em tarefas como reconhecimento de imagens, processamento de linguagem natural e reconhecimento de fala. Ao processar dados através dessas camadas, os modelos de aprendizado profundo podem extrair automaticamente características e fazer previsões com alta precisão.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated Machine Learning Roadmap](https://roadmap.sh/machine-learning)
+- [@rota@Visite o Caminho Dedidado de Aprendizado de Máquina](https://roadmap.sh/machine-learning)

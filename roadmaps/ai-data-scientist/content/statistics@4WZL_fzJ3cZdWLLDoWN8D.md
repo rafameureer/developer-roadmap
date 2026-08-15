@@ -1,10 +1,10 @@
-# Statistics
+# Estatística
 
-Statistics is the science of collecting, analyzing, interpreting, presenting, and organizing data. It is a branch of mathematics that deals with the collection, analysis, interpretation, presentation, and organization of data. It is used in a wide range of fields, including science, engineering, medicine, and social science. Statistics is used to make informed decisions, to predict future events, and to test hypotheses. It is also used to summarize data, to describe relationships between variables, and to make inferences about populations based on samples.
+A estatística é a ciência da coleta, análise, interpretação, apresentação e organização de dados. É uma ramificação da matemática que lida com a coleta, análise, interpretação, apresentação e organização de dados. Ela é usada em um amplo range de campos, incluindo ciência, engenharia, medicina e ciências sociais. A estatística é usada para tomar decisões informadas, prever eventos futuros e testar hipóteses. Ela também é usada para resumir dados, descrever relações entre variáveis e fazer inferências sobre populações com base em amostras.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@Statistics and Probability (Khan Academy)](https://www.khanacademy.org/math/statistics-probability)
-- [@book@OpenIntro Statistics (free textbook)](https://www.openintro.org/book/os/)
-- [@course@Statistics with Python Specialization](https://www.coursera.org/specializations/statistics-with-python)
-- [@video@StatQuest with Josh Starmer](https://www.youtube.com/@statquest)
+- [@curso@Estatística e Probabilidade (Khan Academy)](https://www.khanacademy.org/math/statistics-probability)
+- [@livro@OpenIntro Statistics (livro gratuito)](https://www.openintro.org/book/os/)
+- [@curso@Estatística com Especialização em Python](https://www.coursera.org/specializations/statistics-with-python)
+- [@vídeo@StatQuest com Josh Starmer](https://www.youtube.com/@statquest)

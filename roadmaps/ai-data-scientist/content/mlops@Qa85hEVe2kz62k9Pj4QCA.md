@@ -1,7 +1,7 @@
 # MLOps
 
-MLOps is a practice for collaboration and communication between data scientists and operations professionals to help manage the production ML lifecycle. It is a set of best practices that aims to automate the ML lifecycle, including training, deployment, and monitoring. MLOps helps organizations to scale ML models and deliver business value faster.
+MLOps é uma prática de colaboração e comunicação entre cientistas de dados e profissionais de operações para ajudar a gerenciar o ciclo de vida de produção do ML. É um conjunto de boas práticas que visa automatizar o ciclo de vida do ML, incluindo treinamento, implantação e monitoramento. MLOps ajuda as organizações a escalar modelos ML e entregar valor empresarial mais rapidamente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated MLOps Roadmap](https://roadmap.sh/mlops)
+- [@roadmap@Visite o Caminho do MLOps](https://roadmap.sh/mlops)

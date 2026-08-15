@@ -4,7 +4,7 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 
 ---
 
-> ⚠️ **Total de itens sinalizados:** 400
+> ⚠️ **Total de itens sinalizados:** 402
 
 | Arquivo / Tópico | Motivo da Sinalização | Data/Hora |
 |---|---|---|
@@ -408,3 +408,5 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 | `roadmaps/cloudflare/content/monitoring-tools@Cy2T8978yUAPGol-yzxv_.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:27:42.533150 |
 | `roadmaps/cloudflare/content/nodejs-and-npm@dSBYTGGkol3MAXyg7G7_J.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:27:48.732910 |
 | `roadmaps/cloudflare/content/wrangler@n0vIbHmUZHrF4WjEhYdb8.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:30:53.750370 |
+| `roadmaps/code-review/content/implementation-semantics.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:31:21.522283 |
+| `roadmaps/code-review/content/tests.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:31:25.261808 |

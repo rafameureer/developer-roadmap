@@ -1,12 +1,12 @@
-# Questions to Ask
+# Perguntas a Serem Feitas
 
-- Is the project's formatting style applied?
-- Does it adhere to the agreed-upon naming conventions?
-- Is it DRY?
-- Is the code sufficiently "readable" (method lengths, etc.)?
+- O estilo de formatação do projeto está sendo aplicado?
+- Ele segue as convenções de nomenclatura acordadas?
+- É DRY (Don't Repeat Yourself)?
+- O código é suficientemente "legível" (comprimento dos métodos, etc.)?
 
-Learn more from the following resources:
+Aprenda mais com os seguintes recursos:
 
-- [@article@The Standard of Code Review - Google](https://google.github.io/eng-practices/review/reviewer/standard.html)
-- [@article@Creating a Coding Style Guide for Your Team - Graphite](https://graphite.com/guides/creating-coding-style-guide)
-- [@article@Code Smells - Refactoring Guru](https://refactoring.guru/refactoring/smells)
+- [@artigo@Padrão da Revisão de Código - Google](https://google.github.io/eng-practices/review/reviewer/standard.html)
+- [@artigo@Criando um Guia de Estilo de Códigos para Sua Equipe - Graphite](https://graphite.com/guides/creating-coding-style-guide)
+- [@artigo@Odores de Código - Refactoring Guru](https://refactoring.guru/refactoring/smells)

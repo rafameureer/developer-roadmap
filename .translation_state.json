@@ -1482,7 +1482,10 @@
     "roadmaps/cloudflare/content/workers-runtime-environment@TB6vGzDgGZ9yAd9MGR7vw.md",
     "roadmaps/cloudflare/content/workers-security-model@8IF7jftushwZrn7JXpC_v.md",
     "roadmaps/cloudflare/content/workflows@rAl7zXcODiqIpS__3qf1A.md",
-    "roadmaps/cloudflare/content/wrangler@Tzx93tvoGrc9_fKQqkorN.md"
+    "roadmaps/cloudflare/content/wrangler@Tzx93tvoGrc9_fKQqkorN.md",
+    "roadmaps/code-review/content/api-semantics.md",
+    "roadmaps/code-review/content/code-style.md",
+    "roadmaps/code-review/content/documentation.md"
   ],
   "completed_roadmaps": [
     "frontend-beginner",
@@ -1504,7 +1507,8 @@
     "blockchain",
     "c",
     "claude-code",
-    "cloudflare"
+    "cloudflare",
+    "code-review"
   ],
   "flagged_issues": [
     {
@@ -3506,8 +3510,18 @@
       "file": "roadmaps/cloudflare/content/wrangler@n0vIbHmUZHrF4WjEhYdb8.md",
       "reason": "Falha na tradução automática após tentativas no Ollama",
       "timestamp": "2026-08-15T03:30:53.750370"
+    },
+    {
+      "file": "roadmaps/code-review/content/implementation-semantics.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:31:21.522283"
+    },
+    {
+      "file": "roadmaps/code-review/content/tests.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:31:25.261808"
     }
   ],
-  "last_updated": "2026-08-15T03:30:53.753858",
+  "last_updated": "2026-08-15T03:31:25.265478",
   "total_translated_count": 54
 }

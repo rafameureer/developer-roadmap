@@ -1,11 +1,11 @@
-# Questions to Ask
+# Perguntas a Serem Feitas
 
-- Are the new features reasonably documented?
-- Are all relevant types of documentation covered, such as README, API docs, user guide, reference docs, etc?
-- Is the documentation understandable and free of significant typos and grammar mistakes?
+- As novas funcionalidades estão razoavelmente documentadas?
+- Todos os tipos relevantes de documentação são cobertos, como README, documentação da API, guia do usuário, documentos de referência, etc.?
+- A documentação é compreensível e livre de significativos erros ortográficos e gramaticais?
 
-Learn more from the following resources:
+Aprenda mais com os seguintes recursos:
 
-- [@article@How to Write Software Documentation - Write the Docs](https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/)
-- [@article@8 Essential Code Documentation Best Practices - Heretto](https://www.heretto.com/blog/best-practices-for-writing-code-documentation)
-- [@article@Looking for Things in a Code Review - Google](https://google.github.io/eng-practices/review/reviewer/looking-for.html)
+- [@artigo@Como Escrever Documentação de Software - Write the Docs](https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/)
+- [@artigo@8 Práticas Essenciais de Melhores Práticas de Documentação de Código - Heretto](https://www.heretto.com/blog/best-practices-for-writing-code-documentation)
+- [@artigo@Procurando Coisas em uma Revisão de Código - Google](https://google.github.io/eng-practices/review/reviewer/looking-for.html)

@@ -1,12 +1,12 @@
-# Go
+# Go (Golang)
 
-Go (Golang) is Google's statically typed, compiled language combining efficiency with ease of use. Features built-in concurrency via goroutines and channels, simple syntax, fast compilation, and a comprehensive standard library. Popular for microservices, web servers, and cloud-native development.
+Go é uma linguagem de programação compilada e de tipagem estática desenvolvida pelo Google, combinando a velocidade e eficiência de C com a simplicidade e legibilidade de linguagens modernas. Com suporte nativo a concorrência através de *goroutines* e *channels*, compilação instantânea e uma biblioteca padrão poderosa, Go é amplamente utilizada para microsserviços, backends de alta performance e ferramentas de infraestrutura.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@roadmap@Visit Dedicated Go Roadmap](https://roadmap.sh/golang)
-- [@official@Go Reference Documentation](https://go.dev/doc/)
-- [@article@Go by Example - annotated example programs](https://gobyexample.com/)
-- [@article@Go, the Programming Language of the Cloud](https://thenewstack.io/go-the-programming-language-of-the-cloud/)
-- [@video@Go Programming – Golang Course with Bonus Projects](https://www.youtube.com/watch?v=un6ZyFkqFKo)
-- [@feed@Explore top posts about Golang](https://app.daily.dev/tags/golang?ref=roadmapsh)
+- [@roadmap@Acesse o Roadmap Dedicado de Go](https://roadmap.sh/golang)
+- [@official@Documentação Oficial de Go](https://go.dev/doc/)
+- [@article@Go by Example - Exemplos de Código Anotados](https://gobyexample.com/)
+- [@article@Go: A Linguagem de Programação da Nuvem](https://thenewstack.io/go-the-programming-language-of-the-cloud/)
+- [@video@Curso de Programação em Go com Projetos](https://www.youtube.com/watch?v=un6ZyFkqFKo)
+- [@feed@Explore os melhores artigos sobre Golang](https://app.daily.dev/tags/golang?ref=roadmapsh)

@@ -1,12 +1,12 @@
 # Redis
 
-Redis is an open-source, in-memory data structure store supporting strings, lists, sets, hashes, and sorted sets. Used for caching, session management, real-time analytics, and message brokering. Offers persistence, replication, clustering, and low-latency high-throughput performance.
+O Redis (*Remote Dictionary Server*) é um armazenamento de estrutura de dados em memória de código aberto, ultrarrápido, que suporta strings, hashes, listas, conjuntos e conjuntos ordenados. É amplamente adotado como cache de alta velocidade, gerenciador de sessões de usuário, fila de mensagens (*message broker*) e pub/sub em tempo real, fornecendo latência em microssegundos e altíssimo throughput.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@roadmap@Visit Dedicated Redis Roadmap](https://roadmap.sh/redis)
-- [@course@Redis Crash Course](https://www.youtube.com/watch?v=XCsS_NVAa1g)
-- [@official@Redis](https://redis.io/)
-- [@official@Redis Documentation](https://redis.io/docs/latest/)
-- [@video@Redis in 100 Seconds](https://www.youtube.com/watch?v=G1rOthIU-uo)
-- [@feed@Explore top posts about Redis](https://app.daily.dev/tags/redis?ref=roadmapsh)
+- [@roadmap@Acesse o Roadmap Dedicado de Redis](https://roadmap.sh/redis)
+- [@course@Curso Rápido de Redis para Iniciantes](https://www.youtube.com/watch?v=XCsS_NVAa1g)
+- [@official@Site Oficial do Redis](https://redis.io/)
+- [@official@Documentação Oficial do Redis](https://redis.io/docs/latest/)
+- [@video@Redis Explicado em 100 Segundos](https://www.youtube.com/watch?v=G1rOthIU-uo)
+- [@feed@Explore os melhores artigos sobre Redis](https://app.daily.dev/tags/redis?ref=roadmapsh)

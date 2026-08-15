@@ -1,9 +1,9 @@
 # Vitest
 
-Vitest is a testing framework powered by Vite. It's designed to be fast and easy to use, especially for projects that already use Vite for development. Vitest allows you to write unit tests and integration tests for your frontend code, ensuring that your components and functions work as expected. It offers features like hot module replacement (HMR) during testing, a watch mode for automatically re-running tests on file changes, and compatibility with popular testing libraries like Jest.
+O Vitest é um framework de testes unitários ultrarrápido construído sobre o ecossistema Vite. Ele foi projetado para ser leve, ágil e de fácil configuração, especialmente em projetos modernos que utilizam Vite. O Vitest permite escrever testes unitários e de integração para seu código frontend com recursos avançados, como Hot Module Replacement (HMR) durante a execução dos testes, modo watch inteligente para reexecução automática em alterações de arquivo e compatibilidade nativa com APIs familiares do Jest.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@official@Vitest - Next Generation Testing Framework](https://vitest.dev/)
-- [@official@Vitest Documentation](https://vitest.dev/guide/)
-- [@video@Vitest Simplified](https://www.youtube.com/watch?v=snCLQmINqCU)
+- [@official@Vitest - Framework de Testes de Próxima Geração](https://vitest.dev/)
+- [@official@Documentação Oficial do Vitest](https://vitest.dev/guide/)
+- [@video@Vitest Simplificado: Conceitos e Prática](https://www.youtube.com/watch?v=snCLQmINqCU)

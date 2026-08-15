@@ -1,11 +1,11 @@
 # ACID
 
-ACID represents four database transaction properties: Atomicity (all-or-nothing execution), Consistency (valid state maintenance), Isolation (concurrent transaction separation), and Durability (permanent commit survival). These principles ensure reliable data processing and integrity in database systems, crucial for financial and e-commerce applications.
+ACID é o acrônimo que representa as quatro propriedades fundamentais de transações em bancos de dados relacionais: Atomicidade (*Atomicity* - execução de tudo ou nada), Consistência (*Consistency* - garantia de que os dados respeitam todas as regras de integridade), Isolamento (*Isolation* - transações simultâneas não interferem umas nas outras) e Durabilidade (*Durability* - dados confirmados sobrevivem a falhas do sistema). Esses princípios garantem processamento de dados confiável, sendo essenciais para sistemas financeiros, pagamentos e aplicações corporativas de missão crítica.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@article@What is ACID Compliant Database?](https://retool.com/blog/whats-an-acid-compliant-database/)
-- [@article@What is ACID Compliance?: Atomicity, Consistency, Isolation](https://fauna.com/blog/what-is-acid-compliance-atomicity-consistency-isolation)
-- [@article@A Beginner's Guide to ACID and Database Transactions](https://vladmihalcea.com/a-beginners-guide-to-acid-and-database-transactions/)
-- [@video@ACID Explained: Atomic, Consistent, Isolated & Durable](https://www.youtube.com/watch?v=yaQ5YMWkxq4)
-- [@video@ACID Transactions (Explained by Example)](https://www.youtube.com/watch?v=pomxJOFVcQs)
+- [@article@O que é um Banco de Dados Compatível com ACID?](https://retool.com/blog/whats-an-acid-compliant-database/)
+- [@article@O que é Conformidade ACID: Atomicidade, Consistência e Isolamento](https://fauna.com/blog/what-is-acid-compliance-atomicity-consistency-isolation)
+- [@article@Guia para Iniciantes: ACID e Transações em Bancos de Dados](https://vladmihalcea.com/a-beginners-guide-to-acid-and-database-transactions/)
+- [@video@ACID Explicado: Atômico, Consistente, Isolado e Durável](https://www.youtube.com/watch?v=yaQ5YMWkxq4)
+- [@video@Transações ACID Explicadas com Exemplos Práticos](https://www.youtube.com/watch?v=pomxJOFVcQs)

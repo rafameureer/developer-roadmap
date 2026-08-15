@@ -1,9 +1,9 @@
 # React
 
-React is a JavaScript library for building user interfaces. It lets you break down complex UIs into smaller, reusable components. These components manage their own data and can be composed together to create larger applications. React uses a declarative approach, meaning you describe what you want the UI to look like, and React takes care of updating the DOM efficiently.
+O React é uma biblioteca JavaScript declarativa e eficiente para a criação de interfaces de usuário (UI). Ele permite dividir UIs complexas em componentes pequenos, reutilizáveis e modulares. Cada componente gerencia seu próprio estado interno e pode ser combinado com outros para compor aplicações em grande escala. O React utiliza uma abordagem declarativa: você descreve como a interface deve se parecer para cada estado e o React atualiza e renderiza eficientemente apenas os elementos necessários no DOM.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@roadmap@Visit Dedicated React Roadmap](https://roadmap.sh/react)
-- [@official@React Website](https://react.dev)
-- [@video@Full Stack React Developer Course](https://www.youtube.com/watch?v=Bvwq_S0n2pk)
+- [@roadmap@Acesse o Roadmap Dedicado de React](https://roadmap.sh/react)
+- [@official@Documentação Oficial do React (pt-BR)](https://pt-br.react.dev/)
+- [@video@Curso Completo de Desenvolvimento com React](https://www.youtube.com/watch?v=Bvwq_S0n2pk)

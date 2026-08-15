@@ -1,11 +1,11 @@
-# More Git
+# Recursos Avançados do Git
 
-Beyond the basics of tracking changes and collaborating, Git offers a range of powerful features for managing complex projects. These features allow you to streamline your workflow, experiment safely with new ideas, and maintain a clean and organized project history. Exploring these more advanced aspects of Git can significantly enhance your development process.
+Além dos fundamentos de salvar alterações e trabalhar em equipe, o Git oferece recursos poderosos para gerenciar projetos complexos. Essas funcionalidades permitem organizar o fluxo de trabalho, experimentar novas ideias com segurança e manter o histórico do repositório limpo e legível. Dominar comandos como `git stash`, `git reset`, `git revert` e compreender a diferença entre `merge` e `rebase` elevará consideravelmente sua produtividade como desenvolvedor.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@video@How to Use Git Reset Soft, Mixed, and Hard](https://youtu.be/s1idhUiCk38?si=F60WS6ukxUUjM-ZI)
-- [@video@Git MERGE vs REBASE](https://youtu.be/0chZFIZLR_0?si=Kua8FdA5to7zHHqG)
-- [@article@Git stash](https://www.atlassian.com/git/tutorials/saving-changes/git-stash)
-- [@article@Git Reset and Revert Tutorial for Beginners](https://www.datacamp.com/tutorial/git-reset-revert-tutorial)
-- [@article@Merging vs. rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
+- [@video@Como Usar o Git Reset: Soft, Mixed e Hard](https://youtu.be/s1idhUiCk38?si=F60WS6ukxUUjM-ZI)
+- [@video@Git MERGE vs REBASE Explicado](https://youtu.be/0chZFIZLR_0?si=Kua8FdA5to7zHHqG)
+- [@article@Tutorial de Git Stash - Atlassian](https://www.atlassian.com/br/git/tutorials/saving-changes/git-stash)
+- [@article@Tutorial de Git Reset e Git Revert para Iniciantes](https://www.datacamp.com/tutorial/git-reset-revert-tutorial)
+- [@article@Mesclando vs. Fazendo Rebase no Git](https://www.atlassian.com/br/git/tutorials/merging-vs-rebasing)

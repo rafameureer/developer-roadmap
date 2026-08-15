@@ -1,11 +1,11 @@
-# APIs
+# APIs (Interfaces de Programação de Aplicações)
 
-API (Application Programming Interface) defines rules and protocols for software applications to communicate. Provides standardized access to functionalities without understanding internal workings. Includes endpoints, request methods (GET, POST, PUT), and data formats (JSON, XML).
+Uma API (*Application Programming Interface*) define um conjunto de regras, contratos e protocolos que permitem a comunicação entre diferentes sistemas de software. As APIs expõem pontos de extremidade (*endpoints*) estruturados que aceitam métodos HTTP padrão (GET, POST, PUT, DELETE, PATCH) e processam dados em formatos universais como JSON ou XML, viabilizando integrações entre frontends, aplicativos móveis e microsserviços.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@roadmap@Visit the Dedicated API Design Roadmap](https://roadmap.sh/api-design)
-- [@roadmap@Visit the Dedicated API Security Best Practices](https://roadmap.sh/api-security-best-practices)
-- [@article@What is an API?](https://aws.amazon.com/what-is/api/)
-- [@video@What is an API (in 5 minutes)](https://www.youtube.com/watch?v=ByGJQzlzxQg)
-- [@feed@daily.dev API Feed](https://app.daily.dev/tags/rest-api)
+- [@roadmap@Acesse o Roadmap Dedicado de Design de APIs](https://roadmap.sh/api-design)
+- [@roadmap@Acesse o Guia de Boas Práticas de Segurança em APIs](https://roadmap.sh/best-practices/api-security)
+- [@article@O que é uma API? - AWS](https://aws.amazon.com/pt/what-is/api/)
+- [@video@O que é uma API? (Explicado em 5 minutos)](https://www.youtube.com/watch?v=ByGJQzlzxQg)
+- [@feed@Feed de Artigos sobre APIs no daily.dev](https://app.daily.dev/tags/rest-api)

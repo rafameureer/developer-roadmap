@@ -1,11 +1,11 @@
 # JavaScript
 
-JavaScript is a programming language that makes websites interactive. It lets you add dynamic content, control multimedia, animate images, and pretty much everything else that makes a webpage more than just static text. It runs in web browsers, allowing you to create engaging experiences for users.
+O JavaScript é a linguagem de programação que torna os sites interativos e dinâmicos. Com ele, é possível manipular elementos da página em tempo real, controlar mídias, animar gráficos, processar requisições assíncronas e transformar uma página estática em uma aplicação web completa. Ele é executado nativamente em navegadores web, proporcionando experiências ricas e envolventes para os usuários.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@roadmap@Visit Dedicated JavaScript Roadmap](https://roadmap.sh/javascript)
-- [@book@JavaScript from Beginner to Professional](https://www.gurukultti.org/admin/notice/javascript.pdf)
-- [@article@The Modern JavaScript Tutorial](https://javascript.info/)
-- [@article@Build 30 Javascript projects in 30 days](https://javascript30.com/)
-- [@video@JavaScript Crash Course For Beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c&t=4s)
+- [@roadmap@Acesse o Roadmap Dedicado de JavaScript](https://roadmap.sh/javascript)
+- [@book@JavaScript do Básico ao Avançado](https://www.gurukultti.org/admin/notice/javascript.pdf)
+- [@article@O Tutorial Moderno de JavaScript (pt-BR)](https://javascript.info/)
+- [@article@JavaScript30 - Construa 30 Projetos em 30 Dias](https://javascript30.com/)
+- [@video@Curso Rápido de JavaScript para Iniciantes](https://www.youtube.com/watch?v=hdI2bqOjy3c&t=4s)

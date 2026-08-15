@@ -1,12 +1,12 @@
-# REST
+# REST (Representational State Transfer)
 
-REST API is an architectural style using standard HTTP methods (GET, POST, PUT, DELETE) to interact with URI-represented resources. It's stateless, requiring complete request information, uses HTTP status codes, and typically communicates via JSON/XML. Popular for simplicity and scalability.
+REST é um estilo arquitetural para sistemas hipermídia distribuídos que utiliza métodos HTTP padronizados (GET, POST, PUT, DELETE, PATCH) para interagir com recursos identificados por URIs. Uma API RESTful é sem estado (*stateless*), o que significa que cada requisição contém todas as informações necessárias para ser processada, retornando códigos de status HTTP apropriados e comunicando-se predominantemente via JSON.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@article@What is a REST API?](https://www.redhat.com/en/topics/api/what-is-a-rest-api)
-- [@article@Best practices for RESTful web API design](https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design)
-- [@article@Roy Fieldings dissertation chapter, Representational State Transfer (REST)](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
-- [@article@Learn REST: A RESTful Tutorial](https://restapitutorial.com/)
-- [@video@What is a REST API?](https://www.youtube.com/watch?v=-mN3VyJuCjM)
-- [@feed@Explore top posts about REST API](https://app.daily.dev/tags/rest-api?ref=roadmapsh)
+- [@article@O que é uma API REST? - Red Hat](https://www.redhat.com/pt-br/topics/api/what-is-a-rest-api)
+- [@article@Boas Práticas para Design de APIs RESTful - Microsoft](https://learn.microsoft.com/pt-br/azure/architecture/best-practices/api-design)
+- [@article@Dissertação de Roy Fielding: REST](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
+- [@article@Tutorial de API RESTful](https://restapitutorial.com/)
+- [@video@O que é uma API REST? Explicado](https://www.youtube.com/watch?v=-mN3VyJuCjM)
+- [@feed@Explore os melhores artigos sobre REST API](https://app.daily.dev/tags/rest-api?ref=roadmapsh)

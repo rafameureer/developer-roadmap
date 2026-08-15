@@ -1,9 +1,9 @@
-# Repo Hosting Services
+# Serviços de Hospedagem de Repositórios
 
-Repo hosting services provide storage, management, and collaboration tools for version-controlled code repositories. Support Git, Mercurial, Subversion with features like branching, pull requests, issue tracking, code review, and CI/CD integration. Popular services: GitHub, GitLab, Bitbucket.
+Serviços de hospedagem de repositórios oferecem infraestrutura em nuvem para armazenamento, controle de versão e colaboração em equipes de software. Eles suportam Git e fornecem funcionalidades como gerenciamento de branches, *Pull Requests*, revisões de código, rastreamento de issues e integração com esteiras de CI/CD. As plataformas mais populares são GitHub, GitLab e Bitbucket.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
 - [@official@GitHub](https://github.com)
 - [@official@GitLab](https://about.gitlab.com/)
-- [@official@BitBucket](https://bitbucket.org/product/guides/getting-started/overview)
+- [@official@Bitbucket](https://bitbucket.org/product/guides/getting-started/overview)

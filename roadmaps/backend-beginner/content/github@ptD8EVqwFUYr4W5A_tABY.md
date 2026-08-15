@@ -1,12 +1,10 @@
 # GitHub
 
-GitHub is a web-based platform built on top of Git that provides version control, collaboration tools, and project management features for software development. It enables developers to host Git repositories, collaborate on code through pull requests, and review and track changes. GitHub also offers additional features like issue tracking, continuous integration, automated workflows, and documentation hosting. With its social coding environment, GitHub fosters open-source contributions and team collaboration, making it a central hub for many software development projects.
+O GitHub é a maior plataforma de hospedagem de código e colaboração para desenvolvedores do mundo, construída sobre o Git. Ele oferece repositórios em nuvem, controle de versões, revisão de código via *Pull Requests*, gerenciamento de tarefas via *Issues* e automação completa de pipelines com *GitHub Actions*.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@roadmap@Visit Dedicated Git & GitHub Roadmap](https://roadmap.sh/git-github)
-- [@official@GitHub](https://github.com)
-- [@official@GitHub Docs](https://docs.github.com/en/get-started/quickstart)
-- [@article@Comprehensive Guide to GitHub for Data Scientists](https://towardsdatascience.com/comprehensive-guide-to-github-for-data-scientist-d3f71bd320da/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)
-- [@video@What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E)
-- [@feed@Explore top posts about GitHub](https://app.daily.dev/tags/github?ref=roadmapsh)
+- [@roadmap@Acesse o Roadmap Dedicado de Git & GitHub](https://roadmap.sh/git-github)
+- [@official@Site Oficial do GitHub](https://github.com)
+- [@official@Documentação Oficial do GitHub](https://docs.github.com/pt/get-started/quickstart)
+- [@video@O que é o GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E)

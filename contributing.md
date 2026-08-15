@@ -1,149 +1,87 @@
-# ✨ Contribution Guidelines ✨
+# ✨ Diretrizes de Contribuição e Tradução (PT-BR) ✨
 
-First of all, thank you for considering to contribute. Please look at the details below:
+Agradecemos imensamente seu interesse em contribuir para o projeto de localização e tradução do **developer-roadmap** para Português do Brasil!
 
-- [New Roadmaps](#new-roadmaps)
-- [Existing Roadmaps](#existing-roadmaps)
-- [Adding Projects](#adding-projects)
-- [Adding Content](#adding-content)
-  - [How To Structure Content](#how-to-structure-content)
-- [Guidelines](#guidelines)
-- [Good vs. Not So Good Contributions](#good-vs-not-so-good-contributions)
-- [Local Development](#local-development)
+## 📋 Sumário
+- [Como Contribuir com as Traduções](#como-contribuir-com-as-traduções)
+- [Estrutura dos Arquivos](#estrutura-dos-arquivos)
+- [Diretrizes de Estilo e Terminologia](#diretrizes-de-estilo-e-terminologia)
+- [Tipos de Links Permitidos](#tipos-de-links-permitidos)
+- [Passo a Passo de Desenvolvimento Local](#passo-a-passo-de-desenvolvimento-local)
 
-## New Roadmaps
+---
 
-For new roadmaps, you can either:
+## 🎯 Como Contribuir com as Traduções
 
-- Submit a roadmap by providing [a textual roadmap similar to this roadmap](https://gist.github.com/nilbuild/98758d2c73799b3a6ce17385e4c548a5) in an [issue](https://github.com/nilbuild/developer-roadmap/issues).
-- Create an interactive roadmap yourself using [our roadmap editor](https://draw.roadmap.sh/) & submit the link to that roadmap in an [issue](https://github.com/nilbuild/developer-roadmap/issues).
+1. Acesse as [Issues do Repositório](https://github.com/rafameureer/developer-roadmap/issues) para verificar as trilhas abertas ou em andamento.
+2. Comente na issue da trilha correspondente informando qual parte você gostaria de traduzir.
+3. Crie uma branch específica a partir de `master` (ex: `traducao/frontend-html`).
+4. Realize a tradução mantendo o padrão de formato e abra um **Pull Request**.
 
-## Existing Roadmaps
+---
 
-For the existing roadmaps, please follow the details listed for the nature of contribution:
+## 📁 Estrutura dos Arquivos
 
-- **Fixing Typos** — Make your changes in the [roadmap markdown file](https://github.com/nilbuild/developer-roadmap/tree/master/roadmaps) and submit a [PR](https://github.com/nilbuild/developer-roadmap/pulls).
-- **Adding/Removing Nodes and Modifying Node Titles** — Please open an [issue](https://github.com/nilbuild/developer-roadmap/issues) with your suggestion.
+Os conteúdos dos tópicos ficam localizados no diretório `roadmaps/<slug-do-roadmap>/content/`.
 
-**Note:** Please note that our goal is **not to have the biggest list of items**. Our goal is to list items or skills most relevant today.
-
-## Adding Projects
-
-If you have a project idea that you think we should add to the roadmap, feel free to open an issue with as many details about the project as possible and the roadmap you think it should be added to.
-
-The detailed format for the issue should be as follows:
-
-```md
-## What is this project about?
-
-(Add an introduction to the project.)
-
-## Skills this Project Covers
-
-(Comma separated list of skills, e.g. Programming Knowledge, Database, etc.)
-
-## Requirements
-
-( Detailed list of requirements, i.e. input, output, hints to help build this, etc.)
+Cada arquivo segue a nomenclatura:
+```
+<slug-do-topico>@<id-do-no>.md
 ```
 
-Have a look at this project to get an idea of [what we are looking for](https://roadmap.sh/projects/github-user-activity).
+> ⚠️ **IMPORTANTE**: Nunca renomeie os arquivos! O sufixo `@id-do-no.md` é a chave única que conecta o texto ao respectivo nó visual no roadmap interativo.
 
-## Adding Content
-
-Find [the content directory inside the relevant roadmap](https://github.com/nilbuild/developer-roadmap/tree/master/roadmaps). Please keep the following guidelines in mind when submitting content:
-
-- Content must be in English.
-- Maximum of 8 links per topic.
-- **No GeeksforGeeks links** — Links to geeksforgeeks.org are not accepted.
-- Follow the below style guide for content.
-
-Please note that we are intentionally keeping the content under the topic popup concise. You MUST always aim to explain the topic simply in a **single paragraph** or so and provide external resources where users can learn more about the topic.
-
-### How To Structure Content
-
-Please adhere to the following style when adding content to a topic:
+### Formato Padrão do Conteúdo:
 
 ```md
-# Topic Title
+# Título do Tópico em Português
 
-(Content)
+Parágrafo conciso e claro explicando o conceito (1 a 2 parágrafos no máximo), utilizando terminologia técnica adequada em português.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@type@Title/Description of Link](Link)
+- [@tipo@Título ou Descrição do Link](URL)
 ```
 
-`@type@` must be one of the following and describe the type of content you are adding:
+---
 
-- `@official@`
-- `@opensource@`
-- `@article@`
-- `@course@`
-- `@podcast@`
-- `@video@`
-- `@book@`
+## 🏷️ Tipos de Links Permitidos
 
-It's important to add a valid type, this will help us categorize the content and display it properly on the roadmap. The order of the links based on type is same as above.
+O prefixo `@tipo@` categoriza visualmente o recurso no roadmap:
 
-## Guidelines
+- `@official@` — Documentação ou site oficial
+- `@opensource@` — Projetos ou repositórios open-source
+- `@article@` — Artigos, tutoriais ou posts em blogs
+- `@course@` — Cursos estruturados (gratuitos ou pagos)
+- `@podcast@` — Episódios de podcast
+- `@video@` — Vídeos no YouTube ou plataformas de vídeo
+- `@book@` — Livros técnicos recomendados
+- `@roadmap@` — Link para outro roadmap do roadmap.sh
 
-- <p><strong>Please don't use the project for self-promotion!</strong><br/>
+---
 
-  We believe this project is a valuable asset to the developer community, and it includes numerous helpful resources. We kindly ask you to avoid submitting pull requests for the sole purpose of self-promotion. We appreciate contributions that genuinely add value, such as guides from maintainers of well-known frameworks, and will consider accepting these even if they're self authored. Thank you for your understanding and cooperation!
+## 📖 Diretrizes de Estilo e Terminologia
 
-- <p><strong>Adding everything available out there is not the goal!</strong><br/>
+- **Qualidade Técnica:** Busque naturalidade na escrita em português brasileiro (PT-BR), evitando traduções literais mecânicas.
+- **Terminologia Consagrada:** Termos amplamente utilizados pela comunidade em inglês devem ser mantidos ou contextualizados (ex: *commit, pull request, branch, deploy, framework, runtime, cache, middleware*).
+- **Recursos em Português:** Sempre que houver documentação oficial ou artigo de referência de alta qualidade em português (como MDN Web Docs em PT-BR ou artigos consolidados), você pode incluí-los ou substituir links quebrados.
 
-  The roadmaps represent the skillset most valuable today, i.e., if you were to enter any of the listed fields today, what would you learn? There might be things that are of-course being used today, but prioritize the things that are most in demand today, e.g., agree that lots of people are using angular.js today, but you wouldn't want to learn that instead of React, Angular, or Vue. Use your critical thinking to filter out non-essential stuff. Give honest arguments for why the resource should be included.</p>
+---
 
-- <p><strong>Do not add things you have not evaluated personally!</strong><br/>
-
-  Use your critical thinking to filter out non-essential stuff. Give honest arguments for why the resource should be included. Have you read this book? Can you give a short article?</p>
-
-- <p><strong>Create a Single PR for Content Additions</strong></p>
-
-  If you are planning to contribute by adding content to the roadmaps, I recommend you to clone the repository, add content to the [content directory of the roadmap](./roadmaps/) and create a single PR to make it easier for me to review and merge the PR.
-
-- <p><strong>Write meaningful commit messages</strong><br/>
-
-  Meaningful commit messages help speed up the review process as well as help other contributors gain a good overview of the repositories commit history without having to dive into every commit.
-
-  </p>
-- <p><strong>Look at the existing issues/pull requests before opening new ones</strong></p>
-
-## Good vs. Not So Good Contributions
-
-<strong>Good</strong>
-
-- New Roadmaps.
-- Engaging and fresh content links.
-- Typos and grammatical fixes.
-- Enhanced Existing Content.
-- Content copy in topics that do not have any (or minimal copy exists).
-
-<strong>Not So Good</strong>
-
-- Adding whitespace that doesn't add to the readability of the content.
-- Rewriting content in a way that doesn't add any value.
-- Non-English content.
-- PR's that don't follow our style guide, have no description, and a default title.
-- Links to your own blog articles.
-
-## Working Locally
-
-This repository only holds the roadmap content, so there is no app to run. Clone
-it, edit the markdown and open a PR:
+## 💻 Passo a Passo de Desenvolvimento Local
 
 ```bash
-git clone git@github.com:nilbuild/developer-roadmap.git --depth 1
+# 1. Clone o repositório
+git clone https://github.com/rafameureer/developer-roadmap.git
 cd developer-roadmap
+
+# 2. Crie uma nova branch
+git checkout -b traducao/minha-trilha
+
+# 3. Faça suas edições nos arquivos markdown
+
+# 4. Verifique e comite suas alterações
+git add .
+git commit -m "traducao: adiciona versao pt-br para trilha X"
+git push origin traducao/minha-trilha
 ```
-
-Content lives in `roadmaps/<roadmap-slug>/content/<topic-slug>@<node-id>.md`. Keep
-the file name as it is, the node id is what ties the file to a topic on the
-roadmap. Once your PR is merged, the content is synced to the website
-automatically.
-
-***
-
-Have a look at the [License](./license) file.

@@ -1,9 +1,9 @@
-# Integration Testing
+# Testes de Integração
 
-Integration testing verifies interactions between software components to ensure they work together correctly. Tests module communication via APIs, databases, and third-party services. Catches integration issues like data mismatches and protocol errors that unit tests miss.
+Os testes de integração avaliam como diferentes módulos e componentes de uma aplicação interagem e funcionam em conjunto. Diferente dos testes unitários, que isolam dependências, os testes de integração validam a comunicação real entre serviços, APIs, bancos de dados e serviços de terceiros, detectando inconsistências em protocolos, esquemas de dados e fluxos assíncronos.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@article@Integration Testing](https://www.guru99.com/integration-testing.html)
-- [@article@How to Integrate and Test Your Tech Stack](https://thenewstack.io/how-to-integrate-and-test-your-tech-stack/)
-- [@video@What is Integration Testing?](https://www.youtube.com/watch?v=kRD6PA6uxiY)
+- [@article@Guia de Testes de Integração](https://www.guru99.com/integration-testing.html)
+- [@article@Como Integrar e Testar sua Stack de Tecnologia](https://thenewstack.io/how-to-integrate-and-test-your-tech-stack/)
+- [@video@O que são Testes de Integração?](https://www.youtube.com/watch?v=kRD6PA6uxiY)

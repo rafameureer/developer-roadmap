@@ -1,13 +1,13 @@
-# Authentication
+# Autenticação
 
-API authentication verifies client identity to ensure only authorized access to resources. Common methods include API keys, OAuth 2.0, JWT, and basic auth. It protects data, prevents unauthorized access, enables usage tracking, and provides granular control over API resources.
+A autenticação em APIs e serviços backend é o processo de verificar a identidade de um usuário, serviço ou cliente antes de conceder acesso aos recursos protegidos. Os métodos mais comuns incluem chaves de API (*API Keys*), tokens JWT (*JSON Web Tokens*), fluxos OAuth 2.0, autenticação básica (*Basic Auth*) e sessões com cookies seguros. A autenticação protege os dados da aplicação, previne acessos não autorizados e possibilita o controle granular de permissões e autorizações (*RBAC*).
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@article@Basic Authentication](https://roadmap.sh/guides/basic-authentication)
-- [@article@Session Based Authentication](https://roadmap.sh/guides/session-based-authentication)
-- [@article@Token Based Authentication](https://roadmap.sh/guides/token-authentication)
-- [@article@JWT Authentication](https://roadmap.sh/guides/jwt-authentication)
-- [@article@OAuth - Open Authorization](https://roadmap.sh/guides/oauth)
-- [@article@SSO - Single Sign On](https://roadmap.sh/guides/sso)
-- [@feed@Explore top posts about Authentication](https://app.daily.dev/tags/authentication?ref=roadmapsh)
+- [@article@Autenticação Básica (Basic Auth)](https://roadmap.sh/guides/basic-authentication)
+- [@article@Autenticação Baseada em Sessões](https://roadmap.sh/guides/session-based-authentication)
+- [@article@Autenticação Baseada em Tokens](https://roadmap.sh/guides/token-authentication)
+- [@article@Autenticação com JWT](https://roadmap.sh/guides/jwt-authentication)
+- [@article@OAuth 2.0 - Autorização Aberta](https://roadmap.sh/guides/oauth)
+- [@article@SSO - Autenticação Única (Single Sign-On)](https://roadmap.sh/guides/sso)
+- [@feed@Explore os melhores artigos sobre Autenticação](https://app.daily.dev/tags/authentication?ref=roadmapsh)

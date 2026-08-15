@@ -1,11 +1,11 @@
 # Python
 
-Python is a versatile and easy-to-learn programming language used for a wide range of tasks. It's known for its clear syntax, which makes it readable and simplifies coding. You can use Python to automate tasks, build web applications, analyze data, and even manage infrastructure, making it a valuable tool for many DevOps-related tasks.
+O Python é uma linguagem de programação de alto nível, interpretada, multiparadigma e extremamente versátil. Destaca-se por sua sintaxe limpa e legível, facilitando a aprendizagem e acelerando o desenvolvimento. Em DevOps e Infraestrutura, o Python é amplamente utilizado para automação de tarefas (*scripting*), desenvolvimento de ferramentas internas, automação de testes, manipulação de APIs de nuvem e integração contínua.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@roadmap@Visit Dedicated Python Roadmap](https://roadmap.sh/python)
-- [@official@Python](https://www.python.org/)
-- [@article@Real Python](https://realpython.com/)
-- [@article@Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
-- [@feed@Explore top posts about Python](https://app.daily.dev/tags/python?ref=roadmapsh)
+- [@roadmap@Acesse o Roadmap Dedicado de Python](https://roadmap.sh/python)
+- [@official@Site Oficial do Python](https://www.python.org/)
+- [@article@Real Python - Artigos e Tutoriais Aprofundados](https://realpython.com/)
+- [@article@Automatize Tarefas Maçantes com Python (Livro Online)](https://automatetheboringstuff.com/)
+- [@feed@Explore os melhores artigos sobre Python](https://app.daily.dev/tags/python?ref=roadmapsh)

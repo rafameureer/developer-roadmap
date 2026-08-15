@@ -1,12 +1,12 @@
-# Basic Git Usage
+# Uso Básico do Git
 
-You must master the fundamental commands you'll use every day to manage your project's code. These commands allow you to track changes, save snapshots of your work, and collaborate with others. They include initializing a repository, adding files to be tracked, committing changes with messages, viewing the history of changes, and checking the status of your working directory.
+Dominar os comandos fundamentais do Git é essencial para o fluxo diário de gerenciamento de código. Esses comandos permitem rastrear alterações, criar pontos de restauração (*snapshots*) do seu trabalho e colaborar com outros desenvolvedores. As operações básicas incluem: inicializar um repositório (`git init`), adicionar arquivos à área de preparação (`git add`), registrar alterações com mensagens claras (`git commit`), visualizar o histórico (`git log`) e verificar o estado do diretório de trabalho (`git status`).
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@article@Learn Git with Tutorials, News and Tips - Atlassian](https://www.atlassian.com/git)
-- [@article@Git Cheat Sheet](https://cs.fyi/guide/git-cheatsheet)
-- [@video@Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=vA5TTz6BXhY)
-- [@course@Creating a Repository? (Interactive Lesson)](https://inter-git.com/lessons/creating-repository)
-- [@course@Adding Files to Index (Interactive Lesson)](https://inter-git.com/lessons/adding-files-to-index)
-- [@course@Making a Commit (Interactive Lesson)](https://inter-git.com/lessons/making-a-commit)
+- [@article@Aprenda Git com Tutoriais, Notícias e Dicas - Atlassian](https://www.atlassian.com/br/git)
+- [@article@Guia de Consulta Rápida do Git (Cheat Sheet)](https://cs.fyi/guide/git-cheatsheet)
+- [@video@Curso Prático de Git & GitHub para Iniciantes](https://www.youtube.com/watch?v=vA5TTz6BXhY)
+- [@course@Criando um Repositório (Lição Interativa)](https://inter-git.com/lessons/creating-repository)
+- [@course@Adicionando Arquivos ao Index (Lição Interativa)](https://inter-git.com/lessons/adding-files-to-index)
+- [@course@Fazendo um Commit (Lição Interativa)](https://inter-git.com/lessons/making-a-commit)

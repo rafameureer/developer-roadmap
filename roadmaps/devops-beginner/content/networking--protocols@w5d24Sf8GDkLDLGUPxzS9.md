@@ -1,25 +1,25 @@
-# Networking Protocols
+# Protocolos de Rede
 
-Networking protocols are standardized rules and procedures that govern how data is transmitted, received, and interpreted across computer networks. They define the format, timing, sequencing, and error control in data communication. Key protocols include:
+Protocolos de rede são conjuntos padronizados de regras e procedimentos que determinam como os dados são transmitidos, roteados, recebidos e interpretados entre dispositivos em redes de computadores. Eles definem a formatação, o sequenciamento, o tempo e o controle de erros na comunicação digital. Os principais protocolos incluem:
 
-1.  TCP/IP (Transmission Control Protocol/Internet Protocol): The fundamental suite for Internet communication.
-2.  HTTP/HTTPS: For web browsing and secure data transfer on the web.
-3.  FTP/SFTP: File transfer protocols.
-4.  SMTP/POP3/IMAP: Email communication protocols.
-5.  DNS: For domain name resolution.
-6.  DHCP: For automatic IP address assignment.
-7.  SSL/TLS: For secure, encrypted communication.
-8.  UDP: For fast, connectionless data transmission.
+1. **TCP/IP (*Transmission Control Protocol / Internet Protocol*)**: A pilha fundamental de comunicação da Internet.
+2. **HTTP/HTTPS**: Protocolo de transferência de hipertexto para navegação web e APIs seguras.
+3. **DNS (*Domain Name System*)**: Resolução e tradução de nomes de domínio amigáveis para endereços IP numéricos.
+4. **SSH (*Secure Shell*)**: Acesso remoto seguro e administração de servidores via terminal criptografado.
+5. **SSL/TLS**: Protocolos de camada criptográfica para tráfego seguro na web.
+6. **UDP (*User Datagram Protocol*)**: Protocolo leve e veloz para streaming e aplicações em tempo real sem conexão prévia.
+7. **DHCP**: Configuração dinâmica e atribuição automática de endereços IP.
+8. **FTP/SFTP**: Protocolos para transferência segura de arquivos.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@article@Cloudflare - What is SSL?](https://www.cloudflare.com/learning/ssl/what-is-ssl/)
-- [@article@Cloudflare - What is TLS?](https://www.cloudflare.com/en-gb/learning/ssl/transport-layer-security-tls/)
-- [@article@Everything you need to know about HTTP](https://cs.fyi/guide/http-in-depth)
-- [@article@What is HTTP?](https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/)
-- [@article@What is HTTPS?](https://www.cloudflare.com/en-gb/learning/ssl/what-is-https/)
-- [@article@What is DNS?](https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/)
-- [@video@DNS and How does it Work?](https://www.youtube.com/watch?v=Wj0od2ag5sk)
-- [@video@DNS Records](https://www.youtube.com/watch?v=7lxgpKh_fRY)
-- [@video@SSH vs SSL vs TLS](https://www.youtube.com/watch?v=k3rFFLmQCuY)
-- [@video@OpenSSH Full Guide](https://www.youtube.com/watch?v=YS5Zh7KExvE)
+- [@article@Cloudflare - O que é SSL?](https://www.cloudflare.com/pt-br/learning/ssl/what-is-ssl/)
+- [@article@Cloudflare - O que é TLS?](https://www.cloudflare.com/pt-br/learning/ssl/transport-layer-security-tls/)
+- [@article@Tudo o que Você Precisa Saber Sobre HTTP em Detalhes](https://cs.fyi/guide/http-in-depth)
+- [@article@O que é HTTP? - Cloudflare](https://www.cloudflare.com/pt-br/learning/ddos/glossary/hypertext-transfer-protocol-http/)
+- [@article@O que é HTTPS? - Cloudflare](https://www.cloudflare.com/pt-br/learning/ssl/what-is-https/)
+- [@article@O que é DNS? - Cloudflare](https://www.cloudflare.com/pt-br/learning/dns/what-is-dns/)
+- [@video@Como Funciona o DNS? Explicação Visual](https://www.youtube.com/watch?v=Wj0od2ag5sk)
+- [@video@Entendendo Registros DNS (A, CNAME, MX, TXT)](https://www.youtube.com/watch?v=7lxgpKh_fRY)
+- [@video@Comparativo: SSH vs SSL vs TLS](https://www.youtube.com/watch?v=k3rFFLmQCuY)
+- [@video@Guia Completo de OpenSSH para Administração](https://www.youtube.com/watch?v=YS5Zh7KExvE)

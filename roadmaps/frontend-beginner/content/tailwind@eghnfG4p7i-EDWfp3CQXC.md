@@ -1,11 +1,11 @@
 # Tailwind CSS
 
-Tailwind CSS is a utility-first CSS framework. Instead of providing pre-designed components like buttons or navigation bars, it gives you a set of pre-defined CSS classes that you can use directly in your HTML to style your elements. This allows for highly customized designs without writing custom CSS from scratch, offering a faster and more flexible way to style your web pages.
+O Tailwind CSS é um framework CSS orientado a utilitários (*utility-first*). Em vez de fornecer componentes pré-estilizados prontos (como botões ou barras de navegação fixas), ele disponibiliza um conjunto abrangente de classes CSS de baixo nível que você aplica diretamente no seu HTML/JSX para estilizar elementos. Essa abordagem possibilita a construção de designs exclusivos e altamente customizados sem precisar escrever folhas de estilo CSS do zero, acelerando o desenvolvimento e aumentando a flexibilidade visual.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@official@Tailwind Website](https://tailwindcss.com)
-- [@official@Online Playground](https://play.tailwindcss.com)
-- [@course@Tailwind CSS Full Course for Beginners](https://www.youtube.com/watch?v=lCxcTsOHrjo)
-- [@video@Should You Use Tailwind CSS?](https://www.youtube.com/watch?v=hdGsFpZ0J2E)
-- [@video@Official Screencasts](https://www.youtube.com/c/TailwindLabs/videos)
+- [@official@Site Oficial do Tailwind CSS](https://tailwindcss.com)
+- [@official@Playground Interativo Online](https://play.tailwindcss.com)
+- [@course@Curso Completo de Tailwind CSS para Iniciantes](https://www.youtube.com/watch?v=lCxcTsOHrjo)
+- [@video@Vale a pena usar Tailwind CSS? Análise e Guia](https://www.youtube.com/watch?v=hdGsFpZ0J2E)
+- [@video@Screencasts Oficiais do Tailwind Labs](https://www.youtube.com/c/TailwindLabs/videos)

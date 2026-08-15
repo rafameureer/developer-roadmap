@@ -1,11 +1,11 @@
 # Python
 
-Python is a popular programming language that is easy to learn and read. It is used for building web applications, analyzing data, automating tasks, and creating intelligent systems. Python has a large community and many libraries that make it powerful and flexible for various types of projects.
+O Python é uma linguagem de programação de alto nível amplamente utilizada, reconhecida por sua sintaxe clara, intuitiva e expressiva. No backend, frameworks robustos como Django, FastAPI e Flask possibilitam a criação rápida e segura de APIs REST e aplicações web escaláveis. Além disso, seu ecossistema líder em ciência de dados e inteligência artificial torna o Python uma escolha estratégica para qualquer desenvolvedor backend.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@roadmap@Visit Dedicated Python Roadmap](https://roadmap.sh/python)
-- [@official@Python](https://www.python.org/)
-- [@article@Real Python](https://realpython.com/)
-- [@article@Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
-- [@feed@Explore top posts about Python](https://app.daily.dev/tags/python?ref=roadmapsh)
+- [@roadmap@Acesse o Roadmap Dedicado de Python](https://roadmap.sh/python)
+- [@official@Site Oficial do Python](https://www.python.org/)
+- [@article@Real Python - Tutoriais Práticos de Python](https://realpython.com/)
+- [@article@Automatize Tarefas Maçantes com Python](https://automatetheboringstuff.com/)
+- [@feed@Explore os melhores artigos sobre Python](https://app.daily.dev/tags/python?ref=roadmapsh)

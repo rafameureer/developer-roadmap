@@ -1,12 +1,12 @@
 # Ansible
 
-Ansible is an open-source automation tool used for configuration management, application deployment, and task automation. It simplifies the process of managing and orchestrating infrastructure by using a declarative language to define desired states and configurations. Ansible operates using YAML files, called playbooks, which describe the tasks to be executed on remote systems. It employs an agentless architecture, meaning it uses SSH or other remote protocols to execute tasks on target machines without requiring additional software to be installed. Ansible is widely used for automating repetitive tasks, ensuring consistency, and managing large-scale deployments across various environments.
+O Ansible é uma ferramenta de automação de código aberto amplamente utilizada para gerenciamento de configurações, implantação de aplicações e automação de tarefas operacionais. Ele simplifica o provisionamento e a orquestração de infraestrutura utilizando uma abordagem declarativa baseada em arquivos YAML, chamados *playbooks*. O Ansible opera com uma arquitetura sem agentes (*agentless*), comunicando-se diretamente via SSH ou WinRM sem a necessidade de instalar daemons adicionais nas máquinas de destino. Isso garante consistência, repetibilidade e escalabilidade para gerenciar servidores em ambientes locais ou na nuvem.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@official@Ansible](https://www.ansible.com/)
-- [@article@Getting Started with Ansible](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-ansible-on-ubuntu-20-04)
-- [@video@Ansible Full Course for Beginners](https://www.youtube.com/watch?v=9Ua2b06oAr4)
-- [@video@Ansible in 100 Seconds](https://www.youtube.com/watch?v=xRMPKQweySE)
-- [@video@Ansible Full Course to Zero to Hero](https://www.youtube.com/watch?v=GROqwFFLl3s)
-- [@feed@Explore top posts about Ansible](https://app.daily.dev/tags/ansible?ref=roadmapsh)
+- [@official@Site Oficial do Ansible](https://www.ansible.com/)
+- [@article@Primeiros Passos com Ansible no Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-ansible-on-ubuntu-20-04)
+- [@video@Curso Completo de Ansible para Iniciantes](https://www.youtube.com/watch?v=9Ua2b06oAr4)
+- [@video@Ansible Explicado em 100 Segundos](https://www.youtube.com/watch?v=xRMPKQweySE)
+- [@video@Curso de Ansible do Zero ao Avançado](https://www.youtube.com/watch?v=GROqwFFLl3s)
+- [@feed@Explore os melhores artigos sobre Ansible](https://app.daily.dev/tags/ansible?ref=roadmapsh)

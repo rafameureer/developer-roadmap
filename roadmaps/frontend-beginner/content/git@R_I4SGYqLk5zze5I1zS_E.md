@@ -1,10 +1,10 @@
 # Git
 
-Git is like a save button for your code, but way more powerful. It's a system that tracks changes you make to your files, so you can easily go back to earlier versions, compare different versions, and collaborate with others on the same project without messing up each other's work. Think of it as a detailed history book for your code, allowing you to experiment and fix mistakes without fear of losing progress.
+O Git é como um botão de salvar para o seu código, mas com superpoderes. Trata-se de um sistema de controle de versão distribuído que rastreia todo o histórico de alterações feitas nos seus arquivos. Com ele, você pode facilmente voltar a versões anteriores, comparar mudanças e colaborar com outros desenvolvedores no mesmo projeto sem sobrescrever o trabalho de ninguém. Pense no Git como a linha do tempo do seu projeto, permitindo experimentar novas ideias e corrigir erros com total segurança.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@roadmap@Visit Dedicated Git & GitHub Roadmap](https://roadmap.sh/git-github)
-- [@article@Tutorial: Git for Absolutely Everyone](https://thenewstack.io/tutorial-git-for-absolutely-everyone/)
-- [@video@Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
-- [@course@Why use Git? (Interactive Lesson)](https://inter-git.com/lessons/introduction)
+- [@roadmap@Acesse o Roadmap Dedicado de Git & GitHub](https://roadmap.sh/git-github)
+- [@article@Tutorial: Git para Iniciantes](https://thenewstack.io/tutorial-git-for-absolutely-everyone/)
+- [@video@Curso Prático de Git & GitHub para Iniciantes](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+- [@course@Por que usar Git? (Lição Interativa)](https://inter-git.com/lessons/introduction)

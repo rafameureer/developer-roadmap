@@ -1,10 +1,10 @@
-# N plus one problem
+# O Problema do N+1 (N+1 Query Problem)
 
-The N+1 problem occurs when an application retrieves a list then performs additional queries for each item's related data. Results in inefficient query multiplication (1 + N queries instead of optimized joins). Severely impacts performance with larger datasets. Solved through query optimization, joins, or batching techniques.
+O problema do N+1 ocorre quando uma aplicação faz uma consulta inicial para buscar uma lista de registros (1 query) e, em seguida, executa uma consulta adicional separada no banco de dados para cada um dos registros retornados (N queries) para obter dados relacionados. Isso resulta em dezenas ou centenas de requisições desnecessárias ao banco, degradando severamente a performance. Esse problema é corrigido com técnicas de *Eager Loading*, junções otimizadas (*JOINs*) ou consultas em lote (*batching*).
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@article@In Detail Explanation of N+1 Problem](https://medium.com/doctolib/understanding-and-fixing-n-1-query-30623109fe89)
-- [@article@What is the N+1 Problem](https://planetscale.com/blog/what-is-n-1-query-problem-and-how-to-solve-it)
-- [@article@Solving N+1 Problem: For Java Backend Developers](https://dev.to/jackynote/solving-the-notorious-n1-problem-optimizing-database-queries-for-java-backend-developers-2o0p)
-- [@video@SQLite and the N+1 (no) problem](https://www.youtube.com/watch?v=qPfAQY_RahA)
+- [@article@Explicação Detalhada do Problema de Consulta N+1](https://medium.com/doctolib/understanding-and-fixing-n-1-query-30623109fe89)
+- [@article@O que é o Problema do N+1 e Como Resolvê-lo](https://planetscale.com/blog/what-is-n-1-query-problem-and-how-to-solve-it)
+- [@article@Resolvendo o Problema do N+1 em Aplicações Backend Java](https://dev.to/jackynote/solving-the-notorious-n1-problem-optimizing-database-queries-for-java-backend-developers-2o0p)
+- [@video@SQLite e o Problema do N+1](https://www.youtube.com/watch?v=qPfAQY_RahA)

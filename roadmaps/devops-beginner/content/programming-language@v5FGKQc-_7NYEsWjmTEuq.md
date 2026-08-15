@@ -1,3 +1,3 @@
-# Programming Languages
+# Linguagens de Programação
 
-Programming languages are sets of instructions that tell a computer what to do. They're used to create software, applications, and automate tasks. Different languages are suited for different purposes, like web development, data analysis, or system administration. You write code in these languages, and the computer translates it to perform specific actions.
+Linguagens de programação são conjuntos formais de regras léxicas, sintáticas e semânticas que permitem ao desenvolvedor instruir um computador sobre como processar dados e executar tarefas lógicas. Em DevOps e Engenharia de Software, linguagens como Python, Go, Bash e JavaScript/TypeScript são amplamente adotadas para automatizar tarefas repetitivas, desenvolver ferramentas de CLI, criar APIs, manipular arquivos de configuração e orquestrar infraestruturas em nuvem.

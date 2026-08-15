@@ -1,10 +1,10 @@
-# Operating system
+# Sistemas Operacionais
 
-Operating systems (OS) are fundamental software that manage computer hardware and software resources, providing common services for computer programs. They act as an intermediary between applications and hardware, handling tasks like memory management, process scheduling, file system management, and device control. Common desktop operating systems include Microsoft Windows, macOS, and various Linux distributions. Mobile devices typically run iOS or Android. Server environments often use Linux distributions like Ubuntu Server, Red Hat Enterprise Linux, or Windows Server. Each OS type offers distinct features, user interfaces, and compatibility with different software and hardware. Operating systems play a crucial role in system security, performance optimization, and providing a consistent user experience across diverse computing devices and environments.
+Sistemas Operacionais (SO) são o software fundamental que gerencia os recursos de hardware e software do computador, fornecendo serviços essenciais para a execução de programas. Eles atuam como intermediários diretos entre as aplicações e o hardware, gerenciando memória RAM, escalonamento de processos na CPU, sistemas de arquivos, permissões de segurança e controle de dispositivos de E/S (*I/O*). Em ambientes de servidores e DevOps, distribuições Linux como Ubuntu Server, Debian, Red Hat Enterprise Linux (RHEL) e Alpine são predominantes devido à sua robustez, segurança e estabilidade.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@article@Operating Systems - Wiki](https://en.wikipedia.org/wiki/Operating_system)
-- [@article@Learn Operating Systems](https://www.tutorialspoint.com/operating_system/os_overview.htm)
-- [@video@What are Operating Systems?](https://www.youtube.com/watch?v=pVzRTmdd9j0)
-- [@video@Operating Systems](https://www.youtube.com/watch?v=vBURTt97EkA&list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)
+- [@article@Sistemas Operacionais - Wikipédia](https://pt.wikipedia.org/wiki/Sistema_operativo)
+- [@article@Conceitos Fundamentais de Sistemas Operacionais](https://www.tutorialspoint.com/operating_system/os_overview.htm)
+- [@video@O que são Sistemas Operacionais?](https://www.youtube.com/watch?v=pVzRTmdd9j0)
+- [@video@Curso de Fundamentos de Sistemas Operacionais](https://www.youtube.com/watch?v=vBURTt97EkA&list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)

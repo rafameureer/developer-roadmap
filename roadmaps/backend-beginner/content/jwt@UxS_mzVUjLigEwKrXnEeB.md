@@ -1,11 +1,11 @@
-# JWT
+# JWT (JSON Web Token)
 
-JWT (JSON Web Token) securely transmits information as JSON objects with three parts: header (token type/algorithm), payload (claims/data), and signature (integrity verification). Used for authentication and authorization in web/mobile apps. Compact, self-contained, and HTTP header-friendly.
+O JWT (*JSON Web Token*) é um padrão aberto (RFC 7519) para transmissão segura e compacta de informações entre partes na forma de um objeto JSON. Um JWT é composto por três partes separadas por pontos: Cabeçalho (*Header* - tipo e algoritmo de criptografia), Carga Útil (*Payload* - dados e declarações/claims) e Assinatura (*Signature* - verificação criptográfica de integridade). É amplamente utilizado para autenticação sem estado (*stateless*) e autorização em APIs REST.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@official@jwt.io Website](https://jwt.io/)
-- [@article@What is JWT?](https://www.akana.com/blog/what-is-jwt)
-- [@article@JWT Security Best Practices](https://curity.io/resources/learn/jwt-best-practices/)
-- [@video@What Is JWT and Why Should You Use JWT](https://www.youtube.com/watch?v=7Q17ubqLfaM)
-- [@feed@Explore top posts about JWT](https://app.daily.dev/tags/jwt?ref=roadmapsh)
+- [@official@Site e Depurador Oficial jwt.io](https://jwt.io/)
+- [@article@O que é JWT e Como Funciona?](https://www.akana.com/blog/what-is-jwt)
+- [@article@Boas Práticas de Segurança com JWT](https://curity.io/resources/learn/jwt-best-practices/)
+- [@video@O que é JWT e Por que Usá-lo?](https://www.youtube.com/watch?v=7Q17ubqLfaM)
+- [@feed@Explore os melhores artigos sobre JWT](https://app.daily.dev/tags/jwt?ref=roadmapsh)

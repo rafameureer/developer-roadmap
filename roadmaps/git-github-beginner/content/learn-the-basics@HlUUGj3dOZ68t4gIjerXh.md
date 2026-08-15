@@ -1,11 +1,11 @@
-# Learn the Basics
+# Aprenda os Conceitos Básicos
 
-Git is like a save button for your code, allowing you to track changes, revert to previous versions, and collaborate with others without overwriting each other's work. GitHub, on the other hand, is a website and platform that provides hosting for your Git repositories (projects), making it easy to share, manage, and collaborate on code with others remotely.
+O Git é como um botão de salvar com histórico detalhado para o seu código, permitindo rastrear modificações, reverter para versões anteriores e colaborar com outras pessoas sem sobrescrever o trabalho de ninguém. O GitHub, por sua vez, é uma plataforma web que hospeda seus repositórios Git na nuvem, facilitando o compartilhamento, a gestão de tarefas e a colaboração remota em equipe.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@roadmap@Visit the Dedicated Git & GitHub Roadmap](https://roadmap.sh/git-github)
-- [@official@Git](https://git-scm.com/)
-- [@official@GitHub](https://github.com)
-- [@video@Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=vA5TTz6BXhY)
-- [@course@What is Version Control? (Interactive Lesson)](https://inter-git.com/lessons/introduction)
+- [@roadmap@Acesse o Roadmap Dedicado de Git & GitHub](https://roadmap.sh/git-github)
+- [@official@Site Oficial do Git](https://git-scm.com/)
+- [@official@Site Oficial do GitHub](https://github.com)
+- [@video@Curso Rápido de Git & GitHub para Iniciantes](https://www.youtube.com/watch?v=vA5TTz6BXhY)
+- [@course@O que é Controle de Versão? (Lição Interativa)](https://inter-git.com/lessons/introduction)

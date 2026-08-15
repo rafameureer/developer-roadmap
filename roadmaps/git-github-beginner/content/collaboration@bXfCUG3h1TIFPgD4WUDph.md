@@ -1,9 +1,9 @@
-# Collaboration
+# Colaboração
 
-Collaboration in Git and GitHub refers to the process of multiple people working together on the same project, managing changes, and integrating their contributions seamlessly.  It involves using Git's branching and merging capabilities, along with GitHub's pull request workflow, to coordinate efforts, review code, and ultimately build a cohesive and functional project.
+A colaboração no Git e GitHub refere-se ao processo em que múltiplos desenvolvedores trabalham simultaneamente no mesmo projeto, gerenciando alterações e integrando suas contribuições de maneira contínua e organizada. Esse fluxo utiliza o poder das ramificações (*branches*) e mesclagens (*merges*) do Git, combinado com o fluxo de *Pull Requests* do GitHub para coordenar esforços, realizar revisões de código (*code review*) e construir uma base de código sólida.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@video@Git & GitHub Tutorial for Beginners](https://youtu.be/MnUd31TvBoU?si=noaQP5yMtmlHlHR0)
-- [@video@How To Use Git to Collaborate with Others](https://youtu.be/ygqx50-JHEE?si=CTzH6bpHemYLD9jB)
-- [@article@The Ultimate Github Collaboration Guide](https://medium.com/@jonathanmines/the-ultimate-github-collaboration-guide-df816e98fb67)
+- [@video@Tutorial de Git & GitHub para Iniciantes](https://youtu.be/MnUd31TvBoU?si=noaQP5yMtmlHlHR0)
+- [@video@Como Usar o Git para Colaborar com Outras Pessoas](https://youtu.be/ygqx50-JHEE?si=CTzH6bpHemYLD9jB)
+- [@article@Guia Definitivo de Colaboração no GitHub](https://medium.com/@jonathanmines/the-ultimate-github-collaboration-guide-df816e98fb67)

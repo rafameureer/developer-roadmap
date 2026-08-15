@@ -1,11 +1,11 @@
 # npm
 
-npm is like a personal assistant for your coding projects. It's a tool that helps you easily manage and share code packages (like pre-written bits of code that do specific things) in your projects. Think of it as an app store, but for code. You can use it to install, update, and uninstall these packages, making it much easier to use other people's code and share your own.
+O npm (*Node Package Manager*) é o gerenciador de pacotes padrão para o ecossistema JavaScript. Ele permite que você descubra, instale, atualize e gerencie facilmente bibliotecas e ferramentas de código aberto desenvolvidas por outros programadores para utilizar em seus próprios projetos. Pense no npm como uma loja de aplicativos para código: com um único comando, você pode adicionar funcionalidades complexas ao seu projeto ou publicar seus próprios pacotes para a comunidade.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@official@NPM Website](https://www.npmjs.com/)
-- [@official@NPM Documentation](https://docs.npmjs.com/)
-- [@opensource@How to NPM](https://github.com/workshopper/how-to-npm)
-- [@article@Modern JavaScript for Dinosaurs](https://peterxjang.com/blog/modern-javascript-explained-for-dinosaurs.html)
-- [@video@NPM Tutorial for Beginners](https://www.youtube.com/watch?v=2V1UUhBJ62Y)
+- [@official@Site Oficial do npm](https://www.npmjs.com/)
+- [@official@Documentação Oficial do npm](https://docs.npmjs.com/)
+- [@opensource@Workshop Interativo: How to NPM](https://github.com/workshopper/how-to-npm)
+- [@article@JavaScript Moderno Explicado de Forma Simples](https://peterxjang.com/blog/modern-javascript-explained-for-dinosaurs.html)
+- [@video@Tutorial de npm para Iniciantes](https://www.youtube.com/watch?v=2V1UUhBJ62Y)

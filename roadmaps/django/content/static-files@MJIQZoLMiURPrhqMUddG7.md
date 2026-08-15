@@ -1,10 +1,10 @@
-# Static Files
+# Arquivos Estáticos
 
-Static files in web development refer to the unchanging assets that make up the user interface of a website, such as images, CSS stylesheets, JavaScript files, and fonts. These files are served directly to the user's browser without requiring any server-side processing, contributing to the overall look, feel, and functionality of the website.
+Arquivos estáticos em desenvolvimento web se referem aos ativos imutáveis que compõem a interface do usuário de um site, como imagens, folhas de estilo CSS, arquivos JavaScript e fontes. Esses arquivos são servidos diretamente ao navegador do usuário sem a necessidade de qualquer processamento no lado do servidor, contribuindo para o visual geral, aparência e funcionalidade do site.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@How to manage static files (e.g. images, JavaScript, CSS)](https://docs.djangoproject.com/en/6.0/howto/static-files/)
-- [@article@Working with Static and Media Files in Django](https://testdriven.io/blog/django-static-files/)
-- [@article@Django - Add Static File](https://www.w3schools.com/django/django_add_static_files.php)
-- [@video@Django Tutorial #8 - Static Assets](https://www.youtube.com/watch?v=kJJx77PYMFA)
+- [@oficial@Como gerenciar arquivos estáticos (ex. imagens, JavaScript, CSS)](https://docs.djangoproject.com/pt-br/6.0/howto/static-files/)
+- [@artigo@Trabalhando com Arquivos Estáticos e Mídia em Django](https://testdriven.io/blog/django-static-files/)
+- [@artigo@Django - Adicionar Arquivos Estáticos](https://www.w3schools.com/django/django_add_static_files.php)
+- [@vídeo@Tutorial Django #8 - Ativos Estáticos](https://www.youtube.com/watch?v=kJJx77PYMFA)

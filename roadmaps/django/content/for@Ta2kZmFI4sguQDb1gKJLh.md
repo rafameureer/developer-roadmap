@@ -1,8 +1,8 @@
-# For Loop in Django Templates
+# Laço For em Templates Django
 
-The `for` tag in Django Template Language (DTL) provides a way to iterate over items in a list or other iterable object within your templates. It allows you to display data dynamically by looping through each item and rendering it according to the template's structure. You can access loop-specific variables like the current iteration number and whether it's the first or last item.
+A tag `for` no Django Template Language (DTL) fornece uma maneira de iterar sobre itens em uma lista ou outro objeto iterável dentro dos seus templates. Ela permite que você exiba dados dinamicamente ao percorrer cada item e renderizá-lo de acordo com a estrutura do template. Você pode acessar variáveis específicas de loop como o número da iteração atual e se é o primeiro ou último item.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@for](https://docs.djangoproject.com/en/6.0/ref/templates/builtins/#for)
 - [@article@Django for Tag](https://www.w3schools.com/django/django_tags_for.php)

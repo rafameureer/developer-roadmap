@@ -1,11 +1,11 @@
 # CSRF
 
-CSRF (Cross-Site Request Forgery) is a web security vulnerability where a malicious website tricks a user's browser into performing actions on a trusted site without the user's knowledge. In Django forms, CSRF protection works by including a unique, secret token in each form. When the form is submitted, Django verifies that this token matches the one stored in the user's session. If they don't match, the request is rejected, preventing the attacker from forging requests.
+CSRF (Cross-Site Request Forgery) é uma vulnerabilidade de segurança da web onde um site malicioso engana o navegador do usuário para realizar ações em um site confiável sem o conhecimento do usuário. No Django forms, a proteção contra CSRF funciona incluindo um token único e secreto em cada formulário. Quando o formulário é enviado, o Django verifica se esse token corresponde ao armazenado na sessão do usuário. Se eles não correspondem, a solicitação é rejeitada, impedindo que o atacante forgeie solicitações.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Cross Site Request Forgery protection](https://docs.djangoproject.com/en/6.0/ref/csrf/)
-- [@official@How to use Django’s CSRF protection](https://docs.djangoproject.com/en/6.0/howto/csrf/)
-- [@article@Django CSRF Protection Guide: Examples and How to Enable](https://www.stackhawk.com/blog/django-csrf-protection-guide/)
-- [@video@What Is CSRF Token In Django and Why Is It Used?](https://www.youtube.com/watch?v=iJmezMBJqEs)
-- [@video@Django - AJAX Requests, HTMX & CSRF Tokens](https://www.youtube.com/watch?v=lc1sOvRaFpg)
+- [@official@Proteção contra Cross Site Request Forgery](https://docs.djangoproject.com/pt-br/6.0/ref/csrf/)
+- [@official@Como usar a proteção CSRF do Django](https://docs.djangoproject.com/pt-br/6.0/howto/csrf/)
+- [@article@Guia de Proteção CSRF no Django: Exemplos e Como Habilitar](https://www.stackhawk.com/blog/django-csrf-protection-guide/)
+- [@video@O que é Token CSRF no Django e Por Que Ele É Usado?](https://www.youtube.com/watch?v=iJmezMBJqEs)
+- [@video@Django - Solicitações AJAX, HTMX & Tokens CSRF](https://www.youtube.com/watch?v=lc1sOvRaFpg)

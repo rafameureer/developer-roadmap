@@ -1,11 +1,11 @@
 # settings.py
 
-`settings.py` is a crucial Python module in a Django project that contains global configurations and settings for the entire application. It defines things like database connections, installed apps, middleware, template locations, and security settings. This file essentially acts as the central control panel for your Django project, allowing you to customize its behavior and functionality.
+`settings.py` é um módulo Python crucial em um projeto Django que contém configurações globais e definições para toda a aplicação. Ele define coisas como conexões de banco de dados, aplicativos instalados, middleware, locações de templates e configurações de segurança. Este arquivo funciona essencialmente como o painel central de controle para seu projeto Django, permitindo que você personalize seu comportamento e funcionalidade.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Django settings](https://docs.djangoproject.com/en/6.0/topics/settings/)
-- [@official@Settings](https://docs.djangoproject.com/en/6.0/ref/settings/)
-- [@article@Understanding Django's settings.py File: A Comprehensive Guide for Beginners](https://dev.to/rupesh_mishra/understanding-djangos-settingspy-file-a-comprehensive-guide-for-beginners-35e2)
-- [@article@Understanding Django's settings.py: A Deep Dive](https://lavishchhatwani.com/f/understanding-djangos-settingspy-a-deep-dive)
-- [@video@settings.py configuration in django | django settings.py explained | django full tutorial | #04](https://www.youtube.com/watch?v=uGcmzeU1tmQ)
+- [@official@Configurações do Django](https://docs.djangoproject.com/pt-br/6.0/topics/settings/)
+- [@official@Configurações](https://docs.djangoproject.com/pt-br/6.0/ref/settings/)
+- [@article@Entendendo o arquivo settings.py do Django: um guia completo para iniciantes](https://dev.to/rupesh_mishra/entendendo-o-arquivo-settings-py-do-django-um-guia-completo-para-iniciantes-35e2)
+- [@article@Compreendendo o arquivo settings.py do Django: uma exploração profunda](https://lavishchhatwani.com/f/compreendendo-o-arquivo-settings-py-do-django-uma-exploração-profunda)
+- [@video@Configuração de settings.py no Django | Explicação detalhada do arquivo settings.py | Tutorial completo do Django | #04](https://www.youtube.com/watch?v=uGcmzeU1tmQ)

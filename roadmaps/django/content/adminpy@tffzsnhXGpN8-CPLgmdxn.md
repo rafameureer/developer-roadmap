@@ -1,8 +1,8 @@
-# Django's admin.py
+# admin.py do Django
 
-`admin.py` is a Python file within a Django app that's responsible for configuring how your models are displayed and managed in Django's automatically generated admin interface. It allows you to register your models, customize their appearance, add search functionality, and define how they can be edited through the admin site. This file essentially bridges the gap between your data models and the user-friendly admin panel.
+`admin.py` é um arquivo Python dentro de uma aplicação Django responsável por configurar como seus modelos são exibidos e gerenciados na interface de administração automaticamente gerada pelo Django. Ele permite que você registre seus modelos, personalize sua aparência, adicione funcionalidade de busca e defina como eles podem ser editados através do site de admin. Este arquivo basicamente liga a ponte entre seus modelos de dados e o painel administrativo amigável.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@django-admin and manage.py](https://docs.djangoproject.com/en/6.0/ref/django-admin/)
-- [@article@Django Admin](https://www.w3schools.com/django/django_admin.php)
+- [@oficial@django-admin e manage.py](https://docs.djangoproject.com/en/6.0/ref/django-admin/)
+- [@artigo@Admin do Django](https://www.w3schools.com/django/django_admin.php)

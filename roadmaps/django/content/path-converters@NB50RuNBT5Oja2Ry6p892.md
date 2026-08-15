@@ -1,10 +1,10 @@
-# Path Converters
+# Convertidores de Caminho
 
-Path converters in Django are special strings within URL patterns that capture specific parts of the URL and pass them as arguments to your view functions. They define the type of data expected in that part of the URL (like an integer, string, or slug) and ensure that the data is correctly formatted before being passed to the view. This allows you to create dynamic URLs that can handle different types of input and simplifies the process of extracting data from the URL for use in your application logic.
+Os convertidores de caminho no Django são strings especiais em padrões de URL que capturam partes específicas da URL e as passam como argumentos para suas funções de exibição. Eles definem o tipo de dados esperado nessa parte da URL (como um inteiro, uma string ou um slug) e garantem que os dados estejam corretamente formatados antes de serem passados para a exibição. Isso permite criar URLs dinâmicas que podem lidar com diferentes tipos de entrada e simplifica o processo de extração de dados da URL para uso na lógica do aplicativo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Path converters](https://docs.djangoproject.com/en/6.0/topics/http/urls/#path-converters)
-- [@article@Django: write a custom URL path converter to match given strings](https://adamj.eu/tech/2025/08/01/django-custom-url-converter-string/)
-- [@article@Path Converters in Django: Customizing Your URL Patterns](https://python.plainenglish.io/path-converters-in-django-customizing-your-url-patterns-19791b6401f4)
-- [@video@Django Path Converters - Built-in Converters and Writing Custom Converters!](https://www.youtube.com/watch?v=hrfqwj7JCAc)
+- [@oficial@Convertidores de Caminho](https://docs.djangoproject.com/pt-br/3.2/topics/http/urls/#path-converters)
+- [@artigo@Escreva um convertidor de caminho URL personalizado no Django para corresponder a strings específicas](https://adamj.eu/tech/2025/08/01/django-custom-url-converter-string/)
+- [@artigo@Convertidores de Caminho no Django: Personalizando seus padrões de URL](https://python.plainenglish.io/path-converters-in-django-customizing-your-url-patterns-19791b6401f4)
+- [@vídeo@Convertidores de Caminho do Django - Convertidores Internos e Escrevendo Convertidores Personalizados!](https://www.youtube.com/watch?v=hrfqwj7JCAc)

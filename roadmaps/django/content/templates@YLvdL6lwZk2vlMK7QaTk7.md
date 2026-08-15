@@ -1,8 +1,8 @@
 # Templates
 
-The `templates` folder in a Django project is where you store your HTML files. These HTML files define the structure and content of your web pages. Django uses a template engine to dynamically insert data from your Python code into these HTML files before sending them to the user's browser. This allows you to create dynamic and personalized web pages.
+A pasta `templates` em um projeto Django é onde você armazena seus arquivos HTML. Esses arquivos HTML definem a estrutura e o conteúdo das suas páginas web. O Django usa um motor de template para inserir dinamicamente dados do seu código Python nesses arquivos HTML antes de enviá-los ao navegador do usuário. Isso permite que você crie páginas web dinâmicas e personalizadas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Templates](https://docs.djangoproject.com/en/6.0/topics/templates/)
-- [@article@The Ultimate Guide to Django Templates](https://blog.jetbrains.com/pycharm/2025/02/the-ultimate-guide-to-django-templates/)
+- [@oficial@Templates](https://docs.djangoproject.com/pt-br/3.2/topics/templates/)
+- [@artigo@Guia Completo sobre Templates do Django](https://blog.jetbrains.com/pycharm/2025/02/the-ultimate-guide-to-django-templates/)

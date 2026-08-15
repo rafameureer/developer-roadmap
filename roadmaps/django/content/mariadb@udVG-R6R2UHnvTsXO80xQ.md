@@ -1,9 +1,9 @@
-# MariaDB in Django
+# MariaDB no Django
 
-MariaDB is an open-source relational database management system that is often used as a drop-in replacement for MySQL. It's known for its performance, stability, and rich feature set. Django can be configured to use MariaDB as its database backend, allowing you to store and manage your application's data using this database system.
+MariaDB é um sistema de gerenciamento de banco de dados relacional de código aberto que é frequentemente usado como substituto drop-in para o MySQL. Ele é conhecido por seu desempenho, estabilidade e conjunto de recursos rica. O Django pode ser configurado para usar MariaDB como seu backend do banco de dados, permitindo que você armazene e gerencie os dados da sua aplicação usando esse sistema de banco de dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@MariaDB Notes](https://docs.djangoproject.com/en/6.0/ref/databases/#mariadb-notes)
+- [@official@Notas sobre MariaDB](https://docs.djangoproject.com/en/6.0/ref/databases/#mariadb-notes)
 - [@article@Django + MariaDB](https://medium.com/code-zen/django-mariadb-85cc9daeeef8)
-- [@video@Django installation with DB (MariaDB/MYSQL) connection & virtualenv](https://www.youtube.com/watch?v=uKSzH4-cG_w)
+- [@video@Instalação do Django com conexão ao banco de dados (MariaDB/MYSQL) e virtualenv](https://www.youtube.com/watch?v=uKSzH4-cG_w)

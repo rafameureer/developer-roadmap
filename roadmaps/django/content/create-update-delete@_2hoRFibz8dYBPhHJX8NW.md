@@ -1,11 +1,11 @@
-# Create, Update, Delete Operations in Django ORM
+# Operações de Criação, Atualização e Exclusão no ORM do Django
 
-The Django ORM (Object-Relational Mapper) provides a high-level interface for interacting with databases. It allows you to perform CRUD (Create, Read, Update, Delete) operations on your database tables using Python code instead of writing raw SQL queries. This simplifies database interactions and makes your code more maintainable.
+O ORM do Django (Object-Relational Mapper) oferece uma interface de alto nível para interagir com bancos de dados. Ele permite que você execute operações CRUD (Criação, Leitura, Atualização, Exclusão) em suas tabelas de banco de dados usando código Python em vez de escrever consultas SQL brutas. Isso simplifica as interações com o banco de dados e torna seu código mais mantémvel.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Making Queries](https://docs.djangoproject.com/en/6.0/topics/db/queries/#retrieving-objects)
-- [@article@Django update_or_create() | With Project](https://medium.com/@KaziMushfiq1234/django-update-or-create-with-project-fdb8feb8450d)
-- [@article@Django Insert Data](https://www.w3schools.com/django/django_insert_data.php)
-- [@article@Django Update Data](https://www.w3schools.com/django/django_update_data.php)
-- [@article@Django Delete Data](https://www.w3schools.com/django/django_delete_data.php)
+- [@oficial@Fazendo Consultas](https://docs.djangoproject.com/pt-br/4.2/topics/db/queries/#retrieving-objects)
+- [@artigo@Django update_or_create() | Com Projeto](https://medium.com/@KaziMushfiq1234/django-update-or-create-with-project-fdb8feb8450d)
+- [@artigo@Inserir Dados no Django](https://www.w3schools.com/django/django_insert_data.php)
+- [@artigo@Atualizar Dados no Django](https://www.w3schools.com/django/django_update_data.php)
+- [@artigo@Excluir Dados no Django](https://www.w3schools.com/django/django_delete_data.php)

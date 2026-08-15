@@ -1,11 +1,11 @@
-# Custom Fields
+# Campos Personalizados
 
-Custom fields in Django allow you to define your own field types beyond the standard ones provided by Django, such as CharField, IntegerField, and DateTimeField. This is useful when you need to store data in a specific format or require specialized validation logic that isn't covered by the built-in field types. By creating custom fields, you can seamlessly integrate your unique data requirements into your Django models.
+Campos personalizados no Django permitem que você defina seus próprios tipos de campo além dos padrões fornecidos pelo Django, como CharField, IntegerField e DateTimeField. Isso é útil quando você precisa armazenar dados em um formato específico ou requer lógica de validação especializada que não é coberta pelos tipos de campo embutidos. Criando campos personalizados, você pode integrar suas exigências de dados únicas de forma suave em seus modelos Django.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@How to create custom model fields](https://docs.djangoproject.com/en/6.0/howto/custom-model-fields/)
-- [@article@Django: using custom classes for model fields](https://medium.com/@luccascorrea/django-using-custom-classes-for-model-fields-38e58914ba5c)
-- [@article@How to Create Custom Model Fields in Django [2024]](https://www.horilla.com/blogs/how-to-create-custom-model-fields-in-django/)
-- [@video@Django ORM - Creating a Custom field Subclass](https://www.youtube.com/watch?v=b10NxZ7JEjE)
-- [@video@Django ORM - Introducing Custom Model Fields](https://www.youtube.com/watch?v=pJXKTcYo3ls)
+- [@official@Como criar campos personalizados do modelo](https://docs.djangoproject.com/pt-br/6.0/howto/custom-model-fields/)
+- [@article@Django: usando classes personalizadas para campos de modelo](https://medium.com/@luccascorrea/django-using-custom-classes-for-model-fields-38e58914ba5c)
+- [@article@Como Criar Campos Personalizados no Django [2024]](https://www.horilla.com/blogs/how-to-create-custom-model-fields-in-django/)
+- [@video@Django ORM - Criando uma Subclasse de Campo Personalizado](https://www.youtube.com/watch?v=b10NxZ7JEjE)
+- [@video@Django ORM - Introdução a Campos Personalizados do Modelo](https://www.youtube.com/watch?v=pJXKTcYo3ls)

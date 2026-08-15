@@ -1,8 +1,8 @@
-# Comments in Django Templates
+# Comentários em Templates do Django
 
-Comments in Django Template Language (DTL) allow developers to embed explanatory notes or temporarily disable sections of template code without affecting the rendered output. These comments are not visible to the end-user in the final HTML. They are useful for documenting the purpose of specific template logic, debugging, or experimenting with different template structures.
+Os comentários no Django Template Language (DTL) permitem aos desenvolvedores incorporar notas explicativas ou temporariamente desabilitar seções de código de template sem afetar a saída renderizada. Esses comentários não são visíveis ao usuário final no HTML final. Eles são úteis para documentar o propósito da lógica específica do template, depurar ou experimentar diferentes estruturas de templates.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@comments](https://docs.djangoproject.com/en/6.0/ref/templates/builtins/#comment)
-- [@article@Django comment Tag](https://www.w3schools.com/django/django_tags_comment.php)
+- [@oficial@Comentários](https://docs.djangoproject.com/pt-br/4.2/ref/templates/builtins/#comment)
+- [@artigo@Etiqueta de Comentário do Django](https://www.w3schools.com/django/django_tags_comment.php)

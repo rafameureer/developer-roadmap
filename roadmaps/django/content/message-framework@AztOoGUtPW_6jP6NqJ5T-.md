@@ -1,12 +1,12 @@
-# Message Framework
+# Framework de Mensagens
 
-The message framework in Django provides a way to deliver one-time notification messages, also known as "flash messages," to users. These messages are typically used to provide feedback about the outcome of an action, such as a successful form submission or an error that occurred. They are stored temporarily and displayed to the user on their next page view, then automatically removed.
+O framework de mensagens no Django oferece uma maneira de entregar notificações de mensagem única, também conhecidas como "mensagens flash", aos usuários. Essas mensagens são tipicamente usadas para fornecer feedback sobre o resultado de uma ação, como um envio de formulário bem-sucedido ou um erro que ocorreu. Elas são armazenadas temporariamente e exibidas ao usuário em sua próxima visualização da página, depois sendo removidas automaticamente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@The messages framework](https://docs.djangoproject.com/en/6.0/ref/contrib/messages/)
-- [@article@Messages Framework](https://django-advanced-training.readthedocs.io/en/latest/features/contrib.messages/)
-- [@article@Implementing Messaging Functionality with the Messages Framework in Django](https://medium.com/@iamalisaleh/implementing-messaging-functionality-with-the-messages-framework-in-django-23d7afc8f1d2)
-- [@article@Basics of Django Messages Framework](https://micropyramid.com/blog/basics-of-django-message-framework/)
-- [@video@#23 Django tutorials | Passing Messages](https://www.youtube.com/watch?v=Mf_97YaUKag)
-- [@video@Exploring Django | The Messages Framework](https://www.youtube.com/watch?v=MhUfgeWFgos)
+- [@oficial@O framework de mensagens](https://docs.djangoproject.com/pt-br/4.1/ref/contrib/messages/)
+- [@artigo@Framework de Mensagens](https://django-advanced-training.readthedocs.io/pt-br/latest/features/contrib.messages/)
+- [@artigo@Implementando Funcionalidade de Mensagem com o Framework de Mensagens no Django](https://medium.com/@iamalisaleh/implementing-messaging-functionality-with-the-messages-framework-in-django-23d7afc8f1d2)
+- [@artigo@Básico do Framework de Mensagens do Django](https://micropyramid.com/blog/basics-of-django-message-framework/)
+- [@vídeo@#23 Tutoriais do Django | Passando Mensagens](https://www.youtube.com/watch?v=Mf_97YaUKag)
+- [@vídeo@Explorando o Django | O Framework de Mensagens](https://www.youtube.com/watch?v=MhUfgeWFgos)

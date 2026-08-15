@@ -1,8 +1,8 @@
-# URL Configuration in Django
+# Configuração de URLs no Django
 
-In a Django project, `urls.py` files are responsible for mapping URL patterns to specific views. They act as a table of contents for your website, telling Django which view function to execute when a user visits a particular URL. Essentially, they define the structure of your website's addressable locations and how Django handles requests to those locations.
+Em um projeto Django, os arquivos `urls.py` são responsáveis por mapear padrões de URL para visualizações específicas. Eles atuam como um índice para seu site, dizendo ao Django qual função de visualização executar quando um usuário visita uma URL específica. Basicamente, eles definem a estrutura das localizações acessíveis do seu site e como o Django lida com solicitações para essas localizações.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Django URLs](https://www.w3schools.com/django/django_urls.php)
-- [@article@Django URLs](https://tutorial.djangogirls.org/en/django_urls/)
+- [@artigo@URLs no Django](https://www.w3schools.com/django/django_urls.php)
+- [@artigo@URLs no Django](https://tutorial.djangogirls.org/en/django_urls/)

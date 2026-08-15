@@ -1,9 +1,9 @@
-# Routing Middleware
+# Middleware de Roteamento
 
-Middleware in Django is a framework of hooks into Django's request/response processing. It's a layer of code that sits between the web server and your Django views, processing every request and response in your application. This allows you to modify the request before it reaches your view, or modify the response before it's sent to the user, enabling functionalities like authentication, session management, and request logging.
+Middleware no Django é um framework de hooks na processamento de solicitações/respostas do Django. É uma camada de código que fica entre o servidor web e suas views do Django, processando toda solicitação e resposta em sua aplicação. Isso permite que você modifique a solicitação antes de chegar à view ou modifique a resposta antes de ser enviada ao usuário, habilitando funcionalidades como autenticação, gerenciamento de sessão e registro de solicitações.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Middleware](https://docs.djangoproject.com/en/6.0/topics/http/middleware/)
-- [@article@Understanding Django Middleware: How to Create Custom Middleware](https://medium.com/@farad.dev/understanding-django-middleware-how-to-create-custom-middleware-789744722df3)
-- [@video@Writing Django Middleware (with tests!) | HTMX middleware | IP Blacklist middleware](https://www.youtube.com/watch?v=--ddZc39wVQ)
+- [@oficial@Middleware](https://docs.djangoproject.com/pt-br/6.0/topics/http/middleware/)
+- [@artigo@Entendendo Middleware do Django: Como Criar Middleware Personalizado](https://medium.com/@farad.dev/understanding-django-middleware-how-to-create-custom-middleware-789744722df3)
+- [@vídeo@Escrevendo Middleware do Django (com testes!) | Middleware HTMX | Middleware de Blacklist IP](https://www.youtube.com/watch?v=--ddZc39wVQ)

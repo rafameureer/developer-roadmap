@@ -1,10 +1,10 @@
 # Django Test Framework
 
-The Django test framework provides a structured environment for writing and running tests for Django applications. It includes tools for creating test cases, running tests, and asserting expected outcomes, ensuring that your code functions as intended and remains reliable as your project evolves. It allows developers to write unit tests, integration tests, and other types of tests to verify the correctness of their Django projects.
+O framework de testes do Django fornece um ambiente estruturado para escrever e executar testes para aplicativos Django. Ele inclui ferramentas para criar casos de teste, executar testes e afirmar resultados esperados, garantindo que o código funcione conforme planejado e permaneça confiável à medida que o projeto evolui. Permite aos desenvolvedores escrever testes unitários, testes de integração e outros tipos de testes para verificar a correção dos seus projetos Django.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Testing in Django](https://docs.djangoproject.com/en/6.0/topics/testing/)
-- [@official@Writing and running tests](https://docs.djangoproject.com/en/6.0/topics/testing/overview/)
-- [@article@Django Tutorial Part 10: Testing a Django web application](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Server-side/Django/Testing)
-- [@video@Django Testing Tutorial - How To Test Your Django Applications](https://www.youtube.com/watch?v=qwypH3YvMKc&list=PLbpAWbHbi5rMF2j5n6imm0enrSD9eQUaM)
+- [@official@Testando no Django](https://docs.djangoproject.com/pt-br/6.0/topics/testing/)
+- [@official@Escrevendo e executando testes](https://docs.djangoproject.com/pt-br/6.0/topics/testing/overview/)
+- [@article@Tutorial do Django Parte 10: Testando uma aplicação web do Django](https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Extensions/Server-side/Django/Testing)
+- [@video@Tutorial de Testes do Django - Como Testar Sua Aplicação Django](https://www.youtube.com/watch?v=qwypH3YvMKc&list=PLbpAWbHbi5rMF2j5n6imm0enrSD9eQUaM)

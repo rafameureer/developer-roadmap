@@ -1,9 +1,9 @@
-# Raw SQL Queries
+# Consultas SQL Brutas
 
-Raw SQL queries in Django allow you to bypass the Django ORM and write SQL statements directly. This is useful when you need to optimize performance, access database-specific features not supported by the ORM, or execute complex queries that are difficult to express using the ORM's query API. It provides a way to interact with the database at a lower level, giving you more control over the generated SQL.
+As consultas SQL brutas no Django permitem que você ignore o ORM do Django e escreva instruções SQL diretamente. Isso é útil quando você precisa otimizar o desempenho, acessar recursos específicos do banco de dados não suportados pelo ORM ou executar consultas complexas difíceis de expressar usando a API de consulta do ORM. Ele fornece uma maneira de interagir com o banco de dados em um nível mais baixo, dando-lhe mais controle sobre a SQL gerada.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Performing raw SQL queries](https://docs.djangoproject.com/en/6.0/topics/db/sql/)
-- [@article@Django Running Raw Queries](https://www.scaler.com/topics/django/django-running-raw-queries/)
-- [@video@Django ORM - Performing raw SQL queries](https://www.youtube.com/watch?v=iWDvsMOngxk)
+- [@oficial@Executando consultas SQL brutas](https://docs.djangoproject.com/pt-br/6.0/topics/db/sql/)
+- [@artigo@Django Executando Consultas SQL Brutas](https://www.scaler.com/topics/django/django-running-raw-queries/)
+- [@vídeo@Django ORM - Executando consultas SQL brutas](https://www.youtube.com/watch?v=iWDvsMOngxk)

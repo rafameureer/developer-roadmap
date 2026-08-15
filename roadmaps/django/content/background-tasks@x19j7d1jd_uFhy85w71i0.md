@@ -1,9 +1,9 @@
-# Background Tasks
+# Tarefas em Segundo Plano
 
-Background tasks in Django are processes that run independently of the main web application, without blocking user requests. They are useful for handling time-consuming or resource-intensive operations like sending emails, processing large datasets, or generating reports. By offloading these tasks to the background, the web application remains responsive and provides a better user experience.
+As tarefas em segundo plano no Django são processos que executam independentemente da aplicação web principal, sem bloquear solicitações de usuário. São úteis para lidar com operações demoradas ou intensivas em recursos como envio de e-mails, processamento de grandes conjuntos de dados ou geração de relatórios. Ao offload dessas tarefas para o segundo plano, a aplicação web permanece respondente e oferece uma melhor experiência do usuário.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Django’s Tasks framework](https://docs.djangoproject.com/en/6.0/topics/tasks/)
-- [@video@Background tasks in Django | How to create tasks in the background in Django - Quick & easy](https://www.youtube.com/watch?v=PUT29lvDFco)
-- [@video@Intro to Background Tasks in Django With Celery](https://www.youtube.com/watch?v=y6FG-kKhGwA)
+- [@official@Quadro de Tarefas do Django](https://docs.djangoproject.com/pt-br/3.2/topics/tasks/)
+- [@video@Tarefas em Segundo Plano no Django | Como criar tarefas em segundo plano no Django - Rápido e fácil](https://www.youtube.com/watch?v=PUT29lvDFco)
+- [@video@Introdução a Tarefas em Segundo Plano no Django com Celery](https://www.youtube.com/watch?v=y6FG-kKhGwA)

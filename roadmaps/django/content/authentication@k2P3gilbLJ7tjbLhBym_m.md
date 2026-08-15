@@ -1,12 +1,12 @@
-# Authentication
+# Autenticação
 
-Authentication is the process of verifying the identity of a user, device, or other entity attempting to access a system or resource. It confirms that someone or something is who or what they claim to be, typically by checking credentials like usernames and passwords against a stored database. Successful authentication grants access, while failure denies it.
+A autenticação é o processo de verificar a identidade de um usuário, dispositivo ou outra entidade tentando acessar um sistema ou recurso. Confirma que alguém ou algo é quem ou o que diz ser, geralmente verificando credenciais como nomes de usuário e senhas contra um banco de dados armazenado. Uma autenticação bem-sucedida concede acesso, enquanto uma falha o nega.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@User authentication in Django](https://docs.djangoproject.com/en/6.0/topics/auth/)
-- [@article@Django Tutorial Part 8: User authentication and permissions](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Server-side/Django/Authentication)
-- [@article@Getting Started with Django 2024:Authentication and Authorization [Part 8/16]](https://medium.com/@mathur.danduprolu/django-getting-started-with-django-2024-authentication-and-authorization-part-8-16-7bf55d1f7570)
-- [@article@Django Authentication Made Easy: A Complete Guide to Registration, Login, and User Management](https://dev.to/ebereplenty/django-authentication-made-easy-a-complete-guide-to-registration-login-and-user-management-2jih)
-- [@video@Login With User Authentication - Django Wednesdays #21](https://www.youtube.com/watch?v=CTrVDi3tt8o)
-- [@video@Django Authentication & User Management - Full Tutorial](https://www.youtube.com/watch?v=WuyKxdLcw3w)
+- [@oficial@Autenticação do usuário no Django](https://docs.djangoproject.com/en/6.0/topics/auth/)
+- [@artigo@Tutorial do Django Parte 8: Autenticação e permissões do usuário](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Server-side/Django/Authentication)
+- [@artigo@Começando com o Django 2024: Autenticação e Autorização [Parte 8/16]](https://medium.com/@mathur.danduprolu/django-getting-started-with-django-2024-authentication-and-authorization-part-8-16-7bf55d1f7570)
+- [@artigo@Autenticação do Django Simplificada: um guia completo para registro, login e gerenciamento de usuários](https://dev.to/ebereplenty/django-authentication-made-easy-a-complete-guide-to-registration-login-and-user-management-2jih)
+- [@vídeo@Login com autenticação do usuário - Django Wednesdays #21](https://www.youtube.com/watch?v=CTrVDi3tt8o)
+- [@vídeo@Autenticação e gerenciamento de usuários do Django - Tutorial completo](https://www.youtube.com/watch?v=WuyKxdLcw3w)

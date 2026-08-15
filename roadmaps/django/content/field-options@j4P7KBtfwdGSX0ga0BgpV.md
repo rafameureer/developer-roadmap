@@ -1,10 +1,10 @@
-# Field Options in Django Models
+# Opções de Campo em Modelos do Django
 
-Field options are attributes you can define within a Django model's field to control its behavior and characteristics. These options allow you to specify constraints, default values, validation rules, and other metadata for each field, influencing how data is stored, displayed, and handled within your application. They provide a way to customize the fields to meet the specific requirements of your data and application logic.
+As opções de campo são atributos que você pode definir dentro de um campo do modelo do Django para controlar seu comportamento e características. Essas opções permitem especificar restrições, valores padrão, regras de validação e outras metadados para cada campo, influenciando como os dados são armazenados, exibidos e manipulados em sua aplicação. Elas fornecem uma maneira de personalizar os campos para atender às exigências específicas dos seus dados e lógica da aplicação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Field options](https://docs.djangoproject.com/en/6.0/topics/db/models/#field-options)
-- [@official@Field options](https://docs.djangoproject.com/en/6.0/ref/models/fields/#field-options)
-- [@article@Django model fields options](https://swesadiqul.medium.com/django-model-fields-options-8f3651dade6a)
-- [@video@Field types and options in Django models](https://www.youtube.com/watch?v=u7MJxv_P2Pk)
+- [@official@Opções de Campo](https://docs.djangoproject.com/pt-br/6.0/topics/db/models/#field-options)
+- [@official@Referência de Campos do Modelo](https://docs.djangoproject.com/pt-br/6.0/ref/models/fields/#field-options)
+- [@article@Opções de Campos no Django Modelos](https://swesadiqul.medium.com/django-model-fields-options-8f3651dade6a)
+- [@video@Tipos e Opções de Campo em Modelos do Django](https://www.youtube.com/watch?v=u7MJxv_P2Pk)

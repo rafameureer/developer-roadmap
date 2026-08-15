@@ -1,10 +1,10 @@
-# Generic Views
+# Exibições Genéricas
 
-Generic views in Django are pre-built views that handle common web development tasks, like displaying a list of objects, creating new objects, or updating existing ones. They reduce the amount of boilerplate code you need to write by providing reusable logic for interacting with your models and templates. Instead of writing custom view functions for each task, you can configure these generic views to suit your specific needs.
+As exibições genéricas no Django são exibições pré-construídas que lidam com tarefas comuns de desenvolvimento web, como exibir uma lista de objetos, criar novos objetos ou atualizar existentes. Elas reduzem a quantidade de código boilerplate que você precisa escrever fornecendo lógica reutilizável para interagir com seus modelos e templates. Em vez de escrever funções de vista personalizadas para cada tarefa, você pode configurar essas exibições genéricas para atender às suas necessidades específicas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Built-in class-based generic views](https://docs.djangoproject.com/en/6.0/topics/class-based-views/generic-display/)
-- [@article@Django Class-Based Views vs Generic Class-Based Views](https://medium.com/@ashishpandey2062/django-class-based-views-vs-generic-class-based-views-2ce548c073db)
-- [@article@Class-Based Generic Views in Django](https://thoughtbot.com/blog/class-based-generic-views-in-django)
-- [@video@Django - Generic & Class-Based Views! (an alternative to functions)](https://www.youtube.com/watch?v=DDIP-icVpA8)
+- [@oficial@Exibições Genéricas Baseadas em Classes](https://docs.djangoproject.com/pt-br/6.0/topics/class-based-views/generic-display/)
+- [@artigo@Exibições Genéricas Baseadas em Classes vs Exibições Genéricas Baseadas em Classes no Django](https://medium.com/@ashishpandey2062/django-class-based-views-vs-generic-class-based-views-2ce548c073db)
+- [@artigo@Exibições Genéricas Baseadas em Classes no Django](https://thoughtbot.com/blog/class-based-generic-views-in-django)
+- [@vídeo@Django - Exibições Genéricas e Exibições Baseadas em Classes! (uma alternativa a funções)](https://www.youtube.com/watch?v=DDIP-icVpA8)

@@ -1,11 +1,11 @@
-# Function-Based Views
+# Funções Baseadas em Vistas
 
-Function-based views in Django are Python functions that take a web request and return a web response. They are a simple and direct way to handle HTTP requests and generate the appropriate output, such as HTML, JSON, or redirects. These views provide a basic structure for processing user input, interacting with models, and rendering templates.
+As funções baseadas em vistas no Django são funções Python que recebem uma solicitação web e retornam uma resposta web. Elas são um método simples e direto de lidar com solicitações HTTP e gerar a saída apropriada, como HTML, JSON ou redirecionamentos. Essas exibições fornecem uma estrutura básica para processar entrada do usuário, interagir com modelos e renderizar templates.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Writing views](https://docs.djangoproject.com/en/6.0/topics/http/views/#a-simple-view)
-- [@article@Django Functional Based Views](https://medium.com/@rkiptoo5244/django-functional-based-views-37c1d560d154)
-- [@article@Class-based vs Function-based Views in Django](https://testdriven.io/blog/django-class-based-vs-function-based-views/)
-- [@video@Why I Use Django Function Based Views](https://www.youtube.com/watch?v=mKzStOGIc4A)
-- [@video@Creating function based views in Django [16 of 24] | Django for Beginners](https://www.youtube.com/watch?v=IYr430whtzY)
+- [@oficial@Escrevendo vistas](https://docs.djangoproject.com/pt-br/6.0/topics/http/views/#a-simple-view)
+- [@artigo@Funções Baseadas em Vistas no Django](https://medium.com/@rkiptoo5244/django-functional-based-views-37c1d560d154)
+- [@artigo@Vistas Baseadas em Classes vs Funções Baseadas em Vistas no Django](https://testdriven.io/blog/django-class-based-vs-function-based-views/)
+- [@vídeo@Por que Eu Uso Funções Baseadas em Vistas no Django](https://www.youtube.com/watch?v=mKzStOGIc4A)
+- [@vídeo@Criando funções baseadas em vistas no Django [16 de 24] | Django para Iniciantes](https://www.youtube.com/watch?v=IYr430whtzY)

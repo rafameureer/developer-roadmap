@@ -1,9 +1,9 @@
-# Custom User Model
+# Modelo de Usuário Personalizado
 
-A custom user model in Django allows developers to define their own user model instead of using the default Django user model. This provides flexibility to include additional fields or methods tailored to the specific requirements of an application, such as storing extra profile information or implementing custom authentication logic. By creating a custom user model, you gain full control over the user representation within your Django project.
+O modelo de usuário personalizado no Django permite aos desenvolvedores definir seu próprio modelo de usuário em vez do modelo de usuário padrão do Django. Isso oferece flexibilidade para incluir campos adicionais ou métodos personalizados que atendam às necessidades específicas de um aplicativo, como armazenar informações de perfil extras ou implementar lógica de autenticação personalizada. Ao criar um modelo de usuário personalizado, você ganha o controle completo sobre a representação do usuário em seu projeto Django.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Customizing authentication in Django¶](https://docs.djangoproject.com/en/6.0/topics/auth/customizing/)
-- [@article@Creating a Custom User Model in Django](https://testdriven.io/blog/django-custom-user-model/)
-- [@video@Learn Django - Build a Custom User Model with Extended Fields](https://www.youtube.com/watch?v=Ae7nc1EGv-A)
+- [@official@Personalizando autenticação no Django¶](https://docs.djangoproject.com/pt-br/6.0/topics/auth/customizing/)
+- [@article@Criando um Modelo de Usuário Personalizado no Django](https://testdriven.io/blog/django-custom-user-model/)
+- [@video@Aprenda Django - Crie um Modelo de Usuário Personalizado com Campos Estendidos](https://www.youtube.com/watch?v=Ae7nc1EGv-A)

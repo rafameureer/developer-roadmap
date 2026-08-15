@@ -1,9 +1,9 @@
 # Handlers
 
-Handlers in Django's logging framework determine _where_ log messages go. They act as the delivery mechanism, taking log records created by loggers and sending them to specific destinations. These destinations can include the console, files, email addresses, or even external services. Different handlers can be configured to handle different log levels, allowing you to route critical errors to one location and less severe warnings to another.
+Os Handlers no framework de logging do Django determinam _onde_ as mensagens de log são enviadas. Eles atuam como o mecanismo de entrega, recebendo registros de log criados por registradores e enviando-os para destinos específicos. Esses destinos podem incluir a consola, arquivos, endereços de email ou até mesmo serviços externos. Diferentes handlers podem ser configurados para lidar com diferentes níveis de log, permitindo que você roteie erros críticos para um local e advertências menos graves para outro.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Handlers](https://docs.djangoproject.com/en/6.0/topics/logging/#topic-logging-parts-handlers)
-- [@article@Mastering Logging in Django: A Comprehensive Guide](http://medium.com/@akshatgadodia/mastering-logging-in-django-a-comprehensive-guide-aff850d15ae3)
-- [@video@Logging in Django and Python Applications - Handlers / Formatters / Better Stack aggregation](https://www.youtube.com/watch?v=XSwIUnGXrwY)
+- [@article@Dominando o Logging no Django: Um Guia Completo](http://medium.com/@akshatgadodia/mastering-logging-in-django-a-comprehensive-guide-aff850d15ae3)
+- [@video@Logging em Aplicações Django e Python - Handlers / Formatters / Melhor Agregação de Pilhas](https://www.youtube.com/watch?v=XSwIUnGXrwY)

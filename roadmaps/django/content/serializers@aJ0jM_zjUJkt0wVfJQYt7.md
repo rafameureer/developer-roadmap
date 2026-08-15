@@ -1,12 +1,12 @@
-# Serializers
+# Serializadores
 
-Serializers in Django REST Framework transform complex data, like querysets and model instances, into Python datatypes that can be easily rendered into JSON, XML, or other content types. They also handle the reverse process, allowing parsed data to be converted back into model instances after validation. This makes them essential for building RESTful APIs that can both receive and send data in a structured and manageable way.
+Serializadores no Django REST Framework transformam dados complexos, como conjuntos de consultas e instâncias de modelo, em tipos de dados Python que podem ser facilmente renderizados em JSON, XML ou outros tipos de conteúdo. Eles também lidam com o processo inverso, permitindo que dados analisados sejam convertidos novamente em instâncias de modelo após a validação. Isso os torna essenciais para construir APIs RESTful que possam receber e enviar dados de maneira estruturada e gerenciável.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Serializers](https://www.django-rest-framework.org/api-guide/serializers/)
-- [@official@Tutorial 1: Serialization](https://www.django-rest-framework.org/tutorial/1-serialization/)
-- [@official@Serializer relations](https://www.django-rest-framework.org/api-guide/relations/)
-- [@article@Effectively Using Django REST Framework Serializers](https://testdriven.io/blog/drf-serializers/)
-- [@video@Django Rest Framework | Serializers & CRUD](https://www.youtube.com/watch?v=TmsD8QExZ84)
-- [@video@Django REST Framework- Nested Serializers, SerializerMethodField and Serializer Relations](https://www.youtube.com/watch?v=KfSYadIFHgY)
+- [@oficial@Serializadores](https://www.django-rest-framework.org/api-guide/serializers/)
+- [@oficial@Tutorial 1: Serialização](https://www.django-rest-framework.org/tutorial/1-serialization/)
+- [@oficial@Relações de Serializadores](https://www.django-rest-framework.org/api-guide/relations/)
+- [@artigo@Usando Efetivamente os Serializadores do Django REST Framework](https://testdriven.io/blog/drf-serializers/)
+- [@vídeo@Django Rest Framework | Serializadores & CRUD](https://www.youtube.com/watch?v=TmsD8QExZ84)
+- [@vídeo@Django REST Framework - Serializadores Aninhados, SerializerMethodField e Relações de Serializadores](https://www.youtube.com/watch?v=KfSYadIFHgY)

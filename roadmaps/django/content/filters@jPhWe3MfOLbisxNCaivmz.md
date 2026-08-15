@@ -1,8 +1,8 @@
-# Logging Filters
+# Filtros de Registro
 
-Filters in Django's logging framework provide a way to add extra control over which log records are processed by a handler. They determine whether a specific log record should be emitted based on criteria you define. This allows you to selectively include or exclude log messages based on attributes like the logger name, log level, or any other custom logic you implement. Filters are attached to handlers, and a handler will only process a log record if all of its filters allow it.
+Os filtros no framework de registro do Django fornecem uma maneira de adicionar controle extra sobre quais registros de log são processados por um manipulador. Eles determinam se um registro de log específico deve ser emitido com base em critérios que você define. Isso permite incluir ou excluir mensagens de log selecionadamente com base em atributos como o nome do registrador, nível de log ou qualquer outra lógica personalizada que você implementar. Os filtros são anexados a manipuladores e um manipulador só processará um registro de log se todos os seus filtros permitirem.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Filters](https://docs.djangoproject.com/en/6.0/topics/logging/#topic-logging-parts-filters)
-- [@article@Logging in Django — Part II [Filters and Formatters]](https://medium.com/django-unleashed/logging-in-django-part-ii-filters-and-formatters-c7190d360ab2)
+- [@oficial@Filtros](https://docs.djangoproject.com/pt-br/6.0/topics/logging/#topic-logging-parts-filters)
+- [@artigo@Registro no Django — Parte II [Filtros e Formatters]](https://medium.com/django-unleashed/logging-in-django-part-ii-filters-and-formatters-c7190d360ab2)

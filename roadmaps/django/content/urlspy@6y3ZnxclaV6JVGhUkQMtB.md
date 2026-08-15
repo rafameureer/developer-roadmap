@@ -1,8 +1,8 @@
-# urls.py in Django Apps
+# urls.py em Aplicativos Django
 
-In Django, the `urls.py` file within an app is responsible for defining the URL patterns for that specific app. It acts as a table of contents, mapping URL paths to specific views (functions or classes) that handle the corresponding requests. This file essentially tells Django what code to execute when a user visits a particular URL within the app's scope.
+No Django, o arquivo `urls.py` dentro de um aplicativo é responsável por definir as padrões de URL para esse aplicativo específico. Ele atua como um índice, mapeando caminhos de URL para visualizações específicas (funções ou classes) que lidam com as solicitações correspondentes. Esse arquivo basicamente diz ao Django qual código executar quando um usuário visita uma URL específica dentro do escopo do aplicativo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Part-2: Migrations Files in Django Framework](https://medium.com/django-unleashed/django-project-structure-a-comprehensive-guide-4b2ddbf2b6b8)
-- [@video@The Structure of a Django Application](https://www.youtube.com/watch?v=jmX27FrCqqs)
+- [@artigo@Parte 2: Arquivos de Migração no Framework Django](https://medium.com/django-unleashed/django-project-structure-a-comprehensive-guide-4b2ddbf2b6b8)
+- [@vídeo@A Estrutura de um Aplicativo Django](https://www.youtube.com/watch?v=jmX27FrCqqs)

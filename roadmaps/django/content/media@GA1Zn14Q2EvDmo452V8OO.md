@@ -1,7 +1,7 @@
-# Media Folder
+# Pasta Media
 
-The media folder in a Django project is where you store user-uploaded files like images, videos, and documents. Django doesn't automatically create this folder; you typically create it yourself at the project's root or within an app. You'll configure Django to know where this folder is located so it can serve these files correctly.
+A pasta media em um projeto Django é onde você armazena arquivos carregados pelo usuário, como imagens, vídeos e documentos. O Django não cria automaticamente essa pasta; você geralmente a cria por conta própria na raiz do projeto ou dentro de uma aplicação. Você configurará o Django para saber onde está localizada essa pasta para que ele possa servir esses arquivos corretamente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Working with Static and Media Files in Django](https://testdriven.io/blog/django-static-files/)
+- [@article@Trabalhando com Arquivos Estáticos e Media no Django](https://testdriven.io/blog/django-static-files/)

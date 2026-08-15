@@ -1,10 +1,10 @@
 # django-silk
 
-django-silk is a powerful profiling and inspection tool designed for the Django framework. It intercepts and stores HTTP requests and database query data, providing a real-time view of your application's performance. This allows developers to pinpoint bottlenecks and optimize code for improved efficiency.
+django-silk é uma ferramenta poderosa de profiling e inspeção projetada para o framework Django. Ele intercepta e armazena dados de solicitações HTTP e consultas ao banco de dados, fornecendo uma visão em tempo real do desempenho da sua aplicação. Isso permite aos desenvolvedores identificar gargalos e otimizar o código para melhorar a eficiência.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Django Silk Docs](https://silk.readthedocs.io/en/latest/)
+- [@official@Documentação do Django Silk](https://silk.readthedocs.io/pt-br/latest/)
 - [@opensource@django-silk](https://github.com/jazzband/django-silk)
-- [@article@Profiling Django application using django-silk.](https://medium.com/@sharif-42/profiling-django-application-using-django-silk-62cdea83fb83)
-- [@video@django-silk for Profiling and Optimization with Django REST Framework](https://www.youtube.com/watch?v=OG8alXR4bEs)
+- [@article@Profileamento de aplicativos Django usando django-silk.](https://medium.com/@sharif-42/profiling-django-application-using-django-silk-62cdea83fb83)
+- [@video@django-silk para Profiling e Otimização com Django REST Framework](https://www.youtube.com/watch?v=OG8alXR4bEs)

@@ -1,10 +1,10 @@
-# Custom Middleware
+# Middleware Personalizado
 
-Middleware in Django is a framework of hooks into Django's request/response processing. It's a way to modify the incoming request or outgoing response at various points in the process. Customization allows developers to create their own middleware components to handle specific tasks, such as request logging, authentication checks, or modifying response headers, tailoring the framework to their application's unique needs.
+O middleware no Django é um framework de hooks na processamento de solicitações/respostas do Django. É uma maneira de modificar a solicitação de entrada ou resposta de saída em vários pontos no processo. A personalização permite aos desenvolvedores criar seus próprios componentes de middleware para lidar com tarefas específicas, como registro de solicitações, verificações de autenticação ou modificação de cabeçalhos de resposta, adaptando o framework às necessidades únicas do aplicativo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Understanding Django Middleware: How to Create Custom Middleware](https://medium.com/@farad.dev/understanding-django-middleware-how-to-create-custom-middleware-789744722df3)
-- [@article@A Comprehensive Guide to Django Middleware](https://www.datree.io/resources/guide-to-django-middleware#anchor5)
-- [@video@Django Custom Middleware - Tutorial With Examples](https://www.youtube.com/watch?v=ELOgWKQpxB8)
-- [@video@Writing Django Middleware (with tests!) | HTMX middleware | IP Blacklist middleware](https://www.youtube.com/watch?v=--ddZc39wVQ)
+- [@article@Entendendo Middleware do Django: Como Criar Middleware Personalizado](https://medium.com/@farad.dev/understanding-django-middleware-how-to-create-custom-middleware-789744722df3)
+- [@article@Guia Completo sobre Middleware do Django](https://www.datree.io/resources/guide-to-django-middleware#anchor5)
+- [@video@Middleware Personalizado no Django - Tutorial com Exemplos](https://www.youtube.com/watch?v=ELOgWKQpxB8)
+- [@video@Escrevendo Middleware do Django (com testes!) | Middleware HTMX | Middleware de Lista Negra de IPs](https://www.youtube.com/watch?v=--ddZc39wVQ)

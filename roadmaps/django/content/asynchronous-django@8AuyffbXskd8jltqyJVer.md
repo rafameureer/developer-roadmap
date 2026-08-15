@@ -1,10 +1,10 @@
-# Asynchronous Django
+# Programação Assíncrona no Django
 
-Asynchronous programming allows a program to execute multiple tasks seemingly at the same time without waiting for each task to complete before starting the next. Instead of blocking and waiting, the program can switch between tasks as needed, improving efficiency. In Django, this is achieved using tools like `async` and `await` keywords in Python, along with asynchronous views and middleware, enabling the application to handle more requests concurrently and reduce response times, especially for tasks involving I/O operations like database queries or external API calls.
+A programação assíncrona permite que um programa execute várias tarefas simultaneamente, sem precisar esperar a conclusão de cada uma antes de iniciar a próxima. Em vez de bloquear e esperar, o programa pode alternar entre as tarefas conforme necessário, melhorando a eficiência. No Django, isso é alcançado usando ferramentas como as palavras-chave `async` e `await` em Python, juntamente com visualizações e middleware assíncronos, permitindo que o aplicativo manipule mais solicitações simultaneamente e reduza os tempos de resposta, especialmente para tarefas envolvendo operações de E/S como consultas de banco de dados ou chamadas a APIs externas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Asynchronous support](https://docs.djangoproject.com/en/6.0/topics/async/)
-- [@article@Unlocking Performance: A Guide to Async Support in Django](https://dev.to/pragativerma18/unlocking-performance-a-guide-to-async-support-in-django-2jdj)
-- [@article@Running tasks concurrently in Django asynchronous views](https://fly.io/django-beats/running-tasks-concurrently-in-django-asynchronous-views/)
-- [@video@Introduction to async views in Django | async/await in Django views](https://www.youtube.com/watch?v=YneIutRhmgo)
+- [@oficial@Suporte assíncrono](https://docs.djangoproject.com/en/6.0/topics/async/)
+- [@artigo@Desbloqueando o desempenho: um guia sobre suporte assíncrono no Django](https://dev.to/pragativerma18/unlocking-performance-a-guide-to-async-support-in-django-2jdj)
+- [@artigo@Executando tarefas simultaneamente em visualizações assíncronas do Django](https://fly.io/django-beats/running-tasks-concurrently-in-django-asynchronous-views/)
+- [@vídeo@Introdução às visualizações assíncronas no Django | async/await em visualizações do Django](https://www.youtube.com/watch?v=YneIutRhmgo)

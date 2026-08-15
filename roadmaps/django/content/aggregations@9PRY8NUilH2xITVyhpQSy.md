@@ -1,10 +1,10 @@
-# Aggregations
+# Agregações
 
-Aggregations in Django allow you to summarize data from multiple objects in your database. They compute a single summary value (like average, sum, or count) for a group of objects. Unlike annotations, which add a field to each object in a queryset, aggregations return a single value for the entire queryset. So, annotations add extra data to each item, while aggregations give you a summary of the whole collection.
+As agregações no Django permitem que você resuma dados de vários objetos em seu banco de dados. Eles calculam um único valor de resumo (como média, soma ou contagem) para um grupo de objetos. Diferentemente das anotações, que adicionam um campo a cada objeto em um conjunto de resultados, as agregações retornam um único valor para o conjunto de resultados inteiro. Assim, as anotações adicionam dados extras a cada item, enquanto as agregações fornecem uma resumo da coleção toda.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Aggregation](https://docs.djangoproject.com/en/6.0/topics/db/aggregation/)
-- [@article@QuerySets and aggregations in Django](https://blog.logrocket.com/querysets-and-aggregations-in-django/)
-- [@article@Django Annotate and aggregate explained](https://coffeebytes.dev/en/django/django-annotate-and-aggregate-explained/)
-- [@video@Django Aggregation & Annotation / values() and values_list() functions](https://www.youtube.com/watch?v=LEsmHKZLsBI)
+- [@oficial@Agregação](https://docs.djangoproject.com/en/6.0/topics/db/aggregation/)
+- [@artigo@Conjuntos de resultados e agregações no Django](https://blog.logrocket.com/querysets-and-aggregations-in-django/)
+- [@artigo@Annotar e agrupar explicado no Django](https://coffeebytes.dev/en/django/django-annotate-and-aggregate-explained/)
+- [@vídeo@Agrupação & Anotação do Django / funções values() e values_list()](https://www.youtube.com/watch?v=LEsmHKZLsBI)

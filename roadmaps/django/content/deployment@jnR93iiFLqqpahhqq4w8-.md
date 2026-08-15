@@ -1,10 +1,10 @@
-# Deployment
+# Implantação
 
-Deployment is the process of making your Django project accessible to users on the internet. This involves transferring your code, database, and other assets to a server, configuring the server to run your application, and ensuring that it can handle incoming requests. It's the final step in the development lifecycle, allowing users to interact with your Django application.
+A implantação é o processo de tornar seu projeto Django acessível aos usuários na internet. Isso envolve transferir seu código, banco de dados e outros ativos para um servidor, configurar o servidor para executar sua aplicação e garantir que ele possa lidar com solicitações de entrada. É a última etapa no ciclo de vida do desenvolvimento, permitindo que os usuários interajam com sua aplicação Django.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@How to deploy Django](https://docs.djangoproject.com/en/6.0/howto/deployment/)
-- [@article@Django Tutorial Part 11: Deploying Django to production](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Server-side/Django/Deployment)
-- [@video@Python Django Tutorial: Deploying Your Application (Option #1) - Deploy to a Linux Server](https://www.youtube.com/watch?v=Sa_kQheCnds)
-- [@video@The 4 best ways to deploy a Django application](https://www.youtube.com/watch?v=IoxHUrbiqUo)
+- [@oficial@Como implantar o Django](https://docs.djangoproject.com/pt-br/3.2/howto/deployment/)
+- [@artigo@Tutorial do Django Parte 11: Implantando o Django em produção](https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Extensions/Server-side/Django/Deployment)
+- [@vídeo@Tutorial Python Django: Implantação da Aplicação (Opção #1) - Implantar em um Servidor Linux](https://www.youtube.com/watch?v=Sa_kQheCnds)
+- [@vídeo@As 4 melhores maneiras de implantar uma aplicação Django](https://www.youtube.com/watch?v=IoxHUrbiqUo)

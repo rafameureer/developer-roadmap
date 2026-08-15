@@ -1,8 +1,8 @@
 # DeleteView
 
-`DeleteView` in Django is a pre-built class-based view designed to handle the deletion of a specific object from your database. It provides a structured way to present a confirmation page to the user, process the deletion upon confirmation, and then redirect the user to another page. This simplifies the process of creating views that handle object deletion, reducing boilerplate code.
+`DeleteView` no Django é uma classe base de visualização pronta para uso projetada para lidar com a exclusão de um objeto específico do seu banco de dados. Ele fornece uma maneira estruturada de apresentar uma página de confirmação ao usuário, processar a exclusão após a confirmação e, em seguida, redirecionar o usuário para outra página. Isso simplifica o processo de criar visualizações que lidam com a exclusão de objetos, reduzindo código boilerplate.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@DeleteView](https://docs.djangoproject.com/en/6.0/ref/class-based-views/generic-editing/#django.views.generic.edit.DeleteView)
 - [@article@Django DeleteView](https://www.pythontutorial.net/django-tutorial/django-deleteview/)

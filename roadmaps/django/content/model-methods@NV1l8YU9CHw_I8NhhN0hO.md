@@ -1,10 +1,10 @@
-# Model Methods
+# Métodos de Modelo
 
-Model methods are functions you define within a Django model class to add custom behavior to individual model instances. These methods allow you to encapsulate logic related to a specific object, such as calculating derived values, performing data manipulations, or implementing custom validation rules. They provide a clean and organized way to extend the functionality of your models beyond the basic fields and relationships.
+Os métodos de modelo são funções que você define dentro da classe do modelo Django para adicionar comportamentos personalizados a instâncias individuais do modelo. Esses métodos permitem encapsular lógica relacionada a um objeto específico, como calcular valores derivados, realizar manipulações de dados ou implementar regras de validação personalizadas. Eles fornecem uma maneira limpa e organizada de estender a funcionalidade dos seus modelos além dos campos básicos e relações.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Model methods](https://docs.djangoproject.com/en/6.0/topics/db/models/#model-methods)
-- [@article@An Overview of Django Model Methods in 2023](https://www.horilla.com/blogs/an-overview-of-django-model-methods-in-2023/)
-- [@video@Django Model Properties & Methods | @property decorator | get_absolute_url() method](https://www.youtube.com/watch?v=PgHaH8tGdWw)
-- [@video@Django Tutorial #11 - Model Methods](https://www.youtube.com/watch?v=ERCt6HUcaFw)
+- [@oficial@Métodos de Modelo](https://docs.djangoproject.com/pt-br/3.2/topics/db/models/#model-methods)
+- [@artigo@Uma Visão Geral dos Métodos de Modelo do Django em 2023](https://www.horilla.com/blogs/an-overview-of-django-model-methods-in-2023/)
+- [@vídeo@Métodos e Propriedades do Modelo do Django | Decorador @property | Método get_absolute_url()](https://www.youtube.com/watch?v=PgHaH8tGdWw)
+- [@vídeo@Tutorial do Django #11 - Métodos de Modelo](https://www.youtube.com/watch?v=ERCt6HUcaFw)

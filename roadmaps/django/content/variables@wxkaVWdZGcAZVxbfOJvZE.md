@@ -1,9 +1,9 @@
-# Variables in Django Templates
+# Variáveis em Templates Django
 
-Variables in Django templates are placeholders that get replaced with actual values when the template is rendered. They allow you to dynamically display data from your Django views within your HTML templates. These variables are enclosed in double curly braces `{{ variable_name }}` and can represent data of various types, such as strings, numbers, lists, or even objects.
+As variáveis em templates Django são placeholders que são substituídos por valores reais quando o template é renderizado. Eles permitem exibir dinamicamente dados de suas visualizações Django dentro dos seus templates HTML. Essas variáveis estão encerradas em chaves duplas `{{ nome_da_variável }}` e podem representar dados de vários tipos, como strings, números, listas ou até mesmo objetos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Variables](https://docs.djangoproject.com/en/6.0/ref/templates/language/#variables)
-- [@article@Django Template Variables](https://www.w3schools.com/django/django_template_variables.php)
-- [@video@Passing Variables to a Template with Django](https://www.youtube.com/watch?v=wkTE2QvzSmc)
+- [@oficial@Variáveis](https://docs.djangoproject.com/pt-br/6.0/ref/templates/language/#variables)
+- [@artigo@Variáveis em Templates Django](https://www.w3schools.com/django/django_template_variables.php)
+- [@vídeo@Passando Variáveis para um Template com Django](https://www.youtube.com/watch?v=wkTE2QvzSmc)

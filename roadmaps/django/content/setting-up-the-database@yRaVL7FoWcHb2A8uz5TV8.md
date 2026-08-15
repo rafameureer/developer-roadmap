@@ -1,10 +1,10 @@
-# Database Setup in Django
+# Configuração do Banco de Dados no Django
 
-Setting up the database in Django involves configuring your project to connect to and interact with a specific database management system (DBMS). This process includes specifying the database type (e.g., PostgreSQL, MySQL, SQLite), providing connection details like the database name, username, password, and host, and ensuring that Django can communicate with the database to store and retrieve data for your application.
+Configurar o banco de dados no Django envolve configurar seu projeto para se conectar e interagir com um sistema de gerenciamento de banco de dados específico (DBMS). Esse processo inclui especificar o tipo de banco de dados (por exemplo, PostgreSQL, MySQL, SQLite), fornecer detalhes de conexão como o nome do banco de dados, nome de usuário, senha e host, e garantir que o Django possa se comunicar com o banco de dados para armazenar e recuperar dados para sua aplicação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated SQL Roadmap](https://roadmap.sh/sql)
-- [@official@Databases](https://docs.djangoproject.com/en/6.0/ref/databases/)
-- [@official@Writing your first Django app, part 2](https://docs.djangoproject.com/en/6.0/intro/tutorial02/)
-- [@video@Django Tutorial #4 - Database Setup](https://www.youtube.com/watch?v=DZVFgMSyRXI)
+- [@roadmap@Visite a Roadmap Específica SQL](https://roadmap.sh/sql)
+- [@oficial@Bancos de Dados](https://docs.djangoproject.com/pt-br/6.0/ref/databases/)
+- [@oficial@Escrevendo Sua Primeira Aplicação Django, Parte 2](https://docs.djangoproject.com/pt-br/6.0/intro/tutorial02/)
+- [@vídeo@Tutorial Django #4 - Configuração do Banco de Dados](https://www.youtube.com/watch?v=DZVFgMSyRXI)

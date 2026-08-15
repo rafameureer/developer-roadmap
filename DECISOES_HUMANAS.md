@@ -4,7 +4,7 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 
 ---
 
-> ⚠️ **Total de itens sinalizados:** 786
+> ⚠️ **Total de itens sinalizados:** 790
 
 | Arquivo / Tópico | Motivo da Sinalização | Data/Hora |
 |---|---|---|
@@ -794,3 +794,7 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 | `roadmaps/devsecops/content/supply-chain-security@qKHb2e9g_Xuo-nHepICTR.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:55:17.251790 |
 | `roadmaps/devsecops/content/symmetric@mT1cKWZcKXwvopW6BeX-A.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:55:21.710052 |
 | `roadmaps/devsecops/content/zero-trust-concepts@3UAH70FkQlv5_VbYon4U9.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:56:10.066039 |
+| `roadmaps/django/content/migrations@tCK6V3T4oGy9O8Wur2k9d.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:02:10.538209 |
+| `roadmaps/django/content/model-forms@HjcEX3u5iRSlq69U-pSEs.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:02:15.730422 |
+| `roadmaps/django/content/model-inheritance@SWNGsyrpP7XghRa_zKQbb.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:02:21.348397 |
+| `roadmaps/django/content/why-use-web-frameworks@xdxitF1Foo6W9Pj6-2Be1.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:06:58.355561 |

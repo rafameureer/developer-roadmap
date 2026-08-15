@@ -1,13 +1,13 @@
-# PDB and IPDB
+# PDB e IPDB
 
-PDB (Python Debugger) is an interactive source code debugger for Python programs. It allows you to pause your program during execution, inspect variables, step through code line by line, and set breakpoints. IPDB is an enhanced version of PDB that uses IPython, providing features like tab completion, syntax highlighting, and better introspection capabilities, making the debugging process more efficient and user-friendly.
+PDB (Python Debugger) é um depurador interativo de código-fonte para programas Python. Ele permite que você pause seu programa durante a execução, inspecione variáveis, passe por linha em linha do código e defina pontos de interrupção. IPDB é uma versão melhorada de PDB que usa o IPython, fornecendo recursos como conclusão de tabulação, destacamento de sintaxe e melhores capacidades de introspecção, tornando o processo de depuração mais eficiente e amigável.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@pdb](https://docs.python.org/3/library/pdb.html)
-- [@official@ipdb](vhttps://pypi.org/project/ipdb/)
-- [@article@Python Debugging With Pdb](https://realpython.com/python-debugging-pdb/)
-- [@article@Debugging Python Apps: A Comprehensive Guide to pdb](https://sunscrapers.com/blog/python-debugging-guide-pdb/)
-- [@article@A Guide to Debugging Python Code with ipdb](https://betterstack.com/community/guides/scaling-python/python-debugging/)
-- [@video@python debugger crash course: pdb / breakpoint (beginner - intermediate) anthony explains #097](https://www.youtube.com/watch?v=0LPuG825eAk)
-- [@video@How to use ipdb the interactive python debugger](https://www.youtube.com/watch?v=EnC9ciDkXqA)
+- [@oficial@pdb](https://docs.python.org/3/library/pdb.html)
+- [@oficial@ipdb](https://pypi.org/project/ipdb/)
+- [@artigo@Depuração de Python com PDB](https://realpython.com/python-debugging-pdb/)
+- [@artigo@Guia Completo para Depuração de Aplicativos Python: pdb](https://sunscrapers.com/blog/python-debugging-guide-pdb/)
+- [@artigo@Um Guia para Depurar Código Python com ipdb](https://betterstack.com/community/guides/scaling-python/python-debugging/)
+- [@vídeo@Curso de Crash Course do Debugger Python: pdb / breakpoint (iniciante - intermediário) explicado por Anthony #097](https://www.youtube.com/watch?v=0LPuG825eAk)
+- [@vídeo@Como usar o ipdb, o depurador interativo do Python](https://www.youtube.com/watch?v=EnC9ciDkXqA)

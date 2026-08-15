@@ -1,10 +1,10 @@
-# Form Validation
+# Validação de Formulários
 
-Form validation in Django is the process of ensuring that the data submitted by a user through a form meets specific requirements before it's saved to the database. This involves checking for things like required fields, correct data types (e.g., email address format), minimum or maximum lengths, and other custom rules you define. If the data doesn't pass these checks, Django provides mechanisms to display error messages to the user, prompting them to correct the input.
+A validação de formulários em Django é o processo de garantir que os dados enviados por um usuário através de um formulário atendam a requisitos específicos antes de serem salvos no banco de dados. Isso envolve verificar coisas como campos obrigatórios, tipos de dados corretos (por exemplo, formato de endereço de e-mail), comprimentos mínimos ou máximos e outras regras personalizadas que você define. Se os dados não passarem esses checks, Django fornece mecanismos para exibir mensagens de erro ao usuário, incentivando-os a corrigir a entrada.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Form and field validation](https://docs.djangoproject.com/en/6.0/ref/forms/validation/)
+- [@official@Form e validação de campo](https://docs.djangoproject.com/en/6.0/ref/forms/validation/)
 - [@article@Data Validation in Django](https://www.scaler.com/topics/django/data-validation-in-django/)
-- [@video@Django ORM - Model Field Validators / Writing Custom Validators / ModelForms](https://www.youtube.com/watch?v=1x0Zdukpjrs)
-- [@video@Try DJANGO Tutorial - 27 - Form Validation Methods](https://www.youtube.com/watch?v=wVnQkKf-gHo)
+- [@video@Django ORM - Validadores de Campo do Modelo / Escrevendo Validadores Personalizados / ModelForms](https://www.youtube.com/watch?v=1x0Zdukpjrs)
+- [@video@Try DJANGO Tutorial - 27 - Métodos de Validação de Formulários](https://www.youtube.com/watch?v=wVnQkKf-gHo)

@@ -1,9 +1,9 @@
-# Formatters
+# Formatações
 
-Formatters in Django's logging framework structure log records into human-readable or machine-parseable strings. They define the layout of log messages, specifying which pieces of information (like timestamp, log level, message content, or source file) are included and how they are arranged. You can customize formatters to suit your specific needs, ensuring that log output is clear, consistent, and useful for debugging and monitoring your Django application.
+As formatações no framework de log do Django estruturam os registros de log em strings legíveis para humanos ou parseáveis por máquina. Elas definem o layout das mensagens de log, especificando quais partes de informações (como timestamp, nível de log, conteúdo da mensagem ou arquivo de origem) são incluídas e como elas são organizadas. Você pode personalizar as formatações para atender às suas necessidades específicas, garantindo que a saída do log seja clara, consistente e útil para depuração e monitoramento do seu aplicativo Django.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Formatters](https://docs.djangoproject.com/en/6.0/topics/logging/#topic-logging-parts-formatters)
-- [@article@Logging in Django — Part II [Filters and Formatters]](https://medium.com/django-unleashed/logging-in-django-part-ii-filters-and-formatters-c7190d360ab2)
-- [@video@Logging in Django and Python Applications - Handlers / Formatters / Better Stack aggregation](https://www.youtube.com/watch?v=XSwIUnGXrwY)
+- [@oficial@Formatações](https://docs.djangoproject.com/pt-br/6.0/topics/logging/#topic-logging-parts-formatters)
+- [@artigo@Loggin no Django — Parte II [Filtros e Formatações]](https://medium.com/django-unleashed/loggin-no-django-parte-ii-filtros-e-formatações-c7190d360ab2)
+- [@vídeo@Loggin no Django e Aplicações Python - Handlers / Formatações / Melhor Agregação de Pilhas](https://www.youtube.com/watch?v=XSwIUnGXrwY)

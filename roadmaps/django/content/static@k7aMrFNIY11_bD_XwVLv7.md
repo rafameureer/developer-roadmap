@@ -1,8 +1,8 @@
-# Static Files
+# Arquivos Estáticos
 
-Within a Django project, the `static` folder is where you store static files like CSS stylesheets, JavaScript files, images, and fonts. These files are essential for styling and adding interactivity to your web application's user interface. Django needs to know where to find these files to serve them correctly to the browser, and the `static` folder, usually located within each app directory, provides a standardized location for this purpose.
+No projeto Django, a pasta `static` é onde você armazena arquivos estáticos como folhas de estilo CSS, arquivos JavaScript, imagens e fontes. Esses arquivos são essenciais para estilizar e adicionar interatividade à interface do usuário da sua aplicação web. O Django precisa saber onde encontrar esses arquivos para servi-los corretamente ao navegador, e a pasta `static`, geralmente localizada dentro de cada diretório de aplicativo, fornece um local padrão para isso.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@How to manage static files (e.g. images, JavaScript, CSS)](https://docs.djangoproject.com/en/6.0/howto/static-files/)
-- [@article@Working with Static and Media Files in Django](https://testdriven.io/blog/django-static-files/)
+- [@oficial@Como gerenciar arquivos estáticos (ex. imagens, JavaScript, CSS)](https://docs.djangoproject.com/pt-br/6.0/howto/static-files/)
+- [@artigo@Trabalhando com Arquivos Estáticos e Mídia em Django](https://testdriven.io/blog/django-static-files/)

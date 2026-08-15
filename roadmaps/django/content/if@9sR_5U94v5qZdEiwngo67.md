@@ -1,8 +1,8 @@
-# Conditional Logic in Django Templates
+# Lógica Condicional em Templates do Django
 
-The `if` tag in Django Template Language (DTL) allows you to control which parts of your template are rendered based on the truthiness of a variable or expression. It evaluates a variable, and if that variable is "true" (i.e., exists, is not empty, and is not a false boolean value), the block of code within the `if` tag is rendered. You can also use `elif` and `else` tags to create more complex conditional logic.
+A tag `if` no Django Template Language (DTL) permite controlar quais partes do seu template são renderizadas com base na veracidade de uma variável ou expressão. Ela avalia uma variável, e se essa variável for "verdadeira" (ou seja, existir, não estar vazia e não ser um valor booleano falso), o bloco de código dentro da tag `if` é renderizado. Você também pode usar as tags `elif` e `else` para criar lógica condicional mais complexa.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@article@if](https://docs.djangoproject.com/en/6.0/ref/templates/builtins/#if)
 - [@article@if Template Tag](https://www.w3schools.com/django/ref_tags_if.php)

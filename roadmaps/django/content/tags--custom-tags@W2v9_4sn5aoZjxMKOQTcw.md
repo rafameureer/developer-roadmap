@@ -1,12 +1,12 @@
-# Tags & Custom Tags
+# Marcadores & Marcadores Personalizados
 
-Tags are control structures that Django's template engine uses to perform actions like looping, variable assignment, or conditional logic within templates. Custom tags allow developers to extend the template language by defining their own tags to perform specific tasks or render complex data in a reusable way.
+Marcadores são estruturas de controle que o mecanismo de template do Django usa para realizar ações como looping, atribuição de variáveis ou lógica condicional dentro dos templates. Marcadores personalizados permitem aos desenvolvedores estender o idioma de template definindo seus próprios marcadores para executar tarefas específicas ou renderizar dados complexos de uma maneira reutilizável.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Built-in template tags and filters](https://docs.djangoproject.com/en/6.0/ref/templates/builtins/)
-- [@official@How to create custom template tags and filters](https://docs.djangoproject.com/en/6.0/howto/custom-template-tags/)
-- [@article@Django Templates: Implementing Custom Tags and Filters](https://realpython.com/django-template-custom-tags-filters/)
-- [@article@Understanding and Implementing Custom Template Tags in Django](https://dev.to/3bdelrahman/understanding-and-implementing-custom-template-tags-in-django-5cao)
-- [@video@Django Tutorial #10 - Template Tags](https://www.youtube.com/watch?v=RCE3VUpzGw0)
-- [@video@Python Django template tags, filters and custom template tags](https://www.youtube.com/watch?v=rs_mR-b9xys)
+- [@oficial@Marcadores e filtros embutidos do template](https://docs.djangoproject.com/pt-br/6.0/ref/templates/builtins/)
+- [@oficial@Como criar marcadores personalizados e filtros de template](https://docs.djangoproject.com/pt-br/6.0/howto/custom-template-tags/)
+- [@artigo@Templates Django: Implementando Marcadores Personalizados e Filtros](https://realpython.com/django-template-custom-tags-filters/)
+- [@artigo@Compreendendo e implementando marcadores personalizados de template em Django](https://dev.to/3bdelrahman/understanding-and-implementing-custom-template-tags-in-django-5cao)
+- [@vídeo@Tutorial Django #10 - Marcadores de Template](https://www.youtube.com/watch?v=RCE3VUpzGw0)
+- [@vídeo@Marcadores de template, filtros e marcadores personalizados em Python Django](https://www.youtube.com/watch?v=rs_mR-b9xys)

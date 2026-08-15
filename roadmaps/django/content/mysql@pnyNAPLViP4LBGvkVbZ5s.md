@@ -1,11 +1,11 @@
-# MySQL in Django
+# MySQL no Django
 
-MySQL is a popular open-source relational database management system. Django supports MySQL as one of its database backends, allowing you to store and manage your application's data using MySQL's robust features. To use MySQL with Django, you'll need to install the appropriate MySQL driver, configure your Django project's settings to connect to the database, and then define your data models and interact with the database using Django's ORM.
+MySQL é um sistema de gerenciamento de banco de dados relacional popular e de código aberto. O Django suporta MySQL como um dos seus backends de banco de dados, permitindo que você armazene e gerencie os dados da sua aplicação usando as funcionalidades robustas do MySQL. Para usar o MySQL com o Django, você precisará instalar o driver apropriado do MySQL, configurar as configurações do seu projeto Django para se conectar ao banco de dados e, em seguida, definir seus modelos de dados e interagir com o banco de dados usando o ORM do Django.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@MySQL Notes](https://docs.djangoproject.com/en/6.0/ref/databases/#mysql-notes)
-- [@article@Beginner’s Django Guide: Setting Up Projects with MySQL](https://medium.com/@nikhilrpandey15/beginners-guide-to-django-setting-up-projects-with-mysql-03ff8cb43a44)
-- [@article@Django-MySQL Documentation](https://django-mysql.readthedocs.io/en/latest/)
-- [@video@How to Connect MySQL database with Django Project | Beginners Tutorial](https://www.youtube.com/watch?v=5g_xIwxLSJk)
-- [@video@How to Create a Django MySQL Database with Django Models](https://www.youtube.com/watch?v=IiUYyZo2gTk)
+- [@oficial@Notas sobre MySQL](https://docs.djangoproject.com/pt-br/3.2/ref/databases/#mysql-notes)
+- [@artigo@Guia Iniciante do Django: Configurando Projetos com MySQL](https://medium.com/@nikhilrpandey15/guia-iniciante-do-django-configurando-projetos-com-mysql-03ff8cb43a44)
+- [@artigo@Documentação Django-MySQL](https://django-mysql.readthedocs.io/pt-br/latest/)
+- [@vídeo@Como conectar o banco de dados MySQL com o projeto do Django | Tutorial para iniciantes](https://www.youtube.com/watch?v=5g_xIwxLSJk)
+- [@vídeo@Como criar um banco de dados MySQL com modelos do Django](https://www.youtube.com/watch?v=IiUYyZo2gTk)

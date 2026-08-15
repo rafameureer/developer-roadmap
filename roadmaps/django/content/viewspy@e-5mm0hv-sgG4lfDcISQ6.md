@@ -1,9 +1,9 @@
 # Views
 
-`views.py` is a Python file in a Django app that contains the logic for handling web requests and returning responses. It defines functions or classes, known as "views," that receive HTTP requests, process data (often interacting with models), and render templates to generate HTML responses that are sent back to the user's browser. Essentially, it acts as the intermediary between the user's request and the data/templates needed to fulfill that request.
+`views.py` é um arquivo Python em uma aplicação Django que contém a lógica para lidar com solicitações web e retornar respostas. Ele define funções ou classes, conhecidas como "views", que recebem solicitações HTTP, processam dados (geralmente interagindo com modelos) e renderizam templates para gerar respostas HTML que são enviadas de volta ao navegador do usuário. Basicamente, ele atua como um intermediário entre a solicitação do usuário e os dados/modelos necessários para atender àquela solicitação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Views](https://docs.djangoproject.com/en/6.0/topics/http/views/)
+- [@official@Views](https://docs.djangoproject.com/pt-br/6.0/topics/http/views/)
 - [@article@Django Views](https://www.w3schools.com/django/django_views.php)
 - [@article@Django Views — The Right Way](https://spookylukey.github.io/django-views-the-right-way/index.html)

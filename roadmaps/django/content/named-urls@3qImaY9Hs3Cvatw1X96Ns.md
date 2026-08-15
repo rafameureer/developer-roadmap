@@ -1,10 +1,10 @@
-# Named URLs
+# URLs Nomeadas
 
-Named URLs in Django provide a way to refer to your URL patterns by name instead of hardcoding the URL strings in your templates and views. This allows you to change your URL structure without having to update every place where the URL is used, making your code more maintainable and less prone to errors. By assigning a unique name to each URL pattern, you can use this name to dynamically generate URLs, ensuring that your links remain consistent even if the underlying URL structure changes.
+URLs nomeadas no Django oferecem uma maneira de se referir a seus padrões de URL por nome em vez de codificar as strings de URL nas suas templates e views. Isso permite que você altere a estrutura da URL sem ter que atualizar todos os lugares onde a URL é usada, tornando o seu código mais manterável e menos propenso a erros. Atribuindo um nome único a cada padrão de URL, você pode usar esse nome para gerar URLs dinamicamente, garantindo que seus links permaneçam consistentes mesmo se a estrutura subjacente da URL mudar.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Naming URL patterns](https://docs.djangoproject.com/en/6.0/topics/http/urls/#naming-url-patterns)
-- [@article@Named URL patterns](https://www.hostinger.com/my/tutorials/django-url-patterns#Named_URL_patterns)
-- [@video@Django Tutorial #15 - Named URL's](https://www.youtube.com/watch?v=07YSCsscYhc)
-- [@video@Django URLs - Named URLS, url template-tag, Reversing URLs, URL namespaces, & get_absolute_url()](https://www.youtube.com/watch?v=obRENgwHS7A)
+- [@oficial@Nomenclatura de padrões de URL](https://docs.djangoproject.com/pt-br/3.2/topics/http/urls/#naming-url-patterns)
+- [@artigo@Padrões de URL nomeados](https://www.hostinger.com/my/tutorials/django-url-patterns#Named_URL_patterns)
+- [@vídeo@Tutorial Django #15 - URLs Nomeadas](https://www.youtube.com/watch?v=07YSCsscYhc)
+- [@vídeo@URLs no Django - URLs Nomeadas, url template-tag, Reversing URLs, URL namespaces, & get_absolute_url()](https://www.youtube.com/watch?v=obRENgwHS7A)

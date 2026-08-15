@@ -1,11 +1,11 @@
-# Pagination
+# Paginação
 
-Pagination divides large datasets into smaller, discrete pages, improving user experience and server performance. In Django, this is typically used when displaying a large number of objects, such as blog posts or product listings. Instead of loading all items at once, pagination allows users to navigate through the data in manageable chunks, reducing load times and making it easier to find specific information.
+A paginação divide grandes conjuntos de dados em páginas menores e discretas, melhorando a experiência do usuário e o desempenho do servidor. No Django, isso é típicamente usado ao exibir um grande número de objetos, como postagens de blog ou listagens de produtos. Em vez de carregar todos os itens de uma só vez, a paginação permite que os usuários naveguem pelos dados em partes gerenciáveis, reduzindo o tempo de carga e tornando mais fácil encontrar informações específicas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Pagination](https://docs.djangoproject.com/en/6.0/topics/pagination/)
-- [@official@Paginator](https://docs.djangoproject.com/en/6.0/ref/paginator/)
-- [@article@Pagination in Django](https://testdriven.io/blog/django-pagination/)
-- [@article@Django Pagination Tutorial with Example](https://medium.com/django-unleashed/django-pagination-tutorial-with-example-745cefd54eb3)
-- [@video@Pagination For Django - Django Wednesdays #18](https://www.youtube.com/watch?v=N-PB-HMFmdo)
+- [@oficial@Paginação](https://docs.djangoproject.com/pt-br/3.2/topics/pagination/)
+- [@oficial@Paginator](https://docs.djangoproject.com/pt-br/3.2/ref/paginator/)
+- [@artigo@Paginação no Django](https://testdriven.io/blog/django-pagination/)
+- [@artigo@Tutorial de Paginação do Django com Exemplo](https://medium.com/django-unleashed/django-pagination-tutorial-with-example-745cefd54eb3)
+- [@vídeo@Paginação para Django - Django Wednesdays #18](https://www.youtube.com/watch?v=N-PB-HMFmdo)

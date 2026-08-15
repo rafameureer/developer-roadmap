@@ -1,11 +1,11 @@
-# Model Relationships
+# Relacionamentos entre Modelos
 
-Model relationships in Django define how different models (database tables) are connected. These relationships allow you to link related data, such as a blog post belonging to a specific author or a customer having multiple orders. Django provides different types of relationships like One-to-One, One-to-Many (ForeignKey), and Many-to-Many to represent these connections effectively in your database schema.
+Os relacionamentos entre modelos no Django definem como diferentes modelos (tabelas do banco de dados) estão conectados. Esses relacionamentos permitem vincular dados relacionados, como um post de blog pertencendo a um autor específico ou um cliente tendo múltiplos pedidos. O Django fornece diferentes tipos de relacionamentos como One-to-One, One-to-Many (ForeignKey) e Many-to-Many para representar essas conexões eficazmente em seu esquema de banco de dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Relationships](https://docs.djangoproject.com/en/6.0/topics/db/models/#relationships)
-- [@official@Examples of model relationship API usage](https://docs.djangoproject.com/en/6.0/topics/db/examples/)
-- [@article@How to Define Relationships Between Django Models](https://www.freecodecamp.org/news/django-model-relationships/)
-- [@video@Understanding Django Model Relationships](http://youtube.com/watch?v=2KqhBkMv7aM)
-- [@video@Database Relationships | One To Many & Many to Many | Django (3.0) Crash Course Tutorials (pt 6)](https://www.youtube.com/watch?v=wIPHER2UBB4)
+- [@oficial@Relacionamentos](https://docs.djangoproject.com/pt-br/3.2/topics/db/models/#relationships)
+- [@oficial@Exemplos de uso da API de relacionamento do modelo](https://docs.djangoproject.com/pt-br/3.2/topics/db/examples/)
+- [@artigo@Como Definir Relacionamentos entre Modelos do Django](https://www.freecodecamp.org/news/django-model-relationships/)
+- [@vídeo@Entendendo os Relacionamentos de Modelo do Django](http://youtube.com/watch?v=2KqhBkMv7aM)
+- [@vídeo@Relacionamentos no Banco de Dados | One To Many & Many to Many | Django (3.0) Crash Course Tutorials (pt 6)](https://www.youtube.com/watch?v=wIPHER2UBB4)

@@ -1,9 +1,9 @@
-# Models.py
+# modelspy.py
 
-`models.py` is a Python file within a Django app that defines the structure of your application's data. It contains classes that represent database tables, with each class attribute representing a field in the table. These models allow you to interact with your database using Python code, abstracting away the complexities of raw SQL queries.
+`modelspy.py` é um arquivo Python dentro de uma aplicação Django que define a estrutura dos dados da sua aplicação. Ele contém classes que representam tabelas do banco de dados, com cada atributo da classe representando um campo na tabela. Esses modelos permitem interagir com o seu banco de dados usando código em Python, abstraindo as complexidades das consultas SQL brutas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Models](https://docs.djangoproject.com/en/6.0/topics/db/models/)
-- [@article@Django models](https://www.w3schools.com/django/django_models.php)
-- [@article@What exactly is model.py and how does it works?](https://medium.com/@stefano.passaro/what-exactly-is-model-py-and-how-does-it-works-31c3ab35af11)
+- [@oficial@Modelos](https://docs.djangoproject.com/pt-br/3.2/topics/db/models/)
+- [@artigo@Modelos do Django](https://www.w3schools.com/django/django_models.php)
+- [@artigo@O que é exatamente model.py e como ele funciona?](https://medium.com/@stefano.passaro/o-que-exatamente-e-model-py-e-como-ele-funciona-31c3ab35af11)

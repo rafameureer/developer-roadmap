@@ -1,10 +1,10 @@
 # Django-allauth
 
-Django-allauth is a reusable Django app that provides comprehensive social authentication, registration, account management, as well as local username/password authentication. It simplifies the process of integrating various authentication providers (like Google, Facebook, Twitter, etc.) into your Django project, handling the complexities of OAuth and other authentication protocols. It also offers features like email verification, password reset, and account linking.
+Django-allauth é uma aplicação Django reutilizável que fornece autenticação social, registro, gerenciamento de contas e também autenticação local com nome de usuário/senha. Ele simplifica o processo de integração de vários provedores de autenticação (como Google, Facebook, Twitter, etc.) em seu projeto Django, lidando com as complexidades do OAuth e outros protocolos de autenticação. Ele também oferece recursos como verificação de e-mail, redefinição de senha e vinculação de contas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@django-allauth](https://allauth.org/)
-- [@official@django-allauth Docs](https://docs.allauth.org/en/latest/)
-- [@article@Django-allauth Tutorial](https://learndjango.com/tutorials/django-allauth-tutorial)
+- [@official@Documentação do django-allauth](https://docs.allauth.org/en/latest/)
+- [@article@Tutorial do django-allauth](https://learndjango.com/tutorials/django-allauth-tutorial)
 - [@video@django-allauth - Deep Dive!](https://www.youtube.com/watch?v=nmj7ThneEnc&list=PL-2EBeDYMIbQqZZoo5Dj8YAkPnZeJfcZS)

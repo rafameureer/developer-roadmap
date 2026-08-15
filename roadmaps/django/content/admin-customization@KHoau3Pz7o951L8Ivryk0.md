@@ -1,11 +1,11 @@
-# Admin Customization
+# Personalização do Admin
 
-Admin customization in Django refers to modifying the default appearance and functionality of the Django admin interface. This involves tailoring the admin site to better suit the specific needs of a project, such as changing the display of fields, adding custom actions, or altering the overall layout. Customization allows developers to create a more user-friendly and efficient experience for content managers and administrators.
+A personalização do admin em Django refere-se à modificação da aparência e funcionalidade padrão da interface de administração do Django. Isso envolve ajustar o site de admin para se adequar às necessidades específicas de um projeto, como alterar a exibição dos campos, adicionar ações personalizadas ou modificar o layout geral. A personalização permite aos desenvolvedores criar uma experiência mais amigável e eficiente para os gerenciadores de conteúdo e administradores.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@The Django admin site](https://docs.djangoproject.com/en/6.0/ref/contrib/admin/#custom-template-options)
-- [@article@Customizing the Django Admin](https://testdriven.io/blog/customize-django-admin/)
-- [@article@Customize the Django Admin With Python](https://realpython.com/customize-django-admin-python/)
-- [@article@Customizing the Django Admin](https://earthly.dev/blog/customize-django-admin-site/)
-- [@video@Learn Django - Admin](https://www.youtube.com/watch?v=c_S0ZQs81XQ&list=PLOLrQ9Pn6cazhaxNDhcOIPYXt2zZhAXKO)
+- [@oficial@O site do admin do Django](https://docs.djangoproject.com/en/6.0/ref/contrib/admin/#custom-template-options)
+- [@artigo@Personalizando o Admin do Django](https://testdriven.io/blog/customize-django-admin/)
+- [@artigo@Personalizar o Admin do Django com Python](https://realpython.com/customize-django-admin-python/)
+- [@artigo@Personalizando o Admin do Django](https://earthly.dev/blog/customize-django-admin-site/)
+- [@vídeo@Aprenda Django - Admin](https://www.youtube.com/watch?v=c_S0ZQs81XQ&list=PLOLrQ9Pn6cazhaxNDhcOIPYXt2zZhAXKO)

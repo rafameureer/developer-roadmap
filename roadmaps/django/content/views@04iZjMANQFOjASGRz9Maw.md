@@ -1,10 +1,10 @@
-# Views
+# Visualizações
 
-Views are functions or classes in Django that take a web request and return a web response. They act as the intermediary between the model (data) and the template (presentation), processing user requests, retrieving data from the database, and rendering the appropriate template to display the information to the user. Essentially, a view determines what content is shown to the user when they visit a specific URL.
+As visualizações são funções ou classes no Django que recebem uma solicitação web e retornam uma resposta web. Elas atuam como intermediárias entre o modelo (dados) e a template (apresentação), processando as solicitações do usuário, recuperando dados do banco de dados e renderizando o template apropriado para exibir informações ao usuário. Em essência, uma visualização determina qual conteúdo é mostrado ao usuário quando ele visita uma URL específica.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Views](https://docs.djangoproject.com/en/6.0/topics/http/views/)
-- [@article@Django Views](https://www.w3schools.com/django/django_views.php)
-- [@article@Django Views — The Right Way¶](https://spookylukey.github.io/django-views-the-right-way/)
-- [@video@Django Tutorial #3 - URLs and Views](https://www.youtube.com/watch?v=TblSa29DX6I)
+- [@oficial@Visualizações](https://docs.djangoproject.com/pt-br/6.0/topics/http/views/)
+- [@artigo@Visualizações do Django](https://www.w3schools.com/django/django_views.php)
+- [@artigo@Visualizações do Django — A Melhor Maneira¶](https://spookylukey.github.io/django-views-the-right-way/)
+- [@vídeo@Tutorial do Django #3 - URLs e Visualizações](https://www.youtube.com/watch?v=TblSa29DX6I)

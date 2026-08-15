@@ -1,11 +1,11 @@
 # DetailView
 
-DetailView is a pre-built class-based view in Django that simplifies the process of displaying the details of a single object. It automatically fetches an object from the database based on a provided lookup (typically a primary key or slug) and renders it using a specified template. This eliminates the need to write repetitive code for common detail view scenarios.
+DetailView é uma classe de visualização pré-construída no Django que simplifica o processo de exibir os detalhes de um único objeto. Ele automaticamente busca um objeto do banco de dados com base em uma pesquisa fornecida (geralmente uma chave primária ou slug) e renderiza-o usando um modelo especificado. Isso elimina a necessidade de escrever código repetitivo para cenários comuns de visualização detalhada.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@DetailView](https://docs.djangoproject.com/en/6.0/ref/class-based-views/generic-display/#detailview)
-- [@article@Django DetailView](https://www.pythontutorial.net/django-tutorial/django-detailview/)
-- [@article@Django Tutorial Part 6: Generic list and detail views](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Server-side/Django/Generic_views)
-- [@video@Django 2 for Beginners #23 DetailView](https://www.youtube.com/watch?v=IkqsW8slOO0)
-- [@video@Django Full Course - 20.1 - Class Based Views. Built-in generic views (ListView, DetailView)](https://www.youtube.com/watch?v=SCvFhXNVVvs)
+- [@oficial@DetailView](https://docs.djangoproject.com/pt-br/3.2/ref/class-based-views/generic-display/#detailview)
+- [@artigo@DetailView do Django](https://www.pythontutorial.net/django-tutorial/django-detailview/)
+- [@artigo@Tutorial do Django Parte 6: Visualizações genéricas de lista e detalhes](https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Extensions/Server-side/Django/Generic_views)
+- [@vídeo@Django 2 para iniciantes #23 DetailView](https://www.youtube.com/watch?v=IkqsW8slOO0)
+- [@vídeo@Curso completo do Django - 20.1 - Visualizações baseadas em classes. Visualizações genéricas incorporadas (ListView, DetailView)](https://www.youtube.com/watch?v=SCvFhXNVVvs)

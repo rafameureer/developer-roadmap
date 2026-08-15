@@ -1,10 +1,10 @@
 # Fixtures
 
-Fixtures in Django provide a way to populate your database with initial data, useful for testing, development, or providing a default dataset for your application. They are typically data files (JSON, XML, or YAML) containing serialized data for one or more database tables, allowing you to easily load and unload data into your Django project's database. This ensures a consistent and repeatable database state.
+Fixtures em Django fornecem uma maneira de popular seu banco de dados com dados iniciais, útil para testes, desenvolvimento ou fornecer um conjunto de dados padrão para o seu aplicativo. Eles são geralmente arquivos de dados (JSON, XML ou YAML) contendo dados serializados para uma ou mais tabelas do banco de dados, permitindo que você carregue e descarregue facilmente dados em seu banco de dados do projeto Django. Isso garante um estado de banco de dados consistente e repetível.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Fixtures](https://docs.djangoproject.com/en/6.0/topics/db/fixtures/)
-- [@official@How to provide initial data for models](https://docs.djangoproject.com/en/6.0/howto/initial-data/)
-- [@article@Django Fixtures: A Guide to Managing Static and Test Data](https://www.mindbowser.com/django-fixtures-guide/)
-- [@video@Django 4.0: How to Build and Load Fixtures From Scratch](https://www.youtube.com/watch?v=llO8vj6duJc)
+- [@official@Como fornecer dados iniciais para modelos](https://docs.djangoproject.com/en/6.0/howto/initial-data/)
+- [@article@Django Fixtures: Um Guia para Gerenciar Dados Estáticos e de Teste](https://www.mindbowser.com/django-fixtures-guide/)
+- [@video@Django 4.0: Como Criar e Carregar Fixtures do Zero](https://www.youtube.com/watch?v=llO8vj6duJc)

@@ -1,7 +1,7 @@
 # Loggers
 
-Loggers are the entry points in Django's logging system that your code uses to record events. They capture messages, optionally filter them based on severity levels (like DEBUG, INFO, WARNING, ERROR, and CRITICAL), and then pass them on to handlers. Handlers determine what to do with the log messages, such as writing them to a file, sending them via email, or displaying them on the console. You can configure multiple loggers, each with its own settings, to manage different parts of your application's logging needs.
+Loggers são os pontos de entrada no sistema de registro do Django que seu código usa para registrar eventos. Eles capturam mensagens, opcionalmente filtrando-as com base em níveis de severidade (como DEBUG, INFO, WARNING, ERROR e CRITICAL), e depois as passam para os manipuladores. Os manipuladores determinam o que fazer com as mensagens de log, como escrevê-las em um arquivo, enviá-las por email ou exibi-las na console. Você pode configurar vários registradores, cada um com suas próprias configurações, para gerenciar diferentes partes das necessidades de registro do seu aplicativo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Loggers](https://docs.djangoproject.com/en/6.0/topics/logging/#loggers)
+- [@oficial@ Loggers](https://docs.djangoproject.com/en/6.0/topics/logging/#loggers)

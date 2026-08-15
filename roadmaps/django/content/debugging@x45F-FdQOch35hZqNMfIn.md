@@ -1,10 +1,10 @@
-# Debugging
+# Depuração
 
-Debugging in Django involves identifying and fixing errors in your code. When your Django application isn't working as expected, debugging helps you understand why. This process typically involves using tools and techniques to inspect your code's behavior, examine variables, and trace the flow of execution to pinpoint the source of the problem and resolve it.
+A depuração no Django envolve identificar e corrigir erros em seu código. Quando sua aplicação Django não está funcionando como esperado, a depuração ajuda você a entender por que isso acontece. Esse processo geralmente envolve o uso de ferramentas e técnicas para inspecionar o comportamento do seu código, examinar variáveis e rastrear o fluxo de execução para identificar a origem do problema e resolver.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@DEBUG Mode](https://docs.djangoproject.com/en/6.0/ref/settings/#std-setting-DEBUG)
-- [@article@Writing your first Django app, part 8¶](https://docs.djangoproject.com/en/6.0/intro/tutorial08/)
-- [@article@Mastering Django debugging: a complete guide](https://www.aubergine.co/insights/mastering-django-debugging-a-complete-guide)
-- [@video@How To Debug a Django Application in VS CODE (Visual Studio Code)](https://www.youtube.com/watch?v=spmFjhQIKOo)
+- [@article@Escrevendo seu primeiro aplicativo Django, parte 8¶](https://docs.djangoproject.com/en/6.0/intro/tutorial08/)
+- [@article@Dominando a depuração do Django: um guia completo](https://www.aubergine.co/insights/mastering-django-debugging-a-complete-guide)
+- [@video@Como Depurar uma Aplicação Django no VS CODE (Visual Studio Code)](https://www.youtube.com/watch?v=spmFjhQIKOo)

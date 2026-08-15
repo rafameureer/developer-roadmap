@@ -1,11 +1,11 @@
-# Regex Paths
+# Caminhos de Expressão Regular
 
-Regular expression paths in Django provide a powerful and flexible way to define URL patterns. Instead of using simple string matching, you can use regular expressions to capture specific parts of the URL and pass them as arguments to your view functions. This allows you to create dynamic and complex URL structures that can handle a wide range of user requests.
+Os caminhos de expressão regular no Django oferecem uma maneira poderosa e flexível de definir padrões de URL. Em vez de usar correspondência simples de strings, você pode usar expressões regulares para capturar partes específicas da URL e passá-las como argumentos para suas funções de exibição. Isso permite que você crie estruturas de URL dinâmicas e complexas que possam lidar com uma ampla gama de solicitações de usuário.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Using regular expressions](https://docs.djangoproject.com/en/6.0/topics/http/urls/#using-regular-expressions)
-- [@article@Understanding Django URL patterns](https://www.hostinger.com/my/tutorials/django-url-patterns)
-- [@article@How Django URLs work with Regular Expressions](https://www.codingforentrepreneurs.com/blog/how-django-urls-work-with-regular-expressions)
-- [@video@How Django URLs work with Regular Expressions](https://www.youtube.com/watch?v=8rExil_EWtk)
-- [@video@Learning Django - How to use url mapping with regexp (regular expression) in Django](https://www.youtube.com/watch?v=5zJ3LPWlfqU)
+- [@oficial@Usando expressões regulares](https://docs.djangoproject.com/pt-br/6.0/topics/http/urls/#using-regular-expressions)
+- [@artigo@Entendendo os padrões de URL no Django](https://www.hostinger.com/my/tutorials/django-url-patterns)
+- [@artigo@Como as URLs do Django funcionam com Expressões Regulares](https://www.codingforentrepreneurs.com/blog/how-django-urls-work-with-regular-expressions)
+- [@vídeo@Como as URLs do Django funcionam com Expressões Regulares](https://www.youtube.com/watch?v=8rExil_EWtk)
+- [@vídeo@Aprendendo o Django - Como usar mapeamento de URL com regexp (expressão regular) no Django](https://www.youtube.com/watch?v=5zJ3LPWlfqU)

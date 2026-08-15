@@ -1,10 +1,10 @@
-# Class-Based Views
+# Visualizações Baseadas em Classe
 
-Class-based views (CBVs) in Django are an alternative way to implement views using Python classes instead of functions. They provide a structured and reusable approach to handling common view logic, promoting code organization and reducing redundancy. CBVs leverage inheritance and mixins to offer a more object-oriented way to define views, making them easier to extend and customize.
+As visualizações baseadas em classe (CBVs) no Django oferecem uma alternativa para implementar visualizações usando classes em Python em vez de funções. Eles fornecem uma abordagem estruturada e reutilizável para lidar com lógica de visualização comum, promovendo a organização do código e reduzindo a redundância. As CBVs aproveitam a herança e os mixins para oferecer uma abordagem mais orientada a objetos para definir visualizações, tornando-as mais fáceis de estender e personalizar.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Class-based views](https://docs.djangoproject.com/en/6.0/topics/class-based-views/)
-- [@article@What Are Django Class-Based Views (CBVs) & its Advantages in 2024](https://www.horilla.com/blogs/what-are-django-class-based-views-cbvs-and-its-advantages/)
-- [@video@What are Django class based views & should you use them?](https://www.youtube.com/watch?v=RE0HlKch_3U)
-- [@video@Learn Django Class-Based Views - Using TemplateView - theory and examples](https://www.youtube.com/watch?v=GxA2I-n8NR8&list=PLOLrQ9Pn6caxNb9eFZJ6LfY29nZkKmmXT)
+- [@oficial@Visualizações Baseadas em Classe](https://docs.djangoproject.com/pt-br/4.2/topics/class-based-views/)
+- [@artigo@O que são as Visualizações Baseadas em Classe (CBVs) do Django e seus benefícios em 2023](https://www.horilla.com/blogs/o-que-sao-as-visualizacoes-baseadas-em-classe-cbvs-do-django-e-seus-beneficios/)
+- [@vídeo@O que são as Visualizações Baseadas em Classe do Django e você deve usá-las?](https://www.youtube.com/watch?v=RE0HlKch_3U)
+- [@vídeo@Aprenda as Visualizações Baseadas em Classe do Django - Usando TemplateView - teoria e exemplos](https://www.youtube.com/watch?v=GxA2I-n8NR8&list=PLOLrQ9Pn6caxNb9eFZJ6LfY29nZkKmmXT)

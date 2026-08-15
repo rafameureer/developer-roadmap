@@ -1,11 +1,11 @@
-# Users & Permissions
+# Usuários e Permissões
 
-User authentication and authorization are fundamental aspects of web application security. Django provides a built-in system for managing users, groups, and permissions, allowing developers to control access to different parts of their application. This system defines who can access what, ensuring data integrity and security.
+A autenticação de usuários e a autorização são aspectos fundamentais da segurança de aplicativos web. O Django fornece um sistema integrado para gerenciar usuários, grupos e permissões, permitindo que os desenvolvedores controlem o acesso a diferentes partes do seu aplicativo. Esse sistema define quem pode acessar o quê, garantindo a integridade dos dados e a segurança.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Using the Django authentication system](https://docs.djangoproject.com/en/6.0/topics/auth/default/#auth-admin)
-- [@official@Managing users in the admin](https://docs.djangoproject.com/en/6.0/topics/auth/default/#auth-admin)
-- [@article@Django Tutorial Part 8: User authentication and permissions](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Server-side/Django/Authentication)
-- [@article@Permissions in Django](https://testdriven.io/blog/django-permissions/)
-- [@video@Django Permissions system - deep dive with Users, Groups and Permissions](https://www.youtube.com/watch?v=IF_ZpCiZKkw)
+- [@oficial@Usando o Sistema de Autenticação do Django](https://docs.djangoproject.com/pt-br/6.0/topics/auth/default/#auth-admin)
+- [@oficial@Gerenciamento de usuários no admin](https://docs.djangoproject.com/pt-br/6.0/topics/auth/default/#auth-admin)
+- [@artigo@Tutorial do Django: Autenticação e permissões dos usuários](https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Extensions/Server-side/Django/Authentication)
+- [@artigo@Permissões no Django](https://testdriven.io/blog/django-permissions/)
+- [@vídeo Sistema de Permissões do Django - mergulho profundo com Usuários, Grupos e Permissões](https://www.youtube.com/watch?v=IF_ZpCiZKkw)

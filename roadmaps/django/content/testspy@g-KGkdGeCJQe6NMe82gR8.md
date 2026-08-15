@@ -1,8 +1,8 @@
 # tests.py
 
-`tests.py` is a Python file within a Django app's directory that is dedicated to containing tests for that specific app. It allows developers to write and execute automated tests to ensure the app's functionality works as expected, covering various aspects like models, views, and forms. These tests help prevent bugs, ensure code quality, and facilitate easier refactoring and maintenance.
+`tests.py` é um arquivo Python dentro do diretório de uma aplicação Django que está dedicado a conter testes para essa aplicação específica. Ele permite aos desenvolvedores escrever e executar testes automatizados para garantir que a funcionalidade da aplicação esteja funcionando conforme o esperado, cobrindo diversos aspectos como modelos, views e formulários. Esses testes ajudam a prevenir bugs, garantir a qualidade do código e facilitar a refatoração e manutenção.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Writing and running tests](https://docs.djangoproject.com/en/6.0/topics/testing/overview/)
-- [@video@Testing in Django Tutorial #4 - Django Testing Basics](https://www.youtube.com/watch?v=QklKI2etw30)
+- [@official@Escrevendo e executando testes](https://docs.djangoproject.com/pt-br/4.1/topics/testing/overview/)
+- [@video@Tutorial de Testes em Django #4 - Básicos de Testes em Django](https://www.youtube.com/watch?v=QklKI2etw30)

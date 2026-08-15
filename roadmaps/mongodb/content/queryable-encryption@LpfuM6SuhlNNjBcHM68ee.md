@@ -1,8 +1,8 @@
-# Queryable Encryption
+# Criptografia Consultável
 
-Queryable Encryption is MongoDB's advanced security feature that allows you to encrypt sensitive data while still being able to query it efficiently without decrypting the entire dataset. This cryptographic technique enables applications to perform equality queries on encrypted fields using deterministic encryption and range queries using order-preserving encryption, providing a balance between data security and functionality. It's particularly valuable for applications that need to comply with strict data protection regulations while maintaining the ability to search and filter encrypted data, such as healthcare systems handling patient records or financial applications managing sensitive transaction data.
+A Criptografia Consultável é uma funcionalidade avançada de segurança do MongoDB que permite criptografar dados sensíveis enquanto ainda consegue realizar consultas eficientes sem descriptografar todo o conjunto de dados. Esta técnica criptográfica habilita aplicativos a realizar consultas de igualdade em campos criptografados usando criptografia determinística e consultas de intervalo usando criptografia que preserva a ordem, proporcionando um equilíbrio entre segurança de dados e funcionalidade. É particularmente valioso para aplicativos que precisam se conformar com regulamentos estritos de proteção de dados enquanto mantêm a capacidade de pesquisar e filtrar dados criptografados, como sistemas de saúde que lidam com registros de pacientes ou aplicativos financeiros que gerenciam dados transacionais sensíveis.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Queryable Encryption](https://www.mongodb.com/docs/manual/core/queryable-encryption/)
-- [@article@Queryable Encryption in MongoDB](https://www.geopits.com/blog/intro-to-queryable-encryption-in-mongodb.html)
+- [@oficial@Criptografia Consultável](https://www.mongodb.com/docs/manual/core/queryable-encryption/)
+- [@artigo@Criptografia Consultável no MongoDB](https://www.geopits.com/blog/intro-to-queryable-encryption-in-mongodb.html)

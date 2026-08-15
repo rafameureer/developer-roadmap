@@ -1,8 +1,8 @@
-# Null
+# Nulo
 
-Null data type in MongoDB represents absent or undefined values, distinct from empty strings or zero values. Null fields can be queried, indexed, and participate in aggregation operations with special handling. MongoDB treats null values specifically in comparisons and provides the $exists operator to distinguish between null values and missing fields in document structures.
+O tipo de dado nulo no MongoDB representa valores ausentes ou indefinidos, distintos de strings vazias ou zeros. Campos nulos podem ser consultados, indexados e participar de operações de agregação com tratamento especial. O MongoDB trata valores nulos especificamente em comparações e fornece o operador `$exists` para distinguir entre valores nulos e campos ausentes na estrutura dos documentos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Query for Null or Missing Fields](https://www.mongodb.com/docs/manual/tutorial/query-for-null-fields/)
-- [@article@Master Null Handling in MongoDB](https://www.mydbops.com/blog/null-handling-in-mongodb)
+- [@official@Consulta por Campos Nulos ou Ausentes](https://www.mongodb.com/docs/manual/tutorial/query-for-null-fields/)
+- [@article@Dominando o Tratamento de Nulos no MongoDB](https://www.mydbops.com/blog/null-handling-in-mongodb)

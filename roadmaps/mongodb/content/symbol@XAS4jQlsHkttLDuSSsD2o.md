@@ -1,8 +1,8 @@
-# Symbol
+# Símbolo
 
-The symbol is often used in the context of BSON (Binary JSON) data types, which allows for the representation of various data structures. While MongoDB does not have a specific "symbol" data type like some programming languages, it utilizes BSON to store data efficiently, enabling developers to work with complex data types and structures seamlessly.
+O símbolo é frequentemente usado no contexto de tipos de dados BSON (Binary JSON), que permite a representação de várias estruturas de dados. Embora o MongoDB não tenha um tipo de dado específico "symbol" como alguns idiomas de programação, ele utiliza BSON para armazenar dados eficientemente, permitindo aos desenvolvedores trabalhar com tipos e estruturas de dados complexos sem problemas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Field Names with Periods and Dollar Signs](https://www.mongodb.com/docs/manual/core/dot-dollar-considerations/)
-- [@official@Symbols - MongoDB Meta Documents](https://www.mongodb.com/docs/meta/style-guide/style/symbols/)
+- [@oficial@Nomes de Campos com Pontos e Símbolos de Dólar](https://www.mongodb.com/docs/manual/core/dot-dollar-considerations/)
+- [@oficial@Símbolos - Documentos Meta do MongoDB](https://www.mongodb.com/docs/meta/style-guide/style/symbols/)

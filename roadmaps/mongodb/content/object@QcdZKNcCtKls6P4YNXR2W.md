@@ -1,8 +1,8 @@
 # Object
 
-Object data type is used to store embedded documents, allowing for complex data structures within a single document. This type is essential for organizing related data hierarchically, enabling efficient querying and data manipulation.
+O tipo de dados Object é usado para armazenar documentos embebidos, permitindo estruturas de dados complexas dentro de um único documento. Esse tipo é essencial para organizar dados relacionados hieraricamente, facilitando consultas e manipulação de dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Data Types](https://www.mongodb.com/docs/mongodb-shell/reference/data-types/)
-- [@article@Object data type in MongoDB](https://www.slingacademy.com/article/object-data-type-in-mongodb-tutorial-examples/)
+- [@official@Tipos de Dados](https://www.mongodb.com/docs/mongodb-shell/reference/data-types/)
+- [@article@Tipo de dados Object no MongoDB](https://www.slingacademy.com/article/object-data-type-in-mongodb-tutorial-examples/)

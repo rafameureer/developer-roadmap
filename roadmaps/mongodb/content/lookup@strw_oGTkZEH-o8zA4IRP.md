@@ -1,8 +1,8 @@
 # $lookup
 
-The `$lookup` aggregation stage performs left outer joins between collections, similar to SQL JOINs. It adds an array field containing matching documents from the "joined" collection based on specified local and foreign fields. `$lookup` supports pipeline-based lookups for complex matching conditions and enables denormalization of related data for efficient querying and reporting.
+A etapa de agregação `$lookup` realiza junções à esquerda entre coleções, semelhantes às junções SQL. Ela adiciona um campo de array contendo documentos correspondentes da "coleção associada" com base em campos locais e estrangeiros especificados. O `$lookup` suporta lookups baseados em pipeline para condições de correspondência complexas e habilita a desnormalização de dados relacionados para consultas e relatórios eficientes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@$lookup](https://www.mongodb.com/docs/manual/reference/operator/aggregation/lookup/)
-- [@official@Aggregation Operators](https://www.mongodb.com/docs/manual/reference/operator/aggregation/)
+- [@official@Operadores de Agregação](https://www.mongodb.com/docs/manual/reference/operator/aggregation/)

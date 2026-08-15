@@ -1,8 +1,8 @@
 # $nin
 
-The `$nin` (not in) operator in MongoDB selects documents where a field value does not match any value in a specified array. It's the logical opposite of $in and excludes documents with field values present in the given array. `$nin` is useful for filtering out unwanted values, excluding specific categories, and creating blacklist-style queries.
+O operador `$nin` (not in) no MongoDB seleciona documentos onde o valor de um campo não corresponde a nenhum valor em um array especificado. É o oposto lógico do `$in` e exclui documentos com valores de campos presentes no array fornecido. O `$nin` é útil para filtrar valores indesejados, excluir categorias específicas e criar consultas estilo blacklist.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@$nin](https://www.mongodb.com/docs/manual/reference/operator/aggregation/nin/)
-- [@official@Aggregation Operators](https://www.mongodb.com/docs/manual/reference/operator/aggregation/)
+- [@official@Operadores de Agregação](https://www.mongodb.com/docs/manual/reference/operator/aggregation/)

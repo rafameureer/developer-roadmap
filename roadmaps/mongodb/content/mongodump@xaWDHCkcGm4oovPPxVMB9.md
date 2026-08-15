@@ -1,8 +1,8 @@
 # mongodump
 
-mongodump is a MongoDB utility that creates binary backups of database content by exporting data in BSON format. It supports selective backup options including specific databases, collections, and query-based filtering. mongodump preserves data types, indexes metadata, and can perform live backups without stopping the database, making it essential for backup strategies and data migration workflows.
+mongodump é uma utilidade do MongoDB que cria backups binários de conteúdo do banco de dados exportando dados no formato BSON. Ele suporta opções de backup selectivas, incluindo bancos de dados específicos, coleções e filtragem baseada em consultas. O mongodump preserva tipos de dados, metadados dos índices e pode realizar backups em tempo real sem parar o banco de dados, tornando-o essencial para estratégias de backup e fluxos de trabalho de migração de dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@mongodump](https://www.mongodb.com/docs/database-tools/mongodump/)
-- [@article@How To Use mongodump for MongoDB Backups](https://www.bmc.com/blogs/mongodb-mongodump/3)
+- [@oficial@mongodump](https://www.mongodb.com/docs/database-tools/mongodump/)
+- [@artigo@Como Usar mongodump para Backups do MongoDB](https://www.bmc.com/blogs/mongodb-mongodump/3)

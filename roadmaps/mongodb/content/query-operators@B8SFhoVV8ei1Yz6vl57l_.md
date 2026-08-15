@@ -1,9 +1,9 @@
-# Query Operators
+# Operadores de Consulta
 
-Query operators in MongoDB enable sophisticated document filtering and selection using comparison, logical, element, evaluation, and array operators. These include equality operators ($eq, $ne), comparison operators ($gt, $lt, $gte, $lte), logical operators ($and, $or, $not), and specialized operators for arrays ($in, $nin, $all) and existence checks ($exists), providing powerful and flexible querying capabilities.
+Os operadores de consulta no MongoDB permitem a filtragem e seleção sofisticada de documentos usando operadores de comparação, lógica, elementos, avaliação e arrays. Isso inclui operadores de igualdade (`$eq`, `$ne`), operadores de comparação (`$gt`, `$lt`, `$gte`, `$lte`), operadores lógicos (`$and`, `$or`, `$not`) e operadores especializados para arrays (`$in`, `$nin`, `$all`) e verificações de existência (`$exists`), fornecendo capacidades de consulta poderosas e flexíveis.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Query and Projection Operators](https://www.mongodb.com/docs/manual/reference/operator/query/)
+- [@official@Operadores de Consulta e Projeção](https://www.mongodb.com/docs/manual/reference/operator/query/)
 - [@official@$project](https://www.mongodb.com/docs/manual/reference/operator/aggregation/project/)
-- [@official@Aggregation Operators](https://www.mongodb.com/docs/manual/reference/operator/aggregation/)
+- [@official@Operadores de Agregação](https://www.mongodb.com/docs/manual/reference/operator/aggregation/)

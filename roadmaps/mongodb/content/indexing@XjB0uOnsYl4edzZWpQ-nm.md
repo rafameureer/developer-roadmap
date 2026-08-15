@@ -1,9 +1,9 @@
-# Indexing
+# Indexação
 
-Indexing in MongoDB creates data structures that improve query performance by creating shortcuts to documents. Indexes are built on specific fields and allow the database to quickly locate data without scanning entire collections. MongoDB supports various index types including single field, compound, multikey, geospatial, text, and hashed indexes to optimize different query patterns and use cases.
+A indexação no MongoDB cria estruturas de dados que melhoram a performance das consultas criando atalhos para documentos. Índices são construídos em campos específicos e permitem que o banco de dados localize rapidamente os dados sem escanear coleções inteiras. O MongoDB suporta vários tipos de índices, incluindo índices simples, compostos, multi-chave, geoespaciais, de texto e hashados para otimizar diferentes padrões de consulta e casos de uso.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@Indexing Design Fundamentals Skill Badge](https://learn.mongodb.com/courses/indexing-design-fundamentals)
-- [@official@Indexing](https://www.mongodb.com/docs/manual/indexes/)
-- [@article@How To Use Indexes in MongoDB](https://www.digitalocean.com/community/tutorials/how-to-use-indexes-in-mongodb)
+- [@curso@Fundamentos da Designação de Índice Badge Skill](https://learn.mongodb.com/courses/indexing-design-fundamentals)
+- [@oficial@Indexação](https://www.mongodb.com/docs/manual/indexes/)
+- [@artigo@Como Usar Índices no MongoDB](https://www.digitalocean.com/community/tutorials/how-to-use-indexes-in-mongodb)

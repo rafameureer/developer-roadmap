@@ -1,8 +1,8 @@
-# Single Field Indexes
+# Índices de Campo Único
 
-Single field indexes in MongoDB are created on individual document fields to optimize queries filtering, sorting, or ranging on that specific field. They can be ascending (1) or descending (-1) and automatically optimize equality, range, and sort operations. Single field indexes are the simplest index type and form the foundation for more complex indexing strategies.
+Os índices de campo único no MongoDB são criados em campos individuais de documentos para otimizar consultas que filtram, ordenam ou têm faixas nesses campos específicos. Eles podem ser ascendentes (1) ou descendentes (-1) e otimizam automaticamente operações de igualdade, faixa e classificação. Os índices de campo único são o tipo de índice mais simples e formam a base para estratégias de indexação mais complexas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Single Field Indexes](https://www.mongodb.com/docs/manual/core/indexes/index-types/index-single/)
-- [@article@How to Create Single-Field Indexes in MongoDB for Faster Queries](https://javascript.plainenglish.io/how-to-create-single-field-indexes-in-mongodb-for-faster-queries-a9b816924b5a)
+- [@oficial@Índices de Campo Único](https://www.mongodb.com/docs/manual/core/indexes/index-types/index-single/)
+- [@artigo@Como Criar Índices de Campo Únicos no MongoDB para Consultas Mais Rápidas](https://javascript.plainenglish.io/how-to-create-single-field-indexes-in-mongodb-for-faster-queries-a9b816924b5a)

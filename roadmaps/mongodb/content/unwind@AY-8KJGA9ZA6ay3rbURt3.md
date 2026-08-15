@@ -1,8 +1,8 @@
 # $unwind
 
-The `$unwind` aggregation stage deconstructs array fields, creating separate documents for each array element. It's essential for processing documents with embedded arrays by flattening them into individual records. `$unwind` supports options for preserving null/empty arrays and including array indices, enabling detailed analysis of array-based data structures and normalization workflows.
+A etapa de agregação `$unwind` desmonta campos de array, criando documentos separados para cada elemento do array. É essencial para processar documentos com arrays incorporados ao achatá-los em registros individuais. O `$unwind` suporta opções para preservar arrays nulos/vazios e incluir índices de array, permitindo uma análise detalhada de estruturas de dados baseadas em arrays e fluxos de normalização.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@$unwind](https://www.mongodb.com/docs/manual/reference/operator/aggregation/unwind/)
-- [@article@Advanced Techniques with MongoDB: Mastering Lookup](https://medium.com/@akshatgupta1903/advanced-techniques-with-mongodb-mastering-lookup-and-unwind-acfc8a8ad5b9)
+- [@article@Técnicas Avançadas com MongoDB: Dominando Lookup](https://medium.com/@akshatgupta1903/advanced-techniques-with-mongodb-mastering-lookup-and-unwind-acfc8a8ad5b9)

@@ -1,8 +1,8 @@
 # Transactions
 
-Transactions in MongoDB provide ACID guarantees for multi-document operations, ensuring data consistency across multiple operations. They support read and write operations spanning multiple documents, collections, and databases within a single atomic unit. Transactions use snapshot isolation and optimistic concurrency control, making them essential for applications requiring strict data integrity and consistency.
+As transações no MongoDB fornecem garantias ACID para operações multidocumento, garantindo a consistência dos dados em várias operações. Eles suportam operações de leitura e escrita que abrangem vários documentos, coleções e bancos de dados dentro de uma única unidade atômica. As transações usam isolamento de instantâneo e controle de concorrência otimista, tornando-as essenciais para aplicativos que requerem integridade e consistência estritas dos dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Transactions](https://www.mongodb.com/docs/manual/core/transactions/)
-- [@article@Transactions in MongoDB Basics and Example](https://medium.com/@vikramgyawali57/transactions-in-mongodb-basics-and-example-4c2d8aab55eb)
+- [@article@Transações no MongoDB: Conceitos básicos e exemplo](https://medium.com/@vikramgyawali57/transactions-in-mongodb-basics-and-example-4c2d8aab55eb)

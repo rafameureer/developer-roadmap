@@ -1,8 +1,8 @@
-# Cursors
+# Cursor
 
-Cursors in MongoDB are pointers to query result sets that enable efficient iteration through large datasets without loading all documents into memory. They support methods like `hasNext(), next(), forEach(), and limit()` for result manipulation. Cursors automatically handle batching, provide lazy loading of results, and can be configured with timeouts and batch sizes for optimal performance.
+Os cursor no MongoDB são ponteiros para conjuntos de resultados de consultas que permitem a iteração eficiente em grandes conjuntos de dados sem carregar todos os documentos na memória. Eles suportam métodos como `hasNext(), next(), forEach()` e `limit()` para manipulação dos resultados. Os cursor lidam automaticamente com o batch, fornecem carregamento lento dos resultados e podem ser configurados com timeouts e tamanhos de batch para a performance ótima.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Cursors](https://www.mongodb.com/docs/manual/reference/method/js-cursor/)
-- [@article@Understanding Cursor in MongoDB](https://medium.com/@satyamguptaece/understanding-cursor-in-mongodb-b8a9e1a8cb0c)
+- [@oficial@Cursor](https://www.mongodb.com/docs/manual/reference/method/js-cursor/)
+- [@artigo@Entendendo Cursor no MongoDB](https://medium.com/@satyamguptaece/understanding-cursor-in-mongodb-b8a9e1a8cb0c)

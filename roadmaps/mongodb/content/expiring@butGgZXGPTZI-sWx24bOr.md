@@ -1,9 +1,9 @@
-# Expiring
+# Expirando
 
-Expiring indexes (TTL - Time To Live) in MongoDB automatically delete documents from a collection after a specified period, making them ideal for managing time-sensitive data like session information, log entries, temporary caches, or any data that becomes obsolete after a certain duration. These indexes are created on date fields and use a background process that runs every 60 seconds to remove expired documents, helping maintain optimal collection size and performance by preventing the accumulation of outdated data. TTL indexes are particularly useful for applications that generate large volumes of transient data, as they provide an automated cleanup mechanism that reduces storage costs and improves query performance without requiring manual intervention or complex application logic to handle data expiration.
+Índices expirados (TTL - Time To Live) no MongoDB automaticamente excluem documentos de uma coleção após um período especificado, tornando-os ideais para gerenciar dados sensíveis ao tempo como informações de sessão, entradas de log, caches temporários ou qualquer dado que se torna obsoleto após um determinado período. Esses índices são criados em campos de data e usam um processo em segundo plano que roda a cada 60 segundos para remover documentos expirados, ajudando a manter o tamanho ótimo da coleção e desempenho ao evitar a acumulação de dados obsoletos. Índices TTL são particularmente úteis para aplicativos que geram grandes volumes de dados transientes, pois fornecem um mecanismo de limpeza automática que reduz custos de armazenamento e melhora o desempenho das consultas sem a necessidade de intervenção manual ou lógica complexa do aplicativo para lidar com a expiração dos dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Expire Data from Collections by Setting TTL](https://www.mongodb.com/docs/manual/tutorial/expire-data/)
-- [@article@Understanding TTL in MongoDB](https://medium.com/@darshitanjaria/understanding-ttl-in-mongodb-automatically-expiring-documents-e8b1defc1158)
-- [@article@Understanding MongoDB Indexes and Expiry](https://stenzr.medium.com/understanding-mongodb-indexes-and-expiry-019831790542)
+- [@official@Excluir Dados de Coleções Definindo TTL](https://www.mongodb.com/docs/manual/tutorial/expire-data/)
+- [@article@Entendendo TTL no MongoDB](https://medium.com/@darshitanjaria/understanding-ttl-in-mongodb-automatically-expiring-documents-e8b1defc1158)
+- [@article@Compreendendo Índices e Expiração do MongoDB](https://stenzr.medium.com/understanding-mongodb-indexes-and-expiry-019831790542)

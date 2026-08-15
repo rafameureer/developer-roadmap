@@ -1,9 +1,9 @@
-# What is MongoDB Atlas?
+# O que é MongoDB Atlas?
 
-MongoDB Atlas is a fully-managed cloud database service offered by MongoDB that simplifies database management for developers by automating tasks such as provisioning, scaling, and backups. It supports multi-cloud deployments across major providers like AWS, Google Cloud, and Azure, allowing for flexibility and resilience. With integrated data services, real-time insights, and cost efficiency, MongoDB Atlas enables developers to build intelligent applications and manage data seamlessly, empowering them to focus on application development rather than database maintenance.
+MongoDB Atlas é um serviço de banco de dados em nuvem totalmente gerenciado oferecido pela MongoDB, que simplifica a gestão do banco de dados para os desenvolvedores automatizando tarefas como aprovisionamento, escalonamento e backups. Ele suporta implantações multi-cloud em grandes provedores como AWS, Google Cloud e Azure, permitindo flexibilidade e resiliência. Com serviços de dados integrados, insights em tempo real e eficiência operacional, MongoDB Atlas permite aos desenvolvedores construir aplicativos inteligentes e gerenciar dados de forma transparente, empoderando-os a se concentrar na desenvolvimento do aplicativo em vez da manutenção do banco de dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@Atlas Essentials Course | MongoDB University](https://learn.mongodb.com/learning-paths/atlas-essentials)
-- [@official@MongoDB Atlas | The Modern, Multi-Cloud Database](https://www.mongodb.com/atlas)
-- [@official@What is Atlas?](https://www.mongodb.com/docs/atlas/)
+- [@curso@Curso Essentials do Atlas | MongoDB University](https://learn.mongodb.com/learning-paths/atlas-essentials)
+- [@oficial@MongoDB Atlas | O Banco de Dados Multi-Nuvem Moderno](https://www.mongodb.com/atlas)
+- [@oficial@O que é o Atlas?](https://www.mongodb.com/docs/atlas/)

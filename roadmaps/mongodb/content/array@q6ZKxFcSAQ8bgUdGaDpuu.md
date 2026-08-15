@@ -1,8 +1,8 @@
 # Array
 
-Array data type in MongoDB stores ordered lists of values including mixed data types, nested arrays, and embedded documents. Arrays support indexing with multikey indexes, enabling efficient queries on array elements. Special array operators like $push, $pull, $addToSet modify arrays, while query operators like $in, $all, $elemMatch enable sophisticated array querying and element matching capabilities.
+O tipo de dados Array no MongoDB armazena listas ordenadas de valores, incluindo tipos de dados mistos, arrays aninhados e documentos incorporados. Os Arrays suportam indexação com índices multi-chave, permitindo consultas eficientes em elementos do array. Operadores especiais de array como $push, $pull, $addToSet modificam arrays, enquanto operadores de consulta como $in, $all, $elemMatch habilitam capacidades sofisticadas de consulta e correspondência de elementos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Query an Array](https://www.mongodb.com/docs/manual/tutorial/query-arrays/)
-- [@article@Mastering the Art of Querying Arrays in MongoDB](https://medium.com/dataprophet/mastering-the-art-of-querying-arrays-in-mongodb-a-comprehensive-guide-a70b83447be7)
+- [@official@Consulte um Array](https://www.mongodb.com/docs/manual/tutorial/query-arrays/)
+- [@article@Dominando a Arte de Consultar Arrays no MongoDB](https://medium.com/dataprophet/mastering-the-art-of-querying-arrays-in-mongodb-a-comprehensive-guide-a70b83447be7)

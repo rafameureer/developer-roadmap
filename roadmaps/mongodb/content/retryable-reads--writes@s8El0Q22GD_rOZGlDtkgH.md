@@ -1,8 +1,8 @@
-# Retryable Reads / Writes
+# Leituras e Escritas Retransmissíveis
 
-Retryable reads and writes in MongoDB are client-side features that automatically retry certain database operations when they encounter transient network errors or temporary server unavailability, improving application resilience and user experience. The MongoDB drivers can automatically retry read operations and specific write operations (like inserts, updates, deletes, and findAndModify) exactly once when they fail due to network issues, replica set elections, or other recoverable errors, without requiring changes to application code. This feature is particularly valuable in distributed environments, cloud deployments, and replica set configurations where temporary connectivity issues or failover events are common, as it reduces the likelihood of application errors and provides a better user experience by handling transient failures transparently.
+Leituras e escritas retransmissíveis no MongoDB são recursos do lado do cliente que automaticamente repetem determinadas operações de banco de dados quando elas encrontram erros de rede transitórios ou indisponibilidade temporária do servidor, melhorando a resiliência da aplicação e a experiência do usuário. Os drivers do MongoDB podem retransmitir automaticamente operações de leitura e certas operações de escrita (como inserções, atualizações, exclusões e findAndModify) exatamente uma vez quando elas falham devido a problemas de rede, eleições de conjunto de réplicas ou outros erros recuperáveis, sem exigir alterações no código da aplicação. Esta funcionalidade é particularmente valiosa em ambientes distribuídos, implantações na nuvem e configurações de conjunto de réplicas onde problemas temporários de conectividade ou eventos de failover são comuns, pois reduz a probabilidade de erros de aplicativo e fornece uma melhor experiência do usuário lidando com falhas transitórias transparentemente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Retryable Reads](https://www.mongodb.com/docs/manual/core/retryable-writes/)
-- [@official@Retryable Writes](https://www.mongodb.com/docs/manual/core/retryable-reads/)
+- [@oficial@Leituras Retransmissíveis](https://www.mongodb.com/docs/manual/core/retryable-writes/)
+- [@oficial@Escritas Retransmissíveis](https://www.mongodb.com/docs/manual/core/retryable-reads/)

@@ -1,9 +1,9 @@
 # $project
 
-The `$project` stage in MongoDB aggregation pipelines is used to reshape documents by including, excluding, or transforming fields, allowing you to control exactly which data is passed to subsequent pipeline stages. It can perform field selection (similar to SQL SELECT), create computed fields using expressions, rename fields, nest or flatten document structures, and apply various transformations like mathematical operations, string manipulations, or date formatting.
+A fase `$project` no pipeline de agregação do MongoDB é usada para reformatar documentos, incluindo, excluindo ou transformando campos, permitindo que você controle exatamente quais dados são passados para as fases subsequentes do pipeline. Ela pode realizar seleção de campo (similar ao `SELECT` em SQL), criar campos computados usando expressões, renomear campos, aninhar ou achatar estruturas de documentos e aplicar várias transformações como operações matemáticas, manipulação de strings ou formatação de data.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Aggregation Pipeline](https://www.mongodb.com/docs/manual/core/aggregation-pipeline/)
+- [@official@Pipeline de Agregação](https://www.mongodb.com/docs/manual/core/aggregation-pipeline/)
 - [@official@$project](https://www.mongodb.com/docs/manual/reference/operator/aggregation/project/)
 - [@official@$group](https://www.mongodb.com/docs/manual/reference/operator/aggregation/group/)

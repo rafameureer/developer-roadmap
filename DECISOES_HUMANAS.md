@@ -4,7 +4,7 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 
 ---
 
-> ⚠️ **Total de itens sinalizados:** 1211
+> ⚠️ **Total de itens sinalizados:** 1226
 
 | Arquivo / Tópico | Motivo da Sinalização | Data/Hora |
 |---|---|---|
@@ -1219,3 +1219,18 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 | `roadmaps/mlops/content/model-training--serving@zsW1NRb0dMgS-KzWsI0QU.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:45:55.988213 |
 | `roadmaps/mlops/content/monitoring--observability@fR4Qr_ifoBLTpxdkJ50rB.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:46:01.167394 |
 | `roadmaps/mlops/content/monitoring--observability@r4fbUwD83uYumEO1X8f09.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:46:08.358977 |
+| `roadmaps/mongodb/content/boolean@hmo7zCZ1jKgobS5R0eBSD.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:48:41.850434 |
+| `roadmaps/mongodb/content/bson-vs-json@F4W9XBSbkpzWIrAhRBSRS.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:48:46.392789 |
+| `roadmaps/mongodb/content/bulkwrite-and-relevant@yc2HqhjhIV6UU_2P-ykKB.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:48:50.457377 |
+| `roadmaps/mongodb/content/data-model--data-types@_UIfRdlj6BeEESw1FW9RH.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:49:41.425150 |
+| `roadmaps/mongodb/content/date@T6cq--pute6-8aG7z6QKN.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:49:45.341540 |
+| `roadmaps/mongodb/content/decimal128@OGtR5D_DUCSci1lFBT83z.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:49:49.364375 |
+| `roadmaps/mongodb/content/kerberos-authentication@YuzMOO7kf2tO6V6WehqF_.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:52:02.854055 |
+| `roadmaps/mongodb/content/language-drivers@73REfcB_T0yBP-KQ0EYmF.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:52:09.784892 |
+| `roadmaps/mongodb/content/ldap-proxy-auth@NoDNdno9UOlMrOC0Wga9E.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:52:14.040311 |
+| `roadmaps/mongodb/content/regex@PmfjHFz-DW69pNh_t13Nm.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:54:47.743578 |
+| `roadmaps/mongodb/content/regular-expression@z6I9XgIGQYWUd5l9DIZRX.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:54:53.003666 |
+| `roadmaps/mongodb/content/replicasets@QrHT-H12AV4-V-y_nzmNk.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:54:59.357921 |
+| `roadmaps/mongodb/content/what-is-mongodb@tJljSlb5S_tZLZhZHHd_I.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:57:22.166169 |
+| `roadmaps/mongodb/content/when-to-use-mongodb@qh8MEbXKPVt8mqlarhUj0.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:57:27.011195 |
+| `roadmaps/mongodb/content/x509-certificate-auth@NV39oWwr7iB_dnlnD_Q6Y.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:57:36.421445 |

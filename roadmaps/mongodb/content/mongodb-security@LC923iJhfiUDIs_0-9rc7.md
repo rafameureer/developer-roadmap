@@ -1,10 +1,10 @@
-# MongoDB Security
+# Segurança do MongoDB
 
-MongoDB security encompasses authentication, authorization, encryption, auditing, and network security features. It includes role-based access control (RBAC), field-level security, encryption in transit and at rest, and comprehensive audit logging. MongoDB provides multiple authentication mechanisms including SCRAM, x.509 certificates, LDAP, and Kerberos to secure database access and protect sensitive data from unauthorized access.
+A segurança do MongoDB abrange autenticação, autorização, criptografia, auditoria e recursos de segurança da rede. Inclui o controle de acesso baseado em papéis (RBAC), segurança no nível do campo, criptografia em transito e em repouso, e registro de auditoria completo. O MongoDB oferece várias mecanismos de autenticação, incluindo SCRAM, certificados x.509, LDAP e Kerberos, para proteger o acesso ao banco de dados e proteger dados sensíveis de acesso não autorizado.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@Secure MongoDB Self-Managed: AuthN and AuthZ Skill Badge](https://learn.mongodb.com/courses/secure-mongodb-self-managed-authn-and-authz)
-- [@official@MongoDB Security](https://www.mongodb.com/docs/manual/security/)
-- [@official@MongoDB Database Documentation](https://www.mongodb.com/docs/)
-- [@article@MongoDB Security: Best Practices to Keep Your Data Safe](https://www.digitalocean.com/community/tutorial-series/mongodb-security-best-practices-to-keep-your-data-safe)
+- [@curso@Certificado de Habilidade em Autenticação e Autorização do MongoDB Self-Managed](https://learn.mongodb.com/courses/secure-mongodb-self-managed-authn-and-authz)
+- [@oficial@Segurança do MongoDB](https://www.mongodb.com/docs/manual/security/)
+- [@oficial@Documentação do Banco de Dados do MongoDB](https://www.mongodb.com/docs/)
+- [@artigo@Melhores Práticas de Segurança do MongoDB para Manter seus Dados Seguros](https://www.digitalocean.com/community/tutorial-series/mongodb-security-best-practices-to-keep-your-data-safe)

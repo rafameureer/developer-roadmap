@@ -1,11 +1,11 @@
-# find() and Related Methods
+# find() e Métodos Relacionados
 
-The `find()` method retrieves documents from MongoDB collections using query filters, projections, and modifiers. Related methods include `findOne()` for single documents, `findOneAndUpdate()` for atomic updates, `findOneAndDelete()` for atomic deletions, and cursor methods like `limit(), skip(), sort()` for result manipulation. These methods support complex queries with operators, field projections, and cursor iteration.
+O método `find()` recupera documentos de coleções do MongoDB usando filtros de consulta, projeções e modificadores. Métodos relacionados incluem `findOne()` para documentos individuais, `findOneAndUpdate()` para atualizações atômicas, `findOneAndDelete()` para exclusões atômicas e métodos de cursor como `limit(), skip(), sort()` para manipulação de resultados. Esses métodos suportam consultas complexas com operadores, projeções de campo e iteração de cursores.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Query Documents](https://www.mongodb.com/docs/manual/tutorial/query-documents/)
+- [@official@Consultar Documentos](https://www.mongodb.com/docs/manual/tutorial/query-documents/)
 - [@official@find()](https://www.mongodb.com/docs/manual/reference/method/db.collection.find/)
 - [@official@Cursors](https://www.mongodb.com/docs/manual/reference/method/js-cursor/)
 - [@official@findOneAndUpdate()](https://www.mongodb.com/docs/manual/reference/method/db.collection.findoneandupdate/)
-- [@article@A Complete Guide to MongoDB Queries with Examples](https://dev.to/rajrathod/a-complete-guide-to-mongodb-queries-with-examples-ik4)
+- [@article@Guia Completo de Consultas no MongoDB com Exemplos](https://dev.to/rajrathod/a-complete-guide-to-mongodb-queries-with-examples-ik4)

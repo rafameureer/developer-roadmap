@@ -1,8 +1,8 @@
-# Counting Documents
+# Contando Documentos
 
-Counting documents in MongoDB uses methods like `countDocuments()` for accurate filtered counts and `estimatedDocumentCount()` for fast approximate totals. `countDocuments()` supports query filters and provides precise results but may be slower on large collections. `estimatedDocumentCount()` uses collection metadata for rapid estimates, making it ideal for dashboard metrics and quick statistics.
+Contar documentos no MongoDB usa métodos como `countDocuments()` para contagens filtradas precisas e `estimatedDocumentCount()` para totais aproximados rápidos. O `countDocuments()` suporta filtros de consulta e fornece resultados precisos, mas pode ser mais lento em coleções grandes. O `estimatedDocumentCount()` usa metadados da coleção para estimativas rápidas, tornando-o ideal para métricas do painel e estatísticas rápidas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Counting Documents](https://www.mongodb.com/docs/manual/reference/method/db.collection.countdocuments/)
-- [@official@estimatedDocumentCount](https://www.mongodb.com/docs/manual/reference/method/db.collection.estimateddocumentcount/)
+- [@oficial@Contando Documentos](https://www.mongodb.com/docs/manual/reference/method/db.collection.countdocuments/)
+- [@oficial@estimatedDocumentCount](https://www.mongodb.com/docs/manual/reference/method/db.collection.estimateddocumentcount/)

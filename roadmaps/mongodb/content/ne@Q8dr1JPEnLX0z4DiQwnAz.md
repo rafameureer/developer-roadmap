@@ -1,8 +1,8 @@
 # $ne
 
-The `$ne` (not equal) operator in MongoDB selects documents where a field value is not equal to a specified value. It performs inverse equality comparison and excludes documents with matching values, including exact matches and type equivalence. `$ne` is fundamental for exclusion filtering, finding outliers, and creating queries that avoid specific values or patterns.
+O operador `$ne` (not equal) no MongoDB seleciona documentos onde o valor de um campo não é igual a um valor especificado. Ele realiza uma comparação inversa de igualdade e exclui documentos com valores correspondentes, incluindo correspondências exatas e equivalência de tipos. O `$ne` é fundamental para filtros de exclusão, encontrar outliers e criar consultas que evitam valores ou padrões específicos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@$ne](https://www.mongodb.com/docs/manual/reference/operator/aggregation/ne/)
-- [@official@Aggregation Operators](https://www.mongodb.com/docs/manual/reference/operator/aggregation/)
+- [@official@Operadores de Agregação](https://www.mongodb.com/docs/manual/reference/operator/aggregation/)

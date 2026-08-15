@@ -1,10 +1,10 @@
-# Undefined
+# Indefinido
 
-The Undefined type is a BSON data type that represents a value that is not defined. It is primarily used to indicate that a field does not have a value or that a variable has not been assigned a value. However, the Undefined type is rarely used in practice, as it has been deprecated in favor of using `null` to represent the absence of a value. The use of `null` is more common and recommended for indicating missing or non-existent data in documents.
+O tipo Undefined é um tipo de dados BSON que representa um valor que não está definido. Ele é usado principalmente para indicar que um campo não tem um valor ou que uma variável não foi atribuída a um valor. No entanto, o tipo Undefined é raramente usado na prática, já que ele foi descontinuado em favor do uso de `null` para representar a ausência de um valor. O uso de `null` é mais comum e recomendado para indicar dados ausentes ou inexistentes em documentos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@BSON Types](https://www.mongodb.com/docs/manual/reference/bson-types/#std-label-bson-types)
-- [@official@Query for Null or Missing Fields](https://www.mongodb.com/docs/manual/tutorial/query-for-null-fields/)
-- [@article@Migrate Undefined Data and Queries](https://www.mongodb.com/docs/manual/reference/bson-types/migrate-undefined/)
-- [@article@Master Null Handling in MongoDB](https://www.mydbops.com/blog/null-handling-in-mongodb)
+- [@official@Tipos BSON](https://www.mongodb.com/docs/manual/reference/bson-types/#std-label-bson-types)
+- [@official@Consultando Campos Nulos ou Ausentes](https://www.mongodb.com/docs/manual/tutorial/query-for-null-fields/)
+- [@article@Migrar Dados e Consultas Indefinidos](https://www.mongodb.com/docs/manual/reference/bson-types/migrate-undefined/)
+- [@article@Dominando o Tratamento de Null no MongoDB](https://www.mydbops.com/blog/null-handling-in-mongodb)

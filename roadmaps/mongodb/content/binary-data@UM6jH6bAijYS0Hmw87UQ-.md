@@ -1,9 +1,9 @@
-# Binary Data
+# Dados Binários
 
-Binary data in MongoDB stores non-textual data like images, files, and encoded content using the BSON Binary data type. It supports various subtypes including generic binary, function code, UUID, and MD5 hashes. Binary data enables efficient storage of multimedia content, encrypted data, and arbitrary byte sequences while maintaining query and indexing capabilities within document structures.
+Os dados binários no MongoDB armazenam dados não-textuais como imagens, arquivos e conteúdo codificado usando o tipo de dado BSON Binary. Ele suporta vários subtipos, incluindo binário genérico, código de função, UUID e hashes MD5. Os dados binários permitem um armazenamento eficiente de conteúdo multimídia, dados criptografados e sequências de bytes arbitrárias enquanto mantém capacidades de consulta e indexação dentro das estruturas de documentos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@BinData ()](https://www.mongodb.com/docs/manual/reference/method/bindata/)
-- [@official@BSON Types](https://www.mongodb.com/docs/manual/reference/bson-types/)
-- [@article@Understanding BSON: The Backbone of MongoDB's Data Format](https://dev.to/abhay_yt_52a8e72b213be229/understanding-bson-the-backbone-of-mongodbs-data-format-11oa)
+- [@official@Tipos BSON](https://www.mongodb.com/docs/manual/reference/bson-types/)
+- [@article@Entendendo o BSON: A Estrutura de Dados do MongoDB](https://dev.to/abhay_yt_52a8e72b213be229/understanding-bson-the-backbone-of-mongodbs-data-format-11oa)

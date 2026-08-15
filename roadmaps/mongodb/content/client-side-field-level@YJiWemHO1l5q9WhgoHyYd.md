@@ -1,8 +1,8 @@
-# Client-Side Field Level Encryption
+# Criptografia de Nível de Campo no Lado do Cliente
 
-Client-Side Field Level Encryption (CSFLE) allows applications to encrypt sensitive data fields before storing them in MongoDB. The database receives only encrypted data and remains unaware of the encryption keys, ensuring zero-trust security. This feature provides deterministic and randomized encryption algorithms, enabling both exact match queries and enhanced security for highly sensitive information.
+A Criptografia de Nível de Campo no Lado do Cliente (CSFLE) permite que as aplicações criptografem campos de dados sensíveis antes de armazená-los no MongoDB. O banco de dados recebe apenas os dados criptografados e permanece sem conhecimento das chaves de criptografia, garantindo uma segurança zero-trust. Esta funcionalidade fornece algoritmos de criptografia determinística e aleatória, permitindo consultas de correspondência exata e maior segurança para informações altamente sensíveis.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Client-Side Field Level Encryption](https://www.mongodb.com/docs/manual/core/csfle/)
-- [@article@Integrating with MongoDB Client Side Field Level Encryption](https://mongoosejs.com/docs/field-level-encryption.html)
+- [@oficial@Criptografia de Nível de Campo no Lado do Cliente](https://www.mongodb.com/docs/manual/core/csfle/)
+- [@artigo@Integrando com a Criptografia de Nível de Campo no Lado do Cliente do MongoDB](https://mongoosejs.com/docs/field-level-encryption.html)

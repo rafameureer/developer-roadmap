@@ -1,8 +1,8 @@
 # $sort
 
-The `$sort` aggregation stage orders documents by specified field values in ascending (1) or descending (-1) order. It can sort by multiple fields with different directions and supports sorting by computed values from previous pipeline stages. Placing `$sort` early in the pipeline can leverage indexes for better performance, while late sorting applies to aggregated results.
+A fase de agregação `$sort` ordena os documentos por valores de campo especificados em ordem ascendente (1) ou descendente (-1). Ele pode ordenar por múltiplos campos com direções diferentes e suporta a ordenação por valores computados das etapas do pipeline anteriores. Colocar o `$sort` cedo no pipeline pode aproveitar índices para melhor desempenho, enquanto a ordenação tardia se aplica aos resultados agregados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@$sort](https://www.mongodb.com/docs/manual/reference/operator/aggregation/sort/)
-- [@article@Sort Records: How to Sort by Date, Name, and More](https://www.prisma.io/dataguide/mongodb/mongodb-sorting)
+- [@article@Ordenar Registros: Como Ordenar por Data, Nome e Mais](https://www.prisma.io/dataguide/mongodb/mongodb-sorting)

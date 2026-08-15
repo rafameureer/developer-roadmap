@@ -1,8 +1,8 @@
 # $elemMatch
 
-The `$elemMatch` operator in MongoDB matches documents containing array elements that satisfy multiple specified criteria within a single array element. It ensures all conditions apply to the same array element rather than different elements. $elemMatch is crucial for querying arrays of embedded documents, complex array filtering, and maintaining logical consistency in multi-condition array queries.
+O operador `$elemMatch` no MongoDB corresponde a documentos que contêm elementos de array que atendem a múltiplos critérios especificados dentro de um único elemento de array. Ele garante que todas as condições sejam aplicadas ao mesmo elemento do array em vez de diferentes elementos. O `$elemMatch` é crucial para consultar arrays de documentos aninhados, filtragem complexa de arrays e manter a consistência lógica em consultas de array multi-condição.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@$elemMatch](https://www.mongodb.com/docs/manual/reference/operator/query/elemmatch/)
-- [@article@MongoDB $elemMatch Query Operator](https://codeforgeek.com/elemmatch-in-mongodb/)
+- [@article@Operador $elemMatch do MongoDB](https://codeforgeek.com/elemmatch-in-mongodb/)

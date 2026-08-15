@@ -1,8 +1,8 @@
-# Role-based Access Control
+# Controle de Acesso Baseado em Papel
 
-Role-Based Access Control (RBAC) in MongoDB is a security framework that manages user permissions by assigning roles that define specific privileges and access levels to database resources. It allows administrators to create custom roles with granular permissions for actions like read, write, or administrative operations on specific databases, collections, or even individual fields, ensuring users only have access to the resources they need for their job functions. This approach simplifies security management by grouping permissions into logical roles rather than managing individual user permissions, making it easier to maintain consistent security policies and comply with the principle of least privilege in enterprise environments.
+Controle de Acesso Baseado em Papel (RBAC) no MongoDB é um quadro de segurança que gerencia permissões dos usuários atribuindo papéis que definem privilégios específicos e níveis de acesso a recursos do banco de dados. Ele permite que administradores criem papéis personalizados com permissões granulares para operações como leitura, escrita ou operações administrativas em bancos de dados, coleções ou até mesmo campos individuais, garantindo que os usuários tenham acesso apenas aos recursos necessários para suas funções de trabalho. Este abordagem simplifica a gestão de segurança agrupando permissões em papéis lógicos em vez de gerenciar permissões individuais dos usuários, tornando mais fácil manter políticas de segurança consistentes e cumprir o princípio da menor privilégio em ambientes corporativos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Role-Based Access Control](http://www.mongodb.com/docs/manual/core/authorization/)
-- [@article@Understanding MongoDB Role-based Access Control](https://medium.com/mongodb/understanding-mongodb-role-based-access-control-rbac-in-action-a-step-by-step-guide-8c679241f8b6)
+- [@oficial@Controle de Acesso Baseado em Papel](http://www.mongodb.com/docs/manual/core/authorization/)
+- [@artigo@Compreendendo o Controle de Acesso Baseado em Papel no MongoDB](https://medium.com/mongodb/understanding-mongodb-role-based-access-control-rbac-in-action-a-step-by-step-guide-8c679241f8b6)

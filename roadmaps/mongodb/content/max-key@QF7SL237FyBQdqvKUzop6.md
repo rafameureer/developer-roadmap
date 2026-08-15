@@ -1,9 +1,9 @@
 # Max Key
 
-MaxKey is the counterpart to MinKey in MongoDB, representing the highest possible value for a field. It is considered to be greater than all other values in the database. MaxKey is particularly useful in scenarios where you need to set an upper bound in queries or sorting operations. For example, when looking for documents with a field that is less than a certain value, using MaxKey allows you to include all documents, as it acts as the largest possible value.
+MaxKey é o oposto de MinKey no MongoDB, representando o maior valor possível para um campo. Ele é considerado ser maior que todos os outros valores do banco de dados. O MaxKey é particularmente útil em cenários onde você precisa definir um limite superior em consultas ou operações de classificação. Por exemplo, ao procurar documentos com um campo que seja menor que um determinado valor, usar MaxKey permite incluir todos os documentos, pois ele atua como o maior valor possível.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Multikey Indexes](https://www.mongodb.com/docs/manual/core/indexes/index-types/index-multikey/)
-- [@article@MaxKey Class](https://mongodb.github.io/node-mongodb-native/4.2/classes/MaxKey.html)
-- [@article@MongoDB max() and min() Example](https://examples.javacodegeeks.com/software-development/mongodb/mongodb-max-and-min-example/)
+- [@official@Índices Multicampos](https://www.mongodb.com/docs/manual/core/indexes/index-types/index-multikey/)
+- [@article@Classe MaxKey](https://mongodb.github.io/node-mongodb-native/4.2/classes/MaxKey.html)
+- [@article@Exemplo de max() e min() no MongoDB](https://examples.javacodegeeks.com/software-development/mongodb/mongodb-max-and-min-example/)

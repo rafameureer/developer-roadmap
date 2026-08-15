@@ -1,9 +1,9 @@
-# insert() and Related Methods
+# insert() e Métodos Relacionados
 
-Insert operations add new documents to MongoDB collections using `insertOne()` for single documents and `insertMany()` for multiple documents. These methods support options like ordered/unordered inserts, write concerns, and automatic ObjectId generation. MongoDB also provides legacy `insert()` method and supports upsert operations through update methods when documents don't exist.
+Operações de inserção adicionam novos documentos às coleções do MongoDB usando `insertOne()` para documentos individuais e `insertMany()` para múltiplos documentos. Esses métodos suportam opções como inserções ordenadas/desordenadas, preocupações de escrita e geração automática de ObjectId. O MongoDB também fornece o método legado `insert()` e suporta operações upsert através de métodos de atualização quando os documentos não existem.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Insert Commands](https://www.mongodb.com/docs/manual/reference/command/insert/)
-- [@official@MongoDB CRUD Operations: Insert and Find Documents](https://learn.mongodb.com/courses/mongodb-crud-operations-insert-and-find-documents)
-- [@article@A Comprehensive Guide to MongoDB Methods](https://medium.com/@coderwithtools/a-comprehensive-guide-to-mongodb-methods-syntax-and-examples-feee0ac07599)
+- [@oficial@Comandos de Inserção](https://www.mongodb.com/docs/manual/reference/command/insert/)
+- [@oficial@Operações CRUD do MongoDB: Inserir e Encontrar Documentos](https://learn.mongodb.com/courses/mongodb-crud-operations-insert-and-find-documents)
+- [@artigo@Guia Completo sobre Métodos do MongoDB](https://medium.com/@coderwithtools/a-comprehensive-guide-to-mongodb-methods-syntax-and-examples-feee0ac07599)

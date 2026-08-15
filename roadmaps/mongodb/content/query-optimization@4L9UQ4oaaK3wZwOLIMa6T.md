@@ -1,8 +1,8 @@
-# Query Optimization
+# Otimização de Consultas
 
-Query optimization in MongoDB involves analyzing and improving query performance through various techniques including proper indexing strategies, query plan analysis, and efficient query structure design. It encompasses understanding how MongoDB's query planner works, using tools like `explain()` to analyze query execution, creating appropriate indexes to support common query patterns, avoiding inefficient operations like full collection scans, and structuring queries to take advantage of MongoDB's document model and aggregation framework for optimal performance and resource utilization.
+A otimização de consultas no MongoDB envolve analisar e melhorar o desempenho das consultas através de várias técnicas, incluindo estratégias adequadas de indexação, análise de planos de consulta e design eficiente da estrutura da consulta. Isso abrange a compreensão do funcionamento do planejador de consultas do MongoDB, o uso de ferramentas como `explain()` para analisar a execução das consultas, criação de índices apropriados para suportar padrões comuns de consulta, evitando operações ineficientes como varreduras completas de coleções e estruturando as consultas para aproveitar o modelo de documento do MongoDB e o quadro de agregação para desempenho ótimo e utilização eficiente dos recursos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@Query Optimization Skill Badge](https://learn.mongodb.com/courses/query-optimization)
-- [@official@Optimize Query Performance](https://www.mongodb.com/docs/manual/tutorial/optimize-query-performance-with-indexes-and-projections/)
+- [@course@Badge de Habilidade em Otimização de Consultas](https://learn.mongodb.com/courses/query-optimization)
+- [@official@Otimizar o Desempenho das Consultas](https://www.mongodb.com/docs/manual/tutorial/optimize-query-performance-with-indexes-and-projections/)

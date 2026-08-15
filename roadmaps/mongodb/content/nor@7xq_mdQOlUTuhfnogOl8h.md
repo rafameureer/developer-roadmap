@@ -1,8 +1,8 @@
 # $nor
 
-The `$nor` operator in MongoDB performs logical NOR operation, selecting documents that fail to match any of the specified query expressions. It's the inverse of $or and returns documents that don't satisfy any of the given conditions. `$nor` is useful for complex exclusion logic and finding documents that don't match multiple alternative criteria.
+O operador `$nor` no MongoDB realiza uma operação lógica NOR, selecionando documentos que não correspondem a nenhuma das expressões de consulta especificadas. É o inverso do `$or` e retorna documentos que não atendem a nenhuma das condições fornecidas. O `$nor` é útil para lógica de exclusão complexa e para encontrar documentos que não correspondem a múltiplos critérios alternativos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@$nor](https://www.mongodb.com/docs/manual/reference/operator/query/nor/)
-- [@official@Aggregation Operators](https://www.mongodb.com/docs/manual/reference/operator/aggregation/)
+- [@official@Operadores de Agregação](https://www.mongodb.com/docs/manual/reference/operator/aggregation/)

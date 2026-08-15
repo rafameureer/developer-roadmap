@@ -1,9 +1,9 @@
-# Encryption at Rest
+# Criptografia em Reposo
 
-Encryption at Rest in MongoDB protects data stored on disk by encrypting database files, indexes, and logs using industry-standard encryption algorithms. This security feature prevents unauthorized access to physical storage media and ensures compliance with data protection regulations. MongoDB supports both enterprise-grade WiredTiger storage engine encryption and file system-level encryption options.
+A Criptografia em Reposo no MongoDB protege os dados armazenados em disco criptografando arquivos de banco de dados, índices e logs usando algoritmos de criptografia padrão da indústria. Esta funcionalidade de segurança impede o acesso não autorizado a mídias de armazenamento físico e garante a conformidade com regulamentos de proteção de dados. O MongoDB suporta tanto a criptografia do mecanismo de armazenamento empresarial-grade WiredTiger quanto as opções de criptografia em nível de sistema de arquivos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Encryption at Rest](https://www.mongodb.com/docs/manual/core/security-encryption-at-rest/)
-- [@official@Encrypted Fields and Enabled Queries](https://www.mongodb.com/docs/manual/core/queryable-encryption/fundamentals/encrypt-and-query/)
-- [@article@Encryption at Rest and In Transit in MongoDB](https://syskool.com/encryption-at-rest-and-in-transit-in-mongodb/)
+- [@oficial@Criptografia em Reposo](https://www.mongodb.com/docs/manual/core/security-encryption-at-rest/)
+- [@oficial@Campos Criptografados e Consultas Habilitadas](https://www.mongodb.com/docs/manual/core/queryable-encryption/fundamentals/encrypt-and-query/)
+- [@artigo@Criptografia em Reposo e Em Trânsito no MongoDB](https://syskool.com/encryption-at-rest-and-in-transit-in-mongodb/)

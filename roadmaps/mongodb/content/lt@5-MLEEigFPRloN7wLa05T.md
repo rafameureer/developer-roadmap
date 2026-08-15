@@ -1,8 +1,8 @@
 # $lt
 
-The $lt (less than) operator in MongoDB selects documents where a field value is less than a specified value. It supports comparison operations on numbers, dates, strings, and other ordered BSON types. $lt is commonly used in range queries, date boundaries, and filtering datasets by numeric thresholds. It combines well with $gt to create range-based queries.
+O operador `$lt` (menor que) no MongoDB seleciona documentos onde o valor de um campo é menor do que um valor especificado. Ele suporta operações de comparação em números, datas, strings e outros tipos BSON ordenados. O `$lt` é comumente usado em consultas de intervalo, limites de data e filtragem de conjuntos de dados por thresholds numéricos. Combina bem com `$gt` para criar consultas baseadas em intervalos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@$lt](https://www.mongodb.com/docs/manual/reference/operator/aggregation/lt/)
-- [@official@Aggregation Operators](https://www.mongodb.com/docs/manual/reference/operator/aggregation/)
+- [@official@Operadores de Agregação](https://www.mongodb.com/docs/manual/reference/operator/aggregation/)

@@ -1,10 +1,10 @@
-# Pipelines, Stages and Operators
+# Pipelines, Stages e Operadores
 
-MongoDB aggregation pipelines are composed of sequential stages that process and transform documents, where each stage performs a specific operation using various operators before passing results to the next stage. Stages like `$match` (filtering), `$group` (grouping and aggregating), `$project` (field selection and transformation), `$sort` (ordering), `$lookup` (joins), and `$unwind` (array expansion) can be combined in any order to create complex data processing workflows. Operators within these stages include arithmetic operators ($add, $multiply), comparison operators ($eq, $gt), array operators ($push, $addToSet), date operators ($dateToString, $year), and conditional operators ($cond, $ifNull), providing a powerful and flexible framework for data analysis, reporting, and ETL operations directly within the database.
+Os pipelines de agregação no MongoDB são compostos por etapas sequenciais que processam e transformam documentos, onde cada etapa executa uma operação específica usando vários operadores antes de passar os resultados para a próxima etapa. As etapas como `$match` (filtragem), `$group` (agrupamento e agregação), `$project` (seleção e transformação de campos), `$sort` (ordenação), `$lookup` (junções) e `$unwind` (expansão de arrays) podem ser combinadas em qualquer ordem para criar fluxos de trabalho complexos de processamento de dados. Os operadores dentro dessas etapas incluem operadores aritméticos ($add, $multiply), operadores de comparação ($eq, $gt), operadores de array ($push, $addToSet), operadores de data ($dateToString, $year) e operadores condicionais ($cond, $ifNull), fornecendo um framework poderoso e flexível para análise de dados, relatórios e operações ETL diretamente no banco de dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Aggregation Pipeline](https://www.mongodb.com/docs/manual/core/aggregation-pipeline/)
-- [@official@Aggregation Stages](https://www.mongodb.com/docs/manual/reference/operator/aggregation-pipeline/)
-- [@official@$project](https://www.mongodb.com/docs/manual/reference/operator/aggregation/project/)
-- [@official@$group](https://www.mongodb.com/docs/manual/reference/operator/aggregation/group/)
+- [@oficial@Pipeline de Agregação](https://www.mongodb.com/docs/manual/core/aggregation-pipeline/)
+- [@oficial@Etapas de Agregação](https://www.mongodb.com/docs/manual/reference/operator/aggregation-pipeline/)
+- [@oficial@$project](https://www.mongodb.com/docs/manual/reference/operator/aggregation/project/)
+- [@oficial@$group](https://www.mongodb.com/docs/manual/reference/operator/aggregation/group/)

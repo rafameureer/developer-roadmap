@@ -1,8 +1,8 @@
 # $slice
 
-The `$slice` projection operator in MongoDB returns a subset of array elements from documents. It supports positive values for elements from the beginning, negative values from the end, and skip/limit combinations for pagination within arrays. `$slice` is essential for managing large arrays in documents, implementing array pagination, and reducing network traffic by returning only required array portions.
+O operador de projeção `$slice` no MongoDB retorna um subconjunto de elementos de array dos documentos. Ele suporta valores positivos para elementos do início, valores negativos do final e combinações skip/limit para a paginação dentro de arrays. O `$slice` é essencial para gerenciar grandes arrays em documentos, implementar paginação de arrays e reduzir o tráfego de rede retornando apenas as partes necessárias dos arrays.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@$slice](https://www.mongodb.com/docs/manual/reference/operator/aggregation/slice/)
-- [@article@MongoDB slice - Syntax & Examples](https://database.guide/mongodb-slice/)
+- [@article@MongoDB slice - Sintaxe & Exemplos](https://database.guide/mongodb-slice/)

@@ -1,8 +1,8 @@
 # String
 
-String data type in MongoDB stores UTF-8 encoded text data with no length restrictions within document size limits. Strings support text indexing for search capabilities, regex pattern matching, and various string manipulation operations in aggregation pipelines. MongoDB strings are case-sensitive by default but support collation options for case-insensitive comparisons and locale-specific sorting requirements.
+O tipo de dado String no MongoDB armazena dados de texto codificados em UTF-8 sem restrições de comprimento dentro dos limites do tamanho do documento. As strings suportam indexação de texto para capacidades de busca, correspondência de padrões de regex e várias operações de manipulação de string em pipelines de agregação. As strings no MongoDB são case-sensitive por padrão, mas oferecem opções de colação para comparações case-insensitive e classificações específicas de localidade.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@String Data Type](https://www.sqliz.com/mongodb-ref/string/5)
-- [@article@How to Handle Special Characters in MongoDB Connection String](https://medium.com/@monisykhan/how-to-handle-special-characters-in-mongodb-connection-strings-655967139452)
+- [@article@Tipo de Dado String](https://www.sqliz.com/mongodb-ref/string/5)
+- [@article@Como Lidar com Caracteres Especiais na String de Conexão do MongoDB](https://medium.com/@monisykhan/how-to-handle-special-characters-in-mongodb-connection-strings-655967139452)

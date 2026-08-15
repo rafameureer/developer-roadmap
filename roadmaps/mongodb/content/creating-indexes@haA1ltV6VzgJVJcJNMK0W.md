@@ -1,9 +1,9 @@
-# Creating Indexes
+# Criando Índices
 
-Creating indexes in MongoDB uses the `createIndex()` method to build data structures that improve query performance. Indexes can be created on single fields, multiple fields (compound), or with special types like text, geospatial, or hashed. Best practices include analyzing query patterns, creating indexes before large data imports, and monitoring index usage to ensure optimal performance without over-indexing.
+Criar índices no MongoDB usa o método `createIndex()` para construir estruturas de dados que melhoram a performance das consultas. Índices podem ser criados em campos individuais, múltiplos campos (compósitos) ou com tipos especiais como texto, geoespacial ou hash. Boas práticas incluem analisar padrões de consulta, criar índices antes de importações de grandes volumes de dados e monitorar o uso dos índices para garantir a performance ótima sem sobreíndексação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@createIndex](https://www.mongodb.com/docs/manual/reference/method/db.collection.createindex/)
-- [@official@Geospatial Queries](https://www.mongodb.com/docs/manual/geospatial-queries/)
-- [@article@Single vs Compound Mongodb Index](https://medium.com/@rakeebnazar/single-vs-compound-mongodb-index-in-depth-analysis-5319cfdd2ce)
+- [@oficial@createIndex](https://www.mongodb.com/docs/manual/reference/method/db.collection.createindex/)
+- [@oficial@Consultas Geoespaciais](https://www.mongodb.com/docs/manual/geospatial-queries/)
+- [@artigo@Índice Único vs Compósito em MongoDB](https://medium.com/@rakeebnazar/single-vs-compound-mongodb-index-in-depth-analysis-5319cfdd2ce)

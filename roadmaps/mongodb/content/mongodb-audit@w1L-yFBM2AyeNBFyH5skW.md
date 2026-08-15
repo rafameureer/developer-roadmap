@@ -1,9 +1,9 @@
-# MongoDB Audit
+# Auditoria do MongoDB
 
-MongoDB Audit is a security feature that enables comprehensive logging and monitoring of database activities, including authentication attempts, authorization failures, CRUD operations, and administrative actions. It provides detailed audit trails that track who accessed what data, when operations occurred, and whether they succeeded or failed, which is essential for compliance with regulatory requirements like GDPR, HIPAA, or SOX, and helps organizations detect suspicious activities, investigate security incidents, and maintain accountability in their database operations.
+O Auditoria do MongoDB é uma funcionalidade de segurança que habilita o registro e monitoramento abrangentes das atividades da base de dados, incluindo tentativas de autenticação, falhas de autorização, operações CRUD e ações administrativas. Ele fornece rastreamentos detalhados de auditoria que acompanham quem acessou quais dados, quando as operações ocorreram e se elas tiveram sucesso ou não, o que é essencial para cumprir requisitos regulatórios como GDPR, HIPAA ou SOX, e ajuda as organizações a detectar atividades suspeitas, investigar incidentes de segurança e manter a responsabilidade em suas operações de banco de dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Configure Auditing - Database Manual](https://www.mongodb.com/docs/manual/tutorial/configure-auditing/)
-- [@article@Auditing and Monitoring MongoDB for Security](https://medium.com/@platform.engineers/auditing-and-monitoring-mongodb-for-security-0981df3cc22b)
-- [@article@MongoDB Auditing for Enhanced Security and Compliance](https://www.mydbops.com/blog/mongodb-auditing-for-enhanced-security-and-compliance)
+- [@official@Configurar Auditoria - Manual do Banco de Dados](https://www.mongodb.com/docs/manual/tutorial/configure-auditing/)
+- [@article@Auditoria e Monitoramento do MongoDB para Segurança](https://medium.com/@platform.engineers/auditing-and-monitoring-mongodb-for-security-0981df3cc22b)
+- [@article@Auditoria do MongoDB para Segurança Aumentada e Cumprimento](https://www.mydbops.com/blog/mongodb-auditing-for-enhanced-security-and-compliance)

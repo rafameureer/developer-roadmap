@@ -4871,7 +4871,98 @@
     "roadmaps/mlops/content/tflite@YFo3NnwVst5EBTtLR-cJ1.md",
     "roadmaps/mlops/content/version-control-systems@_NPGsGEjcLekjGisdDFWt.md",
     "roadmaps/mlops/content/version-control@kHDSwlSq8WkLey4EJIQSR.md",
-    "roadmaps/mlops/content/what-is-mlops@IghGpwAFVB067uOosmoDC.md"
+    "roadmaps/mlops/content/what-is-mlops@IghGpwAFVB067uOosmoDC.md",
+    "roadmaps/mongodb/content/aggregation@gpihoIJkzSS1WOvmH2ueo.md",
+    "roadmaps/mongodb/content/all@hPPoO8ysGeEGEQhdveiDO.md",
+    "roadmaps/mongodb/content/and@-62S4wRxHpIM2I59xjGun.md",
+    "roadmaps/mongodb/content/array@q6ZKxFcSAQ8bgUdGaDpuu.md",
+    "roadmaps/mongodb/content/atlas-search-indexes@YidhAuVk_VGukx_FfJSz2.md",
+    "roadmaps/mongodb/content/binary-data@UM6jH6bAijYS0Hmw87UQ-.md",
+    "roadmaps/mongodb/content/client-side-field-level@YJiWemHO1l5q9WhgoHyYd.md",
+    "roadmaps/mongodb/content/collections--methods@7SGYNo3oHlgm_1cwhWfw7.md",
+    "roadmaps/mongodb/content/compound@eSb4WAfWxJu6R95pPX6wm.md",
+    "roadmaps/mongodb/content/counting-documents@hC83jKoO_XFI83WpsdN_Z.md",
+    "roadmaps/mongodb/content/creating-indexes@haA1ltV6VzgJVJcJNMK0W.md",
+    "roadmaps/mongodb/content/cursors@K9x7yQP59cB764Q5PqAs_.md",
+    "roadmaps/mongodb/content/delete-and-relevant@qjoLxSkfKbzG1sZUXnyw9.md",
+    "roadmaps/mongodb/content/developer-tools@6H2MMnEfS6uHGS-6pFo8u.md",
+    "roadmaps/mongodb/content/double@4Cf_wcoByPqpOOpdbAJuq.md",
+    "roadmaps/mongodb/content/elastic-search@kJJ-W6BV1ofIvuFT_PCcz.md",
+    "roadmaps/mongodb/content/elemmatch@TJHVY8DRWbDKeT_pIPJay.md",
+    "roadmaps/mongodb/content/embedded-objects--arrays@6MqhN-PTf1PRzYCTxC8pn.md",
+    "roadmaps/mongodb/content/encryption-at-rest@iJjqlTgXxHWC-8bh6uCGQ.md",
+    "roadmaps/mongodb/content/eq@2h8z2mrgRKSLKI-eBc3zM.md",
+    "roadmaps/mongodb/content/exclude@nk0V3o3oKuIb8A0gDECFJ.md",
+    "roadmaps/mongodb/content/exists@12kfpSapv2uNxpHzLkFSL.md",
+    "roadmaps/mongodb/content/expiring@butGgZXGPTZI-sWx24bOr.md",
+    "roadmaps/mongodb/content/find-and-relevant@iMpCEXRDXg0Kq9OFNywbI.md",
+    "roadmaps/mongodb/content/geospatial-indexes@bqXlDnPuMQIKulD9cTvPf.md",
+    "roadmaps/mongodb/content/group@nz048lC4Q4S7fMVbxLGEk.md",
+    "roadmaps/mongodb/content/gt@wbZb0RwmANH4ssF07cAar.md",
+    "roadmaps/mongodb/content/gte@kV5Tmu9ocDnuPQvkx2W0u.md",
+    "roadmaps/mongodb/content/in@Wd20OKQYYuW_bT6U-yRxT.md",
+    "roadmaps/mongodb/content/include@sxDyp3bP-YhgmDMVUFTaA.md",
+    "roadmaps/mongodb/content/indexing@XjB0uOnsYl4edzZWpQ-nm.md",
+    "roadmaps/mongodb/content/insert-and-relevant@mXdn4u5CiQRDE83qMiWZX.md",
+    "roadmaps/mongodb/content/int32int@xKFZSKG2GPD-phY2HLMsx.md",
+    "roadmaps/mongodb/content/int64--long@iJFDFdIN_N4-DlJwrFIiB.md",
+    "roadmaps/mongodb/content/javascript@UXO5i6nPa5CRW1z7FAn_S.md",
+    "roadmaps/mongodb/content/kafka@JAosQ9tFj7y70lGQ0vHzC.md",
+    "roadmaps/mongodb/content/limit@AzUVaGnGv9uypJ31alR9r.md",
+    "roadmaps/mongodb/content/lookup@strw_oGTkZEH-o8zA4IRP.md",
+    "roadmaps/mongodb/content/lt@5-MLEEigFPRloN7wLa05T.md",
+    "roadmaps/mongodb/content/lte@eOfsrmOQI0dJW6HV_myVH.md",
+    "roadmaps/mongodb/content/match@_c7itVw1R1_UB-NPtL-WI.md",
+    "roadmaps/mongodb/content/max-key@QF7SL237FyBQdqvKUzop6.md",
+    "roadmaps/mongodb/content/min-key@jQSMLd6gG158tJDzo1k_1.md",
+    "roadmaps/mongodb/content/mongodb-audit@w1L-yFBM2AyeNBFyH5skW.md",
+    "roadmaps/mongodb/content/mongodb-basics@z50iixpcCMe9sTh-gwTI3.md",
+    "roadmaps/mongodb/content/mongodb-security@LC923iJhfiUDIs_0-9rc7.md",
+    "roadmaps/mongodb/content/mongodb-terminology@1pCWjSvjvbox5OpyWJ8Kv.md",
+    "roadmaps/mongodb/content/mongodump@xaWDHCkcGm4oovPPxVMB9.md",
+    "roadmaps/mongodb/content/mongorestore@TKngxMNGMgrdO26D7eeSg.md",
+    "roadmaps/mongodb/content/ne@Q8dr1JPEnLX0z4DiQwnAz.md",
+    "roadmaps/mongodb/content/nin@ZKHUCskdKQf4IaMUTN_e7.md",
+    "roadmaps/mongodb/content/nor@7xq_mdQOlUTuhfnogOl8h.md",
+    "roadmaps/mongodb/content/not@qaUj9916Fh4BtiLz_pwQs.md",
+    "roadmaps/mongodb/content/null@g6AKQiFcY_8lsWRbkbZSC.md",
+    "roadmaps/mongodb/content/object-id@mxd3-l3-NtPw53dEvhqm4.md",
+    "roadmaps/mongodb/content/object@QcdZKNcCtKls6P4YNXR2W.md",
+    "roadmaps/mongodb/content/or@43BfjlUju-yJaGv-FaJty.md",
+    "roadmaps/mongodb/content/performance-optimization@A9W2LsivDc0ialLp83fYP.md",
+    "roadmaps/mongodb/content/pipelines-stages-and-operators@eDks8Jmsbq3_nHgLydyxP.md",
+    "roadmaps/mongodb/content/project@dO2mJejkWBH903LG0dWgN.md",
+    "roadmaps/mongodb/content/project@gakF5Zfgk7QIgg_UwqG_Y.md",
+    "roadmaps/mongodb/content/query-operators@B8SFhoVV8ei1Yz6vl57l_.md",
+    "roadmaps/mongodb/content/query-optimization@4L9UQ4oaaK3wZwOLIMa6T.md",
+    "roadmaps/mongodb/content/query-optimization@kG0ZeGatgvC1azZKMQiA_.md",
+    "roadmaps/mongodb/content/queryable-encryption@LpfuM6SuhlNNjBcHM68ee.md",
+    "roadmaps/mongodb/content/read--write-concerns@thOckmrCJ45NVNPNxm4eg.md",
+    "roadmaps/mongodb/content/retryable-reads--writes@s8El0Q22GD_rOZGlDtkgH.md",
+    "roadmaps/mongodb/content/role-based-access-control@yRJ6jeysFXBpwLEqvrdKk.md",
+    "roadmaps/mongodb/content/scaling-mongodb@cOKQQ7SaiawWF49MdCGTh.md",
+    "roadmaps/mongodb/content/sharded-clusters@CijW3HCjVRZHQIBsQ9_0H.md",
+    "roadmaps/mongodb/content/single-field@SjPzR6JjdBeiqFsrRJPfW.md",
+    "roadmaps/mongodb/content/size@-VMIkV6S6H1blngxLXk7Y.md",
+    "roadmaps/mongodb/content/skip@4CjjGPOy-385Bco_PeQwa.md",
+    "roadmaps/mongodb/content/slice@9mmxYBtvPYZlvFjQvE-2N.md",
+    "roadmaps/mongodb/content/sort@BCWS8uV2pSWe7CX-VlnTg.md",
+    "roadmaps/mongodb/content/spark@K09-nD6xF5YJUQBBpFXMz.md",
+    "roadmaps/mongodb/content/sql-vs-nosql@cMfsRtvzvDZZJ0TqeUOxm.md",
+    "roadmaps/mongodb/content/string@eU4XCnrf27FO3KCda8QYw.md",
+    "roadmaps/mongodb/content/sum@CfM0iyd2bNRIiDWTUkspd.md",
+    "roadmaps/mongodb/content/symbol@XAS4jQlsHkttLDuSSsD2o.md",
+    "roadmaps/mongodb/content/text@PV_3TEYdtVZ2VCDZEOsu_.md",
+    "roadmaps/mongodb/content/timestamp@zbFH2NRHZEOv5eKLL_HR0.md",
+    "roadmaps/mongodb/content/tls--ssl-encryption@5F7zAAnvnVTTnBzOB7TSu.md",
+    "roadmaps/mongodb/content/transactions@aHcmsaqAfG5fC90VV-EHP.md",
+    "roadmaps/mongodb/content/tuning-configuration@iVDxuERBjKMBHueEfqP0x.md",
+    "roadmaps/mongodb/content/type@BxzMbF7cdvGPuy1EcRvWd.md",
+    "roadmaps/mongodb/content/undefined@kx_GOr51UMpdUAnS5u9qZ.md",
+    "roadmaps/mongodb/content/unwind@AY-8KJGA9ZA6ay3rbURt3.md",
+    "roadmaps/mongodb/content/update-and-relevant@liGbnGyQaG-Vqt6cuB91N.md",
+    "roadmaps/mongodb/content/validate@4h8NdcdXmNqJxLkVJqPtX.md",
+    "roadmaps/mongodb/content/what-is-mongodb-atlas@1UXfFROvcunyhkx0zB_1S.md"
   ],
   "completed_roadmaps": [
     "frontend-beginner",
@@ -4928,7 +5019,8 @@
     "leetcode",
     "linux",
     "machine-learning",
-    "mlops"
+    "mlops",
+    "mongodb"
   ],
   "flagged_issues": [
     {
@@ -10985,8 +11077,83 @@
       "file": "roadmaps/mlops/content/monitoring--observability@r4fbUwD83uYumEO1X8f09.md",
       "reason": "Falha na tradução automática após tentativas no Ollama",
       "timestamp": "2026-08-15T09:46:08.358977"
+    },
+    {
+      "file": "roadmaps/mongodb/content/boolean@hmo7zCZ1jKgobS5R0eBSD.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T09:48:41.850434"
+    },
+    {
+      "file": "roadmaps/mongodb/content/bson-vs-json@F4W9XBSbkpzWIrAhRBSRS.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T09:48:46.392789"
+    },
+    {
+      "file": "roadmaps/mongodb/content/bulkwrite-and-relevant@yc2HqhjhIV6UU_2P-ykKB.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T09:48:50.457377"
+    },
+    {
+      "file": "roadmaps/mongodb/content/data-model--data-types@_UIfRdlj6BeEESw1FW9RH.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T09:49:41.425150"
+    },
+    {
+      "file": "roadmaps/mongodb/content/date@T6cq--pute6-8aG7z6QKN.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T09:49:45.341540"
+    },
+    {
+      "file": "roadmaps/mongodb/content/decimal128@OGtR5D_DUCSci1lFBT83z.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T09:49:49.364375"
+    },
+    {
+      "file": "roadmaps/mongodb/content/kerberos-authentication@YuzMOO7kf2tO6V6WehqF_.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T09:52:02.854055"
+    },
+    {
+      "file": "roadmaps/mongodb/content/language-drivers@73REfcB_T0yBP-KQ0EYmF.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T09:52:09.784892"
+    },
+    {
+      "file": "roadmaps/mongodb/content/ldap-proxy-auth@NoDNdno9UOlMrOC0Wga9E.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T09:52:14.040311"
+    },
+    {
+      "file": "roadmaps/mongodb/content/regex@PmfjHFz-DW69pNh_t13Nm.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T09:54:47.743578"
+    },
+    {
+      "file": "roadmaps/mongodb/content/regular-expression@z6I9XgIGQYWUd5l9DIZRX.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T09:54:53.003666"
+    },
+    {
+      "file": "roadmaps/mongodb/content/replicasets@QrHT-H12AV4-V-y_nzmNk.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T09:54:59.357921"
+    },
+    {
+      "file": "roadmaps/mongodb/content/what-is-mongodb@tJljSlb5S_tZLZhZHHd_I.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T09:57:22.166169"
+    },
+    {
+      "file": "roadmaps/mongodb/content/when-to-use-mongodb@qh8MEbXKPVt8mqlarhUj0.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T09:57:27.011195"
+    },
+    {
+      "file": "roadmaps/mongodb/content/x509-certificate-auth@NV39oWwr7iB_dnlnD_Q6Y.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T09:57:36.421445"
     }
   ],
-  "last_updated": "2026-08-15T09:47:56.359690",
+  "last_updated": "2026-08-15T09:57:36.433723",
   "total_translated_count": 54
 }

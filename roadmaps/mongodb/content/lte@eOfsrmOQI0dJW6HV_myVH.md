@@ -1,8 +1,8 @@
 # $lte
 
-The `$lte` (less than or equal to) operator in MongoDB selects documents where a field value is less than or equal to a specified value. It provides inclusive upper bound comparison for range queries, end date filtering, and maximum value constraints. `$lte` is essential for creating inclusive upper limits in queries and combining with $gte for complete range specifications.
+O operador `$lte` (menor ou igual a) no MongoDB seleciona documentos onde o valor de um campo é menor ou igual a um valor especificado. Ele fornece uma comparação superior inclusiva para consultas de intervalo, filtragem de data final e restrições de valor máximo. O `$lte` é essencial para criar limites superiores inclusivos em consultas e combiná-lo com `$gte` para especificações de intervalo completas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@$lte](https://www.mongodb.com/docs/manual/reference/operator/aggregation/lte/)
-- [@official@Aggregation Operators](https://www.mongodb.com/docs/manual/reference/operator/aggregation/)
+- [@official@Operadores de Agregação](https://www.mongodb.com/docs/manual/reference/operator/aggregation/)

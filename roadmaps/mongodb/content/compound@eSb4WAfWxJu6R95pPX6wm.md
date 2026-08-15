@@ -1,8 +1,8 @@
-# Compound Indexes
+# Índices Compostos
 
-Compound indexes in MongoDB are built on multiple fields in a specified order, optimizing queries that filter on multiple fields. Field order matters significantly as it determines which queries can efficiently use the index. Compound indexes support prefix patterns, meaning they can optimize queries on any left subset of the indexed fields, making them versatile for various query patterns.
+Os índices compostos no MongoDB são construídos em vários campos em uma ordem específica, otimizando consultas que filtram por múltiplos campos. A ordem dos campos é significativamente importante, pois determina quais consultas podem usar eficientemente o índice. Os índices compostos suportam padrões de prefixo, o que significa que eles podem otimizar consultas em qualquer subconjunto à esquerda dos campos indexados, tornando-os versáteis para diversos padrões de consulta.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Compound Indexes](https://www.mongodb.com/docs/manual/core/indexes/index-types/index-compound/)
-- [@article@Single vs Compound Mongodb Index](https://medium.com/@rakeebnazar/single-vs-compound-mongodb-index-in-depth-analysis-5319cfdd2ce)
+- [@oficial@Índices Compostos](https://www.mongodb.com/docs/manual/core/indexes/index-types/index-compound/)
+- [@artigo@Índice Único vs Índice Composto no MongoDB](https://medium.com/@rakeebnazar/single-vs-compound-mongodb-index-in-depth-analysis-5319cfdd2ce)

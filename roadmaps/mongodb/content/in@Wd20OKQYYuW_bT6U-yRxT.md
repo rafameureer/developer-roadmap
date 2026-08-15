@@ -1,8 +1,8 @@
 # $in
 
-The `$in` operator in MongoDB selects documents where a field value matches any value in a specified array. It provides efficient multiple value matching without using multiple $or conditions. `$in` supports all BSON data types and is particularly useful for filtering by lists of IDs, categories, or enumerated values, offering better performance than equivalent $or queries.
+O operador `$in` no MongoDB seleciona documentos onde o valor de um campo corresponde a qualquer valor em um array especificado. Ele fornece correspondência múltipla eficiente de valores sem usar várias condições `$or`. O `$in` suporta todos os tipos de dados BSON e é especialmente útil para filtragem por listas de IDs, categorias ou valores enumerados, oferecendo melhor desempenho em comparação com consultas equivalentes `$or`.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Aggregation Operators](https://www.mongodb.com/docs/manual/reference/operator/aggregation/)
+- [@official@Operadores de Agregação](https://www.mongodb.com/docs/manual/reference/operator/aggregation/)
 - [@official@$in](https://www.mongodb.com/docs/manual/reference/operator/aggregation/in/)

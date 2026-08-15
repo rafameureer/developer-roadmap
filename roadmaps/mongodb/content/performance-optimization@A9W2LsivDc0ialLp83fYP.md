@@ -1,10 +1,10 @@
-# Performance Optimization
+# Otimização de Desempenho
 
-Performance optimization in MongoDB involves proper indexing strategies, query optimization, schema design, and hardware configuration. Key techniques include creating appropriate indexes, using explain plans, optimizing aggregation pipelines, proper sharding strategies, and connection pooling. Regular monitoring of query performance, index usage, and database metrics helps identify bottlenecks and improve overall system efficiency.
+A otimização de desempenho no MongoDB envolve estratégias adequadas de indexação, otimização de consultas, design de esquema e configuração de hardware. Técnicas-chave incluem a criação de índices apropriados, o uso de planos de explicação, a otimização de pipelines de agregação, estratégias de particionamento adequadas e pooling de conexões. A monitorização regular do desempenho das consultas, da utilização dos índices e das métricas do banco de dados ajuda a identificar gargalos e melhorar a eficiência geral do sistema.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@MongoDB Monitoring Tooling Skill Badge](https://learn.mongodb.com/courses/monitoring-tooling)
-- [@course@Performance Tools and Techniques Skill Badge](https://learn.mongodb.com/courses/performance-tools-and-techniques)
-- [@official@Comprehensive Guide to Optimising MongoDB Performance](https://www.mongodb.com/developer/products/mongodb/guide-to-optimizing-mongodb-performance/)
-- [@article@How To Optimize MongoDB Performance & Security](https://medium.com/@noel.benji/how-to-optimize-mongodb-performance-security-6fd3ba1304c1)
+- [@curso@Certificado de Habilidades em Ferramentas e Técnicas de Monitoramento do MongoDB](https://learn.mongodb.com/courses/monitoring-tooling)
+- [@curso@Certificado de Habilidades em Ferramentas e Técnicas de Desempenho do MongoDB](https://learn.mongodb.com/courses/performance-tools-and-techniques)
+- [@oficial@Guia Completo para a Otimização do Desempenho do MongoDB](https://www.mongodb.com/developer/products/mongodb/guide-to-optimizing-mongodb-performance/)
+- [@artigo@Como otimizar o desempenho e segurança do MongoDB](https://medium.com/@noel.benji/how-to-optimize-mongodb-performance-security-6fd3ba1304c1)

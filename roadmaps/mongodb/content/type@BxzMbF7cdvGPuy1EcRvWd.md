@@ -1,9 +1,9 @@
 # $type
 
-The `$type` operator in MongoDB selects documents based on the BSON data type of a specified field. It accepts either BSON type numbers or string aliases like "string", "int", "array", "object". `$type` is useful for data validation, schema analysis, and filtering documents by field data types, especially when working with collections containing varied or dynamic schemas.
+O operador `$type` no MongoDB seleciona documentos com base no tipo de dados BSON de um campo especificado. Ele aceita tanto números de tipos BSON quanto aliases de string como "string", "int", "array", "object". O `$type` é útil para validação de dados, análise de esquema e filtragem de documentos por tipos de dados de campo, especialmente quando trabalhando com coleções que contêm esquemas variados ou dinâmicos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@$\\type](https://www.mongodb.com/docs/manual/reference/operator/query/type/)
-- [@official@Aggregation Operators](https://www.mongodb.com/docs/manual/reference/operator/aggregation/)
-- [@official@BSON Types](https://www.mongodb.com/docs/manual/reference/bson-types/)
+- [@official@Operadores de Agregação](https://www.mongodb.com/docs/manual/reference/operator/aggregation/)
+- [@official@Tipos BSON](https://www.mongodb.com/docs/manual/reference/bson-types/)

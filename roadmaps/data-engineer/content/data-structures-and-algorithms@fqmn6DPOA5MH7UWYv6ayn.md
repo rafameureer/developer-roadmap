@@ -1,10 +1,10 @@
-# Data Structures and Algorithms
+# Estruturas de Dados e Algoritmos
 
-Data structures and algorithms form the foundation for writing efficient code. This knowledge is relevant for data engineers when optimizing queries, designing storage schemas, and building processing logic that scales. Common topics include arrays, hash maps, trees, sorting, and complexity analysis.
+As estruturas de dados e os algoritmos formam a base para escrever código eficiente. Este conhecimento é relevante para engenheiros de dados ao otimizar consultas, projetar esquemas de armazenamento e construir lógica de processamento que escala. Tópicos comuns incluem arrays, mapas de hash, árvores, classificação e análise de complexidade.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated DSA Roadmap](https://roadmap.sh/datastructures-and-algorithms)
-- [@article@Interview Questions about Data Structures](https://www.csharpstar.com/csharp-algorithms/)
-- [@video@Data Structures Illustrated](https://www.youtube.com/watch?v=9rhT3P1MDHk&list=PLkZYeFmDuaN2-KUIv-mvbjfKszIGJ4FaY)
-- [@video@Intro to Algorithms](https://www.youtube.com/watch?v=rL8X2mlNHPM)
+- [@roadmap@Visite o Caminho Dedidado de EDA](https://roadmap.sh/datastructures-and-algorithms)
+- [@article@Perguntas de Entrevista sobre Estruturas de Dados](https://www.csharpstar.com/csharp-algorithms/)
+- [@video@Estruturas de Dados Ilustradas](https://www.youtube.com/watch?v=9rhT3P1MDHk&list=PLkZYeFmDuaN2-KUIv-mvbjfKszIGJ4FaY)
+- [@video@Introdução a Algoritmos](https://www.youtube.com/watch?v=rL8X2mlNHPM)

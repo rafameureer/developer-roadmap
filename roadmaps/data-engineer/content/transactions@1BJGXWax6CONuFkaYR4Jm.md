@@ -1,8 +1,8 @@
-# Transactions
+# Transações
 
-Transactions in SQL are units of work that group one or more database operations into a single, atomic unit. They ensure data integrity by following the ACID properties: Atomicity (all or nothing), Consistency (database remains in a valid state), Isolation (transactions don't interfere with each other), and Durability (committed changes are permanent). Transactions are essential for maintaining data consistency in complex operations and handling concurrent access to the database.
+As transações em SQL são unidades de trabalho que agrupam uma ou mais operações de banco de dados em um único, unidade atômica. Eles garantem a integridade dos dados seguindo as propriedades ACID: Atômica (tudo ou nada), Consistência (o banco de dados permanece em um estado válido), Isolamento (as transações não interferem uns com os outros) e Durabilidade (as alterações confirmadas são permanentes). As transações são essenciais para manter a consistência dos dados em operações complexas e lidar com o acesso concorrente ao banco de dados.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@article@Transactions](https://www.tutorialspoint.com/sql/sql-transactions.htm)
-- [@article@A Guide to ACID Properties in Database Management Systems](https://www.mongodb.com/resources/basics/databases/acid-transactions)
+- [@artigo@Transações](https://www.tutorialspoint.com/sql/sql-transactions.htm)
+- [@artigo@Guia sobre as Propriedades ACID em Sistemas de Gerenciamento de Banco de Dados](https://www.mongodb.com/resources/basics/databases/acid-transactions)

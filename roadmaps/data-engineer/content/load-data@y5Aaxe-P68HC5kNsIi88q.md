@@ -1,3 +1,3 @@
-# Load Data
+# Carregamento de Dados
 
-In the third step, the transformed data is moved from the staging area into the targe data storage solution, such as a data warehouse or data lake. For most organizations, the data loading process is automated, well-defined, continuous and batch-driven.
+No terceiro passo, os dados transformados são movidos da área de preparação para a solução de armazenamento de dados de destino, como um data warehouse ou data lake. Para a maioria das organizações, o processo de carregamento de dados é automatizado, bem definido, contínuo e baseado em lotes.

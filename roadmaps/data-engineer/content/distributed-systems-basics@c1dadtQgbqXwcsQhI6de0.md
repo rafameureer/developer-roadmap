@@ -1,9 +1,9 @@
-# Distributed Systems
+# Sistemas Distribuídos
 
-A distributed system is a collection of independent computers that communicate and coordinate to appear as a single unified system. They are widely used for scalability, fault tolerance, and high availability in modern applications. However, they bring challenges such as synchronization, consistency trade-offs (CAP theorem), concurrency, and network latency.
+Um sistema distribuído é uma coleção de computadores independentes que se comunicam e coordenam para aparecer como um único sistema unificado. Eles são amplamente utilizados para escalabilidade, tolerância a falhas e alta disponibilidade em aplicativos modernos. No entanto, eles trazem desafios como sincronização, negociações de consistência (teorema CAP), concorrência e latência de rede.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Introduction to Distributed Systems](https://www.freecodecamp.org/news/a-thorough-introduction-to-distributed-systems-3b91562c9b3c/)
-- [@article@Distributed Systems Guide](https://www.baeldung.com/cs/distributed-systems-guide)
-- [@video@Distributed Systems Explained](https://www.youtube.com/watch?v=IJWwfMyPu1c)
+- [@artigo@Introdução a Sistemas Distribuídos](https://www.freecodecamp.org/news/a-thorough-introduction-to-distributed-systems-3b91562c9b3c/)
+- [@artigo@Guia de Sistemas Distribuídos](https://www.baeldung.com/cs/distributed-systems-guide)
+- [@vídeo@Sistemas Distribuídos Explicados](https://www.youtube.com/watch?v=IJWwfMyPu1c)

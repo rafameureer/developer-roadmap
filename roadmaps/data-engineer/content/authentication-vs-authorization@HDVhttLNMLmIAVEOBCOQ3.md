@@ -1,8 +1,8 @@
-# Authentication vs Authorization
+# Autenticação vs Autorização
 
-Authentication and authorization are popular terms in modern computer systems that often confuse people. **Authentication** is the process of confirming the identity of a user or a device (i.e., an entity). During the authentication process, an entity usually relies on some proof to authenticate itself, i.e. an authentication factor. In contrast to authentication, **authorization** refers to the process of verifying what resources entities (users or devices) can access, or what actions they can perform, i.e., their access rights.
+Autenticação e autorização são termos populares em sistemas de computador modernos que às vezes confundem as pessoas. **Autenticação** é o processo de confirmar a identidade de um usuário ou dispositivo (ou seja, uma entidade). Durante o processo de autenticação, uma entidade geralmente depende de algum provérbio para se autenticar, ou seja, um fator de autenticação. Em contraste com a autenticação, **autorização** refere-se ao processo de verificar quais recursos as entidades (usuários ou dispositivos) podem acessar, ou quais ações elas podem realizar, ou seja, seus direitos de acesso.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Basic Authentication](https://roadmap.sh/guides/basic-authentication)
-- [@article@What is Authentication vs Authorization?](https://auth0.com/intro-to-iam/authentication-vs-authorization)
+- [@article@Autenticação Básica](https://roadmap.sh/guides/basic-authentication)
+- [@article@O que é Autenticação vs Autorização?](https://auth0.com/intro-to-iam/authentication-vs-authorization)

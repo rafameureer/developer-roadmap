@@ -1,8 +1,8 @@
 # MapReduce
 
-MapReduce is a prominent data processing technique used by Data Analysts around the world. It allows them to handle large data sets with complex, unstructured data efficiently. MapReduce breaks down a big data problem into smaller sub-tasks (Map) and then takes those results to create an output in a more usable format (Reduce). This technique is particularly useful in conducting exploratory analysis, as well as in handling big data operations such as text processing, graph processing, or more complicated machine learning algorithms.
+MapReduce é uma técnica de processamento de dados proeminente usada por analistas de dados em todo o mundo. Ele permite que eles lidem com grandes conjuntos de dados com dados complexos e não estruturados de maneira eficiente. O MapReduce descompõe um problema de dados grandes em sub-tarefas menores (Map) e, em seguida, usa esses resultados para criar uma saída em um formato mais utilitário (Reduce). Esta técnica é particularmente útil para realizar análises exploratórias, bem como para lidar com operações de big data como processamento de texto, processamento de grafos ou algoritmos de aprendizado de máquina mais complicados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@article@MapReduce](https://www.databricks.com/glossary/mapreduce)
-- [@article@What is Apache MapReduce?](https://www.ibm.com/topics/mapreduce)
+- [@article@O que é Apache MapReduce?](https://www.ibm.com/topics/mapreduce)

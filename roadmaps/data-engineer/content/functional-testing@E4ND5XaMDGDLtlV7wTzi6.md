@@ -1,8 +1,8 @@
-# Functional Testing
+# Testes Funcionais
 
-Functional testing is a type of software testing that validates the software system against the functional requirements/specifications. The purpose of functional tests is to test each function of the software application by providing appropriate input and verifying the output against the functional requirements.
+Os testes funcionais são um tipo de teste de software que valida o sistema de software em relação aos requisitos funcionais/especificações. O objetivo dos testes funcionais é testar cada função do aplicativo de software fornecendo entrada apropriada e verificando a saída em relação aos requisitos funcionais.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Functional Testing? Types & Examples](https://www.guru99.com/functional-testing.html)
-- [@article@Functional Testing : A Detailed Guide](https://www.browserstack.com/guide/functional-testing)
+- [@article@O que são Testes Funcionais? Tipos & Exemplos](https://www.guru99.com/functional-testing.html)
+- [@article@Testes Funcionais: Um Guia Detalhado](https://www.browserstack.com/guide/functional-testing)

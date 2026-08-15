@@ -1,3 +1,3 @@
-# Programming Skills
+# Habilidades de Programação
 
-To be successful as a data engineer, you need to be proficient in coding. This involves knowing basic concepts and principles that form the foundation of any computer programming language. These include understanding variables, which store data for processing, control structures such as loops and conditional statements that direct the flow of a program, data structures which organize and store data efficiently, and algorithms which provide step-by-step instructions to solve specific problems or perform specific tasks.
+Para ser um sucesso como engenheiro de dados, você precisa ser proficiente em codificação. Isso envolve conhecer conceitos básicos e princípios que formam a base de qualquer linguagem de programação de computador. Isso inclui entender variáveis, que armazenam dados para processamento, estruturas de controle como loops e declarações condicionais que direcionam o fluxo de um programa, estruturas de dados que organizam e armazenam dados de forma eficiente, e algoritmos que fornecem instruções passo a passo para resolver problemas específicos ou realizar tarefas específicas.

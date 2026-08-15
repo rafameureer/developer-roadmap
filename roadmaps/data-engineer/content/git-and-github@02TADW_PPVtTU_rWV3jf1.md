@@ -1,10 +1,10 @@
-# Git and GitHub
+# Git e GitHub
 
-Git is a distributed version control system that tracks changes to code over time. GitHub is a platform built on top of Git that adds collaboration features like pull requests, code review, and CI/CD integrations. Data engineers use Git to manage pipeline code, infrastructure configurations, and shared scripts across teams.
+Git é um sistema de controle de versão distribuído que rastreia as alterações no código ao longo do tempo. GitHub é uma plataforma baseada em Git que adiciona recursos de colaboração como solicitações de pull, revisão de código e integrações CI/CD. Engenheiros de dados usam o Git para gerenciar o código da pipeline, configurações de infraestrutura e scripts compartilhados entre equipes.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para saber mais:
 
-- [@roadmap@Visit Dedicated Git & GitHub Roadmap](https://roadmap.sh/git-github)
-- [@course@Why use Git? (Interactive Lesson)](https://inter-git.com/lessons/introduction)
-- [@article@Git by Example - Learn Version Control with Bite-sized Lessons](https://antonz.org/git-by-example/)
-- [@video@Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+- [@roadmap@Visite a Roadmap dedicada a Git & GitHub](https://roadmap.sh/git-github)
+- [@course@Por que usar o Git? (Aula Interativa)](https://inter-git.com/lessons/introduction)
+- [@article@Git by Example - Aprenda Controle de Versão com Lições Embarcadas](https://antonz.org/git-by-example/)
+- [@video@Curso rápido do Git & GitHub para iniciantes](https://www.youtube.com/watch?v=SWYqp7iY_Tc)

@@ -1,7 +1,7 @@
 # Apache Airflow
 
-Apache Airflow is an open-source tool that helps you schedule, organize, and monitor workflows. Think of it like a to-do list for your data tasks, but smarter — you can set tasks to run in a specific order, track their progress, and see what happens if something fails. It’s often used for automating data pipelines so that data moves, gets processed, and is ready for use without manual work.
+Apache Airflow é uma ferramenta de código aberto que ajuda você a agendar, organizar e monitorar fluxos de trabalho. Imagine-o como uma lista de tarefas para suas tarefas de dados, mas mais inteligente — você pode configurar tarefas para serem executadas em um determinado ordem, rastrear seu progresso e ver o que acontece se algo falhar. Ele é frequentemente usado para automatizar pipelines de dados para que os dados sejam movidos, processados e estejam prontos para uso sem trabalho manual.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Apache Airflow](https://airflow.apache.org/)
+- [@oficial@Apache Airflow](https://airflow.apache.org/)

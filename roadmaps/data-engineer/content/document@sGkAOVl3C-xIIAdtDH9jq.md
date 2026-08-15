@@ -1,8 +1,8 @@
 # Document
 
-\*\*Document Databases are a type of No-SQL databases that store data in JSON, BSON, or XML formats, allowing for flexible, semi-structured and hierarchical data structures. These databases are characterized by their dynamic schema, scalability through distribution, and ability to intuitively map data models to application code. Popular examples include MongoDB, which allows for easy storage and retrieval of varied data types without requiring a rigid, predefined schema.
+**Bancos de Dados de Documento são um tipo de banco de dados NoSQL que armazenam dados em formatos como JSON, BSON ou XML, permitindo estruturas de dados flexíveis, semi-estruturadas e hierárquicas. Esses bancos de dados são caracterizados por seu esquema dinâmico, escalabilidade através da distribuição e capacidade de mapear intuitivamente modelos de dados para o código do aplicativo. Exemplos populares incluem MongoDB, que permite armazenamento e recuperação fácil de diferentes tipos de dados sem a necessidade de um esquema rígido e pré-definido.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is a Document Database?](https://www.mongodb.com/resources/basics/databases/document-databases)
-- [@article@Document-oriented database](https://en.wikipedia.org/wiki/Document-oriented_database)
+- [@article@O que é um Banco de Dados de Documento?](https://www.mongodb.com/resources/basics/databases/document-databases)
+- [@article@Banco de dados orientado a documentos](https://en.wikipedia.org/wiki/Document-oriented_database)

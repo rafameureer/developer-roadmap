@@ -1,10 +1,10 @@
 # Scala
 
-Scala is a programming language that combines the strengths of object-oriented and functional programming, and it runs on the Java Virtual Machine (JVM). In data engineering, Scala is especially important because Apache Spark, one of the most popular big data processing frameworks, was written in Scala. This means Scala can use Spark’s features directly and efficiently, often with cleaner and more concise code than Java. Its ability to handle complex data transformations with less code makes it a powerful tool for building fast, scalable data pipelines.
+Scala é uma linguagem de programação que combina as forças do programação orientada a objetos e funcional, e ela roda na Máquina Virtual Java (JVM). No engenho de dados, o Scala é especialmente importante porque o Apache Spark, um dos frameworks de processamento de big data mais populares, foi escrito em Scala. Isso significa que o Scala pode usar diretamente e eficientemente as funcionalidades do Spark, muitas vezes com código limpo e conciso demais para Java. Sua capacidade de lidar com transformações complexas de dados com menos código a torna uma ferramenta poderosa para construir pipelines de dados rápidos e escaláveis.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated Scala Roadmap](https://roadmap.sh/scala)
-- [@official@The Scala Programming Language](https://www.scala-lang.org/)
-- [@article@Scala for Beginners: An Introduction](https://daily.dev/blog/scala-for-beginners-an-introduction)
-- [@video@Scala Tutorial](https://www.youtube.com/playlist?list=PLS1QulWo1RIagob5D6kMIAvu7DQC5VTh3)
+- [@roadmap@Visite o Caminho Dedidado do Scala](https://roadmap.sh/scala)
+- [@official@A Linguagem de Programação Scala](https://www.scala-lang.org/)
+- [@article@Scala para Iniciantes: Uma Introdução](https://daily.dev/blog/scala-for-beginners-an-introduction)
+- [@video@Tutorial do Scala](https://www.youtube.com/playlist?list=PLS1QulWo1RIagob5D6kMIAvu7DQC5VTh3)

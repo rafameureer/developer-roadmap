@@ -1,7 +1,7 @@
-# Amazon RDS (Database)
+# Amazon RDS (Banco de Dados)
 
-Amazon RDS (Relational Database Service) is a managed relational database service from AWS that supports MySQL, PostgreSQL, MariaDB, Oracle, and MS SQL Server. It handles provisioning, backups, patching, and replication automatically. RDS is used for transactional databases that require minimal database administration overhead.
+O Amazon RDS (Relational Database Service) é um serviço gerenciado de banco de dados relacional da AWS que suporta MySQL, PostgreSQL, MariaDB, Oracle e MS SQL Server. Ele lida automaticamente com a provisão, backup, patching e replicação. O RDS é usado para bancos de dados transacionais que exigem um mínimo de sobrecarga administrativa do banco de dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Amazon RDS](https://aws.amazon.com/rds/)
+- [@oficial@Amazon RDS](https://aws.amazon.com/rds/)

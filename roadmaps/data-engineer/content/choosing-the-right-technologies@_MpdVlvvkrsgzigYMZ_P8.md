@@ -1,9 +1,9 @@
-# Choosing the Right Technologies
+# Escolhendo as Tecnologias Certas
 
-Selecting the right technology stack depends on data volume, team size, latency requirements, and budget. There is no universal best choice; a small startup may do well with a simple Postgres setup, while a large enterprise may need distributed processing and a cloud data warehouse. The decision involves evaluating trade-offs between cost, complexity, scalability, and maintainability.
+A escolha da pilha de tecnologia adequada depende do volume de dados, tamanho da equipe, requisitos de latência e orçamento. Não há uma escolha universalmente melhor; um pequeno startup pode fazer bem com uma configuração simples do Postgres, enquanto uma grande empresa pode precisar de processamento distribuído e um data warehouse na nuvem. A decisão envolve avaliar os compromissos entre custo, complexidade, escalabilidade e manutenibilidade.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@book@Fundamentals of Data Engineering](https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/)
-- [@article@Build hybrid and multicloud architectures using Google Cloud](https://cloud.google.com/architecture/hybrid-multicloud-patterns)
-- [@article@The Unfulfilled Promise of Serverless](https://www.lastweekinaws.com/blog/the-unfulfilled-promise-of-serverless/)
+- [@book@Fundamentos da Engenharia de Dados](https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/)
+- [@article@Construindo arquiteturas híbridas e multicloud usando o Google Cloud](https://cloud.google.com/architecture/hybrid-multicloud-patterns)
+- [@article@O Desafio Não Cumprido da Serverless](https://www.lastweekinaws.com/blog/the-unfulfilled-promise-of-serverless/)

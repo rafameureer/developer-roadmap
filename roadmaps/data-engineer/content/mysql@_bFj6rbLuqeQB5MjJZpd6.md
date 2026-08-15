@@ -1,10 +1,10 @@
 # MySQL
 
-MySQL is an open-source relational database management system (RDBMS) known for its speed, reliability, and ease of use. It uses SQL (Structured Query Language) for database interactions and supports a range of features for data management, including transactions, indexing, and stored procedures. MySQL is widely used for web applications, data warehousing, and various other applications due to its scalability and flexibility. It integrates well with many programming languages and platforms, and is often employed in conjunction with web servers and frameworks in popular software stacks like LAMP (Linux, Apache, MySQL, PHP/Python/Perl). MySQL is maintained by Oracle Corporation and has a large community and ecosystem supporting its development and use.
+O MySQL é um sistema de gerenciamento de banco de dados relacional (RDBMS) de código aberto conhecido por sua velocidade, confiabilidade e facilidade de uso. Ele usa SQL (Linguagem Estruturada de Consulta) para interações com o banco de dados e suporta uma variedade de recursos para gerenciamento de dados, incluindo transações, indexação e procedimentos armazenados. O MySQL é amplamente usado em aplicativos web, data warehousing e várias outras aplicações devido à sua escalabilidade e flexibilidade. Ele integra-se bem com muitos idiomas de programação e plataformas, e frequentemente é empregado em conjunto com servidores Web e estruturas em pilhas populares como LAMP (Linux, Apache, MySQL, PHP/Python/Perl). O MySQL é mantido pela Oracle Corporation e tem uma grande comunidade e ecossistema suportando seu desenvolvimento e uso.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@MySQL](https://www.mysql.com/)
-- [@article@MySQL for Developers](https://planetscale.com/courses/mysql-for-developers/introduction/course-introduction)
-- [@article@MySQL Tutorial](https://www.mysqltutorial.org/)
-- [@video@MySQL Complete Course](https://www.youtube.com/watch?v=5OdVJbNCSso)
+- [@article@MySQL para Desenvolvedores](https://planetscale.com/courses/mysql-for-developers/introduction/course-introduction)
+- [@article@Tutorial do MySQL](https://www.mysqltutorial.org/)
+- [@video@Curso Completo do MySQL](https://www.youtube.com/watch?v=5OdVJbNCSso)

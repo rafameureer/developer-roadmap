@@ -1,7 +1,7 @@
 # Onehouse
 
-Onehouse Managed Lakehouse is a cloud-native SaaS product built on top of Apache Hudi. It replaces painful, inefficient do-iy-yourseld data lake management around file sizing, masking, deletion, clustering, access control, caching, etc. with foundational data infrastructure as a service, to ingest, store, optimize and transform your data on industry-leading open data formats.
+Onehouse Managed Lakehouse é um produto SaaS nativo da nuvem baseado em Apache Hudi. Ele substitui a gestão complicada e ineficiente de data lakes por conta própria ao redor do tamanho dos arquivos, máscaração, exclusão, agrupamento, controle de acesso, cache, etc., com uma infraestrutura de dados fundamental como serviço para ingestir, armazenar, otimizar e transformar seus dados em formatos de dados abertos líderes da indústria.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Onehouse](https://www.onehouse.ai/)

@@ -1,8 +1,8 @@
-# Learn SQL Concepts
+# Conheça Conceitos de SQL
 
-SQL stands for Structured Query Language. It is a standardized programming language designed to manage and interact with relational database management systems (RDBMS). SQL allows you to create, read, edit, and delete data stored in database tables by writing specific queries.
+SQL significa Linguagem de Consulta Estruturada. É um idioma de programação padronizado projetado para gerenciar e interagir com sistemas de gerenciamento de banco de dados relacionais (RDBMS). O SQL permite que você crie, leia, edite e exclua dados armazenados em tabelas de banco de dados escrevendo consultas específicas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit Dedicated SQL Roadmap](https://roadmap.sh/sql)
-- [@article@SQL Tutorial - Essential SQL For The Beginners](https://www.sqltutorial.org/)
+- [@roadmap@Visite a Rotação Específica do SQL](https://roadmap.sh/sql)
+- [@article@Tutorial de SQL - SQL Essencial para Iniciantes](https://www.sqltutorial.org/)

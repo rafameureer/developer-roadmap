@@ -1,8 +1,8 @@
-# Data Interoperability
+# Interoperabilidade de Dados
 
-Data interoperability is the ability of diverse systems and applications to access, exchange, and cooperatively use data in a coordinated and meaningful way, even across organizational boundaries. It ensures that data can flow freely, maintaining its integrity and context, allowing for improved efficiency, collaboration, and decision-making by breaking down data silos. Achieving data interoperability often relies on data standards, metadata, and common data elements to define how data is collected, formatted, and interpreted.
+A interoperabilidade de dados é a capacidade de sistemas e aplicativos diversos acessarem, trocarem e utilizarem dados de maneira coordenada e significativa, mesmo em limites organizacionais. Ela garante que os dados possam fluir livremente, mantendo sua integridade e contexto, permitindo uma maior eficiência, colaboração e tomada de decisão ao desmantelar silos de dados. A alcançar a interoperabilidade de dados muitas vezes depende de padrões de dados, metadados e elementos de dados comuns para definir como os dados são coletados, formatados e interpretados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Data Interoperability](https://www.sciencedirect.com/topics/computer-science/data-interoperability)
-- [@article@What is Data Interoperability? – Exploring the Process and Benefits](https://www.codelessplatforms.com/blog/what-is-data-interoperability/)
+- [@artigo@Interoperabilidade de Dados](https://www.sciencedirect.com/topics/computer-science/data-interoperability)
+- [@artigo@O que é Interoperabilidade de Dados? – Explorando o Processo e Benefícios](https://www.codelessplatforms.com/blog/what-is-data-interoperability/)

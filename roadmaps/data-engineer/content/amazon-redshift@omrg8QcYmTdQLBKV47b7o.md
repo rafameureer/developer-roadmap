@@ -1,8 +1,8 @@
 # Amazon Redshift
 
-Amazon Redshift is a cloud-based data warehouse service from Amazon that lets you store and analyze large amounts of data quickly. It’s designed for running complex queries on huge datasets, so businesses can use it to turn raw data into useful reports and insights. You can load data into Redshift from many sources, and then use SQL to explore it, just like you would with a regular database — but it’s optimized to handle much bigger data and run faster.
+Amazon Redshift é um serviço de data warehouse na nuvem da Amazon que permite armazenar e analisar grandes quantidades de dados rapidamente. Ele foi projetado para executar consultas complexas em conjuntos de dados massivos, então as empresas podem usá-lo para transformar dados brutos em relatórios e insights úteis. Você pode carregar dados no Redshift a partir de muitas fontes e depois usar SQL para explorá-los, como faria com um banco de dados regular — mas ele está otimizado para lidar com muito mais dados e executar mais rápido.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Amazon Redshift](https://aws.amazon.com/redshift/)
-- [@video@Getting Started with Amazon Redshift - AWS Online Tech Talks](https://www.youtube.com/watch?v=dfo4J5ZhlKI)
+- [@oficial@Amazon Redshift](https://aws.amazon.com/redshift/)
+- [@vídeo@Introdução ao Amazon Redshift - AWS Online Tech Talks](https://www.youtube.com/watch?v=dfo4J5ZhlKI)

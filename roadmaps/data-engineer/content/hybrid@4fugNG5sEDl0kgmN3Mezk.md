@@ -1,9 +1,9 @@
-# Hybrid
+# Híbrido
 
-Hybrid data ingestion combines aspects of both real-time and batch ingestion. This approach gives you the flexibility to adapt your data ingestion strategy as your needs evolve. For example, you could process data in real-time for critical applications and in batches for less time-sensitive tasks. Two common hybrid methods are Lambda architecture-based and micro-batching.
+A ingestão de dados híbrida combina aspectos tanto da ingestão em tempo real quanto em lote. Este abordagem dá-lhe a flexibilidade de adaptar sua estratégia de ingestão de dados conforme suas necessidades evoluem. Por exemplo, você poderia processar dados em tempo real para aplicativos críticos e em lotes para tarefas menos sensíveis ao tempo. Dois métodos híbridos comuns são arquitetura baseada em Lambda e micro-loteamento.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Data Ingestion: Types, Tools, and Real-Life Use Cases](https://estuary.dev/blog/data-ingestion/)
-- [@article@Lambda Architecture](https://www.databricks.com/glossary/lambda-architecture)
-- [@article@What is Micro Batching: A Comprehensive Guide 101](https://hevodata.com/learn/micro-batching/)
+- [@artigo@O que é Ingestão de Dados: Tipos, Ferramentas e Casos Práticos Reais](https://estuary.dev/blog/data-ingestion/)
+- [@artigo@Arquitetura Lambda](https://www.databricks.com/glossary/lambda-architecture)
+- [@artigo@O que é Micro Loteamento: Um Guia Completo 101](https://hevodata.com/learn/micro-batching/)

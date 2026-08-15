@@ -1,8 +1,8 @@
 # OpenTofu
 
-OpenTofu is an infrastructure as code tool that lets you define both cloud and on-prem resources in human-readable configuration files that you can version, reuse, and share. You can then use a consistent workflow to provision and manage all of your infrastructure throughout its lifecycle. OpenTofu can manage low-level components like compute, storage, and networking resources, as well as high-level components like DNS entries and SaaS features.
+OpenTofu é uma ferramenta de infraestrutura como código que permite definir tanto recursos na nuvem quanto em local on-premises em arquivos de configuração humanamente legíveis que você pode versão, reutilizar e compartilhar. Você pode então usar um fluxo de trabalho consistente para provisionar e gerenciar toda a sua infraestrutura ao longo de toda a sua vida útil. OpenTofu pode gerenciar componentes de nível baixo como recursos computacionais, armazenamento e rede, bem como componentes de nível alto como entradas DNS e recursos SaaS.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@OpenTofu Docs](https://opentofu.org/docs/)
-- [@video@OpenWhat is OpenTofu ?Explained with Demo](https://www.youtube.com/watch?v=6eHV63BVqmA)
+- [@official@Documentação do OpenTofu](https://opentofu.org/docs/)
+- [@video@O que é o OpenTofu? Explicado com Demo](https://www.youtube.com/watch?v=6eHV63BVqmA)

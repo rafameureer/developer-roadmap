@@ -1,9 +1,9 @@
 # ETL vs Reverse ETL
 
-ETL (Extract, Transform, Load) moves data from operational systems into a data warehouse for analysis. Reverse ETL goes in the opposite direction, syncing processed data from the warehouse back into operational tools like Salesforce, HubSpot, or Intercom. The two patterns are complementary and together form a complete data activation workflow.
+ETL (Extração, Transformação, Carregamento) move dados de sistemas operacionais para um data warehouse para análise. Reverse ETL vai na direção oposta, sincronizando dados processados do warehouse de volta em ferramentas operacionais como Salesforce, HubSpot ou Intercom. Os dois padrões são complementares e juntos formam um fluxo completo de ativação de dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is ETL?](https://www.snowflake.com/guides/what-etl)
-- [@article@ETL vs Reverse ETL vs Data Activation](https://airbyte.com/data-engineering-resources/etl-vs-reverse-etl-vs-data-activation)
-- [@article@ETL vs Reverse ETL: An Overview, Key Differences, & Use Cases](https://portable.io/learn/etl-vs-reverse-etl)
+- [@artigo@O que é ETL?](https://www.snowflake.com/guides/what-etl)
+- [@artigo@ETL vs Reverse ETL vs Ativação de Dados](https://airbyte.com/data-engineering-resources/etl-vs-reverse-etl-vs-data-activation)
+- [@artigo@ETL vs Reverse ETL: Uma Visão Geral, Diferenças Chave e Casos de Uso](https://portable.io/learn/etl-vs-reverse-etl)

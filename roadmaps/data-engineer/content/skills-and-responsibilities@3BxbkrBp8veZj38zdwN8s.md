@@ -1,8 +1,8 @@
-# Skills and Responsibilities
+# Habilidades e Responsabilidades
 
-A data engineer works across a broad set of tools and systems: programming languages, databases, cloud platforms, pipeline orchestration, and distributed computing. Core responsibilities include building and maintaining data pipelines, managing database schemas, optimizing query performance, and ensuring data quality. Collaboration with data scientists, analysts, and software engineers is also a regular part of the role.
+O engenheiro de dados trabalha em uma ampla gama de ferramentas e sistemas: linguagens de programação, bancos de dados, plataformas de nuvem, orquestração de pipelines e computação distribuída. As responsabilidades principais incluem a construção e manutenção de pipelines de dados, o gerenciamento de esquemas de banco de dados, a otimização desempenho das consultas e garantir a qualidade dos dados. A colaboração com cientistas de dados, analistas e engenheiros de software também é uma parte regular do cargo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Top Data Engineer Skills and Responsibilities](https://www.simplilearn.com/data-engineer-role-article)
-- [@video@What skills do you need as a Data Engineer?](https://www.youtube.com/watch?v=sF04UxNAvmg)
+- [@artigo@Top Habilidades e Responsabilidades de Engenheiro de Dados](https://www.simplilearn.com/data-engineer-role-article)
+- [@vídeo@Quais habilidades você precisa ser um Engenheiro de Dados?](https://www.youtube.com/watch?v=sF04UxNAvmg)

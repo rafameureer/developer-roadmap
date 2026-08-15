@@ -1,8 +1,8 @@
-# Data Ingestion
+# Ingestão de Dados
 
-Data ingestion is the third step in the data engineering lifecycle. It entails the process of collecting and importing data files from various sources into a database for storage, processing and analysis. The goal of data ingestion is to clean and store data in an accessible and consistent central repository to prepare it for use within the organization.
+A ingestão de dados é o terceiro passo no ciclo de vida da engenharia de dados. Envolve o processo de coletar e importar arquivos de dados de várias fontes em um banco de dados para armazenamento, processamento e análise. O objetivo da ingestão de dados é limpar e armazenar os dados em um repositório central acessível e consistente, preparando-os para uso dentro da organização.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Data Ingestion?](https://www.ibm.com/think/topics/data-ingestion)
-- [@article@Data Ingestion](https://www.qlik.com/us/data-ingestion)
+- [@artigo@O que é Ingestão de Dados?](https://www.ibm.com/think/topics/data-ingestion)
+- [@artigo@Ingestão de Dados](https://www.qlik.com/us/data-ingestion)

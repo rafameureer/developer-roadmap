@@ -1,8 +1,8 @@
-# What is Data Engineering?
+# O que é Engenharia de Dados?
 
-Data engineering is the practice of designing and building systems for the aggregation, storage and analysis of data at scale. Data engineers excel at creating and deploying algorithms, data pipelines and workflows that sort raw data into ready-to-use datasets. Data engineering is an integral component of the modern data platform and makes it possible for businesses to analyze and apply the data they receive, regardless of the data source or format.
+A engenharia de dados é a prática de projetar e construir sistemas para a agregação, armazenamento e análise de dados em escala. Os engenheiros de dados são excelentes em criar e implantar algoritmos, pipelines de dados e fluxos de trabalho que organizam dados brutos em conjuntos de dados prontos para uso. A engenharia de dados é um componente integral da plataforma de dados moderna e torna possível para as empresas analisarem e aplicarem os dados que recebem, independente da fonte ou formato dos dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is data engineering?](https://www.ibm.com/think/topics/data-engineering)
-- [@video@How Data Engineering Works?](https://www.youtube.com/watch?v=qWru-b6m030)
+- [@artigo@O que é engenharia de dados?](https://www.ibm.com/think/topics/data-engineering)
+- [@vídeo@Como funciona a Engenharia de Dados?](https://www.youtube.com/watch?v=qWru-b6m030)

@@ -1,9 +1,9 @@
 # Data Mart
 
-A data mart is a subset of a data warehouse, focused on a specific business function or department. A data mart is streamlined for quicker querying and a more straightforward setup, catering to the specialized needs of a particular team, or function. Data marts only hold data relevant to a specific department or business unit, enabling quicker access to specific datasets, and simpler management
+Um data mart é um subconjunto de um data warehouse, focado em uma função ou departamento específico do negócio. Um data mart está otimizado para consultas mais rápidas e configuração mais simples, atendendo às necessidades especializadas de um determinado time ou função. Os data marts contêm apenas dados relevantes a um determinado departamento ou unidade de negócios, permitindo acesso mais rápido aos conjuntos de dados específicos e simplificando a gestão.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is a Data Mart?](https://www.ibm.com/think/topics/data-mart)
-- [@article@WData Mart vs Data Warehouse: a Detailed Comparison](https://www.datacamp.com/blog/data-mart-vs-data-warehouse)
+- [@article@O que é um Data Mart?](https://www.ibm.com/think/topics/data-mart)
+- [@article@Data Mart vs Data Warehouse: uma Comparação Detalhada](https://www.datacamp.com/blog/data-mart-vs-data-warehouse)
 - [@video@Data Lake VS Data Warehouse VS Data Marts](https://www.youtube.com/watch?v=w9-WoReNKHk)

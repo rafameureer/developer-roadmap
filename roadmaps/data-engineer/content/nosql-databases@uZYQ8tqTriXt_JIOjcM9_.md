@@ -1,17 +1,17 @@
-# NoSQL databases
+# Bancos de dados NoSQL
 
-NoSQL databases are a category of database management systems designed for handling unstructured, semi-structured, or rapidly changing data. Unlike traditional relational databases, which use fixed schemas and SQL for querying, NoSQL databases offer flexible data models and can be classified into several types:
+Bancos de dados NoSQL são um tipo de sistemas gerenciadores de banco de dados projetados para lidar com dados não estruturados, semi-estruturados ou que mudam rapidamente. Ao contrário dos bancos de dados relacionais tradicionais, que usam esquemas fixos e SQL para consultas, os bancos de dados NoSQL oferecem modelos de dados flexíveis e podem ser classificados em vários tipos:
 
-1.  **Document Stores**: Store data in JSON, BSON, or XML formats, allowing for flexible and hierarchical data structures (e.g., MongoDB, CouchDB).
-2.  **Key-Value Stores**: Store data as key-value pairs, suitable for high-speed read and write operations (e.g., Redis, Riak).
-3.  **Column-Family Stores**: Store data in columns rather than rows, which is useful for handling large volumes of data and wide columnar tables (e.g., Apache Cassandra, HBase).
-4.  **Graph Databases**: Optimize the storage and querying of data with complex relationships using graph structures (e.g., Neo4j, Amazon Neptune).
+1.  **Armazenamento de Documentos**: Armazena dados no formato JSON, BSON ou XML, permitindo estruturas de dados flexíveis e hierárquicas (ex: MongoDB, CouchDB).
+2.  **Armazenamento de Pares Chave-Valor**: Armazena dados como pares chave-valor, adequado para operações de leitura e escrita em alta velocidade (ex: Redis, Riak).
+3.  **Armazenamento de Família de Colunas**: Armazena dados em colunas em vez de linhas, o que é útil para lidar com grandes volumes de dados e tabelas de coluna largas (ex: Apache Cassandra, HBase).
+4.  **Bancos de Dados de Gráficos**: Otimiza a armazenamento e consulta de dados com relações complexas usando estruturas de gráfico (ex: Neo4j, Amazon Neptune).
 
-NoSQL databases are often used for applications requiring high scalability, flexibility, and performance, such as real-time analytics, content management systems, and distributed data storage.
+Os bancos de dados NoSQL são frequentemente usados em aplicações que exigem alta escalabilidade, flexibilidade e desempenho, como análises em tempo real, sistemas de gerenciamento de conteúdo e armazenamento de dados distribuídos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Types of NoSQL Databases: How to Choose the Right One](https://roadmap.sh/backend/types-of-nosql-databases)
-- [@article@NoSQL Explained](https://www.mongodb.com/nosql-explained)
-- [@video@How do NoSQL Databases work](https://www.youtube.com/watch?v=0buKQHokLK8)
-- [@video@SQL vs NoSQL Explained](https://www.youtube.com/watch?v=ruz-vK8IesE)
+- [@artigo@Tipos de Bancos de Dados NoSQL: Como Escolher o Certo](https://roadmap.sh/backend/types-of-nosql-databases)
+- [@artigo@NoSQL Explicado](https://www.mongodb.com/nosql-explained)
+- [@vídeo@Como Funcionam os Bancos de Dados NoSQL](https://www.youtube.com/watch?v=0buKQHokLK8)
+- [@vídeo@SQL vs NoSQL Explicado](https://www.youtube.com/watch?v=ruz-vK8IesE)

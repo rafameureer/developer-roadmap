@@ -1,10 +1,10 @@
-# Linux Basics
+# Básicos do Linux
 
-Knowledge of UNIX is a must for almost all kind of development as most of the code that you write is most likely going to be finally deployed on a UNIX/Linux machine. Linux has been the backbone of the free and open source software movement, providing a simple and elegant operating system for almost all your needs.
+Conhecimento de UNIX é essencial para quase todos os tipos de desenvolvimento, pois a maioria do código que você escreve provavelmente será finalmente implantado em uma máquina UNIX/Linux. O Linux foi a base da movimentação de software livre e aberto, fornecendo um sistema operacional simples e elegante para quase todas as suas necessidades.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit Dedicated Linux Roadmap](https://roadmap.sh/linux)
-- [@course@Coursera - Unix Courses](https://www.coursera.org/courses?query=unix)
-- [@article@Linux Basics](https://dev.to/rudrakshi99/linux-basics-2onj)
-- [@video@Linux Operating System - Crash Course](https://www.youtube.com/watch?v=ROjZy1WbCIA)
+- [@roadmap@Visite a Rotação Específica do Linux](https://roadmap.sh/linux)
+- [@course@Coursera - Cursos de UNIX](https://www.coursera.org/courses?query=unix)
+- [@article@Básicos do Linux](https://dev.to/rudrakshi99/linux-basics-2onj)
+- [@video@Curso de Crash do Sistema Operacional Linux](https://www.youtube.com/watch?v=ROjZy1WbCIA)

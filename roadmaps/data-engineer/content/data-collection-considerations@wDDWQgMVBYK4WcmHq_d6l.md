@@ -1,7 +1,7 @@
-# Data Collection Considerations
+# Considerações na Coleta de Dados
 
-When collecting data, engineers must account for reliability, latency, volume, and schema consistency. Other considerations include data privacy regulations, deduplication, and handling of missing or malformed records. Good collection design reduces problems downstream in the pipeline.
+Quando coletar dados, engenheiros devem levar em conta a confiabilidade, latência, volume e consistência do esquema. Outras considerações incluem regulamentos sobre privacidade de dados, deduplicação e tratamento de registros faltantes ou mal formados. Boa design de coleta reduz problemas downstream na pipeline.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@book@Fundamentals of Data Engineering](https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/)
+- [@livro@Fundamentos da Engenharia de Dados](https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/)

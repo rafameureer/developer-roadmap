@@ -1,12 +1,12 @@
 # EU AI Act
 
-The Artificial Intelligence Act of the European Union, also known as the EU AI Act, is a comprehensive regulatory framework that is established to ensure safety and that fundamental human rights are upheld in the use of AI technologies. It governs the development and/or use of AI in the European Union. The act takes a risk-based approach to regulation, applying different rules to AI systems according to the risk they pose.
+A Lei Europeia de Inteligência Artificial, também conhecida como a LEIA, é um quadro regulatório abrangente estabelecido para garantir a segurança e assegurar que os direitos fundamentais humanos sejam observados no uso de tecnologias de IA. Regula o desenvolvimento e/ou uso da IA na União Europeia. A lei adota uma abordagem baseada em riscos, aplicando regras diferentes a sistemas de IA com base nos riscos que representam.
 
-Considered the world's first comprehensive regulatory framework for AI, the EU AI Act prohibits some AI uses outright and implements strict governance, risk management and transparency requirements for others.
+Considerada a primeira quadra regulatória abrangente mundial para IA, a LEIA AI proíbe algumas utilizações de IA por completo e implementa requisitos rigurosos de governança, gerenciamento de riscos e transparência para outras.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@The EU AI Act Explorer](https://artificialintelligenceact.eu/ai-act-explorer/)
-- [@article@AI Act - European Commission](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai)
-- [@article@Artificial Intelligence Act](https://en.wikipedia.org/wiki/Artificial_Intelligence_Act)
-- [@video@The EU AI Act Explained](https://www.youtube.com/watch?v=s_rxOnCt3HQ)
+- [@official@Explorador da LEIA AI](https://artificialintelligenceact.eu/ai-act-explorer/)
+- [@article@LEIA - Comissão Europeia](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai)
+- [@article@Lei Europeia de Inteligência Artificial](https://en.wikipedia.org/wiki/Artificial_Intelligence_Act)
+- [@video@A LEIA AI Explicada](https://www.youtube.com/watch?v=s_rxOnCt3HQ)

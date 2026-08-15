@@ -1,7 +1,7 @@
 # Segment
 
-Segment is an analytics platform that provides a single API for collecting, storing, and routing customer data from various sources. With Segment, data engineers can easily add analytics tracking to their app, without having to integrate with multiple analytics tools individually. Segment acts as a single point of integration, allowing developers to send data to multiple analytics tools with a single API.
+O Segment é uma plataforma de análise que oferece uma única API para coletar, armazenar e rotear dados do cliente de várias fontes. Com o Segment, engenheiros de dados podem adicionar facilmente rastreamento de análise à sua aplicação, sem ter que integrar com múltiplos ferramentas de análise individualmente. O Segment atua como um único ponto de integração, permitindo aos desenvolvedores enviar dados para várias ferramentas de análise com uma única API.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@flutter_segment](https://pub.dev/packages/flutter_segment)

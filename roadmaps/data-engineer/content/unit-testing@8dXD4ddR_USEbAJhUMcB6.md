@@ -1,8 +1,8 @@
-# Unit Testing
+# Testes Unitários
 
-Unit testing is where individual **units** (modules, functions/methods, routines, etc.) of software are tested to ensure their correctness. This low-level testing ensures smaller components are functionally sound while taking the burden off of higher-level tests. Generally, a developer writes these tests during the development process and they are run as automated tests.
+Os testes unitários são onde **unidades** (módulos, funções/métodos, rotinas, etc.) de software são testados para garantir sua correção. Este tipo de teste de nível baixo garante que componentes menores estejam funcionando adequadamente, aliviando a carga dos testes de nível superior. Geralmente, um desenvolvedor escreve esses testes durante o processo de desenvolvimento e eles são executados como testes automatizados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Unit Testing Tutorial](https://www.guru99.com/unit-testing-guide.html)
-- [@video@What is Unit Testing?](https://youtu.be/3kzHmaeozDI)
+- [@artigo@Guia de Teste Unitário](https://www.guru99.com/unit-testing-guide.html)
+- [@vídeo@O que é Teste Unitário?](https://youtu.be/3kzHmaeozDI)

@@ -1,10 +1,10 @@
 # PostgreSQL
 
-PostgreSQL is an open-source relational database known for its standards compliance, extensibility, and advanced feature set. It supports complex queries, JSON storage, full-text search, and custom data types. PostgreSQL is widely used in both transactional and analytical workloads.
+PostgreSQL é um banco de dados relacional open-source conhecido por sua conformidade com padrões, extensibilidade e conjunto avançado de recursos. Ele suporta consultas complexas, armazenamento JSON, busca em texto completo e tipos de dados personalizados. O PostgreSQL é amplamente utilizado em cargas de trabalho transacionais e analíticas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit Dedicated PostgreSQL DBA Roadmap](https://roadmap.sh/postgresql-dba)
-- [@official@PostgreSQL Website](https://www.postgresql.org/)
-- [@article@Learn PostgreSQL - Full Tutorial for Beginners](https://www.postgresqltutorial.com/)
-- [@video@Postgres tutorial for Beginners](https://www.youtube.com/watch?v=SpfIwlAYaKk)
+- [@roadmap@Visite a Roadmap dedicada ao DBA do PostgreSQL](https://roadmap.sh/postgresql-dba)
+- [@official@Site oficial do PostgreSQL](https://www.postgresql.org/)
+- [@article@Aprenda o PostgreSQL - Tutorial completo para iniciantes](https://www.postgresqltutorial.com/)
+- [@video@Tutorial do PostgreSQL para iniciantes](https://www.youtube.com/watch?v=SpfIwlAYaKk)

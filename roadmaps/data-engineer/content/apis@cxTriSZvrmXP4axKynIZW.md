@@ -1,9 +1,9 @@
 # APIs
 
-APIs (Application Programming Interfaces) expose data from external services in a structured format, typically JSON or XML over HTTP. Many data pipelines pull data from third-party APIs such as payment processors, marketing platforms, or social networks. Rate limits, authentication, and schema changes are common challenges when ingesting from APIs.
+APIs (Interfaces de Programação de Aplicativos) expõem dados de serviços externos em um formato estruturado, geralmente JSON ou XML por HTTP. Muitos pipelines de dados puxam dados de APIs de terceiros como processadores de pagamento, plataformas de marketing ou redes sociais. Limites de taxa, autenticação e alterações no esquema são desafios comuns ao ingestir dados a partir de APIs.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated Java Roadmap](https://roadmap.sh/api-design)
-- [@article@What is an API?](https://aws.amazon.com/what-is/api/)
-- [@article@A Beginner's Guide to APIs](https://www.postman.com/what-is-an-api/)
+- [@roadmap@Visite o Caminho Java Dedidado](https://roadmap.sh/api-design)
+- [@article@O que é uma API?](https://aws.amazon.com/what-is/api/)
+- [@article@Guia Iniciante sobre APIs](https://www.postman.com/what-is-an-api/)

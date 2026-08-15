@@ -1,7 +1,7 @@
 # DynamoDB
 
-Amazon DynamoDB is a fully managed key-value and document database service on AWS. It provides single-digit millisecond performance at any scale and handles replication and scaling automatically. DynamoDB is commonly used for applications that require predictable performance and high availability without database administration.
+O Amazon DynamoDB é um serviço de banco de dados chave-valor e orientado a documentos gerenciado pelo AWS. Ele oferece desempenho em dígitos únicos de milissegundos em qualquer escala e lida com replicação e escalabilidade automaticamente. O DynamoDB é comumente usado para aplicativos que requerem desempenho previsível e alta disponibilidade sem administração de banco de dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Amazon DynamoDB](https://aws.amazon.com/dynamodb/)

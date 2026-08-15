@@ -1,9 +1,9 @@
 # Memcached
 
-Memcached is a high-performance, distributed in-memory caching system. It is simpler than Redis, supporting only key-value string storage, but is very fast and horizontally scalable. Memcached is commonly used to cache database query results and reduce load on backend systems.
+Memcached é um sistema de cache em memória distribuído de alto desempenho. É mais simples do que o Redis, suportando apenas armazenamento de strings chave-valor, mas é muito rápido e escalável horizontalmente. O Memcached é comumente usado para cachear resultados de consultas de banco de dados e reduzir a carga nos sistemas de back-end.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@opensource@memcached](https://github.com/memcached/memcached#readme)
-- [@article@Memcached Tutorial](https://www.tutorialspoint.com/memcached/index.htm)
+- [@article@Tutorial de Memcached](https://www.tutorialspoint.com/memcached/index.htm)
 - [@video@Redis vs Memcached](https://www.youtube.com/watch?v=Gyy1SiE8avE)

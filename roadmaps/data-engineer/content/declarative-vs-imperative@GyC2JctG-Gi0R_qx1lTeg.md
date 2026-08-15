@@ -1,12 +1,12 @@
-# Declarative vs Imperative
+# Declarativo vs Imperativo
 
-When it comes to Infrastructure as Code (IaC), there are two fundamental styles: imperative and declarative.
+Quando se trata de Infraestrutura como Código (IaC), há dois estilos fundamentais: imperativo e declarativo.
 
-In **imperative IaC**, you specify a list of steps the IaC tool should follow to provision a new resource. You tell your IaC tool how to create each environment using a sequence of command imperatives. Imperative IaC can offer more flexibility as it allows you to dictate each step. However, this can result in increased complexity. Popular imperative IaC tools are Chef and Puppet
+Em **imperativo IaC**, você especifica uma lista de etapas que o ferramenta de IaC deve seguir para provisionar um novo recurso. Você instrui sua ferramenta de IaC como criar cada ambiente usando uma sequência de comandos imperativos. O IaC imperativo pode oferecer mais flexibilidade, pois permite que você dictie cada etapa. No entanto, isso pode resultar em complexidade aumentada. Ferramentas populares de IaC imperativo incluem Chef e Puppet.
 
-In **declarative IaC**, you specify the name and properties of the infrastructure resources you wish to provision, and then the IaC tool figures out how to achieve that end result on its own. You declare to your IaC tool what you want, but not how to get there. Declarative IaC, while less flexible, tends to be simpler and more manageable. Terraform is the most popular declarative IaC tool
+Em **declarativo IaC**, você especifica o nome e as propriedades dos recursos de infraestrutura que deseja provisionar, e então a ferramenta de IaC descobre como alcançar esse resultado sozinha. Você declara para sua ferramenta de IaC o que quer, mas não como chegar lá. O IaC declarativo, embora menos flexível, tende a ser mais simples e gerenciável. Terraform é a ferramenta de IaC declarativa mais popular.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Infrastructure as Code: From Imperative to Declarative and Back Again](https://thenewstack.io/infrastructure-as-code-from-imperative-to-declarative-and-back-again/)
-- [@article@Declarative vs Imperative Programming for Infrastructure as Code (IaC)](https://www.copado.com/resources/blog/declarative-vs-imperative-programming-for-infrastructure-as-code-iac)
+- [@artigo@Infraestrutura como Código: De Imperativo para Declarativo e Volta](https://thenewstack.io/infrastructure-as-code-from-imperative-to-declarative-and-back-again/)
+- [@artigo@Declarativo vs Imperativo para Infraestrutura como Código (IaC)](https://www.copado.com/resources/blog/declarative-vs-imperative-programming-for-infrastructure-as-code-iac)

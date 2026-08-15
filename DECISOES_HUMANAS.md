@@ -4,7 +4,7 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 
 ---
 
-> ⚠️ **Total de itens sinalizados:** 546
+> ⚠️ **Total de itens sinalizados:** 592
 
 | Arquivo / Tópico | Motivo da Sinalização | Data/Hora |
 |---|---|---|
@@ -554,3 +554,49 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 | `roadmaps/data-analyst/content/tableau@Sz2Y8HLbSmDjSKAJztDql.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:44:55.137785 |
 | `roadmaps/data-analyst/content/tensorflow@FJ4Sx477FWxyDsQr0R8rl.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:44:59.595532 |
 | `roadmaps/data-analyst/content/trim@D5Q6o6ydr1j51kB0ASFPE.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:45:04.645684 |
+| `roadmaps/data-engineer/content/aws-eks@eVqcYI2Sy2Dldl3SfxB2C.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:47:00.836765 |
+| `roadmaps/data-engineer/content/aws-sns@uFeiTRobSymkvCinhwmZV.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:47:04.475289 |
+| `roadmaps/data-engineer/content/aws-sqs@uIU5Yncp6hGDcNO1fpjUS.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:47:07.905312 |
+| `roadmaps/data-engineer/content/azure-blob-storage@gzbEGCUwMsD1gL4nW668g.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:47:28.605905 |
+| `roadmaps/data-engineer/content/azure-sql-database@iIZ3g70KRwEJCBNaONd2d.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:47:32.315062 |
+| `roadmaps/data-engineer/content/azure-virtual-machines@-yi-xk-kv0njW9GdytiAQ.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:47:36.792172 |
+| `roadmaps/data-engineer/content/batch@f-a3Hy1ldnvSv8W2mFiJK.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:47:53.358457 |
+| `roadmaps/data-engineer/content/best-practices@yyJJGinOv3M21MFuqJs0j.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:47:57.295569 |
+| `roadmaps/data-engineer/content/cloud-computing@lDeSL9qvgQgyAMcWXF7Fr.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:48:55.993170 |
+| `roadmaps/data-engineer/content/cloud-sql-database@9-wQWQIdAxQmMaJC9ojPg.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:48:59.238205 |
+| `roadmaps/data-engineer/content/cluster-computing-basics@hB0y8A2U3owpAbTUb7LN5.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:49:01.380279 |
+| `roadmaps/data-engineer/content/cluster-management-tools@wpZfbIFtfiUSLMASk4t7f.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:49:15.124979 |
+| `roadmaps/data-engineer/content/column@fBD6ZQoMac8w4kMJw_Jrd.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:49:19.860475 |
+| `roadmaps/data-engineer/content/compute-engine-compute@-cU86vJWJmlmPHXDCo31o.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:49:23.428461 |
+| `roadmaps/data-engineer/content/containers--orchestration@eTHitN2erd6z8-MZiXE9s.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:49:39.943521 |
+| `roadmaps/data-engineer/content/cosmosdb@goL_GqVVTVxXQMGBw992b.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:49:44.139686 |
+| `roadmaps/data-engineer/content/couchdb@-IesOBWPSIlbgvTjBqHcb.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:49:47.197920 |
+| `roadmaps/data-engineer/content/data-analytics@V30v5RLQrWSMBUIsZQG1o.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:50:06.930661 |
+| `roadmaps/data-engineer/content/data-engineering-lifecycle@Ouph2bHeLQsrHl45ar4Cs.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:50:15.251080 |
+| `roadmaps/data-engineer/content/data-engineering-lifecycle@w3cfuNC-IdUKA7CEXs0fT.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:50:33.924465 |
+| `roadmaps/data-engineer/content/data-fabric@-x3QLMYhC67VJQ6EW6BrJ.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:50:42.714192 |
+| `roadmaps/data-engineer/content/data-obfuscation@rUiYUV4ps6NYYYRwUnjuM.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:51:45.443442 |
+| `roadmaps/data-engineer/content/data-pipelines@fqTPu70MJyXBmqYUgCJ_r.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:51:49.845145 |
+| `roadmaps/data-engineer/content/data-quality@cStrYgFZA2NuYq8TdWWP_.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:51:51.839961 |
+| `roadmaps/data-engineer/content/gitlab-ci@IYIO4S3DO5xkLD__XT5Dp.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:54:09.591336 |
+| `roadmaps/data-engineer/content/glue-etl@nD36-PXHzOXePM7j9u_O_.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:54:12.142079 |
+| `roadmaps/data-engineer/content/go@4z2i5NXTo9h3YY0kJvRrz.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:54:16.343944 |
+| `roadmaps/data-engineer/content/google-deployment--mgr@1A98uTo8l_GQSrFxu5N2X.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:54:49.952691 |
+| `roadmaps/data-engineer/content/graph@W6RnhoD7fW2xzVwnyJEDr.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:54:53.570032 |
+| `roadmaps/data-engineer/content/hbase@Uho9OOWSG0bUpyH4P6hKk.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:54:57.729331 |
+| `roadmaps/data-engineer/content/indexing@ilbFKqhfYyykjJ7cOngwx.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:55:37.261151 |
+| `roadmaps/data-engineer/content/infrastructure-as-code---iac@jgz7L8OSuqRNcf9buuMTj.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:55:41.261691 |
+| `roadmaps/data-engineer/content/integration-testing@NIG53tyoEiLtwf6LvBZId.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:55:44.178751 |
+| `roadmaps/data-engineer/content/job-scheduling@ccc6_SzDwXpCL1WbFuPNA.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:56:14.569747 |
+| `roadmaps/data-engineer/content/key-value@fSlBjoNVKstJjWO7rS69V.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:56:19.017114 |
+| `roadmaps/data-engineer/content/kubernetes@I_IueX1DFp-LmBwr1-suX.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:56:22.892505 |
+| `roadmaps/data-engineer/content/metadata-management@a5gzM8msXibxD58eVDkM-.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:57:28.728445 |
+| `roadmaps/data-engineer/content/microsoft-power-bi@6Nr5FAGT_oOPZwZWdv7hl.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:57:31.499256 |
+| `roadmaps/data-engineer/content/mlops@VQv-c7buU2l-IDzRZBMRo.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:57:34.291760 |
+| `roadmaps/data-engineer/content/mobile-apps@dJZqe47kzRqYIG-4AZTlz.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:57:47.041246 |
+| `roadmaps/data-engineer/content/mongodb@04V0Bcgjusfqdw0b-Aw4W.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:57:52.751667 |
+| `roadmaps/data-engineer/content/monitoring@dk5FQl7Pk3-O5eF7dKwmp.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:57:55.540397 |
+| `roadmaps/data-engineer/content/neptune@atAK4zGXIbxZvfBTzFEIe.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:58:26.227407 |
+| `roadmaps/data-engineer/content/networking-fundamentals@cgkzFMmQils2sYj4NW8VW.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:58:31.097776 |
+| `roadmaps/data-engineer/content/new-relic@r1KmASWAa_MOqQOC9gvvF.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:58:32.800215 |
+| `roadmaps/data-engineer/content/yarn@KcW4z48pk2x6IjQhZs_Ub.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:01:43.403232 |

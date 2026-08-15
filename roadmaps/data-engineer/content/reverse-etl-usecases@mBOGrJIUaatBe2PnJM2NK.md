@@ -1,3 +1,3 @@
-# Reverse ETL Usecases
+# Casos de Uso do ETL Inverso
 
-Common use cases for reverse ETL include syncing customer health scores to a CRM, pushing segmented user lists to a marketing automation platform, and sending product usage data to customer success tools. It enables business teams to act on insights derived in the data warehouse without needing access to it directly.
+Os casos comuns de uso do ETL inverso incluem sincronizar pontuações de saúde dos clientes para um CRM, enviar listas de usuários segmentadas para uma plataforma de automação de marketing e enviar dados de uso de produtos para ferramentas de sucesso do cliente. Permite que os times de negócios agam em insights derivados no data warehouse sem precisar acessá-lo diretamente.

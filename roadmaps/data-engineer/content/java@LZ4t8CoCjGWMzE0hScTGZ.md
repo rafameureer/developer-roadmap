@@ -1,10 +1,10 @@
 # Java
 
-Java has had a big influence on data engineering because many core big data tools and frameworks, like Hadoop, Spark (originally in Scala, which runs on the JVM), and Kafka, are built using Java or run on the Java Virtual Machine (JVM). This means Java’s performance, scalability, and cross-platform capabilities have shaped how large-scale data processing systems are designed.
+Java tem tido uma grande influência na engenharia de dados porque muitas ferramentas e estruturas de big data centrais, como o Hadoop, Spark (originalmente em Scala, que roda na JVM) e Kafka, são construídas usando Java ou rodam na Máquina Virtual Java (JVM). Isso significa que as capacidades de desempenho, escala e portabilidade do Java moldaram como os sistemas de processamento de dados em larga escala são projetados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated Java Roadmap](https://roadmap.sh/java)
-- [@course@Introduction to Java by Hyperskill (JetBrains Academy)](https://hyperskill.org/courses/8)
-- [@video@Java Tutorial for Beginners](https://www.youtube.com/watch?v=eIrMbAQSU34&feature=youtu.be)
-- [@video@Java + DSA + Interview Preparation Course (For beginners)](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
+- [@roadmap@Visite o Caminho Dedicado ao Java](https://roadmap.sh/java)
+- [@curso@Introdução ao Java pela Hyperskill (Academia JetBrains)](https://hyperskill.org/courses/8)
+- [@vídeo@Tutorial de Java para Iniciantes](https://www.youtube.com/watch?v=eIrMbAQSU34&feature=youtu.be)
+- [@vídeo@Curso de Java + DSA + Preparação para Entrevistas (Para iniciantes)](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)

@@ -1,8 +1,8 @@
-# Data Masking
+# Ocultamento de Dados
 
-Data masking is a process that creates a copy of real data but replaces sensitive information with false but realistic-looking data, preserving the format and structure of the original data for non-production uses like software testing, training, and development. The goal is to protect confidential information and ensure compliance with data protection regulations by preventing unauthorized access to real sensitive data without compromising the usability of the data for other business functions.
+O ocultamento de dados é um processo que cria uma cópia dos dados reais, mas substitui informações sensíveis por dados falsos, mas com aparência realista, preservando o formato e a estrutura dos dados originais para uso não produtivo como teste de software, treinamento e desenvolvimento. O objetivo é proteger informações confidenciais e garantir conformidade com as leis de proteção de dados ao impedir o acesso não autorizado aos dados sensíveis reais sem comprometer a usabilidade dos dados para outras funções do negócio.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Data masking](https://en.wikipedia.org/wiki/Data_masking)
-- [@article@What is data masking?](https://aws.amazon.com/what-is/data-masking/)
+- [@article@Ocultamento de Dados](https://en.wikipedia.org/wiki/Data_masking)
+- [@article@O que é ocultamento de dados?](https://aws.amazon.com/what-is/data-masking/)

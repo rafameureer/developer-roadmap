@@ -1,7 +1,7 @@
-# Reusability
+# Reutilização
 
-One of the goals of Infrastructure as Code (IaC) is to create modular, standardized units of code—like modules or templates that can be used across multiple projects, environments, and teams, embodying the "Don't Repeat Yourself" (DRY) principle. This approach significantly boosts efficiency, consistency, and maintainability, as it allows for rapid deployment of identical infrastructure patterns, enforces organizational standards, simplifies complex setups, and improves collaboration by providing shared, tested building blocks for infrastructure management.
+Um dos objetivos da Infraestrutura como Código (IaC) é criar unidades de código modulares e padronizadas—como módulos ou modelos que podem ser usados em vários projetos, ambientes e equipes, incorporando o princípio "Não Repita Vós Mesmo" (DRY). Esse abordagem aumenta significativamente a eficiência, consistência e manutenibilidade, permitindo o rápido deploy de padrões de infraestrutura idênticos, forçando as normas organizacionais, simplificando configurações complexas e melhorando a colaboração fornecendo blocos de construção compartilhados e testados para gerenciamento de infraestrutura.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Infrastructure as Code (IaC)?](https://www.redhat.com/en/topics/automation/what-is-infrastructure-as-code-iac)
+- [@artigo@O que é Infraestrutura como Código (IaC)?](https://www.redhat.com/en/topics/automation/what-is-infrastructure-as-code-iac)

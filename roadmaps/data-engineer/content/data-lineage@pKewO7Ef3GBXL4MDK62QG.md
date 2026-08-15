@@ -1,7 +1,7 @@
-# Data Lineage
+# Linha de Dados
 
-**Data Lineage** refers to the life-cycle of data, including its origins, movements, characteristics and quality. It's a critical component in Data Engineering for tracking the journey of data through every process in a pipeline, from raw input to model output. Data lineage helps in maintaining transparency, ensuring compliance, and facilitating data debugging or tracing data related bugs. It provides a clear representation of data sources, transformations, and dependencies thereby aiding in audits, governance, or reproduction of machine learning models.
+**Linha de Dados** refere-se ao ciclo de vida dos dados, incluindo suas origens, movimentos, características e qualidade. É um componente crítico na Engenharia de Dados para rastrear o percurso dos dados através de cada processo em uma pipeline, desde a entrada bruta até a saída do modelo. A linha de dados ajuda a manter a transparência, garantir conformidade e facilitar a depuração de dados ou rastreamento de bugs relacionados a dados. Ela fornece uma representação clara das fontes de dados, transformações e dependências, auxiliando em auditorias, governança ou reprodução de modelos de aprendizado de máquina.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Data Lineage? - IBM](https://www.ibm.com/topics/data-lineage)
+- [@article@O que é Linha de Dados? - IBM](https://www.ibm.com/topics/data-lineage)

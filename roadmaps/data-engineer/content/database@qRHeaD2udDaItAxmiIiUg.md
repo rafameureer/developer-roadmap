@@ -1,3 +1,3 @@
-# Database
+# Banco de Dados
 
-A database is an organized, structured collection of electronic data that is stored, managed, and accessed via a computer system, usually controlled by a Database Management System (DBMS). Databases organize various types of data, such as words, numbers, images, and videos, allowing users to easily retrieve, update, and modify it for various purposes, from managing customer information to analyzing business processes.
+Um banco de dados é uma coleção organizada e estruturada de dados eletrônicos armazenados, gerenciados e acessados por um sistema de computador, geralmente controlado por um Sistema Gerenciador de Banco de Dados (DBMS). Bancos de dados organizam vários tipos de dados, como palavras, números, imagens e vídeos, permitindo que os usuários facilmente recuperem, atualizem e modifiquem esses dados para diversos fins, desde a gestão de informações do cliente até o análise de processos comerciais.

@@ -1,8 +1,8 @@
-# Messaging Systems
+# Sistemas de Mensagens
 
-Messaging systems, commonly known as messaging queues, make it possible for applications to communicate asynchronously, by sending messages to each other via a queue. A message queue provides temporary storage between the sender and the receiver so that the sender can keep operating without interruption when the destination program is busy or not connected.
+Os sistemas de mensagens, comumente conhecidos como filas de mensagens, permitem que as aplicações comuniquem-se de forma assíncrona, enviando mensagens uma para outra por meio de uma fila. Uma fila de mensagens fornece armazenamento temporário entre o remetente e o destinatário, permitindo que o remetente continue operando sem interrupção quando o programa de destino está ocupado ou não conectado.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Messaging Queues](https://aws.amazon.com/message-queue/)
-- [@article@Messaging Queues Tutorial](https://www.tutorialspoint.com/inter_process_communication/inter_process_communication_message_queues.htm)
+- [@artigo@Fila de Mensagens](https://aws.amazon.com/message-queue/)
+- [@tutorial@Tutorial de Fila de Mensagens](https://www.tutorialspoint.com/inter_process_communication/inter_process_communication_message_queues.htm)

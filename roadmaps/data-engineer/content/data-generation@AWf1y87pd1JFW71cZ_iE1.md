@@ -1,8 +1,8 @@
-# Data Generation
+# Geração de Dados
 
-Data generation refers to how raw data is produced and originates in a system. Data can come from user interactions, application logs, IoT sensors, databases, APIs, and many other sources. Understanding where data comes from and how it is structured at the source is the starting point for any data pipeline design.
+A geração de dados refere-se à forma como os dados brutos são produzidos e originais em um sistema. Os dados podem vir de interações do usuário, logs de aplicativos, sensores IoT, bancos de dados, APIs e muitas outras fontes. Entender onde os dados vêm e como estão estruturados na fonte é o ponto de partida para qualquer design de pipeline de dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@The Concept of Data Generation](https://www.marktechpost.com/2023/02/27/the-concept-of-data-generation/)
-- [@video@Analog vs. Digital](https://www.youtube.com/watch?v=zzvglgC5ut0)
+- [@artigo@O Conceito de Geração de Dados](https://www.marktechpost.com/2023/02/27/the-concept-of-data-generation/)
+- [@vídeo@Análogo vs. Digital](https://www.youtube.com/watch?v=zzvglgC5ut0)

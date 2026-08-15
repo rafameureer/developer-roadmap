@@ -1,12 +1,12 @@
 # Terraform
 
-Terraform is an open-source infrastructure as code (IaC) tool developed by HashiCorp, used to define, provision, and manage cloud and on-premises infrastructure using declarative configuration files. It supports multiple cloud providers like AWS, Azure, and Google Cloud, as well as various services and platforms, enabling infrastructure automation across diverse environments. Terraform's state management and modular structure allow for efficient scaling, reusability, and version control of infrastructure. It is widely used for automating infrastructure provisioning, reducing manual errors, and improving infrastructure consistency and repeatability.
+Terraform é uma ferramenta de código como infraestrutura (IaC) de código aberto desenvolvida pela HashiCorp, usada para definir, provisionar e gerenciar infraestrutura em nuvem e no local usando arquivos de configuração declarativa. Ele suporta vários provedores de nuvem como AWS, Azure e Google Cloud, bem como várias serviços e plataformas, permitindo a automação da infraestrutura em diversos ambientes. A gestão do estado e a estrutura modular do Terraform permitem uma escala eficiente, reutilização e controle de versão da infraestrutura. Ele é amplamente utilizado para automatizar o provisionamento de infraestrutura, reduzir erros humanos manuais e melhorar a consistência e repetibilidade da infraestrutura.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit Dedicated Terraform Roadmap](https://roadmap.sh/terraform)
-- [@course@Complete Terraform Course](https://www.youtube.com/watch?v=7xngnjfIlK4)
-- [@official@Terraform Documentation](https://www.terraform.io/docs)
-- [@official@Terraform Tutorials](https://learn.hashicorp.com/terraform)
-- [@article@How to Scale Your Terraform Infrastructure](https://thenewstack.io/how-to-scale-your-terraform-infrastructure/)
-- [@feed@Explore top posts about Terraform](https://app.daily.dev/tags/terraform?ref=roadmapsh)
+- [@roadmap@Visite o Caminho Dedidado do Terraform](https://roadmap.sh/terraform)
+- [@course@Curso Completo de Terraform](https://www.youtube.com/watch?v=7xngnjfIlK4)
+- [@official@Documentação do Terraform](https://www.terraform.io/docs)
+- [@official@Tutoriais do Terraform](https://learn.hashicorp.com/terraform)
+- [@article@Como dimensionar sua infraestrutura de Terraform](https://thenewstack.io/how-to-scale-your-terraform-infrastructure/)
+- [@feed@Explore os melhores posts sobre o Terraform](https://app.daily.dev/tags/terraform?ref=roadmapsh)

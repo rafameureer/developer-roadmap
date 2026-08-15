@@ -1,8 +1,8 @@
-# Idempotency
+# Idempotência
 
-Idempotency is a crucial concept in IaC. An idempotent operation produces the same result regardless of how many times it’s executed. In the context of IaC, this means that applying the same configuration multiple times should not change the end state of the system. The role of idempotency in IaC scripts is to ensure consistency and prevent unintended side effects. For example, if a script to create a virtual machine (VM) is run twice, it should not create two VMs. Instead, it should recognize that the VM already exists and take no action.
+Idempotência é um conceito crucial em IaC. Uma operação idempotente produz o mesmo resultado independentemente de quantas vezes ela seja executada. No contexto de IaC, isso significa que aplicar a mesma configuração várias vezes não deve alterar o estado final do sistema. O papel da idempotência em scripts de IaC é garantir consistência e prevenir efeitos colaterais indesejados. Por exemplo, se um script para criar uma máquina virtual (VM) for executado duas vezes, ele não deve criar duas VMs. Em vez disso, ele deve reconhecer que a VM já existe e não tomar nenhuma ação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Why idempotence was important to DevOps](https://dev.to/startpher/why-idempotence-was-important-to-devops-2jn3)
-- [@article@Idempotency: The Secret to Seamless DevOps and Infrastructure](https://medium.com/@tiwari.sushil/idempotency-the-secret-to-seamless-devops-and-infrastructure-bf22e63e1be5)
+- [@artigo@Por que a idempotência foi importante para DevOps](https://dev.to/startpher/why-idempotence-was-important-to-devops-2jn3)
+- [@artigo@Idempotência: O Segredo da Integração e Operações Semânticas](https://medium.com/@tiwari.sushil/idempotency-the-secret-to-seamless-devops-and-infrastructure-bf22e63e1be5)

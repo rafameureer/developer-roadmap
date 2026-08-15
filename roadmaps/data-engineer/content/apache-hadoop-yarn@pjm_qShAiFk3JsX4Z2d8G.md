@@ -1,7 +1,7 @@
 # Apache Hadoop YARN
 
-Apache Hadoop YARN (Yet Another Resource Negotiator) is the part of Hadoop that manages resources and runs jobs on a cluster. It has a ResourceManager that controls all cluster resources and an ApplicationMaster for each job that schedules and runs tasks. YARN lets different tools like MapReduce and Spark share the same cluster, making it more efficient, flexible, and reliable.
+Apache Hadoop YARN (Yet Another Resource Negotiator) é a parte do Hadoop que gerencia recursos e executa trabalhos em um cluster. Ele tem um ResourceManager que controla todos os recursos do cluster e um ApplicationMaster para cada trabalho que agenda e executa tarefas. O YARN permite que diferentes ferramentas como MapReduce e Spark compartilhem o mesmo cluster, tornando-o mais eficiente, flexível e confiável.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@Hadoop Yarn Tutorial](https://www.youtube.com/watch?v=6bIF9VwRwE0)
+- [@video@Tutorial do Hadoop Yarn](https://www.youtube.com/watch?v=6bIF9VwRwE0)

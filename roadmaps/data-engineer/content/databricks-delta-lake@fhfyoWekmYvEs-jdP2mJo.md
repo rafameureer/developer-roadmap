@@ -1,9 +1,9 @@
 # Databricks Delta Lake
 
-Delta Lake is the optimized storage layer that provides the foundation for tables in a lakehouse on Databricks. Delta Lake is open source software that extends Parquet data files with a file-based transaction log for ACID transactions and scalable metadata handling. Delta Lake is fully compatible with Apache Spark APIs, and was developed for tight integration with Structured Streaming, allowing you to easily use a single copy of data for both batch and streaming operations and providing incremental processing at scale.
+Delta Lake é a camada de armazenamento otimizada que fornece a base para as tabelas em um lakehouse no Databricks. Delta Lake é software open source que estende os arquivos de dados Parquet com um log de transações baseado em arquivo para transações ACID e gerenciamento de metadados escalável. Delta Lake é totalmente compatível com as APIs do Apache Spark, e foi desenvolvido para uma integração estreita com a Streaming Estruturada, permitindo que você use facilmente uma única cópia de dados para operações em lote e streaming e fornecendo processamento incremental à escala.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@book@The Delta Lake Series — Fundamentals and Performance](https://www.databricks.com/resources/ebook/the-delta-lake-series-fundamentals-performance)
-- [@official@What is Delta Lake in Databricks?](https://docs.databricks.com/aws/en/delta)
-- [@video@Delta Lake](https://www.databricks.com/resources/demos/videos/lakehouse-platform/delta-lake)
+- [@livro@The Delta Lake Series — Fundamentos e Desempenho](https://www.databricks.com/resources/ebook/the-delta-lake-series-fundamentals-performance)
+- [@oficial@O que é Delta Lake no Databricks?](https://docs.databricks.com/aws/en/delta)
+- [@vídeo@Delta Lake](https://www.databricks.com/resources/demos/videos/lakehouse-platform/delta-lake)

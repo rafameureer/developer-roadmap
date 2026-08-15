@@ -1,8 +1,8 @@
 # Data Warehouse
 
-A data warehouse stores structured, processed data from operational systems, optimized for analytical queries. It typically uses columnar storage and is populated through ETL or ELT processes. Common cloud data warehouses include Google BigQuery, Snowflake, and Amazon Redshift.
+Um data warehouse armazena dados estruturados e processados de sistemas operacionais, otimizados para consultas analíticas. Geralmente usa armazenamento em colunas e é populado através de processos ETL ou ELT. Alguns data warehouses na nuvem incluem Google BigQuery, Snowflake e Amazon Redshift.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What Is a Data Warehouse?](https://www.oracle.com/database/what-is-a-data-warehouse/)
-- [@video@What is a Data Warehouse?](https://www.youtube.com/watch?v=k4tK2ttdSDg)
+- [@article@O que é um Data Warehouse?](https://www.oracle.com/database/what-is-a-data-warehouse/)
+- [@video@O que é um Data Warehouse?](https://www.youtube.com/watch?v=k4tK2ttdSDg)

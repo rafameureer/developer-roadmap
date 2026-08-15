@@ -1,10 +1,10 @@
-# Business Intelligence
+# Inteligência de Negócios
 
-Business intelligence (BI) refers to the tools and processes used to collect, analyze, and visualize business data to support decisions. BI platforms connect to data warehouses and allow business users to build reports and dashboards without writing code. Common BI tools include Tableau, Power BI, Looker, and Streamlit.
+Inteligência de negócios (BI) refere-se às ferramentas e processos usados para coletar, analisar e visualizar dados de negócios para suportar decisões. Plataformas de BI se conectam a data warehouses e permitem que usuários de negócios criem relatórios e painéis sem escrever código. Ferramentas comuns de BI incluem Tableau, Power BI, Looker e Streamlit.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated BI Analyst Roadmap](https://roadmap.sh/bi-analyst)
-- [@article@What is business intelligence (BI)?](https://www.ibm.com/think/topics/business-intelligence)
-- [@article@Business intelligence: A complete overview](https://www.tableau.com/business-intelligence/what-is-business-intelligence)
-- [@video@What is business intelligence?](https://www.youtube.com/watch?v=l98-BcB3UIE)
+- [@roadmap@Visite o Caminho Dedidado do Analista de BI](https://roadmap.sh/bi-analyst)
+- [@article@O que é inteligência de negócios (BI)?](https://www.ibm.com/think/topics/business-intelligence)
+- [@article@Inteligência de negócios: uma visão completa](https://www.tableau.com/business-intelligence/what-is-business-intelligence)
+- [@video@O que é inteligência de negócios?](https://www.youtube.com/watch?v=l98-BcB3UIE)

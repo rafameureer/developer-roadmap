@@ -1,8 +1,8 @@
-# Data Hub
+# Hub de Dados
 
-A data hub is a centralized platform that acts as an integration point for data flowing between multiple systems. Unlike a data warehouse, a data hub focuses on data movement and integration rather than storage for analytics. It often combines features of a message broker, metadata catalog, and integration layer.
+Um hub de dados é uma plataforma centralizada que atua como um ponto de integração para os dados fluindo entre vários sistemas. Ao contrário de um data warehouse, um hub de dados se concentra na movimentação e integração dos dados em vez do armazenamento para análises. Ele geralmente combina características de um roteador de mensagens, catálogo de metadados e camada de integração.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Data hub](https://en.wikipedia.org/wiki/Data_hub)
-- [@article@What is a Data Hub? Definition, 7 Key Benefits & Why You Might Need One](https://www.cdata.com/blog/what-is-a-data-hub)
+- [@artigo@Hub de Dados](https://en.wikipedia.org/wiki/Data_hub)
+- [@artigo@O que é um Hub de Dados? Definição, 7 Benefícios Chave & Por Que Você Talvez Precise Um](https://www.cdata.com/blog/what-is-a-data-hub)

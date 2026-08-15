@@ -1,8 +1,8 @@
 # Google Cloud GKE
 
-Google Kubernetes Engine (GKE) is Google Cloud's managed Kubernetes service. It handles cluster provisioning, upgrades, and scaling automatically, reducing the operational burden of running Kubernetes. GKE is used to run containerized data workloads on Google Cloud infrastructure.
+O Google Kubernetes Engine (GKE) é o serviço de Kubernetes gerenciado do Google Cloud. Ele lida automaticamente com a provisionamento, atualizações e escalonamento dos clusters, reduzindo a carga operacional de manter o Kubernetes em execução. O GKE é usado para executar cargas de trabalho de dados contínuos na infraestrutura do Google Cloud.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
 - [@official@GKE](https://cloud.google.com/kubernetes-engine)
-- [@video@What is Google Kubernetes Engine (GKE)?](https://www.youtube.com/watch?v=Rl5M1CzgEH4)
+- [@video@O que é o Google Kubernetes Engine (GKE)?](https://www.youtube.com/watch?v=Rl5M1CzgEH4)

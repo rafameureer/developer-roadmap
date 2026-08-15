@@ -1,3 +1,3 @@
 # Logs
 
-Logs are files that record events, activities, and system operations over time. They provide a detailed historical record of what has happened within a system, including timestamps, event details, performance data, errors, and user actions. Logs are crucial for troubleshooting problems, monitoring system health and performance, investigating security incidents, and understanding how users interact with a system.
+Os logs são arquivos que registram eventos, atividades e operações do sistema ao longo do tempo. Eles fornecem um registro histórico detalhado de o que aconteceu em um sistema, incluindo timestamps, detalhes do evento, dados de desempenho, erros e ações dos usuários. Os logs são cruciais para solucionar problemas, monitorar a saúde e o desempenho do sistema, investigar incidentes de segurança e entender como os usuários interagem com um sistema.

@@ -1,8 +1,8 @@
 # Streamlit
 
-Streamlit is a free and open-source framework to rapidly build and share machine learning and data science web apps. It is a Python-based library specifically designed for data and machine learning engineers. Data scientists or machine learning engineers are not web developers and they're not interested in spending weeks learning to use these frameworks to build web apps. Instead, they want a tool that is easier to learn and to use, as long as it can display data and collect needed parameters for modeling.
+Streamlit é um framework gratuito e de código aberto para construir e compartilhar aplicativos web de aprendizado de máquina e ciência de dados. É uma biblioteca Python específicamente projetada para engenheiros de dados e aprendizado de máquina. Os cientistas de dados ou engenheiros de aprendizado de máquina não são desenvolvedores da web e não estão interessados em passar semanas aprendendo a usar esses frameworks para construir aplicativos web. Em vez disso, eles querem uma ferramenta que seja mais fácil de aprender e usar, desde que possa exibir dados e coletar os parâmetros necessários para o modelo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Streamlit Docs](https://docs.streamlit.io/)
-- [@video@EStreamlit Explained: Python Tutorial for Data Scientists](https://www.youtube.com/watch?v=c8QXUrvSSyg)
+- [@official@Documentação do Streamlit](https://docs.streamlit.io/)
+- [@video@Explicando o Streamlit: Tutorial em Python para Cientistas de Dados](https://www.youtube.com/watch?v=c8QXUrvSSyg)

@@ -1,3 +1,3 @@
-# Types of Data Ingestion
+# Tipos de Ingestão de Dados
 
-The primary types of data ingestion are Batch, Streaming, and Hybrid. Batch ingestion processes data in large, scheduled chunks, suitable for non-time-sensitive tasks like monthly reports. Streaming (or Real-time) ingestion handles data as it arrives, ideal for time-sensitive applications such as fraud detection or IoT monitoring. Hybrid ingestion combines both methods, offering flexibility for diverse business needs.
+Os principais tipos de ingestão de dados são Lote, Streaming e Híbrido. A ingestão em lote processa dados em grandes partes agendadas, adequada para tarefas não sensíveis ao tempo como relatórios mensais. A ingestão em streaming (ou em tempo real) trata os dados conforme chegam, ideal para aplicações sensíveis ao tempo como detecção de fraude ou monitoramento de IoT. A ingestão híbrida combina ambos os métodos, oferecendo flexibilidade para diferentes necessidades de negócios.

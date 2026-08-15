@@ -1,3 +1,3 @@
-# Metadata-first Architecture
+# Arquitetura Primeiro-Métadado
 
-A metadata-first architecture treats metadata as a first-class citizen in data system design. Rather than just documenting data after the fact, metadata is captured and used actively to govern, discover, and lineage-track data across the organization. This approach supports better data quality, compliance, and self-service analytics.
+Uma arquitetura primeiro-métadado trata o metadado como um cidadão de primeira classe na designação do sistema de dados. Em vez de apenas documentar os dados após a fatia, o metadado é capturado e usado ativamente para governar, descobrir e rastrear a linhagem dos dados pela organização. Este abordagem suporta uma melhor qualidade de dados, conformidade e análise autosserviço.

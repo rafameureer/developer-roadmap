@@ -1,8 +1,8 @@
-# A/B Testing
+# Teste A/B
 
-A/B testing is a way to compare two versions of something to see which one works better. You split your audience into two groups, one sees version A, the other sees version B — and then you measure which version gets better results, like more clicks, sales, or sign-ups. This helps you make decisions based on real data instead of guesses.
+O teste A/B é uma maneira de comparar duas versões de algo para ver qual delas funciona melhor. Você divide seu público em dois grupos, um vê a versão A e o outro vê a versão B — e então você mede qual versão obtém melhores resultados, como mais cliques, vendas ou inscrições. Isso ajuda você a tomar decisões com base em dados reais em vez de suposições.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@A software engineer's guide to A/B testing](https://posthog.com/product-engineers/ab-testing-guide-for-engineers)
-- [@video@A/B Testing for Beginners](https://www.youtube.com/watch?v=VpTlNRUcIDo)
+- [@artigo@Um guia do engenheiro de software para testes A/B](https://posthog.com/product-engineers/ab-testing-guide-for-engineers)
+- [@vídeo@Teste A/B para iniciantes](https://www.youtube.com/watch?v=VpTlNRUcIDo)

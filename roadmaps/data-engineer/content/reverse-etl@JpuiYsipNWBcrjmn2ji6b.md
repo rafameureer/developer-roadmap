@@ -1,7 +1,7 @@
 # Reverse ETL
 
-Reverse ETL is the process of extracting data from a data warehouse, transforming it to fit the requirements of operational systems, and then loading it into those other systems. This approach contrasts with traditional ETL, where data is extracted from operational systems, transformed, and loaded into a data warehouse.
+O Reverse ETL é o processo de extrair dados de um data warehouse, transformá-los para atender às necessidades dos sistemas operacionais e, em seguida, carregá-los nesses outros sistemas. Esse abordagem contrasta com o ETL tradicional, onde os dados são extraídos dos sistemas operacionais, transformados e carregados em um data warehouse.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@What is Reverse ETL?](https://www.youtube.com/watch?v=DRAGfc5or2Y)
+- [@video@O que é Reverse ETL?](https://www.youtube.com/watch?v=DRAGfc5or2Y)

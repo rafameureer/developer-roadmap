@@ -1,7 +1,7 @@
-# Data Modelling Techniques
+# Técnicas de Modelagem de Dados
 
-Data modelling is the process of defining how data is structured and related within a storage system. Common techniques include entity-relationship (ER) modelling for transactional databases and dimensional modelling (star and snowflake schemas) for analytics. The choice of model affects query performance, flexibility, and how easy it is to evolve the schema over time.
+A modelagem de dados é o processo de definir como os dados são estruturados e relacionados em um sistema de armazenamento. Técnicas comuns incluem a modelagem entidade-relacionamento (ER) para bancos de dados transacionais e a modelagem dimensional (esquemas estrela e neve de cristal) para análises. A escolha do modelo afeta o desempenho das consultas, a flexibilidade e como é fácil evoluir o esquema ao longo do tempo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@7 data modeling techniques and concepts for business](https://www.techtarget.com/searchdatamanagement/tip/7-data-modeling-techniques-and-concepts-for-business)
+- [@article@7 técnicas e conceitos de modelagem de dados para negócios](https://www.techtarget.com/searchdatamanagement/tip/7-data-modeling-techniques-and-concepts-for-business)

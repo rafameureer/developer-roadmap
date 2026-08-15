@@ -1,7 +1,7 @@
-# Introduction
+# Introdução
 
-Data engineering is the discipline of designing, building, and maintaining systems that collect, store, and process data at scale. It sits between raw data sources and the analysts, scientists, and applications that consume that data. The work involves building pipelines, managing storage infrastructure, and ensuring data is reliable and accessible.
+A engenharia de dados é a disciplina de projetar, construir e manter sistemas que coletam, armazenam e processam dados em escala. Ela se encontra entre as fontes de dados brutos e os analistas, cientistas e aplicativos que consomem esses dados. O trabalho envolve a criação de pipelines, gestão da infraestrutura de armazenamento e garantir que os dados sejam confiáveis e acessíveis.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@What Does a Data Engineer ACTUALLY Do?](https://www.youtube.com/watch?v=hTjo-QVWcK0)
+- [@vídeo@O que um engenheiro de dados REALMENTE faz?](https://www.youtube.com/watch?v=hTjo-QVWcK0)

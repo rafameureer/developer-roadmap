@@ -1,9 +1,9 @@
 # Data Factory (ETL)
 
-Data Factory, most commonly referring to Microsoft's Azure Data Factory, is a cloud-based data integration service that allows you to create, schedule, and orchestrate workflows to move and transform data from various sources into a centralized location for analysis. It provides tools for building Extract, Transform, and Load (ETL) pipelines, enabling businesses to prepare data for analytics, business intelligence, and other data-driven initiatives without extensive coding, thanks to its visual, code-free interface and native connectors.
+Data Factory, mais comumente referido ao Microsoft Azure Data Factory, é um serviço de integração de dados baseado em nuvem que permite criar, agendar e orquestrar workflows para mover e transformar dados de várias fontes para um local centralizado para análise. Ele fornece ferramentas para construir pipelines Extract, Transform and Load (ETL), permitindo que as empresas preparem dados para análises, inteligência de negócios e outras iniciativas baseadas em dados sem codificação extensa, graças à sua interface visual e código livre.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@Microsoft Azure - Data Factory](https://www.coursera.org/learn/microsoft-azure---data-factory)
-- [@official@What is Azure Data Factory?](https://learn.microsoft.com/en-us/azure/data-factory/introduction)
-- [@official@Azure Data Factory Documentation](https://learn.microsoft.com/en-gb/azure/data-factory/)
+- [@curso@Microsoft Azure - Data Factory](https://www.coursera.org/learn/microsoft-azure---data-factory)
+- [@oficial@O que é o Azure Data Factory?](https://learn.microsoft.com/en-us/azure/data-factory/introduction)
+- [@oficial@Documentação do Azure Data Factory](https://learn.microsoft.com/en-gb/azure/data-factory/)

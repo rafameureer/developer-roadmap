@@ -1,7 +1,7 @@
 # Sentry
 
-Sentry tracks your software performance, measuring metrics like throughput and latency, and displaying the impact of errors across multiple systems. Sentry captures distributed traces consisting of transactions and spans, which measure individual services and individual operations within those services.
+O Sentry monitora o desempenho do seu software, medindo métricas como taxa de transferência e latência, e exibindo o impacto dos erros em vários sistemas. O Sentry captura rastreamentos distribuídos composto por transações e spans, que medem serviços individuais e operações individuais dentro desses serviços.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Sentry Documentation](https://docs.sentry.io/)
+- [@official@Documentação do Sentry](https://docs.sentry.io/)

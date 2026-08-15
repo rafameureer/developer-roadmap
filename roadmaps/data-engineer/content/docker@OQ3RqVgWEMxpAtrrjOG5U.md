@@ -1,10 +1,10 @@
 # Docker
 
-Docker is the most widely used platform for building, shipping, and running containers. It packages code and its dependencies into a lightweight, portable image that runs the same in any environment. Data engineers use Docker to containerize pipeline code, ensure reproducible environments, and simplify deployment.
+Docker é a plataforma mais amplamente utilizada para construir, enviar e executar contêineres. Ele empacota código e suas dependências em uma imagem leve e portátil que funciona da mesma forma em qualquer ambiente. Engenheiros de dados usam o Docker para containerizar o código do pipeline, garantir ambientes reproduzíveis e simplificar a implantação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit Dedicated Docker Roadmap](https://roadmap.sh/docker)
-- [@official@Docker Documentation](https://docs.docker.com/)
-- [@video@Docker Tutorial](https://www.youtube.com/watch?v=RqTEHSBrYFw)
-- [@video@Docker simplified in 55 seconds](https://youtu.be/vP_4DlOH1G4)
+- [@roadmap@Visite o Caminho Dedidado do Docker](https://roadmap.sh/docker)
+- [@official@Documentação oficial do Docker](https://docs.docker.com/)
+- [@video@Tutorial do Docker](https://www.youtube.com/watch?v=RqTEHSBrYFw)
+- [@video@Docker simplificado em 55 segundos](https://youtu.be/vP_4DlOH1G4)

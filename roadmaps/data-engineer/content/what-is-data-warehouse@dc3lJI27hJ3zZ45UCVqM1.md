@@ -1,8 +1,8 @@
-# What is Data Warehouse?
+# O que é Data Warehouse?
 
-A data warehouse is a centralized repository for storing large volumes of structured, historical data from multiple sources. It is optimized for analytical queries rather than transactional operations. Data warehouses power business intelligence, reporting, and data analysis, providing a single source of truth across an organization.
+Um data warehouse é um repositório centralizado para armazenar grandes volumes de dados estruturados e históricos provenientes de várias fontes. Ele está otimizado para consultas analíticas em vez de operações transacionais. Os data warehouses alimentam a inteligência empresarial, relatórios e análise de dados, fornecendo uma única fonte de verdadeira acima da organização.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What Is a Data Warehouse?](https://www.oracle.com/database/what-is-a-data-warehouse/)
-- [@video@What is a Data Warehouse?](https://www.youtube.com/watch?v=k4tK2ttdSDg)
+- [@artigo@O que é um Data Warehouse?](https://www.oracle.com/database/what-is-a-data-warehouse/)
+- [@vídeo@O que é um Data Warehouse?](https://www.youtube.com/watch?v=k4tK2ttdSDg)

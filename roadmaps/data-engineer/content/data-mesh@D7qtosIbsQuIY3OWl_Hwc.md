@@ -1,8 +1,8 @@
-# Data Mesh
+# Mesh de Dados
 
-A data mesh is a modern approach to data architecture that shifts data management from a centralized model to a decentralized one. It emphasizes domain-oriented ownership, where data management aligns with specific business areas. This alignment makes data operations more scalable and flexible, leveraging the knowledge and expertise of those closest to the data. Data mesh is defined by four principles: data domains, data products, self-serve data platform, and federated computational governance.
+O mesh de dados é uma abordagem moderna para arquitetura de dados que desloca a gestão de dados de um modelo centralizado para um modelo descentralizado. Ele enfatiza a propriedade orientada ao domínio, onde a gestão de dados alinha-se com áreas específicas do negócio. Essa alinhamento torna as operações de dados mais escaláveis e flexíveis, aproveitando o conhecimento e a expertise das pessoas mais próximas dos dados. O mesh de dados é definido por quatro princípios: domínios de dados, produtos de dados, plataforma de dados autosserviço e governança computacional federada.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What Is a Data Mesh? - AWS](https://aws.amazon.com/what-is/data-mesh)
-- [@video@Data Mesh Architecture](https://www.datamesh-architecture.com/)
+- [@article@O que é um Mesh de Dados? - AWS](https://aws.amazon.com/what-is/data-mesh)
+- [@video@Arquitetura do Mesh de Dados](https://www.datamesh-architecture.com/)

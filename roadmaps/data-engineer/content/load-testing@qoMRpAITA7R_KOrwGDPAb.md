@@ -1,7 +1,7 @@
-# Load Testing
+# Teste de Carregamento
 
-Load Testing is a type of Performance Testing that determines the performance of a system, software product, or software application under real-life-based load conditions. Load testing determines the behavior of the application when multiple users use it at the same time. It is the response of the system measured under varying load conditions.
+O Teste de Carregamento é um tipo de Teste de Desempenho que determina o desempenho de um sistema, produto de software ou aplicativo de software sob condições de carga baseadas em cenários reais. O teste de carregamento determina o comportamento do aplicativo quando múltiplos usuários usam simultaneamente. É a resposta do sistema medida sob diferentes condições de carga.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Load testing and Best Practices](https://loadninja.com/load-testing/)
+- [@artigo@Teste de carregamento e Melhores Práticas](https://loadninja.com/load-testing/)

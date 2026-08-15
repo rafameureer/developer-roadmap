@@ -1,9 +1,9 @@
 # CircleCI
 
-CircleCI is a CI/CD service that can be integrated with GitHub, BitBucket and GitLab repositories. The service that can be used as a SaaS offering or self-managed using your own resources.
+CircleCI é um serviço de CI/CD que pode ser integrado com repositórios do GitHub, BitBucket e GitLab. O serviço que pode ser usado como uma oferta SaaS ou gerenciado por conta própria usando seus próprios recursos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@CircleCI](https://circleci.com/)
-- [@official@CircleCI Documentation](https://circleci.com/docs)
-- [@official@Configuration Tutorial](https://circleci.com/docs/config-intro)
+- [@oficial@CircleCI](https://circleci.com/)
+- [@oficial@Documentação do CircleCI](https://circleci.com/docs)
+- [@oficial@Tutorial de Configuração](https://circleci.com/docs/config-intro)

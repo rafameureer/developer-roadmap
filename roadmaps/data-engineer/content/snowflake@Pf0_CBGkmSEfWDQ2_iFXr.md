@@ -1,9 +1,9 @@
 # Snowflake
 
-Snowflake is a cloud-based data platform that provides a data warehouse as a service. It allows organizations to store, analyze, and share data, offering features like data engineering, data governance, and collaboration capabilities. Snowflake is known for its scalability, ease of use, and ability to handle diverse workloads, including data warehousing, data lakes, and machine learning.
+Snowflake é uma plataforma de dados em nuvem que oferece um data warehouse como serviço. Ele permite que as organizações armazenem, analisem e compartilhem dados, oferecendo recursos como engenharia de dados, governança de dados e capacidades de colaboração. Snowflake é conhecido por sua escalabilidade, facilidade de uso e habilidade de lidar com diversos tipos de carregamentos de trabalho, incluindo data warehousing, data lakes e aprendizado de máquina.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Snowflake Docs](https://docs.snowflake.com/)
-- [@official@Snowflake in 20 minutes](https://docs.snowflake.com/en/user-guide/tutorials/snowflake-in-20minutes)
-- [@video@Learn Snowflake in 2 Hours](https://www.youtube.com/watch?v=mP3QbYURT9k)
+- [@official@Documentação do Snowflake](https://docs.snowflake.com/)
+- [@official@Snowflake em 20 minutos](https://docs.snowflake.com/en/user-guide/tutorials/snowflake-in-20minutes)
+- [@video@Aprenda o Snowflake em 2 Horas](https://www.youtube.com/watch?v=mP3QbYURT9k)

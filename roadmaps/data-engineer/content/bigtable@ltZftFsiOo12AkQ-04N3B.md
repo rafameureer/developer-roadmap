@@ -1,8 +1,8 @@
 # BigTable
 
-Bigtable is a high-performance, scalable database that excels at capturing, processing, and analyzing data in real-time. It aggregates data as it's written, providing immediate insights into user behavior, A/B testing results, and engagement metrics. This real-time capability also fuels AI/ML models for interactive applications. Bigtable integrates seamlessly with both Dataflow, enriching streaming pipelines with low-latency lookups, and BigQuery, enabling real-time serving of analytics in user-facing applications and ad-hoc querying on the same data.
+Bigtable é um banco de dados de alto desempenho e escalável que excelle em capturar, processar e analisar dados em tempo real. Ele agrupa dados à medida que são escritos, fornecendo insights imediatos sobre o comportamento dos usuários, resultados de testes A/B e métricas de engajamento. Essa capacidade em tempo real também alimenta modelos AI/ML para aplicativos interativos. Bigtable integra-se perfeitamente com tanto Dataflow quanto BigQuery, permitindo a entrega em tempo real de análises em aplicativos front-end e consultas ad-hoc nos mesmos dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Bigtable: Fast, Flexible NoSQL](https://cloud.google.com/bigtable?hl=en#scale-your-latency-sensitive-applications-with-the-nosql-pioneer)
 - [@article@Google Bigtable](https://www.techtarget.com/searchdatamanagement/definition/Google-BigTable)

@@ -1,9 +1,9 @@
 # IoT
 
-IoT, or Internet of Things, refers to a network of connected devices that interact with their environment. IoT devices extend beyond standard devices such as PCs, laptops, and smartphones, including smart locks, connected thermostats, and temperature sensors. In industrial settings, this also includes connected machines, robots, and package tracking devices, and many more. IoT Devices measure and collect data about their environment and some also interact by performing certain predefined actions, for example, turning the heat up or down.
+IoT, ou Internet das Coisas (Internet of Things), refere-se a uma rede de dispositivos conectados que interagem com seu ambiente. Os dispositivos IoT vão além dos dispositivos padrão como computadores pessoais, laptops e smartphones, incluindo travessas inteligentes, termostatos conectados e sensores de temperatura. Em ambientes industriais, isso também inclui máquinas conectadas, robôs e dispositivos de rastreamento de pacotes, e muito mais. Os dispositivos IoT medem e coletam dados sobre seu ambiente e alguns também interagem realizando certas ações pré-definidas, por exemplo, aumentar ou diminuir o calor.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is the Internet of Things (IoT)?](https://www.ibm.com/think/topics/internet-of-things)
-- [@article@Internet of Things](https://en.wikipedia.org/wiki/Internet_of_things)
-- [@video@What is IoT (Internet of Things)? An Introduction](https://www.youtube.com/watch?v=4FxU-xpuCww)
+- [@artigo@O que é a Internet das Coisas (IoT)?](https://www.ibm.com/think/topics/internet-of-things)
+- [@artigo@Internet das Coisas](https://en.wikipedia.org/wiki/Internet_of_things)
+- [@vídeo@O que é IoT (Internet das Coisas)? Uma Introdução](https://www.youtube.com/watch?v=4FxU-xpuCww)

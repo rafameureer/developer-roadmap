@@ -1,10 +1,10 @@
 # Redis
 
-Redis is an in-memory key-value store known for its extremely low latency. It supports a variety of data structures including strings, lists, sets, sorted sets, and hashes. Redis is widely used for caching, real-time leaderboards, pub/sub messaging, and session storage.
+Redis é um armazenamento de chave-valor em memória conhecido por sua baixa latência extremamente baixa. Ele suporta uma variedade de estruturas de dados, incluindo strings, listas, conjuntos, conjuntos ordenados e hashes. Redis é amplamente usado para caching, placares líderes em tempo real, mensagens pub/sub e armazenamento de sessão.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit Dedicated Redis Roadmap](https://roadmap.sh/redis)
-- [@course@Redis Crash Course](https://www.youtube.com/watch?v=XCsS_NVAa1g)
-- [@official@Redis Documentation](https://redis.io/docs/latest/)
-- [@video@Redis in 100 Seconds](https://www.youtube.com/watch?v=G1rOthIU-uo)
+- [@roadmap@Visite o Caminho Dedidado do Redis](https://roadmap.sh/redis)
+- [@course@Curso Rápido do Redis](https://www.youtube.com/watch?v=XCsS_NVAa1g)
+- [@official@Documentação oficial do Redis](https://redis.io/docs/latest/)
+- [@video@Redis em 100 Segundos](https://www.youtube.com/watch?v=G1rOthIU-uo)

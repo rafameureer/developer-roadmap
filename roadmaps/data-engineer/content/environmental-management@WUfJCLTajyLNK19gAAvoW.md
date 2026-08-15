@@ -1,7 +1,7 @@
-# Environmental Management
+# Gestão Ambiental
 
-Environmental management, or Environment as Code (EaC) takes the concept of Infrastructure as Code (IaC) one step further. EaC applies DevOps principles to manage and automate entire software environments—including infrastructure, applications, and configurations—using code, making them reproducible, versionable, and reliable. It extends IaC by focusing not just on the underlying servers and networks but on the complete, connected system of services and applications that run on top of it. This approach helps increase efficiency, speeds up deployments, and provides a consistent, auditable process for creating and managing development, testing, and production environments.
+A gestão ambiental, ou Código Ambiente (EaC), avança o conceito de Infraestrutura como Código (IaC) um passo. EaC aplica princípios DevOps para gerenciar e automatizar ambientes de software inteiros—including infraestrutura, aplicativos e configurações—usando código, tornando-os reproduzíveis, versáteis e confiáveis. Ele estende o IaC focando não apenas nos servidores e redes subjacentes, mas na completa e conexa sistema de serviços e aplicativos que rodam sobre ele. Esse abordagem ajuda a aumentar a eficiência, acelerar as implantações e fornecer um processo consistente e auditável para criar e gerenciar ambientes de desenvolvimento, teste e produção.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@EWhat Is Environment as Code (EaaC)?](https://www.bunnyshell.com/blog/what-is-environment-as-code-eaac/)
+- [@artigo@O que é Código Ambiente (EaC)?](https://www.bunnyshell.com/blog/what-is-environment-as-code-eaac/)

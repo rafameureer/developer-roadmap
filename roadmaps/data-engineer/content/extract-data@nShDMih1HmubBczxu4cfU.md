@@ -1,3 +1,3 @@
-# Extract Data
+# Extração de Dados
 
-The first step in ETL processes involves extract data from data sources to a staging area. Data can come in various types and formats, from SQL or NoSQL databases and plan text to image and video files.
+O primeiro passo em processos ETL envolve a extração de dados de fontes de dados para uma área de preparação. Os dados podem vir em vários tipos e formatos, desde bancos de dados SQL ou NoSQL e texto plano até arquivos de imagem e vídeo.

@@ -1,7 +1,7 @@
-# Data Storage
+# Armazenamento de Dados
 
-Data storage in the engineering lifecycle refers to where and how data is persisted after it is generated or ingested. The choice of storage system depends on access patterns, data volume, latency requirements, and cost. Options range from relational databases to object storage, data lakes, and columnar warehouses.
+O armazenamento de dados na fase de engenharia refere-se a onde e como os dados são persistidos após sua geração ou ingestão. A escolha do sistema de armazenamento depende dos padrões de acesso, volume de dados, requisitos de latência e custo. As opções variam de bancos de dados relacionais a armazenamento de objetos, lagos de dados e armazéns de colunas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is data storage?](https://www.ibm.com/think/topics/data-storage)
+- [@artigo@O que é Armazenamento de Dados?](https://www.ibm.com/think/topics/data-storage)

@@ -1,7 +1,7 @@
-# Distributed File Systems
+# Sistemas de Arquivos Distribuídos
 
-A Distributed File System (DFS) allows multiple computers to access and share files across a network as if they were stored on a single local machine. It distributes data across multiple servers, enhancing accessibility and data redundancy. This enables users to access files from various locations and devices, promoting collaboration and data availability.
+Um Sistema de Arquivos Distribuído (DFS) permite que múltiplos computadores acessem e compartilhem arquivos em uma rede como se estivessem armazenados em uma única máquina local. Ele distribui dados em vários servidores, aumentando a acessibilidade e a redundância de dados. Isso habilita usuários a acessar arquivos de várias locações e dispositivos, promovendo colaboração e disponibilidade de dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is a Distributed File System (DFS)? A Complete Guide](http://starwindsoftware.com/blog/what-is-a-distributed-file-system-dfs-a-complete-guide/)
+- [@artigo@O que é um Sistema de Arquivos Distribuído (DFS)? Um Guia Completo](http://starwindsoftware.com/blog/what-is-a-distributed-file-system-dfs-a-complete-guide/)

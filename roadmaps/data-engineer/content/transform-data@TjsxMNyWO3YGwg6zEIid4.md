@@ -1,3 +1,3 @@
-# Transform Data
+# Transformar Dados
 
-In the second step, ETL tools transform and consolidate the raw data in the staging area to prepare it for the target data warehouse. The data transformation phase is normally the most complex and prone to errors, as it can involved multiple transformations, including basic data cleaning operations, deduplication, cata casting, filtering, grouping, encrypting, and many more.
+No segundo passo, as ferramentas ETL transformam e consolidam os dados brutos na área de preparação para o data warehouse de destino. A fase de transformação dos dados é normalmente a mais complexa e propensa a erros, pois pode envolver várias transformações, incluindo operações básicas de limpeza de dados, deduplicação, casting catastrófico, filtragem, agrupamento, criptografia e muito mais.

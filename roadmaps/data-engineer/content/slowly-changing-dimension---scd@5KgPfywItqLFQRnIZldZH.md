@@ -1,7 +1,7 @@
-# Slowly Changing Dimension - SCD
+# Dimensão Muda Lentamente - SCD
 
-Slowly Changing Dimensions (SCDs) are a data warehousing technique used to track changes in dimension data over time. Instead of simply overwriting old data with new data, SCDs allow you to maintain historical records of how dimension attributes have changed. This is crucial for accurate analysis of historical trends and business performance.
+As Dimensões Mudas Lentamente (SCDs) são uma técnica de armazenamento de dados usada para rastrear as mudanças nos dados das dimensões ao longo do tempo. Em vez de simplesmente substituir os dados antigos pelos novos, as SCDs permitem que você mantenha registros históricos de como as atributos da dimensão têm mudado. Isso é crucial para uma análise precisa das tendências históricas e desempenho empresarial.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Implementing Slowly Changing Dimensions (SCDs) in Data Warehouses](https://www.sqlshack.com/implementing-slowly-changing-dimensions-scds-in-data-warehouses/)
+- [@artigo@Implementando Dimensões Mudas Lentamente (SCDs) em Armazenamentos de Dados](https://www.sqlshack.com/implementing-slowly-changing-dimensions-scds-in-data-warehouses/)

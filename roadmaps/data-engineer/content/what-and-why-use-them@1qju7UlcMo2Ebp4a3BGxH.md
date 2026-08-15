@@ -1,3 +1,3 @@
-# What and why use them?
+# O que e por que usar?
 
-Messaging systems solve the problem of tight coupling between systems. Instead of one service directly calling another, it sends a message to a broker, and the consumer reads it when ready. This improves reliability, scalability, and flexibility, especially when producers and consumers operate at different speeds or scales.
+Os sistemas de mensageria resolvem o problema da ligação apertada entre sistemas. Em vez de um serviço chamar diretamente outro, ele envia uma mensagem a um provedor, e o consumidor lê quando estiver pronto. Isso melhora a confiabilidade, escalabilidade e flexibilidade, especialmente quando os produtores e consumidores operam em diferentes velocidades ou escalas.

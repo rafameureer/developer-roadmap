@@ -1,7 +1,7 @@
-# Tokenization
+# Tokenização
 
-Tokenization replaces sensitive data values with non-sensitive placeholders called tokens. The original value is stored securely in a token vault, and the token can be used in systems that do not need the actual data. Tokenization is used to protect payment card numbers, personal identifiers, and other sensitive field
+A tokenização substitui valores de dados sensíveis por placeholders não-sensíveis chamados tokens. O valor original é armazenado com segurança em um cofre de tokens, e o token pode ser usado em sistemas que não precisam dos dados reais. A tokenização é usada para proteger números de cartão de crédito, identificadores pessoais e outros campos sensíveis.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@article@Explaining Tokens — the Language and Currency of AI](https://blogs.nvidia.com/blog/ai-tokens-explained/)
+- [@artigo@Explaining Tokens — the Language and Currency of AI](https://blogs.nvidia.com/blog/ai-tokens-explained/)

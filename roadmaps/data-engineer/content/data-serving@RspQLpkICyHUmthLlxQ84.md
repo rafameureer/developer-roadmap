@@ -1,3 +1,3 @@
-# Data Serving
+# Serviço de Dados
 
-Data serving is the last step in the data engineering process. Once the data is stored in your data architectures and transformed into coherent and useful format, it's time for get value from it. Data serving refers to the different ways data is used by downstream applications and users to create value. There are many ways companies can extract value from data, including training machine learning models, BI Analytics, and reverse ETL.
+O serviço de dados é o último passo no processo de engenharia de dados. Uma vez que os dados são armazenados em suas arquiteturas de dados e transformados em formatos coerentes e úteis, é hora de obter valor a partir deles. O serviço de dados refere-se às diferentes maneiras como os dados são usados por aplicativos e usuários downstream para criar valor. Há muitas maneiras pelas quais as empresas podem extrair valor dos dados, incluindo treinamento de modelos de aprendizado de máquina, BI Analytics e ETL reverso.

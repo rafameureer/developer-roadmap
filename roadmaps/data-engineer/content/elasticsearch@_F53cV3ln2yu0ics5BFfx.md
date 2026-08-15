@@ -1,10 +1,10 @@
 # Elasticsearch
 
-Elasticsearch is a distributed search and analytics engine built on Apache Lucene. It is designed for full-text search, log analysis, and real-time data exploration. Elasticsearch is commonly used as the backend for search features in applications and as a centralized store for log and event data, often alongside Kibana.
+O Elasticsearch é um motor de busca e análise distribuídos baseado no Apache Lucene. Ele está projetado para busca em texto completo, análise de logs e exploração de dados em tempo real. O Elasticsearch é comumente usado como backend para recursos de busca em aplicativos e como um armazenamento centralizado para dados de log e eventos, frequentemente junto com o Kibana.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated Elasticsearch Roadmap](https://roadmap.sh/elasticsearch)
-- [@official@Elasticsearch Website](https://www.elastic.co/elasticsearch/)
-- [@official@Elasticsearch Documentation](https://www.elastic.co/guide/index.html)
-- [@video@What is Elasticsearch](https://www.youtube.com/watch?v=ZP0NmfyfsoM)
+- [@roadmap@Acesse a Estrada do Elasticsearch](https://roadmap.sh/elasticsearch)
+- [@official@Site oficial do Elasticsearch](https://www.elastic.co/elasticsearch/)
+- [@official@Documentação do Elasticsearch](https://www.elastic.co/guide/index.html)
+- [@video@O que é o Elasticsearch](https://www.youtube.com/watch?v=ZP0NmfyfsoM)

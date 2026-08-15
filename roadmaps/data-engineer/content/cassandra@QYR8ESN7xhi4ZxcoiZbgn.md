@@ -1,9 +1,9 @@
 # Cassandra
 
-Apache Cassandra is an open-source distributed wide-column database designed for high availability and linear scalability. It has no single point of failure and is optimized for fast writes across multiple data centers. Cassandra is used for time-series data, IoT workloads, and applications requiring continuous uptime.
+O Apache Cassandra é um banco de dados distribuído de largura de coluna de código aberto projetado para alta disponibilidade e escalabilidade linear. Ele não tem um único ponto de falha e está otimizado para gravações rápidas em vários data centers. O Cassandra é usado para dados de série temporal, cargas de trabalho IoT e aplicativos que exigem continuidade do serviço.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Apache Cassandra](https://cassandra.apache.org/_/index.html)
-- [@article@Cassandra - Quick Guide](https://www.tutorialspoint.com/cassandra/cassandra_quick_guide.htm)
-- [@video@Apache Cassandra - Course for Beginners](https://www.youtube.com/watch?v=J-cSy5MeMOA)
+- [@article@Cassandra - Guia Rápido](https://www.tutorialspoint.com/cassandra/cassandra_quick_guide.htm)
+- [@video@Curso de Introdução ao Apache Cassandra](https://www.youtube.com/watch?v=J-cSy5MeMOA)

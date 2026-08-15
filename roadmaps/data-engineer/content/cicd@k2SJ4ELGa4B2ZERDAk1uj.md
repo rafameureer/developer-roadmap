@@ -1,9 +1,9 @@
 # CI/CD
 
-CI/CD (Continuous Integration and Continuous Delivery) is a set of practices and tools for automating the testing and deployment of code changes. In data engineering, CI/CD pipelines validate pipeline code, run tests, and deploy updates to production automatically. This reduces manual errors and accelerates the delivery of pipeline changes.
+CI/CD (Integração Contínua e Entrega Contínua) é um conjunto de práticas e ferramentas para automatizar o teste e a implantação de alterações de código. No engenho de dados, os pipelines CI/CD validam o código do pipeline, executam testes e implantam atualizações em produção automaticamente. Isso reduz erros manuais e acelera a entrega de alterações de pipeline.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is CI/CD? Continuous Integration and Continuous Delivery](https://www.guru99.com/continuous-integration.html)
-- [@article@Continuous Integration vs Delivery vs Deployment](https://www.guru99.com/continuous-integration-vs-delivery-vs-deployment.html)
-- [@article@CI/CD Pipeline: Learn with Example](https://www.guru99.com/ci-cd-pipeline.html)
+- [@artigo@O que é CI/CD? Integração Contínua e Entrega Contínua](https://www.guru99.com/continuous-integration.html)
+- [@artigo@Integração Contínua vs Entrega vs Implantação](https://www.guru99.com/continuous-integration-vs-delivery-vs-deployment.html)
+- [@artigo@Pipeline CI/CD: Aprenda com Exemplo](https://www.guru99.com/ci-cd-pipeline.html)

@@ -1,9 +1,9 @@
-# Mocking APIs under API Testing
+# Simulação de APIs durante os Testes de API
 
-API mocking is a crucial aspect of API design and testing. It involves simulating the behaviors of real APIs to test various aspects of the system without the need of the real API being readily available. During the stages of development and testing, the API might be undefined or changes in the API can be expected, hence mocking comes into the picture. In such cases, it helps software developers and testers to isolate the system and work independently, enhancing the control over the input and output of the test. The focus here ranges from testing the API for functionality, reliability, performance, to security. Therefore, understanding and implementing effective API mocking strategies can significantly streamline the API design and development process.
+A simulação de APIs é um aspecto crucial da engenharia e dos testes de API. Envolve a simulação do comportamento de APIs reais para testar diversos aspectos do sistema sem a necessidade da API real estar disponível imediatamente. Durante as fases de desenvolvimento e teste, a API pode ser indefinida ou podem ocorrer mudanças na API, por isso entra em cena a simulação. Nesses casos, ajuda os desenvolvedores e testadores de software a isolar o sistema e trabalhar independentemente, melhorando assim o controle sobre a entrada e saída dos testes. O foco aqui vai desde testar a API para funcionalidade, confiabilidade, desempenho até segurança. Portanto, entender e implementar estratégias eficazes de simulação de APIs pode significativamente acelerar o processo de engenharia e desenvolvimento de APIs.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is API Mocking? Definition, Guide, and Best Practices](https://katalon.com/resources-center/blog/what-is-api-mocking)
-- [@article@What is API mocking (What is API Mocking? Definition, Guide, and Best Practices)](https://blog.postman.com/what-is-api-mocking/)
-- [@video@How to Mock RESTFUL APIs - The Easy way!](https://www.youtube.com/watch?v=tJRN5WBF5Wc)
+- [@artigo@O que é Simulação de API? Definição, Guia e Melhores Práticas](https://katalon.com/resources-center/blog/what-is-api-mocking)
+- [@artigo@O que é simulação de API (O que é Simulação de API? Definição, Guia e Melhores Práticas)](https://blog.postman.com/what-is-api-mocking/)
+- [@vídeo@Como Simular APIs RESTFUL - A Maneira Fácil!](https://www.youtube.com/watch?v=tJRN5WBF5Wc)

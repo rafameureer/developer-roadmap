@@ -1,8 +1,8 @@
-# Performance Metrics in API Design
+# Métricas de Desempenho na Design de API
 
-API Design performance metrics play a critical role in ensuring APIs are efficient, effective, and absolutely fit for their intended purpose. The performance of an API can profoundly impact the user experience and overall system performance. Therefore, it is crucial to define and monitor a set of performance metrics. These may include response times, throughput, error rates, and others that measure system health and resource utilization. By prioritizing these metrics in the context of API Design, developers can create APIs that not only meet functional requirements but also deliver desired performance levels.
+As métricas de desempenho na design de API desempenham um papel crucial em garantir que as APIs sejam eficientes, eficazes e absolutamente adequadas ao seu propósito intencional. O desempenho de uma API pode profundamente impactar a experiência do usuário e o desempenho geral do sistema. Portanto, é crucial definir e monitorar um conjunto de métricas de desempenho. Isso pode incluir tempos de resposta, taxa de throughput, taxas de erro e outros que medem a saúde do sistema e o uso dos recursos. Ao priorizar essas métricas no contexto da design de API, os desenvolvedores podem criar APIs que não apenas atendam aos requisitos funcionais, mas também entreguem níveis desejados de desempenho.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@API Performance Monitoring](https://www.catchpoint.com/api-monitoring-tools/api-performance-monitoring)
-- [@article@How does API Monitoring Improves API Performance?](https://tyk.io/blog/api-product-metrics-what-you-need-to-know/)
+- [@artigo@Monitoramento de Desempenho de API](https://www.catchpoint.com/api-monitoring-tools/api-performance-monitoring)
+- [@artigo@Como o Monitoramento de API Melhora o Desempenho da API?](https://tyk.io/blog/api-product-metrics-what-you-need-to-know/)

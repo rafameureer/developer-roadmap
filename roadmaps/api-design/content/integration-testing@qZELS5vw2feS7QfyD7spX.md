@@ -1,8 +1,8 @@
-# Integration Testing in API Design
+# Teste de Integração na Designação da API
 
-Integration testing is a critical aspect of API design. It is a level of software testing where individual units or components are combined and tested as a group. The main purpose of integration testing in API design is to expose faults and discrepancies in the interaction between integrated units. This testing approach ensures that the different parts of an API work together seamlessly, to deliver the necessary functionality and performance. It helps detect issues related to the network, database, and performance, which unit tests cannot uncover. Thus, this level of testing is instrumental in validating the reliability, efficiency, and functionality of an API's integrated components.
+O teste de integração é um aspecto crucial da designação da API. É uma fase de teste de software em que unidades ou componentes individuais são combinados e testados como um grupo. O principal objetivo do teste de integração na designação da API é expor falhas e discrepâncias na interação entre as unidades integradas. Esse método de teste garante que as diferentes partes de uma API funcionem juntas de forma fluida, para entregar a funcionalidade necessária e desempenho. Ajuda a detectar problemas relacionados à rede, banco de dados e desempenho, que os testes unitários não podem revelar. Assim, este nível de teste é essencial para validar a confiabilidade, eficiência e funcionalidade dos componentes integrados da API.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@How to run API integration tests](https://www.merge.dev/blog/api-integration-testing)
-- [@article@Integration testing template](https://www.postman.com/templates/fe506090-ca91-4340-bea9-82d2c3d2bb9a/Integration-testing/)
+- [@artigo@Como executar testes de integração de API](https://www.merge.dev/blog/api-integration-testing)
+- [@template@Modelo de teste de integração](https://www.postman.com/templates/fe506090-ca91-4340-bea9-82d2c3d2bb9a/Integration-testing/)

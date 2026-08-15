@@ -1,8 +1,8 @@
-# API Keys & Management
+# Gerenciamento de Chaves API
 
-API keys and management are an integral part of API design. An API key is a unique identifier used to authenticate a user, developer, or calling program to an API. This ensures security and control over API endpoints, as only those with a valid API key can make requests. API Management, on the other hand, refers to the practices and tools that enable an organization to govern and monitor its API usage. It involves all the aspects of managing APIs including design, deployment, documentation, security, versioning, and analytics. Both elements play crucial roles in securing and organizing API access for efficient and controlled data sharing and communication.
+O gerenciamento de chaves API e a sua gestão são partes essenciais do design de APIs. Uma chave API é um identificador único usado para autenticar um usuário, desenvolvedor ou programa chamador em uma API. Isso garante a segurança e o controle sobre os endpoints da API, pois apenas aqueles com uma chave API válida podem fazer solicitações. O gerenciamento de API, por outro lado, refere-se às práticas e ferramentas que permitem que uma organização governe e monitore seu uso de APIs. Envolve todos os aspectos do gerenciamento de APIs, incluindo design, implantação, documentação, segurança, versão e análise.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is API Key Management?](https://www.akeyless.io/secrets-management-glossary/api-key-management/)
-- [@article@API Key Management - Definition and Best Practices](https://infisical.com/blog/api-key-management)
+- [@artigo@O que é o Gerenciamento de Chave API?](https://www.akeyless.io/secrets-management-glossary/api-key-management/)
+- [@artigo@Gerenciamento de Chave API - Definição e Melhores Práticas](https://infisical.com/blog/api-key-management)

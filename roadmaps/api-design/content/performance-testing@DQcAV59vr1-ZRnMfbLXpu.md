@@ -1,8 +1,8 @@
-# Performance Testing in API Design
+# Testes de Desempenho na Design de API
 
-Performance Testing in API design refers to the practice of evaluating and ensuring that an API operates reliably and efficiently under varying workloads. Properly conducted performance testing can verify an API's speed, response time, reliability, and scalability. As an integral aspect of API design, it checks if API's are effectively meeting expectations for system functionality and demonstrates the potential areas of optimization. Performance testing is essential in maintaining high standards of user experience by preventing unexpected failures, and optimizing API consumer satisfaction.
+Testes de Desempenho na design de API se refere à prática de avaliar e garantir que uma API funcione confiavelmente e eficientemente sob diferentes cargas de trabalho. Os testes de desempenho realizados corretamente podem verificar a velocidade, o tempo de resposta, a confiabilidade e a escabilidade da API. Como um aspecto integral da design de API, ele verifica se as APIs estão efetivamente atendendo às expectativas para a funcionalidade do sistema e demonstra as áreas potenciais de otimização. Os testes de desempenho são essenciais para manter altos padrões de experiência do usuário ao prevenir falhas inesperadas e otimizar a satisfação dos consumidores da API.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@API Performance Testing: A Step-by-Step Guide](https://testsigma.com/blog/api-performance-testing/)
-- [@article@Simulate user traffic to test your API performance](https://learning.postman.com/docs/collections/performance-testing/testing-api-performance/)
+- [@artigo@Teste de Desempenho de API: Um Guia Passo a Passo](https://testsigma.com/blog/api-performance-testing/)
+- [@artigo@Simule o tráfego do usuário para testar o desempenho da sua API](https://learning.postman.com/docs/collections/performance-testing/testing-api-performance/)

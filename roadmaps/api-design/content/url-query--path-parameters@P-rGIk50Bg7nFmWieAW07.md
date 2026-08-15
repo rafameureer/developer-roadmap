@@ -1,9 +1,9 @@
-# URL, Query & Path Parameters
+# URL, Parâmetros de Consulta e Caminho
 
-When designing APIs, an integral part involves dealing with uniform resource locators (URLs), query parameters, and path parameters. These components play crucial parts in how the API sends and retrieves data. The URL forms the basis of the API, given that it identifies the resource on the server. Query parameters are used to filter specific results, sorting or show specific data fields. On the other hand, Path parameters serve as placeholders for variable data that will be input into the URL, allowing us to customize the data response. Understanding the usage of URL, query, and path parameters is of utmost importance for creating efficient, scalable, and user-friendly APIs.
+Ao projetar APIs, um componente integral envolve lidar com localizadores uniformes de recursos (URLs), parâmetros de consulta e parâmetros de caminho. Esses componentes desempenham papéis cruciais na forma como a API envia e recupera dados. A URL é a base da API, já que ela identifica o recurso no servidor. Os parâmetros de consulta são usados para filtrar resultados específicos, classificar ou mostrar campos de dados específicos. Por outro lado, os parâmetros de caminho servem como placeholders para dados variáveis que serão inseridos na URL, permitindo-nos personalizar a resposta dos dados. Entender o uso de URL, parâmetros de consulta e caminho é fundamental para criar APIs eficientes, escaláveis e amigáveis aos usuários.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Understanding Path Variables and Query Parameters](https://medium.com/@averydcs/understanding-path-variables-and-query-parameters-in-http-requests-232248b71a8)
-- [@article@Describing parameters](https://swagger.io/docs/specification/describing-parameters/)
-- [@article@How API Parameters Work: Query, Path, Header, and Body](https://treblle.com/blog/api-parameters-query-path-header-body)
+- [@artigo@Entendendo Variáveis de Caminho e Parâmetros de Consulta](https://medium.com/@averydcs/understanding-path-variables-and-query-parameters-in-http-requests-232248b71a8)
+- [@artigo@Descrevendo parâmetros](https://swagger.io/docs/specification/describing-parameters/)
+- [@artigo@Como Funcionam os Parâmetros da API: Query, Path, Header e Body](https://treblle.com/blog/api-parameters-query-path-header-body)

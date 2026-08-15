@@ -1,9 +1,9 @@
-# Kafka in API Design
+# Kafka na Designação da API
 
-Apache Kafka is a real-time, fault-tolerant, and highly reliable messaging system that's integral to API design. It's primarily used to build real-time data streaming applications and microservices due to its inherent ability to handle high volume data and multi-subscriber support. In the context of API design, Kafka provides a robust messaging queue system that enables cloud-based platforms and services to communicate seamlessly with each other in a real-time environment. Moreover, the API designers use Kafka APIs such as Producer API, Consumer API, Streams API, and Connect API which enable the transmission and manipulation of messages within the Kafka ecosystem.
+O Apache Kafka é um sistema de mensageria em tempo real, tolerante a falhas e altamente confiável que é integral à designação da API. Ele é principalmente usado para construir aplicativos de streaming de dados em tempo real e microservices devido à sua capacidade intrínseca de lidar com volumes elevados de dados e suporte a múltiplos assinantes. No contexto da designação da API, o Kafka fornece um sistema robusto de fila de mensagens que permite que plataformas e serviços baseadas em nuvem comuniquem-se fluidamente um com o outro em um ambiente em tempo real. Além disso, os designers de APIs usam as APIs do Kafka como Producer API, Consumer API, Streams API e Connect API, que permitem a transmissão e manipulação de mensagens dentro do ecossistema do Kafka.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Kafka Website](https://kafka.apache.org/)
+- [@oficial@Site oficial do Kafka](https://kafka.apache.org/)
 - [@opensource@apache/kafka](https://github.com/apache/kafka)
-- [@video@Kafka in 100 seconds](https://www.youtube.com/watch?v=uvb00oaa3k8)
+- [@vídeo@Kafka em 100 segundos](https://www.youtube.com/watch?v=uvb00oaa3k8)

@@ -1,8 +1,8 @@
-# Attribute Based Access Control (ABAC) - An Authorization Method in API Design
+# Controle de Acesso Baseado em Atributos (ABAC) - Um Método de Autorização na Designação de APIs
 
-Attribute Based Access Control (ABAC) is a flexible and powerful authorization method in the realm of API Design. Distinct from Role-Based Access Control (RBAC), which relies on predefined roles and permissions, ABAC uses attributes to build policies and make decisions. These attributes can be associated with the user, the action they want to perform, targeted resources, or the environment. With ABAC, finer-grained access control can be achieved, thereby improving the security and efficiency of APIs. This approach is widely used in complex and dynamic environments where access control requirements can be multifaceted and deeply context-dependent.
+O Controle de Acesso Baseado em Atributos (ABAC) é um método de autorização flexível e poderoso no campo da designação de APIs. Diferente do Controle de Acesso Baseado em Papéis (RBAC), que depende de papéis e permissões pré-definidos, o ABAC usa atributos para construir políticas e tomar decisões. Esses atributos podem estar associados ao usuário, à ação que ele deseja realizar, aos recursos alvo ou ao ambiente. Com o ABAC, pode-se alcançar um controle de acesso mais granular, melhorando assim a segurança e eficiência das APIs. Este abordagem é amplamente utilizada em ambientes complexos e dinâmicos onde os requisitos de controle de acesso podem ser multifacetados e profundamente dependentes do contexto.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Attribute Based Access Control?](https://www.okta.com/uk/blog/2020/09/attribute-based-access-control-abac/)
-- [@article@Attribute Based Access Control](https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction_attribute-based-access-control.html)
+- [@artigo@O que é Controle de Acesso Baseado em Atributos?](https://www.okta.com/uk/blog/2020/09/attribute-based-access-control-abac/)
+- [@artigo@Controle de Acesso Baseado em Atributos](https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction_attribute-based-access-control.html)

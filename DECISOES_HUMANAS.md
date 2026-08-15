@@ -4,7 +4,7 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 
 ---
 
-> ⚠️ **Total de itens sinalizados:** 167
+> ⚠️ **Total de itens sinalizados:** 187
 
 | Arquivo / Tópico | Motivo da Sinalização | Data/Hora |
 |---|---|---|
@@ -175,3 +175,23 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 | `roadmaps/angular/content/operators@ihsjIcF0tkhjs56458teE.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:30:57.643524 |
 | `roadmaps/angular/content/pipes@j99WQxuTzGeBBVoReDp_y.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:31:20.402844 |
 | `roadmaps/angular/content/property-binding@TJOZfHtsLfwA0CZ2bd1b2.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:31:22.880209 |
+| `roadmaps/api-design/content/api-integration-patterns@R3aRhqCslwhegMfHtxg5z.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:36:01.871135 |
+| `roadmaps/api-design/content/api-lifecycle-management@At5exN7ZAx2IzY3cTCzHm.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:36:12.735607 |
+| `roadmaps/api-design/content/contract-testing@NqeBglhzukVMMEF9p2CXc.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:37:55.771527 |
+| `roadmaps/api-design/content/cookies@UFuX8wcxZQ7dvaQF_2Yp8.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:38:00.328504 |
+| `roadmaps/api-design/content/cors@GRlsBogOlOwuqhMMPyHN3.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:38:06.056778 |
+| `roadmaps/api-design/content/graphql-apis@MKVcPM2EzAr2_Ieyp9Fu3.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:39:18.187780 |
+| `roadmaps/api-design/content/grpc-apis@1DrqtOwxCuFtWQXQ6ZALp.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:39:22.519567 |
+| `roadmaps/api-design/content/handling-crud-operations@zXxEiM5HeOn7W-Vue0tQf.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:39:28.342862 |
+| `roadmaps/api-design/content/load-testing@7JNEx_cbqnAx3esvwZMOd.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:41:12.861698 |
+| `roadmaps/api-design/content/mac@tl1wXmOaj_zHL2o38VygO.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:41:17.959531 |
+| `roadmaps/api-design/content/messaging-queues@IkPZel5zxXWIx90Qx7fZI.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:41:22.693262 |
+| `roadmaps/api-design/content/postman@KQAus72RGqx5f-3-YeJby.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:42:51.555729 |
+| `roadmaps/api-design/content/profiling-and-monitoring@-qdwBg7HvwlbLy3IKCRij.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:42:55.969285 |
+| `roadmaps/api-design/content/rabbit-mq@H22jAI2W5QLL-b1rq-c56.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:43:01.274509 |
+| `roadmaps/api-design/content/soap-apis@Wwd-0PjrtViMFWxRGaQey.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:44:49.329452 |
+| `roadmaps/api-design/content/standards-and-compliance@yvdfoly5WHHTq2Puss355.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:44:55.003008 |
+| `roadmaps/api-design/content/stoplight@OpS2NX1lPTOtfjV1wKtC4.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:44:59.783955 |
+| `roadmaps/api-design/content/web-sockets@UQ8N7gcVpRLAYXgUNHBt5.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:46:14.360259 |
+| `roadmaps/api-design/content/webhooks-vs-polling@75NVxS0iwoQXxOHCkWQxH.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:46:19.797721 |
+| `roadmaps/api-design/content/what-are-apis@r8M3quACGO2piu0u_R4hO.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:46:25.278455 |

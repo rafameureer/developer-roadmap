@@ -1,10 +1,10 @@
-# HTTP in API Design
+# HTTP na Design de APIs
 
-HTTP, or Hypertext Transfer Protocol, is a fundamental piece of any API design. It is the protocol used for transmitting hypermedia data on the web, such as HTML webpages or JSON from a web API. Understanding HTTP is crucial in API design as it provides the structure for how requests and responses should be constructed and handled. It dictates how endpoints are defined, how data should be transferred, and what status codes should be used to convey specific scenarios. A solid grounding in HTTP principles allows for more robust, efficient and secure API designs.
+O HTTP, ou Protocolo de Transferência de Hipertexto, é uma peça fundamental em qualquer design de API. É o protocolo usado para transmitir dados hipermediados na web, como páginas web HTML ou JSON de uma API da web. Entender o HTTP é crucial no design de APIs, pois ele fornece a estrutura para como as solicitações e respostas devem ser construídas e manipuladas. Ele determina como os endpoints são definidos, como os dados devem ser transferidos e quais códigos de status devem ser usados para transmitir cenários específicos. Um sólido conhecimento dos princípios do HTTP permite designs de API mais robustos, eficientes e seguros.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is HTTP?](https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/)
-- [@article@An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
-- [@article@HTTP/3 From A To Z: Core Concepts](https://www.smashingmagazine.com/2021/08/http3-core-concepts-part1/)
-- [@video@HTTP Crash Course & Exploration](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
+- [@artigo@O que é HTTP?](https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/)
+- [@artigo@Uma visão geral do HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
+- [@artigo@HTTP/3 De A a Z: Conceitos Fundamentais](https://www.smashingmagazine.com/2021/08/http3-core-concepts-part1/)
+- [@vídeo@Curso rápido e exploração do HTTP](https://www.youtube.com/watch?v=iYM2zFP3Zn0)

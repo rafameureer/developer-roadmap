@@ -1,7 +1,7 @@
-# API Security
+# Segurança da API
 
-API Security refers to the practices and products that are used to secure application programming interfaces (APIs). In the context of design, it is an essential component that helps ensure that a deployed API achieves its objectives in a safe and secure manner. This includes safeguarding the data, preventing unauthorized access, and protecting the system that hosts the API. API security encompasses the strategies, procedures and technology used to protect APIs from malicious attacks or unauthorized access while guaranteeing optimum performance, availability, and data privacy.
+A segurança da API refere-se às práticas e produtos utilizados para proteger as interfaces de programação de aplicativos (APIs). No contexto do design, é um componente essencial que ajuda a garantir que uma API implantada alcance seus objetivos de forma segura e segura. Isso inclui proteger os dados, prevenir acesso não autorizado e proteger o sistema que hospeda a API. A segurança da API abrange as estratégias, procedimentos e tecnologias usadas para proteger APIs contra ataques maliciosos ou acesso não autorizado, garantindo desempenho ótimo, disponibilidade e privacidade dos dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@OWASP Project API Security](https://owasp.org/API-Security/editions/2023/en/0x00-toc/)
+- [@artigo@OWASP Project API Security](https://owasp.org/API-Security/editions/2023/en/0x00-toc/)

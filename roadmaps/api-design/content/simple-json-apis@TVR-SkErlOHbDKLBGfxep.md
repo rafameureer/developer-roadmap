@@ -1,8 +1,8 @@
-# Simple JSON APIs
+# APIs Simples em JSON
 
-Simple JSON (JavaScript Object Notation) APIs are a popular form of API or "Application Programming Interface" which utilise JSON to exchange data between servers and web applications. This method has gained prominence mainly for its simplicity, light weight, and easy readability. In the context of API design, a well-structured JSON API allows developers to efficiently interact with the backend and retrieve only the data they need in a consistent and comprehensible manner. From reducing redundant data to enabling quick parsing, Simple JSON APIs provide numerous benefits to improve the overall performance of applications. Designing a good JSON API requires careful planning, sound knowledge of HTTP methods, endpoints, error handling mechanisms, and most importantly, a clear understanding of the application's data requirements.
+APIs Simples em JSON (JavaScript Object Notation) são um formato popular de API ou "Interface de Programação de Aplicativos" que utilizam JSON para trocar dados entre servidores e aplicativos web. Este método ganhou destaque principalmente por sua simplicidade, leveza e facilidade de leitura. No contexto da design de APIs, uma API JSON bem estruturada permite aos desenvolvedores interagir eficientemente com a camada backend e recuperar apenas os dados necessários de uma maneira consistente e compreensível. Reduzindo dados redundantes e permitindo a análise rápida, as APIs Simples em JSON oferecem vários benefícios para melhorar o desempenho geral dos aplicativos. A design de uma boa API JSON requer planejamento cuidadoso, conhecimento sólido dos métodos HTTP, endpoints, mecanismos de tratamento de erros e, acima de tudo, uma compreensão clara das necessidades de dados da aplicação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@opensource@Specification for Building JSON APIs](https://github.com/json-api/json-api)
-- [@video@JSON API: Explained in 4 Minutes](https://www.youtube.com/watch?v=N-4prIh7t38)
+- [@opensource@Especificação para a Construção de APIs em JSON](https://github.com/json-api/json-api)
+- [@vídeo@API em JSON: Explicado em 4 Minutos](https://www.youtube.com/watch?v=N-4prIh7t38)

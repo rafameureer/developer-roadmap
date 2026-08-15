@@ -1,10 +1,10 @@
-# Basics of DNS
+# Fundamentos do DNS
 
-When discussing the foundational elements of API Design, the Basics of DNS (Domain Name System) can't be overlooked. DNS plays a fundamental role in the way APIs function, acting as the internet's equivalent of a phone book, it interprets human-friendly hostnames into IP addresses that APIs need for communication. Understanding this complex system is essential as it allows for better comprehension of the navigation and messaging flow in API Design. For API developers, knowledge about DNS can significantly aid in troubleshooting connectivity issues, ensuring secure connections, and optimizing API architecture with more efficient calls.
+Quando se fala nos elementos fundamentais da Design de API, os Fundamentos do DNS (Sistema de Nomes de Domínio) não podem ser ignorados. O DNS desempenha um papel fundamental no funcionamento das APIs, atuando como o equivalente à agenda telefônica na internet. Ele interpreta nomes de host amigáveis aos humanos em endereços IP que as APIs precisam para comunicação. Entender este sistema complexo é essencial, pois permite uma melhor compreensão do fluxo de navegação e mensagens na Design de API. Para desenvolvedores de APIs, o conhecimento sobre DNS pode significativamente auxiliar no diagnóstico de problemas de conectividade, garantindo conexões seguras e otimizando a arquitetura da API com chamadas mais eficientes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is DNS?](https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/)
-- [@article@Introduction to DNS](https://aws.amazon.com/route53/what-is-dns/)
-- [@article@DNS Record Crash Course for Web Developers](https://dev.to/chrisachard/dns-record-crash-course-for-web-developers-35hn)
-- [@video@DNS explained in 100 seconds](https://www.youtube.com/watch?v=UVR9lhUGAyU)
+- [@artigo@O que é o DNS?](https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/)
+- [@artigo@Introdução ao DNS](https://aws.amazon.com/route53/what-is-dns/)
+- [@artigo@Curso rápido de registros DNS para desenvolvedores web](https://dev.to/chrisachard/dns-record-crash-course-for-web-developers-35hn)
+- [@vídeo@DNS explicado em 100 segundos](https://www.youtube.com/watch?v=UVR9lhUGAyU)

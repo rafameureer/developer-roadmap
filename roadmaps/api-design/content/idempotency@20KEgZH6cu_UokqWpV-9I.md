@@ -1,9 +1,9 @@
-# Idempotency in API Design
+# Idempotência na Design de APIs
 
-Idempotency in API design refers to the concept where multiple identical requests have the same effect as a single request. This means that no matter how many times a client sends the same request to the server, the server's state stays the same after the first request. Designing APIs to be idempotent is essential for reliability, as it allows retries without side-effects, reduces complexity in distributed systems, and provides better user experience in unstable network conditions. Understanding idempotency concepts can increase the robustness and fault tolerance of your APIs. It is usually applicable to `PUT`, `DELETE`, and sometimes `POST` methods in RESTful APIs.
+Idempotência na design de APIs refere-se ao conceito onde múltiplas solicitações idênticas têm o mesmo efeito que uma única solicitação. Isso significa que, independentemente do número de vezes que um cliente envia a mesma solicitação para o servidor, o estado do servidor permanece o mesmo após a primeira solicitação. Designar APIs como idempotentes é essencial para a confiabilidade, pois permite reações sem efeitos colaterais, reduz complexidade em sistemas distribuídos e fornece uma melhor experiência de usuário em condições de rede instáveis. Entender conceitos de idempotência pode aumentar a robustez e tolerância a falhas das suas APIs. Geralmente é aplicável aos métodos `PUT`, `DELETE` e às vezes ao método `POST` em APIs RESTful.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is idempotency?](https://blog.dreamfactory.com/what-is-idempotency)
-- [@article@Idempotency Is Easy Until the Second Request Is Different](https://blog.dochia.dev/blog/idempotency/)
-- [@article@Idempotent REST API](https://restfulapi.net/idempotent-rest-apis/)
+- [@artigo@O que é idempotência?](https://blog.dreamfactory.com/what-is-idempotency)
+- [@artigo@Idempotência é fácil até a segunda solicitação ser diferente](https://blog.dochia.dev/blog/idempotency/)
+- [@artigo@Api REST Idempotente](https://restfulapi.net/idempotent-rest-apis/)

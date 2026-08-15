@@ -1,10 +1,10 @@
-# JSON Web Token (JWT) in API Design
+# Token Web JSON (JWT) na Designação da API
 
-JSON Web Tokens, or JWT, are a popular and secure method of transferring information between two parties in the domain of API design. As a compact, URL-safe means of representing claims to be transferred between two parties, they play a vital role in security and authorization in modern APIs. By encoding these claims, the information can be verified and trusted with a digital signature - ensuring that the API end-points can handle requests in a secure and reliable way. JWT is a relatively lightweight and scalable method that brings improved authentication and information exchange processes in API design.
+Os Tokens Web JSON, ou JWT, são um método popular e seguro de transferir informações entre duas partes no domínio da designação da API. Como uma maneira compacta e segura de representar declarações a serem transferidas entre duas partes, eles desempenham um papel crucial na segurança e autorização em APIs modernas. Ao codificar essas declarações, as informações podem ser verificadas e confiáveis com uma assinatura digital - garantindo que os pontos finais da API possam lidar com solicitações de forma segura e confiável. O JWT é um método relativamente leve e escalável que traz processos de autenticação e troca de informações melhorados na designação da API.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@JWT Authentication](https://roadmap.sh/guides/jwt-authentication)
-- [@official@Introduction to JSON Web Tokens](https://jwt.io/introduction)
-- [@article@JSON Web Tokens](https://auth0.com/docs/secure/tokens/json-web-tokens)
-- [@video@Why is JWT popular?](https://www.youtube.com/watch?v=P2CPd9ynFLg)
+- [@roadmap@Autenticação com JWT](https://roadmap.sh/guides/jwt-authentication)
+- [@oficial@Introdução aos Tokens Web JSON](https://jwt.io/introduction)
+- [@artigo@Tokens Web JSON](https://auth0.com/docs/secure/tokens/json-web-tokens)
+- [@vídeo@Por que o JWT é popular?](https://www.youtube.com/watch?v=P2CPd9ynFLg)

@@ -1,8 +1,8 @@
-# URI Design in API
+# Design de URI na API
 
-URI (Uniform Resource Identifier) is a string of characters used to identify a name or a resource on the Internet. Designing URIs carefully is a crucial part of creating a smooth API interface that is easy to understand, remember and use. Good URI design ensures that related resources are grouped together in a logical manner and can greatly impact the usability and maintainability of an API. It involves crafting standardised, intuitive HTTP paths that take advantage of the hierarchical nature of URLs to provide a better structure to the API. This hierarchy can then be used to expand the API over time without breaking existing clients' functionality.
+URI (Uniform Resource Identifier) é uma sequência de caracteres usada para identificar um nome ou um recurso na Internet. O planejamento cuidadoso de URIs é uma parte crucial da criação de uma interface de API suave que seja fácil de entender, lembrar e usar. Um bom design de URI garante que recursos relacionados sejam agrupados de maneira lógica e pode ter um grande impacto na usabilidade e manutenibilidade de uma API. Envolve a criação de caminhos HTTP padrão e intuitivos que aproveitem a natureza hierárquica das URLs para fornecer uma estrutura melhor à API. Essa hierarquia pode então ser usada para expandir a API ao longo do tempo sem quebrar a funcionalidade dos clientes existentes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Guidelines for URI Design](https://css-tricks.com/guidelines-for-uri-design/)
-- [@article@Designing URIs](https://www.oreilly.com/library/view/restful-web-services/9780596809140/ch04.html)
+- [@artigo@Diretrizes para o Design de URI](https://css-tricks.com/guidelines-for-uri-design/)
+- [@artigo@Designando URIs](https://www.oreilly.com/library/view/restful-web-services/9780596809140/ch04.html)

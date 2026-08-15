@@ -1,9 +1,9 @@
-# Event Driven Architecture in API Design
+# Arquitetura Orientada a Eventos na Design de API
 
-Event-driven architecture (EDA) is a software design concept that revolves around the production, interpretation, and consumption of events. With regards to API design, EDA grants systems the flexibility to decentralize analytics, microservices, and operations, thus promoting real-time information sharing and reaction. Event-driven APIs prioritize asynchronous communication, allowing applications to stay responsive even when tackling heavy data loads. For an effective API, adhering to EDA provides data reliability, maturity with a scalable structure, and efficient real-time data processing capabilities.
+A arquitetura orientada a eventos (EDA) é um conceito de design de software que se concentra na produção, interpretação e consumo de eventos. Em relação à design de API, o EDA permite aos sistemas a flexibilidade de descentralizar análises, microservices e operações, promovendo a compartilhamento e reação em tempo real de informações. As APIs orientadas a eventos priorizam a comunicação assíncrona, permitindo que as aplicações permaneçam respondentes mesmo quando lidando com carregamentos de dados pesados. Para uma API eficaz, seguir o EDA proporciona confiabilidade dos dados, maturidade com uma estrutura escalável e capacidades eficientes de processamento de dados em tempo real.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Event Driven Architecture Style](https://learn.microsoft.com/en-us/azure/architecture/guide/architecture-styles/event-driven)
-- [@article@Event-driven Architecture](https://aws.amazon.com/event-driven-architecture/)
-- [@video@Event-Driven Architecture: Explained in 7 Minutes!](https://www.youtube.com/watch?v=gOuAqRaDdHA)
+- [@artigo@Estilo de Arquitetura Orientada a Eventos](https://learn.microsoft.com/en-us/azure/architecture/guide/architecture-styles/event-driven)
+- [@artigo@Arquitetura orientada a eventos](https://aws.amazon.com/event-driven-architecture/)
+- [@vídeo@Arquitetura orientada a eventos: explicada em 7 minutos!](https://www.youtube.com/watch?v=gOuAqRaDdHA)

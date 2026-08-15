@@ -1,9 +1,9 @@
-# Understand TCP / IP
+# Entenda TCP / IP
 
-When designing APIs, an essential building block is the understanding of TCP/IP. TCP/IP, standing for Transmission Control Protocol/Internet Protocol, is the suite of communications protocols used to connect hosts on the Internet. It provides ordered, error-checked delivery of streams of bytes from a program on one computer to another program on another computer. If you want to understand how APIs communicate over networks, knowing the fundamental working of TCP/IP is indispensable. Fully appreciating this topic will strengthen your grasp on API design and help you make more informed decisions when creating APIs.
+Ao projetar APIs, um bloco de construção essencial é a compreensão do TCP/IP. O TCP/IP, que significa Protocolo de Controle de Transmissão/Protocolo de Internet, é o conjunto de protocolos de comunicação usado para conectar hosts na Internet. Ele fornece entrega em ordem e verificada de fluxos de bytes de um programa em um computador para outro programa em outro computador. Se você deseja entender como as APIs se comunicam por meio de redes, conhecer o funcionamento fundamental do TCP/IP é indispensável. Compreender completamente esse tópico fortalecerá sua compreensão sobre a design de APIs e ajudará você a tomar decisões informadas ao criar APIs.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Transmission Control Protocol TCP/IP?](https://www.fortinet.com/resources/cyberglossary/tcp-ip)
-- [@article@What is TCP/IP?](https://www.cloudflare.com/en-gb/learning/ddos/glossary/tcp-ip/)
-- [@video@what is TCP/IP and OSI?](https://www.youtube.com/watch?v=CRdL1PcherM)
+- [@article@O que é Protocolo de Controle de Transmissão TCP/IP?](https://www.fortinet.com/resources/cyberglossary/tcp-ip)
+- [@article@O que é TCP/IP?](https://www.cloudflare.com/en-gb/learning/ddos/glossary/tcp-ip/)
+- [@video@O que é TCP/IP e OSI?](https://www.youtube.com/watch?v=CRdL1PcherM)

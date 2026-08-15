@@ -523,7 +523,86 @@
     "roadmaps/angular/content/xsrf-protection@ni00edsphJd7uBLCn7-Vw.md",
     "roadmaps/angular/content/zone-pollution@pRSR5PEbkJXAJ1LPyK-EE.md",
     "roadmaps/angular/content/zoneless-applications@1x5pT607aKE-S-NCWB810.md",
-    "roadmaps/angular/content/zones@m4WBnx_9h01Jl6Q1sxi4Y.md"
+    "roadmaps/angular/content/zones@m4WBnx_9h01Jl6Q1sxi4Y.md",
+    "roadmaps/api-design/content/abac@dZTe_kxIUQsc9N3w920aR.md",
+    "roadmaps/api-design/content/api-documentation-tools@5R9yKfN1vItuv__HgCwP7.md",
+    "roadmaps/api-design/content/api-gateways@MJeUD4fOHaJu1oxk4uQ-x.md",
+    "roadmaps/api-design/content/api-keys--management@tzUJwXu_scwQHnPPT0oY-.md",
+    "roadmaps/api-design/content/api-performance@d9ZXdU73jiCdeNHQv1_DH.md",
+    "roadmaps/api-design/content/api-security@qIJ6dUppjAjOTA8eQbp0n.md",
+    "roadmaps/api-design/content/api-testing@Wpk4TvxcZOJgAoXjrOsZF.md",
+    "roadmaps/api-design/content/authentication-methods@cQnQ9v3mH27MGNwetz3JW.md",
+    "roadmaps/api-design/content/authorization-methods@nHbn8_sMY7J8o6ckbD-ER.md",
+    "roadmaps/api-design/content/basic-auth@0FzHERK5AeYL5wv1FBJbH.md",
+    "roadmaps/api-design/content/basics-of-dns@v4nJYD9yiIEUviLPhVTCD.md",
+    "roadmaps/api-design/content/batch-processing@X68HXAAV-nKo-V4Fu1o72.md",
+    "roadmaps/api-design/content/best-practices@q1yaf-RbHIQsOqfzjn4k4.md",
+    "roadmaps/api-design/content/bff-pattern@v8iYctF_k40ES0_hHXS9N.md",
+    "roadmaps/api-design/content/building-json--restful-apis@awdoiCHz7Yc3kYac_iy-a.md",
+    "roadmaps/api-design/content/caching-strategies@PrvRCR4HCdGar0vcUbG_a.md",
+    "roadmaps/api-design/content/ccpa@a-_iIE7UdoXzD00fD9MxN.md",
+    "roadmaps/api-design/content/common-vulnerabilities@G70wvcOM1Isrx5ZBvS2xP.md",
+    "roadmaps/api-design/content/content-negotiation@TX_hg7EobNJhmWKsMCaT1.md",
+    "roadmaps/api-design/content/crud-operations@zXxEiM5HeOn7W-Vue0tQf.md",
+    "roadmaps/api-design/content/dac@_BXgYUlaYfpYrryXTw5n2.md",
+    "roadmaps/api-design/content/different-api-styles@o8i093VQv-T5Qf1yGqU0R.md",
+    "roadmaps/api-design/content/error-handling--retries@XD1vDtrRQFbLyKJaD1AlA.md",
+    "roadmaps/api-design/content/error-handling@8tELdagrOaGCf3nMVs8t3.md",
+    "roadmaps/api-design/content/event-driven-architecture@oMfOBkVsgiLvFLicOUdx6.md",
+    "roadmaps/api-design/content/filtering-sorting--search@dL3YellfAszBeJnm8KEYE.md",
+    "roadmaps/api-design/content/functional-testing@6lm3wy9WTAERTqXCn6pFt.md",
+    "roadmaps/api-design/content/gdpr@vZxdswGLHCPi5GSuXEcHJ.md",
+    "roadmaps/api-design/content/hateoas@LByD1vhzunhY1uY1YGZHP.md",
+    "roadmaps/api-design/content/hipaa@W4WwTmgZGnWmiYsB0ezml.md",
+    "roadmaps/api-design/content/http-caching@qAolZHf_jp8hCdtqHZwC8.md",
+    "roadmaps/api-design/content/http-headers@rE-0yibRH6B2UBKp351cf.md",
+    "roadmaps/api-design/content/http-methods@rADHM-6NAxEjzmgiHefDX.md",
+    "roadmaps/api-design/content/http-status-codes@7szYyzLifKsepNU0c2KnN.md",
+    "roadmaps/api-design/content/http-versions@ACALE93mL4gnX5ThRIdRp.md",
+    "roadmaps/api-design/content/http@2HdKzAIQi15pr3YHHrbPp.md",
+    "roadmaps/api-design/content/idempotency@20KEgZH6cu_UokqWpV-9I.md",
+    "roadmaps/api-design/content/integration-testing@qZELS5vw2feS7QfyD7spX.md",
+    "roadmaps/api-design/content/jwt@tWg68AHLIr1gIZA1za3jp.md",
+    "roadmaps/api-design/content/kafka@boYX1QcJullypfX4sevdy.md",
+    "roadmaps/api-design/content/key-generation--rotation@0fSfFtskcJ0HNUZPf998l.md",
+    "roadmaps/api-design/content/learn-the-basics@duKkpzPjUU_-8kyJGHqRX.md",
+    "roadmaps/api-design/content/load-balancing@p5wsniYnOS7cbHd92RxGk.md",
+    "roadmaps/api-design/content/microservices-architecture@PPeBbooE121zrgNwpVTiA.md",
+    "roadmaps/api-design/content/mocking-apis@bEVCT5QGY3uw0kIfAELKh.md",
+    "roadmaps/api-design/content/naming-conventions@0yY_lWzWVOC_WmPoyHw8W.md",
+    "roadmaps/api-design/content/oauth-20@TLuNtQ6HKYQXmglyVk8-t.md",
+    "roadmaps/api-design/content/observability@oIZimEuBHCBGsK6b-s57f.md",
+    "roadmaps/api-design/content/oidc@jWekRGRa1131w92oS1HeW.md",
+    "roadmaps/api-design/content/pagination@pgJDzP3pJjhjr5wTRtPJO.md",
+    "roadmaps/api-design/content/pbac@nJWtUyn9bljh3T-q_adJK.md",
+    "roadmaps/api-design/content/pci-dss@J0enF8UTVzY3H4n3pbPIF.md",
+    "roadmaps/api-design/content/performance-metrics@nQpczZUcn-TvrfT80dv0Q.md",
+    "roadmaps/api-design/content/performance-testing@DQcAV59vr1-ZRnMfbLXpu.md",
+    "roadmaps/api-design/content/pii@mXCKtLUvwVJkHrpHzOecq.md",
+    "roadmaps/api-design/content/rate-limiting--throttling@tPVtRV818D8zAAuNbqPNa.md",
+    "roadmaps/api-design/content/rate-limiting@O7wjldZ3yTA2s_F-UnJw_.md",
+    "roadmaps/api-design/content/rbac@wFsbmMi5Ey9UyDADdbdPW.md",
+    "roadmaps/api-design/content/readmecom@LxWHkhlikUaMT2G8YmVDQ.md",
+    "roadmaps/api-design/content/real-time-apis@JE12g5cqnwmgeTle14Vxw.md",
+    "roadmaps/api-design/content/rebac@CCcY8UsGdd2pdBYHt9L4o.md",
+    "roadmaps/api-design/content/resource-modeling@8IDks2DNFZ5nER7wK2Bu4.md",
+    "roadmaps/api-design/content/rest-principles@9WI_z34jIFXwoUQuChyRU.md",
+    "roadmaps/api-design/content/restful-apis@BvwdASMvuNQ9DNgzdSZ4o.md",
+    "roadmaps/api-design/content/rfc-7807----problem-details-for-apis@5CxU3inGcSHp-TDg3BQiY.md",
+    "roadmaps/api-design/content/rfc-7807----problem-details@5CxU3inGcSHp-TDg3BQiY.md",
+    "roadmaps/api-design/content/scopes--permissions@qjawwRcMl2-IDwk8ExpPL.md",
+    "roadmaps/api-design/content/server-sent-events@iNsXTtcIHsI_i-mCfjGYn.md",
+    "roadmaps/api-design/content/session-based-auth@eQWoy4CpYP3TJL2bbhPB_.md",
+    "roadmaps/api-design/content/simple-json-apis@TVR-SkErlOHbDKLBGfxep.md",
+    "roadmaps/api-design/content/streaming-responses@zeYJPEduAmLQHqq4kNBdx.md",
+    "roadmaps/api-design/content/swagger--open-api@5RY7AlfRQydjxWK65Z4cv.md",
+    "roadmaps/api-design/content/synchronous-vs-asynchronous-apis@--mmTKhG58_elbUqyn90G.md",
+    "roadmaps/api-design/content/token-based-auth@QTH7sy9uQZWl6ieBz7erY.md",
+    "roadmaps/api-design/content/understand-tcp--ip@KG3wO86F8Of27fU7QRcsn.md",
+    "roadmaps/api-design/content/unit-testing@JvmW78cDm84GNhq8VEYZp.md",
+    "roadmaps/api-design/content/uri-design@b3qRTLwCC_9uDoPGrd9Bu.md",
+    "roadmaps/api-design/content/url-query--path-parameters@P-rGIk50Bg7nFmWieAW07.md",
+    "roadmaps/api-design/content/versioning-strategies@itILK2SXvLvAjk1Kul7EK.md"
   ],
   "completed_roadmaps": [
     "frontend-beginner",
@@ -536,7 +615,8 @@
     "ai-product-builder",
     "ai-red-teaming",
     "android",
-    "angular"
+    "angular",
+    "api-design"
   ],
   "flagged_issues": [
     {
@@ -1373,8 +1453,108 @@
       "file": "roadmaps/angular/content/property-binding@TJOZfHtsLfwA0CZ2bd1b2.md",
       "reason": "Falha na tradução automática após tentativas no Ollama",
       "timestamp": "2026-08-15T01:31:22.880209"
+    },
+    {
+      "file": "roadmaps/api-design/content/api-integration-patterns@R3aRhqCslwhegMfHtxg5z.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:36:01.871135"
+    },
+    {
+      "file": "roadmaps/api-design/content/api-lifecycle-management@At5exN7ZAx2IzY3cTCzHm.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:36:12.735607"
+    },
+    {
+      "file": "roadmaps/api-design/content/contract-testing@NqeBglhzukVMMEF9p2CXc.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:37:55.771527"
+    },
+    {
+      "file": "roadmaps/api-design/content/cookies@UFuX8wcxZQ7dvaQF_2Yp8.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:38:00.328504"
+    },
+    {
+      "file": "roadmaps/api-design/content/cors@GRlsBogOlOwuqhMMPyHN3.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:38:06.056778"
+    },
+    {
+      "file": "roadmaps/api-design/content/graphql-apis@MKVcPM2EzAr2_Ieyp9Fu3.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:39:18.187780"
+    },
+    {
+      "file": "roadmaps/api-design/content/grpc-apis@1DrqtOwxCuFtWQXQ6ZALp.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:39:22.519567"
+    },
+    {
+      "file": "roadmaps/api-design/content/handling-crud-operations@zXxEiM5HeOn7W-Vue0tQf.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:39:28.342862"
+    },
+    {
+      "file": "roadmaps/api-design/content/load-testing@7JNEx_cbqnAx3esvwZMOd.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:41:12.861698"
+    },
+    {
+      "file": "roadmaps/api-design/content/mac@tl1wXmOaj_zHL2o38VygO.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:41:17.959531"
+    },
+    {
+      "file": "roadmaps/api-design/content/messaging-queues@IkPZel5zxXWIx90Qx7fZI.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:41:22.693262"
+    },
+    {
+      "file": "roadmaps/api-design/content/postman@KQAus72RGqx5f-3-YeJby.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:42:51.555729"
+    },
+    {
+      "file": "roadmaps/api-design/content/profiling-and-monitoring@-qdwBg7HvwlbLy3IKCRij.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:42:55.969285"
+    },
+    {
+      "file": "roadmaps/api-design/content/rabbit-mq@H22jAI2W5QLL-b1rq-c56.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:43:01.274509"
+    },
+    {
+      "file": "roadmaps/api-design/content/soap-apis@Wwd-0PjrtViMFWxRGaQey.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:44:49.329452"
+    },
+    {
+      "file": "roadmaps/api-design/content/standards-and-compliance@yvdfoly5WHHTq2Puss355.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:44:55.003008"
+    },
+    {
+      "file": "roadmaps/api-design/content/stoplight@OpS2NX1lPTOtfjV1wKtC4.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:44:59.783955"
+    },
+    {
+      "file": "roadmaps/api-design/content/web-sockets@UQ8N7gcVpRLAYXgUNHBt5.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:46:14.360259"
+    },
+    {
+      "file": "roadmaps/api-design/content/webhooks-vs-polling@75NVxS0iwoQXxOHCkWQxH.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:46:19.797721"
+    },
+    {
+      "file": "roadmaps/api-design/content/what-are-apis@r8M3quACGO2piu0u_R4hO.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:46:25.278455"
     }
   ],
-  "last_updated": "2026-08-15T01:35:22.668950",
+  "last_updated": "2026-08-15T01:46:25.280221",
   "total_translated_count": 54
 }

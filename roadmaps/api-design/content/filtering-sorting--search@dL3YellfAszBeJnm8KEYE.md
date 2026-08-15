@@ -1,8 +1,8 @@
-# Filtering, Sorting & Search
+# Filtro, Classificação e Busca
 
-Filtering, sorting, and search are query capabilities that let API consumers retrieve exactly the data they need rather than fetching everything and processing it client-side. Filtering narrows results by field values (?status=active), sorting orders them (?sort=created\_at&order=desc), and search allows freetext or fuzzy matching across fields. Designing these using predictable query parameter names and clearly documenting supported combinations is a significant part of API usability.
+O filtro, classificação e busca são capacidades de consulta que permitem aos consumidores de APIs recuperar exatamente os dados necessários em vez de buscar tudo e processá-los no cliente. O filtro reduz os resultados por valores de campo (?status=ativo), a classificação os ordena (?sort=created_at&order=desc) e a busca permite correspondências de texto livre ou fuzzy em campos. A designação dessas funcionalidades usando nomes de parâmetros de consulta previsíveis e a documentação clara das combinações suportadas é uma parte significativa da usabilidade da API.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@How to Implement Filtering and Sorting in REST APIs](https://oneuptime.com/blog/post/2026-01-26-rest-api-filtering-sorting/view)
-- [@article@Implement Search, Sort, Filter and Pagination Rest API With Node JS](https://www.youtube.com/watch?v=0T4GsMYnVN4)
+- [@artigo@Como Implementar Filtro e Classificação em APIs REST](https://oneuptime.com/blog/post/2026-01-26-rest-api-filtering-sorting/view)
+- [@vídeo@O que é Teste Funcional de API?](https://www.youtube.com/watch?v=0T4GsMYnVN4)

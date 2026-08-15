@@ -1,9 +1,9 @@
-# HTTP Headers in API Design
+# Cabeçalhos HTTP na Design de API
 
-HTTP Headers play a crucial role in API Design as they provide essential information between the client and server regarding the data to be exchanged. Headers are part of the HTTP request and response message, with types including Standard, Non-standard, Common or Uncommon headers. They can define parameters such as content type, authentication, response status, cookies, and more. Understanding and effectively utilizing HTTP Headers is key to designing robust and secure APIs. A well-defined set of headers ensures successful data exchange, handles errors gracefully, and improves overall communication between the client and server.
+Os cabeçalhos HTTP desempenham um papel crucial na design de API, fornecendo informações essenciais entre o cliente e o servidor sobre os dados a serem trocados. Os cabeçalhos fazem parte da mensagem de solicitação e resposta HTTP, com tipos incluindo Cabeçalhos Padrão, Não-Padrão, Comuns ou Incomuns. Eles podem definir parâmetros como tipo de conteúdo, autenticação, status de resposta, cookies e muito mais. Entender e utilizar efetivamente os cabeçalhos HTTP é fundamental para a criação de APIs robustas e seguras. Um conjunto bem definido de cabeçalhos garante o troco de dados com sucesso, lida com erros de forma graciosamente e melhora a comunicação geral entre cliente e servidor.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@HTTP Headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
-- [@article@What are HTTP Headers?](https://blog.postman.com/what-are-http-headers/)
-- [@article@What are HTTP Headers & Types of HTTP headers](https://requestly.com/blog/what-are-http-headers-understand-different-types-of-http-headers/)
+- [@artigo@Cabeçalhos HTTP](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Cabeçalhos)
+- [@artigo@O que são Cabeçalhos HTTP?](https://blog.postman.com/o-que-sao-http-headers/)
+- [@artigo@O que são Cabeçalhos HTTP e Tipos de Cabeçalhos HTTP](https://requestly.com/blog/o-que-sao-http-headers-compreenda-diferentes-tipos-de-cabeçalhos-http/)

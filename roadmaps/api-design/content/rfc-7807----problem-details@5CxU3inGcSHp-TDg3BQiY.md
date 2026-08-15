@@ -1,8 +1,8 @@
-# RFC 7807 - Problem Details for HTTP APIs in Error Handling
+# RFC 7807 - Detalhes de Problema para APIs HTTP em Tratamento de Erros
 
-The practice of API Design includes a significant focus on handling errors effectively and transparently. Among the widespread standards being adopted, the RFC 7807 or Problem Details for HTTP APIs plays a crucial role. This specification provides a standardized format for sending problem or error details from an HTTP API so developers engaging with the API do not need to parse non-standard error messages and can anticipate the structure of potential errors. In essence, RFC 7807 improves the usability and comprehension of your API, providing a better developer experience and encouraging the efficient use of your API. Implementing it paves the way to robust and accountable systems, where issues can be traced, identified, and solved more conveniently.
+A prática de Design de API inclui um foco significativo no tratamento eficaz e transparente de erros. Entre os padrões amplamente adotados, o RFC 7807 ou Detalhes de Problema para APIs HTTP desempenha um papel crucial. Esta especificação fornece um formato padrão para enviar detalhes de problema ou erro de uma API HTTP, de forma que os desenvolvedores interagindo com a API não precisem analisar mensagens de erro não padrão e possam prever a estrutura dos erros potenciais. Em essência, o RFC 7807 melhora a usabilidade e a compreensão da sua API, fornecendo uma melhor experiência para desenvolvedores e incentivando o uso eficiente da sua API. Implementá-lo abre caminho para sistemas robustos e responsáveis, onde problemas podem ser rastreados, identificados e resolvidos de maneira mais conveniente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@RFC 7807 - Problem Details for HTTP APIs](https://datatracker.ietf.org/doc/html/rfc7807)
-- [@article@RFC 9457 - Problem Details for HTTP APIs](https://www.rfc-editor.org/rfc/rfc9457.html)
+- [@article@RFC 7807 - Detalhes de Problema para APIs HTTP](https://datatracker.ietf.org/doc/html/rfc7807)
+- [@article@RFC 9457 - Detalhes de Problema para APIs HTTP](https://www.rfc-editor.org/rfc/rfc9457.html)

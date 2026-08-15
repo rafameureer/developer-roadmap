@@ -1,9 +1,9 @@
 # Swagger / Open API
 
-Swagger, also known as OpenAPI (not to be confused with OpenAI), is a set of tools specifically used for designing, building, and documenting RESTful Web services. API developers heavily rely on it due to its incredible feature for designing APIs with a clear and easy-to-understand approach. By utilizing the OpenAPI Specification (OAS), developers can accurately define a RESTful API that can easily be used across various programming languages. This powerful universal language is a key component for effective and efficient API design.
+Swagger, também conhecido como OpenAPI (não confunda com OpenAI), é um conjunto de ferramentas específicas para o design, construção e documentação de serviços Web RESTful. Desenvolvedores de APIs dependem fortemente dele devido à sua incrível funcionalidade para projetar APIs com uma abordagem clara e fácil de entender. Ao utilizar a Especificação OpenAPI (OAS), os desenvolvedores podem definir precisamente uma API REST que possa ser facilmente usada em várias linguagens de programação. Este poderoso idioma universal é um componente chave para o design eficaz e eficiente de APIs.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Swagger Website](https://swagger.io/)
-- [@official@OpenAPI Initiative](https://www.openapis.org/)
-- [@article@What is Swagger?](https://blog.hubspot.com/website/what-is-swagger)
+- [@oficial@Site do Swagger](https://swagger.io/)
+- [@oficial@Iniciativa OpenAPI](https://www.openapis.org/)
+- [@artigo@O que é Swagger?](https://blog.hubspot.com/website/what-is-swagger)

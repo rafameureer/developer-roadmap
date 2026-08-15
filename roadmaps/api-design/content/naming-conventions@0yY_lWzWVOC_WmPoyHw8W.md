@@ -1,8 +1,8 @@
-# Naming Conventions
+# Convenções de Nomenclatura
 
-Naming conventions are the rules you follow to keep your API's URLs, parameters, and field names consistent and predictable. This includes decisions like using plural nouns for collections (/users not /user), lowercase kebab-case for URLs, camelCase or snake\_case for JSON fields, and avoiding verbs in resource paths. Consistent naming reduces friction for developers consuming your API and signals that the API was designed deliberately rather than assembled ad hoc.
+As convenções de nomenclatura são as regras que você segue para manter suas URLs, parâmetros e nomes de campos da API consistentes e previsíveis. Isso inclui decisões como usar substantivos em plural para coleções (/users não /user), minúsculas kebab-case para URLs, camelCase ou snake\_case para campos JSON, e evitar verbos em caminhos de recursos. Convenções de nomenclatura consistentes reduzem a fricção para os desenvolvedores que consomem sua API e sinalizam que a API foi projetada deliberadamente, em vez de montada ad hoc.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@REST API URI Naming Conventions and Best Practices](https://restfulapi.net/resource-naming/)
-- [@video@Good APIs Vs Bad APIs: 7 Tips for API Design](https://www.youtube.com/watch?v=_gQaygjm_hg)
+- [@artigo@Convenções de Nomenclatura URI da API RESTful e Melhores Práticas](https://restfulapi.net/resource-naming/)
+- [@vídeo@Boas APIs vs Ruins APIs: 7 Dicas para a Engenharia de API](https://www.youtube.com/watch?v=_gQaygjm_hg)

@@ -1,8 +1,8 @@
-# HTTP Versions in API Design
+# Versões HTTP na Design de APIs
 
-HTTP or Hypertext Transfer Protocol is pivotal in the world of API design. HTTP versions specify how data should be packaged and transported, as well as how web servers and browsers should respond to commands. Understanding different HTTP versions and their features is essential for API designers as it directly impacts how well an API can communicate with other software and systems. From HTTP/1.0, the initial version of HTTP to HTTP/2 and the latest version HTTP/3, each version brings in improvements in speed, data transmission capabilities, and security. Selecting an appropriate HTTP version is crucial for API efficiency and performance.
+O HTTP ou Protocolo de Transferência de Hipertexto é crucial na área da design de APIs. As versões do HTTP especificam como os dados devem ser pacote e transportados, bem como como os servidores web e navegadores devem responder a comandos. Entender as diferentes versões do HTTP e suas características é essencial para designers de APIs, pois isso diretamente afeta como uma API pode se comunicar com outros softwares e sistemas. Desde o HTTP/1.0, a primeira versão do HTTP até o HTTP/2 e a última versão HTTP/3, cada versão traz melhorias em velocidade, capacidades de transmissão de dados e segurança. Selecionar uma versão HTTP adequada é crucial para a eficiência e desempenho da API.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Evolution of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP)
-- [@article@HTTP: 1.0 vs 1.1 vs 2.0 vs 3.0](https://www.baeldung.com/cs/http-versions)
+- [@artigo@Evolução do HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP)
+- [@artigo@HTTP: 1.0 vs 1.1 vs 2.0 vs 3.0](https://www.baeldung.com/cs/http-versions)

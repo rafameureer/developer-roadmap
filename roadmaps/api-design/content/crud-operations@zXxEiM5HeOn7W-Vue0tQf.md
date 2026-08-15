@@ -1,11 +1,11 @@
-# Handling CRUD Operations in API Design
+# Lidando com Operações CRUD na Design de APIs
 
-When designing APIs, one needs to account for various types of interactions with data - these typically revolve around the CRUD operations; Create, Read, Update, and Delete. Whether the API is designed for a banking app or a social media platform, the need to create new data, read or retrieve existing data, update or modify that data, and delete unnecessary data is universal.
+Ao projetar APIs, é necessário considerar diversos tipos de interações com os dados - esses geralmente envolvem as operações CRUD; Criar, Ler, Atualizar e Excluir. Seja a API projetada para um aplicativo bancário ou uma plataforma social, a necessidade de criar novos dados, ler ou recuperar dados existentes, atualizar ou modificar esses dados, e excluir dados desnecessários é universal.
 
-Therefore, mastering CRUD operations in API design is a fundamental skill. Effective handling of CRUD operations facilitates seamless interaction between the front-end and back-end systems, and ensures proper data management, thereby improving user experience.
+Portanto, dominar as operações CRUD na design de APIs é uma habilidade fundamental. O manejo eficaz das operações CRUD facilita a interação suave entre os sistemas front-end e back-end, e garante o gerenciamento adequado dos dados, melhorando assim a experiência do usuário.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Introduction to Building a CRUD API with Node.js and Express](https://www.split.io/blog/introduction-to-building-a-crud-api-with-node-js-and-express/)
-- [@article@An expert's guide to CRUD APIs](https://www.forestadmin.com/blog/an-experts-guide-to-crud-apis-designing-a-robust-one/)
-- [@article@Rethinking CRUD For REST API Designs - Palentir](https://blog.palantir.com/rethinking-crud-for-rest-api-designs-a2a8287dc2af)
+- [@artigo@Introdução à criação de uma API CRUD com Node.js e Express](https://www.split.io/blog/introduction-to-building-a-crud-api-with-node-js-and-express/)
+- [@artigo@Um guia expert sobre APIs CRUD](https://www.forestadmin.com/blog/an-experts-guide-to-crud-apis-designing-a-robust-one/)
+- [@artigo@Reconsiderando CRUD para designs de API REST - Palentir](https://blog.palantir.com/rethinking-crud-for-rest-api-designs-a2a8287dc2af)

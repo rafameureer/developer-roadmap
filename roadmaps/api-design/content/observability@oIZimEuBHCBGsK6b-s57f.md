@@ -1,8 +1,8 @@
-# Observability
+# Observabilidade
 
-Observability is the ability to understand what is happening inside a running API by examining the data it produces, such as logs, metrics, and traces. A highly observable API lets you answer questions like "why did this request fail", "where is the latency coming from", and "is this service degrading" without needing to reproduce the problem locally.
+A observabilidade é a capacidade de entender o que está acontecendo dentro de uma API em execução examinando os dados que ela produz, como logs, métricas e rastreamentos. Uma API altamente observável permite responder perguntas como "por que essa solicitação falhou", "de onde vem a latência" e "se esse serviço está degradando-se" sem precisar reproduzir o problema localmente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Understanding API Observability](https://medium.com/@shubhadeepchat/understanding-api-observability-cd0c61392dec)
-- [@video@Observability for APIs | Postman Intergalactic](https://www.youtube.com/watch?v=Wkng1VXQAaU&list=PLM-7VG-sgbtB5XIrXIWWaLPqPpjn7IoVC)
+- [@article@Entendendo Observabilidade da API](https://medium.com/@shubhadeepchat/understanding-api-observability-cd0c61392dec)
+- [@video@Observabilidade para APIs | Postman Intergalactic](https://www.youtube.com/watch?v=Wkng1VXQAaU&list=PLM-7VG-sgbtB5XIrXIWWaLPqPpjn7IoVC)

@@ -1,8 +1,8 @@
-# Unit Testing in API Design
+# Testes Unitários na Design de APIs
 
-Unit Testing, in the context of API design, refers to the process of testing the individual components or functions of an API independently to ensure that each part is working correctly. It is typically performed at the development stage. The chief goal of Unit Testing is to isolate each component and validate its correct operation, thereby increasing confidence in the stability of the API as a whole. It lays a solid foundation for integration testing and ultimately leads to reliable, bug-free APIs. Whether your API is RESTful, SOAP, or GraphQL, unit testing is a critical step in API design and development.
+Testes Unitários, no contexto da design de APIs, se refere ao processo de testar os componentes ou funções individuais de uma API independentemente para garantir que cada parte esteja funcionando corretamente. Geralmente são realizados durante a fase de desenvolvimento. O principal objetivo dos Testes Unitários é isolar cada componente e validar seu funcionamento correto, o que aumenta a confiança na estabilidade da API como um todo. Eles formam uma base sólida para os testes de integração e eventualmente levam a APIs confiáveis e sem bugs. Seja sua API RESTful, SOAP ou GraphQL, os testes unitários são um passo crucial na design e desenvolvimento de APIs.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@How to write unit tests for your REST API](https://medium.com/@oyetoketoby80/how-to-write-unit-test-for-your-rest-api-f8f71376273f)
-- [@article@Unit test a REST API](https://www.testim.io/blog/unit-test-rest-api/)
+- [@article@Como escrever testes unitários para sua API REST](https://medium.com/@oyetoketoby80/how-to-write-unit-test-for-your-rest-api-f8f71376273f)
+- [@article@Teste de unidade de uma API REST](https://www.testim.io/blog/unit-test-rest-api/)

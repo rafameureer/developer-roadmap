@@ -1,8 +1,8 @@
-# Batch Processing in API Design
+# Processamento em Lote na Design de API
 
-Batch Processing refers to the method of handling bulk data requests in API design. Here, multiple API requests are packed and processed as a single group or 'batch'. Instead of making numerous individual API calls, a user can make one batch request with numerous operations. This approach can increase performance and efficiency by reducing the overhead of establishing and closing multiple connections. The concept of 'batch processing' in API design is particularly useful in data-intensive applications or systems where the need for processing high volumes of data is prevalent.
+O Processamento em Lote refere-se ao método de lidar com solicitações de dados em massa na design de API. Aqui, múltiplas solicitações de API são agrupadas e processadas como um único grupo ou 'lote'. Em vez de fazer várias chamadas individuais à API, um usuário pode fazer uma única solicitação em lote com várias operações. Este abordagem pode aumentar o desempenho e a eficiência reduzindo o overhead de estabelecer e fechar múltiplas conexões. O conceito de 'processamento em lote' na design de API é particularmente útil em aplicações ou sistemas intensivos em dados onde há uma necessidade prevalente de processar grandes volumes de dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@API Design Guidance: Bulk vs Batch Import](https://tyk.io/blog/api-design-guidance-bulk-and-batch-import/)
-- [@video@Stream vs Batch Processing Explained with Examples](https://www.youtube.com/watch?v=1xgBQTF24mU)
+- [@artigo@Diretrizes de Design de API: Lote vs Importação em Lote](https://tyk.io/blog/api-design-guidance-bulk-and-batch-import/)
+- [@vídeo@Stream vs Processamento em Lote Explicado com Exemplos](https://www.youtube.com/watch?v=1xgBQTF24mU)

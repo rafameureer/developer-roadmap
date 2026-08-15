@@ -1,9 +1,9 @@
-# API Gateways
+# Portais de API
 
-API Gateways act as the main point of entry in a microservices architecture, often responsible for request routing, composition, and protocol translation. They play a significant role in API design by providing a shared layer to handle non-business tasks. This not only simplifies how consumers interact with the backend services but also helps in maintaining the security, enforcing policies, and providing analytics over the API usage. When designing APIs, understanding and implementing efficient API Gateways is an invaluable skill, as these gateways form a crucial component of any well-structured, scalable API architecture.
+Os Portais de API desempenham o papel de ponto de entrada principal em uma arquitetura de microserviços, frequentemente responsável por roteamento de solicitações, composição e tradução de protocolos. Eles desempenham um papel significativo na designação de APIs ao fornecer uma camada compartilhada para lidar com tarefas não relacionadas à negócios. Isso não só simplifica como os consumidores interagem com os serviços de back-end, mas também ajuda a manter a segurança, aplicar políticas e fornecer análises sobre o uso da API. Ao projetar APIs, entender e implementar portais de API eficientes é uma habilidade valiosa, pois essas portais formam um componente crucial de qualquer arquitetura de API estruturada e escalável.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What does an API Gateway do?](https://www.redhat.com/en/topics/api/what-does-an-api-gateway-do)
-- [@article@API gateway vs. Load balancer: Do you need one or both?](https://roadmap.sh/network-engineer/api-gateway-vs-load-balancer)
-- [@article@What are API Gateways?](https://www.ibm.com/blog/api-gateway/)
+- [@artigo@O que faz um Portal de API?](https://www.redhat.com/en/topics/api/what-does-an-api-gateway-do)
+- [@artigo@Portal de API vs. Balanceador de Carga: Você precisa de um ou ambos?](https://roadmap.sh/network-engineer/api-gateway-vs-load-balancer)
+- [@artigo@O que são Portais de API?](https://www.ibm.com/blog/api-gateway/)

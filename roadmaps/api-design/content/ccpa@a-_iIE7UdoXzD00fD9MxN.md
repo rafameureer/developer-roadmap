@@ -1,8 +1,8 @@
 # CCPA Under Standards and Compliance in API Design
 
-The California Consumer Privacy Act (CCPA) is a pivotal state statute meant to enhance privacy rights and consumer protection for individuals within California, United States. API Design greatly impacts compliance with CCPA, as improper management and exposure of user data can potentially violate this law. Crucially, designing APIs means considering data privacy, security, and user consent from the very foundation. Programmatically, CCPA compliance may involve structuring APIs to respond to user demands such as data access, data deletion, and opt-out requests. It imposes a significant responsibility on API developers to enforce user control over data and maintain rigorous standards of data protection.
+A Lei de Privacidade do Consumidor da Califórnia (CCPA) é uma lei estadual crucial projetada para melhorar os direitos de privacidade e a proteção dos consumidores para indivíduos na Califórnia, Estados Unidos. A designação de APIs tem um impacto significativo na conformidade com a CCPA, pois o gerenciamento inadequado e a exposição de dados do usuário podem potencialmente violar esta lei. Crucialmente, projetar APIs significa considerar a privacidade dos dados, a segurança e o consentimento do usuário desde a base. Programaticamente, a conformidade com a CCPA pode envolver estruturar APIs para responder às demandas do usuário, como acesso a dados, exclusão de dados e solicitações de opt-out. Impõe uma responsabilidade significativa aos desenvolvedores de APIs em garantir o controle do usuário sobre os dados e manter padrões rigorosos de proteção dos dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@California Consumer Privacy Act (CCPA)](https://oag.ca.gov/privacy/ccpa)
-- [@article@What is the CCPA?](https://www.cloudflare.com/en-gb/learning/privacy/what-is-the-ccpa/)
+- [@official@Lei de Privacidade do Consumidor da Califórnia (CCPA)](https://oag.ca.gov/privacy/ccpa)
+- [@article@O que é a CCPA?](https://www.cloudflare.com/en-gb/learning/privacy/what-is-the-ccpa/)

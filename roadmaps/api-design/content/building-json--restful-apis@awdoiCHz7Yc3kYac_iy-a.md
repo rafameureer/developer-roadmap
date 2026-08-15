@@ -1,9 +1,9 @@
-# Building JSON / RESTful APIs
+# Construindo APIs JSON / RESTful
 
-Building JSON/RESTful APIs involves designing and implementing APIs that adhere to the architectural constraints of Representational State Transfer (REST). These APIs use JSON (JavaScript Object Notation) as a format for information interchange, due to its lightweight, easy-to-understand, and universally accepted nature. A well-designed RESTful API, utilizing JSON, is key in developing applications that are scalable, maintainable, and easily integrated with other systems. This design approach enables the resources on a server to be accessed and manipulated using standard HTTP protocols, facilitating communication between different services and systems. Furthermore, it enables client-server interactions to be stateless, meaning each request from a client must contain all the information needed by the server to understand and process the request.
+A construção de APIs JSON/RESTful envolve o design e a implementação de APIs que sejam compatíveis com as restrições arquitetônicas do Transferência de Estado Representacional (REST). Essas APIs usam JSON (JavaScript Object Notation) como um formato para a troca de informações, devido à sua natureza leve, fácil de entender e universalmente aceita. Um bom design de API RESTful, utilizando JSON, é crucial para desenvolver aplicativos escaláveis, manter e facilmente integrados com outros sistemas. Esse método de design permite que os recursos em um servidor sejam acessados e manipulados usando protocolos HTTP padrão, facilitando a comunicação entre diferentes serviços e sistemas. Além disso, ele habilita as interações cliente-servidor a serem sem estado, o que significa que cada solicitação do cliente deve conter toda a informação necessária pelo servidor para entender e processar a solicitação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Specification for Building APIs in JSON](https://jsonapi.org/)
-- [@article@How to Make a RESTful API](https://www.integrate.io/blog/how-to-make-a-rest-api/)
-- [@video@What is a REST API?](https://www.youtube.com/watch?v=lsMQRaeKNDk&t=170s)
+- [@oficial@Especificação para Construir APIs em JSON](https://jsonapi.org/)
+- [@artigo@Como Criar uma API RESTful](https://www.integrate.io/blog/how-to-make-a-rest-api/)
+- [@vídeo@O que é uma API REST?](https://www.youtube.com/watch?v=lsMQRaeKNDk&t=170s)

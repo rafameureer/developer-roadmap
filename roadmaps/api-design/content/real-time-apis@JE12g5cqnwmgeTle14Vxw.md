@@ -1,8 +1,8 @@
-# Real-time APIs
+# APIs em Tempo Real
 
-In the realm of API Design, Real-time APIs hold significant value as they provide immediate access to the latest data as soon as they become available. Rather than relying on periodic polling for updates, Real-time APIs maintain an open connection between the client and the server which allows immediate, bi-directional data flow. These APIs are commonly used in applications which require real-time information such as live chat programs, financial trading platforms or online multiplayer games. Designing such APIs requires careful consideration of factors such as connection management, data consistency, and efficient handling of high volume data streams.
+No campo do Design de API, as APIs em Tempo Real têm valor significativo, pois fornecem acesso imediato aos dados mais recentes assim que eles se tornam disponíveis. Em vez de depender de sondagens periódicas para atualizações, as APIs em Tempo Real mantêm uma conexão aberta entre o cliente e o servidor, permitindo um fluxo de dados bidirecional imediato. Essas APIs são comumente usadas em aplicativos que requerem informações em tempo real, como programas de chat em tempo real, plataformas de negociação financeira ou jogos multiplayer online. A designação dessas APIs exige uma consideração cuidadosa dos fatores como gerenciamento de conexão, consistência de dados e tratamento eficiente de fluxos de dados de alta volume.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What are Realtime APIs?](https://www.pubnub.com/guides/realtime-api/)
-- [@article@What are realtime APIs and when to use them?](https://ably.com/topic/what-is-a-realtime-api)
+- [@artigo@O que são APIs em Tempo Real?](https://www.pubnub.com/guides/realtime-api/)
+- [@artigo@O que são APIs em Tempo Real e quando usar?](https://ably.com/topic/what-is-a-realtime-api)

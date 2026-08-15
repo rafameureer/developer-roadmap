@@ -1,7 +1,7 @@
-# Scopes & Permissions
+# Escopos e Permissões
 
-Scopes are labels attached to an API key or access token that declare what actions it is allowed to perform. Rather than a single all-or-nothing key, scopes let you issue credentials with fine-grained access. For example, a key with orders:read can fetch orders but not create or delete them. This follows the principle of least privilege and limits the blast radius if a key is leaked. Scopes are a core concept in OAuth 2.0 and are equally applicable to plain API key systems.
+Escopos são rótulos anexados a uma chave de API ou token de acesso que declaram quais ações ele é permitido realizar. Em vez de uma única chave all-or-nothing, os escopos permitem emitir credenciais com acesso granular. Por exemplo, uma chave com orders:read pode buscar pedidos, mas não criar ou deletar. Isso segue o princípio da menor privilégio e limita a área de impacto se uma chave for vazada. Os escopos são um conceito fundamental no OAuth 2.0 e são igualmente aplicáveis aos sistemas simples de chave de API.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What are REST API Scopes?](https://auth0.com/blog/permissions-privileges-and-scopes/)
+- [@article@O que são Escopos de API REST?](https://auth0.com/blog/permissions-privileges-and-scopes/)

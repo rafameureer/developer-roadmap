@@ -1,9 +1,9 @@
-# API Documentation Tools
+# Ferramentas de Documentação de API
 
-API Documentation Tools are instrumental in conveying the intricacies of API design to both technical developers and non-technical stakeholders. These tools help in creating comprehensive, easy-to-understand, and searchable documentation encompassing all the elements of an API such as its functions, classes, return types, arguments, and more. Thorough documentation is central in API design as it fosters seamless adoption, effective implementation, and efficient troubleshooting of APIs. Various tools exist including Swagger, DapperDox, and ReDoc, each with unique functionalities to suit different API documentation requirements.
+As Ferramentas de Documentação de API são essenciais para transmitir as complexidades da designação de APIs tanto a desenvolvedores técnicos quanto a interessados não técnicos. Essas ferramentas ajudam na criação de documentações abrangentes, fáceis de entender e pesquisáveis que cobrem todos os elementos de uma API, como suas funções, classes, tipos de retorno, argumentos e mais. Uma documentação adequada é central na designação de APIs, pois promove a adoção suave, a implementação eficaz e o diagnóstico eficiente das APIs. Várias ferramentas existem, incluindo Swagger, DapperDox e ReDoc, cada uma com funcionalidades únicas para atender diferentes requisitos de documentação de API.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Swagger's Official Website](https://swagger.io/)
-- [@article@DapperDox's Official Website](http://dapperdox.io/)
-- [@article@ReDoc Documentation](https://github.com/Redocly/redoc)
+- [@artigo@Site Oficial do Swagger](https://swagger.io/)
+- [@artigo@Site Oficial do DapperDox](http://dapperdox.io/)
+- [@artigo@Documentação do ReDoc](https://github.com/Redocly/redoc)

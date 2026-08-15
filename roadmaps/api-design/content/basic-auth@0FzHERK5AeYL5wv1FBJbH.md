@@ -1,10 +1,10 @@
-# Basic Auth in API Design
+# Autenticação Básica em Design de API
 
-Basic Auth, short for Basic Authentication, is a simple method often used in API design for handling user authentication. In this method, client credentials, consisting of a username and password pair, are passed to the API server in a field in the HTTP header. The server then verifies these credentials before granting access to protected resources. Although Basic Auth is straightforward to implement, it is less secure compared to more advanced methods since it involves transmitting credentials in an encoded, but not encrypted, format. It is often used in cases where simplicity is paramount, or High security levels are not required.
+Autenticação Básica, ou Autenticação Simples, é um método simplesmente usado no design de API para lidar com a autenticação do usuário. Neste método, as credenciais do cliente, composta por um par de nome de usuário e senha, são passadas ao servidor da API em um campo na cabeçalho HTTP. O servidor então verifica essas credenciais antes de conceder acesso aos recursos protegidos. Apesar de a Autenticação Básica ser fácil de implementar, ela é menos segura em comparação com métodos mais avançados, pois envolve o transmissão das credenciais em um formato codificado, mas não criptografado. Ela é frequentemente usada em casos onde simplicidade é primordial ou níveis altos de segurança não são necessários.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Basic Authentication](https://roadmap.sh/guides/basic-authentication)
-- [@article@Basic Auth Generation Header](https://www.debugbear.com/basic-auth-header-generator)
-- [@article@Basic Authentication - Swagger.io](https://swagger.io/docs/specification/authentication/basic-authentication/)
-- [@article@Basic Authentication - Twillio](https://www.twilio.com/docs/glossary/what-is-basic-authentication)
+- [@roadmap@Autenticação Básica](https://roadmap.sh/guides/basic-authentication)
+- [@artigo@Geração do Cabeçalho de Autenticação Básica](https://www.debugbear.com/basic-auth-header-generator)
+- [@artigo@Autenticação Básica - Swagger.io](https://swagger.io/docs/specification/authentication/basic-authentication/)
+- [@artigo@Autenticação Básica - Twilio](https://www.twilio.com/docs/glossary/what-is-basic-authentication)

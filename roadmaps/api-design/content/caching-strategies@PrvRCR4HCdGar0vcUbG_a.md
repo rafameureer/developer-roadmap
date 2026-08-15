@@ -1,9 +1,9 @@
-# Caching Strategies in API Design
+# Estratégias de Cache em Design de API
 
-Caching in API design serves as a technique that allows you to store copies of data temporarily in places where you can access it more readily. By obtaining this data from high-speed storage rather than slower storage sources, you can help improve the overall speed and performance of the API. Multiple strategies such as HTTP caching, database caching, application caching, and CDN caching can be implemented, each with its own sets of advantages and considerations. Understanding different caching strategies in the context of API design is crucial for designing efficient, high-performing APIs.
+O cache em design de API serve como uma técnica que permite armazenar cópias de dados temporariamente em locais onde você pode acessá-los mais rapidamente. Ao obter esses dados de armazenamento de alta velocidade em vez de fontes de armazenamento mais lentas, você ajuda a melhorar o desempenho geral da API. Várias estratégias como cache HTTP, cache de banco de dados, cache de aplicativo e cache CDN podem ser implementadas, cada uma com seus próprios conjuntos de vantagens e considerações. Entender diferentes estratégias de cache no contexto do design de API é crucial para projetar APIs eficientes e de alto desempenho.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Caching Strategies for APIs](https://medium.com/@satyendra.jaiswal/caching-strategies-for-apis-improving-performance-and-reducing-load-1d4bd2df2b44)
-- [@article@Using Caching Strategies to Improve API Performance](https://www.lonti.com/blog/using-caching-strategies-to-improve-api-performance)
-- [@video@Cache Systems Every Developer Should Know](https://www.youtube.com/watch?v=dGAgxozNWFE)
+- [@artigo@Estratégias de Cache para APIs](https://medium.com/@satyendra.jaiswal/caching-strategies-for-apis-improving-performance-and-reducing-load-1d4bd2df2b44)
+- [@artigo@Usando Estratégias de Cache para Melhorar o Desempenho da API](https://www.lonti.com/blog/using-caching-strategies-to-improve-api-performance)
+- [@vídeo@Sistemas de Cache que Todos os Desenvolvedores Devem Conhecer](https://www.youtube.com/watch?v=dGAgxozNWFE)

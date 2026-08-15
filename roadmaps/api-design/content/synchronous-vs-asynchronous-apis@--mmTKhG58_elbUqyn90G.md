@@ -1,11 +1,11 @@
-# Synchronous vs Asynchronous APIs
+# Síncrono vs Assíncrono em APIs
 
-When designing APIs, one critical decision is whether to create a synchronous or asynchronous API. Synchronous APIs are those that hold a connection open and wait for a response before moving on, hence operating in a sequential manner. This can lead to efficient, simple-to-understand coding but can pose performance issues when dealing with long tasks since the caller has to wait until the process finishes.
+Quando projetar APIs, uma decisão crítica é decidir se criar uma API síncrona ou assíncrona. As APIs síncronas são aquelas que mantêm uma conexão aberta e esperam por uma resposta antes de prosseguir, portanto, operando em sequência. Isso pode levar a codificação eficiente e simples de entender, mas pode causar problemas de desempenho ao lidar com tarefas longas, pois o chamador tem que esperar até que o processo termine.
 
-On the other hand, Asynchronous APIs do not wait for a response before moving on to the next task, allowing multiple operations to be executed simultaneously. This can result in improved performance and responsiveness especially in applications that need to handle multiple requests concurrently. However, coding for asynchronous APIs can be complex due to issues such as race conditions and callbacks. Understanding the differences between these two types of API design is crucial for creating efficient and effective APIs.
+Por outro lado, as APIs assíncronas não esperam por uma resposta antes de prosseguir para a próxima tarefa, permitindo que várias operações sejam executadas simultaneamente. Isso pode resultar em melhor desempenho e resposta especialmente em aplicativos que precisam lidar com múltiplas solicitações simultaneamente. No entanto, codificar para APIs assíncronas pode ser complexo devido a problemas como condições de corrida e callbacks. Entender as diferenças entre esses dois tipos de design de API é crucial para criar APIs eficientes e eficazes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Asynchronous APIs — Everything You Need to Know](https://blog.hubspot.com/website/asynchronous-api)
-- [@article@The Differences Between Synchronous and Asynchronous APIs](https://nordicapis.com/the-differences-between-synchronous-and-asynchronous-apis/)
-- [@article@Understanding Asynchronous APIs](https://blog.postman.com/understanding-asynchronous-apis/)
+- [@artigo@APIs Assíncronas — Tudo o Que Você Precisa Saber](https://blog.hubspot.com/website/asynchronous-api)
+- [@artigo@As Diferenças entre APIs Síncronas e Assíncronas](https://nordicapis.com/the-differences-between-synchronous-and-asynchronous-apis/)
+- [@artigo@Compreendendo APIs Assíncronas](https://blog.postman.com/understanding-asynchronous-apis/)

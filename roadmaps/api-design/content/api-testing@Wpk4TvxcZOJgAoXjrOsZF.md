@@ -1,8 +1,8 @@
-# API Testing
+# Testes de API
 
-API Testing refers to the process of checking the functionality, reliability, performance, and security of Application Programming Interfaces (APIs). It plays a crucial role in API design as it ensures that the APIs work correctly and as expected. This kind of testing does not require a user interface and mainly focuses on the business logic layer of the software architecture. API Testing is integral to guarantee that the data communication and responses between different software systems are error-free and streamlined.
+Testes de API se referem ao processo de verificar a funcionalidade, confiabilidade, desempenho e segurança das Interfaces de Programação de Aplicativos (APIs). Desempenham um papel crucial no design de APIs garantindo que as APIs funcionem corretamente e como esperado. Este tipo de teste não requer uma interface do usuário e se concentra principalmente na camada lógica de negócios da arquitetura de software. Os testes de API são essenciais para garantir que a comunicação de dados e as respostas entre diferentes sistemas de software sejam livres de erros e otimizadas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is API Testing?](https://www.postman.com/api-platform/api-testing/)
-- [@article@API Testing : What It is, How to Test & Best Practices](https://testsigma.com/guides/api-testing/)
+- [@artigo@O Que é Teste de API?](https://www.postman.com/api-platform/api-testing/)
+- [@artigo@Teste de API: O que É, Como Fazer e Melhores Práticas](https://testsigma.com/guides/api-testing/)

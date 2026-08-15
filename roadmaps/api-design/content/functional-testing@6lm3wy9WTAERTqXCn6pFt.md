@@ -1,8 +1,8 @@
-# Functional Testing in API Design
+# Testes Funcionais na Designação de APIs
 
-Functional testing in the context of API design involves validating the endpoints and key-value pairs of an API. It ensures the server response works as expected and assesses the functionality of the API whether it is performing all the intended functions correctly. Various approaches like testing request-response pairs, error codes, and data accuracy are used. Functional testing can provide invaluable insights into how well an API meets the specified requirements and whether it is ready for integration into applications.
+Os testes funcionais no contexto da designação de API envolvem a validação dos endpoints e pares chave-valor de uma API. Garantem que a resposta do servidor funcione conforme o esperado e avaliam a funcionalidade da API, verificando se ela está executando todas as funções intencionalmente corretamente. Vários métodos como testar pares de solicitação-resposta, códigos de erro e precisão dos dados são utilizados. Os testes funcionais podem fornecer insights valiosos sobre o quão bem uma API atende aos requisitos especificados e se está pronta para ser integrada em aplicativos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@API Functional Testing – Why Is It Important And How to Test](https://testsigma.com/blog/api-functional-testing/)
-- [@video@What Is API Functional Testing?](https://www.youtube.com/watch?v=CvJHDKMWofk)
+- [@artigo@Teste Funcional de API – Por que é Importante e Como Testar](https://testsigma.com/blog/api-functional-testing/)
+- [@vídeo@O que é Teste Funcional de API?](https://www.youtube.com/watch?v=CvJHDKMWofk)

@@ -1,8 +1,8 @@
-# Different API Styles
+# Estilos Diferentes de API
 
-Application Programming Interface (API) design isn't a one-size-fits-all endeavor. APIs can be structured in various styles, each with its own unique characteristics, advantages, and use cases. Early identification of the appropriate API style is crucial in ensuring a functional, efficient and seamless end-user experience. Commonly used API styles include REST, SOAP, GraphQL, and gRPC. Understanding these diverse API styles would help in making better design choices, fostering efficient overall system architecture, and promoting an intuitive and easy-to-use application.
+A Programação de Interface de Aplicativos (API) não é um esforço que se encaixe em todos os lugares. As APIs podem ser estruturadas em diversos estilos, cada um com suas próprias características únicas, vantagens e casos de uso. A identificação precoce do estilo de API apropriado é crucial para garantir uma experiência de usuário funcional, eficiente e suave. Estilos de API comumente usados incluem REST, SOAP, GraphQL e gRPC. Compreender esses diversos estilos de API ajudará na tomada de melhores escolhas de design, promovendo uma arquitetura de sistema global eficiente e uma aplicação intuitiva e fácil de usar.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@API Styles](https://www.redhat.com/architect/api-styles)
-- [@video@Top API Styles](https://www.youtube.com/watch?v=4vLxWqE94l4)
+- [@artigo@Estilos de API](https://www.redhat.com/architect/api-styles)
+- [@vídeo@Top Estilos de API](https://www.youtube.com/watch?v=4vLxWqE94l4)

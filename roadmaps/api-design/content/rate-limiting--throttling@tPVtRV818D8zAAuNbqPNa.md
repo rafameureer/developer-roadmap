@@ -1,9 +1,9 @@
-# Rate Limiting / Throttling in API Design
+# Limitação de Taxa / Throttling na Design de API
 
-Rate Limiting, often referred to as Throttling, is a fundamental aspect of API Design aimed at controlling the number of requests a client can make to an API within a specified timeframe. This technique ensures fair usage, enhances security, prevents server overload, and allows an even distribution of resources. It also minimizes the risks associated with abusive behaviors or DDoS attacks. Effective rate limiting strategy involves defining the limits based on the API's capacity and clients' reasonable needs, with flexibility to tweak these limits when necessary. Understanding rate limiting and its significance is crucial for building resilient, secure, and scalable API platforms.
+A Limitação de Taxa, frequentemente chamada de Throttling, é um aspecto fundamental da Design de API com o objetivo de controlar o número de solicitações que um cliente pode fazer a uma API em um período de tempo especificado. Esta técnica garante o uso equânime, melhora a segurança, previne sobrecarga do servidor e permite uma distribuição uniforme dos recursos. Ela também minimiza os riscos associados a comportamentos abusivos ou ataques DDoS. Uma estratégia eficaz de limitação de taxa envolve definir os limites com base na capacidade da API e nas necessidades razoáveis dos clientes, com flexibilidade para ajustar esses limites conforme necessário. Compreender a limitação de taxa e seu significado é crucial para construir plataformas de API resilientes, seguras e escaláveis.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@API Management 101: Rate Limiting](https://tyk.io/learning-center/api-rate-limiting/)
-- [@article@API Rate Limiting vs. Throttling](https://blog.stoplight.io/best-practices-api-rate-limiting-vs-throttling)
-- [@video@What is Rate Limiting / API Throttling? | System Design Concepts](https://www.youtube.com/watch?v=9CIjoWPwAhU)
+- [@artigo@Gerenciamento de API 101: Limitação de Taxa](https://tyk.io/learning-center/api-rate-limiting/)
+- [@artigo@Limitação de Taxa de API vs. Throttling](https://blog.stoplight.io/best-practices-api-rate-limiting-vs-throttling)
+- [@vídeo@O que é Limitação de Taxa / Throttling de API? | Conceitos de Design de Sistema](https://www.youtube.com/watch?v=9CIjoWPwAhU)

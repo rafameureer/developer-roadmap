@@ -1,8 +1,8 @@
-# Common Vulnerabilities in API Design
+# Vulnerabilidades Comuns na Designação de APIs
 
-API design is a critical component of modern software development, enabling various applications to communicate and share data. However, as the use of APIs expands, so does the potential for security vulnerabilities. Understanding common vulnerabilities in API design is crucial to protecting sensitive data and maintaining a secure system. These vulnerabilities might arise due to lack of proper validation, weak authentication mechanisms, insecure endpoint configurations among others.
+A designação de APIs é um componente crítico do desenvolvimento de software moderno, permitindo que várias aplicações se comuniquem e compartilhem dados. No entanto, conforme o uso de APIs expande, também aumenta a possibilidade de vulnerabilidades de segurança. Entender as vulnerabilidades comuns na designação de APIs é crucial para proteger dados sensíveis e manter um sistema seguro. Essas vulnerabilidades podem surgir devido à falta de validação adequada, mecanismos de autenticação fracos, configurações de endpoints inseguras entre outros.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Top 10 API Security Vulnerabilities](https://curity.io/resources/learn/owasp-top-ten/)
-- [@article@Top API Vulnerabilities and 6 Ways to Mitigate Them](https://brightsec.com/blog/top-api-vulnerabilities-and-6-ways-to-mitigate-them/)
+- [@article@As 10 principais vulnerabilidades de segurança em APIs](https://curity.io/resources/learn/owasp-top-ten/)
+- [@article@As 10 principais vulnerabilidades em APIs e 6 maneiras de mitigá-las](https://brightsec.com/blog/top-api-vulnerabilities-and-6-ways-to-mitigate-them/)

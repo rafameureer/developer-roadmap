@@ -1,7 +1,7 @@
-# Authentication Methods in API Design
+# Métodos de Autenticação em Design de API
 
-Application Programming Interfaces (APIs) are critical components in software development that allow different software systems to communicate and share functionality. To ensure secure communication, it's essential to authenticate the parties involved in the API transactions. The authentication process confirms the identity of the API user. There are numerous authentication methods available when designing an API, each with its own pros and cons. This includes Basic Authentication, API Key Authentication, OAuth, and JWT among others. Understanding these different methods and their best use cases is fundamental to designing secure and effective APIs.
+As Interfaces de Programação de Aplicativos (APIs) são componentes cruciais no desenvolvimento de software que permitem que diferentes sistemas de software se comuniquem e compartilhem funcionalidades. Para garantir a comunicação segura, é essencial autenticar as partes envolvidas nas transações da API. O processo de autenticação confirma a identidade do usuário da API. Há várias métodos de autenticação disponíveis ao projetar uma API, cada um com seus próprios prós e contras. Isso inclui Autenticação Básica, Autenticação por Chave da API, OAuth e JWT entre outros. Entender esses diferentes métodos e os melhores casos de uso é fundamental para projetar APIs seguras e eficazes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@API Authentication](https://www.postman.com/api-platform/api-authentication/)
+- [@artigo@Autenticação de API](https://www.postman.com/api-platform/api-authentication/)

@@ -1,7 +1,8 @@
-# Authorization Methods in API Design
+# Métodos de Autorização em Design de API
 
-In API design, authorization methods play a crucial role in ensuring the security and integrity of data transactions. They are the mechanisms through which an API identifies and validates a user, system, or application before granting them access to specific resources. These methods include Basic Authentication, OAuth, Token-based authentication, JSON Web Tokens (JWT), and API Key based, among others. So, understanding these methods enhances the ability to design APIs that effectively protect resources while allowing necessary access. Each method has its own pros and cons, usage scenarios and security features that make them more suitable for certain situations rather than others.
+No design de API, os métodos de autorização desempenham um papel crucial na garantia da segurança e integridade das transações de dados. Eles são os mecanismos pelos quais uma API identifica e valida um usuário, sistema ou aplicativo antes de concedê-los acesso a recursos específicos. Esses métodos incluem Autenticação Básica, OAuth, Autenticação baseada em Token, Tokens Web JSON (JWT) e Autenticação baseada em Chave da API, entre outros. Portanto, entender esses métodos melhora a capacidade de projetar APIs que protegem efetivamente recursos enquanto permitem o acesso necessário. Cada método tem seus próprios prós e contras, cenários de uso e características de segurança que os tornam mais adequados para certas situações do que outras.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@API Authorization Methods](https://www.pingidentity.com/en/resources/identity-fundamentals/authorization/authorization-methods.html)
+- [@roadmap@Métodos de Autorização](https://roadmap.sh/guides/authorization-methods)
+- [@artigo@Métodos de Autorização de API](https://www.pingidentity.com/en/resources/identity-fundamentals/authorization/authorization-methods.html)

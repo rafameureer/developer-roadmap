@@ -1,9 +1,9 @@
-# Error Handling in API Design
+# Tratamento de Erros na Design de API
 
-Error Handling is a crucial aspect of API design that ensures the stability, usability, and reliability of the API in production. APIs are designed to help systems communicate with each other. However, there can be instances where these systems might encounter exceptions or errors. The process of predicting, catching, and managing these error occurrences is what we refer to as 'Error Handling'. In the context of API Design, it involves defining and implementing specific strategies to detect, manage and inform consumers of any exception or error that occurs while executing requests. Configuring this appropriately provides a more robust and seamless communication experience, enabling developers to debug and rectify issues more efficiently.
+O Tratamento de Erros é um aspecto crucial da design de API que garante a estabilidade, usabilidade e confiabilidade da API em produção. As APIs são projetadas para ajudar sistemas a se comunicarem entre si. No entanto, pode haver casos em que esses sistemas possam encontrar exceções ou erros. O processo de prever, capturar e gerenciar essas ocorrências de erro é o que chamamos de 'Tratamento de Erros'. No contexto da design de API, envolve definir e implementar estratégias específicas para detectar, gerenciar e informar aos consumidores quaisquer exceções ou erros que ocorram durante a execução das solicitações. Configurar isso adequadamente fornece uma comunicação mais robusta e suave, permitindo que os desenvolvedores debuguem e corrijam problemas de maneira mais eficiente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Best Practices for API Error Handling](https://blog.postman.com/best-practices-for-api-error-handling/)
-- [@article@Best Practices for REST API Error Handling](https://www.baeldung.com/rest-api-error-handling-best-practices)
-- [@video@Handling HTTP API Errors with Problem Details](https://www.youtube.com/watch?v=uvTT_0hqhyY)
+- [@artigo@Melhores práticas para o tratamento de erros em API](https://blog.postman.com/best-practices-for-api-error-handling/)
+- [@artigo@Melhores práticas para o tratamento de erros em REST API](https://www.baeldung.com/rest-api-error-handling-best-practices)
+- [@vídeo@Tratando erros HTTP da API com detalhes do problema](https://www.youtube.com/watch?v=uvTT_0hqhyY)

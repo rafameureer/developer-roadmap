@@ -1,9 +1,9 @@
-# Discretionary Access Control (DAC)
+# Controle de Acesso Discrecionário (DAC)
 
-Discretionary Access Control (DAC) is an access control model where access to resources is determined by the owner of the resource. The owner has the discretion to grant or deny access to other users or groups. This means that users can control who has access to the resources they own, allowing for flexible and personalized access management.
+Controle de Acesso Discrecionário (DAC) é um modelo de controle de acesso onde o acesso aos recursos é determinado pelo proprietário do recurso. O proprietário tem a discreção para conceder ou negar acesso a outros usuários ou grupos. Isso significa que os usuários podem controlar quem tem acesso aos recursos que possuem, permitindo um gerenciamento de acesso flexível e personalizado.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Guide to Discretionary Access Control (DAC) With Examples](https://builtin.com/articles/discretionary-access-control)
-- [@article@Discretionary Access Control (DAC)](https://www.caldersecurity.co.uk/discretionary-access-control-dac/)
-- [@video@Discretionary Access Control](https://www.youtube.com/watch?v=KyCamjQd0Mk)
+- [@artigo@Guia sobre Controle de Acesso Discrecionário (DAC) com exemplos](https://builtin.com/articles/discretionary-access-control)
+- [@artigo@Controle de Acesso Discrecionário (DAC)](https://www.caldersecurity.co.uk/discretionary-access-control-dac/)
+- [@vídeo@Controle de Acesso Discrecionário](https://www.youtube.com/watch?v=KyCamjQd0Mk)

@@ -1,13 +1,13 @@
-# Session Based Authentication in API Design
+# Autenticação Baseada em Sessão na Design de APIs
 
-Application Programming Interfaces (APIs) are critical for building software applications. Among several key considerations during API design, one is deciding how to implement authentication and security. Session Based Authentication is one popular way to apply security in API design.
+As Interfaces de Programação de Aplicativos (APIs) são cruciais para a construção de aplicativos de software. Entre várias considerações importantes durante a design de API, uma delas é decidir como implementar autenticação e segurança. A Autenticação Baseada em Sessão é um método popular para aplicar segurança na design de APIs.
 
-This method revolves around the server creating a session for the user after they successfully log in, associating it with a session identifier. This Session ID is then stored client-side within a cookie. On subsequent requests, the server validates the Session ID before processing the API call. The server will destroy the session after the user logs out, thereby invalidating the Session ID.
+Este método envolve o servidor criando uma sessão para o usuário após que ele faça login com sucesso, associando-a a um identificador de sessão. Este ID da Sessão é então armazenado no cliente dentro de um cookie. Em solicitações subsequentes, o servidor valida o ID da Sessão antes de processar a chamada à API. O servidor destruirá a sessão após que o usuário fizer logout, tornando assim o ID da Sessão inválido.
 
-Understanding Session Based Authentication is crucial for secure API design, especially in scenarios where security is a top priority or in legacy systems where this method is prevalent.
+Entender a Autenticação Baseada em Sessão é crucial para a design de APIs seguras, especialmente em cenários onde a segurança é uma prioridade ou em sistemas legados onde este método é prevalente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Session Based Authentication](https://roadmap.sh/guides/session-based-authentication)
-- [@article@Session vs Token Authentication](https://www.authgear.com/post/session-vs-token-authentication)
-- [@video@Session Based Authentication - Roadmap.sh](https://www.youtube.com/watch?v=gKkBEOq_shs)
+- [@roadmap@Autenticação Baseada em Sessão](https://roadmap.sh/guides/session-based-authentication)
+- [@artigo@Autenticação por Sessão vs Autenticação por Token](https://www.authgear.com/post/session-vs-token-authentication)
+- [@vídeo@Autenticação Baseada em Sessão - Roadmap.sh](https://www.youtube.com/watch?v=gKkBEOq_shs)

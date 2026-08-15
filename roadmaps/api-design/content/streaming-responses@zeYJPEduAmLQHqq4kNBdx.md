@@ -1,8 +1,8 @@
-# Streaming Responses
+# Respostas em Streaming
 
-Streaming responses allow a server to send data to the client incrementally as it becomes available, rather than buffering the entire response and sending it at once. This is useful for large datasets, file downloads, log tailing, or AI-generated text where the first tokens can be delivered to the user before the full response is ready. HTTP chunked transfer encoding and SSE are common mechanisms for streaming, and it meaningfully improves perceived performance for slow or large responses.
+As respostas em streaming permitem que um servidor envie dados ao cliente incrementalmente à medida que se tornam disponíveis, em vez de bufferizar toda a resposta e enviá-la de uma só vez. Isso é útil para conjuntos de dados grandes, downloads de arquivos, rastreamento de logs ou texto gerado por IA onde os primeiros tokens podem ser entregues ao usuário antes da resposta completa estar pronta. O codificação em transferência em pedaços HTTP e SSE são métodos comuns para streaming, e significativamente melhoram o desempenho percebido para respostas lentas ou grandes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Streaming Data with REST APIs](https://apisyouwonthate.com/blog/streaming-data-with-rest-apis/)
-- [@video@https://www.youtube.com/watch?v=xTTtqwGWemw](https://www.youtube.com/watch?v=xTTtqwGWemw&t=210s)
+- [@artigo@Streaming de Dados com APIs REST](https://apisyouwonthate.com/blog/streaming-data-with-rest-apis/)
+- [@vídeo@https://www.youtube.com/watch?v=xTTtqwGWemw](https://www.youtube.com/watch?v=xTTtqwGWemw&t=210s)

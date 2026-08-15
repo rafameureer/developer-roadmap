@@ -4,7 +4,7 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 
 ---
 
-> ⚠️ **Total de itens sinalizados:** 102
+> ⚠️ **Total de itens sinalizados:** 111
 
 | Arquivo / Tópico | Motivo da Sinalização | Data/Hora |
 |---|---|---|
@@ -110,3 +110,12 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 | `roadmaps/ai-engineer/content/using-sdks-directly@WZVW8FQu6LyspSKm1C_sl.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:02:10.787613 |
 | `roadmaps/ai-engineer/content/vector-database@zZA1FBhf1y4kCoUZ-hM4H.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:02:16.249223 |
 | `roadmaps/ai-engineer/content/vector-databases@tt9u3oFlsjEMfPyojuqpc.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:02:21.220948 |
+| `roadmaps/ai-product-builder/content/1-prototyping@ZGqeasMGuEiZvrdyjSNuM.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:03:36.831547 |
+| `roadmaps/ai-product-builder/content/2-generation@DCcj2_9a7aYi6qCnI4TMV.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:03:38.823996 |
+| `roadmaps/ai-product-builder/content/3-refinement@S9fE9eG1YWSfVRi8h13U1.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:03:40.501796 |
+| `roadmaps/ai-product-builder/content/claude-code@Fa06GTSwYb9x0QuGsp8et.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:04:45.560953 |
+| `roadmaps/ai-product-builder/content/claude-code@G86QePmTB5LX4_dMkVgoK.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:04:49.639520 |
+| `roadmaps/ai-product-builder/content/cloudflare@Q6PzFpT_4kElowvvB2u_v.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:04:53.520439 |
+| `roadmaps/ai-product-builder/content/render@OBGQ-1bjYBdYi-_oFpmj8.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:06:36.047586 |
+| `roadmaps/ai-product-builder/content/replit@Gf1egAjfyQyAJ4I-aT_Ip.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:06:40.034368 |
+| `roadmaps/ai-product-builder/content/supabase@p4Ku5RT5uOVYPuduqz80M.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:06:43.213073 |

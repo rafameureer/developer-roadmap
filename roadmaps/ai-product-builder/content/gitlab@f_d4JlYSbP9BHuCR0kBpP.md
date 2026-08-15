@@ -1,9 +1,9 @@
 # GitLab
 
-GitLab is an alternative to GitHub that combines version control with built-in CI/CD pipelines and project management tools. It is a good option if you want everything in one platform or if your organization already uses it.
+GitLab é uma alternativa ao GitHub que combina controle de versão com pipelines CI/CD integrados e ferramentas de gerenciamento de projetos. É uma boa opção se você quiser tudo em uma plataforma ou se sua organização já o usa.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@https://about.gitlab.com/get-started/ Documentation](https://docs.gitlab.com/)
-- [@official@Get Started with Gitlab](https://about.gitlab.com/get-started/)
-- [@video@GitLab Explained: What is GitLab and Why Use It?](https://www.youtube.com/watch?v=bnF7f1zGpo4)
+- [@oficial@Documentação](https://docs.gitlab.com/)
+- [@oficial@Comece com GitLab](https://about.gitlab.com/get-started/)
+- [@vídeo@GitLab Explained: O que é GitLab e por que usá-lo?](https://www.youtube.com/watch?v=bnF7f1zGpo4)

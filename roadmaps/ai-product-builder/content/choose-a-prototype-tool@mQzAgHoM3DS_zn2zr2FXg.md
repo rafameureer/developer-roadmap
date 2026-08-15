@@ -1,8 +1,8 @@
-# Choose a Prototype Tool
+# Escolha uma Ferramenta de Prototipagem
 
-Developers are increasingly moving away from traditional design tools like Figma and Miro toward AI prototyping tools that generate a working version of the app directly from a text description. Tools like Lovable, Replit, and Bolt let you go from idea to something clickable in minutes, which makes it easier to validate a concept before committing to a full generation cycle. Choose based on your familiarity and the complexity of what you are building.
+Os desenvolvedores estão increasingly se movendo de ferramentas de design tradicionais como Figma e Miro para ferramentas de prototipagem baseadas em IA que geram uma versão funcional do aplicativo diretamente a partir de uma descrição de texto. Ferramentas como Lovable, Replit e Bolt permitem que você vá de ideia a algo clicável em minutos, o que torna mais fácil validar um conceito antes de se comprometer com um ciclo completo de geração. Escolha com base na sua familiaridade e na complexidade do que está construindo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Best AI Prototyping Tools in 2026: Ranked by Use Case](https://www.banani.co/blog/best-ai-prototyping-tools)
-- [@article@Prototyping Tools: A Comprehensive Guide Intro](https://www.coursera.org/articles/prototyping-tools)
+- [@article@Melhores Ferramentas de Prototipagem Baseadas em IA em 2026: Classificados por Caso de Uso](https://www.banani.co/blog/best-ai-prototyping-tools)
+- [@article@Ferramentas de Prototipagem: Um Guia Completo Introdução](https://www.coursera.org/articles/prototyping-tools)

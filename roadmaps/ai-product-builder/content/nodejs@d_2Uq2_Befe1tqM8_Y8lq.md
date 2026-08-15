@@ -1,9 +1,9 @@
 # Node.js
 
-Node.js is the runtime that allows JavaScript to run on a server. Most AI-generated back ends use Node.js. You will need a basic understanding of it when modifying API routes, adding middleware, or debugging server-side logic.
+Node.js é o ambiente de execução que permite que JavaScript seja executado em um servidor. A maioria dos back ends gerados pela IA usa Node.js. Você precisará de uma compreensão básica dele quando modificar rotas da API, adicionar middleware ou depurar a lógica do lado do servidor.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated Node.js Roadmap](https://roadmap.sh/nodejs)
-- [@official@Node.jsLearn Node.js Official WebsiteDocs](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
-- [@video@Node.js and Express.js Full Course](https://www.youtube.com/watch?v=Oe421EPjeBE)
+- [@roadmap@Visite o Caminho Dedicado do Node.js](https://roadmap.sh/nodejs)
+- [@official@Node.js Aprenda o Site Oficial do Node.js Docs](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
+- [@video@Curso Completo de Node.js e Express.js](https://www.youtube.com/watch?v=Oe421EPjeBE)

@@ -1,3 +1,3 @@
-# New Feature / Structural Change
+# Nova Funcionalidade / Mudança Estrutural
 
-When a change affects the architecture of the app, such as adding a new service, reworking the data model, or introducing a new user flow, go back through the generation tool rather than patching the code manually. This keeps the codebase consistent and reduces technical debt.
+Quando uma mudança afeta a arquitetura do aplicativo, como adicionar um novo serviço, reorganizar o modelo de dados ou introduzir um novo fluxo de usuário, volte para a ferramenta de geração em vez de corrigir o código manualmente. Isso mantém a base de código consistente e reduz o débito técnico.

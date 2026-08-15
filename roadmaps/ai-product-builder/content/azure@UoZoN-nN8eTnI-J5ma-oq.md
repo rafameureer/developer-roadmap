@@ -1,9 +1,9 @@
 # Azure
 
-Azure is Microsoft's cloud platform. It is a strong choice for teams already using Microsoft tools or working in enterprise environments. It covers the full range of infrastructure needs and integrates well with GitHub, Active Directory, and other Microsoft services.
+O Azure é a plataforma de nuvem da Microsoft. É uma escolha forte para equipes já usando ferramentas da Microsoft ou trabalhando em ambientes corporativos. Cobre toda a gama de necessidades de infraestrutura e integra-se bem com o GitHub, Active Directory e outros serviços da Microsoft.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para saber mais:
 
-- [@official@Azure Website](https://azure.microsoft.com/en-us/)
-- [@opensource@Microsoft Azure Guide](https://github.com/mikeroyal/Azure-Guide)
-- [@video@icrosoft Azure Fundamentals Certification Course (AZ-900)](https://www.youtube.com/watch?v=5abffC-K40c)
+- [@official@Site oficial do Azure](https://azure.microsoft.com/pt-br/)
+- [@opensource@Guia da Microsoft Azure](https://github.com/mikeroyal/Azure-Guide)
+- [@video@Certificação de Fundamentos do Azure (AZ-900)](https://www.youtube.com/watch?v=5abffC-K40c)

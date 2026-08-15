@@ -1,9 +1,9 @@
 # Base44
 
-Base44 generates full-stack web apps from a description and handles both the front end and back end. It is designed for speed and requires no coding knowledge to get started. It is a good option when you need a working prototype quickly and plan to refine it with a more powerful tool later.
+Base44 gera aplicativos web full-stack a partir de uma descrição e lida com tanto o front-end quanto o back-end. Está projetado para velocidade e não requer conhecimento de codificação para começar. É uma boa opção quando você precisa de um protótipo funcional rapidamente e planeja refiná-lo com uma ferramenta mais poderosa mais tarde.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para saber mais:
 
-- [@official@Base44 Docs](https://docs.base44.com/)
-- [@official@How to build an app with AI in 6 steps](https://base44.com/blog/how-to-build-an-app-with-ai)
-- [@video@Base44 Tutorial for Beginners 2026 - Step by Step](https://www.youtube.com/watch?v=FN9fyZ9IPWs)
+- [@official@Documentação do Base44](https://docs.base44.com/)
+- [@official@Como construir um aplicativo com IA em 6 passos](https://base44.com/blog/how-to-build-an-app-with-ai)
+- [@video@Tutorial do Base44 para iniciantes 2026 - Passo a Passo](https://www.youtube.com/watch?v=FN9fyZ9IPWs)

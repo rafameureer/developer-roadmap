@@ -1,7 +1,7 @@
-# Deployment
+# Implantação
 
-Deployment is the process of making your app available to real users. The right deployment option depends on your technical experience, expected traffic, and budget. Start with the simplest option that meets your needs and scale up as the product grows.
+A implantação é o processo de tornar seu aplicativo disponível para usuários reais. A opção de implantação correta depende da sua experiência técnica, tráfego esperado e orçamento. Comece com a opção mais simples que atenda às suas necessidades e escala conforme o produto crescer.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is software deployment?](https://www.atlassian.com/agile/software-development/software-deployment)
+- [@artigo@O que é implantação de software?](https://www.atlassian.com/agile/software-development/software-deployment)

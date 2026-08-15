@@ -1,9 +1,9 @@
 # Copilot
 
-Copilot works inline as you type and is best used when you know what you want to write but want to move faster. It predicts the next line or block based on the surrounding code. It is less useful for understanding unfamiliar code and more useful for extending code you already understand; use it when adding new logic to an existing file.
+Copilot funciona em linha enquanto você digita e é ideal quando você sabe o que quer escrever, mas deseja se mover mais rápido. Ele prediz a próxima linha ou bloco com base no código circundante. É menos útil para entender código desconhecido e mais útil para estender código que já entende; use-o quando adicionar nova lógica a um arquivo existente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@GitHub Copilot Docs](https://docs.github.com/en/copilot)
-- [@official@Copilot Tutorials](https://github.com/features/copilot/tutorials)
-- [@video@Intro to GitHob Copilot in Visual Studio](https://www.youtube.com/watch?v=z1ycDvspv8U)
+- [@oficial@Documentação do GitHub Copilot](https://docs.github.com/en/copilot)
+- [@oficial@Tutoriais do Copilot](https://github.com/features/copilot/tutorials)
+- [@vídeo@Introdução ao GitHub Copilot no Visual Studio](https://www.youtube.com/watch?v=z1ycDvspv8U)

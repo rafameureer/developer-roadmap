@@ -1,8 +1,8 @@
-# Tech Stack & Constraints
+# Pilha Técnica e Restrições
 
-Define the technologies you want to use before generating anything. AI generation tools produce better output when given clear constraints rather than being left to choose freely. An important note when choosing your tech stack is to pick a popular stack like React, Next.js, Tailwind, or Supabase. AI tools have been trained on large amounts of code using these technologies and produce more reliable output with them. Niche or very new tools increase the chance of errors in the generated code and make it harder to find help when something breaks.
+Defina as tecnologias que deseja usar antes de gerar qualquer coisa. Ferramentas de geração de IA produzem melhor saída quando são fornecidas restrições claras em vez de serem deixadas para escolher livremente. Um ponto importante ao escolher sua pilha técnica é escolher uma pilha popular como React, Next.js, Tailwind ou Supabase. Ferramentas de IA foram treinadas com grandes quantidades de código usando essas tecnologias e produzem saída mais confiável com elas. Ferramentas nichadas ou muito novas aumentam a chance de erros no código gerado e tornam mais difícil encontrar ajuda quando algo quebra.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated Vibe Coding Roadmap](https://roadmap.sh/vibe-coding)
-- [@article@The Best Tech Stack in the Age of AI](https://thebootstrappedfounder.com/the-best-tech-stack-in-the-age-of-ai/)
+- [@roadmap@Visite o Caminho Dedidado Vibe Coding](https://roadmap.sh/vibe-coding)
+- [@article@A Melhor Pilha Técnica na Era da IA](https://thebootstrappedfounder.com/the-best-tech-stack-in-the-age-of-ai/)

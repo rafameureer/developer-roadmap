@@ -1,3 +1,3 @@
-# Problem Definition
+# Definição do Problema
 
-Start by writing one or two sentences describing the problem your app solves and who it solves it for. If you cannot explain the problem clearly, the generated output will be unfocused. This is the most important input you give to the entire process.
+Comece escrevendo uma ou duas frases descrevendo o problema que sua aplicação resolve e para quem ela resolve. Se você não puder explicar claramente o problema, a saída gerada será desfocada. Isso é o mais importante que você fornece para todo o processo.

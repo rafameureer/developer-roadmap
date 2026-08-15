@@ -1,8 +1,8 @@
-# Unit Testing
+# Teste Unitário
 
-A unit test checks that a single function or component behaves as expected in isolation. AI-generated codebases sometimes include unit tests automatically; if they do not, write them for the parts of the code that handle critical business logic. They are the fastest type of test to run and the easiest to debug when they fail.
+Um teste unitário verifica que uma única função ou componente se comporte conforme esperado isoladamente. Código gerado por IA às vezes inclui testes unitários automaticamente; se não fizerem, escreva-os para as partes do código que lidam com a lógica de negócios crítica. São o tipo mais rápido de teste para executar e a mais fácil de depurar quando falham.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Unit Testing?](https://www.guru99.com/unit-testing-guide.html)
-- [@video@What is Unit Testing?](https://youtu.be/x95ez7_V7rA?si=JhCVhcEN7zZOkxdp)
+- [@article@O Que é Teste Unitário?](https://www.guru99.com/unit-testing-guide.html)
+- [@video@O Que é Teste Unitário?](https://youtu.be/x95ez7_V7rA?si=JhCVhcEN7zZOkxdp)

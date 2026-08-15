@@ -1,9 +1,9 @@
 # Codex
 
-Codex is OpenAI's code-focused model, available through the API and integrated into tools like GitHub Copilot. It is strong at generating boilerplate and translating natural language descriptions into working code. It works best for well-defined, contained tasks rather than open-ended architectural decisions.
+Codex é o modelo focado em código da OpenAI, disponível através da API e integrado a ferramentas como GitHub Copilot. Ele é forte em gerar esboços de código e traduzir descrições naturais em código funcional. Funciona melhor para tarefas bem definidas e contidas do que decisões arquitetônicas abertas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@Introduction to OpenAI Codex](https://www.coursera.org/learn/introduction-to-openai-codex)
-- [@official@Codex Docs](https://developers.openai.com/codex)
-- [@video@Getting started with Codex](https://www.youtube.com/watch?v=px7XlbYgk7I)
+- [@curso@Introdução ao Codex da OpenAI](https://www.coursera.org/learn/introduction-to-openai-codex)
+- [@oficial@Documentação do Codex](https://developers.openai.com/codex)
+- [@vídeo@Começando com o Codex](https://www.youtube.com/watch?v=px7XlbYgk7I)

@@ -200,7 +200,49 @@
     "roadmaps/ai-engineer/content/what-is-an-ai-engineer@GN6SnI7RXIeW8JeD-qORW.md",
     "roadmaps/ai-engineer/content/whisper-api@OTBd6cPUayKaAM-fLWdSt.md",
     "roadmaps/ai-engineer/content/windsurf@Xsl8mx6J182TxPPtNP471.md",
-    "roadmaps/ai-engineer/content/zero-shot@15XOFdVp0IC-kLYPXUJWh.md"
+    "roadmaps/ai-engineer/content/zero-shot@15XOFdVp0IC-kLYPXUJWh.md",
+    "roadmaps/ai-product-builder/content/4-collaboration@rcR8DMzELUnmJ7I_pwWpI.md",
+    "roadmaps/ai-product-builder/content/5-deployment@t03SkyX28SacfP_DpmHUf.md",
+    "roadmaps/ai-product-builder/content/ai-product-creation-cycle@COeXWV8fCTHXPZnErXcGZ.md",
+    "roadmaps/ai-product-builder/content/app-anatomy@ncU03bZztHwt9VrQbEZ15.md",
+    "roadmaps/ai-product-builder/content/aws@-MWVEd4dEfGcwBTxKh9WM.md",
+    "roadmaps/ai-product-builder/content/azure-devops@DAEMRai6FpPrmRkmKTOhV.md",
+    "roadmaps/ai-product-builder/content/azure@UoZoN-nN8eTnI-J5ma-oq.md",
+    "roadmaps/ai-product-builder/content/base44@kufoDIjMsRnb93I6Y_hN7.md",
+    "roadmaps/ai-product-builder/content/bit-cloud@AlE1rcdp-5RVihRMpshnh.md",
+    "roadmaps/ai-product-builder/content/bolt@YZi89ogkfzKIivbdFmcP_.md",
+    "roadmaps/ai-product-builder/content/browsers--devtools@iRey4hwJCIraoNsIZELZv.md",
+    "roadmaps/ai-product-builder/content/choose-a-prototype-tool@mQzAgHoM3DS_zn2zr2FXg.md",
+    "roadmaps/ai-product-builder/content/codex@S7uHXLcxvtegkI1kirVS9.md",
+    "roadmaps/ai-product-builder/content/codex@xCoG801UzwsRaK0xmI9_B.md",
+    "roadmaps/ai-product-builder/content/copilot@6HLxaflojoF0-cuIuPDeG.md",
+    "roadmaps/ai-product-builder/content/cursor@BEw1Iowb0KMiChtDGvKep.md",
+    "roadmaps/ai-product-builder/content/definition--scope@4dxljr8BtYkJDXbLeE0gW.md",
+    "roadmaps/ai-product-builder/content/digitalocean@ZxLukZLdGXGvV4MRHmoGh.md",
+    "roadmaps/ai-product-builder/content/e2e-testing@MB_6yVmgPZugbjxGzoq09.md",
+    "roadmaps/ai-product-builder/content/feature-scoping@5qljkbrUWUAn-5Ng2AiaJ.md",
+    "roadmaps/ai-product-builder/content/feedback--validation@ZQ-kWlp5v9fimgHmG5hlR.md",
+    "roadmaps/ai-product-builder/content/gcp@6hl4_ft8onzq80v_nD8Q4.md",
+    "roadmaps/ai-product-builder/content/gemini-cli@vGtnZaa5vH02cTgkVG6A-.md",
+    "roadmaps/ai-product-builder/content/github@OFscURhjqJfh8qA3SKSfh.md",
+    "roadmaps/ai-product-builder/content/gitlab@f_d4JlYSbP9BHuCR0kBpP.md",
+    "roadmaps/ai-product-builder/content/hope-ai@8ePFxmPv_Vm7SKoleM1tT.md",
+    "roadmaps/ai-product-builder/content/html--css--javascript@Cem2u4lHoA8KW-0GqVzcw.md",
+    "roadmaps/ai-product-builder/content/integration-testing@MXPA6I8K1_aKKQpgk2EcW.md",
+    "roadmaps/ai-product-builder/content/lovable@T-NUiQvT8dKmg6UDGVSt_.md",
+    "roadmaps/ai-product-builder/content/mongodb--atlas@gwHXA4WBrZN0VeAx5NKz7.md",
+    "roadmaps/ai-product-builder/content/new-feature--structural-change@HZHzCLbK-oQh7gSokxHWq.md",
+    "roadmaps/ai-product-builder/content/nodejs@d_2Uq2_Befe1tqM8_Y8lq.md",
+    "roadmaps/ai-product-builder/content/postgresql--mysql@kfl0oJKi1OusryrSqO2jn.md",
+    "roadmaps/ai-product-builder/content/problem-definition@kxDCkO0aZLY4_hd4_ykH6.md",
+    "roadmaps/ai-product-builder/content/railway@Sv7QfwPKaTsviScn2axhk.md",
+    "roadmaps/ai-product-builder/content/react@aHQ8f3ulEeUxTYCifzcPq.md",
+    "roadmaps/ai-product-builder/content/targeted-change@ydzaN2EHBVAavHS3iPQ40.md",
+    "roadmaps/ai-product-builder/content/tech-stack--constraints@tN2X9NW0PhcP21OptheoD.md",
+    "roadmaps/ai-product-builder/content/unit-testing@VxqhYHA9YpWx70GIhKghY.md",
+    "roadmaps/ai-product-builder/content/user-testing@aRA5S0Mmmhx9F0nhD3Wcp.md",
+    "roadmaps/ai-product-builder/content/v0@xKBoLYQgpLDmOtDweVHei.md",
+    "roadmaps/ai-product-builder/content/vercel@wUg8ypt4aWXgMYGiaIdgy.md"
   ],
   "completed_roadmaps": [
     "frontend-beginner",
@@ -209,7 +251,8 @@
     "git-github-beginner",
     "ai-agents",
     "ai-data-scientist",
-    "ai-engineer"
+    "ai-engineer",
+    "ai-product-builder"
   ],
   "flagged_issues": [
     {
@@ -721,8 +764,53 @@
       "file": "roadmaps/ai-engineer/content/vector-databases@tt9u3oFlsjEMfPyojuqpc.md",
       "reason": "Falha na tradução automática após tentativas no Ollama",
       "timestamp": "2026-08-15T01:02:21.220948"
+    },
+    {
+      "file": "roadmaps/ai-product-builder/content/1-prototyping@ZGqeasMGuEiZvrdyjSNuM.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:03:36.831547"
+    },
+    {
+      "file": "roadmaps/ai-product-builder/content/2-generation@DCcj2_9a7aYi6qCnI4TMV.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:03:38.823996"
+    },
+    {
+      "file": "roadmaps/ai-product-builder/content/3-refinement@S9fE9eG1YWSfVRi8h13U1.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:03:40.501796"
+    },
+    {
+      "file": "roadmaps/ai-product-builder/content/claude-code@Fa06GTSwYb9x0QuGsp8et.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:04:45.560953"
+    },
+    {
+      "file": "roadmaps/ai-product-builder/content/claude-code@G86QePmTB5LX4_dMkVgoK.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:04:49.639520"
+    },
+    {
+      "file": "roadmaps/ai-product-builder/content/cloudflare@Q6PzFpT_4kElowvvB2u_v.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:04:53.520439"
+    },
+    {
+      "file": "roadmaps/ai-product-builder/content/render@OBGQ-1bjYBdYi-_oFpmj8.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:06:36.047586"
+    },
+    {
+      "file": "roadmaps/ai-product-builder/content/replit@Gf1egAjfyQyAJ4I-aT_Ip.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:06:40.034368"
+    },
+    {
+      "file": "roadmaps/ai-product-builder/content/supabase@p4Ku5RT5uOVYPuduqz80M.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:06:43.213073"
     }
   ],
-  "last_updated": "2026-08-15T01:03:22.599682",
+  "last_updated": "2026-08-15T01:07:05.487400",
   "total_translated_count": 54
 }

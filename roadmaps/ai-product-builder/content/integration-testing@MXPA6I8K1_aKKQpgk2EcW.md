@@ -1,9 +1,9 @@
-# Integration Testing
+# Teste de Integração
 
-Integration tests check that different parts of the app work correctly together; for example, that a form submission reaches the database and returns the right response. They catch problems that unit tests miss because they test the connections between components, not the components themselves.
+Os testes de integração verificam que diferentes partes do aplicativo funcionam corretamente juntas; por exemplo, que a submissão de um formulário atinge o banco de dados e retorna a resposta certa. Eles capturam problemas que os testes unitários podem esquecer porque eles testam as conexões entre componentes, não os componentes em si.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Integration Testing](https://www.guru99.com/integration-testing.html)
-- [@article@Unit Test vs Integration Test: What's the Difference?](https://www.testim.io/blog/unit-test-vs-integration-test/)
-- [@video@What is Integration Testing?](https://www.youtube.com/watch?v=kRD6PA6uxiY)
+- [@artigo@Teste de Integração](https://www.guru99.com/integration-testing.html)
+- [@artigo@Diferença entre Teste Unitário e Teste de Integração: O que é a Diferença?](https://www.testim.io/blog/unit-test-vs-integration-test/)
+- [@vídeo@O Que é o Teste de Integração?](https://www.youtube.com/watch?v=kRD6PA6uxiY)

@@ -1,9 +1,9 @@
 # AWS
 
-AWS is the largest cloud provider in the world. It offers infrastructure for computing, storage, databases, networking, and dozens of other services. It requires more configuration than PaaS options but gives you complete control over how your application runs and scales.
+AWS é o maior provedor de nuvem do mundo. Ele oferece infraestrutura para computação, armazenamento, bancos de dados, rede e dezenas de outros serviços. Ele requer mais configuração que as opções PaaS, mas lhe dá controle completo sobre como seu aplicativo funciona e escala.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated AWS Roadmap](https://roadmap.sh/aws)
+- [@roadmap@Visite o Caminho do AWS Dedidado](https://roadmap.sh/aws)
 - [@official@AWS Cloud Essentials](https://aws.amazon.com/getting-started/cloud-essentials/)
-- [@official@Overview of Amazon Web Services](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html)
+- [@official@Visão Geral dos Serviços da Amazon Web Services](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html)

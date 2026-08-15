@@ -1,10 +1,10 @@
 # HTML / CSS / JavaScript
 
-These are the three foundational technologies of every web app. HTML defines the structure of a page, CSS controls how it looks, and JavaScript makes it interactive. You will encounter them when refining the front end of any generated application.
+Estas são as três tecnologias fundamentais de cada aplicativo web. O HTML define a estrutura de uma página, o CSS controla como ela aparece e o JavaScript a torna interativa. Você encontrará essas tecnologias ao refinar a front-end de qualquer aplicativo gerado.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated Frontend Roadmap](https://roadmap.sh/frontend)
-- [@roadmap@Visit the Dedicated HTML Roadmap](https://roadmap.sh/html)
-- [@roadmap@Visit the Dedicated CSS Roadmap](https://roadmap.sh/css)
-- [@roadmap@Visit the Dedicated JavaScript Roadmap](https://roadmap.sh/javascript)
+- [@roadmap@Visite o Roadmap dedicado à Frontend](https://roadmap.sh/frontend)
+- [@roadmap@Visite o Roadmap dedicado ao HTML](https://roadmap.sh/html)
+- [@roadmap@Visite o Roadmap dedicado ao CSS](https://roadmap.sh/css)
+- [@roadmap@Visite o Roadmap dedicado ao JavaScript](https://roadmap.sh/javascript)

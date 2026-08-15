@@ -1,9 +1,9 @@
-# GCP
+# Google Cloud Platform (GCP)
 
-Google Cloud Platform is Google's cloud infrastructure service. It is particularly strong for data processing, machine learning workloads, and applications that need to integrate with other Google services. It is a competitive alternative to AWS for teams comfortable with Google's ecosystem.
+O Google Cloud Platform é o serviço de infraestrutura em nuvem da Google. Ele é especialmente forte para processamento de dados, cargas de trabalho de aprendizado de máquina e aplicativos que precisam integrar-se com outros serviços da Google. É uma alternativa competitiva ao AWS para equipes confortáveis com o ecossistema da Google.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Google Cloud Platform](https://cloud.google.com)
-- [@official@Cloud Computing, Hosting Services, and APIs](https://cloud.google.com/gcp)
-- [@video@Google Cloud Platform Video Course](https://www.youtube.com/watch?v=fZOz13joN0o)
+- [@oficial@Google Cloud Platform](https://cloud.google.com)
+- [@oficial@Cloud Computing, Hosting Services, and APIs](https://cloud.google.com/gcp)
+- [@vídeo@Curso de vídeo do Google Cloud Platform](https://www.youtube.com/watch?v=fZOz13joN0o)

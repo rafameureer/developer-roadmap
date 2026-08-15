@@ -1,10 +1,10 @@
-# Browsers / DevTools
+# Navegadores / Ferramentas de Desenvolvedor
 
-Browser developer tools let you inspect HTML, debug JavaScript, monitor network requests, and measure performance directly in the browser. They are the first place to look when something in the front end is not working as expected.
+As ferramentas de desenvolvedor do navegador permitem que você inspecione HTML, depure JavaScript, monitore solicitações de rede e medirem o desempenho diretamente no navegador. São o primeiro lugar a olhar quando algo na camada front-end não está funcionando como esperado.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@How Browsers Work](https://www.ramotion.com/blog/what-is-web-browser/)
-- [@article@What are browser developer tools?](https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Tools_and_setup/What_are_browser_developer_tools)
-- [@video@How Do Web Browsers Work?](https://www.youtube.com/watch?v=5rLFYtXHo9s)
-- [@video@nderstand Browser Dev Tools Network Tab (and avoid these mistakes...)](https://www.youtube.com/watch?v=2CC0fugc_2o)
+- [@article@Como Funcionam os Navegadores](https://www.ramotion.com/blog/what-is-web-browser/)
+- [@article@O que são as Ferramentas de Desenvolvedor do Navegador?](https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Tools_and_setup/What_are_browser_developer_tools)
+- [@video@Como Funcionam os Navegadores Web?](https://www.youtube.com/watch?v=5rLFYtXHo9s)
+- [@video@Entenda a Aba de Rede das Ferramentas de Desenvolvedor do Navegador (e evite esses erros...)](https://www.youtube.com/watch?v=2CC0fugc_2o)

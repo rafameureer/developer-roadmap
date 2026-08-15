@@ -1,7 +1,7 @@
-# Definition & Scope
+# Definição & Escopo
 
-Before writing a single prompt, you need to know what you are building and why. This means defining the problem, identifying the core features, and setting the project's technical boundaries. A clear scope saves time and prevents the AI from generating things you do not need.
+Antes de escrever um único prompt, você precisa saber o que está construindo e por quê. Isso significa definir o problema, identificar as características centrais e estabelecer os limites técnicos do projeto. Um escopo claro economiza tempo e previne a IA de gerar coisas que você não precisa.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@How to scope your AI product](https://uxdesign.cc/how-to-scope-your-ai-product-5b9885ef3851)
+- [@artigo@Como escopar seu produto de IA](https://uxdesign.cc/how-to-scope-your-ai-product-5b9885ef3851)

@@ -1,3 +1,3 @@
-# Targeted Change
+# Alteração Direcionada
 
-A targeted change is a small, localized fix: a bug in a component, a layout adjustment, a logic tweak. Use AI-assisted coding tools like Cursor, Claude Code, or Copilot to make these changes directly in the code without touching the broader architecture.
+Uma alteração direcionada é um pequeno ajuste localizado: um bug em um componente, uma modificação de layout ou uma ajuste lógico. Use ferramentas de codificação assistidas por IA como Cursor, Claude Code ou Copilot para fazer esses ajustes diretamente no código sem tocar na arquitetura mais ampla.

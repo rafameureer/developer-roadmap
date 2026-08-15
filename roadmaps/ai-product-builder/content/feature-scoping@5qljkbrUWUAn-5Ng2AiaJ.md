@@ -1,7 +1,7 @@
-# Feature Scoping
+# Escopo das funcionalidades
 
-List only the features that are strictly necessary for the first version of the product. Every feature you add increases the complexity of the generated code and the time needed to test and refine it. Start small, ship fast, and add features in later iterations.
+Lista apenas as funcionalidades estritamente necessárias para a primeira versão do produto. Cada funcionalidade que você adiciona aumenta a complexidade do código gerado e o tempo necessário para testar e refiná-lo. Comece pequeno, envie rápido e adicione funcionalidades em iterações posteriores.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@How to effectively scope your software projects](https://www.freecodecamp.org/news/how-to-effectively-scope-your-software-projects-from-planning-to-execution-e96cbcac54b9/)
+- [@artigo@Como escopar efetivamente seus projetos de software](https://www.freecodecamp.org/news/how-to-effectively-scope-your-software-projects-from-planning-to-execution-e96cbcac54b9/)

@@ -1,11 +1,11 @@
 # PostgreSQL / MySQL
 
-PostgreSQL and MySQL are relational databases that store data in structured tables with defined relationships. They are the most widely used databases for web applications and are well supported by every major cloud provider. Use them when your data has a clear, stable structure and relationships between entities matter.
+PostgreSQL e MySQL são bancos de dados relacionais que armazenam dados em tabelas estruturadas com relações definidas. São os bancos de dados mais amplamente usados para aplicativos web e são bem suportados por todos os principais provedores de nuvem. Use-os quando seus dados têm uma estrutura clara e estável e as relações entre entidades importam.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit Dedicated PostgreSQL DBA Roadmap](https://roadmap.sh/postgresql-dba)
-- [@official@PostgreSQL Docs](https://www.postgresql.org/docs/)
-- [@official@MySQL Docs](https://dev.mysql.com/doc/)
-- [@article@Learn PostgreSQL - Full Tutorial for Beginners](https://www.postgresqltutorial.com/)
-- [@article@MySQL Tutorial](https://www.mysqltutorial.org/)
+- [@roadmap@Visite o Caminho Dedicado do Administrador de Banco de Dados PostgreSQL](https://roadmap.sh/postgresql-dba)
+- [@official@Documentação oficial do PostgreSQL](https://www.postgresql.org/docs/)
+- [@official@Documentação oficial do MySQL](https://dev.mysql.com/doc/)
+- [@article@Aprenda o PostgreSQL - Tutorial Completo para Iniciantes](https://www.postgresqltutorial.com/)
+- [@article@Tutorial do MySQL](https://www.mysqltutorial.org/)

@@ -1,9 +1,9 @@
 # Gemini CLI
 
-Gemini CLI is Google's command-line AI tool for developers. It integrates with your existing terminal workflow and can assist with code generation, explanation, and refactoring. It is a practical option if you are already working within the Google Cloud infrastructure.
+O Gemini CLI é uma ferramenta de linha de comando de IA da Google para desenvolvedores. Ele integra com seu fluxo de trabalho existente no terminal e pode auxiliar na geração de código, explicação e refatoração. É uma opção prática se você já estiver trabalhando dentro da infraestrutura do Google Cloud.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@Hands-on with Gemini CLI](https://codelabs.developers.google.com/gemini-cli-hands-on#0)
-- [@official@Gemini CLI Docs](https://geminicli.com/docs/)
-- [@video@Gemini CLI: The AI agent that lives in your terminal](https://www.youtube.com/watch?v=C5Cjvpfzc_0)
+- [@curso@Hands-on com Gemini CLI](https://codelabs.developers.google.com/gemini-cli-hands-on#0)
+- [@oficial@Documentação do Gemini CLI](https://geminicli.com/docs/)
+- [@vídeo@Gemini CLI: O agente de IA que vive no seu terminal](https://www.youtube.com/watch?v=C5Cjvpfzc_0)

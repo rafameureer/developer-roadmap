@@ -1,10 +1,10 @@
 # Cursor
 
-Cursor lets you select any part of the codebase and ask questions or request changes directly in the editor. It is the most practical tool for navigating AI-generated code you did not write yourself. Use it to understand what a file does, rename a pattern across the codebase, or make a targeted edit without having to read every line around it.
+Cursor permite que você selecione qualquer parte do código-fonte e faça perguntas ou solicite alterações diretamente no editor. É a ferramenta mais prática para navegar em código gerado por IA que você não escreveu por conta própria. Use-o para entender o que um arquivo faz, renomear um padrão em todo o código-fonte ou fazer uma edição direcionada sem precisar ler toda linha ao seu redor.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@Cursor Learn](https://cursor.com/learn)
-- [@official@Cursor Docs](https://cursor.com/docs)
-- [@video@Cursor AI Tutorial for Beginners](https://www.youtube.com/watch?v=3289vhOUdKA)
-- [@video@Cursor Tutorial for Beginners (AI Code Editor)](https://www.youtube.com/watch?v=ocMOZpuAMw4)
+- [@curso@Aprenda com Cursor](https://cursor.com/learn)
+- [@oficial@Documentação do Cursor](https://cursor.com/docs)
+- [@vídeo@Tutorial de Introdução ao Cursor AI](https://www.youtube.com/watch?v=3289vhOUdKA)
+- [@vídeo@Tutorial de Introdução ao Cursor (Editor de Código com IA)](https://www.youtube.com/watch?v=ocMOZpuAMw4)

@@ -1,8 +1,8 @@
-# E2E Testing
+# Testes de ponta a ponta (E2E)
 
-End-to-end tests simulate a real user moving through the app from start to finish. They verify that the full system works as expected in an environment that resembles production. Tools like Playwright or Cypress automate these flows so you can run them on every deployment without manual effort.
+Os testes de ponta a ponta simulam um usuário real navegando pela aplicação do início ao fim. Eles verificam que o sistema completo funciona conforme esperado em um ambiente semelhante ao de produção. Ferramentas como Playwright ou Cypress automatizam esses fluxos, permitindo que você os execute em cada implantação sem esforço manual.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@End to End Testing](https://microsoft.github.io/code-with-engineering-playbook/automated-testing/e2e-testing/)
-- [@article@End to End Testing: Importance, Process, Best Practices & Frameworks](https://testgrid.io/blog/end-to-end-testing-a-detailed-guide/)
+- [@artigo@Testes de ponta a ponta](https://microsoft.github.io/code-with-engineering-playbook/automated-testing/e2e-testing/)
+- [@artigo@Importância, processo, melhores práticas e estruturas de testes de ponta a ponta](https://testgrid.io/blog/end-to-end-testing-a-detailed-guide/)

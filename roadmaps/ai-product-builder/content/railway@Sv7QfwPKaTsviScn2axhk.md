@@ -1,9 +1,9 @@
 # Railway
 
-Railway is a deployment platform designed for speed and simplicity. It detects the type of project automatically and configures the deployment environment accordingly. It supports databases, back-end services, and front-end apps in the same project, which makes it convenient for full-stack deployments.
+Railway é uma plataforma de implantação projetada para velocidade e simplicidade. Ele detecta automaticamente o tipo de projeto e configura o ambiente de implantação conforme necessário. Ele suporta bancos de dados, serviços back-end e aplicativos front-end no mesmo projeto, tornando-o conveniente para implantações full-stack.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Railway](https://railway.com/)
-- [@official@Quick Start Tutorial](https://docs.railway.com/quick-start)
-- [@video@Fastest Way to Deploy a Full Stack Web App (Railway)](https://www.youtube.com/watch?v=JQIKobOcQ9k)
+- [@oficial@Railway](https://railway.com/)
+- [@oficial@Tutorial Rápido](https://docs.railway.com/quick-start)
+- [@vídeo@O Melhor Jeito de Implantar uma Aplicação Web Full Stack (Railway)](https://www.youtube.com/watch?v=JQIKobOcQ9k)

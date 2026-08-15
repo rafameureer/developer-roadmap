@@ -1,10 +1,10 @@
-# App Anatomy
+# Anatomia do App
 
-Every app has the same basic parts: a front end that users interact with, a back end that processes logic, a database that stores data, and an API that connects them. Understanding this structure helps you review what the AI generates and ask better questions when something does not work as expected.
+Todos os aplicativos têm partes básicas comuns: uma interface de usuário (front-end) que os usuários interagem, um back-end que processa lógica, um banco de dados que armazena dados e uma API que as conecta. Entender essa estrutura ajuda você a revisar o que a IA gera e fazer perguntas melhores quando algo não funciona como esperado.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated Frontend Roadmap](https://roadmap.sh/frontend/)
-- [@roadmap@Visit the Dedicated Fr Backend](https://roadmap.sh/backend)
-- [@roadmap@Visit the Dedicated API Design Roadmap](https://roadmap.sh/api-design)
-- [@article@Web Application Architecture: Front-end, Middleware and Back-end](https://dev.to/techelopment/web-application-architecture-front-end-middleware-and-back-end-2ld7)
+- [@roadmap@Visite o Caminho do Front-end Dedidado](https://roadmap.sh/frontend/)
+- [@roadmap@Visite o Caminho do Back-end Dedidado](https://roadmap.sh/backend)
+- [@roadmap@Visite o Caminho da Design de API Dedidado](https://roadmap.sh/api-design)
+- [@article@Arquitetura Web: Front-end, Middleware e Back-end](https://dev.to/techelopment/web-application-architecture-front-end-middleware-and-back-end-2ld7)

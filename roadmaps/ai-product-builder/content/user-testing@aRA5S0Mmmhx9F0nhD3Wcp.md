@@ -1,7 +1,7 @@
-# User Testing
+# Teste de Usuário
 
-User testing means putting the app in front of real people and watching how they use it. You are not looking for opinions; you are looking for moments where they hesitate, get confused, or do something unexpected. Each session gives you concrete input for the next refinement cycle.
+O teste de usuário significa colocar o aplicativo diante de pessoas reais e observar como eles usam ele. Você não está procurando opiniões; você está procurando momentos em que eles hesitam, ficam confusos ou fazem algo inesperado. Cada sessão fornece entradas concretas para o próximo ciclo de refinamento.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is User Testing? Definition, Types & Methods](https://trymata.com/blog/what-is-user-testing/)
+- [@artigo@O que é Teste de Usuário? Definição, Tipos & Métodos](https://trymata.com/blog/what-is-user-testing/)

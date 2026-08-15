@@ -1,9 +1,9 @@
-# Lovable
+# Agradável
 
-Lovable generates a working front-end application from a text description. It is one of the fastest ways to move from an idea to a clickable prototype. The output is sufficient for early user testing but may require refinement before it is ready for production.
+O Lovable gera uma aplicação front-end funcional a partir de uma descrição de texto. É um dos métodos mais rápidos para passar de uma ideia a um protótipo clicável. A saída é suficiente para testes iniciais com usuários, mas pode exigir refinamento antes de estar pronto para produção.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Lovable Docs](https://docs.lovable.dev/introduction/welcome)
-- [@article@What is Lovable AI? A Deep Dive into the Builder | UI Bakery Blog](https://uibakery.io/blog/what-is-lovable-ai)
-- [@video@Master Lovable In 24 Minutes](https://www.youtube.com/watch?v=rqvtLxwMklo)
+- [@oficial@Documentação do Lovable](https://docs.lovable.dev/introduction/welcome)
+- [@artigo@O Que é o Lovable AI? Uma Profundidade no Construtor | Blog da UI Bakery](https://uibakery.io/blog/what-is-lovable-ai)
+- [@vídeo@Domine o Lovable em 24 Minutos](https://www.youtube.com/watch?v=rqvtLxwMklo)

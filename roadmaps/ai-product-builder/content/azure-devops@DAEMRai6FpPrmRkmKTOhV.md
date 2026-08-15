@@ -1,8 +1,8 @@
 # Azure DevOps
 
-Azure DevOps is Microsoft's platform for managing code, pipelines, and project tasks. It integrates tightly with Azure infrastructure and is a common choice in enterprise environments. It covers version control, CI/CD, and issue tracking in a single platform.
+Azure DevOps é a plataforma da Microsoft para gerenciar código, pipelines e tarefas de projeto. Ele integra-se estreitamente com a infraestrutura do Azure e é uma escolha comum em ambientes empresariais. Cobre controle de versão, CI/CD e rastreamento de problemas em uma única plataforma.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Azure DevOps](https://azure.microsoft.com/en-us/products/devops)
-- [@video@Azure DevOps Tutorial for Beginners | CI/CD with Azure Pipelines](https://www.youtube.com/watch?v=4BibQ69MD8c)
+- [@video@Tutorial do Azure DevOps para Iniciantes | CI/CD com Pipelines do Azure](https://www.youtube.com/watch?v=4BibQ69MD8c)

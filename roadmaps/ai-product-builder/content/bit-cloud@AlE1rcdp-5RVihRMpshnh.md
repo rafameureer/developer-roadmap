@@ -1,8 +1,8 @@
 # Bit Cloud
 
-Bit Cloud is how humans and AI agents build software autonomously. It enables them to build and maintain software as independent, decoupled building blocks—each owned separately, yet composable into larger systems—so everyone can work in parallel without friction.
+Bit Cloud é como humanos e agentes de IA construem software de forma autônoma. Ele permite que eles construam e mantenham software como blocos de construção independentes e decoplados—cada um proprietário separado, mas compostos em sistemas maiores—assim, todos podem trabalhar em paralelo sem fricção.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para saber mais:
 
-- [@official@Get started with Hope](https://bit.cloud/docs?c=rsh-a)
-- [@official@Get started with your agent](https://bit.cloud/docs/install-bit/?c=rsh-a)
+- [@official@Comece com Hope](https://bit.cloud/docs?c=rsh-a)
+- [@official@Comece com seu agente](https://bit.cloud/docs/install-bit/?c=rsh-a)

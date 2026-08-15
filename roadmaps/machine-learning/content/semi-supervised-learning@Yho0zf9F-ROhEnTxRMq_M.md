@@ -1,8 +1,8 @@
-# Semi-Supervised Learning
+# Aprendizagem Semi-Supervisionada
 
-Semi-supervised learning is a type of machine learning where the training data contains both labeled and unlabeled examples. The goal is to leverage the information from the unlabeled data to improve the performance of a model that would otherwise be trained solely on the labeled data. This approach is particularly useful when obtaining labels is expensive or time-consuming, but unlabeled data is readily available.
+A aprendizagem semi-s supervisionada é um tipo de aprendizado de máquina onde os dados de treinamento contêm exemplos tanto rotulados quanto não rotulados. O objetivo é aproveitar as informações dos dados não rotulados para melhorar o desempenho de um modelo que seria treinado exclusivamente com os dados rotulados. Esse método é particularmente útil quando obter rótulos é caro ou demorado, mas os dados não rotulados estão disponíveis facilmente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Semi-Supervised Learning?](https://www.ibm.com/think/topics/semi-supervised-learning)
-- [@video@What is Semi-Supervised Learning?](https://www.youtube.com/watch?v=C3Lr6Waw66g)
+- [@artigo@O que é Aprendizagem Semi-Supervisionada?](https://www.ibm.com/think/topics/semi-supervised-learning)
+- [@vídeo@O que é Aprendizagem Semi-Supervisionada?](https://www.youtube.com/watch?v=C3Lr6Waw66g)

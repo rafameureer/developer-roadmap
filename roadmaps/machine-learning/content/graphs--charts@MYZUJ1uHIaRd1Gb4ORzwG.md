@@ -1,7 +1,7 @@
-# Graphs & Charts
+# Gráficos e Gráficos
 
-Graphs and charts are visual representations of data. They use symbols like bars, lines, and slices to display patterns, trends, and relationships within datasets. These visual tools help in understanding complex information quickly and making data more accessible and interpretable.
+Gráficos e gráficos são representações visuais de dados. Eles usam símbolos como barras, linhas e fatias para exibir padrões, tendências e relações dentro dos conjuntos de dados. Essas ferramentas visuais ajudam a entender informações complexas rapidamente e tornar os dados mais acessíveis e interpretáveis.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Data Visualization?](https://www.ibm.com/think/topics/data-visualization)
+- [@artigo@O que é Visualização de Dados?](https://www.ibm.com/think/topics/data-visualization)

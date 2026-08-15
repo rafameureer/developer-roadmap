@@ -1,3 +1,3 @@
-# Decision Trees and Random Forests
+# Árvores de Decisão e Florestas Aleatórias
 
-Decision Trees are a way to make predictions by learning decision rules from data features. Imagine a flowchart where each internal node represents a test on an attribute (like "Is the color red?"), each branch represents the outcome of the test, and each leaf node represents a class label (like "apple" or "banana"). Random Forests improve upon this by creating multiple decision trees on different subsets of the data and features, then combining their predictions to get a more accurate and robust result.
+As Árvores de Decisão são um método para fazer previsões aprendendo regras de decisão a partir das características dos dados. Imagine um fluxograma onde cada nó interno representa um teste em um atributo (como "A cor é vermelha?"), cada ramo representa o resultado do teste e cada nó folha representa uma rótulo de classe (como "maçã" ou "banana"). As Florestas Aleatórias melhoram isso criando várias árvores de decisão em subconjuntos diferentes dos dados e características, combinando suas previsões para obter um resultado mais preciso e robusto.

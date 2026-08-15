@@ -1,8 +1,8 @@
 # Deep Q-Networks (DQN)
 
-Deep Q-Networks (DQNs) are a type of reinforcement learning algorithm that combines Q-learning with deep neural networks. Instead of using a traditional Q-table to store Q-values (which represent the expected reward for taking a specific action in a specific state), DQNs use a neural network to approximate the Q-function. This allows DQNs to handle environments with large or continuous state spaces where a Q-table would be impractical. The neural network takes the state as input and outputs the Q-values for each possible action, enabling the agent to learn optimal policies through trial and error.
+Deep Q-Networks (DQNs) são um tipo de algoritmo de aprendizado por reforço que combina o Q-learning com redes neurais profundas. Em vez de usar uma tabela Q tradicional para armazenar valores Q (que representam a recompensa esperada para tomar uma ação específica em um estado específico), as DQNs usam uma rede neural para aproximar a função Q. Isso permite que as DQNs lidem com ambientes com espaços de estados grandes ou contínuos onde uma tabela Q seria imprática. A rede neural recebe o estado como entrada e produz os valores Q para cada ação possível, permitindo que o agente aprenda políticas ótimas através de tentativa e erro.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@The Deep Q-Learning Algorithm](https://huggingface.co/learn/deep-rl-course/en/unit3/deep-q-algorithm)
+- [@article@O Algoritmo Deep Q-Learning](https://huggingface.co/learn/deep-rl-course/en/unit3/deep-q-algorithm)
 - [@video@Deep Q-Learning/Deep Q-Network (DQN) Explained | Python Pytorch Deep Reinforcement Learning](https://www.youtube.com/watch?v=EUrWGTCGzlA)

@@ -1,9 +1,9 @@
-# Train-Test Data
+# Dados de Treinamento e Teste
 
-When building a machine learning model, we usually split our dataset into two parts: a training set and a testing set. The training set is used to teach the model how to make predictions, while the testing set is used to evaluate how well the model has learned. This helps us understand if the model can generalize to new, unseen data. In scikit-learn, you can easily split your data using the `train_test_split` function from the `model_selection` module. You provide your data and labels to this function, and it returns the split datasets. You can also specify the proportion of data to be used for testing.
+Quando criamos um modelo de aprendizado de máquina, geralmente dividimos nosso conjunto de dados em duas partes: um conjunto de treinamento e um conjunto de teste. O conjunto de treinamento é usado para ensinar o modelo como fazer previsões, enquanto o conjunto de teste é usado para avaliar como bem o modelo aprendeu. Isso nos ajuda a entender se o modelo pode generalizar para novos dados não vistos. No scikit-learn, você pode facilmente dividir seus dados usando a função `train_test_split` do módulo `model_selection`. Você fornece seus dados e rótulos para essa função, e ela retorna os conjuntos de dados divididos. Você também pode especificar a proporção dos dados a serem usados para teste.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@train_test_split](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html)
-- [@article@Split Your Dataset With scikit-learn's train_test_split()](https://realpython.com/train-test-split-python-data/)
-- [@video@Train Test Split with Python Machine Learning (Scikit-Learn)](https://www.youtube.com/watch?v=SjOfbbfI2qY)
+- [@oficial@train_test_split](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html)
+- [@artigo@Dividindo seu conjunto de dados com train_test_split() do scikit-learn](https://realpython.com/train-test-split-python-data/)
+- [@vídeo@Divisão de Treinamento e Teste com Python Machine Learning (Scikit-Learn)](https://www.youtube.com/watch?v=SjOfbbfI2qY)

@@ -1,3 +1,3 @@
-# Mobile App Data
+# Dados de Aplicativos Móveis
 
-Mobile app data refers to the information generated and collected from applications running on mobile devices like smartphones and tablets. This data encompasses a wide range of user interactions, device characteristics, and app performance metrics. It can include user demographics, in-app behavior, location data, device type, operating system, and network information, among other things.
+Dados de aplicativos móveis se referem à informação gerada e coletada a partir de aplicativos em dispositivos móveis como smartphones e tablets. Esses dados abrangem uma ampla gama de interações do usuário, características do dispositivo e métricas de desempenho da aplicação. Pode incluir demografia dos usuários, comportamento dentro da aplicação, dados geográficos, tipo de dispositivo, sistema operacional e informações de rede, entre outros.

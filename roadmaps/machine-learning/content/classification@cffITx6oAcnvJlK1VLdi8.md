@@ -1,9 +1,9 @@
-# Classification
+# Classificação
 
-Classification is a type of supervised learning where the goal is to assign data points to predefined categories or classes. Given a set of labeled data (where each data point has a known class), the algorithm learns a mapping function that can predict the class label for new, unseen data. The output is a discrete value representing the predicted class.
+Classificação é um tipo de aprendizado supervisionado onde o objetivo é atribuir pontos de dados a categorias ou classes pré-definidas. Dada uma série de dados rotulados (onde cada ponto de dados tem uma classe conhecida), o algoritmo aprende uma função de mapeamento que pode prever a etiqueta de classe para novos, dados não vistos. A saída é um valor discreto representando a classe prevista.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@Classification - Google Crash Course](https://developers.google.com/machine-learning/crash-course/classification)
-- [@article@What is Classification in Machine Learning?](https://www.ibm.com/think/topics/classification-machine-learning)
-- [@article@Classification in Machine Learning: A Guide for Beginners](https://www.datacamp.com/blog/classification-machine-learning)
+- [@curso@Classificação - Google Crash Course](https://developers.google.com/machine-learning/crash-course/classification)
+- [@artigo@O que é Classificação em Machine Learning?](https://www.ibm.com/think/topics/classification-machine-learning)
+- [@artigo@Classificação em Machine Learning: Um Guia para Iniciantes](https://www.datacamp.com/blog/classification-machine-learning)

@@ -1,8 +1,8 @@
-# Forward Propagation
+# Propagação para Frente
 
-Forward propagation is the process of feeding input data through a neural network to generate an output. It involves taking the inputs, multiplying them by weights, adding biases, and then passing the result through an activation function at each layer of the network. This process is repeated layer by layer until the final output is produced.
+A propagação para frente é o processo de fornecer dados de entrada através de uma rede neural para gerar uma saída. Envolve a tomada de entradas, multiplicação por pesos, adição de viéses e, em seguida, passagem do resultado pela função de ativação em cada camada da rede. Esse processo é repetido camada por camada até que a saída final seja produzida.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Forward Propagation in Neural Networks: A Complete Guide](https://www.datacamp.com/tutorial/forward-propagation-neural-networks)
-- [@video@Forward Propagation in Neural Networks](https://www.youtube.com/watch?v=99CcviQchd8)
+- [@artigo@Propagação para Frente em Redes Neurais: Um Guia Completo](https://www.datacamp.com/tutorial/forward-propagation-neural-networks)
+- [@vídeo@Propagação para Frente em Redes Neurais](https://www.youtube.com/watch?v=99CcviQchd8)

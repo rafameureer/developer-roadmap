@@ -1,8 +1,8 @@
 # APIs
 
-Application Programming Interfaces, better known as APIs, play a fundamental role in the work of data analysts, particularly in the process of data collection. APIs are sets of protocols, routines, and tools that enable different software applications to communicate with each other. In data analysis, APIs are used extensively to collect, exchange, and manipulate data from different sources in a secure and efficient manner. This data collection process is paramount in shaping the insights derived by the analysts.
+As interfaces de programação de aplicativos (APIs), mais conhecidas como APIs, desempenham um papel fundamental no trabalho dos analistas de dados, especialmente no processo de coleta de dados. As APIs são conjuntos de protocolos, rotinas e ferramentas que permitem que diferentes aplicativos de software se comuniquem entre si. No análise de dados, as APIs são usadas extensivamente para coletar, trocar e manipular dados de várias fontes de uma maneira segura e eficiente. Esse processo de coleta de dados é crucial na formação das conclusões derivadas pelos analistas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is an API?](https://aws.amazon.com/what-is/api/)
-- [@article@A Beginner's Guide to APIs](https://www.postman.com/what-is-an-api/)
+- [@artigo@O que é uma API?](https://aws.amazon.com/what-is/api/)
+- [@artigo@Guia Inicial para APIs](https://www.postman.com/what-is-an-api/)

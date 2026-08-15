@@ -1,9 +1,9 @@
-# Recurrent Neural Networks
+# Recorrente Neural Networks
 
-Recurrent Neural Networks (RNNs) are a type of neural network designed to process sequential data, where the order of the inputs matters. Unlike traditional feedforward networks that treat each input independently, RNNs have a "memory" that allows them to consider previous inputs when processing new ones. This memory is implemented through recurrent connections, which feed the output of a neuron back into itself or other neurons in the network, enabling the network to learn patterns and dependencies across time or sequence steps.
+As Redes Neurais Recorrentes (RNNs) são um tipo de rede neural projetada para processar dados sequenciais, onde a ordem dos inputs importa. Ao contrário das redes feedforward tradicionais que tratam cada input independentemente, as RNNs têm uma "memória" que les permite considerar os inputs anteriores ao processar novos. Essa memória é implementada através de conexões recorrentes, que alimentam a saída de um neurônio de volta para si mesmo ou outros neurônios na rede, permitindo que a rede aprenda padrões e dependências ao longo do tempo ou passos da sequência.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is a Recurrent Neural Network (RNN)?](https://www.ibm.com/think/topics/recurrent-neural-networks)
-- [@article@What is RNN? - Recurrent Neural Networks Explained](https://aws.amazon.com/what-is/recurrent-neural-network/)
-- [@video@Recurrent Neural Networks (RNNs), Clearly Explained](https://www.youtube.com/watch?v=AsNTP8Kwu80)
+- [@artigo@O que é uma Rede Neural Recorrente (RNN)?](https://www.ibm.com/think/topics/recurrent-neural-networks)
+- [@artigo@O que é RNN? - Redes Neurais Recorrentes Explicadas](https://aws.amazon.com/what-is/recurrent-neural-network/)
+- [@vídeo@Redes Neurais Recorrentes (RNNs), Explained Clearly](https://www.youtube.com/watch?v=AsNTP8Kwu80)

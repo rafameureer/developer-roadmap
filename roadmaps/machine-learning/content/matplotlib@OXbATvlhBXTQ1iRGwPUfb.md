@@ -1,8 +1,8 @@
 # Matplotlib
 
-Matplotlib is a paramount data visualization library used extensively by data analysts for generating a wide array of plots and graphs. Through Matplotlib, data analysts can convey results clearly and effectively, driving insights from complex data sets. It offers a hierarchical environment which is very natural for a data scientist to work with. Providing an object-oriented API, it allows for extensive customization and integration into larger applications. From histograms, bar charts, scatter plots to 3D graphs, the versatility of Matplotlib assists data analysts in the better comprehension and compelling representation of data.
+Matplotlib é uma biblioteca de visualização de dados essencialmente utilizada por analistas de dados para gerar uma variedade ampla de gráficos e diagramas. Com o Matplotlib, os analistas de dados podem comunicar resultados de maneira clara e eficaz, levando a insights a partir de conjuntos complexos de dados. Ele oferece um ambiente hierárquico que é muito natural para um cientista de dados trabalhar. Fornece uma API orientada a objetos, permitindo uma personalização extensa e integração em aplicativos maiores. Desde histogramas, gráficos de barras, diagramas de dispersão até gráficos 3D, a versatilidade do Matplotlib ajuda os analistas de dados na melhor compreensão e representação persuasiva dos dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Matplotlib](https://matplotlib.org/)
-- [@video@Learn Matplotlib in 6 minutes](https://www.youtube.com/watch?v=nzKy9GY12yo)
+- [@video@Aprenda o Matplotlib em 6 minutos](https://www.youtube.com/watch?v=nzKy9GY12yo)

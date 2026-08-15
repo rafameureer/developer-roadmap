@@ -1,7 +1,7 @@
-# Inferential Statistics
+# Estatística Inferencial
 
-Inferential statistics uses sample data to make inferences or predictions about a larger population. Instead of examining the entire population, which is often impractical or impossible, we analyze a representative subset (the sample) and then use statistical methods to draw conclusions about the characteristics of the whole population. This involves estimating population parameters (like the mean or proportion) and testing hypotheses about these parameters based on the sample data.
+A estatística inferencial usa dados de amostra para fazer inferências ou previsões sobre uma população maior. Em vez de examinar toda a população, que é muitas vezes impraticável ou impossível, analisamos um subconjunto representativo (a amostra) e depois usamos métodos estatísticos para tirar conclusões sobre as características da população inteira. Isso envolve estimar parâmetros populacionais (como a média ou proporção) e testar hipóteses sobre esses parâmetros com base nos dados da amostra.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Inferential Statistics | An Easy Introduction & Examples](https://www.scribbr.com/statistics/inferential-statistics/)
+- [@artigo@Estatística Inferencial | Introdução Fácil & Exemplos](https://www.scribbr.com/statistics/inferential-statistics/)

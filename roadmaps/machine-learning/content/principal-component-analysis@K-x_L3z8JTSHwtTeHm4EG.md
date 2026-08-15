@@ -1,9 +1,9 @@
-# Principal Component Analysis
+# Análise de Componentes Principais
 
-Principal Component Analysis (PCA) is a technique used to reduce the number of variables in a dataset while preserving the most important information. It transforms the original variables into a new set of variables called principal components, which are ordered by the amount of variance they explain. The first principal component captures the most variance, the second captures the second most, and so on. By selecting a smaller number of these principal components, you can reduce the dimensionality of the data without losing too much information.
+A Análise de Componentes Principais (PCA) é uma técnica usada para reduzir o número de variáveis em um conjunto de dados, enquanto preserva a informação mais importante. Ela transforma as variáveis originais em um novo conjunto de variáveis chamadas componentes principais, que estão ordenados pela quantidade de variação que explicam. O primeiro componente principal captura a maior variação, o segundo captura a segunda maior e assim por diante. Ao selecionar um número menor desses componentes principais, você pode reduzir a dimensionalidade dos dados sem perder muito da informação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@PCA | scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html)
-- [@article@What is principal component analysis (PCA)?](https://www.ibm.com/think/topics/principal-component-analysis)
-- [@video@PCA Analysis in Python Explained (Scikit - Learn)](https://www.youtube.com/watch?v=6uwa9EkUqpg)
+- [@artigo@ PCA | scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html)
+- [@artigo@ O que é Análise de Componentes Principais (PCA)?](https://www.ibm.com/think/topics/principal-component-analysis)
+- [@vídeo@ Análise PCA em Python Explicada (Scikit - Learn)](https://www.youtube.com/watch?v=6uwa9EkUqpg)

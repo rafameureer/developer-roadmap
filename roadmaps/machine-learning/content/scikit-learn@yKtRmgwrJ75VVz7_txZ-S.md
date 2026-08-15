@@ -1,8 +1,8 @@
-# Scikit-learn for Neural Networks
+# Scikit-learn para Redes Neurais
 
-Scikit-learn is a popular Python library mainly used for traditional machine learning tasks like classification, regression, and clustering. While it's not primarily designed for deep learning, it does offer basic tools for creating simple neural networks, specifically multi-layer perceptrons (MLPs). You can use `sklearn.neural_network.MLPClassifier` for classification problems and `sklearn.neural_network.MLPRegressor` for regression problems. These tools allow you to quickly build and train basic neural networks without needing a dedicated deep learning framework like TensorFlow or PyTorch.
+Scikit-learn é uma biblioteca Python popular principalmente usada para tarefas de aprendizado tradicional como classificação, regressão e agrupamento. Embora não seja especificamente projetado para aprendizado profundo, ele oferece ferramentas básicas para criar redes neurais simples, especificamente perceptrônicos multicamadas (MLPs). Você pode usar `sklearn.neural_network.MLPClassifier` para problemas de classificação e `sklearn.neural_network.MLPRegressor` para problemas de regressão. Essas ferramentas permitem que você crie e treine rapidamente redes neurais básicas sem a necessidade de um framework de aprendizado profundo dedicado como TensorFlow ou PyTorch.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Neural network models | scikit-learn](https://scikit-learn.org/stable/modules/neural_networks_supervised.html)
-- [@video@How to train and test a neural network using scikit-learn and Keras in Jupyter Notebook.](https://www.youtube.com/watch?v=_JG71FIP1rk)
+- [@article@Modelos de rede neural | scikit-learn](https://scikit-learn.org/stable/modules/neural_networks_supervised.html)
+- [@video@Treinamento e teste de uma rede neural usando scikit-learn e Keras em Jupyter Notebook.](https://www.youtube.com/watch?v=_JG71FIP1rk)

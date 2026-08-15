@@ -1,9 +1,9 @@
-# Long Short-Term Memory Networks (LSTMs)
+# Redes Neurais de Memória a Longo Prazo (LSTMs)
 
-LSTMs are a special kind of recurrent neural network (RNN) architecture designed to handle the vanishing gradient problem that often occurs when training standard RNNs. They excel at processing sequential data by maintaining a "memory" of past inputs, allowing them to learn long-term dependencies. This memory is controlled by gates that regulate the flow of information into and out of the cell state, enabling LSTMs to selectively remember or forget information over time.
+As LSTMs são uma espécie especial de arquitetura de rede neural recorrente (RNN) projetada para lidar com o problema do gradiente desaparecendo que frequentemente ocorre ao treinar RNNs padrão. Eles excelam em processar dados sequenciais mantendo uma "memória" dos inputs passados, permitindo que eles aprendam dependências a longo prazo. Essa memória é controlada por portas que regulam o fluxo de informações para e do estado da célula, permitindo que as LSTMs selecionem memorizar ou esquecer informações ao longo do tempo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@A Gentle Introduction to Long Short-Term Memory Networks by the Experts](https://machinelearningmastery.com/gentle-introduction-long-short-term-memory-networks-experts/)
-- [@video@Long Short-Term Memory (LSTM), Clearly Explained](https://www.youtube.com/watch?v=YCzL96nL7j0)
-- [@video@Simple Explanation of LSTM](https://www.youtube.com/watch?v=LfnrRPFhku)
+- [@artigo@Uma Introdução Gentil a Redes Neurais de Memória a Longo Prazo por Especialistas](https://machinelearningmastery.com/gentle-introduction-long-short-term-memory-networks-experts/)
+- [@vídeo@Rede Neural de Memória a Longo Prazo (LSTM), Explicada Claramente](https://www.youtube.com/watch?v=YCzL96nL7j0)
+- [@vídeo@Explicação Simples da LSTM](https://www.youtube.com/watch?v=LfnrRPFhku)

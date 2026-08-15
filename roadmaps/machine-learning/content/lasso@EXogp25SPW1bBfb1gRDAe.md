@@ -1,9 +1,9 @@
-# Lasso Regression
+# Regressão Lasso
 
-Lasso (Least Absolute Shrinkage and Selection Operator) regression is a linear regression technique that adds a penalty term to the ordinary least squares (OLS) objective function. This penalty is based on the absolute values of the coefficients, effectively shrinking some coefficients towards zero. This shrinkage not only helps prevent overfitting, especially when dealing with high-dimensional data, but also performs feature selection by potentially eliminating less important features from the model.
+A regressão Lasso (Least Absolute Shrinkage and Selection Operator) é uma técnica de regressão linear que adiciona um termo de penalidade à função objetivo do mínimos quadrados ordinários (OLS). Este termo de penalidade é baseado nos valores absolutos dos coeficientes, efetivamente encolhendo alguns coeficientes para zero. Esta encolhimento não apenas ajuda a prevenir o sobreajuste, especialmente quando lidando com dados de alta dimensão, mas também realiza a seleção de recursos eliminando potencialmente os recursos menos importantes do modelo.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
 - [@article@Lasso | scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Lasso.html)
-- [@article@What is lasso regression?](https://www.ibm.com/think/topics/lasso-regression)
-- [@video@Lasso Regression with Scikit-Learn (Beginner Friendly)](https://www.youtube.com/watch?v=LmpBt0tenJE)
+- [@article@O que é a regressão Lasso?](https://www.ibm.com/think/topics/lasso-regression)
+- [@video@Regressão Lasso com Scikit-Learn (Amigável para iniciantes)](https://www.youtube.com/watch?v=LmpBt0tenJE)

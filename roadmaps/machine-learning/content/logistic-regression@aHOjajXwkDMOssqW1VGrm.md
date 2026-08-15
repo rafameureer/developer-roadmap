@@ -1,9 +1,9 @@
-# Logistic Regression
+# Regressão Logística
 
-Logistic Regression is a method used to predict the probability of a categorical outcome. Instead of predicting a continuous value, it predicts whether something belongs to a certain category (like yes/no, true/false, or 0/1). It does this by using a logistic function (also known as a sigmoid function) to squeeze the output of a linear equation between 0 and 1, representing the probability of belonging to that category. The model learns the best coefficients for the linear equation based on the training data.
+A Regressão Logística é um método usado para prever a probabilidade de um resultado categórico. Em vez de prever um valor contínuo, ela prevê se algo pertence a uma certa categoria (como sim/não, verdade/falso ou 0/1). Isso é feito usando uma função logística (também conhecida como função sigmoid) para comprimir a saída de uma equação linear entre 0 e 1, representando a probabilidade de pertencer àquela categoria. O modelo aprende os melhores coeficientes para a equação linear com base nos dados de treinamento.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Logistic Regression | scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
-- [@article@Understanding Logistic Regression in Python](https://www.datacamp.com/tutorial/understanding-logistic-regression-python)
-- [@video@Hands-On Machine Learning: Logistic Regression with Python and Scikit-Learn](https://m.youtube.com/watch?v=aL21Y-u0SRs&pp=0gcJCfwAo7VqN5tD)
+- [@article@Regressão Logística | scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
+- [@article@Entendendo a Regressão Logística em Python](https://www.datacamp.com/tutorial/understanding-logistic-regression-python)
+- [@video@Prática Real: Regressão Logística com Python e Scikit-Learn](https://m.youtube.com/watch?v=aL21Y-u0SRs&pp=0gcJCfwAo7VqN5tD)

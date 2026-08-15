@@ -1,8 +1,8 @@
-# Neural Network (NN) Basics
+# Básicos da Rede Neural (RN)
 
-A neural network is a computational model inspired by the structure and function of biological neural networks. It consists of interconnected nodes, called neurons, organized in layers. These neurons process and transmit signals, learning complex patterns from data through adjusting the strengths of the connections (weights) between them.
+Uma rede neural é um modelo computacional inspirado na estrutura e função de redes neurais biológicas. Ela consiste em nós interconectados, chamados neurônios, organizados em camadas. Esses neurônios processam e transmitem sinais, aprendendo padrões complexos dos dados através da ajuste das forças das conexões (pesos) entre eles.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@Practical Deep Learning](https://course.fast.ai/)
-- [@video@Neural Networks Explained in 5 minutes](https://www.youtube.com/watch?v=jmmW0F0biz0)
+- [@curso@Prática de Aprendizagem Profunda](https://course.fast.ai/)
+- [@vídeo@Redes Neurais Explicadas em 5 minutos](https://www.youtube.com/watch?v=jmmW0F0biz0)

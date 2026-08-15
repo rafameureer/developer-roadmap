@@ -1,8 +1,8 @@
-# Data Preparation in Scikit-learn
+# Preparação de Dados no Scikit-learn
 
-Scikit-learn provides tools to get your data ready for machine learning models. This often involves cleaning, transforming, and scaling your data. Cleaning might mean handling missing values using techniques like imputation. Transformation can involve converting categorical features into numerical ones using methods like one-hot encoding. Scaling ensures that all features contribute equally to the model by bringing them to a similar range, using techniques like standardization or normalization. These steps help improve the performance and accuracy of your machine learning models.
+O Scikit-learn oferece ferramentas para preparar seus dados para modelos de aprendizado de máquina. Isso geralmente envolve limpeza, transformação e escalonamento dos dados. A limpeza pode significar lidar com valores faltantes usando técnicas como imputação. A transformação pode envolver a conversão de recursos categóricos em numéricos usando métodos como codificação one-hot. O escalonamento garante que todos os recursos contribuam igualmente para o modelo, trazendo-os para um intervalo semelhante, usando técnicas como padronização ou normalização. Estes passos ajudam a melhorar o desempenho e a precisão dos seus modelos de aprendizado de máquina.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Preprocessing data](https://scikit-learn.org/stable/modules/preprocessing.html)
-- [@video@Scikit-learn Crash Course - Machine Learning Library for Python](https://www.youtube.com/watch?v=0B5eIE_1vpU&t=188s)
+- [@official@Pré-processamento de dados](https://scikit-learn.org/stable/modules/preprocessing.html)
+- [@video@Curso Completo do Scikit-learn - Biblioteca de Aprendizagem Automática para Python](https://www.youtube.com/watch?v=0B5eIE_1vpU&t=188s)

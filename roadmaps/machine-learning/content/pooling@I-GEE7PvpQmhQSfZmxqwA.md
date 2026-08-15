@@ -1,8 +1,8 @@
 # Pooling
 
-Pooling is a downsampling technique used in convolutional neural networks (CNNs) to reduce the spatial dimensions of feature maps. It summarizes the features present in a region of the feature map into a single value. This helps to reduce the computational cost, control overfitting, and make the network more robust to variations in the input, such as small shifts or distortions.
+Pooling é uma técnica de redução de dimensionalidade usada em redes neurais convolucionais (CNNs) para reduzir as dimensões espaciais dos mapas de características. Ele resume os recursos presentes em uma região do mapa de características em um único valor. Isso ajuda a reduzir o custo computacional, controlar o sobreajuste e tornar a rede mais robusta às variações na entrada, como deslocamentos ou distorções pequenas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@A Gentle Introduction to Pooling Layers for Convolutional Neural Networks](https://machinelearningmastery.com/pooling-layers-for-convolutional-neural-networks/)
-- [@video@Understanding CNN | Pooling in CNNN](https://www.youtube.com/watch?v=azRi6Bz7yc0)
+- [@article@Uma Introdução Gentil aos Camadas de Pooling para Redes Neurais Convolucionais](https://machinelearningmastery.com/pooling-layers-for-convolutional-neural-networks/)
+- [@video@Entendendo CNN | Pooling em CNNN](https://www.youtube.com/watch?v=azRi6Bz7yc0)

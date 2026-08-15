@@ -1,8 +1,8 @@
-# Embeddings
+# Inserções
 
-Embeddings are a way to represent words, phrases, or even entire documents as numerical vectors in a high-dimensional space. The goal is to capture the semantic meaning of the text, so that words with similar meanings are located close to each other in the vector space. This allows machine learning models to understand relationships between words and perform tasks like text classification, sentiment analysis, and machine translation more effectively.
+As inserções são uma maneira de representar palavras, frases ou até mesmo documentos inteiros como vetores numéricos em um espaço de alta dimensão. O objetivo é capturar o significado semântico do texto, de forma que palavras com significados similares estejam localizadas próximas uma da outra no espaço vetorial. Isso permite que os modelos de aprendizado de máquina entenda as relações entre as palavras e execute tarefas como classificação de texto, análise de sentimentos e tradução automática de maneira mais eficaz.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Getting Started With Embeddings](https://huggingface.co/blog/getting-started-with-embeddings)
-- [@article@A Guide on Word Embeddings in NLP](https://www.turing.com/kb/guide-on-word-embeddings-in-nlp)
+- [@artigo@Começando com Inserções](https://huggingface.co/blog/getting-started-with-embeddings)
+- [@artigo@Um Guia sobre Inserções de Palavras em NLP](https://www.turing.com/kb/guide-on-word-embeddings-in-nlp)

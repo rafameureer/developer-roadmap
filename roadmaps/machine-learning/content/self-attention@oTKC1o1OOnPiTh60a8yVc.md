@@ -1,8 +1,8 @@
-# Self-Attention
+# Atenção Autossuficiente
 
-Self-attention is a mechanism that allows a model to focus on different parts of the input sequence when processing it. Instead of treating each element in the sequence independently, self-attention calculates a weighted sum of all elements, where the weights are determined by the relationships between the elements themselves. This enables the model to capture dependencies and contextual information within the input sequence, regardless of their distance from each other.
+A atenção autossuficiente é um mecanismo que permite a um modelo se concentrar em diferentes partes da sequência de entrada ao processá-la. Em vez de tratar cada elemento da sequência independentemente, a atenção autossuficiente calcula uma soma ponderada de todos os elementos, onde os pesos são determinados pelas relações entre os próprios elementos. Isso permite que o modelo capture dependências e informações contextuais na sequência de entrada, independente de sua distância umas das outras.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is self-attention?](https://www.ibm.com/think/topics/self-attention)
-- [@video@Why is Self Attention called "Self"? | Self Attention Vs Luong Attention in Depth Lecture](https://www.youtube.com/watch?v=o4ZVA0TuDRg)
+- [@artigo@O que é atenção autossuficiente?](https://www.ibm.com/think/topics/self-attention)
+- [@vídeo@Por que a Atenção Autossuficiente é chamada de "Autossuficiente"? | Aula Profunda: Atenção Autossuficiente vs Atenção Luong](https://www.youtube.com/watch?v=o4ZVA0TuDRg)

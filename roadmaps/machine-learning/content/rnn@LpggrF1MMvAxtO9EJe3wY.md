@@ -1,7 +1,7 @@
-# Recurrent Neural Networks
+# Redes Neurais Recorrentes
 
-Recurrent Neural Networks (RNNs) are a type of neural network designed to process sequential data. Unlike standard feedforward networks that treat each input independently, RNNs have connections that loop back on themselves, allowing them to maintain a "memory" of past inputs. This memory enables them to learn patterns and dependencies across sequences, making them suitable for tasks like natural language processing, time series analysis, and speech recognition.
+As Redes Neurais Recorrentes (RNNs) são um tipo de rede neural projetada para processar dados sequenciais. Diferentemente das redes feedforward padrão, que tratam cada entrada independentemente, as RNNs têm conexões que se auto-conectam, permitindo-lhes manter uma "memória" dos inputs passados. Essa memória lhes permite aprender padrões e dependências em sequências, tornando-as adequadas para tarefas como processamento de linguagem natural, análise de séries temporais e reconhecimento de fala.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Recurrent Neural Network Tutorial (RNN)](https://www.datacamp.com/tutorial/tutorial-for-recurrent-neural-network)
+- [@article@Tutorial de Redes Neurais Recorrentes (RNN)](https://www.datacamp.com/tutorial/tutorial-for-recurrent-neural-network)

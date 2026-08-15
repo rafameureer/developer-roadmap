@@ -1,10 +1,10 @@
-# Natural Language Processing
+# Processamento de Linguagem Natural (PLN)
 
-Natural Language Processing (NLP) is a field focused on enabling computers to understand, interpret, and generate human language. It bridges the gap between human communication and computer understanding by developing algorithms and models that can process and analyze text and speech data. This allows machines to perform tasks like translation, sentiment analysis, and text summarization.
+O Processamento de Linguagem Natural (PLN) é um campo focado em permitir que computadores entenda, interpretem e gerem o idioma humano. Ele liga a comunicação humana à compreensão do computador desenvolvendo algoritmos e modelos que possam processar e analisar dados de texto e áudio. Isso permite que as máquinas realizem tarefas como tradução, análise de sentimento e resumo de texto.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@book@Natural Language Processing with Python](https://tjzhifei.github.io/resources/NLTK.pdf)
-- [@article@Natural Language Processing](https://www.deeplearning.ai/resources/natural-language-processing/)
-- [@article@What is Natural Language Processing (NLP)? | AWS](https://aws.amazon.com/what-is/nlp/)
-- [@video@Stanford’s Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4)
+- [@livro@Processamento de Linguagem Natural com Python](https://tjzhifei.github.io/resources/NLTK.pdf)
+- [@artigo@Processamento de Linguagem Natural](https://www.deeplearning.ai/resources/natural-language-processing/)
+- [@artigo@O que é Processamento de Linguagem Natural (PLN)? | AWS](https://aws.amazon.com/what-is/nlp/)
+- [@vídeo@Stanford's Processamento de Linguagem Natural com Aprendizagem Profunda](https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4)

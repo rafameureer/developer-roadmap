@@ -1,8 +1,8 @@
-# Model Selection in Scikit-learn
+# Seleção de Modelo em Scikit-learn
 
-Model selection is the process of choosing the best machine learning model from a set of candidate models for a given task. Scikit-learn offers a wide range of models, including linear models (like linear regression and logistic regression), tree-based models (like decision trees and random forests), support vector machines (SVMs), and neural networks, enabling you to find the most suitable model for your specific problem.
+A seleção de modelo é o processo de escolher o melhor modelo de machine learning a partir de um conjunto de modelos candidatos para uma tarefa específica. O Scikit-learn oferece uma ampla gama de modelos, incluindo modelos lineares (como regressão linear e regressão logística), modelos baseados em árvores (como árvores de decisão e florestas aleatórias), máquinas de vetores de suporte (SVMs) e redes neurais, permitindo que você encontre o modelo mais adequado para seu problema específico.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Supervised Learning Models](https://scikit-learn.org/stable/supervised_learning.html)
-- [@official@Unsupervised Learning Models](https://scikit-learn.org/stable/unsupervised_learning.html)
+- [@official@Modelos de Aprendizado Supervisionado](https://scikit-learn.org/stable/supervised_learning.html)
+- [@official@Modelos de Aprendizado Não Supervisionado](https://scikit-learn.org/stable/unsupervised_learning.html)

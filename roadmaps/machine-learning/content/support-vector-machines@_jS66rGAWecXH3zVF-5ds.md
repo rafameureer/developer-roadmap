@@ -1,9 +1,9 @@
-# Support Vector Machines
+# Máquinas de Vetores de Suporte
 
-Support Vector Machines (SVMs) are a type of supervised learning algorithm used for classification and regression. They work by finding an optimal hyperplane that separates data points belonging to different classes with the largest possible margin. This hyperplane acts as a decision boundary, and new data points are classified based on which side of the hyperplane they fall on.
+As Máquinas de Vetores de Suporte (MVS) são um tipo de algoritmo de aprendizado supervisionado usado para classificação e regressão. Eles funcionam encontrando uma hiperplano ótimo que separe os pontos de dados pertencentes a diferentes classes com a maior margem possível. Este hiperplano atua como uma fronteira de decisão, e novos pontos de dados são classificados com base em qual lado do hiperplano eles caem.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Support Vector Classification (SVC) - scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html)
-- [@article@Support Vector Machines with Scikit-learn Tutorial](https://www.datacamp.com/tutorial/svm-classification-scikit-learn-python)
-- [@video@Mastering Support Vector Machines with Python and Scikit-Learn](https://www.youtube.com/watch?v=kPkwf1x7zpU)
+- [@artigo@Classificação por Máquinas de Vetores de Suporte (SVC) - scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html)
+- [@artigo@Máquinas de Vetores de Suporte com Tutorial do Scikit-learn](https://www.datacamp.com/tutorial/svm-classification-scikit-learn-python)
+- [@vídeo@Dominando Máquinas de Vetores de Suporte com Python e Scikit-Learn](https://www.youtube.com/watch?v=kPkwf1x7zpU)

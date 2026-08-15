@@ -1,9 +1,9 @@
-# Probability
+# Probabilidade
 
-Probability is a way to quantify the likelihood of an event occurring. It provides a numerical measure, ranging from 0 to 1, that represents the likelihood of a specific outcome occurring. A probability of 0 indicates impossibility, while a probability of 1 signifies certainty. It's a fundamental concept for understanding uncertainty and making predictions based on available data.
+A probabilidade é uma maneira de quantificar a probabilidade de um evento ocorrer. Ela fornece uma medida numérica, variando de 0 a 1, que representa a probabilidade de um resultado específico ocorrer. Uma probabilidade de 0 indica impossibilidade, enquanto uma probabilidade de 1 significa certeza. É um conceito fundamental para entender incerteza e fazer previsões com base em dados disponíveis.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@book@Probability and Statistics: The Science of Uncertainty](https://utstat.utoronto.ca/mikevans/jeffrosenthal/book.pdf)
-- [@article@Probability for machine learning](https://towardsdatascience.com/probability-for-machine-learning-b4150953df09/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)
-- [@video@Probability for Data Science & Machine Learning](https://www.youtube.com/watch?v=sEte4hXEgJ8)
+- [@livro@Probabilidade e Estatística: A Ciência da Incerteza](https://utstat.utoronto.ca/mikevans/jeffrosenthal/book.pdf)
+- [@artigo@Probabilidade para Machine Learning](https://towardsdatascience.com/probability-for-machine-learning-b4150953df09/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)
+- [@vídeo@Probabilidade para Ciência de Dados & Machine Learning](https://www.youtube.com/watch?v=sEte4hXEgJ8)

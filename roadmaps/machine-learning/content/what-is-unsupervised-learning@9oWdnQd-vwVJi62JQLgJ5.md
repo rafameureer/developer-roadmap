@@ -1,9 +1,9 @@
-# What is Unsupervised Learning?
+# O que é Aprendizagem Não Supervisionada?
 
-Unsupervised learning is a type of machine learning where the algorithm learns patterns from unlabeled data. Unlike supervised learning, there are no pre-defined correct answers or target variables provided to guide the learning process. Instead, the algorithm explores the data to discover hidden structures, relationships, and groupings on its own. Common tasks in unsupervised learning include clustering, dimensionality reduction, and anomaly detection.
+A aprendizagem não supervisionada é um tipo de aprendizado de máquina onde o algoritmo aprende padrões a partir de dados não rotulados. Diferentemente da aprendizagem supervisionada, não há respostas corretas pré-definidas ou variáveis-alvo fornecidas para guiar o processo de aprendizado. Em vez disso, o algoritmo explora os dados em busca de estruturas ocultas, relações e agrupamentos por conta própria. Tarefas comuns na aprendizagem não supervisionada incluem agrupamento, redução de dimensionalidade e detecção de anomalias.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Unsupervised Learning?](https://cloud.google.com/discover/what-is-unsupervised-learning)
-- [@article@Introduction to Unsupervised Learning](https://www.datacamp.com/blog/introduction-to-unsupervised-learning)
-- [@video@Unsupervised Machine Learning Explained For Beginners](https://www.youtube.com/watch?v=yteYU_QpUxs)
+- [@artigo@O que é Aprendizagem Não Supervisionada?](https://cloud.google.com/discover/what-is-unsupervised-learning)
+- [@artigo@Introdução à Aprendizagem Não Supervisionada](https://www.datacamp.com/blog/introduction-to-unsupervised-learning)
+- [@vídeo@Aprendizagem Não Supervisionada Explicada para Iniciantes](https://www.youtube.com/watch?v=yteYU_QpUxs)

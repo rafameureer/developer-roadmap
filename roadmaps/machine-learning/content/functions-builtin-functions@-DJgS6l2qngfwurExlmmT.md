@@ -1,9 +1,9 @@
-# Functions and Built-in Functions
+# Funções e Funções Internas
 
-Functions are reusable blocks of code that perform a specific task. They take inputs, process them, and return an output. Python provides many built-in functions like `print()` for displaying output, `len()` for finding the length of a sequence, and `type()` for determining the data type of a variable. These built-in functions are readily available for use, while you can also define your own custom functions, also known as user-defined functions (UDFs), to encapsulate specific logic and improve code organization.
+As funções são blocos de código reutilizáveis que executam uma tarefa específica. Elas recebem entradas, processam-as e retornam uma saída. O Python fornece muitas funções internas como `print()` para exibir a saída, `len()` para encontrar o comprimento de uma sequência e `type()` para determinar o tipo de dados de uma variável. Essas funções internas estão disponíveis para uso imediato, enquanto você também pode definir suas próprias funções personalizadas, também conhecidas como funções definidas pelo usuário (UDFs), para encapsular lógica específica e melhorar a organização do código.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Built-in Functions](https://docs.python.org/3/library/functions.html)
-- [@article@Python Functions: How to Call & Write Functions](https://www.datacamp.com/tutorial/functions-python-tutorial)
-- [@video@Functions in Python | Python for Beginners](https://www.youtube.com/watch?v=zvzjaqMBEso)
+- [@oficial@Funções Internas](https://docs.python.org/3/library/functions.html)
+- [@artigo@Funções em Python: Como Chamar & Escrever Funções](https://www.datacamp.com/tutorial/functions-python-tutorial)
+- [@vídeo@Funções em Python | Python para Iniciantes](https://www.youtube.com/watch?v=zvzjaqMBEso)

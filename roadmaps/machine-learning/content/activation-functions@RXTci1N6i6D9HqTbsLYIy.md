@@ -1,9 +1,9 @@
-# Activation Functions
+# Funções de Ativação
 
-Activation functions in neural networks determine the output of a node given an input or set of inputs. They introduce non-linearity into the network, allowing it to learn complex patterns and relationships in data. Without activation functions, a neural network would simply be a linear regression model, severely limiting its ability to model intricate data.
+As funções de ativação em redes neurais determinam a saída de um nó dado uma entrada ou conjunto de entradas. Elas introduzem não-linearidade na rede, permitindo que ela aprenda padrões e relações complexas nos dados. Sem funções de ativação, uma rede neural seria apenas um modelo de regressão linear, limitando severamente sua capacidade de modelar dados intrincados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Activation Functions in Neural Networks: How to Choose the Right One](https://towardsdatascience.com/activation-functions-in-neural-networks-how-to-choose-the-right-one-cb20414c04e5/)
-- [@article@Neural networks: Activation functions](https://developers.google.com/machine-learning/crash-course/neural-networks/activation-functions)
-- [@video@Activation Functions In Neural Networks Explained](https://www.youtube.com/watch?v=Fu273ovPBmQ)
+- [@artigo@Funções de Ativação em Redes Neurais: Como Escolher a Certa](https://towardsdatascience.com/activation-functions-in-neural-networks-how-to-choose-the-right-one-cb20414c04e5/)
+- [@artigo@Redes neurais: Funções de ativação](https://developers.google.com/machine-learning/crash-course/neural-networks/activation-functions)
+- [@vídeo@Funções de Ativação em Redes Neurais Explicadas](https://www.youtube.com/watch?v=Fu273ovPBmQ)

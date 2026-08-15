@@ -1,7 +1,7 @@
-# Overlapping Clustering
+# Agrupamento Sobreposto
 
-Overlapping clustering allows data points to belong to multiple clusters simultaneously. Unlike traditional "hard" clustering where each point is assigned to only one cluster, overlapping clustering acknowledges that data points can exhibit characteristics of several groups. This is particularly useful when dealing with complex datasets where boundaries between clusters are not well-defined. One algorithm that implements overlapping clustering is the _Fuzzy C-Means (FCM)_ algorithm. FCM assigns a membership degree to each data point for each cluster, representing the probability of belonging to that cluster. A data point can have non-zero membership degrees for multiple clusters, indicating its partial membership in each.
+O agrupamento sobreposto permite que os pontos de dados pertençam a múltiplos grupos simultaneamente. Diferentemente do agrupamento "hard" tradicional, onde cada ponto é atribuído a apenas um grupo, o agrupamento sobreposto reconhece que os pontos de dados podem exibir características de vários grupos. Isso é particularmente útil ao lidar com conjuntos de dados complexos em que as fronteiras entre os grupos não estão bem definidas. Um algoritmo que implementa agrupamento sobreposto é o _Fuzzy C-Means (FCM)_. O FCM atribui um grau de pertencimento a cada ponto de dados para cada grupo, representando a probabilidade de pertencer a esse grupo. Um ponto de dados pode ter graus de pertencimento não-zero para múltiplos grupos, indicando sua pertencência parcial em cada.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Unsupervised Clustering: A Guide](https://builtin.com/articles/unsupervised-clustering)
+- [@artigo@Agrupamento Não Supervisionado: Uma Guia](https://builtin.com/articles/unsupervised-clustering)

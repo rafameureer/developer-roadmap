@@ -1,9 +1,9 @@
-# Types of Distribution
+# Tipos de Distribuição
 
-A distribution describes how data is spread or arranged across its possible values. It provides a way to understand the probability of different outcomes occurring within a dataset. Different types of distributions, like normal, uniform, or binomial, each have unique characteristics that determine the likelihood of observing specific values. Understanding these distributions is essential for summarizing data, making predictions, and performing statistical inference.
+A distribuição descreve como os dados são espalhados ou organizados em seus valores possíveis. Ela fornece uma maneira de entender a probabilidade de diferentes resultados ocorrerem em um conjunto de dados. Diferentes tipos de distribuições, como normal, uniforme ou binomial, cada um têm características únicas que determinam a probabilidade de observar valores específicos. Entender essas distribuições é essencial para resumir os dados, fazer previsões e realizar inferência estatística.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Probability Distribution | Formula, Types, & Examples](https://www.scribbr.com/statistics/probability-distributions/)
-- [@article@List of probability distributions](https://en.wikipedia.org/wiki/List_of_probability_distributions)
-- [@video@Probability: Types of Distributions](https://www.youtube.com/watch?v=b9a27XN_6tg)
+- [@artigo@Distribuição de Probabilidade | Fórmula, Tipos e Exemplos](https://www.scribbr.com/statistics/probability-distributions/)
+- [@artigo@Lista de distribuições de probabilidade](https://en.wikipedia.org/wiki/List_of_probability_distributions)
+- [@vídeo@Probabilidade: Tipos de Distribuição](https://www.youtube.com/watch?v=b9a27XN_6tg)

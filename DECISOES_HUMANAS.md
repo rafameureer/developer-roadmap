@@ -4,7 +4,7 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 
 ---
 
-> ⚠️ **Total de itens sinalizados:** 1170
+> ⚠️ **Total de itens sinalizados:** 1191
 
 | Arquivo / Tópico | Motivo da Sinalização | Data/Hora |
 |---|---|---|
@@ -1178,3 +1178,24 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 | `roadmaps/linux/content/ip-routing@D0yUzzaJsfhtdBWMtquAj.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:20:30.587965 |
 | `roadmaps/linux/content/loops@WJT-yrMq8cEI87RHWA2jY.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:21:12.439069 |
 | `roadmaps/linux/content/managing-permissions@L6RMExeqi9501y-eCHDt1.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:21:21.723392 |
+| `roadmaps/machine-learning/content/attention-models@sChxcuQ2OruKVx8P4wAK_.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:26:16.679217 |
+| `roadmaps/machine-learning/content/autoencoders@kvf2CUKBe4qSbZla4Brh3.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:26:20.647300 |
+| `roadmaps/machine-learning/content/autoencoders@owSUO9Ut9sggd1OiWr3O7.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:26:23.749694 |
+| `roadmaps/machine-learning/content/convolutional-neural-network@BtO2wH7YYqE25HShI6sd9.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:27:43.135263 |
+| `roadmaps/machine-learning/content/csv@MWfdLCb_w06A0jqwUJUxl.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:27:47.938770 |
+| `roadmaps/machine-learning/content/data-cleaning@5v0jRBYrRuVXQC90IseRG.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:27:52.468589 |
+| `roadmaps/machine-learning/content/data-sources@-oRH7LgigHcfBkNF1xwxh.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:28:22.536912 |
+| `roadmaps/machine-learning/content/data-structures@R9DQNc0AyAQ2HLpP4HOk6.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:28:26.510982 |
+| `roadmaps/machine-learning/content/databases-sql-no-sql@VdMhrAi48V-JXw544YTKI.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:28:30.858387 |
+| `roadmaps/machine-learning/content/image--video-recognition@jPvZdgye7cBf0bPMVGf7a.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:31:13.227926 |
+| `roadmaps/machine-learning/content/image-classification@E4k6WgNXdnNoApR675VKb.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:31:16.368345 |
+| `roadmaps/machine-learning/content/image-segmentation@iSX9YExs1gS4L2CBQux5w.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:31:20.275693 |
+| `roadmaps/machine-learning/content/pytorch@7RSW-Pypf3QpZp4O21AGl.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:35:12.983726 |
+| `roadmaps/machine-learning/content/q-learning@wxq5dkrpgvs3axmLmeHCk.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:35:17.574640 |
+| `roadmaps/machine-learning/content/random-variances-pdfs@P576TdYcbE6v3RpJntiKw.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:35:23.099238 |
+| `roadmaps/machine-learning/content/regression@gKu6tnpTO2PhDDMYp2u7F.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:35:50.969428 |
+| `roadmaps/machine-learning/content/reinforcement-learning@NC1A2SQVyc1n-KEf6yl-4.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:35:56.369409 |
+| `roadmaps/machine-learning/content/ridge@1aX_vO5zxfTV8_kUIFHkR.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:36:00.298785 |
+| `roadmaps/machine-learning/content/singular-value-decomposition@yGs2h10gZcO4GMaWfI3uW.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:37:00.831936 |
+| `roadmaps/machine-learning/content/skills-and-responsibilities@BzZd-d5t63dY97SRSIb0J.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:37:03.685977 |
+| `roadmaps/machine-learning/content/statistics@5DiaZkljhHAGPi9DkaH3b.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:37:08.972880 |

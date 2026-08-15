@@ -1,10 +1,10 @@
-# Object Oriented Programming
+# Programação Orientada a Objetos
 
-In Python, object-oriented Programming (OOPs) is a programming paradigm that uses objects and classes in programming. It aims to implement real-world entities like inheritance, polymorphism, encapsulation, etc., in programming. The main concept of OOPs is to bind the data and the functions that work on that together as a single unit so that no other part of the code can access this data.
+Em Python, a Programação Orientada a Objetos (POO) é um paradigma de programação que usa objetos e classes em programação. Ele visa implementar entidades do mundo real como herança, polimorfismo, encapsulamento, etc., em programação. O conceito principal da POO é unir os dados e as funções que operam nesses dados em uma única unidade para que nenhum outro pedaço de código possa acessar esses dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Object Oriented Programming in Python](https://realpython.com/python3-object-oriented-programming/)
-- [@video@Object Oriented Programming with Python - Full Course for Beginners](https://www.youtube.com/watch?v=Ej_02ICOIgs)
-- [@video@Object Oriented Programming (OOP) In Python - Beginner Crash Course](https://www.youtube.com/watch?v=-pEs-Bss8Wc/)
-- [@video@Python OOP Tutorial](https://www.youtube.com/watch?v=IbMDCwVm63M)
+- [@article@Programação Orientada a Objetos em Python](https://realpython.com/python3-object-oriented-programming/)
+- [@video@Introdução à Programação Orientada a Objetos com Python - Curso Completo para Iniciantes](https://www.youtube.com/watch?v=Ej_02ICOIgs)
+- [@video@Crash Course de Introdução à Programação Orientada a Objetos (POO) em Python para Iniciantes](https://www.youtube.com/watch?v=-pEs-Bss8Wc/)
+- [@video@Tutorial de POO em Python](https://www.youtube.com/watch?v=IbMDCwVm63M)

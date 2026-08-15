@@ -1,10 +1,10 @@
-# Validation Techniques
+# Técnicas de Validação
 
-Validation techniques are methods used to estimate how well a machine learning model will generalize to unseen data. They involve splitting the available data into different subsets: a training set used to train the model, and a validation set used to evaluate the model's performance during training or hyperparameter tuning. By assessing the model on data it hasn't seen before, validation techniques help to identify issues like overfitting and underfitting, and ultimately guide the selection of the best model for a given task.
+As técnicas de validação são métodos usados para estimar o quão bem um modelo de aprendizado de máquina se generalizará a dados não vistos. Eles envolvem dividir os dados disponíveis em diferentes subconjuntos: um conjunto de treinamento usado para treinar o modelo e um conjunto de validação usado para avaliar o desempenho do modelo durante o treinamento ou a otimização dos hiperparâmetros. Ao avaliar o modelo com dados que ele não viu antes, as técnicas de validação ajudam a identificar problemas como sobreajuste e subajuste, e finalmente guiam a seleção do melhor modelo para uma tarefa específica.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Cross-validation: evaluating estimator performance | scikit-learn](https://scikit-learn.org/stable/modules/cross_validation.html)
-- [@article@The 5 Stages of Machine Learning Validation](https://towardsdatascience.com/the-5-stages-of-machine-learning-validation-162193f8e5db/)
-- [@article@What is the Difference Between Test and Validation Datasets?](https://machinelearningmastery.com/difference-test-validation-datasets/)
-- [@video@Validating Machine Learning Model and Avoiding Common Challenges](https://www.youtube.com/watch?v=TnIh2b2Rw6%5D(https://www.youtube.com/watch?v=TnIh2b2Rw6Y))
+- [@artigo@Validação cruzada: avaliando o desempenho do estimador | scikit-learn](https://scikit-learn.org/stable/modules/cross_validation.html)
+- [@artigo@As 5 Fases da Validação de Aprendizado de Máquina](https://towardsdatascience.com/the-5-stages-of-machine-learning-validation-162193f8e5db/)
+- [@artigo@O que é a Diferença entre Conjuntos de Teste e Validação?](https://machinelearningmastery.com/difference-test-validation-datasets/)
+- [@vídeo@Validando Modelos de Aprendizado de Máquina e Evitando Desafios Comuns](https://www.youtube.com/watch?v=TnIh2b2Rw6Y)

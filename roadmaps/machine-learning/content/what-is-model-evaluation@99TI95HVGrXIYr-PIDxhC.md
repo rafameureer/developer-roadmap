@@ -1,3 +1,3 @@
-# Model Evaluation
+# Avaliação de Modelo
 
-Model evaluation is the process of assessing how well a machine learning model performs on a given dataset. It involves using various metrics and techniques to quantify the model's accuracy, reliability, and generalization ability. This helps determine if the model is suitable for deployment and whether further improvements are needed.
+A avaliação de modelo é o processo de avaliar como bem um modelo de aprendizado de máquina desempenha em um conjunto de dados específico. Envolve o uso de várias métricas e técnicas para quantificar a precisão, confiabilidade e capacidade de generalização do modelo. Isso ajuda a determinar se o modelo é adequado para implantação e se melhorias adicionais são necessárias.

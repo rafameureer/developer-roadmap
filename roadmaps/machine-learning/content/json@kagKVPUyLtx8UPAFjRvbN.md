@@ -1,8 +1,8 @@
 # JSON
 
-JavaScript Object Notation (JSON) is a standard text-based format for representing structured data based on JavaScript object syntax. It is commonly used for transmitting data in web applications (e.g., sending some data from the server to the client, so it can be displayed on a web page, or vice versa).
+JavaScript Object Notation (JSON) é um formato de texto baseado em padrão para representar dados estruturados com base na sintaxe de objetos JavaScript. É comumente usado para transmitir dados em aplicações web (por exemplo, enviando alguns dados do servidor ao cliente, para que possam ser exibidos em uma página da web, ou vice-versa).
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Working with JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
-- [@video@JSON Tutorial for Beginners](https://www.youtube.com/watch?v=iiADhChRriM)
+- [@artigo@Trabalhando com JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
+- [@vídeo@Tutorial de JSON para iniciantes](https://www.youtube.com/watch?v=iiADhChRriM)

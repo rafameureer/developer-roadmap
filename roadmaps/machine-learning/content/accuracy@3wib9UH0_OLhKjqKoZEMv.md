@@ -1,8 +1,8 @@
-# Accuracy
+# Precisão
 
-Accuracy measures how often a machine learning model correctly predicts the outcome. It's calculated by dividing the number of correct predictions by the total number of predictions made. The formula for accuracy is: (Number of Correct Predictions) / (Total Number of Predictions).
+A precisão mede com frequência um modelo de aprendizado de máquina prevê corretamente o resultado. É calculada dividindo o número de previsões corretas pelo número total de previsões feitas. A fórmula para a precisão é: (Número de Previsões Corretas) / (Número Total de Previsões).
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Accuracy | scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.accuracy_score.html)
-- [@article@Machine Learning Model Accuracy](https://www.giskard.ai/glossary/machine-learning-model-accuracy)
+- [@artigo@Precisão | scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.accuracy_score.html)
+- [@artigo@Acurácia do Modelo de Aprendizado de Máquina](https://www.giskard.ai/glossary/machine-learning-model-accuracy)

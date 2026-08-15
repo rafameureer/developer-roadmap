@@ -1,8 +1,8 @@
-# Chain Rule of Derivation
+# Regra da Cadeia
 
-The chain rule is a formula for finding the derivative of a composite function. If you have a function that's made up of one function inside another (like sin(x²) ), the chain rule lets you break down the differentiation process. It states that the derivative of the composite function is the derivative of the outer function evaluated at the inner function, multiplied by the derivative of the inner function.
+A regra da cadeia é uma fórmula para encontrar a derivada de uma função composta. Se você tiver uma função que é composta por uma função dentro de outra (como sin(x²)), a regra da cadeia permite que você divida o processo de diferenciação. Ela afirma que a derivada da função composta é a derivada da função externa avaliada na função interna, multiplicada pela derivada da função interna.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Chain rule](https://en.wikipedia.org/wiki/Chain_rule)
-- [@video@Derivatives of Composite Functions: The Chain Rule](https://www.youtube.com/watch?v=_x1nCg2LfuA)
+- [@artigo@Regra da Cadeia](https://en.wikipedia.org/wiki/Chain_rule)
+- [@vídeo@Derivadas de Funções Compostas: A Regra da Cadeia](https://www.youtube.com/watch?v=_x1nCg2LfuA)

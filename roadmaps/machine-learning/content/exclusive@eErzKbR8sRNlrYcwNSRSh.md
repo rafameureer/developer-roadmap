@@ -1,8 +1,8 @@
-# Exclusive Clustering
+# Agrupamento Exclusivo
 
-Exclusive clustering, also known as hard clustering, is a type of clustering where each data point can only belong to one cluster. This means there's no overlap between clusters; a data point is definitively assigned to a single group. The goal is to partition the data into distinct, non-overlapping clusters based on similarity. For example, K-Means is an exclusive clustering algorithm. It aims to partition n data points into k clusters in which each data point belongs to the cluster with the nearest mean (cluster centers or cluster centroid), serving as a prototype of the cluster.
+O agrupamento exclusivo, também conhecido como agrupamento rígido, é um tipo de agrupamento onde cada ponto de dados pode pertencer a apenas um único cluster. Isso significa que não há sobreposição entre os clusters; um ponto de dados é definitivamente atribuído a um único grupo. O objetivo é particionar os dados em grupos distintos e não sobrepostos com base na similaridade. Por exemplo, o Algoritmo K-Means é um algoritmo de agrupamento exclusivo. Ele busca particionar n pontos de dados em k clusters em que cada ponto de dados pertença ao cluster com a média mais próxima (centros ou centroides do cluster), servindo como protótipo do cluster.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@K-means | scikit-learn](https://scikit-learn.org/stable/modules/clustering.html#k-means)
-- [@article@Unsupervised Clustering: A Guide](https://builtin.com/articles/unsupervised-clustering)
+- [@artigo@K-means | scikit-learn](https://scikit-learn.org/stable/modules/clustering.html#k-means)
+- [@artigo@Agrupamento Não Supervisionado: um Guia](https://builtin.com/articles/unsupervised-clustering)

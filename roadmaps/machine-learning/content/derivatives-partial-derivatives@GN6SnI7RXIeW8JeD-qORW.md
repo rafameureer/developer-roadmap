@@ -1,8 +1,8 @@
-# Derivatives and Partial Derivatives
+# Derivadas e Derivadas Parciais
 
-A derivative measures how a function changes as its input changes. Imagine a curve on a graph; the derivative at a specific point tells you the slope of the line tangent to that curve at that point. When dealing with functions of multiple variables, we use partial derivatives. A partial derivative measures how a function changes with respect to one specific variable, while holding all other variables constant.
+Uma derivada mede como uma função muda conforme seu input muda. Imagine uma curva em um gráfico; a derivada em um ponto específico te informa a inclinação da linha tangente a essa curva no ponto. Quando lidamos com funções de várias variáveis, usamos derivadas parciais. Uma derivada parcial mede como uma função muda em relação a uma única variável específica, mantendo todas as outras variáveis constantes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Derivatives](https://en.wikipedia.org/wiki/Derivative)
-- [@video@What is a Derivative? Deriving the Power Rule](https://www.youtube.com/watch?v=x3iEEDxrhyE)
+- [@article@Derivadas](https://en.wikipedia.org/wiki/Derivative)
+- [@video@O que é uma Derivada? Derivando a Regra da Potência](https://www.youtube.com/watch?v=x3iEEDxrhyE)

@@ -1,12 +1,12 @@
-# Gradient, Jacobian, and Hessian
+# Gradiente, Jacobiano e Hessiano
 
-The gradient, Jacobian, and Hessian are fundamental tools from calculus used to analyze and optimize functions, especially in the context of machine learning. The gradient of a scalar-valued function of multiple variables is a vector containing the partial derivatives with respect to each variable, indicating the direction of the steepest ascent. The Jacobian matrix generalizes the gradient to vector-valued functions of multiple variables, containing all the partial derivatives of each output component with respect to each input variable. The Hessian matrix, on the other hand, is the square matrix of second-order partial derivatives of a scalar-valued function, providing information about the local curvature of the function.
+O gradiente, jacobiano e hessiano são ferramentas fundamentais da cálculo usadas para analisar e otimizar funções, especialmente no contexto do aprendizado de máquina. O gradiente de uma função escalar de várias variáveis é um vetor contendo as derivadas parciais em relação a cada variável, indicando a direção do maior aumento. A matriz jacobiana generaliza o gradiente para funções vetoriais de várias variáveis, contendo todas as derivadas parciais de cada componente de saída com relação a cada variável de entrada. Por outro lado, a matriz hessiana é a matriz quadrada das derivadas parciais de segunda ordem de uma função escalar, fornecendo informações sobre a curvatura local da função.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Vector Calculus: Understanding the Gradient](https://betterexplained.com/articles/vector-calculus-understanding-the-gradient/)
-- [@article@A Gentle Introduction to the Jacobian](https://machinelearningmastery.com/a-gentle-introduction-to-the-jacobian/)
-- [@article@A Gentle Introduction To Hessian Matrices](https://www.machinelearningmastery.com/a-gentle-introduction-to-hessian-matrices/)
-- [@video@Partial Derivatives and the Gradient of a Function](https://www.youtube.com/watch?v=AXH9Xm6Rbfc&t=320s&pp=ygURZ3JhZGllbnQgY2FsY3VsdXM%3D)
-- [@video@Change of Variables and the Jacobian](https://www.youtube.com/watch?v=hhFzJvaY__U)
-- [@video@Multivariable Calculus: Lecture 3 Hessian Matrix : Optimization for a three variable function](https://www.youtube.com/watch?v=zomvvohLwr4)
+- [@artigo@Cálculo Vetorial: Entendendo o Gradiente](https://betterexplained.com/articles/vector-calculus-understanding-the-gradient/)
+- [@artigo@Uma Introdução Gentil ao Jacobiano](https://machinelearningmastery.com/a-gentle-introduction-to-the-jacobian/)
+- [@artigo@Uma Introdução Sutil às Matrizes Hessiana](https://www.machinelearningmastery.com/a-gentle-introduction-to-hessian-matrices/)
+- [@vídeo@Derivadas Parciais e o Gradiente de uma Função](https://www.youtube.com/watch?v=AXH9Xm6Rbfc&t=320s&pp=ygURZ3JhZGllbnQgY2FsY3VsdXM%3D)
+- [@vídeo@Mudança de Variáveis e o Jacobiano](https://www.youtube.com/watch?v=hhFzJvaY__U)
+- [@vídeo@Cálculo Multivariado: Aula 3 Matriz Hessiana : Otimização para uma função com três variáveis](https://www.youtube.com/watch?v=zomvvohLwr4)

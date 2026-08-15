@@ -1,8 +1,8 @@
-# Elastic Net Regularization
+# Regularização Elastic Net
 
-Elastic Net is a regularization technique that combines the penalties of both L1 (Lasso) and L2 (Ridge) regularization methods. It aims to improve model performance by addressing limitations of each individual method, particularly in situations where there are many correlated features. By using a linear combination of L1 and L2 penalties, Elastic Net can perform feature selection (like Lasso) and handle multicollinearity (like Ridge) simultaneously.
+O Elastic Net é uma técnica de regularização que combina as penalidades dos métodos de regularização L1 (Lasso) e L2 (Ridge). Ele visa melhorar o desempenho do modelo, abordando limitações de cada método individual, especialmente em situações onde há muitos recursos correlacionados. Usando uma combinação linear de penalidades L1 e L2, o Elastic Net pode realizar seleção de características (como o Lasso) e lidar com multicolinearidade (como o Ridge) simultaneamente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@ElasticNet| scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.ElasticNet.html)
-- [@video@https://www.youtube.com/watch?v=xl6KAAVytEk](https://www.youtube.com/watch?v=xl6KAAVytEk)
+- [@artigo@ElasticNet| scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.ElasticNet.html)
+- [@vídeo@https://www.youtube.com/watch?v=xl6KAAVytEk](https://www.youtube.com/watch?v=xl6KAAVytEk)

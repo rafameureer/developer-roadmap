@@ -1,9 +1,9 @@
-# Exceptions
+# Exceções
 
-Exceptions in Python are events that disrupt the normal flow of a program's execution. They occur when the interpreter encounters an error during runtime, such as trying to divide by zero or accessing an index that's out of bounds in a list. When an exception occurs, Python creates an exception object. If the exception isn't handled, the program will terminate and display an error message. However, you can use `try` and `except` blocks to catch and handle exceptions, allowing your program to continue running even when errors occur.
+As exceções em Python são eventos que interrompem o fluxo normal de execução de um programa. Elas ocorrem quando o interpretador encontra um erro durante a execução, como tentar dividir por zero ou acessar um índice fora dos limites em uma lista. Quando uma exceção ocorre, Python cria um objeto de exceção. Se a exceção não for tratada, o programa será encerrado e exibirá uma mensagem de erro. No entanto, você pode usar blocos `try` e `except` para capturar e tratar exceções, permitindo que seu programa continue executando mesmo quando ocorrem erros.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Errors and Exceptions](https://docs.python.org/3/tutorial/errors.html)
-- [@article@Python Exceptions: An Introduction](https://realpython.com/python-exceptions/)
-- [@video@Learn Python EXCEPTION HANDLING in 5 minutes!](https://www.youtube.com/watch?v=V_NXT2-QIlE)
+- [@oficial@Erros e Exceções](https://docs.python.org/3/tutorial/errors.html)
+- [@artigo@Exceções em Python: uma Introdução](https://realpython.com/python-exceptions/)
+- [@vídeo@Aprenda a TRATAMENTO DE EXCEÇÕES em Python em 5 minutos!](https://www.youtube.com/watch?v=V_NXT2-QIlE)

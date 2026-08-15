@@ -1,10 +1,10 @@
-# Determinants and Inverse of a Matrix
+# Determinantes e Inversa de uma Matriz
 
-A determinant is a scalar value that can be computed from the elements of a square matrix and encodes certain properties of the linear transformation described by the matrix. The inverse of a matrix, denoted as A⁻¹, is another matrix that, when multiplied by the original matrix A, results in the identity matrix. The inverse exists only for square matrices with a non-zero determinant, making the matrix invertible.
+O determinante é um valor escalar que pode ser calculado a partir dos elementos de uma matriz quadrada e codifica certas propriedades da transformação linear descrita pela matriz. A inversa de uma matriz, denotada como A⁻¹, é outra matriz que, quando multiplicada pela matriz original A, resulta na matriz identidade. A inversa existe apenas para matrizes quadradas com determinante não-zero, tornando a matriz invertível.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Determinant of a Matrix](https://www.mathsisfun.com/algebra/matrix-determinant.html)
-- [@article@Inverse of a Matrix](https://www.mathsisfun.com/algebra/matrix-inverse.html)
-- [@video@Determinant of a Matrix](https://www.youtube.com/watch?v=CcbyMH3Noow)
-- [@video@Inverse Matrices and Their Properties](https://www.youtube.com/watch?v=kWorj5BBy9k)
+- [@article@Determinante de uma Matriz](https://www.mathsisfun.com/algebra/matrix-determinant.html)
+- [@article@Inversa de uma Matriz](https://www.mathsisfun.com/algebra/matrix-inverse.html)
+- [@video@Determinante de uma Matriz](https://www.youtube.com/watch?v=CcbyMH3Noow)
+- [@video@Inversas de Matrizes e Suas Propriedades](https://www.youtube.com/watch?v=kWorj5BBy9k)

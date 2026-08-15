@@ -1,8 +1,8 @@
-# Tokenization
+# Tokenização
 
-Tokenization is the process of breaking down a text string into smaller units called tokens. These tokens can be words, phrases, symbols, or other meaningful elements. The goal is to convert raw text into a format that can be easily processed and analyzed by a computer.
+A tokenização é o processo de quebrar uma string de texto em unidades menores chamadas tokens. Esses tokens podem ser palavras, frases, símbolos ou outros elementos significativos. O objetivo é converter o texto bruto em um formato que possa ser facilmente processado e analisado por um computador.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Tokenization? Types, Use Cases, Implementation](https://www.datacamp.com/blog/what-is-tokenization)
-- [@article@The Art of Tokenization: Breaking Down Text for AI](https://towardsdatascience.com/the-art-of-tokenization-breaking-down-text-for-ai-43c7bccaed25/)
+- [@artigo@O Que é Tokenização? Tipos, Casos de Uso e Implementação](https://www.datacamp.com/blog/what-is-tokenization)
+- [@artigo@Arte da Tokenização: Quebrando Texto para Inteligência Artificial](https://towardsdatascience.com/the-art-of-tokenization-breaking-down-text-for-ai-43c7bccaed25/)

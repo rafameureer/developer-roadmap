@@ -1,8 +1,8 @@
-# Descriptive Statistics
+# Estatísticas Descritivas
 
-Descriptive statistics involves methods for summarizing and organizing data in a meaningful way. It focuses on describing the main features of a dataset using measures like mean, median, mode, standard deviation, and range. These techniques help to understand the central tendency, variability, and distribution of the data without making inferences beyond the specific dataset.
+As estatísticas descritivas envolvem métodos para resumir e organizar dados de maneira significativa. Ela se concentra em descrever as principais características de um conjunto de dados usando medidas como média, mediana, moda, desvio padrão e amplitude. Essas técnicas ajudam a entender a tendência central, a variabilidade e a distribuição dos dados sem fazer inferências além do conjunto de dados específico.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Descriptive Statistics: Definition, Overview, Types, and Examples](https://www.investopedia.com/terms/d/descriptive_statistics.asp)
-- [@article@Descriptive Statistics | Definitions, Types, Examples](https://www.scribbr.com/statistics/descriptive-statistics/)
+- [@article@Estatísticas Descritivas: Definição, Visão Geral, Tipos e Exemplos](https://www.investopedia.com/terms/d/descriptive_statistics.asp)
+- [@article@Estatísticas Descritivas | Definições, Tipos, Exemplos](https://www.scribbr.com/statistics/descriptive-statistics/)

@@ -1,8 +1,8 @@
-# Python Loops
+# Laços em Python
 
-Loops in Python are a way to repeat a block of code multiple times. They allow you to execute a set of instructions over and over, either a specific number of times or until a certain condition is met. Python has two main types of loops: `for` loops, which are typically used to iterate over a sequence (like a list or string), and `while` loops, which continue executing as long as a given condition remains true.
+Os laços em Python são uma maneira de repetir um bloco de código várias vezes. Eles permitem que você execute um conjunto de instruções repetidamente, seja um número específico de vezes ou até que uma certa condição seja atendida. Python tem dois tipos principais de laços: os laços `for`, que são geralmente usados para iterar sobre uma sequência (como uma lista ou string), e os laços `while`, que continuam executando enquanto uma determinada condição permanecer verdadeira.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Loops](https://www.learnpython.org/en/Loops)
-- [@article@Python While Loops & For Loops | Python tutorial for Beginners](https://www.youtube.com/watch?v=23vCap6iYSs)
+- [@artigo@Laços](https://www.learnpython.org/en/Loops)
+- [@vídeo@Laços em Python & Laços For | Tutorial de Python para Iniciantes](https://www.youtube.com/watch?v=23vCap6iYSs)

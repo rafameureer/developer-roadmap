@@ -1,10 +1,10 @@
-# Machine Learning
+# Aprendizado de Máquina
 
-Machine learning is a field of computer science that focuses on enabling computers to learn from data without being explicitly programmed. Instead of relying on pre-defined rules, machine learning algorithms identify patterns, make predictions, and improve their performance over time as they are exposed to more data. This learning process allows machines to adapt to new situations and solve complex problems that are difficult or impossible to address with traditional programming techniques.
+O aprendizado de máquina é um campo da ciência da computação que se concentra em permitir que os computadores aprendam com dados sem serem programados explicitamente. Em vez de depender de regras pré-definidas, algoritmos de aprendizado de máquina identificam padrões, fazem previsões e melhoram seu desempenho ao longo do tempo à medida que são expostos a mais dados. Esse processo de aprendizagem permite que as máquinas adaptem-se a novas situações e resolvam problemas complexos que são difíceis ou impossíveis de abordar com técnicas de programação tradicionais.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@book@Machine Learning: The Basics](https://github.com/alexjungaalto/MachineLearningTheBasics/blob/master/MLBasicsBook.pdf)
-- [@article@What is Machine Learning (ML)?](https://www.ibm.com/topics/machine-learning)
-- [@video@What is Machine Learning?](https://www.youtube.com/watch?v=9gGnTQTYNaE)
-- [@video@Complete Machine Learning in One Video | Machine Learning Tutorial For Beginners 2025 | Simplilearn](https://www.youtube.com/watch?v=PtYRUoJRE9s)
+- [@livro@O Aprendizado de Máquina: Os Básicos](https://github.com/alexjungaalto/MachineLearningTheBasics/blob/master/MLBasicsBook.pdf)
+- [@artigo@O que é o Aprendizado de Máquina (ML)?](https://www.ibm.com/topics/machine-learning)
+- [@vídeo@O que é o Aprendizado de Máquina?](https://www.youtube.com/watch?v=9gGnTQTYNaE)
+- [@vídeo@Aprenda o Aprendizado de Máquina Completo em 1 Vídeo | Tutorial de Introdução ao Aprendizado de Máquina para Iniciantes 2025 | Simplilearn](https://www.youtube.com/watch?v=PtYRUoJRE9s)

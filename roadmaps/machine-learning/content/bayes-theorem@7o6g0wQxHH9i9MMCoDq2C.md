@@ -1,9 +1,9 @@
-# Bayes' Theorem
+# Teorema de Bayes
 
-Bayes' Theorem is a mathematical formula that describes how to update the probability of a hypothesis based on new evidence. It essentially calculates the probability of an event occurring given that another event has already occurred. The theorem uses prior knowledge of conditions related to the event to refine the probability estimate as new information becomes available.
+O Teorema de Bayes é uma fórmula matemática que descreve como atualizar a probabilidade de uma hipótese com base em novas evidências. Ele calcula essencialmente a probabilidade de um evento ocorrer, dado que outro evento já tenha ocorrido. O teorema usa conhecimento prévio sobre condições relacionadas ao evento para refinamento da estimativa de probabilidade à medida que novas informações se tornam disponíveis.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Bayes' Theorem: What It Is, Formula, and Examples](https://www.investopedia.com/terms/b/bayes-theorem.asp)
-- [@article@Bayes' Theorem](https://www.mathsisfun.com/data/bayes-theorem.html)
-- [@video@Bayes' Theorem EXPLAINED with Examples](https://www.youtube.com/watch?v=cqTwHnNbc8g)
+- [@artigo@Teorema de Bayes: O Que É, Fórmula e Exemplos](https://www.investopedia.com/terms/b/bayes-theorem.asp)
+- [@artigo@Teorema de Bayes](https://www.mathsisfun.com/data/bayes-theorem.html)
+- [@vídeo@Explicação do Teorema de Bayes com Exemplos](https://www.youtube.com/watch?v=cqTwHnNbc8g)

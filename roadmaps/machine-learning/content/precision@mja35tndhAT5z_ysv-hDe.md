@@ -1,7 +1,7 @@
-# Precision
+# Precisão
 
-Precision measures how accurate a model's positive predictions are. It tells you, out of all the instances the model predicted as positive, what proportion were actually positive. In simpler terms, it answers the question: "When the model says something is true, how often is it actually true?". The formula for precision is: Precision = True Positives / (True Positives + False Positives).
+A precisão mede a acurácia das previsões positivas de um modelo. Ela te informa, dentre todas as instâncias que o modelo previu como positivas, qual proporção foi realmente positiva. Em termos mais simples, ela responde à pergunta: "Quando o modelo diz algo verdadeiro, com que frequência ele é na verdade verdadeiro?". A fórmula para precisão é: Precisão = Verdadeiros Positivos / (Verdadeiros Positivos + Falso Positivos).
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Precision | scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.precision_score.html)
+- [@article@Precisão | scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.precision_score.html)

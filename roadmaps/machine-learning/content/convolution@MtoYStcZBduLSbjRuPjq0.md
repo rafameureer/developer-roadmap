@@ -1,8 +1,8 @@
-# Convolution
+# Convolução
 
-Convolution is a mathematical operation that involves sliding a filter (also known as a kernel) over an input image or feature map. At each location, the filter performs element-wise multiplication with the corresponding part of the input, and then sums the results. This sum becomes a single value in the output feature map. By sliding the filter across the entire input, the convolution operation extracts features and patterns present in the image, such as edges, textures, or shapes.
+A convolução é uma operação matemática que envolve deslocar um filtro (também conhecido como kernel) sobre uma imagem de entrada ou mapa de características. Em cada local, o filtro realiza a multiplicação elemento por elemento com a parte correspondente da entrada e depois soma os resultados. Esta soma se torna um único valor no mapa de características de saída. Deslocando o filtro pela entrada inteira, a operação de convolução extrai recursos e padrões presentes na imagem, como bordas, texturas ou formas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Convolutional Neural Networks cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
-- [@video@But what is a convolution?](https://www.youtube.com/watch?v=KuXjwB4LzSA)
+- [@artigo@Cheatsheet de Redes Neurais Convolucionais](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
+- [@vídeo@Mas o que é uma convolução?](https://www.youtube.com/watch?v=KuXjwB4LzSA)

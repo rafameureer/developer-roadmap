@@ -1,8 +1,8 @@
-# Introduction to Machine Learning
+# Introdução ao Aprendizado de Máquina
 
-Machine learning is about creating computer programs that can learn from data. Instead of being explicitly programmed to perform a task, these programs improve their performance on a specific task as they are exposed to more data. This learning process allows them to make predictions or decisions without being directly told how to do so.
+O aprendizado de máquina é sobre criar programas de computador que podem aprender com dados. Em vez de serem explicitamente programados para realizar uma tarefa, esses programas melhoram seu desempenho em uma tarefa específica à medida que são expostos a mais dados. Esse processo de aprendizado os permite fazer previsões ou decisões sem serem diretamente instruídos como fazê-lo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Machine Learning?](https://www.ibm.com/topics/machine-learning)
-- [@video@What is Machine Learning?](https://www.youtube.com/watch?v=9gGnTQTYNaE)
+- [@artigo@O que é Aprendizado de Máquina?](https://www.ibm.com/topics/machine-learning)
+- [@vídeo@O que é Aprendizado de Máquina?](https://www.youtube.com/watch?v=9gGnTQTYNaE)

@@ -1,8 +1,8 @@
 # Parquet
 
-Parquet is a columnar storage format designed for efficient data storage and retrieval. Unlike row-oriented formats, Parquet stores data by columns, which allows for better compression and faster query performance when only a subset of columns are needed. This makes it particularly well-suited for big data processing and analytics, where large datasets are common and queries often target specific columns.
+O Parquet é um formato de armazenamento em colunas projetado para o armazenamento e a recuperação eficientes de dados. Diferentemente dos formatos orientados por linhas, o Parquet armazena os dados por colunas, permitindo uma melhor compressão e desempenho de consulta mais rápido quando apenas um subconjunto de colunas é necessário. Isso o torna especialmente adequado para o processamento e análise de grandes conjuntos de dados, onde grandes conjuntos de dados são comuns e as consultas frequentemente se destinam a colunas específicas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Parquet](https://parquet.apache.org/)
 - [@article@Parquet - Databricks](https://www.databricks.com/glossary/what-is-parquet)

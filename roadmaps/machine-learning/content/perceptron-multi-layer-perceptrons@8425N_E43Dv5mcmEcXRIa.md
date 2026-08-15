@@ -1,8 +1,8 @@
-# Perceptron and Multi-layer Perceptrons
+# Perceptron e Multi-layer Perceptrons
 
-A perceptron is a fundamental building block of neural networks, acting as a single-layer linear classifier. It takes several inputs, multiplies each by a weight, sums them up, and then applies an activation function to produce an output. Multi-layer perceptrons (MLPs) extend this concept by stacking multiple layers of perceptrons, including an input layer, one or more hidden layers, and an output layer, allowing for the modeling of more complex, non-linear relationships in data.
+Um perceptron é um bloco de construção fundamental de redes neurais, atuando como um classificador linear de uma única camada. Ele recebe várias entradas, multiplica cada uma por um peso, soma-as e, em seguida, aplica uma função de ativação para produzir uma saída. Multi-layer perceptrons (MLPs) estendem esse conceito empilhando várias camadas de perceptrons, incluindo uma camada de entrada, uma ou mais camadas ocultas e uma camada de saída, permitindo o modelingo de relações mais complexas e não-lineares em dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Perceptron](https://www.simplilearn.com/tutorials/deep-learning-tutorial/perceptron)
-- [@video@The Perceptron Explained](https://www.youtube.com/watch?v=i1G7PXZMnSc)
+- [@article@O que é Perceptron](https://www.simplilearn.com/tutorials/deep-learning-tutorial/perceptron)
+- [@video@Perceptron Explicado](https://www.youtube.com/watch?v=i1G7PXZMnSc)

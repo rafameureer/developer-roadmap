@@ -1,9 +1,9 @@
-# Loss Functions
+# Funções de Perda
 
-Loss functions measure how well the network's predictions match the actual values. They quantify the difference between the predicted output and the true output for a given input. The goal during training is to minimize this loss, guiding the network to adjust its internal parameters (weights and biases) to make more accurate predictions. Different loss functions are suitable for different types of problems, such as regression or classification.
+As funções de perda medem como bem as previsões da rede se alinham com os valores reais. Eles quantificam a diferença entre a saída predita e a saída verdadeira para uma determinada entrada. O objetivo durante o treinamento é minimizar essa perda, guiando a rede a ajustar seus parâmetros internos (pesos e viéses) para fazer previsões mais precisas. Diferentes funções de perda são adequadas para diferentes tipos de problemas, como regressão ou classificação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Loss Functions and Their Use In Neural Networks](https://towardsdatascience.com/loss-functions-and-their-use-in-neural-networks-a470e703f1e9/)
-- [@article@What is Loss Function? | IBM](https://www.ibm.com/think/topics/loss-function)
-- [@video@Loss in a Neural Network explained](https://www.youtube.com/watch?v=Skc8nqJirJg)
+- [@artigo@Funções de Perda e Seu Uso em Redes Neurais](https://towardsdatascience.com/loss-functions-and-their-use-in-neural-networks-a470e703f1e9/)
+- [@artigo@O que é Função de Perda? | IBM](https://www.ibm.com/think/topics/loss-function)
+- [@vídeo@Perda em uma Rede Neural explicada](https://www.youtube.com/watch?v=Skc8nqJirJg)

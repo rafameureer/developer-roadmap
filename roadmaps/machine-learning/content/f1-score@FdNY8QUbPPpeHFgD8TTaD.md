@@ -1,7 +1,7 @@
 # F1-Score
 
-The F1-score is a way to measure how accurate a model is, considering both precision and recall. Precision tells you how many of the positive predictions made by the model were actually correct. Recall tells you how many of the actual positive cases the model was able to identify. The F1-score balances these two metrics, giving a single score that represents the overall performance of the model. It's calculated as the harmonic mean of precision and recall:`F1-Score = 2 * (Precision * Recall) / (Precision + Recall)`
+O F1-score é uma maneira de medir a precisão de um modelo, considerando tanto a precisão quanto o recall. A precisão informa quantos dos positivos previstos pelo modelo foram realmente corretos. O recall informa quantos dos casos positivos reais o modelo foi capaz de identificar. O F1-score equilibra essas duas métricas, fornecendo uma única pontuação que representa o desempenho geral do modelo. É calculado como a média harmônica da precisão e recall: `F1-Score = 2 * (Precisão * Recall) / (Precisão + Recall)`
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@article@F1-score | scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.f1_score.html)

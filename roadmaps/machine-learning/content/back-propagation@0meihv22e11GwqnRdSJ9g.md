@@ -1,8 +1,8 @@
 # Backpropagation
 
-Backpropagation is a fundamental algorithm used to train artificial neural networks. It works by calculating the gradient of the loss function with respect to the network's weights. This gradient is then used to adjust the weights, iteratively reducing the error between the network's predictions and the actual target values. In essence, it's a method for efficiently computing how much each weight in the network contributed to the overall error, allowing for targeted adjustments to improve performance.
+O backpropagation é um algoritmo fundamental usado para treinar redes neurais artificiais. Ele funciona calculando a derivada da função de perda em relação aos pesos da rede. Esse gradiente é então usado para ajustar os pesos, iterativamente reduzindo o erro entre as previsões da rede e os valores-alvo reais. Em essência, é um método para calcular eficientemente quão cada peso na rede contribuiu para o erro total, permitindo ajustes direcionados para melhorar o desempenho.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is backpropagation?](https://www.ibm.com/think/topics/backpropagation)
-- [@article@Understanding Backpropagation](https://towardsdatascience.com/understanding-backpropagation-abcc509ca9d0/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)
+- [@artigo@O que é backpropagation?](https://www.ibm.com/think/topics/backpropagation)
+- [@artigo@Entendendo Backpropagation](https://towardsdatascience.com/understanding-backpropagation-abcc509ca9d0/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)

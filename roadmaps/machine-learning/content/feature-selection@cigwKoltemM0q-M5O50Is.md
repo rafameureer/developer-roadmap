@@ -1,7 +1,7 @@
-# Feature Selection
+# Seleção de Atributos
 
-Feature selection is the process of choosing a subset of the most relevant features from your original dataset. The goal is to reduce the dimensionality of the data by removing irrelevant, redundant, or noisy features. This can lead to simpler models, improved model performance (e.g., accuracy, speed), and better understanding of the underlying data.
+A seleção de atributos é o processo de escolher um subconjunto dos atributos mais relevantes do seu conjunto de dados original. O objetivo é reduzir a dimensionalidade dos dados removendo atributos irrelevantes, redundantes ou ruídos. Isso pode levar a modelos mais simples, melhor desempenho do modelo (por exemplo, precisão, velocidade) e uma compreensão melhor dos dados subjacentes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Feature Selection? | IBM](https://www.ibm.com/think/topics/feature-selection)
+- [@artigo@O que é Seleção de Atributos? | IBM](https://www.ibm.com/think/topics/feature-selection)

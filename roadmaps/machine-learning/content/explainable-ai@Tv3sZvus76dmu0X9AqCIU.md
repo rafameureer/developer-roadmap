@@ -1,9 +1,9 @@
-# Explainable AI
+# Inteligência Artificial Explicável
 
-Explainable AI (XAI) focuses on making machine learning models and their decisions understandable to humans. Instead of treating models as black boxes, XAI aims to provide insights into how a model arrives at a particular prediction or decision. This involves developing techniques that allow us to interpret the model's internal logic, identify the factors that influence its outputs, and assess its reliability and potential biases.
+A Inteligência Artificial Explicável (XAI) se concentra em tornar modelos de aprendizado de máquina e suas decisões compreensíveis para humanos. Em vez de tratar os modelos como caixas pretas, XAI visa fornecer insights sobre como um modelo chega a uma previsão ou decisão específica. Isso envolve desenvolver técnicas que nos permitem interpretar a lógica interna do modelo, identificar os fatores que influenciam suas saídas e avaliar sua confiabilidade e possíveis viéses.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Explainable AI (XAI)?](https://www.ibm.com/think/topics/explainable-ai)
-- [@article@Explainable AI (XAI) | Giskard](https://www.giskard.ai/glossary/explainable-ai-xai)
-- [@video@Explainable AI: Demystifying AI Agents Decision-Making](https://www.youtube.com/watch?v=yJkCuEu3K68)
+- [@artigo@O que é Inteligência Artificial Explicável (XAI)?](https://www.ibm.com/think/topics/explainable-ai)
+- [@artigo@Inteligência Artificial Explicável (XAI) | Giskard](https://www.giskard.ai/glossary/explainable-ai-xai)
+- [@vídeo@Desmistificando a Tomada de Decisão dos Agentes AI com Inteligência Artificial Explicável](https://www.youtube.com/watch?v=yJkCuEu3K68)

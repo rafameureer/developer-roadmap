@@ -1,8 +1,8 @@
-# Confusion Matrix
+# Matriz de Confusão
 
-A confusion matrix is a table that summarizes the performance of a classification model. It displays the counts of true positive, true negative, false positive, and false negative predictions, allowing for a detailed analysis of the model's accuracy and types of errors it makes. This breakdown helps in understanding where the model excels and where it struggles, providing insights beyond simple accuracy scores.
+A matriz de confusão é uma tabela que resume o desempenho de um modelo de classificação. Ela exibe as contagens de previsões verdadeiras positivas, falsas negativas, falsas positivas e falsas negativas, permitindo uma análise detalhada da precisão do modelo e dos tipos de erros que ele comete. Esta divisão ajuda a entender onde o modelo se destaca e onde enfrenta dificuldades, fornecendo insights além de pontuações simples de acurácia.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Confusion matrix | scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.confusion_matrix.html)
-- [@article@What is A Confusion Matrix in Machine Learning? The Model Evaluation Tool Explained](https://www.datacamp.com/tutorial/what-is-a-confusion-matrix-in-machine-learning)
+- [@artigo@Matriz de confusão | scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.confusion_matrix.html)
+- [@artigo@O que é uma Matriz de Confusão em Machine Learning? O Ferramentário de Avaliação do Modelo Explicado](https://www.datacamp.com/tutorial/what-is-a-confusion-matrix-in-machine-learning)

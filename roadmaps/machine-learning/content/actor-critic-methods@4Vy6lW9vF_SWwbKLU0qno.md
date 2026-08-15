@@ -1,8 +1,8 @@
-# Actor-Critic Methods
+# Métodos Actor-Critic
 
-Actor-Critic methods in reinforcement learning are a type of algorithm that combines the strengths of both value-based and policy-based approaches. They use two separate models: an "actor" that learns the optimal policy (how to act), and a "critic" that estimates the value function (how good a state or action is). The critic evaluates the actor's actions, providing feedback that helps the actor improve its policy, while the actor uses this feedback to refine its decision-making process.
+Os métodos Actor-Critic em aprendizado por reforço são um tipo de algoritmo que combina as forças tanto dos abordagens baseadas em valor quanto baseadas em política. Eles usam dois modelos separados: um "actor" que aprende a política ótima (como agir), e um "critic" que estima a função de valor (quão boa é um estado ou uma ação). O criticavalia as ações do actor, fornecendo feedback que ajuda o actor a melhorar sua política, enquanto o actor usa esse feedback para refinamento de seu processo de tomada de decisão.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Actor-critic algorithm](https://en.wikipedia.org/wiki/Actor-critic_algorithm)
-- [@article@Everything You Need To Master Actor Critic Methods | Tensorflow 2 Tutorial](https://www.youtube.com/watch?v=LawaN3BdI00)
+- [@artigo@Algoritmo Actor-critic](https://en.wikipedia.org/wiki/Actor-critic_algorithm)
+- [@artigo@Tudo o que Você Precisa Saber Para Dominar Métodos Actor Critic | Tutorial do Tensorflow 2](https://www.youtube.com/watch?v=LawaN3BdI00)

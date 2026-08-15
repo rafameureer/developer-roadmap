@@ -1,10 +1,10 @@
 # NumPy
 
-NumPy is a fundamental Python library used for numerical computing. It provides support for large, multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on these arrays efficiently. These arrays are homogeneous, meaning they contain elements of the same data type, which allows for optimized storage and computation. NumPy is widely used in data science, machine learning, and scientific computing due to its performance and ease of use.
+NumPy é uma biblioteca Python fundamental usada para cálculos numéricos. Ele fornece suporte para grandes arrays e matrizes multidimensionais, além de uma coleção de funções matemáticas para operar esses arrays de maneira eficiente. Esses arrays são homogêneos, o que significa que contêm elementos do mesmo tipo de dados, permitindo um armazenamento e computação otimizados. NumPy é amplamente usado em ciência de dados, aprendizado de máquina e cálculo científico devido à sua performance e facilidade de uso.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@NumPy](https://numpy.org/)
 - [@opensource@NumPy](https://github.com/numpy/numpy)
-- [@article@Python NumPy Array Tutorial](https://www.datacamp.com/tutorial/python-numpy-tutorial)
-- [@video@Learn NumPy in 1 hour!](https://www.youtube.com/watch?v=VXU4LSAQDSc)
+- [@article@Tutorial de NumPy em Python](https://www.datacamp.com/tutorial/python-numpy-tutorial)
+- [@video@Aprenda NumPy em 1 hora!](https://www.youtube.com/watch?v=VXU4LSAQDSc)

@@ -1,9 +1,9 @@
-# Variables and Data Types
+# Variáveis e Tipos de Dados
 
-Variables are named storage locations in a computer's memory used to hold data. Data types classify the kind of value a variable can hold, such as numbers (integers, decimals), text (strings), or boolean values (true/false). Understanding variables and data types is fundamental to writing any program, as it dictates how data is stored, manipulated, and used within the code.
+As variáveis são locais de armazenamento nomeados na memória de um computador usados para conter dados. Os tipos de dados classificam o tipo de valor que uma variável pode conter, como números (inteiros, decimais), texto (strings) ou valores booleanos (verdadeiro/falso). Entender variáveis e tipos de dados é fundamental para escrever qualquer programa, pois determina como os dados são armazenados, manipulados e usados dentro do código.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Variables in Python](https://realpython.com/python-variables)
-- [@article@Python for Beginners: Data Types](https://thenewstack.io/python-for-beginners-data-types/)
-- [@video@Python Variables and Data Types](https://www.youtube.com/playlist?list=PLBlnK6fEyqRhN-sfWgCU1z_Qhakc1AGOn)
+- [@artigo@Variáveis em Python](https://realpython.com/python-variables)
+- [@artigo@Python para Iniciantes: Tipos de Dados](https://thenewstack.io/python-for-beginners-data-types/)
+- [@vídeo@Variáveis e Tipos de Dados em Python](https://www.youtube.com/playlist?list=PLBlnK6fEyqRhN-sfWgCU1z_Qhakc1AGOn)

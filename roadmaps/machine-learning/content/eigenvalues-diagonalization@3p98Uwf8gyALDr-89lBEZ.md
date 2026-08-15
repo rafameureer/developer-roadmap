@@ -1,10 +1,10 @@
-# Eigenvalues and Diagonalization
+# Autovalores e Diagonalização
 
-Eigenvalues are special numbers associated with a square matrix that, when multiplied by a corresponding eigenvector, result in the same vector scaled by that eigenvalue. Diagonalization is the process of transforming a square matrix into a diagonal matrix, where all off-diagonal elements are zero, using its eigenvectors and eigenvalues. This transformation simplifies many matrix operations and provides insights into the matrix's properties.
+Os autovalores são números especiais associados a uma matriz quadrada que, quando multiplicados por um vetor correspondente de autovetor, resultam em um mesmo vetor escalarizado pelo autovalor. A diagonalização é o processo de transformar uma matriz quadrada em uma matriz diagonal, onde todos os elementos fora da diagonal são zero, usando seus autovetores e autovalores. Esta transformação simplifica muitas operações matriciais e fornece insights sobre as propriedades da matriz.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Eigenvalues and eigenvectors](https://en.wikipedia.org/wiki/Eigenvalues_and_eigenvectors)
-- [@article@Matrix Diagonalization](https://www.statlect.com/matrix-algebra/matrix-diagonalization)
-- [@video@Finding Eigenvalues and Eigenvectors](https://www.youtube.com/watch?v=TQvxWaQnrqI)
-- [@video@Diagonalization](https://www.youtube.com/watch?v=WTLl03D4TNA)
+- [@artigo@Autovalores e Autovetores](https://en.wikipedia.org/wiki/Eigenvalues_and_eigenvectors)
+- [@artigo@Diagonalização de Matrizes](https://www.statlect.com/matrix-algebra/matrix-diagonalization)
+- [@vídeo@Encontrando Autovalores e Autovetores](https://www.youtube.com/watch?v=TQvxWaQnrqI)
+- [@vídeo@Diagonalização](https://www.youtube.com/watch?v=WTLl03D4TNA)

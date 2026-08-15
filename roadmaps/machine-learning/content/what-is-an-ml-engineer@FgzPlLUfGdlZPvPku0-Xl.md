@@ -1,7 +1,7 @@
-# ML Engineer
+# Engenheiro de Aprendizado de Máquina
 
-An ML Engineer focuses on building, deploying, and maintaining machine learning systems in production. They bridge the gap between data science and software engineering, taking models developed by data scientists and making them scalable, reliable, and efficient for real-world applications. This involves tasks like data pipeline construction, model deployment, performance monitoring, and infrastructure management.
+O Engenheiro de Aprendizado de Máquina se concentra em construir, implantar e manter sistemas de aprendizado de máquina em produção. Eles ligam o fio entre a ciência de dados e engenharia de software, transformando modelos desenvolvidos por cientistas de dados em escaláveis, confiáveis e eficientes para aplicações do mundo real. Isso envolve tarefas como a construção de pipelines de dados, implantação de modelos, monitoramento de desempenho e gerenciamento de infraestrutura.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What Is a Machine Learning Engineer? (+ How to Get Started)](https://www.coursera.org/articles/what-is-machine-learning-engineer)
+- [@artigo@O que é um Engenheiro de Aprendizado de Máquina? (+ Como Começar)](https://www.coursera.org/articles/what-is-machine-learning-engineer)

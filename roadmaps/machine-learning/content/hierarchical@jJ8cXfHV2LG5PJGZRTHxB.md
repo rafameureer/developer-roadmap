@@ -1,8 +1,8 @@
-# Hierarchical Clustering
+# Agrupamento Hierárquico
 
-Hierarchical clustering is a method of grouping data points into clusters based on their similarity, building a hierarchy of clusters. It starts by treating each data point as its own cluster and then iteratively merges the closest clusters until only one cluster remains, or a stopping criterion is met. This process creates a tree-like structure called a dendrogram, which visually represents the hierarchy of clusters. Scikit-learn provides an implementation of agglomerative hierarchical clustering through its `AgglomerativeClustering` class, which allows you to specify the linkage criterion (e.g., ward, complete, average) to determine how the distance between clusters is calculated.
+O agrupamento hierárquico é um método de agrupar pontos de dados em clusters com base na sua similaridade, construindo uma hierarquia de clusters. Ele começa tratando cada ponto de dados como seu próprio cluster e então mescla iterativamente os clusters mais próximos até que apenas um cluster reste ou seja atingido um critério de parada. Esse processo cria uma estrutura árvore-like chamada dendrograma, que representa visualmente a hierarquia dos clusters. O scikit-learn fornece uma implementação do agrupamento hierárquico aglomerativo através da classe `AgglomerativeClustering`, que permite especificar o critério de ligação (por exemplo, ward, complete, average) para determinar como a distância entre os clusters é calculada.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Hierarchical clustering | scikit-learn](https://scikit-learn.org/stable/modules/clustering.html#hierarchical-clustering)
-- [@article@What is Hierarchical Clustering?](https://www.ibm.com/think/topics/hierarchical-clustering)
+- [@artigo@Agrupamento Hierárquico | scikit-learn](https://scikit-learn.org/stable/modules/clustering.html#hierarchical-clustering)
+- [@artigo@O que é Agrupamento Hierárquico?](https://www.ibm.com/think/topics/hierarchical-clustering)

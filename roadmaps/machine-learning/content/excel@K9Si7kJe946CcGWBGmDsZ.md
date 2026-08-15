@@ -1,3 +1,3 @@
-# Excel Files
+# Arquivos Excel
 
-Excel files are a common way to store data in a structured format using rows and columns. Each cell in the spreadsheet can hold different types of data, like numbers, text, or dates. These files are often used for organizing, analyzing, and visualizing data because they are easy to create and manipulate using spreadsheet software.
+Arquivos Excel são uma maneira comum de armazenar dados em um formato estruturado usando linhas e colunas. Cada célula na planilha pode conter diferentes tipos de dados, como números, texto ou datas. Esses arquivos são frequentemente usados para organizar, analisar e visualizar dados porque são fáceis de criar e manipular usando software de planilhas.

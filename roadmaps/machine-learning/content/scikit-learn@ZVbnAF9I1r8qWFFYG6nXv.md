@@ -1,9 +1,9 @@
 # Scikit-learn
 
-Scikit-learn is a free and open-source Python library that provides simple and efficient tools for data analysis and machine learning. It features various algorithms for classification, regression, clustering, dimensionality reduction, model selection, and preprocessing. It's built on NumPy, SciPy, and matplotlib, making it easy to integrate with other scientific Python libraries.
+Scikit-learn é uma biblioteca Python gratuita e de código aberto que fornece ferramentas simples e eficientes para análise de dados e aprendizado de máquina. Ele oferece diversos algoritmos para classificação, regressão, agrupamento, redução de dimensionalidade, seleção de modelo e pré-processamento. Está construído em cima do NumPy, SciPy e matplotlib, tornando-o fácil de integrar com outras bibliotecas científicas Python.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@scikit-learn: machine learning in Python](https://scikit-learn.org/)
+- [@official@scikit-learn: aprendizado de máquina em Python](https://scikit-learn.org/)
 - [@opensource@scikit-learn](https://github.com/scikit-learn/scikit-learn)
-- [@video@Scikit-learn Crash Course - Machine Learning Library for Python](https://www.youtube.com/watch?v=0B5eIE_1vpU)
+- [@video@Scikit-learn Crash Course - Biblioteca de Aprendizado de Máquina para Python](https://www.youtube.com/watch?v=0B5eIE_1vpU)

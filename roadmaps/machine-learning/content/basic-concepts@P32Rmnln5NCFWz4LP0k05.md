@@ -1,14 +1,14 @@
-# Basic Statistical Concepts
+# Conceitos Básicos de Estatística
 
-Statistics is the science of collecting, analyzing, interpreting, and presenting data. It provides the foundation for understanding patterns and making inferences from data, which is crucial for machine learning algorithms. Here are 10 basic statistical concepts:
+A estatística é a ciência da coleta, análise, interpretação e apresentação de dados. Ela fornece a base para entender padrões e fazer inferências a partir dos dados, o que é crucial para algoritmos de aprendizado de máquina. Aqui estão 10 conceitos básicos de estatística:
 
-*   **Mean:** The average value of a dataset, calculated by summing all values and dividing by the number of values.
-*   **Median:** The middle value in a sorted dataset.
-*   **Mode:** The value that appears most frequently in a dataset.
-*   **Standard Deviation:** A measure of the spread or dispersion of data points around the mean.
-*   **Variance:** The square of the standard deviation, representing the average squared difference from the mean.
-*   **Probability:** The likelihood of an event occurring, expressed as a number between 0 and 1.
-*   **Distributions:** A function that shows the possible values for a variable and how often they occur (e.g., normal distribution, uniform distribution).
-*   **Hypothesis Testing:** A method for testing a claim or hypothesis about a population based on a sample of data.
-*   **Correlation:** A statistical measure that describes the extent to which two variables are related.
-*   **Regression:** A statistical method for modeling the relationship between a dependent variable and one or more independent variables.
+*   **Média:** O valor médio de um conjunto de dados, calculado somando todos os valores e dividindo pelo número de valores.
+*   **Mediana:** O valor do meio em um conjunto de dados ordenados.
+*   **Moda:** O valor que aparece com mais frequência em um conjunto de dados.
+*   **Desvio padrão:** Uma medida da dispersão ou variação dos pontos de dados em torno da média.
+*   **Variancia:** O quadrado do desvio padrão, representando a média das diferenças quadradas em relação à média.
+*   **Probabilidade:** A probabilidade de um evento ocorrer, expressa como um número entre 0 e 1.
+*   **Distribuições:** Uma função que mostra os valores possíveis para uma variável e com que frequência eles ocorrem (por exemplo, distribuição normal, distribuição uniforme).
+*   **Testes de Hipótese:** Um método para testar uma declaração ou hipótese sobre uma população com base em um amostra de dados.
+*   **Correlação:** Uma medida estatística que descreve o grau de relação entre duas variáveis.
+*   **Regressão:** Um método estatístico para modelar a relação entre uma variável dependente e uma ou mais variáveis independentes.

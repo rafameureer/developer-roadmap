@@ -1,7 +1,7 @@
-# Types of Machine Learning
+# Tipos de Aprendizado de Máquina
 
-Machine learning algorithms learn from data to make predictions or decisions. These algorithms are broadly categorized into supervised, unsupervised, and reinforcement learning. Supervised learning uses labeled data to train a model to map inputs to outputs. Unsupervised learning, on the other hand, works with unlabeled data to discover hidden patterns and structures. Reinforcement learning involves training an agent to make decisions in an environment to maximize a reward. More recently, semi-supervised learning, which uses a combination of labeled and unlabeled data, and self-supervised learning, where the data itself provides the supervision signal, have gained prominence.
+Algoritmos de aprendizado de máquina aprendem com dados para fazer previsões ou decisões. Esses algoritmos são amplamente categorizados em aprendizado supervisionado, não supervisionado e aprendizado por reforço. O aprendizado supervisionado usa dados rotulados para treinar um modelo a mapear entradas em saídas. Por outro lado, o aprendizado não supervisionado trabalha com dados não rotulados para descobrir padrões ocultos e estruturas. O aprendizado por reforço envolve treinar um agente para tomar decisões em um ambiente para maximizar uma recompensa. Mais recentemente, o aprendizado semi-supervisionado, que usa uma combinação de dados rotulados e não rotulados, e o aprendizado auto-supervisionado, onde os próprios dados fornecem a sinalização de supervisão, têm ganhado destaque.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@5 types of machine learning](https://lumenalta.com/insights/5-types-of-machine-learning)
+- [@artigo@5 tipos de aprendizado de máquina](https://lumenalta.com/insights/5-types-of-machine-learning)

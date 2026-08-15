@@ -1,10 +1,10 @@
 # TensorFlow
 
-TensorFlow is an open-source software library created by Google for numerical computation and large-scale machine learning. It provides a flexible architecture and tools that allow users to easily build and deploy machine learning models, particularly deep neural networks. TensorFlow excels at handling complex computations across various platforms, including CPUs, GPUs, and TPUs, making it suitable for research, development, and production environments.
+O TensorFlow é uma biblioteca de software de código aberto criada pela Google para cálculo numérico e aprendizado em escala. Ele fornece uma arquitetura flexível e ferramentas que permitem aos usuários construir e implantar facilmente modelos de aprendizado, especialmente redes neurais profundas. O TensorFlow excelle em lidar com computações complexas em várias plataformas, incluindo CPUs, GPUs e TPUs, tornando-o adequado para ambientes de pesquisa, desenvolvimento e produção.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@TensorFlow](https://www.tensorflow.org/)
-- [@official@TensorFlow tutorials](https://www.tensorflow.org/tutorials)
-- [@article@Mastering Deep Learning with TensorFlow: From Beginner to Expert](https://towardsdatascience.com/an-introduction-to-tensorflow-fa5b17051f6b/)
-- [@video@Python TensorFlow for Machine Learning – Neural Network Text Classification Tutorial](https://www.youtube.com/watch?v=VtRLrQ3Ev-U)
+- [@oficial@TensorFlow](https://www.tensorflow.org/)
+- [@oficial@Tutoriais do TensorFlow](https://www.tensorflow.org/tutorials)
+- [@artigo@Dominando o Aprendizado Profundo com TensorFlow: De iniciante a especialista](https://towardsdatascience.com/an-introduction-to-tensorflow-fa5b17051f6b/)
+- [@vídeo@TensorFlow em Python para Aprendizado de Máquina – Tutorial de Classificação de Texto por Redes Neurais](https://www.youtube.com/watch?v=VtRLrQ3Ev-U)

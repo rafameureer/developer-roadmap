@@ -1,8 +1,8 @@
-# Matrix & Matrix Operations
+# Operações de Matriz e Matriz
 
-A matrix is a rectangular array of numbers, symbols, or expressions, arranged in rows and columns. Matrix operations are the rules and procedures for manipulating these matrices. These operations include addition, subtraction, multiplication, transposition (flipping rows and columns), and finding the inverse of a matrix, each with specific rules about the dimensions of the matrices involved.
+Uma matriz é um array retangular de números, símbolos ou expressões, organizados em linhas e colunas. As operações de matriz são as regras e procedimentos para manipular essas matrizes. Essas operações incluem adição, subtração, multiplicação, transposição (inverter linhas e colunas) e encontrar a inversa de uma matriz, cada uma com regras específicas sobre as dimensões das matrizes envolvidas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Matrix (mathematics)](https://en.wikipedia.org/wiki/Matrix_(mathematics))
-- [@video@Linear Algebra - Matrix Operations](https://www.youtube.com/watch?v=p48uw2vFWQs)
+- [@article@Matriz (matemática)](https://en.wikipedia.org/wiki/Matrix_(mathematics))
+- [@video@Álgebra Linear - Operações de Matriz](https://www.youtube.com/watch?v=p48uw2vFWQs)

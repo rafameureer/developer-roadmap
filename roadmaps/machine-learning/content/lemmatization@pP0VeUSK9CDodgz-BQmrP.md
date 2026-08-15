@@ -1,8 +1,8 @@
-# Lemmatization
+# Lematização
 
-Lemmatization is a text normalization technique in natural language processing used to reduce words to their dictionary form, known as a lemma. Unlike stemming, which simply chops off prefixes or suffixes, lemmatization considers the context of the word and applies morphological analysis to find the base or dictionary form. This ensures that the resulting lemma is a valid word, providing a more accurate and meaningful representation of the original word.
+A lematização é uma técnica de normalização de texto em processamento de linguagem natural usada para reduzir palavras à sua forma dicionária, conhecida como um lema. Diferentemente da stemização, que simplesmente corta prefixos ou sufixos, a lematização considera o contexto da palavra e aplica análise morfológica para encontrar a base ou forma dicionária. Isso garante que o lema resultante seja uma palavra válida, fornecendo uma representação mais precisa e significativa da palavra original.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What Are Stemming and Lemmatization?](https://www.ibm.com/think/topics/stemming-lemmatization)
-- [@article@Stemming, Lemmatization- Which One is Worth Going For?](https://towardsdatascience.com/stemming-lemmatization-which-one-is-worth-going-for-77e6ec01ad9c/)
+- [@artigo@O que são Stemming e Lematização?](https://www.ibm.com/think/topics/stemming-lemmatization)
+- [@artigo@Stemming, Lematização - Qual Um É Válido?](https://towardsdatascience.com/stemming-lemmatization-which-one-is-worth-going-for-77e6ec01ad9c/)

@@ -1,8 +1,8 @@
-# Discrete Mathematics
+# Matemática Discreta
 
-Discrete mathematics deals with mathematical structures that are fundamentally discrete rather than continuous. This means it focuses on objects that have distinct, separated values, like integers, graphs, and logical statements. It provides the theoretical foundations and tools for reasoning about and modeling these discrete structures. This field is essential for computer science, as it provides the foundation for understanding algorithms, data structures, and information networks.
+A matemática discreta trata de estruturas matemáticas que são fundamentalmente discretas, em vez de contínuas. Isso significa que se concentra em objetos com valores distintos e separados, como inteiros, grafos e declarações lógicas. Ela fornece as fundações teóricas e ferramentas para razoar sobre e modelar essas estruturas discretas. Este campo é essencial para a ciência da computação, pois fornece a base para entender algoritmos, estruturas de dados e redes de informações.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Discrete Mathematics](https://en.wikipedia.org/wiki/Discrete_mathematics)
-- [@article@Discrete Math (Full Course: Sets, Logic, Proofs, Probability, Graph Theory, etc)](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS)
+- [@artigo@Matemática Discreta](https://en.wikipedia.org/wiki/Discrete_mathematics)
+- [@curso@Matemática Discreta (Curso Completo: Conjuntos, Lógica, Provas, Probabilidade, Teoria dos Grafos, etc)](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS)

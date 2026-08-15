@@ -1,9 +1,9 @@
-# Supervised Learning
+# Aprendizagem Supervisionada
 
-Supervised learning is a type of machine learning where an algorithm learns from a labeled dataset. This means that each data point in the dataset is paired with a corresponding correct output, or "label." The algorithm's goal is to learn a function that maps inputs to outputs, so that when given new, unseen inputs, it can predict the correct output based on the patterns it learned from the labeled data.
+A aprendizagem supervisionada é um tipo de aprendizado de máquina onde um algoritmo aprende de um conjunto de dados rotulado. Isso significa que cada ponto de dados no conjunto está associado a uma saída correta correspondente, ou "rótulo". O objetivo do algoritmo é aprender uma função que mapeia entradas para saídas, de modo que quando for fornecido novos, não vistos, entradas, ele possa prever a saída correta com base nos padrões aprendidos dos dados rotulados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Supervised Learning?](https://cloud.google.com/discover/what-is-supervised-learning)
-- [@article@Supervised Machine Learning](https://www.datacamp.com/blog/supervised-machine-learning)
-- [@video@Supervised Machine Learning Explained For Beginners](https://www.youtube.com/watch?v=Mu3POlNoLdc)
+- [@article@O que é Aprendizagem Supervisionada?](https://cloud.google.com/discover/what-is-supervised-learning)
+- [@article@Aprendizado de Máquina Supervisionado](https://www.datacamp.com/blog/supervised-machine-learning)
+- [@video@Aprendizagem de Máquina Supervisionada Explicada para Iniciantes](https://www.youtube.com/watch?v=Mu3POlNoLdc)

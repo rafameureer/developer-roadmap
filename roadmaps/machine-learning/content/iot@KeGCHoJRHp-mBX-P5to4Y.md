@@ -1,13 +1,13 @@
-# IoT Data Sources
+# Fontes de Dados IoT
 
-The Internet of Things (IoT) refers to the network of physical devices, vehicles, home appliances, and other items embedded with electronics, software, sensors, and actuators that enable these objects to connect and exchange data. These devices continuously generate vast amounts of data reflecting their status, environment, and interactions. This data can include sensor readings like temperature, pressure, humidity, location, and images or video streams.
+A Internet das Coisas (IoT) se refere à rede de dispositivos físicos, veículos, eletrodomésticos domésticos e outros itens incorporados com eletrônicos, software, sensores e atuadores que permitem que esses objetos se conectem e troquiem dados. Esses dispositivos continuamente geram grandes quantidades de dados refletindo seu status, ambiente e interações. Esse dados pode incluir leituras de sensores como temperatura, pressão, umidade, localização e imagens ou fluxos de vídeo.
 
-*   [@article@What is the Internet of Things (IoT)?](https://www.ibm.com/think/topics/internet-of-things)
-*   [@article@Internet of Things](https://en.wikipedia.org/wiki/Internet_of_things)
-*   [@video@What is IoT (Internet of Things)? An Introduction](https://www.youtube.com/watch?v=4FxU-xpuCww)
+*   [@artigo@O que é a Internet das Coisas (IoT)?](https://www.ibm.com/think/topics/internet-of-things)
+*   [@artigo@Internet das Coisas](https://en.wikipedia.org/wiki/Internet_of_things)
+*   [@vídeo@O que é IoT (Internet das Coisas)? Uma Introdução](https://www.youtube.com/watch?v=4FxU-xpuCww)
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is the Internet of Things (IoT)?](https://www.ibm.com/think/topics/internet-of-things)
-- [@article@Internet of Things](https://en.wikipedia.org/wiki/Internet_of_things)
-- [@video@What is the IoT](https://www.youtube.com/watch?v=4FxU-xpuCww)
+- [@artigo@O que é a Internet das Coisas (IoT)?](https://www.ibm.com/think/topics/internet-of-things)
+- [@artigo@Internet das Coisas](https://en.wikipedia.org/wiki/Internet_of_things)
+- [@vídeo@O que é IoT](https://www.youtube.com/watch?v=4FxU-xpuCww)

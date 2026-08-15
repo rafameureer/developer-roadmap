@@ -1,9 +1,9 @@
-# Basic Syntax in Python
+# Sintaxe Básica em Python
 
-Python's basic syntax defines the rules for writing code that the interpreter can understand and execute. This includes how to structure lines of code, use indentation to define code blocks, write comments for explanation, assign values to variables, and perform basic operations using operators. Understanding these fundamental elements is essential for writing any Python program, including those used in machine learning.
+A sintaxe básica do Python define as regras para escrever código que o interpretador possa entender e executar. Isso inclui como estruturar linhas de código, usar indentação para definir blocos de código, escrever comentários para explicação, atribuir valores a variáveis e realizar operações básicas usando operadores. Entender esses elementos fundamentais é essencial para escrever qualquer programa Python, incluindo aqueles usados em aprendizado de máquina.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit Dedicated Python for Data Analysis Roadmap](https://roadmap.sh/python-data-analysis)
-- [@roadmap@Visit Dedicated Python Roadmap](https://roadmap.sh/python)
-- [@video@Learn Python - Full Course](https://www.youtube.com/watch?v=4M87qBgpafk)
+- [@roadmap@Visite o Caminho Dedidado de Análise de Dados com Python](https://roadmap.sh/python-data-analysis)
+- [@roadmap@Visite o Caminho Dedidado de Python](https://roadmap.sh/python)
+- [@vídeo@Aprenda Python - Curso Completo](https://www.youtube.com/watch?v=4M87qBgpafk)

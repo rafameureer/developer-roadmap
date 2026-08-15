@@ -1,8 +1,8 @@
-# Multi-Head Attention
+# Atenção Multi-Cabeça
 
-Multi-head attention is an attention mechanism that runs through the attention process multiple times independently. Each of these independent attention mechanisms is called a "head." The outputs of all the heads are then concatenated and linearly transformed to produce the final output. This allows the model to attend to different parts of the input sequence with different learned representations, capturing a richer set of relationships than a single attention mechanism could.
+A atenção multi-cabeça é um mecanismo de atenção que executa o processo de atenção múltiplas vezes independentemente. Cada um desses mecanismos de atenção independente é chamado de "cabeça". As saídas de todas as cabeças são então concatenadas e transformadas linearmente para produzir a saída final. Isso permite que o modelo atenda a diferentes partes da sequência de entrada com representações aprendidas diferentes, capturando um conjunto mais rico de relações do que uma única mecanismo de atenção poderia.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Understanding Multi-Head Attention in Transformers](https://www.datacamp.com/es/tutorial/multi-head-attention-transformers)
-- [@article@Multi-head Attention](https://d2l.ai/chapter_attention-mechanisms-and-transformers/multihead-attention.html)
+- [@artigo@Entendendo Atenção Multi-Cabeça em Transformadores](https://www.datacamp.com/es/tutorial/multi-head-attention-transformers)
+- [@artigo@Atenção Multi-Cabeça](https://d2l.ai/chapter_attention-mechanisms-and-transformers/multihead-attention.html)

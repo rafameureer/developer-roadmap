@@ -1,8 +1,8 @@
-# Dimensionality Reduction
+# Redução de Dimensão
 
-Dimensionality reduction is the process of reducing the number of random variables under consideration by obtaining a set of principal variables. It can be divided into feature selection and feature extraction. Feature selection selects a subset of the original features, while feature extraction transforms the data into a lower-dimensional space. The goal is to simplify the data without losing important information, making it easier to analyze and model.
+A redução de dimensão é o processo de reduzir o número de variáveis aleatórias em consideração obtendo um conjunto de variáveis principais. Pode ser dividido em seleção de recursos e extração de recursos. A seleção de recursos seleciona um subconjunto dos recursos originais, enquanto a extração de recursos transforma os dados em um espaço dimensional reduzido. O objetivo é simplificar os dados sem perder informações importantes, tornando-os mais fáceis de analisar e modelar.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Dimensionality Reduction?](https://www.ibm.com/think/topics/dimensionality-reduction)
-- [@video@Machine Learning - Dimensionality Reduction](https://www.youtube.com/watch?v=AU_hBML2H1c)
+- [@article@O que é Redução de Dimensão?](https://www.ibm.com/think/topics/dimensionality-reduction)
+- [@video@Machine Learning - Redução de Dimensão](https://www.youtube.com/watch?v=AU_hBML2H1c)

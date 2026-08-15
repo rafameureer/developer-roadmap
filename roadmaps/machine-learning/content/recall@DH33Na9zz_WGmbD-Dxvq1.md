@@ -1,7 +1,7 @@
 # Recall
 
-Recall measures how well a model identifies all the actual positive cases. It answers the question: "Of all the actual positive instances, how many did the model correctly predict as positive?". A high recall means the model is good at minimizing false negatives. The formula for recall is: `Recall = True Positives / (True Positives + False Negatives)`.
+O Recall mede como bem um modelo identifica todos os casos positivos reais. Ele responde à pergunta: "De todos os casos positivos reais, quantos o modelo previu corretamente como positivo?". Um alto Recall significa que o modelo é bom em minimizar falsos negativos. A fórmula para Recall é: `Recall = Verdadeiros Positivos / (Verdadeiros Positivos + Falsos Negativos)`.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Recall | scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.recall_score.html)
+- [@artigo@Recall | scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.recall_score.html)

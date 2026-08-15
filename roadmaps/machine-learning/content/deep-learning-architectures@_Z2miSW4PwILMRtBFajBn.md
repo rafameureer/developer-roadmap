@@ -1,7 +1,7 @@
-# Deep Learning Architectures
+# Arquiteturas de Aprendizagem Profunda
 
-Deep learning architectures are the specific arrangements of layers within a neural network that define how data is processed and transformed. These architectures consist of interconnected nodes (neurons) organized in layers, where each layer performs a specific computation. Different architectures are designed to excel at different tasks, such as image recognition, natural language processing, or time series analysis, by employing unique connection patterns, layer types, and activation functions.
+As arquiteturas de aprendizagem profunda são as disposições específicas das camadas dentro de uma rede neural que definem como os dados são processados e transformados. Essas arquiteturas consistem em nós interconectados (neurônios) organizados em camadas, onde cada camada realiza um cálculo específico. Diferentes arquiteturas são projetadas para excelar em diferentes tarefas, como reconhecimento de imagens, processamento de linguagem natural ou análise de séries temporais, utilizando padrões de conexão únicos, tipos de camadas e funções de ativação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is a neural network?](https://www.cloudflare.com/en-gb/learning/ai/what-is-neural-network/)
+- [@artigo@O que é uma rede neural?](https://www.cloudflare.com/en-gb/learning/ai/what-is-neural-network/)

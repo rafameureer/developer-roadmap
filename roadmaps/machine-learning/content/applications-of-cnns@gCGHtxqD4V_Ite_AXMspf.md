@@ -1,7 +1,7 @@
-# Convolutional Neural Networks (CNNs) Applications
+# Aplicações de Redes Neurais Convolucionais (CNNs)
 
-CNNs have revolutionized the field of computer vision, leading to significant advancements in many real-world applications. Thanks to their power to solve complex problems like image classification, object detection, and facial recognition, CNNs power many applications we use daily, like automatically tagging friends in photos, enabling self-driving cars to "see" and understand their surroundings, and helping doctors diagnose diseases from medical scans. They are also used to generate realistic images, translate languages, and even create art.
+As CNNs revolucionaram o campo da visão computacional, levando a avanços significativos em muitas aplicações do mundo real. Obrigado à sua capacidade de resolver problemas complexos como classificação de imagens, detecção de objetos e reconhecimento facial, as CNNs alimentam muitos aplicativos que usamos diariamente, como automaticamente etiquetar amigos em fotos, permitindo que os carros autônomos "vejam" e entendam seu ambiente e ajudando médicos a diagnosticar doenças a partir de exames médicos. Elas também são usadas para gerar imagens realistas, traduzir idiomas e até mesmo criar arte.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Top 10 Real-World Applications of Convolutional Neural Networks](https://thedatascientist.com/top-10-real-world-applications-of-convolutional-neural-networks-in-2025/)
+- [@artigo@Top 10 Aplicações do Mundo Real das Redes Neurais Convolucionais](https://thedatascientist.com/top-10-real-world-applications-of-convolutional-neural-networks-in-2025/)

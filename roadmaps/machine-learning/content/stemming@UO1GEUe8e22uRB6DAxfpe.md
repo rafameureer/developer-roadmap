@@ -1,7 +1,7 @@
 # Stemming
 
-Stemming is a text normalization technique in natural language processing that reduces words to their root or base form, known as the stem. This is achieved by removing suffixes (like "-ing", "-ed", "-s") from words. The goal is to treat words with similar meanings as the same, even if they have slightly different forms, which helps to simplify text analysis and improve the efficiency of certain NLP tasks.
+A stemmagem é uma técnica de normalização de texto em processamento de linguagem natural que reduz palavras à sua forma raiz ou base, conhecida como o stem. Isso é feito removendo sufixos (como "-ing", "-ed", "-s") das palavras. O objetivo é tratar palavras com significados semelhantes como iguais, mesmo se tiverem formas ligeiramente diferentes, o que ajuda a simplificar a análise de texto e melhorar a eficiência de determinadas tarefas de NLP.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What are stemming and lemmatization?](https://www.ibm.com/think/topics/stemming-lemmatization)
+- [@article@O que são stemmagem e lematização?](https://www.ibm.com/think/topics/stemming-lemmatization)

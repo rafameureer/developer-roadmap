@@ -1,8 +1,8 @@
-# Probabilistic Clustering
+# Clusterização Probabilística
 
-Probabilistic clustering assumes that the data is generated from a mixture of probability distributions. Instead of assigning each data point to a single cluster, it provides the probability of a data point belonging to each cluster. A common example is the Gaussian Mixture Model (GMM), where it's assumed that the data points are generated from a mixture of Gaussian distributions. Scikit-learn provides an implementation of GMM that can be used for probabilistic clustering.
+A clusterização probabilística assume que os dados são gerados de uma mistura de distribuições de probabilidade. Em vez de atribuir cada ponto de dado a um único cluster, ela fornece a probabilidade de um ponto de dado pertencer a cada cluster. Um exemplo comum é o Modelo de Mistura Gaussiana (GMM), onde é assumido que os pontos de dados são gerados de uma mistura de distribuições gaussianas. O Scikit-learn oferece uma implementação do GMM que pode ser usada para clusterização probabilística.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Gaussian mixture models](https://scikit-learn.org/stable/modules/mixture.html#mixture)
-- [@article@Gaussian Mixture Model Explained](https://scikit-learn.org/stable/modules/mixture.html#mixture)
+- [@artigo@Modelos de Mistura Gaussiana](https://scikit-learn.org/stable/modules/mixture.html#mixture)
+- [@artigo@Explicação do Modelo de Mistura Gaussiana](https://scikit-learn.org/stable/modules/mixture.html#mixture)

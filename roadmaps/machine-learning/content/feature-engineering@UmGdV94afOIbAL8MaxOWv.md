@@ -1,9 +1,9 @@
-# Feature Engineering
+# Engenharia de Atributos
 
-Feature engineering is the process of transforming raw data into features that better represent the underlying problem to the predictive models, resulting in improved model accuracy. This involves selecting, transforming, and creating new features from existing data. The goal is to extract more information from the data and make it easier for machine learning algorithms to learn patterns and make accurate predictions.
+A engenharia de atributos é o processo de transformar dados brutos em atributos que melhor representem o problema subjacente aos modelos preditivos, resultando em uma maior precisão do modelo. Isso envolve a seleção, transformação e criação de novos atributos a partir dos dados existentes. O objetivo é extrair mais informações dos dados e torná-los mais fáceis para algoritmos de aprendizado de máquina aprender padrões e fazer previsões precisas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is a feature engineering? | IBM](https://www.ibm.com/think/topics/feature-engineering)
-- [@article@Feature Engineering in Machine Learning: A Practical Guide](https://www.datacamp.com/tutorial/feature-engineering)
-- [@video@What is feature engineering | Feature Engineering Tutorial Python](https://www.youtube.com/watch?v=pYVScuY-GPk)
+- [@article@O que é engenharia de atributos? | IBM](https://www.ibm.com/think/topics/feature-engineering)
+- [@article@Engenharia de Atributos em Aprendizado de Máquina: Um Guia Prático](https://www.datacamp.com/tutorial/feature-engineering)
+- [@video@O que é engenharia de atributos | Tutorial de Engenharia de Atributos Python](https://www.youtube.com/watch?v=pYVScuY-GPk)

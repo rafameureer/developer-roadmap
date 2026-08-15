@@ -1,7 +1,7 @@
-# Model Evaluation Metrics
+# Métricas para Avaliação de Modelos
 
-Model evaluation metrics are quantitative measures used to assess the performance of a machine learning model. These metrics provide insights into how well the model is generalizing to unseen data and help in comparing different models or tuning hyperparameters. They quantify various aspects of model behavior, such as accuracy, precision, recall, and error rate, allowing data scientists to make informed decisions about model selection and deployment.
+As métricas de avaliação de modelos são medidas quantitativas usadas para avaliar o desempenho de um modelo de aprendizado de máquina. Essas métricas fornecem insights sobre como bem o modelo está generalizando a dados não vistos e ajudam na comparação de diferentes modelos ou na otimização dos hiperparâmetros. Elas quantificam vários aspectos do comportamento do modelo, como precisão, recall, taxa de erro e acurácia, permitindo que os cientistas de dados tomem decisões informadas sobre a seleção e implantação do modelo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Metrics and scoring: quantifying the quality of predictions | scikit-learn](https://scikit-learn.org/stable/modules/model_evaluation.html)
+- [@article@Métricas e pontuação: quantificando a qualidade das previsões | scikit-learn](https://scikit-learn.org/stable/modules/model_evaluation.html)

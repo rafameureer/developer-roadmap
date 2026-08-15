@@ -1,3 +1,3 @@
-# Tone of Voice
+# Tom de Voz
 
-A clear tone of voice defines how you speak to your audience at every moment in their journey, helping them get wherever they want to go.
+Um tom de voz claro define como você se comunica com seu público em cada momento de sua jornada, ajudando-os a chegar onde querem ir.

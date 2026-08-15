@@ -1,3 +1,3 @@
-# Writing Guidelines
+# Diretrizes de Escrita
 
-Every consistent experience needs watertight writing. Laying down the foundations for your house style early keeps everything in line with consistent grammar, style choices and action-oriented language to help your design.
+Cada experiência consistente precisa de escrita firme. Estabelecer as bases para o estilo da sua casa cedo ajuda a manter tudo em linha com uma gramática consistente, escolhas de estilo e linguagem orientada à ação, ajudando seu design.

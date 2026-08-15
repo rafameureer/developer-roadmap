@@ -1,3 +1,3 @@
-# Monochrome Version
+# Versão Monocromática
 
-A monochrome version of your logo that looks good on top of photography or when it’s printed with a poor quality printer.
+Uma versão monocromática do seu logotipo que se parece bem em cima de fotografias ou quando é impresso com um impressor de baixa qualidade.

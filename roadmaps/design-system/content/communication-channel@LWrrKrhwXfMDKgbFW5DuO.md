@@ -1,3 +1,3 @@
-# Communication Channel
+# Canal de Comunicação
 
-Most product development work happens digitally, so create a digital channel where people can reach out and ask questions.
+A maioria do trabalho de desenvolvimento de produtos ocorre digitalmente, então crie um canal digital onde as pessoas possam entrar em contato e fazer perguntas.

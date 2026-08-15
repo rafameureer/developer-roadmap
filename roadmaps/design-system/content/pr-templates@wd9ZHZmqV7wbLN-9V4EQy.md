@@ -1,3 +1,3 @@
-# Pull Request Templates
+# Modelos de Solicitação de Pull Request
 
-Create pull request templates that outline the change being proposed to facilitate productive discussions.
+Crie modelos de solicitação de pull request que esboçem a mudança sendo proposta para facilitar discussões produtivas.

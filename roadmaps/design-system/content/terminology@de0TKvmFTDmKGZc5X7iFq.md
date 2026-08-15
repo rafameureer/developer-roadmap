@@ -1,7 +1,7 @@
-# Terminology
+# Terminologia
 
-Design systems can be tricky if you don’t know what certain words mean. Have a look at the roadmap nodes as well as follow the link below to read the glossary.
+Os sistemas de design podem ser complicados se você não souber o que certas palavras significam. Tenha uma olhada nos nós do roadmap e siga o link abaixo para ler o glossário.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Design Systems Glossary](https://web.archive.org/web/20220620075140/https://superfriendly.com/design-systems/glossary/)
+- [@artigo@Glossário de Sistemas de Design](https://web.archive.org/web/20220620075140/https://superfriendly.com/design-systems/glossary/)

@@ -1,3 +1,3 @@
-# Forms
+# Formulários
 
-Forms collect user input and require standardized input components, comprehensive validation systems, effective labeling strategies, consistent layouts, clear error handling, progressive disclosure, required field indicators, auto-complete integration, proper accessibility, and mobile optimization.
+Os formulários coletam a entrada do usuário e exigem componentes de entrada padrão, sistemas de validação abrangentes, estratégias eficazes de rótulos, layout consistente, tratamento de erros claro, revelação progressiva, indicadores de campos obrigatórios, integração de preenchimento automático, acessibilidade adequada e otimização para dispositivos móveis.

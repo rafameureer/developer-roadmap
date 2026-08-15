@@ -1,3 +1,3 @@
-# Service and Health Metrics
+# Métricas de Serviço e Saúde
 
-Define service and health metrics for your design system to set a benchmark on how well you’re doing. Common examples can be the number of tickets closed, improvements made or bugs fixed.
+Defina métricas de serviço e saúde para o seu sistema de design para estabelecer um benchmark sobre como está funcionando. Exemplos comuns podem ser o número de bilhetes fechados, melhorias realizadas ou bugs corrigidos.

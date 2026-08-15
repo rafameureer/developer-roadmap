@@ -2372,7 +2372,98 @@
     "roadmaps/datastructures-and-algorithms/content/two-pointer-technique@itvhUXbe9dr9JN5ga2jYy.md",
     "roadmaps/datastructures-and-algorithms/content/undirected-graph@VnKm_j7McUW9Lo0iKyPUp.md",
     "roadmaps/datastructures-and-algorithms/content/what-are-data-structures@jvWuYXWRtt_ePawc4q1Tg.md",
-    "roadmaps/datastructures-and-algorithms/content/why-are-data-structures-important@8_GkF9zhRL8tvT2qu-bGj.md"
+    "roadmaps/datastructures-and-algorithms/content/why-are-data-structures-important@8_GkF9zhRL8tvT2qu-bGj.md",
+    "roadmaps/design-system/content/ab-tests--experiments@ILRDAnpfGHCZq-FBlbfDO.md",
+    "roadmaps/design-system/content/accessibility-testing@yhP8EhyCWWRBLkYPyOFeg.md",
+    "roadmaps/design-system/content/accessibility@DhrnZwQODG0P7D-27_3ec.md",
+    "roadmaps/design-system/content/banner@kkqRIgdXWaJbX9CjLpwha.md",
+    "roadmaps/design-system/content/breakpoints@djwnJq9Y_Hx1Ynw01wr_u.md",
+    "roadmaps/design-system/content/button@LWihkf4q5UawjLd84KQxN.md",
+    "roadmaps/design-system/content/card@rZ7d1C9swiqlRTbdJLZ0R.md",
+    "roadmaps/design-system/content/code-style@zEqFAuH9zmKTLwwgx54pW.md",
+    "roadmaps/design-system/content/commit-guidelines@IVYe8oh1IWbUbxMZRxVQA.md",
+    "roadmaps/design-system/content/communication-channel@LWrrKrhwXfMDKgbFW5DuO.md",
+    "roadmaps/design-system/content/community-meetings@eG8ranXuINtcqWfeMH5GW.md",
+    "roadmaps/design-system/content/component-analytics@G8dOkM_4hP7wPF3QJ8y4g.md",
+    "roadmaps/design-system/content/component-catalog@VeLiPzbGr22_Mh_8T2Gnf.md",
+    "roadmaps/design-system/content/component-library@vJ4WytrzY7j10mo8S3O1u.md",
+    "roadmaps/design-system/content/component@97cpJyKBKNAq1P_pQZH-t.md",
+    "roadmaps/design-system/content/contribution-guidelines@TiCNCRpMPgZUhn7JdaIZA.md",
+    "roadmaps/design-system/content/contribution-guidelines@xJ1LAAhiZvbZOLRVc1HZa.md",
+    "roadmaps/design-system/content/creating-core-components@Hw_LQInG6OtSwDXch3Lvg.md",
+    "roadmaps/design-system/content/creating-design-language@JnaNZ9MfMrXQrjW2wABzB.md",
+    "roadmaps/design-system/content/dark-mode@kxUnqpydDwB73IwrCPZM0.md",
+    "roadmaps/design-system/content/defining-design-tokens@a53cl6ZKvYXxG25Ii2_zu.md",
+    "roadmaps/design-system/content/design-editor@ccpT9MPFbc3Ewjm1tFMsZ.md",
+    "roadmaps/design-system/content/design-language@fPUuXrlchna3K00KcY4O6.md",
+    "roadmaps/design-system/content/design-principles@1RJrMVJf_3clM7E5OML-f.md",
+    "roadmaps/design-system/content/design-system-examples@hauTvrBOAHgrUnO_m_kDM.md",
+    "roadmaps/design-system/content/documentation@k1Lwk_b6cLIeyQwc4RUh1.md",
+    "roadmaps/design-system/content/faqs@cpAeotBxN8BCsU9RqTEue.md",
+    "roadmaps/design-system/content/file-formats@-6LPUMRm-SqvRVEWPDFl8.md",
+    "roadmaps/design-system/content/forms@5LCMzBnnS206t5EtgaUx8.md",
+    "roadmaps/design-system/content/functional-colors@__Pv19gRr2SFknVnfm0Mr.md",
+    "roadmaps/design-system/content/governance@kifE3JE2immnU1O3-toZf.md",
+    "roadmaps/design-system/content/grid-relation@6Hmj_TeQ563jshqAAl__I.md",
+    "roadmaps/design-system/content/grid-relation@Zl7MVllzJgObruYtlibKf.md",
+    "roadmaps/design-system/content/grid@8f2V-rM7soorTTvNo5Vcx.md",
+    "roadmaps/design-system/content/guidelines@Jab5LO0mGhTy1cU61Catu.md",
+    "roadmaps/design-system/content/guidelines@XDfxs5cgjSuTEprZi2Z5b.md",
+    "roadmaps/design-system/content/guidelines@eTxhpC3AQIMcUax6WFU9U.md",
+    "roadmaps/design-system/content/icon@bzY_iXRnotct_WnNRTlbd.md",
+    "roadmaps/design-system/content/icons@aak3227IDDJMh0MquQX6m.md",
+    "roadmaps/design-system/content/identify-existing-design-process@CnsDoZ3gIaPeNbwHuZXYJ.md",
+    "roadmaps/design-system/content/input-checkbox@F5_sxUnnGEdgF6BkA5T5x.md",
+    "roadmaps/design-system/content/input-radio@rN-_plAA5FkcQl03wsL18.md",
+    "roadmaps/design-system/content/input-switch@NISeaJUlDtQ0kSuyxmrOT.md",
+    "roadmaps/design-system/content/input-text@hjiJJg4KNr8lyktFQd868.md",
+    "roadmaps/design-system/content/keywords@HDf2L4F1f8uUGpVaf7Y7z.md",
+    "roadmaps/design-system/content/list@2T7tiM3Ew3H1U5iJR2TDb.md",
+    "roadmaps/design-system/content/making-it-from-existing-design@z5gBy7BjlBKwbYbxXtoDA.md",
+    "roadmaps/design-system/content/making-it-from-scratch@-9I3fTpnQlmcZmIIuQiPe.md",
+    "roadmaps/design-system/content/microcopy-guidelines@bD-DjUbAA6l2eK1R9ITcK.md",
+    "roadmaps/design-system/content/milestones@ruPXxVwmD9vSlS7rBZmA-.md",
+    "roadmaps/design-system/content/modal@IjNitkG25vNo30rB4ckNV.md",
+    "roadmaps/design-system/content/monochrome-version@Wn8CylBz-hyl9-iXcUVTO.md",
+    "roadmaps/design-system/content/naming@wiclAEEYioRgLmXFcKQ4E.md",
+    "roadmaps/design-system/content/need-of-design-system@2rlmLn_yQQV-7DpX1qT98.md",
+    "roadmaps/design-system/content/open-hours@YWoPoO9IW3vLZyxLL2fnT.md",
+    "roadmaps/design-system/content/other@Ia1gYzepJOTvTro961eSj.md",
+    "roadmaps/design-system/content/pattern@7xPT8rUX3hjSWbxH_FfQs.md",
+    "roadmaps/design-system/content/performance@wFL9axjaPcVvI8XWduxgz.md",
+    "roadmaps/design-system/content/placement-guidance@7n61402xwhIgJ7dPHg8q7.md",
+    "roadmaps/design-system/content/plugins@uO-2O0Jwh_DxrMAB9wxp1.md",
+    "roadmaps/design-system/content/pr-templates@wd9ZHZmqV7wbLN-9V4EQy.md",
+    "roadmaps/design-system/content/project-management@JfXwzkN29UGz17FYHHE3A.md",
+    "roadmaps/design-system/content/readability@L2NHddsv5RGR_BW0I3f4T.md",
+    "roadmaps/design-system/content/regional-requirements@pRJ9wEPNfFx_6EYB501vk.md",
+    "roadmaps/design-system/content/release-strategy@CfWCQNaCJGL-egRhFhc4B.md",
+    "roadmaps/design-system/content/reserved-icons@Y0KxHVrcNGHDao-38Oz3w.md",
+    "roadmaps/design-system/content/responsiveness@8YVCtgYRHR3VcpUJXMVwP.md",
+    "roadmaps/design-system/content/roadmap@gMrX5600JqFDplriq-eU3.md",
+    "roadmaps/design-system/content/select@n1nUkMqGtPobZPJHCvPsk.md",
+    "roadmaps/design-system/content/semantic-versioning@ZLt1yJqinC8OSpqucC2dV.md",
+    "roadmaps/design-system/content/service-and-health-metrics@5znnOkpf9G9tdiMWB6Rut.md",
+    "roadmaps/design-system/content/sizes@w3LS85eFerscaxb2Xp-dP.md",
+    "roadmaps/design-system/content/sizing@78RsPhsWpl00AbkwKXUxL.md",
+    "roadmaps/design-system/content/small-use-guidance@FA3JsZgNhKrgNHVtVreol.md",
+    "roadmaps/design-system/content/spacking@dXaYOwTAnYSlipNEBSV9l.md",
+    "roadmaps/design-system/content/style@SPK1i0XuHpNEWyi1iIxrV.md",
+    "roadmaps/design-system/content/tabs@1vYR1EMyZhJA-znxnFBBb.md",
+    "roadmaps/design-system/content/terminology@Zspu1SsuTE34PVmYePcs4.md",
+    "roadmaps/design-system/content/terminology@de0TKvmFTDmKGZc5X7iFq.md",
+    "roadmaps/design-system/content/textarea@iusI39fxcu2rbMXiosaM6.md",
+    "roadmaps/design-system/content/ticketing@i39J0fk4DaPeNFIMbH0ap.md",
+    "roadmaps/design-system/content/tone-of-voice@fnlVIgsmyxj2UVCCjM-8g.md",
+    "roadmaps/design-system/content/tooling-analytics@qiJGYYWL4naJX-MgZA9Ms.md",
+    "roadmaps/design-system/content/tooling@jggrr5nZOe6FY3ZrZJTOw.md",
+    "roadmaps/design-system/content/unit-testing@y8No8I0MltA91j4Q2toT0.md",
+    "roadmaps/design-system/content/units@wQbMhC7q3qdKYf_pX5qL4.md",
+    "roadmaps/design-system/content/usage-guidance@RmSFwKqL9yXXxGKZusKWX.md",
+    "roadmaps/design-system/content/user-onboarding@PlW8mHnOTyYnbtl0zUSG9.md",
+    "roadmaps/design-system/content/version-control@CYY6nbQiC2pu5ATWmO6wA.md",
+    "roadmaps/design-system/content/vision@cMfsRtvzvDZZJ0TqeUOxm.md",
+    "roadmaps/design-system/content/writing-guidelines@toyNbBB5tbyiJZkzuklIv.md"
   ],
   "completed_roadmaps": [
     "frontend-beginner",
@@ -2402,7 +2493,8 @@
     "cyber-security",
     "data-analyst",
     "data-engineer",
-    "datastructures-and-algorithms"
+    "datastructures-and-algorithms",
+    "design-system"
   ],
   "flagged_issues": [
     {
@@ -5574,8 +5666,173 @@
       "file": "roadmaps/datastructures-and-algorithms/content/trie@zy3wpb1MjizfUfx9_rZy2.md",
       "reason": "Falha na tradução automática após tentativas no Ollama",
       "timestamp": "2026-08-15T05:12:21.758158"
+    },
+    {
+      "file": "roadmaps/design-system/content/accessibility@aLtOGjNFxaRzg0PI-ed99.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:13:14.753968"
+    },
+    {
+      "file": "roadmaps/design-system/content/accessibility@fW0cEy2SB0HDbiF7QA7Ev.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:13:16.601504"
+    },
+    {
+      "file": "roadmaps/design-system/content/avatar@_dIMuXWI73ogboGjnLIpT.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:13:18.657556"
+    },
+    {
+      "file": "roadmaps/design-system/content/avatar@h3TZY1yBkzLYUK6W7K7xs.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:13:37.032102"
+    },
+    {
+      "file": "roadmaps/design-system/content/badge@LNsXQI8sE_5kzSD_iMLJA.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:13:39.848952"
+    },
+    {
+      "file": "roadmaps/design-system/content/badges@UG4AIgJBfZpuhia4Y1K5v.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:13:41.754260"
+    },
+    {
+      "file": "roadmaps/design-system/content/banners@5DUobzueMZbScyTZTHpCS.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:13:59.967720"
+    },
+    {
+      "file": "roadmaps/design-system/content/buttons@s6oqvHgwK4Cwyx-JENBbY.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:14:29.229260"
+    },
+    {
+      "file": "roadmaps/design-system/content/cards@yLLAUGbGUHBTEDkZNK0fm.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:14:45.097167"
+    },
+    {
+      "file": "roadmaps/design-system/content/carousel@yWEXfjzuzk99dxjZlG4Cq.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:14:50.963451"
+    },
+    {
+      "file": "roadmaps/design-system/content/color@2prUeRYbSJTYjo2quJIKs.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:15:00.017808"
+    },
+    {
+      "file": "roadmaps/design-system/content/design-system-vs-component-library@J5mU0v491qrm-mr1W3Msd.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:15:49.253607"
+    },
+    {
+      "file": "roadmaps/design-system/content/documentation@-b4GjLpL_ppDMJSiChTef.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:15:50.854602"
+    },
+    {
+      "file": "roadmaps/design-system/content/dropdown@MtBSvKoyjdLd6DIdolLRi.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:16:08.347677"
+    },
+    {
+      "file": "roadmaps/design-system/content/dropdowns@hzVwLVzAij6TgPTcNHyhv.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:16:10.491273"
+    },
+    {
+      "file": "roadmaps/design-system/content/existing-design-analysis@8eWhvW2zDIxMGHaXl0Y9i.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:16:13.255035"
+    },
+    {
+      "file": "roadmaps/design-system/content/guidelines@mlBzJ2YvBr9QuOthKdj0p.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:16:48.292244"
+    },
+    {
+      "file": "roadmaps/design-system/content/loading-indicator@JhnHOMIlU6mQcwvIpErUY.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:17:40.732379"
+    },
+    {
+      "file": "roadmaps/design-system/content/logging@xYqDmDpjwkShtL86nt-vY.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:17:41.559443"
+    },
+    {
+      "file": "roadmaps/design-system/content/making-a-design-system@dUaoMARPabiD4DRqdkaer.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:17:46.054078"
+    },
+    {
+      "file": "roadmaps/design-system/content/performing-a-visual-audit@NKm-gXbt5Y7dDwKVkPHjX.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:18:31.486135"
+    },
+    {
+      "file": "roadmaps/design-system/content/pilot@4dzoZmkNHPedgLqLy93t8.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:18:35.077711"
+    },
+    {
+      "file": "roadmaps/design-system/content/spaces@GtLYBPJjdZwG0qgA7erk7.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:19:19.219893"
+    },
+    {
+      "file": "roadmaps/design-system/content/stakeholders-involved-in-building@_3_tFOpQisx6DSP4Yc2E2.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:19:26.508482"
+    },
+    {
+      "file": "roadmaps/design-system/content/toast@-T7uL6a3lJ5-IIcDaG6IN.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:19:56.719386"
+    },
+    {
+      "file": "roadmaps/design-system/content/token@jETJVuS_EczJiQASLqaQr.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:19:59.770240"
+    },
+    {
+      "file": "roadmaps/design-system/content/tooltip@2oCAzsk_y2Y2oHUi467dp.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:20:18.817694"
+    },
+    {
+      "file": "roadmaps/design-system/content/typography@ODQ8zrHc2rsc8PN-APKvz.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:20:31.262968"
+    },
+    {
+      "file": "roadmaps/design-system/content/ui-kit@lUObv2N7eH3Jdnwwd5vmI.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:20:34.371300"
+    },
+    {
+      "file": "roadmaps/design-system/content/understand-the-basics@uvnV1IjE8RV-FKDxHntUU.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:20:38.495882"
+    },
+    {
+      "file": "roadmaps/design-system/content/visual-forms@-MrrapoyFWKhSeE2PZ9mb.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:21:07.535608"
+    },
+    {
+      "file": "roadmaps/design-system/content/what-is-a-design-system@4PrkkoZ5fY-oow0O-bVhu.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:21:10.797006"
+    },
+    {
+      "file": "roadmaps/design-system/content/what-is-atomic-design@6r9XbwlBtHmJrhviG2cTD.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:21:15.002536"
     }
   ],
-  "last_updated": "2026-08-15T05:12:49.671783",
+  "last_updated": "2026-08-15T05:21:17.110778",
   "total_translated_count": 54
 }

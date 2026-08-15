@@ -1,6 +1,6 @@
-# Icon
+# Ícone
 
-The icon component is a way to align the way iconography static assets are displayed in the product.
+O componente de ícone é uma maneira de alinhar a forma como os ativos estáticos de iconografia são exibidos no produto.
 
-- **Sizes:** Icons should have a number of predefined sizes to provide a holistic experience across the product. Typography pairings may be used for these size values to ensure that they are aligned with the text sizes.
-- **Colors:** Icons should be using values from the design system colour palette. Using parent element text colour for icon fill colour can make this automatic.
+- **Tamanhos:** Os ícones devem ter um número de tamanhos pré-definidos para fornecer uma experiência holística ao longo do produto. Pares tipográficos podem ser usados para esses valores de tamanho para garantir que estejam alinhados com os tamanhos de texto.
+- **Cores:** Os ícones devem usar valores da paleta de cores do sistema de design. Usar a cor do texto do elemento pai como cor de preenchimento do ícone pode tornar isso automático.

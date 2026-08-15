@@ -1,3 +1,3 @@
-# Component Analytics
+# Análise de Componentes
 
-Track the usage of your components. For development you can use built-in tools like Figma’s Design System Analytics. For the end product you can have a separate way of tracking per platform depending on the technology.
+Rastreie o uso dos seus componentes. Para desenvolvimento, você pode usar ferramentas internas como a Análise do Sistema de Design do Figma. Para o produto final, você pode ter um método separado de rastreamento por plataforma dependendo da tecnologia.

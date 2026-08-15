@@ -1,5 +1,5 @@
-# Different File Formats
+# Diferentes Formatos de Arquivo
 
-Providing a variety of formats for the vector version of your logo will make it easier for others to work and prevent anyone from redrawing it.
+Forneça uma variedade de formatos para a versão vetorial do seu logotipo tornará mais fácil para outras pessoas trabalharem nele e impedirá que qualquer um o redesenhe.
 
-- [@article@What is a Vector Logo and Why You Need It](https://www.renderforest.com/blog/vector-logo)
+- [@artigo@O que é um Logotipo Vetorial e Por Que Você Precisa dele](https://www.renderforest.com/blog/vector-logo)

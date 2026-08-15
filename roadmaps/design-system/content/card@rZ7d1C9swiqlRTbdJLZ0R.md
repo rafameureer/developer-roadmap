@@ -1,9 +1,9 @@
-# Card
+# Cartão
 
-Cards are used to group information about subjects and their related actions.
+Cartões são usados para agrupar informações sobre assuntos e suas ações relacionadas.
 
-- **Supports any type of content:** Cards are one of the most used components in the product, so they have to be flexible enough to support any other components placed in them.
-- **Information structure:** No matter how flexible cards are, it’s important for cards to have a specific structure for its elements for product consistency.
-- **Supports media sections:** One of the most popular scenarios for using cards is mixing them with media content. The most popular options are having a full-width area on top of the content or full-height area at one of the card’s sides.
-- **Supplementary actions:** Cards can be used with actions usually placed at the bottom of the card, or the card itself can be tappable and represent an action.
-- **Responsiveness:** On mobile viewports cards are usually full-width in order to save space for the content.
+- **Suporta qualquer tipo de conteúdo:** Os cartões são um dos componentes mais utilizados no produto, então eles precisam ser flexíveis o suficiente para suportar quaisquer outros componentes colocados neles.
+- **Estrutura de informações:** Independentemente da flexibilidade dos cartões, é importante que eles tenham uma estrutura específica para seus elementos para a consistência do produto.
+- **Suporta seções de mídia:** Um dos cenários mais populares para usar cartões é misturá-los com conteúdo multimídia. As opções mais populares são ter uma área de largura total no topo do conteúdo ou uma área de altura total em um dos lados do cartão.
+- **Ações complementares:** Os cartões podem ser usados com ações geralmente colocadas no final do cartão, ou o próprio cartão pode ser toqueável e representar uma ação.
+- **Responsividade:** Nos visualizadores móveis, os cartões normalmente são de largura total para economizar espaço para o conteúdo.

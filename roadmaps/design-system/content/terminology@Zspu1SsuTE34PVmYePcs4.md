@@ -1,3 +1,3 @@
-# Terminology
+# Terminologia
 
-Create the standard terms and phrases that need to be kept the same throughout the user experience, speeding up the design process and unifying your voice.
+Crie os termos padrão e frases que precisam ser mantidos iguais durante toda a experiência do usuário, acelerando o processo de design e unificando sua voz.

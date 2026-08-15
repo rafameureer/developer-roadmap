@@ -1,3 +1,3 @@
-# Breakpoints
+# Pontos de Quebra
 
-Predefine the screen sizes and orientations your grid will adapt to.
+Define os tamanhos e orientações da tela que sua grade adaptará.

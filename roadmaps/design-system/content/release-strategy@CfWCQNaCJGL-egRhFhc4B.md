@@ -1,3 +1,3 @@
-# Release Strategy
+# Estratégia de Lançamento
 
-Design system releases should be automated and ideally use scripts ran locally or in remote CI pipelines to prevent broken releases.
+Os lançamentos do sistema de design devem ser automatizados e, idealmente, usar scripts executados localmente ou em pipelines CI remotos para prevenir lançamentos quebrados.

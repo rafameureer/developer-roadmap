@@ -1,7 +1,7 @@
-# From Existing Design
+# Dois Design System a partir de um Design Existente
 
-If you are creating a Design System from pre-existing product design, there is an additional step to perform the existing design analysis, understand the existing design process, perform a visual audit, identify design elements and components and so on.
+Se você estiver criando um Design System a partir de um design de produto existente, há uma etapa adicional para realizar o análise do design existente, entender o processo de design existente, realizar uma auditoria visual, identificar elementos e componentes de design e assim por diante.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@Create a Design System with Figma - Full Course](https://www.youtube.com/watch?v=RYDiDpW2VkM)
+- [@video@Criar um Design System com Figma - Curso Completo](https://www.youtube.com/watch?v=RYDiDpW2VkM)

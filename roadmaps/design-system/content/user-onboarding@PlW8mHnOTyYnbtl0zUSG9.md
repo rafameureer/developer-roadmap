@@ -1,5 +1,5 @@
-# User Onboarding
+# Introdução do Usuário
 
-How you onboard your users to your product or a new feature and give them a great experience from the start.
+Como você orienta seus usuários para o seu produto ou uma nova funcionalidade e lhes dá uma ótima experiência desde o início.
 
-- [@video@What is user onboarding? ](https://www.youtube.com/watch?v=PatIqbGEQe4)
+- [@vídeo@O que é a introdução do usuário? ](https://www.youtube.com/watch?v=PatIqbGEQe4)

@@ -1,3 +1,3 @@
-# Commit Guidelines
+# Diretrizes de Commit
 
-Automate the generation of your changelog by adopting a commit message guidelines that categorise and define the changes being made.
+Automatize a geração do seu changelog adotando diretrizes de mensagem de commit que categorizem e definam as alterações sendo feitas.

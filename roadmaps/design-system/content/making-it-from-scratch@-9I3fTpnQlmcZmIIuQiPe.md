@@ -1,7 +1,7 @@
-# From Scratch
+# Dois Design System do Zero
 
-If you are building a Design System from Scratch, you may skip the "Existing Design Analysis" node of the roadmap and start with "Creating Design Language".
+Se você estiver construindo um Design System do zero, pode pular o nó "Análise de Design Existente" do roadmap e começar com "Criando Linguagem de Design".
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@Create a Design System with Figma - Full Course](https://www.youtube.com/watch?v=RYDiDpW2VkM)
+- [@video@Criar um Design System com Figma - Curso Completo](https://www.youtube.com/watch?v=RYDiDpW2VkM)

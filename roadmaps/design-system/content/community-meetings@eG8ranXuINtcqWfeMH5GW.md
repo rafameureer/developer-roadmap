@@ -1,3 +1,3 @@
-# Community Meetings
+# Reuniões da Comunidade
 
-Arrange community meetings with everyone who uses the design system. Share your knowledge and make proposals to improve the sense of community.
+Organize reuniões com todos que usam o sistema de design. Compartilhe seus conhecimentos e faça propostas para melhorar a sensação de comunidade.

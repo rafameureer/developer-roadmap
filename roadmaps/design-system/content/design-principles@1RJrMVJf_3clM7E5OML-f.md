@@ -1,3 +1,3 @@
-# Design Principles
+# Princípios de Design
 
-The considerations that guide the basis of your practice. They outline how you approach design from a philosophical perspective and help with everyday decisions.
+As considerações que guiam a base da sua prática. Eles esboçam como você aborda o design de uma perspectiva filosófica e ajudam com decisões diárias.

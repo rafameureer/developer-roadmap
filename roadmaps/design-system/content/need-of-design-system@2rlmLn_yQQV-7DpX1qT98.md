@@ -1,9 +1,9 @@
-# Need of design system
+# Necessidade de um sistema de design
 
-Having a solid design system speeds up your work by making the product team more efficient, and it creates consistency and harmony within the product and brand ecosystem. A strong design system takes the burden off individual designers to think through commonly recurring design problems. With a full library of pre-approved elements, designers can focus on bigger problems like creating seamless, intuitive flows that delight users. That kind of efficiency pays huge dividends over time.
+Ter um sistema de design sólido acelera seu trabalho, tornando a equipe de produto mais eficiente e criando consistência e harmonia dentro do ecossistema de produtos e marca. Um forte sistema de design alivia o peso dos designers individuais para pensar em problemas de design comuns. Com uma biblioteca completa de elementos pré-aprovados, os designers podem se concentrar em problemas maiores como criar fluxos suaves e intuitivos que surpreendam os usuários. Esse tipo de eficiência recompensa-se enormemente ao longo do tempo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@Design Systems, when and how much?](https://www.youtube.com/watch?v=Hx02SaL_IH0)
-- [@article@Why You Need a Strong Design System (and How to Build One)](https://www.drawbackwards.com/blog/why-you-need-a-strong-design-system-and-how-to-build-one)
-- [@article@On Design Systems: Sell The Output, Not The Workflow](https://www.smashingmagazine.com/2016/05/design-systems-responsive-design-sell-output-not-workflow/)
+- [@vídeo@Sistemas de Design, quando e quanto?](https://www.youtube.com/watch?v=Hx02SaL_IH0)
+- [@artigo@Por que você precisa de um sistema de design forte (e como construir um)](https://www.drawbackwards.com/blog/why-you-need-a-strong-design-system-and-how-to-build-one)
+- [@artigo@Sobre Sistemas de Design: Venda a Saída, Não o Fluxo de Trabalho](https://www.smashingmagazine.com/2016/05/design-systems-responsive-design-sell-output-not-workflow/)

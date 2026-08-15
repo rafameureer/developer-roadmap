@@ -1,10 +1,10 @@
-# Input Radio
+# Botão de Opção
 
-An input radio is a form element used for selecting one option from a list.
+Um botão de opção é um elemento de formulário usado para selecionar uma única opção de uma lista.
 
-- **Checked State:** Used when the radio is selected and will use its value for the form submission. A radio input can’t be unselected by pressing it again.
-- **Disabled State:** Prevents radio interactions and removes its value from the form submission.
-- **Label:** There should be a text label linked with the radio field. Clicking the label should also trigger the radio selection.
-- **Error State:** The error state is used for form validation errors when the error is related to the radio field only. Always use a text error along with changing the colour of the field.
-- **Keyboard State:** A radio selection should be triggered when the Space key is pressed. Using native elements for this should provide this kind of interaction out of the box.
-- **Radio Group:** Radio inputs should always be used in a group. If one of them is selected, it can be deselected only by choosing another radio.
+- **Estado Marcado:** Usado quando o botão de opção está marcado e usará seu valor para o envio do formulário. Um botão de opção não pode ser desmarcado pressionando-o novamente.
+- **Estado Desabilitado:** Impede interações com o botão de opção e remove seu valor do envio do formulário.
+- **Etiqueta:** Deve haver uma etiqueta de texto vinculada ao campo do botão de opção. Clicar na etiqueta também deve acionar a seleção do botão de opção.
+- **Estado de Erro:** O estado de erro é usado para erros de validação de formulário quando o erro está relacionado apenas ao campo do botão de opção. Sempre use um erro de texto junto com a mudança de cor do campo.
+- **Estado de Teclado:** Uma seleção de botão deve ser acionada pressionando a tecla Espaço. Usar elementos nativos para isso deve fornecer essa interação por padrão.
+- **Grupo de Botões de Opção:** Os botões de opção devem sempre ser usados em um grupo. Se um deles estiver marcado, ele pode ser desmarcado apenas escolhendo outro botão de opção.

@@ -1,3 +1,3 @@
-# Contribution Guidelines
+# Diretrizes de Contribuição
 
-Define the process of contributing to the code of the design system. Document everything in a discoverable place to make it easier for everyone to contribute.
+Define o processo de contribuir para o código do sistema de design. Documente tudo em um lugar acessível para facilitar a contribuição para todos.

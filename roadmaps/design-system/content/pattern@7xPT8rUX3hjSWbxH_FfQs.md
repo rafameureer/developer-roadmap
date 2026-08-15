@@ -1,3 +1,3 @@
-# Pattern
+# Padrão
 
-Patterns are best practice design solutions for specific user-focused tasks and page types. Patterns often use one or more components and explain how to adapt them to the context. Some sample patterns could be user signing in to the application or performing the checkout operation.
+Os padrões são soluções de design de melhor prática para tarefas e tipos de página focadas no usuário. Os padrões frequentemente usam um ou mais componentes e explicam como adaptá-los ao contexto. Alguns exemplos de padrões podem ser o usuário se logando na aplicação ou realizando a operação de checkout.

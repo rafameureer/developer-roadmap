@@ -1,3 +1,3 @@
-# Sizes
+# Tamanhos
 
-Provide different sizes for icons that correlate to your grid. Provide a minimum size and remove unnecessary detail for your icons for smaller sizes.
+Forneça diferentes tamanhos de íconos que correspondam à sua grade. Forneça um tamanho mínimo e remova detalhes desnecessários para seus íconos em tamanhos menores.

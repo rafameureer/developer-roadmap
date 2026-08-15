@@ -1,3 +1,3 @@
-# Dark Mode
+# Modo Escuro
 
-Preparing a dark mode version of your colour palette will allow your design system to adapt to dark mode and respect what your user wants to see.
+Preparar uma versão de modo escuro para sua paleta de cores permitirá que seu sistema de design se adapte ao modo escuro e respeite o que seu usuário deseja ver.

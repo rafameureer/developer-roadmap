@@ -1,3 +1,3 @@
-# Spacing
+# Espaçamento
 
-Horizontal and vertical rhythm plays a big role in a layout. You should provide easy methods for adding space between interface elements independent of your grid.
+O ritmo horizontal e vertical desempenha um papel importante em um layout. Você deve fornecer métodos fáceis para adicionar espaço entre elementos de interface, independentemente da sua grade.

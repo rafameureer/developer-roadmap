@@ -1,3 +1,3 @@
-# Semantic Versioning
+# Versão Semântica
 
-Version your code with semantic versioning that dictates how version numbers are assigned and incremented.
+Versione seu código com a versão semântica que determina como os números de versão são atribuídos e incrementados.

@@ -1,10 +1,10 @@
-# Governance
+# Governança
 
-Governance is a framework for clarifying roles, responsibilities, and authority over decisions. Having that clarity ensures that decisions for the design system funnel smoothly through the governance process
+A governança é um quadro para esclarecer papéis, responsabilidades e autoridade sobre decisões. Ter essa clareza garante que as decisões do sistema de design fluam suavemente através do processo de governança.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para saber mais:
 
-- [@article@Governance is a design system’s friend](https://zeroheight.com/blog/governance-is-a-design-systems-friend)
-- [@article@Design System Governance – Scale Your Design](https://www.uxpin.com/studio/blog/design-system-governance/)
-- [@article@Governance by design: Building successful design systems](https://rangle.io/blog/governance-by-design-building-successful-design-systems/)
-- [@article@Team Models for Scaling a Design System](https://medium.com/eightshapes-llc/team-models-for-scaling-a-design-system-2cf9d03be6a0)
+- [@artigo@Governança é um amigo do sistema de design](https://zeroheight.com/blog/governance-is-a-design-systems-friend)
+- [@artigo@Governança de Sistema de Design – Escalando seu Design](https://www.uxpin.com/studio/blog/design-system-governance/)
+- [@artigo@Governança por design: Construindo sistemas de design de sucesso](https://rangle.io/blog/governance-by-design-building-successful-design-systems/)
+- [@artigo@Modelos de Equipe para Escalando um Sistema de Design](https://medium.com/eightshapes-llc/team-models-for-scaling-a-design-system-2cf9d03be6a0)

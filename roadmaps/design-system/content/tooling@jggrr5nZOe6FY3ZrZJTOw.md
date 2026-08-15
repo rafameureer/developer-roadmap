@@ -1,3 +1,3 @@
-# Tooling
+# Ferramentas
 
-Design system tooling encompasses technical infrastructure and workflows. Effective tooling should integrate with design tools, provide component libraries for frameworks, implement token management, utilize documentation platforms, establish automated versioning, create testing infrastructure, and enable collaboration workflows.
+O sistema de design engloba a infraestrutura técnica e os fluxos de trabalho. As ferramentas eficazes devem se integrar com as ferramentas de design, fornecer bibliotecas de componentes para estruturas, implementar o gerenciamento de tokens, utilizar plataformas de documentação, estabelecer a versão automática, criar infraestrutura de teste e habilitar fluxos de trabalho de colaboração.

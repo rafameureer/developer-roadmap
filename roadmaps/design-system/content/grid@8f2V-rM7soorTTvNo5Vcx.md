@@ -1,3 +1,3 @@
-# Grid
+# Grade
 
-Every layout should sit on a grid that brings order and hierarchy to the interface. Define a grid separately for mobile, tablet and desktop devices with columns, gutters, and margins so your interface can adapt to any platform easily.
+Cada layout deve se basear em uma grade que traz ordem e hierarquia à interface. Defina uma grade separadamente para dispositivos móveis, tablet e desktop com colunas, espaçamentos entre colunas (gutters) e margens para que sua interface possa adaptar-se facilmente a qualquer plataforma.

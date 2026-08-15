@@ -1,3 +1,3 @@
-# Naming
+# Nomeação
 
-Name your icons based on what they are, not what they represent. For instance, a trash icon should be named trash, not delete. You can still add related keywords to improve discoverability.
+Nomeie seus ícones com base em o que eles representam, não em o que eles significam. Por exemplo, um ícone de lixeira deve ser nomeado como "lixeira", não "excluir". Você ainda pode adicionar palavras-chave relacionadas para melhorar a descoberta.

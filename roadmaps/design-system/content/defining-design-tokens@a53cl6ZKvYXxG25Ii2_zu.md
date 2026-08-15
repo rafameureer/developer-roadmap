@@ -1,7 +1,7 @@
-# Design Tokens
+# Tokens de Design
 
-Variables that store values for the base layer of your design system, like colour and typography. They’re used in components, so changes on this level will resonate throughout the whole system.
+Variáveis que armazenam valores para a camada base do seu sistema de design, como cores e tipografia. Eles são usados em componentes, então alterações nesse nível ressonarão por toda a estrutura.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What Are Design Tokens?](https://xd.adobe.com/ideas/principles/design-systems/what-are-design-tokens/)
+- [@artigo@O que São Tokens de Design?](https://xd.adobe.com/ideas/principles/design-systems/what-are-design-tokens/)

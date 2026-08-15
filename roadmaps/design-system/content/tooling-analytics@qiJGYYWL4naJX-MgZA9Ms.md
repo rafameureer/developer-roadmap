@@ -1,3 +1,3 @@
-# Tooling Analytics
+# Análise de Ferramentas
 
-Track what tools are being used for your design system. Find out which ones are used the most and which features are the most popular.
+Rastreie quais ferramentas estão sendo usadas para o seu sistema de design. Descubra quais são as mais utilizadas e quais recursos são os mais populares.

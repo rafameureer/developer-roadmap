@@ -1,9 +1,9 @@
-# Textarea
+# Área de Texto
 
-Text area lets users enter and edit text.
+A área de texto permite que os usuários insiram e editem texto.
 
-- **Disabled State:** Prevents input interactions and removes its value from the form submission.
-- **Placeholder:** When there’s no value entered, show a placeholder with a potential value example. Don’t use placeholders as labels for the inputs.
-- **Label:** There should be a text label linked with the text field. Clicking the label should move the focus to the field.
-- **Error State:** The error state is used for form validation errors when the error is related to the text field only. Always use a text error along with changing the colour of the field.
-- **Focused State:** The focused state should highlight the text field when users start to interact with it. There is always only one focused field in the form.
+- **Estado Desabilitado:** Impede interações de entrada e remove seu valor da submissão do formulário.
+- **Placeholder:** Quando não houver um valor inserido, mostre um placeholder com um exemplo potencial de valor. Não use placeholders como rótulos para os campos de entrada.
+- **Rótulo:** Deve haver um rótulo de texto vinculado ao campo de texto. Clicar no rótulo deve mover o foco para o campo.
+- **Estado de Erro:** O estado de erro é usado para erros de validação de formulário quando o erro está relacionado apenas ao campo de texto. Sempre use um erro de texto junto com a mudança de cor do campo.
+- **Estado Focado:** O estado focado deve destacar o campo de texto quando os usuários começarem a interagir com ele. Há sempre apenas um campo focado no formulário.

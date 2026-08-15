@@ -1,3 +1,3 @@
-# Open Hours
+# Horários Abertos
 
-Create open hours in which you can engage your audience in a more private setting where you can discuss things in more detail. You can also use these as peer coding or peer design opportunities.
+Crie horários abertos em que você possa envolver seu público em um contexto mais privado, onde você pode discutir coisas com mais detalhes. Você também pode usar esses horários como oportunidades de codificação par ou de design par.

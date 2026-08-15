@@ -1,3 +1,3 @@
-# Milestones
+# Marcos
 
-Define milestones that act as bigger epics in your project management with the help of your roadmap. These will help you understand your progress.
+Defina marcos que atuem como maiores epítetos em sua gestão de projetos com a ajuda do seu roadmap. Isso ajudará você a entender o seu progresso.

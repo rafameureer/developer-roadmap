@@ -1,3 +1,3 @@
-# Keywords
+# Palavras-chave
 
-Adding keywords will improve the discoverability of each icon and provide a better user experience for anyone using your system.
+Adicionar palavras-chave melhorará a descoberta de cada ícone e fornecerá uma melhor experiência do usuário para qualquer pessoa usando seu sistema.

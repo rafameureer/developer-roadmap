@@ -1,3 +1,3 @@
-# Guidelines
+# Diretrizes
 
-Provide guidelines on how and when to use icons, what to keep in mind when working with them and how not to use them.
+Forneça diretrizes sobre como e quando usar ícones, o que manter em mente ao trabalhar com eles e como não usá-los.

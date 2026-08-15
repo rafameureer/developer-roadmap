@@ -1,10 +1,10 @@
-# Design System Examples
+# Exemplos de Sistema de Design
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Material Design (Google)](https://material.io/)
-- [@article@Carbon Design System (IBM)](https://carbondesignsystem.com/)
-- [@article@Atlassian Design System](https://atlassian.design/)
-- [@article@Polaris Design System (Shopify)](https://polaris.shopify.com/)
-- [@article@Gov.uk Design System](https://design-system.service.gov.uk/)
-- [@opensource@Collection of Open Source Design Systems](https://github.com/alexpate/awesome-design-systems)
+- [@artigo@Material Design (Google)](https://material.io/)
+- [@artigo@Carbon Design System (IBM)](https://carbondesignsystem.com/)
+- [@artigo@Atlassian Design System](https://atlassian.design/)
+- [@artigo@Polaris Design System (Shopify)](https://polaris.shopify.com/)
+- [@artigo@Gov.uk Design System](https://design-system.service.gov.uk/)
+- [@opensource@Coleção de Sistemas de Design Open Source](https://github.com/alexpate/awesome-design-systems)

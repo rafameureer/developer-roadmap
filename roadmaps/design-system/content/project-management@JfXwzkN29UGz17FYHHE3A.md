@@ -1,3 +1,3 @@
-# Project Management
+# Gestão de Projetos
 
-Design systems are no different than any other project your team might take on. In order to successfully build and maintain one, you need a clear strategy that’s well executed daily, and you‘ll need to create opportunities for your colleagues to give feedback to help share your design system together.
+Os sistemas de design não são diferentes dos outros projetos que sua equipe pode assumir. Para construir e manter um com sucesso, você precisa de uma estratégia clara que seja bem executada diariamente, e você precisará criar oportunidades para seus colegas fornecerem feedback para ajudar a compartilhar seu sistema de design juntos.

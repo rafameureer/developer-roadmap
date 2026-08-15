@@ -1,13 +1,13 @@
-# Button
+# Botão
 
-Buttons are interactive elements used for single-step actions.
+Botões são elementos interativos usados para ações de um único passo.
 
-- **Hover State:** Clearly show that the button is interactive when it gets hovered with a mouse cursor.
-- **Active State:** Used when a button gets pressed. The same state can be used to represent the button responsible for toggling another element on the page while that element is visibly opened.
-- **Focused State:** Used when a button gets selected through keyboard navigation.
-- **Icon Support:** Icons easily communicate the purpose of the button when used next to its label or can be used without text when there’s not enough space. Make sure that the accessibility label is provided when used with an icon only.
-- **Disabled:** Visually shows that a button is not interactive and restricts it from being pressed.
-- **Loading:** Used when users have to wait for the result of their action after they press a button. If a spinner is used to display this state make sure that it’s not changing the original button width or height.
-- **Full Width:** By default buttons take the width of their content, but they should also come with a full width variant that works well in mobile devices.
-- **Variants:** When using multiple buttons, there should be a way to differentiate between primary and secondary actions. Buttons may play different roles for the user or be used on different types of surfaces and they have to change the way they look.
-- **Sizes:** Buttons can be used in different areas of the website and may have multiple predefined sizes. On mobile, tappable areas have to be a minimum of 48px to be accessible according to iOS and Android accessibility guidelines.
+- **Estado de Suspenção:** Claramente mostre que o botão é interativo quando ele for suspenso com um cursor do mouse.
+- **Estado Ativo:** Usado quando um botão é pressionado. O mesmo estado pode ser usado para representar o botão responsável por alternar outro elemento na página enquanto esse elemento estiver visivelmente aberto.
+- **Estado Focado:** Usado quando um botão é selecionado através da navegação pelo teclado.
+- **Suporte a Ícones:** Ícones comunicam facilmente o propósito do botão quando usados ao lado de sua legenda ou podem ser usados sem texto quando não houver espaço suficiente. Certifique-se de que a rótulo de acessibilidade seja fornecido quando usado com um ícone apenas.
+- **Desabilitado:** Visualmente mostre que um botão não é interativo e restringa-o da pressão.
+- **Carregando:** Usado quando os usuários têm que esperar pelo resultado de sua ação após pressionarem um botão. Se um spinner for usado para exibir esse estado, certifique-se de que ele não esteja alterando a largura ou altura original do botão.
+- **Largura Total:** Por padrão, os botões ocupam a largura de seu conteúdo, mas eles também devem vir com uma variante de largura total que funcione bem em dispositivos móveis.
+- **Variantes:** Quando usar vários botões, deve haver uma maneira de diferenciar entre ações primárias e secundárias. Os botões podem desempenhar papéis diferentes para o usuário ou serem usados em diferentes tipos de superfícies e devem mudar a forma como eles parecem.
+- **Tamanhos:** Botões podem ser usados em diferentes áreas do site e podem ter vários tamanhos pré-definidos. Em dispositivos móveis, as áreas tocáveis têm que ter um mínimo de 48px para serem acessíveis de acordo com as diretrizes de acessibilidade do iOS e Android.

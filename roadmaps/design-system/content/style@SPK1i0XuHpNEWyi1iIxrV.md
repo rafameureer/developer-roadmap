@@ -1,3 +1,3 @@
-# Style
+# Estilo
 
-Make sure that your icon family makes visual sense as a whole. Picking an outlined or filled style and sticking with it will lead to better visual consistency and predictability.
+Certifique-se de que sua família de ícones tenha sentido visual como um todo. Escolher um estilo contornado ou preenchido e mantê-lo levará a uma melhor consistência visual e previsibilidade.

@@ -1,10 +1,10 @@
 # Modal
 
-Modals are containers appearing in front of the main content to provide critical information or an actionable piece of content.
+Modais são contêineres que aparecem na frente do conteúdo principal para fornecer informações críticas ou um pedaço de conteúdo ação.
 
-- **Supports any type of Content:** Like any other container, modals can be used in different scenarios and you should be able to use it with any other component inside.
-- **Supplementary Actions:** Since content in the modal may be actionable, it’s important to have an area for action elements. This area is usually located at the bottom of the modal container.
-- **Close Action:** Modals should provide a clear way to be closed as they’re blocking content when open. This may be either a separate close button or one of the supplementary actions.
-- **Information Structure:** Even though modals can be used as an empty container for the content, they need a defined information structure to provide a holistic experience. It may include defining how titles and subtitles look by default or where an action element’s area is.
-- **Keyboard Navigation Support:** It should be possible to close a modal by pressing the Esc key and all the focusable elements inside the modal container should be accessible with keyboard navigation.
-- **Focus Trapping:** Once a modal is opened, the focus should be moved to the first element inside the modal and should be looped within the modal container. Closing the modal should return the focus to the last focused element on the page.
+- **Suporta qualquer tipo de Conteúdo:** Como qualquer outro contêiner, modais podem ser usados em diferentes cenários e você deve ser capaz de usá-lo com qualquer outro componente dentro.
+- **Ações Suplementares:** Como o conteúdo do modal pode ser açãoável, é importante ter uma área para elementos de ação. Essa área geralmente está localizada no fundo do contêiner do modal.
+- **Ação Fechar:** Os modais devem fornecer uma maneira clara de fechamento, pois estão bloqueando o conteúdo quando abertos. Isso pode ser um botão de fechamento separado ou uma das ações suplementares.
+- **Estrutura de Informações:** Mesmo que os modais possam ser usados como um contêiner vazio para o conteúdo, eles precisam de uma estrutura de informações definida para fornecer uma experiência holística. Isso pode incluir definir como títulos e subtítulos aparecem por padrão ou onde a área de um elemento de ação está localizada.
+- **Suporte à Navegação com Teclado:** Deve ser possível fechar um modal pressionando a tecla Esc e todos os elementos focáveis dentro do contêiner do modal devem ser acessíveis com a navegação por teclado.
+- **Trapping de Foco:** Uma vez que um modal é aberto, o foco deve ser movido para o primeiro elemento dentro do modal e deve ser loopado dentro do contêiner do modal. Fechar o modal deve retornar o foco ao último elemento focado na página.

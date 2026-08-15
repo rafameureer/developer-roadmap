@@ -1,3 +1,3 @@
-# Guidelines
+# Diretrizes
 
-Provide guidelines on how and when to use the pairings in your typography scale, what to keep in mind when working with them and how not to use them.
+Forneça diretrizes sobre como e quando usar as combinações em sua escala tipográfica, o que manter em mente ao trabalhar com elas e como não usá-las.

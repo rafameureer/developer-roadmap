@@ -1,3 +1,3 @@
-# Accessibility Testing
+# Teste de Acessibilidade
 
-Design systems should cover accessibility as much as possible. Making this automatic reduces the risk of inaccessible components or user flows in the product.
+Os sistemas de design devem cobrir a acessibilidade o máximo possível. Fazer isso de forma automática reduz o risco de componentes ou fluxos de usuário inacessíveis no produto.

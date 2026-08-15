@@ -1,3 +1,3 @@
-# Unit Testing
+# Testes Unitários
 
-Every part of the design system should be covered with unit tests. Once your system’s adopted, any change in the isolated environment may affect how the product works.
+Cada parte do sistema de design deve ser coberta por testes unitários. Uma vez que o sistema seja adotado, qualquer alteração no ambiente isolado pode afetar como o produto funciona.

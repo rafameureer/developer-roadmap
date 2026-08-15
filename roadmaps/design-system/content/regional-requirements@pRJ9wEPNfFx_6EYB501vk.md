@@ -1,3 +1,3 @@
-# Regional Requirements
+# Requisitos Regionais
 
-Understand any regional requirements such as LTR or any other UX variations that your design system should accommodate.
+Entenda qualquer requisito regional como LTR ou quaisquer outras variações de UX que seu sistema de design deve suportar.

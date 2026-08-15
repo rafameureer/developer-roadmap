@@ -1,3 +1,3 @@
-# Microcopy Guidelines
+# Diretrizes de Microcópia
 
-The standard way to write for the components in your design system. These take platform conventions and best practices for writing all into consideration.
+A maneira padrão de escrever para os componentes em seu Design System. Essas consideram as convenções da plataforma e as melhores práticas de escrita.

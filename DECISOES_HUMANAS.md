@@ -4,7 +4,7 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 
 ---
 
-> ⚠️ **Total de itens sinalizados:** 634
+> ⚠️ **Total de itens sinalizados:** 667
 
 | Arquivo / Tópico | Motivo da Sinalização | Data/Hora |
 |---|---|---|
@@ -642,3 +642,36 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 | `roadmaps/datastructures-and-algorithms/content/tree-data-structures@r2Jagzbx0qOG-VtxBY-mz.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:12:13.190966 |
 | `roadmaps/datastructures-and-algorithms/content/tree-traversal@2Od5lNc6fCM6Gyj_axj4n.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:12:17.291932 |
 | `roadmaps/datastructures-and-algorithms/content/trie@zy3wpb1MjizfUfx9_rZy2.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:12:21.758158 |
+| `roadmaps/design-system/content/accessibility@aLtOGjNFxaRzg0PI-ed99.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:13:14.753968 |
+| `roadmaps/design-system/content/accessibility@fW0cEy2SB0HDbiF7QA7Ev.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:13:16.601504 |
+| `roadmaps/design-system/content/avatar@_dIMuXWI73ogboGjnLIpT.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:13:18.657556 |
+| `roadmaps/design-system/content/avatar@h3TZY1yBkzLYUK6W7K7xs.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:13:37.032102 |
+| `roadmaps/design-system/content/badge@LNsXQI8sE_5kzSD_iMLJA.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:13:39.848952 |
+| `roadmaps/design-system/content/badges@UG4AIgJBfZpuhia4Y1K5v.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:13:41.754260 |
+| `roadmaps/design-system/content/banners@5DUobzueMZbScyTZTHpCS.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:13:59.967720 |
+| `roadmaps/design-system/content/buttons@s6oqvHgwK4Cwyx-JENBbY.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:14:29.229260 |
+| `roadmaps/design-system/content/cards@yLLAUGbGUHBTEDkZNK0fm.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:14:45.097167 |
+| `roadmaps/design-system/content/carousel@yWEXfjzuzk99dxjZlG4Cq.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:14:50.963451 |
+| `roadmaps/design-system/content/color@2prUeRYbSJTYjo2quJIKs.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:15:00.017808 |
+| `roadmaps/design-system/content/design-system-vs-component-library@J5mU0v491qrm-mr1W3Msd.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:15:49.253607 |
+| `roadmaps/design-system/content/documentation@-b4GjLpL_ppDMJSiChTef.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:15:50.854602 |
+| `roadmaps/design-system/content/dropdown@MtBSvKoyjdLd6DIdolLRi.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:16:08.347677 |
+| `roadmaps/design-system/content/dropdowns@hzVwLVzAij6TgPTcNHyhv.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:16:10.491273 |
+| `roadmaps/design-system/content/existing-design-analysis@8eWhvW2zDIxMGHaXl0Y9i.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:16:13.255035 |
+| `roadmaps/design-system/content/guidelines@mlBzJ2YvBr9QuOthKdj0p.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:16:48.292244 |
+| `roadmaps/design-system/content/loading-indicator@JhnHOMIlU6mQcwvIpErUY.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:17:40.732379 |
+| `roadmaps/design-system/content/logging@xYqDmDpjwkShtL86nt-vY.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:17:41.559443 |
+| `roadmaps/design-system/content/making-a-design-system@dUaoMARPabiD4DRqdkaer.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:17:46.054078 |
+| `roadmaps/design-system/content/performing-a-visual-audit@NKm-gXbt5Y7dDwKVkPHjX.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:18:31.486135 |
+| `roadmaps/design-system/content/pilot@4dzoZmkNHPedgLqLy93t8.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:18:35.077711 |
+| `roadmaps/design-system/content/spaces@GtLYBPJjdZwG0qgA7erk7.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:19:19.219893 |
+| `roadmaps/design-system/content/stakeholders-involved-in-building@_3_tFOpQisx6DSP4Yc2E2.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:19:26.508482 |
+| `roadmaps/design-system/content/toast@-T7uL6a3lJ5-IIcDaG6IN.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:19:56.719386 |
+| `roadmaps/design-system/content/token@jETJVuS_EczJiQASLqaQr.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:19:59.770240 |
+| `roadmaps/design-system/content/tooltip@2oCAzsk_y2Y2oHUi467dp.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:20:18.817694 |
+| `roadmaps/design-system/content/typography@ODQ8zrHc2rsc8PN-APKvz.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:20:31.262968 |
+| `roadmaps/design-system/content/ui-kit@lUObv2N7eH3Jdnwwd5vmI.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:20:34.371300 |
+| `roadmaps/design-system/content/understand-the-basics@uvnV1IjE8RV-FKDxHntUU.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:20:38.495882 |
+| `roadmaps/design-system/content/visual-forms@-MrrapoyFWKhSeE2PZ9mb.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:21:07.535608 |
+| `roadmaps/design-system/content/what-is-a-design-system@4PrkkoZ5fY-oow0O-bVhu.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:21:10.797006 |
+| `roadmaps/design-system/content/what-is-atomic-design@6r9XbwlBtHmJrhviG2cTD.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:21:15.002536 |

@@ -1,3 +1,3 @@
-# Contribution Guidelines
+# Diretrizes de Contribuição
 
-Define the process of contributing to the UI and UX of the design system and document it in a discoverable place to make it easier for everyone to contribute.
+Defina o processo de contribuir para a UI e UX do sistema de design e documente-o em um local descobrível para facilitar a contribuição de todos.

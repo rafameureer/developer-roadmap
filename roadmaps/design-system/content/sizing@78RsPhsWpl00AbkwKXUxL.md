@@ -1,3 +1,3 @@
-# Sizing
+# Dimensionamento
 
-Sizing tokens establish consistent dimensions across components and layouts. An effective system should establish a foundational unit, create predefined size variations, ensure minimum accessibility requirements, define standard icon sizes, establish container dimensions, implement fluid sizing, and account for platform-specific requirements.
+Os tokens de dimensionamento estabelecem dimensões consistentes entre componentes e layouts. Um sistema eficaz deve estabelecer uma unidade básica, criar variações de tamanho pré-definidas, garantir requisitos mínimos de acessibilidade, definir tamanhos padrão de íconos, estabelecer dimensões de contêiner, implementar dimensionamento fluido e considerar requisitos específicos da plataforma.

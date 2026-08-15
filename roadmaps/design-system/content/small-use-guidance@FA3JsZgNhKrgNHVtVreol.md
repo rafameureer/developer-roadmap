@@ -1,5 +1,5 @@
-# Small Use Guidance
+# Orientação para Uso Pequeno
 
-Your logo must perform well and be recognisable at all sizes. Tips for using your logo in these cases will minimise the risk of it being misused.
+Seu logotipo deve funcionar bem e ser reconhecível em todos os tamanhos. Dicas sobre como usar seu logotipo nesses casos minimizarão o risco de ele ser usado incorretamente.
 
-- [@article@Everything You Need to Know About Logo Usage Guidelines](https://www.tailorbrands.com/blog/logo-usage-guidelines)
+- [@artigo@Tudo o Que Você Precisa Saber sobre Diretrizes de Uso de Logotipos](https://www.tailorbrands.com/blog/logo-usage-guidelines)

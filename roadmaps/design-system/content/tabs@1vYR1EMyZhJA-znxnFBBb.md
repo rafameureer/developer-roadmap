@@ -1,9 +1,9 @@
-# Tabs
+# Abas
 
-Tabs organise navigation between multiple pages or content sections.
+As abas organizam a navegação entre várias páginas ou seções de conteúdo.
 
-- **Active Button State:** There should be a clear differentiation between selected and unselected tab buttons.
-- **Button Icon Support:** Icons help show the purpose of the tab buttons when used next to its label.
-- **Equally-sized tab buttons:** Tabs can be used in a relatively small-sized container where you need to switch between a definite number of sections. For such scenarios, it’s better to support a variant where the button’s area is divided equally.
-- **Keyboard Navigation:** All tab buttons should be focusable and navigation between the tab’s component should be accessible from the keyboard.
-- **Responsiveness:** If all tabs on mobile don’t fit into the viewport, users should still have access to all tab buttons. Ways to solve this can be making the button area scrollable for mobile or showing a More button containing a dropdown with the rest of the buttons.
+- **Estado do Botão Ativo:** Deve haver uma clara diferenciação entre os botões de aba selecionados e não selecionados.
+- **Suporte a Ícones no Botão:** Os ícones ajudam a mostrar o propósito dos botões de aba quando usados ao lado de sua legenda.
+- **Botões de Aba do Mesmo Tamanho:** As abas podem ser usadas em um contêiner relativamente pequeno onde você precisa alternar entre um número definido de seções. Para esses cenários, é melhor suportar uma variante onde a área do botão seja dividida igualmente.
+- **Navegação por Teclado:** Todos os botões de aba devem ser focáveis e a navegação entre os componentes da aba deve ser acessível pelo teclado.
+- **Responsividade:** Se todas as abas em um dispositivo móvel não caberem na viewport, os usuários ainda devem ter acesso a todos os botões de aba. Maneiras de resolver isso podem ser tornar a área do botão deslizante para dispositivos móveis ou mostrar um botão Mais contendo um dropdown com o resto dos botões.

@@ -1,3 +1,3 @@
-# Grid Relation
+# Relação com a Grade
 
-Draw your icons in a bounding box that plays well with your grid. This makes for a better pairing with other UI elements. A good example of this would be icons with bounding boxes paired with text.
+Desenhe seus ícones em um retângulo delimitador que se encaixe bem com sua grade. Isso facilita o parcerio com outros elementos da interface do usuário. Um bom exemplo disso seria ícones com retângulos delimitadores combinados com texto.

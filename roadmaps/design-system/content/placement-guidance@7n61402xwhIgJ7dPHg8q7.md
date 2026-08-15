@@ -1,3 +1,3 @@
-# Placement Guidance
+# Diretrizes de Posicionamento
 
-Logo placement guidance ensures consistent brand representation through clear positioning, sizing, and clearance rules. Effective guidelines should define minimum clearance areas, establish preferred positions for different contexts, provide size specifications, define background treatments, and account for platform-specific requirements.
+O posicionamento adequado garante uma representação consistente da marca através de regras claras de posição, tamanho e clareza. Guias eficazes devem definir áreas mínimas de clareza, estabelecer posições preferidas para diferentes contextos, fornecer especificações de tamanho, definir tratamentos de fundo e levar em conta requisitos específicos da plataforma.

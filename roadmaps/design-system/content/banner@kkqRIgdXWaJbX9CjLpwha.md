@@ -1,10 +1,10 @@
 # Banner
 
-Banners display an actionable message used as a prominent way of communicating with your users.
+Banners exibem uma mensagem ação usada como um meio promissor de comunicação com seus usuários.
 
-- **Appearance:** Banners are used to display different types of messages and it’s important to differentiate their visual appearance based on the role they’re playing. If you’re using background colours for role differentiation, make sure there’s enough contrast ratio with the content according to the WCAG AA standard.
-- **Area for icons or images:** Banners can supplement their message using a supporting icon or image. They shouldn’t be used instead of text content.
-- **Actions:** Actions in banners should relate to its text and provide a way to react to the message sent to the user.
-- **Dismissible Action:** Don’t overwhelm the user with banners on the page and include a dismissable action. That may be either a separate close button or one of the actions provided.
-- **Accessibility:** If a banner dynamically appears on the page, it should be announced to the user by their assistive technology.
-- **Responsiveness:** Banners should adapt to the viewport size. This usually means that they become full-width for mobile to save some space.
+- **Aparência:** Banners são usados para exibir diferentes tipos de mensagens e é importante diferenciar sua aparência visual com base no papel que estão desempenhando. Se você estiver usando cores de fundo para diferenciação de papéis, certifique-se de haver um contraste suficiente com o conteúdo de acordo com a norma WCAG AA.
+- **Área para ícones ou imagens:** Banners podem suplementar sua mensagem usando um ícone ou imagem de suporte. Eles não devem ser usados em vez do conteúdo de texto.
+- **Ações:** As ações nos banners devem estar relacionadas ao seu texto e fornecer uma maneira de reagir à mensagem enviada ao usuário.
+- **Ação Dismissível:** Não sobrecarregue o usuário com banners na página e inclua uma ação descartável. Isso pode ser um botão de fechar separado ou uma das ações fornecidas.
+- **Acessibilidade:** Se um banner aparecer dinamicamente na página, ele deve ser anunciado ao usuário por sua tecnologia assistiva.
+- **Responsividade:** Banners devem se adaptar ao tamanho da viewport. Isso geralmente significa que eles se tornam de largura total para dispositivos móveis para economizar espaço.

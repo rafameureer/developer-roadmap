@@ -1,8 +1,8 @@
-# Input Switch
+# Interruptor de Entrada
 
-Input switches toggle the state of a single item. Compared to the input checkbox, their changes usually apply without any additional submission.
+Os interruptores de entrada alternam o estado de um único item. Comparado com a caixa de seleção de entrada, suas alterações geralmente se aplicam sem qualquer envio adicional.
 
-- **Checked State:** Used when an input switch is turned on. It’s better to provide an additional way to indicate the checked state besides changing its colour when applicable.
-- **Disabled State:** Prevents interacting with an input switch.
-- **Label:** There should be a text label linked with the switch field. Clicking the label should also trigger the input selection.
-- **Keyboard State:** A switch selection should be triggered when the Space key is pressed.
+- **Estado Marcado:** Usado quando um interruptor de entrada está ligado. É melhor fornecer uma maneira adicional de indicar o estado marcado além da mudança de cor quando aplicável.
+- **Estado Desabilitado:** Impede a interação com o interruptor de entrada.
+- **Etiqueta:** Deve haver uma etiqueta de texto vinculada ao campo do interruptor. Clicar na etiqueta também deve acionar a seleção de entrada.
+- **Estado de Teclado:** Uma seleção de interruptor deve ser acionada pressionando a tecla Espaço.

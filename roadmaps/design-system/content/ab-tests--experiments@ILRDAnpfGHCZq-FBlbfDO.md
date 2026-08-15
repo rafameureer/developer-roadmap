@@ -1,3 +1,3 @@
-# A/B Tests and Experiments
+# Testes A/B e Experimentos
 
-Understand how the team implements A/B tests and experiments on different screens and if the new design system should accommodate any necessary requirements.
+Entenda como a equipe implementa testes A/B e experimentos em diferentes telas e se o novo sistema de design deve atender a quaisquer requisitos necessários.

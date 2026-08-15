@@ -1,3 +1,3 @@
-# Reserved Icons
+# Ícones Reservados
 
-Reserving icons that represent common actions will prevent their use in any other context. System icons for navigation or adding and deleting are a good example. This leads to a more intuitive user experience.
+Reservar ícones que representam ações comuns previne seu uso em qualquer outro contexto. Ícones do sistema para navegação ou adicionar e excluir são um bom exemplo. Isso leva a uma experiência de usuário mais intuitiva.

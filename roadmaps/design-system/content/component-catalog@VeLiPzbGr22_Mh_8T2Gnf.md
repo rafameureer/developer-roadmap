@@ -1,3 +1,3 @@
-# Component Catalog
+# Catálogo de Componentes
 
-Isolate your UI components’ environment outside of your product codebase to make sure they’re not dependent on any global dependencies and can be easily reused.
+Isolando o ambiente dos seus componentes de interface do usuário fora do código-fonte do seu produto para garantir que eles não dependam de quaisquer dependências globais e possam ser facilmente reutilizados.

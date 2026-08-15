@@ -1,3 +1,3 @@
-# Grid Relation
+# Relação de Grid
 
-Font sizes and leading should match your grid to allow better pairing between text and other UI elements. A good example of this is text paired with icons with bounding boxes.
+As tamanhos dos fontes e do espaçamento devem corresponder à sua grade para permitir uma melhor combinação entre o texto e outros elementos da interface do usuário. Um bom exemplo disso é o texto emparelhado com ícones dentro de caixas delimitadoras.

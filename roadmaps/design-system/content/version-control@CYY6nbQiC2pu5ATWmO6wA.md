@@ -1,3 +1,3 @@
-# Version Control
+# Controle de Versão
 
-Having your design versioned with semantic versioning will allow you to easily align design with development, roll back faulty changes and release changes in code and design at the same time.
+Ter sua versão do design controlada com a nomenclatura semântica permitirá que você alinhe facilmente o design com o desenvolvimento, desfaça alterações defeituosas e libere mudanças em código e design simultaneamente.

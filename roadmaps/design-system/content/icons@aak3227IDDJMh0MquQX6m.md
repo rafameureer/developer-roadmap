@@ -1,3 +1,3 @@
-# Icons
+# Ícones
 
-Icons are visual symbols that communicate meaning quickly. They should maintain consistent style, use a grid system, provide multiple sizes, organize into semantic categories, ensure accessibility, consider cultural neutrality, be available in multiple formats, include interactive states, and follow systematic versioning.
+Os ícones são símbolos visuais que comunicam significado rapidamente. Eles devem manter um estilo consistente, usar um sistema de grade, fornecer múltiplos tamanhos, organizar em categorias semânticas, garantir acessibilidade, considerar neutralidade cultural, estar disponíveis em vários formatos, incluir estados interativos e seguir uma versão sistemática.

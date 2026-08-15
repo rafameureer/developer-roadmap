@@ -1,3 +1,3 @@
-# Code Style
+# Estilo de Código
 
-Having a defined code style helps align the way code’s written in the system and increases development velocity. It should be automated with the tools provided for each platform.
+Ter um estilo de código definido ajuda a alinhar a forma como o código é escrito no sistema e aumenta a velocidade de desenvolvimento. Ele deve ser automatizado com as ferramentas fornecidas para cada plataforma.

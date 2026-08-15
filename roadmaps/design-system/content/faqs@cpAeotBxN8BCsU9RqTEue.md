@@ -1,3 +1,3 @@
-# FAQs
+# Perguntas Frequentes
 
-To save everyone time, define which questions are asked frequently by your audience and document them in a discoverable place.
+Para economizar tempo para todos, defina quais perguntas são frequentemente feitas por seu público e documente-as em um local descobrível.

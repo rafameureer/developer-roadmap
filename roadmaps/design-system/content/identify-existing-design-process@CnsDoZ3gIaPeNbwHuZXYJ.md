@@ -1,8 +1,8 @@
-# Existing Design Process
+# Processo de Design Existente
 
-To better understand the kind of design system you would like to implement, you need to start by reviewing and analyzing the current approach for design at your company. Find the answers to the following questions:
+Para entender melhor o tipo de sistema de design que você deseja implementar, é necessário começar por revisar e analisar a abordagem atual para design na sua empresa. Encontre as respostas às seguintes perguntas:
 
-- What is the design process that your company follows?
-- What are the existing tools that your company uses?
+- Qual é o processo de design seguido pela sua empresa?
+- Quais são as ferramentas existentes utilizadas pela sua empresa?
 
-It’s also recommended to evaluate the level of design maturity of the product teams. This knowledge will help you estimate the time required to introduce the system to your organization.
+É também recomendável avaliar o nível de maturidade do design dos times de produto. Esse conhecimento ajudará você a estimar o tempo necessário para introduzir o sistema em sua organização.

@@ -1,3 +1,3 @@
-# Design Editor
+# Editor de Design
 
-There are many design editors available in the market today with the most popular names being Sketch, Figma and Adobe XD. If you're unsure which route to go down it's often best to speak with your team.
+Há muitos editores de design disponíveis no mercado hoje, com os nomes mais populares sendo Sketch, Figma e Adobe XD. Se você não tiver certeza qual caminho seguir, geralmente é melhor conversar com sua equipe.

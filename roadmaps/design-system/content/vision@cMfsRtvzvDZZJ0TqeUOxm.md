@@ -1,11 +1,11 @@
-# Vision
+# Visão
 
-Brand vision serves as the foundation for design system decisions, providing purpose and direction. An effective vision should articulate organizational purpose, identify core values, visualize future success, prioritize user needs, clarify brand uniqueness, account for cultural considerations, and connect to measurable goals.
+A visão da marca serve como a base para as decisões do sistema de design, fornecendo propósito e direção. Uma visão eficaz deve articular o propósito organizacional, identificar valores centrais, visualizar o sucesso futuro, priorizar as necessidades dos usuários, esclarecer a unicidade da marca, levar em conta considerações culturais e se conectar a metas medíveis.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Creating Brand Vision](https://www.interaction-design.org/literature/article/branding-in-ux)
-- [@article@Vision-Driven Design Systems](https://bradfrost.com/blog/post/the-design-system-ecosystem/)
-- [@article@Brand Strategy for Design](https://alistapart.com/article/creating-a-brand-identity/)
-- [@article@Purpose-Driven Design](https://designsystem.digital.gov/design-tokens/brand/)
-- [@feed@Explore top posts about Brand Strategy](https://app.daily.dev/tags/branding?ref=roadmapsh)
+- [@artigo@Criando uma Visão de Marca](https://www.interaction-design.org/literature/article/branding-in-ux)
+- [@artigo@Design Systems Guiados pela Visão](https://bradfrost.com/blog/post/the-design-system-ecosystem/)
+- [@artigo@Estratégia de Marca para Design](https://alistapart.com/article/creating-a-brand-identity/)
+- [@artigo@Design Guiado pelo Propósito](https://designsystem.digital.gov/design-tokens/brand/)
+- [@feed@Explore os melhores posts sobre Estratégia de Marca](https://app.daily.dev/tags/branding?ref=roadmapsh)

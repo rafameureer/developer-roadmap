@@ -1,3 +1,3 @@
 # Plugins
 
-Most popular Design Editors (Sketch and Figma, especially) come with third-party plugin support. Whilst it's best to use the editors in-built tools for laying out your components, plugins can bring in a range of useful data to populate them.
+Os editores de design mais populares (Sketch e Figma, especialmente) oferecem suporte a plugins de terceiros. Embora seja melhor usar as ferramentas integradas dos editores para organizar seus componentes, os plugins podem trazer uma variedade de dados úteis para preenchê-los.

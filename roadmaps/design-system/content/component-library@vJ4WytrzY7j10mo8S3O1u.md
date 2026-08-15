@@ -1,9 +1,9 @@
-# Component Library
+# Biblioteca de Componentes
 
-A component library is a collection of all the components used in a website, software or app. Some of the common tools to showcase and browse components in a component library include are given below:
+Uma biblioteca de componentes é uma coleção de todos os componentes usados em um site, software ou aplicativo. Alguns dos ferramentas comuns para mostrar e navegar por componentes em uma biblioteca de componentes incluem:
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Pattern Lab](https://patternlab.io/)
-- [@article@Fractal](https://fractal.build/)
-- [@article@Storybook](https://storybook.js.org/)
+- [@artigo@Pattern Lab](https://patternlab.io/)
+- [@artigo@Fractal](https://fractal.build/)
+- [@artigo@Storybook](https://storybook.js.org/)

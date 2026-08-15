@@ -1,3 +1,3 @@
-# Functional Colors
+# Cores Funcionais
 
-Besides your brand colours, make sure to have colours defined and made into variables for functions like disabled states, backgrounds, actions and high contrast text.
+Além das cores da sua marca, certifique-se de ter cores definidas e criadas como variáveis para funções como estados desabilitados, fundos, ações e texto em contraste alto.

@@ -1,3 +1,3 @@
-# Guidelines
+# Diretrizes
 
-Provide guidelines on how and when to use the colours in your palette, what to keep in mind when working with them and how not to use them.
+Forneça diretrizes sobre como e quando usar as cores em seu paleta, o que manter em mente ao trabalhar com elas e como não usá-las.

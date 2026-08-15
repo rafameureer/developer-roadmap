@@ -4330,7 +4330,61 @@
     "roadmaps/kotlin/content/when@zJT9KVWYIbDTsGp5tTJEh.md",
     "roadmaps/kotlin/content/while@qNupY4DnTFYZrGEQJPXcw.md",
     "roadmaps/kotlin/content/why-use-kotlin@4PrkkoZ5fY-oow0O-bVhu.md",
-    "roadmaps/kotlin/content/writing--reading-files@D56NrdWDFS-vQdALQOKXV.md"
+    "roadmaps/kotlin/content/writing--reading-files@D56NrdWDFS-vQdALQOKXV.md",
+    "roadmaps/kubernetes/content/adding-and-managing-worker-nodes@2cQKTxln3dIk5IjX2UZdM.md",
+    "roadmaps/kubernetes/content/advanced-topics@t8SJbGVXsUDECxePLDk_w.md",
+    "roadmaps/kubernetes/content/assigning-quotas-to-namespaces@OHz4QMmA3lqL_C7aWL8Ga.md",
+    "roadmaps/kubernetes/content/autoscaling@03mGA5AyL7mpF6y3EMW7A.md",
+    "roadmaps/kubernetes/content/basics@70lTSIVh0AD6M8fMMuWzY.md",
+    "roadmaps/kubernetes/content/blue-green-deployments@9-oaTlzKmcxTfaRycz1w3.md",
+    "roadmaps/kubernetes/content/canary-deployments@88IGeC3dAopHLGtLozxdY.md",
+    "roadmaps/kubernetes/content/choosing-a-managed-provider@qSatCdBTDXPu-IFWzUI99.md",
+    "roadmaps/kubernetes/content/ci--cd-integration@Pymc9H-lRHVPy7M9eSaPD.md",
+    "roadmaps/kubernetes/content/cluster-autoscaling@RC5MoYtG2rom-d4FW5qD2.md",
+    "roadmaps/kubernetes/content/configuration-management@dj7Tb2XTX4kxRUYiTjlhM.md",
+    "roadmaps/kubernetes/content/container-and-pod-security@Nja7IFWcFTLsPcqbvRNm9.md",
+    "roadmaps/kubernetes/content/container-and-pod-security@i7qxaFhFHPfe3fGEgsbcE.md",
+    "roadmaps/kubernetes/content/containers@HGmeYvRf7_XusZl_K4x9k.md",
+    "roadmaps/kubernetes/content/creating-custom-controllers@L9rVPEEXFwisQOwT_LQ4v.md",
+    "roadmaps/kubernetes/content/deploying-your-first-application@zrbSJa3k7a3TE0aYbWi9c.md",
+    "roadmaps/kubernetes/content/deployment-patterns@0l0xpsabglvs_t6oAP-XG.md",
+    "roadmaps/kubernetes/content/deployments@TUGQX7y1gs-aKPge2F1NU.md",
+    "roadmaps/kubernetes/content/helm-charts@FAEFOhLdp7xrmctHFxiOM.md",
+    "roadmaps/kubernetes/content/horizontal-pod-autoscaler-hpa@044IUUCgZP4oQ9UxUG2iy.md",
+    "roadmaps/kubernetes/content/injecting-pod-config-with-configmaps@u24UlZKI86vaguj_VpMv1.md",
+    "roadmaps/kubernetes/content/installing-a-local-cluster@YaIs8lquWIe1D7RCUBZmC.md",
+    "roadmaps/kubernetes/content/installing-the-control-plane@M-iTb_7EWZIJ3JpdViICx.md",
+    "roadmaps/kubernetes/content/introduction@y7KjVfSI6CAduyHd4mBFT.md",
+    "roadmaps/kubernetes/content/jobs@r3fzAN5DzratAKnnT8hzb.md",
+    "roadmaps/kubernetes/content/key-concepts-and-terminologies@9oo2fxTM2_p0VYPBroqxa.md",
+    "roadmaps/kubernetes/content/kubernetes-alternatives@3fzuXKH7az_LVnmnoXB1p.md",
+    "roadmaps/kubernetes/content/kubernetes-extensions-and-apis@UeJcKv3jhenjNzHM-0R86.md",
+    "roadmaps/kubernetes/content/load-balancing@Qelo1YvAcUoX5PA-RYbNp.md",
+    "roadmaps/kubernetes/content/logs@-XxQtiLDAkXs7IFM_Ddw6.md",
+    "roadmaps/kubernetes/content/metrics@nqUBHBFUYFdYqCKZvfXBR.md",
+    "roadmaps/kubernetes/content/monitoring--optimizing-resource-usage@PP4ld_vvjpY3QltBBsXKD.md",
+    "roadmaps/kubernetes/content/monitoring-and-logging@AgsQnQjyTLUFhFpRdcE13.md",
+    "roadmaps/kubernetes/content/multi-cluster-management@auZgEQ6FC3nUjuyx0zANh.md",
+    "roadmaps/kubernetes/content/network-security@s0gHg8CqwrSylpSPu8arA.md",
+    "roadmaps/kubernetes/content/networking--pod-to-pod-communication@44rhdieUCWsGFC_1__9kk.md",
+    "roadmaps/kubernetes/content/observability-engines@FANswgUhUb5Iuah2fni3L.md",
+    "roadmaps/kubernetes/content/overview-of-kubernetes@qLeEEwBvlGt1fP5Qcreah.md",
+    "roadmaps/kubernetes/content/pod-priorities@_Gva1eGcYqpmZNPyV03lt.md",
+    "roadmaps/kubernetes/content/running-applications@1MdrzhktCWjpmxiYYBdz7.md",
+    "roadmaps/kubernetes/content/scheduling@xZDXM_8qb4VL15tNGG0ws.md",
+    "roadmaps/kubernetes/content/security@SG3wtV2rt9nmLEkgrp_zP.md",
+    "roadmaps/kubernetes/content/services-and-networking@aUJ_w2L8nxNq3DfAW97Gd.md",
+    "roadmaps/kubernetes/content/setting-resource-requests-and-limits@8RLR6gRjIyTn6GCugEfgk.md",
+    "roadmaps/kubernetes/content/setting-up-kubernetes@3OpGaQhyNtk1n1MLp-tlb.md",
+    "roadmaps/kubernetes/content/should-you-manage-your-own-cluster@ZrVhYTw63aVVIFAEJDG5r.md",
+    "roadmaps/kubernetes/content/stateful-applications@LJUJ1NIUsajb1AUdvJjqW.md",
+    "roadmaps/kubernetes/content/statefulsets@AJiRBEaKU8qYEm0fqN389.md",
+    "roadmaps/kubernetes/content/storage-and-volumes@URnYf9jMprFz-o26fbU2P.md",
+    "roadmaps/kubernetes/content/taints-and-tolerations@zXUsHAI1HFhcY2BFAcypv.md",
+    "roadmaps/kubernetes/content/topology-spread-constraints@CL0hKTcml40InmyVUXpY2.md",
+    "roadmaps/kubernetes/content/traces@ldYTEPt_hI4PXxr3tgJi5.md",
+    "roadmaps/kubernetes/content/using-secrets-for-sensitive-data@S0CwGC2gMG-SqnLNldqBD.md",
+    "roadmaps/kubernetes/content/vertical-pod-autoscaler-vpa@c1KVczGRjh9bhMpbPP6sA.md"
   ],
   "completed_roadmaps": [
     "frontend-beginner",
@@ -4381,7 +4435,8 @@
     "ios",
     "java",
     "javascript",
-    "kotlin"
+    "kotlin",
+    "kubernetes"
   ],
   "flagged_issues": [
     {
@@ -9943,8 +9998,73 @@
       "file": "roadmaps/kotlin/content/server-side-apps@aj_yIDgFpBOfoSs2kYBBT.md",
       "reason": "Falha na tradução automática após tentativas no Ollama",
       "timestamp": "2026-08-15T08:43:42.204447"
+    },
+    {
+      "file": "roadmaps/kubernetes/content/csi-drivers@55RV9psPCmcg8G_P_zQo9.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T08:47:32.495117"
+    },
+    {
+      "file": "roadmaps/kubernetes/content/custom-resource-definitions-crds@9P7l-RBOkUxs3Z_UpKQO-.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T08:47:37.424462"
+    },
+    {
+      "file": "roadmaps/kubernetes/content/custom-schedulers-and-extenders@1-Nb8rCMJEZrYm20sEcRJ.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T08:47:42.432836"
+    },
+    {
+      "file": "roadmaps/kubernetes/content/evictions@TRKzlDW2PQN9bWTyz3NWL.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T08:48:19.955190"
+    },
+    {
+      "file": "roadmaps/kubernetes/content/external-access-to-services@jUOlITLqnIvSu97I_3nBz.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T08:48:24.457749"
+    },
+    {
+      "file": "roadmaps/kubernetes/content/gitops@dATdEyNWlpDNKjedCXLyb.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T08:48:28.813123"
+    },
+    {
+      "file": "roadmaps/kubernetes/content/pods@-d2PIXm0V_Iehe8cws8zK.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T08:50:51.049892"
+    },
+    {
+      "file": "roadmaps/kubernetes/content/replicasets@IF09l0-pryGpMbDt__ocr.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T08:50:56.268207"
+    },
+    {
+      "file": "roadmaps/kubernetes/content/resource-health@pDjNsK5vI9FmKZbQm0lDP.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T08:51:00.531944"
+    },
+    {
+      "file": "roadmaps/kubernetes/content/resource-management@eWKkdiBhD5x2sGYajmHEs.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T08:51:31.828290"
+    },
+    {
+      "file": "roadmaps/kubernetes/content/role-based-access-control-rbac@jOq0WwLrq8tlmOgo64QDc.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T08:51:40.221606"
+    },
+    {
+      "file": "roadmaps/kubernetes/content/rolling-updates--rollbacks@yMSXdwDO36CLtp2TBC7aB.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T08:51:45.557058"
+    },
+    {
+      "file": "roadmaps/kubernetes/content/why-use-kubernetes@q-Ky0ietZGpyUcBQfh-BJ.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T08:53:17.657172"
     }
   ],
-  "last_updated": "2026-08-15T08:45:55.087267",
+  "last_updated": "2026-08-15T08:53:17.668982",
   "total_translated_count": 54
 }

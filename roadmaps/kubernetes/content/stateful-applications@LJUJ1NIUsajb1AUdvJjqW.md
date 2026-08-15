@@ -1,10 +1,10 @@
-# Stateful Applications
+# Aplicações Stateful
 
-In Kubernetes, storage is a key component for stateful applications, as these applications require persistent data storage that is available across multiple replicas of the application. Kubernetes provides several options for storage, including volumes, persistent volumes, and storage classes.
+No Kubernetes, o armazenamento é um componente chave para aplicativos stateful, pois esses aplicativos requerem armazenamento de dados persistente que esteja disponível em várias réplicas do aplicativo. O Kubernetes oferece várias opções de armazenamento, incluindo volumes, volumes persistentes e classes de armazenamento.
 
-Volumes are the basic building blocks of storage in Kubernetes. A volume is a directory that is accessible to the container running the application, and it can be backed by different types of storage, such as a host directory, a cloud provider disk, or a network storage system. Volumes are created and managed by Kubernetes, and they can be mounted into containers as part of a pod definition.
+Volumes são os blocos básicos de construção de armazenamento no Kubernetes. Um volume é um diretório acessível ao contêiner que está executando o aplicativo, e ele pode ser suportado por diferentes tipos de armazenamento, como um diretório do host, um disco do provedor de nuvem ou um sistema de armazenamento de rede. Volumes são criados e gerenciados pelo Kubernetes e podem ser montados em contêineres como parte da definição de um pod.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Stateful Applications](https://kubernetes.io/docs/tutorials/stateful-application/)
-- [@video@The basics of stateful applications in Kubernetes](https://www.youtube.com/watch?v=GieXzb91I40)
+- [@oficial@Aplicações Stateful](https://kubernetes.io/docs/tutorials/stateful-application/)
+- [@vídeo@Os fundamentos das aplicações stateful no Kubernetes](https://www.youtube.com/watch?v=GieXzb91I40)

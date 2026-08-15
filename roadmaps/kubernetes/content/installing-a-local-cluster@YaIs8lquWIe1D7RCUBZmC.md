@@ -1,9 +1,9 @@
-# Installing a Local Cluster
+# Instalação de um Cluster Local
 
-To install and configure a Kubernetes cluster on CentOS 7 or Ubuntu, you would need to setup the prerequisites and requirements for setting up a Kubernetes cluster after which you would be installing the Kubernetes components, including Kubeadm, Kubelet, and Kubectl and then you'll need to connect the master and the worker nodes. Once the connection is established you can check it by deploying application on the cluster.
+Para instalar e configurar um cluster Kubernetes em CentOS 7 ou Ubuntu, você precisará configurar os pré-requisitos e requisitos para a configuração do cluster. Em seguida, você instalará os componentes do Kubernetes, incluindo Kubeadm, Kubelet e Kubectl, e depois conectará o nó mestre aos nós de trabalho. Uma vez que a conexão for estabelecida, você pode verificar isso implantando uma aplicação no cluster.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@How to Install a Kubernetes Cluster on CentOS 7](https://www.tecmint.com/install-kubernetes-cluster-on-centos-7/)
-- [@article@How To Create a Kubernetes Cluster Using on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-create-a-kubernetes-cluster-using-kubeadm-on-ubuntu-20-04)
-- [@article@Deploy a Kubernetes Cluster on Ubuntu Server with Microk8s](https://thenewstack.io/deploy-a-kubernetes-cluster-on-ubuntu-server-with-microk8s/)
+- [@artigo@Como Instalar um Cluster Kubernetes em CentOS 7](https://www.tecmint.com/install-kubernetes-cluster-on-centos-7/)
+- [@artigo@Como Criar um Cluster Kubernetes Usando Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-create-a-kubernetes-cluster-using-kubeadm-on-ubuntu-20-04)
+- [@artigo@Implantar um Cluster Kubernetes em Servidor Ubuntu com Microk8s](https://thenewstack.io/deploy-a-kubernetes-cluster-on-ubuntu-server-with-microk8s/)

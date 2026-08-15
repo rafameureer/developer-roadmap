@@ -1,8 +1,8 @@
-# Blue Green Deployments
+# Implantações Blue-Green
 
-It is a deployment strategy used in Kubernetes for deploying new versions of an application by running two identical production environments, one with the current version (blue) and the other with the new version (green). After the green environment is fully tested, traffic is routed from the blue environment to the green environment, providing a seamless transition for users and avoiding any downtime or disruption. In Kubernetes, Blue-Green Deployments can be implemented using a variety of tools and techniques, including deployment strategies, traffic routing, and load balancing.
+É uma estratégia de implantação usada em Kubernetes para implantar novas versões de um aplicativo ao executar dois ambientes de produção idênticos, um com a versão atual (azul) e outro com a nova versão (verde). Após o ambiente verde ser totalmente testado, o tráfego é direcionado do ambiente azul para o ambiente verde, fornecendo uma transição suave para os usuários e evitando qualquer tempo de inatividade ou interrupção. No Kubernetes, as Implantações Blue-Green podem ser implementadas usando uma variedade de ferramentas e técnicas, incluindo estratégias de implantação, roteamento de tráfego e balanceamento de carga.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Create a Kubernetes Blue Green Deployment](https://developer.harness.io/docs/continuous-delivery/cd-execution/kubernetes-executions/create-a-kubernetes-blue-green-deployment/)
-- [@video@Kubernetes - Blue/Green Deployments](https://www.youtube.com/watch?v=jxhpTGQ484Y)
+- [@article@Criar uma Implantação Blue-Green do Kubernetes](https://developer.harness.io/docs/continuous-delivery/cd-execution/kubernetes-executions/create-a-kubernetes-blue-green-deployment/)
+- [@video@Kubernetes - Implantações Blue/Green](https://www.youtube.com/watch?v=jxhpTGQ484Y)

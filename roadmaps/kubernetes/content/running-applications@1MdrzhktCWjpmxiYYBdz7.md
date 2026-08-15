@@ -1,10 +1,10 @@
-# Running Applications
+# Executando Aplicações
 
-Running applications involves deploying and managing software within a Kubernetes cluster. This includes packaging the application, defining its resource requirements (like CPU and memory), specifying how it should be exposed to the outside world, and ensuring it remains healthy and available. It also covers scaling the application to handle varying workloads and updating it without downtime.
+Executar aplicações envolve implantar e gerenciar software em um cluster Kubernetes. Isso inclui empacotar a aplicação, definir seus requisitos de recursos (como CPU e memória), especificar como ela deve ser exposta ao mundo exterior e garantir que permaneça saudável e disponível. Também cobre dimensionar a aplicação para lidar com diferentes cargas de trabalho e atualizá-la sem tempo de inatividade.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Run Applications](https://kubernetes.io/docs/tasks/run-application/)
-- [@article@Deploying an Application on Kubernetes: A Complete Guide!](https://dev.to/pavanbelagatti/deploying-an-application-on-kubernetes-a-complete-guide-1cj6)
-- [@article@How Do Applications Run on Kubernetes?](https://thenewstack.io/how-do-applications-run-on-kubernetes/)
-- [@video@Kubernetes 101: Deploying Your First Application!](https://www.youtube.com/watch?v=XltFOyGanYE)
+- [@oficial@Executar Aplicações](https://kubernetes.io/docs/tasks/run-application/)
+- [@artigo@Implantando uma Aplicação no Kubernetes: Um Guia Completo!](https://dev.to/pavanbelagatti/deploying-an-application-on-kubernetes-a-complete-guide-1cj6)
+- [@artigo@Como Aplicações Funcionam no Kubernetes?](https://thenewstack.io/how-do-applications-run-on-kubernetes/)
+- [@vídeo@Kubernetes 101: Implantando Sua Primeira Aplicação!](https://www.youtube.com/watch?v=XltFOyGanYE)

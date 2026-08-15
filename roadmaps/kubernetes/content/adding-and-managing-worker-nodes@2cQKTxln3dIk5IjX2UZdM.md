@@ -1,8 +1,8 @@
-# Managing Worker Nodes
+# Gerenciando Nós Trabalhadores
 
-Kubernetes runs your workload by placing containers into Pods to run on Nodes. A node may be a virtual or physical machine, depending on the cluster. Each node is managed by the control plane and contains the services necessary to run Pods.
+O Kubernetes executa seu trabalho colocando contêineres em Pods para serem executados em Nós. Um nó pode ser uma máquina virtual ou física, dependendo do cluster. Cada nó é gerenciado pelo plano de controle e contém os serviços necessários para executar Pods.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Node Management](https://kubernetes.io/docs/concepts/architecture/nodes/#management)
-- [@video@Kubernetes 101: Nodes Tutorial](https://www.youtube.com/watch?v=xhwi3zIVR-8)
+- [@official@Gerenciamento de Nós](https://kubernetes.io/docs/concepts/architecture/nodes/#management)
+- [@video@Kubernetes 101: Tutorial sobre Nós](https://www.youtube.com/watch?v=xhwi3zIVR-8)

@@ -1,9 +1,9 @@
-# Secrets
+# Segredos
 
-Kubernetes secrets store sensitive data such as passwords, tokens, and API keys in a secure manner. They can be created manually or automatically, and stored in etcd. Secrets can be mounted as files or environment variables in a pod, and access can be managed using Kubernetes RBAC. However, they have some limitations, such as size and the inability to be updated once created. Understanding secrets is important for building secure applications in Kubernetes.
+Os segredos do Kubernetes armazenam dados sensíveis como senhas, tokens e chaves de API de maneira segura. Eles podem ser criados manualmente ou automaticamente e armazenados em etcd. Os segredos podem ser montados como arquivos ou variáveis de ambiente em um pod, e o acesso pode ser gerenciado usando o RBAC do Kubernetes. No entanto, eles têm algumas limitações, como tamanho e a impossibilidade de serem atualizados uma vez criados. Entender segredos é importante para construir aplicativos seguros no Kubernetes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Documentation - Secrets](https://kubernetes.io/docs/concepts/configuration/secret/)
-- [@article@Kubernetes Secrets Management: 3 Approaches, 9 Best Practices](https://thenewstack.io/kubernetes-secrets-management-3-approaches-9-best-practices/)
-- [@video@Kubernetes Secrets in 5 Minutes!](https://www.youtube.com/watch?v=cQAEK9PBY8U)
+- [@official@Documentação - Segredos](https://kubernetes.io/docs/concepts/configuration/secret/)
+- [@article@Gerenciamento de segredos do Kubernetes: 3 abordagens, 9 práticas recomendadas](https://thenewstack.io/kubernetes-secrets-management-3-approaches-9-best-practices/)
+- [@video@Segredos do Kubernetes em 5 minutos!](https://www.youtube.com/watch?v=cQAEK9PBY8U)

@@ -4,7 +4,7 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 
 ---
 
-> ⚠️ **Total de itens sinalizados:** 1112
+> ⚠️ **Total de itens sinalizados:** 1125
 
 | Arquivo / Tópico | Motivo da Sinalização | Data/Hora |
 |---|---|---|
@@ -1120,3 +1120,16 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 | `roadmaps/kotlin/content/read-only-vs-mutable@D4G8DOX5b39Rxw2FtgnjQ.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:42:59.328499 |
 | `roadmaps/kotlin/content/serialization@TyuUD4479UXsbRY9nOGno.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:43:39.172628 |
 | `roadmaps/kotlin/content/server-side-apps@aj_yIDgFpBOfoSs2kYBBT.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:43:42.204447 |
+| `roadmaps/kubernetes/content/csi-drivers@55RV9psPCmcg8G_P_zQo9.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:47:32.495117 |
+| `roadmaps/kubernetes/content/custom-resource-definitions-crds@9P7l-RBOkUxs3Z_UpKQO-.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:47:37.424462 |
+| `roadmaps/kubernetes/content/custom-schedulers-and-extenders@1-Nb8rCMJEZrYm20sEcRJ.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:47:42.432836 |
+| `roadmaps/kubernetes/content/evictions@TRKzlDW2PQN9bWTyz3NWL.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:48:19.955190 |
+| `roadmaps/kubernetes/content/external-access-to-services@jUOlITLqnIvSu97I_3nBz.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:48:24.457749 |
+| `roadmaps/kubernetes/content/gitops@dATdEyNWlpDNKjedCXLyb.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:48:28.813123 |
+| `roadmaps/kubernetes/content/pods@-d2PIXm0V_Iehe8cws8zK.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:50:51.049892 |
+| `roadmaps/kubernetes/content/replicasets@IF09l0-pryGpMbDt__ocr.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:50:56.268207 |
+| `roadmaps/kubernetes/content/resource-health@pDjNsK5vI9FmKZbQm0lDP.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:51:00.531944 |
+| `roadmaps/kubernetes/content/resource-management@eWKkdiBhD5x2sGYajmHEs.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:51:31.828290 |
+| `roadmaps/kubernetes/content/role-based-access-control-rbac@jOq0WwLrq8tlmOgo64QDc.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:51:40.221606 |
+| `roadmaps/kubernetes/content/rolling-updates--rollbacks@yMSXdwDO36CLtp2TBC7aB.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:51:45.557058 |
+| `roadmaps/kubernetes/content/why-use-kubernetes@q-Ky0ietZGpyUcBQfh-BJ.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:53:17.657172 |

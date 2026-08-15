@@ -1,8 +1,8 @@
-# Scheduling Basics
+# Básicos de Agendamento
 
-Scheduling involves assigning pods to worker nodes based on criteria such as resource availability, labels, affinity/anti-affinity rules, taints, and tolerations. Pods are the smallest deployable units in k8s, consisting of one or more containers that share the same network namespace. The scheduler is responsible for assigning pods to nodes, while labels are used for matching. Affinity and anti-affinity rules dictate how pods are scheduled based on their relationships with other pods or nodes. QoS is used to prioritize pod scheduling based on their resource requirements.
+O agendamento envolve atribuir pods a nós trabalhadores com base em critérios como disponibilidade de recursos, rótulos, regras de afinidade/antiafinidade, sujeira e tolerâncias. Os pods são os unidades mínimas de implantação no k8s, composto por um ou mais contêineres que compartilham o mesmo espaço de nome de rede. O agendador é responsável por atribuir pods a nós, enquanto rótulos são usados para correspondência. As regras de afinidade e antiafinidade determinam como os pods são agendados com base em suas relações com outros pods ou nós. QoS é usado para priorizar o agendamento de pods com base em seus requisitos de recursos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Kubernetes Scheduler](https://kubernetes.io/docs/concepts/scheduling-eviction/kube-scheduler/)
-- [@video@How Scheduling in Kubernetes Works](https://www.youtube.com/watch?v=0FvQR-0tK54)
+- [@official@Agendador do Kubernetes](https://kubernetes.io/docs/concepts/scheduling-eviction/kube-scheduler/)
+- [@video@Como funciona o Agendamento no Kubernetes](https://www.youtube.com/watch?v=0FvQR-0tK54)

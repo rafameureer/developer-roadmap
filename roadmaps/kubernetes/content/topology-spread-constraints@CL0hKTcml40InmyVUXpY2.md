@@ -1,8 +1,8 @@
-# Topology Spread Constraints
+# Restrições de Distribuição de Topologia
 
-Topology spread constraints ensure even distribution of pods across a cluster's topology. Constraints define rules for the number of pods of a certain type that can run on a given level, such as nodes, zones, or racks. These constraints can be customized to fit specific needs, such as ensuring that critical workloads are spread across multiple zones. They help prevent single points of failure and improve application resilience by preventing resource overloading and promoting balanced distribution of workloads. Constraints can be added using the Kubernetes API or command line interface.
+As restrições de distribuição de topologia garantem uma distribuição equilibrada de pods em uma topologia de cluster. As restrições definem regras para o número de pods de um determinado tipo que podem ser executados em um nível dado, como nós, zonas ou racks. Essas restrições podem ser personalizadas para atender a necessidades específicas, como garantir que as cargas de trabalho críticas estejam distribuídas em várias zonas. Eles ajudam a prevenir pontos de falha únicos e melhorar a resiliência da aplicação ao prevenir sobrecarga de recursos e promover uma distribuição equilibrada de trabalhos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Topology Spread Constraints](https://kubernetes.io/docs/concepts/scheduling-eviction/topology-spread-constraints/)
-- [@video@Kubernetes | Topology Spread Constraints](https://www.youtube.com/watch?v=joRrWJ6bwvE)
+- [@oficial@Restrições de Distribuição de Topologia](https://kubernetes.io/docs/concepts/scheduling-eviction/topology-spread-constraints/)
+- [@vídeo@Kubernetes | Restrições de Distribuição de Topologia](https://www.youtube.com/watch?v=joRrWJ6bwvE)

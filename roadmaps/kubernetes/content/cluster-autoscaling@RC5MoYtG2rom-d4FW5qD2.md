@@ -1,8 +1,8 @@
-# Autoscaling
+# Autoescalonamento
 
-Autoscaling in Kubernetes involves adjusting the resources allocated to a deployment or set of pods based on demand. It includes Horizontal Pod Autoscaling (HPA) and Vertical Pod Autoscaling (VPA), which increase or decrease replicas or adjust resource requests and limits, respectively. Autoscaling can be used with Cluster Autoscaling to efficiently allocate resources and ensure application responsiveness. It's useful for handling variable workloads or sudden spikes in traffic.
+O autoescalonamento em Kubernetes envolve ajustar os recursos alocados a uma implantação ou conjunto de pods com base na demanda. Inclui o Autoescalonamento Horizontal (HPA) e o Autoescalonamento Vertical (VPA), que aumentam ou diminuem réplicas ou ajustam solicitações e limites de recursos, respectivamente. O autoescalonamento pode ser usado com o Autoescalonamento do Cluster para alojar eficientemente recursos e garantir a resposta da aplicação. É útil para lidar com cargas de trabalho variáveis ou picos repentinos no tráfego.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Autoscaling in Kubernetes](https://kubernetes.io/blog/2016/07/autoscaling-in-kubernetes/)
-- [@video@Kubernetes cluster autoscaling for beginners](https://www.youtube.com/watch?v=jM36M39MA3I)
+- [@official@Autoescalonamento em Kubernetes](https://kubernetes.io/blog/2016/07/autoscaling-in-kubernetes/)
+- [@video@Autoescalonamento de cluster do Kubernetes para iniciantes](https://www.youtube.com/watch?v=jM36M39MA3I)

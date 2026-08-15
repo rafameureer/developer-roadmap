@@ -1,8 +1,8 @@
-# Multi Cluster Management
+# Gerenciamento de Multi-Cluster
 
-Multi-Cluster Management in Kubernetes (k8s) refers to the ability to manage multiple Kubernetes clusters using a single control plane. This approach allows administrators to centrally manage and orchestrate resources across multiple clusters, regardless of where they are located, without having to switch between multiple management consoles or tools.
+O gerenciamento de multi-cluster em Kubernetes (k8s) refere-se à capacidade de gerenciar múltiplos clusters Kubernetes usando um único painel de controle. Esse abordagem permite que administradores gerenciem e orquestram recursos em vários clusters, independentemente de onde eles estejam localizados, sem ter que alternar entre várias consoles ou ferramentas de gestão.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Configure Access to Multiple Clusters - Documentation](https://kubernetes.io/docs/tasks/access-application-cluster/configure-access-multiple-clusters/)
-- [@video@Kubernetes Cluster Management Strategies](https://www.youtube.com/watch?v=966TJ6mlOYY)
+- [@official@Configurar Acesso a Múltiplos Clusters - Documentação](https://kubernetes.io/docs/tasks/access-application-cluster/configure-access-multiple-clusters/)
+- [@video@Estratégias de Gerenciamento de Cluster Kubernetes](https://www.youtube.com/watch?v=966TJ6mlOYY)

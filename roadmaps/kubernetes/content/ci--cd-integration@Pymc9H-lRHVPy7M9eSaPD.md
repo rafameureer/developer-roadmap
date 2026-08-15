@@ -1,9 +1,9 @@
-# CI/CD Integration
+# Integração CI/CD
 
-In CI/CD pattern, the build, test, and deployment of applications to Kubernetes are fully automated. The CI pipeline creates the container image, runs tests, and pushes it to a registry. The CD pipeline then updates Kubernetes manifests or Helm charts and applies them to the cluster using tools like Octopus Deploy, Argo CD, Flux, or kubectl. This makes deployments consistent, repeatable, and fast.
+No padrão CI/CD, a construção, teste e implantação de aplicativos no Kubernetes são totalmente automatizados. O pipeline CI cria a imagem do contêiner, executa testes e empurra para um registro. O pipeline CD então atualiza os manifestos do Kubernetes ou os gráficos Helm e os aplica ao cluster usando ferramentas como Octopus Deploy, Argo CD, Flux ou kubectl. Isso torna as implantações consistentes, repetíveis e rápidas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Kubernetes CI/CD Pipelines – 8 Best Practices and Tools](https://spacelift.io/blog/kubernetes-ci-cd)
-- [@article@8 Kubernetes CI/CD tools every developer should know](https://octopus.com/devops/kubernetes-deployments/kubernetes-ci-cd-tools-for-developers/)
-- [@article@Deploy to Kubernetes with Octopus Deploy](https://octopus.com/use-case/kubernetes?utm_source=roadmap&utm_medium=link&utm_campaign=kubernetes-ci-cd-integration)
+- [@artigo@Pipelines CI/CD do Kubernetes – 8 Melhores Práticas e Ferramentas](https://spacelift.io/blog/kubernetes-ci-cd)
+- [@artigo@8 Ferramentas de CI/CD do Kubernetes que todos os desenvolvedores devem conhecer](https://octopus.com/devops/kubernetes-deployments/kubernetes-ci-cd-tools-for-developers/)
+- [@artigo@Implantar no Kubernetes com o Octopus Deploy](https://octopus.com/use-case/kubernetes?utm_source=roadmap&utm_medium=link&utm_campaign=kubernetes-ci-cd-integration)

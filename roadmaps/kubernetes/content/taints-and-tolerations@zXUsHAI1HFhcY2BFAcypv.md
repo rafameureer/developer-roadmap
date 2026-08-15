@@ -1,8 +1,8 @@
-# Taints and Tolerations
+# Taints e Tolerations
 
-Taints and tolerations are used in Kubernetes to restrict or allow pods to be scheduled on certain nodes based on labels. A taint is a label that is applied to a node to indicate certain limitations or requirements. A toleration is a label applied to a pod to indicate that it can tolerate certain taints. When a node has a taint, only pods with the corresponding tolerations can be scheduled on that node. This feature is useful for various purposes, such as ensuring separation of critical and non-critical workloads, reserving nodes for certain tasks, and protecting nodes from overloading.
+Taints (tinturas) e tolerations são usados no Kubernetes para restringir ou permitir que os pods sejam agendados em certos nós com base em rótulos. Uma tinta é um rótulo aplicado a um nó para indicar determinadas limitações ou requisitos. Uma toleração é um rótulo aplicado a um pod para indicar que ele pode tolerar determinadas tintas. Quando um nó tem uma tinta, apenas os pods com as correspondentes tolerações podem ser agendados nesse nó. Esta funcionalidade é útil para diversos propósitos, como garantir a separação de cargas de trabalho críticas e não-criticas, reservar nós para certos trabalhos e proteger nós da sobrecarga.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Taints and Tolerations](https://kubernetes.io/docs/concepts/scheduling-eviction/taint-and-toleration/)
-- [@video@Kubernetes For Beginners: Taints & Tolerations](https://www.youtube.com/watch?v=mo2UrkjA7FE)
+- [@oficial@Taints e Tolerations](https://kubernetes.io/docs/concepts/scheduling-eviction/taint-and-toleration/)
+- [@vídeo@Kubernetes Para Iniciantes: Taints & Tolerations](https://www.youtube.com/watch?v=mo2UrkjA7FE)

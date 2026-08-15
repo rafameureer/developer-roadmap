@@ -1,11 +1,11 @@
-# Monitoring and Optimizing Resource Usage
+# Monitoramento e Otimização do Uso de Recursos
 
-Monitoring and optimizing resource usage in Kubernetes helps ensure workloads run efficiently while minimizing waste and avoiding performance issues. By observing CPU, memory, and storage consumption at the node, pod, and container levels, teams can identify bottlenecks, detect underutilized resources, and make informed scaling decisions. Optimization techniques include right-sizing resource requests and limits, using autoscaling mechanisms, and continuously analyzing metrics through monitoring tools. Effective monitoring and optimization improve cluster stability, reduce costs, and enhance overall application performance.
+O monitoramento e otimização do uso de recursos no Kubernetes ajuda a garantir que as cargas de trabalho sejam executadas eficientemente, minimizando o desperdício e evitando problemas de desempenho. Ao observar o consumo de CPU, memória e armazenamento em nível de nó, pod e contêiner, equipes podem identificar gargalos, detectar recursos sobutilizados e tomar decisões informadas sobre escalonamento. Técnicas de otimização incluem dimensionar adequadamente as solicitações e limites de recursos, usar mecanismos de escalonamento automático e analisar continuamente métricas através de ferramentas de monitoramento. A monitoramento e otimização eficazes melhoram a estabilidade do cluster, reduzem custos e aumentam o desempenho geral das aplicações.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Monitoring Resources in Kubernetes](https://kubernetes.io/docs/tasks/debug/debug-cluster/resource-metrics-pipeline/)
-- [@official@Metrics Server](https://kubernetes.io/docs/tasks/debug/debug-cluster/resource-metrics-pipeline/#metrics-server)
-- [@official@Horizontal Pod Autoscaling](https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale/)
-- [@article@Kubernetes Resource Monitoring: Best Practices](https://www.redhat.com/en/blog/kubernetes-resource-monitoring-best-practices)
-- [@article@Optimizing Kubernetes Resource Utilization](https://thenewstack.io/optimizing-kubernetes-resource-utilization/)
+- [@oficial@Recursos de Monitoramento no Kubernetes](https://kubernetes.io/docs/tasks/debug/debug-cluster/resource-metrics-pipeline/)
+- [@oficial@Servidor de Métricas](https://kubernetes.io/docs/tasks/debug/debug-cluster/resource-metrics-pipeline/#metrics-server)
+- [@oficial@Escalabilidade Horizontal do Pod](https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale/)
+- [@artigo@Monitoramento de Recursos no Kubernetes: Melhores Práticas](https://www.redhat.com/en/blog/kubernetes-resource-monitoring-best-practices)
+- [@artigo@Otimizando a Utilização de Recursos do Kubernetes](https://thenewstack.io/optimizing-kubernetes-resource-utilization/)

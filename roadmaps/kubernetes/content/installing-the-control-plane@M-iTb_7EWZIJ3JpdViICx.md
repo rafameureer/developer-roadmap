@@ -1,8 +1,8 @@
-# Control Plane Installation
+# Instalação do Plano de Controle
 
-The control plane's components make global decisions about the cluster (for example, scheduling), as well as detecting and responding to cluster events (for example, starting up a new pod when a deployment's replicas field is unsatisfied). Control plane components can be run on any machine in the cluster. However, for simplicity, set up scripts typically start all control plane components on the same machine, and do not run user containers on this machine.
+Os componentes do plano de controle tomam decisões globais sobre o cluster (por exemplo, escalonamento), além de detectar e responder a eventos de cluster (por exemplo, iniciando um novo pod quando o campo réplicas de uma implantação não está satisfeito). Os componentes do plano de controle podem ser executados em qualquer máquina no cluster. No entanto, para simplicidade, scripts de configuração típicos iniciam todos os componentes do plano de controle na mesma máquina e não executam contêineres de usuário nesta máquina.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Initializing your control-plane node - Documentation](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/create-cluster-kubeadm/#initializing-your-control-plane-node)
-- [@video@Tutorial - Install Control Plane Components](https://www.youtube.com/watch?v=IUwuyZ5ReF0)
+- [@oficial@Inicializando seu nó de plano de controle - Documentação](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/create-cluster-kubeadm/#initializing-your-control-plane-node)
+- [@vídeo@Tutorial - Instalar Componentes do Plano de Controle](https://www.youtube.com/watch?v=IUwuyZ5ReF0)

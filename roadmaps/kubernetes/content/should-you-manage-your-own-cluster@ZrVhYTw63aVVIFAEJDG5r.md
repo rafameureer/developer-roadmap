@@ -1,8 +1,8 @@
-# Own Cluster
+# Gerenciamento de Seu Próprio Cluster
 
-To create your own Kubernetes cluster, you need to choose a cloud provider or set up your own infrastructure, install Kubernetes on your infrastructure, configure your cluster by setting up networking, storage, and security, deploy your applications using Kubernetes manifests, and monitor and manage your cluster using tools like Kubernetes Dashboard, kubectl, and Prometheus. This process can be complex and time-consuming, but it gives you complete control over your infrastructure and allows for customization to meet your specific needs.
+Para criar seu próprio cluster Kubernetes, você precisa escolher um provedor de nuvem ou configurar sua própria infraestrutura, instalar o Kubernetes na sua infraestrutura, configurar seu cluster definindo rede, armazenamento e segurança, implantar suas aplicações usando manifestos do Kubernetes e monitorar e gerenciar seu cluster usando ferramentas como o Painel de Controle do Kubernetes, kubectl e Prometheus. Esse processo pode ser complexo e demorado, mas lhe dá controle completo sobre sua infraestrutura e permite personalizações para atender às suas necessidades específicas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Creating a cluster with kubeadm](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/create-cluster-kubeadm/)
-- [@video@KUBERNETES | Install Kubernetes Cluster](https://www.youtube.com/watch?v=Ro2qeYeisZQ)
+- [@oficial@Criando um cluster com kubeadm](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/create-cluster-kubeadm/)
+- [@vídeo@KUBERNETES | Instalar um Cluster Kubernetes](https://www.youtube.com/watch?v=Ro2qeYeisZQ)

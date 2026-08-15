@@ -1,7 +1,7 @@
 # Horizontal Pod Autoscaler
 
-It is a feature in Kubernetes that automatically scales the number of replicas of a pod based on the current demand for the workload it is running. The HPA controller monitors the CPU utilization or other metrics of the pod and adjusts the number of replicas of the pod to meet the specified target. This helps to ensure that the workload can handle increases in traffic and demand without overloading the resources of the cluster.
+É uma funcionalidade do Kubernetes que escala automaticamente o número de réplicas de um pod com base na demanda atual para a carga de trabalho em que ele está executando. O controlador HPA monitora a utilização de CPU ou outras métricas do pod e ajusta o número de réplicas do pod para atender ao alvo especificado. Isso ajuda a garantir que a carga de trabalho possa lidar com aumentos no tráfego e demanda sem sobrecarregar os recursos da grade.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Horizontal Pod Autoscaling - Documentation](https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale/)
+- [@official@Documentação sobre Horizontal Pod Autoscaling](https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale/)

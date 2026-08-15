@@ -1,9 +1,9 @@
-# Load Balancing
+# Balanceamento de Carga
 
-Load balancing in distributes network traffic across multiple pods or nodes using a Service object. A Service provides a stable network endpoint for a set of pods, allowing other pods or external clients to access them through a single IP address and DNS name. Kubernetes offers three types of load balancing algorithms for Services, which distribute traffic based on round-robin, least connections, or IP hash. Load balancing is an essential part of Kubernetes networking, providing efficient and reliable traffic distribution across a cluster.
+O balanceamento de carga distribui o tráfego de rede em vários pods ou nós usando um objeto Service. Um Service fornece um endpoint de rede estável para um conjunto de pods, permitindo que outros pods ou clientes externos acessem esses pods através de uma única endereço IP e nome DNS. O Kubernetes oferece três tipos de algoritmos de balanceamento de carga para os Services, que distribuem o tráfego com base em round-robin, menos conexões ou hash de IP. O balanceamento de carga é uma parte essencial da rede do Kubernetes, fornecendo distribuição eficiente e confiável de tráfego em um cluster.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Load Balancing - Documentation](https://kubernetes.io/docs/concepts/services-networking/ingress/#load-balancing)
+- [@oficial@Balanceamento de Carga - Documentação](https://kubernetes.io/docs/concepts/services-networking/ingress/#load-balancing)
 - [@article@Ingress Controllers: The Swiss Army Knife of Kubernetes](https://thenewstack.io/ingress-controllers-the-swiss-army-knife-of-kubernetes/)
-- [@video@Tutorial | Load Balancing Service in Kubernetes](https://www.youtube.com/watch?v=xCsz9IOt-fs)
+- [@video@Tutorial | Balanceamento de Carga Service no Kubernetes](https://www.youtube.com/watch?v=xCsz9IOt-fs)

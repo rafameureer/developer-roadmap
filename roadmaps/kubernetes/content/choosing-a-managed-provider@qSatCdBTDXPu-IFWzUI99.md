@@ -1,11 +1,11 @@
-# Choosing a Managed Provider
+# Escolhendo um provedor gerenciado
 
-A managed provider is a cloud-based service that provides a managed Kubernetes environment. This means that the provider handles the underlying infrastructure, such as servers, storage, and networking, as well as the installation, configuration, and maintenance of the Kubernetes cluster.
+Um provedor gerenciado é um serviço baseado em nuvem que fornece um ambiente Kubernetes gerenciado. Isso significa que o provedor lida com a infraestrutura subjacente, como servidores, armazenamento e rede, assim como a instalação, configuração e manutenção do cluster Kubernetes.
 
-When choosing a managed Kubernetes provider, consider the cloud provider you are using, features and capabilities, pricing and billing, support, security and compliance, and the provider's reputation and reviews. By taking these factors into account, you can select a provider that meets your needs and offers the best value for your organization.
+Ao escolher um provedor de Kubernetes gerenciado, considere o provedor de nuvem que você está usando, recursos e capacidades, preços e cobrança, suporte, segurança e conformidade, e a reputação e avaliações do provedor. Ao considerar esses fatores, você pode selecionar um provedor que atenda às suas necessidades e ofereça o melhor valor para sua organização.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Choosing a Managed Kubernetes Provider](https://containerjournal.com/features/choosing-a-managed-kubernetes-provider/)
-- [@article@Amazon Web Services Gears Elastic Kubernetes Service for Batch Work](https://thenewstack.io/amazon-web-services-gears-elastic-kubernetes-service-for-batch-jobs/)
-- [@article@How to Build The Right Platform for Kubernetes](https://thenewstack.io/kubernetes/kubernetes-infrastructure-architecture/)
+- [@artigo@Escolhendo um provedor gerenciado de Kubernetes](https://containerjournal.com/features/choosing-a-managed-kubernetes-provider/)
+- [@artigo@Amazon Web Services Gears Elastic Kubernetes Service para trabalhos em lote](https://thenewstack.io/amazon-web-services-gears-elastic-kubernetes-service-for-batch-jobs/)
+- [@artigo@Como construir a plataforma certa para o Kubernetes](https://thenewstack.io/kubernetes/kubernetes-infrastructure-architecture/)

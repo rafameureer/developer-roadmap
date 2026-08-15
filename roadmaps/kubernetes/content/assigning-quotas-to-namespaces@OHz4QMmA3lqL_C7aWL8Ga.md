@@ -1,9 +1,9 @@
-# Assigning Quotas to Namespaces
+# Atribuindo Cotas aos Namespaces
 
-Assigning quotas to namespaces is a way to limit resource usage for specific groups of resources in Kubernetes. Quotas can be set for CPU, memory, and other resources, as well as for the number of objects in a namespace. This can help ensure fair resource distribution across different teams or projects within a cluster. Quotas can be applied to individual namespaces or across the entire cluster. Kubernetes allows for both hard quotas, which enforce strict resource limits, and soft quotas, which allow for overages up to a certain point. Quotas can be managed using the Kubernetes API or through YAML configuration files.
+Atribuir cotas a namespaces é uma maneira de limitar o uso de recursos para grupos específicos de recursos no Kubernetes. Cotas podem ser definidas para CPU, memória e outros recursos, bem como para o número de objetos em um namespace. Isso pode ajudar a garantir uma distribuição equânime dos recursos entre diferentes equipes ou projetos dentro de um cluster. As cotas podem ser aplicadas a namespaces individuais ou ao cluster inteiro. O Kubernetes permite tanto cotas rígidas, que impostam limites estritos de recursos, quanto cotas suaves, que permitem ultrapassagens até certo ponto. As cotas podem ser gerenciadas usando a API do Kubernetes ou através de arquivos de configuração YAML.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Resource Quotas - Documentation](https://kubernetes.io/docs/concepts/policy/resource-quotas/)
-- [@article@Leveraging Namespaces for Cost Optimization with Kubernetes](https://thenewstack.io/leveraging-namespaces-for-cost-optimization-with-kubernetes/)
-- [@video@Kubernetes Namespaces Explained in 15 mins](https://www.youtube.com/watch?v=K3jNo4z5Jx8)
+- [@official@Cotas de Recursos - Documentação](https://kubernetes.io/docs/concepts/policy/resource-quotas/)
+- [@article@Utilizando Namespaces para otimização de custos com Kubernetes](https://thenewstack.io/leveraging-namespaces-for-cost-optimization-with-kubernetes/)
+- [@video@Namespaces do Kubernetes explicados em 15 minutos](https://www.youtube.com/watch?v=K3jNo4z5Jx8)

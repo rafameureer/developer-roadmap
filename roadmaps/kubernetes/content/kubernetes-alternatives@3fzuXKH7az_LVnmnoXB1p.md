@@ -1,16 +1,16 @@
-# Kubernetes Alternatives
+# Alternativas ao Kubernetes
 
-Kubernetes is a popular open-source container orchestration tool that is widely used for managing and deploying containerized applications. While there are other container orchestration tools available, such as Docker Swarm, Mesos, and Nomad, there are some key differences between Kubernetes and these other tools and some of them are mentioned below:
+O Kubernetes é uma ferramenta de orquestração de contêineres open-source popular e amplamente utilizada para gerenciar e implantar aplicativos containerizados. Embora haja outras ferramentas de orquestração de contêiner disponíveis, como Docker Swarm, Mesos e Nomad, há algumas diferenças-chave entre o Kubernetes e essas outras ferramentas, algumas das quais são mencionadas abaixo:
 
-*   Architecture: Kubernetes is designed as a modular system with many components that work together to provide container orchestration, such as the Kubernetes API server, kubelet, kube-proxy, and etcd.
-*   Scalability: Kubernetes is designed to handle large-scale deployments and can scale applications up or down based on demand.
-*   Flexibility: Kubernetes is highly configurable and can be customized to meet specific requirements, whereas other container orchestration tools may have more limited configuration options.
-*   Portability: Kubernetes is designed to be cloud-agnostic and can run on any public or private cloud platform, as well as on-premises.
-*   Community: Kubernetes has a large and active community of developers and users who contribute to its development and provide support.
+*   Arquitetura: O Kubernetes é projetado como um sistema modular com muitos componentes que trabalham juntos para fornecer orquestração de contêineres, como o servidor da API do Kubernetes, kubelet, kube-proxy e etcd.
+*   Escalabilidade: O Kubernetes está projetado para lidar com implantações em escala grande e pode dimensionar aplicativos para cima ou para baixo com base na demanda.
+*   Flexibilidade: O Kubernetes é altamente configurável e pode ser personalizado para atender a requisitos específicos, enquanto outras ferramentas de orquestração de contêiner podem ter opções de configuração mais limitadas.
+*   Portabilidade: O Kubernetes está projetado para ser agnóstico da nuvem e pode ser executado em qualquer plataforma de nuvem pública ou privada, bem como no local.
+*   Comunidade: O Kubernetes tem uma comunidade grande e ativa de desenvolvedores e usuários que contribuem para seu desenvolvimento e fornecem suporte.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@article@Compare Apache Mesos vs. Kubernetes](https://www.techtarget.com/searchitoperations/tip/Compare-container-orchestrators-Apache-Mesos-vs-Kubernetes)
-- [@article@Docker Swarm, a User-Friendly Alternative to Kubernetes](https://thenewstack.io/docker-swarm-a-user-friendly-alternative-to-kubernetes/)
-- [@article@Can You Live without Kubernetes?](https://thenewstack.io/can-you-live-without-kubernetes/)
+- [@article@Docker Swarm, uma Alternativa Amigável ao Kubernetes](https://thenewstack.io/docker-swarm-a-user-friendly-alternative-to-kubernetes/)
+- [@article@Você Pode Viver Sem o Kubernetes?](https://thenewstack.io/can-you-live-without-kubernetes/)
 - [@feed@Explore top posts about Kubernetes](https://app.daily.dev/tags/kubernetes?ref=roadmapsh)

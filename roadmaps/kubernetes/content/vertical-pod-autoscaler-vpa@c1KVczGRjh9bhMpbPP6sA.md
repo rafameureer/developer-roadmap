@@ -1,8 +1,8 @@
-# Vertical Pod Autoscaler
+# Escalador Vertical de Pod
 
-Vertical Pod Autoscaler (VPA) is a Kubernetes feature that automates the process of adjusting resource limits for containers in pods. Unlike Horizontal Pod Autoscaler (HPA), which scales the number of replicas of a pod, VPA scales the resources allocated to a pod's containers. It adjusts the resource requests and limits for each container based on its actual usage.
+O Escalador Vertical de Pod (VPA) é uma funcionalidade do Kubernetes que automatiza o processo de ajustar os limites de recursos para contêineres em pods. Diferentemente do Escalador Horizontal de Pod (HPA), que escala o número de réplicas de um pod, o VPA escala os recursos alocados aos contêineres de um pod. Ele ajusta as solicitações e limites de recursos para cada contêiner com base em seu uso real.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Kubernetes VPA?](https://www.kubecost.com/kubernetes-autoscaling/kubernetes-vpa/)
-- [@video@Vertical Pod Autoscaling: Example](https://www.youtube.com/watch?v=3h-vDDTZrm8)
+- [@article@O que é Kubernetes VPA?](https://www.kubecost.com/kubernetes-autoscaling/kubernetes-vpa/)
+- [@video@Exemplo de Escalador Vertical de Pod](https://www.youtube.com/watch?v=3h-vDDTZrm8)

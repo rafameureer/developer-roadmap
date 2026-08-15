@@ -1,8 +1,8 @@
-# Scheduling
+# Agendamento
 
-Scheduling in Kubernetes refers to the process of assigning workloads to specific nodes in a cluster. The Kubernetes scheduler makes scheduling decisions based on factors such as resource availability, node suitability, and workload priorities. It balances workloads across the cluster to ensure efficient resource utilization and avoid overloading nodes. Scheduling takes into account factors such as geographic location, hardware requirements, and application-specific needs.
+Agendamento no Kubernetes refere-se ao processo de atribuir cargas de trabalho a nós específicos em um cluster. O agendador do Kubernetes toma decisões de agendamento com base em fatores como disponibilidade de recursos, adequação do nó e prioridades da carga de trabalho. Ele equilibra as cargas de trabalho no cluster para garantir o uso eficiente dos recursos e evitar sobrecarregar os nós. O agendamento leva em conta fatores como localização geográfica, requisitos de hardware e necessidades específicas da aplicação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Kubernetes Scheduler](https://kubernetes.io/docs/concepts/scheduling-eviction/kube-scheduler/)
-- [@official@Scheduling Framework](https://kubernetes.io/docs/concepts/scheduling-eviction/scheduling-framework/)
+- [@oficial@Agendador do Kubernetes](https://kubernetes.io/docs/concepts/scheduling-eviction/kube-scheduler/)
+- [@oficial@Quadro de Agendamento](https://kubernetes.io/docs/concepts/scheduling-eviction/scheduling-framework/)

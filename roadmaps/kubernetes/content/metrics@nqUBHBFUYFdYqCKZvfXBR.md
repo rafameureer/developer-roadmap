@@ -1,8 +1,8 @@
-# Metrics
+# Métricas
 
-Metrics to monitor include CPU usage, memory usage, network usage, disk usage, API server metrics, pod and container metrics, and cluster-level metrics. These metrics provide insights into the performance and health of the cluster, nodes, and applications running on the cluster. Kubernetes provides tools such as Prometheus, Grafana, and Kubernetes Dashboard for collecting and analyzing these metrics. By monitoring these metrics, administrators can identify performance issues and optimize the cluster for better performance and scalability.
+As métricas para monitoramento incluem o uso de CPU, memória, rede, disco, métricas do servidor API, métricas de pod e contêiner, e métricas no nível do cluster. Essas métricas fornecem insights sobre o desempenho e saúde do cluster, dos nós e das aplicações em execução no cluster. O Kubernetes fornece ferramentas como Prometheus, Grafana e Painel de Controle do Kubernetes para coletar e analisar essas métricas. Ao monitorar essas métricas, os administradores podem identificar problemas de desempenho e otimizar o cluster para melhor desempenho e escalabilidade.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Node Metrics Data](https://kubernetes.io/docs/reference/instrumentation/node-metrics/)
-- [@video@How to collect metrics in K8s?](https://www.youtube.com/watch?v=JQrk6HwlN78)
+- [@oficial@Dados de Métricas do Nó](https://kubernetes.io/docs/reference/instrumentation/node-metrics/)
+- [@vídeo@Como coletar métricas no K8s?](https://www.youtube.com/watch?v=JQrk6HwlN78)

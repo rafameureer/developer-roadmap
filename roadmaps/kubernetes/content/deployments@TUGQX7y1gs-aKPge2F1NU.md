@@ -1,10 +1,9 @@
-# Deployments
+# Implantações
 
-A Deployment is a resource object for managing Pods and ReplicaSets via a declarative configuration, which define a desired state that describes the application workload life cycle, number of pods, deployment strategies, container images, and more. The Deployment Controller works to ensure the actual state matches desired state, such as by replacing a failed pod. Out of the box, Deployments support several deployment strategies, like "recreate" and "rolling update", however can be customized to support more advanced deployment strategies such as blue/green or canary deployments.
+Um Deployment é um objeto de recurso para gerenciar Pods e ReplicaSets por meio de uma configuração declarativa, que define um estado desejado que descreve o ciclo de vida do trabalho de aplicação, número de pods, estratégias de implantação, imagens de contêiner e muito mais. O Controlador Deployment trabalha para garantir que o estado atual corresponda ao estado desejado, como substituindo um pod falhante. Por padrão, as Implantações suportam várias estratégias de implantação, como "recreate" e "rolling update", mas podem ser personalizadas para suportar estratégias de implantação mais avançadas como blue/green ou canary.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Deployments Documentation](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/)
-- [@article@Kubernetes Deployment: From Basic Strategies to Progressive Delivery
-](https://codefresh.io/learn/kubernetes-deployment/)
-- [@video@Kubernetes Deployments | Deployment Strategies](https://youtu.be/lxc4EXZOOvE)
+- [@oficial@Documentação de Implantações](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/)
+- [@artigo@Implantação do Kubernetes: De Estratégias Básicas a Entrega Progressiva](https://codefresh.io/learn/kubernetes-deployment/)
+- [@vídeo@Implantações do Kubernetes | Estratégias de Implantação](https://youtu.be/lxc4EXZOOvE)

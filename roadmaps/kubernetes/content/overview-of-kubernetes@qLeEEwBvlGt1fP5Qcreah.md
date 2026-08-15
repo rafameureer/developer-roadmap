@@ -1,13 +1,13 @@
-# Kubernetes overview
+# Visão Geral do Kubernetes
 
-Kubernetes is a portable, extensible, open source platform for managing containerized workloads and services, that facilitates both declarative configuration and automation. It has a large, rapidly growing ecosystem. Kubernetes services, support, and tools are widely available.
+O Kubernetes é uma plataforma de código aberto, portátil e extensível para gerenciar cargas de trabalho e serviços contêinerizados, que facilita tanto a configuração declarativa quanto a automação. Ele tem um ecossistema grande e rapidamente crescente. Serviços, suporte e ferramentas do Kubernetes estão amplamente disponíveis.
 
-The name Kubernetes originates from Greek, meaning helmsman or pilot. K8s as an abbreviation results from counting the eight letters between the "K" and the "s". Google open-sourced the Kubernetes project in 2014. Kubernetes combines over 15 years of Google's experience running production workloads at scale with best-of-breed ideas and practices from the community.
+O nome Kubernetes vem do grego, significando marinheiro ou piloto. K8s como uma abreviação resulta da contagem de oito letras entre a "K" e a "s". O projeto Kubernetes foi open-sourced pelo Google em 2014. O Kubernetes combina mais de 15 anos de experiência do Google em executar cargas de trabalho em escala com ideias e práticas de melhor qualidade da comunidade.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Overview of Kubernetes](https://kubernetes.io/docs/concepts/overview/)
-- [@article@What is Kubernetes?](https://www.redhat.com/en/topics/containers/what-is-kubernetes)
-- [@article@Kubernetes Overview & Essential Reading](https://thenewstack.io/kubernetes/)
+- [@official@Visão Geral do Kubernetes](https://kubernetes.io/docs/concepts/overview/)
+- [@article@O que é o Kubernetes?](https://www.redhat.com/en/topics/containers/what-is-kubernetes)
+- [@article@Visão Geral e Leitura Essencial sobre o Kubernetes](https://thenewstack.io/kubernetes/)
 - [@video@Tutorial - Kubernetes](https://www.youtube.com/watch?v=VnvRFRk_51k&t=1sn)
-- [@feed@Explore top posts about Kubernetes](https://app.daily.dev/tags/kubernetes?ref=roadmapsh)
+- [@feed@Explore os principais posts sobre Kubernetes](https://app.daily.dev/tags/kubernetes?ref=roadmapsh)

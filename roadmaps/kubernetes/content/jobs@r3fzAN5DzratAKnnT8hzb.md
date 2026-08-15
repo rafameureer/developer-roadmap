@@ -1,9 +1,9 @@
 # Jobs
 
-a Job is a controller that manages the execution of a finite task or batch job. Jobs are used to run short-lived tasks, such as batch processing, data analysis, or backups, that run to completion and then terminate. Jobs create one or more pods to run the task, and they monitor the completion status of each pod. If a pod fails or terminates, the Job automatically creates a replacement pod to ensure that the task is completed successfully. Jobs are defined by a YAML file that includes a pod template, completion criteria, and other settings.
+Um Job é um controlador que gerencia a execução de uma tarefa finita ou job em lote. Os Jobs são usados para executar tarefas curtas, como processamento em lote, análise de dados ou backups, que terminam e depois encerram. Os Jobs criam um ou mais pods para executar a tarefa e monitoram o status de conclusão de cada pod. Se um pod falhar ou terminar, o Job cria automaticamente um novo pod substituto para garantir que a tarefa seja concluída com sucesso. Os Jobs são definidos por um arquivo YAML que inclui um modelo de pod, critérios de conclusão e outras configurações.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Jobs Documentation](https://kubernetes.io/docs/concepts/workloads/controllers/job/)
-- [@article@How Kubernetes Is Transforming into a Universal Scheduler](https://thenewstack.io/how-kubernetes-is-transforming-into-a-universal-scheduler/)
-- [@video@Tutorial | Jobs in Kubernetes](https://www.youtube.com/watch?v=j1EnBbxSz64)
+- [@official@Documentação dos Jobs](https://kubernetes.io/docs/concepts/workloads/controllers/job/)
+- [@article@Como Kubernetes Está se Transformando em um Agendador Universal](https://thenewstack.io/how-kubernetes-is-transforming-into-a-universal-scheduler/)
+- [@video@Tutorial | Jobs no Kubernetes](https://www.youtube.com/watch?v=j1EnBbxSz64)

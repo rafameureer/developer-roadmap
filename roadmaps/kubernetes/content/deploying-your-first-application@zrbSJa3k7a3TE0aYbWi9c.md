@@ -1,12 +1,12 @@
-# Deploying your First Application
+# Deployando Sua Primeira Aplicação
 
-To deploy your first application in Kubernetes, you need to create a deployment and service manifest in YAML files, apply the manifests to your Kubernetes cluster using the kubectl apply command, verify that your application's pods are running with kubectl get pods, and test the service with kubectl get services and accessing the service using a web browser or a tool like cURL. There are also various tools and platforms available that can simplify application deployment in Kubernetes, such as Helm charts and Kubernetes operators.
+Para implantar sua primeira aplicação no Kubernetes, você precisa criar um manifesto de implantação e serviço em arquivos YAML, aplicar os manifestos ao seu cluster do Kubernetes usando o comando `kubectl apply`, verificar que os pods da sua aplicação estão em execução com o comando `kubectl get pods` e testar o serviço com o comando `kubectl get services` e acessando o serviço por meio de um navegador ou uma ferramenta como cURL. Existem também várias ferramentas e plataformas disponíveis que podem simplificar a implantação de aplicativos no Kubernetes, como gráficos Helm e operadores do Kubernetes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@Kubernetes Deployment Hands-on Lab](https://kodekloud.com/studio/labs/kubernetes/deployments-stable)
-- [@official@Using kubectl to Create a Deployment](https://kubernetes.io/docs/tutorials/kubernetes-basics/deploy-app/deploy-intro/)
-- [@article@Deploying An Application On Kubernetes From A to Z](https://web.archive.org/web/20230326150953/https://www.weave.works/blog/deploying-an-application-on-kubernetes-from-a-to-z)
-- [@article@Kubernetes 101: Deploy Your First Application with MicroK8s](https://thenewstack.io/kubernetes-101-deploy-your-first-application-with-microk8s/)
-- [@video@Kubernetes Tutorial | Your First Kubernetes Application](https://www.youtube.com/watch?v=Vj6EFnav5Mg)
-- [@video@Kubernetes 101: Deploying Your First Application](https://www.youtube.com/watch?v=XltFOyGanYE)
+- [@curso@Laboratório Prático de Implantação de Aplicativos no Kubernetes](https://kodekloud.com/studio/labs/kubernetes/deployments-stable)
+- [@oficial@Usando kubectl para Criar uma Implantação](https://kubernetes.io/docs/tutorials/kubernetes-basics/deploy-app/deploy-intro/)
+- [@artigo@Implantando Uma Aplicação no Kubernetes De A a Z](https://web.archive.org/web/20230326150953/https://www.weave.works/blog/deploying-an-application-on-kubernetes-from-a-to-z)
+- [@artigo@Kubernetes 101: Implante Sua Primeira Aplicação com MicroK8s](https://thenewstack.io/kubernetes-101-deploy-your-first-application-with-microk8s/)
+- [@vídeo@Tutorial do Kubernetes | Sua Primeira Aplicação no Kubernetes](https://www.youtube.com/watch?v=Vj6EFnav5Mg)
+- [@vídeo@Kubernetes 101: Implante Sua Primeira Aplicação](https://www.youtube.com/watch?v=XltFOyGanYE)

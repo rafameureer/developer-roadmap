@@ -1,8 +1,8 @@
-# Traces
+# Rastreamento
 
-Tracing in Kubernetes involves monitoring the flow of requests through different components of the system, using tools such as Jaeger or Zipkin. OpenTracing and OpenCensus provide a consistent way of capturing traces across different components and applications running on the cluster. Tracing helps identify performance bottlenecks, debug issues, and optimize the system for better performance and scalability. By monitoring traces in Kubernetes, administrators can identify issues and take corrective actions to ensure efficient system performance.
+O rastreamento em Kubernetes envolve monitorar o fluxo de solicitações através dos diferentes componentes do sistema, usando ferramentas como Jaeger ou Zipkin. OpenTracing e OpenCensus fornecem uma maneira consistente de capturar rastreamentos em diferentes componentes e aplicativos em execução no cluster. O rastreamento ajuda a identificar gargalos de desempenho, depurar problemas e otimizar o sistema para melhor desempenho e escalabilidade. Ao monitorar rastreamentos em Kubernetes, os administradores podem identificar problemas e tomar medidas correctivas para garantir o desempenho eficiente do sistema.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Traces For Kubernetes System Components](https://kubernetes.io/docs/concepts/cluster-administration/system-traces/)
-- [@video@Introduction to Tracing](https://www.youtube.com/watch?v=idDu_jXqf4E)
+- [@official@Rastreamento para Componentes do Sistema no Kubernetes](https://kubernetes.io/docs/concepts/cluster-administration/system-traces/)
+- [@video@Introdução ao Rastreamento](https://www.youtube.com/watch?v=idDu_jXqf4E)

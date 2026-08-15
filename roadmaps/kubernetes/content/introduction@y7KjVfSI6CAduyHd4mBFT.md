@@ -1,10 +1,10 @@
-# Kubernetes Introduction
+# Introdução ao Kubernetes
 
-Kubernetes is an open-source container orchestration platform that automates the deployment, scaling, and management of containerized applications. It provides a way to abstract the underlying infrastructure and manage applications at scale, while also offering flexibility, portability, and a rich feature set. Kubernetes has become the de facto standard for container orchestration due to its widespread adoption, active community, and ability to handle complex, multi-tiered applications.
+O Kubernetes é uma plataforma de orquestração de contêineres de código aberto que automatiza o implantação, escala e gerenciamento de aplicativos containerizados. Ele fornece uma maneira de abstrair a infraestrutura subjacente e gerenciar aplicativos em escala, oferecendo também flexibilidade, portabilidade e um conjunto rico de recursos. O Kubernetes se tornou o padrão de fato para orquestração de contêineres devido à sua adoção ampla, comunidade ativa e capacidade de lidar com aplicativos complexos e multi-níveis.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Kubernetes Documentation](https://kubernetes.io/)
-- [@article@Introduction of Kubernetes](https://www.digitalocean.com/community/tutorials/an-introduction-to-kubernetes)
-- [@video@Kubernetes Tutorial for Beginners](https://www.youtube.com/watch?v=X48VuDVv0do)
-- [@feed@Explore top posts about Kubernetes](https://app.daily.dev/tags/kubernetes?ref=roadmapsh)
+- [@oficial@Documentação do Kubernetes](https://kubernetes.io/)
+- [@artigo@Introdução ao Kubernetes](https://www.digitalocean.com/community/tutorials/an-introduction-to-kubernetes)
+- [@vídeo@Tutorial do Kubernetes para Iniciantes](https://www.youtube.com/watch?v=X48VuDVv0do)
+- [@feed@Explore os melhores posts sobre Kubernetes](https://app.daily.dev/tags/kubernetes?ref=roadmapsh)

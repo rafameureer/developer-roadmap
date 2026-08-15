@@ -1,9 +1,9 @@
 # Helm Charts
 
-Helm is a Kubernetes package manager that simplifies the deployment and management of complex applications through the use of reusable and versioned Helm charts. These charts are composed of YAML files that describe related sets of Kubernetes resources and can be customized using values files and templating with Go templates. Helm charts can also have dependencies on other charts and be stored in a centralized repository like Helm Hub for easy sharing and access. By utilizing Helm, teams can streamline application management and reduce duplication of effort.
+O Helm é um gerenciador de pacotes do Kubernetes que simplifica a implantação e gestão de aplicativos complexos através do uso de gráficos Helm reutilizáveis e versados. Esses gráficos são compostos por arquivos YAML que descrevem conjuntos relacionados de recursos do Kubernetes e podem ser personalizados usando arquivos de valores e modelagem com modelos Go. Gráficos Helm também podem ter dependências em outros gráficos e serem armazenados em um repositório centralizado como o Helm Hub para facilitar a compartilhamento e acesso. Ao utilizar o Helm, equipes podem simplificar a gestão de aplicativos e reduzir a duplicação de esforço.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Helm Docs](https://helm.sh/docs/)
-- [@video@What is Helm in Kubernetes? Helm and Helm Charts explained](https://www.youtube.com/watch?v=-ykwb1d0DXU)
-- [@feed@Explore top posts about Helm](https://app.daily.dev/tags/helm?ref=roadmapsh)
+- [@official@Documentação do Helm](https://helm.sh/docs/)
+- [@video@O que é Helm no Kubernetes? Helm e Gráficos Helm explicados](https://www.youtube.com/watch?v=-ykwb1d0DXU)
+- [@feed@Explore as principais postagens sobre Helm](https://app.daily.dev/tags/helm?ref=roadmapsh)

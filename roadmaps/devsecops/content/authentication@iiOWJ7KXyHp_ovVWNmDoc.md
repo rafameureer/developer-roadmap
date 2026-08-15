@@ -1,12 +1,12 @@
-# Authentication
+# Autenticação
 
-Authentication is the process of verifying the identity of a user, device, or application attempting to access a system or resource. It confirms that the entity is who or what it claims to be, typically by requiring them to provide credentials such as a username and password, a digital certificate, or biometric data. Successful authentication grants access based on pre-defined permissions and roles.
+A autenticação é o processo de verificar a identidade de um usuário, dispositivo ou aplicativo tentando acessar um sistema ou recurso. Confirma que a entidade é quem ou o que ela afirma ser, geralmente exigindo que eles fornecam credenciais como nome de usuário e senha, certificado digital ou dados biométricos. Uma autenticação bem-sucedida concede acesso com base em permissões e papéis pré-definidos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Basic Authentication](https://roadmap.sh/guides/basic-authentication)
-- [@article@Session Based Authentication](https://roadmap.sh/guides/session-based-authentication)
-- [@article@Token Based Authentication](https://roadmap.sh/guides/token-authentication)
-- [@article@JWT Authentication](https://roadmap.sh/guides/jwt-authentication)
+- [@article@Autenticação Básica](https://roadmap.sh/guides/basic-authentication)
+- [@article@Autenticação Baseada em Sessão](https://roadmap.sh/guides/session-based-authentication)
+- [@article@Autenticação Baseada em Token](https://roadmap.sh/guides/token-authentication)
+- [@article@Autenticação JWT](https://roadmap.sh/guides/jwt-authentication)
 - [@article@Auth - Open Authorization](https://roadmap.sh/guides/oauth)
 - [@article@SSO - Single Sign On](https://roadmap.sh/guides/sso)

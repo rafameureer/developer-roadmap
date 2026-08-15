@@ -1,10 +1,10 @@
-# Bash Scripting
+# Scripting em Bash
 
-Bash is a command-line interpreter and scripting language commonly used in Linux and macOS environments. It allows users to automate tasks, manage files, and execute programs through a series of commands written in a script. These scripts can range from simple one-liners to complex programs that perform system administration, software deployment, and other essential operations.
+Bash é um interpretador de linha de comando e linguagem de script comumente usada em ambientes Linux e macOS. Ele permite que os usuários automatizem tarefas, gerenciem arquivos e executem programas através de uma série de comandos escritos em um script. Esses scripts podem variar desde linhas simples até programas complexos que realizam administração do sistema, implantação de software e outras operações essenciais.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated Bash Roadmap](https://roadmap.sh/shell-bash)
-- [@article@Interactive Shell Scripting Tutorial](https://www.learnshell.org/en/Welcome)
-- [@video@Bash Scripting Tutorial for Beginners](https://www.youtube.com/watch?v=tK9Oc6AEnR4)
-- [@video@Bash in 100 Seconds](https://www.youtube.com/watch?v=I4EWvMFj37g)
+- [@roadmap@Visite o Caminho Dedidado de Bash](https://roadmap.sh/shell-bash)
+- [@artigo@Tutorial Interativo de Scripting em Shell](https://www.learnshell.org/en/Welcome)
+- [@vídeo@Tutorial de Introdução ao Scripting em Bash para Iniciantes](https://www.youtube.com/watch?v=tK9Oc6AEnR4)
+- [@vídeo@Bash em 100 Segundos](https://www.youtube.com/watch?v=I4EWvMFj37g)

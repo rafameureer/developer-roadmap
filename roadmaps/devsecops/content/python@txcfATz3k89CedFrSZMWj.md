@@ -1,12 +1,12 @@
-# Python in DevSecOps
+# Python em DevSecOps
 
-Python is a versatile programming language known for its readability and extensive libraries. It's used to automate tasks, build tools, and analyze data. Its simple syntax makes it easier to learn and use, while its powerful libraries allow for complex operations. This makes it a valuable asset for automating security tasks, integrating security tools, and analyzing security data within a DevSecOps environment.
+Python é um idioma de programação versátil conhecido por sua legibilidade e bibliotecas extensas. Ele é usado para automatizar tarefas, construir ferramentas e analisar dados. Sua sintaxe simples torna mais fácil aprender e usar, enquanto suas poderosas bibliotecas permitem operações complexas. Isso o torna um ativo valioso para automatizar tarefas de segurança, integrar ferramentas de segurança e analisar dados de segurança em um ambiente DevSecOps.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated Python Roadmap](https://roadmap.sh/python)
-- [@official@Python Website](https://www.python.org/)
+- [@roadmap@Visite a Rota do Python Dedidada](https://roadmap.sh/python)
+- [@official@Site oficial do Python](https://www.python.org/)
 - [@article@Python - Wiki](https://en.wikipedia.org/wiki/Python_(programming_language))
-- [@article@Tutorial Series: How to Code in Python](https://www.digitalocean.com/community/tutorials/how-to-write-your-first-python-3-program)
-- [@article@Google's Python Class](https://developers.google.com/edu/python)
-- [@video@Learn Python - Full Course](https://www.youtube.com/watch?v=4M87qBgpafk)
+- [@article>Série de Tutoriais: Como Codificar em Python](https://www.digitalocean.com/community/tutorials/how-to-write-your-first-python-3-program)
+- [@article@Classe do Google sobre Python](https://developers.google.com/edu/python)
+- [@video@Aprenda o Python - Curso Completo](https://www.youtube.com/watch?v=4M87qBgpafk)

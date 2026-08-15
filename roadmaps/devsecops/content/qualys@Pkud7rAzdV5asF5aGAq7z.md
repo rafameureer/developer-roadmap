@@ -1,11 +1,11 @@
 # Qualys
 
-Qualys is a cloud-based platform that provides a suite of security and compliance solutions. It helps organizations identify vulnerabilities in their IT infrastructure, including servers, applications, and networks. Qualys offers various scanning capabilities, such as vulnerability management, web application scanning, and compliance monitoring, all accessible through a centralized platform.
+Qualys é uma plataforma baseada em nuvem que oferece um conjunto de soluções de segurança e conformidade. Ele ajuda as organizações a identificar vulnerabilidades na sua infraestrutura de TI, incluindo servidores, aplicativos e redes. Qualys oferece várias capacidades de escaneamento, como gerenciamento de vulnerabilidades, escaneamento de aplicativos web e monitoramento de conformidade, todos acessíveis através de uma plataforma centralizada.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Qualys](https://www.qualys.com/)
-- [@official@Qualys VMDR Getting Started Guide](https://docs.qualys.com/en/vmdr/getting-started-guide/vmdr/getting_started_guide.htm)
-- [@official@Training Videos](https://docs.qualys.com/en/pm/latest/other_resources/training_videos.htm)
-- [@video@Learn Qualys Vulnerability Management (Home Lab)](https://www.youtube.com/watch?v=l5At5WDj7v0&t=90s)
-- [@video@Qualys File Integrity Monitoring (FIM) Overview](https://www.youtube.com/watch?v=533YWyWk8X8&list=PL86wiCAX5vmQIninZod7FzuGBWVbb0vFv)
+- [@official@Guia de Introdução ao VMDR do Qualys](https://docs.qualys.com/en/vmdr/getting-started-guide/vmdr/getting_started_guide.htm)
+- [@official@Vídeos de Treinamento](https://docs.qualys.com/en/pm/latest/other_resources/training_videos.htm)
+- [@video@Aprenda o Gerenciamento de Vulnerabilidades do Qualys (Laboratório em Casa)](https://www.youtube.com/watch?v=l5At5WDj7v0&t=90s)
+- [@video@Visão Geral da Monitoramento de Integridade de Arquivos do Qualys (FIM)](https://www.youtube.com/watch?v=533YWyWk8X8&list=PL86wiCAX5vmQIninZod7FzuGBWVbb0vFv)

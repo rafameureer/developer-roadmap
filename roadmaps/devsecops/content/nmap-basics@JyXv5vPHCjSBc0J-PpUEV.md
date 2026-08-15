@@ -1,10 +1,10 @@
-# Nmap Basics
+# Básicos do Nmap
 
-Nmap (Network Mapper) is a free and open-source utility used for network discovery and security auditing. It's used to discover hosts and services on a computer network by sending packets and analyzing the responses. Nmap provides information about host availability, operating systems, firewall status, and other network characteristics.
+O Nmap (Network Mapper) é uma ferramenta de código aberto e gratuito usada para descoberta de redes e auditoria de segurança. Ele é usado para descobrir hosts e serviços em uma rede de computadores enviando pacotes e analisando as respostas. O Nmap fornece informações sobre a disponibilidade do host, o sistema operacional, o status do firewall e outras características da rede.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@NMAP](https://nmap.org/)
-- [@article@NMAP Cheat Sheet](https://www.tutorialspoint.com/nmap-cheat-sheet)
-- [@video@Nmap Tutorial to find Network Vulnerabilities](https://www.youtube.com/watch?v=4t4kBkMsDbQ)
-- [@video@NMAP Full Guide (You will never ask about NMAP again)](https://www.youtube.com/watch?v=JHAMj2vN2oU&t=33s)
+- [@oficial@NMAP](https://nmap.org/)
+- [@artigo@Folha de Dicas do NMAP](https://www.tutorialspoint.com/nmap-cheat-sheet)
+- [@vídeo@Tutorial do NMAP para encontrar vulnerabilidades na rede](https://www.youtube.com/watch?v=4t4kBkMsDbQ)
+- [@vídeo@Guia Completo do NMAP (Você nunca mais perguntará sobre o NMAP)](https://www.youtube.com/watch?v=JHAMj2vN2oU&t=33s)

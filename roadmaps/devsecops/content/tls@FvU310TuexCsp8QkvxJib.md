@@ -1,10 +1,10 @@
 # TLS
 
-TLS (Transport Layer Security) is a protocol that provides privacy and data integrity between two communicating applications. It's the successor to SSL (Secure Sockets Layer) and is used to encrypt the communication between a client (like a web browser) and a server, ensuring that data transmitted between them remains confidential and tamper-proof. TLS uses cryptographic algorithms to encrypt data, authenticate the server (and optionally the client), and ensure the integrity of the data being transmitted.
+TLS (Transport Layer Security) é um protocolo que fornece privacidade e integridade de dados entre duas aplicações em comunicação. É o sucessor do SSL (Secure Sockets Layer) e é usado para criptografar a comunicação entre um cliente (como um navegador da web) e um servidor, garantindo que os dados transmitidos entre eles permaneçam confidenciais e imunes à alteração. TLS usa algoritmos criptográficos para criptografar dados, autenticar o servidor (e opcionalmente o cliente) e garantir a integridade dos dados sendo transmitidos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is TLS & How Does it Work? - Internet Society](https://www.internetsociety.org/deploy360/tls/basics/)
-- [@article@What is TLS (Transport Layer Security)? - Cloudflare](https://www.cloudflare.com/learning/ssl/transport-layer-security-tls/)
-- [@video@SSL and HTTPS](https://www.youtube.com/watch?v=S2iBR2ZlZf0)
-- [@video@SSL/TLS - Cristina Formaini](https://www.youtube.com/watch?v=Rp3iZUvXWlM)
+- [@artigo@O que é TLS & Como Funciona? - Internet Society](https://www.internetsociety.org/deploy360/tls/basics/)
+- [@artigo@O que é TLS (Transport Layer Security)? - Cloudflare](https://www.cloudflare.com/learning/ssl/transport-layer-security-tls/)
+- [@vídeo@SSL e HTTPS](https://www.youtube.com/watch?v=S2iBR2ZlZf0)
+- [@vídeo@SSL/TLS - Cristina Formaini](https://www.youtube.com/watch?v=Rp3iZUvXWlM)

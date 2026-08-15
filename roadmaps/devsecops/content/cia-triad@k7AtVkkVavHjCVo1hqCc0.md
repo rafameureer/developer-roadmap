@@ -1,8 +1,8 @@
-# CIA Triad
+# Triângulo CIA
 
-The CIA Triad is a model designed to guide security policies for organizations. It consists of three fundamental principles: Confidentiality, ensuring that information is accessible only to authorized individuals; Integrity, maintaining the accuracy and completeness of data; and Availability, guaranteeing that authorized users have reliable access to information and resources when needed.
+O Triângulo CIA é um modelo projetado para guiar as políticas de segurança para organizações. Ele consiste em três princípios fundamentais: Confidencialidade, garantindo que a informação seja acessível apenas a indivíduos autorizados; Integridade, mantendo a precisão e a completude dos dados; e Disponibilidade, garantindo que os usuários autorizados tenham acesso confiável aos dados e recursos quando necessário.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@The CIA Triad](https://www.fortinet.com/resources/cyberglossary/cia-triad)
-- [@video@The CIA Triad - Professor Messer](https://www.youtube.com/watch?v=SBcDGb9l6yo)
+- [@artigo@O Triângulo CIA](https://www.fortinet.com/resources/cyberglossary/cia-triad)
+- [@vídeo@O Triângulo CIA - Professor Messer](https://www.youtube.com/watch?v=SBcDGb9l6yo)

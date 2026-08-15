@@ -1,9 +1,9 @@
-# Networking Basics
+# Básicos da Networking
 
-Networking involves understanding how devices communicate with each other over a network. This includes concepts like IP addresses, which uniquely identify devices; protocols like TCP/IP, which govern data transmission; and network topologies, which describe the physical or logical arrangement of network components. Understanding these fundamentals is crucial for configuring, troubleshooting, and securing network infrastructure.
+A networking envolve entender como os dispositivos se comunicam uns com os outros em uma rede. Isso inclui conceitos como endereços IP, que identificam exclusivamente os dispositivos; protocolos como TCP/IP, que governam a transmissão de dados; e topologias de rede, que descrevem a disposição física ou lógica dos componentes da rede. Entender essas fundamentais é crucial para configurar, diagnosticar e proteger a infraestrutura de rede.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Khan Academy - Networking](ttps://www.khanacademy.org/computing/code-org/computers-and-the-internet)
-- [@video@Computer Networking Course - Network Engineering](https://www.youtube.com/watch?v=qiQR5rTSshw)
-- [@video@Networking Video Series (21 videos)](https://www.youtube.com/playlist?list=PLEbnTDJUr_IegfoqO4iPnPYQui46QqT0j)
+- [@artigo@Khan Academy - Networking](ttps://www.khanacademy.org/computing/code-org/computers-and-the-internet)
+- [@vídeo@Curso de Networking - Engenharia da Rede](https://www.youtube.com/watch?v=qiQR5rTSshw)
+- [@vídeo>Séries de Vídeos de Networking (21 vídeos)](https://www.youtube.com/playlist?list=PLEbnTDJUr_IegfoqO4iPnPYQui46QqT0j)

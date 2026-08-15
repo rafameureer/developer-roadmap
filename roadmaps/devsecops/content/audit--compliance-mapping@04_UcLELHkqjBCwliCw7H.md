@@ -1,3 +1,3 @@
-# Audit & Compliance Mapping
+# Mapeamento de Auditoria e Conformidade
 
-Audit & Compliance Mapping involves aligning an organization's security controls and practices with relevant regulatory requirements, industry standards, and internal policies. This process identifies which controls satisfy specific compliance obligations, creating a clear relationship between security efforts and the necessary frameworks for legal and operational adherence. The goal is to demonstrate that the organization is meeting its obligations and to streamline the audit process by providing a structured view of compliance.
+O mapeamento de auditoria e conformidade envolve alinhar os controles e práticas de segurança da organização com as exigências regulatórias relevantes, padrões indústriais e políticas internas. Esse processo identifica quais controles atendem às obrigações específicas de conformidade, criando uma relação clara entre esforços de segurança e os quadros necessários para a aderência legal e operacional. O objetivo é demonstrar que a organização está cumprindo suas obrigações e simplificar o processo de auditoria fornecendo uma visão estruturada da conformidade.

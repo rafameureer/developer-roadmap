@@ -1,13 +1,13 @@
-# Text Editors: Vim, Nano, and Emacs
+# Editores de Texto: Vim, Nano e Emacs
 
-Vim, Nano, and Emacs are text editors used for creating, viewing, and modifying files, particularly configuration files and code. They provide different interfaces and functionalities, ranging from simple, beginner-friendly options to highly customizable and powerful environments for advanced users. These editors are essential tools for interacting with systems and automating tasks through scripting.
+Vim, Nano e Emacs são editores de texto usados para criar, visualizar e modificar arquivos, especialmente arquivos de configuração e código. Eles oferecem diferentes interfaces e funcionalidades, variando desde opções simples e amigáveis para iniciantes até ambientes altamente personalizáveis e poderosos para usuários avançados. Esses editores são ferramentas essenciais para interagir com sistemas e automatizar tarefas através de scripts.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Vim](https://www.vim.org)
-- [@official@GNU Nano](https://www.nano-editor.org/)
-- [@official@GNU Emacs](https://www.gnu.org/software/emacs/)
-- [@book@Practical Vim 2nd Edition](https://dokumen.pub/practical-vim-2nd-edition-2nd-edition-9781680501278.html)
-- [@video@Vim Tutorial for Beginners](https://www.youtube.com/watch?v=RZ4p-saaQkc)
-- [@video@Linux Crash Course - nano](https://www.youtube.com/watch?v=DLeATFgGM-A)
-- [@video@The Absolute Beginner's Guide to Emacs](https://www.youtube.com/watch?v=48JlgiBpw_I)
+- [@oficial@Vim](https://www.vim.org)
+- [@oficial@GNU Nano](https://www.nano-editor.org/)
+- [@oficial@GNU Emacs](https://www.gnu.org/software/emacs/)
+- [@livro@Practical Vim 2nd Edition](https://dokumen.pub/practical-vim-2nd-edition-2nd-edition-9781680501278.html)
+- [@vídeo@Tutorial de Iniciantes em Vim](https://www.youtube.com/watch?v=RZ4p-saaQkc)
+- [@vídeo@Curso rápido do Linux - nano](https://www.youtube.com/watch?v=DLeATFgGM-A)
+- [@vídeo@Guia Absoluto para iniciantes no Emacs](https://www.youtube.com/watch?v=48JlgiBpw_I)

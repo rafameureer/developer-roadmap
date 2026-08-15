@@ -1,10 +1,10 @@
-# Wireshark Basics
+# Básicos do Wireshark
 
-Wireshark is a free and open-source packet analyzer. It captures network traffic in real-time and allows you to examine the data transmitted across a network. It can be used to troubleshoot network problems, analyze network protocols, examine security issues, and learn about network communication. Wireshark decodes the raw network data into a human-readable format, making it easier to understand the information being transmitted.
+Wireshark é um analisador de pacotes gratuito e de código aberto. Ele captura o tráfego de rede em tempo real e permite que você examine os dados transmitidos em uma rede. Pode ser usado para solucionar problemas de rede, analisar protocolos de rede, examinar questões de segurança e aprender sobre a comunicação de rede. O Wireshark decodifica os dados de rede brutos em um formato legível pelo usuário, tornando mais fácil entender as informações sendo transmitidas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Wireshark](https://www.wireshark.org/))
-- [@article@How to Use Wireshark: Comprehensive Tutorial + Tips](https://www.varonis.com/blog/how-to-use-wireshark))
-- [@video@How to use Wireshark](https://www.youtube.com/watch?v=zWoHJ3oGRGY))
-- [@video@Wireshark Tutorial for BEGINNERS || How to Capture Network Traffic || Skilled Inspirational Academy](https://www.youtube.com/watch?v=byL8VMEMC0M&list=PL_o0Qzu-8MKhg6co37kssx6lRdQ4o1YpX)
+- [@oficial@Wireshark](https://www.wireshark.org/))
+- [@artigo@Como usar o Wireshark: Tutorial Completo + Dicas](https://www.varonis.com/blog/how-to-use-wireshark))
+- [@vídeo@Como usar o Wireshark](https://www.youtube.com/watch?v=zWoHJ3oGRGY))
+- [@vídeo@Tutorial do Wireshark para INÍCIO || Como capturar tráfego de rede || Academia Inspiradora Competente](https://www.youtube.com/watch?v=byL8VMEMC0M&list=PL_o0Qzu-8MKhg6co37kssx6lRdQ4o1YpX)

@@ -1,10 +1,10 @@
-# Multi-Region Security Planning
+# Planejamento de Segurança Multi-região
 
-Multi-Region Security Planning involves designing and implementing security measures across multiple geographical locations where an application or service is deployed. This includes considering factors like data residency requirements, regional compliance regulations, and the potential for geographically isolated failures or attacks. The goal is to ensure consistent security posture and resilience, regardless of the region, while also optimizing for performance and cost.
+O Planejamento de Segurança Multi-região envolve o design e a implementação de medidas de segurança em várias localizações geográficas onde um aplicativo ou serviço é implantado. Isso inclui considerar fatores como requisitos de residência dos dados, regulamentos de conformidade regionais e a possibilidade de falhas ou ataques isolados geograficamente. O objetivo é garantir uma postura de segurança consistente e resiliência, independentemente da região, enquanto também otimiza para desempenho e custo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@7 Reasons to Have a Multi-Region Application Architecture](https://controlplane.com/community-blog/post/multi-region-application-architecture)
-- [@article@Day 9 : System Design concept : Multi-Region Deployment](https://medium.com/@shivanimutke2501/multi-region-deployments-3ea97c59d326)
-- [@article@How to build a multi-Region AWS Security Hub analytic pipeline and visualize Security Hub data](https://aws.amazon.com/blogs/security/how-to-build-a-multi-region-aws-security-hub-analytic-pipeline/)
-- [@video@AWS re:Invent 2022 - Global security at maximum velocity: Multi-Region and hybrid DevSecOps (PRT090)](https://www.youtube.com/watch?v=l3jLJq8bt1E)
+- [@artigo@7 Razões para ter uma Arquitetura de Aplicativo Multi-região](https://controlplane.com/community-blog/post/multi-region-application-architecture)
+- [@artigo@Dia 9 : Conceito de Design de Sistema : Implantação Multi-região](https://medium.com/@shivanimutke2501/multi-region-deployments-3ea97c59d326)
+- [@artigo@Como construir um pipeline analítico do Security Hub multi-região no AWS e visualizar dados do Security Hub](https://aws.amazon.com/blogs/security/how-to-build-a-multi-region-aws-security-hub-analytic-pipeline/)
+- [@vídeo@AWS re:Invent 2022 - Segurança Global em Máxima Velocidade: Multi-região e DevSecOps Híbrido (PRT090)](https://www.youtube.com/watch?v=l3jLJq8bt1E)

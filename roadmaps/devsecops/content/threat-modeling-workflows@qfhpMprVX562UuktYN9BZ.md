@@ -1,9 +1,9 @@
-# Threat Modeling Workflows
+# Fluxos de Modelagem de Ameaças
 
-Threat modeling workflows are structured, repeatable processes used to identify, assess, and mitigate potential security threats in a system or application. These workflows typically involve defining the system's scope, decomposing it into components, identifying potential threats and vulnerabilities, prioritizing those threats based on risk, and then developing and implementing mitigation strategies. The goal is to proactively address security concerns throughout the development lifecycle.
+Fluxos de modelagem de ameaças são processos estruturados e repetíveis usados para identificar, avaliar e mitigar potenciais ameaças de segurança em um sistema ou aplicativo. Esses fluxos geralmente envolvem definir o escopo do sistema, descompondo-o em componentes, identificando potenciais ameaças e vulnerabilidades, priorizando essas ameaças com base no risco e, em seguida, desenvolvendo e implementando estratégias de mitigação. O objetivo é abordar proativamente preocupações de segurança ao longo do ciclo de vida da construção.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Threat Modeling Process](https://owasp.org/www-community/Threat_Modeling_Process)
-- [@article@Top 12 Threat Modeling Methodologies and Techniques](https://www.securitycompass.com/blog/top-12-threat-modeling-methodologies-techniques/)
-- [@article@Best Practices in the Threat Modeling Process](https://blog.secureflag.com/2025/04/03/threat-modeling-process/)
+- [@artigo@Processo de Modelagem de Ameaças](https://owasp.org/www-community/Threat_Modeling_Process)
+- [@artigo@As 12 Melhores Metodologias e Técnicas de Modelagem de Ameaças](https://www.securitycompass.com/blog/top-12-threat-modeling-methodologies-techniques/)
+- [@artigo@Melhores Práticas no Processo de Modelagem de Ameaças](https://blog.secureflag.com/2025/04/03/threat-modeling-process/)

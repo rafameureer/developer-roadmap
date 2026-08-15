@@ -1,8 +1,8 @@
-# Cloud Security
+# Segurança na Nuvem
 
-Cloud security encompasses the policies, technologies, software, and practices that protect cloud-based systems, data, and infrastructure. It addresses the unique security challenges presented by cloud computing, such as shared responsibility models, data residency, and the dynamic nature of cloud environments. Effective cloud security strategies aim to maintain confidentiality, integrity, and availability of cloud resources while mitigating risks like data breaches, unauthorized access, and denial-of-service attacks.
+A segurança na nuvem abrange as políticas, tecnologias, softwares e práticas que protegem sistemas, dados e infraestrutura baseados em nuvem. Ela aborda os desafios de segurança únicos apresentados pelo computador em nuvem, como modelos de responsabilidade compartilhada, residência dos dados e a natureza dinâmica do ambiente da nuvem. Estratégias eficazes de segurança na nuvem visam manter a confidencialidade, integridade e disponibilidade dos recursos da nuvem enquanto mitigam riscos como fuga de dados, acesso não autorizado e ataques de negação de serviço.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is cloud security?](https://www.ibm.com/think/topics/cloud-security)
-- [@article@What is Cloud Security? Essential Tools, Best Practices and Strategies](https://www.crowdstrike.com/en-us/cybersecurity-101/cloud-security/)
+- [@artigo@O que é segurança na nuvem?](https://www.ibm.com/think/topics/cloud-security)
+- [@artigo@O que é Segurança na Nuvem? Ferramentas Essenciais, Melhores Práticas e Estratégias](https://www.crowdstrike.com/en-us/cybersecurity-101/cloud-security/)

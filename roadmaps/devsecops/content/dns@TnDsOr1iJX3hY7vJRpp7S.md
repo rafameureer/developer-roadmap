@@ -1,11 +1,11 @@
 # DNS
 
-DNS, or Domain Name System, is essentially the phonebook of the internet. It translates human-readable domain names, like "example.com," into IP addresses, like "192.0.2.1," which computers use to identify each other on the network. Without DNS, we'd have to remember and type in these numerical IP addresses every time we wanted to visit a website.
+O DNS, ou Sistema de Nomes de Domínio, é essencialmente o caderno telefônico da internet. Ele traduz nomes de domínios humanamente legíveis, como "example.com", em endereços IP numéricos, como "192.0.2.1", que os computadores usam para se identificar na rede. Sem o DNS, teríamos que lembrar e digitar esses endereços IP numéricos a cada vez que quisermos visitar um site.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is DNS?](https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/)
-- [@article@Mess with DNS - DNS Playground](https://messwithdns.net/)
-- [@article@How DNS works (comic)](https://howdns.works/)
-- [@video@DNS and How does it Work?](](https://www.youtube.com/watch?v=Wj0od2ag5sk)
-- [@feed@Explore top posts about DNS](https://app.daily.dev/tags/dns?ref=roadmapsh)
+- [@artigo@O que é DNS?](https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/)
+- [@artigo@Manipule o DNS - DNS Playground](https://messwithdns.net/)
+- [@artigo@Como funciona o DNS (quadrinhos)](https://howdns.works/)
+- [@vídeo@DNS e Como Ele Funciona?](https://www.youtube.com/watch?v=Wj0od2ag5sk)
+- [@feed@Explore as principais postagens sobre DNS](https://app.daily.dev/tags/dns?ref=roadmapsh)

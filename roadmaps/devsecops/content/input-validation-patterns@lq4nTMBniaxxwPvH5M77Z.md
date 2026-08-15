@@ -1,9 +1,9 @@
-# Input Validation Patterns
+# Padrões de Validação de Entrada
 
-Input validation patterns are techniques used to ensure that data entered into an application conforms to expected formats and values. These patterns involve checking the length, type, format, and range of user-supplied data before it's processed by the application. By implementing these patterns, developers can prevent malicious or malformed data from causing errors, security vulnerabilities, or unexpected behavior within the system.
+Os padrões de validação de entrada são técnicas usadas para garantir que os dados inseridos em um aplicativo estejam em conformidade com formatos e valores esperados. Esses padrões envolvem verificar a comprimento, o tipo, o formato e o intervalo dos dados fornecidos pelo usuário antes de serem processados pelo aplicativo. Ao implementar esses padrões, os desenvolvedores podem prevenir dados maliciosos ou mal formados de causar erros, vulnerabilidades de segurança ou comportamentos inesperados no sistema.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Input Validation Cheat Sheet¶](https://cheatsheetseries.owasp.org/cheatsheets/Input_Validation_Cheat_Sheet.html)
-- [@article@Input Validation Using Design Patterns](https://medium.com/henrydchan/input-validation-using-design-patterns-9d7b96f87702)
-- [@article@Regular Expressions and Input Validation](https://blog.openreplay.com/regular-expressions-and-input-validations/)
+- [@artigo@Guia Rápido de Validação de Entrada¶](https://cheatsheetseries.owasp.org/cheatsheets/Input_Validation_Cheat_Sheet.html)
+- [@artigo@Validação de Entrada Usando Padrões de Design](https://medium.com/henrydchan/input-validation-using-design-patterns-9d7b96f87702)
+- [@artigo@Expressões Regulares e Validação de Entrada](https://blog.openreplay.com/regular-expressions-and-input-validations/)

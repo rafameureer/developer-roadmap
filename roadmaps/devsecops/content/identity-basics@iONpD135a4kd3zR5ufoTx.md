@@ -1,7 +1,7 @@
-# Identity Basics
+# Básicos de Identidade
 
-Identity basics involve establishing and managing digital identities for users, applications, and services within a system. This includes processes for authentication (verifying who someone is) and authorization (determining what they are allowed to access). Effective identity management ensures that only authorized entities can access specific resources, maintaining security and control over sensitive data and functionalities.
+Os fundamentos da identidade envolvem a estabelecimento e gerenciamento de identidades digitais para usuários, aplicativos e serviços em um sistema. Isso inclui processos de autenticação (verificar quem é alguém) e autorização (determinar o que eles têm permissão de acessar). A gestão eficaz da identidade garante que apenas entidades autorizadas possam acessar recursos específicos, mantendo a segurança e o controle sobre dados e funcionalidades sensíveis.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is identity and access management (IAM)?](https://www.microsoft.com/en-us/security/business/security-101/what-is-identity-access-management-iam)
+- [@artigo@O que é gerenciamento de identidade e acesso (IAM)?](https://www.microsoft.com/en-us/security/business/security-101/what-is-identity-access-management-iam)

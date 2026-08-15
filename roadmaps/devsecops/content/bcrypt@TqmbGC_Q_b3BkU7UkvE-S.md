@@ -1,10 +1,10 @@
 # bcrypt
 
-bcrypt is a password-hashing function designed to be computationally intensive and resistant to brute-force attacks. It incorporates a salt to protect against rainbow table attacks and uses an adaptive hashing algorithm, meaning the computational cost can be increased over time to keep pace with advancements in computing power. This makes it a strong choice for securely storing user passwords.
+bcrypt é uma função de hash de senha projetada para ser intensiva em cálculos computacionais e resistente a ataques de força bruta. Ele incorpora um salto para proteger contra ataques de tabela de arco-íris e usa um algoritmo de hashing adaptativo, o que significa que o custo computacional pode ser aumentado ao longo do tempo para acompanhar as avanços na potência de processamento. Isso o torna uma escolha forte para armazenar senhas de usuários com segurança.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Hashing in Action: Understanding bcrypt](https://auth0.com/blog/hashing-in-action-understanding-bcrypt/)
-- [@article@Password Hashing using bcrypt](https://medium.com/@bhupendra_Maurya/password-hashing-using-bcrypt-e36f5c655e09)
-- [@article@BCrypt Explained](https://dev.to/sylviapap/bcrypt-explained-4k5c)
-- [@video@Password Storage Tier List: encryption, hashing, salting, bcrypt, and beyond](https://www.youtube.com/watch?v=qgpsIBLvrGY)
+- [@artigo@Hashing em Ação: Entendendo bcrypt](https://auth0.com/blog/hashing-in-action-understanding-bcrypt/)
+- [@artigo@Criptografia de Senha usando bcrypt](https://medium.com/@bhupendra_Maurya/password-hashing-using-bcrypt-e36f5c655e09)
+- [@artigo@Expliquei o bcrypt](https://dev.to/sylviapap/bcrypt-explained-4k5c)
+- [@vídeo@Lista de Níveis de Armazenamento de Senhas: criptografia, hash, salting, bcrypt e mais](https://www.youtube.com/watch?v=qgpsIBLvrGY)

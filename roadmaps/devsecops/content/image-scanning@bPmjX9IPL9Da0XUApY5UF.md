@@ -1,9 +1,9 @@
-# Image Scanning
+# Escaneio de Imagens
 
-Image scanning is the process of analyzing container images for known vulnerabilities, malware, and configuration issues. It involves examining the layers of the image, including the operating system, installed packages, and application code, against vulnerability databases and security policies. This helps identify potential risks before the image is deployed, ensuring a more secure container environment.
+O escaneio de imagens é o processo de analisar imagens de contêineres em busca de vulnerabilidades conhecidas, malware e problemas de configuração. Involves examinar as camadas da imagem, incluindo o sistema operacional, pacotes instalados e código de aplicativos, contra bancos de dados de vulnerabilidades e políticas de segurança. Isso ajuda a identificar riscos potenciais antes que a imagem seja implantada, garantindo um ambiente de contêiner mais seguro.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@12 container image scanning best practices](https://www.sysdig.com/learn-cloud-native/12-container-image-scanning-best-practices)
-- [@article@OWASP DevSecOps Guideline - v-0.2](https://owasp.org/www-project-devsecops-guideline/latest/02f-Container-Vulnerability-Scanning)
-- [@article@Top 10 Container Scanning Tools for 2026](https://www.jit.io/resources/appsec-tools/container-scanning-tools-for-2023)
+- [@artigo@12 melhores práticas de escaneio de imagens de contêiner](https://www.sysdig.com/learn-cloud-native/12-container-image-scanning-best-practices)
+- [@artigo@OWASP DevSecOps Guideline - v-0.2](https://owasp.org/www-project-devsecops-guideline/latest/02f-Container-Vulnerability-Scanning)
+- [@artigo@Top 10 Ferramentas de Escaneio de Imagens de Contêiner para 2026](https://www.jit.io/resources/appsec-tools/container-scanning-tools-for-2023)

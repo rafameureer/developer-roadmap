@@ -1,10 +1,10 @@
-# Threat Modeling
+# Modelagem de Ameaças
 
-Threat modeling is a structured process for identifying, evaluating, and mitigating potential security threats and vulnerabilities in a system or application. It involves understanding the system's architecture, identifying potential attackers and their motives, and analyzing the possible attack vectors they might use to compromise the system. The goal is to proactively identify weaknesses and design security controls to reduce the risk of successful attacks.
+A modelagem de ameaças é um processo estruturado para identificar, avaliar e mitigar potenciais ameaças de segurança e vulnerabilidades em um sistema ou aplicativo. Envolve entender a arquitetura do sistema, identificar possíveis atacantes e seus motivos, e analisar os vetores de ataque possíveis que eles podem usar para comprometer o sistema. O objetivo é identificar proativamente fraquezas e projetar controles de segurança para reduzir o risco de ataques bem-sucedidos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What Is Threat Modeling?](https://www.cisco.com/site/us/en/learn/topics/security/what-is-threat-modeling.html)
-- [@article@Threat Modeling](https://owasp.org/www-community/Threat_Modeling)
-- [@article@Threat Modeling Process](https://owasp.org/www-community/Threat_Modeling_Process)
-- [@video@1. Introduction, Threat Models](https://www.youtube.com/watch?v=GqmQg-cszw4)
+- [@artigo@O que é Modelagem de Ameaças?](https://www.cisco.com/site/us/en/learn/topics/security/what-is-threat-modeling.html)
+- [@artigo@Modelagem de Ameaças](https://owasp.org/www-community/Threat_Modeling)
+- [@artigo@Processo de Modelagem de Ameaças](https://owasp.org/www-community/Threat_Modeling_Process)
+- [@vídeo@1. Introdução, Modelos de Ameaça](https://www.youtube.com/watch?v=GqmQg-cszw4)

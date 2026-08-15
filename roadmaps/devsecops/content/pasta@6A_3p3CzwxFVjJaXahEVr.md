@@ -1,9 +1,9 @@
 # PASTA
 
-PASTA (Process for Attack Simulation and Threat Analysis) is a risk-centric threat modeling methodology. It focuses on aligning security with business objectives by understanding the potential impact of threats on the organization's goals. It involves a seven-stage process that includes defining objectives, technical risk analysis, application decomposition, threat analysis, vulnerability analysis, attack modeling, and risk & impact analysis.
+PASTA (Processo de Simulação de Ataque e Análise de Ameaça) é uma metodologia centrada em riscos de modelagem de ameaças. Ele se concentra em alinhar a segurança com os objetivos do negócio entendendo o impacto potencial das ameaças na meta da organização. Involves um processo de sete etapas que incluem definir objetivos, análise técnica de risco, descomposição de aplicativos, análise de ameaça, análise de vulnerabilidade, modelagem de ataque e análise de riscos & impacto.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@PASTA Threat Modeling](https://threat-modeling.com/pasta-threat-modeling/)
-- [@article@Process for Attack Simulation & Threat Analysis](https://cdn2.hubspot.net/hubfs/4598121/Content%20PDFs/VerSprite-PASTA-Threat-Modeling-Process-for-Attack-Simulation-Threat-Analysis.pdf)
-- [@video@PASTA Threat Modeling for Cybersecurity | Threat Modeling Example](https://www.youtube.com/watch?v=s21aI-jqIVM&t=144s)
+- [@article@Modelagem de Ameaças PASTA](https://threat-modeling.com/pasta-threat-modeling/)
+- [@article@Processo de Simulação de Ataque & Análise de Ameaça](https://cdn2.hubspot.net/hubfs/4598121/Content%20PDFs/VerSprite-PASTA-Threat-Modeling-Process-for-Attack-Simulation-Threat-Analysis.pdf)
+- [@video@Modelagem de Ameaças PASTA para Segurança Cibernética | Exemplo de Modelagem de Ameaça](https://www.youtube.com/watch?v=s21aI-jqIVM&t=144s)

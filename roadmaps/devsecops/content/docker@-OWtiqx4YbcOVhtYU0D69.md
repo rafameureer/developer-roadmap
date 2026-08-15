@@ -1,9 +1,9 @@
-# Docker Security
+# Segurança do Docker
 
-Docker security entails protecting your applications and data within Docker containers. Because containers share the host operating system's kernel, vulnerabilities in the kernel or container configurations can be exploited. Securing Docker involves practices like using minimal base images, regularly scanning images for vulnerabilities, implementing strong access controls, and properly configuring Docker daemon settings to prevent unauthorized access and ensure isolation.
+A segurança do Docker envolve proteger suas aplicações e dados dentro de contêineres Docker. Como os contêineres compartilham o kernel do sistema operacional anfitrião, vulnerabilidades no kernel ou nas configurações dos contêineres podem ser exploradas. Segurar o Docker envolve práticas como usar imagens base mínimas, escanear regularmente as imagens em busca de vulnerabilidades, implementar controles de acesso fortes e configurar adequadamente as opções do daemon Docker para prevenir o acesso não autorizado e garantir a isolamento.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated Docker Roadmap](https://roadmap.sh/docker)
-- [@official@Docker Security](https://docs.docker.com/engine/security/)
-- [@article@Kubernetes Security Best Practices](https://www.aquasec.com/cloud-native-academy/kubernetes-in-production/kubernetes-security-best-practices-10-steps-to-securing-k8s/)
+- [@roadmap@Visite o Caminho Dedidado do Docker](https://roadmap.sh/docker)
+- [@official@Segurança do Docker](https://docs.docker.com/engine/security/)
+- [@article@Melhores Práticas de Segurança do Kubernetes](https://www.aquasec.com/cloud-native-academy/kubernetes-in-production/kubernetes-security-best-practices-10-steps-to-securing-k8s/)

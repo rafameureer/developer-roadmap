@@ -1,10 +1,10 @@
-# Secure API Design
+# Design Seguro de API
 
-Secure API design focuses on building application programming interfaces (APIs) that are resilient to attacks and protect sensitive data. This involves implementing security measures throughout the API lifecycle, from initial design and development to deployment and maintenance. Key considerations include authentication, authorization, input validation, encryption, and rate limiting to prevent unauthorized access, data breaches, and other security vulnerabilities.
+O design seguro de API se concentra em construir interfaces de programação de aplicativos (APIs) que são resistentes a ataques e protegem dados sensíveis. Isso envolve implementar medidas de segurança ao longo do ciclo de vida da API, desde o design inicial e desenvolvimento até a implantação e manutenção. Considerações-chave incluem autenticação, autorização, validação de entrada, criptografia e limitação de taxa para prevenir acesso não autorizado, violações de dados e outras vulnerabilidades de segurança.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated API Design Roadmap](https://roadmap.sh/api-design)
-- [@roadmap@API Security Best Practices](https://roadmap.sh/api-security-best-practices)
-- [@article@OWASP Project API Security](https://owasp.org/API-Security/editions/2023/en/0x00-toc/)
-- [@video@API Security Fundamentals – Course for Beginners](https://www.youtube.com/watch?v=R-4_DbV1Su4)
+- [@roadmap@Visite o Caminho Dedidado de Design de API](https://roadmap.sh/api-design)
+- [@roadmap@Melhores práticas de segurança de API](https://roadmap.sh/api-security-best-practices)
+- [@article@Projeto OWASP API Security](https://owasp.org/API-Security/editions/2023/en/0x00-toc/)
+- [@video@Fundamentos de Segurança de API – Curso para iniciantes](https://www.youtube.com/watch?v=R-4_DbV1Su4)

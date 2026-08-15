@@ -1,10 +1,10 @@
-# Incident Response
+# Resposta a Incidentes
 
-Incident Response is the structured approach an organization takes to address and manage the aftermath of a security breach or cyberattack. It involves identifying, analyzing, containing, eradicating, and recovering from incidents to minimize damage and reduce recovery time and costs. The goal is to restore normal operations as quickly and efficiently as possible while preventing similar incidents from occurring in the future.
+A Resposta a Incidentes é o abordagem estruturada que uma organização adota para lidar e gerenciar as consequências de um acidente de segurança ou ataque cibernético. Involves identificar, analisar, contornar, eliminar e recuperar dos incidentes para minimizar os danos e reduzir o tempo e custos de recuperação. O objetivo é restaurar as operações normais o mais rápido e eficientemente possível enquanto previne incidentes semelhantes de ocorrer no futuro.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is incident response?](https://www.ibm.com/think/topics/incident-response)
-- [@article@What is Incident Response? Process, Frameworks, and Tools](https://www.bluevoyant.com/knowledge-center/what-is-incident-response-process-frameworks-and-tools)
-- [@video@Cybersecurity IDR: Incident Detection & Response | Google Cybersecurity Certificate](https://www.youtube.com/watch?v=MsGl6lX-YaI)
-- [@video@3 LEVELS of Cybersecurity Incident Response You NEED To Know](https://www.youtube.com/watch?v=vhCCo7ioDhA)
+- [@artigo@O que é resposta a incidentes?](https://www.ibm.com/think/topics/incident-response)
+- [@artigo@O que é Resposta a Incidentes? Processos, Estruturas e Ferramentas](https://www.bluevoyant.com/knowledge-center/what-is-incident-response-process-frameworks-and-tools)
+- [@vídeo@Cybersecurity IDR: Detecção & Resposta a Incidentes | Certificado de Segurança Cibernética da Google](https://www.youtube.com/watch?v=MsGl6lX-YaI)
+- [@vídeo@3 Níveis de Resposta a Incidentes em Segurança Cibernética que VOCÊ PRECISA Saber](https://www.youtube.com/watch?v=vhCCo7ioDhA)

@@ -1,8 +1,8 @@
-# Forensics
+# Forensica
 
-Forensics, in the context of incident response, involves the systematic investigation and analysis of security incidents to understand what happened, how it happened, and who was involved. It's about gathering and preserving digital evidence to reconstruct events, identify root causes, and support potential legal or disciplinary actions. This process helps organizations learn from incidents, improve their security posture, and prevent future occurrences.
+A forensica, no contexto da resposta a incidentes, envolve uma investigação e análise sistemática de incidentes de segurança para entender o que aconteceu, como aconteceu e quem foi envolvido. É sobre coletar e preservar evidências digitais para reconstruir eventos, identificar as causas raízes e suportar ações legais ou disciplinares potenciais. Esse processo ajuda as organizações a aprender com os incidentes, melhorar sua postura de segurança e prevenir futuros ocorrencias.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Introduction to Digital Forensics (TryHackMe)](https://tryhackme.com/room/introdigitalforensics)
-- [@video@Digital Forensics](https://www.youtube.com/watch?v=UtDWApdO8Zk)
+- [@artigo@Introdução à Forensica Digital (TryHackMe)](https://tryhackme.com/room/introdigitalforensics)
+- [@vídeo@Forensica Digital](https://www.youtube.com/watch?v=UtDWApdO8Zk)

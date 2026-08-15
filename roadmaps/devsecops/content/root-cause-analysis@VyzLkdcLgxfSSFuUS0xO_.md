@@ -1,8 +1,8 @@
-# Root Cause Analysis
+# Análise de Raiz Causa
 
-Root Cause Analysis (RCA) is a systematic process for identifying the fundamental reasons behind a problem or incident. It goes beyond addressing the immediate symptoms to uncover the underlying factors that led to the issue. The goal of RCA is to implement corrective actions that prevent the problem from recurring in the future.
+A Análise de Raiz Causa (RCA) é um processo sistemático para identificar as razões fundamentais por trás de um problema ou incidente. Ela vai além de abordar os sintomas imediatos para revelar os fatores subjacentes que levaram ao problema. O objetivo da RCA é implementar ações corretivas que previnam o problema de ocorrer novamente no futuro.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is root cause analysis (RCA) in software development?](https://www.elastic.co/what-is/root-cause-analysis)
-- [@video@hat is Root Cause Analysis (RCA)?](https://www.youtube.com/watch?v=7t3lTYEd_PM)
+- [@artigo@O que é Análise de Raiz Causa (RCA) na desenvolvimento de software?](https://www.elastic.co/what-is/root-cause-analysis)
+- [@vídeo@O que é Análise de Raiz Causa (RCA)?](https://www.youtube.com/watch?v=7t3lTYEd_PM)

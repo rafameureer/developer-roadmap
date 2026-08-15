@@ -1,3 +1,3 @@
-# Enterprise Operations
+# Operações Corporativas
 
-Enterprise Operations encompasses all the activities and processes required to manage and maintain an organization's IT infrastructure, applications, and services. This includes tasks like system administration, network management, database administration, incident response, and ensuring the overall stability and performance of the IT environment that supports the business. It focuses on keeping the lights on and ensuring that the business can function effectively.
+As Operações Corporativas englobam todas as atividades e processos necessários para gerenciar e manter a infraestrutura de TI, aplicativos e serviços da organização. Isso inclui tarefas como administração do sistema, gestão de rede, administração de banco de dados, resposta a incidentes e garantir a estabilidade geral e desempenho do ambiente de TI que suporta o negócio. Ela se concentra em manter as luzes acesas e garantir que o negócio possa funcionar efetivamente.

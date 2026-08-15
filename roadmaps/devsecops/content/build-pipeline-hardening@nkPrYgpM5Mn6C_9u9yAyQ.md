@@ -1,9 +1,9 @@
-# Build Pipeline Hardening
+# Fortificação de Pipelines de Construção
 
-Pipeline hardening focuses on securing the automated process that transforms source code into deployable software. This involves implementing security measures at each stage of the pipeline, from code commit to artifact creation, to prevent vulnerabilities from being introduced or exploited. The goal is to ensure the integrity and confidentiality of the software being built and deployed.
+A fortificação de pipelines se concentra em segurança do processo automatizado que transforma o código-fonte em software implantável. Isso envolve a implementação de medidas de segurança em cada etapa da pipeline, desde o commit do código até a criação de artefatos, para prevenir a introdução ou exploração de vulnerabilidades. O objetivo é garantir a integridade e confidencialidade do software sendo construído e implantado.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Harden Your CI/CD Pipelines](https://www.paloaltonetworks.com/resources/datasheets/tip-sheet-ci-cd-security)
-- [@article@Hardening - CI/CD Recommendations](https://docs.gitlab.com/security/hardening_cicd_recommendations/)
-- [@video@Hardening Your CI/CD Pipelines with GitOps and Continuous Security](https://www.youtube.com/watch?v=OHly5mGdhNY)
+- [@artigo@Fortifique seus pipelines CI/CD](https://www.paloaltonetworks.com/resources/datasheets/tip-sheet-ci-cd-security)
+- [@artigo@Recomendações de Fortificação - CI/CD](https://docs.gitlab.com/security/hardening_cicd_recommendations/)
+- [@vídeo@Fortifique seus pipelines CI/CD com GitOps e Segurança Contínua](https://www.youtube.com/watch?v=OHly5mGdhNY)

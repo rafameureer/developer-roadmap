@@ -2652,7 +2652,73 @@
     "roadmaps/devrel/content/writing-skills@0ntOE6PSdMl_EXB9gdgIv.md",
     "roadmaps/devrel/content/x@6BqkO4XOspJg0-9GNLtUp.md",
     "roadmaps/devrel/content/x@Mdp4bBlhVbGohJkVlsDar.md",
-    "roadmaps/devrel/content/youtube@OY5rn3XTbmz4LzSLRcNmw.md"
+    "roadmaps/devrel/content/youtube@OY5rn3XTbmz4LzSLRcNmw.md",
+    "roadmaps/devsecops/content/acls@lLWQhvzXn3EpeCf9Mhgyj.md",
+    "roadmaps/devsecops/content/alert-types@-j1PH9_z-Eq3jxX6e8VmQ.md",
+    "roadmaps/devsecops/content/asymmetric@hz0WFG5ksaBFMpq7ypLgF.md",
+    "roadmaps/devsecops/content/attack-surface-mapping@JztcgG94qZ5trdhfDcRa6.md",
+    "roadmaps/devsecops/content/audit--compliance-mapping@04_UcLELHkqjBCwliCw7H.md",
+    "roadmaps/devsecops/content/authentication@iiOWJ7KXyHp_ovVWNmDoc.md",
+    "roadmaps/devsecops/content/authorization@DYmh1MkmAuXUJOFqnFzWc.md",
+    "roadmaps/devsecops/content/automated-patching@HahTEhITEAGaoys1psZqV.md",
+    "roadmaps/devsecops/content/bash@r3XBfcNtxSraF11YK_5d5.md",
+    "roadmaps/devsecops/content/bcrypt@TqmbGC_Q_b3BkU7UkvE-S.md",
+    "roadmaps/devsecops/content/build-pipeline-hardening@nkPrYgpM5Mn6C_9u9yAyQ.md",
+    "roadmaps/devsecops/content/burp-suite@uAUg6mDDDq7ZyR0IEDxg5.md",
+    "roadmaps/devsecops/content/certificate-lifecycle@quUzTCnBnmJoSmIPBGjxk.md",
+    "roadmaps/devsecops/content/cia-triad@k7AtVkkVavHjCVo1hqCc0.md",
+    "roadmaps/devsecops/content/cloud-security@ou2-KKBNyOxH_IW9s3eE9.md",
+    "roadmaps/devsecops/content/dependency-risk-management@AAd_X7gI-WA7Jh9FKsuE_.md",
+    "roadmaps/devsecops/content/devsecops-vs-devops@SJa6UcRcgT08lF8Phnh0X.md",
+    "roadmaps/devsecops/content/dns@TnDsOr1iJX3hY7vJRpp7S.md",
+    "roadmaps/devsecops/content/docker@-OWtiqx4YbcOVhtYU0D69.md",
+    "roadmaps/devsecops/content/edr-strategy@A67WShi92I-TX0iK7Fv0L.md",
+    "roadmaps/devsecops/content/encryption@0ey7Spq4DoZ-AfXOsMtag.md",
+    "roadmaps/devsecops/content/endpoint-detection@E2jGo4HeKaeuXYa9-f-vy.md",
+    "roadmaps/devsecops/content/enterprise-operations@68qVLExPlVrKJweTjd_S5.md",
+    "roadmaps/devsecops/content/firewalls@LV_uiNRdUi9OrmxQCdeGw.md",
+    "roadmaps/devsecops/content/forensics@h_kjdN5uGNKLtJ3puQ9RH.md",
+    "roadmaps/devsecops/content/go@UcBt4BsvLDlsnVy3KKJ1y.md",
+    "roadmaps/devsecops/content/http@WamX-UieM8NxhK6P_bDCB.md",
+    "roadmaps/devsecops/content/identity-basics@iONpD135a4kd3zR5ufoTx.md",
+    "roadmaps/devsecops/content/ids@L3Mu6rCIu58VyhtxeyLXq.md",
+    "roadmaps/devsecops/content/image-scanning@bPmjX9IPL9Da0XUApY5UF.md",
+    "roadmaps/devsecops/content/incident-response@V5eQcby9FNcGv68KPj5rH.md",
+    "roadmaps/devsecops/content/input-validation-patterns@lq4nTMBniaxxwPvH5M77Z.md",
+    "roadmaps/devsecops/content/introduction@-X3GTFpg3kzm0cELAngjb.md",
+    "roadmaps/devsecops/content/ips@PYH_nc4bktIJoCJA6OC5E.md",
+    "roadmaps/devsecops/content/least-privilege@rK-RToN5JRcclYl23TyYz.md",
+    "roadmaps/devsecops/content/monitoring@MMTCo21ap15MrPV64vKka.md",
+    "roadmaps/devsecops/content/multi-region-security-planning@eALB73XbtnFF3-PYcLcZq.md",
+    "roadmaps/devsecops/content/nessus@EqbzAy56Tu8asKNFzuti_.md",
+    "roadmaps/devsecops/content/network-segmentation@Cr0VAtdu0ZYPOkUU_7vjR.md",
+    "roadmaps/devsecops/content/networking-basics@84HlHz8bHCDtAPGpq7LpX.md",
+    "roadmaps/devsecops/content/nist@yMb0-A55r1KEsLntOmp5F.md",
+    "roadmaps/devsecops/content/nmap-basics@JyXv5vPHCjSBc0J-PpUEV.md",
+    "roadmaps/devsecops/content/nmap@0Tci_Ks8jXisin90VqB_D.md",
+    "roadmaps/devsecops/content/openvas@mIcs0fp3T9IwwAvgYyKnY.md",
+    "roadmaps/devsecops/content/owasp-top-10@igGASa7AknApWtq57v2Qx.md",
+    "roadmaps/devsecops/content/pasta@6A_3p3CzwxFVjJaXahEVr.md",
+    "roadmaps/devsecops/content/pki-design-and-failover@nEYMyTKfRDqA2Uc1tCwxv.md",
+    "roadmaps/devsecops/content/powershell@91lxZEOZ6KF3tY9id2Au8.md",
+    "roadmaps/devsecops/content/python@txcfATz3k89CedFrSZMWj.md",
+    "roadmaps/devsecops/content/qualys@Pkud7rAzdV5asF5aGAq7z.md",
+    "roadmaps/devsecops/content/root-cause-analysis@VyzLkdcLgxfSSFuUS0xO_.md",
+    "roadmaps/devsecops/content/ruby@nKthK-OsFO0TGwptD-Dme.md",
+    "roadmaps/devsecops/content/rust@V_-gY34XcyIqPcLKtDJZr.md",
+    "roadmaps/devsecops/content/sboms@MF8AYjKun5SHtumTyuurJ.md",
+    "roadmaps/devsecops/content/scripting-knowledge@wjJPzrFJBNYOD3SJLzW2M.md",
+    "roadmaps/devsecops/content/secure-api-design@aMu0e6xQ3Rak44F_I7Ish.md",
+    "roadmaps/devsecops/content/secure-coding@iHd6XNAUGXn3_d-I_YtTM.md",
+    "roadmaps/devsecops/content/secure-network-zoning@ixiKWBp8m4tP55dBYFzRL.md",
+    "roadmaps/devsecops/content/sha-256@LKMBv-M9k71yrR2WzN4bK.md",
+    "roadmaps/devsecops/content/threat-modeling-workflows@qfhpMprVX562UuktYN9BZ.md",
+    "roadmaps/devsecops/content/threat-modeling@XA7JUF00B1locP0xY3T95.md",
+    "roadmaps/devsecops/content/tls@FvU310TuexCsp8QkvxJib.md",
+    "roadmaps/devsecops/content/vim--nano--emacs@7MavDAydyrt0tOJ6a6xRQ.md",
+    "roadmaps/devsecops/content/vlans@GPVN-nDitsY1bF_3huqnh.md",
+    "roadmaps/devsecops/content/wireshark-basics@iHhitN8zToXm4nK1m0OeR.md",
+    "roadmaps/devsecops/content/xss-prevention@ph7rFQFJffi_di133vm3Z.md"
   ],
   "completed_roadmaps": [
     "frontend-beginner",
@@ -2685,7 +2751,8 @@
     "datastructures-and-algorithms",
     "design-system",
     "devops",
-    "devrel"
+    "devrel",
+    "devsecops"
   ],
   "flagged_issues": [
     {
@@ -6477,8 +6544,148 @@
       "file": "roadmaps/devrel/content/webinars@1fc0iWwOkheUJ7d0np86L.md",
       "reason": "Falha na tradução automática após tentativas no Ollama",
       "timestamp": "2026-08-15T05:45:12.217450"
+    },
+    {
+      "file": "roadmaps/devsecops/content/container-security@EnDqfr07RzNZmPIth6wSq.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:47:08.153402"
+    },
+    {
+      "file": "roadmaps/devsecops/content/containment@CUjGVwPvQytVYqy2zEPuw.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:47:12.029409"
+    },
+    {
+      "file": "roadmaps/devsecops/content/cryptographic-hashing@EqfPoveYajk61VH-ii_uE.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:47:17.040746"
+    },
+    {
+      "file": "roadmaps/devsecops/content/cspm@eTOjfNSzlvbWsyX5an_5w.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:47:40.276544"
+    },
+    {
+      "file": "roadmaps/devsecops/content/ddos-miligation-strategy@ltpquwL_YEvbgMZ2OyNS4.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:47:46.734578"
+    },
+    {
+      "file": "roadmaps/devsecops/content/defense-in-depth-concepts@a4dYHrx1KzhKRtarZT1iy.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:47:50.671849"
+    },
+    {
+      "file": "roadmaps/devsecops/content/iam@-RORxEsNvIPSlnM2TWB3j.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:49:09.508674"
+    },
+    {
+      "file": "roadmaps/devsecops/content/iam@JDglIowCyRjSoqCcNfkZr.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:49:15.728807"
+    },
+    {
+      "file": "roadmaps/devsecops/content/ir-lifecycle@X-pvSQnfB2W4992_3eOEy.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:50:13.663818"
+    },
+    {
+      "file": "roadmaps/devsecops/content/iso-27001@JBNiSzYD8DSnKfHoKRjMg.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:50:16.357028"
+    },
+    {
+      "file": "roadmaps/devsecops/content/javascript--nodejs@BeUiBY18JHqCKVNtYAHH3.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:50:22.280109"
+    },
+    {
+      "file": "roadmaps/devsecops/content/key-management-service@l76yFl4lSXnxg5DBbnnID.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:50:46.090201"
+    },
+    {
+      "file": "roadmaps/devsecops/content/kubernetes@YveqgdX6eNRFC1zU_q7r1.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:50:52.483275"
+    },
+    {
+      "file": "roadmaps/devsecops/content/large-scale-identity-strategy@XRnxOPVChkGLQSXX-kUmi.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:50:58.203270"
+    },
+    {
+      "file": "roadmaps/devsecops/content/learn-a-programming-language@v5FGKQc-_7NYEsWjmTEuq.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:51:16.243562"
+    },
+    {
+      "file": "roadmaps/devsecops/content/log-analysis@_Kr2_N8021tsZfa0wZ3Vu.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:51:28.926287"
+    },
+    {
+      "file": "roadmaps/devsecops/content/response-strategy@6Q2VIdeSuBZzo7c1qnYLG.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:52:59.989857"
+    },
+    {
+      "file": "roadmaps/devsecops/content/risk-quantification@V97S_0PrVw3jjHnmcxDgJ.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:53:02.533690"
+    },
+    {
+      "file": "roadmaps/devsecops/content/role-based-access@9Tea1ge_l1fls0fyPxMPG.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:53:07.316944"
+    },
+    {
+      "file": "roadmaps/devsecops/content/siem@hnroE_riXvw6BqYdirWBX.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:54:20.247001"
+    },
+    {
+      "file": "roadmaps/devsecops/content/soar-automation@rXS1CIZHu7TA_o7L-vMtV.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:54:23.134711"
+    },
+    {
+      "file": "roadmaps/devsecops/content/soar-concepts@O0aVW37VhZInw9Z9Mghcg.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:54:27.531736"
+    },
+    {
+      "file": "roadmaps/devsecops/content/soc-2@VmDslOmZANHpHmAInFa_j.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:54:43.790277"
+    },
+    {
+      "file": "roadmaps/devsecops/content/sql-injection-prevention@VPBQh3CSsNA-esuvEHT3X.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:54:48.181067"
+    },
+    {
+      "file": "roadmaps/devsecops/content/stride@EZZsZHxu7__yM2l9tr95-.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:54:53.792549"
+    },
+    {
+      "file": "roadmaps/devsecops/content/supply-chain-security@qKHb2e9g_Xuo-nHepICTR.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:55:17.251790"
+    },
+    {
+      "file": "roadmaps/devsecops/content/symmetric@mT1cKWZcKXwvopW6BeX-A.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:55:21.710052"
+    },
+    {
+      "file": "roadmaps/devsecops/content/zero-trust-concepts@3UAH70FkQlv5_VbYon4U9.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:56:10.066039"
     }
   ],
-  "last_updated": "2026-08-15T05:45:33.431281",
+  "last_updated": "2026-08-15T05:56:10.074824",
   "total_translated_count": 54
 }

@@ -1,9 +1,9 @@
-# Ruby in DevSecOps
+# Ruby na DevSecOps
 
-Ruby is a dynamic, open-source programming language known for its simplicity and readability. Its flexible syntax and powerful features make it useful for automating tasks, building tools, and scripting, which are all valuable in a DevSecOps environment. Ruby's extensive ecosystem of gems (libraries) provides pre-built solutions for various security and automation needs, allowing teams to quickly implement and integrate security practices into their development pipelines.
+Ruby é um linguagem de programação dinâmica e de código aberto conhecida por sua simplicidade e legibilidade. Sua sintaxe flexível e recursos poderosos a tornam útil para automatizar tarefas, construir ferramentas e escrever scripts, todos esses são valiosos em um ambiente DevSecOps. O ecossistema extenso de gems (bibliotecas) do Ruby fornece soluções prontas para várias necessidades de segurança e automação, permitindo que equipes implementem rapidamente e integrem práticas de segurança em seus pipelines de desenvolvimento.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Ruby](https://www.ruby-lang.org/en/)
+- [@oficial@Ruby](https://www.ruby-lang.org/en/)
 - [@opensource@Ruby Lang](https://github.com/ruby/ruby)
-- [@video@Ruby Programming Language - Full Course](https://www.youtube.com/watch?app=desktop&v=t_ispmWmdjY&t=0s)
+- [@vídeo@Linguagem de Programação Ruby - Curso Completo](https://www.youtube.com/watch?app=desktop&v=t_ispmWmdjY&t=0s)

@@ -4,7 +4,7 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 
 ---
 
-> ⚠️ **Total de itens sinalizados:** 758
+> ⚠️ **Total de itens sinalizados:** 786
 
 | Arquivo / Tópico | Motivo da Sinalização | Data/Hora |
 |---|---|---|
@@ -766,3 +766,31 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 | `roadmaps/devrel/content/visualization@SNhrYZsmyDHN_JWh0eZy2.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:45:06.106007 |
 | `roadmaps/devrel/content/vs-code@j5nNSYI8s-cH8EA6G1EWY.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:45:10.156510 |
 | `roadmaps/devrel/content/webinars@1fc0iWwOkheUJ7d0np86L.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:45:12.217450 |
+| `roadmaps/devsecops/content/container-security@EnDqfr07RzNZmPIth6wSq.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:47:08.153402 |
+| `roadmaps/devsecops/content/containment@CUjGVwPvQytVYqy2zEPuw.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:47:12.029409 |
+| `roadmaps/devsecops/content/cryptographic-hashing@EqfPoveYajk61VH-ii_uE.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:47:17.040746 |
+| `roadmaps/devsecops/content/cspm@eTOjfNSzlvbWsyX5an_5w.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:47:40.276544 |
+| `roadmaps/devsecops/content/ddos-miligation-strategy@ltpquwL_YEvbgMZ2OyNS4.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:47:46.734578 |
+| `roadmaps/devsecops/content/defense-in-depth-concepts@a4dYHrx1KzhKRtarZT1iy.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:47:50.671849 |
+| `roadmaps/devsecops/content/iam@-RORxEsNvIPSlnM2TWB3j.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:49:09.508674 |
+| `roadmaps/devsecops/content/iam@JDglIowCyRjSoqCcNfkZr.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:49:15.728807 |
+| `roadmaps/devsecops/content/ir-lifecycle@X-pvSQnfB2W4992_3eOEy.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:50:13.663818 |
+| `roadmaps/devsecops/content/iso-27001@JBNiSzYD8DSnKfHoKRjMg.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:50:16.357028 |
+| `roadmaps/devsecops/content/javascript--nodejs@BeUiBY18JHqCKVNtYAHH3.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:50:22.280109 |
+| `roadmaps/devsecops/content/key-management-service@l76yFl4lSXnxg5DBbnnID.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:50:46.090201 |
+| `roadmaps/devsecops/content/kubernetes@YveqgdX6eNRFC1zU_q7r1.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:50:52.483275 |
+| `roadmaps/devsecops/content/large-scale-identity-strategy@XRnxOPVChkGLQSXX-kUmi.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:50:58.203270 |
+| `roadmaps/devsecops/content/learn-a-programming-language@v5FGKQc-_7NYEsWjmTEuq.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:51:16.243562 |
+| `roadmaps/devsecops/content/log-analysis@_Kr2_N8021tsZfa0wZ3Vu.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:51:28.926287 |
+| `roadmaps/devsecops/content/response-strategy@6Q2VIdeSuBZzo7c1qnYLG.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:52:59.989857 |
+| `roadmaps/devsecops/content/risk-quantification@V97S_0PrVw3jjHnmcxDgJ.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:53:02.533690 |
+| `roadmaps/devsecops/content/role-based-access@9Tea1ge_l1fls0fyPxMPG.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:53:07.316944 |
+| `roadmaps/devsecops/content/siem@hnroE_riXvw6BqYdirWBX.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:54:20.247001 |
+| `roadmaps/devsecops/content/soar-automation@rXS1CIZHu7TA_o7L-vMtV.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:54:23.134711 |
+| `roadmaps/devsecops/content/soar-concepts@O0aVW37VhZInw9Z9Mghcg.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:54:27.531736 |
+| `roadmaps/devsecops/content/soc-2@VmDslOmZANHpHmAInFa_j.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:54:43.790277 |
+| `roadmaps/devsecops/content/sql-injection-prevention@VPBQh3CSsNA-esuvEHT3X.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:54:48.181067 |
+| `roadmaps/devsecops/content/stride@EZZsZHxu7__yM2l9tr95-.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:54:53.792549 |
+| `roadmaps/devsecops/content/supply-chain-security@qKHb2e9g_Xuo-nHepICTR.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:55:17.251790 |
+| `roadmaps/devsecops/content/symmetric@mT1cKWZcKXwvopW6BeX-A.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:55:21.710052 |
+| `roadmaps/devsecops/content/zero-trust-concepts@3UAH70FkQlv5_VbYon4U9.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:56:10.066039 |

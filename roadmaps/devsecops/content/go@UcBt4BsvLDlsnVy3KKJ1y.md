@@ -1,12 +1,12 @@
-# Go Programming Language
+# Linguagem de Programação Go
 
-Go, often referred to as Golang, is a statically typed, compiled programming language designed at Google. Its simple syntax, efficient performance, and built-in concurrency features make it well-suited for building reliable and scalable tools and infrastructure components often used in DevSecOps pipelines. This includes tasks like automating security checks, building network tools, and creating efficient deployment systems.
+Go, frequentemente chamado de Golang, é um idioma de programação estáticamente tipado e compilado projetado pela Google. Sua sintaxe simples, desempenho eficiente e recursos incorporados de concorrência o tornam adequado para construir ferramentas e componentes de infraestrutura confiáveis e escaláveis frequentemente usados em pipelines DevSecOps. Isso inclui tarefas como automação de verificações de segurança, construção de ferramentas de rede e criação de sistemas de implantação eficientes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit de Dedicated Rust Roadmap](https://roadmap.sh/golang)
-- [@official@Go](https://go.dev/)
-- [@official@Go Docs](https://go.dev/doc/)
-- [@official@Getting Started with Go](https://go.dev/doc/tutorial/getting-started)
-- [@article@Getting Started with Go and the Web](https://dev.to/markmunyaka/getting-started-with-go-and-the-web-hello-world-nal)
-- [@video@Golang 101 Crash Course: Learn Go Programming Fundamentals!](https://www.youtube.com/watch?v=S65k7Tubbck)
+- [@rota@Visite o Caminho Dedidado do Rust](https://roadmap.sh/golang)
+- [@oficial@Go](https://go.dev/)
+- [@oficial@Documentação do Go](https://go.dev/doc/)
+- [@oficial@Começando com Go](https://go.dev/doc/tutorial/getting-started)
+- [@artigo@Começando com Go e a Web](https://dev.to/markmunyaka/getting-started-with-go-and-the-web-hello-world-nal)
+- [@vídeo@Crash Course em Golang 101: Aprenda os Fundamentos de Programação em Go!](https://www.youtube.com/watch?v=S65k7Tubbck)

@@ -1,11 +1,11 @@
 # Rust
 
-Rust is a systems programming language focused on safety, speed, and concurrency. Its memory safety features, achieved through a borrow checker and ownership system, help prevent common vulnerabilities like buffer overflows and data races. This makes Rust a valuable tool for building secure and reliable software components within a DevSecOps environment, especially for performance-critical applications and infrastructure tools.
+Rust é uma linguagem de programação de sistemas focada em segurança, velocidade e concorrência. Suas características de segurança na memória, alcançadas através de um verificador de empréstimos e sistema de propriedade, ajudam a prevenir vulnerabilidades comuns como estouro de buffer e corrida de dados. Isso torna o Rust uma ferramenta valiosa para construir componentes de software seguros e confiáveis dentro de um ambiente DevSecOps, especialmente para aplicativos e ferramentas de infraestrutura críticas em termos de desempenho.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit de Dedicated Rust Roadmap](https://roadmap.sh/rust)
-- [@official@Rust Programming Language](https://rust-lang.org/)
-- [@official@Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/index.html#rust-by-example)
-- [@opensource@Rust Book](https://edu.anarcho-copy.org/Programming%20Languages/Rust/rust-programming-language-steve-klabnik.pdf)
-- [@opensource@Rust Book Interactive](https://rust-book.cs.brown.edu/experiment-intro.html)
+- [@rota@Visite a Rota dedicada ao Rust](https://roadmap.sh/rust)
+- [@oficial@Linguagem de Programação Rust](https://rust-lang.org/)
+- [@oficial@Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/index.html#rust-by-example)
+- [@opensource@Livro do Rust](https://edu.anarcho-copy.org/Programming%20Languages/Rust/rust-programming-language-steve-klabnik.pdf)
+- [@opensource@Livro do Rust Interativo](https://rust-book.cs.brown.edu/experiment-intro.html)

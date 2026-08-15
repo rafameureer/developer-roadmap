@@ -1,9 +1,9 @@
 # DevSecOps vs. DevOps
 
-DevOps focuses on streamlining and automating the software development lifecycle, emphasizing collaboration between development and operations teams to deliver software faster and more efficiently. DevSecOps builds upon this foundation by integrating security practices and considerations throughout the entire DevOps pipeline, rather than treating security as a separate, end-of-cycle step. This means security is a shared responsibility from the initial planning stages to deployment and monitoring.
+O DevOps se concentra em otimizar e automatizar o ciclo de vida do desenvolvimento de software, enfatizando a colaboração entre os times de desenvolvimento e operações para entregar software mais rápido e eficientemente. O DevSecOps constrói sobre essa base integrando práticas e considerações de segurança ao longo toda a pipeline DevOps, em vez de tratar a segurança como um passo separado e final do ciclo. Isso significa que a segurança é uma responsabilidade compartilhada desde as etapas iniciais de planejamento até a implantação e monitoramento.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@DevOps vs DevSecOps: Key Differences and Best Fit](https://roadmap.sh/devops/vs-devsecops)
-- [@article@DevOps vs DevSecOps: Differences and Similarities](https://www.browserstack.com/guide/what-is-the-difference-between-devops-and-devsecops)
-- [@video@What is DevSecOps? | DevOps vs DevSecOps | KodeKloud](https://www.youtube.com/watch?v=1XpUDV7PBFo)
+- [@artigo@DevOps vs DevSecOps: Diferenças Chave e Melhor Ajuste](https://roadmap.sh/devops/vs-devsecops)
+- [@artigo@Diferenças e Similaridades entre DevOps e DevSecOps](https://www.browserstack.com/guide/what-is-the-difference-between-devops-and-devsecops)
+- [@vídeo@O que é DevSecOps? | DevOps vs DevSecOps | KodeKloud](https://www.youtube.com/watch?v=1XpUDV7PBFo)

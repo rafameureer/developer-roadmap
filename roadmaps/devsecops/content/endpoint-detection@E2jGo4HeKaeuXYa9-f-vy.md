@@ -1,3 +1,3 @@
-# Endpoint Detection
+# Detecção de Ponto Final
 
-Endpoint detection involves monitoring and analyzing activities on devices like laptops, desktops, and servers to identify suspicious behavior that could indicate a security threat. This process typically uses software agents installed on these endpoints to collect data, which is then analyzed for patterns and anomalies that might signal malware, unauthorized access, or other malicious activities. When a threat is detected, the system alerts security teams and may automatically take actions to contain or remediate the issue.
+A detecção de ponto final envolve monitorar e analisar atividades em dispositivos como laptops, desktops e servidores para identificar comportamentos suspeitos que possam indicar uma ameaça à segurança. Esse processo geralmente usa agentes de software instalados nesses pontos finais para coletar dados, que são então analisados por padrões e anomalias que podem sinalizar malware, acesso não autorizado ou outras atividades maliciosas. Quando uma ameaça é detectada, o sistema alerta os times de segurança e pode tomar automaticamente medidas para conter ou remediar o problema.

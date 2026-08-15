@@ -1,8 +1,8 @@
-# Authorization
+# Autorização
 
-Authorization is the process of determining what a user or system is allowed to access or do. It verifies if a user, once authenticated, has the necessary permissions to perform a specific action on a particular resource. This involves checking access control policies and rules to ensure that only authorized entities can access sensitive data or functionalities.
+A autorização é o processo de determinar o que um usuário ou sistema pode acessar ou fazer. Ele verifica se um usuário, após autenticado, tem as permissões necessárias para realizar uma ação específica em um recurso específico. Isso envolve verificar políticas e regras de controle de acesso para garantir que apenas entidades autorizadas possam acessar dados sensíveis ou funcionalidades.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What Is Authorization and How Does It Work?](https://www.descope.com/learn/post/authorization)
-- [@video@Authentication vs Authorization Explained](https://www.youtube.com/watch?v=7ijBiXddB7w)
+- [@artigo@O que é Autorização e Como Ela Funciona?](https://www.descope.com/learn/post/authorization)
+- [@vídeo@Autenticação vs Autorização Explicada](https://www.youtube.com/watch?v=7ijBiXddB7w)

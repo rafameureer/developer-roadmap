@@ -1,11 +1,11 @@
-# Attack Surface Mapping
+# Mapeamento da Superfície de Ataque
 
-Attack surface mapping is the process of identifying and documenting all the potential entry points or vulnerabilities that an attacker could exploit to gain unauthorized access to a system or application. This involves cataloging all assets, including hardware, software, network components, and data, and then analyzing them to determine their susceptibility to various threats. The resulting map provides a clear picture of the organization's security posture, enabling security teams to prioritize mitigation efforts and reduce the overall risk.
+O mapeamento da superfície de ataque é o processo de identificar e documentar todos os pontos potenciais de entrada ou vulnerabilidades que um atacante poderia explorar para obter acesso não autorizado a um sistema ou aplicativo. Isso envolve catalogar todos os ativos, incluindo hardware, software, componentes de rede e dados, e analisá-los para determinar sua suscetibilidade a vários tipos de ameaças. O mapa resultante fornece uma visão clara da postura de segurança da organização, permitindo que equipes de segurança priorizem esforços de mitigação e reduzam o risco geral.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Attack Surface Analysis Cheat Sheet¶](https://cheatsheetseries.owasp.org/cheatsheets/Attack_Surface_Analysis_Cheat_Sheet.html)
-- [@article@What is Attack Surface Mapping & Analysis in Cybersecurity?](https://jetpack.com/resources/attack-surface-mapping-and-analysis/)
-- [@video@Attack Surface Mapping with Jeff Foley from OWASP Amass](https://www.youtube.com/watch?v=Ui35-YEbBiA)
-- [@video@ASM and Vulnerability Management: Why you need both](https://www.youtube.com/watch?v=oMx9lgTtJnM)
-- [@video@What is ASM (Attack Surface Management)?](https://www.youtube.com/watch?v=NqKid53v5x8)
+- [@article@Guia de Mapeamento de Superfície de Ataque¶](https://cheatsheetseries.owasp.org/cheatsheets/Attack_Surface_Analysis_Cheat_Sheet.html)
+- [@article@O que é o Mapeamento e Análise da Superfície de Ataque na Segurança Cibernética?](https://jetpack.com/resources/attack-surface-mapping-and-analysis/)
+- [@video@Mapeamento da Superfície de Ataque com Jeff Foley do OWASP Amass](https://www.youtube.com/watch?v=Ui35-YEbBiA)
+- [@video@ASM e Gerenciamento de Vulnerabilidades: Por que você precisa dos dois](https://www.youtube.com/watch?v=oMx9lgTtJnM)
+- [@video@O que é ASM (Gerenciamento da Superfície de Ataque)?](https://www.youtube.com/watch?v=NqKid53v5x8)

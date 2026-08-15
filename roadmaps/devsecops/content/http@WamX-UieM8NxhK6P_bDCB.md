@@ -1,11 +1,11 @@
 # HTTP
 
-HTTP (Hypertext Transfer Protocol) is the foundation of data communication on the World Wide Web. It's an application-layer protocol that defines how clients (like web browsers) and servers communicate by exchanging messages. These messages consist of requests from the client and responses from the server, enabling the transfer of resources like HTML documents, images, and other web content.
+HTTP (Protocolo de Transferência de Hipertexto) é a base da comunicação de dados na Web. É um protocolo de camada de aplicativo que define como clientes (como navegadores web) e servidores se comunicam ao trocar mensagens. Essas mensagens consistem em solicitações do cliente e respostas do servidor, permitindo o transferência de recursos como documentos HTML, imagens e outros conteúdos da Web.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Everything you need to know about HTTP](https://cs.fyi/guide/http-in-depth)
-- [@article@What is HTTP?](https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/)
-- [@article@An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
-- [@video@HTTP/1 to HTTP/2 to HTTP/3](https://www.youtube.com/watch?v=a-sBfyiXysI)
-- [@video@HTTP Crash Course & Exploration](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
+- [@artigo@Tudo o que você precisa saber sobre HTTP](https://cs.fyi/guide/http-in-depth)
+- [@artigo@O que é HTTP?](https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/)
+- [@artigo@Uma visão geral do HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
+- [@vídeo@De HTTP/1 a HTTP/2 a HTTP/3](https://www.youtube.com/watch?v=a-sBfyiXysI)
+- [@vídeo@Crash Course e Exploração de HTTP](https://www.youtube.com/watch?v=iYM2zFP3Zn0)

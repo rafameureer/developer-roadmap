@@ -1,9 +1,9 @@
-# Grey Box Testing
+# Testes de Caixa Cinza
 
-Grey-box AI Red Teaming involves testing with partial knowledge of the system, such as knowing the model type (e.g., GPT-4), having access to some documentation, or understanding the general system architecture but not having full model weights or source code. This allows for more targeted testing than black-box while still simulating realistic external attacker scenarios where some information might be gleaned.
+O teste de caixa cinza da AI Red Team envolve testar com conhecimento parcial do sistema, como saber o tipo de modelo (por exemplo, GPT-4), ter acesso a alguns documentos ou entender a arquitetura geral do sistema, mas não ter pesos completos do modelo ou código-fonte. Isso permite um teste mais direcionado do que o de caixa preta, ainda simulando cenários realistas de ataque externo onde alguma informação pode ser obtida.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@AI Transparency: Connecting AI Red Teaming and Compliance](https://splx.ai/blog/ai-transparency-connecting-ai-red-teaming-and-compliance)
-- [@article@Black-Box, Gray Box, and White-Box Penetration Testing](https://www.eccouncil.org/cybersecurity-exchange/penetration-testing/black-box-gray-box-and-white-box-penetration-testing-importance-and-uses/)
-- [@article@Understanding Black Box, White Box, and Grey Box Testing](https://www.frugaltesting.com/blog/understanding-black-box-white-box-and-grey-box-testing-in-software-testing)
+- [@artigo@Transparência do IA: Conectando a Red Team e a Conformidade](https://splx.ai/blog/ai-transparency-connecting-ai-red-teaming-and-compliance)
+- [@artigo@Teste de penetração de caixa preta, cinza e branca](https://www.eccouncil.org/cybersecurity-exchange/penetration-testing/black-box-gray-box-and-white-box-penetration-testing-importance-and-uses/)
+- [@artigo@Entendendo a Caixa Preta, Branca e Cinza](https://www.frugaltesting.com/blog/understanding-black-box-white-box-and-grey-box-testing-in-software-testing)

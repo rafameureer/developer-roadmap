@@ -1,9 +1,9 @@
-# Indirect Injection
+# Injeção Indireta
 
-Indirect injection involves embedding malicious prompts within external data sources that the LLM processes, such as websites, documents, or emails. AI Red Teamers test this by poisoning data sources the AI might interact with (e.g., adding hidden instructions to a webpage summarized by the AI) to see if the AI executes unintended commands or leaks data when processing that source.
+A injeção indireta envolve incorporar prompts maliciosos em fontes de dados externas que o LLM processa, como sites, documentos ou e-mails. Os membros da AI Red Team testam isso contaminando as fontes de dados com as quais o AI pode interagir (por exemplo, adicionando instruções ocultas a uma página web resumida pelo AI) para ver se o AI executa comandos indesejados ou vaza dados ao processar essa fonte.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@The Practical Application of Indirect Prompt Injection Attacks](https://www.researchgate.net/publication/382692833_The_Practical_Application_of_Indirect_Prompt_Injection_Attacks_From_Academia_to_Industry)
-- [@article@How to Prevent Indirect Prompt Injection Attacks](https://www.cobalt.io/blog/how-to-prevent-indirect-prompt-injection-attacks)
-- [@article@Indirect Prompt Injection Data Exfiltration](https://embracethered.com/blog/posts/2024/chatgpt-macos-app-persistent-data-exfiltration/)
+- [@artigo@Aplicação prática de ataques de injeção de prompt indireta](https://www.researchgate.net/publication/382692833_The_Practical_Application_of_Indirect_Prompt_Injection_Attacks_From_Academia_to_Industry)
+- [@artigo@Como prevenir ataques de injeção de prompt indireta](https://www.cobalt.io/blog/how-to-prevent-indirect-prompt-injection-attacks)
+- [@artigo@Exfiltração de dados por meio de injeção de prompt indireta](https://embracethered.com/blog/posts/2024/chatgpt-macos-app-persistent-data-exfiltration/)

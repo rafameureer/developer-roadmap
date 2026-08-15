@@ -1,9 +1,9 @@
-# Generative Models
+# Modelos Gerativos
 
-AI Red Teamers focus heavily on generative models (like GANs and LLMs) due to their widespread use and unique risks. Understanding how they generate content is key to testing for issues like generating harmful/biased outputs, deepfakes, prompt injection vulnerabilities, or leaking sensitive information from their vast training data.
+Os membros da AI Red Team se concentram intensamente em modelos gerativos (como GANs e LLMs) devido à sua ampla utilização e riscos únicos. Entender como eles geram conteúdo é crucial para testar questões como a geração de saídas prejudiciais/viesas, deepfakes, vulnerabilidades de injeção de prompts ou vazamento de informações sensíveis a partir de seus extensos conjuntos de treinamento.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@Introduction to Generative AI](https://learnprompting.org/courses/intro-to-gen-ai)
-- [@article@What is Generative AI?](https://learnprompting.org/docs/basics/generative_ai)
-- [@article@Generative AI beginner's guide](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/overview)
+- [@curso@Introdução ao IA Gerativo](https://learnprompting.org/courses/intro-to-gen-ai)
+- [@artigo@O que é o IA Gerativo?](https://learnprompting.org/docs/basics/generative_ai)
+- [@artigo@Guia para iniciantes em IA Gerativa](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/overview)

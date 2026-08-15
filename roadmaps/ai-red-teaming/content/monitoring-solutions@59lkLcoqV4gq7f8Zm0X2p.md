@@ -1,11 +1,11 @@
-# Monitoring Solutions
+# Soluções de Monitoramento
 
-AI Red Teamers interact with monitoring tools primarily to test their effectiveness (evasion) or potentially exploit vulnerabilities within them. Understanding tools like IDS (Snort, Suricata), network analyzers (Wireshark), and SIEMs helps red teamers simulate attacks that might bypass or target these defensive systems.
+Os membros da equipe Vermelha AI interagem principalmente com ferramentas de monitoramento para testar sua eficácia (evasão) ou potencialmente explotar vulnerabilidades dentro delas. Entender ferramentas como IDS (Snort, Suricata), analisadores de rede (Wireshark) e SIEMs ajuda os membros da equipe Vermelha a simular ataques que possam burlar ou alvo esses sistemas defensivos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Open Source IDS Tools: Comparing Suricata, Snort, Bro (Zeek), Linux](https://levelblue.com/blogs/security-essentials/open-source-intrusion-detection-tools-a-quick-overview)
-- [@article@Snort](https://www.snort.org/)
-- [@article@Suricata](https://suricata.io/)
-- [@article@Wireshark](https://www.wireshark.org/)
-- [@article@Zeek (formerly Bro)](https://zeek.org/)
+- [@artigo@Ferramentas de Detecção de Invasão Aberta Fonte: Comparando Suricata, Snort, Bro (Zeek), Linux](https://levelblue.com/blogs/security-essentials/open-source-intrusion-detection-tools-a-quick-overview)
+- [@artigo@Snort](https://www.snort.org/)
+- [@artigo@Suricata](https://suricata.io/)
+- [@artigo@Wireshark](https://www.wireshark.org/)
+- [@artigo@Zeek (anteriormente Bro)](https://zeek.org/)

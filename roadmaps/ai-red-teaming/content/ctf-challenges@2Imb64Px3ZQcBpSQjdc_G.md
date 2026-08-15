@@ -1,9 +1,9 @@
-# CTF Challenges
+# Desafios de CTF
 
-Capture The Flag competitions increasingly include AI/ML security challenges. Participating in CTFs (tracked on CTFtime) or platforms like picoCTF helps AI Red Teamers hone skills in reverse engineering, web exploitation, and cryptography applied to AI systems, including specialized AI safety CTFs.
+Competições de Capture The Flag (CTF) estão increasingly incluindo desafios de segurança de IA/Machine Learning. Participar em CTFs (monitorados no CTFtime) ou plataformas como picoCTF ajuda os membros da equipe Vermelha AI a aprimorar habilidades em engenharia reversa, exploração web e criptografia aplicadas a sistemas de IA, incluindo desafios especializados de segurança de IA.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@HackAPrompt](https://www.hackaprompt.com/)
-- [@article@Progress from our Frontier Red Team](https://www.anthropic.com/news/strategic-warning-for-ai-risk-progress-and-insights-from-our-frontier-red-team)
-- [@article@CTFtime.org](https://ctftime.org/)
+- [@artigo@HackAPrompt](https://www.hackaprompt.com/)
+- [@artigo@Progress from our Frontier Red Team](https://www.anthropic.com/news/strategic-warning-for-ai-risk-progress-and-insights-from-our-frontier-red-team)
+- [@site@CTFtime.org](https://ctftime.org/)

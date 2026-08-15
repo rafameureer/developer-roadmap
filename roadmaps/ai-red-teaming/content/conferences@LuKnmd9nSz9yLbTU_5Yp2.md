@@ -1,10 +1,10 @@
-# Conferences
+# Conferências
 
-Attending major cybersecurity conferences (DEF CON, Black Hat, RSA) and increasingly specialized AI Safety/Security conferences allows AI Red Teamers to learn about cutting-edge research, network with peers, and discover new tools and attack/defense techniques.
+Assistir a importantes conferências de segurança cibernética (DEF CON, Black Hat, RSA) e conferências cada vez mais especializadas em segurança e ética da IA permite que os membros do time Vermelho de IA aprendam sobre pesquisas avançadas, se conectem com colegas e descubram novos ferramentas e técnicas de ataque/defesa.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Black Hat Events](https://www.blackhat.com/)
-- [@article@DEF CON Hacking Conference](https://defcon.org/)
-- [@article@Global Conference on AI, Security and Ethics 2025](https://unidir.org/event/global-conference-on-ai-security-and-ethics-2025/)
-- [@article@RSA Conference](https://www.rsaconference.com/)
+- [@artigo@Eventos Black Hat](https://www.blackhat.com/)
+- [@artigo@Conferência DEF CON](https://defcon.org/)
+- [@artigo@Global Conference on AI, Security and Ethics 2025](https://unidir.org/event/global-conference-on-ai-security-and-ethics-2025/)
+- [@artigo@RSA Conference](https://www.rsaconference.com/)

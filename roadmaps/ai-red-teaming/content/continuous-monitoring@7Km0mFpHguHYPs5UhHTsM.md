@@ -1,9 +1,9 @@
-# Continuous Monitoring
+# Monitoramento Contínuo
 
-AI Red Teamers assess the effectiveness of continuous monitoring systems by attempting attacks and observing if detection mechanisms trigger appropriate alerts and responses. They test if monitoring covers AI-specific anomalies (like sudden shifts in output toxicity or unexpected resource consumption by the model) in addition to standard infrastructure monitoring.
+Os membros do time Vermelho de IA avaliam a eficácia dos sistemas de monitoramento contínuo tentando ataques e observando se os mecanismos de detecção acionam alertas e respostas apropriadas. Eles testam se o monitoramento cobre anomalias específicas da IA (como mudanças repentinhas na toxicidade da saída ou consumo inesperado de recursos pelo modelo) além do monitoramento padrão da infraestrutura.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Cyber Security Monitoring: 5 Key Components](https://www.bitsight.com/blog/5-things-to-consider-building-continuous-security-monitoring-strategy)
-- [@article@Cyber Security Monitoring: Definition and Best Practices](https://www.sentinelone.com/cybersecurity-101/cybersecurity/cyber-security-monitoring/)
-- [@article@Cybersecurity Monitoring: Definition, Tools & Best Practices](https://nordlayer.com/blog/cybersecurity-monitoring/)
+- [@artigo@Monitoramento de Segurança Cibernética: 5 Componentes Chave](https://www.bitsight.com/blog/5-things-to-consider-building-continuous-security-monitoring-strategy)
+- [@artigo@Monitoramento de Segurança Cibernética: Definição e Melhores Práticas](https://www.sentinelone.com/cybersecurity-101/cybersecurity/cyber-security-monitoring/)
+- [@artigo@Monitoramento de Segurança Cibernética: Definição, Ferramentas e Melhores Práticas](https://nordlayer.com/blog/cybersecurity-monitoring/)

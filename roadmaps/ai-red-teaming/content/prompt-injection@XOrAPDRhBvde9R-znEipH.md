@@ -1,11 +1,11 @@
-# Prompt Injection
+# Injeção de Prompt
 
-Prompt injection is a critical vulnerability tested by AI Red Teamers. They attempt to insert instructions into the LLM's input that override its intended system prompt or task, causing it to perform unauthorized actions, leak data, or generate malicious output. This tests the model's ability to distinguish trusted instructions from potentially harmful user/external input.
+A injeção de prompt é uma vulnerabilidade crítica testada por times vermelhos de IA. Eles tentam inserir instruções na entrada do LLM que substituem seu sistema de prompt ou tarefa intencional, fazendo-o realizar ações não autorizadas, revelar dados ou gerar saída maliciosa. Isso testa a capacidade do modelo de distinguir instruções confiáveis das potencialmente prejudiciais de entrada do usuário/externo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@Advanced Prompt Hacking - Learn Prompting](https://learnprompting.org/courses/advanced-prompt-hacking)
-- [@article@Prompt Injection & the Rise of Prompt Attacks](https://www.lakera.ai/blog/guide-to-prompt-injection)
-- [@article@Prompt Injection (Learn Prompting)](https://learnprompting.org/docs/prompt_hacking/injection)
-- [@article@Prompt Injection Attack Explanation (IBM)](https://research.ibm.com/blog/prompt-injection-attacks-against-llms)
-- [@article@Prompt Injection: Impact, How It Works & 4 Defense Measures](https://www.tigera.io/learn/guides/llm-security/prompt-injection/)
+- [@curso@Avançado Hacking de Prompt - Aprenda a Prompting](https://learnprompting.org/courses/advanced-prompt-hacking)
+- [@artigo@Injeção de Prompt e o Nascimento dos Ataques de Prompt](https://www.lakera.ai/blog/guide-to-prompt-injection)
+- [@artigo@Injeção de Prompt (Aprenda a Prompting)](https://learnprompting.org/docs/prompt_hacking/injection)
+- [@artigo@Explicação do Ataque de Injeção de Prompt (IBM)](https://research.ibm.com/blog/prompt-injection-attacks-against-llms)
+- [@artigo@Injeção de Prompt: Impacto, Como Funciona e 4 Medidas de Defesa](https://www.tigera.io/learn/guides/llm-security/prompt-injection/)

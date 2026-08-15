@@ -1,9 +1,9 @@
-# Research Opportunities
+# Oportunidades de Pesquisa
 
-AI Red Teaming relies on ongoing research. Key areas needing further investigation include scalable methods for finding elusive vulnerabilities, understanding emergent behaviors in complex models, developing provable safety guarantees, creating better benchmarks for AI security, and exploring the socio-technical aspects of AI misuse and defense.
+O time Vermelho AI depende de pesquisas contínuas. Áreas-chave que precisam de investigação adicional incluem métodos escaláveis para encontrar vulnerabilidades esotéricas, entender comportamentos emergentes em modelos complexos, desenvolver garantias de segurança prováveis, criar melhores benchmarks para a segurança da IA e explorar as aspectos socio-tecnológicos do uso e defesa da IA.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Cutting-Edge Research on AI Security bolstered with new Challenge Fund](https://www.gov.uk/government/news/cutting-edge-research-on-ai-security-bolstered-with-new-challenge-fund-to-ramp-up-public-trust-and-adoption)
-- [@article@Careers | The AI Security Institute (AISI)](https://www.aisi.gov.uk/careers)
-- [@article@Research - Anthropic](https://www.anthropic.com/research)
+- [@artigo@Pesquisa Avançada na Segurança da IA apoiada por um novo Fundo Desafio](https://www.gov.uk/government/news/cutting-edge-research-on-ai-security-bolstered-with-new-challenge-fund-to-ramp-up-public-trust-and-adoption)
+- [@artigo@Carreiras | Instituto de Segurança da IA (AISI)](https://www.aisi.gov.uk/careers)
+- [@artigo@Pesquisa - Anthropic](https://www.anthropic.com/research)

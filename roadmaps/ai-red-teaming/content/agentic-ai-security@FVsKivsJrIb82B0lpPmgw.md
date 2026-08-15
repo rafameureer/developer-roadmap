@@ -1,8 +1,8 @@
-# Agentic AI Security
+# Segurança de IA Agente
 
-As AI agents capable of autonomous action become more common, AI Red Teamers must test their unique security implications. This involves assessing risks related to goal hijacking, unintended actions through tool use, exploitation of planning mechanisms, and ensuring agents operate safely within their designated boundaries.
+Os agentes de IA capazes de ações autônomas se tornam cada vez mais comuns, e os membros da equipe Vermelha de IA devem testar suas implicações únicas de segurança. Isso envolve avaliar riscos relacionados à subversão de objetivos, ações indesejadas através do uso de ferramentas, exploração de mecanismos de planejamento e garantir que os agentes operem com segurança dentro dos limites designados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@AI Agents - Learn Prompting](https://learnprompting.org/docs/intermediate/ai_agents)
-- [@article@EmbraceTheRed](https://embracethered.com/)
+- [@artigo@Agentes de IA - Aprenda a Prompting](https://learnprompting.org/docs/intermediate/ai_agents)
+- [@artigo@Abraça a Vermelha](https://embracethered.com/)

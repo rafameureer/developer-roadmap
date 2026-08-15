@@ -4,7 +4,7 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 
 ---
 
-> ⚠️ **Total de itens sinalizados:** 111
+> ⚠️ **Total de itens sinalizados:** 134
 
 | Arquivo / Tópico | Motivo da Sinalização | Data/Hora |
 |---|---|---|
@@ -119,3 +119,26 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 | `roadmaps/ai-product-builder/content/render@OBGQ-1bjYBdYi-_oFpmj8.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:06:36.047586 |
 | `roadmaps/ai-product-builder/content/replit@Gf1egAjfyQyAJ4I-aT_Ip.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:06:40.034368 |
 | `roadmaps/ai-product-builder/content/supabase@p4Ku5RT5uOVYPuduqz80M.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:06:43.213073 |
+| `roadmaps/ai-red-teaming/content/advanced-techniques@soC-kcem1ISbnCQMa6BIB.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:07:28.564065 |
+| `roadmaps/ai-red-teaming/content/adversarial-examples@xjlttOti-_laPRn8a2fVy.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:07:33.497234 |
+| `roadmaps/ai-red-teaming/content/adversarial-training@2Y0ZO-etpv3XIvunDLu-W.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:07:37.722407 |
+| `roadmaps/ai-red-teaming/content/benchmark-datasets@et1Xrr8ez-fmB0mAq8W_a.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:08:28.949889 |
+| `roadmaps/ai-red-teaming/content/black-box-testing@0bApnJTt-Z2IUf0X3OCYf.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:08:33.727553 |
+| `roadmaps/ai-red-teaming/content/code-injection@vhBu5x8INTtqvx6vcYAhE.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:08:37.840928 |
+| `roadmaps/ai-red-teaming/content/continuous-testing@65Lo60JQS5YlvvQ6KevXt.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:09:14.309168 |
+| `roadmaps/ai-red-teaming/content/custom-testing-scripts@C1zO2xC0AqyV53p2YEPWg.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:09:44.706953 |
+| `roadmaps/ai-red-teaming/content/data-poisoning@nD0_64ELEeJSN-0aZiR7i.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:09:49.255632 |
+| `roadmaps/ai-red-teaming/content/direct@5zHow4KZVpfhch5Aabeft.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:09:54.309265 |
+| `roadmaps/ai-red-teaming/content/ethical-considerations@1gyuEV519LjN-KpROoVwv.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:10:16.645864 |
+| `roadmaps/ai-red-teaming/content/forums@Smncq-n1OlnLAY27AFQOO.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:10:21.204862 |
+| `roadmaps/ai-red-teaming/content/industry-standards@WePO66_4-gNcSdE00WKmw.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:11:00.268005 |
+| `roadmaps/ai-red-teaming/content/infrastructure-security@nhUKKWyBH80nyKfGT8ErC.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:11:04.821055 |
+| `roadmaps/ai-red-teaming/content/insecure-deserialization@aKzai0A8J55-OBXTnQih1.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:11:26.452140 |
+| `roadmaps/ai-red-teaming/content/jailbreak-techniques@Ds8pqn4y9Npo7z6ubunvc.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:11:37.480170 |
+| `roadmaps/ai-red-teaming/content/safety-filter-bypasses@j7uLLpt8MkZ1rqM7UBPW4.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:13:49.449145 |
+| `roadmaps/ai-red-teaming/content/specialized-courses@s1xKK8HL5-QGZpcutiuvj.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:13:53.703746 |
+| `roadmaps/ai-red-teaming/content/supervised-learning@NvOJIv36Utpm7_kOZyr79.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:13:58.213981 |
+| `roadmaps/ai-red-teaming/content/unsupervised-learning@ZC0yKsu-CJC-LZKKo2pLD.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:14:33.886208 |
+| `roadmaps/ai-red-teaming/content/vulnerability-assessment@887lc3tWCRH-sOHSxWgWJ.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:14:38.869841 |
+| `roadmaps/ai-red-teaming/content/white-box-testing@Mrk_js5UVn4dRDw-Yco3Y.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:14:44.134446 |
+| `roadmaps/ai-red-teaming/content/why-red-team-ai-systems@fNTb9y3zs1HPYclAmu_Wv.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:14:53.190208 |

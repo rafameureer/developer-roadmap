@@ -1,9 +1,9 @@
-# Authentication
+# Autenticação
 
-AI Red Teamers test the authentication mechanisms controlling access to AI systems and APIs. They attempt to bypass logins, steal or replay API keys/tokens, exploit weak password policies, or find flaws in MFA implementations to gain unauthorized access to the AI model or its management interfaces.
+Os membros da equipe Vermelha de Inteligência Artificial testam os mecanismos de autenticação que controlam o acesso aos sistemas e APIs de IA. Eles tentam pular as sessões, roubar ou reproduzir chaves/tokens de API, explotar políticas de senhas frágeis ou encontrar falhas nas implementações de MFA para obter acesso não autorizado ao modelo de IA ou suas interfaces de gerenciamento.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Red-Teaming in AI Testing: Stress Testing](https://www.labelvisor.com/red-teaming-abstract-competitive-testing-data-selection/)
-- [@article@What is Authentication vs Authorization?](https://auth0.com/intro-to-iam/authentication-vs-authorization)
-- [@article@JWT Attacks](https://portswigger.net/web-security/jwt)
+- [@artigo@Equipe Vermelha em Testes de Inteligência Artificial: Teste de Estresse](https://www.labelvisor.com/red-teaming-abstract-competitive-testing-data-selection/)
+- [@artigo@O que é Autenticação vs Autorização?](https://auth0.com/intro-to-iam/authentication-vs-authorization)
+- [@artigo@Ataques a JWT](https://portswigger.net/web-security/jwt)

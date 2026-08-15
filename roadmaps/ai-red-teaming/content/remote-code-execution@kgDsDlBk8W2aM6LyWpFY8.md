@@ -1,8 +1,8 @@
-# Remote Code Execution
+# Execução Remota de Código
 
-AI Red Teamers attempt to achieve RCE on systems hosting or interacting with AI models. This could involve exploiting vulnerabilities in the AI framework itself, the web server, connected APIs, or tricking an AI agent with code execution capabilities into running malicious commands provided via prompts. RCE is often the ultimate goal of exploiting other vulnerabilities like code injection or insecure deserialization.
+Os membros do time vermelho de IA tentam obter a execução remota de código em sistemas que hospedam ou interagem com modelos de IA. Isso pode envolver explorar vulnerabilidades no próprio framework de IA, o servidor web, APIs conectadas ou enganando um agente de IA com capacidade de execução de código para executar comandos maliciosos fornecidos por prompts. A execução remota é geralmente o objetivo final da exploração de outras vulnerabilidades como injeção de código ou desserialização insegura.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Exploiting LLMs with Code Execution (GitHub Gist)](https://gist.github.com/coolaj86/6f4f7b30129b0251f61fa7baaa881516)
-- [@article@What is remote code execution?](https://www.cloudflare.com/learning/security/what-is-remote-code-execution/)
+- [@artigo@Exploitando LLMs com Execução de Código (GitHub Gist)](https://gist.github.com/coolaj86/6f4f7b30129b0251f61fa7baaa881516)
+- [@artigo@O que é execução remota de código?](https://www.cloudflare.com/learning/security/what-is-remote-code-execution/)

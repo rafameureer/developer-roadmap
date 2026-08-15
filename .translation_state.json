@@ -242,7 +242,48 @@
     "roadmaps/ai-product-builder/content/unit-testing@VxqhYHA9YpWx70GIhKghY.md",
     "roadmaps/ai-product-builder/content/user-testing@aRA5S0Mmmhx9F0nhD3Wcp.md",
     "roadmaps/ai-product-builder/content/v0@xKBoLYQgpLDmOtDweVHei.md",
-    "roadmaps/ai-product-builder/content/vercel@wUg8ypt4aWXgMYGiaIdgy.md"
+    "roadmaps/ai-product-builder/content/vercel@wUg8ypt4aWXgMYGiaIdgy.md",
+    "roadmaps/ai-red-teaming/content/agentic-ai-security@FVsKivsJrIb82B0lpPmgw.md",
+    "roadmaps/ai-red-teaming/content/ai-security-fundamentals@R9DQNc0AyAQ2HLpP4HOk6.md",
+    "roadmaps/ai-red-teaming/content/api-protection@Tszl26iNBnQBdBEWOueDA.md",
+    "roadmaps/ai-red-teaming/content/authentication@J7gjlt2MBx7lOkOnfGvPF.md",
+    "roadmaps/ai-red-teaming/content/authorization@JQ3bR8odXJfd-1RCEf3-Q.md",
+    "roadmaps/ai-red-teaming/content/automated-vs-manual@LVdYN9hyCyNPYn2Lz1y9b.md",
+    "roadmaps/ai-red-teaming/content/conferences@LuKnmd9nSz9yLbTU_5Yp2.md",
+    "roadmaps/ai-red-teaming/content/confidentiality-integrity-availability@WZkIHZkV2qDYbYF9KBBRi.md",
+    "roadmaps/ai-red-teaming/content/continuous-monitoring@7Km0mFpHguHYPs5UhHTsM.md",
+    "roadmaps/ai-red-teaming/content/countermeasures@G1u_Kq4NeUsGX2qnUTuJU.md",
+    "roadmaps/ai-red-teaming/content/ctf-challenges@2Imb64Px3ZQcBpSQjdc_G.md",
+    "roadmaps/ai-red-teaming/content/emerging-threats@-G8v_CNa8wO_g-46_RFQo.md",
+    "roadmaps/ai-red-teaming/content/generative-models@3XJ-g0KvHP75U18mxCqgw.md",
+    "roadmaps/ai-red-teaming/content/grey-box-testing@ZVNAMCP68XKRXVxF2-hBc.md",
+    "roadmaps/ai-red-teaming/content/indirect@3_gJRtJSdm2iAfkwmcv0e.md",
+    "roadmaps/ai-red-teaming/content/industry-credentials@HHjsFR6wRDqUd66PMDE_7.md",
+    "roadmaps/ai-red-teaming/content/introduction@HFJIYcI16OMyM77fAw9af.md",
+    "roadmaps/ai-red-teaming/content/lab-environments@MmwwRK4I9aRH_ha7duPqf.md",
+    "roadmaps/ai-red-teaming/content/large-language-models@8K-wCn2cLc7Vs_V4sC3sE.md",
+    "roadmaps/ai-red-teaming/content/llm-security-testing@xJYTRbPxMn0Xs5ea0Ygn6.md",
+    "roadmaps/ai-red-teaming/content/model-inversion@iE5PcswBHnu_EBFIacib0.md",
+    "roadmaps/ai-red-teaming/content/model-vulnerabilities@uBXrri2bXVsNiM8fIHHOv.md",
+    "roadmaps/ai-red-teaming/content/model-weight-stealing@QFzLx5nc4rCCD8WVc20mo.md",
+    "roadmaps/ai-red-teaming/content/monitoring-solutions@59lkLcoqV4gq7f8Zm0X2p.md",
+    "roadmaps/ai-red-teaming/content/neural-networks@RuKzVhd1nZphCrlW1wZGL.md",
+    "roadmaps/ai-red-teaming/content/prompt-engineering@gx4KaFqKgJX9n9_ZGMqlZ.md",
+    "roadmaps/ai-red-teaming/content/prompt-hacking@1Xr7mxVekeAHzTL7G4eAZ.md",
+    "roadmaps/ai-red-teaming/content/prompt-injection@XOrAPDRhBvde9R-znEipH.md",
+    "roadmaps/ai-red-teaming/content/red-team-simulations@DpYsL0du37n40toH33fIr.md",
+    "roadmaps/ai-red-teaming/content/reinforcement-learning@Xqzc4mOKsVzwaUxLGjHya.md",
+    "roadmaps/ai-red-teaming/content/remote-code-execution@kgDsDlBk8W2aM6LyWpFY8.md",
+    "roadmaps/ai-red-teaming/content/reporting-tools@BLnfNlA0C4yzy1dvifjwx.md",
+    "roadmaps/ai-red-teaming/content/research-groups@ZlR03pM-sqVFZNhD1gMSJ.md",
+    "roadmaps/ai-red-teaming/content/research-opportunities@VmaIHVsCpq2um_0cA33V3.md",
+    "roadmaps/ai-red-teaming/content/responsible-disclosure@KAcCZ3zcv25R6HwzAsfUG.md",
+    "roadmaps/ai-red-teaming/content/risk-management@MupRvk_8Io2Hn7yEvU663.md",
+    "roadmaps/ai-red-teaming/content/robust-model-design@6gEHMhh6BGJI-ZYN27YPW.md",
+    "roadmaps/ai-red-teaming/content/role-of-red-teams@Irkc9DgBfqSn72WaJqXEt.md",
+    "roadmaps/ai-red-teaming/content/testing-platforms@c8n8FcYKDOgPLQvV9xF5J.md",
+    "roadmaps/ai-red-teaming/content/threat-modeling@RDOaTBWP3aIJPUp_kcafm.md",
+    "roadmaps/ai-red-teaming/content/unauthorized-access@DQeOavZCoXpF3k_qRDABs.md"
   ],
   "completed_roadmaps": [
     "frontend-beginner",
@@ -252,7 +293,8 @@
     "ai-agents",
     "ai-data-scientist",
     "ai-engineer",
-    "ai-product-builder"
+    "ai-product-builder",
+    "ai-red-teaming"
   ],
   "flagged_issues": [
     {
@@ -809,8 +851,123 @@
       "file": "roadmaps/ai-product-builder/content/supabase@p4Ku5RT5uOVYPuduqz80M.md",
       "reason": "Falha na tradução automática após tentativas no Ollama",
       "timestamp": "2026-08-15T01:06:43.213073"
+    },
+    {
+      "file": "roadmaps/ai-red-teaming/content/advanced-techniques@soC-kcem1ISbnCQMa6BIB.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:07:28.564065"
+    },
+    {
+      "file": "roadmaps/ai-red-teaming/content/adversarial-examples@xjlttOti-_laPRn8a2fVy.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:07:33.497234"
+    },
+    {
+      "file": "roadmaps/ai-red-teaming/content/adversarial-training@2Y0ZO-etpv3XIvunDLu-W.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:07:37.722407"
+    },
+    {
+      "file": "roadmaps/ai-red-teaming/content/benchmark-datasets@et1Xrr8ez-fmB0mAq8W_a.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:08:28.949889"
+    },
+    {
+      "file": "roadmaps/ai-red-teaming/content/black-box-testing@0bApnJTt-Z2IUf0X3OCYf.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:08:33.727553"
+    },
+    {
+      "file": "roadmaps/ai-red-teaming/content/code-injection@vhBu5x8INTtqvx6vcYAhE.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:08:37.840928"
+    },
+    {
+      "file": "roadmaps/ai-red-teaming/content/continuous-testing@65Lo60JQS5YlvvQ6KevXt.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:09:14.309168"
+    },
+    {
+      "file": "roadmaps/ai-red-teaming/content/custom-testing-scripts@C1zO2xC0AqyV53p2YEPWg.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:09:44.706953"
+    },
+    {
+      "file": "roadmaps/ai-red-teaming/content/data-poisoning@nD0_64ELEeJSN-0aZiR7i.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:09:49.255632"
+    },
+    {
+      "file": "roadmaps/ai-red-teaming/content/direct@5zHow4KZVpfhch5Aabeft.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:09:54.309265"
+    },
+    {
+      "file": "roadmaps/ai-red-teaming/content/ethical-considerations@1gyuEV519LjN-KpROoVwv.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:10:16.645864"
+    },
+    {
+      "file": "roadmaps/ai-red-teaming/content/forums@Smncq-n1OlnLAY27AFQOO.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:10:21.204862"
+    },
+    {
+      "file": "roadmaps/ai-red-teaming/content/industry-standards@WePO66_4-gNcSdE00WKmw.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:11:00.268005"
+    },
+    {
+      "file": "roadmaps/ai-red-teaming/content/infrastructure-security@nhUKKWyBH80nyKfGT8ErC.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:11:04.821055"
+    },
+    {
+      "file": "roadmaps/ai-red-teaming/content/insecure-deserialization@aKzai0A8J55-OBXTnQih1.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:11:26.452140"
+    },
+    {
+      "file": "roadmaps/ai-red-teaming/content/jailbreak-techniques@Ds8pqn4y9Npo7z6ubunvc.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:11:37.480170"
+    },
+    {
+      "file": "roadmaps/ai-red-teaming/content/safety-filter-bypasses@j7uLLpt8MkZ1rqM7UBPW4.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:13:49.449145"
+    },
+    {
+      "file": "roadmaps/ai-red-teaming/content/specialized-courses@s1xKK8HL5-QGZpcutiuvj.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:13:53.703746"
+    },
+    {
+      "file": "roadmaps/ai-red-teaming/content/supervised-learning@NvOJIv36Utpm7_kOZyr79.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:13:58.213981"
+    },
+    {
+      "file": "roadmaps/ai-red-teaming/content/unsupervised-learning@ZC0yKsu-CJC-LZKKo2pLD.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:14:33.886208"
+    },
+    {
+      "file": "roadmaps/ai-red-teaming/content/vulnerability-assessment@887lc3tWCRH-sOHSxWgWJ.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:14:38.869841"
+    },
+    {
+      "file": "roadmaps/ai-red-teaming/content/white-box-testing@Mrk_js5UVn4dRDw-Yco3Y.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:14:44.134446"
+    },
+    {
+      "file": "roadmaps/ai-red-teaming/content/why-red-team-ai-systems@fNTb9y3zs1HPYclAmu_Wv.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:14:53.190208"
     }
   ],
-  "last_updated": "2026-08-15T01:07:05.487400",
+  "last_updated": "2026-08-15T01:14:53.192210",
   "total_translated_count": 54
 }

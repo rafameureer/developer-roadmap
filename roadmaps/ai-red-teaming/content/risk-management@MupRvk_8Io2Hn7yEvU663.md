@@ -1,9 +1,9 @@
-# Risk Management
+# Gerenciamento de Riscos
 
-AI Red Teamers contribute to the AI risk management process by identifying and demonstrating concrete vulnerabilities. Findings from red team exercises inform risk assessments, helping organizations understand the likelihood and potential impact of specific AI threats and prioritize resources for mitigation based on demonstrated exploitability.
+Os membros da equipe Vermelha em IA contribuem para o processo de gerenciamento de riscos em IA identificando e demonstrando vulnerabilidades concretas. Os achados dos exercícios da equipe vermelha informam as avaliações de risco, ajudando as organizações a entender a probabilidade e o impacto potencial de ameaças específicas de IA e priorizando recursos para mitigação com base na exploitabilidade demonstrada.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
-- [@article@A Beginner's Guide to Cybersecurity Risks and Vulnerabilities](https://online.champlain.edu/blog/beginners-guide-cybersecurity-risk-management)
-- [@article@Cybersecurity Risk Management: Frameworks, Plans, and Best Practices](https://hyperproof.io/resource/cybersecurity-risk-management-process/)
+- [@artigo@Quadro de Gerenciamento de Riscos em IA do NIST](https://www.nist.gov/itl/ai-risk-management-framework)
+- [@artigo@Guia Iniciante sobre Riscos e Vulnerabilidades na Segurança Cibernética](https://online.champlain.edu/blog/beginners-guide-cybersecurity-risk-management)
+- [@artigo@Gerenciamento de Riscos em Segurança Cibernética: Estruturas, Planos e Melhores Práticas](https://hyperproof.io/resource/cybersecurity-risk-management-process/)

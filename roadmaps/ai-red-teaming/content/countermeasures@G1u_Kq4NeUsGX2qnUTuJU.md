@@ -1,11 +1,11 @@
-# Countermeasures
+# Medidas de Contingência
 
-AI Red Teamers must also understand and test defenses against prompt hacking. This includes evaluating the effectiveness of input sanitization, output filtering, instruction demarcation (e.g., XML tagging), contextual awareness checks, model fine-tuning for resistance, and applying the principle of least privilege to LLM capabilities and tool access.
+Os membros da equipe Vermelha de IA devem entender e testar defesas contra hacking de prompts. Isso inclui avaliar a eficácia da sanitização de entrada, filtragem de saída, delimitação de instruções (por exemplo, marcação XML), verificações de consciência contextual, ajuste fino do modelo para resistência e aplicar o princípio da menor privilégio às capacidades LLM e acesso a ferramentas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Prompt Hacking Defensive Measures](https://learnprompting.org/docs/prompt_hacking/defensive_measures/introduction)
-- [@article@Mitigating Prompt Injection Attacks (NCC Group Research)](https://research.nccgroup.com/2023/12/01/mitigating-prompt-injection-attacks/)
-- [@article@Prompt Injection & the Rise of Prompt Attacks](https://www.lakera.ai/blog/guide-to-prompt-injection)
-- [@article@Prompt Injection: Impact, How It Works & 4 Defense Measures](https://www.tigera.io/learn/guides/llm-security/prompt-injection/)
-- [@article@OpenAI Best Practices for Prompt Security](https://platform.openai.com/docs/guides/prompt-engineering/strategy-write-clear-instructions)
+- [@artigo@Medidas Defensivas contra Hacking de Prompts](https://learnprompting.org/docs/prompt_hacking/defensive_measures/introduction)
+- [@artigo@Mitigando Ataques de Injeção de Prompt (Pesquisa NCC Group)](https://research.nccgroup.com/2023/12/01/mitigating-prompt-injection-attacks/)
+- [@artigo@Injeção de Prompt e o Auge dos Ataques de Prompt](https://www.lakera.ai/blog/guide-to-prompt-injection)
+- [@artigo@Injeção de Prompt: Impacto, Como Funciona & 4 Medidas de Defesa](https://www.tigera.io/learn/guides/llm-security/prompt-injection/)
+- [@artigo@Práticas Melhores da OpenAI para Segurança de Prompts](https://platform.openai.com/docs/guides/prompt-engineering/strategy-write-clear-instructions)

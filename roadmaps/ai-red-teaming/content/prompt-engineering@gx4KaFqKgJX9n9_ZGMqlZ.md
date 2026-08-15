@@ -1,9 +1,9 @@
-# Prompt Engineering
+# Engenharia de Prompts
 
-For AI Red Teamers, prompt engineering is both a tool and a target. It's a tool for crafting inputs to test model boundaries and vulnerabilities (e.g., creating jailbreak prompts). It's a target because understanding how prompts influence LLMs is key to identifying prompt injection vulnerabilities and designing defenses. Mastering prompt design is fundamental to effective LLM red teaming.
+Para os membros da equipe Vermelha AI, a engenharia de prompts é tanto uma ferramenta quanto um alvo. É uma ferramenta para criar entradas para testar as fronteiras e vulnerabilidades dos modelos (por exemplo, criando prompts de jailbreak). É um alvo porque entender como os prompts influenciam os LLMs é crucial para identificar vulnerabilidades de injeção de prompts e projetar defesas. Dominar a engenharia de prompts é fundamental para o trabalho eficaz da equipe Vermelha com LLMs.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@Introduction to Prompt Engineering](https://learnprompting.org/courses/intro-to-prompt-engineering)
-- [@article@System Prompts - InjectPrompt](https://www.injectprompt.com/t/system-prompts)
-- [@article@The Ultimate Guide to Red Teaming LLMs and Adversarial Prompts (Kili Technology)](https://kili-technology.com/large-language-models-llms/red-teaming-llms-and-adversarial-prompts)
+- [@curso@Introdução à Engenharia de Prompts](https://learnprompting.org/courses/intro-to-prompt-engineering)
+- [@artigo@Prompts Sistêmicos - InjectPrompt](https://www.injectprompt.com/t/system-prompts)
+- [@artigo@O Guia Último para Equipes Vermelhas de LLMs e Prompts Adversários (Kili Technology)](https://kili-technology.com/large-language-models-llms/red-teaming-llms-and-adversarial-prompts)

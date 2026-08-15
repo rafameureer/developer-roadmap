@@ -1,10 +1,10 @@
-# Research Groups
+# Grupos de Pesquisa
 
-Following and potentially contributing to research groups at universities (like CMU, Stanford, Oxford), non-profits (like OpenAI, Anthropic), or government bodies (like UK's AISI) focused on AI safety, security, and alignment provides deep insights into emerging threats and mitigation strategies relevant to AI Red Teaming.
+Seguindo e potencialmente contribuindo para grupos de pesquisa em universidades (como CMU, Stanford, Oxford), não-profíticos (como OpenAI, Anthropic) ou órgãos governamentais (como AISI do Reino Unido) focados em segurança e alinhamento da IA fornece uma compreensão profunda dos ameaças emergentes e estratégias de mitigação relevantes para o time Vermelho AI.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@AI Cybersecurity | Global Cyber Security Capacity Centre (Oxford)](https://gcscc.ox.ac.uk/ai-security)
-- [@article@Anthropic Research](https://www.anthropic.com/research)
-- [@article@Center for AI Safety](https://www.safe.ai/)
-- [@article@The AI Security Institute (AISI)](https://www.aisi.gov.uk/)
+- [@artigo@Segurança Cibernética da IA | Centro Global de Capacidade em Segurança Cibernética (Oxford)](https://gcscc.ox.ac.uk/ai-security)
+- [@artigo@Pesquisa do Anthropic](https://www.anthropic.com/research)
+- [@artigo@Centro de Segurança e Alinhamento da IA](https://www.safe.ai/)
+- [@artigo@Instituto de Segurança da IA (AISI)](https://www.aisi.gov.uk/)

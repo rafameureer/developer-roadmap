@@ -1,9 +1,9 @@
-# Model Weight Stealing
+# Roboadação de Peso do Modelo
 
-AI Red Teamers assess the risk of attackers reconstructing or stealing the proprietary weights of a trained model, often through API query-based attacks. Testing involves simulating such attacks to understand how easily the model's functionality can be replicated, which informs defenses like query rate limiting, watermarking, or differential privacy.
+Os membros da equipe Vermelha em Inteligência Artificial avaliam o risco de ataques em que os atacantes reconstruam ou roubem os pesos proprietários de um modelo treinado, frequentemente através de ataques baseados na consulta à API. Os testes envolvem simular tais ataques para entender como facilmente a funcionalidade do modelo pode ser replicada, informando defesas como limitação de taxa de consulta, marca d'água ou privacidade diferencial.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@A Playbook for Securing AI Model Weights](https://www.rand.org/pubs/research_briefs/RBA2849-1.html)
-- [@article@How to Steal a Machine Learning Model (SkyCryptor)](https://skycryptor.com/blog/how-to-steal-a-machine-learning-model)
-- [@article@On the Limitations of Model Stealing with Uncertainty Quantification Models](https://openreview.net/pdf?id=ONRFHoUzNk)
+- [@artigo@Um Guia para Segurar os Pesos dos Modelos de IA](https://www.rand.org/pubs/research_briefs/RBA2849-1.html)
+- [@artigo@Como Roubar um Modelo de Aprendizado de Máquina (SkyCryptor)](https://skycryptor.com/blog/how-to-steal-a-machine-learning-model)
+- [@artigo@As Limitações da Roboadação de Modelos com Modelos de Quantificação de Incerteza](https://openreview.net/pdf?id=ONRFHoUzNk)

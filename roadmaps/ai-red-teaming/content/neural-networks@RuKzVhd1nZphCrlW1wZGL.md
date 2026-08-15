@@ -1,9 +1,9 @@
-# Neural Networks
+# Redes Neurais
 
-Understanding neural network architectures (layers, nodes, activation functions) is vital for AI Red Teamers. This knowledge allows for targeted testing, such as crafting adversarial examples that exploit specific activation functions or identifying potential vulnerabilities related to network depth or connectivity. It provides insight into the 'black box' for more effective white/grey-box testing.
+Entender as arquiteturas de redes neurais (camadas, nós, funções de ativação) é crucial para os membros da equipe Vermelha AI. Este conhecimento permite testes direcionados, como a criação de exemplos adversários que exploitem funções de ativação específicas ou a identificação de vulnerabilidades potenciais relacionadas à profundidade ou conectividade da rede. Ele fornece uma visão do 'caixa preta' para testes branco/gray-box mais eficazes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Neural Networks Explained: A Beginner's Guide](https://www.skillcamper.com/blog/neural-networks-explained-a-beginners-guide)
-- [@article@Neural networks | Machine Learning](https://developers.google.com/machine-learning/crash-course/neural-networks)
-- [@article@Red Teaming with Artificial Intelligence-Driven Cyberattacks: A Scoping Review](https://arxiv.org/html/2503.19626)
+- [@artigo@Redes Neurais Explicadas: Um Guia Iniciante](https://www.skillcamper.com/blog/neural-networks-explained-a-beginners-guide)
+- [@artigo@Redes neurais | Machine Learning](https://developers.google.com/machine-learning/crash-course/neural-networks)
+- [@artigo@Equipe Vermelha com Ataques de Inteligência Artificial: Uma Revisão de Escopo](https://arxiv.org/html/2503.19626)

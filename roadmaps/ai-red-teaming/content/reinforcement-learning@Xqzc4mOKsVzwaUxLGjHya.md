@@ -1,10 +1,10 @@
-# Reinforcement Learning
+# Aprendizado por Reforço
 
-Red teaming RL-based AI systems involves testing for vulnerabilities such as reward hacking (exploiting the reward function to induce unintended behavior), unsafe exploration (agent takes harmful actions during learning), or susceptibility to adversarial perturbations in the environment's state. Understanding the agent's policy and value functions is crucial for designing effective tests against RL agents.
+O time vermelho de aprendizado por reforço envolve testar vulnerabilidades como hacking de recompensa (exploitando a função de recompensa para induzir comportamentos indesejados), exploração insegura (o agente toma ações prejudiciais durante o treinamento) ou suscetibilidade a perturbações adversárias no estado do ambiente. Entender as políticas e funções de valor do agente é crucial para projetar testes eficazes contra agentes de aprendizado por reforço.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@Deep Reinforcement Learning Course by HuggingFace](https://huggingface.co/learn/deep-rl-course/unit0/introduction)
-- [@article@Resources to Learn Reinforcement Learning](https://towardsdatascience.com/best-free-courses-and-resources-to-learn-reinforcement-learning-ed6633608cb2/)
-- [@article@What is reinforcement learning?](https://online.york.ac.uk/resources/what-is-reinforcement-learning/)
-- [@article@Diverse and Effective Red Teaming with Auto-generated Rewards and Multi-step Reinforcement Learning](https://arxiv.org/html/2412.18693v1)
+- [@curso@Curso de Aprendizado Profundo por Reforço pela HuggingFace](https://huggingface.co/learn/deep-rl-course/unit0/introduction)
+- [@artigo@Recursos para Aprender Aprendizado por Reforço](https://towardsdatascience.com/best-free-courses-and-resources-to-learn-reinforcement-learning-ed6633608cb2/)
+- [@artigo@O que é aprendizado por reforço?](https://online.york.ac.uk/resources/what-is-reinforcement-learning/)
+- [@artigo@Equilíbrio Diverso e Eficaz com Recompensas Geradas Automaticamente e Aprendizado por Reforço em Múltiplos Passos](https://arxiv.org/html/2412.18693v1)

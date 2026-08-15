@@ -1,9 +1,9 @@
-# Large Language Models
+# Modelos de Linguagem Grande
 
-LLMs are a primary target for AI Red Teaming. Understanding their architecture (often Transformer-based), training processes (pre-training, fine-tuning), and capabilities (text generation, summarization, Q&A) is essential for identifying vulnerabilities like prompt injection, jailbreaking, data regurgitation, and emergent harmful behaviors specific to these large-scale models.
+Os LLMs são um alvo primário para equipes Vermelhas em IA. Entender sua arquitetura (geralmente baseada em Transformer), processos de treinamento (pré-treinamento, fine-tuning) e capacidades (geração de texto, resumo, Q&A) é essencial para identificar vulnerabilidades como injeção de prompts, desarme, regurgitação de dados e comportamentos perigosos emergentes específicos a esses modelos de escala grande.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is an LLM (large language model)?](https://www.cloudflare.com/learning/ai/what-is-large-language-model/)
-- [@article@ChatGPT For Everyone](https://learnprompting.org/courses/chatgpt-for-everyone)
-- [@article@What Are Large Language Models? A Beginner's Guide for 2025](https://www.kdnuggets.com/large-language-models-beginners-guide-2025)
+- [@article@O que é um LLM (Modelo de Linguagem Grande)?](https://www.cloudflare.com/learning/ai/what-is-large-language-model/)
+- [@article@ChatGPT Para Todos](https://learnprompting.org/courses/chatgpt-for-everyone)
+- [@article@O Que São Modelos de Linguagem Grande? Um Guia Iniciante para 2025](https://www.kdnuggets.com/large-language-models-beginners-guide-2025)

@@ -1,9 +1,9 @@
-# Model Inversion
+# Inversão de Modelo
 
-AI Red Teamers perform model inversion tests to assess if an attacker can reconstruct sensitive training data (like images, text snippets, or personal attributes) by repeatedly querying the model and analyzing its outputs. Success indicates privacy risks due to data memorization, requiring mitigation techniques like differential privacy or output filtering.
+Os membros da equipe Vermelha em Inteligência Artificial realizam testes de inversão de modelo para avaliar se um atacante pode reconstruir dados de treinamento sensíveis (como imagens, trechos de texto ou atributos pessoais) consultando repetidamente o modelo e analisando suas saídas. O sucesso indica riscos de privacidade devido à memorização de dados, exigindo técnicas de mitigação como a privacidade diferencial ou filtragem de saída.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Model inversion and membership inference: Understanding new AI security risks](https://www.hoganlovells.com/en/publications/model-inversion-and-membership-inference-understanding-new-ai-security-risks-and-mitigating-vulnerabilities)
-- [@article@Extracting Training Data from LLMs (arXiv)](https://arxiv.org/abs/2012.07805)
-- [@article@Model Inversion Attacks: A Survey of Approaches and Countermeasures](https://arxiv.org/html/2411.10023v1)
+- [@artigo@Inversão de modelo e inferência de pertencimento: Entendendo novos riscos de segurança da IA](https://www.hoganlovells.com/en/publications/model-inversion-and-membership-inference-understanding-new-ai-security-risks-and-mitigating-vulnerabilities)
+- [@artigo@Extraindo dados de treinamento de LLMs (arXiv)](https://arxiv.org/abs/2012.07805)
+- [@artigo@Ataques de Inversão de Modelo: Uma Visão Geral sobre Abordagens e Medidas de Controle](https://arxiv.org/html/2411.10023v1)

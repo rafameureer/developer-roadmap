@@ -1,9 +1,9 @@
-# Confidentiality, Integrity, Availability
+# Confidencialidade, Integridade e Disponibilidade
 
-The CIA Triad is directly applicable in AI Red Teaming. Confidentiality tests focus on preventing leakage of training data or proprietary model details. Integrity tests probe for susceptibility to data poisoning or model manipulation. Availability tests assess resilience against denial-of-service attacks targeting the AI model or its supporting infrastructure.
+O Triângulo CIA é diretamente aplicável no time Vermelho de IA. Os testes de confidencialidade focam em prevenir a divulgação de dados de treinamento ou detalhes proprietários do modelo. Os testes de integridade investigam a suscetibilidade à corrupção de dados ou manipulação do modelo. Os testes de disponibilidade avaliam a resiliência contra ataques de negação de serviço que alvozam o modelo de IA ou sua infraestrutura suportante.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Confidentiality, Integrity, Availability: Key Examples](https://www.datasunrise.com/knowledge-center/confidentiality-integrity-availability-examples/)
-- [@article@The CIA Triad: Confidentiality, Integrity, Availability](https://www.veeam.com/blog/cybersecurity-cia-triad-explained.html)
-- [@article@What's The CIA Triad? Confidentiality, Integrity, & Availability, Explained](https://www.splunk.com/en_us/blog/learn/cia-triad-confidentiality-integrity-availability.html)
+- [@artigo@Confidencialidade, Integridade e Disponibilidade: Exemplos Chave](https://www.datasunrise.com/knowledge-center/confidentiality-integrity-availability-examples/)
+- [@artigo@O Triângulo CIA: Confidencialidade, Integridade e Disponibilidade](https://www.veeam.com/blog/cybersecurity-cia-triad-explained.html)
+- [@artigo@O que é o Triângulo CIA? Confidencialidade, Integridade e Disponibilidade, Explicado](https://www.splunk.com/en_us/blog/learn/cia-triad-confidentiality-integrity-availability.html)

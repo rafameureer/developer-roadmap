@@ -1,8 +1,8 @@
-# Lab Environments
+# Ambientes de Laboratório
 
-AI Red Teamers need environments to practice attacking vulnerable systems safely. While traditional labs (HTB, THM, VulnHub) build general pentesting skills, platforms are emerging with labs specifically focused on AI/LLM vulnerabilities, prompt injection, or adversarial ML challenges.
+Os membros da equipe Vermelha em IA precisam de ambientes para praticar ataques em sistemas vulneráveis de forma segura. Embora os laboratórios tradicionais (HTB, THM, VulnHub) construam habilidades gerais de pentest, plataformas emergentes oferecem laboratórios focados específicamente em vulnerabilidades de IA/LLM, injeção de prompts ou desafios de aprendizado de máquina adversarial.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@article@HackAPrompt Playground](https://learnprompting.org/hackaprompt-playground)
 - [@article@InjectPrompt Playground](https://playground.injectprompt.com/)

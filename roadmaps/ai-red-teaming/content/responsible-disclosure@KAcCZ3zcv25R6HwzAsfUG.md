@@ -1,9 +1,9 @@
-# Responsible Disclosure
+# Divulgação Responsável
 
-A critical practice for AI Red Teamers is responsible disclosure: privately reporting discovered AI vulnerabilities (e.g., a successful jailbreak, data leak method, or severe bias) to the model developers or system owners, allowing them time to remediate before any public discussion, thus preventing malicious exploitation.
+Uma prática crítica para membros do time Vermelho AI é a divulgação responsável: relatar de forma privada vulnerabilidades da IA descobertas (por exemplo, um jailbreak bem-sucedido, método de vazamento de dados ou viés severo) aos desenvolvedores de modelos ou proprietários do sistema, permitindo que eles tenham tempo para remediar antes de qualquer discussão pública, assim prevenindo a exploração maliciosa.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@0din.ai Policy](https://0din.ai/policy)
-- [@article@Huntr Guidelines](https://huntr.com/guidelines)
-- [@article@Google Vulnerability Reward Program (VRP)](https://bughunters.google.com/)
+- [@artigo@Política 0din.ai](https://0din.ai/policy)
+- [@artigo@Diretrizes do Huntr](https://huntr.com/guidelines)
+- [@artigo@Programa de Recompensa por Vulnerabilidades da Google (VRP)](https://bughunters.google.com/)

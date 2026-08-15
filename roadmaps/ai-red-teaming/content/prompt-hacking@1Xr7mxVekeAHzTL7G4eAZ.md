@@ -1,9 +1,9 @@
-# Prompt Hacking
+# Hacking de Prompt
 
-Prompt hacking is a core technique for AI Red Teamers targeting LLMs. It involves crafting inputs (prompts) to manipulate the model into bypassing safety controls, revealing hidden information, or performing unintended actions. Red teamers systematically test various prompt hacking methods (like jailbreaking, role-playing, or instruction manipulation) to assess the LLM's resilience against adversarial user input.
+O hacking de prompt é uma técnica fundamental para os times vermelhos de IA que atacam LLMs (Grandes Modelos Linguísticos). Envolve a criação de entradas (prompts) para manipular o modelo, fazê-lo pular controles de segurança, revelar informações ocultas ou realizar ações não intencionais. Os times vermelhos testam sistematicamente vários métodos de hacking de prompt (como desarmamento, personagem-rolagem ou manipulação de instruções) para avaliar a resistência do LLM contra entrada de usuário adversarial.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@Introduction to Prompt Hacking](https://learnprompting.org/courses/intro-to-prompt-hacking)
-- [@article@Prompt Hacking Guide](https://learnprompting.org/docs/prompt_hacking/introduction)
-- [@article@SoK: Prompt Hacking of LLMs (arXiv 2023)](https://arxiv.org/abs/2311.05544)
+- [@curso@Introdução ao Hacking de Prompt](https://learnprompting.org/courses/intro-to-prompt-hacking)
+- [@artigo@Guia de Hacking de Prompt](https://learnprompting.org/docs/prompt_hacking/introduction)
+- [@artigo@SoK: Hacking de Prompt em LLMs (arXiv 2023)](https://arxiv.org/abs/2311.05544)

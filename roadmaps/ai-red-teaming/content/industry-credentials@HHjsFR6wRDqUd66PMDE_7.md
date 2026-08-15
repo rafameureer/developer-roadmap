@@ -1,8 +1,8 @@
-# Industry Credentials
+# Credenciais do Setor
 
-Beyond formal certifications, recognition in the AI Red Teaming field comes from practical achievements like finding significant vulnerabilities (responsible disclosure), winning AI-focused CTFs or hackathons (like HackAPrompt), contributing to AI security research, or building open-source testing tools.
+Além das certificações formais, a reconhecimento no campo de Red Teaming em Inteligência Artificial vem de realizações práticas como encontrar vulnerabilidades significativas (disclosure responsável), vencer CTFs ou hackathons focados em IA (como HackAPrompt), contribuir para pesquisas em segurança da IA ou construir ferramentas de teste de código aberto.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@HackAPrompt](https://hackaprompt.com)
-- [@article@RedTeam Arena](https://redarena.ai)
+- [@artigo@HackAPrompt](https://hackaprompt.com)
+- [@artigo@RedTeam Arena](https://redarena.ai)

@@ -1,8 +1,8 @@
-# AI Security Fundamentals
+# Fundamentos de Segurança de IA
 
-This covers the foundational concepts essential for AI Red Teaming, bridging traditional cybersecurity with AI-specific threats. An AI Red Teamer must understand common vulnerabilities in ML models (like evasion or poisoning), security risks in the AI lifecycle (from data collection to deployment), and how AI capabilities can be misused. This knowledge forms the basis for designing effective tests against AI systems.
+Este conteúdo cobre os conceitos fundamentais essenciais para a equipe Vermelha de IA, ligando as ciberseguranças tradicionais com ameaças específicas da IA. Um membro da equipe Vermelha de IA deve entender vulnerabilidades comuns em modelos ML (como evasão ou envenenamento), riscos de segurança na ciclo de vida da IA (desde a coleta de dados até a implantação) e como as capacidades da IA podem ser usadas de forma inadequada. Este conhecimento forma a base para o design de testes eficazes contra sistemas de IA.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Building Trustworthy AI: Contending with Data Poisoning](https://nisos.com/research/building-trustworthy-ai/)
-- [@article@What Is Adversarial AI in Machine Learning?](https://www.paloaltonetworks.co.uk/cyberpedia/what-are-adversarial-attacks-on-AI-Machine-Learning)
+- [@artigo@Construindo IA Fiel: Lutando contra o Envenenamento de Dados](https://nisos.com/research/building-trustworthy-ai/)
+- [@artigo@O que é Ameaça Adversarial em Inteligência Artificial na Máquina?](https://www.paloaltonetworks.co.uk/cyberpedia/what-are-adversarial-attacks-on-AI-Machine-Learning)

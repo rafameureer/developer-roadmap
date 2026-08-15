@@ -1,11 +1,11 @@
-# Testing Platforms
+# Plataformas de Teste
 
-Platforms used by AI Red Teamers range from general penetration testing OS distributions like Kali Linux to specific AI red teaming tools/frameworks like Microsoft's PyRIT or Promptfoo, and vulnerability scanners like OWASP ZAP adapted for API testing of AI services. These platforms provide the toolsets needed to conduct assessments.
+As plataformas utilizadas por equipes vermelhas de IA variam desde distribuições gerais de sistemas operacionais para testes de penetração como o Kali Linux, até ferramentas/frameworks específicos para equipes vermelhas de IA como o PyRIT da Microsoft ou o Promptfoo, e escaneadores de vulnerabilidades como o OWASP ZAP adaptado para a teste de APIs de serviços de IA. Essas plataformas fornecem os conjuntos de ferramentas necessários para realizar avaliações.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@AI Red Teaming Agent - Azure AI Foundry | Microsoft Learn](https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/ai-red-teaming-agent)
-- [@article@Kali Linux](https://www.kali.org/)
-- [@article@OWASP Zed Attack Proxy (ZAP)](https://owasp.org/www-project-zap/)
-- [@article@Promptfoo](https://www.promptfoo.dev/)
-- [@article@PyRIT (Python Risk Identification Tool for generative AI)](https://github.com/Azure/PyRIT)
+- [@artigo@Agente de Equipes Vermelhas de IA - Azure AI Foundry | Microsoft Learn](https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/ai-red-teaming-agent)
+- [@artigo@Kali Linux](https://www.kali.org/)
+- [@artigo@OWASP Zed Attack Proxy (ZAP)](https://owasp.org/www-project-zap/)
+- [@artigo@Promptfoo](https://www.promptfoo.dev/)
+- [@artigo@PyRIT (Ferramenta de Identificação de Riscos em IA baseada em Python)](https://github.com/Azure/PyRIT)

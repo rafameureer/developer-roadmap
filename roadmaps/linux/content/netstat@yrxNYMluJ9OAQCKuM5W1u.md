@@ -1,8 +1,8 @@
 # Netstat
 
-Netstat is a command-line tool for network troubleshooting and performance measurement in Linux. It provides network statistics, open ports, routing table information, and protocol details. Use options like `-n` for numerical addresses, `-c` for continuous monitoring, and `-t`/`-u` for specific protocols. Example: `netstat -n` lists all connections with numerical values.
+Netstat é uma ferramenta de linha de comando para diagnóstico e medição de desempenho da rede no Linux. Ele fornece estatísticas de rede, portas abertas, informações da tabela de roteamento e detalhes de protocolo. Use opções como `-n` para endereços numéricos, `-c` para monitoramento contínuo e `-t`/`-u` para protocolos específicos. Exemplo: `netstat -n` lista todas as conexões com valores numéricos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Netstat Command in Linux](https://linuxhandbook.com/netstat-command/)
-- [@article@How to Use netstat on Linux](https://www.howtogeek.com/513003/how-to-use-netstat-on-linux/)
+- [@artigo@Comando Netstat no Linux](https://linuxhandbook.com/netstat-command/)
+- [@artigo@Como Usar o netstat no Linux](https://www.howtogeek.com/513003/how-to-use-netstat-on-linux/)

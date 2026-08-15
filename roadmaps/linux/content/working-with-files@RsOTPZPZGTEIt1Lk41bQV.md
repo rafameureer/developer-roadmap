@@ -1,11 +1,11 @@
-# Working with Files
+# Trabalhando com Arquivos
 
-Working with files is an essential part of Linux and it's a skill every Linux user must have. In Linux, everything is considered a file: texts, images, systems, devices, and directories. Linux provides multiple command-line utilities to create, view, move or search files. Some of the basic commands for file handling in Linux terminal include `touch` for creating files, `mv` for moving files, `cp` for copying files, `rm` for removing files, and `ls` for listing files and directories.
+Trabalhar com arquivos é uma parte essencial do Linux e é um habilidade que todos os usuários do Linux devem ter. No Linux, tudo é considerado um arquivo: textos, imagens, sistemas, dispositivos e diretórios. O Linux fornece várias utilitárias de linha de comando para criar, visualizar, mover ou pesquisar arquivos. Alguns dos comandos básicos para manipulação de arquivos no terminal do Linux incluem `touch` para criar arquivos, `mv` para mover arquivos, `cp` para copiar arquivos, `rm` para remover arquivos e `ls` para listar arquivos e diretórios.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Editing Files in Linux Command Line](https://itsfoss.com/edit-files-linux/)
-- [@article@Mastering cp and mv Commands in Linux](https://dev.to/ldwit/mastering-cp-and-mv-commands-in-linux-plus-related-cmds-5cc9)
-- [@article@Vim Tutorial for Beginners](https://linuxconfig.org/vim-tutorial)
-- [@article@Linux Basic Files Operations](https://labex.io/tutorials/linux-basic-files-operations-270248)
-- [@article@What is the Difference Between Cat and Touch Command](https://linuxways.net/centos/what-is-the-difference-between-cat-and-touch-command/)
+- [@artigo@Editando Arquivos no Terminal do Linux](https://itsfoss.com/edit-files-linux/)
+- [@artigo@Dominando os Comandos cp e mv no Linux](https://dev.to/ldwit/mastering-cp-and-mv-commands-in-linux-plus-related-cmds-5cc9)
+- [@artigo@Tutorial do Vim para Iniciantes](https://linuxconfig.org/vim-tutorial)
+- [@artigo@Operações Básicas de Arquivos no Linux](https://labex.io/tutorials/linux-basic-files-operations-270248)
+- [@artigo@O que é a Diferença Entre os Comandos Cat e Touch](https://linuxways.net/centos/what-is-the-difference-between-cat-and-touch-command/)

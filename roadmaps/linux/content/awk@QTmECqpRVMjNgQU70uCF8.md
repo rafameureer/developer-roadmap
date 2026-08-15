@@ -1,10 +1,10 @@
 # AWK
 
-AWK is a powerful text-processing language for Unix-like systems, named after its creators Aho, Weinberger, and Kernighan. It reads files line by line, identifies patterns, and executes actions on matches. Commonly used in bash scripts for sorting, filtering, and report generation.
+AWK é um poderoso linguagem de processamento de texto para sistemas Unix-like, nomeada em homenagem aos seus criadores Aho, Weinberger e Kernighan. Ele lê arquivos linha por linha, identifica padrões e executa ações nas correspondências. Comumente usado em scripts bash para classificação, filtragem e geração de relatórios.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@IBM.com: Awk by Example](https://developer.ibm.com/tutorials/l-awk1/)
-- [@article@AWK Tutorial](https://linuxhandbook.com/awk-command-tutorial/)
-- [@article@Linux awk Command: Text Processing](https://labex.io/tutorials/linux-linux-awk-command-text-processing-388493)
-- [@video@Learning Awk Is Essential For Linux Users](https://www.youtube.com/watch?v=9YOZmI-zWok)
+- [@artigo@IBM.com: Awk por Exemplo](https://developer.ibm.com/tutorials/l-awk1/)
+- [@artigo@Tutorial AWK](https://linuxhandbook.com/awk-command-tutorial/)
+- [@artigo@Comando Linux awk: Processamento de Texto](https://labex.io/tutorials/linux-linux-awk-command-text-processing-388493)
+- [@vídeo@Aprender Awk é Essencial para Usuários do Linux](https://www.youtube.com/watch?v=9YOZmI-zWok)

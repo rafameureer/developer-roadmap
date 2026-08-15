@@ -1,9 +1,9 @@
 # Uniq
 
-`uniq` is an extremely useful command-line program for text processing. It aids in the examination and manipulation of text files by comparing or filtering out repeated lines that are adjacent. Whether you're dealing with a list of data or a large text document, the `uniq` command allows you to find and filter out duplicate lines, or even provide a count of each unique line in a file. It's important to remember that `uniq` only removes duplicates that are next to each other, so to get the most out of this command, data is often sorted using the `sort` command first.
+O comando `uniq` é um programa de linha de comando extremamente útil para o processamento de texto. Ele ajuda na examinação e manipulação de arquivos de texto comparando ou filtrando linhas repetidas adjacentes. Seja lidando com uma lista de dados ou um documento de texto grande, o comando `uniq` permite encontrar e filtrar linhas duplicadas, ou até mesmo fornecer uma contagem de cada linha única em um arquivo. É importante lembrar que `uniq` remove apenas as duplicatas que estão lado a lado, então para obter o máximo desse comando, os dados geralmente são classificados primeiro usando o comando `sort`.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Uniq Command in Unix and Linux: 7 Essential Examples](https://linuxhandbook.com/uniq-command/)
-- [@article@Linux uniq Command: Duplicate Filtering](https://labex.io/tutorials/linux-linux-uniq-command-duplicate-filtering-219199)
-- [@article@How to Use the Uniq Command to Process Lists in Linux](https://www.redhat.com/en/blog/uniq-command-lists)
+- [@article@Comando Uniq em Unix e Linux: 7 Exemplos Essenciais](https://linuxhandbook.com/uniq-command/)
+- [@article@Comando Linux uniq: Filtro de Duplicatas](https://labex.io/tutorials/linux-linux-uniq-command-duplicate-filtering-219199)
+- [@article@Como Usar o Comando Uniq para Processar Listas no Linux](https://www.redhat.com/en/blog/uniq-command-lists)

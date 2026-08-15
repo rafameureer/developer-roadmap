@@ -1,8 +1,8 @@
 # ICMP
 
-Internet Control Message Protocol (ICMP) is a supportive protocol used by network devices to communicate error messages and operational information. Essential for Linux network troubleshooting, ICMP enables tools like `ping` and `traceroute` to diagnose network connectivity and routing issues. Use `ping www.google.com` to send ICMP echo requests and test network reachability effectively.
+Protocolo de Mensagem de Controle da Internet (ICMP) é um protocolo auxiliar usado por dispositivos de rede para comunicar mensagens de erro e informações operacionais. Essencial para o diagnóstico de problemas de rede no Linux, o ICMP permite que ferramentas como `ping` e `traceroute` diagnosticem problemas de conectividade e roteamento da rede. Use `ping www.google.com` para enviar solicitações de eco ICMP e testar a alcançabilidade da rede de forma eficaz.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@icmp(7) — Linux manual page](https://www.man7.org/linux/man-pages/man7/icmp.7.html)
-- [@article@Understanding ICMP Packets with Examples](https://www.howtouselinux.com/post/icmp-packets)
+- [@article@icmp(7) — Página do Manual Linux](https://www.man7.org/linux/man-pages/man7/icmp.7.html)
+- [@article@Entendendo Pacotes ICMP com Exemplos](https://www.howtouselinux.com/post/icmp-packets)

@@ -1,10 +1,10 @@
-# Text Processing
+# Processamento de Texto
 
-Linux offers robust text processing capabilities essential for system administrators and developers. Users can leverage command-line tools like `awk`, `sed`, `grep`, and `cut` for tasks such as filtering, substitution, and regular expression handling. Scripting languages like Python and Perl further enhance text processing. While primarily command-line based, Linux also provides GUI text editors such as `gedit`, `nano`, and `vim`. Proficiency in these tools is vital for automating tasks, parsing files, and efficient data mining.
+O Linux oferece capacidades robustas de processamento de texto essenciais para administradores de sistemas e desenvolvedores. Os usuários podem aproveitar ferramentas de linha de comando como `awk`, `sed`, `grep` e `cut` para tarefas como filtragem, substituição e manipulação de expressões regulares. Linguagens de script como Python e Perl ainda melhoram o processamento de texto. Embora principalmente baseadas na linha de comando, o Linux também fornece editores de texto com interface gráfica como `gedit`, `nano` e `vim`. Proficiência nesses ferramentas é crucial para automatizar tarefas, analisar arquivos e minerar dados eficientemente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Common Linux Text Processing Commands](https://www.commandinline.com/linux/common-linux-text-processing-commands/)
-- [@article@Linux Filters](https://ryanstutorials.net/linuxtutorial/filters.php)
-- [@article@Linux Text Processing Command](https://earthly.dev/blog/linux-text-processing-commands/)
-- [@article@Master Linux Text Processing Commands](https://everythingdevops.dev/linux-text-processing-commands/)
+- [@artigo@Comandos Comuns de Processamento de Texto no Linux](https://www.commandinline.com/linux/common-linux-text-processing-commands/)
+- [@artigo@Filtros no Linux](https://ryanstutorials.net/linuxtutorial/filters.php)
+- [@artigo@Comando de Processamento de Texto no Linux](https://earthly.dev/blog/linux-text-processing-commands/)
+- [@artigo@Dominando Comandos de Processamento de Texto no Linux](https://everythingdevops.dev/linux-text-processing-commands/)

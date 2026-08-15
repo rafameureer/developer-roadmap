@@ -1,8 +1,8 @@
-# Cut Command
+# Comando Cut
 
-The `cut` command is a text processing utility that allows you to cut out sections of each line from a file or output, and display it on the standard output (usually, the terminal). It's commonly used in scripts and pipelines, especially for file operations and text manipulation.
+O comando `cut` é uma utilidade de processamento de texto que permite cortar seções de cada linha de um arquivo ou saída e exibi-las na saída padrão (geralmente, o terminal). É comumente usado em scripts e pipelines, especialmente para operações de arquivos e manipulação de texto.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Cut Command in Linux | Linuxize](https://linuxize.com/post/linux-cut-command/)
-- [@article@Linux cut Command: Text Cutting](https://labex.io/tutorials/linux-linux-cut-command-text-cutting-219187)
+- [@artigo@Comando Cut no Linux | Linuxize](https://linuxize.com/post/linux-cut-command/)
+- [@artigo@Comando Linux cut: Cortar Texto](https://labex.io/tutorials/linux-linux-cut-command-text-cutting-219187)

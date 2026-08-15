@@ -1,9 +1,9 @@
 # Subnetting
 
-Subnetting divides networks into smaller subnets to improve performance and security in Linux networking. It organizes IP addresses within IP addressing schemes, preventing conflicts and efficiently utilizing address ranges. Use `route -n` to view routing tables and `route add -net xxx.xxx.xxx.x/xx gw yyy.yyy.yyy.y` to add subnets. Essential for complex networking environments.
+O subnetting divide redes em sub-redes menores para melhorar o desempenho e a segurança na rede Linux. Ele organiza endereços IP dentro de esquemas de endereçamento IP, evitando conflitos e utilizando eficientemente os intervalos de endereços. Use `route -n` para visualizar as tabelas de roteamento e `route add -net xxx.xxx.xxx.x/xx gw yyy.yyy.yyy.y` para adicionar sub-redes. Essencial em ambientes de rede complexos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Understanding IP Addressing and Subnetting in Linux](https://useful.codes/understanding-ip-addressing-and-subnetting-in-linux/)
-- [@article@The Basics of IP Subnetting | Linux Journal](https://www.linuxjournal.com/article/6287)
-- [@article@How to Find Subnet Mask in Linux](https://www.howtouselinux.com/post/find-subnet-mask-on-linux)
+- [@artigo@Entendendo o Endereçamento IP e Subnetting no Linux](https://useful.codes/understanding-ip-addressing-and-subnetting-in-linux/)
+- [@artigo@As Básicas do Subnetting | Linux Journal](https://www.linuxjournal.com/article/6287)
+- [@artigo@Como Encontrar a Máscara de Sub-rede no Linux](https://www.howtouselinux.com/post/find-subnet-mask-on-linux)

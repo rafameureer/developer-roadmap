@@ -1,8 +1,8 @@
-# Available Memory and Disk
+# Memória Disponível e Disco
 
-Linux provides tools like `free`, `vmstat`, and `top` to monitor system memory usage and performance. The `free -h` command shows total, used, free, shared, buffer/cache, and available memory in human-readable format. Regular memory monitoring helps maintain optimal server performance, prevent overload, and troubleshoot resource issues effectively.
+O Linux oferece ferramentas como `free`, `vmstat` e `top` para monitorar o uso de memória do sistema e desempenho. O comando `free -h` mostra a memória total, usada, livre, compartilhada, buffer/cache e disponível em formato legível por humanos. A monitorização regular da memória ajuda a manter o desempenho ótimo do servidor, prevenir sobrecarga e resolver problemas de recursos de forma eficaz.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@5 Best Ways To Check Available Memory In Linux](https://itslinuxfoss.com/5-ways-check-available-memory-linux/)
-- [@article@Free vs. Available Memory in Linux](https://linuxblog.io/free-vs-available-memory-in-linux/)
+- [@artigo@5 Melhores Maneiras de Verificar Memória Disponível no Linux](https://itslinuxfoss.com/5-ways-check-available-memory-linux/)
+- [@artigo@Diferença entre Memória Livre e Memória Disponível no Linux](https://linuxblog.io/free-vs-available-memory-in-linux/)

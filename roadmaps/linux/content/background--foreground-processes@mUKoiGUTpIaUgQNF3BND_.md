@@ -1,8 +1,8 @@
-# Background and Foreground Processes
+# Processos em Background e Foreground
 
-Linux processes run in foreground (taking direct user input) or background (running independently). Send processes to background with `&` or `bg` command. Bring to foreground with `fg`. Use Ctrl+Z to pause, then `bg` to resume in background. Part of job control for managing multiple tasks simultaneously from single terminal.
+Os processos do Linux podem rodar no foreground (recebendo entrada direta do usuário) ou no background (rodando independentemente). Envie processos para o background com o comando `&` ou `bg`. Traga-os para o foreground com o comando `fg`. Use Ctrl+Z para pausar, então use `bg` para retomá-los no background. Parte do controle de trabalho para gerenciar várias tarefas simultaneamente a partir de um único terminal.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Understanding Foreground and Background Processes](https://linuxconfig.org/understanding-foreground-and-background-linux-processes)
-- [@article@Running Linux Commands in Background and Foreground](https://linuxhandbook.com/run-process-background/)
+- [@artigo@Entendendo Processos em Background e Foreground](https://linuxconfig.org/understanding-foreground-and-background-linux-processes)
+- [@artigo@Executando Comandos Linux no Background e Foreground](https://linuxhandbook.com/run-process-background/)

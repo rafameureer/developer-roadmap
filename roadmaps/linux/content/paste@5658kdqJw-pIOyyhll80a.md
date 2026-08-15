@@ -1,8 +1,8 @@
-# Paste
+# Colar
 
-In Linux, paste is a powerful text processing utility that is primarily used for merging lines from multiple files. It allows users to combine data by columns rather than rows, adding immense flexibility to textual data manipulation. Users can choose a specific delimiter for separating columns, providing a range of ways to format the output. You may use `paste` command like `$ paste file1.txt file2.txt > combined.txt`.
+No Linux, o comando `paste` é uma ferramenta de processamento de texto poderosa que é principalmente usada para mesclar linhas de vários arquivos. Ele permite aos usuários combinar dados por colunas em vez de linhas, adicionando enorme flexibilidade na manipulação de dados textuais. Os usuários podem escolher um delimitador específico para separar as colunas, fornecendo várias maneiras de formatar a saída. Você pode usar o comando `paste` como `$ paste file1.txt file2.txt > combined.txt`.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Paste Command in Linux (Merge Lines)](https://linuxize.com/post/paste-command-in-linux/)
-- [@article@7 Practical Usage of Paste Command in Linux](https://linuxhandbook.com/paste-command/)
+- [@artigo@Comando Colar em Linux (Mesclar Linhas)](https://linuxize.com/post/paste-command-in-linux/)
+- [@artigo@7 Usos Práticos do Comando Colar em Linux](https://linuxhandbook.com/paste-command/)

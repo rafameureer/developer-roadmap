@@ -1,9 +1,9 @@
-# Listing Installed Packages
+# Listagem de Pacotes Instalados
 
-Linux distributions use different package managers: `apt` (Debian-based), `dnf` (Fedora), `zypper` (OpenSUSE), `pacman` (Arch). Listing installed packages helps with auditing software and deployment automation. Commands: `sudo apt list --installed` for apt systems, `dnf list installed` for dnf systems. Each distribution has its own syntax for this command.
+Distribuições Linux usam diferentes gerenciadores de pacotes: `apt` (baseadas em Debian), `dnf` (Fedora), `zypper` (OpenSUSE) e `pacman` (Arch). Listar pacotes instalados ajuda com auditoria de software e automação de implantação. Comandos: `sudo apt list --installed` para sistemas baseados em apt, `dnf list installed` para sistemas baseados em dnf. Cada distribuição tem sua própria sintaxe para esse comando.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@APT Package Manager](https://www.debian.org/doc/manuals/apt-guide/index.en.html)
-- [@article@5 ways to list installed packages in Linux](https://www.howtouselinux.com/post/list-installed-packages-in-linux)
-- [@article@Linux Package Manager Explained](https://geekflare.com/dev/linux-package-manager-explained/)
+- [@oficial@Gerenciador de Pacotes APT](https://www.debian.org/doc/manuals/apt-guide/index.en.html)
+- [@artigo@5 maneiras de listar pacotes instalados no Linux](https://www.howtouselinux.com/post/list-installed-packages-in-linux)
+- [@artigo@Explicação do Gerenciador de Pacotes do Linux](https://geekflare.com/dev/linux-package-manager-explained/)

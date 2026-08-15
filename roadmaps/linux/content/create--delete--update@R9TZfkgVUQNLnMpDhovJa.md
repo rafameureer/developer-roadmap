@@ -1,9 +1,9 @@
-# Create, Update, and Delete Users
+# Criar, Atualizar e Excluir Usuários
 
-Linux user management involves creating, updating, and deleting user accounts for system security and resource utilization. Key commands: `useradd`/`adduser` (create users), `usermod` (update user details like home directory/shell), `userdel` (delete users). Essential for maintaining secure, organized multi-user system environments and efficient resource allocation.
+A gestão de usuários no Linux envolve a criação, atualização e exclusão de contas de usuário para segurança do sistema e utilização eficiente dos recursos. Comandos-chave: `useradd`/`adduser` (criar usuários), `usermod` (atualizar detalhes do usuário como diretório home/shell), `userdel` (excluir usuários). Essencial para manter ambientes de sistemas multiusuário seguros, organizados e eficientes na alocação de recursos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Creating, Modifying, and Deleting User Accounts](https://serveracademy.com/courses/linux-server-administration/creating-modifying-and-deleting-user-accounts/)
-- [@article@How to create, update, and delete users account on Linux](https://linuxconfig.org/how-to-create-modify-and-delete-users-account-on-linux)
-- [@article@User Management in Linux: A Beginner's Guide](https://dev.to/austinozor/user-management-in-linux-a-beginners-guide-to-creating-modifying-and-deleting-users-fhf)
+- [@artigo@Criando, Modificando e Excluindo Contas de Usuário](https://serveracademy.com/courses/linux-server-administration/creating-modifying-and-deleting-user-accounts/)
+- [@artigo@Como criar, atualizar e excluir contas de usuário no Linux](https://linuxconfig.org/how-to-create-modify-and-delete-users-account-on-linux)
+- [@artigo@Gerenciamento de Usuários no Linux: Um Guia Iniciante](https://dev.to/austinozor/user-management-in-linux-a-beginners-guide-to-creating-modifying-and-deleting-users-fhf)

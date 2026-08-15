@@ -1,8 +1,8 @@
-# LVM (Logical Volume Manager)
+# LVM (Gerenciador de Volume Lógico)
 
-LVM provides logical volume management through device mapper framework, offering flexible disk management with resizing, mirroring, and moving capabilities. Three levels: Physical Volumes (PVs - actual disks), Volume Groups (VGs - storage pools), and Logical Volumes (LVs - carved portions). Create with `pvcreate`, `vgcreate`, and `lvcreate` commands. Essential for enterprise storage systems.
+O LVM oferece gerenciamento de volume lógico através do framework Mapper de Dispositivos, proporcionando gestão flexível de disco com capacidades de redimensionamento, mirroring e movimento. Três níveis: Volumes Físicos (PVs - discos reais), Grupos de Volume (VGs - pools de armazenamento) e Volumes Lógicos (LVs - partes cortadas). Crie com os comandos `pvcreate`, `vgcreate` e `lvcreate`. Essencial para sistemas de armazenamento empresariais.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@The Complete Beginner's Guide to LVM in Linux](https://linuxhandbook.com/lvm-guide/)
-- [@article@A Beginner's Guide to LVM in Linux - It's FOSS](https://itsfoss.com/lvm-guide/)
+- [@artigo@Guia Completo para Iniciantes em LVM no Linux](https://linuxhandbook.com/lvm-guide/)
+- [@artigo@Guia para Iniciantes em LVM no Linux - É FOSS](https://itsfoss.com/lvm-guide/)

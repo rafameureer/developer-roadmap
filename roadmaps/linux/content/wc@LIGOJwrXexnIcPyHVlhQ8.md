@@ -1,9 +1,9 @@
-# WC - Text Processing
+# WC - Processamento de Texto
 
-The `wc` command is a commonly used tool in Unix or Linux that allows users to count the number of bytes, characters, words, and lines in a file or in data piped from standard input. The name `wc` stands for 'word count', but it can do much more than just count words. Common usage of `wc` includes tracking program output, counting code lines, and more. It's an invaluable tool for analyzing text at both granular and larger scales.
+O comando `wc` é uma ferramenta comumente usada no Unix ou Linux que permite aos usuários contar o número de bytes, caracteres, palavras e linhas em um arquivo ou em dados encaminhados pela entrada padrão. O nome `wc` significa 'contagem de palavras', mas ele pode fazer muito mais do que apenas contar palavras. Uso comum do `wc` inclui rastreamento da saída de programas, contagem de linhas de código e muito mais. É uma ferramenta invaluable para analisar texto em escala granular e maior.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Wc Command in Linux (Count Number of Lines, Words, and Characters)](https://linuxize.com/post/linux-wc-command/)
-- [@article@wc Command Examples - Linux Handbook](https://linuxhandbook.com/wc-command/)
-- [@article@Linux wc Command: Text Counting](https://labex.io/tutorials/linux-linux-wc-command-text-counting-219200)
+- [@artigo@Comando WC no Linux (Contar Número de Linhas, Palavras e Caracteres)](https://linuxize.com/post/linux-wc-command/)
+- [@artigo@Exemplos do Comando WC - Guia do Linux](https://linuxhandbook.com/wc-command/)
+- [@artigo@Comando WC no Linux: Contagem de Texto](https://labex.io/tutorials/linux-linux-wc-command-text-counting-219200)

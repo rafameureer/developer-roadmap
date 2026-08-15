@@ -1,8 +1,8 @@
-# Kill Processes
+# Matando Processos
 
-The `kill` command terminates processes manually by sending specific signals to Process IDs (PIDs). Used when processes behave unexpectedly due to system bugs or accidental initiation. Syntax: `kill [signal or option] PID(s)`. Essential for Linux process management, allowing administrators to stop, pause, or terminate problematic processes and maintain system stability.
+O comando `kill` termina processos manualmente enviando sinais específicos para IDs de processo (PIDs). Usado quando os processos se comportam de forma inesperada devido a bugs do sistema ou inicialização acidental. Sintaxe: `kill [sinal ou opção] PID(s)`. Essencial para o gerenciamento de processos no Linux, permitindo que administradores parem, pausem ou terminem processos problemáticos e mantenham a estabilidade do sistema.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Using Kill Command in Linux](https://linuxhandbook.com/kill-command/)
-- [@article@Kill Command in Linux](https://linuxize.com/post/kill-command-in-linux/)
+- [@artigo@Usando o comando kill no Linux](https://linuxhandbook.com/kill-command/)
+- [@artigo@Comando kill no Linux](https://linuxize.com/post/kill-command-in-linux/)

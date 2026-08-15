@@ -1,9 +1,9 @@
 # TCP/IP
 
-TCP/IP (Transmission Control Protocol/Internet Protocol) forms the backbone of internet communication, allowing computers to connect and transfer data. It comprises four layers: Network Interface, Internet, Transport, and Application. Essential for Linux networking, enabling hosts to interact across networks. Use `netstat -at` to view active TCP/IP connections. Crucial for network management and troubleshooting.
+TCP/IP (Protocolo de Controle de Transmissão/Protocolo de Internet) forma a base da comunicação na internet, permitindo que computadores se conectem e transfiram dados. Ele compõe quatro camadas: Interface de Rede, Internet, Transporte e Aplicação. Essencial para o networking do Linux, habilitando os hosts a interagir em redes. Use `netstat -at` para exibir conexões TCP/IP ativas. Crítico para o gerenciamento de rede e solução de problemas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@TCP/IP Commands for Linux](https://whatismyipaddress.com/tcp-ip-commands-linux)
-- [@article@Netstat Command in Linux](https://phoenixnap.com/kb/netstat-command)
-- [@article@Netstat Command in Linux: 13 Practical Examples](https://linuxhandbook.com/netstat-command/)
+- [@artigo@Comandos TCP/IP no Linux](https://whatismyipaddress.com/tcp-ip-commands-linux)
+- [@artigo@Comando Netstat no Linux](https://phoenixnap.com/kb/netstat-command)
+- [@artigo@13 Exemplos Práticos do Comando Netstat no Linux](https://linuxhandbook.com/netstat-command/)

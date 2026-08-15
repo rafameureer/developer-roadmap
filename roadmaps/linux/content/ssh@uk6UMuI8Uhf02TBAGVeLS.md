@@ -1,9 +1,9 @@
 # SSH
 
-SSH (Secure Shell) is a cryptographic network protocol providing secure remote access, command execution, and data communication between networked computers. Replaces insecure protocols like Telnet with confidentiality, integrity, and security. Use `ssh username@server_ip_address` to connect to remote Linux servers. Essential for secure system administration and remote management.
+SSH (Secure Shell) é um protocolo de rede criptográfico que fornece acesso remoto seguro, execução de comandos e comunicação de dados entre computadores conectados. Substitui protocólos inseguros como Telnet com confidencialidade, integridade e segurança. Use `ssh nome_do_usuario@endereço_ip_do_servidor` para se conectar a servidores Linux remotos. Essencial para administração de sistemas segura e gerenciamento remoto.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Secure Shell](https://en.wikipedia.org/wiki/Secure_Shell)
-- [@article@Mastering SSH - A Complete Guide to Secure Shell Protocol](https://www.socketxp.com/iot/ssh-secure-shell/)
-- [@article@What is SSH? | Secure Shell (SSH) Protocol - Cloudflare](https://www.cloudflare.com/learning/access-management/what-is-ssh/)
+- [@artigo@Secure Shell](https://en.wikipedia.org/wiki/Secure_Shell)
+- [@artigo@Dominando SSH - Um Guia Completo para o Protocolo Secure Shell](https://www.socketxp.com/iot/ssh-secure-shell/)
+- [@artigo@O que é SSH? | Protocolo de Segurança SSH (SSH) - Cloudflare](https://www.cloudflare.com/learning/access-management/what-is-ssh/)

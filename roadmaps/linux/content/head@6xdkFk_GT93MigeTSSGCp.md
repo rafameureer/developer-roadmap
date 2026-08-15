@@ -1,8 +1,8 @@
-# Head Command
+# Comando Head
 
-The `head` command in Linux is a text processing utility that allows a user to output the first part (or the "head") of files. It is commonly used for previewing the start of a file without loading the entire document into memory, which can act as an efficient way of quickly examining the data in very large files. By default, the `head` command prints the first 10 lines of each file to standard output, which is the terminal in most systems.
+O comando `head` no Linux é uma ferramenta de processamento de texto que permite a um usuário exibir a primeira parte (ou o "cabeçalho") dos arquivos. É comumente usado para pré-visualizar o início de um arquivo sem carregar todo o documento na memória, o que pode atuar como uma maneira eficiente de examinar rapidamente os dados em arquivos muito grandes. Por padrão, o comando `head` imprime as primeiras 10 linhas de cada arquivo na saída padrão, que é o terminal em大多数 sistemas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Head Command in Linux - 5 Essential Examples](https://linuxhandbook.com/head-command/)
-- [@article@Linux head Command: File Beginning Display](https://labex.io/tutorials/linux-linux-head-command-file-beginning-display-214302)
+- [@article@Comando Head no Linux - 5 Exemplos Essenciais](https://linuxhandbook.com/head-command/)
+- [@article@Comando HEAD no Linux: Exibição do Início do Arquivo](https://labex.io/tutorials/linux-linux-head-command-file-beginning-display-214302)

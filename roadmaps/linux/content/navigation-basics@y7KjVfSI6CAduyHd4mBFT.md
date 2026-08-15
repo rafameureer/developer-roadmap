@@ -1,11 +1,11 @@
-# Navigation Basics
+# Navegação Básica
 
-In Linux, navigation between directories and files is a fundamental, yet essential function that allows you to exploit the power of the command-line interface (CLI). Mastering the basic Linux navigation commands such as `cd`, `pwd`, `ls`, and `tree` enables you to flawlessly move from one point to another within the filesystem, display the list of files & directories, and understand your position relative to other system components.
+No Linux, a navegação entre diretórios e arquivos é uma função fundamental, mas essencial, que permite aproveitar o poder da interface de linha de comando (CLI). Dominar os comandos básicos de navegação do Linux como `cd`, `pwd`, `ls` e `tree` habilita você a se mover perfeitamente de um ponto para outro no sistema de arquivos, exibir a lista de arquivos & diretórios e entender sua posição em relação aos outros componentes do sistema.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@Linux for Noobs (Hands-on)](https://labex.io/courses/linux-for-noobs)
-- [@article@Linux Filesystem Navigation Basics](https://linuxconfig.org/filesystem-basics)
-- [@article@Basic Navigation Commands: cd, ls, and pwd](https://www.linuxbash.sh/post/basic-navigation-commands-cd-ls-and-pwd)
-- [@article@Practice on Linux Fundamentals](https://linuxjourney.com/)
-- [@video@Linux fundamentals](https://www.youtube.com/watch?v=kPylihJRG70&t=1381s&ab_channel=TryHackMe)
+- [@curso@Linux para Iniciantes (Prática)](https://labex.io/courses/linux-for-noobs)
+- [@artigo@Básicas de Navegação no Sistema de Arquivos Linux](https://linuxconfig.org/filesystem-basics)
+- [@artigo@Comandos Básicos de Navegação: cd, ls e pwd](https://www.linuxbash.sh/post/basic-navigation-commands-cd-ls-and-pwd)
+- [@artigo@Prática em Fundamentos do Linux](https://linuxjourney.com/)
+- [@vídeo@Fundamentos do Linux](https://www.youtube.com/watch?v=kPylihJRG70&t=1381s&ab_channel=TryHackMe)

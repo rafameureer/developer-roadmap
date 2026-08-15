@@ -1,8 +1,8 @@
-# Process Signals
+# Sinais de Processos
 
-Process signals are communication mechanisms in Linux that notify processes of synchronous or asynchronous events. Common signals include SIGINT, SIGSTOP, SIGKILL for interrupting, pausing, or terminating processes. Example: `kill -SIGSTOP 12345` suspends process with PID 12345 until `SIGCONT` is received. Essential for comprehensive process management and resource allocation.
+Os sinais de processo são mecanismos de comunicação no Linux que notificam processos de eventos síncronos ou assíncronos. Sinais comuns incluem SIGINT, SIGSTOP e SIGKILL para interromper, pausar ou terminar processos. Exemplo: `kill -SIGSTOP 12345` suspenso o processo com PID 12345 até que seja recebido um SIGCONT. Essencial para gerenciamento completo de processos e alocação de recursos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Understanding Linux Process Signals](https://www.ceos3c.com/linux/understanding-linux-process-signals-a-complete/)
-- [@article@Linux Process Signals and their meaning](https://linux-audit.com/processes/linux-process-signals/)
+- [@artigo@Entendendo Sinais de Processo no Linux](https://www.ceos3c.com/linux/understanding-linux-process-signals-a-complete/)
+- [@artigo@Sinais de Processo do Linux e seu significado](https://linux-audit.com/processes/linux-process-signals/)

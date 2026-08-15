@@ -1,8 +1,8 @@
-# Conditionals
+# Condicionalidades
 
-Shell conditionals allow scripts to make decisions based on conditions using `if`, `elif`, and `else` statements. These control process flow by evaluating string variables, arithmetic tests, or process status. Conditions are checked sequentially - if true, the corresponding code block executes; otherwise, it moves to the next condition until finding a match or reaching `else`.
+As condicionais no shell permitem que scripts tomem decisões com base em condições usando as instruções `if`, `elif` e `else`. Essas instruções controlam o fluxo do processo avaliando variáveis de string, testes aritméticos ou status de processos. As condições são verificadas sequencialmente - se verdadeira, o bloco de código correspondente é executado; caso contrário, ele move para a próxima condição até encontrar uma correspondência ou chegar ao `else`.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Bash Scripting: Conditionals](https://linuxconfig.org/bash-scripting-conditionals)
-- [@article@Using If Else in Bash Scripts \[Examples\] - Linux Handbook](https://linuxhandbook.com/if-else-bash/)
+- [@article@Scripting em Bash: Condicionalidades](https://linuxconfig.org/bash-scripting-conditionals)
+- [@article@Usando If Else em Scripts Bash [Exemplos] - Linux Handbook](https://linuxhandbook.com/if-else-bash/)

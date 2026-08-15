@@ -4,7 +4,7 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 
 ---
 
-> ⚠️ **Total de itens sinalizados:** 1162
+> ⚠️ **Total de itens sinalizados:** 1170
 
 | Arquivo / Tópico | Motivo da Sinalização | Data/Hora |
 |---|---|---|
@@ -1170,3 +1170,11 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 | `roadmaps/leetcode/content/valid-palindrome@x6-LRp_zgv3WNE-gsS3Cw.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:16:18.187773 |
 | `roadmaps/leetcode/content/valid-parentheses@YNt85B--HBS2IKDFVLJpx.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:16:22.925362 |
 | `roadmaps/leetcode/content/what-are-coding-patterns@ScTtg57POE0kxlZFxYUCs.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:16:27.465079 |
+| `roadmaps/linux/content/basic-commands@qLeEEwBvlGt1fP5Qcreah.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:17:37.636937 |
+| `roadmaps/linux/content/boot-loaders@o5lSQFW-V_PqndGqo1mp3.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:17:42.606183 |
+| `roadmaps/linux/content/booting-linux@DQEa8LrJ9TVW4ULBE4aHJ.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:17:46.399800 |
+| `roadmaps/linux/content/inodes@AwQJYL60NNbA5_z7iLcM7.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:20:23.514197 |
+| `roadmaps/linux/content/install--remove--upgrade-packages@xEHiB-egkkcBuZmgMoqHT.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:20:26.462421 |
+| `roadmaps/linux/content/ip-routing@D0yUzzaJsfhtdBWMtquAj.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:20:30.587965 |
+| `roadmaps/linux/content/loops@WJT-yrMq8cEI87RHWA2jY.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:21:12.439069 |
+| `roadmaps/linux/content/managing-permissions@L6RMExeqi9501y-eCHDt1.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:21:21.723392 |

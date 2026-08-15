@@ -1,8 +1,8 @@
-# Split Command
+# Comando de Divisão
 
-Linux provides an extensive set of tools for manipulating text data. One of such utilities is the `split` command that is used, as the name suggests, to split large files into smaller files. The `split` command in Linux divides a file into multiple equal parts, based on the lines or bytes specified by the user.
+O Linux oferece um conjunto extenso de ferramentas para manipular dados de texto. Uma dessas utilidades é o comando `split`, que é usado, como sugere o nome, para dividir arquivos grandes em arquivos menores. O comando `split` no Linux divide um arquivo em várias partes iguais, com base nas linhas ou bytes especificados pelo usuário.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Split Command in Linux: 9 Useful Examples](https://linuxhandbook.com/split-command/)
-- [@article@Split Command in Linux: Usage Guide with Examples](https://ioflood.com/blog/split-linux-command/)
+- [@artigo@Comando de Divisão no Linux: 9 Exemplos Úteis](https://linuxhandbook.com/split-command/)
+- [@artigo@Guia de Uso do Comando de Divisão no Linux com Exemplos](https://ioflood.com/blog/split-linux-command/)

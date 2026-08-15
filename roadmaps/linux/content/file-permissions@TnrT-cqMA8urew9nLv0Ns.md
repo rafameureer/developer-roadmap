@@ -1,9 +1,9 @@
-# File Permissions
+# Permissões de Arquivo
  
-File permissions control who can read, write, or execute a file, split into three categories: owner, group, and others. Each category can have any combination of read (r), write (w), and execute (x) permissions, often represented as a numeric value like 755. The `chmod` command changes these permissions, while `chown` changes which user or group owns the file.
+As permissões de arquivo controlam quem pode ler, escrever ou executar um arquivo, divididas em três categorias: proprietário, grupo e outros. Cada categoria pode ter qualquer combinação de permissões de leitura (r), escrita (w) e execução (x), geralmente representadas como um valor numérico como 755. O comando `chmod` altera essas permissões, enquanto o comando `chown` altera para qual usuário ou grupo pertence o arquivo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Linux File Permissions](https://linuxhandbook.com/linux-file-permissions/)
-- [@article@Linux Permissions of Files](https://labex.io/tutorials/linux-permissions-of-files-270252)
-- [@video@Linux File Permissions in 5 Minutes](https://www.youtube.com/watch?v=LnKoncbQBsM)
+- [@artigo@Permissões de Arquivo Linux](https://linuxhandbook.com/linux-file-permissions/)
+- [@artigo@Permissões de Arquivos no Linux](https://labex.io/tutorials/linux-permissions-of-files-270252)
+- [@vídeo@Permissões de Arquivo Linux em 5 Minutos](https://www.youtube.com/watch?v=LnKoncbQBsM)

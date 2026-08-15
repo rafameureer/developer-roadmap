@@ -1,8 +1,8 @@
-# Swap Space
+# Espaço de Troca
 
-Swap space extends physical memory by using disk storage when RAM is full. Inactive memory pages move to swap, freeing RAM but with performance impact due to slower disk access. Swap can exist as dedicated partitions or regular files. Create with `fallocate`, `mkswap`, and `swapon` commands. Critical for memory management and system stability optimization.
+O espaço de troca estende a memória física usando o armazenamento em disco quando a RAM está cheia. As páginas de memória inativas são movidas para o espaço de troca, liberando a RAM, mas com um impacto na performance devido ao acesso mais lento ao disco. O espaço de troca pode existir como partições dedicadas ou arquivos regulares. Crie com os comandos `fallocate`, `mkswap` e `swapon`. Crítico para o gerenciamento de memória e otimização da estabilidade do sistema.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Swap - Arch Wiki](https://wiki.archlinux.org/title/Swap)
-- [@article@How to Increase Swap Space on Linux](https://linuxconfig.org/how-to-increase-swap-space-on-linux)
+- [@artigo@Espaço de Troca - Wiki Arch](https://wiki.archlinux.org/title/Swap)
+- [@artigo@Como Aumentar o Espaço de Troca no Linux](https://linuxconfig.org/how-to-increase-swap-space-on-linux)

@@ -1,9 +1,9 @@
-# Soft and Hard Links
+# Links Simbólicos (Soft) e Hards
 
-Linux supports two types of file links. Hard links share the same inode and data as the original file - if the original is deleted, data remains accessible. Soft links (symbolic links) are shortcuts pointing to the original file path - they break if the original is removed. Create with `ln` for hard links and `ln -s` for soft links.
+O Linux suporta dois tipos de links de arquivo. Os links hards compartilham o mesmo inode e dados do arquivo original - se o original for excluído, os dados permanecerão acessíveis. Os links simbólicos (links simbólicos) são atalhos que apontam para o caminho do arquivo original - eles quebram se o original for removido. Crie com `ln` para links hards e `ln -s` para links simbólicos.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para saber mais:
 
-- [@article@Hard links and Soft links in Linux Explained](https://www.redhat.com/en/blog/linking-linux-explained)
-- [@article@Difference between hard link and soft link](https://kerneltalks.com/commands/difference-between-hard-link-and-soft-link/)
-- [@article@How to Understand the Difference between Hard and Symbolic Links in Linux](https://labex.io/tutorials/linux-how-to-understand-the-difference-between-hard-and-symbolic-links-in-linux-409929)
+- [@article@Hard links e Soft links no Linux explicados](https://www.redhat.com/en/blog/linking-linux-explained)
+- [@article@Diferença entre link hard e soft](https://kerneltalks.com/commands/difference-between-hard-link-and-soft-link/)
+- [@article@Como entender a diferença entre Hard e Symbolic Links no Linux](https://labex.io/tutorials/linux-how-to-understand-the-difference-between-hard-and-symbolic-links-in-linux-409929)

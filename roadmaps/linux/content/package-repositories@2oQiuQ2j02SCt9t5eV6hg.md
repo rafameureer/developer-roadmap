@@ -1,9 +1,9 @@
-# Repositories
+# Repositórios
 
-Repositories are storage locations containing collections of software packages for Linux distributions. They store thousands of compiled packages specific to each distribution (.deb for Debian/Ubuntu, .rpm for Fedora/CentOS). Repositories ensure secure, tested software with proper dependencies. Update commands: `sudo apt update` (Ubuntu), `sudo yum update` (CentOS/Fedora). Essential for secure software management.
+Repositórios são locais de armazenamento que contêm coleções de pacotes de software para distribuições Linux. Eles armazenam milhares de pacotes compilados específicos para cada distribuição (.deb para Debian/Ubuntu, .rpm para Fedora/CentOS). Repositórios garantem softwares seguros e testados com as dependências corretas. Comandos de atualização: `sudo apt update` (Ubuntu), `sudo yum update` (CentOS/Fedora). Essenciais para o gerenciamento seguro de software.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@APT Package Manager](https://www.debian.org/doc/manuals/apt-guide/index.en.html)
-- [@article@What is Repository in Linux?](https://linuxsimply.com/what-is-repository-in-linux/)
-- [@article@Official Repositories - ArchWiki](https://wiki.archlinux.org/title/Official_repositories)
+- [@oficial@Gerenciador de Pacotes APT](https://www.debian.org/doc/manuals/apt-guide/index.en.html)
+- [@artigo@O que é Repositório em Linux?](https://linuxsimply.com/what-is-repository-in-linux/)
+- [@artigo@Repositórios Oficiais - ArchWiki](https://wiki.archlinux.org/title/Official_repositories)

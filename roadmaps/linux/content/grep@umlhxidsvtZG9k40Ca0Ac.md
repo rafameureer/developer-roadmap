@@ -1,9 +1,9 @@
 # GREP
 
-GREP (Global Regular Expression Print) is a powerful text search utility that finds and filters text matching specific patterns in files. It searches line by line and prints matching lines to the screen. Essential for shell scripts and command-line operations. Example: `grep "pattern" fileName` searches for specified patterns. Alternative: `ripgrep` offers enhanced performance and features.
+GREP (Global Regular Expression Print) é uma ferramenta de busca de texto poderosa que encontra e filtra texto correspondente a padrões específicos em arquivos. Ele pesquisa linha por linha e imprime linhas correspondentes na tela. Essencial para scripts de shell e operações de linha de comando. Exemplo: `grep "padrão" nomeDoArquivo` busca por padrões especificados. Alternativa: `ripgrep` oferece desempenho e recursos aprimorados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@opensource@Ripgrep: GitHub Repository](https://github.com/BurntSushi/ripgrep)
-- [@article@Grep and Regular Expressions for Beginners](https://ryanstutorials.net/linuxtutorial/grep.php)
-- [@article@Linux grep Command: Pattern Searching](https://labex.io/tutorials/linux-linux-grep-command-pattern-searching-219192)
+- [@opensource@Ripgrep: Repositório do GitHub](https://github.com/BurntSushi/ripgrep)
+- [@article@GREP e Expressões Regulares para Iniciantes](https://ryanstutorials.net/linuxtutorial/grep.php)
+- [@article@Comando GREP no Linux: Busca de Padrões](https://labex.io/tutorials/linux-linux-grep-command-pattern-searching-219192)

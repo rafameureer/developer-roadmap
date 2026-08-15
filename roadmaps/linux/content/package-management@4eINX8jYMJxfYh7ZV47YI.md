@@ -1,12 +1,12 @@
-# Package Management
+# Gerenciamento de Pacotes
 
-Package management handles software installation, updates, configuration, and removal in Linux. It manages collections of files and tracks software prerequisites automatically. Common package managers include `apt` (Debian-based), `yum`/`dnf` (Red Hat-based), and `pacman` (Arch). Example: `sudo apt install <package-name>` installs packages. Essential for efficient application management.
+O gerenciamento de pacotes lida com a instalação, atualização, configuração e remoção de software no Linux. Ele gerencia coleções de arquivos e rastreia automaticamente pré-requisitos de software. Gerenciadores de pacotes comuns incluem `apt` (baseado em Debian), `yum`/`dnf` (baseados em Red Hat) e `pacman` (Arch). Exemplo: `sudo apt install <nome_do_pacote>` instala pacotes. Essencial para o gerenciamento eficiente de aplicativos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@APT Package Manager](https://www.debian.org/doc/manuals/apt-guide/index.en.html)
-- [@official@Yum Package Manager](http://yum.baseurl.org/)
-- [@official@Using the DNF Software Package Manager](https://docs.fedoraproject.org/en-US/quick-docs/dnf/)
-- [@article@Linux Package Manager Explained](https://geekflare.com/dev/linux-package-manager-explained/)
-- [@article@8 Best Package Manager for Linux](https://linuxsimply.com/linux-basics/package-management/best-package-manager/)
-- [@article@Software Installation on Linux](https://labex.io/tutorials/linux-software-installation-on-linux-18005)
+- [@oficial@Gerenciador de Pacotes APT](https://www.debian.org/doc/manuals/apt-guide/index.en.html)
+- [@oficial@Gerenciador de Pacotes Yum](http://yum.baseurl.org/)
+- [@oficial@Usando o Gerenciador de Pacotes Software DNF](https://docs.fedoraproject.org/en-US/quick-docs/dnf/)
+- [@artigo@Explicação do Gerenciador de Pacotes Linux](https://geekflare.com/dev/linux-package-manager-explained/)
+- [@artigo@8 Melhores Gerenciadores de Pacotes para Linux](https://linuxsimply.com/linux-basics/package-management/best-package-manager/)
+- [@artigo@Instalação de Software no Linux](https://labex.io/tutorials/linux-software-installation-on-linux-18005)

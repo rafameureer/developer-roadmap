@@ -1,10 +1,10 @@
-# File Transfer
+# Transferência de Arquivos
 
-Linux file transfer involves copying or moving files between systems over networks. Command-line tools support protocols like FTP, HTTP, SCP, SFTP, and NFS. Common commands include `scp`, `rsync`, and `wget`. Example: `scp /local/file username@remote:/destination` copies files to remote systems. These tools make network file sharing streamlined, easier, and more secure.
+A transferência de arquivos no Linux envolve copiar ou mover arquivos entre sistemas por meio de redes. Ferramentas de linha de comando suportam protocolos como FTP, HTTP, SCP, SFTP e NFS. Comandos comuns incluem `scp`, `rsync` e `wget`. Exemplo: `scp /local/file username@remote:/destination` copia arquivos para sistemas remotos. Essas ferramentas tornam a compartilhamento de arquivos por rede fluído, mais fácil e mais seguro.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@How to Use Linux FTP Command to Transfer Files](https://linuxize.com/post/how-to-use-linux-ftp-command-to-transfer-files/)
-- [@article@Rsync Command in Linux with Examples](https://linuxize.com/post/how-to-use-rsync-for-local-and-remote-data-transfer-and-synchronization/)
-- [@article@Using scp Command in Linux](https://linuxhandbook.com/scp-command/)
-- [@article@Wget Command in Linux with Examples](https://linuxize.com/post/wget-command-examples/)
+- [@artigo@Como Usar o Comando FTP do Linux para Transferir Arquivos](https://linuxize.com/post/how-to-use-linux-ftp-command-to-transfer-files/)
+- [@artigo@Comando Rsync no Linux com Exemplos](https://linuxize.com/post/how-to-use-rsync-for-local-and-remote-data-transfer-and-synchronization/)
+- [@artigo@Usando o Comando SCP no Linux](https://linuxhandbook.com/scp-command/)
+- [@artigo@Comando Wget no Linux com Exemplos](https://linuxize.com/post/wget-command-examples/)

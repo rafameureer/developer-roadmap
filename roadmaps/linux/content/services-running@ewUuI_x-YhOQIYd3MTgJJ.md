@@ -1,9 +1,9 @@
-# Running Services
+# Serviços em Execução
 
-Linux servers run various services including web, database, DNS, and mail servers. System administrators use tools like `systemctl`, `service`, `netstat`, `ss`, and `lsof` to manage and monitor services. Use `systemctl --type=service` to list all active services with their status. Essential for server management, resource monitoring, and troubleshooting.
+Servidores Linux executam diversos serviços, incluindo servidores web, bancos de dados, DNS e correio. Administradores de sistemas usam ferramentas como `systemctl`, `service`, `netstat`, `ss` e `lsof` para gerenciar e monitorar os serviços. Use `systemctl --type=service` para listar todos os serviços ativos com seus status. Essencial para a gestão do servidor, monitoramento de recursos e solução de problemas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@How to List Linux Services With systemctl](https://www.howtogeek.com/839285/how-to-list-linux-services-with-systemctl/)
-- [@article@Service Management in Linux: A Comprehensive Guide](https://medium.com/@thesureshvadde/service-management-in-linux-a-comprehensive-guide-cb4c7e81dfa9)
-- [@article@How to Manage Services in Linux: systemd and SysVinit](https://dev.to/iaadidev/how-to-manage-services-in-linux-systemd-and-sysvinit-essentials-devops-prerequisite-8-1jop)
+- [@artigo@Como Listar Serviços Linux Com systemctl](https://www.howtogeek.com/839285/how-to-list-linux-services-with-systemctl/)
+- [@artigo@Gerenciamento de Serviços em Linux: Um Guia Completo](https://medium.com/@thesureshvadde/service-management-in-linux-a-comprehensive-guide-cb4c7e81dfa9)
+- [@artigo@Como Gerenciar Serviços em Linux: systemd e SysVinit](https://dev.to/iaadidev/how-to-manage-services-in-linux-systemd-and-sysvinit-essentials-devops-prerequisite-8-1jop)

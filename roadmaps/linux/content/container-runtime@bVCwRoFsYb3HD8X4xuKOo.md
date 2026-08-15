@@ -1,9 +1,9 @@
-# Container Runtime
+# Runtime de Contêiner
 
-Container runtime is software responsible for running containers in Linux, providing image transport, storage, execution, and network interactions. Popular options include Docker (comprehensive ecosystem), Containerd (lightweight standalone), and CRI-O (Kubernetes-optimized). Each runtime offers specific features and benefits for different use cases in containerized application deployment and management.
+O runtime de contêiner é um software responsável por executar contêineres no Linux, fornecendo transporte de imagens, armazenamento, execução e interações de rede. Opções populares incluem Docker (ecossistema abrangente), Containerd (standalone leve) e CRI-O (otimizado para o Kubernetes). Cada runtime oferece recursos específicos e benefícios para diferentes casos de uso na implantação e gerenciamento de aplicativos contêinerizados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Container Runtimes](https://kubernetes.io/docs/setup/production-environment/container-runtimes/)
-- [@article@What are Container Runtimes? Types and Popular Runtime](https://www.wiz.io/academy/container-runtimes)
-- [@article@What are container runtimes?](https://opensource.com/article/21/9/container-runtimes)
+- [@artigo@Runtime de Contêiner](https://kubernetes.io/docs/setup/production-environment/container-runtimes/)
+- [@artigo@O que são Runtime de Contêiner? Tipos e Runtime Populares](https://www.wiz.io/academy/container-runtimes)
+- [@artigo@O que são runtimes de contêiner?](https://opensource.com/article/21/9/container-runtimes)

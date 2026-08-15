@@ -1,8 +1,8 @@
-# Ping
+# Pong
 
-The `ping` command is essential for Linux network troubleshooting, checking connectivity between your host and target machines. It sends ICMP ECHO\_REQUEST packets and listens for ECHO\_RESPONSE returns, providing insights into connection health and speed. Use `ping <target IP or hostname>` to diagnose network connectivity issues and identify reachability problems efficiently.
+O comando `ping` é essencial para o diagnóstico de problemas de rede no Linux, verificando a conectividade entre seu host e as máquinas-alvo. Ele envia pacotes ICMP ECHO\_REQUEST e espera por retornos ECHO\_RESPONSE, fornecendo insights sobre a saúde e velocidade da conexão. Use `ping <IP alvo ou nome de host>` para diagnosticar problemas de conectividade de rede e identificar problemas de alcance de forma eficiente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Ping Command in Linux](https://linuxize.com/post/linux-ping-command/)
-- [@article@Ping Command Examples in Linux - It's FOSS](https://itsfoss.com/ping-command/)
+- [@artigo@Comando Ping no Linux](https://linuxize.com/post/linux-ping-command/)
+- [@artigo@Exemplos do Comando Ping no Linux - É FOSS](https://itsfoss.com/ping-command/)

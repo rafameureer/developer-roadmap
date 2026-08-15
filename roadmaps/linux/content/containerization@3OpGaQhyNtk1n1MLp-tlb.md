@@ -1,10 +1,10 @@
-# Containerization
+# Containerização
 
-Containerization is a virtualization method that encapsulates applications in containers with isolated operating environments, enabling reliable deployment across computing environments. Unlike VMs requiring full operating systems, containers share the host system's user space, making them lightweight and faster. Docker is a popular Linux containerization tool for managing complex applications.
+A containerização é um método de virtualização que encapsula aplicativos em contêineres com ambientes operacionais isolados, permitindo implantações confiáveis em diferentes ambientes computacionais. Diferentemente das VMs que requerem sistemas operacionais completos, os contêineres compartilham o espaço de usuário do sistema anfitrião, tornando-os leves e rápidos. O Docker é uma ferramenta popular para gerenciamento de aplicativos complexos em Linux.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Docker](https://docker.com)
-- [@official@Kubernetes](https://kubernetes.io)
-- [@article@What is Containerization? - Containerization Explained - AWS](https://aws.amazon.com/what-is/containerization/)
-- [@article@What is Containerization? - DigitalOcean](https://www.digitalocean.com/resources/articles/what-is-containerization)
+- [@oficial@Docker](https://docker.com)
+- [@oficial@Kubernetes](https://kubernetes.io)
+- [@artigo@O que é Containerização? - Explicação de Containerização - AWS](https://aws.amazon.com/what-is/containerization/)
+- [@artigo@O que é Containerização? - DigitalOcean](https://www.digitalocean.com/resources/articles/what-is-containerization)

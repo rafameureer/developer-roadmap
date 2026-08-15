@@ -1,8 +1,8 @@
-# Checking Service Logs
+# Verificando Logs de Serviço
 
-Systemd captures output from all managed services and stores it in the journal, a binary log managed by journald. You can view logs for a specific service using journalctl -u service-name. Useful flags include -f to follow logs in real time, --since and --until to filter by time range, and -n to limit the number of lines shown. Logs include both stdout/stderr from the process and systemd lifecycle events.
+O Systemd captura a saída de todos os serviços gerenciados e armazena em um registro binário, chamado journal, que é gerenciado pelo journald. Você pode visualizar os logs de um serviço específico usando `journalctl -u nome-do-servico`. Úteis flags incluem `-f` para seguir os logs em tempo real, `--since` e `--until` para filtrar por intervalo de tempo e `-n` para limitar o número de linhas exibidas. Os logs incluem tanto stdout/stderr do processo quanto eventos de ciclo de vida do systemd.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Journalctl Explained: How To View And Analyze Systemd Logs.](https://uptimerobot.com/knowledge-hub/logging/journalctl-explained-how-to-view-and-analyze-systemd-logs/)
-- [@article@How To Use journalctl to View and Manipulate systemd Logs on Linux](https://www.digitalocean.com/community/tutorials/how-to-use-journalctl-to-view-and-manipulate-systemd-logs)
+- [@article@Expliquei Journalctl: Como Visualizar e Analisar Logs do Systemd](https://uptimerobot.com/knowledge-hub/logging/journalctl-explained-how-to-view-and-analyze-systemd-logs/)
+- [@article@Como Usar journalctl para Ver e Manipular Logs do Systemd no Linux](https://www.digitalocean.com/community/tutorials/how-to-use-journalctl-to-view-and-manipulate-systemd-logs)

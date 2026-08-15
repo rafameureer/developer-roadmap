@@ -1,9 +1,9 @@
-# Tail Command
+# Comando Tail
 
-The `tail` command in Linux is a utility used in text processing. Fundamentally, it's used to output the last part of the files. The command reads data from standard input or from a file and outputs the last `N` bytes, lines, blocks, characters or words to the standard output (or a different file). By default, `tail` returns the last 10 lines of each file to the standard output. This command is common in situations where the user is interested in the most recent entries in a text file, such as log files.
+O comando `tail` no Linux é uma utilidade usada em processamento de texto. Fundamentalmente, ele é usado para exibir a última parte dos arquivos. O comando lê dados da entrada padrão ou de um arquivo e imprime as últimas `N` bytes, linhas, blocos, caracteres ou palavras na saída padrão (ou em um arquivo diferente). Por padrão, o `tail` retorna as últimas 10 linhas de cada arquivo para a saída padrão. Este comando é comum em situações onde o usuário está interessado nas entradas mais recentes em um arquivo de texto, como arquivos de log.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@5 Practical Examples of Tail Command in Linux](https://linuxhandbook.com/tail-command/)
-- [@article@Linux Tail Command | Linuxize](https://linuxize.com/post/linux-tail-command/)
-- [@article@Linux tail Command: File End Display](https://labex.io/tutorials/linux-linux-tail-command-file-end-display-214303)
+- [@artigo@5 Exemplos Práticos do Comando Tail no Linux](https://linuxhandbook.com/tail-command/)
+- [@artigo@Comando Tail do Linux | Linuxize](https://linuxize.com/post/linux-tail-command/)
+- [@artigo@Comando Tail do Linux: Exibição de Fim de Arquivo](https://labex.io/tutorials/linux-linux-tail-command-file-end-display-214303)

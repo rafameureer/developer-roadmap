@@ -1,10 +1,10 @@
-# Nano: A File Editing Tool
+# Nano: Um Ferramenta de Edição de Texto
 
-Nano is a popular, user-friendly text editor used for creating and editing files directly within the Linux command line interface (CLI). It is an alternative to editors like `Vi` and `Emacs` and is considered more straightforward for beginners due to its simple and intuitive interface.
+Nano é um editor de texto popular e amigável usado para criar e editar arquivos diretamente na interface de linha de comando do Linux (CLI). É uma alternativa a editores como `Vi` e `Emacs`, considerado mais simples para iniciantes devido à sua interface simples e intuitiva.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@nano - Text editor](https://www.nano-editor.org/)
-- [@article@Editing Files With Nano in Linux](https://itsfoss.com/nano-editor-guide/)
-- [@article@Nano in Linux](https://ioflood.com/blog/nano-linux-command/)
-- [@video@Nano editor fundamentals](https://www.youtube.com/watch?v=gyKiDczLIZ4&ab_channel=HackerSploit)
+- [@official@Nano - Editor de texto](https://www.nano-editor.org/)
+- [@article@Editando arquivos com o Nano no Linux](https://itsfoss.com/nano-editor-guide/)
+- [@article@Nano no Linux](https://ioflood.com/blog/nano-linux-command/)
+- [@video@Fundamentos do editor Nano](https://www.youtube.com/watch?v=gyKiDczLIZ4&ab_channel=HackerSploit)

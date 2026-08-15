@@ -1,9 +1,9 @@
-# join Command
+# Comando join
 
-`join` is a powerful text processing command in Linux. It lets you combine lines of two files on a common field, which works similar to the 'Join' operation in SQL. It's particularly useful when you're dealing with large volumes of data. Specifically, `join` uses the lines from two files to form lines that contain pairs of lines related in a meaningful way.
+O comando `join` é uma poderosa ferramenta de processamento de texto no Linux. Ele combina linhas de dois arquivos com base em um campo comum, funcionando de forma semelhante à operação 'Join' em SQL. É particularmente útil quando você está lidando com grandes volumes de dados. Especificamente, `join` usa as linhas de dois arquivos para formar linhas que contêm pares de linhas relacionadas de maneira significativa.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@join(1) — Linux manual page](https://www.man7.org/linux/man-pages/man1/join.1.html)
-- [@article@join command in Linux with examples](https://linuxconfig.org/join)
-- [@article@Linux join Command: File Joining](https://labex.io/tutorials/linux-linux-join-command-file-joining-219193)
+- [@artigo@join(1) — Página do manual Linux](https://www.man7.org/linux/man-pages/man1/join.1.html)
+- [@artigo@Comando join no Linux com exemplos](https://linuxconfig.org/join)
+- [@artigo@Comando join do Linux: Junção de arquivos](https://labex.io/tutorials/linux-linux-join-command-file-joining-219193)

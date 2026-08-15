@@ -1,10 +1,10 @@
-# Users and Groups
+# Usuários e Grupos
 
-Linux user groups simplify system administration by managing collections of users with shared access rights to files and directories. Each user belongs to one or more groups, enabling privilege management without full superuser access. Management commands: `groupadd`, `groupdel`, `groupmod`, `usermod`, `gpasswd`. Essential for secure and organized system environments.
+O gerenciamento de grupos no Linux simplifica a administração do sistema ao organizar coleções de usuários com direitos compartilhados de acesso a arquivos e diretórios. Cada usuário pertence a um ou mais grupos, permitindo o gerenciamento de privilégios sem acesso completo como superusuário. Comandos de gestão: `groupadd`, `groupdel`, `groupmod`, `usermod`, `gpasswd`. Essencial para ambientes de sistema seguros e organizados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@How to create, delete, and modify groups in Linux](https://www.redhat.com/sysadmin/linux-groups)
-- [@article@How to manage groups on Linux](https://linuxconfig.org/how-to-manage-groups-on-linux)
-- [@article@Creating, Modifying, and Deleting User Accounts](https://serveracademy.com/courses/linux-server-administration/creating-modifying-and-deleting-user-accounts/)
-- [@article@User Management in Linux: A Beginner's Guide](https://dev.to/austinozor/user-management-in-linux-a-beginners-guide-to-creating-modifying-and-deleting-users-fhf)
+- [@artigo@Como criar, excluir e modificar grupos no Linux](https://www.redhat.com/sysadmin/linux-groups)
+- [@artigo@Como gerenciar grupos no Linux](https://linuxconfig.org/how-to-manage-groups-on-linux)
+- [@artigo@Criando, Modificando e Excluindo Contas de Usuários](https://serveracademy.com/courses/linux-server-administration/creating-modifying-and-deleting-user-accounts/)
+- [@artigo@Gerenciamento de Usuários no Linux: Um Guia Iniciante](https://dev.to/austinozor/user-management-in-linux-a-beginners-guide-to-creating-modifying-and-deleting-users-fhf)

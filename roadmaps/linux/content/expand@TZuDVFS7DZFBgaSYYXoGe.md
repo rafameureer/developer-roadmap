@@ -1,8 +1,8 @@
 # Expand
 
-The `expand` command converts tabs to spaces in text files, useful for consistent formatting across different systems and editors. Default conversion is 8 spaces per tab. Use `expand filename` for basic conversion or `expand -t 4 filename` to specify 4 spaces per tab. Essential for maintaining code readability and consistent indentation in shell scripts.
+O comando `expand` converte guias de tabulação em espaços em arquivos de texto, útil para formatação consistente entre diferentes sistemas e editores. A conversão padrão é 8 espaços por guia de tabulação. Use `expand nome_do_arquivo` para uma conversão básica ou `expand -t 4 nome_do_arquivo` para especificar 4 espaços por guia de tabulação. Essencial para manter a legibilidade do código e a indentação consistente em scripts shell.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@expand — Linux manual page](https://www.man7.org/linux/man-pages/man1/expand.1.html)
-- [@article@How to Use the 'expand' Command (with examples)](https://commandmasters.com/commands/expand-common/)
+- [@artigo@expand — Página manual Linux](https://www.man7.org/linux/man-pages/man1/expand.1.html)
+- [@artigo@Como Usar o Comando 'expand' (com exemplos)](https://commandmasters.com/commands/expand-common/)

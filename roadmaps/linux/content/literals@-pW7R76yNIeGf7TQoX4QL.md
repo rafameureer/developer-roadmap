@@ -1,8 +1,8 @@
-# Literals
+# Literais
 
-Shell literals are fixed values in source code including string literals (enclosed in quotes), numeric literals (sequences of digits), and boolean literals (1=true, 0=false). String examples: 'Hello, world!' or "Hello, world!". Numeric examples: 25, 100, 1234. Understanding literals is fundamental for shell scripting readability and functionality in Linux programming.
+Literais no shell são valores fixos em código-fonte, incluindo literais de string (encapsulados em aspas), literais numéricos (sequências de dígitos) e literais booleanos (1=true, 0=false). Exemplos de string: 'Olá, mundo!' ou "Olá, mundo!". Exemplos numéricos: 25, 100, 1234. Entender literais é fundamental para a legibilidade e funcionalidade do script em shell no Linux.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Bash Tutorial - Quoting literal text](https://riptutorial.com/bash/example/2465/quoting-literal-text)
-- [@article@Handling Special Characters in Shell Scripts](https://www.baeldung.com/linux/special-characters-in-shell-scripts)
+- [@artigo@Tutorial Bash - Citando texto literal](https://riptutorial.com/bash/example/2465/quoting-literal-text)
+- [@artigo@Manipulando caracteres especiais em scripts de shell](https://www.baeldung.com/linux/special-characters-in-shell-scripts)

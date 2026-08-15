@@ -1,9 +1,9 @@
-# Packet Analysis
+# Análise de Pacotes
 
-Packet analysis is a key Linux network troubleshooting skill involving capturing and analyzing network traffic to identify performance issues, connectivity problems, and security vulnerabilities. Tools like tcpdump and Wireshark provide packet-level details for network diagnostics. Use `sudo tcpdump -i eth0` to capture packets on the eth0 interface for debugging network protocols.
+Análise de pacotes é uma habilidade-chave de solução de problemas de rede em Linux, envolvendo a captura e análise do tráfego de rede para identificar problemas de desempenho, problemas de conectividade e vulnerabilidades de segurança. Ferramentas como tcpdump e Wireshark fornecem detalhes no nível de pacote para diagnóstico de rede. Use `sudo tcpdump -i eth0` para capturar pacotes na interface eth0 para depuração de protocolos de rede.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@How to Capture and Analyze Packets with tcpdump](https://www.debian.org/doc/manuals/apt-guide/index.en.html)
-- [@article@Mastering Network Traffic Analysis in Linux](https://en.ittrip.xyz/linux/linux-network-analysis)
-- [@article@16 Best Free and Open Source Network Analyzers](https://www.linuxlinks.com/best-free-open-source-network-analyzers/)
+- [@artigo@Como Capturar e Analisar Pacotes com tcpdump](https://www.debian.org/doc/manuals/apt-guide/index.en.html)
+- [@artigo@Dominando a Análise de Tráfego de Rede em Linux](https://en.ittrip.xyz/linux/linux-network-analysis)
+- [@artigo@16 Melhores Analisadores de Rede Gratuitos e de Código Aberto](https://www.linuxlinks.com/best-free-open-source-network-analyzers/)

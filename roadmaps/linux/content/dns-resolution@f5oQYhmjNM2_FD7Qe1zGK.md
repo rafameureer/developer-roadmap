@@ -1,10 +1,10 @@
-# DNS Resolution
+# Resolução de DNS
 
-DNS (Domain Name System) converts hostnames to IP addresses, enabling users to access websites without remembering numeric addresses. Linux systems use `/etc/resolv.conf` to configure DNS resolution. Applications consult the DNS resolver, which communicates with DNS servers for address translation. Use `nslookup` or `dig` commands to query DNS and troubleshoot network connectivity issues.
+O DNS (Sistema de Nomes de Domínio) converte nomes de host em endereços IP, permitindo que os usuários acessem sites sem precisar lembrar endereços numéricos. Os sistemas Linux usam `/etc/resolv.conf` para configurar a resolução de DNS. As aplicações consultam o resolver DNS, que comunica-se com servidores DNS para tradução de endereços. Use os comandos `nslookup` ou `dig` para consultar o DNS e diagnosticar problemas de conectividade de rede.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Setup DNS Resolution With "resolv.conf" in Examples](https://www.shellhacks.com/setup-dns-resolution-resolvconf-example/)
-- [@article@DNS Resolution](https://wiki.archlinux.org/title/Domain_name_resolution)
-- [@article@nslookup command](https://linuxconfig.org/nslookup-linux-command)
-- [@article@dig command](https://linuxhandbook.com/dig-command/)
+- [@artigo@Configurando a Resolução de DNS com "resolv.conf" em Exemplos](https://www.shellhacks.com/setup-dns-resolution-resolvconf-example/)
+- [@artigo@Resolução de DNS](https://wiki.archlinux.org/title/Domain_name_resolution)
+- [@artigo@Comando nslookup](https://linuxconfig.org/nslookup-linux-command)
+- [@artigo@Comando dig](https://linuxhandbook.com/dig-command/)

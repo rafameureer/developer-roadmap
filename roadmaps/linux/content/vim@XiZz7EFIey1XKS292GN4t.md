@@ -1,11 +1,11 @@
-# Vim: An Essential Tool for Editing Files
+# Vim: Um Ferramenta Essencial para Editar Arquivos
 
-Vim (Vi Improved) is a powerful and flexible text editor used in Unix-like systems. It builds on the original Vi editor with additional features and improvements, including multi-level undo, syntax highlighting, and an extensive set of commands for text manipulation.
+Vim (Vi Improved) é um editor de texto poderoso e flexível usado em sistemas Unix-like. Ele se baseia no original Vi editor com funcionalidades adicionais e melhorias, incluindo desfazer em múltiplos níveis, destacamento de sintaxe e um conjunto extenso de comandos para manipulação de texto.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@Learn Vimscript The Hard Way](https://learnvimscriptthehardway.stevelosh.com/)
-- [@article@Vim Cheat Sheet](https://vim.rtorr.com/)
-- [@article@Learn Vim Progressively](https://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
-- [@article@Platform to practice Vim](https://vim-adventures.com/)
-- [@video@Vim Basics](https://www.youtube.com/watch?v=wACD8WEnImo&list=PLT98CRl2KxKHy4A5N70jMRYAROzzC2a6x&ab_channel=LearnLinuxTV)
+- [@curso@Aprenda Vimscript da Maneira Dura](https://learnvimscriptthehardway.stevelosh.com/)
+- [@artigo@Folha de Dicas do Vim](https://vim.rtorr.com/)
+- [@artigo@Aprenda o Vim Progressivamente](https://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
+- [@artigo@Plataforma para praticar o Vim](https://vim-adventures.com/)
+- [@vídeo@Básico do Vim](https://www.youtube.com/watch?v=wACD8WEnImo&list=PLT98CRl2KxKHy4A5N70jMRYAROzzC2a6x&ab_channel=LearnLinuxTV)

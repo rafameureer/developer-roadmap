@@ -1,9 +1,9 @@
-# Server Review
+# Revisão de Servidor
 
-Server review in Linux involves assessing performance, security, and configuration to identify improvements and issues. Check security enhancements, log files, user accounts, network configuration, and software versions. Common commands: `free -m` for memory, `df -h` for disk usage, `uptime` for CPU load. Critical task for system administrators and DevOps professionals to ensure optimal performance, security, and reliability.
+A revisão de servidor no Linux envolve avaliar o desempenho, segurança e configuração para identificar melhorias e problemas. Verifique melhorias de segurança, arquivos de log, contas de usuário, configuração de rede e versões de software. Comandos comuns: `free -m` para memória, `df -h` para uso do disco, `uptime` para carga do CPU. Tarefa crítica para administradores de sistemas e profissionais DevOps para garantir desempenho otimizado, segurança e confiabilidade.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Linux Server Management Essentials](https://www.ictbroadcast.com/linux-server-management-essentials-administration-monitoring-and-maintenance-guidelines-for-success/)
-- [@article@Essential Linux Server Maintenance Checklist](https://tecadmin.net/linux-server-maintenance-checklist/)
-- [@article@Optimizing Linux Server Performance](https://www.linuxjournal.com/content/optimizing-linux-server-performance-benchmarking-and-advanced-techniques)
+- [@artigo@Essenciais da Gestão de Servidores Linux](https://www.ictbroadcast.com/linux-server-management-essentials-administration-monitoring-and-maintenance-guidelines-for-success/)
+- [@artigo@Lista Essencial de Manutenção de Servidores Linux](https://tecadmin.net/linux-server-maintenance-checklist/)
+- [@artigo@Otimizando o Desempenho dos Servidores Linux](https://www.linuxjournal.com/content/optimizing-linux-server-performance-benchmarking-and-advanced-techniques)

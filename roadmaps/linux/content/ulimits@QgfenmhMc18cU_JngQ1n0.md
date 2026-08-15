@@ -1,9 +1,9 @@
 # Ulimits
 
-Ulimits (user limits) are Linux kernel features that restrict resources like file handles and memory that processes can consume. In containerization, ulimits prevent rogue processes from exhausting server resources and creating denial-of-service situations. Use `ulimit -a` to view current limits and `ulimit -n 1024` to set specific limits for optimal container performance and security.
+Os ulimits (limites de usuário) são recursos do kernel Linux que restringem os recursos como handles de arquivo e memória que os processos podem consumir. Na contêinerização, os ulimits impedem que processos maliciosos esgotem recursos do servidor e criem situações de negação de serviço. Use `ulimit -a` para exibir limites atuais e `ulimit -n 1024` para definir limites específicos para um desempenho ótimo e segurança dos contêineres.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Check and set user limits with ulimit Linux command](https://linuxconfig.org/limit-user-environment-with-ulimit-linux-command)
-- [@article@How to Use Ulimit Command in Linux](https://linuxhandbook.com/ulimit-command/)
-- [@article@10 Linux Troubleshooting Tips](https://www.dummies.com/article/technology/computers/operating-systems/linux/10-linux-troubleshooting-tips-274301/)
+- [@article@Verifique e defina limites de usuário com o comando ulimit Linux](https://linuxconfig.org/limit-user-environment-with-ulimit-linux-command)
+- [@article@Como Usar o Comando Ulimit no Linux](https://linuxhandbook.com/ulimit-command/)
+- [@article@10 Dicas de Solução de Problemas do Linux](https://www.dummies.com/article/technology/computers/operating-systems/linux/10-linux-troubleshooting-tips-274301/)

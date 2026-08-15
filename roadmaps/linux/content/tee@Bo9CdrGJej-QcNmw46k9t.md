@@ -1,8 +1,8 @@
 # Tee
 
-The `tee` command reads from standard input and writes to both standard output and files simultaneously, like a T-splitter in plumbing. It enables users to view results in the terminal while saving output to files concurrently. Syntax: `command | tee file`. Extremely useful for documenting terminal activities and preserving command outputs for later analysis.
+O comando `tee` lê da entrada padrão e escreve tanto na saída padrão quanto em arquivos simultaneamente, como um divisor de T em encanamento. Ele permite que os usuários vejam os resultados no terminal enquanto salvam a saída em arquivos ao mesmo tempo. Sintaxe: `comando | tee arquivo`. Muito útil para documentar atividades do terminal e preservar as saídas dos comandos para análise posterior.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Tee Command in Linux Explained with Examples](https://linuxhandbook.com/tee-command/)
-- [@article@Linux Tee Command](https://linuxize.com/post/linux-tee-command/)
+- [@artigo@Comando Tee no Linux Explicado com Exemplos](https://linuxhandbook.com/tee-command/)
+- [@artigo@Comando Tee no Linux](https://linuxize.com/post/linux-tee-command/)

@@ -1,8 +1,8 @@
-# Process Management
+# Gerenciamento de Processos
 
-Linux treats every running program as a process. Process management commands help view, control, and manipulate these processes. Key commands: `ps aux` shows running processes, `top` provides live system view, `kill -SIGTERM pid` gracefully stops processes, `kill -SIGKILL pid` forcefully terminates processes. Essential for understanding and controlling Linux system operations effectively.
+O Linux trata cada programa em execução como um processo. Comandos de gerenciamento de processos ajudam a visualizar, controlar e manipular esses processos. Comandos-chave: `ps aux` mostra processos em execução, `top` fornece uma visão do sistema em tempo real, `kill -SIGTERM pid` para parar processos de maneira graciosamente, `kill -SIGKILL pid` para terminar processos forçadamente. Essencial para entender e controlar operações do sistema Linux de forma eficaz.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@The Complete Guide to Process Management Commands](https://thelinuxcode.com/process-management-commands-linux/)
-- [@article@Commands for Process Management in Linux](https://www.digitalocean.com/community/tutorials/process-management-in-linux)
+- [@artigo@Guia Completo dos Comandos de Gerenciamento de Processos](https://thelinuxcode.com/process-management-commands-linux/)
+- [@artigo@Comandos de Gerenciamento de Processos no Linux](https://www.digitalocean.com/community/tutorials/process-management-in-linux)

@@ -1,9 +1,9 @@
-# System Logs
+# Logs do Sistema
 
-Linux maintains logs documenting system activities, errors, and kernel messages. Boot logs record all operations during system startup for troubleshooting. Use `dmesg` to view kernel ring buffer messages in real-time, or access logs in `/var/log`. Systemd uses `journalctl` for logging. Log levels range from emergency (system unusable) to debug messages.
+O Linux mantém logs que documentam atividades do sistema, erros e mensagens do kernel. Os logs de inicialização registram todas as operações durante o início do sistema para fins de solução de problemas. Use `dmesg` para visualizar mensagens do buffer de ring do kernel em tempo real ou acesse os logs em `/var/log`. O Systemd usa `journalctl` para logging. Os níveis de log variam desde emergência (sistema inutilizável) até mensagens de depuração.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@How to Use journalctl Command to Analyze Logs in Linux](https://linuxhandbook.com/journalctl-command/)
-- [@article@How to Check System Logs on Linux](https://www.fosslinux.com/8984/how-to-check-system-logs-on-linux-complete-usage-guide.htm)
-- [@article@What is dmesg in Linux, And How Do I Use It?](https://linuxconfig.org/what-is-dmesg-and-how-do-i-use-it)
+- [@artigo@Como usar o comando journalctl para analisar logs no Linux](https://linuxhandbook.com/journalctl-command/)
+- [@artigo@Como verificar logs do sistema no Linux](https://www.fosslinux.com/8984/how-to-check-system-logs-on-linux-complete-usage-guide.htm)
+- [@artigo@O que é dmesg no Linux e como eu uso?](https://linuxconfig.org/what-is-dmesg-and-how-do-i-use-it)

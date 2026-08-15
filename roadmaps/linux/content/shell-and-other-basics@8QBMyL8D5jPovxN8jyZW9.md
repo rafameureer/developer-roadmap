@@ -1,9 +1,9 @@
-# Shell Basics
+# Básicos do Shell
 
-The Linux shell is a command-line interface that acts as an intermediary between users and the system kernel. Common shells include Bash, sh, and csh. Basic operations involve navigating directories, creating/deleting files, and executing commands. Shell knowledge is fundamental for Linux administration, scripting, and automation tasks.
+O shell Linux é uma interface de linha de comando que atua como um intermediário entre os usuários e o núcleo do sistema. Comuns shells incluem Bash, sh e csh. Operações básicas envolvem navegar em diretórios, criar/excluir arquivos e executar comandos. Conhecimento de shell é fundamental para a administração Linux, scripting e tarefas de automação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Learning The Shell](https://www.linuxcommand.org/lc3_lts0010.php)
-- [@article@What is a Shell in Linux](https://linuxsimply.com/what-is-a-shell-linux/)
-- [@article@Learn Linux Easily](https://linuxjourney.com)
+- [@artigo@Aprendendo o Shell](https://www.linuxcommand.org/lc3_lts0010.php)
+- [@artigo@O que é um Shell no Linux](https://linuxsimply.com/what-is-a-shell-linux/)
+- [@artigo@Aprenda Linux Facilmente](https://linuxjourney.com)

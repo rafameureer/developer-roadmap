@@ -1,10 +1,10 @@
 # Docker
 
-Docker is an open-source containerization platform that uses OS-level virtualization to package applications with dependencies into lightweight containers. In Linux, Docker containers share the kernel and use features like namespaces and cgroups for isolation. This provides less overhead than traditional VMs while enabling consistent deployment across environments.
+Docker é uma plataforma de contêinerização open-source que usa a virtualização no nível do sistema operacional para empacotar aplicativos com dependências em contêineres leves. No Linux, os contêineres do Docker compartilham o kernel e usam recursos como namespaces e cgroups para isolamento. Isso fornece menos sobrecarga que VMs tradicionais enquanto habilita a implantação consistente em diferentes ambientes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit Dedicated Docker Roadmap](https://roadmap.sh/docker)
+- [@roadmap@Visite o Caminho Dedidado do Docker](https://roadmap.sh/docker)
 - [@official@Docker](https://docker.com)
-- [@official@Docker Documentation](https://docs.docker.com/)
-- [@article@How To Install and Use Docker on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04)
+- [@official@Documentação do Docker](https://docs.docker.com/)
+- [@article@Como Instalar e Usar o Docker no Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04)

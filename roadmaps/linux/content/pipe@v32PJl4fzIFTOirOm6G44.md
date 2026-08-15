@@ -1,9 +1,9 @@
-# Pipe Commands
+# Comandos de Pipe
 
-The pipe (`|`) is a powerful feature in Linux used to connect two or more commands together. This mechanism allows output of one command to be "piped" as input to another. With regards to text processing, using pipe is especially helpful since it allows you to manipulate, analyze, and transform text data without the need to create intermediary files or programs.
+O pipe (`|`) é uma funcionalidade poderosa no Linux usada para conectar duas ou mais comandos juntos. Este mecanismo permite que a saída de um comando seja "encaminhada" como entrada para outro. Em relação ao processamento de texto, usar pipe é especialmente útil porque permite manipular, analisar e transformar dados de texto sem a necessidade de criar arquivos ou programas intermediários.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@An In-Depth Guide to Pipes in Linux - TheLinuxCode](https://thelinuxcode.com/linux-pipe-command-examples/)
-- [@article@Piping and Redirection](https://ryanstutorials.net/linuxtutorial/piping.php#piping)
-- [@article@What is Piping in Linux?](https://linuxsimply.com/what-is-piping-in-linux/)
+- [@artigo@Guia Completo sobre Pipes no Linux - TheLinuxCode](https://thelinuxcode.com/linux-pipe-command-examples/)
+- [@artigo@Encaminhamento e Redirecionamento](https://ryanstutorials.net/linuxtutorial/piping.php#piping)
+- [@artigo@O que é Encaminhamento no Linux?](https://linuxsimply.com/what-is-piping-in-linux/)

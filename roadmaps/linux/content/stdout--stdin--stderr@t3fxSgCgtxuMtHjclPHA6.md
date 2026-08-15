@@ -1,9 +1,9 @@
-# Stdout, Stdin, and Stderr
+# Saída padrão, Entrada padrão e Erro padrão
 
-Linux processes use three standard data streams: STDIN (input), STDOUT (output), and STDERR (error messages). STDOUT handles normal command output while STDERR specifically handles error messages. You can redirect these streams using operators like `>` for stdout and `2>` for stderr, allowing separate handling of normal output and errors for better scripting and debugging.
+Os processos do Linux usam três fluxos de dados padrão: STDIN (entrada), STDOUT (saída) e STDERR (mensagens de erro). STDOUT lida com a saída normal dos comandos enquanto STDERR lida especificamente com mensagens de erro. Você pode redirecionar esses fluxos usando operadores como `>` para stdout e `2>` para stderr, permitindo o tratamento separado da saída normal e dos erros para melhor script e depuração.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Linux Fundamentals - I/O, Standard Streams, and Redirection](https://www.putorius.net/linux-io-file-descriptors-and-redirection.html)
-- [@article@Understanding 'stdin', 'stdout' and 'stderr' in Linux](https://www.slingacademy.com/article/understanding-stdin-stdout-and-stderr-in-linux/)
-- [@article@Working with data streams on the Linux command line](https://opensource.com/article/18/10/linux-data-streams)
+- [@artigo@Fundamentos do Linux - Entrada/Saída, Fluxos Padrão e Redirecionamento](https://www.putorius.net/linux-io-file-descriptors-and-redirection.html)
+- [@artigo@Entendendo 'stdin', 'stdout' e 'stderr' no Linux](https://www.slingacademy.com/article/understanding-stdin-stdout-and-stderr-in-linux/)
+- [@artigo@Trabalhando com fluxos de dados na linha de comando do Linux](https://opensource.com/article/18/10/linux-data-streams)

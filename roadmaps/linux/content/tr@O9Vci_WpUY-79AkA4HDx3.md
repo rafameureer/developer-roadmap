@@ -1,8 +1,8 @@
-# Tr-Command
+# Comando Tr
 
-The `tr` command in Linux is a command-line utility that translates or substitutes characters. It reads from the standard input and writes to the standard output. Although commonly used for translation applications, `tr` has versatile functionality in the text processing aspect of Linux. Ranging from replacing a list of characters, to deleting or squeezing character repetitions, `tr` presents a robust tool for stream-based text manipulations.
+O comando `tr` no Linux é uma ferramenta de linha de comando que traduz ou substitui caracteres. Ele lê da entrada padrão e escreve na saída padrão. Apesar de comumente usado em aplicações de tradução, o `tr` tem funcionalidade versátil no aspecto de processamento de texto do Linux. Ranging from replacing a list of characters, to deleting or squeezing character repetitions, `tr` apresenta uma ferramenta robusta para manipulações de texto baseadas em fluxos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@tr Command in Linux: 6 Useful Examples](https://linuxhandbook.com/tr-command/)
-- [@article@Linux tr Command with Practical Examples](https://labex.io/tutorials/linux-linux-tr-command-with-practical-examples-422963)
+- [@artigo@Comando Tr no Linux: 6 Exemplos Úteis](https://linuxhandbook.com/tr-command/)
+- [@artigo@Comando Tr no Linux com Exemplos Práticos](https://labex.io/tutorials/linux-linux-tr-command-with-practical-examples-422963)

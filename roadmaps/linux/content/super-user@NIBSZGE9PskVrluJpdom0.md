@@ -1,9 +1,9 @@
-# Super User
+# Super Usuário
  
-The super user, commonly referred to as root, is the account with unrestricted access to every file, process, and setting on a Linux system. Regular users run commands with `sudo` to temporarily gain root privileges for a single command, rather than logging in as root directly. Because root can modify or delete anything on the system, using `sudo` only when necessary reduces the risk of accidental damage.
+O super usuário, comumente conhecido como root, é a conta com acesso ilimitado a todos os arquivos, processos e configurações em um sistema Linux. Os usuários regulares executam comandos com `sudo` para temporariamente obter privilégios de root para um único comando, em vez de fazer login diretamente como root. Como o root pode modificar ou excluir qualquer coisa no sistema, usar `sudo` apenas quando necessário reduz o risco de danos acidentais.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Linux Superuser Access, Explained](https://www.redhat.com/en/blog/linux-superuser-access/)
-- [@article@Difference between the root user and super (sudo) user](https://www.computernetworkingnotes.com/linux-tutorials/difference-between-the-root-user-and-super-sudo-user.html)
-- [@article@What is Superuser Access in Linux?](https://www.scaler.com/topics/super-user-in-linux/)
+- [@artigo@Acesso ao Super Usuário do Linux, Explicado](https://www.redhat.com/en/blog/linux-superuser-access/)
+- [@artigo@Diferença entre o usuário root e o super (sudo) usuário](https://www.computernetworkingnotes.com/linux-tutorials/difference-between-the-root-user-and-super-sudo-user.html)
+- [@artigo@O que é Acesso ao Super Usuário no Linux?](https://www.scaler.com/topics/super-user-in-linux/)

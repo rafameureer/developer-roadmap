@@ -1,9 +1,9 @@
-# Moving Files
+# Movendo Arquivos
 
-In Linux, moving files is an essential task that you will need to perform quite frequently. The `mv` command, short for move, is used to move files and directories from one location to another. The `mv` command can also be used for renaming files in Linux.
+No Linux, mover arquivos é uma tarefa essencial que você precisará realizar com frequência. O comando `mv`, abreviação de move, é usado para mover arquivos e diretórios de um local para outro. O comando `mv` também pode ser usado para renomear arquivos no Linux.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@mv command](https://linuxhandbook.com/mv-command/)
-- [@article@mv Cheat Sheet](https://www.commandinline.com/cheat-sheet/mv/)
-- [@article@Linux mv Command: File Moving and Renaming](https://labex.io/tutorials/linux-linux-mv-command-file-moving-and-renaming-209743)
+- [@article@Comando mv](https://linuxhandbook.com/mv-command/)
+- [@article@Folha de dicas do comando mv](https://www.commandinline.com/cheat-sheet/mv/)
+- [@article@Comando mv do Linux: Movimentação e Renomeação de Arquivos](https://labex.io/tutorials/linux-linux-mv-command-file-moving-and-renaming-209743)

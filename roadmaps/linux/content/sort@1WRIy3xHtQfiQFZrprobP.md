@@ -1,9 +1,9 @@
 # Sort
 
-Linux provides a variety of tools for processing and manipulating text files, one of which is the sort command. The `sort` command in Linux is used to sort the contents of a text file, line by line. The command uses ASCII values to sort files. You can use this command to sort the data in a file in a number of different ways such as alphabetically, numerically, reverse order, or even monthly. The sort command takes a file as input and prints the sorted content on the standard output (screen).
+O Linux oferece uma variedade de ferramentas para processar e manipular arquivos de texto, uma delas é o comando `sort`. O comando `sort` no Linux é usado para ordenar o conteúdo de um arquivo de texto linha por linha. O comando usa valores ASCII para ordenar os arquivos. Você pode usar este comando para ordenar os dados em um arquivo de várias maneiras diferentes, como alfabeticamente, numericamente, em ordem reversa ou até mesmo mensalmente. O comando `sort` recebe um arquivo como entrada e imprime o conteúdo ordenado na saída padrão (tela).
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para saber mais:
 
-- [@article@Sort Command in Linux - 10 Useful Examples](https://linuxhandbook.com/sort-command/)
-- [@article@Sort Command in Linux with Practical Examples](https://tecadmin.net/linux-sort-command/)
-- [@article@Linux sort Command: Text Sorting](https://labex.io/tutorials/linux-linux-sort-command-text-sorting-219196)
+- [@article@Comando Sort no Linux - 10 Exemplos Úteis](https://linuxhandbook.com/sort-command/)
+- [@article@Comando Sort no Linux com Exemplos Práticos](https://tecadmin.net/linux-sort-command/)
+- [@article@Comando Sort do Linux: Ordenação de Texto](https://labex.io/tutorials/linux-linux-sort-command-text-sorting-219196)

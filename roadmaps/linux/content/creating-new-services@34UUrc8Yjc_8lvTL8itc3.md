@@ -1,8 +1,8 @@
-# Creating Services
+# Criando Serviços
 
-Creating Linux services involves setting up background applications using systemd service files. Services run continuously performing essential tasks like web servers, databases, and mail servers. Create `.service` files in `/etc/systemd/system/` with Unit, Service, and Install sections. Control services using `systemctl` commands. Best practice: avoid running services as root for security.
+A criação de serviços no Linux envolve configurar aplicativos em segundo plano usando arquivos de serviço do systemd. Os serviços executam continuamente tarefas essenciais como servidores web, bancos de dados e servidores de correio. Crie arquivos `.service` em `/etc/systemd/system/` com seções Unit, Service e Install. Controle dos serviços usando comandos `systemctl`. Melhor prática: evite executar serviços como root para segurança.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@How to Create a systemd Service in Linux](https://linuxhandbook.com/create-systemd-services/)
-- [@article@A Beginner's Guide to Creating Linux Services](https://www.fosslinux.com/111815/a-guide-to-creating-linux-services-with-systemd.htm)
+- [@artigo@Como Criar um Serviço do Systemd no Linux](https://linuxhandbook.com/create-systemd-services/)
+- [@artigo@Um Guia Iniciante para Criar Serviços do Linux](https://www.fosslinux.com/111815/a-guide-to-creating-linux-services-with-systemd.htm)

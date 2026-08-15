@@ -1,9 +1,9 @@
-# Debugging
+# Depuração
 
-Shell script debugging in Linux uses tools like bash's `-x` option for execution traces, `trap`, `set` commands, and external tools like `shellcheck`. Use `#!/bin/bash -x` in scripts or `bash -x script.sh` from command line for tracing. These debugging options help detect, trace, and fix errors to make scripts more efficient and error-proof.
+A depuração de scripts shell no Linux usa ferramentas como a opção `-x` do bash para rastreamento de execução, `trap`, comandos `set` e ferramentas externas como `shellcheck`. Use `#!/bin/bash -x` em scripts ou `bash -x script.sh` na linha de comando para rastreamento. Essas opções de depuração ajudam a detectar, rastrear e corrigir erros para tornar os scripts mais eficientes e imunes a erros.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@How To Debug a Bash Shell Script Under Linux or UNIX](https://www.cyberciti.biz/tips/debugging-shell-script.html)
-- [@article@How to Debug a Bash Shell Script in Linux](https://www.linuxtechi.com/debugging-shell-scripts-in-linux/)
-- [@article@How to Debug Bash Scripts](https://thelinuxcode.com/debug-bash-script/)
+- [@artigo@Como Depurar um Script Shell Bash em Linux ou UNIX](https://www.cyberciti.biz/tips/debugging-shell-script.html)
+- [@artigo@Como Depurar um Script Shell Bash no Linux](https://www.linuxtechi.com/debugging-shell-scripts-in-linux/)
+- [@artigo@Como Depurar Scripts Bash](https://thelinuxcode.com/debug-bash-script/)

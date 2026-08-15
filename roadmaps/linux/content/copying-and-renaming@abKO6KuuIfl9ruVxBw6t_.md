@@ -1,10 +1,10 @@
-# Copying and Renaming Files
+# Cópia e Renomeação de Arquivos
 
-Essential Linux file operations use `cp` to copy files and `mv` to move/rename them. The `cp` command copies files from source to destination, while `mv` moves or renames files/directories. Both commands use the syntax `command source destination`. These case-sensitive commands are fundamental for daily file management tasks in Linux systems.
+As operações essenciais de arquivos no Linux usam `cp` para copiar arquivos e `mv` para mover ou renomeá-los. O comando `cp` copia arquivos do local de origem para o destino, enquanto `mv` move ou renomeia arquivos/diretórios. Ambos os comandos usam a sintaxe `comando fonte destino`. Esses comandos diferenciais são fundamentais para tarefas diárias de gerenciamento de arquivos em sistemas Linux.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@mv and cp - Linux.org](https://www.linux.org/threads/mv-and-cp.54793/)
-- [@article@Mastering cp and mv Commands in Linux](https://dev.to/ldwit/mastering-cp-and-mv-commands-in-linux-plus-related-cmds-5cc9)
-- [@article@Linux cp Command: File Copying](https://labex.io/tutorials/linux-linux-cp-command-file-copying-209744)
-- [@article@Linux mv Command: File Moving and Renaming](https://labex.io/tutorials/linux-linux-mv-command-file-moving-and-renaming-209743)
+- [@artigo@mv e cp - Linux.org](https://www.linux.org/threads/mv-and-cp.54793/)
+- [@artigo@Dominando os Comandos cp e mv no Linux](https://dev.to/ldwit/mastering-cp-and-mv-commands-in-linux-plus-related-cmds-5cc9)
+- [@artigo@Comando cp do Linux: Cópia de Arquivos](https://labex.io/tutorials/linux-linux-cp-command-file-copying-209744)
+- [@artigo@Comando mv do Linux: Movimentação e Renomeação de Arquivos](https://labex.io/tutorials/linux-linux-mv-command-file-moving-and-renaming-209743)

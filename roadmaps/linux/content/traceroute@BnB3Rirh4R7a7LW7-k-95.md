@@ -1,8 +1,8 @@
 # Traceroute
 
-Traceroute is a Linux network diagnostic tool that displays the path packets take from your system to a destination. It identifies routing problems, measures latency, and reveals network structure as packets traverse the internet. Each hop is tested multiple times with round-trip times displayed. Use `traceroute www.example.com` to discover packet routes and diagnose failures.
+O Traceroute é uma ferramenta de diagnóstico de rede do Linux que exibe o caminho pelos quais os pacotes passam de seu sistema para um destino. Ele identifica problemas de roteamento, mede latência e revela a estrutura da rede conforme os pacotes atravessam a internet. Cada salto é testado várias vezes com tempos de ida-volta exibidos. Use `traceroute www.example.com` para descobrir rotas de pacote e diagnosticar falhas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@traceroute Command Examples in Linux](https://linuxhandbook.com/traceroute/)
-- [@article@How to Use the traceroute Command on Linux](https://www.howtogeek.com/657780/how-to-use-the-traceroute-command-on-linux/)
+- [@article@Exemplos de Comando Traceroute no Linux](https://linuxhandbook.com/traceroute/)
+- [@article@Como Usar o Comando Traceroute no Linux](https://www.howtogeek.com/657780/how-to-use-the-traceroute-command-on-linux/)

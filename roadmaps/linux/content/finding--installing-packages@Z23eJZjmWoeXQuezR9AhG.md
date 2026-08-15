@@ -1,11 +1,11 @@
-# Finding and Installing Packages
+# Encontrando e Instalando Pacotes
 
-Linux package managers like `apt`, `yum`, and `dnf` automate software installation, upgrading, configuring, and removal. Debian-based systems: `sudo apt-get update && sudo apt-get install package-name`. Fedora/CentOS: `sudo dnf update && sudo dnf install package-name`. Package management eliminates manual compilation from source code. Root permissions required for installation.
+Gerenciadores de pacotes do Linux como `apt`, `yum` e `dnf` automatizam a instalação, atualização, configuração e remoção de software. Sistemas baseados em Debian: `sudo apt-get update && sudo apt-get install nome-do-pacote`. Fedora/CentOS: `sudo dnf update && sudo dnf install nome-do-pacote`. O gerenciamento de pacotes elimina a compilação manual do código-fonte. Permissões de root necessárias para instalação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@APT Package Manager](https://www.debian.org/doc/manuals/apt-guide/index.en.html)
-- [@official@Yum Package Manager](http://yum.baseurl.org/)
-- [@official@Using the DNF Software Package Manager](https://docs.fedoraproject.org/en-US/quick-docs/dnf/)
-- [@article@Linux Package Manager Explained](https://geekflare.com/dev/linux-package-manager-explained/)
-- [@article@8 Best Package Manager for Linux](https://linuxsimply.com/linux-basics/package-management/best-package-manager/)
+- [@oficial@Gerenciador de Pacotes APT](https://www.debian.org/doc/manuals/apt-guide/index.en.html)
+- [@oficial@Gerenciador de Pacotes Yum](http://yum.baseurl.org/)
+- [@oficial@Usando o Gerenciador de Pacotes DNF](https://docs.fedoraproject.org/en-US/quick-docs/dnf/)
+- [@artigo@Explicação do Gerenciador de Pacotes Linux](https://geekflare.com/dev/linux-package-manager-explained/)
+- [@artigo@8 Melhores Gerenciadores de Pacotes para Linux](https://linuxsimply.com/linux-basics/package-management/best-package-manager/)

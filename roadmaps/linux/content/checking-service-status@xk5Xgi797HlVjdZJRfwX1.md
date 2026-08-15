@@ -1,7 +1,7 @@
-# Checking Service Status
+# Verificando o Status do Serviço
 
-systemctl status service-name gives a real-time snapshot of a service: whether it's active, inactive, or failed; its process ID; recent log lines; and any error messages from the last run. For a quick boolean check, systemctl is-active and systemctl is-enabled return simple values suitable for use in scripts. The enabled/disabled state indicates whether the service is configured to start automatically at boot, separate from whether it's currently running.
+`systemctl status nome-do-servico` fornece um instantâneo em tempo real de um serviço: se ele está ativo, inativo ou falhou; seu ID de processo; as últimas linhas de log; e quaisquer mensagens de erro da última execução. Para uma verificação rápida booleana, `systemctl is-active` e `systemctl is-enabled` retornam valores simples adequados para uso em scripts. O estado habilitado/desabilitado indica se o serviço está configurado para iniciar automaticamente no boot, separadamente do fato de estar atualmente em execução.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Checking the Status of a Service Without Having an Exact Name](https://www.baeldung.com/linux/initialization-managers-service-status)
+- [@article@Verificando o Status de um Serviço Sem Ter Um Nome Exato](https://www.baeldung.com/linux/initialization-managers-service-status)

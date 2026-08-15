@@ -1,8 +1,8 @@
 # Netfilter
 
-Netfilter is a Linux kernel framework for manipulating and filtering network packets with hooks at various stages (pre-routing, input, forward, output, post-routing). Used for firewalls and NAT management with iptables configuration. Essential for traffic control, packet modification, logging, and intrusion detection in Linux networking systems.
+Netfilter é um quadro de kernel do Linux para manipular e filtrar pacotes de rede com hooks em várias fases (pré-redirecionamento, entrada, encaminhamento, saída, pós-redirecionamento). Usado para firewalls e gerenciamento de NAT com a configuração do iptables. Essencial para o controle de tráfego, modificação de pacotes, registro e detecção de intrusões em sistemas de rede Linux.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@netfilter/iptables project homepage](https://netfilter.org/)
-- [@article@Packet filtering in Linux - iptables, nftables and firewalld](https://wyssmann.com/blog/2021/07/packet-filtering-in-linux-iptables-nftables-and-firewalld/)
+- [@oficial@Página inicial do projeto netfilter/iptables](https://netfilter.org/)
+- [@artigo@Filtragem de Pacotes no Linux - iptables, nftables e firewalld](https://wyssmann.com/blog/2021/07/packet-filtering-in-linux-iptables-nftables-and-firewalld/)

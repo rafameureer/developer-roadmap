@@ -1,9 +1,9 @@
-# Starting / Stopping Services
+# Iniciando / Parando Serviços
 
-Linux service management controls system services like firewall, network, and database using `systemctl` commands. Basic operations: `sudo systemctl start service_name` (start), `sudo systemctl stop service_name` (stop), `sudo systemctl restart service_name` (restart). Root permissions required. Essential for system administrators managing updates and configuration changes.
+O gerenciamento de serviços no Linux controla serviços do sistema como firewall, rede e banco de dados usando comandos `systemctl`. Operações básicas: `sudo systemctl start nome_do_servico` (iniciar), `sudo systemctl stop nome_do_servico` (parar), `sudo systemctl restart nome_do_servico` (reiniciar). Permissões de root necessárias. Essencial para administradores de sistemas gerenciando atualizações e alterações de configuração.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Service Management in Linux: A Comprehensive Guide](https://medium.com/@thesureshvadde/service-management-in-linux-a-comprehensive-guide-cb4c7e81dfa9)
-- [@article@How to Master Linux Service Management with Systemctl](https://labex.io/tutorials/linux-how-to-master-linux-service-management-with-systemctl-392864)
-- [@article@How to Manage Services in Linux: systemd and SysVinit](https://dev.to/iaadidev/how-to-manage-services-in-linux-systemd-and-sysvinit-essentials-devops-prerequisite-8-1jop)
+- [@artigo@Gerenciamento de Serviços no Linux: Um Guia Completo](https://medium.com/@thesureshvadde/service-management-in-linux-a-comprehensive-guide-cb4c7e81dfa9)
+- [@artigo@Como Dominar o Gerenciamento de Serviços do Linux com Systemctl](https://labex.io/tutorials/linux-how-to-master-linux-service-management-with-systemctl-392864)
+- [@artigo@Como Gerenciar Serviços no Linux: systemd e SysVinit](https://dev.to/iaadidev/how-to-manage-services-in-linux-systemd-and-sysvinit-essentials-devops-prerequisite-8-1jop)

@@ -1,8 +1,8 @@
-# Redirects
- 
-Redirects change where a command's input comes from or where its output goes, instead of the default terminal screen. The `>` operator sends output to a file, overwriting it, while `>>` appends to the end of a file instead. The `<` operator redirects input from a file, feeding its contents into a command instead of typing them manually.
+# Redirecionamentos
 
-Visit the following resources to learn more:
+Os redirecionamentos mudam onde a entrada de um comando vem ou para onde sua saída vai, em vez da tela padrão do terminal. O operador `>` envia a saída para um arquivo, sobrescrevendo-o, enquanto `>>` anexa ao final de um arquivo. O operador `<` redireciona a entrada de um arquivo, alimentando seu conteúdo em um comando em vez de digitá-lo manualmente.
 
-- [@article@Input Output & Error Redirection in Linux](https://linuxhandbook.com/redirection-linux/)
-- [@article@Redirections (Bash Reference Manual)](https://www.gnu.org/software/bash/manual/html_node/Redirections.html)
+Acesse os seguintes recursos para saber mais:
+
+- [@artigo@Redirecionamento de Entrada e Saída & Erro no Linux](https://linuxhandbook.com/redirection-linux/)
+- [@artigo@Redirecionamentos (Manual do Bash Referência)](https://www.gnu.org/software/bash/manual/html_node/Redirections.html)

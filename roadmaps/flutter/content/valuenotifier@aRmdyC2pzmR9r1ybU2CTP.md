@@ -1,8 +1,8 @@
-# Value Notifier
+# Value Notificador
 
-Flutter's ValueNotifier is a lightweight tool for state management in Flutter. It efficiently handles a single value and notifies listeners of changes. With ValueNotifier, developers can easily track and update specific data, such as counters or user inputs. It simplifies state management and enables dynamic Flutter interfaces.
+O ValueNotifier do Flutter é uma ferramenta leve para gerenciamento de estado no Flutter. Ele eficientemente lida com um único valor e notifica os ouvintes de mudanças. Com o ValueNotifier, os desenvolvedores podem facilmente rastrear e atualizar dados específicos, como contadores ou entradas do usuário. Simplifica o gerenciamento de estado e habilita interfaces Flutter dinâmicas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@ValueNotifier Class - Flutter](https://api.flutter.dev/flutter/foundation/ValueNotifier-class.html)
-- [@article@ValuerNotifier & ValueListenableBuilder](https://medium.com/@avnishnishad/flutter-communication-between-widgets-using-valuenotifier-and-valuelistenablebuilder-b51ef627a58b)
+- [@official@Classe ValueNotifier - Flutter](https://api.flutter.dev/flutter/foundation/ValueNotifier-class.html)
+- [@article@ValueNotifier & ValueListenableBuilder](https://medium.com/@avnishnishad/flutter-communication-between-widgets-using-valuenotifier-and-valuelistenablebuilder-b51ef627a58b)

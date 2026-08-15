@@ -1,9 +1,9 @@
-# Integration Testing
+# Testes de Integração
 
-Integration tests in Flutter are tests that verify the behavior of your app as a whole, rather than individual widgets or functions. Integration tests allow you to test the interactions between different parts of your app and verify that the overall behavior of the app is correct.
+Os testes de integração no Flutter são testes que verificam o comportamento do seu aplicativo como um todo, em vez de widgets individuais ou funções. Os testes de integração permitem que você teste as interações entre diferentes partes do seu aplicativo e verifique se o comportamento geral do aplicativo é correto.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Introduction to Integration Testing](https://docs.flutter.dev/cookbook/testing/integration/introduction)
-- [@official@Integration Tests](https://docs.flutter.dev/testing#integration-tests)
+- [@official@Introdução aos Testes de Integração](https://docs.flutter.dev/cookbook/testing/integration/introduction)
+- [@official@Testes de Integração](https://docs.flutter.dev/testing#integration-tests)
 - [@feed@Explore top posts about Testing](https://app.daily.dev/tags/testing?ref=roadmapsh)

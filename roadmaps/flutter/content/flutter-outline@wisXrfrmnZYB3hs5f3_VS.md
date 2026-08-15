@@ -1,7 +1,7 @@
-# Flutter Outline
+# Estrutura do Flutter
 
-Flutter Outline is a feature in the Flutter development environment (IDE) that provides a tree-like representation of the widgets and elements in your Flutter app. It shows the hierarchy of the widgets, their relationships, and the structure of your app.
+A Estrutura do Flutter é uma funcionalidade no ambiente de desenvolvimento Flutter (IDE) que fornece uma representação em árvore dos widgets e elementos em seu aplicativo Flutter. Ela mostra a hierarquia dos widgets, suas relações e a estrutura do seu aplicativo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Flutter Widget Tree](https://docs.flutter.dev/tools/devtools/inspector#flutter-widget-tree)
+- [@oficial@Estrutura de Widget do Flutter](https://docs.flutter.dev/tools/devtools/inspector#flutter-widget-tree)

@@ -1,9 +1,9 @@
 # GraphQL
 
-GraphQL is a query language for your API that allows clients to request exactly the data they need, and nothing more. It was developed by Facebook and released as open source in 2015.
+O GraphQL é um idioma de consulta para sua API que permite aos clientes solicitar exatamente os dados que precisam, e nada mais. Foi desenvolvido pela Facebook e lançado como código-fonte aberto em 2015.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@roadmap@Visit Dedicated GraphQL Roadmap](https://roadmap.sh/graphql)
-- [@official@GraphQL](https://graphql.org)
-- [@official@Learn GraphQL](https://graphql.org/learn)
+- [@oficial@GraphQL](https://graphql.org)
+- [@oficial@Learn GraphQL](https://graphql.org/learn)

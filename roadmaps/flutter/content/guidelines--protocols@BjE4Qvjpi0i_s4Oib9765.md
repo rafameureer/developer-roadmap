@@ -1,16 +1,16 @@
-# Guidelines and Protocols
+# Diretrizes e Protocolos
 
-Guidelines and protocols are important considerations for Flutter developers as they help to ensure that apps are built in a consistent, reliable, and user-friendly manner. Some of the key guidelines and protocols to consider when developing a Flutter app include:
+As diretrizes e protocolos são considerações importantes para os desenvolvedores de Flutter, pois ajudam a garantir que as aplicativos sejam construídos de uma maneira consistente, confiável e amigável ao usuário. Alguns dos principais diretrizes e protocolos a serem considerados ao desenvolver um aplicativo Flutter incluem:
 
-*   Flutter Widget
-*   Dart Style
-*   Material Design
-*   Apple Human Interface
-*   Google Play Developer Policy Center
-*   App Store Review
+*   Widget do Flutter
+*   Estilo Dart
+*   Design Material
+*   Interface Humana da Apple
+*   Centro de Políticas Desenvolvedores do Google Play
+*   Revisão da App Store
 
-By following these guidelines and protocols, Flutter developers can ensure that their apps are well-designed, user-friendly, and secure, making it easier to attract and retain users.
+Ao seguir essas diretrizes e protocolos, os desenvolvedores de Flutter podem garantir que seus aplicativos estejam bem projetados, amigáveis ao usuário e seguros, tornando mais fácil atraírem e reter usuários.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Flutter - Protocols](https://api.flutter.dev/objcdoc/Protocols.html)
+- [@artigo@Flutter - Protocols](https://api.flutter.dev/objcdoc/Protocols.html)

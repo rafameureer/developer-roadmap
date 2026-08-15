@@ -1,9 +1,9 @@
 # Streams
 
-Streams in Flutter are a way to receive data over time as it becomes available. They are similar to observables in other languages and frameworks. Streams can be used for things like getting real-time updates from a server, or listening for changes in user input. In Flutter, streams are represented by the `Stream` class and can be listened to using the `StreamBuilder` widget.
+Os streams no Flutter são uma maneira de receber dados ao longo do tempo à medida que se tornam disponíveis. Eles são semelhantes aos observáveis em outras linguagens e frameworks. Os streams podem ser usados para coisas como obter atualizações em tempo real de um servidor ou ouvir mudanças no input do usuário. No Flutter, os streams são representados pela classe `Stream` e podem ser ouvidos usando o widget `StreamBuilder`.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Creating streams in Dart](https://dart.dev/articles/libraries/creating-streams)
-- [@article@Understanding Streams in Dart and Flutter](https://medium.com/stackademic/understanding-streams-in-dart-and-flutter-0d153b559760)
-- [@article@How to Use and Create Streams from Scratch in Dart and Flutter – a Beginner's Guide](https://www.freecodecamp.org/news/how-to-use-and-create-streams-in-dart-and-flutter/)
+- [@oficial@Criando streams em Dart](https://dart.dev/articles/libraries/creating-streams)
+- [@artigo@Entendendo Streams em Dart e Flutter](https://medium.com/stackademic/understanding-streams-in-dart-and-flutter-0d153b559760)
+- [@artigo@Como usar e criar streams do zero em Dart e Flutter – um guia para iniciantes](https://www.freecodecamp.org/news/how-to-use-and-create-streams-in-dart-and-flutter/)

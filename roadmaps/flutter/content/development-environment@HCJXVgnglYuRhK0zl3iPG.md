@@ -1,16 +1,16 @@
-# Setup Development Environment
+# Configuração do Ambiente de Desenvolvimento
 
-To set up a development environment for Flutter, you need to install the following software:
+Para configurar um ambiente de desenvolvimento para Flutter, você precisa instalar o seguinte software:
 
-*   Flutter SDK: Download and install the latest version of the Flutter SDK from the official website.
-*   Integrated Development Environment (IDE): You can use Android Studio, Visual Studio Code, IntelliJ IDEA or any other IDE of your choice.
-*   Emulator or a physical device: You can use an emulator or a physical device to run and test your Flutter apps. You can use the Android emulator provided by Android Studio or use a physical Android or iOS device.
-*   Git: Git is used for version control and is recommended for Flutter development. You can download and install Git.
-*   Dart SDK: Dart is the programming language used by Flutter, and the Dart SDK is required to develop Flutter apps. The Dart SDK is included in the Flutter SDK.
+*   Flutter SDK: Baixe e instale a versão mais recente do Flutter SDK no site oficial.
+*   Ambiente de Desenvolvimento Integrado (IDE): Você pode usar Android Studio, Visual Studio Code, IntelliJ IDEA ou qualquer outro IDE de sua escolha.
+*   Emulador ou dispositivo físico: Você pode usar um emulador ou um dispositivo físico para executar e testar seus aplicativos Flutter. Você pode usar o emulador do Android fornecido pelo Android Studio ou usar um dispositivo físico Android ou iOS.
+*   Git: O Git é usado para controle de versão e é recomendado para o desenvolvimento Flutter. Você pode baixar e instalar o Git.
+*   Dart SDK: Dart é a linguagem de programação usada pelo Flutter, e o Dart SDK é necessário para desenvolver aplicativos Flutter. O Dart SDK está incluído no Flutter SDK.
 
-Once you have installed all the required software, you can create a new Flutter project using the Flutter CLI or your IDE, and start building your app.
+Uma vez que você tenha instalado todos os softwares necessários, você pode criar um novo projeto Flutter usando a CLI do Flutter ou seu IDE, e começar a construir seu aplicativo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Get Started with Flutter](https://docs.flutter.dev/get-started/install)
-- [@official@Installing Dart SDK](https://dart.dev/get-dart)
+- [@official@Começando com Flutter](https://docs.flutter.dev/get-started/install)
+- [@official@Instalando o Dart SDK](https://dart.dev/get-dart)

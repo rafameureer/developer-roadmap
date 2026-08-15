@@ -1,9 +1,9 @@
 # Widgets
 
-Widgets in Flutter are the basic building blocks of the user interface. They define how the UI looks and behaves. Widgets can be combined to create complex user interfaces and can be easily customized. Widgets in Flutter are also designed to be highly reusable, allowing developers to build complex UIs quickly and efficiently.
+Os Widgets no Flutter são os blocos de construção básicos da interface do usuário. Eles definem como a UI parece e se comporta. Os Widgets podem ser combinados para criar interfaces de usuário complexas e podem ser facilmente personalizados. Os Widgets no Flutter também estão projetados para serem altamente reutilizáveis, permitindo aos desenvolvedores construir UIs complexas rapidamente e eficientemente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Introduction to Widgets](https://docs.flutter.dev/development/ui/widgets-intro)
-- [@official@Widget Catalog](https://docs.flutter.dev/development/ui/widgets)
-- [@video@Flutter Widgets Explained](https://www.youtube.com/watch?v=FU2Eeizo95o)
+- [@official@Introdução a Widgets](https://docs.flutter.dev/development/ui/widgets-intro)
+- [@official@Catálogo de Widgets](https://docs.flutter.dev/development/ui/widgets)
+- [@video@Widgets do Flutter Explicados](https://www.youtube.com/watch?v=FU2Eeizo95o)

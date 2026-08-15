@@ -1,8 +1,8 @@
-# Control Flow Statements
+# Estruturas de Controle
 
-Dart's control flow statements manage program execution: `if-else` for conditional logic, `for`, `while`, and `do-while` loops for repetition, `switch-case` for multi-way selection, and `break` and `continue` to alter loop behavior, enabling complex program logic.
+As estruturas de controle em Dart gerenciam a execução do programa: `if-else` para lógica condicional, `for`, `while`, e `do-while` para repetição, `switch-case` para seleção múltipla, e `break` e `continue` para alterar o comportamento dos loops, permitindo uma lógica de programa complexa.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Branches](https://dart.dev/language/branches)
-- [@official@Loops](https://dart.dev/language/loops)
+- [@official@Estruturas Condicionais](https://dart.dev/language/branches)
+- [@official@Laços](https://dart.dev/language/loops)

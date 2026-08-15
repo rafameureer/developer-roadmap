@@ -1,27 +1,27 @@
-# Styled Widgets
+# Widgets Estilizados
 
-Styled widgets in Flutter refer to widgets that are decorated with custom styles, such as colors, fonts, shapes, and visual properties. They help create consistent and visually appealing user interfaces by applying themes and styling across your application.
+Os widgets estilizados no Flutter se referem a widgets decorados com estilos personalizados, como cores, fontes, formas e propriedades visuais. Eles ajudam a criar interfaces de usuário consistentes e visualmente atraentes aplicando temas e estilos em todo o seu aplicativo.
 
-Flutter provides two main design systems for styled widgets:
+O Flutter fornece dois principais sistemas de design para widgets estilizados:
 
-*   **Material Widgets** - Google's Material Design components with built-in styling, animations, and theming
-*   **Cupertino Widgets** - Apple's iOS design language widgets that provide native iOS look and feel
+*   **Widgets Material** - Componentes do Design Material da Google com estilo, animações e theming embutidos
+*   **Widgets Cupertino** - Widgets do idioma iOS da Apple que fornecem um visual nativo do iOS
 
-You can customize styled widgets through:
+Você pode personalizar os widgets estilizados através de:
 
-*   **ThemeData** for app-wide styling and color schemes
-*   **Individual widget properties** like color, padding, and decoration
-*   **Custom themes** using ThemeExtension for reusable component styles
-*   **BoxDecoration** for borders, shadows, gradients, and backgrounds
-*   **TextStyles** for typography and font customization
+*   **ThemeData** para estilos globais e esquemas de cores
+*   **Propriedades individuais dos widgets**, como cor, preenchimento e decoração
+*   **Temas personalizados** usando ThemeExtension para estilos de componentes reutilizáveis
+*   **BoxDecoration** para bordas, sombras, gradientes e fundos
+*   **TextStyles** para tipografia e personalização da fonte
 
-Styled widgets can be created by wrapping existing widgets with styling containers like Container, DecoratedBox, or Theme widgets, or by using the built-in styling properties of Material and Cupertino widgets.
+Os widgets estilizados podem ser criados envolvendo widgets existentes com contêineres de estilo como Container, DecoratedBox ou Theme widgets, ou usando as propriedades de estilo internas dos widgets Material e Cupertino.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Use themes to share colors and font styles](https://docs.flutter.dev/cookbook/design/themes)
-- [@official@Styling widgets](https://docs.flutter.dev/ui/widgets/styling)
-- [@official@Material theming](https://docs.flutter.dev/ui/design/material)
-- [@official@Cupertino theming](https://docs.flutter.dev/ui/design/cupertino)
-- [@official@styled_widget](https://pub.dev/packages/styled_widget)
+- [@oficial@Use themes to share colors and font styles](https://docs.flutter.dev/cookbook/design/themes)
+- [@oficial@Styling widgets](https://docs.flutter.dev/ui/widgets/styling)
+- [@oficial@Material theming](https://docs.flutter.dev/ui/design/material)
+- [@oficial@Cupertino theming](https://docs.flutter.dev/ui/design/cupertino)
+- [@oficial@styled_widget](https://pub.dev/packages/styled_widget)
 - [@feed@Explore top posts about Flutter](https://app.daily.dev/tags/flutter?ref=roadmapsh)

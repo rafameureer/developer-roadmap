@@ -1,8 +1,8 @@
-# Collections
+# Coleções
 
-Dart provides built-in collections like Lists (ordered, indexed), Sets (unordered, unique), Maps (key-value pairs), Queues (FIFO), and Stacks (LIFO) for efficient data storage and manipulation, useful in various scenarios like data storage, state management, and algorithm implementation.
+O Dart fornece coleções embutidas como Listas (ordenadas, indexadas), Conjuntos (desordenados, únicos), Mapas (pares chave-valor), Filas (FIFO) e Pilhas (LIFO) para armazenamento e manipulação de dados eficientes, úteis em diversos cenários como armazenamento de dados, gerenciamento de estado e implementação de algoritmos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Generic Collections in Flutter](https://dart.dev/guides/language/language-tour#generic-collections-and-the-types-they-contain)
-- [@official@Iterable Collections](https://dart.dev/codelabs/iterables)
+- [@oficial@Coleções genéricas no Flutter](https://dart.dev/guides/language/language-tour#generic-collections-and-the-types-they-contain)
+- [@oficial@Coleções Iteráveis](https://dart.dev/codelabs/iterables)

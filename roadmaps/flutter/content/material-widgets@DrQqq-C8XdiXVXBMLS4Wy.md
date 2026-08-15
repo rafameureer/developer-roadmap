@@ -1,11 +1,11 @@
-# Material Widgets
+# Widgets Material
 
-Material Widgets are a set of Flutter widgets that implement Material Design, Google's visual language for design. They are designed to provide a consistent look and feel on both Android and iOS devices.
+Os Widgets Material são um conjunto de widgets Flutter que implementam o Design Material, a linguagem visual do Google para design. Eles estão projetados para fornecer uma aparência consistente em dispositivos Android e iOS.
 
-These widgets are commonly used in Flutter apps to provide a familiar look and feel that follows Material Design guidelines.
+Esses widgets são comumente usados em aplicativos Flutter para fornecer uma aparência familiar que segue as diretrizes de Design Material.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Material Components Widgets](https://docs.flutter.dev/development/ui/widgets/material)
-- [@official@Widget catalog in Flutter](https://docs.flutter.dev/development/ui/widgets)
-- [@article@Material Designs Guidelines](https://m2.material.io/design/guidelines-overview)
+- [@official@Widgets de Componentes Material](https://docs.flutter.dev/development/ui/widgets/material)
+- [@official@Catálogo de Widgets no Flutter](https://docs.flutter.dev/development/ui/widgets)
+- [@article@Diretrizes do Design Material](https://m2.material.io/design/guidelines-overview)

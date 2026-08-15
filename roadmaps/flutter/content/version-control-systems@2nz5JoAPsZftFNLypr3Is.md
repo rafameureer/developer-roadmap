@@ -1,11 +1,11 @@
-# Version Control Systems
+# Sistemas de Controle de Versão
 
-Version control systems allow you to track changes to your codebase/files over time. They allow you to go back to some previous version of the codebase without any issues. Also, they help in collaborating with people working on the same code – if you’ve ever collaborated with other people on a project, you might already know the frustration of copying and merging the changes from someone else into your codebase; version control systems allow you to get rid of this issue.
+Os sistemas de controle de versão permitem que você rastreie as alterações em seu código-fonte/arquivos ao longo do tempo. Eles permitem que você volte a uma versão anterior do código-fonte sem problemas. Além disso, eles ajudam na colaboração com pessoas trabalhando no mesmo código – se você já tiver colaborado com outras pessoas em um projeto, talvez já tenha sentido a frustração de copiar e mesclar as alterações de outra pessoa em seu código-fonte; os sistemas de controle de versão permitem que você solte esse problema.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Version Control? - GitHub](https://github.com/resources/articles/software-development/what-is-version-control)
-- [@article@What is Version Control? - Atlassian](https://www.atlassian.com/git/tutorials/what-is-version-control)
-- [@video@Version Control System Introduction](https://www.youtube.com/watch?v=zbKdDsNNOhg)
-- [@video@Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
-- [@video@Learn Git in 20 Minutes](https://youtu.be/Y9XZQO1n_7c?t=21)
+- [@article@O que é Controle de Versão? - GitHub](https://github.com/resources/articles/software-development/what-is-version-control)
+- [@article@O que é Controle de Versão? - Atlassian](https://www.atlassian.com/git/tutorials/what-is-version-control)
+- [@video@Introdução ao Sistema de Controle de Versão](https://www.youtube.com/watch?v=zbKdDsNNOhg)
+- [@video@Curso rápido do Git e GitHub para iniciantes](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+- [@video@Aprenda o Git em 20 minutos](https://youtu.be/Y9XZQO1n_7c?t=21)

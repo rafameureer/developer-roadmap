@@ -1,7 +1,7 @@
-# Operators
+# Operadores
 
-Flutter, and Dart, utilize various operators to manipulate data: arithmetic operators for math, relational operators for comparisons, logical operators for boolean logic, assignment operators for value assignment, and the ternary operator for concise conditional expressions, enabling diverse operations on values and variables.
+O Flutter e o Dart usam vários operadores para manipular dados: operadores aritméticos para cálculos, operadores relacionais para comparações, operadores lógicos para lógica booleana, operadores de atribuição para atribuição de valor e o operador ternário para expressões condicionais concisas, permitindo diversas operações em valores e variáveis.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Operators](https://dart.dev/language/operators)
+- [@official@Operadores](https://dart.dev/language/operators)

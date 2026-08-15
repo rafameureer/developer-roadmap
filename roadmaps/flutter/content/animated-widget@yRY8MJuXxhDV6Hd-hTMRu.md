@@ -1,8 +1,8 @@
 # AnimatedWidget
 
-AnimatedWidget is a Flutter widget that takes an `Animation` object as an argument and automatically updates whenever the animation changes. This can be useful when you want to create animations that are tightly coupled to a widget, for example, to animate the size or color of a widget. With `AnimatedWidget`, you can encapsulate the animation logic into a single widget and reuse it throughout your app. This makes it easier to manage and maintain your animations, as the animation code is centralized and decoupled from the widget tree.
+AnimatedWidget é um widget no Flutter que aceita um objeto `Animation` como argumento e atualiza automaticamente sempre que a animação muda. Isso pode ser útil quando você deseja criar animações estreitamente acopladas a um widget, por exemplo, para animar o tamanho ou a cor de um widget. Com `AnimatedWidget`, você pode encapsular a lógica da animação em um único widget e reutilizá-lo ao longo do seu aplicativo. Isso torna mais fácil gerenciar e manter suas animações, pois o código da animação é centralizado e desacoplado da árvore de widgets.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Simplifying with Animated­Widget](https://docs.flutter.dev/development/ui/animations/tutorial#simplifying-with-animatedwidgets)
 - [@article@AnimatedWidget Class](https://api.flutter.dev/flutter/widgets/AnimatedWidget-class.html)

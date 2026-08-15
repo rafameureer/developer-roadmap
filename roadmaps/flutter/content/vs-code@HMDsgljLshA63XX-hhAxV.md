@@ -1,22 +1,22 @@
 # VS Code
 
-VS Code is a lightweight, fast, and highly customizable code editor that provides excellent support for Flutter development. To use VS Code for Flutter development, you must install the Flutter and Dart plugins for VS Code. These plugins support Flutter-specific features such as syntax highlighting, debugging, and hot reloading.
+VS Code é um editor de código leve, rápido e altamente personalizável que oferece excelente suporte para o desenvolvimento Flutter. Para usar VS Code no desenvolvimento Flutter, você deve instalar os plugins Flutter e Dart para VS Code. Esses plugins oferecem suporte a recursos específicos do Flutter, como destacamento de sintaxe, depuração e recarga rápida.
 
-With the Flutter extension, VS Code provides essential development tools including:
+Com a extensão Flutter, VS Code fornece ferramentas de desenvolvimento essenciais, incluindo:
 
-*   Flutter widget inspector
-*   Hot reload and hot restart
-*   Integrated debugging
-*   Code completion and IntelliSense
-*   Flutter outline view
-*   Device management
-*   Integrated terminal
+*   Inspetor de widgets Flutter
+*   Recarga rápida e reinício rápido
+*   Depuração integrada
+*   Completamento de código e IntelliSense
+*   Visualização da estrutura do Flutter
+*   Gerenciamento de dispositivos
+*   Terminal integrado
 
-VS Code is particularly popular among developers who prefer a lightweight IDE with fast performance, extensive customization options, and cross-platform availability.
+VS Code é particularmente popular entre os desenvolvedores que preferem um IDE leve com desempenho rápido, opções de personalização extensas e disponibilidade cross-platform.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@VS Code for Flutter](https://docs.flutter.dev/development/tools/vs-code)
-- [@official@Flutter extension for VS Code](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter)
-- [@official@Dart extension for VS Code](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code)
+- [@official@VS Code para Flutter](https://docs.flutter.dev/development/tools/vs-code)
+- [@official@Extensão Flutter para VS Code](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter)
+- [@official@Extensão Dart para VS Code](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code)
 - [@feed@Explore top posts about Flutter](https://app.daily.dev/tags/flutter?ref=roadmapsh)

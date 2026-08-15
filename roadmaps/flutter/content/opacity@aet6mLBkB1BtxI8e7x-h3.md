@@ -1,8 +1,8 @@
-# Opacity
+# Opacidade
 
-Opacity is a Flutter widget that allows you to control the transparency of its child widget. It takes a single opacity argument, which is a value between 0.0 and 1.0, where 0.0 represents complete transparency and 1.0 represents complete opacity. The child widget is drawn with the specified opacity, making it appear translucent or transparent, depending on the value of the opacity argument. This can be useful for creating visual effects such as fading in or out, or to create partially transparent backgrounds or overlays. By using Opacity in combination with other widgets and animations, you can create sophisticated visual effects in your Flutter app.
+Opacidade é um widget do Flutter que permite controlar a transparência de seu filho widget. Ele aceita um único argumento de opacidade, que é um valor entre 0.0 e 1.0, onde 0.0 representa total transparência e 1.0 representa total opacidade. O filho widget é desenhado com a opacidade especificada, tornando-o aparecer translúcido ou transparente, dependendo do valor do argumento de opacidade. Isso pode ser útil para criar efeitos visuais como fade in ou out, ou para criar fundos ou overlays parcialmente transparentes. Ao usar Opacidade em combinação com outros widgets e animações, você pode criar efeitos visuais sofisticados em seu aplicativo Flutter.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Fade a Widget in and out](https://docs.flutter.dev/cookbook/animation/opacity-animation)
-- [@article@AnimatedOpacity widget](https://docs.flutter.dev/codelabs/implicit-animations#animate-opacity-with-animatedopacity-widgets)
+- [@oficial@Desanima um Widget](https://docs.flutter.dev/cookbook/animation/opacity-animation)
+- [@artigo@Widget AnimatedOpacity](https://docs.flutter.dev/codelabs/implicit-animations#animate-opacity-with-animatedopacity-widgets)

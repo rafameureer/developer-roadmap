@@ -1,10 +1,10 @@
-# Working with Assets
+# Trabalhando com Ativos
 
-Assets are resources such as images, fonts, and other files that are included in your app. To use assets in Flutter, you need to specify them in your app's `pubspec.yaml` file and then access them in your code.
+Ativos são recursos como imagens, fontes e outros arquivos que estão incluídos em seu aplicativo. Para usar ativos no Flutter, você precisa especificá-los em seu arquivo `pubspec.yaml` do aplicativo e depois acessá-los em seu código.
 
-The `pubspec.yaml` file is used to manage dependencies, assets, and other settings in your Flutter app. The `flutter` section is used to specify assets that should be included with the app. The path specified in the `assets` section should be relative to the `pubspec.yaml` file.
+O arquivo `pubspec.yaml` é usado para gerenciar dependências, ativos e outras configurações em seu aplicativo Flutter. A seção `flutter` é usada para especificar ativos que devem ser incluídos com o aplicativo. O caminho especificado na seção `assets` deve ser relativo ao arquivo `pubspec.yaml`.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Adding Assets in Flutter](https://docs.flutter.dev/development/ui/assets-and-images)
-- [@video@Flutter Tutorial - Assets](https://www.youtube.com/watch?v=Hxh6nNHSUjo)
+- [@official@Adicionando Ativos no Flutter](https://docs.flutter.dev/development/ui/assets-and-images)
+- [@video@Tutorial do Flutter - Ativos](https://www.youtube.com/watch?v=Hxh6nNHSUjo)

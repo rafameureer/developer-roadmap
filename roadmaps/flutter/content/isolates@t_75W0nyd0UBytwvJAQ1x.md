@@ -1,8 +1,8 @@
-# Isolates
+# Isolados
 
-Flutter Isolates are parallel execution contexts that enhance performance and concurrency by running intensive tasks in the background, preventing UI freezes. They provide isolated memory spaces for reliable code, enable concurrent execution, and facilitate inter-isolate communication for data sharing and coordination, though developers must consider context-switching and communication overhead.
+Isolados no Flutter são contextos de execução paralelos que melhoram o desempenho e a concorrência executando tarefas intensivas em segundo plano, prevenindo congelamentos da interface do usuário. Eles fornecem espaços de memória isolados para código confiável, permitem a execução concorrente e facilitam a comunicação entre isolados para compartilhamento de dados e coordenação, embora os desenvolvedores devem considerar o contexto de troca e sobrecarga de comunicação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@How Isolates Work](https://dart.dev/guides/language/concurrency#how-isolates-work)
-- [@article@Dart - Isolates and event loops](https://medium.com/dartlang/dart-asynchronous-programming-isolates-and-event-loops-bffc3e296a6a)
+- [@oficial@Como Isolados Funcionam](https://dart.dev/guides/language/concurrency#how-isolates-work)
+- [@artigo@Dart - Isolados e loops de eventos](https://medium.com/dartlang/dart-asynchronous-programming-isolates-and-event-loops-bffc3e296a6a)

@@ -4,7 +4,7 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 
 ---
 
-> ⚠️ **Total de itens sinalizados:** 906
+> ⚠️ **Total de itens sinalizados:** 920
 
 | Arquivo / Tópico | Motivo da Sinalização | Data/Hora |
 |---|---|---|
@@ -914,3 +914,17 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 | `roadmaps/engineering-manager/content/vendor-relationships@WYoqfmk5ejB2UOiYXh4Zi.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:43:17.852562 |
 | `roadmaps/engineering-manager/content/vision-alignment@QssXmeifoI3dtu-eXp8PK.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:43:36.822516 |
 | `roadmaps/engineering-manager/content/work-life-balance-during-crises@tmY4Ktu6luFg5wKylJW76.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:43:55.877791 |
+| `roadmaps/flutter/content/firebase-analytics@g2qXhkk6oGaBJy8Y2JOwW.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:46:21.613585 |
+| `roadmaps/flutter/content/firebase-app-dist@akQ7SEHiZm9pZK49rsbO2.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:46:25.883257 |
+| `roadmaps/flutter/content/fonts@cXsIM4rZsBChVdrm8poOp.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:47:06.752965 |
+| `roadmaps/flutter/content/functional-programming@x5q_bWpxmpJFK8eaWZxuY.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:47:10.777477 |
+| `roadmaps/flutter/content/functions@Pek6vOO-qKCetTznCGv6f.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:47:12.838642 |
+| `roadmaps/flutter/content/git@yQyIPT09n62f1v8JbkoYJ.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:47:42.868469 |
+| `roadmaps/flutter/content/github-actions@8rCjcuZNL9kicMBXiL46l.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:47:46.736514 |
+| `roadmaps/flutter/content/github@V0R4VyQ64Bwwj6O8XbZyF.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:47:50.832838 |
+| `roadmaps/flutter/content/playstore@wF8Iy7V-f52qQxOsAJobz.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:49:23.766045 |
+| `roadmaps/flutter/content/provider@MfqUMirRIEiM7pr5NiGF_.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:49:26.050887 |
+| `roadmaps/flutter/content/pubdev@lXruqvSShlQrdVEo_xPm1.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:49:28.556054 |
+| `roadmaps/flutter/content/sqlite@NPaqiuUpzQbrsXA5XNI7U.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:50:42.619553 |
+| `roadmaps/flutter/content/state-management@bYJ0G-g4R5faoJfFjRQW7.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:50:44.729301 |
+| `roadmaps/flutter/content/web-sockets@SUFuHR-r6NfAzIICXGHkK.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:52:00.116949 |

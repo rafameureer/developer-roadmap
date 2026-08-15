@@ -1,10 +1,10 @@
-# Working with APIs
+# Trabalhando com APIs
 
-Working with APIs in Flutter involves making HTTP requests to a server and processing the responses. Flutter provides a number of libraries for making HTTP requests, including `dart:io` and `http`.
+Trabalhar com APIs no Flutter envolve fazer solicitações HTTP a um servidor e processar as respostas. O Flutter fornece várias bibliotecas para fazer solicitações HTTP, incluindo `dart:io` e `http`.
 
-The `http` library is a popular choice for making HTTP requests in Flutter, as it is easy to use and provides support for HTTP methods such as GET, POST, PUT, DELETE, and more.
+A biblioteca `http` é uma escolha popular para fazer solicitações HTTP no Flutter, pois é fácil de usar e oferece suporte a métodos HTTP como GET, POST, PUT, DELETE e mais.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Using Google APIs](https://dart.dev/guides/google-apis)
-- [@video@How to work with APIs in Flutter?](https://www.youtube.com/watch?v=uVo7HDWDUEQ)
+- [@article@Usando APIs do Google](https://dart.dev/guides/google-apis)
+- [@video@Como trabalhar com APIs no Flutter?](https://www.youtube.com/watch?v=uVo7HDWDUEQ)

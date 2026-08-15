@@ -1,8 +1,8 @@
-# Render Objects
+# Objetos de Renderização
 
-RenderObject's can be defined as "Objects" that render and manipulate layouts, sizes and draw the UI, providing the actual application rendering. They clean up some resources when dispose method is called, therefore it must be disposed by creator when is no longer used.
+Os objetos de renderização podem ser definidos como "Objetos" que renderizam e manipulam layouts, tamanhos e desenham a interface do usuário, fornecendo a renderização real da aplicação. Eles limpam alguns recursos quando o método dispose é chamado, portanto, devem ser descartados pelo criador quando não forem mais usados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@RenderObject Documentation](https://api.flutter.dev/flutter/rendering/RenderObject-class.html)
-- [@article@Get started with RenderObjects - Flutter](https://jasper-dev.hashnode.dev/getting-started-with-renderobjects-in-flutter)
+- [@official@Documentação de RenderObject](https://api.flutter.dev/flutter/rendering/RenderObject-class.html)
+- [@article@Comece com Objetos de Renderização - Flutter](https://jasper-dev.hashnode.dev/getting-started-with-renderobjects-in-flutter)

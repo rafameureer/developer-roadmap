@@ -1,8 +1,8 @@
-# Core Libraries
+# Bibliotecas Principais
 
-Dart has a rich set of core libraries that provide essentials for many everyday programming tasks such as working on collections of objects (dart:collection), making calculations (dart:math), and encoding/decoding data (dart:convert).
+O Dart possui um conjunto rico de bibliotecas principais que fornecem fundamentos para muitas tarefas de programação cotidianas, como trabalhar com coleções de objetos (dart:collection), fazer cálculos (dart:math) e codificar/descodificar dados (dart:convert).
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Core Libraries](https://dart.dev/guides/libraries)
-- [@official@Libraries - Flutter API](https://api.flutter.dev/)
+- [@official@Bibliotecas Principais](https://dart.dev/guides/libraries)
+- [@official@Bibliotecas - API Flutter](https://api.flutter.dev/)

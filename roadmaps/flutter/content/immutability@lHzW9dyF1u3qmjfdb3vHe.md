@@ -1,7 +1,7 @@
-# Immutability
+# Imutabilidade
 
-Immutability in Flutter refers to objects that cannot be changed once they are created. In Flutter, immutability is used to ensure that objects in the widget tree are not modified unexpectedly, which can lead to unexpected behavior and bugs in the app.
+A imutabilidade no Flutter refere-se a objetos que não podem ser alterados uma vez criados. No Flutter, a imutabilidade é usada para garantir que os objetos na árvore de widgets não sejam modificados de forma inesperada, o que pode levar a comportamentos e bugs inesperados no aplicativo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Immutable Data in Flutter](https://dart.academy/immutable-data-patterns-in-dart-and-flutter/)
+- [@article@Dados Immutáveis no Flutter](https://dart.academy/immutable-data-patterns-in-dart-and-flutter/)

@@ -1,8 +1,8 @@
 # Design Patterns
 
-Design patterns are solutions to common problems in software development that can be used to improve the quality and maintainability of your code.
+Design patterns são soluções para problemas comuns no desenvolvimento de software que podem ser usados para melhorar a qualidade e manutenibilidade do seu código.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@article@Flutter - Design](https://dart.dev/guides/language/effective-dart/design)
 - [@article@Cookbook Designs in Flutter](https://docs.flutter.dev/cookbook/design)

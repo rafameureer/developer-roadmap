@@ -1,11 +1,11 @@
-# Storage
+# Armazenamento
 
-In Flutter, you can use Firebase Storage to store and retrieve binary data, such as images, audio files, and videos. Firebase Storage is a cloud-based storage service provided by Firebase that makes it easy to store and serve large binary data, such as images and videos, in your Flutter app.
+No Flutter, você pode usar o Firebase Storage para armazenar e recuperar dados binários, como imagens, arquivos de áudio e vídeos. O Firebase Storage é um serviço de armazenamento baseado em nuvem fornecido pelo Firebase que facilita a armazenamento e entrega de grandes dados binários, como imagens e vídeos, em seu aplicativo Flutter.
 
-To use Firebase Storage in your Flutter app, you need to first create a Firebase project in the Firebase Console and then add the Firebase Storage package to your Flutter app.
+Para usar o Firebase Storage em seu aplicativo Flutter, você precisa primeiro criar um projeto do Firebase no Console do Firebase e depois adicionar o pacote do Firebase Storage ao seu aplicativo Flutter.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Firebase Storage](https://firebase.google.com/docs/storage)
-- [@video@How to Upload and Retrieve Images from Firebase Storage](https://www.youtube.com/watch?v=sM-WMcX66FI)
+- [@oficial@Firebase Storage](https://firebase.google.com/docs/storage)
+- [@vídeo@Como carregar e recuperar imagens do Firebase Storage](https://www.youtube.com/watch?v=sM-WMcX66FI)
 - [@feed@Explore top posts about Storage](https://app.daily.dev/tags/storage?ref=roadmapsh)

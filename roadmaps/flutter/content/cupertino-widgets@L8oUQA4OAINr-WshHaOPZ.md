@@ -1,9 +1,9 @@
-# Cupertino Widgets
+# Widgets Cupertino
 
-Cupertino widgets are a set of Flutter widgets that mimic the look and feel of Apple's iOS user interface. They are designed to provide a consistent look and feel on both iOS and Android devices, and include widgets such as CupertinoButton, CupertinoAlertDialog, and CupertinoSlider. These widgets are useful for building cross-platform apps that need to conform to the iOS design aesthetic.s
+Os widgets Cupertino são um conjunto de widgets do Flutter que imitam o visual e o comportamento da interface do usuário do iOS da Apple. Eles estão projetados para fornecer uma aparência consistente em dispositivos iOS e Android, e incluem widgets como CupertinoButton, CupertinoAlertDialog e CupertinoSlider. Esses widgets são úteis para construir aplicativos multiplataforma que precisam se conformar com o estilo de design do iOS.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Cupertino (iOS-style) Widgets](https://docs.flutter.dev/development/ui/widgets/cupertino)
-- [@article@Flutter Cupertino Tutorial](https://blog.logrocket.com/flutter-cupertino-tutorial-build-ios-apps-native/)
-- [@video@Flutter Cupertino Widgets](https://www.youtube.com/watch?v=L-TY_5NZ7z4)
+- [@official@Widgets Cupertino (estilo iOS)](https://docs.flutter.dev/development/ui/widgets/cupertino)
+- [@article@Tutorial Flutter Cupertino](https://blog.logrocket.com/flutter-cupertino-tutorial-build-ios-apps-native/)
+- [@video@Widgets Cupertino do Flutter](https://www.youtube.com/watch?v=L-TY_5NZ7z4)

@@ -1,8 +1,8 @@
 # Change Notifier
 
-Flutter's ChangeNotifier is a fundamental class for state management in Flutter. It allows developers to handle and notify listeners of data changes, ensuring efficient updates to the user interface. By extending ChangeNotifier, developers can create custom classes to represent specific states or data models. Integrating ChangeNotifier enhances the user experience by managing state and dynamically updating the UI. It simplifies state management and enables the creation of interactive Flutter applications.
+O ChangeNotifier do Flutter é uma classe fundamental para o gerenciamento de estado no Flutter. Ele permite aos desenvolvedores lidar e notificar os ouvintes de mudanças de dados, garantindo atualizações eficientes da interface do usuário. Ao estender ChangeNotifier, os desenvolvedores podem criar classes personalizadas para representar estados específicos ou modelos de dados. Integrar ChangeNotifier melhora a experiência do usuário ao gerenciar o estado e atualizar dinamicamente a interface do usuário. Simplifica o gerenciamento de estado e habilita a criação de aplicativos Flutter interativos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@ChangeNotifier class - Flutter](https://api.flutter.dev/flutter/foundation/ChangeNotifier-class.html)
-- [@official@Simple app state management](https://docs.flutter.dev/data-and-backend/state-mgmt/simple)
+- [@official@Classe ChangeNotifier - Flutter](https://api.flutter.dev/flutter/foundation/ChangeNotifier-class.html)
+- [@official@Gerenciamento Simples do Estado](https://docs.flutter.dev/data-and-backend/state-mgmt/simple)

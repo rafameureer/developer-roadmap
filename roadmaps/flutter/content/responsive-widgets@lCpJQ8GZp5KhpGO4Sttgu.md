@@ -1,7 +1,7 @@
-# Responsive Widgets
+# Widgets Responsivos
 
-Responsive widgets in Dart, primarily within Flutter, are crucial for building applications that adapt to diverse screen sizes and orientations. Developers achieve this adaptability using tools like `LayoutBuilder` to respond to available space, `MediaQuery` to gather device information, and `Expanded` and `Flexible` for dynamic space distribution. `AspectRatio` maintains proportions, `OrientationBuilder` adjusts for landscape or portrait modes, and `Wrap` handles overflow by moving widgets to new lines. Adaptive widgets and custom layouts further enhance platform-specific responsiveness. By employing these techniques and considering breakpoints and thorough testing, developers can create Flutter apps that provide a consistent and optimal user experience across various devices.
+Os widgets responsivos em Dart, principalmente dentro do Flutter, são cruciais para construir aplicativos que se adaptam a diferentes tamanhos e orientações de tela. Desenvolvedores alcançam essa adaptação usando ferramentas como `LayoutBuilder` para responder ao espaço disponível, `MediaQuery` para coletar informações sobre o dispositivo, e `Expanded` e `Flexible` para distribuição dinâmica do espaço. `AspectRatio` mantém proporções, `OrientationBuilder` ajusta para modos paisagem ou retrato, e `Wrap` lida com estouro movendo widgets para novas linhas. Widgets adaptáveis e layouts personalizados ainda melhoram a responsividade específica da plataforma. Ao empregar essas técnicas e considerando pontos de quebra e testes abrangentes, os desenvolvedores podem criar aplicativos Flutter que ofereçam uma experiência do usuário consistente e ótima em diversos dispositivos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Responsive Widget](https://docs.flutter.dev/ui/layout/adaptive-responsive)
+- [@official@Widgets Responsivos](https://docs.flutter.dev/ui/layout/adaptive-responsive)

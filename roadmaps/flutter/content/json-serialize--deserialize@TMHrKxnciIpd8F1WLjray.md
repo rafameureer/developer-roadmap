@@ -1,12 +1,12 @@
 # JSON
 
-JSON (JavaScript Object Notation) is a lightweight data interchange format that is easy for humans to read and write and easy for machines to parse and generate. In Flutter, JSON is used for transmitting data between the client and server, typically over an HTTP connection.
+JSON (JavaScript Object Notation) é um formato de intercâmbio de dados leve que é fácil de ser lido e escrito por humanos e fácil de ser analisado e gerado por máquinas. No Flutter, o JSON é usado para transmitir dados entre cliente e servidor, geralmente através de uma conexão HTTP.
 
-Flutter provides a number of libraries for working with JSON data, including the `dart:convert` library, which provides support for encoding and decoding JSON data.
+O Flutter fornece várias bibliotecas para trabalhar com dados JSON, incluindo a biblioteca `dart:convert`, que oferece suporte para codificação e decodificação de dados JSON.
 
-To encode a Dart object to a JSON string, you can use the `jsonEncode` function from the `dart:convert` library. To decode a JSON string to a Dart object, you can use the jsonDecode function.
+Para codificar um objeto Dart em uma string JSON, você pode usar a função `jsonEncode` da biblioteca `dart:convert`. Para decodificar uma string JSON em um objeto Dart, você pode usar a função `jsonDecode`.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@JSON and serialization](https://docs.flutter.dev/development/data-and-backend/json)
-- [@official@Using JSON](https://dart.dev/guides/json)
+- [@oficial@JSON e serialização](https://docs.flutter.dev/development/data-and-backend/json)
+- [@oficial@Usando JSON](https://dart.dev/guides/json)

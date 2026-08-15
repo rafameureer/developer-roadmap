@@ -1,8 +1,8 @@
-# Analytics
+# Análise
 
-Analytics is a key aspect of understanding user behavior and measuring app performance for Flutter apps. There are a number of analytics tools available for Flutter apps, each with their own set of features and benefits.
+A análise é um aspecto crucial para entender o comportamento do usuário e medir a performance do aplicativo Flutter. Existem vários ferramentas de análise disponíveis para aplicativos Flutter, cada uma com seu próprio conjunto de recursos e benefícios.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@article@Top Flutter Analytics](https://fluttergems.dev/analytics-consumer-insights/)
-- [@video@Flutter Analytics using Firebase](https://www.youtube.com/watch?v=31KpJXqCayo)
+- [@video@Análise de Flutter usando Firebase](https://www.youtube.com/watch?v=31KpJXqCayo)

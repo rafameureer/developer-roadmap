@@ -1,7 +1,7 @@
-# Inherited Widgets
+# Widgets Inheridos
 
-Inherited widgets in Flutter are a powerful mechanism for efficiently propagating data down the widget tree. They essentially create a shared data scope that descendant widgets can access without needing to explicitly pass the data through constructors. When a widget needs to access data from an ancestor, it can simply look up the nearest inherited widget of the desired type.
+Os widgets inheridos no Flutter são um mecanismo poderoso para propagar eficientemente dados pela árvore de widgets. Eles criam essencialmente um escopo de dados compartilhado que os widgets descendentes podem acessar sem precisar passar explicitamente os dados através dos construtores. Quando um widget precisa acessar dados de um antepassado, ele pode simplesmente procurar o widget inherido mais próximo do tipo desejado.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Inherited Widgets](https://api.flutter.dev/flutter/widgets/InheritedWidget-class.html)
+- [@official@Widgets Inheridos](https://api.flutter.dev/flutter/widgets/InheritedWidget-class.html)

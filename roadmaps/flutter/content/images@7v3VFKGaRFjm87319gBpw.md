@@ -1,14 +1,14 @@
-# Images
+# Imagens
 
-In Flutter, you can display images using the `Image` widget. There are several ways to add an image to your app:
+No Flutter, você pode exibir imagens usando o widget `Image`. Existem várias maneiras de adicionar uma imagem ao seu aplicativo:
 
-*   Asset: Add the image to your app's assets and specify the asset path in the `Image` widget.
-*   Network: Display an image from a URL by specifying the URL in the `Image` widget.
-*   File: Display an image from a file by specifying the file path in the `Image` widget.
+*   Ativo: Adicione a imagem aos ativos do seu aplicativo e especifique o caminho do ativo no widget `Image`.
+*   Rede: Exiba uma imagem a partir de uma URL especificando a URL no widget `Image`.
+*   Arquivo: Exiba uma imagem a partir de um arquivo especificando o caminho do arquivo no widget `Image`.
 
-The `Image` widget also accepts additional parameters such as `fit`, `width`, and `height` to control the size and scaling of the image.
+O widget `Image` também aceita parâmetros adicionais como `fit`, `width` e `height` para controlar o tamanho e a escala da imagem.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Adding Assets and Images](https://docs.flutter.dev/development/ui/assets-and-images)
-- [@article@Images in Flutter](https://docs.flutter.dev/cookbook/images)
+- [@official@Adicionando Ativos e Imagens](https://docs.flutter.dev/development/ui/assets-and-images)
+- [@article@Imagens no Flutter](https://docs.flutter.dev/cookbook/images)

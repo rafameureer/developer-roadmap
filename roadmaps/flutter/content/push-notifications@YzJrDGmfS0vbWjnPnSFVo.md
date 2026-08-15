@@ -1,7 +1,7 @@
-# Push Notifications
+# Notificações Push
 
-Implementing Firebase push notifications in Flutter involves setting up a Firebase project, integrating the FCM plugin, handling and displaying incoming notifications within the app, testing through the Firebase Console or tools like Postman, and customizing notification appearance with icons, sounds, and vibration patterns.
+Implementar notificações push no Flutter envolve configurar um projeto do Firebase, integrar o plugin FCM, lidar e exibir notificações recebidas dentro da aplicação, testar através do Console do Firebase ou ferramentas como Postman, e personalizar a aparência das notificações com ícones, sons e padrões de vibração.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@How do I Set up Push Notifications?](https://docs.flutter.dev/get-started/flutter-for/android-devs#how-do-i-set-up-push-notifications)
+- [@official@Como configurar notificações push?](https://docs.flutter.dev/get-started/flutter-for/android-devs#how-do-i-set-up-push-notifications)

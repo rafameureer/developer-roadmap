@@ -1,9 +1,9 @@
 # Bitrise
 
-Bitrise is a cloud-based continuous integration and delivery (CI/CD) platform that can be used with Flutter mobile app development.
+Bitrise é uma plataforma de integração contínua e entrega (CI/CD) baseada em nuvem que pode ser usada com o desenvolvimento de aplicativos móveis Flutter.
 
-Bitrise provides a comprehensive suite of tools for automating the build, test, and deployment process for mobile apps, including apps built with Flutter. With Bitrise, developers can automate tasks such as building the app, running tests, and distributing the app to various app stores.
+O Bitrise oferece um conjunto completo de ferramentas para automatizar o processo de construção, teste e implantação de aplicativos móveis, incluindo aplicativos construídos com Flutter. Com o Bitrise, os desenvolvedores podem automatizar tarefas como a construção do aplicativo, a execução dos testes e a distribuição do aplicativo em várias lojas de aplicativos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Adding a Flutter app to Bitrise](https://devcenter.bitrise.io/en/getting-started/quick-start-guides/getting-started-with-flutter-apps.html)
+- [@artigo@Adicionando um aplicativo Flutter ao Bitrise](https://devcenter.bitrise.io/en/getting-started/quick-start-guides/getting-started-with-flutter-apps.html)

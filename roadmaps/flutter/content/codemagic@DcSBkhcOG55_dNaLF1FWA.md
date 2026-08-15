@@ -1,10 +1,10 @@
 # Codemagic
 
-Codemagic is a cloud-based continuous integration and delivery (CI/CD) platform specifically designed for Flutter mobile app development.
+Codemagic é uma plataforma de integração contínua e entrega (CI/CD) baseada em nuvem especificamente projetada para o desenvolvimento de aplicativos móveis Flutter.
 
-Codemagic provides a simple and efficient way for Flutter developers to automate the build, test, and deployment process for their apps. It integrates with the Flutter framework and allows developers to configure the build process, run tests, and distribute the app to various app stores with just a few clicks.
+O Codemagic oferece um modo simples e eficiente para os desenvolvedores Flutter automatizar o processo de construção, teste e implantação de seus aplicativos. Ele integra-se com o framework Flutter e permite que os desenvolvedores configurem o processo de construção, executem testes e distribuam o aplicativo em várias lojas de aplicativos com apenas alguns cliques.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Codemagic - Flutter](https://codemagic.io/start/)
-- [@article@Create a build archive with Codemagic](https://docs.flutter.dev/deployment/ios#create-a-build-archive-with-codemagic-cli-tools)
+- [@oficial@Codemagic - Flutter](https://codemagic.io/start/)
+- [@artigo@Criar um arquivo de build com Codemagic](https://docs.flutter.dev/deployment/ios#create-a-build-archive-with-codemagic-cli-tools)

@@ -1,10 +1,10 @@
 # IntelliJ IDEA
 
-IntelliJ IDEA is a powerful Integrated Development Environment (IDE) created by JetBrains. Essentially, it's a software application that provides comprehensive facilities to computer programmers for software development.
+IntelliJ IDEA é um poderoso Ambiente de Desenvolvimento Integrado (IDE) criado pela JetBrains. Em essência, é uma aplicação de software que fornece funcionalidades completas para programadores de computador para o desenvolvimento de software.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@IntelliJ IDEA](https://www.jetbrains.com/idea/)
-- [@article@IntelliJ IDEA for Flutter](https://docs.flutter.dev/development/tools/android-studio)
-- [@article@Get started with IntelliJ](https://dart.dev/tools/jetbrains-plugin)
+- [@article@IntelliJ IDEA para Flutter](https://docs.flutter.dev/development/tools/android-studio)
+- [@article@Comece com IntelliJ](https://dart.dev/tools/jetbrains-plugin)
 - [@feed@Explore top posts about DevTools](https://app.daily.dev/tags/devtools?ref=roadmapsh)

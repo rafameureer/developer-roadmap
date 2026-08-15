@@ -1,8 +1,8 @@
-# Stateless Widgets
+# Widgets Imutáveis
 
-Stateless widgets in Flutter are widgets that don't maintain any mutable state. They are designed to be immutable and rebuild each time the framework needs to update the UI. They are suitable for static, unchanging views or simple animations. They can be created using the `StatelessWidget` class and have a single build method that returns a widget tree.
+Os widgets imutáveis em Flutter são widgets que não mantêm estado mutável. Eles são projetados para serem imutáveis e reconstruídos sempre que o framework precisar atualizar a interface do usuário. São adequados para visualizações estáticas ou animações simples. Pode-se criar um widget imutável usando a classe `StatelessWidget` e ter um único método de construção que retorna uma árvore de widgets.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@official@StatelessWidget Class](https://api.flutter.dev/flutter/widgets/StatelessWidget-class.html)
-- [@article@How to Create Stateless Widgets](https://medium.com/flutter/how-to-create-stateless-widgets-6f33931d859)
+- [@official@Classe StatelessWidget](https://api.flutter.dev/flutter/widgets/StatelessWidget-class.html)
+- [@article@Como Criar Widgets Imutáveis](https://medium.com/flutter/how-to-create-stateless-widgets-6f33931d859)

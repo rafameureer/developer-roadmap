@@ -1,9 +1,9 @@
 # DartPad
 
-DartPad is an online tool that allows developers to write and run Dart code snippets. It can also be used to run Flutter code, making it a convenient way to try out Flutter apps and widgets without having to set up a full development environment.
+DartPad é uma ferramenta online que permite aos desenvolvedores escrever e executar trechos de código Dart. Ele também pode ser usado para executar código Flutter, tornando-se uma maneira conveniente de experimentar aplicativos e widgets Flutter sem precisar configurar um ambiente de desenvolvimento completo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@DartPad](https://dart.dev/tools/dartpad)
-- [@official@DartPad in Tutorials](https://dart.dev/resources/dartpad-best-practices)
+- [@oficial@DartPad](https://dart.dev/tools/dartpad)
+- [@oficial@DartPad em Tutoriais](https://dart.dev/resources/dartpad-best-practices)
 - [@feed@Explore top posts about Dart](https://app.daily.dev/tags/dart?ref=roadmapsh)

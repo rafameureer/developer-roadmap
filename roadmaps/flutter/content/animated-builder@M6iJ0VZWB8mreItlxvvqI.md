@@ -1,8 +1,8 @@
 # AnimatedBuilder
 
-AnimatedBuilder is a widget in Flutter that allows you to build animations. It takes an `Animation` object and a builder function as input, and it returns a widget that is rebuilt whenever the animation changes. The builder function is called with the BuildContext and the animation object and it should return the widget that should be animated. This can be used to create complex animations with ease, without having to manage animation state or listen to animation events in the widget tree.
+AnimatedBuilder é um widget no Flutter que permite criar animações. Ele aceita um objeto `Animation` e uma função de construtor como entrada, e retorna um widget que é reconstruído sempre que a animação muda. A função de construtor é chamada com o BuildContext e o objeto de animação e deve retornar o widget que deve ser animado. Isso pode ser usado para criar animações complexas facilmente, sem precisar gerenciar o estado da animação ou escutar eventos de animação na árvore do widget.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@AnimatedBuilder Class](https://api.flutter.dev/flutter/widgets/AnimatedBuilder-class.html)
 - [@article@Refactoring with AnimatedBuilders](https://docs.flutter.dev/development/ui/animations/tutorial#refactoring-with-animatedbuilder)

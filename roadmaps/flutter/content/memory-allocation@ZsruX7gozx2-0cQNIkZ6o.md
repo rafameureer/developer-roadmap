@@ -1,7 +1,7 @@
-# Memory Allocation
+# Alocação de Memória
 
-Memory allocation is the process of reserving a portion of the device's memory for the use of your app. The memory allocation in Flutter is managed by the Dart virtual machine, which uses a garbage collector to automatically manage the memory used by the app.
+A alocação de memória é o processo de reservar uma parte da memória do dispositivo para uso pelo seu aplicativo. A alocação de memória no Flutter é gerenciada pela máquina virtual Dart, que usa um coletor de lixo para gerenciar automaticamente a memória usada pelo aplicativo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Using the Memory view](https://docs.flutter.dev/development/tools/devtools/memory)
+- [@official@Usando a visão de Memória](https://docs.flutter.dev/development/tools/devtools/memory)

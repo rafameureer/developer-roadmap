@@ -1,11 +1,11 @@
 # Lambdas
 
-Lambdas, also known as anonymous functions, are a fundamental concept in Dart and Flutter. They are a way to create short, inline functions that can be passed as arguments to other functions or assigned to variables.
+Lambdas, também conhecidos como funções anônimas, são um conceito fundamental em Dart e Flutter. Eles são uma maneira de criar funções curtas e embutidas que podem ser passadas como argumentos para outras funções ou atribuídas a variáveis.
 
-Lambdas are defined using the `=>` operator and can take zero or more arguments. They can also contain expressions, statements, and return values.
+Lambdas são definidos usando o operador `=>` e podem ter zero ou mais argumentos. Eles também podem conter expressões, instruções e valores de retorno.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Anonymous Functions](https://dart.dev/language/functions#anonymous-functions)
-- [@article@Lambda Functions in Dart](https://medium.com/jay-tillu/lambda-functions-in-dart-7db8b759f07a)
-- [@video@Anonymous Function in Dart | Lambda Function](https://www.youtube.com/watch?v=XTKKQdTAR0U)
+- [@oficial@Funções Anônimas](https://dart.dev/language/functions#anonymous-functions)
+- [@artigo@Funções Lambda em Dart](https://medium.com/jay-tillu/lambda-functions-in-dart-7db8b759f07a)
+- [@vídeo@Função Anônima em Dart | Função Lambda](https://www.youtube.com/watch?v=XTKKQdTAR0U)

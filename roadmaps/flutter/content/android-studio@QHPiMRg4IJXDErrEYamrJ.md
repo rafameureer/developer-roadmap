@@ -1,17 +1,17 @@
 # Android Studio
 
-Android Studio is an IDE that can be used for developing Flutter applications as well as Android apps. Flutter is a UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. In Android Studio, developers can use the Flutter plugin to access a suite of tools specifically designed for Flutter development, including:
+Android Studio é um IDE que pode ser usado para desenvolver aplicativos Flutter assim como aplicativos Android. Flutter é uma biblioteca de interface do usuário (UI) para construir aplicativos belos, compilados nativamente para dispositivos móveis, web e desktop a partir de um único código-fonte. No Android Studio, os desenvolvedores podem usar o plugin Flutter para acessar uma suite de ferramentas especificamente projetadas para o desenvolvimento Flutter, incluindo:
 
-*   Flutter widget inspector
-*   Flutter outline
-*   Flutter rendering tree
-*   Flutter performance tool
-*   Flutter layout explorer
+*   Inspector de widgets do Flutter
+*   Estrutura do Flutter
+*   Árvore de renderização do Flutter
+*   Ferramenta de desempenho do Flutter
+*   Explorador de layout do Flutter
 
-By providing a rich set of tools and features for Flutter development, Android Studio makes it easy for developers to build, test, and debug Flutter apps.
+Ao fornecer um conjunto rico de ferramentas e recursos para o desenvolvimento Flutter, Android Studio facilita a construção, teste e depuração de aplicativos Flutter.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Android Studio for Flutter](https://docs.flutter.dev/development/tools/android-studio)
-- [@official@Get started with Android Studio](https://dart.dev/tools/jetbrains-plugin)
+- [@official@Android Studio para Flutter](https://docs.flutter.dev/development/tools/android-studio)
+- [@official@Comece com o Android Studio](https://dart.dev/tools/jetbrains-plugin)
 - [@feed@Explore top posts about Android](https://app.daily.dev/tags/android?ref=roadmapsh)

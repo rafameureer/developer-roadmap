@@ -1,3 +1,3 @@
 # AppStore
 
-The App Store is Apple's platform for distributing iOS and iPadOS applications. Publishing a Flutter app there requires an Apple Developer account, app metadata, signing with certificates and provisioning profiles, and submitting the build for App Review before release.
+O App Store é a plataforma da Apple para distribuir aplicativos iOS e iPadOS. Publicar um aplicativo Flutter lá requer uma conta de desenvolvedor da Apple, metadados do aplicativo, assinatura com certificados e perfis de provisionamento, e envio da build para revisão pelo App Review antes do lançamento.

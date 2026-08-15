@@ -1,8 +1,8 @@
-# Animations
+# Animações
 
-Flutter’s animation support makes it easy to implement a variety of animation types. Many widgets, especially Material widgets, come with the standard motion effects defined in their design spec, but it’s also possible to customize these effects.
+O suporte a animações do Flutter torna fácil implementar uma variedade de tipos de animação. Muitos widgets, especialmente os widgets Material, vêm com os efeitos de movimento padrão definidos em seu design especificado, mas também é possível personalizar esses efeitos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Introduction to Animations](https://docs.flutter.dev/development/ui/animations)
-- [@article@Animation library](https://api.flutter.dev/flutter/animation/animation-library.html)
+- [@official@Introdução às Animações](https://docs.flutter.dev/development/ui/animations)
+- [@article@Biblioteca de animação](https://api.flutter.dev/flutter/animation/animation-library.html)

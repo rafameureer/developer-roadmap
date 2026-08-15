@@ -1,13 +1,13 @@
 # Riverpod
 
-Riverpod was created by the same author as Provider, and is designed to make it easier to manage application state by providing a more intuitive API and better performance than Provider.
+Riverpod foi criado pelo mesmo autor que Provider, e é projetado para tornar mais fácil gerenciar o estado da aplicação fornecendo uma API mais intuitiva e melhor desempenho do que Provider.
 
-One of the key features of Riverpod is its ability to manage and scope state in a more granular way than Provider. This can make it easier to reason about your application's state and can lead to more efficient re-renders.
+Uma das principais características de Riverpod é sua capacidade de gerenciar e escopar o estado em um nível mais granular do que Provider. Isso pode tornar mais fácil a compreensão do estado da aplicação e levar a re-renderizações mais eficientes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@riverpod](https://pub.dev/packages/riverpod)
-- [@official@Riverpod in Flutter](https://docs.flutter.dev/development/data-and-backend/state-mgmt/options#riverpod)
-- [@official@riverpod Documentation](https://riverpod.dev/)
-- [@article@Documentation v2 is in progress](https://docs-v2.riverpod.dev/)
-- [@article@Flutter Riverpod 2.0: The Ultimate Guide](https://codewithandrea.com/articles/flutter-state-management-riverpod/)
+- [@official@Riverpod](https://pub.dev/packages/riverpod)
+- [@official@Riverpod no Flutter](https://docs.flutter.dev/development/data-and-backend/state-mgmt/options#riverpod)
+- [@official@Documentação do Riverpod](https://riverpod.dev/)
+- [@article@A documentação v2 está em andamento](https://docs-v2.riverpod.dev/)
+- [@article@Guia Ultimate para Flutter Riverpod 2.0](https://codewithandrea.com/articles/flutter-state-management-riverpod/)

@@ -1,9 +1,9 @@
 # OOP
 
-Object-oriented programming (OOP) is a programming paradigm that is based on the concept of "objects," which are instances of a class. In OOP, a class is a blueprint for creating objects, which have both data (attributes) and behavior (methods). The main idea behind OOP is to model real-world objects and their interactions, making it well-suited for creating complex and large-scale software systems.
+Orientação a objetos (OOP) é um paradigma de programação baseado no conceito de "objetos", que são instâncias de uma classe. No OOP, uma classe é um modelo para criar objetos, que têm tanto dados (atributos) quanto comportamento (métodos). A ideia principal por trás do OOP é modelar objetos e suas interações do mundo real, tornando-o adequado para a criação de sistemas de software complexos e de escala grande.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Discover Object Oriented Programming](https://blog.hubspot.com/website/object-oriented-programming)
-- [@video@Software Development Tutorial - What is object-oriented languages?](https://www.youtube.com/watch?app=desktop&v=SS-9y0H3Si8)
-- [@video@Fundamental Concepts of Object Oriented Programming](https://www.youtube.com/watch?v=m_MQYyJpIjg&ab_channel=ComputerScience)
+- [@artigo@Descubra Programação Orientada a Objetos](https://blog.hubspot.com/website/object-oriented-programming)
+- [@vídeo@Tutorial de Desenvolvimento de Software - O que são linguagens orientadas a objetos?](https://www.youtube.com/watch?app=desktop&v=SS-9y0H3Si8)
+- [@vídeo Conceitos Fundamentais da Programação Orientada a Objetos](https://www.youtube.com/watch?v=m_MQYyJpIjg&ab_channel=ComputerScience)

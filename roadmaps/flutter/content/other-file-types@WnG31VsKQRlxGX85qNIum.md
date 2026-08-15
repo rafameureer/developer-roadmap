@@ -1,12 +1,12 @@
-# Other File Types
+# Outros Tipos de Arquivos
 
-In Flutter, you can work with different file types besides images. Some common file types that you can use in Flutter include:
+No Flutter, você pode trabalhar com diferentes tipos de arquivos além das imagens. Alguns tipos de arquivos comuns que você pode usar no Flutter incluem:
 
-1.  Text files: You can read or write text files using the dart:io library.
-2.  JSON files: You can parse JSON data using the dart:convert library.
-3.  Audio and Video files: You can play audio and video files using the video\_player and audioplayers packages.
-4.  PDF files: You can display PDF files using the pdf package.
+1.  Arquivos de texto: Você pode ler ou escrever arquivos de texto usando a biblioteca dart:io.
+2.  Arquivos JSON: Você pode analisar dados JSON usando a biblioteca dart:convert.
+3.  Arquivos de áudio e vídeo: Você pode tocar arquivos de áudio e vídeo usando os pacotes video\_player e audioplayers.
+4.  Arquivos PDF: Você pode exibir arquivos PDF usando o pacote pdf.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@File Class](https://api.flutter.dev/flutter/dart-io/File-class.html)
+- [@official@Classe File](https://api.flutter.dev/flutter/dart-io/File-class.html)

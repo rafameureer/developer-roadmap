@@ -1,9 +1,9 @@
-# Widget Testing
+# Teste de Widget
 
-Widget testing in Flutter is the process of testing the behavior and appearance of individual widgets, in isolation from the rest of your app. It allows you to verify that a widget works correctly, displays the expected output, and behaves correctly in response to user interactions.
+O teste de widget no Flutter é o processo de testar o comportamento e a aparência dos widgets individuais, isolados do resto da sua aplicação. Ele permite que você verifique se um widget funciona corretamente, exibe a saída esperada e age corretamente em resposta às interações do usuário.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Introduction to Widget Testing](https://docs.flutter.dev/cookbook/testing/widget/introduction)
-- [@official@Widget Tests - Flutter](https://docs.flutter.dev/testing#widget-tests)
+- [@oficial@Introdução ao Teste de Widget](https://docs.flutter.dev/cookbook/testing/widget/introduction)
+- [@oficial@Testes de Widget - Flutter](https://docs.flutter.dev/testing#widget-tests)
 - [@feed@Explore top posts about Testing](https://app.daily.dev/tags/testing?ref=roadmapsh)

@@ -1,16 +1,16 @@
 # Flutter CLI
 
-Flutter CLI (Command Line Interface) is a command-line tool that is used to develop, build, and run Flutter applications. It provides a set of commands and tools that developers can use to create, test, and deploy Flutter apps from the terminal. Some of the common tasks that can be performed using the Flutter CLI include:
+Flutter CLI (Interface de Linha de Comando) é uma ferramenta de linha de comando usada para desenvolver, construir e executar aplicativos Flutter. Ele fornece um conjunto de comandos e ferramentas que os desenvolvedores podem usar para criar, testar e implantar aplicativos Flutter a partir do terminal. Algumas das tarefas comuns que podem ser realizadas usando o Flutter CLI incluem:
 
-*   Creating a new Flutter project
-*   Running Flutter app on a connected device or emulator
-*   Building and deploying Flutter app to app stores
-*   Updating the Flutter framework and packages
-*   Analyzing the performance of Flutter apps
+*   Criando um novo projeto Flutter
+*   Executando o aplicativo Flutter em um dispositivo ou emulador conectado
+*   Construindo e implantando o aplicativo Flutter nas lojas de aplicativos
+*   Atualizando o framework Flutter e pacotes
+*   Analisando o desempenho dos aplicativos Flutter
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@The Flutter CLI](https://docs.flutter.dev/reference/flutter-cli)
-- [@official@CLI Packages in Flutter](https://dart.dev/server/libraries#command-line-packages)
-- [@official@Get Started with Flutter CLI](https://dart.dev/tutorials/server/get-started)
+- [@official@O Flutter CLI](https://docs.flutter.dev/reference/flutter-cli)
+- [@official@Pacotes de linha de comando no Flutter](https://dart.dev/server/libraries#command-line-packages)
+- [@official@Começando com o Flutter CLI](https://dart.dev/tutorials/server/get-started)
 - [@feed@Explore top posts about CLI](https://app.daily.dev/tags/cli?ref=roadmapsh)

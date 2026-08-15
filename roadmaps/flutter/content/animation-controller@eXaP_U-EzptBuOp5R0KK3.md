@@ -1,15 +1,15 @@
 # AnimationController
 
-This class lets you perform tasks such as:
+Esta classe permite que você execute tarefas como:
 
-*   Play an animation forward or in reverse, or stop an animation.
-*   Set the animation to a specific value.
-*   Define the upperBound and lowerBound values of an animation.
-*   Create a fling animation effect using a physics simulation.
+*   Reproduzir uma animação para frente ou em reverso, ou parar uma animação.
+*   Definir a animação para um valor específico.
+*   Defina os valores de upperBound e lowerBound de uma animação.
+*   Crie um efeito de animação de fling usando uma simulação física.
 
-By default, an AnimationController linearly produces values that range from 0.0 to 1.0, during a given duration.
+Por padrão, um AnimationController produz linearmente valores que variam de 0.0 a 1.0 durante uma duração determinada.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@AnimationController - Flutter](https://docs.flutter.dev/ui/animations/tutorial#animationcontroller)
-- [@article@AnimationController class](https://api.flutter.dev/flutter/animation/AnimationController-class.html)
+- [@article@Classe AnimationController](https://api.flutter.dev/flutter/animation/AnimationController-class.html)

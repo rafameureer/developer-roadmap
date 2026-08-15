@@ -1,8 +1,8 @@
 # Hero
 
-Hero is a widget in Flutter that allows you to create smooth animations between screens or within a single screen, for widgets that are used in multiple places. It animates the transition of a widget from one screen to another or from one position to another within a screen. The widget that is being animated should have a unique tag property so that Flutter can match the source and destination widgets. Hero widgets are used for visual continuity between screens, so when the user navigates from one screen to another, the hero widget smoothly transitions to its new position instead of abruptly appearing or disappearing. This can make the navigation between screens feel more seamless and enjoyable for the user.
+O Hero é um widget no Flutter que permite criar animações suaves entre telas ou dentro de uma única tela, para widgets que são usados em vários lugares. Ele anima a transição de um widget de uma tela para outra ou de uma posição para outra dentro da mesma tela. O widget que está sendo animado deve ter uma propriedade de tag única para que o Flutter possa corresponder os widgets de origem e destino. Os widgets Hero são usados para manter a continuidade visual entre as telas, então quando o usuário navega de uma tela para outra, o widget Hero se transmite suavemente para sua nova posição em vez de aparecer ou desaparecer abruptamente. Isso pode tornar a navegação entre as telas mais suave e agradável para o usuário.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Hero Animations](https://docs.flutter.dev/development/ui/animations/hero-animations)
-- [@article@HeroAnimation class](https://docs.flutter.dev/development/ui/animations/hero-animations#heroanimation-class)
+- [@official@Animações Hero](https://docs.flutter.dev/development/ui/animations/hero-animations)
+- [@article@Classe HeroAnimation](https://docs.flutter.dev/development/ui/animations/hero-animations#heroanimation-class)

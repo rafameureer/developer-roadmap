@@ -1,7 +1,7 @@
-# Variables
+# Variáveis
 
-In Flutter, variables are used to store values. There are three types of variables in Flutter namely local, global and instance variables.Variables in Flutter can store values of different data types, such as numbers, strings, booleans, and more.
+No Flutter, as variáveis são usadas para armazenar valores. Existem três tipos de variáveis no Flutter: locais, globais e variáveis de instância. As variáveis no Flutter podem armazenar valores de diferentes tipos de dados, como números, strings, booleanos e mais.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Variables](https://dart.dev/guides/language/language-tour#variables)
+- [@official@Variáveis](https://dart.dev/guides/language/language-tour#variables)

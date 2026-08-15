@@ -1,8 +1,8 @@
-# CurvedAnimations
+# Animações Curvadas
 
-Curved animations in Flutter can be achieved using the "CurvedAnimation" class. This class takes in a "Curve" object that defines the rate of change of the animation over time. The most commonly used curve is the "Curves.easeInOut" curve, which starts slow, speeds up in the middle, and then slows down again towards the end.
+As animações curvadas no Flutter podem ser alcançadas usando a classe "CurvedAnimation". Essa classe aceita um objeto "Curve" que define a taxa de mudança da animação ao longo do tempo. A curva mais comumente usada é a curva "Curves.easeInOut", que começa devagar, acelera no meio e então desacelera novamente para o final.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Curved­Animation](https://docs.flutter.dev/development/ui/animations/tutorial)
-- [@article@CurvedAnimation Class](https://api.flutter.dev/flutter/animation/CurvedAnimation-class.html)
+- [@oficial@Animação Curvada](https://docs.flutter.dev/development/ui/animations/tutorial)
+- [@artigo@Classe CurvedAnimation](https://api.flutter.dev/flutter/animation/CurvedAnimation-class.html)

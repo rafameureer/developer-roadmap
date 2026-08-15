@@ -1,8 +1,8 @@
-# Deployment
+# Implantação
 
-Deployment in Flutter refers to the process of releasing a Flutter app to end-users. Deploying a Flutter app involves a combination of technical skills and experience, as well as knowledge of the relevant app stores and their policies and requirements.
+A implantação no Flutter refere-se ao processo de lançar um aplicativo Flutter para os usuários finais. A implantação de um aplicativo Flutter envolve uma combinação de habilidades técnicas e experiência, bem como conhecimento das lojas de aplicativos relevantes e suas políticas e requisitos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Web Deployment](https://dart.dev/web/deployment)
+- [@oficial@Web Deployment](https://dart.dev/web/deployment)
 - [@feed@Explore top posts about CI/CD](https://app.daily.dev/tags/cicd?ref=roadmapsh)

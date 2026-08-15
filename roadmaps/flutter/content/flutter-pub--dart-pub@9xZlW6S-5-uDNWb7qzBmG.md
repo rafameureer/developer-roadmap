@@ -1,12 +1,12 @@
 # Flutter pub dart pub
 
-`pub` is the package manager for Dart and Flutter, used for managing dependencies and publishing packages.
+`pub` é o gerenciador de pacotes para Dart e Flutter, usado para gerenciar dependências e publicar pacotes.
 
-`pub` is used to manage both Dart packages and Flutter plugins. This makes it easy to find and use packages that extend the functionality of your Flutter application.
+`pub` é usado para gerenciar tanto pacotes Dart quanto plugins Flutter. Isso torna fácil encontrar e usar pacotes que estendem a funcionalidade do seu aplicativo Flutter.
 
-`pub` is an essential tool for Dart and Flutter development, providing a centralized repository for packages, making it easier to find, install, and manage dependencies in your projects.
+`pub` é uma ferramenta essencial para o desenvolvimento de Dart e Flutter, fornecendo um repositório centralizado de pacotes, tornando mais fácil encontrar, instalar e gerenciar dependências em seus projetos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Overview of Dart pub](https://dart.dev/tools/pub/cmd)
+- [@oficial@Visão Geral do Dart pub](https://dart.dev/tools/pub/cmd)
 - [@feed@Explore top posts about Dart](https://app.daily.dev/tags/dart?ref=roadmapsh)

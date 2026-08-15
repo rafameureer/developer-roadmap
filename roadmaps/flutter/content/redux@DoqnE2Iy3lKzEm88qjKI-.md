@@ -1,10 +1,10 @@
 # ReduX
 
-Redux is a state management library for Flutter, commonly used with the Flutter framework to manage the application's state. It helps to maintain a single source of truth for the state of the application, making it easier to understand, test and maintain the code. In Redux, the state is stored in a store and can only be updated through dispatching actions. The actions trigger the update of the state via reducers, which are pure functions that determine the next state based on the current state and the dispatched action.
+Redux é uma biblioteca de gerenciamento de estado para Flutter, comumente usada junto com o framework Flutter para gerenciar o estado da aplicação. Ele ajuda a manter uma única fonte de verdade para o estado da aplicação, tornando-o mais fácil de entender, testar e manter o código. No Redux, o estado é armazenado em um store e só pode ser atualizado através do envio de ações. As ações acionam a atualização do estado via reducers, que são funções puras que determinam o próximo estado com base no estado atual e na ação disparada.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@flutter_redux](https://pub.dev/packages/flutter_redux)
 - [@official@Redux - Tutorial](https://docs.flutter.dev/development/data-and-backend/state-mgmt/options#redux)
-- [@article@Building a Flutter app with Redux](https://hillel.dev/2018/06/01/building-a-large-flutter-app-with-redux/)
-- [@feed@Explore top posts about Redux](https://app.daily.dev/tags/redux?ref=roadmapsh)
+- [@article@Construindo uma aplicação Flutter com Redux](https://hillel.dev/2018/06/01/building-a-large-flutter-app-with-redux/)
+- [@feed@Explore os principais posts sobre Redux](https://app.daily.dev/tags/redux?ref=roadmapsh)

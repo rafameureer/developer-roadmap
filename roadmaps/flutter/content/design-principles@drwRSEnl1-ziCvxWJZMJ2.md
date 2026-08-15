@@ -1,7 +1,7 @@
-# Design Principles
+# Princípios de Design
 
-Flutter development emphasizes design principles like Material Design, responsiveness, user-centeredness, simplicity, consistency, accessibility, and performance to create visually appealing and user-friendly applications that function seamlessly across various devices and cater to diverse user needs.
+O desenvolvimento Flutter enfatiza princípios de design como Material Design, responsividade, centrar o usuário, simplicidade, consistência, acessibilidade e desempenho para criar aplicativos visivamente atraentes e fáceis de usar que funcionam perfeitamente em diversos dispositivos e atendem às necessidades diversas dos usuários.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@article@Design - Principles](https://docs.flutter.dev/cookbook/design)

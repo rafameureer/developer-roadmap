@@ -1,9 +1,9 @@
-# Unit Testing
+# Teste Unitário
 
-Unit testing in Flutter is the process of testing individual units of code, such as functions or classes, to ensure that they behave as expected. Unit testing helps to catch bugs early in the development process and increases the confidence in your code by making it easier to refactor or make changes without breaking existing functionality.
+O teste unitário no Flutter é o processo de testar unidades individuais de código, como funções ou classes, para garantir que eles se comportem conforme esperado. O teste unitário ajuda a capturar bugs cedo no processo de desenvolvimento e aumenta a confiança em seu código ao torná-lo mais fácil de refatorar ou fazer alterações sem quebrar a funcionalidade existente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Introduction to Unit Testing](https://docs.flutter.dev/cookbook/testing/unit/introduction)
-- [@official@Unit Tests - Flutter](https://docs.flutter.dev/testing#unit-tests)
-- [@feed@Explore top posts about Testing](https://app.daily.dev/tags/testing?ref=roadmapsh)
+- [@official@Introdução ao Teste Unitário](https://docs.flutter.dev/cookbook/testing/unit/introduction)
+- [@official@Testes Unitários - Flutter](https://docs.flutter.dev/testing#unit-tests)
+- [@feed@Explore os principais posts sobre Testes](https://app.daily.dev/tags/testing?ref=roadmapsh)

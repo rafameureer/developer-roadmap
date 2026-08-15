@@ -1,11 +1,11 @@
-# Reactive Programming
+# Programação Reativa
 
-Reactive programming is a programming paradigm that allows for handling changing data streams and updating the UI based on those changes.
+A programação reativa é um paradigma de programação que permite lidar com fluxos de dados em mudança e atualizar a interface do usuário com base nessas mudanças.
 
-Reactive programming in Flutter helps create dynamic and responsive apps that can handle changing data and update the UI accordingly. The `StreamBuilder` and `FutureBuilder` widgets are commonly used in Flutter to build reactive UIs.
+A programação reativa no Flutter ajuda a criar aplicativos dinâmicos e responsivos que podem lidar com dados em mudança e atualizar a interface do usuário conforme necessário. Os widgets `StreamBuilder` e `FutureBuilder` são comumente usados no Flutter para construir interfaces de usuário reativas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Get Started with Reactive Programming](https://www.didierboelens.com/2018/12/reactive-programming-streams-bloc-practical-use-cases/)
-- [@video@Reactive Programming in Flutter](https://www.youtube.com/watch?v=x4FKXw4Uvls)
-- [@feed@Explore top posts about Reactive Programming](https://app.daily.dev/tags/reactive-programming?ref=roadmapsh)
+- [@article@Comece com a Programação Reativa](https://www.didierboelens.com/2018/12/reactive-programming-streams-bloc-practical-use-cases/)
+- [@video@Programação Reativa no Flutter](https://www.youtube.com/watch?v=x4FKXw4Uvls)
+- [@feed@Explore os principais posts sobre Programação Reativa](https://app.daily.dev/tags/reactive-programming?ref=roadmapsh)

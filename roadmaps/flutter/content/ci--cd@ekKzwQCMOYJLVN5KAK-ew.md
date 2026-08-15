@@ -1,10 +1,10 @@
 # CI/CD
 
-CI/CD (Continuous Integration and Continuous Deployment) is a software development practice that helps to automate the process of building, testing, and deploying mobile apps, including Flutter apps.
+CI/CD (Integração Contínua e Implantação Contínua) é uma prática de desenvolvimento de software que ajuda a automatizar o processo de construção, teste e implantação de aplicativos móveis, incluindo aplicativos Flutter.
 
-With CI/CD, developers can automate the build, test, and deployment process for their Flutter apps, making it easier to catch bugs and deploy new features quickly and efficiently.
+Com CI/CD, os desenvolvedores podem automatizar o processo de construção, teste e implantação dos seus aplicativos Flutter, tornando mais fácil detectar bugs e implantar novas funcionalidades rapidamente e eficientemente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@CI/CD - Flutter](https://docs.flutter.dev/deployment/cd)
 - [@feed@Explore top posts about CI/CD](https://app.daily.dev/tags/cicd?ref=roadmapsh)

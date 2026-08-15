@@ -1,7 +1,7 @@
-# Lists
+# Listas
 
-Dart Flutter offers various widgets for displaying lists, including `ListView`, `ListTile`, `SingleChildScrollView` with `Column`, `GridView`, and `CustomScrollView` with `Slivers`, enabling scrolling lists, grids, and customized item appearances through widgets, layouts, and styling.
+O Dart Flutter oferece vários widgets para exibir listas, incluindo `ListView`, `ListTile`, `SingleChildScrollView` com `Column`, `GridView` e `CustomScrollView` com `Slivers`, permitindo a rolagem de listas, grids e aparências personalizadas de itens através de widgets, layouts e estilos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@List Class](https://api.flutter.dev/flutter/dart-core/List-class.html)
+- [@official@Classe List](https://api.flutter.dev/flutter/dart-core/List-class.html)

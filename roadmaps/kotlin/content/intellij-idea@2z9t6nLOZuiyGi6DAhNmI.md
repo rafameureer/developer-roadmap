@@ -1,9 +1,9 @@
 # IntelliJ IDEA
 
-IntelliJ IDEA is a popular Integrated Development Environment (IDE) specifically designed for software development. It provides a comprehensive suite of tools for coding, debugging, testing, and deploying applications. It offers features like code completion, refactoring, and integration with version control systems, making it a powerful tool for developers to streamline their workflow and improve productivity.
+IntelliJ IDEA é um popular Ambiente de Desenvolvimento Integrado (IDE) especificamente projetado para o desenvolvimento de software. Ele fornece uma suite completa de ferramentas para codificação, depuração, teste e implantação de aplicativos. Oferece recursos como conclusão de código, refatoração e integração com sistemas de controle de versão, tornando-se uma ferramenta poderosa para os desenvolvedores para otimizar seu fluxo de trabalho e aumentar a produtividade.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@IntelliJ IDEA](https://www.jetbrains.com/idea/)
 - [@opensource@IntelliJ IDEA](https://github.com/JetBrains/intellij-community)
-- [@video@IntelliJ IDEA Tutorial](https://www.youtube.com/watch?v=XCqVCq249Iw)
+- [@video@Tutorial do IntelliJ IDEA](https://www.youtube.com/watch?v=XCqVCq249Iw)

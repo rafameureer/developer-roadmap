@@ -1,8 +1,8 @@
 # KDoc
 
-KDoc is Kotlin's documentation generation tool, similar to Javadoc for Java. It allows developers to embed documentation directly within their code, using a specific syntax to describe classes, functions, properties, and other elements. This documentation can then be extracted and formatted into a readable, navigable website or other documentation formats, providing a clear and accessible reference for users of the code.
+O KDoc é uma ferramenta de geração de documentação do Kotlin, semelhante ao Javadoc para Java. Ele permite aos desenvolvedores incorporar a documentação diretamente em seu código, usando uma sintaxe específica para descrever classes, funções, propriedades e outros elementos. Esta documentação pode então ser extraída e formatada em um site ou outras formas de documentação legíveis e navegáveis, fornecendo uma referência clara e acessível para os usuários do código.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Document Kotlin code: KDoc](https://kotlinlang.org/docs/kotlin-doc.html)
-- [@article@KDoc for Kotlin Documentation — Clean Code Comments](https://nameisjayant.medium.com/kdoc-for-kotlin-documentation-clean-code-comments-bfcec73ad237)
+- [@official@Documentar código Kotlin: KDoc](https://kotlinlang.org/docs/kotlin-doc.html)
+- [@article@KDoc para documentação de Kotlin — Comentários de Código Limpo](https://nameisjayant.medium.com/kdoc-for-kotlin-documentation-clean-code-comments-bfcec73ad237)

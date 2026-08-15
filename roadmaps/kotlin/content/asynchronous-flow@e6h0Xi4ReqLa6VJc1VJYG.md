@@ -1,9 +1,9 @@
-# Asynchronous Flow
+# Fluxo Assíncrono em Kotlin
 
-Asynchronous Flow in Kotlin is a feature built upon coroutines that allows you to represent a stream of data that is computed asynchronously. It's designed to handle sequences of values emitted over time, enabling you to perform operations on each emitted value in a non-blocking manner. This is particularly useful for handling data streams from sources like network requests, database queries, or sensor readings, where values become available at different times.
+O Fluxo Assíncrono em Kotlin é uma funcionalidade baseada em coroutines que permite representar um fluxo de dados calculados de forma assíncrona. Ele foi projetado para lidar com sequências de valores emitidos ao longo do tempo, permitindo realizar operações em cada valor emitido de maneira não bloqueante. Isso é particularmente útil para lidar com fluxos de dados de fontes como solicitações de rede, consultas a banco de dados ou leituras de sensores, onde os valores se tornam disponíveis em diferentes momentos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Asynchronous Flow](https://kotlinlang.org/docs/flow.html)
-- [@article@Kotlin flows on Android](https://developer.android.com/kotlin/flow)
-- [@video@Kotlin Flows in practice](https://www.youtube.com/watch?v=fSB6_KE95bU)
+- [@official@Fluxo Assíncrono](https://kotlinlang.org/docs/flow.html)
+- [@article@Fluxos Kotlin no Android](https://developer.android.com/kotlin/flow)
+- [@video@Prática com Fluxos em Kotlin](https://www.youtube.com/watch?v=fSB6_KE95bU)

@@ -1,9 +1,9 @@
-# Java Interoperability
+# Interoperabilidade com Java
 
-Kotlin is 100% interoperable with the Java programming language, and major emphasis has been placed on making sure that your existing codebase can interact properly with Kotlin. You can easily call Kotlin code from Java and Java code from Kotlin. This makes adoption much easier and lower-risk. There's also an automated Java-to-Kotlin converter built into the IDE that simplifies migration of existing code.
+O Kotlin é 100% interoperável com o idioma de programação Java, e uma ênfase significativa foi colocada em garantir que seu código existente possa interagir corretamente com o Kotlin. Você pode facilmente chamar código Kotlin a partir do Java e código Java a partir do Kotlin. Isso torna a adoção muito mais fácil e de menor risco. Há também um conversor automático de Java para Kotlin integrado ao IDE que simplifica a migração de código existente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Kotlin Comparison to Java](https://kotlinlang.org/docs/comparison-to-java.html)
-- [@official@Calling Java from Kotlin](https://kotlinlang.org/docs/java-interop.html)
-- [@official@Calling Kotlin from Java](https://kotlinlang.org/docs/java-to-kotlin-interop.html)
+- [@oficial@Comparação do Kotlin com o Java](https://kotlinlang.org/docs/comparison-to-java.html)
+- [@oficial@Chamando Java a partir do Kotlin](https://kotlinlang.org/docs/java-interop.html)
+- [@oficial@Chamando Kotlin a partir do Java](https://kotlinlang.org/docs/java-to-kotlin-interop.html)

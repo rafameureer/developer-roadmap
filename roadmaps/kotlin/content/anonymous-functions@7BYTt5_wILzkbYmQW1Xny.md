@@ -1,8 +1,8 @@
-# Anonymous Functions
+# Funções Anônimas em Kotlin
 
-Anonymous functions in Kotlin are functions without a name. They are defined using a lambda expression but with an explicit return type and the `return` keyword for returning values. They are useful when you need to define a function inline, often as an argument to another function or when assigning a function to a variable, especially when the function logic is more complex than a simple expression.
+Funções anônimas em Kotlin são funções sem nome. Elas são definidas usando uma expressão lambda, mas com um tipo de retorno explícito e a palavra-chave `return` para retornar valores. São úteis quando você precisa definir uma função inline, frequentemente como argumento de outra função ou ao atribuir uma função a uma variável, especialmente quando a lógica da função é mais complexa do que uma expressão simples.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Anonymous Functions](https://kotlinlang.org/docs/lambdas.html#anonymous-functions)
-- [@article@Kotlin Lambda Expressions + Kotlin Anonymous Functions](https://medium.com/huawei-developers/kotlin-lambda-expressions-kotlin-anonymous-functions-example-tutorial-88a4b622f8b9)
+- [@official@Funções Anônimas](https://kotlinlang.org/docs/lambdas.html#anonymous-functions)
+- [@article@Expressões Lambda em Kotlin + Funções Anônimas em Kotlin](https://medium.com/huawei-developers/kotlin-lambda-expressions-kotlin-anonymous-functions-example-tutorial-88a4b622f8b9)

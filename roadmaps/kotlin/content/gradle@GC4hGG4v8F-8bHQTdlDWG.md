@@ -1,10 +1,10 @@
 # Gradle
 
-Gradle is an open-source build automation tool known for its flexibility and performance. It's used to automate tasks like compiling, testing, and deploying software. Gradle uses a Domain Specific Language (DSL) based on Groovy or Kotlin to define build scripts, allowing developers to customize the build process extensively. It supports dependency management, allowing projects to easily incorporate external libraries and frameworks.
+Gradle é uma ferramenta de automação de build de código aberto conhecida por sua flexibilidade e desempenho. Ele é usado para automatizar tarefas como a compilação, teste e implantação de software. O Gradle usa um Domain Specific Language (DSL) baseado em Groovy ou Kotlin para definir scripts de build, permitindo que os desenvolvedores personalizem o processo de construção extensivamente. Ele suporta a gestão de dependências, permitindo que projetos integrem facilmente bibliotecas e frameworks externos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Gradle](https://kotlinlang.org/docs/gradle.html)
-- [@official@Gradle user manual](https://docs.gradle.org/current/userguide/userguide.html)
-- [@official@Get started with Gradle and Kotlin/JVM](https://kotlinlang.org/docs/get-started-with-jvm-gradle-project.html)
-- [@video@The Ultimate Gradle Kotlin Beginner's Crash Course For 2025](https://www.youtube.com/watch?v=RCRQlz78wCg)
+- [@oficial@Gradle](https://kotlinlang.org/docs/gradle.html)
+- [@oficial@Manual do usuário do Gradle](https://docs.gradle.org/current/userguide/userguide.html)
+- [@oficial@Começando com o Gradle e Kotlin/JVM](https://kotlinlang.org/docs/get-started-with-jvm-gradle-project.html)
+- [@video@O Crash Course Inicial em Kotlin para iniciantes do Gradle para 2025](https://www.youtube.com/watch?v=RCRQlz78wCg)

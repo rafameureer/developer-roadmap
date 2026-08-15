@@ -4,7 +4,7 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 
 ---
 
-> ⚠️ **Total de itens sinalizados:** 1103
+> ⚠️ **Total de itens sinalizados:** 1112
 
 | Arquivo / Tópico | Motivo da Sinalização | Data/Hora |
 |---|---|---|
@@ -1111,3 +1111,12 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 | `roadmaps/javascript/content/json@bFNvtHp97OzKnPJgr7WaH.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:30:58.820688 |
 | `roadmaps/javascript/content/logical-operators@bo4SvzU4BrPl3c99zW7Y5.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:31:23.253028 |
 | `roadmaps/javascript/content/loops-and-iterations@YD-2l_amfqqqCdtc_Zdzo.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:31:25.945773 |
+| `roadmaps/kotlin/content/abstract-class@8jkUleKbxXSxPHbeFUTGK.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:34:31.282541 |
+| `roadmaps/kotlin/content/ai-development@RSufL2bzKXZhz9M98oGTA.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:34:38.681182 |
+| `roadmaps/kotlin/content/lambda-functions@cFExAjlc_ATE8V9EWE5on.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:40:58.895869 |
+| `roadmaps/kotlin/content/lists@0iZ9qfst8yw08cTW8d-Nx.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:41:02.082853 |
+| `roadmaps/kotlin/content/quarkus@MzV6A_0Sa9LhgalNmhwq8.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:42:50.792029 |
+| `roadmaps/kotlin/content/ranges@LZlkx9YYylodmjUXxnj7a.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:42:54.781610 |
+| `roadmaps/kotlin/content/read-only-vs-mutable@D4G8DOX5b39Rxw2FtgnjQ.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:42:59.328499 |
+| `roadmaps/kotlin/content/serialization@TyuUD4479UXsbRY9nOGno.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:43:39.172628 |
+| `roadmaps/kotlin/content/server-side-apps@aj_yIDgFpBOfoSs2kYBBT.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:43:42.204447 |

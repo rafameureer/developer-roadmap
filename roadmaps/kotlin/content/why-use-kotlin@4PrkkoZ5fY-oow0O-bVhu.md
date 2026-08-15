@@ -1,8 +1,8 @@
-# Why Use Kotlin?
+# Por Que Usar Kotlin?
 
-Kotlin is a modern programming language that makes coding easier and more efficient. It's designed to be simple to learn and use, helping developers write cleaner and more reliable code. Kotlin also works seamlessly with existing Java code, making it easy to integrate into current projects. Kotlin can be used for any kind of development, be it server-side, client-side web, Android, or multiplatform library.
+Kotlin é um idioma de programação moderno que torna o codificação mais fácil e eficiente. Foi projetado para ser simples de aprender e usar, ajudando os desenvolvedores a escrever código limpo e mais confiável. Kotlin também funciona perfeitamente com o código Java existente, tornando-o fácil de integrar em projetos atuais. Kotlin pode ser usado para qualquer tipo de desenvolvimento, seja servidor-side, web-cliente, Android ou bibliotecas multiplataforma.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Kotlin FAQs](https://kotlinlang.org/docs/faq.html)
-- [@video@Kotlin in 100 Seconds](https://www.youtube.com/watch?v=xT8oP0wy-A0)
+- [@official@FAQs do Kotlin](https://kotlinlang.org/docs/faq.html)
+- [@video@Kotlin em 100 Segundos](https://www.youtube.com/watch?v=xT8oP0wy-A0)

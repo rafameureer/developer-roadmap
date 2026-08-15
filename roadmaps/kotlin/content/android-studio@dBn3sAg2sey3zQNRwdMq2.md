@@ -1,9 +1,9 @@
 # Android Studio
 
-Android Studio is the official Integrated Development Environment (IDE) for Android app development, built on JetBrains' IntelliJ IDEA. It provides a comprehensive suite of tools for designing, developing, debugging, and testing Android applications. It includes features like a visual layout editor, code completion, debugging tools, and integration with the Android SDK and emulator.
+Android Studio é o ambiente de desenvolvimento integrado (IDE) oficial para o desenvolvimento de aplicativos Android, construído sobre a IntelliJ IDEA da JetBrains. Ele oferece uma suite completa de ferramentas para design, desenvolvimento, depuração e teste de aplicativos Android. Inclui recursos como um editor visual do layout, conclusão de código, ferramentas de depuração e integração com o SDK do Android e o emulador.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Android Studio](https://developer.android.com/studio)
-- [@official@Develop Android apps with Kotlin](https://developer.android.com/kotlin)
-- [@video@Android & Kotlin Development Masterclass – Full Course](https://www.youtube.com/watch?v=blKkRoZPxLc)
+- [@official@Desenvolva aplicativos Android com Kotlin](https://developer.android.com/kotlin)
+- [@video@Masterclass de Desenvolvimento Android e Kotlin – Curso Completo](https://www.youtube.com/watch?v=blKkRoZPxLc)

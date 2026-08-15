@@ -1,9 +1,9 @@
 # Compose Multiplatform
 
-Compose Multiplatform is a declarative UI framework that allows developers to share user interface code across multiple platforms, including Android, iOS, desktop (Windows, macOS, Linux), and web. It's based on Jetpack Compose, Google's modern UI toolkit for Android, and leverages Kotlin's multiplatform capabilities to enable code reuse while maintaining a native look and feel on each target platform. This approach streamlines UI development by reducing platform-specific code and promoting consistency across different applications.
+Compose Multiplatform é um framework de interface do usuário declarativa que permite aos desenvolvedores compartilhar código de interface do usuário em várias plataformas, incluindo Android, iOS, desktop (Windows, macOS, Linux) e web. Ele se baseia no Jetpack Compose, o moderno toolkit de interface do usuário da Google para Android, e aproveita as capacidades multiplataforma do Kotlin para permitir a reutilização de código enquanto mantém um visual nativo em cada plataforma-alvo. Esse abordagem streamlines o desenvolvimento de interfaces do usuário reduzindo o código específico de plataforma e promovendo consistência em diferentes aplicativos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Compose Multiplatform](https://www.jetbrains.com/compose-multiplatform/)
 - [@opensource@Compose Multiplatform](https://github.com/JetBrains/compose-multiplatform)
-- [@video@The Compose Multiplatform Crash Course for 2025](https://www.youtube.com/watch?v=WT9-4DXUqsM)
+- [@video@O Crash Course do Compose Multiplatform para 2025](https://www.youtube.com/watch?v=WT9-4DXUqsM)

@@ -1,7 +1,7 @@
-# Arrays in Kotlin
+# Arrays em Kotlin
 
-Arrays in Kotlin are used to store a fixed-size, sequential collection of elements of the same data type. Think of them as a container that holds multiple values of the same kind, like a list of integers, strings, or even custom objects. You can access each element in the array using its index, which starts from zero. Arrays are fundamental for organizing and manipulating collections of data in your programs.
+Arrays em Kotlin são usados para armazenar uma coleção sequencial de elementos do mesmo tipo de dados, com tamanho fixo. Pense neles como um contêiner que armazena múltiplos valores do mesmo tipo, como uma lista de inteiros, strings ou até objetos personalizados. Você pode acessar cada elemento no array usando seu índice, que começa em zero. Arrays são fundamentais para organizar e manipular coleções de dados em seus programas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Arrays](https://kotlinlang.org/docs/arrays.html)

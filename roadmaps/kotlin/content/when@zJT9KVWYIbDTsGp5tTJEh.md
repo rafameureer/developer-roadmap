@@ -1,9 +1,9 @@
-# When Expression
+# Expressão When
 
-In Kotlin, the `when` expression is a powerful control flow statement used to execute different blocks of code based on different conditions. It's similar to a `switch` statement in other languages, but more flexible and expressive. The `when` expression can be used as a statement or as an expression, returning a value based on the matched condition. It allows you to check for equality, ranges, types, or any arbitrary boolean condition, making it a versatile tool for handling multiple branches of logic.
+No Kotlin, a expressão `when` é uma poderosa declaração de fluxo de controle usada para executar diferentes blocos de código com base em diferentes condições. Ela é semelhante a uma instrução `switch` em outras linguagens, mas mais flexível e expressiva. A expressão `when` pode ser usada como uma declaração ou como uma expressão, retornando um valor com base na condição correspondente. Ela permite verificar igualdade, intervalos, tipos ou qualquer condição booleana arbitrária, tornando-se uma ferramenta versátil para lidar com múltiplas ramificações de lógica.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@When expressions and statements](https://kotlinlang.org/docs/control-flow.html#when-expressions-and-statements)
-- [@article@Use a when statement for multiple branches](https://developer.android.com/codelabs/basic-android-kotlin-compose-conditionals#2)
-- [@video@Control Flows | if else | when - the cooler switch](https://www.youtube.com/watch?v=Wp2UU4yKjqM)
+- [@oficial@Expressões e declarações When](https://kotlinlang.org/docs/control-flow.html#when-expressions-and-statements)
+- [@artigo@Use uma declaração when para múltiplas ramificações](https://developer.android.com/codelabs/basic-android-kotlin-compose-conditionals#2)
+- [@vídeo@Fluxos de Controle | if else | when - o switch mais cool](https://www.youtube.com/watch?v=Wp2UU4yKjqM)

@@ -1,8 +1,8 @@
 # Interfaces
 
-Interfaces in Kotlin are blueprints for classes, defining a set of properties and abstract methods that implementing classes must provide. They allow you to define a contract, ensuring that any class implementing the interface will have specific functionalities. Unlike classes, interfaces cannot store state; they only declare what a class _should_ do, not _how_ it should do it. A class can implement multiple interfaces, enabling a form of multiple inheritance of behavior.
+Interfaces em Kotlin são esboços para classes, definindo um conjunto de propriedades e métodos abstratos que as classes implementadoras devem fornecer. Eles permitem definir um contrato, garantindo que qualquer classe implementando a interface terá funcionalidades específicas. Diferentemente das classes, interfaces não podem armazenar estado; elas apenas declaram o que uma classe _deve_ fazer, e não como ela deve fazer isso. Uma classe pode implementar várias interfaces, permitindo um tipo de herança múltipla de comportamento.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Interfaces](https://kotlinlang.org/docs/interfaces.html#interfaces.md)
-- [@video@What are Kotlin Interfaces Used For and Why?](https://www.youtube.com/watch?v=x_VBFdit6Iw)
+- [@video@O que são Interfaces em Kotlin e Por Que?](https://www.youtube.com/watch?v=x_VBFdit6Iw)

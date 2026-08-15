@@ -1,8 +1,8 @@
-# Break and Continue in Kotlin Loops
+# Break e Continue em Laços do Kotlin
 
-In Kotlin, `break` and `continue` are control flow statements used within loops. The `break` statement immediately terminates the loop's execution and transfers control to the next statement after the loop. Conversely, the `continue` statement skips the rest of the current iteration of the loop and proceeds to the next iteration. They provide a way to alter the normal flow of a loop based on certain conditions.
+No Kotlin, `break` e `continue` são instruções de fluxo de controle usadas dentro de laços. A instrução `break` termina imediatamente a execução do laço e transfere o controle para a próxima instrução após o laço. Por outro lado, a instrução `continue` pula o resto da iteração atual do laço e prossegue para a próxima iteração. Eles fornecem uma maneira de alterar o fluxo normal de um laço com base em certas condições.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Break and continue labels](https://kotlinlang.org/docs/returns.html#break-and-continue-labels)
-- [@video@Break | Continue | Return - A fresh look](https://www.youtube.com/watch?v=qMyJd0ihUTg)
+- [@official@Etiquetas de break e continue](https://kotlinlang.org/docs/returns.html#break-and-continue-labels)
+- [@video@Break | Continue | Return - Uma nova perspectiva](https://www.youtube.com/watch?v=qMyJd0ihUTg)

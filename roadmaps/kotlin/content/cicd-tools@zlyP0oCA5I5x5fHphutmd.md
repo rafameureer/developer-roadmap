@@ -1,3 +1,3 @@
-# CI/CD Tools
+# Ferramentas CI/CD
 
-CI/CD tools are software that automates building, testing, and deploying code changes in a software development workflow, enabling faster and more reliable releases of high-quality software. They are the backbone of continuous integration (CI) and continuous delivery/deployment (CD) practices, which automate the software delivery pipeline to reduce risks and deliver value to customers more quickly. TeamCity, for example, is a CI/CD server that can be used to automate these processes for Kotlin projects.
+As ferramentas CI/CD são softwares que automatizam a construção, teste e implantação de alterações de código em um fluxo de trabalho de desenvolvimento de software, permitindo lançamentos mais rápidos e confiáveis de software de alta qualidade. Eles são o tronco das práticas de integração contínua (CI) e entrega/implantação contínuas (CD), que automatizam a pipeline de entrega do software para reduzir riscos e entregar valor aos clientes mais rapidamente. Por exemplo, o TeamCity é um servidor CI/CD que pode ser usado para automatizar esses processos para projetos em Kotlin.

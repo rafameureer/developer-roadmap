@@ -1,7 +1,7 @@
-# Creating Files
+# Criando Arquivos
 
-In Kotlin, you can create new files using the `File` class from the `java.io` package. To do this, you first create a `File` object representing the desired file path. Then, you call the `createNewFile()` method on that `File` object. This method attempts to create a new, empty file at the specified location. It returns `true` if the file was successfully created and `false` if a file with that name already exists or if there was an error during creation.
+No Kotlin, você pode criar novos arquivos usando a classe `File` do pacote `java.io`. Para isso, primeiro cria um objeto `File` representando o caminho desejado para o arquivo. Em seguida, chama o método `createNewFile()` nesse objeto `File`. Esse método tenta criar um novo arquivo vazio na localização especificada. Ele retorna `true` se o arquivo foi criado com sucesso e `false` se já existe um arquivo com esse nome ou ocorreu um erro durante a criação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Working With Files In Kotlin - IO Essentials](https://www.youtube.com/watch?v=MSeI7XVzrvo)
+- [@article@Trabalhando com Arquivos em Kotlin - Essenciais de IO](https://www.youtube.com/watch?v=MSeI7XVzrvo)

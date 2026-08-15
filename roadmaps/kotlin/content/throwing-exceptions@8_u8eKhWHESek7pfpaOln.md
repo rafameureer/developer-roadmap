@@ -1,7 +1,7 @@
-# Throwing Exceptions
+# Lançando Exceções
 
-Throwing exceptions indicate when a problem occurs. You can manually throw exceptions with the `throw` keyword. Throwing an exception indicates that an unexpected runtime error has occurred in the code. Exceptions are objects, and throwing one creates an instance of an exception class. You can throw an exception without any parameters or by using precondition functions﻿, such as `require()`, `check()`, and `error()`
+Lançar exceções indica quando ocorre um problema. Você pode lançar exceções manualmente com a palavra-chave `throw`. Lançar uma exceção indica que um erro de tempo de execução inesperado ocorreu no código. As exceções são objetos, e lançar uma cria uma instância de uma classe de exceção. Você pode lançar uma exceção sem nenhum parâmetro ou usando funções de pré-condição como `require()`, `check()` e `error()`.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Throw exceptions](https://kotlinlang.org/docs/exceptions.html#throw-exceptions)

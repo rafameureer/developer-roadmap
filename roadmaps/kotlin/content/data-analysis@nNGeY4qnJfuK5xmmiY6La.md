@@ -1,10 +1,10 @@
-# Data Analysis with Kotlin
+# Análise de Dados com Kotlin
 
-Data analysis involves examining raw data to draw conclusions about that information. Kotlin, primarily known for Android development, can also be used for data analysis. With Kotlin's Exploratory Data Analysis (EDA) tools, such as Kotlin notebooks, Kotlin DataFrame, and Kandy, you have at your disposal a rich set of capabilities to enhance your analytics skills and support you across different scenarios:
+A análise de dados envolve examinar dados brutos para tirar conclusões sobre essa informação. Embora Kotlin seja principalmente conhecido pelo desenvolvimento Android, ele também pode ser usado para análise de dados. Com as ferramentas de Exploratory Data Analysis (EDA) do Kotlin, como Notebooks Kotlin, DataFrame Kotlin e Kandy, você tem à disposição um conjunto rico de capacidades para melhorar suas habilidades analíticas e suportá-lo em diferentes cenários:
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Kotlin for data analysis](https://kotlinlang.org/docs/data-analysis-overview.html)
-- [@official@Kotlin and Java libraries for data analysis](https://kotlinlang.org/docs/data-analysis-libraries.html)
-- [@article@A Step-by-Step Guide to Performing Data Analysis With Kotlin DataFrame](https://blog.jetbrains.com/kotlin/2024/04/a-step-by-step-guide-to-performing-data-analysis-with-kotlin-dataframe/)
-- [@video@Data Analytics With Kotlin Notebooks](https://www.youtube.com/watch?v=_RYV7ZvMKpE)
+- [@official@Kotlin para análise de dados](https://kotlinlang.org/docs/data-analysis-overview.html)
+- [@official@Bibliotecas Kotlin e Java para análise de dados](https://kotlinlang.org/docs/data-analysis-libraries.html)
+- [@article@Guia Passo a Passo para Realizar Análise de Dados com DataFrame Kotlin](https://blog.jetbrains.com/kotlin/2024/04/a-step-by-step-guide-to-performing-data-analysis-with-kotlin-dataframe/)
+- [@video@Análise de Dados com Notebooks Kotlin](https://www.youtube.com/watch?v=_RYV7ZvMKpE)

@@ -1,9 +1,9 @@
-# Suspending Functions
+# Funções Assíncronas
 
-Suspending functions are the foundation of Kotlin's coroutine-based concurrency. They represent a computation that can be paused and resumed later, potentially without blocking the thread. This allows you to write asynchronous, non-blocking code in a sequential, easy-to-read style, improving responsiveness and resource utilization.
+As funções assíncronas são a base da concorrência baseada em coroutines do Kotlin. Elas representam um cálculo que pode ser pausado e retomado mais tarde, potencialmente sem bloquear o thread. Isso permite que você escreva código assíncrono e não-bloqueante de uma maneira sequencial e fácil de ler, melhorando a resposta e o uso dos recursos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Coroutines basics](https://kotlinlang.org/docs/coroutines-basics.html)
-- [@official@Composing suspending functions](https://kotlinlang.org/docs/composing-suspending-functions.html)
-- [@video@Suspend Functions - Kotlin Coroutines](https://www.youtube.com/watch?v=yc_WfBp-PdE)
+- [@oficial@Básicos de Coroutines](https://kotlinlang.org/docs/coroutines-basics.html)
+- [@oficial@Compondo funções assíncronas](https://kotlinlang.org/docs/composing-suspending-functions.html)
+- [@video@Funções Assíncronas - Kotlin Coroutines](https://www.youtube.com/watch?v=yc_WfBp-PdE)

@@ -1,8 +1,8 @@
-# Transformations in Kotlin Collections
+# Transformações em Coleções Kotlin
 
-Transformations in Kotlin collections involve modifying the elements within a collection to create a new collection. These operations allow you to apply a function to each element, changing its value or structure, without altering the original collection. Common transformations include mapping (changing the value of each element), flattening (combining nested collections into a single collection), and zipping (combining two collections element-wise).
+As transformações em coleções Kotlin envolvem modificar os elementos dentro de uma coleção para criar uma nova coleção. Essas operações permitem aplicar uma função a cada elemento, alterando seu valor ou estrutura, sem alterar a coleção original. Transformações comuns incluem mapeamento (alterando o valor de cada elemento), achatamento (combinando coleções aninhadas em uma única coleção) e zipping (combinando duas coleções elemento a elemento).
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Collection transformation operations](https://kotlinlang.org/docs/collection-transformations.html)
 - [@video@Collection Operations | Transformation | map | zip](https://www.youtube.com/watch?v=eN4CS--hE1Q)

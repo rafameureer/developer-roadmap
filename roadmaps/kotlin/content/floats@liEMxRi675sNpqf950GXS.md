@@ -1,7 +1,7 @@
-# Floats in Kotlin
+# Floats em Kotlin
 
-Floats in Kotlin represent single-precision (Float) and double-precision (Double) floating-point numbers, used to store numbers with decimal points. `Float` uses 32 bits of memory, offering a smaller range and precision, while `Double` uses 64 bits, providing a larger range and higher precision. You use them when you need to represent non-integer values like measurements, scientific data, or financial values.
+Os floats em Kotlin representam números de ponto flutuante de precisão simples (Float) e dupla precisão (Double). Eles são usados para armazenar números com pontos decimais. O `Float` usa 32 bits de memória, oferecendo um intervalo menor e uma precisão mais baixa, enquanto o `Double` usa 64 bits, fornecendo um intervalo maior e uma precisão mais alta. Você os usa quando precisa representar valores não inteiros como medições, dados científicos ou valores financeiros.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Floating-point types](https://kotlinlang.org/docs/numbers.html#floating-point-types)
+- [@official@Tipos de ponto flutuante](https://kotlinlang.org/docs/numbers.html#floating-point-types)

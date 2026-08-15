@@ -1,8 +1,8 @@
-# Gradle Plugins in Kotlin
+# Plugins Gradle em Kotlin
 
-Gradle plugins are reusable components that extend Gradle's build capabilities. They automate tasks like compiling code, running tests, and packaging applications. In Kotlin projects, plugins are often written in Kotlin itself, allowing for type-safe build configurations and leveraging Kotlin's features for more expressive and maintainable build scripts. These plugins can be applied to a project to customize the build process and integrate with various tools and libraries.
+Os plugins Gradle são componentes reutilizáveis que estendem as capacidades de construção do Gradle. Eles automatizam tarefas como a compilação de código, a execução de testes e o empacotamento de aplicativos. Em projetos em Kotlin, os plugins são frequentemente escritos em Kotlin em si, permitindo configurações de build seguras em tempo de compilação e aproveitando as características do Kotlin para scripts de build mais expressivos e manteráveis. Esses plugins podem ser aplicados a um projeto para personalizar o processo de construção e integrar com várias ferramentas e bibliotecas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Configure a Gradle project](https://kotlinlang.org/docs/gradle-configure-project.html)
-- [@official@Using Plugins](https://docs.gradle.org/current/userguide/plugins.html)
+- [@oficial@Configurar um projeto Gradle](https://kotlinlang.org/docs/gradle-configure-project.html)
+- [@oficial@Usando Plugins](https://docs.gradle.org/current/userguide/plugins.html)

@@ -1,8 +1,8 @@
-# Type Aliases
+# Aliases de Tipo
 
-A type alias in Kotlin provides an alternative name for an existing type. It doesn't create a new type; instead, it introduces a new identifier that you can use interchangeably with the original type. This can improve code readability by providing more descriptive names for complex types or simplifying long type declarations. Type aliases are particularly useful when dealing with function types or generic types, making the code easier to understand and maintain.
+Um alias de tipo em Kotlin fornece um nome alternativo para um tipo existente. Ele não cria um novo tipo; ao invés disso, introduz um novo identificador que você pode usar intercambiavelmente com o tipo original. Isso pode melhorar a legibilidade do código fornecendo nomes mais descritivos para tipos complexos ou simplificando declarações de tipos longas. Aliases de tipo são particularmente úteis ao lidar com tipos de função ou tipos genéricos, tornando o código mais fácil de entender e manter.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Type aliases](https://kotlinlang.org/docs/type-aliases.html#type-aliases.md)
-- [@video@Kotlin For Beginners - Type Alias](https://www.youtube.com/watch?v=4BLSDkXMIm0)
+- [@official@Aliases de Tipo](https://kotlinlang.org/docs/type-aliases.html#type-aliases.md)
+- [@video@Kotlin Para Iniciantes - Alias de Tipo](https://www.youtube.com/watch?v=4BLSDkXMIm0)

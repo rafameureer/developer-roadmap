@@ -1,8 +1,8 @@
 # IDEs
 
-Integrated Development Environments (IDEs) provide developers with tools to write, test, and debug code more efficiently. Popular IDEs for Kotlin development include IntelliJ IDEA, which is developed by JetBrains (the creators of Kotlin) and offers excellent support for the language, including code completion, refactoring, and debugging. Android Studio, also based on IntelliJ IDEA, is the official IDE for Android development and provides specific tools for building Kotlin-based Android applications. Eclipse with the Kotlin plugin is another option, offering a familiar environment for developers already using Eclipse.
+Ambientes de Desenvolvimento Integrados (IDEs) fornecem aos desenvolvedores ferramentas para escrever, testar e depurar código de maneira mais eficiente. IDEs populares para o desenvolvimento em Kotlin incluem IntelliJ IDEA, que é desenvolvida pela JetBrains (os criadores do Kotlin) e oferece excelente suporte para a linguagem, incluindo conclusão de código, refatoração e depuração. Android Studio, também baseado em IntelliJ IDEA, é o IDE oficial para o desenvolvimento Android e fornece ferramentas específicas para construir aplicativos Android baseados em Kotlin. O Eclipse com o plugin Kotlin é outra opção, oferecendo um ambiente familiar para os desenvolvedores já usando o Eclipse.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@IDEs for Kotlin development](https://kotlinlang.org/docs/kotlin-ide.html)
-- [@article@What is an IDE (Integrated Development Environment)?](https://.amazon.com/what-is/ide/)
+- [@oficial@IDEs para Desenvolvimento em Kotlin](https://kotlinlang.org/docs/kotlin-ide.html)
+- [@artigo@O que é um IDE (Ambiente de Desenvolvimento Integrado)?](https://.amazon.com/what-is/ide/)

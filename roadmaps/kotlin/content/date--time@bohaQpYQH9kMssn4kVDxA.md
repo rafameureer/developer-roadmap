@@ -1,10 +1,10 @@
-# Date & Time
+# Data e Hora
 
-Kotlin leverages Java's `java.time` package (introduced in Java 8) for handling dates and times, offering classes like `LocalDate`, `LocalTime`, and `LocalDateTime`. Kotlin also provides extensions and convenience functions within its standard library, such as the kotlinx.datetime library, to work with dates and times. This allows you to easily represent, manipulate, and format date and time information in your Kotlin applications.
+Kotlin aproveita o pacote `java.time` da Java (introduzido na versão 8 do Java) para lidar com datas e horas, oferecendo classes como `LocalDate`, `LocalTime` e `LocalDateTime`. Kotlin também fornece extensões e funções de conveniência dentro de sua biblioteca padrão, como a biblioteca kotlinx.datetime, para trabalhar com datas e horas. Isso permite que você represente facilmente, manipule e formate informações de data e hora em suas aplicações Kotlin.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Time measurement](https://kotlinlang.org/docs/time-measurement.html)
+- [@official@Medição de Tempo](https://kotlinlang.org/docs/time-measurement.html)
 - [@official@java.time](https://docs.oracle.com/javase/8/docs/api/java/time/package-summary.html)
 - [@opensource@kotlinx.datetime](https://github.com/Kotlin/kotlinx-datetime)
-- [@video@The Full Guide About the DateTime API in Kotlin](https://www.youtube.com/watch?v=gzHy6wKAJh8)
+- [@video@Guia Completo sobre a API DateTime em Kotlin](https://www.youtube.com/watch?v=gzHy6wKAJh8)

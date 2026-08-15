@@ -1,7 +1,7 @@
-# Conditional Expressions
+# Expressões Condicionais
 
-Conditional expressions allow you to execute different blocks of code based on whether a condition is true or false. They provide a way to make decisions within your program, enabling it to respond differently to various inputs or situations. In Kotlin, this is primarily achieved using `if` and `when` expressions. These expressions evaluate a boolean condition and execute the corresponding code block.
+As expressões condicionais permitem que você execute diferentes blocos de código com base em se uma condição é verdadeira ou falsa. Elas fornecem um meio de tomar decisões dentro do seu programa, permitindo que ele responda de maneira diferente a diversos inputs ou situações. No Kotlin, isso é principalmente alcançado usando as expressões `if` e `when`. Essas expressões avaliam uma condição booleana e executam o bloco de código correspondente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@If expression](https://kotlinlang.org/docs/control-flow.html#if-expression)
+- [@official@Expressão If](https://kotlinlang.org/docs/control-flow.html#if-expression)

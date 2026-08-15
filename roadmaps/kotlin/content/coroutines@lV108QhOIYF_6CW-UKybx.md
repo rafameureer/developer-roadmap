@@ -1,9 +1,9 @@
-# Kotlin Coroutines
+# Corrotinas em Kotlin
 
-To support efficient concurrency, Kotlin uses asynchronous programming built around coroutines, which let you write asynchronous code in a natural, sequential style using suspending functions. Coroutines are lightweight alternatives to threads. They can suspend without blocking system resources and are resource-friendly, making them better suited for fine-grained concurrency. Most coroutine features are provided by the `kotlinx.coroutines` library, which includes tools for launching coroutines, handling concurrency, working with asynchronous streams, and more.
+Para suportar a concorrência eficiente, Kotlin usa programação assíncrona baseada em corrotina, que permite escrever código assíncrono de uma maneira natural e sequencial usando funções suspensivas. Corrotinas são alternativas leves a threads. Elas podem suspender sem bloquear recursos do sistema e são amigáveis com os recursos, tornando-as mais adequadas para concorrência granular. A maioria das funcionalidades de corrotina é fornecida pela biblioteca `kotlinx.coroutines`, que inclui ferramentas para iniciar corrotinas, lidar com concorrência, trabalhar com fluxos assíncronos e muito mais.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Coroutines](https://kotlinlang.org/docs/coroutines-overview.html#coroutines-overview.md)
+- [@oficial@Corrotina](https://kotlinlang.org/docs/coroutines-overview.html#coroutines-overview.md)
 - [@opensource@kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines)
-- [@video@WHAT IS A COROUTINE? - Kotlin Coroutines](https://www.youtube.com/watch?v=ShNhJ3wMpvQ)
+- [@vídeo@O QUE É UMA CORROTINA? - Corrotinas em Kotlin](https://www.youtube.com/watch?v=ShNhJ3wMpvQ)

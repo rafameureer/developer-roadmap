@@ -1,7 +1,7 @@
-# Progressions
+# Progressões
 
-Progressions in Kotlin define a sequence of values within a specific range, typically with a defined step. They are most commonly used with numeric types like `Int`, `Long`, and `Char`. Progressions allow you to iterate over a series of numbers or characters in a controlled manner, either increasing or decreasing. Kotlin provides built-in classes like `IntProgression`, `LongProgression`, and `CharProgression` to represent these sequences.
+As progressões em Kotlin definem uma sequência de valores dentro de um intervalo específico, geralmente com um passo definido. Elas são mais comumente usadas com tipos numéricos como `Int`, `Long` e `Char`. As progressões permitem que você itere sobre uma série de números ou caracteres de maneira controlada, seja aumentando ou diminuindo. Kotlin fornece classes internas como `IntProgression`, `LongProgression` e `CharProgression` para representar essas sequências.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Progression](https://kotlinlang.org/docs/ranges.html#progression)
+- [@oficial@Progressões](https://kotlinlang.org/docs/ranges.html#progressão)

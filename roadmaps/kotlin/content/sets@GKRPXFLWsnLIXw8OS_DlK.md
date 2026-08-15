@@ -1,8 +1,8 @@
-# Sets in Kotlin
+# Conjuntos em Kotlin
 
-Sets in Kotlin are unordered collections of unique elements. This means a set cannot contain duplicate values. Sets support basic operations like adding elements, removing elements, and checking for membership. They are useful when you need to ensure that you only have distinct values in a collection, and the order of elements is not important.
+Conjuntos em Kotlin são coleções não ordenadas de elementos únicos. Isso significa que um conjunto não pode conter valores duplicados. Os conjuntos suportam operações básicas como adicionar elementos, remover elementos e verificar a pertencência. Eles são úteis quando você precisa garantir que tenha apenas valores distintos em uma coleção, e a ordem dos elementos não é importante.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Set](https://kotlinlang.org/api/core/kotlin-stdlib/kotlin.collections/-set/)
-- [@article@Sets | Android](https://developer.android.com/codelabs/basic-android-kotlin-collections#3)
+- [@oficial@Conjunto](https://kotlinlang.org/api/core/kotlin-stdlib/kotlin.collections/-set/)
+- [@artigo@Conjuntos | Android](https://developer.android.com/codelabs/basic-android-kotlin-collections#3)

@@ -1,8 +1,8 @@
-# Retrieving single elements
+# Recuperando elementos individuais
 
-Kotlin collections provide a set of functions for retrieving single elements from list and sets. You can select single elements by position, by condition, with selectors, and even using random selection.
+As coleções do Kotlin oferecem um conjunto de funções para recuperar elementos individuais de listas e conjuntos. Você pode selecionar elementos individuais por posição, por condição, com seletores e até mesmo usando a seleção aleatória.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Retrieve single elements](https://kotlinlang.org/docs/collection-elements.html)
-- [@video@Collections | Retrieving Single element from Collection](https://www.youtube.com/watch?v=4BncuTvd3hc)
+- [@official@Recuperar elementos individuais](https://kotlinlang.org/docs/collection-elements.html)
+- [@video@Coleções | Recuperando um elemento individual de uma coleção](https://www.youtube.com/watch?v=4BncuTvd3hc)

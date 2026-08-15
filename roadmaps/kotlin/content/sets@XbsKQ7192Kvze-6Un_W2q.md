@@ -1,8 +1,8 @@
-# Set Operations
+# Operações de Conjunto
 
-Sets in Kotlin, like in mathematics, are collections of unique elements. Kotlin provides specific operations to manipulate these sets, including `union` (combining two sets), `intersect` (finding common elements), and `subtract` (finding elements present in one set but not the other). These operations create new sets based on the original sets without modifying them, ensuring immutability. They are useful for tasks like comparing data, filtering unique items, and performing mathematical set theory operations.
+Conjuntos em Kotlin, como em matemática, são coleções de elementos únicos. Kotlin fornece operações específicas para manipular esses conjuntos, incluindo `união` (combinando dois conjuntos), `interseção` (encontrando elementos comuns) e `subtração` (encontrando elementos presentes em um conjunto mas não no outro). Essas operações criam novos conjuntos baseados nos conjuntos originais sem modificá-los, garantindo imutabilidade. Eles são úteis para tarefas como comparar dados, filtrar itens únicos e realizar operações de teoria dos conjuntos matemáticos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Set-specific operations](https://kotlinlang.org/docs/set-operations.html)
-- [@video@Kotlin Set Collection Tutorial - Unleash the Power of Sets](https://www.youtube.com/watch?v=qtoJLkv4Zd0)
+- [@official@Operações específicas de conjunto](https://kotlinlang.org/docs/set-operations.html)
+- [@video@Tutorial de Coleção de Conjunto em Kotlin - Desvendando o Poder dos Conjuntos](https://www.youtube.com/watch?v=qtoJLkv4Zd0)

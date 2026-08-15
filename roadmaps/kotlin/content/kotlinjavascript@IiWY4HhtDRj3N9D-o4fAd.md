@@ -1,8 +1,8 @@
 # Kotlin/JavaScript
 
-Kotlin/JavaScript (Kotlin/JS) allows you to compile Kotlin code into JavaScript. This enables you to use Kotlin to develop web applications, Node.js applications, and other JavaScript-based projects. The resulting JavaScript code can then be executed in any environment that supports JavaScript, such as web browsers or Node.js runtimes. Kotlin/JavaScript can also be used through the Kotlin Multiplatform Gradle plugin
+O Kotlin/JavaScript (Kotlin/JS) permite que você compile código Kotlin em JavaScript. Isso o torna possível usar Kotlin para desenvolver aplicativos web, aplicativos Node.js e outros projetos baseados em JavaScript. O código JavaScript resultante pode então ser executado em qualquer ambiente que suporte JavaScript, como navegadores da web ou tempo de execução do Node.js. O Kotlin/JavaScript também pode ser usado através do plugin Gradle Kotlin Multiplatform.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Kotlin/JavaScript](https://kotlinlang.org/docs/js-overview.html)
-- [@video@Let's Learn Kotlin/JS! (with Sebastian Aigner)](https://www.youtube.com/watch?v=_kM9Y6C0iRI)
+- [@video@Vamos Aprender Kotlin/JS! (com Sebastian Aigner)](https://www.youtube.com/watch?v=_kM9Y6C0iRI)

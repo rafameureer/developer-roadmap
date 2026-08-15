@@ -1,7 +1,7 @@
-# Booleans
+# Booleanos
 
-Booleans represent truth values: either `true` or `false`. They are fundamental for decision-making in code, allowing programs to execute different blocks of code based on whether a condition is met. In Kotlin, the `Boolean` type is used to declare variables that can hold these two values, enabling logical operations and conditional statements.
+Os booleanos representam valores de verdade: ou `true` ou `false`. Eles são fundamentais para a tomada de decisões no código, permitindo que programas execute diferentes blocos de código com base em se uma condição é atendida. No Kotlin, o tipo `Boolean` é usado para declarar variáveis que podem armazenar esses dois valores, habilitando operações lógicas e declarações condicionais.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Booleans](https://kotlinlang.org/docs/booleans.html)
+- [@official@Booleanos](https://kotlinlang.org/docs/booleans.html)

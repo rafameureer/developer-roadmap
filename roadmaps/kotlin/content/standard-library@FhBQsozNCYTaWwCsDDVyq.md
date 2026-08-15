@@ -1,8 +1,8 @@
-# Kotlin Standard Library
+# Biblioteca Padrão do Kotlin
 
-The Kotlin Standard Library is a collection of pre-built functions and classes that are available for use in any Kotlin project. It provides essential tools for common programming tasks, such as working with collections, strings, input/output, and more. This library simplifies development by offering ready-made solutions, reducing the need to write code from scratch for basic operations.
+A Biblioteca Padrão do Kotlin é uma coleção de funções e classes pré-construídas que estão disponíveis para uso em qualquer projeto Kotlin. Ela fornece ferramentas essenciais para tarefas de programação comuns, como trabalhar com coleções, strings, entrada/saída e muito mais. Esta biblioteca simplifica o desenvolvimento oferecendo soluções prontas, reduzindo a necessidade de escrever código do zero para operações básicas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@kotlin-stdlib](https://kotlinlang.org/api/core/kotlin-stdlib/)
-- [@official@The standard library](https://kotlinlang.org/docs/kotlin-tour-intermediate-libraries-and-apis.html#the-standard-library)
+- [@official@A biblioteca padrão](https://kotlinlang.org/docs/kotlin-tour-intermediate-libraries-and-apis.html#the-standard-library)

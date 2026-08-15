@@ -1,7 +1,7 @@
-# While and Do-While Loops
+# Laços While e Do-While
 
-In Kotlin, `while` and `do-while` loops are used to repeatedly execute a block of code based on a condition. The `while` loop checks the condition _before_ each execution of the block; if the condition is true, the block executes, and the process repeats. The `do-while` loop, on the other hand, executes the block _at least once_ and then checks the condition; the block continues to execute as long as the condition remains true.
+No Kotlin, os laços `while` e `do-while` são usados para executar repetidamente um bloco de código com base em uma condição. O laço `while` verifica a condição _antes_ da execução do bloco; se a condição for verdadeira, o bloco será executado e o processo se repetirá. Por outro lado, o laço `do-while` executa o bloco _pelo menos uma vez_, depois verifica a condição; o bloco continuará sendo executado enquanto a condição permanecer verdadeira.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@While Loops](https://kotlinlang.org/docs/control-flow.html#while-loops)
+- [@official@Laços While](https://kotlinlang.org/docs/control-flow.html#while-loops)

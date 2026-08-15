@@ -1,7 +1,7 @@
-# Extension Functions
+# Funções de Extensão em Kotlin
 
-Extension functions in Kotlin provide a way to add new functions to existing classes without inheriting from them or using any type of design pattern such as Decorator. This is achieved by defining a function that can be called as if it were a member of the class, even though it's defined outside of it. Extension functions are resolved statically, meaning the function call is determined by the declared type of the receiver, not its runtime type.
+As funções de extensão em Kotlin oferecem uma maneira de adicionar novas funções a classes existentes sem herdar delas ou usar qualquer tipo de padrão de design como Decorator. Isso é feito definindo uma função que pode ser chamada como se fosse um membro da classe, mesmo que esteja definida fora dela. As funções de extensão são resolvidas estaticamente, o que significa que a chamada à função é determinada pelo tipo declarado do receptor, não pelo seu tipo em tempo de execução.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Extension functions](https://kotlinlang.org/docs/extensions.html#extension-functions)
+- [@official@Funções de Extensão](https://kotlinlang.org/docs/extensions.html#extension-functions)

@@ -1,8 +1,8 @@
 # Varargs
 
-Varargs (variable arguments) in Kotlin allow a function to accept a variable number of arguments of the same type. Instead of defining multiple function overloads for different numbers of arguments, you can use the `vararg` keyword in the function's parameter list. This creates a single function that can be called with any number of arguments (including zero) of the specified type, which are then accessible within the function as an array.
+Varargs (argumentos variáveis) em Kotlin permitem que uma função aceite um número variável de argumentos do mesmo tipo. Em vez de definir múltiplas sobrecargas de funções para diferentes números de argumentos, você pode usar a palavra-chave `vararg` na lista de parâmetros da função. Isso cria uma única função que pode ser chamada com qualquer número de argumentos (incluindo zero) do tipo especificado, que são então acessíveis dentro da função como um array.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Variable number of arguments (varargs)](https://kotlinlang.org/docs/functions.html#variable-number-of-arguments-varargs)
-- [@video@Function expression & vararg](https://www.youtube.com/watch?v=lQhTdcT650I)
+- [@official@Argumentos variáveis](https://kotlinlang.org/docs/functions.html#variable-number-of-arguments-varargs)
+- [@video@Expressão de função e vararg](https://www.youtube.com/watch?v=lQhTdcT650I)

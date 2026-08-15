@@ -1,9 +1,9 @@
 # Val vs Var
 
-In Kotlin, both `val` and `var` are used to declare variables, but they differ in mutability. A `val` variable is immutable, meaning its value cannot be changed after it's initially assigned. Conversely, a `var` variable is mutable, allowing its value to be reassigned multiple times throughout the program's execution. Choosing between `val` and `var` depends on whether the variable's value needs to be modified after its initial assignment.
+Em Kotlin, tanto `val` quanto `var` são usados para declarar variáveis, mas eles diferem em termos de mutabilidade. Uma variável `val` é imutável, o que significa que seu valor não pode ser alterado após a sua atribuição inicial. Por outro lado, uma variável `var` é mutável, permitindo que seu valor seja reatribuído várias vezes ao longo da execução do programa. A escolha entre `val` e `var` depende de se o valor da variável precisa ser modificado após sua atribuição inicial.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Variables](https://kotlinlang.org/docs/basic-syntax.html#variables)
-- [@article@Variable declaration](https://developer.android.com/kotlin/learn#:~:text=Kotlin%20uses%20two%20different%20keywords,variable%20whose%20value%20can%20change.)
-- [@video@Learn Kotlin 02 Var vs Val Variables](https://www.youtube.com/watch?v=Klus0Uh40Lw)
+- [@official@Variáveis](https://kotlinlang.org/docs/basic-syntax.html#variables)
+- [@article@Declaração de variável](https://developer.android.com/kotlin/learn#:~:text=Kotlin%20usa%20duas%20keywords%20diferentes,variável%20cujo%20valor%20pode%20mudar.)
+- [@video@Aprenda Kotlin 02 Var vs Val Variáveis](https://www.youtube.com/watch?v=Klus0Uh40Lw)

@@ -1,8 +1,8 @@
-# Aggregate Operations
+# Operações Agregadas
 
-Aggregate operations in Kotlin collections transform a collection into a single result. These operations combine the elements of a collection using a specific function. Common examples include finding the sum, average, minimum, or maximum value within a collection. They provide a concise way to derive a summary value from a set of data.
+As operações agregadas em coleções Kotlin transformam uma coleção em um único resultado. Essas operações combinam os elementos de uma coleção usando uma função específica. Exemplos comuns incluem encontrar a soma, média, mínimo ou máximo valor em uma coleção. Elas oferecem uma maneira concisa de derivar um valor resumo de um conjunto de dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Aggregate operations](https://kotlinlang.org/docs/collection-aggregate.html)
-- [@video@Collections | fold | reduce | aggregate functions](https://www.youtube.com/watch?v=2dteZg_1TZ0)
+- [@official@Operações agregadas](https://kotlinlang.org/docs/collection-aggregate.html)
+- [@video@Coleções | fold | reduce | funções agregadas](https://www.youtube.com/watch?v=2dteZg_1TZ0)

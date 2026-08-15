@@ -1,9 +1,9 @@
 # Kotlin Multiplatform
 
-Kotlin Multiplatform (KMP) is a feature of the Kotlin programming language that allows developers to write code that can be shared across multiple platforms, such as Android, iOS, JVM, JavaScript, and Native. This means you can write common business logic, data models, and algorithms once in Kotlin and then reuse them in different applications targeting different operating systems and environments, reducing code duplication and development time.
+Kotlin Multiplatform (KMP) é uma funcionalidade do idioma Kotlin que permite aos desenvolvedores escrever código que pode ser compartilhado em várias plataformas, como Android, iOS, JVM, JavaScript e Nativo. Isso significa que você pode escrever lógica de negócios comum, modelos de dados e algoritmos uma única vez em Kotlin e depois reutilizá-los em diferentes aplicativos direcionados a diferentes sistemas operacionais e ambientes, reduzindo a duplicação de código e o tempo de desenvolvimento.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform.html)
-- [@article@Kotlin Multiplatform Overview](https://developer.android.com/kotlin/multiplatform)
-- [@video@What Is Kotlin Multiplatform And How Does It Work?](https://www.youtube.com/watch?v=RSBO1C_Du2U)
+- [@article@Visão Geral do Kotlin Multiplatform](https://developer.android.com/kotlin/multiplatform)
+- [@video@O que é Kotlin Multiplatform e como ele funciona?](https://www.youtube.com/watch?v=RSBO1C_Du2U)

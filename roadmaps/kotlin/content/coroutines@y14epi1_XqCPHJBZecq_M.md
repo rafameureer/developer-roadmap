@@ -1,10 +1,10 @@
-# Coroutines
+# Corrotina
 
-Kotlin Coroutines provide a way to write asynchronous, non-blocking code in a sequential style. They allow you to perform long-running tasks, like network requests or database operations, without blocking the main thread, thus preventing your application from becoming unresponsive. Coroutines are lightweight threads that can be suspended and resumed, making it easier to manage concurrency and improve application performance.
+Corrotinas em Kotlin oferecem uma maneira de escrever código assíncrono e não-bloqueante de forma sequencial. Elas permitem realizar tarefas de longa duração, como solicitações de rede ou operações de banco de dados, sem bloquear a thread principal, impedindo que sua aplicação se torne inativa. Corrotinas são threads leves que podem ser suspenso e retomadas, tornando mais fácil gerenciar concorrência e melhorar o desempenho da aplicação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Coroutines](https://kotlinlang.org/docs/coroutines-overview.html)
+- [@oficial@Corrotina](https://kotlinlang.org/docs/coroutines-overview.html)
 - [@opensource@kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines)
-- [@article@Kotlin coroutines on Android](https://developer.android.com/kotlin/coroutines)
-- [@video@Kotlin Coroutine (High-quality Course)](https://www.youtube.com/watch?v=lmRzRKIsn1g)
+- [@artigo@Corrotinas em Kotlin no Android](https://developer.android.com/kotlin/coroutines)
+- [@vídeo@Curso de Corrotina em Kotlin de alta qualidade](https://www.youtube.com/watch?v=lmRzRKIsn1g)

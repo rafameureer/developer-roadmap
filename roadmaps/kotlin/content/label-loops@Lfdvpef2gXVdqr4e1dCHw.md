@@ -1,7 +1,7 @@
 # Label Loops
 
-Label loops in Kotlin allow you to control which loop is exited or continued when using `break` or `continue` statements within nested loops. By assigning a label (an identifier followed by `@`) to a loop, you can specify which loop the `break` or `continue` statement should affect. This is particularly useful when you want to exit or continue an outer loop from within an inner loop, providing more precise control over the flow of execution.
+As label loops em Kotlin permitem que você controle qual loop é encerrado ou continuado quando usar as instruções `break` ou `continue` dentro de laços aninhados. Ao atribuir uma label (um identificador seguido por `@`) a um loop, você pode especificar qual loop o comando `break` ou `continue` deve afetar. Isso é particularmente útil quando você deseja encerrar ou continuar um loop externo a partir de um loop interno, fornecendo mais controle preciso sobre o fluxo de execução.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Returns and jumps](https://kotlinlang.org/docs/returns.html)
+- [@official@Retornos e saltos](https://kotlinlang.org/docs/returns.html)

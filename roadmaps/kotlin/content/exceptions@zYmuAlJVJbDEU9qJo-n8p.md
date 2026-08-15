@@ -1,8 +1,8 @@
-# Exceptions
+# Exceções
 
-Exceptions in Kotlin are a way to handle errors that occur during the execution of a program. When an error happens, an exception object is created and "thrown." This disrupts the normal flow of the program. To handle these exceptions, you can use `try`, `catch`, and `finally` blocks. The `try` block contains the code that might throw an exception. If an exception occurs, the `catch` block that matches the exception type will execute. The `finally` block contains code that will always execute, regardless of whether an exception was thrown or caught, and is often used for cleanup operations.
+Exceções em Kotlin são uma maneira de lidar com erros que ocorrem durante a execução de um programa. Quando um erro acontece, um objeto de exceção é criado e "lançado". Isso interrompe o fluxo normal do programa. Para lidar com essas exceções, você pode usar blocos `try`, `catch` e `finally`. O bloco `try` contém o código que pode lançar uma exceção. Se uma exceção ocorrer, o bloco `catch` que corresponde ao tipo de exceção será executado. O bloco `finally` contém código que sempre será executado, independentemente de uma exceção ter sido lançada ou capturada, e é frequentemente usado para operações de limpeza.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Exceptions](https://kotlinlang.org/docs/exceptions.html)
-- [@video@Kotlin: Beyond the Try/Catch (Exception Handling)](https://www.youtube.com/watch?v=ThlFnnaxsuE)
+- [@official@Exceções](https://kotlinlang.org/docs/exceptions.html)
+- [@video@Kotlin: Além do Try/Catch (Manipulação de Exceções)](https://www.youtube.com/watch?v=ThlFnnaxsuE)

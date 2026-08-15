@@ -1,8 +1,8 @@
-# Data Classes
+# Classes de Dados
 
-Data classes in Kotlin are special classes designed to hold data. The compiler automatically generates useful methods like `equals()`, `hashCode()`, `toString()`, `componentN()` functions (for destructuring), and `copy()` for you. This reduces boilerplate code when you primarily need a class to store and manage data.
+As classes de dados em Kotlin são classes especiais projetadas para armazenar dados. O compilador gera automaticamente métodos úteis como `equals()`, `hashCode()`, `toString()`, funções `componentN()` (para desestruturação) e `copy()` por você. Isso reduz o código boilerplate quando você precisar principalmente de uma classe para armazenar e gerenciar dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Data classes](https://kotlinlang.org/docs/data-classes.html#data-classes.md)
-- [@video@Data classes - Kotlin Vocabulary](https://www.youtube.com/watch?v=PlywDf1dAnA)
+- [@official@Classes de Dados](https://kotlinlang.org/docs/data-classes.html#data-classes.md)
+- [@video@Classes de Dados - Vocabulário Kotlin](https://www.youtube.com/watch?v=PlywDf1dAnA)

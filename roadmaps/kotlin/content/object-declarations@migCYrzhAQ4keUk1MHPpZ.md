@@ -1,8 +1,8 @@
-# Object Declarations
+# Declarações de Objeto
 
-Object declarations in Kotlin provide a way to define a singleton object. This means you create a class and simultaneously declare a single instance of it. The object is initialized lazily when it's accessed for the first time. You can define properties, functions, and even inherit from classes and interfaces within an object declaration. They are useful for creating utility classes or managing shared resources where only one instance is needed.
+As declarações de objeto em Kotlin fornecem uma maneira de definir um objeto singleton. Isso significa que você cria uma classe e simultaneamente declara uma única instância dela. O objeto é inicializado perezosamente quando é acessado pela primeira vez. Você pode definir propriedades, funções e até mesmo herdar de classes e interfaces dentro de uma declaração de objeto. Eles são úteis para criar classes utilitárias ou gerenciar recursos compartilhados onde apenas uma instância é necessária.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Object declarations and expressions](https://kotlinlang.org/docs/object-declarations.html#object-declarations.md)
-- [@article@Kotlin Object Declarations and Expressions](https://www.programiz.com/kotlin-programming/object-singleton)
+- [@official@Declarações de objeto e expressões](https://kotlinlang.org/docs/object-declarations.html#object-declarations.md)
+- [@article@Declarando objetos em Kotlin](https://www.programiz.com/kotlin-programming/object-singleton)

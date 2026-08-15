@@ -1,8 +1,8 @@
-# I/O in Kotlin
+# Entrada/Saída em Kotlin
 
-Input/Output (I/O) in Kotlin refers to how a program interacts with the outside world. This involves reading data from sources like files, the keyboard, or network connections, and writing data to destinations such as files, the console, or network sockets. Kotlin leverages Java's extensive I/O libraries, providing classes and functions for handling various input and output operations. These operations allow programs to receive data, process it, and then present or store the results.
+A Entrada/Saída (I/O) em Kotlin refere-se à forma como um programa interage com o mundo exterior. Isso envolve ler dados de fontes como arquivos, teclado ou conexões de rede e escrever dados em destinos como arquivos, console ou soquetes de rede. Kotlin aproveita as extensas bibliotecas I/O do Java, fornecendo classes e funções para lidar com várias operações de entrada e saída. Essas operações permitem que os programas recebam dados, processem-os e apresentem ou armazenem os resultados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@kotlin.io](https://kotlinlang.org/api/core/kotlin-stdlib/kotlin.io/)
-- [@video@Working With Files In Kotlin - IO Essentials](https://www.youtube.com/watch?v=MSeI7XVzrvo)
+- [@oficial@kotlin.io](https://kotlinlang.org/api/core/kotlin-stdlib/kotlin.io/)
+- [@vídeo@Trabalhando com Arquivos em Kotlin - Essenciais de I/O](https://www.youtube.com/watch?v=MSeI7XVzrvo)

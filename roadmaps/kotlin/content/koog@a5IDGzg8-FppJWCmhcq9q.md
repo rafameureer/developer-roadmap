@@ -1,10 +1,10 @@
 # Koog
 
-Koog is a Kotlin library designed to simplify the development of AI applications. It provides tools and abstractions for tasks such as neural network creation, training, and inference. Koog aims to make AI development more accessible and efficient within the Kotlin ecosystem by offering a high-level API and leveraging Kotlin's features for concise and expressive code.
+O Koog é uma biblioteca Kotlin projetada para simplificar o desenvolvimento de aplicativos de inteligência artificial. Ele fornece ferramentas e abstrações para tarefas como a criação, treinamento e inferência de redes neurais. O Koog visa tornar o desenvolvimento de IA mais acessível e eficiente no ecossistema Kotlin oferecendo uma API de alto nível e aproveitando as características do Kotlin para código conciso e expressivo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Koog Overview](https://docs.koog.ai/)
+- [@official@Visão geral do Koog](https://docs.koog.ai/)
 - [@opensource@Koog](https://github.com/JetBrains/koog)
-- [@video@Kickstarting AI Agent Development in Kotlin With Koog](https://www.youtube.com/watch?v=vysVNg4IuUo)
-- [@video@Building AI Agents in Kotlin with Koog | Vadim Briliantov](https://www.youtube.com/watch?v=O8WQCrdza8E)
+- [@video@Começando com o desenvolvimento de agentes AI em Kotlin com o Koog](https://www.youtube.com/watch?v=vysVNg4IuUo)
+- [@video@Construindo agentes AI em Kotlin com o Koog | Vadim Briliantov](https://www.youtube.com/watch?v=O8WQCrdza8E)

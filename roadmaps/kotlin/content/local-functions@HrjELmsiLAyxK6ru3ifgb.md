@@ -1,7 +1,7 @@
-# Local Functions
+# Funções Locais em Kotlin
 
-Local functions in Kotlin are functions defined inside another function. They provide a way to organize and reuse code within a specific function's scope. This means a local function can only be called from within the function it's defined in, and it has access to the outer function's variables. They are useful for breaking down complex functions into smaller, more manageable parts, improving readability and maintainability.
+As funções locais em Kotlin são funções definidas dentro de outra função. Elas fornecem uma maneira de organizar e reutilizar código dentro do escopo da função específica. Isso significa que uma função local só pode ser chamada dentro da função na qual ela é definida, e ela tem acesso às variáveis da função externa. Eles são úteis para dividir funções complexas em partes menores e mais gerenciáveis, melhorando a legibilidade e manutenção.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Function scope](https://kotlinlang.org/docs/functions.html#function-scope)
+- [@official@Escopo de Função](https://kotlinlang.org/docs/functions.html#function-scope)

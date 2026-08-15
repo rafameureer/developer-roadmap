@@ -1,8 +1,8 @@
-# Maps in Kotlin
+# Maps em Kotlin
 
-Maps are data structures that store collections of key-value pairs, where each key is unique. They allow you to efficiently retrieve a value based on its associated key. Think of them like dictionaries where you look up a word (the key) to find its definition (the value). Kotlin provides built-in support for maps, offering both mutable and immutable versions.
+Os maps são estruturas de dados que armazenam coleções de pares chave-valor, onde cada chave é única. Eles permitem recuperar eficientemente um valor com base na sua chave associada. Imagine-os como dicionários onde você procura uma palavra (a chave) para encontrar sua definição (o valor). Kotlin oferece suporte interno para maps, oferecendo versões mutáveis e imutáveis.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Map](https://kotlinlang.org/api/core/kotlin-stdlib/kotlin.collections/-map/)
-- [@article@Map Collection | Android](https://developer.android.com/codelabs/basic-android-kotlin-collections#4)
+- [@article@Coleção de Map | Android](https://developer.android.com/codelabs/basic-android-kotlin-collections#4)

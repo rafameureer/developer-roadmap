@@ -1,9 +1,9 @@
-# Inheritance in Kotlin
+# Herança em Kotlin
 
-Inheritance in Kotlin allows you to create new classes (child classes or subclasses) based on existing classes (parent classes or superclasses). The child class inherits properties and functions from the parent class, and can also add its own unique properties and functions or override the parent's behavior. This promotes code reuse and establishes a hierarchical relationship between classes, making your code more organized and maintainable.
+A herança em Kotlin permite criar novas classes (classes filhas ou subclasses) com base em classes existentes (classes pai ou superclasse). A classe filha herda propriedades e funções da classe pai e também pode adicionar suas próprias propriedades e funções únicas ou substituir o comportamento da classe pai. Isso promove a reutilização do código e estabelece uma relação hierárquica entre as classes, tornando seu código mais organizado e manterável.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Inheritance](https://kotlinlang.org/docs/inheritance.html)
+- [@official@Herança](https://kotlinlang.org/docs/inheritance.html)
 - [@article@Implement a relationship between classes](https://developer.android.com/codelabs/basic-android-kotlin-compose-classes-and-objects#6)
 - [@video@Kotlin Newbie to Pro - INHERITANCE](https://www.youtube.com/watch?v=Xk3IPNHbLVk)

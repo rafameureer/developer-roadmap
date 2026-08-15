@@ -1,9 +1,9 @@
 # Kotlin/Java
 
-Kotlin/Java allows Kotlin code to seamlessly interact with Java code and libraries. This interoperability means you can use existing Java code in your Kotlin projects and vice versa. It leverages the Java Virtual Machine (JVM) to run both Kotlin and Java code, enabling developers to gradually migrate Java projects to Kotlin or use Kotlin for new features in existing Java applications.
+O Kotlin/Java permite que o código Kotlin interaja de forma suave com o código Java e bibliotecas. Essa interoperabilidade significa que você pode usar código Java existente em seus projetos Kotlin e vice-versa. Ele usa a Máquina Virtual Java (JVM) para executar tanto código Kotlin quanto Java, permitindo aos desenvolvedores migrarem gradualmente projetos Java para Kotlin ou usar Kotlin para novas funcionalidades em aplicativos Java existentes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Get started with Kotlin/JVM](https://kotlinlang.org/docs/jvm-get-started.html)
-- [@official@Mixing Java and Kotlin in one project – tutorial](https://kotlinlang.org/docs/mixing-java-kotlin-intellij.html)
-- [@video@Kotlin For Java Developers Complete Course](https://www.youtube.com/watch?v=dMyRywABp_c)
+- [@official@Comece com Kotlin/JVM](https://kotlinlang.org/docs/jvm-get-started.html)
+- [@official@Misturando Java e Kotlin em um projeto – tutorial](https://kotlinlang.org/docs/mixing-java-kotlin-intellij.html)
+- [@video@Kotlin Para Desenvolvedores de Java Completo Curso](https://www.youtube.com/watch?v=dMyRywABp_c)

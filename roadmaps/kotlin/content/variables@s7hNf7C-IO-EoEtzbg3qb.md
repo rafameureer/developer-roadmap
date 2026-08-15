@@ -1,7 +1,7 @@
-# Variables
+# Variáveis
 
-Variables are named storage locations in a computer's memory that hold data. Think of them as containers that can store different types of information, like numbers, text, or boolean values (true/false). You give each variable a name so you can easily refer to the data it holds and modify it as needed throughout your program.
+Variáveis são locais de armazenamento nomeados na memória de um computador que armazenam dados. Pense neles como recipientes que podem armazenar diferentes tipos de informações, como números, texto ou valores booleanos (verdadeiro/falso). Você dá a cada variável um nome para poder facilmente se referir aos dados que ela contém e modificá-los conforme necessário ao longo do seu programa.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Variables](https://kotlinlang.org/docs/basic-syntax.html#variables)
+- [@official@Variáveis](https://kotlinlang.org/docs/basic-syntax.html#variables)

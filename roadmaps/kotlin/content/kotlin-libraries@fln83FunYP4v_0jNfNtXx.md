@@ -1,9 +1,9 @@
-# Kotlin Libraries
+# Bibliotecas Kotlin
 
-Kotlin benefits from a rich ecosystem of libraries, both those specifically designed for Kotlin and those written in Java. This interoperability allows Kotlin developers to seamlessly use existing Java libraries. Additionally, Kotlin offers its own set of libraries, often referred to as KLibs, which provide functionalities ranging from standard data structures and algorithms to more specialized tools for tasks like serialization, coroutines, and testing.
+Kotlin beneficia-se de um rico ecossistema de bibliotecas, tanto aquelas especificamente projetadas para Kotlin quanto as escritas em Java. Esta interoperabilidade permite que desenvolvedores Kotlin usem facilmente bibliotecas Java existentes. Além disso, Kotlin oferece seu próprio conjunto de bibliotecas, às vezes referidas como KLibs, que fornecem funcionalidades variando desde estruturas de dados e algoritmos padrão até ferramentas mais especializadas para tarefas como serialização, coroutines e teste.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Kotlin libraries](https://kotlinlang.org/docs/kotlin-tour-intermediate-libraries-and-apis.html#kotlin-libraries)
+- [@official@Bibliotecas Kotlin](https://kotlinlang.org/docs/kotlin-tour-intermediate-libraries-and-apis.html#kotlin-libraries)
 - [@official@Klibs](https://klibs.io/)
-- [@official@Calling Java from Kotlin](https://kotlinlang.org/docs/java-interop.html#how-to-enable-java-synthetic-property-references)
+- [@official@Chamando Java a partir do Kotlin](https://kotlinlang.org/docs/java-interop.html#how-to-enable-java-synthetic-property-references)

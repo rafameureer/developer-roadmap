@@ -1,3 +1,3 @@
-# Documentation
+# Documentação
 
-Kotlin uses KDoc, a documentation generation tool, to create API documentation from comments in your code. These comments, similar to Javadoc, are placed above declarations (classes, functions, properties, etc.) and use a specific syntax to describe the element's purpose, parameters, return values, and other relevant information. Tools like Dokka then process these KDoc comments to generate HTML or other formats of documentation, making your code easier to understand and use by other developers.
+Kotlin usa KDoc, uma ferramenta de geração de documentação, para criar a documentação da API a partir dos comentários em seu código. Esses comentários, semelhantes ao Javadoc, são colocados acima das declarações (classes, funções, propriedades, etc.) e usam uma sintaxe específica para descrever o propósito do elemento, os parâmetros, os valores de retorno e outras informações relevantes. Ferramentas como Dokka processam esses comentários KDoc para gerar HTML ou outros formatos de documentação, tornando seu código mais fácil de entender e usar por outros desenvolvedores.

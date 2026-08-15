@@ -1,7 +1,7 @@
-# Characters
+# Caracteres
 
-Characters in Kotlin represent single symbols, like letters, numbers, or punctuation marks. They are denoted by the `Char` type and are enclosed in single quotes (e.g., `'A'`, `'7'`, `'$'`). You can use characters to store and manipulate individual text elements within your programs. Kotlin supports Unicode characters, allowing you to represent a wide range of symbols from different languages.
+Caracteres no Kotlin representam símbolos individuais, como letras, números ou sinais de pontuação. Eles são denotados pelo tipo `Char` e estão cercados por aspas simples (ex: `'A'`, `'7'`, `'$'`). Você pode usar caracteres para armazenar e manipular elementos de texto individuais em seus programas. O Kotlin suporta caracteres Unicode, permitindo que você represente uma ampla gama de símbolos de diferentes idiomas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Characters](https://kotlinlang.org/docs/characters.html)
+- [@official@Caracteres](https://kotlinlang.org/docs/characters.html)

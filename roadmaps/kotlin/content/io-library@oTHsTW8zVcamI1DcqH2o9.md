@@ -1,10 +1,10 @@
-# I/O Library
+# Biblioteca de Entrada/Saída
 
-Kotlin leverages both its own `kotlin.io` package and the standard Java `java.io` package for input and output operations. `kotlin.io` provides a set of extension functions and utilities that simplify common I/O tasks, offering a more Kotlin-idiomatic way to interact with files, streams, and the console. While `kotlin.io` offers convenient abstractions, `java.io` remains fully accessible and usable within Kotlin code, providing a broader range of classes and functionalities for more complex I/O scenarios.
+Kotlin aproveita tanto seu próprio pacote `kotlin.io` quanto o pacote padrão Java `java.io` para operações de entrada e saída. O `kotlin.io` fornece um conjunto de funções de extensão e utilitários que simplificam tarefas comuns de I/O, oferecendo uma maneira mais idiomática do Kotlin de interagir com arquivos, streams e a consola. Embora o `kotlin.io` oferte abstrações convenientes, o `java.io` permanece totalmente acessível e utilizável dentro do código Kotlin, fornecendo um intervalo maior de classes e funcionalidades para cenários mais complexos de I/O.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@kotlin.io](https://kotlinlang.org/api/core/kotlin-stdlib/kotlin.io/)
 - [@official@java.io](https://docs.oracle.com/javase/tutorial/essential/io/)
 - [@opensource@kotlinx.io](https://github.com/Kotlin/kotlinx-io)
-- [@video@Working With Files In Kotlin - IO Essentials](https://www.youtube.com/watch?v=MSeI7XVzrvo)
+- [@video@Trabalhando com Arquivos em Kotlin - Essências do I/O](https://www.youtube.com/watch?v=MSeI7XVzrvo)

@@ -1,8 +1,8 @@
-# Main Function
+# Função Main
 
-The `main` function serves as the entry point for a Kotlin program. When you execute a Kotlin application, the code within the `main` function is the first to be run. It's where the program's execution begins, and it typically orchestrates the overall flow and logic of the application.
+A função `main` atua como o ponto de entrada para um programa Kotlin. Quando você executa uma aplicação Kotlin, o código dentro da função `main` é o primeiro a ser executado. É onde a execução do programa começa e geralmente orquestra o fluxo geral e a lógica da aplicação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Program Entry point](https://kotlinlang.org/docs/basic-syntax.html#program-entry-point)
-- [@article@Kotlin Syntax](https://www.w3schools.com/kotlin/kotlin_syntax.php)
+- [@official@Ponto de entrada do Programa](https://kotlinlang.org/docs/basic-syntax.html#program-entry-point)
+- [@article@Sintaxe em Kotlin](https://www.w3schools.com/kotlin/kotlin_syntax.php)

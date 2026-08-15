@@ -1,8 +1,8 @@
-# Coroutines Behavior
+# Comportamento de Coroutines
 
-Launching a coroutine from a `CoroutineScope` creates a context that governs its execution. Builder functions like `.launch()` and `.async()` automatically create a set of elements that define how the coroutine behaves, including the `Job` interface, which tracks the coroutine's lifecycle and enables structured concurrency; `CoroutineDispatcher`, which controls where the coroutine runs; and `CoroutineExceptionHandler`, which handles uncaught exceptions.
+Iniciar uma coroutine a partir de um `CoroutineScope` cria um contexto que governa sua execução. Funções construtoras como `.launch()` e `.async()` criam automaticamente um conjunto de elementos que definem como a coroutine se comporta, incluindo a interface `Job`, que rastreia o ciclo de vida da coroutine e habilita a concorrência estruturada; `CoroutineDispatcher`, que controla onde a coroutine será executada; e `CoroutineExceptionHandler`, que lida com exceções não capturadas.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@official@Coroutine concepts](https://kotlinlang.org/docs/coroutines-basics.html)
-- [@video@Coroutine Contexts - Kotlin Coroutines](https://www.youtube.com/watch?v=71NrkkRNXG4)
+- [@oficial@Conceitos de Coroutine](https://kotlinlang.org/docs/coroutines-basics.html)
+- [@vídeo@Contextos de Coroutine - Kotlin Coroutines](https://www.youtube.com/watch?v=71NrkkRNXG4)

@@ -1,9 +1,9 @@
-# Property Delegates
+# Delegação de Propriedades
 
-Property delegation in Kotlin lets you reuse the logic for getting and setting a property. Instead of putting the getter and setter logic directly inside a class, you create a separate class (the delegate) that handles this logic. Then, you "delegate" the property's access to this class. This helps avoid code duplication and makes your code more maintainable by centralizing property behavior.
+A delegação de propriedades em Kotlin permite que você reutilize a lógica para obter e definir uma propriedade. Em vez de colocar a lógica do getter e setter diretamente dentro de uma classe, você cria uma classe separada (o delegado) que lida com essa lógica. Em seguida, "delega" o acesso à propriedade para esta classe. Isso ajuda a evitar a duplicação de código e torna seu código mais manterável centralizando o comportamento da propriedade.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Delegated properties](https://kotlinlang.org/docs/delegated-properties.html)
-- [@article@Define property delegates](https://developer.android.com/codelabs/basic-android-kotlin-compose-classes-and-objects#8)
-- [@video@Full Guide to Delegation in Kotlin - Android Studio Tutorial](https://www.youtube.com/watch?v=MfJB-JhRAoQ&t=185s)
+- [@oficial@Propriedades delegadas](https://kotlinlang.org/docs/delegated-properties.html)
+- [@artigo@Definir delegadores de propriedade](https://developer.android.com/codelabs/basic-android-kotlin-compose-classes-and-objects#8)
+- [@vídeo@Guia completo sobre a delegação em Kotlin - Tutorial do Android Studio](https://www.youtube.com/watch?v=MfJB-JhRAoQ&t=185s)

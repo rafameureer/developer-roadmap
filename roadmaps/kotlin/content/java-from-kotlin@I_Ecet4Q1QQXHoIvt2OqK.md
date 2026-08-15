@@ -1,7 +1,7 @@
-# Java Interoperability from Kotlin
+# Interoperabilidade com Java a partir de Kotlin
 
-Kotlin is designed to be fully interoperable with Java, meaning you can seamlessly use existing Java code within your Kotlin projects. This allows you to leverage existing Java libraries, frameworks, and codebases without needing to rewrite them in Kotlin. You can call Java code directly from Kotlin, accessing classes, methods, and fields as if they were written in Kotlin.
+Kotlin foi projetado para ser totalmente interoperável com Java, o que significa que você pode usar facilmente código Java existente em seus projetos Kotlin. Isso permite que você aproveite bibliotecas, frameworks e códigos-fonte Java existentes sem precisar reescrevê-los em Kotlin. Você pode chamar diretamente código Java a partir de Kotlin, acessando classes, métodos e campos como se tivessem sido escritos em Kotlin.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Calling Java from Kotlin](https://kotlinlang.org/docs/java-interop.html)
+- [@oficial@Chamando Java a partir de Kotlin](https://kotlinlang.org/docs/java-interop.html)

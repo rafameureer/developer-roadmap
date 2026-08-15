@@ -1,8 +1,8 @@
-# Safe Casts
+# Convesões Seguras
 
-Safe casts in Kotlin provide a way to convert a variable of one type to another, but unlike regular casts, they handle the possibility of the cast failing gracefully. Instead of throwing a `ClassCastException` if the cast is not possible, a safe cast returns `null`. This allows you to safely attempt a type conversion and handle the case where the object is not of the expected type without crashing your program.
+As conversões seguras em Kotlin fornecem uma maneira de converter uma variável de um tipo para outro, mas, ao contrário das conversões regulares, elas lidam com a possibilidade da conversão falhar de forma graciosamente. Em vez de lançar uma `ClassCastException` se a conversão não for possível, uma conversão segura retorna `null`. Isso permite que você tente de maneira segura uma conversão de tipo e trate o caso em que o objeto não é do tipo esperado sem quebrar seu programa.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Safe casts](https://kotlinlang.org/docs/null-safety.html#safe-casts)
-- [@video@Kotlin Safe Casting with 'as?'](https://www.youtube.com/watch?v=3ZvJb_f9jrU)
+- [@oficial@Conversões Seguras](https://kotlinlang.org/docs/null-safety.html#safe-casts)
+- [@vídeo@Conversão de Tipos Segura em Kotlin com 'as?'](https://www.youtube.com/watch?v=3ZvJb_f9jrU)

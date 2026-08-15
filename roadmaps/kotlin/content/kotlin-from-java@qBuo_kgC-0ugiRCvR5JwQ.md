@@ -1,7 +1,7 @@
-# Kotlin from Java
+# Kotlin a partir do Java
 
-Kotlin from Java refers to the process of using Kotlin code within existing Java projects. It allows developers to gradually introduce Kotlin into their codebase without requiring a complete rewrite. This interoperability enables leveraging the benefits of Kotlin, such as its concise syntax and null safety features, while still maintaining compatibility with existing Java libraries and frameworks.
+Kotlin a partir do Java refere-se ao processo de usar código Kotlin em projetos Java existentes. Permite aos desenvolvedores introduzir gradualmente o Kotlin em seu códigobase sem exigir uma reescrita completa. Esta interoperabilidade permite aproveitar os benefícios do Kotlin, como sua sintaxe concisa e recursos de segurança nula, enquanto ainda mantém a compatibilidade com bibliotecas Java existentes e frameworks.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Calling Kotlin from Java](https://kotlinlang.org/docs/java-to-kotlin-interop.html)
+- [@official@Chamando Kotlin a partir do Java](https://kotlinlang.org/docs/java-to-kotlin-interop.html)

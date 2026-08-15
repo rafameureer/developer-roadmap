@@ -1,8 +1,8 @@
 # Kotlin Scripting
 
-Kotlin Scripting allows you to use Kotlin as a scripting language. This means you can write Kotlin code that can be executed directly, without the need for a full-fledged application setup. It's useful for automating tasks, creating build scripts, or embedding custom logic into applications.
+O Kotlin Scripting permite usar Kotlin como um idioma de script. Isso significa que você pode escrever código Kotlin que pode ser executado diretamente, sem a necessidade de uma configuração de aplicativo completa. É útil para automatizar tarefas, criar scripts de construção ou incorporar lógica personalizada em aplicativos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Get started with Kotlin custom scripting – tutorial](https://kotlinlang.org/docs/custom-script-deps-tutorial.html)
-- [@article@State of Kotlin Scripting 2024](https://blog.jetbrains.com/kotlin/2024/11/state-of-kotlin-scripting-2024/)
+- [@official@Comece com o Kotlin custom scripting – tutorial](https://kotlinlang.org/docs/custom-script-deps-tutorial.html)
+- [@article@Estado do Kotlin Scripting 2024](https://blog.jetbrains.com/kotlin/2024/11/state-of-kotlin-scripting-2024/)

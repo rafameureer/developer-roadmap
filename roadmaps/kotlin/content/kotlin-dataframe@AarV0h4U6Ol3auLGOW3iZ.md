@@ -1,9 +1,9 @@
 # Kotlin DataFrame
 
-Kotlin DataFrame is a library designed for in-memory data manipulation and analysis. It provides a tabular data structure, similar to data frames in R or Python's Pandas, allowing you to organize data into columns of different types. This library offers functionalities for filtering, transforming, aggregating, and joining data, making it easier to perform complex data analysis tasks directly within Kotlin applications.
+O Kotlin DataFrame é uma biblioteca projetada para manipulação e análise de dados em memória. Ele fornece uma estrutura de dados tabular, semelhante a data frames no R ou Pandas do Python, permitindo organizar os dados em colunas de diferentes tipos. Esta biblioteca oferece funcionalidades para filtrar, transformar, agrupar e juntar dados, tornando mais fácil realizar tarefas complexas de análise de dados diretamente dentro das aplicações Kotlin.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Kotlin DataFrame](https://kotlin.github.io/dataframe/home.html)
 - [@opensource@DataFrame](https://github.com/Kotlin/dataframe)
-- [@video@Kotlin DataFrame Overview | Data Science with Kotlin](https://www.youtube.com/watch?v=qGou8F2asNw)
+- [@video@Visão geral do Kotlin DataFrame | Ciência de Dados com Kotlin](https://www.youtube.com/watch?v=qGou8F2asNw)

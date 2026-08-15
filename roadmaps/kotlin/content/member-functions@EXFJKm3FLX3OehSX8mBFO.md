@@ -1,7 +1,7 @@
-# Member Functions
+# Funções Membro
 
-Member functions, also known as methods, are functions that are defined inside a class. They operate on the data of that class and can access its properties. You can think of them as actions that an object of that class can perform. They are declared using the `fun` keyword within the class body, just like regular functions, but they are associated with a specific class. Member functions are called with dot notation: `Sample().foo() // creates instance of class Sample and calls foo`
+Funções membro, também conhecidas como métodos, são funções definidas dentro de uma classe. Elas operam nos dados daquela classe e podem acessar suas propriedades. Você pode pensar nelas como ações que um objeto dessa classe pode realizar. Eles são declarados usando a palavra-chave `fun` no corpo da classe, assim como funções regulares, mas estão associados a uma classe específica. Funções membro são chamadas com notação de ponto: `Sample().foo() // cria uma instância da classe Sample e chama foo`
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Member functions](https://kotlinlang.org/docs/functions.html#member-functions)
+- [@oficial@Funções Membro](https://kotlinlang.org/docs/functions.html#member-functions)

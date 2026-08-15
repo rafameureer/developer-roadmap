@@ -1,7 +1,7 @@
 # Strings
 
-Strings in Kotlin represent sequences of characters. They are used to store and manipulate text. You can create strings using double quotes (") or triple quotes ("""). Strings are immutable, meaning their value cannot be changed after they are created. Kotlin provides various built-in functions and properties to work with strings, such as concatenation, substring extraction, and searching.
+As strings em Kotlin representam sequências de caracteres. Elas são usadas para armazenar e manipular texto. Você pode criar strings usando aspas duplas (") ou aspas triplas ("""). As strings são imutáveis, o que significa que seu valor não pode ser alterado após sua criação. Kotlin fornece várias funções e propriedades embutidas para trabalhar com strings, como concatenação, extração de subcadeias e busca.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Strings](https://kotlinlang.org/docs/strings.html)
+- [@oficial@Strings](https://kotlinlang.org/docs/strings.html)

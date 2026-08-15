@@ -1,10 +1,10 @@
-# Standard Functions
+# Funções Padrão
 
-Kotlin functions are declared using the `fun` keyword. `fun double(x: Int): Int { return 2 * x }` To call a functions, just: `val result = double(2)`
+As funções em Kotlin são declaradas usando a palavra-chave `fun`. `fun dobrar(x: Int): Int { return 2 * x }` Para chamar uma função, basta: `val resultado = dobrar(2)`
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Functions](https://kotlinlang.org/docs/functions.html)
-- [@article@Kotlin Functions](https://www.w3schools.com/kotlin/kotlin_functions.php)
-- [@video@Kotlin Functions in 20 minutes](https://www.youtube.com/watch?v=GlUnpf7MaO8)
-- [@video@Basics of Functions](https://www.youtube.com/watch?v=0Lo3DIAL2y8)
+- [@official@Funções](https://kotlinlang.org/docs/functions.html)
+- [@article@Funções em Kotlin](https://www.w3schools.com/kotlin/kotlin_functions.php)
+- [@video@Funções em Kotlin em 20 minutos](https://www.youtube.com/watch?v=GlUnpf7MaO8)
+- [@video@Básicos de Funções](https://www.youtube.com/watch?v=0Lo3DIAL2y8)

@@ -1,9 +1,9 @@
-# Higher-Order Functions
+# Funções de Primeira Classe
 
-Higher-order functions in Kotlin are functions that can take other functions as arguments, return functions, or both. This means you can pass a function into another function, treat functions like any other data type (like integers or strings), and even create functions that generate and return new functions. This allows for more flexible and reusable code by abstracting behavior and logic.
+As funções de primeira classe em Kotlin são funções que podem receber outras funções como argumentos, retornar funções ou ambos. Isso significa que você pode passar uma função para outra função, tratar funções como qualquer outro tipo de dado (como inteiros ou strings), e até mesmo criar funções que geram e retornam novas funções. Isso permite um código mais flexível e reutilizável abstraindo comportamento e lógica.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Higher-order functions](https://kotlinlang.org/docs/lambdas.html#higher-order-functions)
-- [@article@Higher-order functions with collections](https://developer.android.com/codelabs/basic-android-kotlin-compose-higher-order-functions#0)
-- [@article@Higher-Order Functions in Kotlin](https://medium.com/@anandgaur2207/higher-order-functions-in-kotlin-b35fc6b23f8e)
+- [@oficial@Funções de Primeira Classe](https://kotlinlang.org/docs/lambdas.html#higher-order-functions)
+- [@artigo@Funções de Primeira Classe com Coleções](https://developer.android.com/codelabs/basic-android-kotlin-compose-higher-order-functions#0)
+- [@artigo@Funções de Primeira Classe em Kotlin](https://medium.com/@anandgaur2207/higher-order-functions-in-kotlin-b35fc6b23f8e)

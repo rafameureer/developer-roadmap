@@ -1,8 +1,8 @@
-# Inline Class
+# Classe Inline em Kotlin
 
-An inline class in Kotlin is a special type of class that holds only one property. At runtime, instances of inline classes are represented as the underlying value, avoiding the overhead of object allocation. This allows you to create type-safe wrappers around primitive types or other values without incurring the performance cost of creating a new object.
+Uma classe inline em Kotlin é um tipo especial de classe que armazena apenas uma propriedade. Em tempo de execução, as instâncias de classes inline são representadas como o valor subjacente, evitando a sobrecarga de alocação de objetos. Isso permite criar envoltórios tipados seguros em torno de tipos primitivos ou outros valores sem incurrir no custo de desempenho de criação de um novo objeto.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Inline value classes](https://kotlinlang.org/docs/inline-classes.html#inline-classes.md)
-- [@video@Inline functions - Kotlin Vocabulary](https://www.youtube.com/watch?v=wAQCs8-a6mg&list=PLWz5rJ2EKKc_T0fSZc9obnmnWcjvmJdw_)
+- [@official@Classes de valor inline](https://kotlinlang.org/docs/inline-classes.html#inline-classes.md)
+- [@video@Funções inline - Vocabulário Kotlin](https://www.youtube.com/watch?v=wAQCs8-a6mg&list=PLWz5rJ2EKKc_T0fSZc9obnmnWcjvmJdw_)

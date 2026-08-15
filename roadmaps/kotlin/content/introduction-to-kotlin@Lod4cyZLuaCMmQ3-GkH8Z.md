@@ -1,11 +1,11 @@
-# Introduction to Kotlin
+# Introdução ao Kotlin
 
-Kotlin is an open-source statically typed programming language that targets the JVM, Android, JavaScript, Wasm, and Native. Kotlin is an open-source, statically-typed programming language that supports both object-oriented and functional programming. It's designed to be concise, safe, and interoperable with Java, making it easy to adopt for existing Java projects. Kotlin can be used for any kind of development, be it server-side, client-side web, Android, or multiplatform library.
+Kotlin é um idioma de programação estáticamente tipado de código aberto que almeja a JVM, Android, JavaScript, Wasm e Native. Kotlin é um idioma de programação estáticamente tipado de código aberto que suporta tanto programação orientada a objetos quanto funcional. Foi projetado para ser conciso, seguro e interopérvel com Java, tornando-o fácil de adotar em projetos Java existentes. Kotlin pode ser usado para qualquer tipo de desenvolvimento, seja servidor-side, web client-side, Android ou bibliotecas multiplataforma.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course)
-- [@official@Kotlin Docs](https://kotlinlang.org/docs/home.html)
-- [@official@Teach Computer Science with Kotlin](https://kotlinlang.org/education/)
-- [@article@Kotlin overview](https://developer.android.com/kotlin/overview)
-- [@video@Full 2025 Kotlin Crash Course For Beginners](https://www.youtube.com/watch?v=dzUc9vrsldM)
+- [@course@Básico do Android com Compose](https://developer.android.com/courses/android-basics-compose/course)
+- [@official@Documentação Kotlin](https://kotlinlang.org/docs/home.html)
+- [@official@Ensine Ciência da Computação com Kotlin](https://kotlinlang.org/education/)
+- [@article@Visão geral do Kotlin](https://developer.android.com/kotlin/overview)
+- [@video@Curso Completo de Kotlin para Iniciantes em 2025](https://www.youtube.com/watch?v=dzUc9vrsldM)

@@ -1,7 +1,7 @@
-# Opt-in Requirements
+# Requisitos de Opt-in em Kotlin
 
-Opt-in requirements in Kotlin provide a mechanism to enforce that certain APIs or code constructs are used only when the developer explicitly acknowledges and understands the associated risks or special conditions. This is achieved by marking APIs with annotations that require explicit opt-in, forcing users to acknowledge the usage by adding an `@OptIn` annotation or compiler argument. This helps prevent accidental misuse of potentially unstable, experimental, or otherwise restricted features.
+Os requisitos de opt-in em Kotlin oferecem um mecanismo para garantir que certas APIs ou construções de código sejam usadas apenas quando o desenvolvedor explicitamente reconhece e entende os riscos associados ou as condições especiais. Isso é alcançado marcando as APIs com anotações que exigem um opt-in explícito, forçando os usuários a reconhecer o uso adicionando uma anotação `@OptIn` ou argumento do compilador. Isso ajuda a prevenir o uso acidental de recursos potencialmente instáveis, experimentais ou restritos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Opt in to APIs](https://kotlinlang.org/docs/kotlin-tour-intermediate-libraries-and-apis.html#opt-in-to-apis)
+- [@official@Opt-in em APIs](https://kotlinlang.org/docs/kotlin-tour-intermediate-libraries-and-apis.html#opt-in-to-apis)

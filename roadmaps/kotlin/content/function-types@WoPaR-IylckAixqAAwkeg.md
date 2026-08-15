@@ -1,9 +1,9 @@
-# Function Types
+# Tipos de Função
 
-In Kotlin, functions can be treated as data. A function type represents a specific kind of function, defined by the types of its parameters and its return type. You can assign a function to a variable, pass it as an argument to another function, or return it from a function. This allows for more flexible and dynamic code, enabling you to write higher-order functions and implement functional programming paradigms.
+Em Kotlin, as funções podem ser tratadas como dados. Um tipo de função representa um determinado tipo de função, definido pelos tipos dos seus parâmetros e seu tipo de retorno. Você pode atribuir uma função a uma variável, passá-la como argumento para outra função ou retornar-a de uma função. Isso permite código mais flexível e dinâmico, permitindo que você escreva funções de ordem superior e implemente paradigmas de programação funcional.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Function types](https://kotlinlang.org/docs/lambdas.html#function-types)
-- [@article@Use functions as a data type](https://developer.android.com/codelabs/basic-android-kotlin-compose-function-types-and-lambda#3)
-- [@article@Function types](https://kt.academy/article/fk-function-types)
+- [@official@Tipos de Função](https://kotlinlang.org/docs/lambdas.html#function-types)
+- [@article@Usar funções como um tipo de dados](https://developer.android.com/codelabs/basic-android-kotlin-compose-function-types-and-lambda#3)
+- [@article@Tipos de Função](https://kt.academy/article/fk-function-types)

@@ -1,10 +1,10 @@
 # if
 
-To use `if` in Kotlin, add the condition to check within parentheses `()` and the action to take if the result is true within curly braces `{}`. You can use `else` and `else if` for additional branches and checks.
+Para usar `if` em Kotlin, adicione a condição a ser verificada dentro dos parênteses `()` e a ação a ser tomada se o resultado for verdadeiro dentro das chaves `{}`. Você pode usar `else` e `else if` para ramificações adicionais e verificações.
 
-Also, you can also write `if` as an expression, which lets you assign its returned value directly to a variable. In this form, an `else` branch is required. The `if` expression serves the same purpose as the ternary operator (`condition ? then : else`) found in other languages.
+Além disso, você também pode escrever `if` como uma expressão, o que permite atribuir seu valor retornado diretamente a uma variável. Nessa forma, um ramo `else` é obrigatório. A expressão `if` serve o mesmo propósito do operador ternário (`condition ? then : else`) encontrado em outras linguagens.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@https://kotlinlang.org/docs/control-flow.html#if-expression](https://developer.android.com/codelabs/basic-android-kotlin-compose-conditionals#1)
 - [@article@Use if/else statements to express conditions](https://developer.android.com/codelabs/basic-android-kotlin-compose-conditionals#1)

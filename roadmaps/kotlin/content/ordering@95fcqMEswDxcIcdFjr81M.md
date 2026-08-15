@@ -1,8 +1,8 @@
-# Ordering in Kotlin Collections
+# Ordenação em Coleções do Kotlin
 
-Ordering in Kotlin collections involves arranging the elements within a collection (like lists or sets) based on a specific criterion. This can be done in ascending or descending order, either using the natural ordering of the elements themselves (if they are comparable) or by providing a custom comparison function that defines how the elements should be compared. Kotlin provides a rich set of functions to sort and order collections in various ways, making it easy to manipulate data based on specific requirements.
+A ordenação em coleções do Kotlin envolve organizar os elementos dentro de uma coleção (como listas ou conjuntos) com base em um critério específico. Isso pode ser feito em ordem crescente ou decrescente, usando a ordenação natural dos próprios elementos (se eles forem comparáveis) ou fornecendo uma função de comparação personalizada que defina como os elementos devem ser comparados. O Kotlin oferece um rico conjunto de funções para classificar e ordenar coleções de várias maneiras, tornando fácil manipular dados com base em requisitos específicos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Ordering](https://kotlinlang.org/docs/collection-ordering.html)
-- [@video@Collection Operations Finale | Ordering | sorted | sortedDescenting](https://www.youtube.com/watch?v=EDxJvHMtSJU)
+- [@official@Ordenação](https://kotlinlang.org/docs/collection-ordering.html)
+- [@video@Operações de Coleção Final | Ordenação | sorted | sortedDescending](https://www.youtube.com/watch?v=EDxJvHMtSJU)

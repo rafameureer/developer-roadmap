@@ -1,8 +1,8 @@
-# Kotlin For Loop
+# Laço For em Kotlin
 
-The `for` loop in Kotlin is used to iterate over a range, collection, or any other iterable object. It executes a block of code for each element in the sequence. You can use it to go through numbers in a specific range, items in a list, or characters in a string, performing the same action on each one. The `for` loop simplifies repetitive tasks by automatically handling the iteration process.
+O `for` loop em Kotlin é usado para iterar sobre um intervalo, coleção ou qualquer outro objeto iterável. Ele executa um bloco de código para cada elemento na sequência. Você pode usá-lo para percorrer números em um intervalo específico, itens em uma lista ou caracteres em uma string, realizando a mesma ação em cada um. O `for` loop simplifica tarefas repetitivas ao lidar automaticamente com o processo de iteração.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@For Loops](https://kotlinlang.org/docs/control-flow.html#for-loops)
-- [@video@Control Flow | for loop | in, rangeTo, downTo, step, until](https://www.youtube.com/watch?v=ghOI_etcjSk)
+- [@official@Laços For](https://kotlinlang.org/docs/control-flow.html#for-loops)
+- [@video@Controle de fluxo | Laço For | in, rangeTo, downTo, step, until](https://www.youtube.com/watch?v=ghOI_etcjSk)

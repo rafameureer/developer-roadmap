@@ -1,8 +1,8 @@
-# Android Jetpack
+# Jetpack do Android
 
-Android Jetpack is a suite of libraries, tools, and architectural guidance designed to help developers build robust, testable, and maintainable Android applications more easily. It addresses common Android development challenges by providing pre-built components for tasks like managing UI, data persistence, background processing, and navigation, allowing developers to focus on writing unique application logic. These components are designed to work together seamlessly and are backward-compatible, ensuring apps work across a wide range of Android versions.
+Jetpack é uma suíte de bibliotecas, ferramentas e orientações arquiteturais projetadas para ajudar os desenvolvedores a construir aplicativos Android robustos, testáveis e manter mais facilmente. Ele aborda desafios comuns de desenvolvimento Android fornecendo componentes prontos para tarefas como gerenciamento da interface do usuário, persistência de dados, processamento em segundo plano e navegação, permitindo que os desenvolvedores se concentrem na escrita de lógica única de aplicativos. Esses componentes são projetados para funcionar juntos de forma fluida e são compatíveis com versões anteriores do Android, garantindo que as apps funcionem em uma ampla gama de versões do Android.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course)
-- [@article@Kotlin for Jetpack](https://developer.android.com/develop/ui/compose/kotlin)
+- [@curso@Básico do Android com Compose](https://developer.android.com/courses/android-basics-compose/course)
+- [@artigo@Kotlin para Jetpack](https://developer.android.com/develop/ui/compose/kotlin)

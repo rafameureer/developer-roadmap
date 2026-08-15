@@ -1,8 +1,8 @@
-# Data Types in Kotlin
+# Tipos de Dados em Kotlin
 
-Kotlin, like other programming languages, uses data types to classify different kinds of values. These types define what operations can be performed on the data and how much memory it occupies. In Kotlin, everything is an object in the sense that you can call member functions and properties on any variable. While certain types have an optimized internal representation as primitive values at runtime (such as numbers, characters, and booleans), they appear and behave like regular classes to you.
+Kotlin, como outras linguagens de programação, usa tipos de dados para classificar diferentes tipos de valores. Esses tipos definem quais operações podem ser realizadas nos dados e quanto espaço de memória ele ocupa. Em Kotlin, tudo é um objeto no sentido de que você pode chamar funções de membros e propriedades em qualquer variável. Embora certos tipos tenham uma representação interna otimizada como valores primitivos em tempo de execução (como números, caracteres e booleanos), eles aparecem e se comportam como classes regulares para você.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Basic Types](https://kotlinlang.org/docs/basic-types.html)
-- [@article@Data types in Kotlin](https://www.w3schools.com/kotlin/kotlin_data_types.php)
+- [@official@Tipos Básicos](https://kotlinlang.org/docs/basic-types.html)
+- [@article@Tipos de Dados em Kotlin](https://www.w3schools.com/kotlin/kotlin_data_types.php)

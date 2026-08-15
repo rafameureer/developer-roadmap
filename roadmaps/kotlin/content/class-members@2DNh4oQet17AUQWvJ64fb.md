@@ -1,8 +1,8 @@
-# Class Members in Kotlin
+# Membros de Classe em Kotlin
 
-In Kotlin, a class member refers to the variables (properties) and functions (methods) that belong to a class. Properties hold data associated with the class, defining its state, while methods define the behavior or actions that the class can perform. These members are accessed using the dot notation on an instance of the class. They can be declared as either mutable (using `var`) or read-only (using `val`), and their visibility can be controlled using modifiers like `public`, `private`, and `protected`.
+Em Kotlin, um membro da classe se refere às variáveis (propriedades) e funções (métodos) que pertencem a uma classe. As propriedades armazenam dados associados à classe, definindo seu estado, enquanto os métodos definem o comportamento ou as ações que a classe pode realizar. Esses membros são acessados usando a notação de ponto em uma instância da classe. Eles podem ser declarados como mutáveis (usando `var`) ou somente leitura (usando `val`), e sua visibilidade pode ser controlada usando modificadores como `public`, `private` e `protected`.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Class members](https://kotlinlang.org/docs/classes.html#class-members)
-- [@video@Kotlin Classes & Objects Explained 🚀 | OOP in Kotlin | Kotlin Crash Course](https://www.youtube.com/watch?v=1WF2Q_UJgps)
+- [@official@Membros de classe](https://kotlinlang.org/docs/classes.html#class-members)
+- [@video@Classes & Objetos Explained 🚀 | OOP em Kotlin | Curso rápido de Kotlin](https://www.youtube.com/watch?v=1WF2Q_UJgps)

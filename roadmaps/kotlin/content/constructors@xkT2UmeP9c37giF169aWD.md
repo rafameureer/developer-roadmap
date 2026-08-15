@@ -1,9 +1,9 @@
-# Constructors
+# Construtores
 
-Constructors in Kotlin are special member functions within a class that are used to initialize objects of that class. They define how an object is created and what initial values its properties will have. Kotlin has two types of constructors: primary and secondary. The primary constructor is part of the class header, while secondary constructors are defined inside the class body using the `constructor` keyword. A class can have one primary constructor and multiple secondary constructors.
+Os construtores em Kotlin são funções de membro especiais dentro de uma classe que são usados para inicializar objetos daquela classe. Eles definem como um objeto é criado e quais valores iniciais suas propriedades terão. Kotlin tem dois tipos de construtores: primários e secundários. O construtor primário faz parte do cabeçalho da classe, enquanto os construtores secundários são definidos dentro do corpo da classe usando a palavra-chave `constructor`. Uma classe pode ter um único construtor primário e múltiplos construtores secundários.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@official@Constructors](https://kotlinlang.org/docs/classes.html#constructors)
-- [@article@Define a constructor](https://developer.android.com/codelabs/basic-android-kotlin-compose-classes-and-objects#5)
-- [@video@Kotlin Classes and Constructors - Primary vs Secondary](https://www.youtube.com/watch?v=Ly_onmXpDiw)
+- [@oficial@Construtores](https://kotlinlang.org/docs/classes.html#constructors)
+- [@artigo@Definir um construtor](https://developer.android.com/codelabs/basic-android-kotlin-compose-classes-and-objects#5)
+- [@vídeo@Kotlin Classes and Constructors - Primary vs Secondary](https://www.youtube.com/watch?v=Ly_onmXpDiw)

@@ -1,8 +1,8 @@
-# Type Checks & Casts
+# Verificações e Conversões de Tipo
 
-Kotlin allows you to check the type of a variable at runtime using the `is` operator. This operator returns `true` if a variable is of a certain type. Furthermore, Kotlin's smart casts automatically cast a variable to a more specific type within a block of code if the compiler can guarantee that the variable is of that type due to a type check. This eliminates the need for explicit casting in many situations, making the code cleaner and safer.
+O Kotlin permite que você verifique o tipo de uma variável em tempo de execução usando o operador `is`. Esse operador retorna `true` se uma variável for do tipo especificado. Além disso, as conversões inteligentes do Kotlin automaticamente convertem uma variável para um tipo mais específico dentro de um bloco de código se o compilador puder garantir que a variável é desse tipo devido a uma verificação de tipo. Isso elimina a necessidade de casting explícito em muitas situações, tornando o código limpo e seguro.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Type checks and casts](https://kotlinlang.org/docs/typecasts.html)
-- [@article@Navigating Kotlin’s Type System: A Guide to Type Checks and Casts with ‘is’ and ‘as’](https://medium.com/learn-to-earn/navigating-kotlins-type-system-a-guide-to-type-checks-and-casts-with-is-and-as-0368ae9e4337)
+- [@official@Verificações e Conversões de Tipo](https://kotlinlang.org/docs/typecasts.html)
+- [@article@Navegando pelo Sistema de Tipos do Kotlin: Um Guia sobre Verificações de Tipo e Conversões com 'is' e 'as'](@medium.com/learn-to-earn/navigating-kotlins-type-system-a-guide-to-type-checks-and-casts-with-is-and-as-0368ae9e4337)

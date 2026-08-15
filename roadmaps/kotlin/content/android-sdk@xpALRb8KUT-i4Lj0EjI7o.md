@@ -1,9 +1,9 @@
 # Android SDK
 
-The Android SDK (Software Development Kit) is a set of tools, libraries, documentation, and sample code provided by Google that allows developers to create applications for the Android operating system. It provides the necessary APIs and development environment to build, test, and debug Android apps. The SDK includes tools for compiling code, debugging, emulating devices, and packaging applications for distribution.
+O Android SDK (Software Development Kit) é um conjunto de ferramentas, bibliotecas, documentação e código-fonte de exemplo fornecidos pela Google que permitem aos desenvolvedores criar aplicativos para o sistema operacional Android. Ele fornece as APIs necessárias e o ambiente de desenvolvimento necessário para construir, testar e depurar apps do Android. O SDK inclui ferramentas para compilar código, depurar, emular dispositivos e empacotar aplicativos para distribuição.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Kotlin for Android](https://kotlinlang.org/docs/android-overview.html)
-- [@official@Android & Kotlin Development Masterclass – Full Course](https://www.youtube.com/watch?v=blKkRoZPxLc&ab_channel=freeCodeCamp.org)
-- [@article@Develop Android apps with Kotlin](https://developer.android.com/kotlin)
+- [@oficial@Kotlin para Android](https://kotlinlang.org/docs/android-overview.html)
+- [@oficial@Masterclass de Desenvolvimento Android & Kotlin – Curso Completo](https://www.youtube.com/watch?v=blKkRoZPxLc&ab_channel=freeCodeCamp.org)
+- [@artigo@Desenvolva apps do Android com Kotlin](https://developer.android.com/kotlin)

@@ -1,7 +1,7 @@
-# Printing Data in Kotlin
+# Exibindo Dados em Kotlin
 
-In Kotlin, you can display information to the console using the `println()` and `print()` functions. `println()` prints the given argument to the standard output and adds a newline character at the end, moving the cursor to the next line. `print()`, on the other hand, prints the argument without adding a newline, so subsequent output will appear on the same line. You can pass variables, strings, or any other expression as arguments to these functions to display their values.
+Em Kotlin, você pode exibir informações no console usando as funções `println()` e `print()`. A função `println()` imprime o argumento fornecido na saída padrão e adiciona um caractere de nova linha no final, movendo o cursor para a próxima linha. Por outro lado, a função `print()` imprime o argumento sem adicionar uma nova linha, então a saída subsequente aparecerá na mesma linha. Você pode passar variáveis, strings ou qualquer outra expressão como argumentos para essas funções para exibir seus valores.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Print to the standard output](https://kotlinlang.org/docs/basic-syntax.html#print-to-the-standard-output)
+- [@official@Imprimir na saída padrão](https://kotlinlang.org/docs/basic-syntax.html#print-to-the-standard-output)

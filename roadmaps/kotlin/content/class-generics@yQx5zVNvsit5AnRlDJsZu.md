@@ -1,8 +1,8 @@
-# Class Generics
+# Genéricos em Kotlin
 
-Generics in Kotlin allow you to define classes that can work with different types of data without specifying those types upfront. Think of it like a template for a class. Instead of writing separate classes for handling integers, strings, or other data types, you can create a single generic class that can handle any type you specify when you create an instance of the class. This makes your code more reusable and type-safe, as the compiler can check that you're using the correct types with your generic class.
+Os genéricos em Kotlin permitem definir classes que podem trabalhar com diferentes tipos de dados sem especificar esses tipos imediatamente. Pense neles como um modelo para uma classe. Em vez de escrever classes separadas para lidar com inteiros, strings ou outros tipos de dados, você pode criar uma única classe genérica que possa lidar com qualquer tipo que você especifique ao criar uma instância da classe. Isso torna seu código mais reutilizável e seguro em relação aos tipos, pois o compilador pode verificar se você está usando os tipos corretos com sua classe genérica.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Generics: in, out, where](https://kotlinlang.org/docs/generics.html)
-- [@video@Kotlin Generics - How to create generic classes](https://www.youtube.com/watch?v=tddbTT_v1BE)
+- [@official@Genéricos: in, out, where](https://kotlinlang.org/docs/generics.html)
+- [@video@Genéricos em Kotlin - Como criar classes genéricas](https://www.youtube.com/watch?v=tddbTT_v1BE)

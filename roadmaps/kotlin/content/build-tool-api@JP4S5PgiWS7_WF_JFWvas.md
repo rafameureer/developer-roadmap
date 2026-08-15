@@ -1,7 +1,7 @@
-# Build Tool API
+# API do Ferramenta de Construção
 
-The Build Tool API in Kotlin provides a way for build tools like Gradle or Maven to interact with the Kotlin compiler and related tooling. It allows these tools to configure the compilation process, access compiler options, and integrate Kotlin code into the overall build lifecycle. This API enables build tools to manage dependencies, generate code, and perform other tasks necessary for building Kotlin projects. Currently, the BTA supports Kotlin/JVM only.
+A API do Ferramenta de Construção em Kotlin fornece uma maneira para ferramentas de construção como Gradle ou Maven interagirem com o compilador Kotlin e ferramentas relacionadas. Ela permite que essas ferramentas configurem o processo de compilação, acessem opções do compilador e integrem código Kotlin na fase geral da ciclo de vida da construção. Esta API habilita as ferramentas de construção a gerenciar dependências, gerar código e realizar outras tarefas necessárias para construir projetos em Kotlin. Atualmente, o BTA suporta apenas Kotlin/JVM.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Build tools API](https://kotlinlang.org/docs/build-tools-api.html)
+- [@oficial@API das Ferramentas de Construção](https://kotlinlang.org/docs/build-tools-api.html)

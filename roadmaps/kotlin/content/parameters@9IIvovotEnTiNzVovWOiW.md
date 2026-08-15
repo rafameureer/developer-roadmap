@@ -1,7 +1,7 @@
-# Function Parameters
+# Parâmetros de Função
 
-Function parameters are values that you pass into a function when you call it. These parameters act as inputs, allowing the function to operate on different data each time it's invoked. In Kotlin, function parameters are defined using Pascal notation - name: type. Parameters are separated using commas, and each parameter must be explicitly typed: `fun powerOf(number: Int, exponent: Int): Int { /*...*/ }`
+Os parâmetros de função são valores que você passa para uma função quando a chama. Esses parâmetros atuam como entradas, permitindo que a função opere em diferentes dados cada vez que é invocada. No Kotlin, os parâmetros de função são definidos usando a notação Pascal - nome: tipo. Os parâmetros são separados por vírgulas e cada parâmetro deve ser explicitamente tipado: `fun powerOf(number: Int, exponent: Int): Int { /*...*/ }`
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Parameters](https://kotlinlang.org/docs/functions.html#parameters)
+- [@official@Parâmetros](https://kotlinlang.org/docs/functions.html#parameters)

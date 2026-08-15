@@ -1,7 +1,7 @@
-# String Templates
+# Templates de String
 
-String templates in Kotlin allow you to embed variables and expressions directly within strings. Instead of using string concatenation, you can include variables by prefixing them with a dollar sign (`$`). For more complex expressions, you can enclose them in curly braces `${}`. This makes string construction more readable and concise.
+Os templates de string em Kotlin permitem que você insira variáveis e expressões diretamente dentro de strings. Em vez de usar a concatenação de strings, você pode incluir variáveis prefixando-as com um sinal de dólar (`$`). Para expressões mais complexas, você pode envolvê-las em chaves `${}`. Isso torna a construção de strings mais legível e concisa.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@String Templates](https://kotlinlang.org/docs/strings.html#string-templates)
+- [@oficial@Templates de String](https://kotlinlang.org/docs/strings.html#string-templates)

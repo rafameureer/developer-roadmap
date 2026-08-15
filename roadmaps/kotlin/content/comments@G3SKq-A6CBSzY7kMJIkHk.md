@@ -1,7 +1,7 @@
-# Comments
+# Comentários
 
-Comments are explanatory notes added to code to make it easier to understand. In Kotlin, you can add single-line comments using `//`. Anything after `//` on the same line is ignored by the compiler. For multi-line comments, you can use `/*` to begin the comment and `*/` to end it. Everything between `/*` and `*/` will be treated as a comment and not executed as code.
+Comentários são notas explicativas adicionadas ao código para facilitar sua compreensão. Em Kotlin, você pode adicionar comentários de linha única usando `//`. Qualquer coisa após `//` na mesma linha é ignorada pelo compilador. Para comentários multilinha, você pode usar `/*` para iniciar o comentário e `*/` para encerrar. Tudo entre `/*` e `*/` será tratado como um comentário e não executado como código.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@official@Comments](https://kotlinlang.org/docs/basic-syntax.html#comments)
+- [@official@Comentários](https://kotlinlang.org/docs/basic-syntax.html#comments)

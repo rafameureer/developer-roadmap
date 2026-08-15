@@ -1,7 +1,7 @@
-# C Interoperability in Kotlin/Native
+# Interoperabilidade em C no Kotlin/Native
 
-C Interoperability in Kotlin/Native allows Kotlin code to interact with C libraries and code. This means you can use existing C libraries within your Kotlin/Native projects, and also expose Kotlin/Native code to be used from C. It involves mapping C data types and functions to their Kotlin equivalents, enabling seamless communication between the two languages.
+A Interoperabilidade em C no Kotlin/Native permite que o código Kotlin interaja com bibliotecas e códigos C existentes. Isso significa que você pode usar bibliotecas C existentes em seus projetos Kotlin/Native, e também expor o código Kotlin/Native para ser usado a partir de C. Involvem mapear tipos de dados e funções C para suas equivalentes em Kotlin, permitindo uma comunicação fluida entre as duas linguagens.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Interoperability with C](https://kotlinlang.org/docs/native-c-interop.html)
+- [@official@Interoperabilidade com C](https://kotlinlang.org/docs/native-c-interop.html)

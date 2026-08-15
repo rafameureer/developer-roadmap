@@ -1,9 +1,9 @@
 # Shadow DOM
 
-Shadow DOM creates private, encapsulated DOM trees inside elements, isolating HTML, CSS, and JavaScript from the main page. Prevents style and script conflicts, enabling cleaner, reusable components. Essential for web components requiring self-contained functionality.
+Shadow DOM cria árvores DOM privadas e encapsuladas dentro de elementos, isolando HTML, CSS e JavaScript da página principal. Previne conflitos de estilo e script, permitindo componentes mais limpos e reutilizáveis. Essencial para componentes web que requerem funcionalidade autônoma.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Using shadow DOM | MDN web docs](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM)
-- [@video@DOM vs Virtual DOM vs Shadow DOM](https://youtu.be/7Tok22qxPzQ?si=2cw36PNSgFTcNHWx)
+- [@artigo@Usando Shadow DOM | MDN Web Docs](https://developer.mozilla.org/pt-BR/docs/Web/Web_Components/Using_shadow_DOM)
+- [@vídeo@DOM vs Virtual DOM vs Shadow DOM](https://youtu.be/7Tok22qxPzQ?si=2cw36PNSgFTcNHWx)
 - [@feed@Explore top posts about DOM](https://app.daily.dev/tags/dom?ref=roadmapsh)

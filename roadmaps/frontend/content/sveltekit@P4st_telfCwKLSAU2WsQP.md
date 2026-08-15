@@ -1,9 +1,9 @@
 # SvelteKit
 
-SvelteKit is a full-stack framework for building websites and applications with Svelte. Features file-based routing, code splitting, server-side rendering, and static site generation. Designed for simplicity and performance with excellent developer experience and easy deployment options.
+SvelteKit é um framework full-stack para a criação de sites e aplicativos com Svelte. Oferece roteamento baseado em arquivos, divisão de código, renderização do lado do servidor e geração de sites estáticos. Projetado para simplicidade e desempenho com uma excelente experiência de desenvolvedor e opções de implantação fáceis.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Svelte Kit](https://kit.svelte.dev/)
-- [@official@Svelte Kit Docs](https://kit.svelte.dev/docs/introduction)
-- [@video@Sveltekit in 100 Seconds](https://www.youtube.com/watch?v=H1eEFfAkIik)
+- [@official@Documentação do Svelte Kit](https://kit.svelte.dev/docs/introdução)
+- [@video@Sveltekit em 100 Segundos](https://www.youtube.com/watch?v=H1eEFfAkIik)

@@ -1,8 +1,8 @@
 # Internet
 
-The Internet is a global network of interconnected computers using TCP/IP protocols, connecting billions of devices worldwide. Revolutionized communication, commerce, education, and entertainment. Enables web browsing, streaming, and diverse applications while presenting privacy and security challenges.
+A Internet é uma rede global de computadores interconectados usando protocolos TCP/IP, conectando bilhões de dispositivos em todo o mundo. Revolucionou a comunicação, o comércio, a educação e entretenimento. Permite navegação na web, streaming e diversas aplicações enquanto apresenta desafios de privacidade e segurança.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Introduction to Internet](https://roadmap.sh/guides/what-is-internet)
-- [@article@The Internet](https://en.wikipedia.org/wiki/Internet)
+- [@artigo@Introdução à Internet](https://roadmap.sh/guides/what-is-internet)
+- [@artigo@A Internet](https://en.wikipedia.org/wiki/Internet)

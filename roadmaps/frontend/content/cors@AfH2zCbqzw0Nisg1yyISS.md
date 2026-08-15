@@ -1,9 +1,9 @@
 # CORS
 
-CORS (Cross-Origin Resource Sharing) controls web page access to resources from different domains through HTTP headers. Servers specify allowed origins while browsers send preflight requests for permission. Prevents unauthorized access while enabling legitimate cross-origin requests for modern multi-domain applications.
+CORS (Controle de Recursos de Origem Cruzada) controla o acesso da página web a recursos de diferentes domínios através de cabeçalhos HTTP. Servidores especificam os domínios permitidos enquanto navegadores enviam solicitações pré-voo para permissão. Previne o acesso não autorizado enquanto habilita solicitações cruzadas legítimas para aplicativos multi-domínio modernos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Cross-Origin Resource Sharing (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
-- [@article@Understanding CORS](https://rbika.com/blog/understanding-cors)
-- [@video@CORS in 6 minutes](https://www.youtube.com/watch?v=PNtFSVU-YTI)
+- [@artigo@Controle de Recursos de Origem Cruzada (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
+- [@artigo@Entendendo CORS](https://rbika.com/blog/understanding-cors)
+- [@vídeo@CORS em 6 minutos](https://www.youtube.com/watch?v=PNtFSVU-YTI)

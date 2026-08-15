@@ -1,9 +1,9 @@
 # Cypress
 
-Cypress is a JavaScript end-to-end testing framework running tests directly in browsers. Built on Mocha with excellent asynchronous testing support. Features time-travel debugging, automatic waiting, and real-time reloading. Supports BDD/TDD approaches for comprehensive web application testing.
+O Cypress é um framework de teste end-to-end em JavaScript que executa testes diretamente nos navegadores. Construído sobre o Mocha com excelente suporte a testes assíncronos. Características incluem depuração reversa, espera automática e recarga em tempo real. Suporta abordagens BDD/TDD para testes de aplicativos web completos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Cypress Website](https://www.cypress.io/)
-- [@official@Cypress Documentation](https://docs.cypress.io/)
-- [@video@Cypress End-to-End Testing](https://www.youtube.com/watch?v=BQqzfHQkREo)
+- [@official@Site oficial do Cypress](https://www.cypress.io/)
+- [@official@Documentação do Cypress](https://docs.cypress.io/)
+- [@video@Testes end-to-end com o Cypress](https://www.youtube.com/watch?v=BQqzfHQkREo)

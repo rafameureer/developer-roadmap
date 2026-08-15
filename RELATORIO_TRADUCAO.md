@@ -1,11 +1,11 @@
 # 📊 Relatório de Progresso da Tradução Autônoma (PT-BR)
 
-**Última atualização:** 15/08/2026 07:01:53
+**Última atualização:** 15/08/2026 07:12:55
 
 ## 📈 Estatísticas Gerais
-- **Progresso Global:** `3228 / 10365` arquivos (`31.14%`)
-- **Roadmaps Concluídos:** `38 / 91`
-- **Itens Pendentes para Decisão Humana:** `952` (veja [DECISOES_HUMANAS.md](./DECISOES_HUMANAS.md))
+- **Progresso Global:** `3318 / 10365` arquivos (`32.01%`)
+- **Roadmaps Concluídos:** `39 / 91`
+- **Itens Pendentes para Decisão Humana:** `983` (veja [DECISOES_HUMANAS.md](./DECISOES_HUMANAS.md))
 
 ---
 
@@ -46,5 +46,6 @@
 - ✅ `engineering-manager`
 - ✅ `flutter`
 - ✅ `forward-deployed-engineer`
+- ✅ `frontend`
 - ✅ `frontend-beginner`
 - ✅ `git-github-beginner`

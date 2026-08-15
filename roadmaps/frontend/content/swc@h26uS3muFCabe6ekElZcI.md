@@ -1,9 +1,9 @@
 # SWC (Speedy Web Compiler)
 
-SWC (Speedy Web Compiler) is a Rust-based JavaScript/TypeScript compiler and bundler, much faster than Babel. Supports modern JavaScript features, JSX, and TypeScript compilation. Popular for large projects and as performance foundation for other build tools.
+SWC (Speedy Web Compiler) é um compilador e empacotador de JavaScript/TypeScript baseado em Rust, muito mais rápido que o Babel. Suporta recursos modernos do JavaScript, JSX e compilação de TypeScript. Popular para projetos grandes e como base de desempenho para outros ferramentas de construção.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@SWC Website](https://swc.rs/)
-- [@official@SWC Documentation](https://swc.rs/docs/)
-- [@video@Introduction to Speedy Web Compiler](https://www.youtube.com/watch?v=RXQlPpbdn_E)
+- [@official@Site oficial do SWC](https://swc.rs/)
+- [@official@Documentação do SWC](https://swc.rs/docs/)
+- [@video@Introdução ao Speedy Web Compiler](https://www.youtube.com/watch?v=RXQlPpbdn_E)

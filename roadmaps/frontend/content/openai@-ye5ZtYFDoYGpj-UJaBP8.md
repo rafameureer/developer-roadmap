@@ -1,9 +1,9 @@
 # OpenAI
 
-OpenAI provides a suite of artificial intelligence models and tools accessible through an API. These models can perform tasks like generating text, translating languages, writing different kinds of creative content, and answering your questions in an informative way. Developers can integrate these powerful AI capabilities into their applications by sending requests to OpenAI's API endpoints and receiving responses.
+O OpenAI oferece uma suíte de modelos e ferramentas de inteligência artificial acessíveis por meio de uma API. Esses modelos podem realizar tarefas como gerar texto, traduzir idiomas, escrever diferentes tipos de conteúdo criativo e responder suas perguntas de maneira informativa. Desenvolvedores podem integrar essas potentes capacidades de IA em seus aplicativos enviando solicitações aos endpoints da API do OpenAI e recebendo respostas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@OpenAI](https://platform.openai.com/docs/overview)
-- [@official@OpenAI Models](https://platform.openai.com/docs/models)
-- [@official@OpenAI Academy](https://academy.openai.com/)
+- [@official@Modelos do OpenAI](https://platform.openai.com/docs/models)
+- [@official@Academia do OpenAI](https://academy.openai.com/)

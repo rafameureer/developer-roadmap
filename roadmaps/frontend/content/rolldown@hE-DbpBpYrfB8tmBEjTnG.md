@@ -1,10 +1,10 @@
 # Rolldown
 
-Rolldown is a fast JavaScript bundler written in Rust, designed to be a drop-in replacement for Rollup. It takes your JavaScript and related assets (like CSS and images) and packages them into optimized bundles that can be efficiently loaded in a web browser. Rolldown aims to improve build performance and provide a smoother development experience compared to existing JavaScript bundlers.
+Rolldown é um empacotador JavaScript rápido escrito em Rust, projetado para ser uma substituição direta do Rollup. Ele leva seu JavaScript e ativos relacionados (como CSS e imagens) e os pacote em bundles otimizados que podem ser carregados eficientemente em um navegador da web. O Rolldown visa melhorar o desempenho de construção e fornecer uma experiência de desenvolvimento mais suave em comparação com outros empacotadores JavaScript existentes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Rolldown Docs](https://rolldown.rs/guide/getting-started)
-- [@official@Getting Started](https://rolldown.rs/guide/getting-started)
+- [@official@Documentação do Rolldown](https://rolldown.rs/guide/getting-started)
+- [@official@Começando](https://rolldown.rs/guide/getting-started)
 - [@opensource@rolldown](https://github.com/rolldown/rolldown)
-- [@video@Rolldown: How Vite bundles at the speed of Rust](https://www.youtube.com/watch?v=3PFLeteDuyQ)
+- [@video@Rolldown: Como o Vite empacota na velocidade do Rust](https://www.youtube.com/watch?v=3PFLeteDuyQ)

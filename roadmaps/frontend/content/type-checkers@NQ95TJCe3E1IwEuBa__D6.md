@@ -1,7 +1,7 @@
-# Type Checkers
+# Verificadores de Tipo
 
-Type checkers are tools that analyze code to verify that the types of values used in a program are consistent with their declared or inferred types. They help catch type-related errors during development, before the code is run, by identifying mismatches between expected and actual data types. This process ensures that operations are performed on compatible data, reducing the likelihood of runtime errors and improving code reliability.
+Verificadores de tipo são ferramentas que analisam o código para verificar se os tipos dos valores usados em um programa estão consistentes com seus tipos declarados ou inferidos. Eles ajudam a capturar erros relacionados a tipos durante o desenvolvimento, antes do código ser executado, identificando desvios entre os tipos esperados e atuais. Esse processo garante que operações sejam realizadas em dados compatíveis, reduzindo a probabilidade de erros em tempo de execução e melhorando a confiabilidade do código.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Type checking](https://finchtrade.com/glossary/type-checking)
+- [@artigo@Verificação de tipo](https://finchtrade.com/glossary/type-checking)

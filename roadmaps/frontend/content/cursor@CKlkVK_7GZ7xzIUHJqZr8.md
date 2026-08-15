@@ -1,10 +1,10 @@
 # Cursor
 
-Cursor is an AI-powered code editor designed to enhance developer productivity. It leverages large language models to offer features like code completion, generation, and refactoring suggestions. By understanding code context, Cursor aims to automate repetitive tasks and provide intelligent assistance throughout the development process.
+Cursor é um editor de código baseado em IA projetado para aumentar a produtividade do desenvolvedor. Ele usa modelos linguísticos grandes para oferecer recursos como conclusão de código, geração e sugestões de refatoração. Compreendendo o contexto do código, Cursor visa automatizar tarefas repetitivas e fornecer assistência inteligente ao longo do processo de desenvolvimento.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Cursor Docs](https://cursor.com/docs)
-- [@article@Claude Code vs Cursor: Which AI Coding Tool To Choose](https://roadmap.sh/claude-code/vs-cursor)
-- [@video@Cursor AI Tutorial for Beginners](https://www.youtube.com/watch?v=3289vhOUdKA)
-- [@video@Cursor Tutorial for Beginners (AI Code Editor)](https://www.youtube.com/watch?v=ocMOZpuAMw4)
+- [@official@Documentação do Cursor](https://cursor.com/docs)
+- [@article@Claude Code vs Cursor: Qual Ferramenta de Codificação IA Escolher](https://roadmap.sh/claude-code/vs-cursor)
+- [@video@Tutorial do AI do Cursor para Iniciantes](https://www.youtube.com/watch?v=3289vhOUdKA)
+- [@video@Tutorial do Cursor para Iniciantes (Editor de Código com IA)](https://www.youtube.com/watch?v=ocMOZpuAMw4)

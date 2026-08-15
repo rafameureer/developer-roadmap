@@ -1,8 +1,8 @@
 # Jest
 
-Jest is Facebook's JavaScript testing framework for unit testing with auto mocking, code coverage, and snapshot testing. Works with React, Angular, Vue. Features parallel test execution, watch mode, and built-in assertion library. Top choice for JavaScript developers.
+Jest é o framework de teste do Facebook para testes unitários com auto-mock, cobertura de código e teste de snapshots. Funciona com React, Angular e Vue. Possui execução paralela dos testes, modo de observação e biblioteca de afirmações integrada. A escolha ideal para desenvolvedores de JavaScript.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Jest Website](https://jestjs.io/)
-- [@video@JavaScript Testing With Jest](https://youtu.be/IPiUDhwnZxA?si=2_lE2bDo2fRuo2CU)
+- [@official@Site oficial do Jest](https://jestjs.io/)
+- [@video@Testando JavaScript com Jest](https://youtu.be/IPiUDhwnZxA?si=2_lE2bDo2fRuo2CU)

@@ -1,9 +1,9 @@
 # JavaScript
 
-JavaScript is a versatile programming language that makes websites interactive. Runs in browsers, servers (Node.js), and desktop applications. Features dynamic typing, event-driven programming, and constant evolution. Essential for modern web development across frontend and backend.
+JavaScript é um linguagem de programação versátil que torna os sites interativos. Funciona em navegadores, servidores (Node.js) e aplicativos desktop. Possui tipagem dinâmica, programação orientada a eventos e constante evolução. Essencial para o desenvolvimento web moderno tanto no frontend quanto no backend.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit Dedicated JavaScript Roadmap](https://roadmap.sh/javascript)
-- [@article@The Modern JavaScript Tutorial](https://javascript.info/)
-- [@article@Build 30 Javascript projects in 30 days](https://javascript30.com/)
+- [@roadmap@Visite o Caminho Dedidado de JavaScript](https://roadmap.sh/javascript)
+- [@article@O Tutorial Moderno do JavaScript](https://javascript.info/)
+- [@article@Construa 30 projetos em JavaScript em 30 dias](https://javascript30.com/)

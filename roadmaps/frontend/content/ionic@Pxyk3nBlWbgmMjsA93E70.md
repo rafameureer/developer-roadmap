@@ -1,8 +1,8 @@
 # Ionic
 
-Ionic is an open-source mobile toolkit that allows developers to build high-quality cross-platform applications for iOS, Android, and the web using a single codebase. It leverages web technologies like HTML, CSS, and JavaScript, and integrates seamlessly with popular frameworks such as Angular, React, and Vue. By providing a rich library of pre-designed UI components and native mobile features, it enables the creation of performant, native-feeling apps without needing to write platform-specific code for every device.
+Ionic é um kit de ferramentas open-source para desenvolvimento mobile que permite aos desenvolvedores construir aplicativos de alta qualidade multiplataforma para iOS, Android e a web usando uma única base de código. Ele aproveita tecnologias da web como HTML, CSS e JavaScript e integra-se perfeitamente com frameworks populares como Angular, React e Vue. Ao fornecer uma rica biblioteca de componentes de interface do usuário pré-designados e recursos nativos móveis, ele habilita a criação de aplicativos performáticos e com sensação nativa sem precisar escrever código específico para cada plataforma.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Ionic Docs](https://ionicframework.com/docs)
-- [@video@Ionic Tutorial](https://www.youtube.com/watch?v=5Gj4Y8zvl-s&list=PLlyAM-8-I7S9iNcZRfP4SQJhm4Mw5q5ku)
+- [@oficial@Documentação Ionic](https://ionicframework.com/docs)
+- [@vídeo@Tutorial Ionic](https://www.youtube.com/watch?v=5Gj4Y8zvl-s&list=PLlyAM-8-I7S9iNcZRfP4SQJhm4Mw5q5ku)

@@ -1,10 +1,10 @@
 # Tanstack Start
 
-Tanstack Start is a full-stack framework built on React that simplifies the process of creating web applications with server-side rendering (SSR). It provides tools and conventions for routing, data fetching, and deployment, allowing developers to focus on building features rather than configuring infrastructure. It aims to streamline the development workflow for React-based SSR applications.
+Tanstack Start é um framework full-stack baseado em React que simplifica o processo de criação de aplicativos web com renderização do lado do servidor (SSR). Ele fornece ferramentas e convenções para roteamento, busca de dados e implantação, permitindo aos desenvolvedores se concentrar na construção de recursos em vez de configurar a infraestrutura. Seu objetivo é streamlinhar o fluxo de trabalho de desenvolvimento para aplicativos SSR baseados em React.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Tanstack Start Docs](https://tanstack.com/start/latest/docs/framework/react/overview)
-- [@official@Getting Started](https://tanstack.com/start/latest/docs/framework/react/getting-started)
-- [@article@An introduction to the TanStack Start framework](https://blog.logrocket.com/tanstack-start-overview/)
-- [@video@TanStack Start Full Course 2025](https://www.youtube.com/watch?v=s4I4JtOZNgg)
+- [@official@Documentação do Tanstack Start](https://tanstack.com/start/latest/docs/framework/react/overview)
+- [@official@Começando](https://tanstack.com/start/latest/docs/framework/react/getting-started)
+- [@article@Introdução ao framework TanStack Start](https://blog.logrocket.com/tanstack-start-overview/)
+- [@video@Curso Completo do TanStack Start 2025](https://www.youtube.com/watch?v=s4I4JtOZNgg)

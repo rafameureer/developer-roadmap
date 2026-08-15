@@ -1,10 +1,10 @@
 # Svelte
 
-Svelte is a compile-time JavaScript framework building UIs with minimal runtime overhead. Compiles components to optimized vanilla JavaScript without virtual DOM. Features simple syntax, built-in state management, styling, and animations. Known for small bundle sizes and fast performance.
+O Svelte é um framework de JavaScript de tempo de compilação que constrói interfaces do usuário com pouco overhead em tempo de execução. Compila componentes para JavaScript vanilla otimizado sem DOM virtual. Possui uma sintaxe simples, gerenciamento de estado integrado, estilização e animações. É conhecido por tamanhos de pacote pequenos e desempenho rápido.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@course@Svelte Course Playlist for beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO)
-- [@official@Svelte Website](https://svelte.dev/)
-- [@article@All About Svelte, the Much-Loved, State-Driven Web Framework](https://thenewstack.io/all-about-svelte-the-much-loved-state-driven-web-framework/)
-- [@article@Svelte and the Future of Frontend Development](https://thenewstack.io/svelte-and-the-future-of-front-end-development/)
+- [@course@Playlist do curso Svelte para iniciantes](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO)
+- [@official@Site oficial do Svelte](https://svelte.dev/)
+- [@article@Tudo sobre o Svelte, o Framework Web Amado e Baseado em Estado](https://thenewstack.io/all-about-svelte-the-much-loved-state-driven-web-framework/)
+- [@article@Svelte e o Futuro da Desenvolvimento Front-end](https://thenewstack.io/svelte-and-the-future-of-front-end-development/)

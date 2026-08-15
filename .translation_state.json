@@ -3173,7 +3173,97 @@
     "roadmaps/forward-deployed-engineer/content/tradeoffs-scope-speed-quality@eKUy2q5cGskmcg-sAAtYW.md",
     "roadmaps/forward-deployed-engineer/content/vector-dbs@N5MPa9HqtdcZeF0wtLMVu.md",
     "roadmaps/forward-deployed-engineer/content/vibe-coding@BHpm4kOU6e1dOlWW104QB.md",
-    "roadmaps/forward-deployed-engineer/content/what-is-an-fde@414WIX6TuK2h1jEtzRG2H.md"
+    "roadmaps/forward-deployed-engineer/content/what-is-an-fde@414WIX6TuK2h1jEtzRG2H.md",
+    "roadmaps/frontend/content/auth-strategies@U5mD5FmVx7VWeKxDpQxB5.md",
+    "roadmaps/frontend/content/biome@UvCVChB6NZ_yUg0RdIJ2o.md",
+    "roadmaps/frontend/content/browsers-and-how-they-work@P82WFaTPgQEPNp5IIuZ1Y.md",
+    "roadmaps/frontend/content/bun@j2H1qGosbveayviOCVkUs.md",
+    "roadmaps/frontend/content/cache-control@tWDmeXItfQDxB8Jij_V4L.md",
+    "roadmaps/frontend/content/claude-code@RcC1fVuePQZ59AsJfeTdR.md",
+    "roadmaps/frontend/content/cloudflare@_Uh-UFNe2wP2TV0x2lKY_.md",
+    "roadmaps/frontend/content/code-reviews@0TMdly8yiqnNR8sx36iqc.md",
+    "roadmaps/frontend/content/copilot@HQrxxDxKN8gizvXRU5psW.md",
+    "roadmaps/frontend/content/cors@AfH2zCbqzw0Nisg1yyISS.md",
+    "roadmaps/frontend/content/csp@rmcm0CZbtNVC9LZ14-H6h.md",
+    "roadmaps/frontend/content/css-frameworks@XDTD8el6OwuQ55wC-X4iV.md",
+    "roadmaps/frontend/content/css@ZhJhf1M2OphYbEmduFq-9.md",
+    "roadmaps/frontend/content/cursor@CKlkVK_7GZ7xzIUHJqZr8.md",
+    "roadmaps/frontend/content/custom-elements@VxiQPgcYDFAT6WgSRWpIA.md",
+    "roadmaps/frontend/content/cypress@DaynCz5RR26gjT6N6gTDL.md",
+    "roadmaps/frontend/content/deployment@A1ZUy16cVRYqmHxoCtUb0.md",
+    "roadmaps/frontend/content/design-systems@ap4h4v5Sr4jBH3GwWSH8x.md",
+    "roadmaps/frontend/content/desktop-apps@KMA7NkxFbPoUDtFnGBFnj.md",
+    "roadmaps/frontend/content/devtools-usage@JWU9jc12_ewaIKt3qWLcp.md",
+    "roadmaps/frontend/content/dns-and-how-it-works@hkxw9jPGYphmjhTjw8766.md",
+    "roadmaps/frontend/content/esbuild@4W7UXfdKIUsm1bUrjdTVT.md",
+    "roadmaps/frontend/content/eslint@NFjsI712_qP0IOmjuqXar.md",
+    "roadmaps/frontend/content/flutter@2MRvAK9G9RGM_auWytcKh.md",
+    "roadmaps/frontend/content/graphql@L7AllJfKvClaam3y-u6DP.md",
+    "roadmaps/frontend/content/how-does-the-internet-work@yCnn-NfSxIybUQ2iTuUGq.md",
+    "roadmaps/frontend/content/how-llms-work@yKNdBbahm_h81xdMDT-qx.md",
+    "roadmaps/frontend/content/html-templates@Hk8AVonOd693_y1sykPqd.md",
+    "roadmaps/frontend/content/html@yWG2VUkaF5IJVVut6AiSy.md",
+    "roadmaps/frontend/content/https@uum7vOhOUR38vLuGZy8Oa.md",
+    "roadmaps/frontend/content/implementing-ai@MdYPIf_9ezbIp6Dm5Fyme.md",
+    "roadmaps/frontend/content/internet@VlNNwIEDWqQXtqkHWJYzC.md",
+    "roadmaps/frontend/content/ionic@Pxyk3nBlWbgmMjsA93E70.md",
+    "roadmaps/frontend/content/javascript@ODcfFEorkfJNupoQygM53.md",
+    "roadmaps/frontend/content/jest@g5itUjgRXd9vs9ujHezFl.md",
+    "roadmaps/frontend/content/learn-a-framework@eXezX7CVNyC1RuyU_I4yP.md",
+    "roadmaps/frontend/content/mcp@XFy2gj7DmXeaCoc6MZo_j.md",
+    "roadmaps/frontend/content/mobile-apps@VOGKiG2EZVfCBAaa7Df0W.md",
+    "roadmaps/frontend/content/module-bundlers@hkSc_1x09m7-7BO7WzlDT.md",
+    "roadmaps/frontend/content/netlify@o8GstE5gxcGByh-D7lwqT.md",
+    "roadmaps/frontend/content/nextjs@V70884VcuXkfrfHyLGtUg.md",
+    "roadmaps/frontend/content/nextjs@zNFYAJaSq0YZXL5Rpx1NX.md",
+    "roadmaps/frontend/content/npm@ib_FHinhrw8VuSet-xMF7.md",
+    "roadmaps/frontend/content/nuxtjs@BBsXxkbbEG-gnbM1xXKrj.md",
+    "roadmaps/frontend/content/nuxtjs@XWJxV42Dpu2D3xDK10Pn3.md",
+    "roadmaps/frontend/content/openai@-ye5ZtYFDoYGpj-UJaBP8.md",
+    "roadmaps/frontend/content/owasp-risks@JanR7I_lNnUCXhCMGLdn-.md",
+    "roadmaps/frontend/content/package-managers@IqvS1V-98cxko3e9sBQgP.md",
+    "roadmaps/frontend/content/parcel@NS-hwaWa5ebSmNNRoxFDp.md",
+    "roadmaps/frontend/content/performance@6d8cjWZ4BuUjwT0seiuzJ.md",
+    "roadmaps/frontend/content/playwright@jramLk8FGuaEH4YpHIyZT.md",
+    "roadmaps/frontend/content/pnpm@SLxA5qJFp_28TRzr1BjxZ.md",
+    "roadmaps/frontend/content/prettier@zbkpu_gvQ4mgCiZKzS1xv.md",
+    "roadmaps/frontend/content/prompting-techniques@Gv_g4gK6pZK6l_0xAn34X.md",
+    "roadmaps/frontend/content/pwas@PoM77O2OtxPELxfrW1wtl.md",
+    "roadmaps/frontend/content/railway@PJRsqg5Vx9gQTodxaeZfz.md",
+    "roadmaps/frontend/content/react-native@dsTegXTyupjS8iU6I7Xiv.md",
+    "roadmaps/frontend/content/react-router@KJRkrFZIihCUBrOf579EU.md",
+    "roadmaps/frontend/content/react@SGDf_rbfmFSHlxI-Czzlz.md",
+    "roadmaps/frontend/content/react@tG5v3O4lNIFc2uCnacPak.md",
+    "roadmaps/frontend/content/refactoring@EYT2rTLZ8tUW2u8DOnAWF.md",
+    "roadmaps/frontend/content/relay-modern@0moPO23ol33WsjVXSpTGf.md",
+    "roadmaps/frontend/content/render@wfGz8pshGQARZ7qStGoSD.md",
+    "roadmaps/frontend/content/rolldown@hE-DbpBpYrfB8tmBEjTnG.md",
+    "roadmaps/frontend/content/rollup@sCjErk7rfWAUvhl8Kfm3n.md",
+    "roadmaps/frontend/content/service-workers@66ya3WdtlkjQyBTc3Lein.md",
+    "roadmaps/frontend/content/shadow-dom@-SpsNeOZBkQfDA-rwzgPg.md",
+    "roadmaps/frontend/content/skills@xL8d-uHMpJKwUvT8z-Jia.md",
+    "roadmaps/frontend/content/solid-js@DxOSKnqAjZOPP-dq_U7oP.md",
+    "roadmaps/frontend/content/ssg@n0q32YhWEIAUwbGXexoqV.md",
+    "roadmaps/frontend/content/ssr@Cxspmb14_0i1tfw-ZLxEu.md",
+    "roadmaps/frontend/content/streamed-responses@FyNXhHq1VIASNq-LI7JIu.md",
+    "roadmaps/frontend/content/svelte-kit@P4st_telfCwKLSAU2WsQP.md",
+    "roadmaps/frontend/content/svelte@OL8I6nOZ8hGGWmtxg_Mv8.md",
+    "roadmaps/frontend/content/svelte@ZR-qZ2Lcbu3FtqaMd3wM4.md",
+    "roadmaps/frontend/content/sveltekit@P4st_telfCwKLSAU2WsQP.md",
+    "roadmaps/frontend/content/swc@h26uS3muFCabe6ekElZcI.md",
+    "roadmaps/frontend/content/tailwind@eghnfG4p7i-EDWfp3CQXC.md",
+    "roadmaps/frontend/content/tanstack-start@f9zlP6lGhfe6HBHVYiySu.md",
+    "roadmaps/frontend/content/tauri@GJctl0tVXe4B70s35RkLT.md",
+    "roadmaps/frontend/content/testing@igg4_hb3XE3vuvY8ufV-4.md",
+    "roadmaps/frontend/content/type-checkers@NQ95TJCe3E1IwEuBa__D6.md",
+    "roadmaps/frontend/content/vcs-hosting@MXnFhZlNB1zTsBFDyni9H.md",
+    "roadmaps/frontend/content/vercel@kPJ0jZo5AbOzvZgv0zwp0.md",
+    "roadmaps/frontend/content/version-control@NIY7c4TQEEHx0hATu-k5C.md",
+    "roadmaps/frontend/content/vite@0Awx3zEI5_gYEIrD7IVX6.md",
+    "roadmaps/frontend/content/vitest@hVQ89f6G0LXEgHIOKHDYq.md",
+    "roadmaps/frontend/content/what-is-domain-name@ZhSuu2VArnzPDp6dPQQSC.md",
+    "roadmaps/frontend/content/what-is-hosting@aqMaEY8gkKMikiqleV5EP.md",
+    "roadmaps/frontend/content/what-is-http@R12sArWVpbIs_PHxBqVaR.md"
   ],
   "completed_roadmaps": [
     "frontend-beginner",
@@ -3213,7 +3303,8 @@
     "elasticsearch",
     "engineering-manager",
     "flutter",
-    "forward-deployed-engineer"
+    "forward-deployed-engineer",
+    "frontend"
   ],
   "flagged_issues": [
     {
@@ -7975,8 +8066,163 @@
       "file": "roadmaps/forward-deployed-engineer/content/stakeholder-management@L76T2X7AFpVtpMF9CjBJo.md",
       "reason": "Falha na tradução automática após tentativas no Ollama",
       "timestamp": "2026-08-15T07:01:09.118504"
+    },
+    {
+      "file": "roadmaps/frontend/content/accessibility@e-k6EhoxYG9h0x6vWOrDh.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:02:15.294851"
+    },
+    {
+      "file": "roadmaps/frontend/content/agents@e4j6u0e_WqK1vfrUwJJ4M.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:02:20.574095"
+    },
+    {
+      "file": "roadmaps/frontend/content/ai-assisted-coding@ipcNHz8KbfpE57kNP15hP.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:02:26.121512"
+    },
+    {
+      "file": "roadmaps/frontend/content/ai-vs-traditional-coding@IZKl6PxbvgNkryAkdy3-p.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:02:45.923848"
+    },
+    {
+      "file": "roadmaps/frontend/content/angular@-bHFIiXnoUQSov64WI9yo.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:02:49.301471"
+    },
+    {
+      "file": "roadmaps/frontend/content/angular@k6rp6Ua9qUEW_DA_fOg5u.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:02:54.359444"
+    },
+    {
+      "file": "roadmaps/frontend/content/anthropic@Lw2nR7x8PYgq1P5CxPAxi.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:03:11.236738"
+    },
+    {
+      "file": "roadmaps/frontend/content/antigravity@E7-LveK7jO2npxVTLUDfw.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:03:16.235992"
+    },
+    {
+      "file": "roadmaps/frontend/content/apollo@5eUbDdOTOfaOhUlZAmmXW.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:03:19.408403"
+    },
+    {
+      "file": "roadmaps/frontend/content/applications@Nx7mjvYgqLpmJ0_iSx5of.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:03:37.488962"
+    },
+    {
+      "file": "roadmaps/frontend/content/astro@iUxXq7beg55y76dkwhM13.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:03:40.846519"
+    },
+    {
+      "file": "roadmaps/frontend/content/astro@wA2fSYsbBYU02VJXAvUz8.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:03:44.031380"
+    },
+    {
+      "file": "roadmaps/frontend/content/docs-generation@q7NpwqQXUp4wt2to-yFiP.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:05:41.532021"
+    },
+    {
+      "file": "roadmaps/frontend/content/electron@mQHpSyMR4Rra4mqAslgiS.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:05:44.697156"
+    },
+    {
+      "file": "roadmaps/frontend/content/eleventy@io0RHJWIcVxDhcYkV9d38.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:05:48.151068"
+    },
+    {
+      "file": "roadmaps/frontend/content/flutter@dIQXjFEUAJAGxxfAYceHU.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:06:16.352269"
+    },
+    {
+      "file": "roadmaps/frontend/content/gemini@Bic4PHhz-YqzPWRimJO83.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:06:19.816593"
+    },
+    {
+      "file": "roadmaps/frontend/content/git@R_I4SGYqLk5zze5I1zS_E.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:06:23.643077"
+    },
+    {
+      "file": "roadmaps/frontend/content/github-pages@vpzh9bNXCxgdDFQLsot2_.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:06:41.203087"
+    },
+    {
+      "file": "roadmaps/frontend/content/github@qmTVMJDsEhNIkiwE_UTYu.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:06:44.989338"
+    },
+    {
+      "file": "roadmaps/frontend/content/gitlab@zIoSJMX3cuzCgDYHjgbEh.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:06:48.308809"
+    },
+    {
+      "file": "roadmaps/frontend/content/learn-the-basics@UTupdqjOyLh7-56_0SXJ8.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:07:58.151619"
+    },
+    {
+      "file": "roadmaps/frontend/content/lighthouse@dz7_QXoO7X0WmS5xuAhhJ.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:08:02.341678"
+    },
+    {
+      "file": "roadmaps/frontend/content/linters--formatters@9VcGfDBBD8YcKatj4VcH1.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:08:04.982136"
+    },
+    {
+      "file": "roadmaps/frontend/content/vuejs@3TE_iYvbklXK0be-5f2M7.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:12:02.208187"
+    },
+    {
+      "file": "roadmaps/frontend/content/vuejs@ERAdwL1G9M1bnx-fOm5ZA.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:12:06.519321"
+    },
+    {
+      "file": "roadmaps/frontend/content/vuepress@CMrss8E2W0eA6DVEqtPjT.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:12:09.411405"
+    },
+    {
+      "file": "roadmaps/frontend/content/web-apis@3HgiMfqihjWceSxd6ei8s.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:12:27.082449"
+    },
+    {
+      "file": "roadmaps/frontend/content/web-components@ruoFa3M4bUE3Dg6GXSiUI.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:12:30.899874"
+    },
+    {
+      "file": "roadmaps/frontend/content/web-security@RDWbG3Iui6IPgp0shvXtg.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:12:35.609228"
+    },
+    {
+      "file": "roadmaps/frontend/content/yarn@yrq3nOwFREzl-9EKnpU-e.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:12:55.727579"
     }
   ],
-  "last_updated": "2026-08-15T07:01:53.648635",
+  "last_updated": "2026-08-15T07:12:55.735430",
   "total_translated_count": 54
 }

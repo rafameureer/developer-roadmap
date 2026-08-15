@@ -1,10 +1,10 @@
-# How Does The Internet Work
+# Como Funciona a Internet
 
-The internet is a global network connecting computers and devices for information sharing. Enables browsing, email, streaming, and communication through interconnected systems. Acts as worldwide infrastructure facilitating access to online resources and services.
+A internet é uma rede global que conecta computadores e dispositivos para o compartilhamento de informações. Permite navegar na web, enviar e receber e-mails, assistir a streams e se comunicar através de sistemas interconectados. Atua como estrutura mundial que facilita o acesso a recursos e serviços online.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Introduction to Internet](https://roadmap.sh/guides/what-is-internet)
-- [@article@How does the Internet Work?](https://cs.fyi/guide/how-does-internet-work)
-- [@article@How Does the Internet Work? MDN Docs](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
-- [@video@How the Internet Works in 5 Minutes](https://www.youtube.com/watch?v=7_LPdttKXPc)
+- [@article@Introdução à Internet](https://roadmap.sh/guides/what-is-internet)
+- [@article@Como Funciona a Internet?](https://cs.fyi/guide/how-does-internet-work)
+- [@article@Como Funciona a Internet? MDN Docs](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
+- [@video@Como Funciona a Internet em 5 Minutos](https://www.youtube.com/watch?v=7_LPdttKXPc)

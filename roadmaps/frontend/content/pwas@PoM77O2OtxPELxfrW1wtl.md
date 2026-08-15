@@ -1,9 +1,9 @@
-# Progressive Web Apps
+# Aplicativos Web Progressivos (PWAs)
 
-Progressive Web Apps (PWAs) are web applications behaving like native apps using HTML, CSS, JavaScript. Feature offline functionality, push notifications, home screen installation, and service workers for caching. Cross-platform, discoverable, and cost-effective alternative to native apps.
+Os Aplicativos Web Progressivos (PWAs) são aplicativos web que se comportam como aplicativos nativos usando HTML, CSS e JavaScript. Oferecem funcionalidade offline, notificações por push, instalação na tela inicial e trabalhadores de serviço para caching. Cross-platform, descobríveis e econômicos em comparação com aplicativos nativos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Learn PWA](https://web.dev/learn/pwa/)
-- [@article@MDN - Progressive Web Apps](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/)
-- [@video@Progressive Web Apps in 2024](https://www.youtube.com/watch?v=3ODP6tTpjqA)
+- [@artigo@Saiba mais sobre PWAs](https://web.dev/learn/pwa/)
+- [@artigo@MDN - Aplicativos Web Progressivos](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/)
+- [@vídeo@Aplicativos Web Progressivos em 2024](https://www.youtube.com/watch?v=3ODP6tTpjqA)

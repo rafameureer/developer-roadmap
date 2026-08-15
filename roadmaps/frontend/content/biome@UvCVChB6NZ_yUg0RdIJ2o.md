@@ -1,10 +1,10 @@
 # Biome
 
-Biome is a high-performance tool for web projects, designed to format and lint code. It aims to replace a suite of existing tools like Prettier, ESLint, and others, offering a unified solution for code quality and consistency. Biome supports languages like JavaScript, TypeScript, JSX, and JSON, helping developers maintain a clean and standardized codebase.
+Biome é uma ferramenta de alto desempenho para projetos web, projetada para formatar e analisar o código. Ele visa substituir uma suíte de ferramentas existentes como Prettier, ESLint e outros, oferecendo uma solução unificada para a qualidade e consistência do código. Biome suporta linguagens como JavaScript, TypeScript, JSX e JSON, ajudando os desenvolvedores a manter um código limpo e padronizado.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Biome](https://biomejs.dev/)
+- [@oficial@Biome](https://biomejs.dev/)
 - [@opensource@biome](https://github.com/biomejs/biome)
-- [@article@Biome: The All-in-One Toolchain for Modern Frontend Projects](https://blog.openreplay.com/biome-toolchain-modern-frontend-projects/)
-- [@video@The EASIEST Way To Switch to Biome](https://www.youtube.com/watch?v=lEkXbneUnWg)
+- [@artigo@Biome: A Ferramenta Integrada para Projetos Frontend Modernos](https://blog.openreplay.com/biome-toolchain-modern-frontend-projects/)
+- [@vídeo@O MÉTODO MAIS FÁCIL DE PASSAR PARA O BIOME](https://www.youtube.com/watch?v=lEkXbneUnWg)

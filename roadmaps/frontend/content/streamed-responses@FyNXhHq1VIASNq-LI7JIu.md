@@ -1,9 +1,9 @@
-# Streamed Responses
+# Respostas Streamed
 
-Streamed responses involve sending data from a server to a client in chunks, rather than waiting for the entire response to be ready before sending anything. This allows the browser to start processing and rendering content sooner, improving perceived performance and user experience, especially for large datasets or long-running processes. Instead of a single, large download, the data arrives incrementally.
+Respostas streamadas envolvem enviar dados de um servidor para um cliente em pedaços, em vez de esperar que toda a resposta esteja pronta antes de enviar qualquer coisa. Isso permite que o navegador comece a processar e renderizar conteúdo mais cedo, melhorando a percepção de desempenho e experiência do usuário, especialmente para grandes conjuntos de dados ou processos longos. Em vez de um único download grande, os dados chegam incrementalmente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Streams API](https://developer.mozilla.org/en-US/docs/Web/API/Streams_API)
-- [@article@Streaming API responses for AI - OpenAI](https://platform.openai.com/docs/guides/streaming-responses)
-- [@article@Streaming Responses in AI](https://dev.to/pranshu_kabra_fe98a73547a/streaming-responses-in-ai-how-ai-outputs-are-generated-in-real-time-18kb)
+- [@artigo@API Streams](https://developer.mozilla.org/en-US/docs/Web/API/Streams_API)
+- [@artigo@Respostas streamadas da API para IA - OpenAI](https://platform.openai.com/docs/guides/streaming-responses)
+- [@artigo@Respostas Streamed em IA](https://dev.to/pranshu_kabra_fe98a73547a/streaming-responses-in-ai-how-ai-outputs-are-generated-in-real-time-18kb)

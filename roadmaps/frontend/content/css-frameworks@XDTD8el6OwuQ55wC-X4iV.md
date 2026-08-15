@@ -1,9 +1,9 @@
-# Modern CSS
+# CSS Moderno
 
-Modern CSS creates responsive designs using media queries, flexible typography, CSS-in-JS, and frameworks like Tailwind. Features CSS Logical Properties for internationalization and CSS Houdini for custom styling. Goals: performance, maintainability, and accessible designs across all devices.
+CSS Moderno cria designs responsivos usando consultas de mídia, tipografia flexível, CSS-in-JS e frameworks como Tailwind. Características: Propriedades Lógicas do CSS para internacionalização e Houdini CSS para estilização personalizada. Objetivos: desempenho, manutenção e designs acessíveis em todos os dispositivos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated CSS Roadmap](https://roadmap.sh/css)
-- [@article@Modern CSS: A Comprehensive Guide](https://moderncss.dev/)
-- [@article@CSS-Tricks: Modern CSS](https://css-tricks.com/modern-css/)
+- [@roadmap@Visite o Caminho Dedidado de CSS](https://roadmap.sh/css)
+- [@artigo@CSS Moderno: Um Guia Completo](https://moderncss.dev/)
+- [@artigo@CSS-Tricks: CSS Moderno](https://css-tricks.com/modern-css/)

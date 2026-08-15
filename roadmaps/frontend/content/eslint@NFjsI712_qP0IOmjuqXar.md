@@ -1,9 +1,9 @@
 # ESLint
 
-ESLint is a JavaScript linter checking code for problems, maintains consistent style, and finds errors. Highly configurable with custom or preset rules. Supports modern JavaScript, JSX, and TypeScript. Integrates with editors and builds tools, offering automatic fixing for team consistency.
+O ESLint é um verificador de código JavaScript que verifica problemas no código, mantém uma consistência de estilo e encontra erros. É altamente configurável com regras personalizadas ou predefinidas. Suporta JavaScript moderno, JSX e TypeScript. Integra-se com editores e ferramentas de construção, oferecendo correção automática para a consistência da equipe.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@ESLint Website](https://eslint.org/)
-- [@article@What is ESLint and How to Use it](https://2coffee.dev/en/articles/what-is-eslint-and-how-to-use-eslint-to-detect-fix-code-for-javascript-projects)
-- [@video@ESLint Quickstart - find errors automatically](https://www.youtube.com/watch?v=qhuFviJn-es)
+- [@oficial@Site oficial do ESLint](https://eslint.org/)
+- [@artigo@O que é o ESLint e como usá-lo](https://2coffee.dev/en/articles/what-is-eslint-and-how-to-use-eslint-to-detect-fix-code-for-javascript-projects)
+- [@vídeo@Introdução rápida ao ESLint - encontre erros automaticamente](https://www.youtube.com/watch?v=qhuFviJn-es)

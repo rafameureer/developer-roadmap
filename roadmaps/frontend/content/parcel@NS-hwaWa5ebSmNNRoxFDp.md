@@ -1,8 +1,8 @@
 # Parcel
 
-Parcel is a zero-configuration web app bundler handling JavaScript, CSS, HTML automatically. Features dependency resolution, code transformation, optimization, live reloading, code splitting, and tree-shaking by default. Known for simplicity and speed, ideal for rapid prototyping.
+Parcel é um empacotador de aplicativos web zero-configuração que lida automaticamente com JavaScript, CSS e HTML. Ele resolve dependências, transforma código, otimiza, recarrega em tempo real, divide o código e remove partes não utilizadas por padrão. Conhecido por sua simplicidade e velocidade, é ideal para prototipagem rápida.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Parcel Website](https://parceljs.org/plugin-system/bundler/)
-- [@video@How to Build a Web App with Parcel.js](https://www.youtube.com/watch?v=R02ehdTzi3I)
+- [@official@Site oficial do Parcel](https://parceljs.org/plugin-system/bundler/)
+- [@video@Como construir um aplicativo web com o Parcel.js](https://www.youtube.com/watch?v=R02ehdTzi3I)

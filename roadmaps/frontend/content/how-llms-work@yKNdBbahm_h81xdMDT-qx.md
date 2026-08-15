@@ -1,10 +1,10 @@
-# How LLMs Work
+# Como Funcionam os LLMs
 
-LLMs, or Large Language Models, are advanced AI models trained on vast datasets to understand and generate human-like text. They can perform a wide range of natural language processing tasks, such as text generation, translation, summarization, and question answering. LLMs function as sophisticated prediction engines that process text sequentially, predicting the next token based on relationships between previous tokens and patterns from training data. They don't predict single tokens directly but generate probability distributions over possible next tokens, which are then sampled using parameters like temperature and top-K. The model repeatedly adds predicted tokens to the sequence, building responses iteratively. This token-by-token prediction process, combined with massive training datasets, enables LLMs to generate coherent, contextually relevant text across diverse applications and domains.
+LLMs, ou Modelos de Linguagem de Grande Escala (Large Language Models), são modelos de IA avançados treinados em grandes conjuntos de dados para entender e gerar texto semelhante ao humano. Eles podem realizar uma ampla gama de tarefas de processamento de linguagem natural, como a geração de texto, tradução, resumo e resposta a perguntas. Os LLMs funcionam como motores de previsão sofisticados que processam o texto em sequência, predizindo o próximo token com base nas relações entre os tokens anteriores e padrões dos dados de treinamento. Eles não previram diretamente um único token, mas geram distribuições de probabilidade sobre os próximos tokens possíveis, que são então amostrados usando parâmetros como temperatura e top-K. O modelo adiciona repetidamente os tokens preditos à sequência, construindo respostas iterativamente. Esse processo de previsão token a token, combinado com grandes conjuntos de dados de treinamento, permite que os LLMs gerem texto coerente e relevante no contexto em diversas aplicações e domínios.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated AI Engineer Roadmap](https://roadmap.sh/ai-engineer)
-- [@article@What is a large language model (LLM)?](https://www.cloudflare.com/en-gb/learning/ai/what-is-large-language-model/)
-- [@article@New to LLMs? Start Here](https://towardsdatascience.com/new-to-llms-start-here/)
-- [@video@How Large Language Models Work](https://www.youtube.com/watch?v=5sLYAQS9sWQ)
+- [@roadmap@Visite o Caminho Dedidado do Engenheiro de IA](https://roadmap.sh/ai-engineer)
+- [@article@O que é um modelo de linguagem de grande escala (LLM)?](https://www.cloudflare.com/en-gb/learning/ai/what-is-large-language-model/)
+- [@article@Novo em LLMs? Comece Aqui](https://towardsdatascience.com/new-to-llms-start-here/)
+- [@video@Como Funcionam os Modelos de Linguagem de Grande Escala](https://www.youtube.com/watch?v=5sLYAQS9sWQ)

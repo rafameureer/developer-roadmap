@@ -1,10 +1,10 @@
 # Design Systems
 
-A design system is a structured collection of reusable components, guidelines, standards, and best practices that ensure consistency across an application's visual design and user experience. It typically includes typography, colors, spacing, icons, UI components, interaction patterns, and documentation on how to use everything correctly.
+Um design system é uma coleção estruturada de componentes reutilizáveis, diretrizes, padrões e práticas recomendadas que garantem consistência na design visual e experiência do usuário de um aplicativo. Geralmente inclui tipografia, cores, espaçamento, ícones, componentes de interface do usuário, padrões de interação e documentação sobre como usar tudo corretamente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated Design System Roadmap](https://roadmap.sh/design-system)
-- [@article@Design system 101: What is a design system?](https://www.figma.com/blog/design-systems-101-what-is-a-design-system/)
+- [@roadmap@Visite a Roadmap dedicada aos Design Systems](https://roadmap.sh/design-system)
+- [@article@Design system 101: O que é um design system?](https://www.figma.com/blog/design-systems-101-what-is-a-design-system/)
 - [@article@Design Systems 101](https://www.nngroup.com/articles/design-systems-101/)
-- [@video@Welcome to design systems - Lesson 1 : Introduction to design systems](https://www.youtube.com/watch?v=YLo6g58vUm0)
+- [@video@Bem-vindo aos Design Systems - Aula 1: Introdução aos Design Systems](https://www.youtube.com/watch?v=YLo6g58vUm0)

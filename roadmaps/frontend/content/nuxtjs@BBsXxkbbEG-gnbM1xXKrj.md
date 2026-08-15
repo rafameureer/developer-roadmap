@@ -1,9 +1,9 @@
 # Nuxt.js
 
-Nuxt.js is a Vue.js framework providing structure, automatic routing, and server-side rendering. Supports static site generation, code splitting, and data fetching. Offers flexible rendering options with focus on developer experience and performance. Popular for SEO-friendly Vue applications with plugin ecosystem.
+Nuxt.js é um framework do Vue.js que fornece estrutura, roteamento automático e renderização no lado do servidor. Suporta geração de sites estáticos, divisão de código e obtenção de dados. Oferece opções flexíveis de renderização com foco na experiência do desenvolvedor e desempenho. Popular para aplicações Vue amigáveis ao SEO com o ecossistema de plugins.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@Nuxt.js Fundamentals](https://vueschool.io/courses/nuxtjs-fundamentals)
-- [@official@Nuxt Website](https://nuxtjs.org/)
-- [@article@Get Started with Nuxt](https://explorers.netlify.com/learn/get-started-with-nuxt)
+- [@course@Fundamentos do Nuxt.js](https://vueschool.io/courses/nuxtjs-fundamentals)
+- [@official@Site oficial do Nuxt](https://nuxtjs.org/)
+- [@article@Começando com o Nuxt](https://explorers.netlify.com/learn/get-started-with-nuxt)

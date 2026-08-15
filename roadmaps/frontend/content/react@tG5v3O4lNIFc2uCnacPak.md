@@ -1,9 +1,9 @@
 # React
 
-React is a JavaScript tool from Facebook for building UIs, especially for single-page apps. It lets you create reusable UI parts that update when data changes. React uses a virtual DOM for speed and has a one-way data flow. This component style makes code neat and reusable. React also works with tools like Redux for data management and React Native for mobile apps. It's popular because it's clear, fast, and has a big community.
+React é uma ferramenta JavaScript da Facebook para construir interfaces de usuário, especialmente para aplicativos de página única. Permite criar partes reutilizáveis da interface do usuário que se atualizam quando os dados mudam. O React usa um DOM virtual para velocidade e tem um fluxo de dados unidirecional. Este estilo de componente torna o código limpo e reutilizável. O React também funciona com ferramentas como Redux para gerenciamento de dados e React Native para aplicativos móveis. É popular porque é claro, rápido e possui uma grande comunidade.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit Dedicated React Roadmap](https://roadmap.sh/react)
-- [@course@Full Stack React Developer Course](https://www.youtube.com/watch?v=Bvwq_S0n2pk)
-- [@official@React Website](https://react.dev)
+- [@roadmap@Visite o Caminho do React dedicado](https://roadmap.sh/react)
+- [@course@Curso Completo de Desenvolvedor Full Stack em React](https://www.youtube.com/watch?v=Bvwq_S0n2pk)
+- [@official@Site oficial do React](https://react.dev)

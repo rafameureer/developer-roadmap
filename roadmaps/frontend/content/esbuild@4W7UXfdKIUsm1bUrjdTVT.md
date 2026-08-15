@@ -1,9 +1,9 @@
 # esbuild
 
-esbuild is an extremely fast JavaScript bundler and minifier written in Go. Handles modern JavaScript, TypeScript, and JSX with near-instant bundling. Simple API with excellent performance for development and as foundation for other tools. Trades some advanced features for speed.
+O esbuild é um empacotador e minificador de JavaScript extremamente rápido, escrito em Go. Ele lida com JavaScript moderno, TypeScript e JSX com o acoplamento mais próximo do instante. Tem uma API simples com excelente desempenho para desenvolvimento e como base para outros ferramentas. Troca algumas funcionalidades avançadas por velocidade.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@Let's Learn esbuild! (with Sunil Pai) — Learn With Jason](https://www.youtube.com/watch?v=KLdF1yu_bmI)
-- [@official@Esbuild Website](https://esbuild.github.io/)
-- [@video@What Is ESBuild?](https://www.youtube.com/watch?v=ZY8Vu8cbWF0)
+- [@curso@Aprenda esbuild! (com Sunil Pai) — Aprenda com Jason](https://www.youtube.com/watch?v=KLdF1yu_bmI)
+- [@oficial@Site oficial do esbuild](https://esbuild.github.io/)
+- [@vídeo@O que é o ESBuild?](https://www.youtube.com/watch?v=ZY8Vu8cbWF0)

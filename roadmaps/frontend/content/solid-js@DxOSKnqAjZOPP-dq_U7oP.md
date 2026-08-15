@@ -1,9 +1,9 @@
 # SolidJS
 
-SolidJS is a JavaScript tool for building website interfaces that is known for being very fast and efficient. It updates only the parts of the page that change, which makes it perform well. SolidJS doesn't use a virtual DOM; instead, it directly changes the real DOM. Its syntax is like React, so many developers find it familiar. It supports JSX, has built-in ways to manage data, and is small in size. SolidJS is getting popular for its speed, simplicity, and smart way of handling updates.
+SolidJS é uma ferramenta JavaScript para construir interfaces de website conhecida por ser muito rápida e eficiente. Ele atualiza apenas as partes da página que mudam, o que o torna desempenhar bem. SolidJS não usa um DOM virtual; em vez disso, ele altera diretamente o DOM real. Sua sintaxe é semelhante ao React, então muitos desenvolvedores acham familiar. Ele suporta JSX, tem maneiras integradas de gerenciar dados e é pequeno em tamanho. SolidJS está ganhando popularidade por sua velocidade, simplicidade e maneira inteligente de lidar com atualizações.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@SolidJS Website](https://www.solidjs.com/)
-- [@official@SolidJS Tutorial](https://www.solidjs.com/tutorial/introduction_basics)
-- [@video@SolidJS in 100 Seconds](https://www.youtube.com/watch?v=hw3Bx5vxKl0)
+- [@oficial@Site oficial do SolidJS](https://www.solidjs.com/)
+- [@oficial@Tutorial do SolidJS](https://www.solidjs.com/tutorial/introduction_basics)
+- [@vídeo@SolidJS em 100 Segundos](https://www.youtube.com/watch?v=hw3Bx5vxKl0)

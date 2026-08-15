@@ -1,8 +1,8 @@
-# Pick a Framework
+# Escolha um Framework
 
-Web frameworks are development toolkits providing libraries, structure, rules, and tools for building applications. Different frameworks offer varying features based on project needs. Popular examples include React, Angular, and Vue, each with unique strengths and capabilities.
+Os frameworks web são conjuntos de ferramentas de desenvolvimento que fornecem bibliotecas, estrutura, regras e ferramentas para construir aplicativos. Diferentes frameworks oferecem funcionalidades variadas com base nas necessidades do projeto. Exemplos populares incluem React, Angular e Vue, cada um com fortes pontos e capacidades únicas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@15 Crazy New JS Framework Features You Don't Know Yet](https://www.youtube.com/watch?v=466U-2D86bc)
-- [@video@Which JS Framework is Best?](https://www.youtube.com/watch?v=cuHDQhDhvPE)
+- [@video@15 Novas Funcionalidades de JS Frameworks incríveis que você ainda não sabe](https://www.youtube.com/watch?v=466U-2D86bc)
+- [@video@Qual é o melhor framework de JavaScript?](https://www.youtube.com/watch?v=cuHDQhDhvPE)

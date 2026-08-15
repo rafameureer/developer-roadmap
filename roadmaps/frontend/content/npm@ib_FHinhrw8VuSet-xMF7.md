@@ -1,9 +1,9 @@
 # npm
 
-npm (Node Package Manager) is the primary JavaScript package manager for finding, sharing, and managing code dependencies. Uses package.json to track project requirements and enables consistent builds across environments. Remains the most popular choice despite alternatives like Yarn and pnpm.
+npm (Gerenciador de Pacotes Node.js) é o principal gerenciador de pacotes JavaScript para encontrar, compartilhar e gerenciar dependências de código. Usa package.json para rastrear as exigências do projeto e permite construções consistentes em diferentes ambientes. Mantém-se como a escolha mais popular apesar das alternativas como Yarn e pnpm.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@NPM Documentation](https://docs.npmjs.com/)
-- [@article@Modern JavaScript for Dinosaurs](https://peterxjang.com/blog/modern-javascript-explained-for-dinosaurs.html)
-- [@video@NPM Tutorial for Beginners](https://www.youtube.com/watch?v=2V1UUhBJ62Y)
+- [@official@Documentação oficial do NPM](https://docs.npmjs.com/)
+- [@article@JavaScript Moderno para Dinossauros](https://peterxjang.com/blog/modern-javascript-explained-for-dinosaurs.html)
+- [@video@Tutorial básico do NPM](https://www.youtube.com/watch?v=2V1UUhBJ62Y)

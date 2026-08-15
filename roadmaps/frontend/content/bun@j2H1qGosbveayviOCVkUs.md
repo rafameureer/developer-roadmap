@@ -1,10 +1,10 @@
 # Bun
 
-Bun is a JavaScript runtime, bundler, transpiler, and package manager, all-in-one. It's designed to be a faster, more efficient alternative to Node.js and npm, aiming to improve performance and developer experience through its speed and comprehensive toolset. Bun uses JavaScriptCore, Apple's JavaScript engine, which is known for its performance.
+Bun é um runtime, empacotador, transcompilador e gerenciador de pacotes, tudo em uma única ferramenta. Ele foi projetado para ser uma alternativa mais rápida e eficiente do que o Node.js e o npm, visando melhorar a performance e a experiência do desenvolvedor através de sua velocidade e conjunto completo de ferramentas. Bun usa JavaScriptCore, o motor de JavaScript da Apple, conhecido por sua performance.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Bun Docs](https://bun.com/docs)
-- [@opensource@bun](https://github.com/oven-sh/bun)
-- [@article@What Is Bun? An All-in-One Runtime Taking on Node.js](https://kinsta.com/blog/bun-sh/)
-- [@video@Bun Crash Course | JavaScript Runtime, Bundler & Transpiler](https://www.youtube.com/watch?v=U4JVw8K19uY)
+- [@oficial@Documentação do Bun](https://bun.com/docs)
+- [@opensource@Bun no GitHub](https://github.com/oven-sh/bun)
+- [@artigo@O que é o Bun? Um Runtime All-in-One Competindo com o Node.js](https://kinsta.com/blog/bun-sh/)
+- [@vídeo@Curso rápido do Bun | Runtime, Empacotador e Transcompilador de JavaScript](https://www.youtube.com/watch?v=U4JVw8K19uY)

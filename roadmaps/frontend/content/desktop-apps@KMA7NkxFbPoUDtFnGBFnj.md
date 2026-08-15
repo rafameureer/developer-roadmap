@@ -1,9 +1,9 @@
-# Desktop Applications in JavaScript
+# Aplicações Desktop em JavaScript
 
-JavaScript builds desktop apps using Electron, NW.js, or Tauri for cross-platform development (Windows, Mac, Linux). Electron powers VS Code and Discord. Provides file system access and native integration. Trade-offs: faster development vs. performance and resource usage compared to native apps.
+JavaScript constrói aplicativos desktop usando Electron, NW.js ou Tauri para desenvolvimento cross-platform (Windows, Mac, Linux). O Electron alimenta o VS Code e o Discord. Fornece acesso ao sistema de arquivos e integração nativa. Compromissos: desenvolvimento mais rápido vs. desempenho e uso de recursos em comparação com aplicativos nativos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Electron Website](https://www.electronjs.org/)
-- [@official@NW.js Website](https://nwjs.io/)
-- [@official@Tauri Website](https://tauri.app/)
+- [@oficial@Site oficial do Electron](https://www.electronjs.org/)
+- [@oficial@Site oficial do NW.js](https://nwjs.io/)
+- [@oficial@Site oficial do Tauri](https://tauri.app/)

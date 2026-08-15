@@ -1,9 +1,9 @@
-# Server-side rendering
+# Renderização do Lado do Servidor
 
-Server-side rendering (SSR) generates complete HTML on the server before sending to browsers. Improves initial load times, SEO, and performance on slow devices. Frameworks: Next.js (React), Nuxt.js (Vue). Increases server load but enhances user experience.
+Renderização do Lado do Servidor (SSR) gera HTML completo no servidor antes de enviar para os navegadores. Melhora os tempos de carregamento iniciais, SEO e desempenho em dispositivos lentos. Frameworks: Next.js (React), Nuxt.js (Vue). Aumenta a carga do servidor, mas melhora a experiência do usuário.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Server-Side Rendering (SSR)](https://vuejs.org/guide/scaling-up/ssr.html)
-- [@video@What are SSR & CSR](https://www.youtube.com/watch?v=ObrSuDYMl1s)
-- [@video@What is server-side rendering for web development?](https://www.youtube.com/watch?v=okvg3MRAPs0)
+- [@artigo@Renderização do Lado do Servidor (SSR)](https://vuejs.org/guide/scaling-up/ssr.html)
+- [@vídeo@O que são SSR & CSR](https://www.youtube.com/watch?v=ObrSuDYMl1s)
+- [@vídeo@O que é a renderização do lado do servidor para o desenvolvimento web?](https://www.youtube.com/watch?v=okvg3MRAPs0)

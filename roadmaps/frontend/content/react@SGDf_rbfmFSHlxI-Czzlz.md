@@ -1,9 +1,9 @@
 # React
 
-React is Facebook's JavaScript library for building user interfaces with reusable components. Uses virtual DOM for performance and one-way data flow. Features component-based architecture, works with Redux for state management and React Native for mobile. Popular for its clarity, speed, and ecosystem.
+React é a biblioteca JavaScript da Facebook para construir interfaces do usuário com componentes reutilizáveis. Usa o DOM virtual para melhor desempenho e fluxo de dados unidirecional. Possui uma arquitetura baseada em componentes, funciona com Redux para gerenciamento de estado e React Native para aplicativos móveis. Popular por sua clareza, velocidade e ecossistema.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit Dedicated React Roadmap](https://roadmap.sh/react)
-- [@course@Full Stack React Developer Course](https://www.youtube.com/watch?v=Bvwq_S0n2pk)
-- [@official@React Website](https://react.dev)
+- [@roadmap@Visite o Caminho do React dedicado](https://roadmap.sh/react)
+- [@course@Curso Completo de Desenvolvedor Full Stack em React](https://www.youtube.com/watch?v=Bvwq_S0n2pk)
+- [@official@Site oficial do React](https://react.dev)

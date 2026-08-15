@@ -1,10 +1,10 @@
 # Render
 
-Render is a unified cloud platform that simplifies the process of deploying and hosting web applications, static websites, and backend services. It automates infrastructure management, allowing developers to focus on writing code rather than configuring servers. Render supports various programming languages and frameworks, offering features like automatic scaling, continuous deployment, and SSL certificates.
+Render é uma plataforma de nuvem unificada que simplifica o processo de implantação e hospedagem de aplicativos web, sites estáticos e serviços backend. Automatiza a gestão da infraestrutura, permitindo aos desenvolvedores se concentrarem em escrever código em vez de configurar servidores. Render suporta várias linguagens de programação e frameworks, oferecendo recursos como escalabilidade automática, implantação contínua e certificados SSL.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Render](https://render.com/)
-- [@official@Render Docs + Quickstarts](https://render.com/docs)
-- [@article@Render: Cloud Deployment with Less Engineering](https://thenewstack.io/render-cloud-deployment-with-less-engineering/)
-- [@video@Deploy any application with one click using Render](https://www.youtube.com/watch?v=yWxBUcG_C7g)
+- [@oficial@Render](https://render.com/)
+- [@oficial@Documentos do Render + Iniciativas Rápidas](https://render.com/docs)
+- [@artigo@Render: Implantação em Nuvem com Menos Engenharia](https://thenewstack.io/render-cloud-deployment-with-less-engineering/)
+- [@vídeo@Implante qualquer aplicativo com um clique usando Render](https://www.youtube.com/watch?v=yWxBUcG_C7g)

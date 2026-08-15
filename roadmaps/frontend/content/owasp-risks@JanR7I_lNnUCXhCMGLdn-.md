@@ -1,10 +1,10 @@
-# OWASP Security Risks
+# OWASP Segurança dos Riscos
 
-OWASP (Open Web Application Security Project) identifies top web application security risks including injection attacks, broken authentication, data exposure, and vulnerable dependencies. Provides guidance on secure coding practices, regular security testing, and comprehensive protection strategies for web applications.
+OWASP (Open Web Application Security Project) identifica os principais riscos de segurança em aplicativos web, incluindo ataques de injeção, autenticação quebrada, exposição de dados e dependências vulneráveis. Fornece orientações sobre práticas de codificação segura, testes de segurança regulares e estratégias de proteção abrangentes para aplicativos web.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@OWASP Website](https://owasp.org/)
-- [@official@OWASP Cheatsheets](https://cheatsheetseries.owasp.org/cheatsheets/AJAX_Security_Cheat_Sheet.html)
-- [@opensource@OWASP Web Application Security Testing Checklist](https://github.com/0xRadi/OWASP-Web-Checklist)
-- [@article@OWASP Top 10: A Guide to the Worst Software Vulnerabilities](https://thenewstack.io/owasp-top-10-a-guide-to-the-worst-software-vulnerabilities/)
+- [@official@Site do OWASP](https://owasp.org/)
+- [@official@Cheat Sheets do OWASP](https://cheatsheetseries.owasp.org/cheatsheets/AJAX_Security_Cheat_Sheet.html)
+- [@opensource@Lista de Verificação de Segurança de Aplicativos Web do OWASP](https://github.com/0xRadi/OWASP-Web-Checklist)
+- [@article@Top 10 da OWASP: Um Guia para as Piores Vulnerabilidades de Software](https://thenewstack.io/owasp-top-10-a-guide-to-the-worst-software-vulnerabilities/)

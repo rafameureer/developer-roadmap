@@ -1,9 +1,9 @@
 # Vitest
 
-Vitest is a fast JavaScript/TypeScript testing framework optimized for Vite with Jest-compatible API. Features live test updates, snapshot testing, mocking, code coverage, parallel execution, and watch mode. Designed for Vite projects but works with any JavaScript project.
+Vitest é um framework de teste rápido para JavaScript/TypeScript otimizado para o Vite com uma API compatível com Jest. Funcionalidades incluem atualizações em tempo real dos testes, testes de snapshot, mock, cobertura de código, execução paralela e modo de observação. Projetado para projetos do Vite, mas funciona com qualquer projeto JavaScript.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Vitest - Next Generation Testing Framework](https://vitest.dev/)
-- [@official@Vitest Documentation](https://vitest.dev/guide/)
-- [@video@Vitest Simplified](https://www.youtube.com/watch?v=snCLQmINqCU)
+- [@official@Vitest - Próxima Geração de Framework de Teste](https://vitest.dev/)
+- [@official@Documentação do Vitest](https://vitest.dev/guide/)
+- [@video@Vitest Simplificado](https://www.youtube.com/watch?v=snCLQmINqCU)

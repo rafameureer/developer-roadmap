@@ -1,9 +1,9 @@
-# Browsers
+# Navegadores
 
-Web browsers request and display websites by interpreting HTML, CSS, and JavaScript. Use rendering engines (Blink, Gecko) for display and JavaScript engines (V8) for code execution. Handle security, bookmarks, history, and user interactions for web navigation.
+Os navegadores solicitam e exibem sites interpretando HTML, CSS e JavaScript. Usam motores de renderização (Blink, Gecko) para a exibição e motores de execução de JavaScript (V8) para a execução do código. Gerenciam segurança, marcadores, histórico e interações do usuário para navegação na web.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@How Browsers Work](https://www.ramotion.com/blog/what-is-web-browser/)
-- [@article@Populating the Page: How Browsers Work](https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work)
-- [@video@How Do Web Browsers Work?](https://www.youtube.com/watch?v=5rLFYtXHo9s)
+- [@artigo@Como Funcionam os Navegadores](https://www.ramotion.com/blog/what-is-web-browser/)
+- [@artigo@Preenchendo a Página: Como Funcionam os Navegadores](https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work)
+- [@vídeo@Como Funcionam os Navegadores Web?](https://www.youtube.com/watch?v=5rLFYtXHo9s)

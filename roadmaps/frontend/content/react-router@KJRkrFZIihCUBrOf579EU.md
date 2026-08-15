@@ -1,9 +1,9 @@
-# react-router
+# React Router
 
-React Router enables client-side routing in React applications, creating single-page apps with multiple views. Handles URL management, provides route definition components, and supports lazy loading and route guards. The standard navigation solution for React applications.
+O React Router permite a navegação do lado do cliente em aplicativos React, criando aplicações de página única com múltiplas visualizações. Gerencia URLs, fornece componentes para definição de rotas e suporta carregamento lento e guarda-routes. A solução padrão de navegação para aplicativos React.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@React Router Website](https://reactrouter.com/en/main)
-- [@article@A Complete Guide to Routing in React](https://hygraph.com/blog/routing-in-react)
-- [@video@React Router - Complete tutorial](https://www.youtube.com/watch?v=oTIJunBa6MA)
+- [@official@Site oficial do React Router](https://reactrouter.com/en/main)
+- [@article@Guia Completo sobre Roteamento em React](https://hygraph.com/blog/routing-in-react)
+- [@video@Tutorial Completo sobre o React Router](https://www.youtube.com/watch?v=oTIJunBa6MA)

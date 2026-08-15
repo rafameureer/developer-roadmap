@@ -1,12 +1,12 @@
-# Authentication Strategies
+# Estratégias de Autenticação
 
-Authentication strategies verify a user's identity to grant access. Common methods include Basic Auth (username/password), Session-based (server remembers login), Token-based (like JWT, a secure digital key), OAuth (for third-party access like "Login with Google"), and SSO (Single Sign-On, one login for many apps). Knowing these helps choose the right security for your app.
+As estratégias de autenticação verificam a identidade do usuário para conceder acesso. Métodos comuns incluem Autenticação Básica (nome de usuário/senha), Autenticação baseada em Sessão (o servidor se lembra da entrada), Autenticação baseada em Token (como JWT, uma chave digital segura), OAuth (para acesso a terceiros como "Login com Google") e SSO (Single Sign-On, um único login para várias aplicações). Conhecer esses métodos ajuda a escolher a segurança adequada para sua aplicação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Basic Authentication](https://roadmap.sh/guides/basic-authentication)
-- [@article@Session Based Authentication](https://roadmap.sh/guides/session-based-authentication-visually-explained)
-- [@article@Token Based Authentication](https://roadmap.sh/guides/token-authentication)
-- [@article@JWT Authentication](https://roadmap.sh/guides/jwt-authentication)
-- [@article@OAuth](https://roadmap.sh/guides/oauth)
-- [@article@SSO - Single Sign On](https://roadmap.sh/guides/sso)
+- [@artigo@Autenticação Básica](https://roadmap.sh/guides/basic-authentication)
+- [@artigo@Autenticação baseada em Sessão](https://roadmap.sh/guides/session-based-authentication-visually-explained)
+- [@artigo@Autenticação baseada em Token](https://roadmap.sh/guides/token-authentication)
+- [@artigo@Autenticação JWT](https://roadmap.sh/guides/jwt-authentication)
+- [@artigo@OAuth](https://roadmap.sh/guides/oauth)
+- [@artigo@SSO - Single Sign On](https://roadmap.sh/guides/sso)

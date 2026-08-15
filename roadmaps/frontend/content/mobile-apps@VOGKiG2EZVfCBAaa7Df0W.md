@@ -1,10 +1,10 @@
-# Mobile Apps
+# Aplicativos Móveis
 
-Mobile applications are software programs designed to run specifically on smartphones, tablets, and other portable handheld devices. They are typically accessed through dedicated app stores and are developed to leverage device-specific features like GPS, cameras, and push notifications to provide an optimized user experience. While native apps are built with platform-specific languages, developers can also use cross-platform frameworks to write a single codebase that deploys across both iOS and Android environments.
+Os aplicativos móveis são programas de software projetados para funcionar especificamente em smartphones, tablets e outros dispositivos portáteis. Eles geralmente são acessados através de lojas de aplicativos dedicadas e são desenvolvidos para aproveitar recursos específicos do dispositivo como GPS, câmeras e notificações push, proporcionando uma experiência de usuário otimizada. Enquanto os aplicativos nativos são construídos com linguagens específicas da plataforma, os desenvolvedores também podem usar estruturas de plataforma cruzada para escrever um único código base que seja implantado em ambos os ambientes iOS e Android.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@React Native](https://reactnative.dev/)
-- [@official@Flutter](https://flutter.dev)
-- [@official@Ionic](https://ionicframework.com)
-- [@official@NativeScript](https://nativescript.org/)
+- [@oficial@React Native](https://reactnative.dev/)
+- [@oficial@Flutter](https://flutter.dev)
+- [@oficial@Ionic](https://ionicframework.com)
+- [@oficial@NativeScript](https://nativescript.org/)

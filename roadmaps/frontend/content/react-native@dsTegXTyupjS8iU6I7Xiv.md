@@ -1,8 +1,8 @@
 # React Native
 
-React Native enables building native mobile apps for iOS and Android using JavaScript and React. Compiles to native components for authentic look and performance. Features code sharing, hot reloading, and device API access. Ideal for React developers transitioning to mobile development.
+React Native permite a criação de aplicativos móveis nativos para iOS e Android usando JavaScript e React. Compila em componentes nativos para um visual autêntico e desempenho. Oferece compartilhamento de código, recarregamento rápido e acesso à API do dispositivo. Ideal para desenvolvedores de React que estão se transferindo para o desenvolvimento móvel.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit Dedicated React Roadmap](https://roadmap.sh/react-native)
-- [@official@React Native Website](https://reactnative.dev/)
+- [@roadmap@Visite a Roadmap dedicada ao React](https://roadmap.sh/react-native)
+- [@oficial@Site oficial do React Native](https://reactnative.dev/)

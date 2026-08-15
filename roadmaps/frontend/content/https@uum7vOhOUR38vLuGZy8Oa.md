@@ -1,10 +1,10 @@
 # HTTPS
 
-HTTPS (Hypertext Transfer Protocol Secure) is HTTP's encrypted version, securing data transmission between browsers and websites. Essential for protecting sensitive information like banking and email. Ensures privacy and security through data encryption for online communications.
+HTTPS (Hypertext Transfer Protocol Secure) é a versão criptografada do HTTP, protegendo a transmissão de dados entre navegadores e sites. Essencial para proteger informações sensíveis como bancos de dados e e-mails. Garante a privacidade e segurança através da criptografia de dados em comunicações online.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is HTTPS?](https://www.cloudflare.com/en-gb/learning/ssl/what-is-https/)
-- [@article@Why HTTPS Matters](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https)
-- [@article@Enabling HTTPS on Your Servers](https://web.dev/enable-https/)
-- [@video@SSL, TLS, HTTP, HTTPS Explained](https://www.youtube.com/watch?v=hExRDVZHhig)
+- [@artigo@O que é HTTPS?](https://www.cloudflare.com/en-gb/learning/ssl/what-is-https/)
+- [@artigo@Por Que HTTPS Importa](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https)
+- [@artigo@Habilitando HTTPS em Seus Servidores](https://web.dev/enable-https/)
+- [@vídeo@SSL, TLS, HTTP, HTTPS Explained](https://www.youtube.com/watch?v=hExRDVZHhig)

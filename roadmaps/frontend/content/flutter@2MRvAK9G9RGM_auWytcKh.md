@@ -1,10 +1,10 @@
 # Flutter
 
-Flutter is Google's cross-platform framework building apps for iOS, Android, web, desktop from single Dart codebase. Features rich widget library, hot reload, and custom rendering engine for consistent UI. Popular for mobile development, expanding to web and desktop platforms.
+O Flutter é um framework de plataforma cruzada da Google para construir aplicativos para iOS, Android, web e desktop a partir de uma única base de código Dart. Ele possui uma biblioteca rica de widgets, recarregamento em tempo real e um motor de renderização personalizado para uma interface do usuário consistente. Popular para desenvolvimento móvel, expandindo-se para plataformas web e desktop.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit Dedicated Flutter Roadmap](https://roadmap.sh/flutter)
-- [@course@Flutter course for beginners](https://www.youtube.com/watch?v=VPvVD8t02U8)
-- [@official@Flutter for Desktop](https://flutter.dev/multi-platform/desktop)
-- [@article@12 Ways Flutter Streamlines App Development](https://thenewstack.io/12-ways-flutter-streamlines-app-development/)
+- [@roadmap@Visite o Caminho Dedidado do Flutter](https://roadmap.sh/flutter)
+- [@curso@Curso de introdução ao Flutter](https://www.youtube.com/watch?v=VPvVD8t02U8)
+- [@oficial@Flutter para Desktop](https://flutter.dev/multi-platform/desktop)
+- [@artigo@12 maneiras do Flutter simplificam o desenvolvimento de aplicativos](https://thenewstack.io/12-ways-flutter-streamlines-app-development/)

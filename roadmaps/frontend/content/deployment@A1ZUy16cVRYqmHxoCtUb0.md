@@ -1,10 +1,10 @@
-# Deployment
+# Deploy
 
-Deployment is the process of making a website or web application available for users to access on the internet. It involves taking the code, assets (like images and fonts), and configuration files and placing them on a server or hosting platform. This process often includes steps like bundling the code, optimizing assets for performance, and configuring the server to properly serve the application.
+O deploy é o processo de tornar um site ou aplicativo web disponível para usuários acessarem na internet. Envolve levar o código, ativos (como imagens e fontes) e arquivos de configuração e colocá-los em um servidor ou plataforma de hospedagem. Esse processo geralmente inclui etapas como empacotar o código, otimizar os ativos para melhor desempenho e configurar o servidor para servir corretamente o aplicativo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@A Beginner’s Guide To Web Deployment](https://medium.com/devjavu/a-beginners-guide-to-web-deployment-b4ce704fe097)
-- [@article@Deploying frontend applications — the fun way](https://hackernoon.com/deploying-frontend-applications-the-fun-way-bc3f69e15331)
-- [@article@Top 5 Platforms to Deploy Your Frontend Projects](https://strapi.io/blog/top-platforms-for-frontend-projects)
-- [@video@How To Deploy a Website (to the internet)](https://www.youtube.com/watch?v=NBrQp6-721c)
+- [@article@Guia iniciante sobre deploy de web](https://medium.com/devjavu/a-beginners-guide-to-web-deployment-b4ce704fe097)
+- [@article@Deployando aplicações frontend - a maneira divertida](https://hackernoon.com/deploying-frontend-applications-the-fun-way-bc3f69e15331)
+- [@article@Top 5 plataformas para deploy de projetos frontend](https://strapi.io/blog/top-platforms-for-frontend-projects)
+- [@video@Como deployar um site (na internet)](https://www.youtube.com/watch?v=NBrQp6-721c)

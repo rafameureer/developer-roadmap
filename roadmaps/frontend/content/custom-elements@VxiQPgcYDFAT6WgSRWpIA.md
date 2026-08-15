@@ -1,9 +1,9 @@
-# Custom Elements
+# Elementos Personalizados
 
-Custom Elements enable creating your own HTML tags as part of Web Components. Build reusable webpage components with custom behavior instead of nested standard HTML. Keeps HTML cleaner and components more manageable with encapsulated functionality.
+Elementos Personalizados permitem criar seus próprios rótulos HTML como parte dos Web Components. Construa componentes de página web reutilizáveis com comportamento personalizado em vez de HTML padrão aninhado. Mantém o HTML mais limpo e os componentes mais gerenciáveis com funcionalidade encapsulada.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Using Custom Elements - MDN](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements)
-- [@video@Web Components | Custom Elements](https://www.youtube.com/watch?v=1GT35DSdZbI)
-- [@feed@Explore top posts about Web Development](https://app.daily.dev/tags/webdev?ref=roadmapsh)
+- [@article@Usando Elementos Personalizados - MDN](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements)
+- [@video@Web Components | Elementos Personalizados](https://www.youtube.com/watch?v=1GT35DSdZbI)
+- [@feed]Explore os melhores posts sobre Desenvolvimento Web](https://app.daily.dev/tags/webdev?ref=roadmapsh)

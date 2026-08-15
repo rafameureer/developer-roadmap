@@ -1,10 +1,10 @@
-# Version Control Systems
+# Controle de Versão
 
-Version Control Systems (VCS) like Git track code changes and enable developer collaboration through modification history. Features include branching, merging, reverting, remote repositories, pull requests, and code reviews. Essential for modern software development productivity, quality, and teamwork.
+Sistemas de Controle de Versão (VCS) como Git rastreiam alterações no código e habilitam a colaboração dos desenvolvedores através do histórico de modificações. Funcionalidades incluem ramificação, mesclagem, reverter, repositórios remotos, solicitações de pull e revisões de código. Essenciais para a produtividade, qualidade e trabalho em equipe modernos no desenvolvimento de software.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit Dedicated Git & GitHub Roadmap](https://roadmap.sh/git-github)
-- [@course@Why version control? (Interactive Lesson)](https://inter-git.com/lessons/introduction)
-- [@article@What is version control?](https://www.atlassian.com/git/tutorials/what-is-version-control)
-- [@video@What is a Version Control System and why you should always use it](https://www.youtube.com/watch?v=IeXhYROClZk)
+- [@roadmap@Visite o Caminho Dedidado do Git & GitHub](https://roadmap.sh/git-github)
+- [@course@Por que usar controle de versão? (Aula Interativa)](https://inter-git.com/lessons/introduction)
+- [@article@O que é controle de versão?](https://www.atlassian.com/git/tutorials/what-is-version-control)
+- [@video@O que é um Sistema de Controle de Versão e por que você sempre deve usá-lo](https://www.youtube.com/watch?v=IeXhYROClZk)

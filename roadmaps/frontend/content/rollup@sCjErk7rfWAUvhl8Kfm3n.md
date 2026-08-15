@@ -1,8 +1,8 @@
 # Rollup
 
-Rollup is a JavaScript bundler creating efficient bundles from ES modules. Excels at tree-shaking to remove unused code and supports multiple output formats. Produces smaller bundles than alternatives, ideal for libraries and modern JavaScript projects requiring optimization.
+Rollup é um empacotador JavaScript que cria bundles eficientes a partir de módulos ES. Excela na remoção de código não utilizado através do treeshaking e suporta múltiplos formatos de saída. Produz bundles menores em comparação com alternativas, ideal para bibliotecas e projetos JavaScript modernos que requerem otimização.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Rollup Website and Docs](https://rollupjs.org/)
-- [@video@How to Set Up JavaScript Bundling Using Rollup](https://www.youtube.com/watch?v=ICYLOZuFMz8)
+- [@article@Site do Rollup e Documentação](https://rollupjs.org/)
+- [@video@Como configurar o empacotamento de JavaScript usando o Rollup](https://www.youtube.com/watch?v=ICYLOZuFMz8)

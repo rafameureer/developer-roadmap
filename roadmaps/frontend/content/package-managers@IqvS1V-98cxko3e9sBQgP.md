@@ -1,10 +1,10 @@
-# Package Managers
+# Gerenciadores de Pacotes
 
-Package managers automate software package installation, updates, and dependency management. Examples include npm (JavaScript), pip (Python), and yarn. Enable code sharing, reuse, and consistent project setups. Essential for modern development workflows and team collaboration.
+Gerenciadores de pacotes automatizam a instalação, atualização e gerenciamento de dependências de software. Exemplos incluem npm (JavaScript), pip (Python) e yarn. Habilitam o compartilhamento de código, reutilização e configurações de projeto consistentes. Essenciais para fluxos de trabalho modernos de desenvolvimento e colaboração em equipe.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@PNPM: The Faster, More Performant NPM](https://pnpm.io/)
-- [@official@Yarn - Getting Started](https://yarnpkg.com/en/docs/getting-started)
-- [@article@An Absolute Beginners Guide to Using npm](https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/)
-- [@video@NPM Crash Course](https://www.youtube.com/watch?v=jHDhaSSKmB0)
+- [@official@PNPM: O PNPM Mais Rápido e Performático do NPM](https://pnpm.io/)
+- [@official@Yarn - Começando](https://yarnpkg.com/en/docs/getting-started)
+- [@article@Um Guia Absoluto para Usar o npm](https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/)
+- [@video@Curso de Crachá do NPM](https://www.youtube.com/watch?v=jHDhaSSKmB0)

@@ -1,10 +1,10 @@
-# What is HTTP?
+# O que é HTTP?
 
-HTTP (Hypertext Transfer Protocol) enables browser-server communication through requests and responses. Stateless protocol using methods like GET and POST. HTTPS provides encrypted security. Newer versions (HTTP/2, HTTP/3) offer improved performance. Fundamental for web development understanding.
+HTTP (Protocolo de Transferência de Hipertexto) habilita a comunicação entre navegadores e servidores através de solicitações e respostas. É um protocolo sem estado que usa métodos como GET e POST. HTTPS fornece segurança criptografada. As versões mais recentes (HTTP/2, HTTP/3) oferecem melhor desempenho. É fundamental para o entendimento do desenvolvimento web.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Everything you need to know about HTTP](https://cs.fyi/guide/http-in-depth)
-- [@article@What is HTTP?](https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/)
-- [@article@How HTTPS Works](https://howhttps.works)
-- [@article@HTTP/3 Is Now a Standard: Why Use It and How to Get Started](https://thenewstack.io/http-3-is-now-a-standard-why-use-it-and-how-to-get-started/)
+- [@artigo@Tudo o que você precisa saber sobre HTTP](https://cs.fyi/guide/http-in-depth)
+- [@artigo@O que é HTTP?](https://www.cloudflare.com/br/learning/ddos/glossario/protocolo-de-transferência-de-hipertexto-http/)
+- [@artigo@Como HTTPS Funciona](https://howhttps.works)
+- [@artigo@HTTP/3 Agora é um Padrão: Por que Usar e Como Começar](https://thenewstack.io/http-3-is-now-a-standard-why-use-it-and-how-to-get-started/)

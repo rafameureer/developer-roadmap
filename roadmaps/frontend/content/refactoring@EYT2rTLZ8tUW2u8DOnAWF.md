@@ -1,10 +1,10 @@
-# Refactoring with AI
+# Refatoramento com IA
 
-Refactoring, in the context of software development, is the process of restructuring existing computer code—changing its internal structure—without changing its external behavior. AI tools can assist in this process by analyzing code for potential improvements in readability, performance, and maintainability. They can automatically suggest or even implement changes like simplifying complex logic, removing redundant code, and improving code style consistency, ultimately leading to a cleaner and more efficient codebase.
+O refatoramento, no contexto do desenvolvimento de software, é o processo de reestruturar o código existente—alterando sua estrutura interna—sem alterar seu comportamento externo. Ferramentas de IA podem auxiliar nesse processo analisando o código em busca de melhorias potenciais na legibilidade, desempenho e manutenabilidade. Elas podem sugerir automaticamente ou até mesmo implementar mudanças como simplificar lógica complexa, remover código redundante e melhorar a consistência do estilo do código, levando ao final um código mais limpo e eficiente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is AI code refactoring? - IBM](https://www.ibm.com/think/topics/ai-code-refactoring)
-- [@article@What is AI code refactoring?](https://graphite.com/guides/what-is-ai-code-refactoring)
-- [@video@Using AI to Refactor Legacy Code:](https://www.youtube.com/watch?v=B7Yt-WmlW2I)
-- [@video@AI-Driven Code Refactoring: Improving Legacy Codebases](https://www.youtube.com/watch?v=u8tvVxUOwvY)
+- [@artigo@O que é refatoramento de código com IA? - IBM](https://www.ibm.com/think/topics/ai-code-refactoring)
+- [@artigo@O que é refatoramento de código com IA?](https://graphite.com/guides/what-is-ai-code-refactoring)
+- [@vídeo@Usando IA para Refatorar Código Antigo:](https://www.youtube.com/watch?v=B7Yt-WmlW2I)
+- [@vídeo@Refatoramento de Código com IA: Melhorando Conjuntos de Códigos Antigos](https://www.youtube.com/watch?v=u8tvVxUOwvY)

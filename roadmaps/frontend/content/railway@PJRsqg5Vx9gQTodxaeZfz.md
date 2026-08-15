@@ -1,10 +1,10 @@
 # Railway
 
-Railway is a cloud platform that simplifies deploying web applications and services. It allows developers to deploy directly from their Git repositories, automatically handling infrastructure concerns like server provisioning, networking, and scaling. It supports various languages and frameworks, making it a versatile option for deploying frontend projects.
+Railway é uma plataforma de nuvem que simplifica a implantação de aplicativos web e serviços. Permite aos desenvolvedores implantar diretamente do seu repositório Git, lidando automaticamente com preocupações de infraestrutura como provisionamento de servidores, rede e escalabilidade. Suporta várias linguagens e frameworks, tornando-se uma opção versátil para implantação de projetos frontend.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Railway](https://railway.com/)
-- [@official@Quick Start Tutorial](https://docs.railway.com/quick-start)
-- [@video@Fastest Way to Deploy a Full Stack Web App (Railway)](https://www.youtube.com/watch?v=JQIKobOcQ9k)
-- [@video@Intro to Railway - Config Free Deploys](https://www.youtube.com/watch?v=DyQz2DgSToU)
+- [@oficial@Railway](https://railway.com/)
+- [@oficial@Tutorial Rápido](https://docs.railway.com/quick-start)
+- [@vídeo@O caminho mais rápido para implantar um aplicativo web completo (Railway)](https://www.youtube.com/watch?v=JQIKobOcQ9k)
+- [@vídeo@Introdução ao Railway - Implantações sem configuração](https://www.youtube.com/watch?v=DyQz2DgSToU)

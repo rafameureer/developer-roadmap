@@ -1,10 +1,10 @@
 # Vite
 
-Vite is a modern build tool using native ES modules for instant server starts and fast Hot Module Replacement. Supports Vue, React, Svelte with Rollup for production builds. Features CSS pre-processors and TypeScript integration. Enhances developer experience with faster development cycles.
+Vite é uma ferramenta de construção moderna que usa módulos nativos ES para iniciar servidores instantaneamente e substituição rápida de módulos. Suporta Vue, React e Svelte com Rollup para builds de produção. Funcionalidades incluem pré-processadores CSS e integração com TypeScript. Aumenta a experiência do desenvolvedor com ciclos de desenvolvimento mais rápidos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Vite - The Build Tool for the Web](https://vite.dev)
-- [@official@Vite Documentation](https://vite.dev/guide/)
-- [@video@Vite Crash Course](https://youtu.be/LQQ3CR2JTX8)
-- [@video@Vite Tutorial Video](https://www.youtube.com/watch?v=VAeRhmpcWEQ)
+- [@official@Vite - O Build Tool para a Web](https://vite.dev)
+- [@official@Documentação do Vite](https://vite.dev/guide/)
+- [@video@Curso Rápido do Vite](https://youtu.be/LQQ3CR2JTX8)
+- [@video@Vídeo Tutorial do Vite](https://www.youtube.com/watch?v=VAeRhmpcWEQ)

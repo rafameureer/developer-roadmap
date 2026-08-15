@@ -1,10 +1,10 @@
-# Model Context Protocol (MCP)
+# Protocolo de Contexto do Modelo (MCP)
 
-Model Context Protocol (MCP) is a rulebook that tells an AI agent how to pack background information before it sends a prompt to a language model. It lists what pieces go into the prompt—things like the system role, the user’s request, past memory, tool calls, or code snippets—and fixes their order. Clear tags mark each piece, so both humans and machines can see where one part ends and the next begins. Keeping the format steady cuts confusion, lets different tools work together, and makes it easier to test or swap models later. When agents follow MCP, the model gets a clean, complete prompt and can give better answers.
+O Protocolo de Contexto do Modelo (MCP) é um guia que instrui um agente de IA como empacotar informações de fundo antes de enviar uma solicitação a um modelo de linguagem. Ele lista quais peças vão para a solicitação — coisas como o papel do sistema, a solicitação do usuário, memória passada, chamadas de ferramentas ou trechos de código — e corrige sua ordem. Marcadores claros indicam cada peça, permitindo que tanto humanos quanto máquinas vejam onde uma parte termina e outra começa. Manter o formato estável reduz a confusão, permite que diferentes ferramentas trabalhem juntas e torna mais fácil testar ou trocar modelos mais tarde. Quando os agentes seguem MCP, o modelo recebe um pedido limpo e completo e pode fornecer melhores respostas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@MCP: Build Rich-Context AI Apps with Anthropic](https://www.deeplearning.ai/short-courses/mcp-build-rich-context-ai-apps-with-anthropic/)
-- [@official@Model Context Protocol](https://modelcontextprotocol.io/introduction)
+- [@curso@MCP: Construa Aplicativos AI de Contexto Rico com Anthropic](https://www.deeplearning.ai/short-courses/mcp-build-rich-context-ai-apps-with-anthropic/)
+- [@oficial@Model Context Protocol](https://modelcontextprotocol.io/introduction)
 - [@opensource@modelcontexprotocol](https://github.com/modelcontextprotocol/modelcontextprotocol)
-- [@article@The Ultimate Guide to MCP](https://guangzhengli.com/blog/en/model-context-protocol)
+- [@artigo@O Guia Completo sobre MCP](https://guangzhengli.com/blog/en/model-context-protocol)

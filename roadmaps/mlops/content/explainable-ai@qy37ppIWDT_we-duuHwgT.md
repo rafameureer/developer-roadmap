@@ -1,10 +1,10 @@
-# Explainable AI
+# Inteligência Artificial Explicável
 
-Explainable AI (XAI) refers to methods and techniques used to make the decisions of machine learning models understandable to humans. It aims to shed light on how a model arrives at a particular prediction, identifying the factors that influenced the outcome. This allows users to understand, trust, and effectively manage AI systems.
+A Inteligência Artificial Explicável (XAI) refere-se a métodos e técnicas usados para tornar as decisões dos modelos de aprendizado de máquina compreensíveis para humanos. Ela visa esclarecer como um modelo chega em uma previsão particular, identificando os fatores que influenciaram o resultado. Isso permite aos usuários entenderem, confiarem e gerenciar eficazmente sistemas de IA.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Explainable AI (XAI)?](https://www.ibm.com/think/topics/explainable-ai)
-- [@article@Explainable AI (XAI) | Giskard](https://www.giskard.ai/glossary/explainable-ai-xai)
-- [@article@How to Leverage Explainable AI for Better Business Decisions](https://towardsdatascience.com/how-to-leverage-explainable-ai-for-better-business-decisions/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)
-- [@video@Explainable AI: Demystifying AI Agents Decision-Making](https://www.youtube.com/watch?v=yJkCuEu3K68)
+- [@artigo@O que é Inteligência Artificial Explicável (XAI)?](https://www.ibm.com/think/topics/explainable-ai)
+- [@artigo@Inteligência Artificial Explicável (XAI) | Giskard](https://www.giskard.ai/glossary/explainable-ai-xai)
+- [@artigo@Como Utilizar Inteligência Artificial Explicável para Melhores Decisões de Negócio](https://towardsdatascience.com/how-to-leverage-explainable-ai-for-better-business-decisions/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)
+- [@vídeo@Inteligência Artificial Explicável: Desvendando a Tomada de Decisão dos Agentes AI](https://www.youtube.com/watch?v=yJkCuEu3K68)

@@ -1,11 +1,11 @@
 # Flink
 
-Apache Flink is an open-source stream processing framework designed for real-time and batch data processing with low latency and high throughput. It supports event time processing, fault tolerance, and stateful operations, making it ideal for applications like real-time analytics, fraud detection, and event-driven systems. Flink is highly scalable, integrates with various data systems, and is widely used in industries for large-scale, real-time data processing tasks.
+O Apache Flink é um quadro de processamento em fluxo de código aberto projetado para o processamento de dados em tempo real e por lotes com baixa latência e alta taxa de transferência. Ele suporta o processamento de tempo de evento, tolerância a falhas e operações estatais, tornando-o ideal para aplicações como análise em tempo real, detecção de fraude e sistemas orientados por eventos. O Flink é altamente escalável, integra-se com vários sistemas de dados e é amplamente utilizado em indústrias para tarefas de processamento de dados em tempo real a escala.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Apache Flink Documentation](https://flink.apache.org/)
+- [@official@Documentação oficial do Apache Flink](https://flink.apache.org/)
 - [@article@Apache Flink](https://www.tutorialspoint.com/apache_flink/apache_flink_introduction.htm)
-- [@article@An Introduction to Stream Processing with Apache Flink](https://towardsdatascience.com/an-introduction-to-stream-processing-with-apache-flink-b4acfa58f14d/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)
-- [@video@Introduction | Apache Flink 101](https://www.youtube.com/watch?v=3cg5dABA6mo&list=PLa7VYi0yPIH1UdmQcnUr8lvjbUV8JriK0)
+- [@article@Introdução ao processamento em fluxo com o Apache Flink](https://towardsdatascience.com/an-introduction-to-stream-processing-with-apache-flink-b4acfa58f14d/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)
+- [@video@Introdução | Apache Flink 101](https://www.youtube.com/watch?v=3cg5dABA6mo&list=PLa7VYi0yPIH1UdmQcnUr8lvjbUV8JriK0)
 - [@feed@Explore top posts about Apache Flink](https://app.daily.dev/tags/apache-flink?ref=roadmapsh)

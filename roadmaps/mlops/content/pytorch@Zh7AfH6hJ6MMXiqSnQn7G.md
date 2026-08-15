@@ -1,12 +1,12 @@
 # PyTorch
 
-PyTorch is an open-source machine learning framework primarily developed by Meta AI. It's used for a variety of applications, including computer vision, natural language processing, and reinforcement learning. PyTorch is known for its dynamic computation graph, which allows for more flexibility and easier debugging compared to static graph frameworks. It provides a comprehensive set of tools and libraries to build and train neural networks.
+PyTorch é um framework de aprendizado de máquina aberto, principalmente desenvolvido pela Meta AI. Ele é usado em uma variedade de aplicações, incluindo visão computacional, processamento de linguagem natural e aprendizagem por reforço. PyTorch é conhecido por seu gráfico de computação dinâmico, que permite mais flexibilidade e depuração mais fácil em comparação com frameworks de gráficos estáticos. Ele fornece um conjunto completo de ferramentas e bibliotecas para construir e treinar redes neurais.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@PyTorch](https://pytorch.org/)
-- [@official@PyTorch Docs](https://pytorch.org/docs/stable/index.html)
-- [@article@What is PyTorc? | IBM](https://www.ibm.com/think/topics/pytorch)
-- [@article@PyTorch Explained: From Automatic Differentiation to Training Custom Neural Networks](https://towardsdatascience.com/the-basics-of-deep-learning-with-pytorch-in-1-hour/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)
-- [@video@PyTorch in 100 seconds](https://www.youtube.com/watch?v=ORMx45xqWkA)
-- [@video@PyTorch for Deep Learning & Machine Learning – Full Course](https://www.youtube.com/watch?v=V_xro1bcAuA)
+- [@official@Documentação do PyTorch](https://pytorch.org/docs/stable/index.html)
+- [@article@O que é o PyTorc? | IBM](https://www.ibm.com/think/topics/pytorch)
+- [@article@Explicando PyTorch: Da diferenciação automática até a treinamento de redes neurais personalizadas](https://towardsdatascience.com/a-brief-introduction-to-deep-learning-with-pytorch-in-1-hour/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)
+- [@video@PyTorch em 100 segundos](https://www.youtube.com/watch?v=ORMx45xqWkA)
+- [@video@Curso completo de PyTorch para aprendizado profundo e aprendizagem de máquina](https://www.youtube.com/watch?v=V_xro1bcAuA)

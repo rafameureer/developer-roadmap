@@ -1,10 +1,10 @@
-# Data Pipelines
+# Pipelines de Dados
 
-Data pipelines are a series of automated processes that transport and transform data from various sources to a destination for analysis or storage. They typically involve steps like data extraction, cleaning, transformation, and loading (ETL) into databases, data lakes, or warehouses. Pipelines can handle batch or real-time data, ensuring that large-scale datasets are processed efficiently and consistently. They play a crucial role in ensuring data integrity and enabling businesses to derive insights from raw data for reporting, analytics, or machine learning.
+Pipelines de dados são uma série de processos automatizados que transportam e transformam dados de várias fontes para um destino para análise ou armazenamento. Eles geralmente envolvem etapas como extração de dados, limpeza, transformação e carregamento (ETL) em bancos de dados, data lakes ou warehouses. Os pipelines podem lidar com dados em lote ou em tempo real, garantindo que grandes conjuntos de dados sejam processados eficientemente e consistentemente. Eles desempenham um papel crucial na garantia da integridade dos dados e na capacidade de empresas derivarem insights a partir de dados brutos para relatórios, análise ou aprendizado de máquina.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is a Data Pipeline? - IBM](https://www.ibm.com/topics/data-pipeline)
-- [@article@How to Build Data Pipelines for Machine Learning](https://towardsdatascience.com/how-to-build-data-pipelines-for-machine-learning-b97bbef050a5/)
-- [@article@Read Articles about Data Pipelines](https://towardsdatascience.com/tag/data-pipeline/)
-- [@video@What are Data Pipelines?](https://www.youtube.com/watch?v=oKixNpz6jNo)
+- [@article@O que é um Pipeline de Dados? - IBM](https://www.ibm.com/topics/data-pipeline)
+- [@article@Como Construir Pipelines de Dados para Aprendizado de Máquina](https://towardsdatascience.com/how-to-build-data-pipelines-for-machine-learning-b97bbef050a5/)
+- [@article@Leia Artigos sobre Pipelines de Dados](https://towardsdatascience.com/tag/data-pipeline/)
+- [@video@O que são Pipelines de Dados?](https://www.youtube.com/watch?v=oKixNpz6jNo)

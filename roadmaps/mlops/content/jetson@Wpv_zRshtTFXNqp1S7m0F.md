@@ -1,9 +1,9 @@
 # Jetson
 
-NVIDIA Jetson is a series of embedded computing systems designed for AI and robotics applications. These systems-on-modules (SoMs) provide high-performance processing capabilities in a compact, energy-efficient form factor, enabling developers to deploy AI models and perform complex computations directly on edge devices. Jetson platforms are commonly used in applications like autonomous vehicles, drones, smart cameras, and industrial automation, where real-time data processing and low latency are critical.
+O Jetson da NVIDIA é uma série de sistemas de computação embarcada projetados para aplicações de inteligência artificial e robótica. Esses sistemas-on-modules (SoMs) oferecem capacidades de processamento de alto desempenho em um formato compacto e eficiente em energia, permitindo aos desenvolvedores implantar modelos de IA e realizar cálculos complexos diretamente em dispositivos de borda. Plataformas Jetson são comumente usadas em aplicações como veículos autônomos, drones, câmeras inteligentes e automação industrial, onde o processamento de dados em tempo real e baixa latência são cruciais.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@NVIDIA Jetson Modules](https://developer.nvidia.com/embedded/jetson-modules)
-- [@article@What Is NVIDIA Jetson? A Beginner’s Guide to Powerful Edge AI Modules](https://blog.aetherix.com/nvidia-jetson-beginners-guide/)
-- [@video@NVIDIA Jetson Orin Nano Super COMPLETE Setup Guide & Tutorial](https://www.youtube.com/watch?v=-PjMC0gyH9s)
+- [@official@Módulos Jetson da NVIDIA](https://developer.nvidia.com/embedded/jetson-modules)
+- [@article@O que é a Jetson da NVIDIA? Um guia iniciante para módulos de IA em borda poderosos](https://blog.aetherix.com/nvidia-jetson-beginners-guide/)
+- [@video@Guia completo e tutorial sobre a configuração da Jetson Orin Nano](https://www.youtube.com/watch?v=-PjMC0gyH9s)

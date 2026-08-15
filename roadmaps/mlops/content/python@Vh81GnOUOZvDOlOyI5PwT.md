@@ -1,11 +1,11 @@
 # Python
 
-Python is a widely used programming language known for its clear syntax and extensive libraries. It's a versatile tool that can handle many tasks, from simple scripting to complex software development. Its ease of use and the availability of specialized libraries for data analysis, machine learning, and automation make it a popular choice for building and deploying machine learning systems.
+Python é um linguagem de programação amplamente utilizada conhecida por sua sintaxe clara e bibliotecas extensivas. É uma ferramenta versátil que pode lidar com muitas tarefas, desde scripts simples até desenvolvimento de software complexo. Sua facilidade de uso e a disponibilidade de bibliotecas especializadas para análise de dados, aprendizado de máquina e automação o tornam um escolha popular para construir e implantar sistemas de aprendizado de máquina.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit Dedicated Python Roadmap](https://roadmap.sh/python)
+- [@roadmap@Visite o Caminho do Python dedicado](https://roadmap.sh/python)
 - [@official@Python](https://www.python.org/)
 - [@article@Real Python](https://realpython.com/)
 - [@article@Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
-- [@feed@Explore top posts about Python](https://app.daily.dev/tags/python?ref=roadmapsh)
+- [@feed@Explore as principais postagens sobre Python](https://app.daily.dev/tags/python?ref=roadmapsh)

@@ -1,8 +1,8 @@
-# Data Lineage and Feature Stores
+# Linha de Dados e Armazens de Recursos
 
-**Data Lineage** refers to the life-cycle of data, including its origins, movements, characteristics and quality. It's a critical component in MLOps for tracking the journey of data through every process in a pipeline, from raw input to model output. Data lineage helps in maintaining transparency, ensuring compliance, and facilitating data debugging or tracing data-related bugs. It provides a clear representation of data sources, transformations, and dependencies, thereby aiding in audits, governance, or reproduction of machine learning models.
+**Linha de Dados** refere-se ao ciclo de vida dos dados, incluindo suas origens, movimentos, características e qualidade. É um componente crítico em MLOps para rastrear o percurso do dado através de cada processo em uma pipeline, desde a entrada bruta até a saída do modelo. A linha de dados ajuda a manter a transparência, garantir conformidade e facilitar a depuração ou rastreamento de bugs relacionados aos dados. Ela fornece uma representação clara das fontes de dados, transformações e dependências, auxiliando na auditoria, governança ou reprodução de modelos de aprendizado de máquina.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Data Lineage?](https://www.ibm.com/topics/data-lineage)
-- [@article@What is a Feature Store](https://www.snowflake.com/guides/what-feature-store-machine-learning/)
+- [@article@O que é Linha de Dados?](https://www.ibm.com/topics/data-lineage)
+- [@article@O que é um Armazem de Recursos](https://www.snowflake.com/guides/what-feature-store-machine-learning/)

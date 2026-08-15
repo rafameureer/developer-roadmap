@@ -1,11 +1,11 @@
 # CI/CD
 
-CI/CD, which stands for Continuous Integration and Continuous Delivery/Deployment, is a software development practice focused on automating and streamlining the process of building, testing, and releasing software changes. Continuous Integration involves frequently merging code changes into a central repository, followed by automated builds and tests. Continuous Delivery/Deployment then automates the release of these changes to various environments, ultimately aiming for faster and more reliable software releases.
+CI/CD, que significa Integração Contínua e Entrega/Implantação Contínua, é uma prática de desenvolvimento de software focada em automatizar e otimizar o processo de construção, teste e lançamento de alterações de software. A Integração Contínua envolve frequentemente a fusão de mudanças de código em um repositório central, seguido por builds e testes automáticos. A Entrega/Implantação Contínua então automatiza o lançamento dessas mudanças em vários ambientes, com o objetivo final de lançamentos de software mais rápidos e confiáveis.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@What is CI/CD?](https://about.gitlab.com/topics/ci-cd/)
-- [@article@A Primer: Continuous Integration and Continuous Delivery (CI/CD)](https://thenewstack.io/a-primer-continuous-integration-and-continuous-delivery-ci-cd/)
-- [@article@DevOps CI/CD Explained in 100 Seconds](https://thenewstack.io/category/ci-cd/)
-- [@video@Automate your Workflows with GitHub Actions](https://www.youtube.com/watch?v=scEDHsr3APg)
-- [@feed@Articles about CI/CD](https://app.daily.dev/tags/version-control?ref=roadmapsh)
+- [@official@O que é CI/CD?](https://about.gitlab.com/topics/ci-cd/)
+- [@article@Guia Inicial: Integração Contínua e Entrega/Implantação (CI/CD)](https://thenewstack.io/a-primer-continuous-integration-and-continuous-delivery-ci-cd/)
+- [@article@Explicação de CI/CD em DevOps em 100 Segundos](https://thenewstack.io/category/ci-cd/)
+- [@video@Automatize seus Fluxos de Trabalho com GitHub Actions](https://www.youtube.com/watch?v=scEDHsr3APg)
+- [@feed@Artigos sobre CI/CD](https://app.daily.dev/tags/version-control?ref=roadmapsh)

@@ -1,11 +1,11 @@
 # Spark
 
-Apache Spark is an open-source distributed computing system designed for big data processing and analytics. It offers a unified interface for programming entire clusters, enabling efficient handling of large-scale data with built-in support for data parallelism and fault tolerance. Spark excels in processing tasks like batch processing, real-time data streaming, machine learning, and graph processing. It’s known for its speed, ease of use, and ability to process data in-memory, significantly outperforming traditional MapReduce systems. Spark is widely used in big data ecosystems for its scalability and versatility across various data processing tasks.
+O Apache Spark é um sistema de computação distribuída de código aberto projetado para o processamento e análise de grandes volumes de dados. Ele oferece uma interface unificada para programar toda a infraestrutura, permitindo o tratamento eficiente de grandes conjuntos de dados com suporte embutido para paralelismo de dados e tolerância a falhas. O Spark excelle em tarefas como processamento por lotes, streaming de dados em tempo real, aprendizado de máquina e processamento de grafos. Ele é conhecido por sua velocidade, facilidade de uso e capacidade de processar dados na memória, significativamente superando sistemas tradicionais de MapReduce. O Spark é amplamente utilizado em ecossistemas de big data por sua escabilidade e versatilidade em várias tarefas de processamento de dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@ApacheSpark](https://spark.apache.org/documentation.html)
 - [@article@Spark By Examples](https://sparkbyexamples.com)
-- [@article@First Steps in Machine Learning with Apache Spark](https://towardsdatascience.com/first-steps-in-machine-learning-with-apache-spark-672fe31799a3/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)
-- [@article@Complete Guide to Spark and PySpark Setup for Data Science](https://towardsdatascience.com/complete-guide-to-spark-and-pyspark-setup-for-data-science-374ecd8d1eea/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)
-- [@video@Apache Spark Architecture - EXPLAINED!](https://www.youtube.com/watch?v=iXVIPQEGZ9Y)
+- [@article@Primeiros Passos no Aprendizado de Máquina com Apache Spark](https://towardsdatascience.com/first-steps-in-machine-learning-with-apache-spark-672fe31799a3/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)
+- [@article@Guia Completo para a Configuração do Spark e PySpark para Ciência de Dados](https://towardsdatascience.com/complete-guide-to-spark-and-pyspark-setup-for-data-science-374ecd8d1eea/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)
+- [@video@Arquitetura do Apache Spark - EXPLAINED!](https://www.youtube.com/watch?v=iXVIPQEGZ9Y)

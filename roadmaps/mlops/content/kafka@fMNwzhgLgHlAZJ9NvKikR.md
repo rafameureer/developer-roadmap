@@ -1,11 +1,11 @@
 # Kafka
 
-Kafka is a distributed, fault-tolerant, high-throughput streaming platform. It's primarily used for building real-time data pipelines and streaming applications, allowing you to publish, subscribe to, store, and process streams of records. These streams can originate from various sources and be consumed by multiple applications simultaneously.
+O Apache Kafka é uma plataforma de streaming distribuída, tolerante a falhas e de alta taxa de transferência. Ele é principalmente usado para construir pipelines de dados em tempo real e aplicativos de streaming, permitindo que você publique, assine, armazene e processe fluxos de registros. Esses fluxos podem originar-se de várias fontes e serem consumidos por múltiplos aplicativos simultaneamente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Apache Kafka Quickstart](https://kafka.apache.org/quickstart)
-- [@article@What is Apache Kafka?](https://aws.amazon.com/what-is/apache-kafka/)
-- [@article@End-to-End Data Engineering System on Real Data with Kafka, Spark, Airflow, Postgres, and Docker](https://towardsdatascience.com/end-to-end-data-engineering-system-on-real-data-with-kafka-spark-airflow-postgres-and-docker-a70e18df4090/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)
-- [@video@Apache Kafka Fundamentals](https://www.youtube.com/watch?v=B5j3uNBH8X4)
-- [@feed@Explore top posts about Kafka](https://app.daily.dev/tags/kafka?ref=roadmapsh)
+- [@official@Guia rápido do Apache Kafka](https://kafka.apache.org/quickstart)
+- [@article@O que é o Apache Kafka?](https://aws.amazon.com/what-is/apache-kafka/)
+- [@article@Sistema de engenharia de dados em tempo real com Kafka, Spark, Airflow, Postgres e Docker](https://towardsdatascience.com/end-to-end-data-engineering-system-on-real-data-with-kafka-spark-airflow-postgres-and-docker-a70e18df4090/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)
+- [@video@Fundamentos do Apache Kafka](https://www.youtube.com/watch?v=B5j3uNBH8X4)
+- [@feed]Explore os melhores posts sobre o Kafka</a> (https://app.daily.dev/tags/kafka?ref=roadmapsh)

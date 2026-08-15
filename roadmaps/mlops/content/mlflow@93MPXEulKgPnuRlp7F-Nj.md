@@ -1,13 +1,13 @@
 # MLflow
 
-MLflow is an open-source platform designed to manage the complete machine learning lifecycle. It provides tools for tracking experiments, packaging code into reproducible runs, and deploying models to various platforms. MLflow helps data scientists and engineers streamline their workflows, collaborate effectively, and ensure the reliability of their machine learning projects.
+O MLflow é uma plataforma de código aberto projetada para gerenciar o ciclo completo do machine learning. Ele fornece ferramentas para rastrear experimentos, empacotar código em execuções reproduzíveis e implantar modelos em várias plataformas. O MLflow ajuda cientistas de dados e engenheiros a streamlinar seus fluxos de trabalho, colaborar efetivamente e garantir a confiabilidade dos projetos de machine learning.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@MLFlow](https://mlflow.org/)
-- [@official@MLFlow Docs](https://mlflow.org/docs/latest/)
-- [@opensource@mlflow](https://github.com/mlflow/mlflow)
-- [@article@Streamline Your Machine Learning Workflow with MLFlow](https://www.datacamp.com/tutorial/mlflow-streamline-machine-learning-workflow)
-- [@article@Comprehensive Guide to MlFlow](https://towardsdatascience.com/comprehensive-guide-to-mlflow-b84086b002ae/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)
-- [@video@MLFlow Tutorial | ML Ops Tutorial](https://www.youtube.com/watch?v=6ngxBkx05Fs)
-- [@video@MLflow for Machine Learning Development - Video Introduction](https://www.youtube.com/watch?v=5pPflDSdFLg&list=PLQqR_3C2fhUUOmaeowgv4WquvH515zVmo)
+- [@official@Documentação do MLFlow](https://mlflow.org/docs/latest/)
+- [@opensource@MLflow](https://github.com/mlflow/mlflow)
+- [@article@Otimize seu Fluxo de Trabalho de Machine Learning com o MLFlow](https://www.datacamp.com/tutorial/mlflow-streamline-machine-learning-workflow)
+- [@article@Guia Completo do MLFlow](https://towardsdatascience.com/comprehensive-guide-to-mlflow-b84086b002ae/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)
+- [@video@Tutorial de MLFlow | Tutorial de ML Ops](https://www.youtube.com/watch?v=6ngxBkx05Fs)
+- [@video@Introdução ao MLflow para o Desenvolvimento de Machine Learning - Vídeo](https://www.youtube.com/watch?v=5pPflDSdFLg&list=PLQqR_3C2fhUUOmaeowgv4WquvH515zVmo)

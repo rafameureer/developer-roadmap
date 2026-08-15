@@ -1,10 +1,10 @@
-# Version Control Systems
+# Sistemas de Controle de Versão
 
-Version control systems are tools that track changes to files over time. They allow multiple people to work on the same project simultaneously without overwriting each other's work. These systems record a history of modifications, enabling users to revert to previous versions, compare changes, and understand who made specific alterations and when.
+Sistemas de controle de versão são ferramentas que rastreiam as alterações em arquivos ao longo do tempo. Eles permitem que várias pessoas trabalhem no mesmo projeto simultaneamente sem sobrescrever o trabalho um do outro. Esses sistemas registram uma história das modificações, permitindo aos usuários reverter para versões anteriores, comparar alterações e entender quem fez alterações específicas e quando.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit Dedicated Git & GitHub Roadmap](https://roadmap.sh/git-github)
-- [@official@Git Documentation](https://git-scm.com/docs)
-- [@article@Learn Git by Atlassian](https://www.atlassian.com/git)
-- [@video@hat is a Version Control System and why you should always use it](https://www.youtube.com/watch?v=IeXhYROClZk)
+- [@roadmap@Visite o Caminho Dedidado do Git & GitHub](https://roadmap.sh/git-github)
+- [@official@Documentação do Git](https://git-scm.com/docs)
+- [@article@Aprenda o Git pela Atlassian](https://www.atlassian.com/git)
+- [@video@O que é um Sistema de Controle de Versão e por que você sempre deve usá-lo](https://www.youtube.com/watch?v=IeXhYROClZk)

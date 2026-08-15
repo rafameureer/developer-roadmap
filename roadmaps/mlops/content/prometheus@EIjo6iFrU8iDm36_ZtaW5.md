@@ -1,10 +1,10 @@
 # Prometheus
 
-Prometheus is an open-source monitoring and alerting toolkit originally built at SoundCloud. It collects and stores metrics as time-series data, meaning metrics are stored with a timestamp at which they were recorded, along with optional key-value pairs called labels. Prometheus uses a pull model to scrape metrics from instrumented jobs, either directly or via push gateways for short-lived jobs. It offers a powerful query language (PromQL) to analyze and visualize the collected data, enabling users to set up alerts based on defined thresholds.
+Prometheus é uma ferramenta de monitoramento e alertas de código aberto originalmente construída na SoundCloud. Ele coleta e armazena métricas como dados de séries temporais, o que significa que as métricas são armazenadas com um timestamp no qual foram registradas, junto com pares chave-valor opcionais chamados rótulos. Prometheus usa um modelo de extração para raspar métricas dos trabalhos instrumentados, diretamente ou por meio de gateways de push para trabalhos de curta duração. Ele oferece uma linguagem de consulta poderosa (PromQL) para analisar e visualizar os dados coletados, permitindo que usuários configurem alertas com base em thresholds definidos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Prometheus Website](https://prometheus.io/)
-- [@official@Prometheus Docs](https://prometheus.io/docs/introduction/overview/)
-- [@official@Getting Started with Prometheus](https://prometheus.io/docs/tutorials/getting_started/)
-- [@video@Introduction to the Prometheus Monitoring System | Key Concepts and Features](https://www.youtube.com/watch?v=STVMGrYIlfg&t=16s)
+- [@official@Site oficial do Prometheus](https://prometheus.io/)
+- [@official@Documentação do Prometheus](https://prometheus.io/docs/introduction/overview/)
+- [@official@Introdução ao Prometheus](https://prometheus.io/docs/tutorials/getting_started/)
+- [@video@Introdução ao Sistema de Monitoramento do Prometheus | Conceitos Chave e Funcionalidades](https://www.youtube.com/watch?v=STVMGrYIlfg&t=16s)

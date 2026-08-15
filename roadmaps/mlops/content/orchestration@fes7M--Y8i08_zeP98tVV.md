@@ -1,10 +1,10 @@
-# Orchestration
+# Orquestração
 
-ML orchestration refers to the process of managing and coordinating the various tasks and workflows involved in the machine learning lifecycle, from data preparation and model training to deployment and monitoring. It involves integrating multiple tools and platforms to streamline operations, automate repetitive tasks, and ensure seamless collaboration among data scientists, engineers, and operations teams. By using orchestration frameworks, organizations can enhance reproducibility, scalability, and efficiency, enabling them to manage complex machine learning pipelines and improve the overall quality of models in production. This ensures that models are consistently updated and maintained, facilitating rapid iteration and adaptation to changing data and business needs.
+A orquestração de ML refere-se ao processo de gerenciar e coordenar as várias tarefas e fluxos de trabalho envolvidos no ciclo de vida do aprendizado de máquina, desde a preparação dos dados e o treinamento do modelo até a implantação e monitoramento. Envolve a integração de vários ferramentas e plataformas para otimizar operações, automatizar tarefas repetitivas e garantir uma colaboração fluida entre cientistas de dados, engenheiros e equipes de operações. Ao usar estruturas de orquestração, organizações podem melhorar a reproducibilidade, escalabilidade e eficiência, permitindo-lhes gerenciar pipelines complexos de aprendizado de máquina e melhorar a qualidade geral dos modelos em produção. Isso garante que os modelos sejam atualizados e mantidos consistentemente, facilitando iterações rápidas e adaptação às mudanças nos dados e nas necessidades do negócio.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@An Introduction to Data Orchestration: Process and Benefits](https://www.datacamp.com/blog/introduction-to-data-orchestration-process-and-benefits)
-- [@article@A Complete Guide to Understanding Data Orchestration](https://towardsdatascience.com/a-complete-guide-to-understanding-data-orchestration-87a20b46297c/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)
-- [@article@Data Orchestration Tools (Quick Reference Guide)](https://www.montecarlodata.com/blog-11-data-orchestration-tools)
-- [@video@What is Data Orchestration?](https://www.youtube.com/watch?v=iyw9puEmTrA)
+- [@artigo@Introdução à Orquestração de Dados: Processo e Benefícios](https://www.datacamp.com/blog/introduction-to-data-orchestration-process-and-benefits)
+- [@artigo@Guia Completo para Entender a Orquestração de Dados](https://towardsdatascience.com/a-complete-guide-to-understanding-data-orchestration-87a20b46297c/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)
+- [@artigo@Ferramentas de Orquestração de Dados (Guia Rápido)](https://www.montecarlodata.com/blog-11-data-orchestration-tools)
+- [@vídeo@O que é Orquestração de Dados?](https://www.youtube.com/watch?v=iyw9puEmTrA)

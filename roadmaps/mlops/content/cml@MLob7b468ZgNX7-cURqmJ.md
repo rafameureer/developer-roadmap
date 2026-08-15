@@ -1,9 +1,9 @@
-# Continuous Machine Learning (CML)
+# Machine Learning Contínuo (CML)
 
-Continuous Machine Learning (CML) is a tool designed to bring continuous integration and continuous delivery (CI/CD) principles to machine learning projects. It allows data scientists and machine learning engineers to automate the process of training, evaluating, and deploying machine learning models. CML integrates with existing CI/CD systems to provide feedback on model performance and data quality with each code change.
+O Machine Learning Contínuo (CML) é uma ferramenta projetada para trazer os princípios de integração contínua e entrega contínua (CI/CD) aos projetos de machine learning. Ele permite que cientistas de dados e engenheiros de machine learning automatizem o processo de treinamento, avaliação e implantação de modelos de machine learning. O CML integra-se com sistemas CI/CD existentes para fornecer feedback sobre o desempenho do modelo e a qualidade dos dados com cada alteração de código.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@CML](https://cml.dev/)
-- [@official@Get Started with CML](https://cml.dev/doc/start)
-- [@article@Continuous Machine Learning](https://towardsdatascience.com/continuous-machine-learning-e1ffb847b8da/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)
+- [@oficial@CML](https://cml.dev/)
+- [@oficial@Comece com CML](https://cml.dev/doc/start)
+- [@artigo@Machine Learning Contínuo](https://towardsdatascience.com/continuous-machine-learning-e1ffb847b8da/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)

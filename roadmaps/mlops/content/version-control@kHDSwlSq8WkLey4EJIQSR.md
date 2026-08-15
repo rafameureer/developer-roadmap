@@ -1,12 +1,12 @@
-# Version Control
+# Controle de Versão
 
-Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later. It allows multiple people to collaborate on the same project without overwriting each other's work. This system tracks modifications to code, configurations, data, and other artifacts, providing a history of changes and enabling easy rollback to previous states.
+O controle de versão é um sistema que registra as alterações em um arquivo ou conjunto de arquivos ao longo do tempo, para que você possa recuperar versões específicas mais tarde. Ele permite que várias pessoas colaborem no mesmo projeto sem sobrescrever o trabalho umas das outras. Este sistema rastreia as modificações no código, nas configurações, nos dados e em outros artefatos, fornecendo uma história de alterações e permitindo a rolagem para trás facilmente para estados anteriores.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated Git & GitHub Roadmpa](https://roadmap.sh/git-github)
+- [@roadmap@Visite o Caminho Dedidado do Git & GitHub](https://roadmap.sh/git-github)
 - [@official@Git](https://git-scm.com/)
-- [@official@Git Documentation](https://git-scm.com/docs)
-- [@article@What is Version Control?](https://www.atlassian.com/git/tutorials/what-is-version-control)
-- [@article@Getting Started with Git and GitHub: A Complete Tutorial for Beginner](https://towardsdatascience.com/learn-basic-git-commands-for-your-data-science-works-2a75396d530d/)
-- [@feed@Explore top posts about Version Control](https://app.daily.dev/tags/version-control?ref=roadmapsh)
+- [@official@Documentação do Git](https://git-scm.com/docs)
+- [@article@O que é Controle de Versão?](https://www.atlassian.com/git/tutorials/what-is-version-control)
+- [@article@Começando com o Git e o GitHub: Um Tutorial Completo para Iniciantes](https://towardsdatascience.com/learn-basic-git-commands-for-your-data-science-works-2a75396d530d/)
+- [@feed@Explore as principais postagens sobre Controle de Versão](https://app.daily.dev/tags/version-control?ref=roadmapsh)

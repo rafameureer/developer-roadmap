@@ -1,8 +1,8 @@
-# Experiment Tracking and Model Registry
+# Rastreamento de Experimentos e Registro de Modelos
 
-**Experiment Tracking** is an essential part of MLOps, providing a system to monitor and record the different experiments conducted during the machine learning model development process. This involves capturing, organizing and visualizing the metadata associated with each experiment, such as hyperparameters used, models produced, metrics like accuracy or loss, and other information about the computational environment. This tracking allows for reproducibility of experiments, comparison across different experiment runs, and helps in identifying the best models.
+**Rastreamento de Experimentos** é uma parte essencial do MLOps, fornecendo um sistema para monitorar e registrar os diferentes experimentos realizados durante o processo de desenvolvimento de modelos de aprendizado de máquina. Isso envolve capturar, organizar e visualizar as metadados associados a cada experimento, como hiperparâmetros usados, modelos produzidos, métricas como acurácia ou perda, e outras informações sobre o ambiente computacional. Este rastreamento permite a reprodução dos experimentos, comparação entre diferentes execuções de experimentos e ajuda a identificar os melhores modelos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Experiment Tracking](https://madewithml.com/courses/mlops/experiment-tracking/#dashboard)
-- [@article@ML Flow Model Registry](https://mlflow.org/docs/latest/model-registry.html)
+- [@artigo@Rastreamento de Experimentos](https://madewithml.com/courses/mlops/experiment-tracking/#dashboard)
+- [@artigo@Registro de Modelos do ML Flow](https://mlflow.org/docs/latest/model-registry.html)

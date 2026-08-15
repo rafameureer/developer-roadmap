@@ -1,8 +1,8 @@
-# Orchestration & Deployment
+# Orquestração e Implantação
 
-Orchestration and deployment involve automating the process of taking a trained machine learning model and making it available for use in a production environment. This includes managing the workflow of model building, testing, and releasing, as well as handling the infrastructure needed to serve the model and scale it to meet demand. It ensures that models are reliably and efficiently integrated into applications and systems.
+A orquestração e implantação envolvem automatizar o processo de levar um modelo de aprendizado de máquina treinado para disponibilizá-lo em um ambiente de produção. Isso inclui gerenciar o fluxo de trabalho do desenvolvimento, teste e lançamento do modelo, bem como lidar com a infraestrutura necessária para servir o modelo e escalar para atender à demanda. Garante que os modelos sejam integrados de forma confiável e eficiente em aplicações e sistemas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is orchestration?](https://www.redhat.com/en/topics/automation/what-is-orchestration)
-- [@video@What is Data Orchestration?](https://www.youtube.com/watch?v=iyw9puEmTrA)
+- [@artigo@O que é orquestração?](https://www.redhat.com/en/topics/automation/what-is-orchestration)
+- [@vídeo@O que é Orquestração de Dados?](https://www.youtube.com/watch?v=iyw9puEmTrA)

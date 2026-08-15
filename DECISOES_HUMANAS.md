@@ -4,7 +4,7 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 
 ---
 
-> ⚠️ **Total de itens sinalizados:** 1191
+> ⚠️ **Total de itens sinalizados:** 1211
 
 | Arquivo / Tópico | Motivo da Sinalização | Data/Hora |
 |---|---|---|
@@ -1199,3 +1199,23 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 | `roadmaps/machine-learning/content/singular-value-decomposition@yGs2h10gZcO4GMaWfI3uW.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:37:00.831936 |
 | `roadmaps/machine-learning/content/skills-and-responsibilities@BzZd-d5t63dY97SRSIb0J.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:37:03.685977 |
 | `roadmaps/machine-learning/content/statistics@5DiaZkljhHAGPi9DkaH3b.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:37:08.972880 |
+| `roadmaps/mlops/content/airflow@AjZHJcxUY29WZbCvr3zrs.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:39:23.309108 |
+| `roadmaps/mlops/content/ansible@-_obgPIUaZ4BVpg29xG_9.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:39:28.961424 |
+| `roadmaps/mlops/content/aws--azure--gcp@u3E7FGW4Iwdsu61KYFxCX.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:39:35.172721 |
+| `roadmaps/mlops/content/bash@mMzqJF2KQ49TDEk5F3VAI.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:39:54.407782 |
+| `roadmaps/mlops/content/cicd@a6vawajw7BpL6plH_nuAz.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:39:58.772477 |
+| `roadmaps/mlops/content/containerization@tKeejLv8Q7QX40UtOjpav.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:40:50.904797 |
+| `roadmaps/mlops/content/data-engineering-fundamentals@VykbCu7LWIx8fQpqKzoA7.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:40:56.570734 |
+| `roadmaps/mlops/content/data-ingestion-architecture@Berd78HvnulNEGOsHCf8n.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:41:04.821122 |
+| `roadmaps/mlops/content/git@06T5CbZAGJU6fJhCmqCC8.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:42:29.974876 |
+| `roadmaps/mlops/content/github-actions@SCn-6w1UEQwoLQ_dOPpL5.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:42:34.226734 |
+| `roadmaps/mlops/content/gitlab@mu56TlVkhhgVzzESDRobc.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:43:03.164731 |
+| `roadmaps/mlops/content/go@vdVq3RQvQF3mF8PQc6DMg.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:43:10.409984 |
+| `roadmaps/mlops/content/infrastructure-as-code@sf67bSL7HAx6iN7S6MYKs.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:43:41.544630 |
+| `roadmaps/mlops/content/jenkins@75mlW2JoUqSNFK2IDfqFP.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:43:48.159320 |
+| `roadmaps/mlops/content/kubernetes@XQoK9l-xtN2J8ZV8dw53X.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:44:28.543116 |
+| `roadmaps/mlops/content/lime@pVSlVHXIap0unFxLGM-lQ.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:44:32.855832 |
+| `roadmaps/mlops/content/machine-learning-fundamentals@ulka7VEVjz6ls5SnI6a6z.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:44:40.124775 |
+| `roadmaps/mlops/content/model-training--serving@zsW1NRb0dMgS-KzWsI0QU.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:45:55.988213 |
+| `roadmaps/mlops/content/monitoring--observability@fR4Qr_ifoBLTpxdkJ50rB.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:46:01.167394 |
+| `roadmaps/mlops/content/monitoring--observability@r4fbUwD83uYumEO1X8f09.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:46:08.358977 |

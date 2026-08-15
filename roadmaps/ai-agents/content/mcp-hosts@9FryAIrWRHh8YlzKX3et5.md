@@ -1,10 +1,10 @@
-# MCP Hosts
+# Hospedeiros MCP
 
-MCP Hosts are computers or services that run the Model Context Protocol. They handle incoming calls, load the MCP manifest, check requests, and pass data between users, tools, and language models. Hosts may cache recent messages, track token usage, and add safety or billing checks before sending prompts to the model. They expose an API endpoint so apps can connect easily. You can run a host on your laptop for testing or deploy it on cloud platforms for scale. The host acts as the trusted bridge where agents, tools, and data meet.
+Os Hospedeiros MCP são computadores ou serviços que executam o Protocolo de Contexto do Modelo. Eles lidam com chamadas recebidas, carregam o manifesto do MCP, verificam solicitações e passam dados entre usuários, ferramentas e modelos linguísticos. Os hospedeiros podem armazenar em cache mensagens recentes, rastrear o uso de tokens e adicionar verificações de segurança ou cobrança antes de enviar prompts para o modelo. Eles expõem um endpoint da API para que aplicativos possam se conectar facilmente. Você pode executar um hospedeiro em seu laptop para testes ou implantá-lo em plataformas de nuvem para escala. O hospedeiro atua como a ponte confiável onde agentes, ferramentas e dados se encontram.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Vercel Serverless Hosting](https://vercel.com/docs)
+- [@oficial@Vercel Serviço de Hospedagem Serverless](https://vercel.com/docs)
 - [@opensource@punkeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
-- [@article@The Ultimate Guide to MCP](https://guangzhengli.com/blog/en/model-context-protocol)
-- [@article@AWS MCP Servers for Code Assistants](https://aws.amazon.com/blogs/machine-learning/introducing-aws-mcp-servers-for-code-assistants-part-1/)
+- [@artigo@O Guia Definitivo sobre MCP](https://guangzhengli.com/blog/en/model-context-protocol)
+- [@artigo@Servidores MCP da AWS para Assistentes de Código](https://aws.amazon.com/blogs/machine-learning/introducing-aws-mcp-servers-for-code-assistants-part-1/)

@@ -1,8 +1,8 @@
-# API Requests
+# Solicitações de API
 
-API requests let an AI agent ask another service for data or for an action. The agent builds a short message that follows the service’s rules, sends it over the internet, and waits for a reply. For example, it can call a weather API to get today’s forecast or a payment API to charge a customer. Each request has a method like GET or POST, a URL, and often a small block of JSON with needed details. The service answers with another JSON block that the agent reads and uses. Because API requests are fast and clear, they are a common tool for connecting the agent to many other systems without extra work.
+As solicitações de API permitem que um agente de IA faça uma solicitação a outro serviço por dados ou para uma ação. O agente constrói uma mensagem curta que segue as regras do serviço, a envia pela internet e espera uma resposta. Por exemplo, pode chamar uma API de clima para obter o previsão do tempo de hoje ou uma API de pagamento para cobrar um cliente. Cada solicitação tem um método como GET ou POST, uma URL e geralmente um pequeno bloco de JSON com detalhes necessários. O serviço responde com outro bloco JSON que o agente lê e usa. Porque as solicitações de API são rápidas e claras, elas são uma ferramenta comum para conectar o agente a muitos outros sistemas sem trabalho extra.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Introduction to APIs - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Client-side_APIs/Introduction)
-- [@article@How APIs Power AI Agents: A Comprehensive Guide](https://blog.treblle.com/api-guide-for-ai-agents/)
+- [@article@Introdução às APIs - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Client-side_APIs/Introduction)
+- [@article@Como as APIs Potencializam Agentes de IA: Um Guia Completo](https://blog.treblle.com/api-guide-for-ai-agents/)

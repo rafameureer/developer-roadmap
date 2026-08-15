@@ -1,11 +1,11 @@
-# Long Term Memory
+# Memória a Longo Prazo
 
-Long term memory in an AI agent stores important information for future use, like a digital notebook. It saves facts, past events, user preferences, and learned skills so the agent can make smarter and more consistent decisions over time. Unlike short-term memory, this data survives across sessions. When a similar situation comes up, the agent can look back and use what it already knows. Long term memory usually lives in a database, file system, or vector store and may hold text, numbers, embeddings, or past conversation states. Good management of long-term memory is key for building agents that feel personalized and get better with experience.
+A memória a longo prazo em um agente de IA armazena informações importantes para uso futuro, como um caderno digital. Ele salva fatos, eventos passados, preferências do usuário e habilidades aprendidas para que o agente possa tomar decisões mais inteligentes e consistentes ao longo do tempo. Diferentemente da memória a curto prazo, esses dados sobrevivem entre sessões. Quando uma situação semelhante aparece, o agente pode olhar para trás e usar o que já sabe. A memória a longo prazo geralmente vive em um banco de dados, sistema de arquivos ou armazenamento vetorial e pode conter texto, números, embeddings ou estados de conversas passadas. Boa gestão da memória a longo prazo é crucial para construir agentes que se sintam personalizados e melhorem com a experiência.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Long Term Memory in AI Agents](https://medium.com/@alozie_igbokwe/ai-101-long-term-memory-in-ai-agents-35f87f2d0ce0)
-- [@article@Memory Management in AI Agents](https://python.langchain.com/docs/how_to/chatbots_memory/)
-- [@article@Storing and Retrieving Knowledge for Agents](https://www.pinecone.io/learn/langchain-retrieval-augmentation/)
-- [@article@Short-Term vs Long-Term Memory in AI Agents](https://adasci.org/short-term-vs-long-term-memory-in-ai-agents/)
-- [@video@Building Brain-Like Memory for AI Agents](https://www.youtube.com/watch?v=VKPngyO0iKg)
+- [@artigo@Memória a Longo Prazo em Agentes de IA](https://medium.com/@alozie_igbokwe/ai-101-long-term-memory-in-ai-agents-35f87f2d0ce0)
+- [@artigo@Gerenciamento de Memória em Agentes de IA](https://python.langchain.com/docs/how_to/chatbots_memory/)
+- [@artigo@Armazenando e Recuperando Conhecimento para Agentes](https://www.pinecone.io/learn/langchain-retrieval-augmentation/)
+- [@artigo@Memória a Curto Prazo vs Memória a Longo Prazo em Agentes de IA](https://adasci.org/short-term-vs-long-term-memory-in-ai-agents/)
+- [@vídeo@Construindo uma Memória Semelhante ao Cérebro para Agentes de IA](https://www.youtube.com/watch?v=VKPngyO0iKg)

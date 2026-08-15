@@ -1,8 +1,8 @@
-# Web Search
+# Pesquisa na Web
 
-Web search lets an AI agent pull fresh facts, news, and examples from the internet while it is working. The agent turns a user request into search words, sends them to a search engine, and reads the list of results. It then follows the most promising links, grabs the page text, and picks out the parts that answer the task. This helps the agent handle topics that were not in its training data, update old knowledge, or double-check details. Web search covers almost any subject and is much faster than manual research, but the agent must watch for ads, bias, or wrong pages and cross-check sources to stay accurate.
+A pesquisa na web permite que um agente de IA busque fatos frescos, notícias e exemplos na internet enquanto está trabalhando. O agente transforma uma solicitação do usuário em palavras-chave de busca, as envia para um mecanismo de busca e lê a lista de resultados. Em seguida, ele segue os links mais promissores, captura o texto da página e seleciona as partes que respondem à tarefa. Isso ajuda o agente a lidar com tópicos que não estavam em seus dados de treinamento, atualizar conhecimentos antigos ou verificar detalhes. A pesquisa na web cobre praticamente qualquer assunto e é muito mais rápida do que a pesquisa manual, mas o agente deve estar atento aos anúncios, viéses ou páginas incorretas e cruzar as fontes para manter-se preciso.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@8 Best AI Search Engines for 2025](https://usefulai.com/tools/ai-search-engines)
-- [@article@Web Search Agent - PraisonAI Documentation](https://docs.praison.ai/agents/websearch)
+- [@artigo@8 Melhores motores de busca de IA para 2025](https://usefulai.com/tools/ai-search-engines)
+- [@artigo@Agente de Pesquisa na Web - Documentação do PraisonAI](https://docs.praison.ai/agents/websearch)

@@ -1,8 +1,8 @@
-# Bias & Toxicity Guardrails
+# Guardiões de Viés e Toxidão
 
-Bias and toxicity guardrails keep an AI agent from giving unfair or harmful results. Bias shows up when training data favors certain groups or views. Toxicity is language that is hateful, violent, or rude. To stop this, start with clean and balanced data. Remove slurs, stereotypes, and spam. Add examples from many voices so the model learns fair patterns. During training, test the model often and adjust weights or rules that lean one way. After training, put filters in place that block toxic words or flag unfair answers before users see them. Keep logs, run audits, and ask users for feedback to catch new issues early. Write down every step so builders and users know the limits and risks. These actions protect people, follow laws, and help users trust the AI.
+Guardiões de viés e toxidão impedem que um agente AI forneça resultados injustos ou prejudiciais. O viés aparece quando os dados de treinamento favorecem certos grupos ou visões. A toxidão é linguagem abusiva, violenta ou desrespeitoso. Para parar isso, comece com dados limpos e equilibrados. Remova juras, estereótipos e spam. Adicione exemplos de muitas vozes para que o modelo aprenda padrões justos. Durante o treinamento, teste frequentemente o modelo e ajuste pesos ou regras que inclinem uma direção. Após o treinamento, coloque filtros que bloqueiem palavras tóxicas ou sinalizem respostas injustas antes de os usuários vê-las. Mantenha logs, realize auditorias e solicite feedback dos usuários para detectar novos problemas cedo. Escreva cada passo para que construtores e usuários saibam os limites e riscos. Essas ações protegem as pessoas, seguem leis e ajudam os usuários a confiar na AI.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para saber mais:
 
-- [@article@Define the Agent Guardrails](https://trailhead.salesforce.com/content/learn/modules/agentforce-agent-planning/define-the-agent-guardrails)
-- [@article@How to Build Safe AI Agents: Best Practices for Guardrails](https://medium.com/@sahin.samia/how-to-build-safe-ai-agents-best-practices-for-guardrails-and-oversight-a0085b50c022)
+- [@artigo@Definir os Guardiões do Agente](https://trailhead.salesforce.com/pt-br/content/learn/modules/agentforce-agent-planning/define-the-agent-guardrails)
+- [@artigo@Como Construir Agentes AI Seguros: Melhores Práticas para Guardiões](https://medium.com/@sahin.samia/how-to-build-safe-ai-agents-best-practices-for-guardrails-and-oversight-a0085b50c022)

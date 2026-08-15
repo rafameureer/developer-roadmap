@@ -1,8 +1,8 @@
-# REST API Knowledge
+# Conhecimento da API REST
 
-A **REST API** (Representational State Transfer) is an architectural style for designing networked applications. In AI agents, REST APIs enable communication between the agent and external systems, allowing for data exchange and integration. The agent can use REST APIs to retrieve data from external sources, send data to external systems, and interact with other AI agents or services. This provides a flexible and scalable way to integrate with various systems, enabling the agent to access a wide range of data and services. REST APIs in AI agents support a variety of functions, including data retrieval, data sending, and system interaction. They play a crucial role in facilitating communication between AI agents and external systems, making them a fundamental component of AI agent architecture.
+A **API REST** (Representational State Transfer) é um estilo arquitetônico para o design de aplicativos de rede. Na inteligência artificial, as APIs REST permitem a comunicação entre o agente e sistemas externos, permitindo a troca e integração de dados. O agente pode usar as APIs REST para recuperar dados de fontes externas, enviar dados para sistemas externos e interagir com outros agentes de IA ou serviços. Isso fornece uma maneira flexível e escalável de se integrar com diversos sistemas, permitindo que o agente acesse uma ampla gama de dados e serviços. As APIs REST em agentes de IA suportam várias funções, incluindo a recuperação de dados, o envio de dados e a interação com sistemas. Elas desempenham um papel crucial na facilitação da comunicação entre agentes de IA e sistemas externos, tornando-se uma componente fundamental da arquitetura dos agentes de IA.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is RESTful API? - RESTful API Explained - AWS](https://aws.amazon.com/what-is/restful-api/)
-- [@article@What Is a REST API? Examples, Uses & Challenges ](https://blog.postman.com/rest-api-examples/)
+- [@artigo@O que é API RESTful? - Explicação de API RESTful - AWS](https://aws.amazon.com/what-is/restful-api/)
+- [@artigo@O que é uma API REST? Exemplos, Uso e Desafios](https://blog.postman.com/rest-api-examples/)

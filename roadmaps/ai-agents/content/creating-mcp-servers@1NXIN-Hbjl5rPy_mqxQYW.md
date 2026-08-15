@@ -1,8 +1,8 @@
-# Creating MCP Servers
+# Criando Servidores MCP
 
-An MCP server stores and shares conversation data for AI agents using the Model Context Protocol (MCP), a standard for agent memory management. Start by picking a language and web framework, then create REST endpoints like `/messages`, `/state`, and `/health`. Each endpoint exchanges JSON following the MCP schema. Store session logs with a session ID, role, and timestamp using a database or in-memory store. Add token-based authentication and filters so agents can fetch only what they need. Set limits on message size and request rates to avoid overload. Finally, write unit tests, add monitoring, and run load tests to ensure stability.
+Um servidor MCP armazena e compartilha dados de conversa para agentes de IA usando o Protocolo de Contexto do Modelo (MCP), um padrão para a gestão de memória dos agentes. Comece escolhendo uma linguagem e um framework web, então crie endpoints REST como `/mensagens`, `/estado` e `/saúde`. Cada endpoint troca JSON seguindo o esquema do MCP. Armazene logs de sessão com ID da sessão, papel e marcação de tempo usando um banco de dados ou armazenamento em memória. Adicione autenticação baseada em tokens e filtros para que os agentes possam recuperar apenas o que precisam. Defina limites no tamanho da mensagem e taxas de solicitação para evitar sobrecarga. Finalmente, escreva testes unitários, adicione monitoramento e execute testes de carga para garantir a estabilidade.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Model Context Protocol (MCP) Specification](https://www.anthropic.com/news/model-context-protocol)
-- [@article@How to Build and Host Your Own MCP Servers in Easy Steps?](https://collabnix.com/how-to-build-and-host-your-own-mcp-servers-in-easy-steps/)
+- [@official@Especificação do Protocolo de Contexto do Modelo (MCP)](https://www.anthropic.com/news/model-context-protocol)
+- [@article@Como Construir e Hospedar Seus Próprios Servidores MCP em Passos Fáceis?](https://collabnix.com/how-to-build-and-host-your-own-mcp-servers-in-easy-steps/)

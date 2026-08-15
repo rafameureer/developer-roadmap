@@ -1,8 +1,8 @@
-# Self-Critique Agents
+# Agentes de Auto-Critica
 
-Self-critique agents are a type of AI agent designed to evaluate and improve their own performance. They work by generating outputs, then analyzing those outputs to identify weaknesses or errors. Based on this self-analysis, the agent refines its approach and attempts to produce better results in subsequent iterations. This cycle of generation, critique, and refinement allows the agent to learn and adapt over time, improving its ability to solve problems or complete tasks effectively.
+Agentes de auto-critica são um tipo de agente de IA projetado para avaliar e melhorar seu próprio desempenho. Eles funcionam gerando saídas, depois analisando essas saídas para identificar fraquezas ou erros. Com base nesse auto-análise, o agente refinou seu abordagem e tenta produzir melhores resultados nas iterações subsequentes. Esse ciclo de geração, crítica e refinamento permite que o agente aprenda e se adapte ao longo do tempo, melhorando sua capacidade de resolver problemas ou completar tarefas eficazmente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Reflection Agents](https://blog.langchain.com/reflection-agents/)
-- [@article@How Do Agents Learn from Their Own Mistakes? The Role of Reflection in AI](https://huggingface.co/blog/Kseniase/reflection)
+- [@artigo@Agentes de Reflexão](https://blog.langchain.com/reflection-agents/)
+- [@artigo@Como os Agentes Aprenderem com seus próprios Erros? O Papel da Reflexão na IA](https://huggingface.co/blog/Kseniase/reflection)

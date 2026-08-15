@@ -1,8 +1,8 @@
-# Data Analysis
+# Análise de Dados
 
-AI agents can automate data analysis by pulling information from files, databases, or live streams. They clean the data by spotting missing values, outliers, and making smart corrections. After cleaning, agents find patterns like sales spikes or sensor drops and can build charts or dashboards. Some run basic statistics, others apply machine learning to predict trends. Agents can also send alerts if numbers go beyond set limits, helping people stay informed without constant monitoring.
+Agentes AI podem automatizar a análise de dados puxando informações de arquivos, bancos de dados ou fluxos em tempo real. Eles limparam os dados identificando valores faltantes, outliers e fazendo correções inteligentes. Após a limpeza, os agentes encontram padrões como picos de vendas ou quedas de sensores e podem construir gráficos ou painéis de controle. Alguns executam estatísticas básicas, enquanto outros aplicam aprendizado de máquina para prever tendências. Os agentes também podem enviar alertas se os números ultrapassarem limites definidos, ajudando as pessoas a permanecerem informadas sem monitoramento contínuo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@How AI Will Transform Data Analysis in 2025](https://www.devfi.com/ai-transform-data-analysis-2025/)
-- [@article@How AI Has Changed The World Of Analytics And Data Science](https://www.forbes.com/councils/forbestechcouncil/2025/01/28/how-ai-has-changed-the-world-of-analytics-and-data-science/k)
+- [@article@Como AI transformará a análise de dados em 2025](https://www.devfi.com/ai-transform-data-analysis-2025/)
+- [@article@Como AI mudou o mundo da análise e ciência dos dados](https://www.forbes.com/councils/forbestechcouncil/2025/01/28/how-ai-has-changed-the-world-of-analytics-and-data-science/k)

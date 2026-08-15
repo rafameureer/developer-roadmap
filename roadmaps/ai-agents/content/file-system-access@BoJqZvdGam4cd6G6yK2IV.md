@@ -1,10 +1,10 @@
-# File System Access
+# Acesso ao Sistema de Arquivos
 
-File system access lets an AI agent read, create, change, or delete files and folders on a computer or server. With this power, the agent can open a text file to pull data, write a new report, save logs, or tidy up old files without human help. It can also move files between folders to keep things organized. This tool is useful for tasks such as data processing, report generation, and backup jobs. Strong safety checks are needed so the agent touches only the right files, avoids private data, and cannot harm the system by mistake.
+O acesso ao sistema de arquivos permite que um agente de IA leia, crie, altere ou exclua arquivos e pastas em um computador ou servidor. Com essa poderosa funcionalidade, o agente pode abrir um arquivo de texto para extrair dados, escrever um novo relatório, salvar logs ou organizar arquivos antigos sem a ajuda humana. Ele também pode mover arquivos entre pastas para manter as coisas organizadas. Esta ferramenta é útil para tarefas como processamento de dados, geração de relatórios e jobs de backup. Verificações rigorosas de segurança são necessárias para garantir que o agente toque apenas nos arquivos corretos, evite dados privados e não cause danos ao sistema por engano.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Filesystem MCP server for AI Agents](https://playbooks.com/mcp/mateicanavra-filesystem)
-- [@article@File System Access API](https://developer.mozilla.org/en-US/docs/Web/API/File_System_Access_API)
-- [@article@Understanding File Permissions and Security](https://linuxize.com/post/understanding-linux-file-permissions/)
-- [@video@How File Systems Work?](https://www.youtube.com/watch?v=KN8YgJnShPM)
+- [@artigo@Servidor MCP do Sistema de Arquivos para Agentes de IA](https://playbooks.com/mcp/mateicanavra-filesystem)
+- [@artigo@API de Acesso ao Sistema de Arquivos](https://developer.mozilla.org/en-US/docs/Web/API/File_System_Access_API)
+- [@artigo@Compreendendo Permissões de Arquivo e Segurança](https://linuxize.com/post/understanding-linux-file-permissions/)
+- [@vídeo@Como Funcionam os Sistemas de Arquivos?](https://www.youtube.com/watch?v=KN8YgJnShPM)

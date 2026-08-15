@@ -1,8 +1,8 @@
-# Tool Definition
+# Definição de Ferramenta
 
-A tool is any skill or function that an AI agent can call to get a job done. It can be as simple as a calculator for math or as complex as an API that fetches live weather data. Each tool has a name, a short description of what it does, and a clear list of the inputs it needs and the outputs it returns. The agent’s planner reads this definition to decide when to use the tool. Good tool definitions are precise and leave no room for doubt, so the agent will not guess or misuse them. They also set limits, like how many times a tool can be called or how much data can be pulled, which helps control cost and errors. Think of a tool definition as a recipe card the agent follows every time it needs that skill.
+Uma ferramenta é qualquer habilidade ou função que um agente AI pode chamar para realizar uma tarefa. Pode ser tão simples quanto uma calculadora para matemática ou tão complexa como uma API que busca dados climáticos em tempo real. Cada ferramenta tem um nome, uma breve descrição de o que ela faz e uma lista clara dos inputs necessários e dos outputs retornados. O planejador do agente lê esta definição para decidir quando usar a ferramenta. Boas definições de ferramentas são precisas e deixam nenhuma dúvida, então o agente não terá que adivinhar ou usá-las incorretamente. Elas também estabelecem limites, como quantas vezes uma ferramenta pode ser chamada ou quantos dados podem ser extraídos, o que ajuda a controlar custos e erros. Imagine uma definição de ferramenta como uma receita que o agente segue sempre que precisar dessa habilidade.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What are Tools?](https://huggingface.co/learn/agents-course/en/unit1/tools)
-- [@article@Understanding the Agent Function in AI: Key Roles and Responsibilities](https://genezio.com/blog/ai-agents-101-understanding-their-role-and-functionality/)
+- [@artigo@O que são Ferramentas?](https://huggingface.co/learn/agents-course/en/unit1/tools)
+- [@artigo@Entendendo a Função do Agente em IA: Papéis e Responsabilidades Chave](https://genezio.com/blog/ai-agents-101-understanding-their-role-and-functionality/)

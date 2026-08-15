@@ -1,9 +1,9 @@
 # Agno
 
-Agno is a Python framework designed to streamline the process of building AI agents. It offers tools and abstractions that simplify tasks such as agent planning, tool use, and memory management, making it easier to create sophisticated and functional AI agents without managing low-level implementation details. It emphasizes modularity and composability, enabling developers to easily integrate different components and customize agent behavior.
+Agno é um framework em Python projetado para simplificar o processo de construção de agentes de IA. Ele oferece ferramentas e abstrações que facilitam tarefas como planejamento do agente, uso de ferramentas e gerenciamento de memória, tornando mais fácil criar agentes de IA sofisticados e funcionais sem lidar com detalhes de implementação de nível baixo. Ele enfatiza modularidade e composibilidade, permitindo que os desenvolvedores integrem facilmente diferentes componentes e personalizem o comportamento do agente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Agno Docs](https://docs.agno.com/)
+- [@oficial@Documentação do Agno](https://docs.agno.com/)
 - [@opensource@agno](https://github.com/agno-agi/agno)
-- [@video@Building Your First Agent With AGNO AGI ( Previously Phidata ) | For Complete Begineers](https://www.youtube.com/watch?v=s7Kkc6vA2K0)
+- [@vídeo@Construindo Seu Primeiro Agente com AGNO AGI (Anteriormente Phidata) | Para Iniciantes Completo](https://www.youtube.com/watch?v=s7Kkc6vA2K0)

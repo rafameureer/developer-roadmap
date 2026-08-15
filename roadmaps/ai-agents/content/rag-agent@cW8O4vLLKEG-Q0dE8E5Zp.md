@@ -1,8 +1,8 @@
-# RAG Agent
+# Agente RAG
 
-A RAG (Retrieval-Augmented Generation) agent mixes search with language generation so it can answer questions using fresh and reliable facts. When a user sends a query, the agent first turns that query into an embedding—basically a number list that captures its meaning. It then looks up similar embeddings in a vector database that holds passages from web pages, PDFs, or other text. The best-matching passages come back as context. The agent puts the original question and those passages into a large language model. The model writes the final reply, grounding every sentence in the retrieved text. This setup keeps the model smaller, reduces wrong guesses, and lets the system update its knowledge just by adding new documents to the database. Common tools for building a RAG agent include an embedding model, a vector store like FAISS or Pinecone, and an LLM connected through a framework such as LangChain or LlamaIndex.
+O Agente RAG (Retrieval-Augmented Generation) mistura a busca com a geração de linguagem para que possa responder perguntas usando fatos frescos e confiáveis. Quando um usuário envia uma consulta, o agente primeiro transforma essa consulta em uma embedding — basicamente uma lista de números que capturam seu significado. Em seguida, ele procura por embeddings similares em um banco de dados vetorial que armazena passagens de páginas da web, PDFs ou outros textos. As melhores correspondências retornam como contexto. O agente coloca a pergunta original e essas passagens em um grande modelo de linguagem. O modelo escreve a resposta final, ancorando cada frase no texto recuperado. Esta configuração mantém o modelo menor, reduz errados suposições e permite que o sistema atualize seu conhecimento apenas adicionando novos documentos ao banco de dados. Ferramentas comuns para construir um agente RAG incluem um modelo de embedding, um armazenamento vetorial como FAISS ou Pinecone, e um LLM conectado por meio de um framework como LangChain ou LlamaIndex.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is RAG? - Retrieval-Augmented Generation AI Explained](https://aws.amazon.com/what-is/retrieval-augmented-generation/)
-- [@article@What Is Retrieval-Augmented Generation, aka RAG?](https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/)
+- [@artigo@O que é o RAG? - Inteligência Artificial de Geração Aumentada por Recuperação](https://aws.amazon.com/what-is/retrieval-augmented-generation/)
+- [@artigo@O Que é a Geração Aumentada por Recuperação, ou RAG?](https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/)

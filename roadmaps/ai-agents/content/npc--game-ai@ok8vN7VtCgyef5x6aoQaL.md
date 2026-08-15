@@ -1,8 +1,8 @@
-# NPC / Game AI
+# NPC / IA de Jogo
 
-Game studios use AI agents to control non-player characters (NPCs). The agent observes the game state and decides actions like moving, speaking, or fighting. It can shift tactics when the player changes strategy, keeping battles fresh instead of predictable. A quest giver might use an agent to offer hints that fit the player’s progress. In open-world games, agents guide crowds to move around obstacles, set new goals, and react to threats, making towns feel alive. Designers save time by writing broad rules and letting agents fill in details instead of hand-coding every scene. Smarter NPC behavior keeps players engaged and boosts replay value.
+Estúdios de jogos usam agentes de IA para controlar personagens não-jogadores (NPCs). O agente observa o estado do jogo e decide ações como se mover, falar ou lutar. Ele pode mudar táticas quando o jogador altera sua estratégia, mantendo batalhas frescas em vez de previsíveis. Um fornecedor de missões poderia usar um agente para oferecer dicas que sejam adequadas ao progresso do jogador. Em jogos de mundo aberto, os agentes guiam multidões a se moverem por obstáculos, definir novos objetivos e reagir a ameaças, tornando as cidades vivas. Os designers economizam tempo escrevendo regras gerais e deixando que os agentes preencham detalhes em vez de codificar manualmente cada cena. Comportamento NPC mais inteligente mantém os jogadores engajados e aumenta o valor de replay.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Unity – AI for NPCs](https://dev.epicgames.com/documentation/en-us/unreal-engine/artificial-intelligence-in-unreal-engine?application_version=5.3)
-- [@article@AI-Driven NPCs: The Future of Gaming Explained](https://www.capermint.com/blog/everything-you-need-to-know-about-non-player-character-npc/)
+- [@oficial@Unity – IA para NPCs](https://dev.epicgames.com/documentation/en-us/unreal-engine/artificial-intelligence-in-unreal-engine?application_version=5.3)
+- [@artigo@NPCs guiados por IA: O futuro do jogo explicado](https://www.capermint.com/blog/everything-you-need-to-know-about-non-player-character-npc/)

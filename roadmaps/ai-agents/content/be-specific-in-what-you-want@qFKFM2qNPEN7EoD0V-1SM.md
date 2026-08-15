@@ -1,9 +1,9 @@
-# Be specific in what you want
+# Seja específico em o que deseja
 
-When you ask an AI to do something, clear and exact words help it give the answer you want. State the goal, the format, and any limits up front. Say who the answer is for, how long it should be, and what to leave out. If numbers, dates, or sources matter, name them. For example, rather than “Explain World War II,” try “List three key events of World War II with dates and one short fact for each.” Being this precise cuts down on guesswork, avoids unwanted extra detail, and saves time by reducing follow-up questions.
+Quando você pedir a um AI fazer algo, palavras claras e exatas ajudam a ele fornecer a resposta desejada. Declare o objetivo, o formato e qualquer limite de antemão. Indique para quem a resposta é destinada, por quanto tempo ela deve ser e o que deve ser omitido. Se números, datas ou fontes forem importantes, nomeie-os. Por exemplo, em vez de "Explique a Segunda Guerra Mundial", tente "Lista três eventos-chave da Segunda Guerra Mundial com datas e um fato curto para cada". Ser tão preciso reduz o acaso, evita detalhes extras indesejados e economiza tempo ao reduzir perguntas de acompanhamento.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para saber mais:
 
-- [@article@Prompt Engineering Guide](https://www.promptingguide.ai/)
-- [@article@AI Prompting Examples, Templates, and Tips For Educators](https://honorlock.com/blog/education-ai-prompt-writing/)
-- [@article@How to Ask AI for Anything: The Art of Prompting](https://sixtyandme.com/using-ai-prompts/)
+- [@artigo@Guia de Engenharia de Solicitações](https://www.promptingguide.ai/)
+- [@artigo@Exemplos, Modelos e Dicas de Engenharia de Solicitações para Educadores](https://honorlock.com/blog/education-ai-prompt-writing/)
+- [@artigo@Como Pedir ao AI Qualquer Coisa: A Arte da Engenharia de Solicitações](https://sixtyandme.com/usando-engenharia-de-solicitações-ai/)

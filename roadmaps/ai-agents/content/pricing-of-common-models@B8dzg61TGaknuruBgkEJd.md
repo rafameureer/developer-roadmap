@@ -1,9 +1,9 @@
-# Pricing of Common Models
+# Preço dos Modelos Comuns
 
-When you use a large language model, you usually pay by the amount of text it reads and writes, counted in “tokens.” A token is about four characters or three-quarters of a word. Providers list a price per 1,000 tokens. For example, GPT-3.5 Turbo may cost around $0.002 per 1,000 tokens, while GPT-4 is much higher, such as $0.03 to $0.06 for prompts and $0.06 to $0.12 for replies. Smaller open-source models like Llama-2 can be free to use if you run them on your own computer, but you still pay for the hardware or cloud time. Vision or audio models often have extra fees because they use more compute. When planning costs, estimate the tokens in each call, multiply by the price, and add any hosting or storage charges.
+Quando você usa um grande modelo linguístico, normalmente paga pelo volume de texto que lê e escreve, contado em "tokens". Um token é aproximadamente quatro caracteres ou três quartos de uma palavra. Os provedores listam um preço por 1.000 tokens. Por exemplo, GPT-3.5 Turbo pode custar cerca de $0.002 por 1.000 tokens, enquanto GPT-4 é muito mais caro, como $0.03 a $0.06 para prompts e $0.06 a $0.12 para respostas. Menores modelos open-source como Llama-2 podem ser gratuitos de usar se você os executar em seu próprio computador, mas ainda paga pelo hardware ou tempo na nuvem. Modelos de visão ou áudio frequentemente têm taxas extras porque usam mais cálculo. Ao estimar custos, calcule os tokens em cada chamada, multiplique pelo preço e adicione quaisquer taxas de hospedagem ou armazenamento.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@OpenAI Pricing](https://openai.com/api/pricing/)
-- [@article@Executive Guide To AI Agent Pricing](https://www.forbes.com/councils/forbesbusinesscouncil/2025/01/28/executive-guide-to-ai-agent-pricing-winning-strategies-and-models-to-drive-growth/)
-- [@article@AI Pricing: How Much Does Artificial Intelligence Cost In 2025?](https://www.internetsearchinc.com/ai-pricing-how-much-does-artificial-intelligence-cost/)
+- [@oficial@Preços da OpenAI](https://openai.com/api/pricing/)
+- [@artigo@Guia Executivo sobre Preço dos Agentes AI](https://www.forbes.com/councils/forbesbusinesscouncil/2025/01/28/executive-guide-to-ai-agent-pricing-winning-strategies-and-models-to-drive-growth/)
+- [@artigo@Preço da IA: Quanto Custa a Inteligência Artificial em 2025?](https://www.internetsearchinc.com/ai-pricing-how-much-does-artificial-intelligence-cost/)

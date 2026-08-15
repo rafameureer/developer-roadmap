@@ -1,9 +1,9 @@
-# Code generation
+# Geração de Código
 
-Code-generation agents take a plain language request, understand the goal, and then write or edit source code to meet it. They can build small apps, add features, fix bugs, refactor old code, write tests, or translate code from one language to another. This saves time for developers, helps beginners learn, and reduces human error. Teams use these agents inside code editors, chat tools, and automated pipelines. By handling routine coding tasks, the agents free people to focus on design, logic, and user needs.
+Agentes de geração de código recebem uma solicitação em linguagem comum, entendem o objetivo e então escrevem ou editam código-fonte para atender a ele. Eles podem construir pequenos aplicativos, adicionar funcionalidades, corrigir bugs, refatorar código antigo, escrever testes ou traduzir código de uma linguagem para outra. Isso economiza tempo para os desenvolvedores, ajuda iniciantes a aprender e reduz erros humanos. Equipes usam esses agentes dentro de editores de código, ferramentas de chat e pipelines automatizados. Ao lidar com tarefas codificativas rotineiras, os agentes livram as pessoas para se concentrarem em design, lógica e necessidades do usuário.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@GitHub Copilot](https://github.com/features/copilot)
-- [@article@Multi-Agent-based Code Generation](https://arxiv.org/abs/2312.13010)
-- [@article@From Prompt to Production: GitHub Blog](https://github.blog/ai-and-ml/github-copilot/from-prompt-to-production-building-a-landing-page-with-copilot-agent-mode/)
+- [@article@Geração de Código Baseada em Agentes Multimídia](https://arxiv.org/abs/2312.13010)
+- [@article@De Prompt a Produção: Blog do GitHub](https://github.blog/ai-and-ml/github-copilot/from-prompt-to-production-building-a-landing-page-with-copilot-agent-mode/)

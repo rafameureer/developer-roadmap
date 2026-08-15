@@ -1,0 +1,308 @@
+{
+  "completed_files": [
+    "roadmaps/ai-agents/content/acting--tool-invocation@sHYd4KsKlmw5Im3nQ19W8.md",
+    "roadmaps/ai-agents/content/agent-loop@Eih4eybuYB3C2So8K0AT3.md",
+    "roadmaps/ai-agents/content/agno@PY5WTJgRnXiYeOM6BBUvn.md",
+    "roadmaps/ai-agents/content/anthropic-tool-use@1EZFbDHA5J5_5BPMLMxXb.md",
+    "roadmaps/ai-agents/content/api-requests@52qxjZILV-X1isup6dazC.md",
+    "roadmaps/ai-agents/content/autogen@7YtnQ9-KIvGPSpDzEDexl.md",
+    "roadmaps/ai-agents/content/basic-backend-development@VPI89s-m885r2YrXjYxdd.md",
+    "roadmaps/ai-agents/content/be-specific-in-what-you-want@qFKFM2qNPEN7EoD0V-1SM.md",
+    "roadmaps/ai-agents/content/bias--toxicity-guardrails@EyLo2j8IQsIK91SKaXkmK.md",
+    "roadmaps/ai-agents/content/code-generation@PK8w31GlvtmAuU92sHaqr.md",
+    "roadmaps/ai-agents/content/context-windows@dyn1LSioema-Bf9lLTgUZ.md",
+    "roadmaps/ai-agents/content/creating-mcp-servers@1NXIN-Hbjl5rPy_mqxQYW.md",
+    "roadmaps/ai-agents/content/crewai@uFPJqgU4qGvZyxTv-osZA.md",
+    "roadmaps/ai-agents/content/dag-agents@Ep8RoZSy_Iq_zWXlGQLZo.md",
+    "roadmaps/ai-agents/content/data-analysis@wKYEaPWNsR30TIpHaxSsq.md",
+    "roadmaps/ai-agents/content/file-system-access@BoJqZvdGam4cd6G6yK2IV.md",
+    "roadmaps/ai-agents/content/fine-tuning-vs-prompt-engineering@5OW_6o286mj470ElFyJ_5.md",
+    "roadmaps/ai-agents/content/forgetting--aging-strategies@m-97m7SI0XpBnhEE8-_1S.md",
+    "roadmaps/ai-agents/content/gemini-function-calling@_iIsBJTVS6OBf_dsdmbVO.md",
+    "roadmaps/ai-agents/content/git-and-terminal-usage@McREk2zHOlIrqbGSKbX-J.md",
+    "roadmaps/ai-agents/content/human-in-the-loop-evaluation@rHxdxN97ZcU7MPl8L1jzN.md",
+    "roadmaps/ai-agents/content/integration-testing-for-flows@P9-SiIda3TSjHsfkI5OUV.md",
+    "roadmaps/ai-agents/content/iterate-and-test-your-prompts@noTuUFnHSBzn7GKG9UZEi.md",
+    "roadmaps/ai-agents/content/langchain@Ka6VpCEnqABvwiF9vba7t.md",
+    "roadmaps/ai-agents/content/langfuse@UoIheaJlShiceafrWALEH.md",
+    "roadmaps/ai-agents/content/langgraph@O53AvUSRB5SI6hhwKxniL.md",
+    "roadmaps/ai-agents/content/langsmith@SS8mGqf9wfrNqenIWvN8Z.md",
+    "roadmaps/ai-agents/content/local-desktop@iBtJp24F_kJE3YlBsW60s.md",
+    "roadmaps/ai-agents/content/long-term-memory@Ue633fz6Xu2wa2-KOAtdP.md",
+    "roadmaps/ai-agents/content/manual-from-scratch@US6T5dXM8IY9V2qZnTOFW.md",
+    "roadmaps/ai-agents/content/mcp-hosts@9FryAIrWRHh8YlzKX3et5.md",
+    "roadmaps/ai-agents/content/mcp-servers@yv_-87FVM7WKn5iv6LW9q.md",
+    "roadmaps/ai-agents/content/multi-agents@FjAYD6ZhAuPcS6gbvBBtE.md",
+    "roadmaps/ai-agents/content/npc--game-ai@ok8vN7VtCgyef5x6aoQaL.md",
+    "roadmaps/ai-agents/content/observation--reflection@ZJTrun3jK3zBGOTm1jdMI.md",
+    "roadmaps/ai-agents/content/openai-functions-calling@AQtxTTxmBpfl8BMgJbGzc.md",
+    "roadmaps/ai-agents/content/planner-executor@6YLCMWzystao6byCYCTPO.md",
+    "roadmaps/ai-agents/content/presence-penalty@Vd8ycw8pW-ZKvg5WYFtoh.md",
+    "roadmaps/ai-agents/content/pricing-of-common-models@B8dzg61TGaknuruBgkEJd.md",
+    "roadmaps/ai-agents/content/rag-agent@cW8O4vLLKEG-Q0dE8E5Zp.md",
+    "roadmaps/ai-agents/content/rest-api-knowledge@QtTwecLdvQa8pgELJ6i80.md",
+    "roadmaps/ai-agents/content/safety--red-team-testing@63nsfJFO1BwjLX_ZVaPFC.md",
+    "roadmaps/ai-agents/content/self-critique-agents@hBW8-z72NcETDn_cearYc.md",
+    "roadmaps/ai-agents/content/short-term--memory@M3U6RfIqaiut2nuOibY8W.md",
+    "roadmaps/ai-agents/content/stopping-criteria@K0G-Lw069jXUJwZqHtybd.md",
+    "roadmaps/ai-agents/content/streamed-vs-unstreamed-responses@i2NE6haX9-7mdoV5LQ3Ah.md",
+    "roadmaps/ai-agents/content/structured-logging--tracing@zs6LM8WEnb0ERWpiaQCgc.md",
+    "roadmaps/ai-agents/content/temperature@L1zL1GzqjSAjF06pIIXhy.md",
+    "roadmaps/ai-agents/content/tool-definition@qakbxB8xe7Y8gejC5cZnK.md",
+    "roadmaps/ai-agents/content/tool-sandboxing--permissioning@UVzLGXG6K7HQVHmw8ZAv2.md",
+    "roadmaps/ai-agents/content/web-search@kBtqT8AduLoYDWopj-V9_.md",
+    "roadmaps/ai-agents/content/what-are-ai-agents@aFZAm44nP5NefX_9TpT0A.md",
+    "roadmaps/ai-agents/content/what-are-tools@2zsOUWJQ8e7wnoHmq1icG.md"
+  ],
+  "completed_roadmaps": [
+    "frontend-beginner",
+    "backend-beginner",
+    "devops-beginner",
+    "git-github-beginner",
+    "ai-agents"
+  ],
+  "flagged_issues": [
+    {
+      "file": "roadmaps/ai-agents/content/chain-of-thought-cot@qwdh5pkBbrF8LKPxbZp4F.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T00:25:59.121000"
+    },
+    {
+      "file": "roadmaps/ai-agents/content/closed-weight-models@tJYmEDDwK0LtEux-kwp9B.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T00:26:06.520165"
+    },
+    {
+      "file": "roadmaps/ai-agents/content/code-execution--repl@mS0EVCkWuPN_GkVPng4A2.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T00:26:13.801506"
+    },
+    {
+      "file": "roadmaps/ai-agents/content/data-privacy--pii-redaction@rdlYBJNNyZUshzsJawME4.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T00:27:13.824009"
+    },
+    {
+      "file": "roadmaps/ai-agents/content/database-queries@sV1BnA2-qBnXoKpUn-8Ub.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T00:27:18.707397"
+    },
+    {
+      "file": "roadmaps/ai-agents/content/deepeval@0924QUH1wV7Mp-Xu0FAhF.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T00:27:24.787368"
+    },
+    {
+      "file": "roadmaps/ai-agents/content/email--slack--sms@qaNr5I-NQPnfrRH7ynGTl.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T00:27:40.795658"
+    },
+    {
+      "file": "roadmaps/ai-agents/content/embeddings-and-vector-search@UIm54UmICKgep6s8Itcyv.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T00:27:45.193082"
+    },
+    {
+      "file": "roadmaps/ai-agents/content/episodic-vs-semantic-memory@EfCCNqLMJpWKKtamUa5gK.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T00:27:48.978710"
+    },
+    {
+      "file": "roadmaps/ai-agents/content/frequency-penalty@z_N-Y0zGkv8_qHPuVtimL.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T00:28:32.018268"
+    },
+    {
+      "file": "roadmaps/ai-agents/content/haystack@XS-FsvtrXGZ8DPrwOsnlI.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T00:29:05.600167"
+    },
+    {
+      "file": "roadmaps/ai-agents/content/helicone@MLxP5N0Vrmwh-kyvNeGXn.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T00:29:10.438543"
+    },
+    {
+      "file": "roadmaps/ai-agents/content/langsmith@xp7TCTRE9HP60_rGzTUF6.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T00:30:23.885399"
+    },
+    {
+      "file": "roadmaps/ai-agents/content/llamaindex@iEHF-Jm3ck-Iu85EbCoDi.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T00:30:31.442650"
+    },
+    {
+      "file": "roadmaps/ai-agents/content/llm-native-function-calling@aafZxtjxiwzJH1lwHBODi.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T00:30:38.295676"
+    },
+    {
+      "file": "roadmaps/ai-agents/content/max-length@Bn_BkthrVX_vOuwQzvPZa.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T00:31:26.078450"
+    },
+    {
+      "file": "roadmaps/ai-agents/content/mcp-client@CGVstUxVXLJcYZrwk3iNQ.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T00:31:30.431217"
+    },
+    {
+      "file": "roadmaps/ai-agents/content/metrics-to-track@v8qLnyFRnEumodBYxQSXQ.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T00:32:14.224931"
+    },
+    {
+      "file": "roadmaps/ai-agents/content/model-context-protocol-mcp@1B0IqRNYdtbHDi1jHSXuI.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T00:32:20.851400"
+    },
+    {
+      "file": "roadmaps/ai-agents/content/open-weight-models@DSJAhQhc1dQmBHQ8ZkTau.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T00:33:07.353979"
+    },
+    {
+      "file": "roadmaps/ai-agents/content/openai-assistant-api@37GBFVZ2J2d5r8bd1ViHq.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T00:33:14.254591"
+    },
+    {
+      "file": "roadmaps/ai-agents/content/openllmetry@7UqPXUzqKYXklnB3x-tsv.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T00:33:47.087597"
+    },
+    {
+      "file": "roadmaps/ai-agents/content/perception--user-input@LU76AhCYDjxdBhpMQ4eMU.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T00:33:52.677978"
+    },
+    {
+      "file": "roadmaps/ai-agents/content/personal-assistant@PPdAutqJF5G60Eg9lYBND.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T00:33:58.189943"
+    },
+    {
+      "file": "roadmaps/ai-agents/content/prompt-injection--jailbreaks@SU2RuicMUo8tiAsQtDI1k.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T00:34:45.904441"
+    },
+    {
+      "file": "roadmaps/ai-agents/content/provide-additional-context@6I42CoeWX-kkFXTKAY7rw.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T00:34:52.170481"
+    },
+    {
+      "file": "roadmaps/ai-agents/content/rag-and-vector-databases@wkS4yOJ3JdZQE_yBID8K7.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T00:35:27.163712"
+    },
+    {
+      "file": "roadmaps/ai-agents/content/ragas@YzEDtGEaMaMWVt0W03HRt.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T00:35:33.067863"
+    },
+    {
+      "file": "roadmaps/ai-agents/content/react-reason--act@53xDks6JQ33fHMa3XcuCd.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T00:35:38.746554"
+    },
+    {
+      "file": "roadmaps/ai-agents/content/reason-and-plan@ycPRgRYR4lEBQr_xxHKnM.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T00:36:01.886907"
+    },
+    {
+      "file": "roadmaps/ai-agents/content/reasoning-vs-standard-models@N3yZfUxphxjiupqGpyaS9.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T00:36:08.470930"
+    },
+    {
+      "file": "roadmaps/ai-agents/content/remote--cloud@dHNMX3_t1KSDdAWqgdJXv.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T00:36:14.919248"
+    },
+    {
+      "file": "roadmaps/ai-agents/content/smol-depot@eWxQiBrxIUG2JNcrdfIHS.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T00:37:07.150704"
+    },
+    {
+      "file": "roadmaps/ai-agents/content/specify-length-format-etc@wwHHlEoPAx0TLxbtY6nMA.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T00:37:12.397609"
+    },
+    {
+      "file": "roadmaps/ai-agents/content/summarization--compression@jTDC19BTWCqxqMizrIJHr.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T00:37:55.064097"
+    },
+    {
+      "file": "roadmaps/ai-agents/content/token-based-pricing@1fiWPBV99E2YncqdCgUw2.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T00:38:07.079322"
+    },
+    {
+      "file": "roadmaps/ai-agents/content/tokenization@GAjuWyJl9CI1nqXBp6XCf.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T00:38:31.208337"
+    },
+    {
+      "file": "roadmaps/ai-agents/content/top-p@icbp1NjurQfdM0dHnz6v2.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T00:39:12.032384"
+    },
+    {
+      "file": "roadmaps/ai-agents/content/transformer-models-and-llms@ZF5_5Y5zqa75Ov22JACX6.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T00:39:18.535892"
+    },
+    {
+      "file": "roadmaps/ai-agents/content/tree-of-thought@Nmy1PoB32DcWZnPM8l8jT.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T00:39:24.774270"
+    },
+    {
+      "file": "roadmaps/ai-agents/content/understand-the-basics-of-rag@qwVQOwBTLA2yUgRISzC8k.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T00:39:52.442227"
+    },
+    {
+      "file": "roadmaps/ai-agents/content/unit-testing-for-individual-tools@qo_O4YAe4-MTP_ZJoXJHR.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T00:39:58.560446"
+    },
+    {
+      "file": "roadmaps/ai-agents/content/use-examples-in-your-prompt@yulzE4ZNLhXOgHhG7BtZQ.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T00:40:04.170818"
+    },
+    {
+      "file": "roadmaps/ai-agents/content/use-relevant-technical-terms@sUwdtOX550tSdceaeFPmF.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T00:40:33.608802"
+    },
+    {
+      "file": "roadmaps/ai-agents/content/user-profile-storage@QJqXHV8VHPTnfYfmKPzW7.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T00:40:39.100465"
+    },
+    {
+      "file": "roadmaps/ai-agents/content/web-scraping--crawling@5oLc-235bvKhApxzYFkEc.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T00:40:46.581188"
+    },
+    {
+      "file": "roadmaps/ai-agents/content/what-is-agent-memory@TBH_DZTAfR8Daoh-njNFC.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T00:41:23.712191"
+    },
+    {
+      "file": "roadmaps/ai-agents/content/what-is-prompt-engineering@Y8EqzFx3qxtrSh7bWbbV8.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T00:41:29.226147"
+    }
+  ],
+  "last_updated": "2026-08-15T00:41:29.227129",
+  "total_translated_count": 54
+}

@@ -1,9 +1,9 @@
-# Multi-Agents
+# Sistemas Multi-Agente
 
-Multi-agent systems involve multiple autonomous agents that interact with each other to achieve individual or collective goals. These agents can collaborate, compete, or coordinate their actions within a shared environment. The interactions between these agents can lead to emergent behaviors and solutions that are more complex and sophisticated than what a single agent could achieve on its own.
+Os sistemas multi-agentes envolvem múltiplos agentes autônomos que interagem entre si para atingir metas individuais ou coletivas. Esses agentes podem colaborar, competir ou coordenar suas ações em um ambiente compartilhado. As interações entre esses agentes podem levar a comportamentos e soluções emergentes mais complexos e sofisticados do que o que um agente único poderia alcançar sozinho.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Guide to multi-agent systems (MAS)](https://cloud.google.com/discover/what-is-a-multi-agent-system)
-- [@article@What is multi-agent collaboration?](https://www.ibm.com/think/topics/multi-agent-collaboration)
-- [@video@Multi Agent Systems Explained: How AI Agents & LLMs Work Together](https://www.youtube.com/watch?v=sWH0T4Zez6I)
+- [@artigo@Guia sobre sistemas multi-agentes (MAS)](https://cloud.google.com/discover/what-is-a-multi-agent-system)
+- [@artigo@O que é a colaboração multi-agente?](https://www.ibm.com/think/topics/multi-agent-collaboration)
+- [@vídeo@Sistemas Multi-Agentes Explained: Como os agentes de IA e LLMs funcionam juntos](https://www.youtube.com/watch?v=sWH0T4Zez6I)

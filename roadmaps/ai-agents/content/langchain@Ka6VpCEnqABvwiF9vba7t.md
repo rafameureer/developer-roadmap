@@ -1,10 +1,10 @@
 # LangChain
 
-LangChain is a framework designed to simplify the creation of applications using large language models (LLMs). It provides tools and abstractions to connect LLMs to various data sources, create chains of calls to LLMs or other utilities, and build agents that can interact with their environment. Essentially, it helps developers structure, chain, and orchestrate different AI components to build more complex and capable AI applications.
+LangChain é um framework projetado para simplificar a criação de aplicativos usando modelos de linguagem grande (LLMs). Ele fornece ferramentas e abstrações para conectar LLMs a várias fontes de dados, criar cadeias de chamadas a LLMs ou outras utilidades e construir agentes que possam interagir com seu ambiente. Em essência, ele ajuda os desenvolvedores a estruturar, encadear e orquestrar diferentes componentes AI para construir aplicativos AI mais complexos e capazes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@LangChain Documentation](https://python.langchain.com/docs/introduction/)
+- [@oficial@Documentação do LangChain](https://python.langchain.com/docs/introduction/)
 - [@opensource@langchain-ai/langchain](https://github.com/langchain-ai/langchain)
-- [@article@AI Agents with LangChain and LangGraph](https://www.udacity.com/course/ai-agents-with-langchain-and-langgraph--cd13764)
-- [@video@LangChain Crash Course - Build LLM Apps Fast (YouTube)](https://www.youtube.com/watch?v=nAmC7SoVLd8)
+- [@artigo@Agentes AI com LangChain e LangGraph](https://www.udacity.com/course/ai-agents-with-langchain-and-langgraph--cd13764)
+- [@vídeo@Crash Course do LangChain - Construa Aplicativos LLM Rápido (YouTube)](https://www.youtube.com/watch?v=nAmC7SoVLd8)

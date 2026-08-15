@@ -1,10 +1,10 @@
 # LangSmith
 
-LangSmith is a web tool that helps you see and fix what your AI agents are doing. It records each call that the agent makes to a language model, the input it used, and the answer it got back. You can replay any step, compare different prompts, measure cost, speed, and error rates, and tag runs for easy search. It also lets you store test sets and run quick checks so you know if new code makes the agent worse. By showing clear traces and charts, LangSmith makes it easier to debug, improve, and trust AI systems built with LangChain or other frameworks.
+LangSmith é uma ferramenta web que ajuda você a ver e corrigir o que seus agentes AI estão fazendo. Ele grava cada chamada que o agente faz a um modelo de linguagem, a entrada que ele usou e a resposta que recebeu. Você pode regravar qualquer passo, comparar diferentes prompts, medir custos, velocidade e taxas de erro, e marcar execuções para fácil pesquisa. Ele também permite que você armazene conjuntos de testes e faça verificações rápidas para saber se novos códigos tornam o agente pior. Ao mostrar traçados e gráficos claros, o LangSmith facilita a depuração, melhoria e confiança em sistemas de IA construídos com LangChain ou outros frameworks.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@LangSmith](https://smith.langchain.com/)
-- [@official@LangSmith Documentation](https://docs.smith.langchain.com/)
-- [@official@Harden your application with LangSmith Evaluation](https://www.langchain.com/evaluation)
-- [@article@What is LangSmith and Why should I care as a developer?](https://medium.com/around-the-prompt/what-is-langsmith-and-why-should-i-care-as-a-developer-e5921deb54b5)
+- [@official@Documentação do LangSmith](https://docs.smith.langchain.com/)
+- [@official@Avaliação da sua aplicação com a LangSmith Evaluation](https://www.langchain.com/evaluation)
+- [@article@O que é LangSmith e por que eu devo me importar como desenvolvedor?](https://medium.com/around-the-prompt/what-is-langsmith-and-why-should-i-care-as-a-developer-e5921deb54b5)

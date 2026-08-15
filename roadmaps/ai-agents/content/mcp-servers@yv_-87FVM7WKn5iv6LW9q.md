@@ -1,10 +1,10 @@
-# MCP Servers
+# Servidores MCP
 
-An MCP Server is the main machine or cloud service that runs the Model Context Protocol. It keeps the shared “memory” that different AI agents need so they stay on the same page. When an agent sends a request, the server checks who is asking, pulls the right context from its store, and sends it back fast. It also saves new facts and task results so the next agent can use them. An MCP Server must handle many users at once, protect private data with strict access rules, and log every change for easy roll-back. Good servers break work into small tasks, spread them across many computers, and add backups so they never lose data. In short, the MCP Server is the hub that makes sure all agents share fresh, safe, and correct context.
+Um Servidor MCP é a máquina principal ou serviço em nuvem que executa o Protocolo de Contexto do Modelo. Ele mantém a memória compartilhada "que" diferentes agentes de IA precisam para manter-se na mesma página. Quando um agente envia uma solicitação, o servidor verifica quem está solicitando, puxa o contexto certo de seu armazenamento e o retorna rapidamente. Ele também salva novas fatos e resultados de tarefas para que o próximo agente possa usá-los. Um Servidor MCP deve lidar com muitos usuários ao mesmo tempo, proteger dados privados com regras de acesso estritas e registrar todas as alterações para facilitar a reversão. Boas servidores dividem o trabalho em tarefas menores, distribuem-as em muitos computadores e adicionam backups para que nunca percam dados. Em resumo, o Servidor MCP é o hub que garante que todos os agentes compartilhem contexto fresco, seguro e correto.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@opensource@punkeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)
-- [@article@Introducing the Azure MCP Server ](https://devblogs.microsoft.com/azure-sdk/introducing-the-azure-mcp-server/)
-- [@article@The Ultimate Guide to MCP](https://guangzhengli.com/blog/en/model-context-protocol)
-- [@article@AWS MCP Servers for Code Assistants](https://aws.amazon.com/blogs/machine-learning/introducing-aws-mcp-servers-for-code-assistants-part-1/)
+- [@article@Introdução ao Servidor MCP do Azure ](https://devblogs.microsoft.com/azure-sdk/introducing-the-azure-mcp-server/)
+- [@article@O Guia Último sobre MCP](https://guangzhengli.com/blog/en/model-context-protocol)
+- [@article@Servidores MCP da AWS para Assistentes de Código](https://aws.amazon.com/blogs/machine-learning/introducing-aws-mcp-servers-for-code-assistants-part-1/)

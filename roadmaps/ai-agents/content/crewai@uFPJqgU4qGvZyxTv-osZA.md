@@ -1,10 +1,10 @@
 # CrewAI
 
-CrewAI is an open-source Python framework for creating teams of AI agents, called a crew. Each agent is assigned a name, role, and set of tools, and the system manages planning, communication, and execution between them. To use it, install the package, define agents in code, connect them with a `Crew` object, and assign a mission prompt. CrewAI interacts with an LLM like GPT-4 or Claude, passes messages, runs tools, and returns a final output. You can also add web search, custom functions, or memory stores. Logs are built-in to help debug and optimize workflows.
+CrewAI é um framework de código aberto em Python para criar equipes de agentes AI, chamados de "crew". Cada agente é atribuído a um nome, função e conjunto de ferramentas, e o sistema gerencia planejamento, comunicação e execução entre eles. Para usá-lo, instale o pacote, defina os agentes no código, conecte-os com um objeto `Crew` e atribua um prompt de missão. O CrewAI interage com um LLM como GPT-4 ou Claude, passa mensagens, executa ferramentas e retorna uma saída final. Você também pode adicionar busca na web, funções personalizadas ou armazenamentos de memória. Logs são incorporados para ajudar no depuramento e otimização dos fluxos de trabalho.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@CrewAI](https://crewai.com/)
-- [@official@CrewAI Documentation](https://docs.crewai.com/)
-- [@article@Getting Started with CrewAI: Building AI Agents That Work Together](https://medium.com/@cammilo/getting-started-with-crewai-building-ai-agents-that-work-together-9c1f47f185ca)
-- [@video@Crew AI Full Tutorial For Beginners](https://www.youtube.com/watch?v=q6QLGS306d0)
+- [@official@Documentação do CrewAI](https://docs.crewai.com/)
+- [@article@Começando com o CrewAI: Construindo agentes AI que trabalham juntos](https://medium.com/@cammilo/getting-started-with-crewai-building-ai-agents-that-work-together-9c1f47f185ca)
+- [@video@Tutorial completo do Crew AI para iniciantes](https://www.youtube.com/watch?v=q6QLGS306d0)

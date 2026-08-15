@@ -1,7 +1,7 @@
-# Stopping Criteria
+# Critérios de Parada
 
-Stopping criteria tell the language model when to stop writing more text. Without them, the model could keep adding words forever, waste time, or spill past the point we care about. Common rules include a maximum number of tokens, a special end-of-sequence token, or a custom string such as `“\n\n”`. We can also stop when the answer starts to repeat or reaches a score that means it is off topic. Good stopping rules save cost, speed up replies, and avoid nonsense or unsafe content.
+Os critérios de parada informam ao modelo linguístico quando para de escrever mais texto. Sem eles, o modelo poderia continuar adicionando palavras por sempre, desperdiçar tempo ou sair do ponto em que estamos interessados. Regras comuns incluem um número máximo de tokens, um token especial de fim de sequência ou uma string personalizada como `“\n\n”`. Também podemos parar quando a resposta começar a se repetir ou atingir uma pontuação que significa que ela está fora do tópico. Boas regras de parada economizam custo, aceleram as respostas e evitam conteúdo sem sentido ou inseguro.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Defining Stopping Criteria in Large Language Models](https://www.metriccoders.com/post/defining-stopping-criteria-in-large-language-models-a-practical-guide)
+- [@artigo@Definindo Critérios de Parada em Modelos de Linguagem Grandes](https://www.metriccoders.com/post/defining-stopping-criteria-in-large-language-models-a-practical-guide)

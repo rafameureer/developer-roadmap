@@ -1,8 +1,8 @@
-# Planner Executor
+# Executor de Plano
 
-A **planner-executor agent** is a type of AI agent that splits its work into two clear parts: planning and execution. The **planner** thinks ahead, taking a goal and breaking it down into a sequence of steps, ordering them in a logical and efficient manner. The **executor**, on the other hand, takes each planned step and carries it out, monitoring the results and reporting back to the planner. If something fails or the world changes, the planner may update the plan, and the executor follows the new steps. This modular approach allows the agent to handle complex tasks by dividing them into manageable parts, making it easier to debug, reuse plans, and maintain clear and consistent behavior.
+O **executor de plano** é um tipo de agente AI que divide seu trabalho em duas partes claras: planejamento e execução. O **planejador** pensa à frente, recebendo um objetivo e descompondo-o em uma sequência de etapas, ordenando-as de maneira lógica e eficiente. Por outro lado, o **executor** realiza cada etapa planejada, monitorando os resultados e relatando para o planejador. Se algo falhar ou o mundo mudar, o planejador pode atualizar o plano, e o executor seguirá as novas etapas. Esse abordagem modular permite que o agente lidar com tarefas complexas dividindo-as em partes gerenciáveis, tornando-o mais fácil de depurar, reutilizar planos e manter um comportamento claro e consistente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Plan-and-Execute Agents](https://blog.langchain.dev/planning-agents/)
-- [@article@Plan and Execute: AI Agents Architecture](https://medium.com/@shubham.ksingh.cer14/plan-and-execute-ai-agents-architecture-f6c60b5b9598)
+- [@artigo@Agentes Planejadores e Executores](https://blog.langchain.dev/planning-agents/)
+- [@artigo@Planejar e Executar: Arquitetura de Agentes AI](https://medium.com/@shubham.ksingh.cer14/plan-and-execute-ai-agents-architecture-f6c60b5b9598)

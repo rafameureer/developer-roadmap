@@ -1,26 +1,26 @@
-# Short Term  Memory
+# Memória de Curto Prazo
 
-Short term memory are the facts which are passed as a part of the prompt to the LLM e.g. there might be a prompt like below:
+A memória de curto prazo são fatos que são passados como parte da solicitação para o LLM, por exemplo. Pode haver uma solicitação como a seguir:
 
-    Users Profile:
-    - name: {name}
-    - age: {age}
-    - expertise: {expertise}
+    Perfil do Usuário:
+    - nome: {nome}
+    - idade: {idade}
+    - especialidade: {especialidade}
     
-    User is currently learning about {current_topic}. User has some goals in mind which are:
-    - {goal_1}
-    - {goal_2}
-    - {goal_3}
+    O usuário está atualmente aprendendo sobre {tópico_atual}. O usuário tem alguns objetivos em mente que são:
+    - {objetivo_1}
+    - {objetivo_2}
+    - {objetivo_3}
     
-    Help the user achieve the goals.
+    Ajude o usuário a atingir os objetivos.
     
 
-Notice how we injected the user's profile, current topic and goals in the prompt. These are all short term memories.
+Observe como injetamos o perfil do usuário, tópico atual e objetivos na solicitação. Todos esses são fatos de memória de curto prazo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Memory Management in AI Agents](https://python.langchain.com/docs/how_to/chatbots_memory/)
-- [@article@Build Smarter AI Agents: Manage Short-term and Long-term Memory](https://redis.io/blog/build-smarter-ai-agents-manage-short-term-and-long-term-memory-with-redis/)
-- [@article@Storing and Retrieving Knowledge for Agents](https://www.pinecone.io/learn/langchain-retrieval-augmentation/)
-- [@article@Short-Term vs Long-Term Memory in AI Agents](https://adasci.org/short-term-vs-long-term-memory-in-ai-agents/)
-- [@video@Building Brain-Like Memory for AI Agents](https://www.youtube.com/watch?v=VKPngyO0iKg)
+- [@artigo@Gerenciamento de Memória em Agentes AI](https://python.langchain.com/docs/how_to/chatbots_memory/)
+- [@artigo@Construindo Agentes AI Inteligentes: Gerenciando Memória de Curto e Longo Prazo](https://redis.io/blog/build-smarter-ai-agents-manage-short-term-and-long-term-memory-with-redis/)
+- [@artigo@Armazenando e Recuperando Conhecimento para Agentes](https://www.pinecone.io/learn/langchain-retrieval-augmentation/)
+- [@artigo@Memória de Curto Prazo vs Memória de Longo Prazo em Agentes AI](https://adasci.org/short-term-vs-long-term-memory-in-ai-agents/)
+- [@vídeo@Construindo uma Memória Semelhante ao Cérebro para Agentes AI](https://www.youtube.com/watch?v=VKPngyO0iKg)

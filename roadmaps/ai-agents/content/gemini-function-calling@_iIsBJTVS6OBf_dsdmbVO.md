@@ -1,8 +1,8 @@
-# Gemini Function Calling
+# Chamada de Função Gemini
 
-Gemini function calling lets you hook the Gemini language model to real code in a safe and simple way. You first list the functions you want it to use, each with a name, a short note about what it does, and a JSON schema for the needed arguments. When the user speaks, Gemini checks this list and, if a match makes sense, answers with a tiny JSON block that holds the chosen function name and the filled-in arguments. Your program then runs that function, sends the result back, and the chat moves on. Because the reply is strict JSON and not free text, you do not have to guess at what the model means, and you avoid many errors. This flow lets you build agents that pull data, call APIs, or carry out long action chains while keeping control of business logic on your side.
+A chamada de função Gemini permite que você conecte o modelo linguístico Gemini a código real de uma maneira segura e simples. Primeiro, você lista as funções que deseja que ele use, cada uma com um nome, uma breve nota sobre o que ela faz e um esquema JSON para os argumentos necessários. Quando o usuário fala, Gemini verifica esta lista e, se uma correspondência faz sentido, responde com um pequeno bloco de JSON que contém o nome da função escolhida e os argumentos preenchidos. Seu programa então executa aquela função, envia o resultado de volta e a conversa continua. Porque a resposta é estrito JSON e não texto livre, você não precisa adivinhar o que o modelo significa e evita muitos erros. Este fluxo permite que você crie agentes que busquem dados, chamem APIs ou execute longas cadeias de ações enquanto mantém o controle da lógica de negócios em seu lado.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Function Calling with the Gemini API](https://ai.google.dev/gemini-api/docs/function-calling)
-- [@article@Understanding Function Calling in Gemini](https://medium.com/google-cloud/understanding-function-calling-in-gemini-3097937f1905)
+- [@official@Chamada de Função com a API Gemini](https://ai.google.dev/gemini-api/docs/function-calling)
+- [@article@Entendendo Chamada de Função no Gemini](https://medium.com/google-cloud/understanding-function-calling-in-gemini-3097937f1905)

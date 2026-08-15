@@ -1,7 +1,7 @@
-# From X to FDE
+# De X para FDE
 
-Three backgrounds tend to transition well into the FDE role: software engineers, consultants, and product managers. Software engineers already have the technical foundation but often need to develop the ability to communicate AI tradeoffs to non-technical stakeholders and build a portfolio that shows they can own a full deployment, not just write code. Consultants and PMs can already translate data into business outcomes, which is half the job, but need to close the gap on engineering by building real agents, RAG pipelines, and eval frameworks from scratch.
+Três fundos tendem a transitar bem para o papel de FDE: engenheiros de software, consultores e gerentes de produtos. Os engenheiros de software já têm a base técnica, mas muitas vezes precisam desenvolver a habilidade de comunicar as compensações da IA aos não técnicos e construir uma portfólio que mostre que eles podem assumir uma implantação completa, não apenas escrever código. Consultores e PMs já podem traduzir dados em resultados de negócios, o que é metade do trabalho, mas precisam fechar a lacuna na engenharia ao construir agentes reais, pipelines RAG e frameworks de avaliação desde zero.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@The Definitive Guide to Forward Deployed Engineer Interviews in 2026](https://www.sundeepteki.org/advice/the-definitive-guide-to-forward-deployed-engineer-interviews-in-2026)
+- [@artigo@O Guia Definitivo sobre Entrevistas de Engenheiro Deployado para Frente em 2026](https://www.sundeepteki.org/advice/the-definitive-guide-to-forward-deployed-engineer-interviews-in-2026)

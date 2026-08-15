@@ -1,8 +1,8 @@
-# Tradeoffs: Scope, Speed, Quality
+# Compromissos: Escopo, Velocidade e Qualidade
 
-Every project involves tradeoffs between scope (how much is built), speed (how fast it is delivered), and quality (how well it holds up over time). Reducing scope can speed things up without sacrificing quality. Cutting corners on quality can speed things up in the short term but creates problems later. FDEs need to understand and communicate these tradeoffs clearly, helping customers make informed decisions rather than just agreeing to everything and delivering less than expected.
+Cada projeto envolve compromissos entre escopo (quantidade construída), velocidade (quanto rápido é entregue) e qualidade (como bem ele se mantém ao longo do tempo). Reduzir o escopo pode acelerar as coisas sem sacrificar a qualidade. Cortar canteiros na qualidade pode acelerar no curto prazo, mas cria problemas mais tarde. FDEs precisam entender e comunicar esses compromissos claramente, ajudando os clientes a tomar decisões informadas em vez de apenas concordar com tudo e entregar menos do que esperado.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Project management triangle: Triple constraint guide](https://asana.com/resources/project-management-triangle)
-- [@video@What is the Iron Triangle? Time, Cost, Quality, Scope?](https://www.youtube.com/watch?v=JHSHOAfV-uw)
+- [@article@Triângulo de Gerenciamento de Projetos: Guia Triangular](https://asana.com/resources/project-management-triangle)
+- [@video@O que é o Triângulo de Ferro? Tempo, Custo, Qualidade, Escopo?](https://www.youtube.com/watch?v=JHSHOAfV-uw)

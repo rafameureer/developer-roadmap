@@ -1,3 +1,3 @@
-# Complete App with Observability
- 
-Take a complete application and make it production-ready by building a sandbox first: a replica of the deployment environment where you can run, test, and debug the system before it touches production. Then add the operational layer: structured logging, distributed tracing, error tracking, performance metrics, and alerts. Once it is running, break something intentionally and use those tools to find it. In a real customer engagement, you will not be there forever. Observability is what lets the customer's team keep the system running after you leave.
+# Aplicativo Completo com Observabilidade
+
+Leve um aplicativo completo e faça-o pronto para produção construindo primeiro um sandbox: uma réplica do ambiente de implantação onde você pode executar, testar e depurar o sistema antes que ele entre em produção. Em seguida, adicione a camada operacional: registro estruturado, rastreamento distribuído, rastreamento de erros, métricas de desempenho e alertas. Uma vez que estiver em execução, cause um problema intencionalmente e use essas ferramentas para encontrá-lo. Em uma interação real com o cliente, você não estará lá por sempre. A observabilidade é o que permite ao time do cliente manter o sistema funcionando após sua saída.

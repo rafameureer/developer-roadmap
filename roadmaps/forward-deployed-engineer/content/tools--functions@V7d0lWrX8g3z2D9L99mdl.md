@@ -1,8 +1,8 @@
-# Tools & Functions
+# Ferramentas & Funções
 
-Tools and functions are the mechanisms through which AI agents interact with the outside world. A tool might query a database, call an external API, run a code interpreter, or search the web. In practice, tools are defined as schemas the model can invoke, and the application handles executing the actual function and returning the result. Designing good tool interfaces is a significant part of making agents reliable.
+As ferramentas e funções são os mecanismos através dos quais os agentes de IA interagem com o mundo externo. Uma ferramenta pode consultar um banco de dados, chamar uma API externa, executar um interpretador de código ou pesquisar na web. Na prática, as ferramentas são definidas como esquemas que o modelo pode invocar, e a aplicação lida com a execução da função real e o retorno do resultado. A designação de boas interfaces de ferramenta é uma parte significativa de tornar os agentes confiáveis.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What are Tools?](https://huggingface.co/learn/agents-course/unit1/tools)
-- [@video@What is Tool Calling? Connecting LLMs to Your Data](https://www.youtube.com/watch?v=h8gMhXYAv1k)
+- [@article@O que são Ferramentas?](https://huggingface.co/learn/agents-course/unit1/tools)
+- [@video@O que é a Chamada de Ferramenta? Conectando LLMs ao Seu Dados](https://www.youtube.com/watch?v=h8gMhXYAv1k)

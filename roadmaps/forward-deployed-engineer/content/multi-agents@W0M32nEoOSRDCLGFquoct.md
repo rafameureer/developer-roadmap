@@ -1,8 +1,8 @@
-# Multi-Agents
+# Sistemas Multissagentes
 
-Multi-agent systems involve multiple AI agents working together, where each agent has a specific role or capability, and they coordinate to complete a larger task. One agent might plan the work while others execute specific subtasks. This pattern becomes relevant for complex customer workflows where a single agent would struggle to manage all the context and steps reliably.
+Os sistemas multissagentes envolvem múltiplos agentes de IA trabalhando juntos, onde cada agente tem um papel ou capacidade específico e eles coordenam para completar uma tarefa maior. Um agente pode planejar o trabalho enquanto outros executam subtarefas específicas. Esse padrão se torna relevante para fluxos de trabalho complexos de clientes em que um único agente teria dificuldade em gerenciar todo o contexto e etapas confiavelmente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Guide to multi-agent systems (MAS)](https://cloud.google.com/discover/what-is-a-multi-agent-system?hl=en)
-- [@video@Multi Agent Systems Explained](https://www.youtube.com/watch?v=sWH0T4Zez6I)
+- [@artigo@Guia sobre Sistemas Multissagentes (MAS)](https://cloud.google.com/discover/what-is-a-multi-agent-system?hl=en)
+- [@vídeo@Sistemas Multissagentes Explicados](https://www.youtube.com/watch?v=sWH0T4Zez6I)

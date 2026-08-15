@@ -1,9 +1,9 @@
 # C++
 
-C++ is a high-performance, statically typed language that gives developers fine-grained control over memory and system resources. It is used in systems programming, game engines, embedded software, and performance-critical applications. While less common in typical web or AI deployments, some customer environments in hardware, robotics, or real-time systems will require at least reading and navigating C++ codebases.
+C++ é um idioma de alto desempenho, tipado estaticamente que dá aos desenvolvedores controle fino sobre a memória e os recursos do sistema. É usado em programação de sistemas, motores de jogos, software embarcado e aplicativos críticos em termos de desempenho. Embora menos comum em implantações típicas da web ou IA, alguns ambientes de cliente em hardware, robótica ou sistemas em tempo real exigirão pelo menos a leitura e navegação por códigos-fonte C++.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated C++ Developer Roadmap](https://roadmap.sh/cpp)
-- [@official@Get Started with C++](https://isocpp.org/get-started)
-- [@course@Modern Cpp Series By Mike Shah](https://courses.mshah.io/courses/cpp-programming-language)
+- [@roadmap@Visite o Caminho do Desenvolvedor C++ dedicado](https://roadmap.sh/cpp)
+- [@oficial@Comece com C++](https://isocpp.org/get-started)
+- [@curso@Série Moderna de C++ por Mike Shah](https://courses.mshah.io/courses/cpp-programming-language)

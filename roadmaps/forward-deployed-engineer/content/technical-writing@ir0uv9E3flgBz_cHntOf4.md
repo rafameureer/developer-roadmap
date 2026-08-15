@@ -1,7 +1,7 @@
-# Technical Writing
+# Escrita Técnica
 
-Technical writing is the practice of producing clear, accurate, and useful documentation for software systems. This includes API docs, architecture decision records, runbooks, onboarding guides, and design documents. Technical writing is especially important because good documentation is often what allows a customer to operate and extend a system after the engagement ends, without needing to call the FDE back for every question.
+A escrita técnica é a prática de produzir documentação clara, precisa e útil para sistemas de software. Isso inclui documentos de API, registros de decisões arquitetônicas, guias de operação, orientações de onboarding e documentos de design. A escrita técnica é especialmente importante porque boa documentação muitas vezes permite que um cliente opere e estenda um sistema após o encerramento da parceria, sem precisar chamar o FDE para todas as perguntas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated Technical Writer Roadmap](https://roadmap.sh/technical-writer)
+- [@roadmap@Visite a Rota do Escritor Técnico Especializado](https://roadmap.sh/technical-writer)

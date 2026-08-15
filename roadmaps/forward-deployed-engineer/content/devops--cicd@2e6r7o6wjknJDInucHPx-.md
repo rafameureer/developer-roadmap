@@ -1,9 +1,9 @@
 # DevOps & CI/CD
 
-DevOps is a set of practices that combine software development and IT operations to shorten delivery cycles and ship software more reliably. CI/CD automates the process of testing, building, and deploying code. Understanding the customer's CI/CD setup is often necessary for FDEs to integrate new work into their delivery pipeline without disrupting existing processes.
+DevOps é um conjunto de práticas que combinam o desenvolvimento de software e as operações de TI para acelerar os ciclos de entrega e entregar softwares com maior confiabilidade. O CI/CD automatiza o processo de teste, construção e implantação de código. Entender a configuração do CI/CD do cliente é geralmente necessário para FDEs integrarem novos trabalhos em sua pipeline de entrega sem interromper processos existentes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated DevOps Roadmap](https://roadmap.sh/devops)
-- [@article@What is CI/CD?](https://www.ibm.com/think/topics/ci-cd)
-- [@video@DevOps In 5 Minutes](https://www.youtube.com/watch?v=Xrgk023l4lI)
+- [@roadmap@Visite o Caminho DevOps Dedidado](https://roadmap.sh/devops)
+- [@article@O que é CI/CD?](https://www.ibm.com/think/topics/ci-cd)
+- [@video@DevOps em 5 minutos](https://www.youtube.com/watch?v=Xrgk023l4lI)

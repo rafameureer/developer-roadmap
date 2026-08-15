@@ -1,9 +1,9 @@
-# Model Deployment
+# Implantação de Modelos
 
-Model deployment is the process of making a trained machine learning model available to serve predictions in a production environment. This involves packaging the model, setting up an inference server, exposing an API, and ensuring the system can handle required throughput and latency.
+A implantação de modelos é o processo de tornar um modelo de aprendizado de máquina treinado disponível para fornecer previsões em um ambiente de produção. Isso envolve empacotar o modelo, configurar um servidor de inferência, expor uma API e garantir que o sistema possa lidar com a taxa de throughput e latência necessárias.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@Machine Learning Engineering for Production (MLOps) Specialization](https://imp.i384100.net/nLA5mx)
-- [@article@What Is Model Deployment?](https://www.ibm.com/think/topics/model-deployment)
-- [@video@Top 5 Most-Used Deployment Strategies](https://www.youtube.com/watch?v=AWVTKBUnoIg)
+- [@curso@Engenharia de Machine Learning para Produção (MLOps) Especialização](https://imp.i384100.net/nLA5mx)
+- [@artigo@O que é a Implantação de Modelos?](https://www.ibm.com/think/topics/model-deployment)
+- [@vídeo@As 5 Melhores Estratégias de Implantação Mais Usadas](https://www.youtube.com/watch?v=AWVTKBUnoIg)

@@ -1,9 +1,9 @@
-# System Design
+# Design de Sistema
 
-System design is the process of defining the components, data flows, and infrastructure needed to build a scalable and reliable system. It involves decisions around databases, caching, load balancing, APIs, and service boundaries. For FDEs, system design often happens under time pressure and with incomplete information, so knowing common patterns well makes it possible to move quickly without making costly mistakes.
+O design de sistema é o processo de definir os componentes, fluxos de dados e infraestrutura necessários para construir um sistema escalável e confiável. Envolve decisões em torno de bancos de dados, caching, balanceamento de carga, APIs e fronteiras de serviço. Para FDEs, o design de sistema geralmente ocorre sob pressão de prazo e com informações incompletas, então conhecer bem os padrões comuns torna possível se mover rapidamente sem cometer erros caros.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated System Design Roadmap](https://roadmap.sh/system-design)
-- [@article@AI System Design: A Complete Guide](https://www.systemdesignhandbook.com/guides/ai-system-design/)
-- [@article@System Design: Complete Guide](https://swimm.io/learn/system-design/system-design-complete-guide-with-patterns-examples-and-techniques)
+- [@roadmap@Visite a Rota do Design de Sistema Especializado](https://roadmap.sh/system-design)
+- [@article@Design de Sistemas de Inteligência Artificial: Um Guia Completo](https://www.systemdesignhandbook.com/guides/ai-system-design/)
+- [@article@Guia Completo de Design de Sistemas](https://swimm.io/learn/system-design/system-design-complete-guide-with-patterns-examples-and-techniques)

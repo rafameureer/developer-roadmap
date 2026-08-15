@@ -1,9 +1,9 @@
 # JavaScript
 
-JavaScript is the scripting language that runs in web browsers, giving web pages dynamic behavior. It handles user interactions, DOM manipulation, API requests, and more. On the server side, JavaScript runs via Node.js. Understanding JavaScript well means being able to work across the full web stack.
+JavaScript é o idioma de script que roda em navegadores da web, dando aos sites comportamentos dinâmicos. Ele lida com interações do usuário, manipulação do DOM, solicitações de API e muito mais. No lado do servidor, JavaScript roda via Node.js. Entender bem JavaScript significa ser capaz de trabalhar na pilha completa da web.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated JavaScript Roadmap](https://roadmap.sh/javascript)
-- [@official@JavaScript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [@course@JavaScript Tutorial Full Course - Beginner to Pro](https://www.youtube.com/watch?v=EerdGm-ehJQ)
+- [@roadmap@Visite o Caminho do Desenvolvedor JavaScript dedicado](https://roadmap.sh/javascript)
+- [@official@Documentação oficial do JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [@course@Curso completo de JavaScript - Iniciante a Profissional](https://www.youtube.com/watch?v=EerdGm-ehJQ)

@@ -1,9 +1,9 @@
-# Software Architecture
+# Arquitetura de Software
 
-Software architecture is the high-level structure of a software system, including how components are organized, how they interact, and what principles guide those design decisions. Common patterns include layered architecture, microservices, event-driven design, and domain-driven design. FDEs need to quickly understand a customer's architecture and make decisions that fit within it, or clearly articulate why a different approach is needed.
+A arquitetura de software é a estrutura de alto nível de um sistema de software, incluindo como os componentes são organizados, como eles se interagem e quais princípios guiam essas decisões de design. Os padrões comuns incluem arquitetura em camadas, microservices, design orientado a eventos e design centrado no domínio. Os FDEs precisam entender rapidamente a arquitetura do cliente e tomar decisões que sejam compatíveis com ela ou claramente explicar por que uma abordagem diferente é necessária.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated Software Design and Architecture Roadmap](https://roadmap.sh/software-design-architecture)
-- [@article@What is Software Architecture? A Comprehensive Guide](https://vfunction.com/blog/what-is-software-architecture/)
-- [@video@Getting the Basics - Software Architecture Introduction](https://www.youtube.com/watch?v=8UlLgOf20Ho)
+- [@roadmap@Visite o Caminho Dedidado de Design e Arquitetura de Software](https://roadmap.sh/software-design-architecture)
+- [@artigo@O que é a Arquitetura de Software? Um Guia Completo](https://vfunction.com/blog/what-is-software-architecture/)
+- [@vídeo@Introdução à Arquitetura de Software - Básico](https://www.youtube.com/watch?v=8UlLgOf20Ho)

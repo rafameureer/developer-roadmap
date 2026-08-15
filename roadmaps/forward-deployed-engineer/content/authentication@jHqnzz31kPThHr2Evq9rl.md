@@ -1,8 +1,8 @@
-# Authentication
+# Autenticação
 
-Authentication is the process of verifying the identity of a user or system. Common mechanisms include username/password, API keys, OAuth 2.0 tokens, and JWTs. In customer environments, FDEs typically need to integrate with an existing identity provider rather than build authentication from scratch, which requires understanding how common auth flows work and how to connect new services to them securely.
+A autenticação é o processo de verificar a identidade de um usuário ou sistema. Mecanismos comuns incluem nome de usuário/senha, chaves API, tokens OAuth 2.0 e JWTs. Em ambientes de cliente, os FDEs geralmente precisam integrar-se a um provedor de identidade existente em vez de construir autenticação do zero, o que requer compreensão dos fluxos de autenticação comuns e como conectar novos serviços a eles de forma segura.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@Session vs Token Authentication in 100 Seconds](https://www.youtube.com/watch?v=UBUNrFtufWo)
-- [@video@How will AI Agents Manage Identity & Build Trust in Complex Systems](https://www.youtube.com/watch?v=wiU7VEvi1LM)
+- [@vídeo@Sessão vs Autenticação por Token em 100 Segundos](https://www.youtube.com/watch?v=UBUNrFtufWo)
+- [@vídeo@Como os Agentes de IA Gerenciarão a Identidade e Construirão Confiança em Sistemas Complexos](https://www.youtube.com/watch?v=wiU7VEvi1LM)

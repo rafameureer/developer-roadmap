@@ -1,8 +1,8 @@
-# Regression Testing
+# Testes de Regressão
 
-Regression testing for AI systems involves running a set of test cases against a model or prompt to verify that a change has not degraded behavior relative to a previous baseline. Unlike traditional software tests, AI regression tests often use example inputs and expected output properties evaluated by another model or human review.
+Os testes de regressão para sistemas de IA envolvem a execução de um conjunto de casos de teste contra um modelo ou prompt para verificar que uma mudança não tenha degradado o comportamento em relação a um baseline anterior. Diferentemente dos testes de software tradicionais, os testes de regressão de IA frequentemente usam entradas de exemplo e propriedades de saída esperada avaliadas por outro modelo ou revisão humana.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Watch the language: A tutorial on regression testing for LLMs](https://www.evidentlyai.com/blog/llm-regression-testing-tutorial)
-- [@video@What is Regression Testing? A Software Testing FAQ - Why? How? When?](https://www.youtube.com/watch?v=xmQuLTarGI4)
+- [@article@Assista à língua: um tutorial sobre testes de regressão para LLMs](https://www.evidentlyai.com/blog/llm-regression-testing-tutorial)
+- [@video@O que são Testes de Regressão? Perguntas Frequentes sobre Testes de Software - Por quê? Como? Quando?](https://www.youtube.com/watch?v=xmQuLTarGI4)

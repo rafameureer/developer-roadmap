@@ -1,9 +1,9 @@
-# Memory & State Management
+# Gerenciamento de Memória e Estado
 
-Memory refers to how information is stored and retrieved across steps in a conversation or task. Short-term memory lives in the context window, while long-term memory requires external storage like a database or vector store. Managing state well is important when building agents for customer workflows that span multiple steps, sessions, or users.
+A memória se refere à maneira como informações são armazenadas e recuperadas em etapas de uma conversa ou tarefa. A memória de curto prazo reside no contexto da janela, enquanto a memória de longo prazo requer armazenamento externo como um banco de dados ou um repositório vetorial. Gerenciar o estado bem é importante ao construir agentes para fluxos de trabalho do cliente que abrangem várias etapas, sessões ou usuários.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is AI agent memory?](https://www.ibm.com/think/topics/ai-agent-memory)
-- [@video@Building Brain-Like Memory for AI | LLM Agent Memory Systems](https://www.youtube.com/watch?v=VKPngyO0iKg)
-- [@video@The Four Types of Memory Every AI Agent Needs](https://www.youtube.com/watch?v=BacJ6sEhqMo)
+- [@article@O que é a memória de agente de IA?](https://www.ibm.com/think/topics/ai-agent-memory)
+- [@video@Construindo Memória Semelhante ao Cérebro para IA | Sistemas de Memória de Agente LLM](https://www.youtube.com/watch?v=VKPngyO0iKg)
+- [@video@Os Quatro Tipos de Memória que Todos os Agentes de IA Precisam](https://www.youtube.com/watch?v=BacJ6sEhqMo)

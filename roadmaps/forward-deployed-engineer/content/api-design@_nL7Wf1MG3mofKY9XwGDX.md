@@ -1,9 +1,9 @@
-# APIs Design
+# Design de APIs
 
-API design is the process of defining how services communicate with each other through well-structured interfaces. Good API design involves choosing the right protocol (REST, GraphQL, gRPC), defining clear resource models, handling errors consistently, and versioning carefully.
+O design de API é o processo de definir como os serviços se comunicam um com o outro através de interfaces estruturadas. Um bom design de API envolve escolher o protocolo certo (REST, GraphQL, gRPC), definir modelos de recursos claros, lidar com erros consistentemente e versionar cuidadosamente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated API Design Roadmap](https://roadmap.sh/api-design)
-- [@article@What is an API (application programming interface)?](https://www.ibm.com/think/topics/api)
-- [@video@What is an API? (in 3 minutes)](https://www.youtube.com/watch?v=s7wmiS2mSXY)
+- [@roadmap@Visite a Rotação Específica de Design de API](https://roadmap.sh/api-design)
+- [@article@O que é uma API (interface de programação de aplicativos)?](https://www.ibm.com/think/topics/api)
+- [@video@O que é uma API? (em 3 minutos)](https://www.youtube.com/watch?v=s7wmiS2mSXY)

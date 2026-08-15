@@ -1,8 +1,8 @@
-# Cloud Platforms
+# Plataformas de Nuvem
 
-Cloud platforms provide on-demand access to computing resources, including servers, storage, networking, databases, and managed services. Almost every customer environment runs on one or more cloud providers, so FDEs need to be comfortable operating across at least one of the major platforms, understanding how to deploy services, manage permissions, and navigate the ecosystem of managed offerings.
+As plataformas de nuvem fornecem acesso a recursos computacionais sob demanda, incluindo servidores, armazenamento, rede, bancos de dados e serviços gerenciados. Quase todos os ambientes de cliente executam em um ou mais provedores de nuvem, então os FDEs precisam estar confortáveis operando em pelo menos uma das principais plataformas, entendendo como implantar serviços, gerenciar permissões e navegar no ecossistema de ofertas gerenciadas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Cloud Platforms: Revolutionizing Business Operations](https://www.coursera.org/articles/cloud-platforms)
-- [@video@Cloud Computing In 6 Minutes](https://www.youtube.com/watch?v=M988_fsOSWo)
+- [@artigo@Plataformas de Nuvem: Revolucionando as Operações do Negócio](https://www.coursera.org/articles/cloud-platforms)
+- [@vídeo@Computação na Nuvem em 6 Minutos](https://www.youtube.com/watch?v=M988_fsOSWo)

@@ -1,11 +1,11 @@
 # Java / Scala
 
-Java is a statically typed, object-oriented language that runs on the Java Virtual Machine (JVM) and is widely used in enterprise systems, backend services, and Android development. Scala is also a JVM language that blends object-oriented and functional styles, commonly used with Apache Spark. Many enterprise customers, especially in finance or large tech organizations, run significant infrastructure on the JVM.
+Java é um idioma tipado estáticamente, orientado a objetos que roda na Máquina Virtual Java (JVM) e é amplamente utilizado em sistemas empresariais, serviços de back-end e desenvolvimento Android. Scala também é uma linguagem da JVM que combina estilos orientados a objetos e funcionais, comumente usada com Apache Spark. Muitos clientes empresariais, especialmente na finanças ou grandes organizações tecnológicas, executam infraestrutura significativa na JVM.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated Java Developer Roadmap](https://roadmap.sh/java)
-- [@roadmap@Visit the Dedicated Scala Developer Roadmap](https://roadmap.sh/scala)
-- [@official@Scala Docs](https://docs.scala-lang.org/)
-- [@article@Introduction to Java](https://hyperskill.org/courses/8)
-- [@video@Java for Beginners](https://www.youtube.com/watch?v=eIrMbAQSU34)
+- [@roadmap@Visite o Caminho do Desenvolvedor Java dedicado](https://roadmap.sh/java)
+- [@roadmap@Visite o Caminho do Desenvolvedor Scala dedicado](https://roadmap.sh/scala)
+- [@official@Documentação oficial do Scala](https://docs.scala-lang.org/)
+- [@article@Introdução ao Java](https://hyperskill.org/courses/8)
+- [@video@Java para iniciantes](https://www.youtube.com/watch?v=eIrMbAQSU34)

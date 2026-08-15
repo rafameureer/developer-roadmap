@@ -1,9 +1,9 @@
 # GitHub Actions
 
-GitHub Actions is a CI/CD and automation platform built into GitHub. Workflows are defined in YAML files and triggered by events like pushes, pull requests, or schedules. They can run tests, build container images, and deploy to cloud environments.
+GitHub Actions é uma plataforma de CI/CD e automação integrada ao GitHub. Os fluxos de trabalho são definidos em arquivos YAML e disparados por eventos como pushes, pull requests ou agendamentos. Eles podem executar testes, construir imagens de contêiner e implantar em ambientes de nuvem.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@GitHub Actions Docs](https://docs.github.com/en/actions)
+- [@oficial@Documentação do GitHub Actions](https://docs.github.com/en/actions)
 - [@opensource@Awesome GitHub Actions](https://github.com/sdras/awesome-actions)
-- [@video@Automate your Workflow with GitHub Actions](https://www.youtube.com/watch?v=nyKZTKQS_EQ)
+- [@vídeo@Automatize seu fluxo de trabalho com o GitHub Actions](https://www.youtube.com/watch?v=nyKZTKQS_EQ)

@@ -1,9 +1,9 @@
-# GCP
+# Google Cloud Platform (GCP)
 
-Google Cloud Platform (GCP) is Google's cloud offering, known for strong data and analytics services like BigQuery and AI/ML infrastructure like Vertex AI. It is often the preferred choice for data-intensive workloads and organizations using Google Workspace.
+O Google Cloud Platform (GCP) é a oferta de nuvem da Google, conhecida por serviços fortes de dados e análise como o BigQuery e a infraestrutura de IA/ML como o Vertex AI. É frequentemente a escolha preferida para cargas de trabalho intensivas em dados e organizações usando o Google Workspace.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@GCP Docs](https://docs.cloud.google.com/docs)
-- [@official@Google Cloud overview](https://docs.cloud.google.com/docs/overview)
-- [@video@Google Cloud Essentials](https://www.youtube.com/watch?v=kzKFuHk8ovk&list=PLIivdWyY5sqKh1gDR0WpP9iIOY00IE0xL)
+- [@official@Documentação oficial do GCP](https://docs.cloud.google.com/docs)
+- [@official@Visão geral do Google Cloud](https://docs.cloud.google.com/docs/overview)
+- [@video@Essenciais do Google Cloud](https://www.youtube.com/watch?v=kzKFuHk8ovk&list=PLIivdWyY5sqKh1gDR0WpP9iIOY00IE0xL)

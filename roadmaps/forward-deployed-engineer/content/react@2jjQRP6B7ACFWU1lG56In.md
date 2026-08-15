@@ -1,9 +1,9 @@
 # React
 
-React is a JavaScript library for building user interfaces using a component-based model. Each component manages its own state and rendering logic, and components are composed to build complete interfaces. React is one of the most common frontend frameworks in production (especially for building AI-powered apps), so familiarity with it makes it easier to contribute to or extend existing customer frontends quickly.
+React é uma biblioteca de JavaScript para construir interfaces do usuário usando um modelo baseado em componentes. Cada componente gerencia seu próprio estado e lógica de renderização, e os componentes são compostos para construir interfaces completas. React é um dos frameworks frontend mais comuns em produção (especialmente para a construção de aplicativos alimentados por IA), então familiaridade com ele torna mais fácil contribuir ou estender frontends existentes rapidamente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated React Developer Roadmap](https://roadmap.sh/react)
-- [@article@Getting Started with React](https://react.dev/learn/tutorial-tic-tac-toe)
-- [@video@React Course - Beginners Tutorial for React](https://www.youtube.com/watch?v=bMknfKXIFA8)
+- [@roadmap@Visite o Caminho do Desenvolvedor React dedicado](https://roadmap.sh/react)
+- [@article@Começando com React](https://react.dev/learn/tutorial-tic-tac-toe)
+- [@video@Curso de React - Tutorial Iniciante para React](https://www.youtube.com/watch?v=bMknfKXIFA8)

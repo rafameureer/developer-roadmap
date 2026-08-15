@@ -1,8 +1,8 @@
-# Discovery & Scoping
+# Descoberta & Escopo
 
-Discovery and scoping is the phase of a customer engagement where the team identifies the problem to solve, understands the current state of the customer's systems and processes, and defines what success looks like. It involves asking the right questions, identifying constraints, and setting realistic expectations before any building begins. Getting this phase right determines whether the rest of the engagement goes smoothly or runs into avoidable problems.
+A descoberta e o escopo é a fase de uma interação com o cliente onde o time identifica o problema a ser resolvido, entende o estado atual dos sistemas e processos do cliente e define o que significa o sucesso. Envolve fazer as perguntas certas, identificar restrições e estabelecer expectativas realistas antes de qualquer construção começar. Obter essa fase certa determina se o resto da interação irá fluir suavemente ou enfrentar problemas evitáveis.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@AI Techniques (Production): Use Case Discovery & System Scoping](https://academy.openai.com/public/clubs/builders-etkn1/videos/ai-techniques-production-use-case-discovery-and-system-scoping-2025-12-11)
-- [@article@AI Discovery & Scoping Session](https://www.elevatecorporatetraining.com.au/ai-discovery-scoping/)
+- [@article@Técnicas de IA (Produção): Descoberta de Casos de Uso e Escopo do Sistema](https://academy.openai.com/public/clubs/builders-etkn1/videos/ai-techniques-production-use-case-discovery-and-system-scoping-2025-12-11)
+- [@article@Sessão de Descoberta e Escopo de IA](https://www.elevatecorporatetraining.com.au/ai-discovery-scoping/)

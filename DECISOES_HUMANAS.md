@@ -4,7 +4,7 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 
 ---
 
-> ⚠️ **Total de itens sinalizados:** 920
+> ⚠️ **Total de itens sinalizados:** 952
 
 | Arquivo / Tópico | Motivo da Sinalização | Data/Hora |
 |---|---|---|
@@ -928,3 +928,35 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 | `roadmaps/flutter/content/sqlite@NPaqiuUpzQbrsXA5XNI7U.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:50:42.619553 |
 | `roadmaps/flutter/content/state-management@bYJ0G-g4R5faoJfFjRQW7.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:50:44.729301 |
 | `roadmaps/flutter/content/web-sockets@SUFuHR-r6NfAzIICXGHkK.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:52:00.116949 |
+| `roadmaps/forward-deployed-engineer/content/ai-engineering@buA5I4rQkiDB_EDG-6kju.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:52:52.223267 |
+| `roadmaps/forward-deployed-engineer/content/ai-governance@NaNmI6f-LLdb-ITMaPD6w.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:52:56.022005 |
+| `roadmaps/forward-deployed-engineer/content/airflow@T_I3hVabg_-juEb7_Rz0v.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:53:00.308878 |
+| `roadmaps/forward-deployed-engineer/content/backend-skills@kK16boEALRDQdRmFRphso.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:53:49.586456 |
+| `roadmaps/forward-deployed-engineer/content/backend@CEj01gIsqo9cnfBQAu4Oq.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:53:54.071027 |
+| `roadmaps/forward-deployed-engineer/content/build-your-agent@exOxhFap719ArAhvgsCDx.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:53:57.276399 |
+| `roadmaps/forward-deployed-engineer/content/complete-apps@YyPk_MygYb40ALZ2cynmN.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:54:50.631352 |
+| `roadmaps/forward-deployed-engineer/content/computer-science@dWklJpF9hcjJSxb4Q4xIO.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:54:54.523711 |
+| `roadmaps/forward-deployed-engineer/content/containers@jSNp7CyvfjYWjzTmVO8oP.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:54:58.467970 |
+| `roadmaps/forward-deployed-engineer/content/css@0llUuL5wNY111LDMfgTfn.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:55:15.864694 |
+| `roadmaps/forward-deployed-engineer/content/cursor@MWhoqhNnBaoeCdN_8i15k.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:55:19.857090 |
+| `roadmaps/forward-deployed-engineer/content/data-engineering@LUL5YJYOjQtE8mGHhXxt1.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:55:25.251296 |
+| `roadmaps/forward-deployed-engineer/content/data-pipelines@oqvpmxz-G2wAYZBsvYI-l.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:55:39.503611 |
+| `roadmaps/forward-deployed-engineer/content/data-privacy--compliance@xvTYuzxuOJ0gsmQEkNS5x.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:55:43.004205 |
+| `roadmaps/forward-deployed-engineer/content/data-structures--algorithms@aqrK4e6B8LFvFimKoqCNF.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:55:47.457545 |
+| `roadmaps/forward-deployed-engineer/content/docker@_JBeNCBgiucjYlcX871eU.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:56:16.445491 |
+| `roadmaps/forward-deployed-engineer/content/dsa--system-design@aqrK4e6B8LFvFimKoqCNF.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:56:21.024013 |
+| `roadmaps/forward-deployed-engineer/content/enterprise-workflow@c8dBwWaKLiW6X2HWfmVJt.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:56:23.768228 |
+| `roadmaps/forward-deployed-engineer/content/nosql-databases@QNScC6Pvz2OG3WJAIWkND.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:58:55.895012 |
+| `roadmaps/forward-deployed-engineer/content/observability@8fojVRR98MiJQEA_dec8n.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:59:00.154551 |
+| `roadmaps/forward-deployed-engineer/content/postgresql@YJ3cNcQGBifxTLY_X7Rsb.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:59:04.030220 |
+| `roadmaps/forward-deployed-engineer/content/product-feedback-loop@U2mQX5_XwmW74HFEM1Uzw.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:59:18.039416 |
+| `roadmaps/forward-deployed-engineer/content/prompt-engineering@wc3AT6lpGUDr-KM95XjgI.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:59:22.502884 |
+| `roadmaps/forward-deployed-engineer/content/prompt-management@ThPsnGBFU3KZwsTf2U2ws.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:59:26.400522 |
+| `roadmaps/forward-deployed-engineer/content/prompt-versioning@DKWrSQDE7nFZFGVEUH1od.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:59:40.690153 |
+| `roadmaps/forward-deployed-engineer/content/python@3CR52IR7RUOGUP7pLJlCE.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:59:44.427474 |
+| `roadmaps/forward-deployed-engineer/content/rags@7YOfKFFLI78GabP760sy8.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:59:49.271866 |
+| `roadmaps/forward-deployed-engineer/content/roi--ai-impact@kyHwTMFBQxbHrGBcv3q0O.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:00:21.091345 |
+| `roadmaps/forward-deployed-engineer/content/roles--responsabilities@YNaf7swqsvYaXRK6uevdv.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:00:30.505594 |
+| `roadmaps/forward-deployed-engineer/content/spark@0NVAhnjHZ2-oo6TBcbs9X.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:01:01.484914 |
+| `roadmaps/forward-deployed-engineer/content/sql@EWIf51kO_21ZK2ep0vWIJ.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:01:04.854287 |
+| `roadmaps/forward-deployed-engineer/content/stakeholder-management@L76T2X7AFpVtpMF9CjBJo.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:01:09.118504 |

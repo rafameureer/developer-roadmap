@@ -1,3 +1,3 @@
-# Business Acumen
+# Compreensão Empresarial
 
-Business acumen is the ability to understand how an organization operates, what its priorities are, how it makes money, and where technology can create real value. Being able to connect engineering decisions to business outcomes is what makes FDEs different from traditional software engineers.
+A compreensão empresarial é a habilidade de entender como uma organização opera, quais são suas prioridades, como ela gera dinheiro e onde a tecnologia pode criar valor real. A capacidade de conectar decisões de engenharia aos resultados da empresa é o que torna os FDEs diferentes dos engenheiros de software tradicionais.

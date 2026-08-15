@@ -1,10 +1,10 @@
-# AI Engineering Skills
+# Habilidades de Engenharia de IA
 
-AI Engineering
+Engenharia de IA
 
-AI engineering involves building software systems that use machine learning models and large language models (LLMs) as components. This includes selecting models, integrating them via APIs, engineering prompts, managing context, and deploying AI features in production. AI engineering is at the core of the job of FDEs. It's what turns an AI model into a product that runs reliably inside a company's infrastructure.
+A engenharia de IA envolve a construção de sistemas de software que usam modelos de aprendizado de máquina e grandes modelos linguísticos (LLMs) como componentes. Isso inclui selecionar modelos, integrá-los via APIs, engenheirar prompts, gerenciar contexto e implantar recursos de IA em produção. A engenharia de IA é o núcleo do trabalho dos FDEs. É o que transforma um modelo de IA em um produto que funciona confiavelmente dentro da infraestrutura de uma empresa.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What Is an AI Engineer? (And How to Become One)](https://www.coursera.org/articles/ai-engineer)
-- [@video@AI, Machine Learning, Deep Learning and Generative AI Explained](https://www.youtube.com/watch?v=qYNweeDHiyU)
+- [@artigo@O Que é um Engenheiro de IA? (E Como se Tornar Um)](https://www.coursera.org/articles/ai-engineer)
+- [@vídeo@IA, Aprendizado de Máquina, Deep Learning e Inteligência Artificial Gerativa Explained](https://www.youtube.com/watch?v=qYNweeDHiyU)

@@ -1,9 +1,9 @@
-# Building Eval Pipelines
+# Construindo Pipelines de Avaliação
 
-Evaluation pipelines are automated systems for measuring the quality of an AI model or application across a set of test cases. They run inputs through the system, compare outputs to expected results or use a judge model, and surface quality metrics. Eval pipelines give customers a way to measure whether AI features are working, which makes it easier to iterate and build confidence in the system over time.
+As pipelines de avaliação são sistemas automatizados para medir a qualidade de um modelo ou aplicativo de IA em um conjunto de casos de teste. Eles passam entradas pelo sistema, comparam as saídas com os resultados esperados ou usam um modelo juiz e apresentam métricas de qualidade. As pipelines de avaliação oferecem aos clientes uma maneira de medir se as funcionalidades de IA estão funcionando, o que facilita a iteração e o desenvolvimento de confiança no sistema ao longo do tempo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@LLM evaluation: a beginner's guide](https://www.evidentlyai.com/llm-guide/llm-evaluation)
-- [@article@Building an Evaluation Harness for Production AI Agents:](https://towardsdatascience.com/building-an-evaluation-harness-for-production-ai-agents-a-12-metric-framework-from-100-deployments/)
-- [@video@LLM Evaluation course](https://www.youtube.com/watch?v=rHs0sP7b5fM&list=PL9omX6impEuMgDFCK_NleIB0sMzKs2boI)
+- [@artigo@Avaliação de LLM: um guia iniciante](https://www.evidentlyai.com/llm-guide/llm-evaluation)
+- [@artigo@Construindo uma Estrutura de Avaliação para Agentes AI em Produção:](https://towardsdatascience.com/building-an-evaluation-harness-for-production-ai-agents-a-12-metric-framework-from-100-deployments/)
+- [@vídeo@Curso de Avaliação de LLM](https://www.youtube.com/watch?v=rHs0sP7b5fM&list=PL9omX6impEuMgDFCK_NleIB0sMzKs2boI)

@@ -1,8 +1,8 @@
-# Latency and Cost Optimization
+# Latência e Otimização de Custos
 
-Latency and cost optimization in AI systems involves reducing the time and money needed to serve model predictions. Strategies include choosing smaller or faster models, caching responses for repeated queries, batching requests, and routing simpler inputs to cheaper models. These tradeoffs become very real when a customer starts using an AI feature at scale and the initial architecture no longer holds up economically.
+A otimização de latência e custo em sistemas de IA envolve reduzir o tempo e dinheiro necessários para servir previsões de modelo. Estratégias incluem escolher modelos menores ou mais rápidos, cachear respostas para consultas repetidas, agrupar solicitações e rotear entradas mais simples para modelos mais baratos. Essas negociações se tornam muito reais quando um cliente começa a usar uma funcionalidade de IA em escala e a arquitetura inicial não suporta mais economicamente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@The LLM Inference Trilemma: Throughput, Latency, Cost](https://www.digitalocean.com/blog/llm-inference-tradeoffs)
-- [@article@LLM Cost Optimization: 5 Levers That Cut API Spend 70-85%](https://www.morphllm.com/llm-cost-optimization)
+- [@article@O Trilema da Inferência LLM: Throughput, Latência, Custo](https://www.digitalocean.com/blog/llm-inference-tradeoffs)
+- [@article@Otimização de Custos do LLM: 5 Levers que reduzem gastos na API em 70-85%](https://www.morphllm.com/llm-cost-optimization)

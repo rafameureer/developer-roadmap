@@ -1,9 +1,9 @@
 # Node.js
 
-Node.js is a JavaScript runtime built on Chrome's V8 engine that lets developers run JavaScript on the server side. It uses a non-blocking, event-driven architecture well suited for I/O-heavy workloads like APIs and real-time applications. Many customer web stacks include Node.js services, and being able to read, debug, and extend them is a practical advantage.
+Node.js é um ambiente de execução de JavaScript baseado no motor V8 do Chrome que permite aos desenvolvedores executar JavaScript no lado do servidor. Ele usa uma arquitetura não bloqueante e orientada a eventos adequada para cargas de trabalho pesadas em I/O, como APIs e aplicações em tempo real. Muitos pilhas web de clientes incluem serviços Node.js, e ser capaz de ler, depurar e estender esses serviços é uma vantagem prática.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated Node.js Developer Roadmap](https://roadmap.sh/nodejs)
-- [@official@Node.js Docs](https://nodejs.org/docs/latest/api/)
-- [@video@Node.js Tutorial for Beginners: Learn Node in 1 Hour](https://www.youtube.com/watch?v=TlB_eWDSMt4)
+- [@roadmap@Visite o Caminho do Desenvolvedor dedicado ao Node.js](https://roadmap.sh/nodejs)
+- [@oficial@Documentação oficial do Node.js](https://nodejs.org/docs/latest/api/)
+- [@vídeo@Tutorial de Introdução ao Node.js: Aprenda Node em 1 Hora](https://www.youtube.com/watch?v=TlB_eWDSMt4)

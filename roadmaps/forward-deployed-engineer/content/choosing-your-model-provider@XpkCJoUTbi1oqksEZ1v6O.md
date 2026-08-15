@@ -1,8 +1,8 @@
-# Choosing your Model Provider
+# Escolha seu Provedor de Modelo
 
-Different LLM providers offer models with different tradeoffs in capability, cost, latency, context length, and licensing terms. Common providers include OpenAI, Anthropic, Google, and Meta, as well as providers of open-source models like Hugging Face. FDEs need to be able to evaluate and recommend the right model for a customer's use case, considering not just benchmark performance but also data privacy requirements, cost at scale, and the customer's existing cloud agreements.
+Diferentes provedores de LLM oferecem modelos com diferentes equilíbrios em capacidade, custo, latência, comprimento de contexto e termos de licenciamento. Provedores comuns incluem OpenAI, Anthropic, Google e Meta, bem como provedores de modelos open-source como Hugging Face. Os FDEs precisam ser capazes de avaliar e recomendar o modelo certo para um caso de uso do cliente, considerando não apenas desempenho em benchmark, mas também requisitos de privacidade de dados, custo a escala e os acordos de nuvem existentes do cliente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Choosing the right model](https://bentoml.com/llm/getting-started/choosing-the-right-model)
-- [@article@Beyond vibes: How to properly select the right LLM for the right task](https://aws.amazon.com/blogs/machine-learning/beyond-vibes-how-to-properly-select-the-right-llm-for-the-right-task/)
+- [@artigo@Escolhendo o modelo certo](https://bentoml.com/llm/getting-started/choosing-the-right-model)
+- [@artigo@Vai além das vibrações: Como selecionar adequadamente o LLM certo para a tarefa certa](https://aws.amazon.com/blogs/machine-learning/beyond-vibes-how-to-properly-select-the-right-llm-for-the-right-task/)

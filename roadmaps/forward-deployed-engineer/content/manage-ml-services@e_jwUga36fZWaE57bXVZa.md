@@ -1,9 +1,9 @@
-# Managed ML Services
+# Serviços Gerenciados de ML
 
-Major Cloud providers offer services that abstract away the infrastructure for training, deploying, and serving machine learning models. Examples include AWS SageMaker, Gemini Enterprise Agent Platform, and Azure Machine Learning. For FDEs building AI features inside customer cloud environments, these services can significantly reduce the time needed to get a model into production.
+Os principais provedores de nuvem oferecem serviços que abstrai a infraestrutura para treinar, implantar e servir modelos de aprendizado de máquina. Exemplos incluem AWS SageMaker, Gemini Enterprise Agent Platform e Azure Machine Learning. Para FDEs construindo recursos de IA dentro dos ambientes de nuvem dos clientes, esses serviços podem significativamente reduzir o tempo necessário para levar um modelo ao ambiente de produção.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Amazon SageMaker AI Documentation](https://docs.aws.amazon.com/sagemaker/)
+- [@official@Documentação do Amazon SageMaker AI](https://docs.aws.amazon.com/sagemaker/)
 - [@official@Gemini Enterprise Agent Platform](https://docs.cloud.google.com/gemini-enterprise-agent-platform)
-- [@official@Azure Machine Learning documentation](https://learn.microsoft.com/en-us/azure/machine-learning/?view=azureml-api-2)
+- [@official@Documentação do Azure Machine Learning](https://learn.microsoft.com/en-us/azure/machine-learning/?view=azureml-api-2)

@@ -1,3 +1,3 @@
-# Frontend Apps
+# Aplicativos Frontend
 
-Put the frontend skills together and build something that lives entirely in the browser. A weather dashboard, a personal finance tracker, a Pomodoro timer, a markdown editor. Use mock data or a public API if you need data, but keep the focus on the frontend itself: how you structure components, manage state, handle routing, and make the interface feel responsive and usable. The goal is to get comfortable making frontend decisions on your own, without a backend to hide behind.
+Combine as habilidades de frontend e construa algo que exista inteiramente no navegador. Um painel do tempo, um rastreador financeiro pessoal, um temporizador Pomodoro, um editor markdown. Use dados simulados ou uma API pública se precisar de dados, mas mantenha o foco no frontend em si: como você estrutura componentes, gerencia estado, lida com roteamento e torna a interface se sentir responsiva e usável. O objetivo é se sentir confortável fazendo decisões frontend sozinho, sem um backend para esconder atrás.

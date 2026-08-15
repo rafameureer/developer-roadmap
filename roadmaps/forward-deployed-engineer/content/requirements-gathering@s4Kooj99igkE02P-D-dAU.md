@@ -1,9 +1,9 @@
-# Requirements Gathering
+# Coleta de Requisitos
 
-Project requirements come from observation as much as from conversation. You watch how teams actually work, not just how they describe their work, because those two things are often different. The goal is to surface the undocumented workflow, the data source people actually trust, and the edge cases that would break an agent in its first week of production. Written requirements are useful, but the real requirements live in the room with the people doing the work.
+Os requisitos do projeto vêm tanto da observação quanto da conversa. Você assiste como os times realmente trabalham, não apenas como eles descrevem seu trabalho, porque essas duas coisas são frequentemente diferentes. O objetivo é revelar o fluxo de trabalho não documentado, a fonte de dados que as pessoas confiam na verdade e os casos limite que quebrariam um agente em sua primeira semana de produção. Requisitos escritos são úteis, mas os requisitos reais vivem no ambiente com as pessoas que estão fazendo o trabalho.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@Requirements Gathering in Business Analysis](https://www.coursera.org/learn/requirements-gathering-in-business-analysis)
-- [@article@Requirements Gathering in Software Engineering](https://www.jamasoftware.com/requirements-management-guide/requirements-gathering-and-management-processes/what-is-requirements-gathering/)
-- [@video@Requirement Gathering Techniques For A Business Analyst](https://www.youtube.com/watch?v=8EBWxW5Cn1g)
+- [@course@Coleta de Requisitos na Análise de Negócios](https://www.coursera.org/learn/requirements-gathering-in-business-analysis)
+- [@article@Coleta de Requisitos na Engenharia de Software](https://www.jamasoftware.com/requirements-management-guide/requirements-gathering-and-management-processes/what-is-requirements-gathering/)
+- [@video@Técnicas de Coleta de Requisitos para um Analista de Negócios](https://www.youtube.com/watch?v=8EBWxW5Cn1g)

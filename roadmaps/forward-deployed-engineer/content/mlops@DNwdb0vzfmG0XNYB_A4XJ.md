@@ -1,9 +1,9 @@
 # MLOps
 
-MLOps applies DevOps principles to machine learning systems, covering the processes and tooling needed to reliably build, deploy, monitor, and update ML models in production. This includes versioning data and models, automating training pipelines, serving inference at scale, and detecting degradation over time. FDEs building AI features for customers increasingly need MLOps knowledge to ensure those features stay reliable after handoff.
+MLOps aplica práticas de DevOps aos sistemas de aprendizado de máquina, cobrindo os processos e ferramentas necessárias para construir, implantar, monitorar e atualizar modelos ML em produção de maneira confiável. Isso inclui versão de dados e modelos, automação de pipelines de treinamento, atendimento a inferências em escala e detecção de degradação ao longo do tempo. Os FDEs que construem recursos de IA para clientes estão cada vez mais precisando de conhecimento em MLOps para garantir que esses recursos permaneçam confiáveis após o handoff.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated MLOps Roadmap](https://roadmap.sh/mlops)
-- [@article@What is MLOps? - Machine Learning Operations Explained](https://aws.amazon.com/what-is/mlops/)
-- [@video@What is MLOps?](https://www.youtube.com/watch?v=OejCJL2EC3k)
+- [@roadmap@Visite a Rota MLOps Dedidada](https://roadmap.sh/mlops)
+- [@article@O que é MLOps? - Explicação de Operações de Aprendizado de Máquina](https://aws.amazon.com/what-is/mlops/)
+- [@video@O que é MLOps?](https://www.youtube.com/watch?v=OejCJL2EC3k)

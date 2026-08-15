@@ -1,9 +1,9 @@
 # HTML
 
-HTML, or HyperText Markup Language, is the standard language for structuring content on the web. It defines the elements of a page, such as headings, paragraphs, links, forms, and images. It forms the foundation that CSS and JavaScript build on. Understanding HTML is necessary for any frontend work and for reading or modifying web-based customer interfaces.
+HTML, ou Linguagem de Marcação de Hipertexto, é o idioma padrão para estruturar conteúdo na web. Ele define os elementos de uma página, como títulos, parágrafos, links, formulários e imagens. Ele forma a base sobre a qual CSS e JavaScript são construídos. Entender HTML é necessário para qualquer trabalho frontend e para ler ou modificar interfaces de cliente baseadas na web.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated HTML Roadmap](https://roadmap.sh/html)
-- [@official@HTML Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [@video@HTML Tutorial for Beginners: HTML Crash Course](https://www.youtube.com/watch?v=qz0aGYrrlhU)
+- [@roadmap@Visite o Caminho do Desenvolvedor HTML](https://roadmap.sh/html)
+- [@official@Documentação oficial do HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [@video@Tutorial de Iniciante em HTML: Curso rápido de HTML](https://www.youtube.com/watch?v=qz0aGYrrlhU)

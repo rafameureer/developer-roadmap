@@ -1,8 +1,8 @@
 # Azure
 
-Microsoft Azure is Microsoft's cloud platform with particularly strong adoption in enterprise environments, especially those using Microsoft products like Active Directory, Office 365, and .NET.
+O Microsoft Azure é a plataforma de nuvem da Microsoft, com uma adesão particularmente forte em ambientes empresariais, especialmente aqueles que usam produtos da Microsoft como Active Directory, Office 365 e .NET.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Azure Docs](https://learn.microsoft.com/en-us/azure/?product=popular)
-- [@video@Microsoft Azure Fundamentals](https://www.youtube.com/watch?v=NPEsD6n9A_I&list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM)
+- [@oficial@Documentação do Azure](https://learn.microsoft.com/en-us/azure/?product=popular)
+- [@vídeo@Fundamentos do Microsoft Azure](https://www.youtube.com/watch?v=NPEsD6n9A_I&list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM)

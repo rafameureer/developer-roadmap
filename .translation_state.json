@@ -3106,7 +3106,74 @@
     "roadmaps/flutter/content/widget-testing@9hNfDtZK7_b9qUOXlFGFZ.md",
     "roadmaps/flutter/content/widgets@dy2Jep9hIIECaLutx-3K0.md",
     "roadmaps/flutter/content/working-with-apis@9Az7tmevGI6bVqCTvVL50.md",
-    "roadmaps/flutter/content/working-with-assets@z50iixpcCMe9sTh-gwTI3.md"
+    "roadmaps/flutter/content/working-with-assets@z50iixpcCMe9sTh-gwTI3.md",
+    "roadmaps/forward-deployed-engineer/content/agent-architectures@RqfaQpg0ZK8-GMUPrU9EX.md",
+    "roadmaps/forward-deployed-engineer/content/ai-agents@ZS84Fe33y6DCQYWPjSgZs.md",
+    "roadmaps/forward-deployed-engineer/content/ai-engineering-skills@tTTDizQfuACFUoAAsTCt1.md",
+    "roadmaps/forward-deployed-engineer/content/api-design@_nL7Wf1MG3mofKY9XwGDX.md",
+    "roadmaps/forward-deployed-engineer/content/api-security@OkdMIcPrbRmTCvViMHL58.md",
+    "roadmaps/forward-deployed-engineer/content/apis-design@_nL7Wf1MG3mofKY9XwGDX.md",
+    "roadmaps/forward-deployed-engineer/content/authentication@jHqnzz31kPThHr2Evq9rl.md",
+    "roadmaps/forward-deployed-engineer/content/aws@sb6WyqJdxrUI9CRKSo0r0.md",
+    "roadmaps/forward-deployed-engineer/content/azrue@4tQhE4qGiC_PcgD1gFeQi.md",
+    "roadmaps/forward-deployed-engineer/content/building-eval-pipelines@bgZE7NSpze22A5BBq1azG.md",
+    "roadmaps/forward-deployed-engineer/content/business-acumen@bE7j2U28V8Vf9OKHBqLwW.md",
+    "roadmaps/forward-deployed-engineer/content/c@s7xfJo04F2DGaKWBlUOwh.md",
+    "roadmaps/forward-deployed-engineer/content/choosing-your-model-provider@XpkCJoUTbi1oqksEZ1v6O.md",
+    "roadmaps/forward-deployed-engineer/content/claude-code@wr5ddjutC-fX_ixysTHaT.md",
+    "roadmaps/forward-deployed-engineer/content/cloud-platforms@mj6Hlgcu1ABoRgJ4E3Nl8.md",
+    "roadmaps/forward-deployed-engineer/content/codex@hzeEo8COf2l07iu5EdlFo.md",
+    "roadmaps/forward-deployed-engineer/content/communication@iaNbLDFrEDYEKwpkGFWts.md",
+    "roadmaps/forward-deployed-engineer/content/complete-app-with-observability@lWOtIplGjXg139CAr2HaC.md",
+    "roadmaps/forward-deployed-engineer/content/devops--cicd@2e6r7o6wjknJDInucHPx-.md",
+    "roadmaps/forward-deployed-engineer/content/devops-skills@LRBwP7EQj4byox7yKdPAj.md",
+    "roadmaps/forward-deployed-engineer/content/discovery--scoping@hO7BCDFmbvQVcgM7W2t9S.md",
+    "roadmaps/forward-deployed-engineer/content/from-x-to-fde@414WIX6TuK2h1jEtzRG2H.md",
+    "roadmaps/forward-deployed-engineer/content/from-x-to-fde@XjxnVjO0fR2XNzBUSzA4L.md",
+    "roadmaps/forward-deployed-engineer/content/frontend-apps@7JU1cVggMDoZUV-adGsf-.md",
+    "roadmaps/forward-deployed-engineer/content/frontend-skills@CNTtsgHntKdMsM7FgrrB8.md",
+    "roadmaps/forward-deployed-engineer/content/frontend@wY07cSW1nGj3JHJDNDrxq.md",
+    "roadmaps/forward-deployed-engineer/content/full-stack@8kWwBNYkgnesTcSt2MKcU.md",
+    "roadmaps/forward-deployed-engineer/content/gcp@yS5n-Z4mJ6oI4_uPJgwpo.md",
+    "roadmaps/forward-deployed-engineer/content/gemini@XY2l96sry3WyLzzo3KUeU.md",
+    "roadmaps/forward-deployed-engineer/content/git--github@Kl1nNBwVfne778x81AlXj.md",
+    "roadmaps/forward-deployed-engineer/content/github-actions@__EIrpa-JCYb_Mwtg6fz6.md",
+    "roadmaps/forward-deployed-engineer/content/go@iH_24AecJgB2txeia9DzG.md",
+    "roadmaps/forward-deployed-engineer/content/graphql@A07PWN8ILr286zxGGkS2Q.md",
+    "roadmaps/forward-deployed-engineer/content/html@uY8VYGM8lKY82haZlr00i.md",
+    "roadmaps/forward-deployed-engineer/content/inference-optimization@hRTwO-qsk58UpfTKmsTvo.md",
+    "roadmaps/forward-deployed-engineer/content/introduction@PBtnaTE_5AMOa5mxbhoT2.md",
+    "roadmaps/forward-deployed-engineer/content/java--scala@6ODdQmQGtTnNDwuXPIvxG.md",
+    "roadmaps/forward-deployed-engineer/content/javascript--typescript@rBaErvrSvzB3slZfsZPCT.md",
+    "roadmaps/forward-deployed-engineer/content/javascript@qs2rpJiu6hYvArgevoRw1.md",
+    "roadmaps/forward-deployed-engineer/content/kubernetes@SpVJnrinTt1uUWNuYikDK.md",
+    "roadmaps/forward-deployed-engineer/content/latency-and-cost-optimization@WQRS3xCIeSSJbE6ighp-q.md",
+    "roadmaps/forward-deployed-engineer/content/linux-skills@CruESa0Ir9fSbxyX3ny13.md",
+    "roadmaps/forward-deployed-engineer/content/linux@mhyaSwOETwgFl4zsCJjkp.md",
+    "roadmaps/forward-deployed-engineer/content/llm-fundamentals@UP2OJo5oN7AUxrBDcNsD-.md",
+    "roadmaps/forward-deployed-engineer/content/manage-ml-services@e_jwUga36fZWaE57bXVZa.md",
+    "roadmaps/forward-deployed-engineer/content/mcp@9I0e9Qr0LLO_wtRZSaxcg.md",
+    "roadmaps/forward-deployed-engineer/content/memory--state-management@trgV5OI77V92kX-Zgbqpy.md",
+    "roadmaps/forward-deployed-engineer/content/mlops@DNwdb0vzfmG0XNYB_A4XJ.md",
+    "roadmaps/forward-deployed-engineer/content/model-deployment@I1XhZ_DojZAC8_vxFHjAX.md",
+    "roadmaps/forward-deployed-engineer/content/multi-agents@W0M32nEoOSRDCLGFquoct.md",
+    "roadmaps/forward-deployed-engineer/content/nodejs@Rdm1H7sq1MSAH_Gj9wKlH.md",
+    "roadmaps/forward-deployed-engineer/content/react@2jjQRP6B7ACFWU1lG56In.md",
+    "roadmaps/forward-deployed-engineer/content/regression-testing@9TV0wGo6BMD_TuMAx-sAw.md",
+    "roadmaps/forward-deployed-engineer/content/requirements-gathering@s4Kooj99igkE02P-D-dAU.md",
+    "roadmaps/forward-deployed-engineer/content/roles--responsabilities@E7o6LDxng5zNFg_mgltg6.md",
+    "roadmaps/forward-deployed-engineer/content/security@fxWu8J2166baYEoCti_hr.md",
+    "roadmaps/forward-deployed-engineer/content/shell--bash@TQA4APeviRM-CFi8y9_iJ.md",
+    "roadmaps/forward-deployed-engineer/content/software-architecture@nWA_ZKriQWQV6vS6eoQkS.md",
+    "roadmaps/forward-deployed-engineer/content/system-design@nkkCScukl9AVpLNQkTUoA.md",
+    "roadmaps/forward-deployed-engineer/content/technical-scoping--sequencing@KqQHfy1Z8w-v8p73QkvG5.md",
+    "roadmaps/forward-deployed-engineer/content/technical-writing@ir0uv9E3flgBz_cHntOf4.md",
+    "roadmaps/forward-deployed-engineer/content/terraform@OB_e7DYScbT05uKYWlIG_.md",
+    "roadmaps/forward-deployed-engineer/content/tools--functions@V7d0lWrX8g3z2D9L99mdl.md",
+    "roadmaps/forward-deployed-engineer/content/tradeoffs-scope-speed-quality@eKUy2q5cGskmcg-sAAtYW.md",
+    "roadmaps/forward-deployed-engineer/content/vector-dbs@N5MPa9HqtdcZeF0wtLMVu.md",
+    "roadmaps/forward-deployed-engineer/content/vibe-coding@BHpm4kOU6e1dOlWW104QB.md",
+    "roadmaps/forward-deployed-engineer/content/what-is-an-fde@414WIX6TuK2h1jEtzRG2H.md"
   ],
   "completed_roadmaps": [
     "frontend-beginner",
@@ -3145,7 +3212,8 @@
     "docker",
     "elasticsearch",
     "engineering-manager",
-    "flutter"
+    "flutter",
+    "forward-deployed-engineer"
   ],
   "flagged_issues": [
     {
@@ -7747,8 +7815,168 @@
       "file": "roadmaps/flutter/content/web-sockets@SUFuHR-r6NfAzIICXGHkK.md",
       "reason": "Falha na tradução automática após tentativas no Ollama",
       "timestamp": "2026-08-15T06:52:00.116949"
+    },
+    {
+      "file": "roadmaps/forward-deployed-engineer/content/ai-engineering@buA5I4rQkiDB_EDG-6kju.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:52:52.223267"
+    },
+    {
+      "file": "roadmaps/forward-deployed-engineer/content/ai-governance@NaNmI6f-LLdb-ITMaPD6w.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:52:56.022005"
+    },
+    {
+      "file": "roadmaps/forward-deployed-engineer/content/airflow@T_I3hVabg_-juEb7_Rz0v.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:53:00.308878"
+    },
+    {
+      "file": "roadmaps/forward-deployed-engineer/content/backend-skills@kK16boEALRDQdRmFRphso.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:53:49.586456"
+    },
+    {
+      "file": "roadmaps/forward-deployed-engineer/content/backend@CEj01gIsqo9cnfBQAu4Oq.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:53:54.071027"
+    },
+    {
+      "file": "roadmaps/forward-deployed-engineer/content/build-your-agent@exOxhFap719ArAhvgsCDx.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:53:57.276399"
+    },
+    {
+      "file": "roadmaps/forward-deployed-engineer/content/complete-apps@YyPk_MygYb40ALZ2cynmN.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:54:50.631352"
+    },
+    {
+      "file": "roadmaps/forward-deployed-engineer/content/computer-science@dWklJpF9hcjJSxb4Q4xIO.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:54:54.523711"
+    },
+    {
+      "file": "roadmaps/forward-deployed-engineer/content/containers@jSNp7CyvfjYWjzTmVO8oP.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:54:58.467970"
+    },
+    {
+      "file": "roadmaps/forward-deployed-engineer/content/css@0llUuL5wNY111LDMfgTfn.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:55:15.864694"
+    },
+    {
+      "file": "roadmaps/forward-deployed-engineer/content/cursor@MWhoqhNnBaoeCdN_8i15k.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:55:19.857090"
+    },
+    {
+      "file": "roadmaps/forward-deployed-engineer/content/data-engineering@LUL5YJYOjQtE8mGHhXxt1.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:55:25.251296"
+    },
+    {
+      "file": "roadmaps/forward-deployed-engineer/content/data-pipelines@oqvpmxz-G2wAYZBsvYI-l.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:55:39.503611"
+    },
+    {
+      "file": "roadmaps/forward-deployed-engineer/content/data-privacy--compliance@xvTYuzxuOJ0gsmQEkNS5x.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:55:43.004205"
+    },
+    {
+      "file": "roadmaps/forward-deployed-engineer/content/data-structures--algorithms@aqrK4e6B8LFvFimKoqCNF.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:55:47.457545"
+    },
+    {
+      "file": "roadmaps/forward-deployed-engineer/content/docker@_JBeNCBgiucjYlcX871eU.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:56:16.445491"
+    },
+    {
+      "file": "roadmaps/forward-deployed-engineer/content/dsa--system-design@aqrK4e6B8LFvFimKoqCNF.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:56:21.024013"
+    },
+    {
+      "file": "roadmaps/forward-deployed-engineer/content/enterprise-workflow@c8dBwWaKLiW6X2HWfmVJt.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:56:23.768228"
+    },
+    {
+      "file": "roadmaps/forward-deployed-engineer/content/nosql-databases@QNScC6Pvz2OG3WJAIWkND.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:58:55.895012"
+    },
+    {
+      "file": "roadmaps/forward-deployed-engineer/content/observability@8fojVRR98MiJQEA_dec8n.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:59:00.154551"
+    },
+    {
+      "file": "roadmaps/forward-deployed-engineer/content/postgresql@YJ3cNcQGBifxTLY_X7Rsb.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:59:04.030220"
+    },
+    {
+      "file": "roadmaps/forward-deployed-engineer/content/product-feedback-loop@U2mQX5_XwmW74HFEM1Uzw.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:59:18.039416"
+    },
+    {
+      "file": "roadmaps/forward-deployed-engineer/content/prompt-engineering@wc3AT6lpGUDr-KM95XjgI.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:59:22.502884"
+    },
+    {
+      "file": "roadmaps/forward-deployed-engineer/content/prompt-management@ThPsnGBFU3KZwsTf2U2ws.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:59:26.400522"
+    },
+    {
+      "file": "roadmaps/forward-deployed-engineer/content/prompt-versioning@DKWrSQDE7nFZFGVEUH1od.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:59:40.690153"
+    },
+    {
+      "file": "roadmaps/forward-deployed-engineer/content/python@3CR52IR7RUOGUP7pLJlCE.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:59:44.427474"
+    },
+    {
+      "file": "roadmaps/forward-deployed-engineer/content/rags@7YOfKFFLI78GabP760sy8.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:59:49.271866"
+    },
+    {
+      "file": "roadmaps/forward-deployed-engineer/content/roi--ai-impact@kyHwTMFBQxbHrGBcv3q0O.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:00:21.091345"
+    },
+    {
+      "file": "roadmaps/forward-deployed-engineer/content/roles--responsabilities@YNaf7swqsvYaXRK6uevdv.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:00:30.505594"
+    },
+    {
+      "file": "roadmaps/forward-deployed-engineer/content/spark@0NVAhnjHZ2-oo6TBcbs9X.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:01:01.484914"
+    },
+    {
+      "file": "roadmaps/forward-deployed-engineer/content/sql@EWIf51kO_21ZK2ep0vWIJ.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:01:04.854287"
+    },
+    {
+      "file": "roadmaps/forward-deployed-engineer/content/stakeholder-management@L76T2X7AFpVtpMF9CjBJo.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:01:09.118504"
     }
   ],
-  "last_updated": "2026-08-15T06:52:15.810229",
+  "last_updated": "2026-08-15T07:01:53.648635",
   "total_translated_count": 54
 }

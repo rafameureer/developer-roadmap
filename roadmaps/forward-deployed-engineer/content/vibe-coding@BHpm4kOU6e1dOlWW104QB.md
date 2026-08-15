@@ -1,10 +1,10 @@
 # Vibe Coding
 
-Vibe coding refers to using AI-assisted tools to write, edit, and iterate on code through natural language interaction, often at a higher level of abstraction than traditional coding. Instead of writing every line manually, the developer describes intent and guides the AI to produce working code, reviewing and refining the output. Vibe coding tools can significantly accelerate the productivity of FDEs, enabling them to work under tight delivery timelines.
+Vibe coding refere-se ao uso de ferramentas assistidas por IA para escrever, editar e iterar em código através da interação natural linguística, geralmente em um nível mais abstrato do que o codificação tradicional. Em vez de escrever cada linha manualmente, o desenvolvedor descreve a intenção e guia a IA para produzir código funcional, revisando e refinando a saída. Ferramentas de Vibe coding podem acelerar significativamente a produtividade dos FDEs, permitindo que eles trabalhem sob prazos de entrega apertados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated Vibe Coding Roadmap](https://roadmap.sh/vibe-coding)
-- [@article@Vibe coding tutorial: Build your first app with Claude Code](https://roadmap.sh/vibe-coding/tutorial)
-- [@article@Vibe Coding Best Practices: How To Get Consistent Results](https://roadmap.sh/vibe-coding/best-practices)
-- [@video@What is Vibe Coding?](https://www.youtube.com/watch?v=5OWurmg41tI)
+- [@roadmap@Visite o Caminho Dedidado de Vibe Coding](https://roadmap.sh/vibe-coding)
+- [@artigo@Tutorial de Vibe coding: Construa seu primeiro aplicativo com Claude Code](https://roadmap.sh/vibe-coding/tutorial)
+- [@artigo@Melhores Práticas de Vibe Coding: Como obter resultados consistentes](https://roadmap.sh/vibe-coding/best-practices)
+- [@vídeo@O que é Vibe Coding?](https://www.youtube.com/watch?v=5OWurmg41tI)

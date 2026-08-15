@@ -1,8 +1,8 @@
-# Common Hacking Tools
+# Ferramentas Comuns de Hacking
 
-There's a wide range of tools, software, and techniques hackers use to exploit vulnerabilities in systems and networks. These tools range from simple network scanners that identify open ports to sophisticated exploit frameworks that automate the process of gaining unauthorized access. Knowing how these tools work, their capabilities, and the signatures they leave behind is essential for defenders to proactively identify, mitigate, and respond to cyber threats.
+Há uma ampla gama de ferramentas, softwares e técnicas que os hackers usam para explorar vulnerabilidades em sistemas e redes. Essas ferramentas variam desde simples escaneadores de rede que identificam portas abertas até estruturas de ataque sofisticadas que automatizam o processo de obter acesso não autorizado. Saber como essas ferramentas funcionam, suas capacidades e as assinaturas que deixam por trás é crucial para os defensores identificar, mitigar e responder a ameaças cibernéticas proativamente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@100 Top Hacking Tools and Ethical Hacking Tools](https://www.eccouncil.org/cybersecurity-exchange/ethical-hacking/best-ethical-hacking-tools/)
-- [@video@I Tried 100+ Hacking Tools](https://www.youtube.com/watch?v=4WqymtvuWZQ)
+- [@artigo@100 Melhores Ferramentas de Hacking e Ferramentas de Hacking Ético](https://www.eccouncil.org/cybersecurity-exchange/ethical-hacking/best-ethical-hacking-tools/)
+- [@vídeo@Eu Tentei 100+ Ferramentas de Hacking](https://www.youtube.com/watch?v=4WqymtvuWZQ)

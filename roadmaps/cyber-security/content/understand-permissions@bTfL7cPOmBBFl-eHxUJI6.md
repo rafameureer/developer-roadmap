@@ -1,9 +1,9 @@
-# Understanding Permissions
+# Entendendo Permissões
 
-Permissions dictate which users or groups have access to specific files, directories, or resources. These permissions define what actions users can perform, such as reading, writing, or executing files. They are a fundamental security mechanism for controlling access and preventing unauthorized modifications or access to sensitive data within a system.
+As permissões determinam quais usuários ou grupos têm acesso a arquivos, diretórios ou recursos específicos. Essas permissões definem quais ações os usuários podem realizar, como ler, escrever ou executar arquivos. Elas são um mecanismo fundamental de segurança para controlar o acesso e prevenir modificações ou acesso não autorizado a dados sensíveis em um sistema.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Linux File Permissions (Linux Journey)](https://linuxjourney.com/lesson/file-permissions)
-- [@video@Linux Crash Course - Understanding File Permissions](https://www.youtube.com/watch?v=4N4Q576i3zA)
-- [@video@Managing Windows permissions with CLI (Icacls)](https://www.youtube.com/watch?v=ddtc2rgtgAI)
+- [@article@Permissões de Arquivo no Linux (Linux Journey)](https://linuxjourney.com/lesson/file-permissions)
+- [@video@Curso do Linux - Entendendo Permissões de Arquivo](https://www.youtube.com/watch?v=4N4Q576i3zA)
+- [@video@Gerenciando Permissões no Windows com CLI (Icacls)](https://www.youtube.com/watch?v=ddtc2rgtgAI)

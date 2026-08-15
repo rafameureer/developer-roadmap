@@ -1,8 +1,8 @@
 # NIST
 
-The National Institute of Standards and Technology (NIST) is a non-regulatory agency of the U.S. Department of Commerce. Its mission is to promote U.S. innovation and industrial competitiveness by advancing measurement science, standards, and technology in ways that enhance economic security and improve our quality of life. NIST develops and maintains a wide range of standards, guidelines, and frameworks that are used by organizations to improve their cybersecurity posture and manage risk. These resources provide a common language and set of best practices that can be adopted across different industries and sectors.
+O Instituto Nacional de Padronização e Tecnologia (NIST) é uma agência não regulatória do Departamento Comercial dos EUA. Sua missão é promover a inovação e a competitividade industrial dos EUA avançando a ciência da medição, os padrões e a tecnologia de maneira que melhore a segurança econômica e melhore nossa qualidade de vida. O NIST desenvolve e mantém uma ampla gama de padrões, diretrizes e estruturas que são usados por organizações para melhorar sua postura em segurança cibernética e gerenciar riscos. Esses recursos fornecem um idioma comum e conjunto de práticas recomendadas que podem ser adotadas em diferentes setores e indústrias.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@NIST](https://www.nist.gov/)
-- [@article@What is NIST?](https://www.encryptionconsulting.com/education-center/nist/)
+- [@article@O que é NIST?](https://www.encryptionconsulting.com/education-center/nist/)

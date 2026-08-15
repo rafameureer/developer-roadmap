@@ -1,9 +1,9 @@
-# Backups and Resiliency
+# Backups e Resiliência
 
-Backups are copies of data taken and stored separately from the original data source, designed to be used to restore information in case of data loss events like hardware failure, accidental deletion, or cyberattacks. Resiliency, on the other hand, is the ability of a system or network to recover quickly from disruptions and maintain essential functions, even when faced with adverse conditions. A resilient system anticipates potential problems and is designed to adapt and withstand them, minimizing downtime and data loss.
+Backups são cópias de dados que são tomadas e armazenadas separadamente do fonte de dados original, projetados para serem usados para restaurar informações em caso de eventos de perda de dados como falha de hardware, exclusão acidental ou ataques cibernéticos. Resiliência, por outro lado, é a capacidade de um sistema ou rede recuperar-se rapidamente de interrupções e manter funções essenciais, mesmo quando enfrentadas condições adversas. Um sistema resiliente prevee problemas potenciais e está projetado para adaptar e resistir a eles, minimizando o tempo de inatividade e perda de dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Backup & Restore](https://aws.amazon.com/solutions/resilience/backup-restore/)
-- [@video@Why backup should be a part of your cyber resilience plan?](https://www.youtube.com/watch?v=S8BIkoHlU_0)
-- [@video@AWS re:Invent 2023 - Backup and disaster recovery strategies for increased resilience](https://www.youtube.com/watch?v=E073XISxrSU)
+- [@artigo@Backup & Restore](https://aws.amazon.com/solutions/resilience/backup-restore/)
+- [@vídeo@Por que o backup deve ser parte do seu plano de resiliência cibernética?](https://www.youtube.com/watch?v=S8BIkoHlU_0)
+- [@vídeo@AWS re:Invent 2023 - Estratégias de backup e recuperação em desastres para maior resiliência](https://www.youtube.com/watch?v=E073XISxrSU)

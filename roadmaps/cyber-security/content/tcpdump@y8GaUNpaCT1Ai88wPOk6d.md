@@ -1,8 +1,8 @@
 # Tcpdump
 
-Tcpdump is a command-line packet analyzer that captures and displays network traffic going through a system. It allows users to intercept and inspect TCP/IP packets, providing insights into network communication. By analyzing packet headers and payloads, users can diagnose network issues, monitor traffic patterns, and identify potential security threats.
+Tcpdump é um analisador de pacotes em linha de comando que captura e exibe o tráfego de rede passando por um sistema. Ele permite aos usuários interceptar e inspecionar pacotes TCP/IP, fornecendo insights sobre a comunicação de rede. Analizando os cabeçalhos e payloads dos pacotes, os usuários podem diagnosticar problemas de rede, monitorar padrões de tráfego e identificar ameaças potenciais de segurança.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@tcpdump man page](https://www.tcpdump.org/manpages/tcpdump.1.html)
-- [@video@TCP Dump - What is it and how to use it?](https://www.youtube.com/watch?v=e45Kt1IYdCI)
+- [@article@manual page do tcpdump](https://www.tcpdump.org/manpages/tcpdump.1.html)
+- [@video@Tcpdump - O que é e como usar?](https://www.youtube.com/watch?v=e45Kt1IYdCI)

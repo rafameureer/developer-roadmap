@@ -1,8 +1,8 @@
-# What is SQL Injection?
+# O que é Injeção SQL?
 
-**SQL Injection** is a type of web application security vulnerability that allows an attacker to inject malicious SQL code into a web application's database, potentially leading to unauthorized data access, modification, or deletion.
+**Injeção SQL** é um tipo de vulnerabilidade de segurança em aplicativos web que permite a um atacante injetar código SQL malicioso em um banco de dados de uma aplicação web, potencialmente levando ao acesso, modificação ou exclusão não autorizados dos dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@PortSwigger - SQL Injection](https://portswigger.net/web-security/sql-injection)
-- [@video@SQL Injections are scary](https://www.youtube.com/watch?v=2OPVViV-GQk)
+- [@artigo@PortSwigger - Injeção SQL](https://portswigger.net/web-security/sql-injection)
+- [@vídeo@Injeções SQL são assustadoras](https://www.youtube.com/watch?v=2OPVViV-GQk)

@@ -1,8 +1,8 @@
 # Switch
 
-A switch is a network device that operates at the data link layer (Layer 2) of the OSI model, connecting multiple devices within a local area network (LAN). It uses MAC addresses to forward data packets between devices, creating separate collision domains for each port. Switches improve network efficiency by sending packets only to their intended destinations, reducing unnecessary traffic. They support full-duplex communication, allowing simultaneous data transmission in both directions. Modern switches often include advanced features like VLANs, port mirroring, and Quality of Service (QoS) management. Switches are fundamental to creating efficient, segmented networks and are crucial components in both small office and large enterprise network infrastructures.
+Um switch é um dispositivo de rede que opera na camada de link de dados (Camada 2) do modelo OSI, conectando vários dispositivos em uma rede local (LAN). Ele usa endereços MAC para encaminhar pacotes de dados entre dispositivos, criando domínios de colisão separados para cada porta. Os switches melhoram a eficiência da rede enviando pacotes apenas para seus destinos intencionais, reduzindo o tráfego desnecessário. Eles suportam comunicação em dupla direção total, permitindo a transmissão simultânea de dados em ambas as direções. Os switches modernos frequentemente incluem recursos avançados como VLANs, espelhamento de porta e gerenciamento de Qualidade de Serviço (QoS). Os switches são fundamentais para criar redes eficientes e segmentadas e são componentes cruciais em infraestruturas de rede de escritórios pequenos e grandes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is a Network Switch?](https://www.cloudflare.com/en-gb/learning/network-layer/what-is-a-network-switch/)
-- [@video@What is a Switch?](https://www.youtube.com/watch?v=9eH16Fxeb9o)
+- [@artigo@O que é um Switch de Rede?](https://www.cloudflare.com/en-gb/learning/network-layer/what-is-a-network-switch/)
+- [@vídeo@O que é um Switch?](https://www.youtube.com/watch?v=9eH16Fxeb9o)

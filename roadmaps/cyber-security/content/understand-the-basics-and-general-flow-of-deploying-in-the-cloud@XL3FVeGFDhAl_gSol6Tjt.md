@@ -1,8 +1,8 @@
-# Cloud Deployment Basics
+# Básicos e Fluxo Geral da Implantação na Nuvem
 
-Cloud deployment refers to the process of releasing and making an application or service available in a cloud computing environment. This involves configuring cloud resources, deploying code or application components, and setting up the necessary infrastructure for the application to run and be accessible to users. The general flow typically includes planning, resource provisioning, configuration, deployment, testing, and ongoing monitoring and management.
+A implantação na nuvem refere-se ao processo de lançar e tornar disponível uma aplicação ou serviço em um ambiente de computação em nuvem. Isso envolve configurar recursos na nuvem, implantar código ou componentes de aplicação, e configurar a infraestrutura necessária para que a aplicação possa ser executada e acessível aos usuários. O fluxo geral típicamente inclui planejamento, provisionamento de recursos, configuração, implantação, teste e monitoramento contínuo e gerenciamento.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Cloud Deployment?](https://www.cognizant.com/us/en/glossary/cloud-deployment)
-- [@video@Deploying a Website to AWS in Under 1 Minute](https://www.youtube.com/watch?v=goiW0g7A0WE)
+- [@article@O que é Implantação na Nuvem?](https://www.cognizant.com/us/en/glossary/cloud-deployment)
+- [@video@Implantando um Site no AWS em Menos de 1 Minuto](https://www.youtube.com/watch?v=goiW0g7A0WE)

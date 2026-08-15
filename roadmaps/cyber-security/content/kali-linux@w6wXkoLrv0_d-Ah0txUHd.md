@@ -1,9 +1,9 @@
 # Kali Linux
 
-Kali Linux is a specialized Linux distribution that is designed for penetration testing, security auditing, and related information security tasks. Originating from the Debian distribution, Kali Linux is equipped with a vast array of tools that are used for ethical hacking purposes. It is an open-source project that provides users with the means to test the security of systems and networks by simulating attacks in a controlled environment.
+Kali Linux é uma distribuição Linux especializada projetada para testes de penetração, auditoria de segurança e tarefas relacionadas à segurança da informação. Originando-se da distribuição Debian, o Kali Linux está equipado com uma vasta gama de ferramentas usadas para fins éticos de hacking. É um projeto de código aberto que fornece aos usuários a capacidade de testar a segurança dos sistemas e redes simulando ataques em um ambiente controlado.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Kali Linux](https://www.kali.org/)
-- [@official@Kali Tools](https://www.kali.org/tools)
-- [@official@Kali Docs](https://www.kali.org/docs/)
+- [@oficial@Kali Linux](https://www.kali.org/)
+- [@oficial@Ferramentas do Kali](https://www.kali.org/tools)
+- [@oficial@Documentação do Kali](https://www.kali.org/docs/)

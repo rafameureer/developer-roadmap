@@ -1,8 +1,8 @@
 # Single Sign-On (SSO)
 
-Single Sign-On (SSO) lets a user access multiple applications and websites with just one set of credentials. Instead of needing to remember and enter different usernames and passwords for each service, a user authenticates once, and that authentication is then shared securely across various interconnected systems. This streamlines the login process and improves user experience.
+Single Sign-On (SSO) permite que um usuário acesse múltiplas aplicações e sites com apenas um conjunto de credenciais. Em vez de precisar lembrar e inserir diferentes nomes de usuários e senhas para cada serviço, um usuário autentica-se uma única vez, e essa autenticação é então compartilhada de forma segura em vários sistemas interconectados. Isso simplifica o processo de login e melhora a experiência do usuário.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is SSO? | How single sign-on works](https://www.cloudflare.com/en-gb/learning/access-management/what-is-sso/)
-- [@video@What Is Single Sign-on (SSO)? How It Works](https://www.youtube.com/watch?v=O1cRJWYF-g4)
+- [@artigo@O que é SSO? Como funciona o Single Sign-On](https://www.cloudflare.com/learning/access-management/what-is-sso/)
+- [@vídeo@O que é Single Sign-on (SSO)? Como ele funciona](https://www.youtube.com/watch?v=O1cRJWYF-g4)

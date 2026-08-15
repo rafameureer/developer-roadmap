@@ -1,8 +1,8 @@
 # WAN
 
-A Wide Area Network (WAN) connects multiple Local Area Networks (LANs) that are geographically separated. It uses various technologies like leased lines, satellite links, and the internet to enable communication between these disparate networks, allowing users and computers in one location to communicate with those in other locations. Think of it as a super-connector, enabling communication even when LANs are spread across cities, countries, or even continents.
+A Rede de Área Ampla (WAN) conecta várias Redes de Área Local (LANs) que estão geograficamente separadas. Ela usa várias tecnologias como linhas locadas, ligações satelitais e a internet para habilitar a comunicação entre essas redes disparadas, permitindo que usuários e computadores em uma localização se comuniquem com aqueles em outras localizações. Pense nele como um super-conector, permitindo a comunicação mesmo quando as LANs estão espalhadas por cidades, países ou até continentes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is a WAN?](https://www.cloudflare.com/en-gb/learning/network-layer/what-is-a-wan/)
-- [@video@WAN...it's not the internet!](https://www.youtube.com/watch?v=xPi4uZu4uF0)
+- [@artigo@O que é uma WAN?](https://www.cloudflare.com/en-gb/learning/network-layer/what-is-a-wan/)
+- [@vídeo@WAN... não é a internet!](https://www.youtube.com/watch?v=xPi4uZu4uF0)

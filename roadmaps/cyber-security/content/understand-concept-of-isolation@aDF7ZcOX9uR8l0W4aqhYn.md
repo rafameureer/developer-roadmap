@@ -1,8 +1,8 @@
-# Isolation
+# Isolamento
 
-Isolation is a security principle focused on separating critical resources, processes, or data to prevent unauthorized access or modification. This separation limits the potential impact of a security breach, vulnerability, or error. By creating distinct boundaries, it ensures that if one component is compromised, the damage is contained and does not spread to other parts of the system.
+O isolamento é um princípio de segurança focado em separar recursos, processos ou dados críticos para prevenir acesso ou modificação não autorizados. Essa separação limita o impacto potencial de uma violação de segurança, vulnerabilidade ou erro. Ao criar fronteiras distintas, garante que se um componente for comprometido, o dano seja contido e não se espalhe para outras partes do sistema.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@The Power of Isolation in Cyber security](https://peel-cyber.co.uk/the-power-of-isolation-in-cyber-security/)
-- [@video@Bridging the Air Gap - Understanding Digital Isolation](https://www.youtube.com/watch?v=0rv2996e3S0)
+- [@artigo@O Poder do Isolamento na Segurança Cibernética](https://peel-cyber.co.uk/the-power-of-isolation-in-cyber-security/)
+- [@vídeo@Fechando o Buraco Aéreo - Entendendo a Isolamento Digital](https://www.youtube.com/watch?v=0rv2996e3S0)

@@ -1,8 +1,8 @@
 # picoCTF
 
-**picoCTF** is an online cybersecurity competition designed to help students and beginners learn and practice hacking skills through capture-the-flag (CTF) challenges. Developed by Carnegie Mellon University, picoCTF features a series of progressively difficult puzzles that teach concepts such as reverse engineering, cryptography, web exploitation, forensics, and binary exploitation. It's an educational platform that offers hands-on experience in solving real-world cybersecurity problems, making it popular among both students and aspiring cybersecurity professionals for learning and improving their skills in a practical, interactive environment.
+**picoCTF** é uma competição de segurança cibernética online projetada para ajudar estudantes e iniciantes a aprender e praticar habilidades de hacking através desafios de captura-de-flag (CTF). Desenvolvida pela Universidade Carnegie Mellon, o picoCTF apresenta uma série de quebra-cabeças progressivamente difíceis que ensinam conceitos como engenharia reversa, criptografia, exploração web, forenses e exploração binária. É uma plataforma educacional que oferece experiência prática em resolver problemas de segurança cibernética do mundo real, tornando-se popular entre estudantes e profissionais aspirantes à segurança cibernética para aprender e melhorar suas habilidades em um ambiente prático e interativo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@picoCTF](https://picoctf.org/)
-- [@video@BEGINNER Capture The Flag - PicoCTF 2021 001 "Obedient Cat"](https://www.youtube.com/watch?v=P07NH5F-t3s)
+- [@oficial@picoCTF](https://picoctf.org/)
+- [@vídeo@INÍCIO Capture The Flag - picoCTF 2021 001 "Gato Obediente"](https://www.youtube.com/watch?v=P07NH5F-t3s)

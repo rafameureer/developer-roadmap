@@ -1,8 +1,8 @@
-# Access Control Lists (ACLs)
+# Listas de Controle de Acesso (ACLs)
 
-An Access Control List (ACL) is a set of permissions attached to an object (like a file, folder, or network resource) that specifies which users or groups have access to the object and what level of access they are granted (e.g., read, write, execute). Essentially, it's a table that tells a system who is allowed to do what.
+Uma Lista de Controle de Acesso (ACL) é um conjunto de permissões anexadas a um objeto (como um arquivo, pasta ou recurso de rede) que especifica quais usuários ou grupos têm acesso ao objeto e o nível de acesso concedido (por exemplo, leitura, escrita, execução). Em essência, é uma tabela que instrui um sistema quem pode fazer o que.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Access Control List: Definition, Types & Usages](https://www.okta.com/uk/identity-101/access-control-list/)
-- [@video@Access Control Lists](https://www.youtube.com/watch?v=IwLyr0mKK1w)
+- [@artigo@Lista de Controle de Acesso: Definição, Tipos & Usos](https://www.okta.com/uk/identity-101/access-control-list/)
+- [@vídeo@Listas de Controle de Acesso](https://www.youtube.com/watch?v=IwLyr0mKK1w)

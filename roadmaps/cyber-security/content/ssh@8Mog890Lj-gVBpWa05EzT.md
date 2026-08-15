@@ -1,8 +1,8 @@
 # SSH
 
-SSH (Secure Shell) is a cryptographic network protocol used for secure remote login and other secure network services over an unsecured network. It provides a secure channel over an unsecured network by using strong encryption to protect the connection against eavesdropping, tampering, and man-in-the-middle attacks. SSH is commonly used for remote command-line login, remote command execution, and secure file transfers. It typically runs on TCP port 22 and replaces older, less secure protocols like Telnet. SSH uses public-key cryptography for authentication and supports various authentication methods, including passwords and key-based authentication. It's a fundamental tool for system administrators, developers, and anyone requiring secure remote access to systems.
+SSH (Secure Shell) é um protocolo de rede criptográfico usado para login remoto seguro e outros serviços de rede seguros em uma rede não segura. Ele fornece um canal seguro sobre uma rede não segura usando criptografia forte para proteger a conexão contra escuta, alteração e ataques man-in-the-middle. O SSH é comumente usado para login remoto por linha de comando, execução remota de comandos e transferências de arquivos seguras. Geralmente roda na porta TCP 22 e substitui protocolos mais antigos e menos seguros como Telnet. O SSH usa criptografia de chave pública para autenticação e suporta vários métodos de autenticação, incluindo senhas e autenticação baseada em chaves. É uma ferramenta fundamental para administradores de sistemas, desenvolvedores e qualquer pessoa que precise de acesso remoto seguro a sistemas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is SSH? | Secure Shell (SSH) protocol](https://www.cloudflare.com/en-gb/learning/access-management/what-is-ssh/)
-- [@video@How does SSH work](https://www.youtube.com/watch?v=5JvLV2-ngCI)
+- [@artigo@O que é SSH? | Protocolo de Shell Seguro (SSH)](https://www.cloudflare.com/en-gb/learning/access-management/what-is-ssh/)
+- [@vídeo@Como funciona o SSH](https://www.youtube.com/watch?v=5JvLV2-ngCI)

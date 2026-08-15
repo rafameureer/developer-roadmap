@@ -1,7 +1,7 @@
 # Google Drive
 
-Google Drive is a cloud-based storage solution provided by Google, which offers users the ability to store, share, and collaborate on files and documents across different platforms and devices. It is integrated with Google's productivity suite, including Google Docs, Sheets, Slides, and Forms, allowing seamless collaboration with team members in real-time.
+Google Drive é uma solução de armazenamento em nuvem fornecida pela Google, que oferece aos usuários a capacidade de armazenar, compartilhar e colaborar em arquivos e documentos em diferentes plataformas e dispositivos. Ele está integrado ao conjunto de ferramentas produtivas da Google, incluindo Google Docs, Sheets, Slides e Forms, permitindo uma colaboração em tempo real com membros da equipe.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Google Drive](https://drive.google.com)

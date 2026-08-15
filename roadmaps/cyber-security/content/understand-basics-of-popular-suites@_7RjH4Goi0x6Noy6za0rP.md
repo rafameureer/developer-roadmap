@@ -1,9 +1,9 @@
-# Popular Productivity Suites
+# Suites Populares de Produtividade
 
-Productivity suites are collections of software applications, usually centered around document creation, spreadsheets, and presentations. Some of the most widely used suites include Google Workspace (formerly G Suite), which is cloud-based and includes apps like Docs, Sheets, and Slides; Microsoft Office, a long-standing suite that includes Word, Excel, and PowerPoint; and LibreOffice, a free and open-source suite offering Writer, Calc, and Impress.
+Suites de produtividade são coleções de aplicativos de software, geralmente centrados em criação de documentos, planilhas e apresentações. Alguns dos pacotes mais amplamente utilizados incluem o Google Workspace (anteriormente G Suite), que é baseado na nuvem e inclui aplicativos como Docs, Sheets e Slides; Microsoft Office, um pacote estabelecido que inclui Word, Excel e PowerPoint; e LibreOffice, uma suite gratuita e de código aberto oferecendo Writer, Calc e Impress.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Microsoft Office](https://www.office.com/)
-- [@official@Google Workspace](https://workspace.google.com)
-- [@official@LibreOffice](https://www.libreoffice.org/)
+- [@oficial@Microsoft Office](https://www.office.com/)
+- [@oficial@Google Workspace](https://workspace.google.com)
+- [@oficial@LibreOffice](https://www.libreoffice.org/)

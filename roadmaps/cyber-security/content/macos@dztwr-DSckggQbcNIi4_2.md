@@ -1,8 +1,8 @@
 # MacOS
 
-**macOS** is an operating system developed by Apple Inc. for its line of Mac computers. Known for its user-friendly interface and integration with other Apple products, macOS features a Unix-based architecture, offering stability, security, and performance. It includes a suite of built-in applications, such as Safari, Mail, and Finder, and supports a wide range of third-party software. macOS provides seamless integration with services like iCloud, Continuity, and Handoff, enhancing productivity and connectivity across Apple devices. Regular updates and a focus on design and usability make macOS a popular choice for both personal and professional use.
+**macOS** é um sistema operacional desenvolvido pela Apple Inc. para sua linha de computadores Mac. Conhecido por sua interface amigável e integração com outros produtos da Apple, macOS possui uma arquitetura baseada em Unix, oferecendo estabilidade, segurança e desempenho. Ele inclui um conjunto de aplicativos internos, como Safari, Mail e Finder, e suporta uma ampla gama de software de terceiros. macOS fornece integração fluida com serviços como iCloud, Continuity e Handoff, aumentando a produtividade e conectividade entre dispositivos Apple. Atualizações regulares e um foco na design e usabilidade tornam o macOS uma escolha popular tanto para uso pessoal quanto profissional.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@macOS](https://www.apple.com/macos/macos-sequoia/)
-- [@video@Mac Tutorial for Beginners 2024](https://www.youtube.com/watch?v=3jeeFc2Vo1U)
+- [@video@Tutorial de Mac para Iniciantes 2024](https://www.youtube.com/watch?v=3jeeFc2Vo1U)

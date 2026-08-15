@@ -1,8 +1,8 @@
-# Deauth Attack
+# Ataque de Desautenticação
 
-A Deauthentication (Deauth) Attack is a type of denial-of-service (DoS) attack specific to wireless networks. It involves sending fake deauthentication frames to a Wi-Fi client or access point, forcing the client to disconnect from the network. The attacker uses this technique to disrupt the communication between the client and the access point, often with the intention of capturing data, launching further attacks, or simply causing disruption.
+Um Ataque de Desautenticação (Deauth) é um tipo de ataque de negação de serviço (DoS) específico para redes sem fio. Envolve o envio de quadros de desautenticação falsos a um cliente Wi-Fi ou ponto de acesso, forçando o cliente a desconectar da rede. O atacante usa essa técnica para interromper a comunicação entre o cliente e o ponto de acesso, geralmente com o intuito de capturar dados, lançar ataques adicionais ou simplesmente causar interrupção.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Wi-Fi Deauthentication Attack](https://medium.com/@balaramapunna123/wi-fi-deauthentication-attack-76cdd91d5fc)
-- [@article@Deauthentication Attacks](https://www.baeldung.com/cs/deauthentication-attacks)
+- [@artigo@Ataque de Desautenticação Wi-Fi](https://medium.com/@balaramapunna123/wi-fi-deauthentication-attack-76cdd91d5fc)
+- [@artigo@Ataques de Desautenticação](https://www.baeldung.com/cs/deauthentication-attacks)

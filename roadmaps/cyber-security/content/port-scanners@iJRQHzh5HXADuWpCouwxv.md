@@ -1,8 +1,8 @@
-# Port Scanners
+# Escaneadores de Portas
 
-Port scanners are essential tools in the troubleshooting and cybersecurity landscape. They are designed to detect open or closed network ports on a target system. Network ports serve as communication endpoints for various applications and services running on a device, and knowing the status of these ports can help identify potential security vulnerabilities or confirm that specific services are running as intended.
+Escaneadores de portas são ferramentas essenciais no cenário de troubleshooting e segurança cibernética. Eles estão projetados para detectar portas de rede abertas ou fechadas em um sistema alvo. As portas de rede servem como pontos finais de comunicação para várias aplicações e serviços em execução em um dispositivo, e saber o status dessas portas pode ajudar a identificar vulnerabilidades potenciais de segurança ou confirmar que os serviços específicos estão sendo executados conforme planejado.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Top 5 Free Open Port Check Tools in 2026](https://www.upguard.com/blog/best-open-port-scanners)
-- [@video@How To Use Nmap To Scan For Open Ports](https://www.youtube.com/watch?v=ifbwTt3_oCg)
+- [@artigo@Top 5 Ferramentas Abertas e Gratuitas de Verificação de Portas em 2026](https://www.upguard.com/blog/best-open-port-scanners)
+- [@vídeo@Como Usar o Nmap Para Escanear Portas Abertas](https://www.youtube.com/watch?v=ifbwTt3_oCg)

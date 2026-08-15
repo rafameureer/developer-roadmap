@@ -1,8 +1,8 @@
 # Smishing
 
-Smishing is a type of phishing attack that uses SMS (Short Message Service) or text messages to trick individuals into giving up sensitive information. Attackers send fraudulent text messages that appear to be from legitimate sources, such as banks, government agencies, or popular businesses. These messages often contain urgent requests, warnings, or enticing offers designed to lure recipients into clicking malicious links, calling fake phone numbers, or providing personal details.
+Smishing é um tipo de ataque de phishing que usa SMS (Short Message Service) ou mensagens de texto para enganar indivíduos em fornecer informações sensíveis. Atacantes enviam mensagens de texto fraudulentes que parecem vir de fontes legítimas, como bancos, agências governamentais ou negócios populares. Essas mensagens frequentemente contêm solicitações urgentes, avisos ou ofertas atraentes projetadas para encorajar os destinatários a clicar em links maliciosos, ligar para números de telefone falsos ou fornecer detalhes pessoais.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is smishing (SMS phishing)?](https://www.ibm.com/topics/smishing)
-- [@video@What is smishing? How phishing via text message works](https://www.youtube.com/watch?v=ZOZGQeG8avQ)
+- [@article@O que é smishing (phishing por SMS)?](https://www.ibm.com/topics/smishing)
+- [@video@O que é smishing? Como o phishing por mensagem de texto funciona](https://www.youtube.com/watch?v=ZOZGQeG8avQ)

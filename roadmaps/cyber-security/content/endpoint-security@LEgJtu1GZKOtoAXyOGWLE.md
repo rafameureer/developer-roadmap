@@ -1,8 +1,8 @@
-# Endpoint Security
+# Segurança em Pontos de Acesso
 
-Endpoint security focuses on protecting networks by securing the devices that connect to them, such as desktops, laptops, smartphones, and servers. It involves implementing security measures directly on these endpoints to prevent malicious activities, data breaches, and unauthorized access. This approach aims to create a defensive layer at each point of network entry, rather than solely relying on perimeter security.
+A segurança em pontos de acesso se concentra em proteger redes ao proteger os dispositivos que conectam a elas, como computadores de escritório, laptops, smartphones e servidores. Envolve implementar medidas de segurança diretamente nesses pontos de acesso para prevenir atividades maliciosas, vazamentos de dados e acesso não autorizado. Esse abordagem visa criar uma camada defensiva em cada ponto de entrada da rede, em vez de depender exclusivamente da segurança na fronteira.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Endpoint Security?](https://www.crowdstrike.com/cybersecurity-101/endpoint-security/)
-- [@video@Endpoints are the IT Frontdoor - Guard them!](https://www.youtube.com/watch?v=Njqid_JpqTs)
+- [@artigo@O que é Segurança em Pontos de Acesso?](https://www.crowdstrike.com/cybersecurity-101/endpoint-security/)
+- [@vídeo@Pontos de acesso são a porta da frente do IT - Proteja-os!](https://www.youtube.com/watch?v=Njqid_JpqTs)

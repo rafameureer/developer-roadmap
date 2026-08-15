@@ -1,8 +1,8 @@
 # Cross-Site Request Forgery (CSRF)
 
-Cross-Site Request Forgery (CSRF) is a web security vulnerability where an attacker tricks a user's browser into performing actions on a website while the user is authenticated. This happens without the user's knowledge or consent, leveraging the established trust between the user's browser and the targeted website. Essentially, the attacker crafts a malicious request that appears to originate from the legitimate user, potentially leading to unauthorized changes or actions on their account.
+Cross-Site Request Forgery (CSRF) é uma vulnerabilidade de segurança da web onde um atacante engana o navegador do usuário para realizar ações em um site enquanto o usuário está autenticado. Isso acontece sem o conhecimento ou consentimento do usuário, aproveitando a confiança estabelecida entre o navegador do usuário e o site alvo. Basicamente, o atacante cria uma solicitação maliciosa que parece ter origem no usuário legítimo, potencialmente levando a alterações ou ações não autorizadas em sua conta.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Cross-Site Request Forgery](https://owasp.org/www-community/attacks/csrf)
-- [@video@Cross-Site Request Forgery Explained](https://www.youtube.com/watch?v=eWEgUcHPle0)
+- [@artigo@Cross-Site Request Forgery](https://owasp.org/www-community/attacks/csrf)
+- [@vídeo@Explicação de Cross-Site Request Forgery](https://www.youtube.com/watch?v=eWEgUcHPle0)

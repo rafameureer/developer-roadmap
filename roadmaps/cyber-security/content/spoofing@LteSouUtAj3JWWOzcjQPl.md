@@ -1,8 +1,8 @@
 # Spoofing
 
-Spoofing is a form of deception where someone or something pretends to be another person, device, or entity to mislead or gain an advantage. In technology and cybersecurity, it often involves falsifying information like an IP address, email, or website to trick a user or system into believing it’s interacting with a legitimate source. Spoofing can be used to steal sensitive data, gain unauthorized access, or disrupt communication.
+Spoofing é uma forma de enganamento onde alguém ou algo se passa por outra pessoa, dispositivo ou entidade para enganar ou obter vantagem. Em tecnologia e segurança cibernética, frequentemente envolve falsificar informações como um endereço IP, e-mail ou site para enganar um usuário ou sistema em acreditar que está interagindo com uma fonte legítima. O spoofing pode ser usado para roubar dados sensíveis, obter acesso não autorizado ou interromper comunicação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Definition and Explanation of Spoofing](https://www.kaspersky.com/resource-center/definitions/spoofing)
-- [@video@What is spoofing?](https://www.youtube.com/watch?v=jIS9XUC4TB4)
+- [@artigo@Definição e Explicação de Spoofing](https://www.kaspersky.com/resource-center/definitions/spoofing)
+- [@vídeo@O que é spoofing?](https://www.youtube.com/watch?v=jIS9XUC4TB4)

@@ -1,8 +1,8 @@
 # APT
 
-Advanced Persistent Threats, or APTs, are a class of cyber threats characterized by their persistence over a long period, extensive resources, and a high level of sophistication. Often associated with nation-state actors, organized cybercrime groups, and well-funded hackers, APTs are primarily focused on targeting high-value assets, such as critical infrastructure, financial systems, and government agencies.
+Ameaças Persistentes Avançadas, ou APTs, são uma classe de ameaças cibernéticas caracterizadas por sua persistência ao longo de um período longo, recursos extensos e alto nível de sofisticação. Geralmente associadas a atores de estado nacionais, grupos criminosos cibernéticos organizados e hackers bem financiados, APTs são principalmente focados em alvos de valor elevado, como infraestrutura crítica, sistemas financeiros e agências governamentais.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@article@Advanced Persistent Threat (APT)](https://www.crowdstrike.com/cybersecurity-101/advanced-persistent-threat-apt/)
-- [@video@What is an Advanced Persistent Threat?](https://www.youtube.com/watch?v=sGthMsDlqew)
+- [@article@Ameaça Persistente Avançada (APT)](https://www.crowdstrike.com/cybersecurity-101/advanced-persistent-threat-apt/)
+- [@video@O que é uma Ameaça Persistente Avançada?](https://www.youtube.com/watch?v=sGthMsDlqew)

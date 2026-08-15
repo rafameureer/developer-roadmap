@@ -1,8 +1,8 @@
 # WinHex
 
-WinHex is a hexadecimal editor and disk analysis tool primarily used for data recovery, digital forensics, and low-level data processing. It allows users to inspect and edit all types of files, physical disks, and memory, making it invaluable for identifying file system anomalies, recovering deleted data, and analyzing system behavior. Its features include disk imaging, RAM editing, data interpretation, and scripting capabilities, which are often utilized by security professionals for incident investigation and threat hunting.
+WinHex é um editor hexadecimal e ferramenta de análise de disco usado principalmente para recuperação de dados, forense digital e processamento de dados de nível baixo. Ele permite que os usuários inspejem e editem todos os tipos de arquivos, discos físicos e memória, tornando-o valioso para identificar anomalias do sistema de arquivos, recuperar dados excluídos e analisar o comportamento do sistema. Suas funcionalidades incluem imagens de disco, edição de RAM, interpretação de dados e capacidades de script, que são frequentemente utilizadas por profissionais de segurança para investigação de incidentes e caça a ameaças.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@WinHex](https://x-ways.net/winhex/)
-- [@article@What is WinHex?](https://www.lenovo.com/in/en/glossary/winhex/)
+- [@oficial@WinHex](https://x-ways.net/winhex/)
+- [@artigo@O que é WinHex?](https://www.lenovo.com/in/en/glossary/winhex/)

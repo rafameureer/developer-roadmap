@@ -1,8 +1,8 @@
-# Jump Server
+# Servidor de Salto
 
-A **jump server**, also known as a **bastion host** or **jump host**, is a critical security component in many network architectures. It is a dedicated, locked-down, and secure server that sits within a protected network, and provides a controlled access point for users and administrators to access specific components within the system. This intermediate server acts as a bridge between untrusted networks and the internal privileged systems, thereby reducing the attack surface and securing the environment.
+O **servidor de salto**, também conhecido como **host bastião** ou **servidor de salto**, é um componente crítico de segurança em muitas arquiteturas de rede. É um servidor dedicado, bloqueado e seguro que reside em uma rede protegida e fornece um ponto de acesso controlado para usuários e administradores acessarem componentes específicos do sistema. Este servidor intermediário atua como uma ponte entre redes não confiáveis e os sistemas internos privilegiados, reduzindo a superfície de ataque e segurança o ambiente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is a Jump Server?](https://www.ssh.com/academy/iam/jump-server)
-- [@video@What is a Bastion Host and Why is it so important?](https://www.youtube.com/watch?v=pI6glWVEkcY)
+- [@artigo@O que é um Servidor de Salto?](https://www.ssh.com/academy/iam/jump-server)
+- [@vídeo@O que é um Host Bastião e Por Que Ele É Tão Importante?](https://www.youtube.com/watch?v=pI6glWVEkcY)

@@ -1,8 +1,8 @@
-# Common Ports and Their Uses
+# Portas Comuns e Suas Funções
 
-Ports are virtual endpoints where network connections start and end. They are numbered, and these numbers help identify specific applications or services running on a server. When data is sent over a network, it's directed to a specific port on the receiving device, ensuring that the correct application handles the data. Understanding these common ports and their corresponding services is crucial for diagnosing network issues, configuring firewalls, and identifying potential security vulnerabilities.
+As portas são pontos virtuais onde as conexões de rede começam e terminam. Elas têm números atribuídos, e esses números ajudam a identificar aplicativos ou serviços específicos em execução em um servidor. Quando dados são enviados por uma rede, eles são direcionados para uma porta específica no dispositivo receptor, garantindo que o aplicativo correto manipule os dados. Entender essas portas comuns e seus serviços correspondentes é crucial para diagnosticar problemas de rede, configurar firewalls e identificar vulnerabilidades potenciais de segurança.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Common network ports you should know](https://opensource.com/article/18/10/common-network-ports)
-- [@video@Common Network Ports](https://www.youtube.com/watch?v=dh8h-4u7Wak)
+- [@artigo@Portas de rede comuns que você deve conhecer](https://opensource.com/article/18/10/common-network-ports)
+- [@vídeo@Portas de Rede Comuns](https://www.youtube.com/watch?v=dh8h-4u7Wak)

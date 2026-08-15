@@ -1,8 +1,8 @@
 # Kerberos
 
-Kerberos is a network authentication protocol designed to provide strong authentication for client/server applications. It was developed by MIT in the 1980s and is named after the three-headed dog from Greek mythology that guarded the gates of Hades, symbolizing the protocol's aim to provide secure authentication in a potentially hostile network environment.
+Kerberos é um protocolo de autenticação de rede projetado para fornecer autenticação forte para aplicativos cliente/servidor. Foi desenvolvido pela MIT nos anos 1980 e está nomeado em homenagem ao cachorro tricolor da mitologia grega que guardava as portas do Inferno, simbolizando o objetivo do protocolo de fornecer autenticação segura em um ambiente potencialmente hostil.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Kerberos?](https://www.fortinet.com/resources/cyberglossary/kerberos-authentication)
-- [@video@Kerberos Authentication Explained](https://www.youtube.com/watch?v=5N242XcKAsM)
+- [@artigo@O Que é Kerberos?](https://www.fortinet.com/resources/cyberglossary/kerberos-authentication)
+- [@vídeo@Autenticação Kerberos Explicada](https://www.youtube.com/watch?v=5N242XcKAsM)

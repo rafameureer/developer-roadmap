@@ -1,10 +1,10 @@
 # Hashing
 
-Hashing is a fundamental concept in computer science involving the use of a mathematical function (a hash function) to map data of arbitrary size to a fixed-size value, known as a hash or a hash code. This transformation is typically one-way, meaning it is computationally infeasible to reverse the process and recover the original data from the hash value alone. Hash functions are designed to be deterministic, ensuring that the same input always produces the same output.
+Hashing é um conceito fundamental na ciência da computação envolvendo o uso de uma função matemática (função de hash) para mapear dados de tamanho arbitrário a um valor de tamanho fixo, conhecido como hash ou código de hash. Esta transformação geralmente é unidirecional, o que significa que é infeasível computacionalmente reversar o processo e recuperar os dados originais apenas do valor do hash. Funções de hash são projetadas para serem determinísticas, garantindo que a mesma entrada sempre produza a mesma saída.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is hashing and how does it work?](https://www.techtarget.com/searchdatamanagement/definition/hashing)
-- [@article@Hashing Algorithm Overview: Types, Methodologies & Usage](https://www.okta.com/identity-101/hashing-algorithms/)
-- [@article@Understanding Cryptography Types:](https://geekflare.com/cybersecurity/cryptography-types/)
-- [@video@Hashing Explained](https://www.youtube.com/watch?v=EOe1XUykdP4)
+- [@article@O que é hashing e como ele funciona?](https://www.techtarget.com/searchdatamanagement/definition/hashing)
+- [@article@Visão Geral dos Algoritmos de Hash: Tipos, Metodologias & Uso](https://www.okta.com/identity-101/hashing-algorithms/)
+- [@article@Entendendo os Tipos de Criptografia:](https://geekflare.com/cybersecurity/cryptography-types/)
+- [@video@Hashing Explicado](https://www.youtube.com/watch?v=EOe1XUykdP4)

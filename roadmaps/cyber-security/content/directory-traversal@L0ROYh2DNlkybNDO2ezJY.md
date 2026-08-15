@@ -1,10 +1,10 @@
-# Directory Traversal Attacks
+# Ataques de Navegação em Diretórios
 
-Directory traversal, also known as path traversal, is a web security vulnerability that allows attackers to access files and directories stored outside of the intended web server's root directory. It exploits insufficient security validation of user-supplied filenames, enabling attackers to navigate the file system and potentially gain access to sensitive information, execute arbitrary code, or compromise the entire server.
+A navegação em diretórios, também conhecida como exploração de caminho, é uma vulnerabilidade de segurança web que permite que os atacantes acessem arquivos e diretórios armazenados fora do diretório raiz do servidor web pretendido. Ela explora a validação insuficiente da segurança dos nomes de arquivos fornecidos pelo usuário, permitindo aos atacantes navegar no sistema de arquivos e potencialmente obter acesso a informações sensíveis, executar código arbitrário ou comprometer todo o servidor.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@TryHackMe's room on Path Traversal & File Inclusion](https://tryhackme.com/r/room/filepathtraversal)
-- [@course@HackTheBox Academy's module on File Inclusion & Path Traversal](https://academy.hackthebox.com/course/preview/file-inclusion)
-- [@official@OWASP's article on Path Traversal](https://owasp.org/www-community/attacks/Path_Traversal)
-- [@article@Portswigger's guide on File Path Traversal](https://portswigger.net/web-security/file-path-traversal)
+- [@curso@Quarto de Sala do TryHackMe sobre Navegação em Caminho & Inclusão de Arquivo](https://tryhackme.com/r/room/filepathtraversal)
+- [@curso@Módulo da Academia HackTheBox sobre Inclusão de Arquivo & Navegação em Caminho](https://academy.hackthebox.com/course/preview/file-inclusion)
+- [@oficial@Artigo do OWASP sobre Navegação em Caminho](https://owasp.org/www-community/attacks/Path_Traversal)
+- [@artigo@Guia da Portswigger sobre Inclusão de Caminho de Arquivo](https://portswigger.net/web-security/file-path-traversal)

@@ -1,8 +1,8 @@
 # DNSSEC
 
-DNSSEC, or Domain Name System Security Extensions, is a security protocol suite that adds cryptographic signatures to DNS data. It verifies that DNS responses originate from the authoritative DNS server and haven't been tampered with during transit. This helps prevent DNS spoofing and cache poisoning attacks by ensuring the authenticity and integrity of DNS information.
+DNSSEC, ou Extensões de Segurança do Sistema de Nomes de Domínio, é um conjunto de protocolos de segurança que adiciona assinaturas criptográficas aos dados DNS. Ele verifica que as respostas DNS origem do servidor DNS autoritativo e não foram alteradas durante o trânsito. Isso ajuda a prevenir ataques de falsificação de DNS e ataques de contaminação de cache garantindo a autenticidade e integridade das informações DNS.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@How DNSSEC works](https://www.cloudflare.com/en-gb/dns/dnssec/how-dnssec-works/)
-- [@video@What is DNSSEC?](https://www.youtube.com/watch?v=Fk2oejzgSVQ)
+- [@artigo@Como funciona o DNSSEC](https://www.cloudflare.com/pt-br/dns/dnssec/how-dnssec-works/)
+- [@vídeo@O que é DNSSEC?](https://www.youtube.com/watch?v=Fk2oejzgSVQ)

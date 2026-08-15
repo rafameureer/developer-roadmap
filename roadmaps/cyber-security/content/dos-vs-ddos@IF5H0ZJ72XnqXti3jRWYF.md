@@ -1,9 +1,9 @@
 # DoS vs DDoS
 
-A Denial-of-Service (DoS) attack is a type of cyberattack where an attacker attempts to make a machine or network resource unavailable to its intended users by overwhelming it with malicious traffic or requests, originating from a _single_ source. A Distributed Denial-of-Service (DDoS) attack is similar, but the attack traffic comes from _multiple_ compromised systems, creating a larger and more difficult-to-mitigate disruption.
+Um Ataque de Negação de Serviço (DoS) é um tipo de ataque cibernético onde um atacante tenta tornar uma máquina ou recurso de rede não disponível para seus usuários intencionais, sobrecarregando-o com tráfego malicioso ou solicitações, originadas de _um único_ fonte. Um Ataque de Negação de Serviço Distribuído (DDoS) é semelhante, mas o tráfego de ataque vem de _várias_ sistemas comprometidos, criando uma interrupção maior e mais difícil de mitigar.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@DoS vs DDoS](https://www.fortinet.com/resources/cyberglossary/dos-vs-ddos)
-- [@video@What is Denial-of-Service attack?](https://www.youtube.com/watch?v=Z7xG3b0aL_I)
-- [@video@What is a DDoS attack?](https://www.youtube.com/watch?v=z503nLsfe5s)
+- [@artigo@DoS vs DDoS](https://www.fortinet.com/pt-br/recursos/glossario/dos-vs-ddos)
+- [@vídeo@O que é um ataque de negação de serviço?](https://www.youtube.com/watch?v=Z7xG3b0aL_I)
+- [@vídeo@O que é um ataque DDoS?](https://www.youtube.com/watch?v=z503nLsfe5s)

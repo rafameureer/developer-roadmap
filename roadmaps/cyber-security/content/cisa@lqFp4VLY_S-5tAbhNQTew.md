@@ -1,8 +1,8 @@
 # CISA
 
-CISA, or Certified Information Systems Auditor, is a globally recognized certification for professionals who audit, control, monitor, and assess an organization's information technology and business systems. It demonstrates expertise in assessing vulnerabilities, reporting on compliance, and instituting controls within an enterprise. Achieving CISA certification requires passing an exam, possessing relevant work experience in information systems auditing, control, assurance, or security, and adhering to ISACA's code of professional ethics.
+O CISA, ou Certificado de Auditoria em Sistemas de Informação, é uma certificação global reconhecida para profissionais que auditam, controlam, monitoram e avaliam os sistemas de tecnologia da informação e negócios de uma organização. Ele demonstra especialidade na avaliação de vulnerabilidades, relatórios sobre conformidade e instituição de controles em uma empresa. Para obter a certificação CISA, é necessário passar em um exame, ter experiência relevante na auditoria de sistemas de informação, controle, garantia ou segurança, e seguir o código ético profissional da ISACA.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@CISA](https://www.isaca.org/credentialing/cisa)
-- [@article@What is a Certified Information Systems Auditor?](https://www.investopedia.com/terms/c/certified-information-systems-auditor.asp)
+- [@article@O que é um Certificado de Auditoria em Sistemas de Informação?](https://www.investopedia.com/terms/c/certified-information-systems-auditor.asp)

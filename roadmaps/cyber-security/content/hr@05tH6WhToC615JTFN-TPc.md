@@ -1,8 +1,8 @@
-# Human Resources in Cybersecurity
+# Recursos Humanos em Segurança Cibernética
 
-Human Resources (HR) is the department within a company responsible for managing employees. This includes recruiting, hiring, training, and handling employee relations, as well as administering compensation and benefits. When it comes to cybersecurity, HR plays a critical role in establishing and enforcing policies, training employees on security awareness, and managing the risks associated with insider threats or security breaches involving employees.
+Os Recursos Humanos (RH) são o departamento de uma empresa responsável por gerenciar funcionários. Isso inclui a recrutamento, contratação, treinamento e gestão das relações com os funcionários, bem como a administração dos benefícios e compensação. Quando se trata de segurança cibernética, o RH desempenha um papel crucial na estabelecimento e aplicação de políticas, no treinamento dos funcionários sobre consciência em segurança e na gestão dos riscos associados a ameaças internas ou violações de segurança envolvendo funcionários.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is HR?](https://www.investopedia.com/terms/h/humanresources.asp)
-- [@article@What does HR actually do?](https://www.lucidchart.com/blog/what-does-hr-do)
+- [@artigo@O que é RH?](https://www.investopedia.com/terms/h/humanresources.asp)
+- [@artigo@O que o RH realmente faz?](https://www.lucidchart.com/blog/what-does-hr-do)

@@ -1,8 +1,8 @@
 # SSL vs TLS
 
-SSL (Secure Sockets Layer) and TLS (Transport Layer Security) are cryptographic protocols used to provide secure communication over a network. They work by encrypting data transmitted between a client (like a web browser) and a server, ensuring confidentiality and integrity. TLS is essentially the successor to SSL, offering enhanced security features and addressing vulnerabilities present in older versions of SSL. While SSL is largely deprecated, the terms are often used interchangeably, though technically, modern secure communication relies on TLS.
+SSL (Secure Sockets Layer) e TLS (Transport Layer Security) são protocolos criptográficos usados para fornecer comunicação segura em uma rede. Eles funcionam criptografando os dados transmitidos entre um cliente (como um navegador da web) e um servidor, garantindo confidencialidade e integridade. TLS é essencialmente o sucessor do SSL, oferecendo recursos de segurança aprimorados e endereçando vulnerabilidades presentes em versões mais antigas do SSL. Embora SSL esteja largamente descontinuado, os termos são frequentemente usados de forma intercambiável, embora tecnicamente, a comunicação segura moderna dependa do TLS.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What’s the Difference Between SSL and TLS?](https://aws.amazon.com/compare/the-difference-between-ssl-and-tls/)
-- [@video@TLS vs SSL - What's the Difference?](https://www.youtube.com/watch?v=J7fI_jH7L84)
+- [@article@O que é a Diferença entre SSL e TLS?](https://aws.amazon.com/compare/the-difference-between-ssl-and-tls/)
+- [@video@TLS vs SSL - Qual é a Diferença?](https://www.youtube.com/watch?v=J7fI_jH7L84)

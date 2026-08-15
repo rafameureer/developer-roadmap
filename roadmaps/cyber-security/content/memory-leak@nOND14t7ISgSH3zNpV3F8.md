@@ -1,8 +1,8 @@
-# Memory Leak
+# Fuga de Memória
 
-A Memory Leak occurs when a computer program consumes memory but fails to release it back to the operating system after it is no longer needed. Over time, this can lead to reduced system performance, increased memory usage, and, in severe cases, the program or system may crash due to the exhaustion of available memory.
+Uma Fuga de Memória ocorre quando um programa de computador consome memória mas não a libera de volta ao sistema operacional após ela não ser mais necessária. Ao longo do tempo, isso pode levar a uma redução na performance do sistema, uso crescente da memória e, em casos graves, o programa ou o sistema podem cair devido à esgotamento da memória disponível.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What are memory leaks?](https://learn.snyk.io/lesson/memory-leaks/)
-- [@video@What are memory leaks?](https://www.youtube.com/watch?v=00Kdpgl6fsY)
+- [@artigo@O que são fugas de memória?](https://learn.snyk.io/lesson/memory-leaks/)
+- [@vídeo@O que são fugas de memória?](https://www.youtube.com/watch?v=00Kdpgl6fsY)

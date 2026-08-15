@@ -1,8 +1,8 @@
-# Watering Hole Attack
+# Ataque de Baía de Bezerros
 
-Watering Hole Attack is a type of cyberattack where the attacker targets a specific group of users by compromising a website or online resource that they are known to frequently visit. The name "watering hole" comes from the idea of predators waiting by a water source to attack prey, similar to how attackers wait for their targets to visit a compromised site.
+O Ataque de Baía de Bezerros é um tipo de ataque cibernético onde o invasor almeja um grupo específico de usuários comprometendo um site ou recurso online que eles conhecem frequentemente visitar. O nome "baía de bezerros" vem da ideia de predadores esperando por perto de uma fonte d'água para atacar seus presas, semelhante à como os invasores esperam que suas vítimas visitem um site comprometido.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is a Watering Hole Attack?](https://www.techtarget.com/searchsecurity/definition/watering-hole-attack)
-- [@video@Watering Hole Attacks](https://www.youtube.com/watch?v=uBoVWqkfZjk)
+- [@artigo@O que é um Ataque de Baía de Bezerros?](https://www.techtarget.com/searchsecurity/definition/watering-hole-attack)
+- [@vídeo@Ataques de Baía de Bezerros](https://www.youtube.com/watch?v=uBoVWqkfZjk)

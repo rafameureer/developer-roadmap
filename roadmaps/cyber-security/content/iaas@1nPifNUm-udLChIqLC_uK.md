@@ -1,8 +1,8 @@
-# Infrastructure as a Service (IaaS)
+# Serviço como Infraestrutura (IaaS)
 
-Infrastructure as a Service (IaaS) is a type of cloud computing service that provides on-demand access to fundamental computing resources – servers, networking, storage, and virtualization – over the internet. Instead of owning and managing physical hardware in an on-premises data center, users can rent these resources from a cloud provider. This allows businesses to build and run applications without the upfront investment and ongoing maintenance costs associated with traditional infrastructure.
+Infraestrutura como Serviço (IaaS) é um tipo de serviço de computação em nuvem que fornece acesso a recursos de computação fundamental – servidores, rede, armazenamento e virtualização – na internet. Em vez de possuir e gerenciar hardware físico em um centro de dados local, os usuários podem alugar esses recursos de um provedor de nuvem. Isso permite que as empresas construam e executem aplicativos sem o investimento inicial e custos de manutenção contínuos associados à infraestrutura tradicional.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is IaaS?](https://azure.microsoft.com/en-gb/resources/cloud-computing-dictionary/what-is-iaas)
-- [@video@IaaS Explained](https://www.youtube.com/watch?v=XRdmfo4M_YA)
+- [@artigo@O que é IaaS?](https://azure.microsoft.com/en-gb/resources/cloud-computing-dictionary/what-is-iaas)
+- [@vídeo@IaaS Explicado](https://www.youtube.com/watch?v=XRdmfo4M_YA)

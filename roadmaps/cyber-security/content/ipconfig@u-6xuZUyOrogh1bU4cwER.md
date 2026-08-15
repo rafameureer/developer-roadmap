@@ -1,8 +1,8 @@
 # ipconfig
 
-`ipconfig` is a widely-used command-line utility for Windows operating systems that provides valuable information regarding a computer's network configuration. It can be extremely helpful for incident response and discovery tasks when investigating network-related issues, extracting crucial network details, or when trying to ascertain a machine's IP address.
+`ipconfig` é uma utilidade de linha de comando amplamente utilizada em sistemas operacionais Windows que fornece informações valiosas sobre a configuração de rede de um computador. Pode ser extremamente útil para tarefas de resposta a incidentes e descoberta quando investigando problemas relacionados à rede, extraído detalhes cruciais da rede ou ao tentar determinar o endereço IP de uma máquina.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@ipconfig command](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/ipconfig)
-- [@article@Understanding ipconfig](https://www.whatismyip.com/ipconfig/)
+- [@article@Comando ipconfig](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/ipconfig)
+- [@article@Entendendo o ipconfig](https://www.whatismyip.com/ipconfig/)

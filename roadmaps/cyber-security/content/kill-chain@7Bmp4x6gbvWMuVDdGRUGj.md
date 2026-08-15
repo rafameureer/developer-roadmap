@@ -1,8 +1,8 @@
-# Kill Chain
+# Cadeia de Ataque
 
-The Kill Chain is a framework that breaks down a cyberattack into distinct stages, from initial reconnaissance to achieving the attacker's objective. It provides a structured approach to understanding and disrupting malicious activity by identifying specific points where security controls can be implemented to interrupt the attack sequence. It allows defenders to understand the attackers process so they can counter it.
+A Cadeia de Ataque é um quadro que descompõe um ataque cibernético em etapas distintas, desde a reconhecimento inicial até o alcance do objetivo do atacante. Ele fornece uma abordagem estruturada para entender e interromper atividade maliciosa identificando pontos específicos onde os controles de segurança podem ser implementados para interromper a sequência do ataque. Permite aos defensores entender o processo dos atacantes, para que possam contrariá-los.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Cyber Kill Chain](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html)
-- [@video@Learn the Cyber Kill Chain](https://www.youtube.com/watch?v=oCUrkc_0tmw)
+- [@oficial@Cadeia de Ataque Cibernética](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html)
+- [@vídeo@Conheça a Cadeia de Ataque Cibernética](https://www.youtube.com/watch?v=oCUrkc_0tmw)

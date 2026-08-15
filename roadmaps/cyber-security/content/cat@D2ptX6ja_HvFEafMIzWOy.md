@@ -1,9 +1,9 @@
 # cat
 
-`cat` is a widely used command-line utility in UNIX and UNIX-like systems. It stands for "concatenate" which, as the name suggests, can be used to concatenate files, display file contents, or combine files. In the context of incident response and discovery tools, `cat` plays an essential role in quickly accessing and assessing the contents of various files that inform on security incidents and help users understand system data as well as potential threats.
+O comando `cat` é uma ferramenta de linha de comando amplamente utilizada em sistemas UNIX e similares. Significa "concatenar", o que, como sugere o nome, pode ser usado para concatenar arquivos, exibir o conteúdo dos arquivos ou combinar arquivos. No contexto de ferramentas de resposta a incidentes e descoberta, `cat` desempenha um papel essencial em acessar rapidamente e avaliar o conteúdo de vários arquivos que informam sobre incidentes de segurança e ajudam os usuários a entender dados do sistema assim como ameaças potenciais.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Cat Command in Linux](https://linuxize.com/post/linux-cat-command/)
-- [@article@Linux cat command](https://phoenixnap.com/kb/linux-cat-command)
-- [@video@The cat command](https://www.youtube.com/shorts/lTOje2weu_o?app=desktop)
+- [@artigo@Comando Cat no Linux](https://linuxize.com/post/linux-cat-command/)
+- [@artigo@Comando Cat no Linux](https://phoenixnap.com/kb/linux-cat-command)
+- [@vídeo@O comando cat](https://www.youtube.com/shorts/lTOje2weu_o?app=desktop)

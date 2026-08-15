@@ -1,8 +1,8 @@
-# WPA, WPA2, WPA3, and WEP
+# WPA, WPA2, WPA3 e WEP
 
-These terms represent different security protocols used to secure Wi-Fi networks. WEP (Wired Equivalent Privacy) was the original standard but has since been deemed insecure. WPA (Wi-Fi Protected Access) was introduced as an interim upgrade, followed by WPA2, which offered stronger encryption through AES. WPA3 is the latest standard, incorporating advanced features like Simultaneous Authentication of Equals (SAE) for improved password security and stronger encryption overall.
+Essas termos representam diferentes protocolos de segurança usados para proteger redes Wi-Fi. O WEP (Wired Equivalent Privacy) foi o padrão original, mas já foi considerado inseguro. O WPA (Wi-Fi Protected Access) foi introduzido como uma atualização intermediária, seguido pelo WPA2, que ofereceu criptografia mais forte através do AES. O WPA3 é o último padrão, incorporando recursos avançados como a Autenticação Simultânea de Igualdade (SAE) para melhorar a segurança das senhas e a criptografia em geral.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What Is Wi-Fi Security? WEP, WPA, WPA2 & WPA3 Differences](https://nilesecure.com/network-security/what-is-wi-fi-security-wep-wpa-wpa2-wpa3-differences)
-- [@video@WiFi Security: What is WEP, WPA, and WPA2](https://www.youtube.com/watch?v=jErjdGfbgoE)
+- [@article@O que é a Segurança da Rede Wi-Fi? Diferenças entre WEP, WPA, WPA2 & WPA3](https://nilesecure.com/network-security/what-is-wi-fi-security-wep-wpa-wpa2-wpa3-differences)
+- [@video@Segurança da Rede Wi-Fi: O que é WEP, WPA e WPA2](https://www.youtube.com/watch?v=jErjdGfbgoE)

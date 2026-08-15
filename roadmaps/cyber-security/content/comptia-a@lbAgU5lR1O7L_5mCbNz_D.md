@@ -1,8 +1,8 @@
 # CompTIA A+
 
-CompTIA A+ is an entry-level certification for IT professionals that focuses on essential knowledge and skills in computer hardware, software, and troubleshooting. This certification is widely recognized in the IT industry and can serve as a stepping stone for individuals looking to start a career in the field of information technology.
+CompTIA A+ é uma certificação de nível inicial para profissionais da TI que se concentra em conhecimentos e habilidades essenciais em hardware, software e resolução de problemas. Esta certificação é amplamente reconhecida no setor da TI e pode servir como um passo inicial para indivíduos procurando começar uma carreira na área de tecnologia da informação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@CompTIA A+](https://www.comptia.org/certifications/a)
-- [@video@CompTIA A+ Course](https://www.youtube.com/watch?v=1CZXXNKAY5o)
+- [@oficial@CompTIA A+](https://www.comptia.org/certifications/a)
+- [@vídeo@Curso CompTIA A+](https://www.youtube.com/watch?v=1CZXXNKAY5o)

@@ -1,8 +1,8 @@
 # Tailgating
 
-Tailgating is the act of getting access to a restricted area by simply following an authorized person. This is a common social engineering technique used by attackers to gain physical access to a building or a restricted area. The attacker waits for an authorized person to open the door and then follows them inside. This technique is effective because it is based on trust and the assumption that the attacker is an authorized person.
+Tailgating é o ato de obter acesso a uma área restrita simplesmente seguindo uma pessoa autorizada. Isso é uma técnica comum de engenharia social usada por invasores para obter acesso físico a um edifício ou área restrita. O invasor espera que uma pessoa autorizada abra a porta e então o siga dentro. Esta técnica é eficaz porque se baseia na confiança e no suposto que o invasor é uma pessoa autorizada.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Tailgating attacks](https://www.proofpoint.com/us/threat-reference/tailgating-attacks-cybersecurity)
-- [@video@Tailgating and Piggybacking - Social Engineering Tactics Explained](https://www.youtube.com/watch?v=4SpvulRcVQ0)
+- [@article@Ataques de tailgating](https://www.proofpoint.com/us/threat-reference/tailgating-attacks-cybersecurity)
+- [@video@Tailgating e Piggybacking - Táticas de engenharia social explicadas](https://www.youtube.com/watch?v=4SpvulRcVQ0)

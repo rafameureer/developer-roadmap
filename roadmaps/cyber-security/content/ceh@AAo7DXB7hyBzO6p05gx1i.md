@@ -1,8 +1,8 @@
 # CEH
 
-**Certified Ethical Hacker (CEH)** is an advanced certification focused on equipping cybersecurity professionals with the knowledge and skills required to defend against the continuously evolving landscape of cyber threats. This certification is facilitated by the EC-Council, an internationally recognized organization for information security certifications.
+**Certified Ethical Hacker (CEH)** é uma certificação avançada focada em equipar profissionais de segurança cibernética com o conhecimento e habilidades necessárias para defender contra a paisagem crescentemente evoluída de ameaças cibernéticas. Esta certificação é facilitada pela EC-Council, uma organização internacionalmente reconhecida para certificações em segurança da informação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@CEH](https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh/)
-- [@article@Certified Ethical Hacker Online Training](https://iclass.eccouncil.org/our-courses/certified-ethical-hacker-ceh/)
+- [@oficial@CEH](https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh/)
+- [@artigo@Treinamento Online de Certified Ethical Hacker](https://iclass.eccouncil.org/our-courses/certified-ethical-hacker-ceh/)

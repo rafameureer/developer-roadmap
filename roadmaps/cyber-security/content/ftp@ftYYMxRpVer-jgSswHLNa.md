@@ -1,9 +1,9 @@
 # FTP
 
-File Transfer Protocol (FTP) is a standard network protocol used for transferring files between a client and a server over a TCP/IP network, such as the internet. It operates using a client-server model, where a client initiates a connection to an FTP server to upload, download, delete, or rename files. FTP requires authentication, usually with a username and password, and establishes separate control and data connections for managing commands and transferring data, respectively. By default, FTP runs on TCP port 21 for control connections, while data transfers typically use TCP port 20 in active mode.
+Protocolo de Transferência de Arquivos (FTP) é um protocolo de rede padrão usado para transferir arquivos entre um cliente e um servidor em uma rede TCP/IP, como a internet. Ele opera usando um modelo cliente-servidor, onde o cliente inicia uma conexão com um servidor FTP para carregar, baixar, excluir ou renomear arquivos. O FTP requer autenticação, geralmente com um nome de usuário e senha, e estabelece conexões separadas de controle e dados para gerenciar comandos e transferir dados, respectivamente. Por padrão, o FTP roda na porta TCP 21 para conexões de controle, enquanto as transferências de dados normalmente usam a porta TCP 20 em modo ativo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@File Transfer Protocol](https://en.wikipedia.org/wiki/File_Transfer_Protocol)
-- [@article@FTP meaning and uses](https://www.investopedia.com/terms/f/ftp-file-transfer-protocol.asp)
-- [@video@What is FTP?](https://www.youtube.com/watch?v=HI0Oh4NJqcI)
+- [@article@Protocolo de Transferência de Arquivos](https://en.wikipedia.org/wiki/File_Transfer_Protocol)
+- [@article@Significado e uso do FTP](https://www.investopedia.com/terms/f/ftp-file-transfer-protocol.asp)
+- [@video@O que é o FTP?](https://www.youtube.com/watch?v=HI0Oh4NJqcI)

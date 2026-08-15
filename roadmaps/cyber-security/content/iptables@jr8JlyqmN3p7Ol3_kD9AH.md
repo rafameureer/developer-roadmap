@@ -1,8 +1,8 @@
 # iptables
 
-IPTables is a command-line utility for configuring and managing packet filtering rules within the Linux operating system. It allows the system administrator to define and manage the firewall rules that control the incoming and outgoing network traffic. IPTables is an essential tool for securing Linux systems and ensuring proper network traffic flow.
+IPTables é uma utilidade de linha de comando para configurar e gerenciar regras de filtragem de pacotes no sistema operacional Linux. Permite que o administrador do sistema defina e gerencie as regras de firewall que controlam o tráfego de rede entrante e saudável. O IPTables é uma ferramenta essencial para proteger sistemas Linux e garantir o fluxo adequado do tráfego de rede.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@iptables man page](https://linux.die.net/man/8/iptables)
-- [@video@iptables complete guide](https://www.youtube.com/watch?v=6Ra17Qpj68c)
+- [@article@Manual do iptables](https://linux.die.net/man/8/iptables)
+- [@video@Guia completo sobre iptables](https://www.youtube.com/watch?v=6Ra17Qpj68c)

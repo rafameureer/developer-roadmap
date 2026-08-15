@@ -1,8 +1,8 @@
 # VulnHub
 
-VulnHub is an online platform that provides a collection of intentionally vulnerable virtual machines for cybersecurity enthusiasts, penetration testers, and ethical hackers to practice their skills. These virtual machines simulate various real-world scenarios with different vulnerabilities and security misconfigurations. Users can download and run these VMs in their own environments, attempting to exploit vulnerabilities and gain root access. VulnHub offers a hands-on approach to learning about cybersecurity, allowing users to explore different attack vectors, practice exploitation techniques, and understand common security flaws in a safe, legal environment. It's a valuable resource for both beginners and experienced professionals to enhance their offensive security skills and prepare for certifications.
+VulnHub é uma plataforma online que oferece uma coleção de máquinas virtuais intencionalmente vulneráveis para entusiastas de segurança cibernética, testadores de penetração e hackers éticos praticarem suas habilidades. Essas máquinas virtuais simulam diversos cenários reais com diferentes vulnerabilidades e configurações de segurança incorretas. Os usuários podem baixar e executar essas VMs em seus próprios ambientes, tentando explotar as vulnerabilidades e obter acesso root. VulnHub oferece uma abordagem prática para aprender sobre segurança cibernética, permitindo que os usuários explorem diferentes vetores de ataque, pratique técnicas de exploração e entenda falhas comuns de segurança em um ambiente seguro e legal. É um recurso valioso tanto para iniciantes quanto para profissionais experientes para melhorar suas habilidades ofensivas em segurança cibernética e se prepararem para certificações.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Vulnhub](https://www.vulnhub.com/)
-- [@article@A Beginners Guide to Vulnhub](https://medium.com/@gavinloughridge/a-beginners-guide-to-vulnhub-part-1-52b06466635d)
+- [@oficial@Vulnhub](https://www.vulnhub.com/)
+- [@artigo@Um guia iniciante para o VulnHub](https://medium.com/@gavinloughridge/a-beginners-guide-to-vulnhub-part-1-52b06466635d)

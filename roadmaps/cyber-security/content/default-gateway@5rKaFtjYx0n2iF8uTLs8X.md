@@ -1,8 +1,8 @@
-# default gateway
+# Gateway padrão
 
-A default gateway is a network node, typically a router or a firewall, that serves as the access point or intermediary between a local network and external networks, such as the internet. When a device on a local network needs to communicate with a device outside its own subnet—such as accessing a website or sending an email—it sends the data to the default gateway, which then routes it to the appropriate external destination. The default gateway acts as a traffic director, ensuring that data packets are correctly forwarded between the internal network and external networks, making it a crucial component for enabling communication beyond the local network's boundaries.
+Um gateway padrão é um nó de rede, geralmente um roteador ou uma firewall, que atua como o ponto de acesso ou intermediário entre uma rede local e redes externas, como a internet. Quando um dispositivo em uma rede local precisa se comunicar com um dispositivo fora da própria sub-rede—como acessar um site ou enviar um email—it envia os dados para o gateway padrão, que então os encaminha para o destino externo apropriado. O gateway padrão atua como um diretor de tráfego, garantindo que pacotes de dados sejam corretamente encaminhados entre a rede interna e as redes externas, tornando-se um componente crucial para permitir comunicação além das fronteiras da rede local.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is a Default Gateway?](https://nordvpn.com/blog/what-is-a-default-gateway/?srsltid=AfmBOoosi5g4acnT9Gv_B86FMGr72hWDhk8J-4jr1HvxPCSu96FikCyw)
-- [@video@Routers and Default Gateways](https://www.youtube.com/watch?v=JOomC1wFrbU)
+- [@artigo@O que é um Gateway Padrão?](https://nordvpn.com/blog/what-is-a-default-gateway/?srsltid=AfmBOoosi5g4acnT9Gv_B86FMGr72hWDhk8J-4jr1HvxPCSu96FikCyw)
+- [@vídeo@Roteadores e Gateways Padrão](https://www.youtube.com/watch?v=JOomC1wFrbU)

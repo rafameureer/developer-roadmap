@@ -1,8 +1,8 @@
-# Packet Captures
+# Capturas de Pacotes
 
-**Packet captures** involve recording and analyzing network traffic data packets as they travel across a network. This process allows network administrators and security professionals to inspect the content of packets, including headers and payloads, to diagnose network issues, monitor performance, and detect suspicious activities. Packet captures are typically performed using tools like Wireshark or tcpdump, which collect and store packets for later examination. This analysis helps in understanding network behavior, troubleshooting problems, and identifying security threats or vulnerabilities.
+**Capturas de pacotes** envolvem gravar e analisar dados de pacotes de tráfego de rede enquanto eles viajam em uma rede. Esse processo permite que administradores de redes e profissionais de segurança inspeçinem o conteúdo dos pacotes, incluindo cabeçalhos e payloads, para diagnosticar problemas de rede, monitorar desempenho e detectar atividades suspeitas. As capturas de pacotes são geralmente realizadas usando ferramentas como Wireshark ou tcpdump, que coletam e armazenam pacotes para exame posterior. Análise dessa informação ajuda a entender o comportamento da rede, resolver problemas e identificar ameaças de segurança ou vulnerabilidades.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Packet Capture: What is it and What You Need to Know](https://www.varonis.com/blog/packet-capture)
-- [@video@Wireshark Tutorial for Beginners](https://www.youtube.com/watch?v=qTaOZrDnMzQ)
+- [@artigo@Captura de Pacote: O que é e o que você precisa saber](https://www.varonis.com/blog/packet-capture)
+- [@vídeo@Tutorial do Wireshark para iniciantes](https://www.youtube.com/watch?v=qTaOZrDnMzQ)

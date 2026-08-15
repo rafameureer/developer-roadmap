@@ -1,8 +1,8 @@
 # any.run
 
-any.run is an interactive online platform used for analyzing suspicious files and URLs in a safe, isolated environment. It allows users to execute potentially malicious software or visit questionable websites without risking their own systems. The platform provides real-time visibility into the behavior of the analyzed item, capturing network traffic, process creation, file modifications, and other indicators of compromise. This helps security professionals quickly understand the nature and impact of a threat.
+any.run é uma plataforma online interativa usada para analisar arquivos e URLs suspeitos em um ambiente seguro e isolado. Ele permite que os usuários executem potencialmente software malicioso ou visitem sites questionáveis sem riscar seus próprios sistemas. A plataforma fornece visibilidade em tempo real no comportamento do item analisado, capturando tráfego de rede, criação de processos, modificações de arquivos e outros indicadores de comprometimento. Isso ajuda profissionais de segurança a entender rapidamente a natureza e o impacto de uma ameaça.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@official@Any.run](https://any.run/)
-- [@video@Malware analysis with ANY.RUN](https://www.youtube.com/watch?v=QH_u7DHKzzI)
+- [@official@any.run](https://any.run/)
+- [@video@Análise de malware com ANY.RUN](https://www.youtube.com/watch?v=QH_u7DHKzzI)

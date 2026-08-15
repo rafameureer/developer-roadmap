@@ -1,9 +1,9 @@
 # OSCP
 
-**OSCP (Offensive Security Certified Professional)** is a widely recognized certification in cybersecurity that focuses on penetration testing and ethical hacking. Offered by Offensive Security, it requires candidates to complete a challenging exam that involves identifying and exploiting vulnerabilities in a controlled environment. The OSCP certification emphasizes hands-on skills, practical experience, and the ability to conduct comprehensive security assessments, making it highly valued by employers for its rigorous approach to real-world penetration testing techniques.
+**OSCP (Offensive Security Certified Professional)** é uma certificação amplamente reconhecida em segurança cibernética que se concentra em testes de penetração e hacking ético. Oferecida pela Offensive Security, ela exige que os candidatos concluam um exame desafiador que envolve identificar e explotar vulnerabilidades em um ambiente controlado. A certificação OSCP enfatiza habilidades práticas, experiência prática e a capacidade de realizar avaliações de segurança abrangentes, tornando-se altamente valorizada por empregadores por seu abordagem rigorosa aos métodos de testes de penetração do mundo real.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Offensive Security Certified Professional](https://www.offsec.com/courses/pen-200/)
-- [@article@How to Prepare for OSCP Exam](https://cybersecurityguide.org/programs/cybersecurity-certifications/oscp/)
-- [@article@How to Become an OSCP \[Full Guide\] - Geekflare](https://geekflare.com/cybersecurity/oscp-certification/)
+- [@oficial@Certificado Offense Security Certified Professional](https://www.offsec.com/courses/pen-200/)
+- [@artigo@Como se preparar para o Exame OSCP](https://cybersecurityguide.org/programs/cybersecurity-certifications/oscp/)
+- [@artigo@Como se tornar um OSCP [Guia Completo] - Geekflare](https://geekflare.com/cybersecurity/oscp-certification/)

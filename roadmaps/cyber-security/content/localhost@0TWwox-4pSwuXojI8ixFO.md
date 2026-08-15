@@ -1,8 +1,8 @@
 # Localhost
 
-Localhost is a hostname that refers to the current computer being used to access it. It's essentially a way for your computer to communicate with itself over a network connection. Typically, it resolves to the IP address 127.0.0.1, which is reserved for loopback addresses. This allows programs and services running on your machine to interact with each other without needing to connect to an external network.
+O localhost é um nome de host que se refere à máquina atual sendo usada para acessá-la. É essencialmente uma maneira para o seu computador se comunicar consigo mesmo através de uma conexão de rede. Geralmente, ele resolve para o endereço IP 127.0.0.1, que é reservado para endereços de loopback. Isso permite que programas e serviços em execução na sua máquina interajam entre si sem precisar se conectar a uma rede externa.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@article@What is localhost?](https://www.freecodecamp.org/news/what-is-localhost/)
-- [@video@What is localhost? | Explained](https://www.youtube.com/watch?v=m98GX51T5dI)
+- [@article@O que é localhost?](https://www.freecodecamp.org/news/what-is-localhost/)
+- [@video@O que é localhost? | Explicado](https://www.youtube.com/watch?v=m98GX51T5dI)

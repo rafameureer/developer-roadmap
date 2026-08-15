@@ -1,8 +1,8 @@
-# Computer Hardware Components
+# Componentes de Hardware do Computador
 
-Computer hardware components are the physical parts that make up a computer system. These include the central processing unit (CPU), which executes instructions, memory (RAM) for temporary data storage, storage devices like hard drives and SSDs for permanent data storage, and input/output devices like keyboards, mice, and monitors that allow interaction with the system. Understanding these components and how they interact is crucial for anyone working with computers.
+Os componentes de hardware do computador são as partes físicas que compõem um sistema de computador. Isso inclui o Unidade Central de Processamento (CPU), que executa instruções, a memória (RAM) para armazenamento temporário de dados, dispositivos de armazenamento como discos rígidos e SSDs para armazenamento permanente de dados, e dispositivos de entrada/saída como teclados, mouse e monitores que permitem interação com o sistema. Entender esses componentes e como eles se interagem é crucial para qualquer pessoa trabalhando com computadores.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is computer hardware?](https://www.ibm.com/think/topics/hardware)
-- [@video@Computer Components for Dummies](https://www.youtube.com/watch?v=cZs6kh0WFRY)
+- [@artigo@O que são componentes de hardware do computador?](https://www.ibm.com/think/topics/hardware)
+- [@vídeo@Componentes de Computador para Dummies](https://www.youtube.com/watch?v=cZs6kh0WFRY)

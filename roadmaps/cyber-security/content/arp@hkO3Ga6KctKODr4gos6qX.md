@@ -1,9 +1,9 @@
-# ARP Troubleshooting
+# Solução de Problemas de ARP
 
-Address Resolution Protocol (ARP) is a protocol used to map an IP address to a physical machine address, also known as a Media Access Control (MAC) address, on a local network. When a device wants to communicate with another device on the same network, it uses ARP to find the MAC address associated with the destination's IP address. Problems with ARP can lead to communication failures and network connectivity issues, requiring specific tools and techniques for diagnosis and resolution.
+Protocolo de Resolução de Endereços (ARP) é um protocolo usado para mapear um endereço IP em um endereço físico de máquina, também conhecido como um endereço de Controle de Acesso à Mídia (MAC), em uma rede local. Quando um dispositivo deseja se comunicar com outro dispositivo na mesma rede, ele usa ARP para encontrar o endereço MAC associado ao endereço IP do destino. Problemas com ARP podem levar a falhas de comunicação e problemas de conectividade da rede, exigindo ferramentas e técnicas específicas para diagnóstico e resolução.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@ARP - Wikipedia](https://en.wikipedia.org/wiki/Address_Resolution_Protocol)
-- [@article@What is Address Resolution Protocol?](https://www.fortinet.com/resources/cyberglossary/what-is-arp)
-- [@video@ARP Explained](https://www.youtube.com/watch?v=cn8Zxh9bPio)
+- [@artigo@ARP - Wikipedia](https://en.wikipedia.org/wiki/Address_Resolution_Protocol)
+- [@artigo@O que é Protocolo de Resolução de Endereços?](https://www.fortinet.com/resources/cyberglossary/what-is-arp)
+- [@vídeo@ARP Explicado](https://www.youtube.com/watch?v=cn8Zxh9bPio)

@@ -1,7 +1,7 @@
 # pwn.college
 
-pwn.college is an educational platform designed to teach the fundamentals of computer security, specifically focusing on binary exploitation and low-level software vulnerabilities. It provides a structured curriculum that combines hands-on practice labs with interactive lectures, allowing users to actively exploit intentionally insecure programs in a safe, controlled environment. The platform is built to guide students from beginner concepts like basic memory corruption to advanced topics like kernel exploitation, emphasizing a "learning by doing" approach to mastering offensive security techniques.
+pwn.college é uma plataforma educacional projetada para ensinar os fundamentos da segurança de computadores, com foco em exploração binária e vulnerabilidades de software de nível baixo. Ele oferece um currículo estruturado que combina laboratórios práticos com aulas interativas, permitindo aos usuários explorar intencionalmente inseguros programas em um ambiente seguro e controlado. A plataforma é construída para guiar os alunos dos conceitos básicos como corrupção básica de memória até tópicos avançados como exploração do kernel, enfatizando uma abordagem "aprendendo fazendo" para dominar técnicas ofensivas de segurança.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@pwn.college](https://pwn.college/)

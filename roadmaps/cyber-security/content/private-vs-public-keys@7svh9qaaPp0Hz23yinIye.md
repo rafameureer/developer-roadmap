@@ -1,8 +1,8 @@
-# Private vs Public Keys
+# Chave Privada vs Pública
 
-Private and public keys are fundamental components of modern cryptography. A private key is a secret, known only to the owner, used for encrypting data and creating digital signatures. A public key, mathematically related to the private key, can be shared openly and is used to decrypt messages encrypted with the corresponding private key or to verify digital signatures created with the private key. The security relies on the difficulty of deriving the private key from the public key.
+Chaves privadas e públicas são componentes fundamentais da criptografia moderna. Uma chave privada é um segredo, conhecido apenas pelo proprietário, usada para criptografar dados e criar assinaturas digitais. Uma chave pública, matematicamente relacionada à chave privada, pode ser compartilhada publicamente e é usada para descriptografar mensagens criptografadas com a chave privada correspondente ou para verificar assinaturas digitais criadas com a chave privada. A segurança depende da dificuldade de derivar a chave privada a partir da chave pública.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@SSH Keys Explained](https://www.sectigo.com/resource-library/what-is-an-ssh-key)
-- [@article@Public Key vs Private Key: How are they Different?](https://venafi.com/blog/what-difference-between-public-key-and-private-key/)
+- [@artigo@Chaves SSH Explicadas](https://www.sectigo.com/resource-library/what-is-an-ssh-key)
+- [@artigo@Diferença entre Chave Pública e Privada: Como Eles São Diferentes?](https://venafi.com/blog/what-difference-between-public-key-and-private-key/)

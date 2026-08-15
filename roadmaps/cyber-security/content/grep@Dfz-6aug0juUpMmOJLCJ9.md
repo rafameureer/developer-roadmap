@@ -1,8 +1,8 @@
 # grep
 
-Grep is a powerful command-line tool used for searching and filtering text, primarily in Unix-based systems. Short for "global regular expression print", grep is widely used for its ability to search through files and directories, and find lines that match a given pattern. It is particularly useful for incident response and discovery tasks, as it helps you identify specific occurrences of potentially malicious activities within large amounts of log data.
+Grep é uma poderosa ferramenta de linha de comando usada para buscar e filtrar texto, principalmente em sistemas baseados em Unix. Abreviado como "global regular expression print", o grep é amplamente utilizado por sua capacidade de pesquisar através de arquivos e diretórios e encontrar linhas que correspondem a um padrão dado. É particularmente útil para tarefas de resposta a incidentes e descoberta, pois ajuda você a identificar ocorrências específicas de atividades potencialmente maliciosas em grandes quantidades de dados de log.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@grep command in Linux](https://www.digitalocean.com/community/tutorials/grep-command-in-linux-unix)
-- [@video@The grep command](https://www.youtube.com/watch?v=Tc_jntovCM0)
+- [@article@Comando grep no Linux](https://www.digitalocean.com/community/tutorials/grep-command-in-linux-unix)
+- [@video@O comando grep](https://www.youtube.com/watch?v=Tc_jntovCM0)

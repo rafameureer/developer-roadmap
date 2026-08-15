@@ -1,9 +1,9 @@
 # JavaScript
 
-JavaScript (often abbreviated as JS) is a widely-used, high-level programming language. It is predominantly used for creating and enhancing the interactive elements of web pages, making it an integral part of the web development space. JavaScript was initially known as LiveScript and was created by Brendan Eich in 1995, but it later got renamed to JavaScript.
+JavaScript (geralmente abreviado como JS) é um linguagem de programação amplamente utilizada e de alto nível. É predominantemente usada para criar e melhorar os elementos interativos das páginas web, tornando-se uma parte integral do espaço de desenvolvimento web. JavaScript foi inicialmente conhecido como LiveScript e criado por Brendan Eich em 1995, mas mais tarde recebeu o nome de JavaScript.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit Dedicated JavaScript Roadmap](https://roadmap.sh/javascript)
-- [@article@What is JavaScript?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
-- [@video@100 JavaScript concepts you need to know](https://www.youtube.com/watch?v=lkIFF4maKMU)
+- [@roadmap@Visite a Rotação Específica de JavaScript](https://roadmap.sh/javascript)
+- [@article@O que é JavaScript?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
+- [@video@100 Conceitos de JavaScript que você precisa saber](https://www.youtube.com/watch?v=lkIFF4maKMU)

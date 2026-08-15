@@ -1,8 +1,8 @@
-# Privilege escalation
+# Escalada de Privilegios
 
-Privilege escalation is a technique where an attacker increases their access level within a system, moving from lower to higher permissions, such as from a standard user to an administrator. This can be achieved by exploiting system vulnerabilities, misconfigurations, or security weaknesses. It is critical to implement strong access controls, adhere to the principle of least privilege, and regularly update and patch systems to defend against such attacks.
+A escalada de privilégios é uma técnica onde um atacante aumenta seu nível de acesso em um sistema, passando de permissões mais baixas para mais altas, como de um usuário padrão a um administrador. Isso pode ser alcançado explotando vulnerabilidades do sistema, configurações incorretas ou fraquezas de segurança. É crucial implementar controles de acesso fortes, seguir o princípio da menor privilégio e atualizar regularmente e parchear sistemas para se defender contra tais ataques.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Privilege Escalation?](https://www.crowdstrike.com/cybersecurity-101/privilege-escalation/)
-- [@video@Privilege Escalation](https://www.youtube.com/watch?v=ksjU3Iu195Q)
+- [@artigo@O que é Escalada de Privilegios?](https://www.crowdstrike.com/cybersecurity-101/privilege-escalation/)
+- [@vídeo@Escalada de Privilegios](https://www.youtube.com/watch?v=ksjU3Iu195Q)

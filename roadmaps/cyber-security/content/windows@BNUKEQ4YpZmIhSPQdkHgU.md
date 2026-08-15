@@ -1,9 +1,9 @@
 # Windows
 
-Windows is Microsoft's widely-used operating system for personal computers and servers. It provides a graphical user interface, multitasking capabilities, and supports a vast array of software applications and hardware devices. Windows offers features like file management, user account control, built-in security tools, and regular updates. It comes in various editions for different use cases, from home computing to enterprise environments. Windows integrates with Microsoft's cloud services and includes tools for productivity, gaming, and system management. Its widespread adoption makes it a primary target for both software developers and cybersecurity threats, necessitating regular security updates and patches.
+Windows é o sistema operacional amplamente utilizado pela Microsoft para computadores pessoais e servidores. Ele fornece uma interface gráfica do usuário, capacidades de multitarefa e suporte a uma vasta gama de aplicativos de software e dispositivos de hardware. Windows oferece recursos como gerenciamento de arquivos, controle de conta de usuário, ferramentas de segurança integradas e atualizações regulares. Ele vem em várias edições para diferentes casos de uso, desde computação doméstica até ambientes empresariais. O Windows integra-se com os serviços da nuvem da Microsoft e inclui ferramentas para produtividade, jogos e gerenciamento do sistema. Sua ampla adoção o torna uma meta principal tanto para desenvolvedores de software quanto para ameaças de segurança cibernética, exigindo atualizações e patches de segurança regulares.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Windows Security](https://learn.microsoft.com/en-us/windows/security/)
-- [@video@Windows 11 Full Tutorial - A 2 Hour Course to Learn and Master Windows 11](https://www.youtube.com/watch?v=UKn-r3X2CLk)
-- [@feed@Explore top posts about Windows](https://app.daily.dev/tags/windows?ref=roadmapsh)
+- [@oficial@Segurança do Windows](https://learn.microsoft.com/en-us/windows/security/)
+- [@vídeo@Curso Completo sobre o Windows 11 - Um Curso de 2 Horas para Aprender e Dominar o Windows 11](https://www.youtube.com/watch?v=UKn-r3X2CLk)
+- [@feed@Explore os melhores posts sobre Windows](https://app.daily.dev/tags/windows?ref=roadmapsh)

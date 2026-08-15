@@ -1,8 +1,8 @@
-# subnet mask
+# Máscara de Sub-rede
 
-A subnet mask is a 32-bit number used in IP networking to divide an IP address into network and host portions. It determines which part of an IP address refers to the network and which part refers to the host. Subnet masks enable network administrators to create subnetworks, improving network efficiency and security by controlling traffic flow between subnets. Common subnet masks include 255.255.255.0 (for a /24 network) and 255.255.0.0 (for a /16 network). Subnetting helps in efficient IP address allocation, reduces broadcast traffic, and enhances network performance. Understanding subnet masks is crucial for network configuration, troubleshooting, and implementing effective network segmentation strategies.
+A máscara de sub-rede é um número de 32 bits usado em redes IP para dividir um endereço IP em partes de rede e host. Ela determina qual parte do endereço IP se refere à rede e qual parte ao host. As máscaras de sub-rede permitem que administradores de rede criem sub-redes, melhorando a eficiência e segurança da rede controlando o fluxo de tráfego entre as sub-redes. Máscaras comuns de sub-rede incluem 255.255.255.0 (para uma rede /24) e 255.255.0.0 (para uma rede /16). A segmentação de sub-rede ajuda na alocação eficiente de endereços IP, reduzindo o tráfego de broadcast e melhorando o desempenho da rede. Entender máscaras de sub-rede é crucial para a configuração de redes, soluções de diagnóstico e implementação de estratégias de segmentação de rede eficazes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What Is a Subnet Mask?](https://www.spiceworks.com/tech/networking/articles/what-is-subnet-mask/)
-- [@video@What is a subnet mask?](https://www.youtube.com/watch?v=s_Ntt6eTn94)
+- [@artigo@O que é uma Máscara de Sub-rede?](https://www.spiceworks.com/tech/networking/articles/what-is-subnet-mask/)
+- [@vídeo@O que é uma Máscara de Sub-rede?](https://www.youtube.com/watch?v=s_Ntt6eTn94)

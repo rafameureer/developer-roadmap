@@ -1,8 +1,8 @@
-# Event Logs
+# Logs de Eventos
 
-Event logs are records of activities that occur within a computer system or network. These logs capture various events, such as system startups and shutdowns, application errors, security alerts, and user login/logout activities. They provide a chronological history of these occurrences, offering valuable insights into the system's operational status and potential security incidents.
+Os logs de eventos são registros das atividades que ocorrem em um sistema de computador ou rede. Esses logs capturam várias eventos, como inícios e encerramentos do sistema, erros de aplicativos, alertas de segurança e atividades de login/logout dos usuários. Eles fornecem uma história cronológica dessas ocorrências, oferecendo insights valiosos sobre o status operacional do sistema e incidentes potenciais de segurança.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is an Event Log?](https://www.crowdstrike.com/cybersecurity-101/observability/event-log/)
-- [@article@What are event logs and why do they matter?](https://www.blumira.com/blog/what-are-event-logs-and-why-do-they-matter)
+- [@article@O que é um log de evento?](https://www.crowdstrike.com/cybersecurity-101/observability/event-log/)
+- [@article@O que são logs de eventos e por que eles importam?](https://www.blumira.com/blog/what-are-event-logs-and-why-do-they-matter)

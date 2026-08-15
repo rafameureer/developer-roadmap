@@ -1,10 +1,10 @@
-# Infrastructure as Code
+# Infraestrutura como Código
 
-Infrastructure as Code (IaC) is the practice of managing and provisioning computing infrastructure through machine-readable definition files, rather than physical hardware configuration or interactive configuration tools. Think of it as writing code to define and deploy your servers, networks, and other infrastructure components in a consistent and repeatable manner. This approach enables version control, automation, and faster deployments compared to traditional manual processes.
+Infraestrutura como Código (IaC) é a prática de gerenciar e fornecer infraestrutura de computação através de arquivos de definição legíveis por máquina, em vez de configurações físicas de hardware ou ferramentas de configuração interativas. Imagine escrever código para definir e implantar seus servidores, redes e outros componentes de infraestrutura de forma consistente e repetitiva. Esse abordagem permite o controle de versão, automação e implantações mais rápidas em comparação com processos manuais tradicionais.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit Dedicated Terraform Roadmap](https://roadmap.sh/terraform)
-- [@roadmap@Visit Dedicated AWS Roadmap](https://roadmap.sh/aws)
-- [@article@What is Infrastructure as Code? - IaC Explained - AWS](https://aws.amazon.com/what-is/iac/)
-- [@article@What is infrastructure as code (IaC)? - Azure DevOps](https://learn.microsoft.com/en-us/devops/deliver/what-is-infrastructure-as-code)
+- [@roadmap@Visite a Roadmap dedicada ao Terraform](https://roadmap.sh/terraform)
+- [@roadmap@Visite a Roadmap dedicada ao AWS](https://roadmap.sh/aws)
+- [@article@O que é Infraestrutura como Código? - IaC Explained - AWS](https://aws.amazon.com/what-is/iac/)
+- [@article@O que é infraestrutura como código (IaC)? - Azure DevOps](https://learn.microsoft.com/en-us/devops/deliver/what-is-infrastructure-as-code)

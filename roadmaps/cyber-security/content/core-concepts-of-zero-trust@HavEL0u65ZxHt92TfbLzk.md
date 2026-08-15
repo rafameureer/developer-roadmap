@@ -1,8 +1,8 @@
-# Zero Trust
+# Conceitos Básicos do Zero Trust
 
-Zero Trust is a security framework based on the principle of "never trust, always verify." Instead of assuming that users or devices inside a network are automatically trustworthy, Zero Trust mandates that every user, device, and network flow is authenticated and authorized before being granted access to resources. This model minimizes the blast radius of a potential security breach by segmenting access and continuously validating security posture.
+O Zero Trust é um quadro de segurança baseado no princípio "nunca confiar, sempre verificar". Em vez de assumir que usuários ou dispositivos dentro de uma rede são automaticamente confiáveis, o Zero Trust exige que todos os usuários, dispositivos e fluxos de rede sejam autenticados e autorizados antes de serem concedidos acesso a recursos. Esse modelo minimiza o alcance da explosão potencial de um vazamento de segurança ao segmentar o acesso e validar continuamente a postura de segurança.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is a Zero Trust Network?](https://www.cloudflare.com/en-gb/learning/security/glossary/what-is-zero-trust/)
-- [@video@Zero Trust Explained in 4 minutes](https://www.youtube.com/watch?v=yn6CPQ9RioA)
+- [@artigo@O que é uma Rede Zero Trust?](https://www.cloudflare.com/en-gb/learning/security/glossary/what-is-zero-trust/)
+- [@vídeo@Zero Trust Explicado em 4 minutos](https://www.youtube.com/watch?v=yn6CPQ9RioA)

@@ -1,8 +1,8 @@
 # Honeypots
 
-A honeypot is a decoy system or resource designed to attract and trap potential attackers. It mimics a real target, such as a server or application, but contains fabricated vulnerabilities. By monitoring the honeypot, security professionals can gather information about attacker techniques, motives, and tools, without putting genuine systems at risk. This information can then be used to improve overall security posture and incident response capabilities.
+Um honeypot é um sistema ou recurso falso projetado para atrair e capturar potenciais atacantes. Ele simula uma meta-alvo real, como um servidor ou aplicativo, mas contém vulnerabilidades fictícias. Ao monitorar o honeypot, profissionais de segurança podem coletar informações sobre as técnicas, motivações e ferramentas dos atacantes, sem colocar sistemas reais em risco. Essa informação pode então ser usada para melhorar a postura geral de segurança e as capacidades de resposta a incidentes.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@article@How Honeypots help security](https://www.kaspersky.com/resource-center/threats/what-is-a-honeypot)
-- [@video@What is a Honeypot?](https://www.youtube.com/watch?v=FtR9sFJlkSA)
+- [@article@Como os honeypots ajudam na segurança](https://www.kaspersky.com/resource-center/threats/what-is-a-honeypot)
+- [@video@O que é um Honeypot?](https://www.youtube.com/watch?v=FtR9sFJlkSA)

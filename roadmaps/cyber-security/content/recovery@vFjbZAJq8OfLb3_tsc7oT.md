@@ -1,8 +1,8 @@
-# Recovery
+# Recuperação
 
-The recovery phase of incident response focuses on restoring affected systems and services to normal operation, which involves repairing systems, recovering data from backups, validating functionality, and communicating with stakeholders. This phase also includes conducting a post-incident review to document lessons learned and update response plans to improve future preparedness. The aim is to minimize downtime, ensure data integrity, and return to normal operations efficiently.
+A fase de recuperação da resposta a incidentes se concentra em restaurar os sistemas e serviços afetados para o funcionamento normal, envolvendo reparos nos sistemas, recuperação de dados dos backups, validação da funcionalidade e comunicação com os interessados. Esta fase também inclui uma revisão pós-incidente para documentar as lições aprendidas e atualizar os planos de resposta para melhorar a preparação futura. O objetivo é minimizar o tempo de inatividade, garantir a integridade dos dados e retornar ao funcionamento normal de forma eficiente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Incident Response Plan: Framework and Steps](https://www.crowdstrike.com/cybersecurity-101/incident-response/incident-response-steps/)
-- [@video@Incident Response Process](https://www.youtube.com/watch?v=fU_w8Ou9RVg)
+- [@artigo@Plano de Resposta a Incidentes: Estrutura e Passos](https://www.crowdstrike.com/cybersecurity-101/incident-response/incident-response-steps/)
+- [@vídeo@Processo de Resposta a Incidentes](https://www.youtube.com/watch?v=fU_w8Ou9RVg)

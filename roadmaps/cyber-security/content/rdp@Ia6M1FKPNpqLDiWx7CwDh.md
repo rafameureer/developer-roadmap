@@ -1,8 +1,8 @@
 # RDP
 
-**Remote Desktop Protocol (RDP)** is a Microsoft-developed protocol that enables users to remotely access and control a computer over a network. It allows users to interact with a remote desktop environment as if they were sitting in front of the computer, providing access to applications, files, and network resources. RDP is commonly used for remote administration, technical support, and remote work. It operates over TCP port 3389 and supports encryption for secure data transmission, though proper security measures, like strong passwords and multi-factor authentication, are essential to prevent unauthorized access.
+**Protocolo de Área de Trabalho Remota (RDP)** é um protocolo desenvolvido pela Microsoft que permite aos usuários acessar e controlar remotamente um computador em uma rede. Ele permite que os usuários interajam com um ambiente de área de trabalho remota como se estivessem sentados diante do computador, fornecendo acesso a aplicativos, arquivos e recursos de rede. O RDP é comumente usado para administração remota, suporte técnico e trabalho remoto. Ele opera sobre o porto TCP 3389 e suporta criptografia para a transmissão segura dos dados, embora medidas de segurança adequadas, como senhas fortes e autenticação multifator, sejam essenciais para prevenir acesso não autorizado.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is the Remote Desktop Protocol (RDP)?](https://www.cloudflare.com/en-gb/learning/access-management/what-is-the-remote-desktop-protocol/)
-- [@video@What is RDP and how to use it?](https://www.youtube.com/watch?v=flPnBSz-lqw)
+- [@artigo@O que é o Protocolo de Área de Trabalho Remota (RDP)?](https://www.cloudflare.com/en-gb/learning/access-management/what-is-the-remote-desktop-protocol/)
+- [@vídeo@O que é RDP e como usá-lo?](https://www.youtube.com/watch?v=flPnBSz-lqw)

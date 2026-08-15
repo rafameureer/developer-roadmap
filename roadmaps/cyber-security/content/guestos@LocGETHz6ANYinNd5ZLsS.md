@@ -1,8 +1,8 @@
-# Guest Operating Systems
+# Sistemas Operacionais de Convidados
 
-A Guest Operating System (GuestOS) is an operating system installed within a virtual machine. Think of it as an operating system running inside another operating system (the host). This allows you to run multiple operating systems on a single physical machine, each isolated from the others. This isolation provides a contained environment for software, allowing for testing, development, and running applications in different environments simultaneously.
+Um Sistema Operacional de Convidado (GuestOS) é um sistema operacional instalado dentro de uma máquina virtual. Imagine-o como um sistema operacional em execução dentro de outro sistema operacional (o host). Isso permite que você execute vários sistemas operacionais em uma única máquina física, cada um isolado dos outros. Esta isolamento fornece um ambiente contido para software, permitindo testes, desenvolvimento e a execução de aplicativos em diferentes ambientes simultaneamente.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para saber mais:
 
-- [@article@What is a Guest Operating System?](https://www.techtarget.com/searchitoperations/definition/guest-OS-guest-operating-system)
-- [@article@Guest Operating System](https://nordvpn.com/cybersecurity/glossary/guest-operating-system/?srsltid=AfmBOop0L-VFCtuYvEBQgHy7dCIa3sfzNVa-Zn6l0SniAYDpftfOgH7N)
+- [@artigo@O que é um Sistema Operacional de Convidado?](https://www.techtarget.com/searchitoperations/definition/guest-OS-guest-operating-system)
+- [@artigo@Sistema Operacional de Convidado](https://nordvpn.com/cybersecurity/glossary/guest-operating-system/?srsltid=AfmBOop0L-VFCtuYvEBQgHy7dCIa3sfzNVa-Zn6l0SniAYDpftfOgH7N)

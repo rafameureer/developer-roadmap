@@ -1,8 +1,8 @@
-# curl
+# cURL
 
-cURL is a versatile command-line tool primarily used for transferring data using various network protocols. It is widely used in cybersecurity and development for the purpose of testing and interacting with web services, APIs, and scrutinizing web application security. Curl supports various protocols such as HTTP, HTTPS, FTP, SCP, SFTP, and many more.
+cURL é uma ferramenta de linha de comando versátil principalmente usada para transferir dados usando vários protocolos de rede. É amplamente usado na segurança da informação e no desenvolvimento para fins de teste e interação com serviços web, APIs e análise de segurança de aplicativos web. Curl suporta diversos protocolos como HTTP, HTTPS, FTP, SCP, SFTP e muitos outros.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is the cURL command?](https://blog.hubspot.com/website/curl-command)
-- [@video@You need to know how to use cURL](https://www.youtube.com/watch?v=q2sqkvXzsw8)
+- [@artigo@O que é o comando cURL?](https://blog.hubspot.com/website/curl-command)
+- [@vídeo@Você precisa saber como usar o cURL](https://www.youtube.com/watch?v=q2sqkvXzsw8)

@@ -1,8 +1,8 @@
-# Protocol Analyzers
+# Analisadores de Protocolos
 
-**Protocol analyzers**, also known as network analyzers or packet sniffers, are tools used to capture, inspect, and analyze network traffic. They help diagnose network issues, troubleshoot performance problems, and ensure security by providing detailed insights into the data packets transmitted across a network. Protocol analyzers decode and display various network protocols, such as TCP/IP, HTTP, and DNS, allowing users to understand communication patterns, detect anomalies, and identify potential vulnerabilities. Popular examples include Wireshark and tcpdump.
+**Analisadores de protocolos**, também conhecidos como analisadores de rede ou capturadores de pacotes, são ferramentas usadas para capturar, inspecionar e analisar o tráfego de rede. Eles ajudam a diagnosticar problemas de rede, resolver problemas de desempenho e garantir a segurança fornecendo detalhes sobre os pacotes de dados transmitidos em uma rede. Analisadores de protocolos decodificam e exibem vários protocolos de rede, como TCP/IP, HTTP e DNS, permitindo aos usuários entender padrões de comunicação, detectar anomalias e identificar vulnerabilidades potenciais. Exemplos populares incluem Wireshark e tcpdump.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is a Protocol Analyzer?](https://www.liveaction.com/glossary/protocol-analyzer/)
-- [@video@Protocol Analyzers](https://www.youtube.com/watch?v=hTMhlB-o0Ow)
+- [@article@O que é um Analisador de Protocolos?](https://www.liveaction.com/glossary/protocol-analyzer/)
+- [@video@Analisadores de Protocolos](https://www.youtube.com/watch?v=hTMhlB-o0Ow)

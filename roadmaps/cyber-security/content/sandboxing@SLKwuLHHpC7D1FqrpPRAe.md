@@ -1,8 +1,8 @@
-# Sandboxing
+# Isolamento (Sandboxing)
 
-Sandboxing is a security technique where a program or code is isolated in a controlled environment, or "sandbox," to prevent it from affecting other parts of the system. This isolation allows suspicious or untrusted code, such as software, scripts, or files, to be executed and analyzed safely without risking harm to the host system. Sandboxing is commonly used to detect malware or test potentially harmful applications in cybersecurity.
+O isolamento é uma técnica de segurança que envolve a separação de um programa ou código em um ambiente controlado, chamado "sandbox", para prevenir qualquer impacto no restante do sistema. Essa isolamento permite que códigos suspeitos ou não confiáveis, como software, scripts ou arquivos, sejam executados e analisados de forma segura, sem risco de danificar o sistema anfitrião. O isolamento é amplamente utilizado para detectar malware ou testar potencialmente aplicativos perigosos na segurança cibernética.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Sandboxing?](https://www.checkpoint.com/cyber-hub/threat-prevention/what-is-sandboxing/)
-- [@video@Sandboxing in under 4 minutes](https://www.youtube.com/watch?v=kn32PHG2wcU)
+- [@artigo@O que é Isolamento?](https://www.checkpoint.com/cyber-hub/threat-prevention/what-is-sandboxing/)
+- [@vídeo@Isolamento em menos de 4 minutos](https://www.youtube.com/watch?v=kn32PHG2wcU)

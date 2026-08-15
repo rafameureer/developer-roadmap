@@ -1,8 +1,8 @@
-# Understanding Risk in Cybersecurity
+# Entendendo o Risco na Segurança Cibernética
 
-Risk, at its core, stems from the interplay of three components: a threat, a vulnerability, and the potential impact. A _threat_ represents any actor or event with the potential to harm an asset. A _vulnerability_ is a weakness or gap in security controls that a threat can exploit. The _impact_ reflects the potential damage or loss that would occur if the threat successfully exploits the vulnerability. Analyzing these three aspects together allows us to quantify and manage risk effectively.
+O risco, no seu núcleo, surge da interação de três componentes: uma ameaça, uma vulnerabilidade e o potencial impacto. Uma _ameaça_ representa qualquer ator ou evento com a capacidade de danificar um ativo. Uma _vulnerabilidade_ é uma fraqueza ou lacuna nos controles de segurança que uma ameaça pode explorar. O _impacto_ reflete o potencial dano ou perda que ocorreria se a ameaça conseguisse explorar com sucesso a vulnerabilidade. Analisar esses três aspectos juntos permite quantificar e gerenciar riscos de forma eficaz.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Cybersecurity Risk?](https://securityscorecard.com/blog/what-is-cybersecurity-risk-factors-to-consider/)
-- [@video@Risk Analysis - Know Your Threat Tolerance](https://www.youtube.com/watch?v=xt_Cdtvjbd4)
+- [@artigo@O que é Risco na Segurança Cibernética?](https://securityscorecard.com/blog/what-is-cybersecurity-risk-factors-to-consider/)
+- [@vídeo@Análise de Riscos - Conheça sua Tolerância a Ameaças](https://www.youtube.com/watch?v=xt_Cdtvjbd4)

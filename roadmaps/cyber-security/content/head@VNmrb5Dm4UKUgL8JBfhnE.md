@@ -1,8 +1,8 @@
 # head
 
-`head` is a versatile command-line utility that enables users to display the first few lines of a text file; by default, it shows the first 10 lines. In the case of incident response and cybersecurity, it is a useful tool to quickly analyze logs or configuration files while investigating potential security breaches or malware infections in a system.
+O comando `head` é uma ferramenta de linha de comando versátil que permite aos usuários exibir as primeiras linhas de um arquivo de texto; por padrão, ele mostra as 10 primeiras linhas. No caso da resposta a incidentes e segurança cibernética, é uma ferramenta útil para analisar rapidamente logs ou arquivos de configuração enquanto investiga potenciais violações de segurança ou infecções por malware em um sistema.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@article@The Head and Tail commands in Linux](https://www.baeldung.com/linux/head-tail-commands)
-- [@video@Head and Tail commands](https://www.youtube.com/watch?v=5EqL6Fc7NNw)
+- [@article@Os comandos head e tail no Linux](https://www.baeldung.com/linux/head-tail-commands)
+- [@video@Comandos head e tail](https://www.youtube.com/watch?v=5EqL6Fc7NNw)

@@ -1,8 +1,8 @@
 # RADIUS
 
-**Remote Authentication Dial-In User Service (RADIUS)** is a network protocol that provides centralized Authentication, Authorization, and Accounting (AAA) management for users who connect to and use a network service. It is commonly used for managing access to network resources such as VPNs, Wi-Fi, and dial-up services. RADIUS servers validate user credentials, enforce access policies, and log user activities. It operates over UDP ports 1812 (authentication) and 1813 (accounting), and supports encryption for securely transmitting user credentials and data.
+**Protocolo de Autenticação, Autorização e Contabilidade Remota (RADIUS)** é um protocolo de rede que fornece a gestão centralizada de autenticação, autorização e contabilidade (AAA) para usuários que se conectam e usam um serviço de rede. Ele é comumente usado para gerenciar o acesso a recursos de rede como VPNs, Wi-Fi e serviços de ligação direta. Servidores RADIUS validam as credenciais do usuário, aplicam políticas de acesso e registram atividades dos usuários. Ele opera sobre os portos UDP 1812 (autenticação) e 1813 (contabilidade), e suporta criptografia para a transmissão segura das credenciais do usuário e dos dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@RADIUS (Remote Authentication Dial-In User Service)](https://www.techtarget.com/searchsecurity/definition/RADIUS)
-- [@video@How RADIUS Authentication Works](https://www.youtube.com/watch?v=LLrb3em-_po)
+- [@artigo@RADIUS (Protocolo de Autenticação, Autorização e Contabilidade Remota)](https://www.techtarget.com/searchsecurity/definition/RADIUS)
+- [@vídeo@Como funciona a autenticação RADIUS](https://www.youtube.com/watch?v=LLrb3em-_po)

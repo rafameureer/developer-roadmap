@@ -1,9 +1,9 @@
 # Azure
 
-Azure is Microsoft's comprehensive cloud computing platform that offers a wide range of services for building, deploying, and managing applications. It provides infrastructure as a service (IaaS), platform as a service (PaaS), and software as a service (SaaS) solutions, supporting various programming languages, tools, and frameworks. Azure's services include virtual machines, storage, databases, AI and machine learning, IoT, and more. It offers global data center coverage, integrated DevOps tools, and robust security features, making it a versatile platform for businesses of all sizes to innovate, scale, and transform their operations in the cloud.
+Azure é a plataforma de computação em nuvem abrangente da Microsoft que oferece uma ampla gama de serviços para construir, implantar e gerenciar aplicativos. Ele fornece soluções de infraestrutura como serviço (IaaS), plataforma como serviço (PaaS) e software como serviço (SaaS), suportando várias linguagens de programação, ferramentas e estruturas de desenvolvimento. Os serviços do Azure incluem máquinas virtuais, armazenamento, bancos de dados, IA e aprendizado de máquina, IoT e muito mais. Ele oferece cobertura global de centros de dados, ferramentas DevOps integradas e recursos de segurança robustos, tornando-se uma plataforma versátil para negócios de todos os tamanhos para inovar, escalar e transformar suas operações na nuvem.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Azure](https://azure.microsoft.com)
-- [@video@Azure DevOps Tutorial for Beginners](https://www.youtube.com/watch?v=4BibQ69MD8c)
-- [@feed@daily.dev Azure Feed](https://app.daily.dev/tags/azure)
+- [@video@Tutorial Inicial do Azure DevOps](https://www.youtube.com/watch?v=4BibQ69MD8c)
+- [@feed@daily.dev Feed Azure](https://app.daily.dev/tags/azure)

@@ -1,7 +1,7 @@
-# Local Authentication
+# Autenticação Local
 
-Local authentication is the process of verifying a user's identity directly against a database or security mechanism housed on the same system or network they are trying to access. This typically involves checking credentials, like usernames and passwords, against locally stored information to grant or deny access to resources. It contrasts with methods that rely on external authentication servers or services.
+A autenticação local é o processo de verificar a identidade do usuário diretamente contra um banco de dados ou mecanismo de segurança armazenados na mesma máquina ou rede que está tentando acessá-la. Isso geralmente envolve verificar credenciais, como nomes de usuários e senhas, em relação às informações armazenadas localmente para conceder ou negar acesso a recursos. Contrasta com métodos que dependem de servidores ou serviços de autenticação externos.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@article@Local authentication, registration, and other settings](https://learn.microsoft.com/en-us/power-pages/security/authentication/set-authentication-identity)
+- [@article@Autenticação local, registro e outras configurações](https://learn.microsoft.com/en-us/power-pages/security/authentication/set-authentication-identity)

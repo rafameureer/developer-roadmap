@@ -1,7 +1,7 @@
-# Man-in-the-middle attack
+# Ataque Man-in-the-Middle (MITM)
 
-A Man-in-the-Middle (MITM) attack occurs when a malicious actor intercepts communication between two parties, such as a user and a website, without their knowledge. The attacker can eavesdrop, alter, or inject false information into the communication, often to steal sensitive data like login credentials or manipulate transactions. MITM attacks are commonly executed through compromised Wi-Fi networks or by exploiting security vulnerabilities in protocols.
+Um ataque Man-in-the-Middle (MITM) ocorre quando um agente malicioso intercepta a comunicação entre duas partes, como um usuário e um site, sem seu conhecimento. O atacante pode escutar, alterar ou injetar informações falsas na comunicação, geralmente para roubar dados sensíveis como credenciais de login ou manipular transações. Ataques MITM são comumente executados através de redes Wi-Fi comprometidas ou ao explotar vulnerabilidades de segurança em protocolos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Man-in-the-middle attack](https://en.wikipedia.org/wiki/Man-in-the-middle_attack)
+- [@artigo@Ataque Man-in-the-Middle](https://en.wikipedia.org/wiki/Man-in-the-middle_attack)

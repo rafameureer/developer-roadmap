@@ -1,8 +1,8 @@
 # IPsec
 
-IPsec (Internet Protocol Security) is a suite of protocols used to secure Internet Protocol (IP) communications by authenticating and encrypting each IP packet of a communication session. It operates at the network layer, providing security for all applications running over it. IPsec can be used to create Virtual Private Networks (VPNs) or to secure remote access connections, ensuring data confidentiality, integrity, and authentication between devices.
+IPsec (Internet Protocol Security) é uma suite de protocolos usados para proteger as comunicações do Protocolo Internet (IP) autenticando e criptografando cada pacote IP de uma sessão de comunicação. Ele opera na camada de rede, fornecendo segurança para todos os aplicativos em execução sobre ela. O IPsec pode ser usado para criar Redes Virtuais Privadas (VPNs) ou para proteger conexões de acesso remoto, garantindo a confidencialidade, integridade e autenticação dos dados entre dispositivos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is IPSec?](https://www.cloudflare.com/en-gb/learning/network-layer/what-is-ipsec/)
-- [@video@IP Sec VPN Fundamentals](https://www.youtube.com/watch?v=15amNny_kKI)
+- [@article@O que é IPsec?](https://www.cloudflare.com/en-gb/learning/network-layer/what-is-ipsec/)
+- [@video@Fundamentos de VPN IPsec](https://www.youtube.com/watch?v=15amNny_kKI)

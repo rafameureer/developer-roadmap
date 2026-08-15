@@ -1,8 +1,8 @@
-# Public Key Infrastructure (PKI)
+# Infraestrutura de Chave Pública (PKI)
 
-Public Key Infrastructure (PKI) is a system that uses digital certificates to verify and authenticate the identity of users, devices, and services. It relies on cryptographic keys – a public key for encrypting data and a corresponding private key for decrypting it. PKI establishes a trusted environment for secure electronic transactions and communication by managing digital certificates that bind a public key to an identity, ensuring that the communication is from a trusted party.
+A Infraestrutura de Chave Pública (PKI) é um sistema que usa certificados digitais para verificar e autenticar a identidade de usuários, dispositivos e serviços. Ela depende de chaves criptográficas – uma chave pública para encriptar dados e uma chave privada correspondente para desencriptá-los. A PKI estabelece um ambiente confiável para transações eletrônicas seguras e comunicação ao gerenciar certificados digitais que vinculam uma chave pública a uma identidade, garantindo que a comunicação seja de uma parte confiável.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is PKI?](https://cpl.thalesgroup.com/faq/public-key-infrastructure-pki/what-public-key-infrastructure-pki)
-- [@article@What Is Public Key Infrastructure (PKI) & How Does It Work?](https://www.okta.com/identity-101/public-key-infrastructure/)
+- [@artigo@O que é PKI?](https://cpl.thalesgroup.com/faq/public-key-infrastructure-pki/what-public-key-infrastructure-pki)
+- [@artigo@O que é a Infraestrutura de Chave Pública (PKI) e como ela funciona?](https://www.okta.com/identity-101/public-key-infrastructure/)

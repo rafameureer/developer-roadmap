@@ -1,8 +1,8 @@
 # Star
 
-A star network topology is a configuration where all devices (nodes) are connected directly to a central hub or switch. In this arrangement, each node has a dedicated point-to-point link to the central device, forming a star-like structure. This topology offers advantages such as easy installation and reconfiguration, centralized management, and fault isolation. If one connection fails, it doesn't affect others. However, the central hub is a single point of failure for the entire network. Star topologies are commonly used in local area networks (LANs) due to their reliability, scalability, and ease of maintenance, making them a popular choice in both small office and large enterprise environments.
+Uma topologia de rede em forma de estrela é uma configuração onde todos os dispositivos (nós) estão conectados diretamente a um hub ou switch central. Nessa disposição, cada nó tem um link ponto-a-ponto dedicado ao dispositivo central, formando uma estrutura de estrela. Esta topologia oferece vantagens como instalação e reconfiguração fáceis, gerenciamento centralizado e isolamento de falhas. Se uma conexão falhar, isso não afeta os outros. No entanto, o hub central é um único ponto de falha para toda a rede. Topologias em forma de estrela são comumente usadas em redes locais (LANs) devido à sua confiabilidade, escalabilidade e facilidade de manutenção, tornando-se uma escolha popular tanto em ambientes de escritórios pequenos quanto em grandes empresas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Star Topology](https://www.computerhope.com/jargon/s/startopo.htm)
-- [@video@Star Topology](https://www.youtube.com/watch?v=EQ3rW22-Py0)
+- [@artigo@Topologia Estrela](https://www.computerhope.com/jargon/s/startopo.htm)
+- [@vídeo@Topologia Estrela](https://www.youtube.com/watch?v=EQ3rW22-Py0)

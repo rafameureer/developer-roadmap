@@ -1,9 +1,9 @@
 # Go
 
-Go, also known as Golang, is an open-source programming language created by Google. Launched in 2009, it was designed to overcome issues present in other languages and offer a more secure, robust, and efficient development experience.
+Go, também conhecido como Golang, é um idioma de programação de código aberto criado pela Google. Lançado em 2009, foi projetado para superar problemas presentes em outras linguagens e oferecer uma experiência de desenvolvimento mais segura, robusta e eficiente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit Dedicated Go Roadmap](https://roadmap.sh/golang)
-- [@video@Go in 100 seconds](https://www.youtube.com/watch?v=446E-r0rXHI)
-- [@video@Go Tutorial for beginners](https://www.youtube.com/watch?v=yyUHQIec83I)
+- [@roadmap@Visite o Caminho do Go dedicado](https://roadmap.sh/golang)
+- [@video@Go em 100 segundos](https://www.youtube.com/watch?v=446E-r0rXHI)
+- [@video@Tutorial de Go para iniciantes](https://www.youtube.com/watch?v=yyUHQIec83I)

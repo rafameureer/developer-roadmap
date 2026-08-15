@@ -1,8 +1,8 @@
-# Roles of Compliance and Auditors
+# Papéis da Conformidade e Auditores
 
-Compliance and auditors ensure organizations adhere to internal policies, industry regulations, and legal requirements related to data security and privacy. They assess security controls, identify vulnerabilities, and verify that practices align with established standards like GDPR, HIPAA, or PCI DSS. Through regular audits and compliance checks, they help organizations maintain a strong security posture and avoid penalties or reputational damage.
+A conformidade e os auditores garantem que as organizações estejam em conformidade com políticas internas, regulamentos do setor e exigências legais relacionadas à segurança de dados e privacidade. Eles avaliam controles de segurança, identificam vulnerabilidades e verificam se práticas estão alinhadas com padrões estabelecidos como GDPR, HIPAA ou PCI DSS. Através de auditorias regulares e verificações de conformidade, eles ajudam as organizações a manter uma postura de segurança forte e evitar penalidades ou danos à reputação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is a Compliance Audit?](https://www.auditboard.com/blog/compliance-audit/)
-- [@article@Compliance Office and Internal Audit Roles and Responsibilities](https://www.compliance.com/resources/compliance-office-and-internal-audit-roles-and-responsibilities/)
+- [@artigo@O que é uma Auditoria de Conformidade?](https://www.auditboard.com/blog/compliance-audit/)
+- [@artigo@Papéis e Responsabilidades do Escritório de Conformidade e Auditores Internos](https://www.compliance.com/resources/compliance-office-and-internal-audit-roles-and-responsibilities/)

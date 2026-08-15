@@ -1,7 +1,7 @@
 # Handshakes
 
-A handshake is a digital "hello" between two systems, like your computer and a website's server, establishing a secure communication channel. It's a process where both sides exchange information to agree on things like encryption methods and session keys. Think of it as a secret agreement before any real conversation happens, ensuring that the data exchanged afterward is protected from eavesdropping or tampering. It verifies identities and sets up a secure connection before any sensitive data is transmitted.
+Um handshake é um "olá" digital entre dois sistemas, como seu computador e o servidor de um site, estabelecendo um canal de comunicação seguro. É um processo onde ambos os lados trocam informações para concordar em coisas como métodos de criptografia e chaves de sessão. Pense nele como um acordo secreto antes de qualquer conversa real acontecer, garantindo que os dados trocados posteriormente sejam protegidos contra escuta ou manipulação. Ele verifica identidades e configura uma conexão segura antes de qualquer dado sensível ser transmitido.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@video@TLS Handshake Explained](https://www.youtube.com/watch?v=86cQJ0MMses)

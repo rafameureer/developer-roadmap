@@ -1,8 +1,8 @@
-# Serverless Computing
+# Computação Sem Servidor
 
-Serverless computing is a cloud execution model where the cloud provider dynamically manages the allocation of machine resources. Instead of provisioning and managing servers, developers write and deploy code that is executed in response to specific events, like HTTP requests or database updates. The cloud provider then automatically scales the resources needed to run the code, and users are charged only for the actual compute time consumed.
+A computação sem servidor é um modelo de execução na nuvem onde o provedor de nuvem gerencia dinamicamente a alocação de recursos de máquina. Em vez de provisionar e gerenciar servidores, os desenvolvedores escrevem e implantam código que é executado em resposta a eventos específicos, como solicitações HTTP ou atualizações de banco de dados. O provedor de nuvem, então, escala automaticamente os recursos necessários para executar o código, e os usuários são cobrados apenas pelo tempo de computação real consumido.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Serverless Computing?](https://www.cloudflare.com/en-gb/learning/serverless/what-is-serverless/)
-- [@video@What is serverless?](https://www.youtube.com/watch?v=vxJobGtqKVM)
+- [@article@O que é Computação Sem Servidor?](https://www.cloudflare.com/en-gb/learning/serverless/what-is-serverless/)
+- [@video@O que é computação sem servidor?](https://www.youtube.com/watch?v=vxJobGtqKVM)

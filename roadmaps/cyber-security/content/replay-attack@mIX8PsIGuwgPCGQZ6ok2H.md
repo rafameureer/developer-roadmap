@@ -1,7 +1,7 @@
-# Replay Attack
+# Ataque de Reprodução
 
-A Replay Attack is a type of network attack where an attacker intercepts and retransmits legitimate communication data, often with the aim of gaining unauthorized access to a system or performing unauthorized actions. In this attack, the attacker captures a valid data transmission and then "replays" it later, without needing to decrypt or alter the data, to trick the recipient into thinking it's a legitimate request.
+Um Ataque de Reprodução é um tipo de ataque de rede onde um invasor intercepta e retransmite dados de comunicação legítimos, geralmente com o objetivo de obter acesso não autorizado a um sistema ou realizar ações não autorizadas. Neste ataque, o invasor captura uma transmissão de dados válida e então "reproduz" ela mais tarde, sem precisar descriptografar ou alterar os dados, para enganar o destinatário em que é uma solicitação legítima.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What Is a Replay Attack?](https://usa.kaspersky.com/resource-center/definitions/replay-attack)
+- [@artigo@O que é um Ataque de Reprodução?](https://usa.kaspersky.com/resource-center/definitions/replay-attack)

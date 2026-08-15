@@ -1,7 +1,7 @@
 # iCloud
 
-iCloud is Apple's cloud storage and cloud computing service. It allows users to store data like documents, photos, music, and contacts on remote servers and wirelessly synchronize it to their iOS, macOS, or Windows devices. iCloud also provides services like Find My (to locate lost devices) and Keychain (for password management), integrated directly into Apple's operating systems.
+iCloud é o serviço de armazenamento em nuvem e computação em nuvem da Apple. Ele permite que os usuários armazenem dados como documentos, fotos, música e contatos em servidores remotos e sincronizem-os wirelessmente com seus dispositivos iOS, macOS ou Windows. iCloud também fornece serviços como Find My (para localizar dispositivos perdidos) e Keychain (para gerenciamento de senhas), integrados diretamente aos sistemas operacionais da Apple.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@iCloud](https://www.icloud.com/)
+- [@oficial@iCloud](https://www.icloud.com/)

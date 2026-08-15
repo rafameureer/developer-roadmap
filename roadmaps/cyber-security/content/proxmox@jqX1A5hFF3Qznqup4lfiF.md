@@ -1,9 +1,9 @@
-# proxmox
+# Proxmox
 
-**Proxmox** is an open-source virtualization management platform that integrates both **Proxmox Virtual Environment (Proxmox VE)** and **Proxmox Mail Gateway**. Proxmox VE combines virtualization technologies, including KVM for virtual machines and LXC for lightweight containers, into a unified web-based interface for managing and deploying virtualized environments. It offers features such as high availability, storage management, and backup solutions. Proxmox Mail Gateway provides email security and anti-spam solutions, protecting email systems from threats. Proxmox is valued for its flexibility, cost-effectiveness, and comprehensive management capabilities.
+**Proxmox** é uma plataforma de gerenciamento de virtualização aberta-fonte que integra tanto **Proxmox Virtual Environment (Proxmox VE)** quanto **Proxmox Mail Gateway**. O Proxmox VE combina tecnologias de virtualização, incluindo KVM para máquinas virtuais e LXC para contêineres leves, em uma interface web unificada para gerenciar e implantar ambientes virtualizados. Ele oferece recursos como alta disponibilidade, gestão de armazenamento e soluções de backup. O Proxmox Mail Gateway fornece soluções de segurança e anti-spam para sistemas de email, protegendo-os contra ameaças. O Proxmox é valorizado por sua flexibilidade, eficiência econômica e capacidades de gerenciamento completas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Proxmox](https://www.proxmox.com/en/)
 - [@article@Proxmox Virtual Environment](https://en.wikipedia.org/wiki/Proxmox_Virtual_Environment)
-- [@video@What is Proxmox virtualization?](https://www.youtube.com/watch?v=GMAvmHEWAMU)
+- [@video@O que é a virtualização Proxmox?](https://www.youtube.com/watch?v=GMAvmHEWAMU)

@@ -1,8 +1,8 @@
-# Reconnaissance
+# Reconhecimento
 
-Reconnaissance is the first phase of a cyber-attack, during which attackers gather as much information as possible about a target system, network, or organization. The goal of reconnaissance is to identify potential vulnerabilities, entry points, and other valuable details that can be exploited in subsequent attack phases.
+O reconhecimento é a primeira fase de um ataque cibernético, durante o qual os invasores coletam o máximo possível de informações sobre um sistema-alvo, rede ou organização. O objetivo do reconhecimento é identificar vulnerabilidades potenciais, pontos de entrada e outras detalhes valiosos que podem ser explorados em fases posteriores do ataque.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Cyber Reconnaissance](https://www.sentinelone.com/cybersecurity-101/threat-intelligence/what-is-cyber-reconnaissance/)
-- [@article@What is Cybersecurity Reconnaissance?](https://cymulate.com/cybersecurity-glossary/cyber-reconnaissance/)
+- [@artigo@O que é o Reconhecimento Cibernético](https://www.sentinelone.com/cybersecurity-101/threat-intelligence/what-is-cyber-reconnaissance/)
+- [@artigo@O que é a Recuperação de Segurança Cibernética?](https://cymulate.com/cybersecurity-glossary/cyber-reconnaissance/)

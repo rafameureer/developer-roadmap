@@ -1,9 +1,9 @@
-# Cloud Security Concepts
+# Conceitos de Segurança na Nuvem
 
-Cloud security encompasses the policies, technologies, and controls used to protect data, applications, and infrastructure associated with cloud computing. It addresses the unique security challenges presented by shared resources, remote access, and the distributed nature of cloud environments. It aims to ensure the confidentiality, integrity, and availability of cloud-based assets.
+A segurança da nuvem abrange as políticas, tecnologias e controles usados para proteger dados, aplicativos e infraestrutura associada ao computação em nuvem. Ele aborda os desafios únicos de segurança apresentados por recursos compartilhados, acesso remoto e a natureza distribuída dos ambientes de nuvem. O objetivo é garantir a confidencialidade, integridade e disponibilidade dos ativos baseados na nuvem.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What Is Cloud Security? - Google Cloud](https://cloud.google.com/learn/what-is-cloud-security)
-- [@article@Cloud Security](https://www.checkpoint.com/cyber-hub/cloud-security/what-is-cloud-security/)
-- [@video@What is cloud security](https://www.youtube.com/watch?v=jI8IKpjiCSM)
+- [@article@O que é Segurança da Nuvem? - Google Cloud](https://cloud.google.com/learn/what-is-cloud-security)
+- [@article@Segurança da Nuvem](https://www.checkpoint.com/cyber-hub/cloud-security/what-is-cloud-security/)
+- [@video@O que é segurança na nuvem](https://www.youtube.com/watch?v=jI8IKpjiCSM)

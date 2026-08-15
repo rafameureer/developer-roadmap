@@ -1,8 +1,8 @@
-# Risk Management Framework (RMF)
+# Quadro de Gerenciamento de Riscos (RMF)
 
-The Risk Management Framework (RMF) is a structured, comprehensive process for managing security and privacy risk for information systems, organizations, and individuals. It provides a unified framework to identify, assess, and mitigate risks throughout the system development lifecycle. The RMF involves selecting security controls, implementing them, assessing their effectiveness, authorizing system operation, and continuously monitoring the implemented controls.
+O Quadro de Gerenciamento de Riscos (RMF) é um processo estruturado e abrangente para gerenciar riscos de segurança e privacidade em sistemas de informações, organizações e indivíduos. Ele fornece uma estrutura unificada para identificar, avaliar e mitigar riscos ao longo do ciclo de vida da implementação do sistema. O RMF envolve a seleção de controles de segurança, sua implementação, avaliação de sua eficácia, autorização da operação do sistema e monitoramento contínuo dos controles implementados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is the Risk Management Framework?](https://www.techtarget.com/searchcio/definition/Risk-Management-Framework-RMF)
-- [@video@RMF explained in 5 minutes](https://www.youtube.com/watch?v=X5yqPFp__rc)
+- [@artigo@O que é o Quadro de Gerenciamento de Riscos?](https://www.techtarget.com/searchcio/definition/Risk-Management-Framework-RMF)
+- [@vídeo@RMF explicado em 5 minutos](https://www.youtube.com/watch?v=X5yqPFp__rc)

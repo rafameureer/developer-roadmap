@@ -1,8 +1,8 @@
-# Patching
+# Atualização (Patching)
 
-**Patching** refers to the process of updating software or systems with fixes or improvements to address security vulnerabilities, bugs, or performance issues. This involves applying patches—small pieces of code provided by software vendors or developers—to close security gaps, resolve operational problems, and enhance functionality. Regular patching is crucial for maintaining system security and stability, protecting against exploits, and ensuring that systems remain compliant with security standards and best practices.
+**Atualização (Patching)** refere-se ao processo de atualizar softwares ou sistemas com correções ou melhorias para abordar vulnerabilidades de segurança, bugs ou problemas de desempenho. Isso envolve a aplicação de patches—pequenos trechos de código fornecidos por vendedores de software ou desenvolvedores—para fechar lacunas de segurança, resolver problemas operacionais e melhorar a funcionalidade. A atualização regular é crucial para manter a segurança e a estabilidade dos sistemas, protegê-los contra explorações e garantir que os sistemas permaneçam em conformidade com padrões e práticas de segurança.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Patch Management?](https://www.ibm.com/topics/patch-management)
-- [@video@What Is Patch Management, and Why Does Your Company Need It?](https://www.youtube.com/watch?v=O5XXlJear0w)
+- [@artigo@O que é Gerenciamento de Atualizações?](https://www.ibm.com/topics/patch-management)
+- [@vídeo@O que é Gerenciamento de Atualizações, e Por Que Sua Empresa Precisa dele?](https://www.youtube.com/watch?v=O5XXlJear0w)

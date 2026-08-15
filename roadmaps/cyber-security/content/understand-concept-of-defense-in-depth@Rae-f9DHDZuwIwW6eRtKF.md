@@ -1,8 +1,8 @@
-# Defense in Depth
+# Defesa em Profundidade
 
-Defense in Depth is a layered security strategy where multiple security controls are strategically placed throughout an IT environment. This approach ensures that if one security mechanism fails or is bypassed, others are in place to prevent a successful attack. Think of it like an onion: you have to peel through many layers before you get to the core.
+A Defesa em Profundidade é uma estratégia de segurança em camadas onde múltiplos controles de segurança são posicionados estratégicamente em todo o ambiente IT. Esse abordagem garante que se um mecanismo de segurança falhar ou for evadido, outros estão em vigor para prevenir um ataque bem-sucedido. Imagine como uma cebola: você precisa remover muitas camadas antes de chegar ao núcleo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Defense in Depth?](https://www.fortinet.com/resources/cyberglossary/defense-in-depth)
-- [@video@Defense-in-Depth - CompTIA Security+](https://www.youtube.com/watch?v=HLQ4wX8NxQY)
+- [@artigo@O que é Defesa em Profundidade?](https://www.fortinet.com/resources/cyberglossary/defense-in-depth)
+- [@vídeo@Defesa em Profundidade - CompTIA Security+](https://www.youtube.com/watch?v=HLQ4wX8NxQY)

@@ -1,7 +1,7 @@
 # SRTP
 
-Secure Real-time Transport Protocol (SRTP) is a security profile for RTP, the Real-time Transport Protocol. It adds encryption, authentication, and integrity protection to RTP data, ensuring that audio and video streams transmitted over a network are confidential and haven't been tampered with during transit. It also protects against replay attacks.
+Protocolo de Transporte em Tempo Real Seguro (SRTP) é um perfil de segurança para o RTP, o Protocolo de Transporte em Tempo Real. Ele adiciona criptografia, autenticação e proteção de integridade aos dados do RTP, garantindo que os fluxos de áudio e vídeo transmitidos por uma rede sejam confidenciais e não tenham sido alterados durante a transmissão. Também protege contra ataques de replay.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@SRTP (Secure RTP)](https://developer.mozilla.org/en-US/docs/Glossary/RTP)
+- [@artigo@SRTP (RTP Seguro)](https://developer.mozilla.org/en-US/docs/Glossary/RTP)

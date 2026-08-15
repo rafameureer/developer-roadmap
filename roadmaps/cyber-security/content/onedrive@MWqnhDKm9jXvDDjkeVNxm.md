@@ -1,8 +1,8 @@
 # OneDrive
 
-**OneDrive** is a cloud storage service provided by Microsoft that allows users to store, sync, and share files and folders online. It integrates seamlessly with Windows and Microsoft 365 applications, enabling users to access their data from any device with an internet connection. OneDrive offers features such as real-time collaboration, file versioning, and automatic backup, making it convenient for personal and professional use. It also provides options for sharing files with others and controlling access permissions, enhancing productivity and data management.
+**OneDrive** é um serviço de armazenamento em nuvem fornecido pela Microsoft que permite aos usuários armazenar, sincronizar e compartilhar arquivos e pastas online. Ele integra-se perfeitamente com o Windows e as aplicações do Microsoft 365, permitindo que os usuários acessem seus dados de qualquer dispositivo com conexão à internet. O OneDrive oferece recursos como colaboração em tempo real, versão de arquivos e backup automático, tornando-o conveniente para uso pessoal e profissional. Ele também fornece opções para compartilhar arquivos com outros e controlar permissões de acesso, aumentando a produtividade e o gerenciamento de dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Microsoft OneDrive](https://onedrive.live.com)
-- [@video@Microsoft OneDrive Tutorial](https://www.youtube.com/watch?v=qgw01w0iYjA)
+- [@oficial@Microsoft OneDrive](https://onedrive.live.com)
+- [@vídeo@Tutorial do Microsoft OneDrive](https://www.youtube.com/watch?v=qgw01w0iYjA)

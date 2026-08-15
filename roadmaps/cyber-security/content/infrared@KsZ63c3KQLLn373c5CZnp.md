@@ -1,8 +1,8 @@
-# Infrared
+# Infravermelho
 
-Infrared (IR) is a type of wireless communication technology that utilizes light waves in the electromagnetic spectrum to transmit data between devices. Infrared connections are widely used in short-range communication, commonly found in devices like remote controls, wireless keyboards and mice, and computer-to-printer communication.
+O infravermelho (IR) é um tipo de tecnologia de comunicação sem fio que utiliza ondas luminosas no espectro eletromagnético para transmitir dados entre dispositivos. Conexões infravermelhas são amplamente utilizadas em comunicações a curto alcance, comuns em dispositivos como controle remoto, teclado e mouse sem fio, e comunicação computador-impressora.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Infrared Definition](https://nordvpn.com/cybersecurity/glossary/infrared/?srsltid=AfmBOop7r5E41gRA5itc1NmwrS9qpjfiFnW6UKBwVLuu_MifaKdLHoTe)
-- [@article@Infrared](https://www.larksuite.com/en_us/topics/cybersecurity-glossary/infrared)
+- [@artigo@Definição de Infravermelho](https://nordvpn.com/cybersecurity/glossary/infrared/?srsltid=AfmBOop7r5E41gRA5itc1NmwrS9qpjfiFnW6UKBwVLuu_MifaKdLHoTe)
+- [@artigo@Infravermelho](https://www.larksuite.com/en_us/topics/cybersecurity-glossary/infrared)

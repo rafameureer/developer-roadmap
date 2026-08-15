@@ -1,8 +1,8 @@
-# Rogue Access Point
+# Ponto de Acesso Falso (Rogue AP)
 
-A Rogue Access Point (Rogue AP) is an unauthorized wireless access point installed on a secure network without the network administrator's knowledge or consent. These devices can be set up by malicious actors to intercept, steal, or manipulate network traffic, or by employees who unintentionally compromise network security by setting up their own wireless access points.
+Um Ponto de Acesso Falso (Rogue AP) é um ponto de acesso inautorizado à rede sem a conhecimento ou consentimento do administrador da rede. Esses dispositivos podem ser configurados por atores maliciosos para interceptar, roubar ou manipular o tráfego de rede, ou por funcionários que comprometem inadvertidamente a segurança da rede configurando seus próprios pontos de acesso à rede.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Rogue Access Points](https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:online-data-security/xcae6f4a7ff015e7d:cyber-attacks/a/rogue-access-points-mitm-attacks)
-- [@article@What is Rogue Access Point](https://pentescope.com/rogue-access-point-detection-and-prevention/)
+- [@artigo@Pontos de Acesso Falso](https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:online-data-security/xcae6f4a7ff015e7d:cyber-attacks/a/rogue-access-points-mitm-attacks)
+- [@artigo@O que é Ponto de Acesso Falso](https://pentescope.com/rogue-access-point-detection-and-prevention/)

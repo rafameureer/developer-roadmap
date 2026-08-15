@@ -1,8 +1,8 @@
 # memdump
 
-**memdump** is a tool or process used to capture the contents of a computer's physical memory (RAM) for analysis. This "memory dump" can be useful in digital forensics, debugging, or incident response to identify active processes, open files, network connections, or potentially malicious code running in memory. By analyzing a memory dump, security professionals can investigate malware, recover encryption keys, or gather evidence in case of a breach. Tools like `memdump` (Linux utility) or `DumpIt` (Windows) are commonly used to perform this process.
+**memdump** é uma ferramenta ou processo usado para capturar o conteúdo da memória física (RAM) de um computador para análise. Esse "capturamento de memória" pode ser útil em forenses digitais, depuração ou resposta a incidentes para identificar processos ativos, arquivos abertos, conexões de rede ou código malicioso em execução na memória. Ao analisar um capturamento de memória, profissionais de segurança podem investigar malware, recuperar chaves de criptografia ou coletar evidências em caso de violação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@memdump](https://www.kali.org/tools/memdump/)
+- [@oficial@memdump](https://www.kali.org/tools/memdump/)
 - [@opensource@memdump - GitHub](https://github.com/tchebb/memdump)

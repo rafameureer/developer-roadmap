@@ -1,9 +1,9 @@
 # NMAP
 
-**Nmap** (Network Mapper) is an open-source network scanning tool used to discover hosts and services on a network, identify open ports, and detect vulnerabilities. It provides detailed information about networked devices, including their IP addresses, operating systems, and running services. Nmap supports various scanning techniques such as TCP SYN scan, UDP scan, and service version detection. It's widely used for network security assessments, vulnerability scanning, and network inventory management, helping administrators and security professionals understand and secure their network environments.
+**Nmap** (Network Mapper) é uma ferramenta de escaneamento de rede open-source usada para descobrir hosts e serviços em uma rede, identificar portas abertas e detectar vulnerabilidades. Ele fornece informações detalhadas sobre dispositivos conectados à rede, incluindo seus endereços IP, sistemas operacionais e serviços em execução. O Nmap suporta várias técnicas de escaneamento como o escaneamento TCP SYN, o escaneamento UDP e a detecção de versão de serviço. É amplamente usado para avaliações de segurança da rede, escaneamento de vulnerabilidades e gerenciamento de inventário de rede, ajudando administradores e profissionais de segurança a entender e proteger seus ambientes de rede.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@NMAP Website](https://nmap.org/)
-- [@article@NMAP Cheat Sheet](https://www.tutorialspoint.com/nmap-cheat-sheet)
-- [@video@Nmap Tutorial to find Network Vulnerabilities](https://www.youtube.com/watch?v=4t4kBkMsDbQ)
+- [@official@Site do NMAP](https://nmap.org/)
+- [@article@Folha de Dicas do NMAP](https://www.tutorialspoint.com/nmap-cheat-sheet)
+- [@video@Tutorial do NMAP para encontrar vulnerabilidades na rede](https://www.youtube.com/watch?v=4t4kBkMsDbQ)

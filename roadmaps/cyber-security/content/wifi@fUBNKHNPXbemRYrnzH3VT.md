@@ -1,9 +1,9 @@
 # WiFi
 
-WiFi is a wireless networking technology that allows devices to connect to the internet and communicate with each other without physical cables. It uses radio waves to transmit data, typically operating on the 2.4 GHz and 5 GHz frequency bands. WiFi networks are created by wireless routers or access points and can be found in homes, offices, public spaces, and many other locations. The technology follows IEEE 802.11 standards, with newer versions (like WiFi 6 or 802.11ax) offering increased speeds, better performance in crowded areas, and improved energy efficiency. WiFi enables the proliferation of mobile and smart devices, supporting the Internet of Things (IoT) and allowing for greater flexibility and mobility in network connectivity.
+WiFi é uma tecnologia de rede sem fio que permite dispositivos se conectar à internet e se comunicar entre si sem cabos físicos. Ele usa ondas de rádio para transmitir dados, normalmente operando nas faixas de frequência 2.4 GHz e 5 GHz. Redes WiFi são criadas por roteadores sem fio ou pontos de acesso e podem ser encontradas em casas, escritórios, espaços públicos e muitos outros locais. A tecnologia segue os padrões IEEE 802.11, com versões mais novas (como WiFi 6 ou 802.11ax) oferecendo velocidades aumentadas, melhor desempenho em áreas lotadas e maior eficiência energética. O WiFi habilita a proliferação de dispositivos móveis e inteligentes, suportando a Internet das Coisas (IoT) e permitindo uma maior flexibilidade e mobilidade na conectividade da rede.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Wireless Networks - Howstuffworks](https://computer.howstuffworks.com/wireless-network.htm)
-- [@video@That's How Wi-Fi Works](https://youtu.be/hePLDVbULZc)
-- [@video@Wireless Networking Explained](https://www.youtube.com/watch?v=Uz-RTurph3c)
+- [@artigo@Redes Sem Fio - Como Funciona](https://computer.howstuffworks.com/wireless-network.htm)
+- [@vídeo@Como Funciona o WiFi](https://youtu.be/hePLDVbULZc)
+- [@vídeo@Explicação de Redes Sem Fio](https://www.youtube.com/watch?v=Uz-RTurph3c)

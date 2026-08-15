@@ -1,8 +1,8 @@
-# Multi-Factor Authentication (MFA) and Two-Factor Authentication (2FA)
+# Autenticação Multifator (MFA) e Autenticação de Dois Fatores (2FA)
 
-Multi-factor authentication (MFA) is an authentication method that requires the user to present multiple pieces of evidence (factors) to verify their identity. Two-factor authentication (2FA) is a specific type of MFA that uses only two factors. These factors typically fall into categories like something you know (password), something you have (security token or code sent to your phone), or something you are (biometrics).
+A autenticação multifator (MFA) é um método de autenticação que exige que o usuário apresente várias provas (fatores) para verificar sua identidade. A autenticação de dois fatores (2FA) é um tipo específico de MFA que usa apenas dois fatores. Esses fatores normalmente caem em categorias como algo que você sabe (senha), algo que você tem (token de segurança ou código enviado para o seu telefone) ou algo que você é (biometria).
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is MFA?](https://www.onelogin.com/learn/what-is-mfa)
-- [@article@What is 2FA?](https://www.microsoft.com/en-gb/security/business/security-101/what-is-two-factor-authentication-2fa)
+- [@artigo@O que é MFA?](https://www.onelogin.com/learn/what-is-mfa)
+- [@artigo@O que é 2FA?](https://www.microsoft.com/en-gb/security/business/security-101/what-is-two-factor-authentication-2fa)

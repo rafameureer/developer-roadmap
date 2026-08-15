@@ -1,8 +1,8 @@
-# Reverse Engineering Fundamentals
+# Fundamentos da Engenharia Reversa
 
-Reverse engineering is the process of dissecting a system, piece of hardware, or software program to understand its design, function, and operation without having access to the source code or blueprints. It involves analyzing the object's structure, components, and behavior to deduce how it was created and how it works. Essentially, it's like taking something apart to figure out how it was put together.
+A engenharia reversa é o processo de desmontar um sistema, um dispositivo físico ou um programa de software para entender seu design, função e operação sem acesso ao código-fonte ou aos planos. Envolve a análise da estrutura do objeto, dos componentes e do comportamento para deduzir como foi criado e como funciona. Em essência, é como desmontar algo para descobrir como ele foi montado.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@Reverse Engineering for Everyone!](https://0xinfection.github.io/reversing/)
-- [@video@What is reverse engineering?](https://www.youtube.com/watch?v=gh2RXE9BIN8)
+- [@curso@Engenharia Reversa para Todos!](https://0xinfection.github.io/reversing/)
+- [@vídeo@O que é a engenharia reversa?](https://www.youtube.com/watch?v=gh2RXE9BIN8)

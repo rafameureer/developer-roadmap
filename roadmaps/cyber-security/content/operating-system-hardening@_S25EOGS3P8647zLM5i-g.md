@@ -1,9 +1,9 @@
-# Operating System Hardening
+# Hardenamento do Sistema Operacional
 
-**Operating system hardening** involves configuring and securing an OS to reduce vulnerabilities and improve its defense against attacks. This process includes disabling unnecessary services and ports, applying security patches and updates, configuring strong authentication mechanisms, enforcing least privilege principles, and enabling firewalls and intrusion detection systems. Hardening also involves setting up proper file permissions, securing system logs, and regularly auditing the system to ensure compliance with security policies and best practices. The goal is to minimize the attack surface and protect the OS from potential threats and exploits.
+**Hardenamento do sistema operacional** envolve configurar e proteger um SO para reduzir vulnerabilidades e melhorar sua defesa contra ataques. Esse processo inclui desabilitar serviços e portas desnecessárias, aplicar patches de segurança e atualizações, configurar mecanismos de autenticação fortes, impor princípios de privilégio mínimo e habilitar firewalls e sistemas de detecção de intrusão. O hardening também envolve definir permissões de arquivo adequadas, proteger os logs do sistema e realizar auditorias regulares para garantir conformidade com políticas de segurança e práticas recomendadas. O objetivo é minimizar a superfície de ataque e proteger o SO contra ameaças potenciais e exploits.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@OS Hardening: 15 Best Practices](https://perception-point.io/guides/os-isolation/os-hardening-10-best-practices/)
-- [@article@Operating System (OS) Hardening: Pros, Cons, and Importance](https://linfordco.com/blog/operating-system-hardening/)
-- [@video@Hardening Techniques](https://www.youtube.com/watch?v=wXoC46Qr_9Q)
+- [@artigo@Hardenamento do SO: 15 Melhores Práticas](https://perception-point.io/guides/os-isolation/os-hardening-10-best-practices/)
+- [@artigo@Hardening do Sistema Operacional (SO): Vantagens, Desvantagens e Importância](https://linfordco.com/blog/operating-system-hardening/)
+- [@vídeo@Técnicas de Hardenamento](https://www.youtube.com/watch?v=wXoC46Qr_9Q)

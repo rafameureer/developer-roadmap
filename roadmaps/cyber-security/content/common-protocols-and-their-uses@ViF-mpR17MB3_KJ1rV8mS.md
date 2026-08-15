@@ -1,8 +1,8 @@
-# Common Protocols and Their Uses
+# Protocolos Comuns e Seus Usos
 
-Networking protocols are standardized sets of rules that govern how data is transmitted between devices on a network. They define everything from how data is formatted and addressed to how errors are detected and corrected. Different protocols are designed for different purposes, allowing for a wide range of communication methods across various types of networks. Understanding these protocols is fundamental for analyzing network traffic, identifying vulnerabilities, and ensuring secure data transmission.
+Os protocolos de rede são conjuntos padronizados de regras que governam como os dados são transmitidos entre dispositivos em uma rede. Eles definem tudo, desde como os dados são formatados e endereçados até como erros são detectados e corrigidos. Diferentes protocolos são projetados para diferentes propósitos, permitindo uma ampla gama de métodos de comunicação em diversos tipos de redes. Entender esses protocolos é fundamental para analisar o tráfego de rede, identificar vulnerabilidades e garantir a transmissão segura dos dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@12 Common Network Protocols](https://www.techtarget.com/searchnetworking/feature/12-common-network-protocols-and-their-functions-explained)
-- [@video@Networking For Hackers! (Common Network Protocols)](https://www.youtube.com/watch?v=p3vaaD9pn9I)
+- [@artigo@12 Protocolos de Rede Comuns](https://www.techtarget.com/searchnetworking/feature/12-common-network-protocols-and-their-functions-explained)
+- [@vídeo@Redes Para Hackers! (Protocolos de Rede Comuns)](https://www.youtube.com/watch?v=p3vaaD9pn9I)

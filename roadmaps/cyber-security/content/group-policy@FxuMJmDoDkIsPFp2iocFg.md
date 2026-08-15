@@ -1,8 +1,8 @@
 # Group Policy
 
-Group Policy is a feature within Microsoft Windows operating systems that provides centralized management and configuration of computer and user settings in an Active Directory environment. It allows administrators to define and enforce specific rules and policies for users and computers, controlling aspects like password complexity, software installation, security settings, and access rights. These policies are applied to groups of users or computers, streamlining administration and ensuring consistent configurations across the network.
+Group Policy é uma funcionalidade dentro dos sistemas operacionais Microsoft Windows que fornece gerenciamento e configuração centralizada de configurações de computador e usuário em um ambiente Active Directory. Ele permite a definição e aplicação de regras e políticas específicas para usuários e computadores, controlando aspectos como complexidade da senha, instalação de software, configurações de segurança e direitos de acesso. Essas políticas são aplicadas a grupos de usuários ou computadores, simplificando a administração e garantindo configurações consistentes na rede.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Group Policy overview](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/hh831791(v=ws.11))
-- [@video@Learn Windows Group Policy the easy way!](https://www.youtube.com/watch?v=rEhTzP-ScBo)
+- [@official@Visão geral do Group Policy](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/hh831791(v=ws.11))
+- [@video@Aprenda o Group Policy do Windows de forma fácil!](https://www.youtube.com/watch?v=rEhTzP-ScBo)

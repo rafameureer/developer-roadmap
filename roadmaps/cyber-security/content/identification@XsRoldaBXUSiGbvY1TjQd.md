@@ -1,8 +1,8 @@
-# Identification
+# Identificação
 
-Identification refers to the process of detecting and recognizing that a security breach or anomalous activity has occurred within a network or system. This is the initial step in the incident response process, where security tools, monitoring systems, or alert mechanisms, such as Intrusion Detection Systems (IDS), log analysis, or user reports, indicate potential malicious activity. Effective identification is critical as it determines the subsequent steps in addressing the incident, such as containment, eradication, and recovery. Prompt and accurate identification helps minimize the impact of the incident, reducing downtime, data loss, and the overall damage to the organization.
+A identificação refere-se ao processo de detectar e reconhecer que uma violação de segurança ou atividade anômala ocorreu em uma rede ou sistema. Este é o primeiro passo no processo de resposta a incidentes, onde ferramentas de segurança, sistemas de monitoramento ou mecanismos de alerta, como Sistemas de Detecção de Invasão (IDS), análise de logs ou relatórios dos usuários, indicam atividade potencialmente maliciosa. A identificação eficaz é crucial porque determina os próximos passos para lidar com o incidente, como contenção, eradicação e recuperação. A identificação rápida e precisa ajuda a minimizar o impacto do incidente, reduzindo o tempo de inatividade, perdas de dados e o dano geral à organização.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@How to identify Cybersecurity vulnerabilities](https://fieldeffect.com/blog/how-to-identify-cybersecurity-vulnerabilities)
-- [@article@What is an Intrusion Detection System](https://www.ibm.com/topics/intrusion-detection-system)
+- [@artigo@Como identificar vulnerabilidades de segurança cibernética](https://fieldeffect.com/blog/how-to-identify-cybersecurity-vulnerabilities)
+- [@artigo@O que é um Sistema de Detecção de Invasão](https://www.ibm.com/topics/intrusion-detection-system)

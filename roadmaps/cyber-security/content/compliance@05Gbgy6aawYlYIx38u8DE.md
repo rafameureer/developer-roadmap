@@ -1,8 +1,8 @@
-# Compliance
+# Conformidade
 
-Compliance in cybersecurity refers to the adherence to laws, regulations, standards, and best practices designed to protect sensitive data and ensure the security of information systems. It encompasses a wide range of requirements that organizations must meet to safeguard their digital assets and maintain the trust of customers, partners, and regulatory bodies. Common compliance frameworks include GDPR for data protection in the EU, HIPAA for healthcare information in the US, PCI DSS for payment card industry, and ISO 27001 for information security management. Compliance often involves implementing specific security controls, conducting regular audits, maintaining documentation, and demonstrating ongoing commitment to security practices. While achieving compliance can be complex and resource-intensive, it is crucial for mitigating legal and financial risks, protecting reputation, and fostering a culture of security within organizations.
+A conformidade em segurança cibernética refere-se à aderência a leis, regulamentos, padrões e práticas recomendadas projetadas para proteger dados sensíveis e garantir a segurança dos sistemas de informações. Ela abrange uma ampla gama de requisitos que as organizações devem atender para proteger seus ativos digitais e manter o confiança dos clientes, parceiros e órgãos reguladores. Os quadros de conformidade comuns incluem GDPR para a proteção de dados no EUA, HIPAA para informações de saúde nos EUA, PCI DSS para a indústria de cartões de crédito e ISO 27001 para a gestão da segurança da informação. A conformidade geralmente envolve a implementação de controles específicos de segurança, auditorias regulares, manutenção de documentos e demonstração de um compromisso contínuo com práticas de segurança. Embora atingir a conformidade possa ser complexo e exigir recursos intensivos, é crucial para mitigar riscos legais e financeiros, proteger a reputação e fomentar uma cultura de segurança nas organizações.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Cyber Security Compliance?](https://www.comptia.org/content/articles/what-is-cybersecurity-compliance)
-- [@article@Cyber Security Compliance 101](https://sprinto.com/blog/cyber-security-compliance/)
+- [@artigo@O que é Conformidade em Segurança Cibernética?](https://www.comptia.org/content/articles/what-is-cybersecurity-compliance)
+- [@artigo@Conformidade em Segurança Cibernética 101](https://sprinto.com/blog/cyber-security-compliance/)

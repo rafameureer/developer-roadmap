@@ -1,8 +1,8 @@
-# SSL and TLS Basics
+# SSL e TLS Básicos
 
-Secure Sockets Layer (SSL) and Transport Layer Security (TLS) are cryptographic protocols that provide secure communication over a network. They work by encrypting data exchanged between a client and a server, ensuring confidentiality and integrity. SSL was the predecessor to TLS, and while SSL is now considered outdated and insecure, the term "SSL" is often still used interchangeably with "TLS." The protocols establish a secure connection using digital certificates for authentication and encryption algorithms for data protection.
+Protocolos criptográficos Secure Sockets Layer (SSL) e Transport Layer Security (TLS) fornecem comunicação segura em uma rede. Eles funcionam criptografando os dados trocados entre um cliente e um servidor, garantindo confidencialidade e integridade. SSL foi o predecessor do TLS, e enquanto SSL agora é considerado obsoleto e inseguro, o termo "SSL" é frequentemente usado de forma intercambiável com "TLS". Os protocolos estabelecem uma conexão segura usando certificados digitais para autenticação e algoritmos de criptografia para proteção dos dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What’s the Difference Between SSL and TLS?](https://aws.amazon.com/compare/the-difference-between-ssl-and-tls/)
-- [@video@TLS vs SSL - What's the Difference?](https://www.youtube.com/watch?v=J7fI_jH7L84)
+- [@article@O que é a Diferença entre SSL e TLS?](https://aws.amazon.com/compare/the-difference-between-ssl-and-tls/)
+- [@video@TLS vs SSL - Qual é a Diferença?](https://www.youtube.com/watch?v=J7fI_jH7L84)

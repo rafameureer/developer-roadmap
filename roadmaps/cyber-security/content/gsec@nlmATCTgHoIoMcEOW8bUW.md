@@ -1,7 +1,7 @@
 # GSEC
 
-The GIAC Security Essentials Certification (GSEC) is an advanced cybersecurity certification that demonstrates an individual's knowledge and skills in addressing security threats and vulnerabilities in various systems. Developed by the Global Information Assurance Certification (GIAC), this certification is suitable for security professionals, IT managers, and network administrators who want to enhance their expertise in the core cybersecurity concepts and practices.
+A Certificação GIAC Security Essentials (GSEC) é um certificado avançado em segurança cibernética que demonstra o conhecimento e as habilidades de uma pessoa para lidar com ameaças e vulnerabilidades de segurança em diversos sistemas. Desenvolvida pela Global Information Assurance Certification (GIAC), esta certificação é adequada para profissionais de segurança, gerentes de TI e administradores de redes que desejam aprimorar suas competências nas conceitos básicos e práticas da segurança cibernética.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para saber mais:
 
-- [@official@GSEC Certification](https://www.giac.org/certifications/security-essentials-gsec/)
+- [@oficial@Certificação GSEC](https://www.giac.org/certifications/security-essentials-gsec/)

@@ -1,8 +1,8 @@
 # Bluetooth
 
-Bluetooth is a short-range wireless technology standard used for exchanging data between fixed and mobile devices over short distances. While it offers convenience for connecting peripherals and transferring information, it also presents several security concerns in the cybersecurity landscape. Bluetooth vulnerabilities can potentially allow attackers to intercept communications, execute malicious code, or gain unauthorized access to devices. Common attacks include bluejacking, bluesnarfing, and bluebugging. To mitigate these risks, cybersecurity professionals recommend regularly updating device firmware, using the latest Bluetooth protocols, enabling encryption, and turning off Bluetooth when not in use. Despite ongoing security improvements, Bluetooth remains an attack vector that requires vigilant monitoring and protection in both personal and enterprise environments.
+O Bluetooth é uma tecnologia de rádio sem fio padrão curto alcance usada para trocar dados entre dispositivos fixos e móveis em distâncias curtas. Embora ofereça conveniência para conectar periféricos e transferir informações, ele também apresenta vários problemas de segurança no cenário da segurança cibernética. Vulnerabilidades do Bluetooth podem permitir que atacantes interceptem comunicações, executem código malicioso ou obtenham acesso não autorizado a dispositivos. Ataques comuns incluem bluejacking, bluesnarfing e bluebugging. Para mitigar esses riscos, profissionais de segurança cibernética recomendam atualizar regularmente o firmware dos dispositivos, usar os protocolos Bluetooth mais recentes, habilitar criptografia e desligar o Bluetooth quando não estiver em uso. Apesar das melhorias contínuas na segurança, o Bluetooth permanece um vetor de ataque que requer monitoramento e proteção vigilante tanto no ambiente pessoal quanto empresarial.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Bluetooth in Cyber Security](https://www.zenarmor.com/docs/network-basics/what-is-bluetooth)
-- [@video@Everything about Bluetooth Security](https://www.youtube.com/watch?v=i9mzl51ammA)
+- [@artigo@Bluetooth na Segurança Cibernética](https://www.zenarmor.com/docs/network-basics/what-is-bluetooth)
+- [@vídeo@Tudo sobre a Segurança do Bluetooth](https://www.youtube.com/watch?v=i9mzl51ammA)

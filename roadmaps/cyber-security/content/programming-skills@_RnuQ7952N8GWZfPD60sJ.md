@@ -1,18 +1,18 @@
-# Programming Skills and Knowledge (Optional But Recommended)
+# Habilidades e Conhecimentos em Programação (Opcional, Mas Recomendado)
 
-Programming knowledge is a fundamental skill for professionals in the cybersecurity field, as it enables them to build, assess, and defend computer systems, networks, and applications. Having a strong foundation in programming languages, concepts, and techniques is essential for identifying potential security threats, writing secure code, and implementing robust security measures.
+Conhecimento em programação é uma habilidade fundamental para profissionais na área de segurança cibernética, pois lhes permite construir, avaliar e defender sistemas, redes e aplicativos computacionais. Ter uma forte base em linguagens de programação, conceitos e técnicas é essencial para identificar ameaças potenciais de segurança, escrever código seguro e implementar medidas de segurança robustas.
 
-*   **Python**: As an easy-to-learn high-level language, Python is commonly used for tasks like automation, scripting, and data analysis. It also contains a plethora of libraries and frameworks for cybersecurity, making it highly valuable for security professionals.
-*   **C/C++**: These two languages are foundational for understanding system and application-level vulnerabilities since most operating systems are written in C and C++. Knowledge of these languages allows cybersecurity experts to analyze source code, identify potential exploits, and create secure software.
-*   **Java**: As a popular and versatile programming language, Java is often used in web applications and enterprise environments. Java knowledge equips cybersecurity professionals to understand and mitigate potential security flaws in Java-based applications.
-*   **JavaScript**: With its ubiquity in modern web browsers, JavaScript is crucial for understanding and protecting against web security vulnerabilities, such as Cross-Site Scripting (XSS) and Cross-Site Request Forgery (CSRF) attacks.
-*   **Ruby**: Ruby has a strong foothold in web application development and is utilized for scripting and automation, just like Python. Familiarity with Ruby may give cybersecurity professionals an edge in certain environments.
+*   **Python**: Como uma linguagem de alto nível fácil de aprender, Python é comumente usado para tarefas como automação, scripting e análise de dados. Ele também contém uma rica gama de bibliotecas e estruturas de software para segurança cibernética, tornando-se altamente valioso para profissionais de segurança.
+*   **C/C++**: Essas duas linguagens são fundamentais para entender vulnerabilidades em nível de sistema e aplicativo, já que a maioria dos sistemas operacionais é escrita em C e C++. Conhecimento dessas linguagens permite que os especialistas em segurança cibernética analisem o código-fonte, identifiquem potenciais explorações e criem software seguro.
+*   **Java**: Como uma linguagem popular e versátil, Java é frequentemente usada em aplicativos web e ambientes corporativos. Conhecimento em Java equipa profissionais de segurança cibernética para entender e mitigar falhas potenciais de segurança em aplicativos baseados em Java.
+*   **JavaScript**: Com sua ubiquidade em navegadores web modernos, JavaScript é crucial para entender e proteger contra vulnerabilidades de segurança na web, como ataques de Cross-Site Scripting (XSS) e Cross-Site Request Forgery (CSRF).
+*   **Ruby**: Ruby tem uma forte base no desenvolvimento de aplicativos web e é utilizado para scripting e automação, assim como Python. Familiaridade com Ruby pode dar aos profissionais de segurança cibernética uma vantagem em certos ambientes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit Linux Roadmap](https://roadmap.sh/linux)
-- [@roadmap@Visit Python Roadmap](https://roadmap.sh/python)
-- [@roadmap@Visit C++ Roadmap](https://roadmap.sh/cpp)
-- [@roadmap@Visit Java Roadmap](https://roadmap.sh/java)
-- [@roadmap@Visit JavaScript Roadmap](https://roadmap.sh/javascript)
-- [@roadmap@Visit Typescript Roadmap](https://roadmap.sh/typescript)
+- [@roadmap@Visite o Caminho do Linux](https://roadmap.sh/linux)
+- [@roadmap@Visite o Caminho do Python](https://roadmap.sh/python)
+- [@roadmap@Visite o Caminho do C++](https://roadmap.sh/cpp)
+- [@roadmap@Visite o Caminho do Java](https://roadmap.sh/java)
+- [@roadmap@Visite o Caminho do JavaScript](https://roadmap.sh/javascript)
+- [@roadmap@Visite o Caminho do TypeScript](https://roadmap.sh/typescript)

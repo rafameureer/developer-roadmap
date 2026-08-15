@@ -1,8 +1,8 @@
-# Digital Forensics
+# Forense Digital
 
-Digital forensics is like being a detective for computers and other digital devices. When a cybercrime or security incident happens, digital forensics experts investigate the devices involved to find clues. They collect, preserve, and analyze data from these devices, such as emails, files, and system logs, to figure out what happened, who was responsible, and how they did it. The goal is to find digital evidence that can be used in legal proceedings or to improve security measures and prevent future incidents.
+A forense digital é como ser um detetive para computadores e outros dispositivos digitais. Quando ocorre um crime cibernético ou incidente de segurança, os especialistas em forense digital investigam os dispositivos envolvidos a procura de pistas. Eles coletam, preservam e analisam dados desses dispositivos, como e-mails, arquivos e logs do sistema, para descobrir o que aconteceu, quem foi responsável e como isso aconteceu. O objetivo é encontrar evidências digitais que possam ser usadas em processos legais ou para melhorar as medidas de segurança e prevenir incidentes futuros.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Introduction to Digital Forensics (TryHackMe)](https://tryhackme.com/room/introdigitalforensics)
-- [@video@Digital Forensics](https://www.youtube.com/watch?v=UtDWApdO8Zk)
+- [@artigo@Introdução à Forense Digital (TryHackMe)](https://tryhackme.com/room/introdigitalforensics)
+- [@vídeo@Forense Digital](https://www.youtube.com/watch?v=UtDWApdO8Zk)

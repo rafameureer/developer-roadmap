@@ -1,8 +1,8 @@
-# Platform as a Service (PaaS)
+# Serviço como Plataforma (PaaS)
 
-Platform as a Service (PaaS) is a cloud computing model that delivers a complete platform—hardware, software, and infrastructure—for developing, running, and managing applications without the complexity of building and maintaining the underlying infrastructure typically associated with developing and launching an app. Think of it as providing the tools and resources needed for software development, all hosted in the cloud.
+O PaaS (Platform as a Service) é um modelo de computação em nuvem que oferece uma plataforma completa—hardware, software e infraestrutura—para desenvolver, executar e gerenciar aplicativos sem a complexidade de construir e manter a infraestrutura subjacente típicamente associada ao desenvolvimento e lançamento de uma aplicativo. Imagine fornecer as ferramentas e recursos necessários para o desenvolvimento de software, todos hospedados na nuvem.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is PaaS?](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-paas)
-- [@video@PaaS Explained](https://www.youtube.com/watch?v=QAbqJzd0PEE)
+- [@artigo@O que é PaaS?](https://azure.microsoft.com/pt-br/resources/dicionario-de-computacao-na-nuvem/o-que-e-paas)
+- [@vídeo@Explicação de PaaS](https://www.youtube.com/watch?v=QAbqJzd0PEE)

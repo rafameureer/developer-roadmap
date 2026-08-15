@@ -1,8 +1,8 @@
-# IPAM
+# Gerenciamento de Endereços IP (IPAM)
 
-IP Address Management (IPAM) is a critical aspect of cyber security, as it helps organizations efficiently manage and track their IP addresses, DNS, and DHCP services. In any network, devices like servers, routers, and switches are assigned unique IP addresses, which enables them to communicate with each other. Efficient and secure management of these IP addresses is vital for maintaining network security and prevent unauthorized access.
+O Gerenciamento de Endereços IP (IPAM) é um aspecto crucial da segurança cibernética, pois ajuda as organizações a gerenciar e rastrear eficientemente seus endereços IP, DNS e serviços DHCP. Em qualquer rede, dispositivos como servidores, roteadores e switches são atribuídos endereços IP únicos, o que permite que eles se comuniquem entre si. A gestão eficiente e segura desses endereços IP é vital para manter a segurança da rede e prevenir acesso não autorizado.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is IPAM?](https://www.infoblox.com/glossary/ipam-ip-address-management/)
-- [@article@IP Address Management](https://learn.microsoft.com/en-us/windows-server/networking/technologies/ipam/ipam-top)
+- [@artigo@O que é IPAM?](https://www.infoblox.com/glossary/ipam-ip-address-management/)
+- [@artigo@Gerenciamento de Endereços IP](https://learn.microsoft.com/en-us/windows-server/networking/technologies/ipam/ipam-top)

@@ -1,8 +1,8 @@
 # hping
 
-hping is a versatile and powerful command-line based packet crafting tool that allows network administrators, security professionals, and system auditors to manipulate and analyze network packets at a granular level. hping can be used to perform stress testing, firewall testing, scanning, and packet generation, among other functionalities.
+hping é uma ferramenta de linha de comando versátil e poderosa para criação de pacotes que permite a manipulação e análise de pacotes de rede em nível granular. hping pode ser usado para realizar testes de estresse, testes de firewall, varredura e geração de pacotes, entre outras funcionalidades.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@hping](https://salsa.debian.org/debian/hping3)
-- [@article@What is hping?](https://www.okta.com/uk/identity-101/hping/)
+- [@oficial@hping](https://salsa.debian.org/debian/hping3)
+- [@artigo@O que é hping?](https://www.okta.com/uk/identity-101/hping/)

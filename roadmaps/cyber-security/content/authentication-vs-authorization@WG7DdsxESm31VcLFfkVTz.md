@@ -1,10 +1,10 @@
-# Authentication vs. Authorization
+# Autenticação vs. Autorização
 
-Authentication verifies who a user is, confirming their identity using credentials like usernames and passwords. Authorization, on the other hand, determines what a user is allowed to access after they've been authenticated. In essence, authentication proves you are who you say you are, while authorization dictates what you can do.
+A autenticação verifica quem é um usuário, confirmando sua identidade usando credenciais como nomes de usuário e senhas. Por outro lado, a autorização determina o que um usuário pode acessar após ser autenticado. Em essência, a autenticação prova que você é quem diz que é, enquanto a autorização define o que você pode fazer.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Two-factor authentication (2FA)](https://authy.com/what-is-2fa/)
-- [@article@Biometrics (fingerprint, facial recognition, etc.)](https://me-en.kaspersky.com/resource-center/definitions/biometrics)
-- [@article@Security tokens or certificates](https://www.comodo.com/e-commerce/ssl-certificates/certificate.php)
-- [@article@Role-based access control (RBAC)](https://en.wikipedia.org/wiki/Role-based_access_control)
+- [@artigo@Autenticação de dois fatores (2FA)](https://authy.com/what-is-2fa/)
+- [@artigo@Biometria (dedos dactilares, reconhecimento facial, etc.)](https://me-en.kaspersky.com/resource-center/definitions/biometrics)
+- [@artigo@Tokens de segurança ou certificados](https://www.comodo.com/e-commerce/ssl-certificates/certificate.php)
+- [@artigo@Controle de acesso baseado em funções (RBAC)](https://en.wikipedia.org/wiki/Role-based_access_control)

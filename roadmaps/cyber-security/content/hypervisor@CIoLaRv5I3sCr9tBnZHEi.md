@@ -1,8 +1,8 @@
-# Hypervisor
+# Hipervisor
 
-A hypervisor, also known as a virtual machine monitor (VMM), is software or firmware that enables the creation and management of virtual machines (VMs) by abstracting the underlying hardware. It allows multiple VMs to run on a single physical machine, each operating independently with its own operating system and applications. Hypervisors facilitate better resource utilization by allowing a physical server to host several virtual environments, optimizing hardware efficiency.
+O hipervisor, também conhecido como monitor de máquina virtual (VMM), é um software ou firmware que habilita a criação e gerenciamento de máquinas virtuais (VMs) abstrayendo o hardware subjacente. Ele permite que múltiplas VMs sejam executadas em uma única máquina física, cada uma operando independentemente com seu próprio sistema operacional e aplicativos. Hipervisores facilitam a utilização mais eficiente dos recursos ao permitir que um servidor físico hospede várias ambientes virtuais, otimizando a eficiência do hardware.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is a hypervisor?](https://www.redhat.com/en/topics/virtualization/what-is-a-hypervisor)
-- [@video@What is a Hypervisor?](https://www.youtube.com/watch?v=LMAEbB2a50M)
+- [@artigo@O que é um hipervisor?](https://www.redhat.com/en/topics/virtualization/what-is-a-hypervisor)
+- [@vídeo@O que é um Hipervisor?](https://www.youtube.com/watch?v=LMAEbB2a50M)

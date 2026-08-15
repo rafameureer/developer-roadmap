@@ -1,9 +1,9 @@
 # Bus
 
-In the context of cybersecurity, a bus refers to a communication system that transfers data between components inside a computer or between computers. It's a critical part of computer architecture that can be vulnerable to various security threats. Attackers may attempt to exploit bus systems to intercept sensitive data, inject malicious code, or perform side-channel attacks. These vulnerabilities can exist at different levels, from the system bus connecting major computer components to expansion buses for peripheral devices. Securing bus communications involves implementing encryption, access controls, and monitoring for unusual activity. As buses play a crucial role in data transfer, protecting them is essential for maintaining the overall security and integrity of computer systems and networks.
+No contexto da segurança cibernética, um bus refere-se a um sistema de comunicação que transfere dados entre componentes dentro de um computador ou entre computadores. É uma parte crítica da arquitetura do computador que pode ser vulnerável a diversos tipos de ameaças de segurança. Atacantes podem tentar explorar sistemas de bus para interceptar dados sensíveis, injetar código malicioso ou realizar ataques por canais secundários. Essas vulnerabilidades podem existir em diferentes níveis, desde o sistema de bus que conecta os principais componentes do computador até os buses de expansão para dispositivos periféricos. Proteger as comunicações de bus envolve implementar criptografia, controles de acesso e monitoramento de atividade incomum. Como os buses desempenham um papel crucial na transferência de dados, protegê-los é essencial para manter a segurança geral e a integridade dos sistemas e redes de computadores.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Bus in Computing](https://en.wikipedia.org/wiki/Bus_(computing))
-- [@article@What is a Bus?](https://www.lenovo.com/gb/en/glossary/bus/?srsltid=AfmBOoocoXVvqdupLu13XAm0FZMOHjRtjnnCCFxa59tEa-bQwhiVhac2)
-- [@video@Computer Buses](https://www.youtube.com/watch?v=aBCaCrC3z0k)
+- [@artigo@Bus em Computação](https://en.wikipedia.org/wiki/Bus_(computing))
+- [@artigo@O que é um Bus?](https://www.lenovo.com/gb/en/glossary/bus/?srsltid=AfmBOoocoXVvqdupLu13XAm0FZMOHjRtjnnCCFxa59tEa-bQwhiVhac2)
+- [@vídeo@Buses de Computador](https://www.youtube.com/watch?v=aBCaCrC3z0k)

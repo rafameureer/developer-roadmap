@@ -1,8 +1,8 @@
-# Cybersecurity Framework (CSF)
+# Quadro de Segurança Cibernética (CSF)
 
-The Cybersecurity Framework (CSF) is a set of guidelines aimed at helping organizations better protect their critical infrastructure from cyber threats. Developed by the National Institute of Standards and Technology (NIST), this voluntary framework provides a flexible, risk-based approach to managing cybersecurity risks.
+O Quadro de Segurança Cibernética (CSF) é um conjunto de diretrizes voltado para ajudar as organizações a proteger melhor suas infraestruturas críticas contra ameaças cibernéticas. Desenvolvido pelo Instituto Nacional de Tecnologia e Normas (NIST), este quadro voluntário fornece uma abordagem flexível e baseada em riscos para gerenciar os riscos de segurança cibernética.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)
-- [@video@NIST Cybersecurity Framework Explained](https://www.youtube.com/watch?v=_KXqDNVmpu8)
+- [@oficial@Quadro de Segurança Cibernética do NIST](https://www.nist.gov/cyberframework)
+- [@vídeo@Quadro de Segurança Cibernética do NIST Explicado](https://www.youtube.com/watch?v=_KXqDNVmpu8)

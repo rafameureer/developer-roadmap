@@ -1,8 +1,8 @@
-# Perimeter, DMZ, and Segmentation
+# Perímetro, DMZ e Segmentação
 
-These are network security concepts that define how a network is structured to protect its assets. The perimeter is the outer defense line, controlling traffic entering and exiting the network. A DMZ (Demilitarized Zone) hosts publicly accessible services, isolating them from the internal network. Segmentation divides the network into smaller, isolated zones to limit the impact of a security breach.
+Estes são conceitos de segurança de rede que definem como uma rede é estruturada para proteger seus ativos. O perímetro é a linha defensiva externa, controlando o tráfego que entra e sai da rede. Uma DMZ (Zona Demilitarizada) hospeda serviços acessíveis publicamente, isolando-os do redes internas. A segmentação divide a rede em zonas menores e isoladas para limitar o impacto de uma violação de segurança.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@opensource@Best practice for network segmentation](https://github.com/sergiomarotco/Network-segmentation-cheat-sheet)
-- [@opensource@OWASP Network segmentation Cheat Sheet](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Network_Segmentation_Cheat_Sheet.md#network-segmentation-cheat-sheet)
+- [@opensource@Melhores práticas para a segmentação de redes](https://github.com/sergiomarotco/Network-segmentation-cheat-sheet)
+- [@opensource@Guia de Segmentação de Redes da OWASP](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Network_Segmentation_Cheat_Sheet.md#network-segmentation-cheat-sheet)

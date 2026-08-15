@@ -1,8 +1,8 @@
 # ping
 
-**Ping** is a network utility used to test the reachability and responsiveness of a device on a network. It sends Internet Control Message Protocol (ICMP) echo request packets to a target host and measures the time it takes for an echo reply to be received. Ping is commonly used to diagnose network connectivity issues, determine network latency, and check if a specific server or device is online. A successful ping response indicates that the target device is reachable, while failures or delays may suggest network problems, such as packet loss or routing issues.
+O **ping** é uma ferramenta de rede usada para testar a alcançabilidade e a resposta de um dispositivo em uma rede. Ele envia pacotes de solicitação de eco do Protocolo de Controle de Internet (ICMP) para um host-alvo e mede o tempo que leva para receber uma resposta de eco. O ping é comumente usado para diagnosticar problemas de conectividade de rede, determinar a latência da rede e verificar se um servidor ou dispositivo específico está online. Uma resposta de ping bem-sucedida indica que o dispositivo-alvo é alcançável, enquanto falhas ou atrasos podem sugerir problemas de rede, como perda de pacotes ou problemas de roteamento.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is ping?](https://www.solarwinds.com/resources/it-glossary/ping)
-- [@video@Ping command explained](https://www.youtube.com/watch?v=7sv5pL-XgSg)
+- [@artigo@O que é ping?](https://www.solarwinds.com/resources/it-glossary/ping)
+- [@vídeo@Explicação do comando ping](https://www.youtube.com/watch?v=7sv5pL-XgSg)

@@ -1,8 +1,8 @@
 # CISSP
 
-The Certified Information Systems Security Professional (CISSP) is a globally recognized certification offered by the International Information System Security Certification Consortium (ISC)². It is designed for experienced security professionals to validate their knowledge and expertise in the field of information security.
+O Certificado de Profissional em Segurança da Informação (CISSP) é uma certificação global reconhecida oferecida pela Consortiuma Internacional de Certificações em Segurança da Informação (ISC)². Está projetado para profissionais experientes em segurança para validar seus conhecimentos e especialidades na área de segurança da informação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@CISSP Certification](https://www.isc2.org/certifications/cissp)
-- [@video@CISSP Certification Course](https://www.youtube.com/watch?v=M1_v5HBVHWo)
+- [@official@Certificação CISSP](https://www.isc2.org/certifications/cissp)
+- [@video@Curso de Certificação CISSP](https://www.youtube.com/watch?v=M1_v5HBVHWo)

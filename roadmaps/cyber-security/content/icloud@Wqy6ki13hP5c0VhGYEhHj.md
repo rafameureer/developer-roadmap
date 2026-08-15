@@ -1,7 +1,7 @@
 # iCloud
 
-iCloud is a cloud storage and cloud computing service provided by Apple Inc. It allows users to store data, such as documents, photos, and music, on remote servers and synchronize them across their Apple devices, including iPhones, iPads, and MacBooks.
+iCloud é um serviço de armazenamento em nuvem e computação na nuvem fornecido pela Apple Inc. Ele permite que os usuários armazenem dados, como documentos, fotos e música, em servidores remotos e sincronizem esses dados em seus dispositivos Apple, incluindo iPhones, iPads e MacBooks.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@iCloud](https://www.icloud.com/)
+- [@oficial@iCloud](https://www.icloud.com/)

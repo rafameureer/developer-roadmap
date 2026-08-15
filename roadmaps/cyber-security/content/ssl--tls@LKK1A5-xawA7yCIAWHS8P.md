@@ -1,9 +1,9 @@
 # SSL / TLS
 
-Secure Sockets Layer (SSL) and Transport Layer Security (TLS) are cryptographic protocols used to provide security in internet communications. These protocols encrypt the data that is transmitted over the web, so anyone who tries to intercept packets will not be able to interpret the data. One difference that is important to know is that SSL is now deprecated due to security flaws, and most modern web browsers no longer support it. But TLS is still secure and widely supported, so preferably use TLS.
+Protocolos criptográficos Secure Sockets Layer (SSL) e Transport Layer Security (TLS) são usados para fornecer segurança em comunicações na internet. Esses protocolos criptografam os dados transmitidos pela web, de forma que qualquer pessoa que tente interceptar pacotes não será capaz de interpretar os dados. Uma diferença importante a ser conhecida é que SSL foi descontinuado devido a falhas de segurança e a maioria dos navegadores web modernos já não suporta mais. Mas TLS ainda é seguro e amplamente suportado, então prefira usar TLS.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is SSL? | SSL definition](https://www.cloudflare.com/en-gb/learning/ssl/what-is-ssl/)
-- [@article@TLS Basics](https://www.internetsociety.org/deploy360/tls/basics/)
-- [@video@TLS vs SSL - What's the Difference?](https://www.youtube.com/watch?v=J7fI_jH7L84)
+- [@article@O que é SSL? | Definição de SSL](https://www.cloudflare.com/en-gb/learning/ssl/what-is-ssl/)
+- [@article@Básico do TLS](https://www.internetsociety.org/deploy360/tls/basics/)
+- [@video@TLS vs SSL - Qual é a Diferença?](https://www.youtube.com/watch?v=J7fI_jH7L84)

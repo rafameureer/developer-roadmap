@@ -1,8 +1,8 @@
-# Endpoint Detection and Response (EDR)
+# Detecção e Resposta em Pontos de Acesso (EDR)
 
-EDR is a security technology that continuously monitors endpoints (like computers, laptops, and servers) for suspicious activity and threats. It collects data from these endpoints, analyzes it in real-time, and automatically responds to detected threats to prevent or minimize damage. The goal of EDR is to provide better visibility into what is happening on endpoints, allowing security teams to quickly identify, investigate, and remediate security incidents.
+EDR é uma tecnologia de segurança que monitora continuamente pontos de acesso (como computadores, laptops e servidores) por atividades suspeitas e ameaças. Ele coleta dados desses pontos de acesso, analisa-os em tempo real e responde automaticamente às ameaças detectadas para prevenir ou minimizar o dano. O objetivo do EDR é fornecer uma melhor visibilidade sobre o que está acontecendo nos pontos de acesso, permitindo que equipes de segurança identifiquem, investiguem e remediem incidentes de segurança rapidamente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Endpoint Detection and Response?](https://www.crowdstrike.com/cybersecurity-101/endpoint-security/endpoint-detection-and-response-edr/)
-- [@video@What is Endpoint Detection and Response (EDR)? - IBM](https://www.youtube.com/watch?v=55GaIolVVqI)
+- [@artigo@O que é Detecção e Resposta em Pontos de Acesso?](https://www.crowdstrike.com/cybersecurity-101/endpoint-security/endpoint-detection-and-response-edr/)
+- [@vídeo@O que é Detecção e Resposta em Pontos de Acesso (EDR)? - IBM](https://www.youtube.com/watch?v=55GaIolVVqI)

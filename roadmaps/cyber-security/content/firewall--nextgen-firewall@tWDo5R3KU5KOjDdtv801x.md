@@ -1,8 +1,8 @@
-# Firewalls and Next-Generation Firewalls
+# Firewalls e Firewalls de Próxima Geração
 
-A firewall is a network security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules. It acts as a barrier between a trusted internal network and untrusted external networks, such as the internet. Next-Generation Firewalls (NGFWs) extend traditional firewall capabilities by adding advanced features like intrusion prevention, application control, and advanced threat detection, offering deeper inspection and more granular control over network traffic.
+Um firewall é um sistema de segurança de rede que monitora e controla o tráfego de entrada e saída da rede com base em regras de segurança pré-determinadas. Ele atua como uma barreira entre uma rede interna confiável e redes externas não confiáveis, como a internet. Firewalls de Próxima Geração (NGFWs) estendem as capacidades tradicionais de firewall adicionando recursos avançados como prevenção de intrusos, controle de aplicativos e detecção avançada de ameaças, oferecendo uma inspeção mais profunda e um controle mais granular sobre o tráfego da rede.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is a Firewall?](https://www.kaspersky.com/resource-center/definitions/firewall)
-- [@article@What is a next-generation firewall (NGFW)?](https://www.cloudflare.com/en-gb/learning/security/what-is-next-generation-firewall-ngfw/)
+- [@artigo@O que é um firewall?](https://www.kaspersky.com/resource-center/definitions/firewall)
+- [@artigo@O que é um firewall de próxima geração (NGFW)?](https://www.cloudflare.com/en-gb/learning/security/what-is-next-generation-firewall-ngfw/)

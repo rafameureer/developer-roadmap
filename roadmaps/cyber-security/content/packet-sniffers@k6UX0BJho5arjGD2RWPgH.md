@@ -1,8 +1,8 @@
-# Packet Sniffers
+# Capturadores de Pacotes
 
-**Packet sniffers** are tools used to capture and analyze network traffic by intercepting data packets as they traverse a network. They provide insights into network activity, including protocols, IP addresses, and payload contents, which can be useful for diagnosing network issues, monitoring performance, and detecting unauthorized or malicious activity. Packet sniffers operate in promiscuous mode, allowing them to capture all packets on a network segment, and are commonly used for network troubleshooting, security analysis, and forensic investigations. Examples include Wireshark and tcpdump.
+**Capturadores de pacotes** são ferramentas usadas para capturar e analisar tráfego de rede interceptando pacotes de dados enquanto eles atravessam uma rede. Eles fornecem insights sobre a atividade da rede, incluindo protocolos, endereços IP e conteúdo dos payloads, o que pode ser útil para diagnosticar problemas de rede, monitorar desempenho e detectar atividades não autorizadas ou maliciosas. Capturadores de pacotes operam em modo promíscuo, permitindo-lhes capturar todos os pacotes em um segmento da rede, e são comumente usados para diagnóstico de problemas de rede, análise de segurança e investigações forenses. Exemplos incluem Wireshark e tcpdump.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Packet Sniffing Explained](https://www.avast.com/c-packet-sniffing)
-- [@video@What is Packet Sniffing?](https://www.youtube.com/watch?v=5oioSbgBQ8I)
+- [@artigo@Explicação de Captura de Pacote](https://www.avast.com/pt-br/c-packet-sniffing)
+- [@vídeo@O que é Captura de Pacote?](https://www.youtube.com/watch?v=5oioSbgBQ8I)

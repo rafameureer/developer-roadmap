@@ -1,8 +1,8 @@
 # Cloud vs. On-Premises
 
-Cloud computing involves using shared computing resources, like servers and software, provided by a third-party over the internet. On-premises computing, on the other hand, involves managing your own computing infrastructure, including servers, networking, and software, physically located within your own facilities. The key difference lies in where the infrastructure resides and who is responsible for its management and maintenance.
+O computação em nuvem envolve o uso de recursos de computação compartilhados, como servidores e software, fornecidos por um terceiro pelo internet. Por outro lado, o computo on-premises envolve a gestão da sua própria infraestrutura de computação, incluindo servidores, rede e software, localizados fisicamente em suas próprias instalações. A diferença chave reside na localização da infraestrutura e quem é responsável por seu gerenciamento e manutenção.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is On-Premises Data Centers vs. Cloud Computing?](https://www.hpe.com/uk/en/what-is/on-premises-vs-cloud.html)
-- [@video@On Premise vs Cloud : Is Cloud Computing the future?](https://www.youtube.com/watch?v=FuPh2o-GMDA)
+- [@artigo@O que são Data Centers On-Premises vs. Computação em Nuvem?](https://www.hpe.com/uk/en/what-is/on-premises-vs-cloud.html)
+- [@vídeo@On Premise vs Cloud : O Computo em Nuvem é o Futuro?](https://www.youtube.com/watch?v=FuPh2o-GMDA)

@@ -1,7 +1,7 @@
 # GWAPT
 
-The GIAC Web Application Penetration Tester (GWAPT) certification validates an individual's ability to perform in-depth web application security assessments and exploit vulnerabilities. GWAPT focuses on using ethical hacking methodologies to conduct web application penetration testing with the goal of identifying, evaluating, and mitigating security risks.
+A certificação GIAC Web Application Penetration Tester (GWAPT) valida a capacidade de um indivíduo realizar avaliações de segurança em profundidade de aplicativos web e explorar vulnerabilidades. O GWAPT se concentra no uso de métodos éticos de hacking para realizar testes de penetração em aplicativos web com o objetivo de identificar, avaliar e mitigar riscos de segurança.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@GWAPT Certification](https://www.giac.org/certifications/web-application-penetration-tester-gwapt/)
+- [@official@Certificação GWAPT](https://www.giac.org/certifications/web-application-penetration-tester-gwapt/)

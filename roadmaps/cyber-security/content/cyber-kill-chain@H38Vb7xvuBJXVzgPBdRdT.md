@@ -1,8 +1,8 @@
 # Cyber Kill Chain
 
-The **Cyber Kill Chain** is a model that was developed by Lockheed Martin, a major aerospace, military support, and security company, to understand and prevent cyber intrusions in various networks and systems. It serves as a framework for breaking down the stages of a cyber attack, making it easier for security professionals to identify, mitigate, and prevent threats.
+O **Cyber Kill Chain** é um modelo desenvolvido pela Lockheed Martin, uma empresa majoritária em aeroespacial, suporte militar e segurança, para entender e prevenir invasões cibernéticas em diversos redes e sistemas. Ele serve como um quadro para descompor as fases de um ataque cibernético, tornando mais fácil para profissionais de segurança identificar, mitigar e prevenir ameaças.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Cyber Kill Chain](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html)
-- [@video@Learn the Cyber Kill Chain](https://www.youtube.com/watch?v=oCUrkc_0tmw)
+- [@oficial@Cyber Kill Chain](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html)
+- [@vídeo@Aprenda a Cyber Kill Chain](https://www.youtube.com/watch?v=oCUrkc_0tmw)

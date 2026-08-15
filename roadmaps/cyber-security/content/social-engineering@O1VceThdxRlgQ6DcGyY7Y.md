@@ -1,8 +1,8 @@
-# Social Engineering
+# Engenharia Social
 
-Social Engineering is a manipulation technique that exploits human psychology to gain access to confidential information, systems, or physical locations. Unlike traditional hacking methods that rely on technical skills, social engineering primarily focuses on deceiving or tricking individuals into revealing sensitive information or performing actions that compromise security.
+A engenharia social é uma técnica de manipulação que explora a psicologia humana para obter acesso a informações confidenciais, sistemas ou locais físicos. Diferentemente dos métodos tradicionais de hacking que dependem de habilidades técnicas, a engenharia social se concentra principalmente em enganar ou enganar as pessoas para revelarem informações sensíveis ou realizar ações que comprometam a segurança.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What Is Social Engineering?](https://www.cisco.com/c/en/us/products/security/what-is-social-engineering.html)
-- [@video@Social Engineering Explained](https://www.youtube.com/shorts/DdCSraNCxhs)
+- [@artigo@O Que é Engenharia Social?](https://www.cisco.com/c/en/us/products/security/what-is-social-engineering.html)
+- [@vídeo@Engenharia Social Explicada](https://www.youtube.com/shorts/DdCSraNCxhs)

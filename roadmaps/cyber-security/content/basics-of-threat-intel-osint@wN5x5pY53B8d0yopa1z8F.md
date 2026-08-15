@@ -1,9 +1,9 @@
-# Threat Intelligence and Open-Source Intelligence (OSINT) Fundamentals
+# Inteligência de Ameaças e Inteligência Aberta (OSINT) Básicos
 
-Threat intelligence involves gathering and analyzing information about potential threats and adversaries. OSINT, or Open-Source Intelligence, is a specific type of threat intelligence that focuses on collecting information from publicly available sources, such as news articles, social media, and public records. By combining and analyzing this data, security professionals can gain insights into attacker motivations, tactics, and infrastructure, enabling them to proactively defend against cyberattacks.
+A inteligência de ameaças envolve a coleta e análise de informações sobre potenciais ameaças e adversários. O OSINT, ou Inteligência Aberta, é um tipo específico de inteligência de ameaças que se concentra em coletar informações de fontes públicas disponíveis, como artigos de notícias, mídias sociais e registros públicos. Ao combinar e analisar esses dados, profissionais de segurança podem obter insights sobre as motivações dos atacantes, táticas e infraestrutura, permitindo que eles se defiram proativamente contra ataques cibernéticos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@Open-Source Intelligence (OSINT) in 5 Hours](https://www.youtube.com/watch?v=qwA6MmbeGNo&t=457s)
-- [@official@OSINT Framework](https://osintframework.com/)
-- [@article@Threat Intelligence](https://www.microsoft.com/en-us/security/blog/topic/threat-intelligence/)
+- [@curso@Inteligência Aberta (OSINT) em 5 Horas](https://www.youtube.com/watch?v=qwA6MmbeGNo&t=457s)
+- [@oficial@Quadro de Inteligência Aberta (OSINT)](https://osintframework.com/)
+- [@artigo@Inteligência de Ameaças](https://www.microsoft.com/en-us/security/blog/topic/threat-intelligence/)

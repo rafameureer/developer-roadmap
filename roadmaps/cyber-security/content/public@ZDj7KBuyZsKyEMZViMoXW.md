@@ -1,8 +1,8 @@
-# Public Cloud
+# Nuvem Pública
 
-Public cloud refers to computing services offered by a third-party provider over the public internet, available to anyone who wants to use or purchase them. These services include servers, storage, databases, networking, software, analytics, and intelligence. Users typically pay only for the resources they consume, allowing for scalability and cost-effectiveness.
+A nuvem pública refere-se a serviços de computação oferecidos por um provedor terceirizado na internet pública, disponíveis para qualquer pessoa que queira usá-los ou comprá-los. Esses serviços incluem servidores, armazenamento, bancos de dados, rede, software, análise e inteligência. Os usuários normalmente pagam apenas pelos recursos que consomem, permitindo escalabilidade e eficiência econômica.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@A Public Cloud?](https://azure.microsoft.com/en-gb/resources/cloud-computing-dictionary/what-is-a-public-cloud)
-- [@video@What is a Public Cloud](https://www.youtube.com/watch?v=KaCyfQ7luVY)
+- [@artigo@Nuvem Pública?](https://azure.microsoft.com/en-gb/resources/cloud-computing-dictionary/what-is-a-public-cloud)
+- [@vídeo@O que é uma Nuvem Pública](https://www.youtube.com/watch?v=KaCyfQ7luVY)

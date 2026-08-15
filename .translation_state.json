@@ -1841,7 +1841,249 @@
     "roadmaps/css/content/universal@4LjxorN5jQnm9ZWKPk-pu.md",
     "roadmaps/css/content/visibility@sO-XiY9yJZMedzyR_7Gdq.md",
     "roadmaps/css/content/width--height@quGp1pgbrEH37WA5URb_g.md",
-    "roadmaps/css/content/z-index--stacking-context@xep8iF-7XOYLY2xeblM-A.md"
+    "roadmaps/css/content/z-index--stacking-context@xep8iF-7XOYLY2xeblM-A.md",
+    "roadmaps/cyber-security/content/acl@35oCRzhzpVfitQPL4K9KC.md",
+    "roadmaps/cyber-security/content/acls@8JM95sonFUhZCdaynUA_M.md",
+    "roadmaps/cyber-security/content/antimalware@9QtY1hMJ7NKLFztYK-mHY.md",
+    "roadmaps/cyber-security/content/antivirus@3140n5prZYySsuBHjqGOJ.md",
+    "roadmaps/cyber-security/content/anyrun@GZHFR43UzN0WIIxGKZOdX.md",
+    "roadmaps/cyber-security/content/apt@l0BvDtwWoRSEjm6O0WDPy.md",
+    "roadmaps/cyber-security/content/arp@M52V7hmG4ORf4TIVw3W3J.md",
+    "roadmaps/cyber-security/content/arp@fzdZF-nzIL69kaA7kwOCn.md",
+    "roadmaps/cyber-security/content/arp@hkO3Ga6KctKODr4gos6qX.md",
+    "roadmaps/cyber-security/content/attck@auR7fNyd77W2UA-PjXeJS.md",
+    "roadmaps/cyber-security/content/authentication-vs-authorization@WG7DdsxESm31VcLFfkVTz.md",
+    "roadmaps/cyber-security/content/autopsy@bIwpjIoxSUZloxDuQNpMu.md",
+    "roadmaps/cyber-security/content/aws@0LztOTc3NG3OujCVwlcVU.md",
+    "roadmaps/cyber-security/content/azure@GklBi7Qx1akN_cS9UMrha.md",
+    "roadmaps/cyber-security/content/bash@tao0Bb_JR0Ubl62HO8plp.md",
+    "roadmaps/cyber-security/content/basics-and-concepts-of-threat-hunting@_x3BgX93N-Pt1_JK7wk0p.md",
+    "roadmaps/cyber-security/content/basics-of-computer-networking@T0aU8ZQGShmF9uXhWY4sD.md",
+    "roadmaps/cyber-security/content/basics-of-ids-and-ips@FJsEBOFexbDyAj86XWBCc.md",
+    "roadmaps/cyber-security/content/basics-of-nas-and-san@umbMBQ0yYmB5PgWfY6zfO.md",
+    "roadmaps/cyber-security/content/basics-of-reverse-engineering@uoGA4T_-c-2ip_zfEUcJJ.md",
+    "roadmaps/cyber-security/content/basics-of-subnetting@E8Z7qFFW-I9ivr0HzoXCq.md",
+    "roadmaps/cyber-security/content/basics-of-threat-intel-osint@wN5x5pY53B8d0yopa1z8F.md",
+    "roadmaps/cyber-security/content/basics-of-vulnerability-management@lcxAXtO6LoGd85nOFnLo8.md",
+    "roadmaps/cyber-security/content/blue--red--purple-teams@7tDxTcKJNAUxbHLPCnPFO.md",
+    "roadmaps/cyber-security/content/bluetooth@DbWf5LdqiByPiJa4xHtl_.md",
+    "roadmaps/cyber-security/content/box@4Man3Bd-ySLFlAdxbLOHw.md",
+    "roadmaps/cyber-security/content/brute-force-vs-password-spray@Q0i-plPQkb_NIvOQBVaDd.md",
+    "roadmaps/cyber-security/content/buffer-overflow@n8ZOZxNhlnw7DpzoXe_f_.md",
+    "roadmaps/cyber-security/content/bus@0DWh4WmLK_ENDuqQmQcu4.md",
+    "roadmaps/cyber-security/content/c@8jj9hpe9jQIgCc8Txyw3O.md",
+    "roadmaps/cyber-security/content/cat@D2ptX6ja_HvFEafMIzWOy.md",
+    "roadmaps/cyber-security/content/ccna@4RD22UZATfL8dc71YkJwQ.md",
+    "roadmaps/cyber-security/content/ceh@AAo7DXB7hyBzO6p05gx1i.md",
+    "roadmaps/cyber-security/content/cisa@lqFp4VLY_S-5tAbhNQTew.md",
+    "roadmaps/cyber-security/content/cism@s86x24SHPEbbOB9lYNU-w.md",
+    "roadmaps/cyber-security/content/cissp@BqvijNoRzSGYLCMP-6hhr.md",
+    "roadmaps/cyber-security/content/common-ports-and-their-uses@0tx2QYDYXhm85iYrCWd9U.md",
+    "roadmaps/cyber-security/content/common-protocols-and-their-uses@ViF-mpR17MB3_KJ1rV8mS.md",
+    "roadmaps/cyber-security/content/compliance@05Gbgy6aawYlYIx38u8DE.md",
+    "roadmaps/cyber-security/content/comptia-a@lbAgU5lR1O7L_5mCbNz_D.md",
+    "roadmaps/cyber-security/content/comptia-security@AxeDcKK3cUtEojtHQPBw7.md",
+    "roadmaps/cyber-security/content/computer-hardware-components@Ih0YZt8u9vDwYo8y1t41n.md",
+    "roadmaps/cyber-security/content/connection-types-and-their-function@F1QVCEmGkgvz-_H5lTxY2.md",
+    "roadmaps/cyber-security/content/containment@l7WnKuR2HTD4Vf9U2TxkK.md",
+    "roadmaps/cyber-security/content/core-concepts-of-zero-trust@HavEL0u65ZxHt92TfbLzk.md",
+    "roadmaps/cyber-security/content/crest@rA1skdztev3-8VmAtIlmr.md",
+    "roadmaps/cyber-security/content/csf@HjfgaSEZjW9BOXy_Ixzkk.md",
+    "roadmaps/cyber-security/content/csrf@pK2iRArULlK-B3iSVo4-n.md",
+    "roadmaps/cyber-security/content/curl@W7iQUCjODGYgE4PjC5TZI.md",
+    "roadmaps/cyber-security/content/cyber-kill-chain@H38Vb7xvuBJXVzgPBdRdT.md",
+    "roadmaps/cyber-security/content/dd@9xbU_hrEOUtMm-Q09Fe6t.md",
+    "roadmaps/cyber-security/content/deauth-attack@LfWJJaT3fv0p6fUeS8b84.md",
+    "roadmaps/cyber-security/content/default-gateway@5rKaFtjYx0n2iF8uTLs8X.md",
+    "roadmaps/cyber-security/content/dhcp@R5HEeh6jwpQDo27rz1KSH.md",
+    "roadmaps/cyber-security/content/dhcp@T4312p70FqRBkzVfWKMaR.md",
+    "roadmaps/cyber-security/content/diamond-model@AY-hoPGnAZSd1ExaYX8LR.md",
+    "roadmaps/cyber-security/content/different-versions-and-differences@yXOGqlufAZ69uiBzKFfh6.md",
+    "roadmaps/cyber-security/content/dig@D2YYv1iTRGken75sHO0Gt.md",
+    "roadmaps/cyber-security/content/dig@XyaWZZ45axJMKXoWwsyFj.md",
+    "roadmaps/cyber-security/content/directory-traversal@L0ROYh2DNlkybNDO2ezJY.md",
+    "roadmaps/cyber-security/content/dlp@iolsTC-63d_1wzKGul-cT.md",
+    "roadmaps/cyber-security/content/dmz@gfpvDQz61I3zTB7tGu7vp.md",
+    "roadmaps/cyber-security/content/dns@ORIdKG8H97VkBUYpiDtXf.md",
+    "roadmaps/cyber-security/content/dnssec@LLGXONul7JfZGUahnK0AZ.md",
+    "roadmaps/cyber-security/content/dos-vs-ddos@IF5H0ZJ72XnqXti3jRWYF.md",
+    "roadmaps/cyber-security/content/drive-by-attack@cO70zHvHgBAH29khF-hBW.md",
+    "roadmaps/cyber-security/content/edr@QvHWrmMzO8IvNQ234E_wf.md",
+    "roadmaps/cyber-security/content/endpoint-security@LEgJtu1GZKOtoAXyOGWLE.md",
+    "roadmaps/cyber-security/content/esxi@BisNooct1vJDKaBKsGR7_.md",
+    "roadmaps/cyber-security/content/event-logs@KbFwL--xF-eYjGy8PZdrM.md",
+    "roadmaps/cyber-security/content/evil-twin@O1fY2n40yjZtJUEeoItKr.md",
+    "roadmaps/cyber-security/content/false-negative--false-positive@XwRCZf-yHJsXVjaRfb3R4.md",
+    "roadmaps/cyber-security/content/firewall--nextgen-firewall@tWDo5R3KU5KOjDdtv801x.md",
+    "roadmaps/cyber-security/content/firewall-logs@np0PwKy-EvIa_f_LC6Eem.md",
+    "roadmaps/cyber-security/content/ftk-imager@_jJhL1RtaqHJmlcWrd-Ak.md",
+    "roadmaps/cyber-security/content/ftp-vs-sftp@9Z6HPHPj4escSVDWftFEx.md",
+    "roadmaps/cyber-security/content/ftp@ftYYMxRpVer-jgSswHLNa.md",
+    "roadmaps/cyber-security/content/fundamental-it-skills@oimYzZYFXKjgvc7D4c-2u.md",
+    "roadmaps/cyber-security/content/go@jehVvdz8BnruKjqHMKu5v.md",
+    "roadmaps/cyber-security/content/google-drive@fTZ4PqH-AMhYA_65w4wFO.md",
+    "roadmaps/cyber-security/content/google-suite@IOK_FluAv34j3Tj_NvwdO.md",
+    "roadmaps/cyber-security/content/gpen@t4h9rEKWz5Us0qJKXhxlX.md",
+    "roadmaps/cyber-security/content/grep@Dfz-6aug0juUpMmOJLCJ9.md",
+    "roadmaps/cyber-security/content/group-policy@FxuMJmDoDkIsPFp2iocFg.md",
+    "roadmaps/cyber-security/content/gsec@nlmATCTgHoIoMcEOW8bUW.md",
+    "roadmaps/cyber-security/content/gtfobins@Jd9t8e9r29dHRsN40dDOk.md",
+    "roadmaps/cyber-security/content/guestos@LocGETHz6ANYinNd5ZLsS.md",
+    "roadmaps/cyber-security/content/gwapt@rwniCTWfYpKP5gi02Pa9f.md",
+    "roadmaps/cyber-security/content/hackthebox@wkuE_cChPZT2MHyGjUuU4.md",
+    "roadmaps/cyber-security/content/hashing@0UZmAECMnfioi-VeXcvg8.md",
+    "roadmaps/cyber-security/content/head@VNmrb5Dm4UKUgL8JBfhnE.md",
+    "roadmaps/cyber-security/content/hips@l5EnhOCnkN-RKvgrS9ylH.md",
+    "roadmaps/cyber-security/content/honeypots@bj5YX8zhlam0yoNckL8e4.md",
+    "roadmaps/cyber-security/content/host-based-firewall@jWl1VWkZn3n1G2eHq6EnX.md",
+    "roadmaps/cyber-security/content/hping@Cclbt4bNfkHwFwZOvJuLK.md",
+    "roadmaps/cyber-security/content/hr@05tH6WhToC615JTFN-TPc.md",
+    "roadmaps/cyber-security/content/http--https@3Awm221OJHxXNLiL9yxfd.md",
+    "roadmaps/cyber-security/content/hybrid@ywRlTuTfh5-NHnv4ZyW1t.md",
+    "roadmaps/cyber-security/content/hypervisor@CIoLaRv5I3sCr9tBnZHEi.md",
+    "roadmaps/cyber-security/content/iaas@1nPifNUm-udLChIqLC_uK.md",
+    "roadmaps/cyber-security/content/icloud@E7yfALgu9E2auOYDOTmex.md",
+    "roadmaps/cyber-security/content/icloud@Wqy6ki13hP5c0VhGYEhHj.md",
+    "roadmaps/cyber-security/content/identification@XsRoldaBXUSiGbvY1TjQd.md",
+    "roadmaps/cyber-security/content/impersonation@ZEgxmvjWPp5NofLFz_FTJ.md",
+    "roadmaps/cyber-security/content/infrared@KsZ63c3KQLLn373c5CZnp.md",
+    "roadmaps/cyber-security/content/installation-and-configuration@02aaEP9E5tlefeGBxf_Rj.md",
+    "roadmaps/cyber-security/content/installing-software-and-applications@Ot3LGpM-CT_nKsNqIKIye.md",
+    "roadmaps/cyber-security/content/ipam@hN8p5YBcSaPm-byQUIz8L.md",
+    "roadmaps/cyber-security/content/ipconfig@u-6xuZUyOrogh1bU4cwER.md",
+    "roadmaps/cyber-security/content/ipsec@gNFVtBxSYP5Uw3o3tlJ0M.md",
+    "roadmaps/cyber-security/content/iptables@jr8JlyqmN3p7Ol3_kD9AH.md",
+    "roadmaps/cyber-security/content/iso@oRssaVG-K-JwlL6TAHhXw.md",
+    "roadmaps/cyber-security/content/javascript@2SThr6mHpX6rpW-gmsqxG.md",
+    "roadmaps/cyber-security/content/joe-sandbox@h__KxKa0Q74_egY7GOe-L.md",
+    "roadmaps/cyber-security/content/jump-server@UF3BV1sEEOrqh5ilnfM1B.md",
+    "roadmaps/cyber-security/content/kali-linux@w6wXkoLrv0_d-Ah0txUHd.md",
+    "roadmaps/cyber-security/content/kerberos@lG6afUOx3jSQFxbH92otL.md",
+    "roadmaps/cyber-security/content/key-exchange@rmR6HJqEhHDgX55Xy5BAW.md",
+    "roadmaps/cyber-security/content/kill-chain@7Bmp4x6gbvWMuVDdGRUGj.md",
+    "roadmaps/cyber-security/content/known-vs-unknown@HPlPGKs7NLqmBidHJkOZg.md",
+    "roadmaps/cyber-security/content/lan@xWxusBtMEWnd-6n7oqjHz.md",
+    "roadmaps/cyber-security/content/ldap@lV3swvD6QGLmD9iVfbKIF.md",
+    "roadmaps/cyber-security/content/ldaps@z_fDvTgKw51Uepo6eMQd9.md",
+    "roadmaps/cyber-security/content/learn-how-malware-works-and-types@v7CD_sHqLWbm9ibXXESIK.md",
+    "roadmaps/cyber-security/content/legal@C5bCIdPi0gGkY_r4qqoXZ.md",
+    "roadmaps/cyber-security/content/lessons-learned@ErRol7AT02HTn3umsPD_0.md",
+    "roadmaps/cyber-security/content/linux@4frVcjYI1VlVU9hQgpwcT.md",
+    "roadmaps/cyber-security/content/local-auth@vYvFuz7lAJXZ1vK_4999a.md",
+    "roadmaps/cyber-security/content/localhost@0TWwox-4pSwuXojI8ixFO.md",
+    "roadmaps/cyber-security/content/lolbas@10qbxX8DCrfyH7tgYexxQ.md",
+    "roadmaps/cyber-security/content/loopback@W_oloLu2Euz5zRSy7v_T8.md",
+    "roadmaps/cyber-security/content/mac-based@OAukNfV5T0KTnIF9jKYRF.md",
+    "roadmaps/cyber-security/content/macos@dztwr-DSckggQbcNIi4_2.md",
+    "roadmaps/cyber-security/content/man@LrwTMH_1fTd8iB9wJg-0t.md",
+    "roadmaps/cyber-security/content/memdump@wspNQPmqWRjKoFm6x_bVw.md",
+    "roadmaps/cyber-security/content/memory-leak@nOND14t7ISgSH3zNpV3F8.md",
+    "roadmaps/cyber-security/content/mesh@PYeF15e7iVB9seFrrO7W6.md",
+    "roadmaps/cyber-security/content/mfa--2fa@pnfVrOjDeG1uYAeqHxhJP.md",
+    "roadmaps/cyber-security/content/mitm@ODlVT6MhV-RVUbRMG0mHi.md",
+    "roadmaps/cyber-security/content/ms-office-suite@-5haJATqlmj0SFSFAqN6A.md",
+    "roadmaps/cyber-security/content/nist@SOkJUTd1NUKSwYMIprv4m.md",
+    "roadmaps/cyber-security/content/nmap@Hoou7kWyfB2wx_yFHug_H.md",
+    "roadmaps/cyber-security/content/nmap@xqwIEyGfdZFxk6QqbPswe.md",
+    "roadmaps/cyber-security/content/obfuscation@kxlg6rpfqqoBfmMMg3EkJ.md",
+    "roadmaps/cyber-security/content/onedrive@MWqnhDKm9jXvDDjkeVNxm.md",
+    "roadmaps/cyber-security/content/operating-system-hardening@_S25EOGS3P8647zLM5i-g.md",
+    "roadmaps/cyber-security/content/operating-systems@UY6xdt_V3YMkZxZ1hZLvW.md",
+    "roadmaps/cyber-security/content/os-independent-troubleshooting@pJUhQin--BGMuXHPwx3JJ.md",
+    "roadmaps/cyber-security/content/oscp@SwVGVP2bbCFs2uNg9Qtxb.md",
+    "roadmaps/cyber-security/content/paas@PQ_np6O-4PK2V-r5lywQg.md",
+    "roadmaps/cyber-security/content/packet-captures@TIxEkfBrN6EXQ3IKP1B7u.md",
+    "roadmaps/cyber-security/content/packet-sniffers@k6UX0BJho5arjGD2RWPgH.md",
+    "roadmaps/cyber-security/content/patching@e-MDyUR3GEv-e4Qsx_5vV.md",
+    "roadmaps/cyber-security/content/perimiter-vs-dmz-vs-segmentation@PUgPgpKio4Npzs86qEXa7.md",
+    "roadmaps/cyber-security/content/phishing@7obusm5UtHwWMcMMEB3lt.md",
+    "roadmaps/cyber-security/content/picoctf@pou5xHwnz9Zsy5J6lNlKq.md",
+    "roadmaps/cyber-security/content/ping@GuuY-Q6FZzfspB3wrH64r.md",
+    "roadmaps/cyber-security/content/pki@fxyJxrf3mnFTa3wXk1MCW.md",
+    "roadmaps/cyber-security/content/port-scanners@iJRQHzh5HXADuWpCouwxv.md",
+    "roadmaps/cyber-security/content/power-shell@paY9x2VJA98FNGBFGRXp2.md",
+    "roadmaps/cyber-security/content/preparation@w6V4JOtXKCMPAkKIQxvMg.md",
+    "roadmaps/cyber-security/content/private-vs-public-keys@7svh9qaaPp0Hz23yinIye.md",
+    "roadmaps/cyber-security/content/private@ecpMKP1cQXXsfKETDUrSf.md",
+    "roadmaps/cyber-security/content/privilege-escalation@cvI8-sxY5i8lpelW9iY_5.md",
+    "roadmaps/cyber-security/content/programming-skills@_RnuQ7952N8GWZfPD60sJ.md",
+    "roadmaps/cyber-security/content/protocol-analyzers@K05mEAsjImyPge0hDtsU0.md",
+    "roadmaps/cyber-security/content/proxmox@jqX1A5hFF3Qznqup4lfiF.md",
+    "roadmaps/cyber-security/content/public-vs-private-ip-addresses@2nQfhnvBjJg1uDZ28aE4v.md",
+    "roadmaps/cyber-security/content/public@ZDj7KBuyZsKyEMZViMoXW.md",
+    "roadmaps/cyber-security/content/python@XiHvGy--OkPFfJeKA6-LP.md",
+    "roadmaps/cyber-security/content/radius@tH3RLnJseqOzRIbZMklHD.md",
+    "roadmaps/cyber-security/content/rdp@Ia6M1FKPNpqLDiWx7CwDh.md",
+    "roadmaps/cyber-security/content/reconnaissance@UU_inxa8Y2lLP2BRhdLDT.md",
+    "roadmaps/cyber-security/content/recovery@vFjbZAJq8OfLb3_tsc7oT.md",
+    "roadmaps/cyber-security/content/replay-attack@mIX8PsIGuwgPCGQZ6ok2H.md",
+    "roadmaps/cyber-security/content/ring@9vEUVJ8NTh0wKyIE6-diY.md",
+    "roadmaps/cyber-security/content/rmf@fjEdufrZAfW4Rl6yDU8Hk.md",
+    "roadmaps/cyber-security/content/rogue-access-point@Ee7LfbhwJbiWjJ3b_bbni.md",
+    "roadmaps/cyber-security/content/roles-of-compliance-and-auditors@kqT0FRLt9Ak9P8PhHldO-.md",
+    "roadmaps/cyber-security/content/route@xFuWk7M-Vctk_xb7bHbWs.md",
+    "roadmaps/cyber-security/content/router@lwSFIbIX-xOZ0QK2sGFb1.md",
+    "roadmaps/cyber-security/content/s3@2jsTgT7k8MeaDtx6RJhOP.md",
+    "roadmaps/cyber-security/content/sandboxing@SLKwuLHHpC7D1FqrpPRAe.md",
+    "roadmaps/cyber-security/content/sans-holiday-hack-challenge@WCeJrvWl837m1BIjuA1Mu.md",
+    "roadmaps/cyber-security/content/security-skills-and-knowledge@_hYN0gEi9BL24nptEtXWU.md",
+    "roadmaps/cyber-security/content/sftp@YEy6o-clTBKZp1yOkLwNb.md",
+    "roadmaps/cyber-security/content/smime@9rmDvycXFcsGOq3v-_ziD.md",
+    "roadmaps/cyber-security/content/smishing@d4U6Jq-CUB1nNN2OCFoum.md",
+    "roadmaps/cyber-security/content/soar@i0ulrA-GJrNhIVmzdWDrn.md",
+    "roadmaps/cyber-security/content/social-engineering@O1VceThdxRlgQ6DcGyY7Y.md",
+    "roadmaps/cyber-security/content/spam-vs-spim@cbEMUyg_btIPjdx-XqIM5.md",
+    "roadmaps/cyber-security/content/spoofing@LteSouUtAj3JWWOzcjQPl.md",
+    "roadmaps/cyber-security/content/sql-injection@P-Am25WJV8cFd_KsX7cdj.md",
+    "roadmaps/cyber-security/content/srtp@_9lQSG6fn69Yd9rs1pQdL.md",
+    "roadmaps/cyber-security/content/ssh@8Mog890Lj-gVBpWa05EzT.md",
+    "roadmaps/cyber-security/content/ssl--tls@LKK1A5-xawA7yCIAWHS8P.md",
+    "roadmaps/cyber-security/content/ssl-and-tls-basics@dJ0NUsODFhk52W2zZxoPh.md",
+    "roadmaps/cyber-security/content/ssl-vs-tls@6ILPXeUDDmmYRiA_gNTSr.md",
+    "roadmaps/cyber-security/content/sso@xL32OqDKm6O043TYgVV1r.md",
+    "roadmaps/cyber-security/content/stakeholders@lv6fI3WeJawuCbwKtMRIh.md",
+    "roadmaps/cyber-security/content/star@P0ZhAXd_H-mTOMr13Ag31.md",
+    "roadmaps/cyber-security/content/subnet-mask@f-v8qtweWXFY_Ryo3oYUF.md",
+    "roadmaps/cyber-security/content/switch@r9byGV8XuBPzoqj5ZPf2W.md",
+    "roadmaps/cyber-security/content/syslogs@7oFwRkmoZom8exMDtMslX.md",
+    "roadmaps/cyber-security/content/tail@762Wf_Eh-3zq69CZZiIjR.md",
+    "roadmaps/cyber-security/content/tailgating@o-keJgF9hmifQ_hUD91iN.md",
+    "roadmaps/cyber-security/content/tcpdump@y8GaUNpaCT1Ai88wPOk6d.md",
+    "roadmaps/cyber-security/content/tracert@cSz9Qx3PGwmhq3SSKYKfg.md",
+    "roadmaps/cyber-security/content/tracert@jJtS0mgCYc0wbjuXssDRO.md",
+    "roadmaps/cyber-security/content/troubleshooting@xeRWOX1fWQDLNLWMAFTEe.md",
+    "roadmaps/cyber-security/content/understand-backups-and-resiliency@9asy3STW4oTYYHcUazaRj.md",
+    "roadmaps/cyber-security/content/understand-basics-of-forensics@7KLGFfco-hw7a62kXtS3d.md",
+    "roadmaps/cyber-security/content/understand-basics-of-popular-suites@_7RjH4Goi0x6Noy6za0rP.md",
+    "roadmaps/cyber-security/content/understand-cia-triad@uz6ELaLEu9U4fHVfnQiOa.md",
+    "roadmaps/cyber-security/content/understand-common-exploit-frameworks@Lg7mz4zeCToEzZBFxYuaU.md",
+    "roadmaps/cyber-security/content/understand-common-hacking-tools@rzY_QsvnC1shDTPQ-til0.md",
+    "roadmaps/cyber-security/content/understand-concept-of-defense-in-depth@Rae-f9DHDZuwIwW6eRtKF.md",
+    "roadmaps/cyber-security/content/understand-concept-of-isolation@aDF7ZcOX9uR8l0W4aqhYn.md",
+    "roadmaps/cyber-security/content/understand-concept-of-runbooks@Ec6EairjFJLCHc7b-1xxe.md",
+    "roadmaps/cyber-security/content/understand-handshakes@zQx_VUS1zRmF4zCGjJD5-.md",
+    "roadmaps/cyber-security/content/understand-permissions@bTfL7cPOmBBFl-eHxUJI6.md",
+    "roadmaps/cyber-security/content/understand-the-basics-and-general-flow-of-deploying-in-the-cloud@XL3FVeGFDhAl_gSol6Tjt.md",
+    "roadmaps/cyber-security/content/understand-the-concept-of-infrastructure-as-code@RJctUpvlUJGAdwBNtDSXw.md",
+    "roadmaps/cyber-security/content/understand-the-concept-of-security-in-the-cloud@ThLsXkqLw--uddHz0spCH.md",
+    "roadmaps/cyber-security/content/understand-the-concept-of-serverless@-83ltMEl3le3yD68OFnTM.md",
+    "roadmaps/cyber-security/content/understand-the-definition-of-risk@ggAja18sBUUdCfVsT0vCv.md",
+    "roadmaps/cyber-security/content/understand-the-differences-between-cloud-and-on-premises@KGjYM4Onr5GQf1Yv9IabI.md",
+    "roadmaps/cyber-security/content/understand-the-osi-model@OXUd1UPPsBhNoUGLKZJGV.md",
+    "roadmaps/cyber-security/content/virustotal@rxzcAzHjzIc9lkWSw0fef.md",
+    "roadmaps/cyber-security/content/vpn@gTozEpxJeG1NTkVBHH-05.md",
+    "roadmaps/cyber-security/content/vulnhub@W94wY_otBuvVW_-EFlKA6.md",
+    "roadmaps/cyber-security/content/wadcoms@Rnpx7VkhrBkSQTni6UuTR.md",
+    "roadmaps/cyber-security/content/wan@vCkTJMkDXcQmwsmeNUAX5.md",
+    "roadmaps/cyber-security/content/watering-hole-attack@dcvuKHq0nHgHLcLwtl4IJ.md",
+    "roadmaps/cyber-security/content/web-based-attacks-and-owasp10@fyOYVqiBqyKC4aqc6-y0q.md",
+    "roadmaps/cyber-security/content/wifi@fUBNKHNPXbemRYrnzH3VT.md",
+    "roadmaps/cyber-security/content/windows@BNUKEQ4YpZmIhSPQdkHgU.md",
+    "roadmaps/cyber-security/content/winhex@gNan93Mg9Ym2AF3Q2gqoi.md",
+    "roadmaps/cyber-security/content/wireshark@Sm9bxKUElINHND8FdZ5f2.md",
+    "roadmaps/cyber-security/content/wlan@QCVYF1rmPsMVtklBNDNaB.md",
+    "roadmaps/cyber-security/content/wpa-vs-wpa2-vs-wpa3-vs-wep@MBnDE0VyVh2u2p-r90jVk.md",
+    "roadmaps/cyber-security/content/xss@2jo1r9O_rCnDwRv1_4Wo-.md"
   ],
   "completed_roadmaps": [
     "frontend-beginner",
@@ -1867,7 +2109,8 @@
     "code-review",
     "computer-science",
     "cpp",
-    "css"
+    "css",
+    "cyber-security"
   ],
   "flagged_issues": [
     {
@@ -4194,8 +4437,303 @@
       "file": "roadmaps/css/content/text-decoration@AUzbo8UwpL-XxvhMCvtoe.md",
       "reason": "Falha na tradução automática após tentativas no Ollama",
       "timestamp": "2026-08-15T04:07:23.120510"
+    },
+    {
+      "file": "roadmaps/cyber-security/content/certificates@WXRaVCYwuGQsjJ5wyvbea.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:11:13.187479"
+    },
+    {
+      "file": "roadmaps/cyber-security/content/cidr@PPIH1oHW4_ZDyD3U3shDg.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:11:17.980039"
+    },
+    {
+      "file": "roadmaps/cyber-security/content/cis@sSihnptkoEqUsHjDpckhG.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:11:20.923480"
+    },
+    {
+      "file": "roadmaps/cyber-security/content/cloud-skills-and-knowledge@vVaBQ5VtsE_ZeXbCOF8ux.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:11:59.081267"
+    },
+    {
+      "file": "roadmaps/cyber-security/content/common-commands@WDrSO7wBNn-2jB8mcyT7j.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:12:03.765566"
+    },
+    {
+      "file": "roadmaps/cyber-security/content/comptia-linux@p34Qwlj2sjwEPR2ay1WOK.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:12:41.952436"
+    },
+    {
+      "file": "roadmaps/cyber-security/content/comptia-network@4RGbNOfMPDbBcvUFWTTCV.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:12:45.654396"
+    },
+    {
+      "file": "roadmaps/cyber-security/content/dns-poisoning@urtsyYWViEzbqYLoNfQAh.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:14:52.423933"
+    },
+    {
+      "file": "roadmaps/cyber-security/content/dns@r1IKvhpwg2umazLGlQZL1.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:15:03.801642"
+    },
+    {
+      "file": "roadmaps/cyber-security/content/dropbox@9OastXVfiG1YRMm68ecnn.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:15:32.534047"
+    },
+    {
+      "file": "roadmaps/cyber-security/content/dumpster-diving@Iu0Qtk13RjrhHpSlm0uyh.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:15:36.580682"
+    },
+    {
+      "file": "roadmaps/cyber-security/content/eap-vs-peap@1jwtExZzR9ABKvD_S9zFG.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:15:40.854876"
+    },
+    {
+      "file": "roadmaps/cyber-security/content/eradication@N17xAIo7sgbB0nrIDMWju.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:15:58.935426"
+    },
+    {
+      "file": "roadmaps/cyber-security/content/gcp@tOLA5QPKi6LHl1ljsOMwX.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:17:10.196520"
+    },
+    {
+      "file": "roadmaps/cyber-security/content/giac@ZiUT-lyIBfHTzG-dwSy96.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:17:13.501015"
+    },
+    {
+      "file": "roadmaps/cyber-security/content/hostos@p7w3C94xjLwSMm5qA8XlL.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:18:35.754548"
+    },
+    {
+      "file": "roadmaps/cyber-security/content/ip@FdoqB2---uDAyz6xZjk_u.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:19:46.480771"
+    },
+    {
+      "file": "roadmaps/cyber-security/content/ipconfig@IXNGFF4sOFbQ_aND-ELK0.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:19:54.098089"
+    },
+    {
+      "file": "roadmaps/cyber-security/content/management@s9tHpzYRj2HCImwQhnjFM.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:22:10.324755"
+    },
+    {
+      "file": "roadmaps/cyber-security/content/nac-based@6oAzYfwsHQYNVbi7c2Tly.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:22:53.669020"
+    },
+    {
+      "file": "roadmaps/cyber-security/content/nat@Kkd3f_0OYNCdpDgrJ-_Ju.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:22:58.901864"
+    },
+    {
+      "file": "roadmaps/cyber-security/content/navigating-using-gui-and-cli@MGitS_eJBoY99zOR-W3F4.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:23:01.310525"
+    },
+    {
+      "file": "roadmaps/cyber-security/content/netflow@xXz-SwvXA2cLfdCd-hLtW.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:23:18.562053"
+    },
+    {
+      "file": "roadmaps/cyber-security/content/netstat@2M3PRbGzo14agbEPe32ww.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:23:23.257331"
+    },
+    {
+      "file": "roadmaps/cyber-security/content/networking-knowledge@gSLr-Lc119eX9Ig-kDzJ2.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:23:26.740341"
+    },
+    {
+      "file": "roadmaps/cyber-security/content/nfc@hwAUFLYpc_ftCfXq95dey.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:23:50.389949"
+    },
+    {
+      "file": "roadmaps/cyber-security/content/nids@LIPtxl_oKZRcbvXT4EdNf.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:23:55.724556"
+    },
+    {
+      "file": "roadmaps/cyber-security/content/nips@7w9qj16OD4pUzq-ItdxeK.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:24:00.977773"
+    },
+    {
+      "file": "roadmaps/cyber-security/content/nslookup@OUarb1oS1-PX_3OXNR0rV.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:24:28.778199"
+    },
+    {
+      "file": "roadmaps/cyber-security/content/nslookup@tk4iG5i1Ml9w9KRO1tGJU.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:24:33.079251"
+    },
+    {
+      "file": "roadmaps/cyber-security/content/ntp@tf0TymdPHbplDHvuVIIh4.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:24:37.136252"
+    },
+    {
+      "file": "roadmaps/cyber-security/content/parrotos@zR6djXnfTSFVEfvJonQjf.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:25:38.272555"
+    },
+    {
+      "file": "roadmaps/cyber-security/content/pass-the-hash@sMuKqf27y4iG0GrCdF5DN.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:25:41.607593"
+    },
+    {
+      "file": "roadmaps/cyber-security/content/penetration-testing-rules-of-engagement@NkAAQikwH-A6vrF8fWpuB.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:26:05.652535"
+    },
+    {
+      "file": "roadmaps/cyber-security/content/performing-crud-on-files@zRXyoJMap9irOYo3AdHE8.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:26:09.665621"
+    },
+    {
+      "file": "roadmaps/cyber-security/content/ping@yfTpp-ePuDB931FnvNB-Y.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:26:47.025655"
+    },
+    {
+      "file": "roadmaps/cyber-security/content/port-blocking@W7bcydXdwlubXF2PHKOuq.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:26:56.396476"
+    },
+    {
+      "file": "roadmaps/cyber-security/content/saas@sVw5KVNxPEatBRKb2ZbS_.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:29:15.730181"
+    },
+    {
+      "file": "roadmaps/cyber-security/content/salting@jqWhR6oTyX6yolUBv71VC.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:29:17.951725"
+    },
+    {
+      "file": "roadmaps/cyber-security/content/shoulder-surfing@FD0bkmxNpPXiUB_NevEUf.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:30:01.301894"
+    },
+    {
+      "file": "roadmaps/cyber-security/content/siem@c2kY3wZVFKZYxMARhLIwO.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:30:05.919949"
+    },
+    {
+      "file": "roadmaps/cyber-security/content/sinkholes@oFgyQYL3Ws-l7B5AF-bTR.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:30:09.200454"
+    },
+    {
+      "file": "roadmaps/cyber-security/content/true-negative--true-positive@M6uwyD4ibguxytf1od-og.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:32:23.154152"
+    },
+    {
+      "file": "roadmaps/cyber-security/content/tryhackme@kht-L7_v-DbglMYUHuchp.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:32:28.399242"
+    },
+    {
+      "file": "roadmaps/cyber-security/content/typo-squatting@0LeDwj_tMaXjQBBOUJ5CL.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:32:32.805284"
+    },
+    {
+      "file": "roadmaps/cyber-security/content/urlscan@lMiW2q-b72KUl-2S7M6Vb.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:34:13.123555"
+    },
+    {
+      "file": "roadmaps/cyber-security/content/urlvoid@lFt1k1Q-NlWWqyDA3gWD1.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:34:16.135172"
+    },
+    {
+      "file": "roadmaps/cyber-security/content/virtualbox@vGVFhZXYOZOy4qFpLLbxp.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:34:20.989123"
+    },
+    {
+      "file": "roadmaps/cyber-security/content/vlan-hopping@u4hySof6if5hiONSaW-Uf.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:34:44.416583"
+    },
+    {
+      "file": "roadmaps/cyber-security/content/vlan@d5Cv3EXf6OXW19yPJ4x6e.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:34:49.175075"
+    },
+    {
+      "file": "roadmaps/cyber-security/content/vm@251sxqoHggQ4sZ676iX5w.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:35:07.351384"
+    },
+    {
+      "file": "roadmaps/cyber-security/content/vm@ZTC5bLWEIQcdmowc7sk_E.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:35:12.960914"
+    },
+    {
+      "file": "roadmaps/cyber-security/content/vmware@AjywuCZdBi9atGUbetlUL.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:35:16.394247"
+    },
+    {
+      "file": "roadmaps/cyber-security/content/whaling@KSwl6sX2W47vUmytpm8LH.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:36:05.478961"
+    },
+    {
+      "file": "roadmaps/cyber-security/content/whishing@M65fCl72qlF0VTbGNT6du.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:36:09.594414"
+    },
+    {
+      "file": "roadmaps/cyber-security/content/whois@-RnlvUltJ9IDtH0HEnMbN.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:36:14.643911"
+    },
+    {
+      "file": "roadmaps/cyber-security/content/wps@HSCGbM2-aTnJWUX6jGaDP.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:37:05.236333"
+    },
+    {
+      "file": "roadmaps/cyber-security/content/zero-day@v9njgIxZyabJZ5iND3JGc.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:37:13.636861"
+    },
+    {
+      "file": "roadmaps/cyber-security/content/zero-day@zqRaMmqcLfx400kJ-h0LO.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:37:21.918225"
     }
   ],
-  "last_updated": "2026-08-15T04:08:08.684022",
+  "last_updated": "2026-08-15T04:37:21.922773",
   "total_translated_count": 54
 }

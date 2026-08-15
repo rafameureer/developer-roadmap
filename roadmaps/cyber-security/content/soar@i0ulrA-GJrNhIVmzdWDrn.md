@@ -1,8 +1,8 @@
-# Security Orchestration, Automation, and Response (SOAR)
+# Orquestração, Automação e Resposta à Segurança (SOAR)
 
-SOAR refers to a collection of software solutions and tools that allow organizations to gather security-related data from various sources, analyze it, and automate responses to security incidents. It integrates different security technologies to streamline incident response, reduce manual effort, and improve the overall efficiency of security operations. SOAR platforms typically include incident management, automation, and orchestration capabilities to help security teams quickly and effectively address threats.
+SOAR refere-se a uma coleção de soluções de software e ferramentas que permitem que as organizações coletem dados relacionados à segurança de várias fontes, analisem esses dados e automatizem respostas a incidentes de segurança. Ele integra diferentes tecnologias de segurança para simplificar a resposta a incidentes, reduzir o esforço manual e melhorar a eficiência geral das operações de segurança. Plataformas SOAR normalmente incluem capacidades de gerenciamento de incidentes, automação e orquestração para ajudar os times de segurança a responder rapidamente e eficazmente a ameaças.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is SOAR?](https://www.paloaltonetworks.co.uk/cyberpedia/what-is-soar)
-- [@video@What is SOAR (Security, Orchestration, Automation & Response)](https://www.youtube.com/watch?v=k7ju95jDxFA)
+- [@article@O que é SOAR?](https://www.paloaltonetworks.co.uk/cyberpedia/what-is-soar)
+- [@video@O que é SOAR (Orquestração, Automação e Resposta à Segurança)](https://www.youtube.com/watch?v=k7ju95jDxFA)

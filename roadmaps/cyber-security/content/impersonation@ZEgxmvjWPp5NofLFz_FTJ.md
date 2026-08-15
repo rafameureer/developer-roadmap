@@ -1,7 +1,7 @@
-# Impersonation
+# Impersonação
 
-Impersonation in cybersecurity refers to an attack technique where a threat actor pretends to be a legitimate person or entity to deceive individuals, systems, or organizations. This tactic is commonly used in social engineering attacks to gain unauthorized access to sensitive information, resources, or systems.
+A impersonação na segurança cibernética refere-se a uma técnica de ataque onde um atacante se passa por uma pessoa ou entidade legítima para enganar indivíduos, sistemas ou organizações. Esse tática é comumente usada em ataques de engenharia social para obter acesso não autorizado a informações sensíveis, recursos ou sistemas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is an Impersonation Attack?](https://www.upguard.com/blog/impersonation-attack)
+- [@artigo@O que é um Ataque de Impersonação?](https://www.upguard.com/blog/impersonation-attack)

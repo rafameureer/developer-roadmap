@@ -1,8 +1,8 @@
 # dig
 
-`dig`, short for the Domain Information Groper, is a powerful and flexible command-line tool used to perform DNS queries and obtain valuable information about domains, IPs, and DNS records. This utility, available on UNIX-based systems like Linux and macOS, provides an essential function to help diagnose and resolve various issues related to domain name resolution and network connectivity. It is highly useful for network administrators and cybersecurity professionals when troubleshooting DNS-related problems.
+`dig`, abreviação para Domain Information Groper, é uma ferramenta de linha de comando poderosa e flexível usada para realizar consultas DNS e obter informações valiosas sobre domínios, IPs e registros DNS. Esta utilidade, disponível em sistemas baseados em UNIX como Linux e macOS, fornece uma função essencial para ajudar a diagnosticar e resolver diversos problemas relacionados à resolução de nomes de domínio e conectividade de rede. É altamente útil para administradores de redes e profissionais de segurança cibernética ao lidar com problemas relacionados a DNS.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@How to use Linux dig command](https://www.google.com/search?client=firefox-b-d&q=linux+dig+command)
-- [@video@How to look up DNS records with dig](https://www.youtube.com/watch?v=3AOKomsmeUY)
+- [@artigo@Como usar o comando dig do Linux](https://www.google.com/search?client=firefox-b-d&q=linux+dig+command)
+- [@vídeo@Como pesquisar registros DNS com dig](https://www.youtube.com/watch?v=3AOKomsmeUY)

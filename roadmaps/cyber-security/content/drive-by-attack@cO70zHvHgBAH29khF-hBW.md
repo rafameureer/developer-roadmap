@@ -1,8 +1,8 @@
-# Drive-by Attack
+# Ataque Drive-by
 
-Drive-by Attack is a type of cyberattack where malicious code is automatically downloaded and executed on a user's system simply by visiting a compromised or malicious website. The user does not need to click on anything or interact with the page; just loading the website is enough to trigger the attack.
+Um Ataque Drive-by é um tipo de ataque cibernético onde código malicioso é automaticamente baixado e executado em um sistema do usuário simplesmente visitando um site comprometido ou malicioso. O usuário não precisa clicar em nada ou interagir com a página; apenas carregar o site é suficiente para acionar o ataque.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is a Drive-By Attack?](https://www.ericom.com/glossary/what-is-a-drive-by-attack/)
-- [@video@Drive-By Download attack](https://www.youtube.com/watch?v=xL4DyblbnKg)
+- [@artigo@O que é um Ataque Drive-by?](https://www.ericom.com/glossary/what-is-a-drive-by-attack/)
+- [@vídeo@Ataque de download Drive-by](https://www.youtube.com/watch?v=xL4DyblbnKg)

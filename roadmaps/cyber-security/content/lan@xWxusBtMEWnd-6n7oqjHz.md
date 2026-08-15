@@ -1,8 +1,8 @@
-# Local Area Networks (LANs)
+# Redes de Área Local (LANs)
 
-A Local Area Network (LAN) is a network that connects computers and other devices within a limited area, such as a home, school, office, or small group of buildings. It allows devices to share resources like files, printers, and internet access, enabling communication and collaboration within that confined space. LANs are typically privately owned and managed.
+A Rede de Área Local (LAN) é uma rede que conecta computadores e outros dispositivos em um determinado espaço limitado, como uma casa, escola, escritório ou pequeno grupo de edifícios. Ela permite que os dispositivos compartilhem recursos como arquivos, impressoras e acesso à internet, facilitando a comunicação e colaboração nesse espaço confinado. As LANs são geralmente propriedade privada e gerenciadas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is a LAN?](https://www.cisco.com/c/en_uk/products/switches/what-is-a-lan-local-area-network.html)
-- [@video@LAN vs. WAN: What's the Difference?](https://www.youtube.com/watch?v=5OoX_cRLaNM)
+- [@artigo@O que é uma LAN?](https://www.cisco.com/c/en_uk/products/switches/what-is-a-lan-local-area-network.html)
+- [@vídeo@LAN vs. WAN: Qual a Diferença?](https://www.youtube.com/watch?v=5OoX_cRLaNM)

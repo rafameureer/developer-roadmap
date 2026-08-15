@@ -4,7 +4,7 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 
 ---
 
-> ⚠️ **Total de itens sinalizados:** 465
+> ⚠️ **Total de itens sinalizados:** 524
 
 | Arquivo / Tópico | Motivo da Sinalização | Data/Hora |
 |---|---|---|
@@ -473,3 +473,62 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 | `roadmaps/css/content/tables@Q-6tdHPE-xpPGIG8J_Wz7.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:07:16.516096 |
 | `roadmaps/css/content/text-alignment@SABFbvM47j1cYCyeNfMZR.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:07:19.678844 |
 | `roadmaps/css/content/text-decoration@AUzbo8UwpL-XxvhMCvtoe.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:07:23.120510 |
+| `roadmaps/cyber-security/content/certificates@WXRaVCYwuGQsjJ5wyvbea.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:11:13.187479 |
+| `roadmaps/cyber-security/content/cidr@PPIH1oHW4_ZDyD3U3shDg.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:11:17.980039 |
+| `roadmaps/cyber-security/content/cis@sSihnptkoEqUsHjDpckhG.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:11:20.923480 |
+| `roadmaps/cyber-security/content/cloud-skills-and-knowledge@vVaBQ5VtsE_ZeXbCOF8ux.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:11:59.081267 |
+| `roadmaps/cyber-security/content/common-commands@WDrSO7wBNn-2jB8mcyT7j.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:12:03.765566 |
+| `roadmaps/cyber-security/content/comptia-linux@p34Qwlj2sjwEPR2ay1WOK.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:12:41.952436 |
+| `roadmaps/cyber-security/content/comptia-network@4RGbNOfMPDbBcvUFWTTCV.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:12:45.654396 |
+| `roadmaps/cyber-security/content/dns-poisoning@urtsyYWViEzbqYLoNfQAh.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:14:52.423933 |
+| `roadmaps/cyber-security/content/dns@r1IKvhpwg2umazLGlQZL1.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:15:03.801642 |
+| `roadmaps/cyber-security/content/dropbox@9OastXVfiG1YRMm68ecnn.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:15:32.534047 |
+| `roadmaps/cyber-security/content/dumpster-diving@Iu0Qtk13RjrhHpSlm0uyh.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:15:36.580682 |
+| `roadmaps/cyber-security/content/eap-vs-peap@1jwtExZzR9ABKvD_S9zFG.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:15:40.854876 |
+| `roadmaps/cyber-security/content/eradication@N17xAIo7sgbB0nrIDMWju.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:15:58.935426 |
+| `roadmaps/cyber-security/content/gcp@tOLA5QPKi6LHl1ljsOMwX.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:17:10.196520 |
+| `roadmaps/cyber-security/content/giac@ZiUT-lyIBfHTzG-dwSy96.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:17:13.501015 |
+| `roadmaps/cyber-security/content/hostos@p7w3C94xjLwSMm5qA8XlL.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:18:35.754548 |
+| `roadmaps/cyber-security/content/ip@FdoqB2---uDAyz6xZjk_u.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:19:46.480771 |
+| `roadmaps/cyber-security/content/ipconfig@IXNGFF4sOFbQ_aND-ELK0.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:19:54.098089 |
+| `roadmaps/cyber-security/content/management@s9tHpzYRj2HCImwQhnjFM.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:22:10.324755 |
+| `roadmaps/cyber-security/content/nac-based@6oAzYfwsHQYNVbi7c2Tly.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:22:53.669020 |
+| `roadmaps/cyber-security/content/nat@Kkd3f_0OYNCdpDgrJ-_Ju.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:22:58.901864 |
+| `roadmaps/cyber-security/content/navigating-using-gui-and-cli@MGitS_eJBoY99zOR-W3F4.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:23:01.310525 |
+| `roadmaps/cyber-security/content/netflow@xXz-SwvXA2cLfdCd-hLtW.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:23:18.562053 |
+| `roadmaps/cyber-security/content/netstat@2M3PRbGzo14agbEPe32ww.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:23:23.257331 |
+| `roadmaps/cyber-security/content/networking-knowledge@gSLr-Lc119eX9Ig-kDzJ2.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:23:26.740341 |
+| `roadmaps/cyber-security/content/nfc@hwAUFLYpc_ftCfXq95dey.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:23:50.389949 |
+| `roadmaps/cyber-security/content/nids@LIPtxl_oKZRcbvXT4EdNf.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:23:55.724556 |
+| `roadmaps/cyber-security/content/nips@7w9qj16OD4pUzq-ItdxeK.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:24:00.977773 |
+| `roadmaps/cyber-security/content/nslookup@OUarb1oS1-PX_3OXNR0rV.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:24:28.778199 |
+| `roadmaps/cyber-security/content/nslookup@tk4iG5i1Ml9w9KRO1tGJU.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:24:33.079251 |
+| `roadmaps/cyber-security/content/ntp@tf0TymdPHbplDHvuVIIh4.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:24:37.136252 |
+| `roadmaps/cyber-security/content/parrotos@zR6djXnfTSFVEfvJonQjf.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:25:38.272555 |
+| `roadmaps/cyber-security/content/pass-the-hash@sMuKqf27y4iG0GrCdF5DN.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:25:41.607593 |
+| `roadmaps/cyber-security/content/penetration-testing-rules-of-engagement@NkAAQikwH-A6vrF8fWpuB.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:26:05.652535 |
+| `roadmaps/cyber-security/content/performing-crud-on-files@zRXyoJMap9irOYo3AdHE8.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:26:09.665621 |
+| `roadmaps/cyber-security/content/ping@yfTpp-ePuDB931FnvNB-Y.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:26:47.025655 |
+| `roadmaps/cyber-security/content/port-blocking@W7bcydXdwlubXF2PHKOuq.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:26:56.396476 |
+| `roadmaps/cyber-security/content/saas@sVw5KVNxPEatBRKb2ZbS_.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:29:15.730181 |
+| `roadmaps/cyber-security/content/salting@jqWhR6oTyX6yolUBv71VC.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:29:17.951725 |
+| `roadmaps/cyber-security/content/shoulder-surfing@FD0bkmxNpPXiUB_NevEUf.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:30:01.301894 |
+| `roadmaps/cyber-security/content/siem@c2kY3wZVFKZYxMARhLIwO.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:30:05.919949 |
+| `roadmaps/cyber-security/content/sinkholes@oFgyQYL3Ws-l7B5AF-bTR.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:30:09.200454 |
+| `roadmaps/cyber-security/content/true-negative--true-positive@M6uwyD4ibguxytf1od-og.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:32:23.154152 |
+| `roadmaps/cyber-security/content/tryhackme@kht-L7_v-DbglMYUHuchp.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:32:28.399242 |
+| `roadmaps/cyber-security/content/typo-squatting@0LeDwj_tMaXjQBBOUJ5CL.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:32:32.805284 |
+| `roadmaps/cyber-security/content/urlscan@lMiW2q-b72KUl-2S7M6Vb.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:34:13.123555 |
+| `roadmaps/cyber-security/content/urlvoid@lFt1k1Q-NlWWqyDA3gWD1.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:34:16.135172 |
+| `roadmaps/cyber-security/content/virtualbox@vGVFhZXYOZOy4qFpLLbxp.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:34:20.989123 |
+| `roadmaps/cyber-security/content/vlan-hopping@u4hySof6if5hiONSaW-Uf.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:34:44.416583 |
+| `roadmaps/cyber-security/content/vlan@d5Cv3EXf6OXW19yPJ4x6e.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:34:49.175075 |
+| `roadmaps/cyber-security/content/vm@251sxqoHggQ4sZ676iX5w.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:35:07.351384 |
+| `roadmaps/cyber-security/content/vm@ZTC5bLWEIQcdmowc7sk_E.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:35:12.960914 |
+| `roadmaps/cyber-security/content/vmware@AjywuCZdBi9atGUbetlUL.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:35:16.394247 |
+| `roadmaps/cyber-security/content/whaling@KSwl6sX2W47vUmytpm8LH.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:36:05.478961 |
+| `roadmaps/cyber-security/content/whishing@M65fCl72qlF0VTbGNT6du.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:36:09.594414 |
+| `roadmaps/cyber-security/content/whois@-RnlvUltJ9IDtH0HEnMbN.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:36:14.643911 |
+| `roadmaps/cyber-security/content/wps@HSCGbM2-aTnJWUX6jGaDP.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:37:05.236333 |
+| `roadmaps/cyber-security/content/zero-day@v9njgIxZyabJZ5iND3JGc.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:37:13.636861 |
+| `roadmaps/cyber-security/content/zero-day@zqRaMmqcLfx400kJ-h0LO.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:37:21.918225 |

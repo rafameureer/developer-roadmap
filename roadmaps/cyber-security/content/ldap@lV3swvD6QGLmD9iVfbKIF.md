@@ -1,8 +1,8 @@
 # LDAP
 
-LDAP (Lightweight Directory Access Protocol) is a software protocol for enabling anyone to locate data about organizations, individuals, and other resources, such as files and devices on a network. It is a "directory service" that structures information in a hierarchical, tree-like structure, allowing for efficient searching and retrieval of information. Think of it like a phone book for networks, but instead of just names and numbers, it can store a wide range of information about network users and resources.
+LDAP (Protocolo de Acesso a Diretórios Leve) é um protocolo de software que permite que qualquer pessoa localize dados sobre organizações, indivíduos e outros recursos, como arquivos e dispositivos em uma rede. É um "serviço de diretório" que estrutura informações em uma estrutura hierárquica, árvore-like, permitindo a busca eficiente e recuperação de informações. Imagine-o como um caderno telefônico para redes, mas em vez de apenas nomes e números, ele pode armazenar uma ampla gama de informações sobre usuários e recursos da rede.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What Is LDAP & How Does It Work?](https://www.okta.com/uk/identity-101/what-is-ldap/)
-- [@video@What is LDAP](https://www.youtube.com/watch?v=vy3e6ekuqqg)
+- [@artigo@O que é LDAP & Como Funciona?](https://www.okta.com/uk/identity-101/what-is-ldap/)
+- [@vídeo@O que é LDAP](https://www.youtube.com/watch?v=vy3e6ekuqqg)

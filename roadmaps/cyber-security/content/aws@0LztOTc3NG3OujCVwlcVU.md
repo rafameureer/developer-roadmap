@@ -1,10 +1,10 @@
 # AWS
 
-Amazon Web Services (AWS) is a leading cloud computing platform provided by Amazon. Launched in 2006, AWS offers an extensive range of on-demand IT services, such as computing power, storage, databases, networking, and security, which enable organizations to develop, deploy, and scale applications and infrastructure quickly and cost-effectively.
+Amazon Web Services (AWS) é uma plataforma de computação em nuvem líder fornecida pela Amazon. Lançado em 2006, o AWS oferece um amplo range de serviços IT sob demanda, como potência de processamento, armazenamento, bancos de dados, rede e segurança, que permitem às organizações desenvolver, implantar e escalar aplicativos e infraestrutura rapidamente e de forma econômica.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit Dedicated AWS Roadmap](https://roadmap.sh/aws)
-- [@course@AWS Complete Tutorial](https://www.youtube.com/watch?v=B8i49C8fC3E)
+- [@roadmap@Visite o Caminho Dedidado do AWS](https://roadmap.sh/aws)
+- [@course@Tutorial Completo do AWS](https://www.youtube.com/watch?v=B8i49C8fC3E)
 - [@official@AWS](https://aws.amazon.com)
-- [@video@AWS Overview](https://www.youtube.com/watch?v=a9__D53WsUs)
+- [@video@Visão Geral do AWS](https://www.youtube.com/watch?v=a9__D53WsUs)

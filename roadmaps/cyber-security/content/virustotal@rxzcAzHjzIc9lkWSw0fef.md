@@ -1,10 +1,10 @@
 # VirusTotal
 
-VirusTotal is a service that analyzes files and URLs for malicious content. It uses a variety of antivirus engines, website scanners, and other tools to identify viruses, worms, trojans, and other kinds of malware. Users can submit suspicious files or URLs to VirusTotal, and the service will provide a detailed report of its analysis. This helps individuals and organizations determine whether a file or URL is safe before opening it.
+VirusTotal é um serviço que analisa arquivos e URLs em busca de conteúdo malicioso. Ele usa uma variedade de motores antivirus, escaneadores de sites e outras ferramentas para identificar vírus, worms, trojans e outros tipos de malware. Os usuários podem enviar arquivos ou URLs suspeitos para o VirusTotal, e o serviço fornecerá um relatório detalhado da sua análise. Isso ajuda indivíduos e organizações a determinar se um arquivo ou URL é seguro antes de abri-lo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@VirusTotal](https://www.virustotal.com)
-- [@official@How VirusTotal Works](https://docs.virustotal.com/docs/how-it-works)
-- [@article@CISA's definition of VirusTotal](https://www.cisa.gov/resources-tools/services/virustotal)
-- [@video@Walkthrough VirusTotal Intelligence Interface](https://www.youtube.com/watch?v=WoHVM8pCfsQ)
+- [@official@Como funciona o VirusTotal](https://docs.virustotal.com/docs/how-it-works)
+- [@article@Definição do CISA sobre o VirusTotal](https://www.cisa.gov/resources-tools/services/virustotal)
+- [@video@Passo a passo da interface de inteligência do VirusTotal](https://www.youtube.com/watch?v=WoHVM8pCfsQ)

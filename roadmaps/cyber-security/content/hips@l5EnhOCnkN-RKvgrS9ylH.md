@@ -1,8 +1,8 @@
-# Host Intrusion Prevention System (HIPS)
+# Sistema de Prevenção Intrusiva em Host (HIPS)
 
-A Host Intrusion Prevention System (HIPS) is a software application installed on a single host (like a computer or server) that monitors the activities taking place on that host. It analyzes events for malicious or suspicious behavior, based on predefined rules and signatures, and takes action to block or mitigate threats targeting that specific system.
+Um Sistema de Prevenção Intrusiva em Host (HIPS) é um aplicativo de software instalado em uma única máquina (como um computador ou servidor) que monitora as atividades ocorrendo nela. Ele analisa eventos por comportamentos maliciosos ou suspeitos, com base em regras e assinaturas pré-definidas, e toma ação para bloquear ou mitigar ameaças direcionadas a esse sistema específico.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@article@What is an Intrusion Prevention System?](https://www.paloaltonetworks.com/cyberpedia/what-is-an-intrusion-prevention-system-ips)
-- [@article@What is Host intrusion prevention system (HIPS)?](https://cyberpedia.reasonlabs.com/EN/host%20intrusion%20prevention%20system%20(hips).html)
+- [@article@O que é um Sistema de Prevenção Intrusiva?](https://www.paloaltonetworks.com/cyberpedia/what-is-an-intrusion-prevention-system-ips)
+- [@article@O que é Sistema de Prevenção Intrusiva em Host (HIPS)?](https://cyberpedia.reasonlabs.com/EN/host%20intrusion%20prevention%20system%20(hips).html)

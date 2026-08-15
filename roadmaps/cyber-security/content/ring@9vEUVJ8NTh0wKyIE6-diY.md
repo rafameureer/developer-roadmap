@@ -1,8 +1,8 @@
-# Ring
+# Anel
 
-In a ring topology, each network device is connected in a circular fashion, where data travels through each node in one direction (or both in a bidirectional setup) until it reaches its destination. This structure simplifies wiring and ensures a predictable data path, but a failure in any single node or connection can disrupt the entire network unless redundant paths are used. Ring topology is known for its straightforward installation but is less common today due to its vulnerability to network interruptions.
+Em uma topologia de anel, cada dispositivo de rede está conectado em um formato circular, onde os dados viajam por meio de cada nó em uma única direção (ou em ambas as direções em uma configuração bidirecional) até chegar ao seu destino. Esta estrutura simplifica a instalação e garante um caminho de dados previsível, mas uma falha em qualquer único nó ou conexão pode interromper toda a rede a menos que sejam usados caminhos redundantes. A topologia de anel é conhecida por sua instalação simples, mas é menos comum hoje devido à sua vulnerabilidade a interrupções na rede.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Ring Topology?](https://www.lenovo.com/gb/en/glossary/what-is-ring-topology/)
-- [@video@Network Topologies - Ring](https://www.youtube.com/watch?v=hjeDN2xnc50)
+- [@artigo@O que é Topologia de Anel?](https://www.lenovo.com/gb/en/glossary/what-is-ring-topology/)
+- [@vídeo@Topologias de Rede - Anel](https://www.youtube.com/watch?v=hjeDN2xnc50)

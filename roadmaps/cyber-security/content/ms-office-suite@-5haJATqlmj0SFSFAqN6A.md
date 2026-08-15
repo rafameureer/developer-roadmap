@@ -1,8 +1,8 @@
-# Microsoft Office Suite
+# Suite do Microsoft Office
 
-The **Microsoft Office Suite** is a collection of productivity software developed by Microsoft, commonly used in both personal and professional settings. It includes core applications such as **Word** (word processing), **Excel** (spreadsheets), **PowerPoint** (presentations), and **Outlook** (email and calendar). Other applications in the suite may include **Access** (database management), **OneNote** (note-taking), and **Teams** (collaboration and communication). The suite offers integrated tools for creating, managing, and sharing documents, data, and communications, supporting a wide range of business and personal productivity tasks.
+A **Suite do Microsoft Office** é uma coleção de software de produtividade desenvolvida pela Microsoft, comumente usada em ambientes pessoais e profissionais. Ela inclui aplicativos principais como **Word** (processamento de texto), **Excel** (planilhas), **PowerPoint** (apresentações) e **Outlook** (email e calendário). Outros aplicativos na suite podem incluir **Access** (gerenciamento de banco de dados), **OneNote** (anotações) e **Teams** (colaboração e comunicação). A suite oferece ferramentas integradas para criar, gerenciar e compartilhar documentos, dados e comunicações, suportando uma ampla gama de tarefas de produtividade empresarial e pessoal.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Microsoft Office Suite Directory](https://www.microsoft.com/en-gb/microsoft-365/products-apps-services)
-- [@video@Every Office 365 App Explained](https://www.youtube.com/watch?v=2W0T2qGZ9Dc)
+- [@oficial@Diretório da Suite do Microsoft Office](https://www.microsoft.com/en-gb/microsoft-365/products-apps-services)
+- [@vídeo@Todos os aplicativos do Office 365 explicados](https://www.youtube.com/watch?v=2W0T2qGZ9Dc)

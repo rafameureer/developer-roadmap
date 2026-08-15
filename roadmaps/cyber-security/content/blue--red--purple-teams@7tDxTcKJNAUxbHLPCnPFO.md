@@ -1,10 +1,10 @@
-# Blue / Red / Purple Teams
+# Equipes Azuis / Vermelhas / Purpúreas
 
-Blue, Red, and Purple Teams are conceptual groups used to structure cybersecurity roles and responsibilities. A Blue Team is responsible for defending an organization's systems by identifying vulnerabilities and implementing security measures. A Red Team acts as an attacker, simulating real-world threats to test the effectiveness of the Blue Team and identify weaknesses in the security posture. A Purple Team facilitates communication and collaboration between the Blue and Red Teams to maximize learning and improve overall security.
+Equipes Azuis, Vermelhas e Purpúreas são grupos conceituais usados para estruturar papéis e responsabilidades na segurança cibernética. A equipe Azul é responsável por defender os sistemas de uma organização identificando vulnerabilidades e implementando medidas de segurança. A equipe Vermelha atua como um atacante, simulando ameaças do mundo real para testar a eficácia da equipe Azul e identificar fraquezas na postura de segurança. A equipe Purpúrea facilita a comunicação e colaboração entre as equipes Azuis e Vermelhas para maximizar o aprendizado e melhorar a segurança geral.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is a Blue Team?](https://www.checkpoint.com/cyber-hub/cyber-security/what-is-a-blue-team/)
-- [@article@What is Red Teaming?](https://www.ibm.com/think/topics/red-teaming)
-- [@article@Purple Teaming Explained](https://www.crowdstrike.com/cybersecurity-101/purple-teaming/)
-- [@article@Red Team VS Blue Team: What's the Difference?](https://www.crowdstrike.com/en-us/cybersecurity-101/advisory-services/red-team-vs-blue-team/)
+- [@artigo@O que é uma Equipe Azul?](https://www.checkpoint.com/cyber-hub/cyber-security/what-is-a-blue-team/)
+- [@artigo@O que é o Time Vermelho?](https://www.ibm.com/think/topics/red-teaming)
+- [@artigo@Explicação da Equipe Purpúrea](https://www.crowdstrike.com/cybersecurity-101/purple-teaming/)
+- [@artigo@Diferença entre Equipes Vermelhas e Azuis: O que é?](https://www.crowdstrike.com/en-us/cybersecurity-101/advisory-services/red-team-vs-blue-team/)

@@ -1,8 +1,8 @@
 # FTP vs SFTP
 
-File Transfer Protocol (FTP) is a standard network protocol used to transfer files between a client and a server on a computer network. Secure File Transfer Protocol (SFTP), on the other hand, is a more secure method that transfers files over a secure SSH connection, encrypting both commands and data being transferred.
+Protocolo de Transferência de Arquivos (FTP) é um protocolo de rede padrão usado para transferir arquivos entre um cliente e um servidor em uma rede de computadores. Protocolo Seguro de Transferência de Arquivos (SFTP), por outro lado, é um método mais seguro que transfere arquivos através de uma conexão segura SSH, criptografando tanto os comandos quanto os dados sendo transferidos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@FTP defined and explained](https://www.fortinet.com/resources/cyberglossary/file-transfer-protocol-ftp-meaning)
-- [@video@How to use SFTP commands](https://www.youtube.com/watch?v=22lBJIfO9qQ)
+- [@article@Definição e explicação do FTP](https://www.fortinet.com/resources/cyberglossary/file-transfer-protocol-ftp-meaning)
+- [@video@Como usar comandos SFTP](https://www.youtube.com/watch?v=22lBJIfO9qQ)

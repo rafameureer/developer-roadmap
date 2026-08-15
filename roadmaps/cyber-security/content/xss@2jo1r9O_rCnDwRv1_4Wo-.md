@@ -1,9 +1,9 @@
 # Cross-Site Scripting (XSS)
 
-Cross-Site Scripting (XSS) is a type of security vulnerability that occurs when a web application allows malicious scripts to be injected into the code, which is executed by other users' browsers. These scripts can steal session cookies, redirect the user to malicious websites, or deface the website, all while appearing to originate from the trusted website itself.
+Cross-Site Scripting (XSS) é um tipo de vulnerabilidade de segurança que ocorre quando uma aplicação web permite que scripts maliciosos sejam injetados no código, que são executados pelos navegadores dos outros usuários. Esses scripts podem roubar cookies de sessão, redirecionar o usuário para sites maliciosos ou desfigurar o site, tudo isso enquanto aparecem provenientes do próprio site confiável.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@article@Cross Site Scripting (XSS) - OWASP](https://owasp.org/www-community/attacks/xss/)
-- [@article@Cross Site Scripting Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html)
+- [@article@Guia de Prevenção de Cross-Site Scripting](https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html)
 - [@video@Cross-site Scripting](https://www.youtube.com/watch?v=PKgw0CLZIhE)

@@ -1,8 +1,8 @@
 # Spam vs. Spim
 
-Spam refers to unsolicited and often irrelevant messages sent over email, typically to a large number of recipients, with the purpose of advertising, phishing, spreading malware, or other malicious activities. Spam emails are usually sent by automated bots and are characterized by their bulk nature. Spim is a type of spam that specifically targets instant messaging (IM) platforms rather than email. Spim messages are unsolicited and typically used for advertising, phishing, or spreading malware. As instant messaging apps have grown in popularity, so too has the prevalence of Spim.
+O spam refere-se a mensagens não solicitadas e geralmente irrelevantes enviadas por e-mail, típicamente para um grande número de destinatários, com o propósito de anunciar, enganar, difundir malware ou outras atividades maliciosas. E-mails de spam são normalmente enviados por robôs automatizados e são caracterizados pela sua natureza em massa. O spim é um tipo de spam que se concentra especificamente em plataformas de mensagens instantâneas (IM) em vez de e-mail. As mensagens de spim são não solicitadas e geralmente usadas para anunciar, enganar ou difundir malware. À medida que as aplicações de mensagens instantâneas ganham popularidade, o prevalência do Spim também aumenta.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What Is Spam?](https://www.proofpoint.com/us/threat-reference/spam)
-- [@article@What Is Spim?](https://www.brosix.com/blog/what-is-spim/)
+- [@artigo@O Que é Spam?](https://www.proofpoint.com/us/threat-reference/spam)
+- [@artigo@O Que é Spim?](https://www.brosix.com/blog/what-is-spim/)

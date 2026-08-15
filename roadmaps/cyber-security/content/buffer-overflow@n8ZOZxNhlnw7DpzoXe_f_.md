@@ -1,9 +1,9 @@
 # Buffer Overflow
 
-A Buffer Overflow is a type of vulnerability that occurs when a program or process attempts to write more data to a buffer—a temporary storage area in memory—than it can hold. This overflow can cause the extra data to overwrite adjacent memory locations, potentially leading to unintended behavior, crashes, or security breaches.
+Um Buffer Overflow é um tipo de vulnerabilidade que ocorre quando um programa ou processo tenta escrever mais dados em um buffer—a área de armazenamento temporário na memória—do que ele pode conter. Este estouro pode causar os dados extras a sobrescrever locais de memória adjacentes, potencialmente levando a comportamentos indesejados, falhas ou violações de segurança.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What Is Buffer Overflow?](https://www.fortinet.com/resources/cyberglossary/buffer-overflow)
-- [@article@Buffer Overflow Attack](https://www.imperva.com/learn/application-security/buffer-overflow/)
-- [@video@Buffer Overflows Made Easy](https://www.youtube.com/watch?v=qSnPayW6F7U)
+- [@artigo@O que é Buffer Overflow?](https://www.fortinet.com/resources/cyberglossary/buffer-overflow)
+- [@artigo@Ataque por Buffer Overflow](https://www.imperva.com/learn/application-security/buffer-overflow/)
+- [@vídeo@Buffer Overflows Fáceis de Entender](https://www.youtube.com/watch?v=qSnPayW6F7U)

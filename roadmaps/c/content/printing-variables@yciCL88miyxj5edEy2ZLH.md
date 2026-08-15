@@ -1,9 +1,9 @@
-# Printing Variables
+# Impressão de Variáveis
 
-Printing variables in C typically uses the `printf` function from the standard library, with format specifiers like `%d` for integers, `%f` for floats, or `%s` for strings telling it how to interpret the data. Each specifier must match the variable's actual type, since `printf` does not check this at compile time and mismatches can produce garbage output or crashes. This makes printing a common source of subtle bugs for beginners.
+A impressão de variáveis em C geralmente usa a função `printf` da biblioteca padrão, com especificadores de formato como `%d` para inteiros, `%f` para floats ou `%s` para strings, informando ao programa como interpretar os dados. Cada especificador deve corresponder ao tipo real da variável, pois `printf` não verifica isso em tempo de compilação e desencaixamentos podem produzir saída lixa ou falhas. Isso torna a impressão uma fonte comum de bugs sutis para iniciantes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@C Output (Print Text)](https://www.w3schools.com/c/c_output.php)
-- [@article@printf() Function in C](https://www.tutorialspoint.com/cprogramming/c_printf_function.htm)
-- [@video@printf Basics | C Programming Tutorial](https://www.youtube.com/watch?v=ycKZKDCMMzM)
+- [@artigo@Saída em C (Imprimir Texto)](https://www.w3schools.com/c/c_output.php)
+- [@artigo@Função printf() em C](https://www.tutorialspoint.com/cprogramming/c_printf_function.htm)
+- [@vídeo@Básico de printf | Tutorial de Programação em C](https://www.youtube.com/watch?v=ycKZKDCMMzM)

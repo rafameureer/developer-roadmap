@@ -1,9 +1,9 @@
 # Unions
 
-A `union` allows multiple members to share the same memory location, so only one member holds a valid value at any given time, and the union's size equals that of its largest member. This is useful for saving memory when different pieces of data are never needed simultaneously, or for interpreting the same bytes in different ways. Reading a union member other than the one most recently written to is generally undefined behavior, except in specific cases the standard permits.
+Um `union` permite que vários membros compartilhem a mesma localização de memória, então apenas um membro possui um valor válido em qualquer momento dado, e o tamanho da union é igual ao do seu maior membro. Isso é útil para economizar memória quando diferentes pedaços de dados nunca são necessários simultaneamente ou para interpretar os mesmos bytes de maneiras diferentes. Ler um membro de uma union diferente do que foi escrito mais recentemente geralmente causa comportamento indefinido, exceto em casos específicos em que o padrão permite.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Unions in C](https://www.tutorialspoint.com/cprogramming/c_unions.htm)
-- [@article@Union declaration](https://en.cppreference.com/c/language/union)
-- [@video@Introduction to Unions in C](https://www.youtube.com/watch?v=oySsPUDr35U)
+- [@article@Unions em C](https://www.tutorialspoint.com/cprogramming/c_unions.htm)
+- [@article@Declaração de Union](https://en.cppreference.com/c/language/union)
+- [@video@Introdução a Unions em C](https://www.youtube.com/watch?v=oySsPUDr35U)

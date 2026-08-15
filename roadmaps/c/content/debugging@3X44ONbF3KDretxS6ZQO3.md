@@ -1,9 +1,9 @@
-# Debugging
+# Depuração
 
-Debugging in C involves finding and fixing defects in a program, often using dedicated tools since bugs like memory corruption or undefined behavior may not produce an obvious, immediate symptom. Debuggers like GDB and LLDB let a programmer pause execution, inspect variables, and step through code line by line. Other tools, like Valgrind and sanitizers, specialize in detecting specific classes of bugs such as memory errors.
+A depuração em C envolve encontrar e corrigir defeitos em um programa, muitas vezes usando ferramentas dedicadas, pois bugs como a corrupção de memória ou comportamento indefinido podem não produzir um sintoma óbvio ou imediato. Depuradores como GDB e LLDB permitem que o programador pause a execução, inspecione variáveis e passe por código linha por linha. Outras ferramentas, como Valgrind e sanitizadores, se especializam em detectar classes específicas de bugs, como erros de memória.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@C Debugging](https://www.w3schools.com/c/c_debugging.php)
-- [@article@C/Debugging](https://www.cs.yale.edu/homes/aspnes/pinewiki/C(2f)Debugging.html)
-- [@video@Debugging C Programs](https://www.youtube.com/watch?v=mfmXcbiRs0E&list=PL9IEJIKnBJjHGWPN_S9NS_Ky1-tC8ZrUI)
+- [@article@Depuração em C](https://www.w3schools.com/c/c_debugging.php)
+- [@article@C/Depuração](https://www.cs.yale.edu/homes/aspnes/pinewiki/C(2f)Debugging.html)
+- [@video@Depuração de Programas em C](https://www.youtube.com/watch?v=mfmXcbiRs0E&list=PL9IEJIKnBJjHGWPN_S9NS_Ky1-tC8ZrUI)

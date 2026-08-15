@@ -1,9 +1,9 @@
 # malloc
 
-`malloc` is a function used to reserve a specific amount of memory during the execution of a program. When called, it allocates a block of memory of a requested size in bytes on the heap and returns a pointer to the first byte of that block. If the system cannot provide the requested memory, the function returns a null pointer to indicate that the allocation failed.
+A função `malloc` é usada para reservar uma quantidade específica de memória durante a execução de um programa. Quando chamada, ela aloca um bloco de memória de um tamanho solicitado em bytes na pilha e retorna um ponteiro para o primeiro byte desse bloco. Se o sistema não puder fornecer a memória solicitada, a função retorna um ponteiro nulo para indicar que a alocação falhou.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@C Allocate Memory](https://www.w3schools.com/c/c_memory_allocate.php)
-- [@article@C library - malloc() function](https://www.tutorialspoint.com/c_standard_library/c_function_malloc.htm)
-- [@video@Malloc in C is easy! 🏢](https://www.youtube.com/watch?v=n_Se6bt8jM0)
+- [@article@Alocar Memória em C](https://www.w3schools.com/c/c_memory_allocate.php)
+- [@article@Função malloc() da biblioteca C](https://www.tutorialspoint.com/c_standard_library/c_function_malloc.htm)
+- [@video@malloc em C é fácil! 🏢](https://www.youtube.com/watch?v=n_Se6bt8jM0)

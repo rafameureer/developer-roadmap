@@ -1,9 +1,9 @@
-# Pointer Basics & Syntax
+# Básicos e Sintaxe de Ponteiros
 
-A pointer is declared with an asterisk, such as `int *p`, and holds the memory address of a value rather than the value itself. The `&` operator retrieves a variable's address, while the `*` operator, when applied to a pointer, dereferences it to access the value it points to. Pointers are central to C, used for passing large data efficiently, building dynamic data structures, and enabling functions to modify their caller's variables.
+Um ponteiro é declarado com um asterisco, como `int *p`, e armazena o endereço da memória de um valor em vez do valor em si. O operador `&` recupera o endereço de uma variável, enquanto o operador `*`, quando aplicado a um ponteiro, desreferencia-o para acessar o valor ao qual ele aponta. Os ponteiros são centrais no C, usados para passar dados grandes eficientemente, construir estruturas de dados dinâmicas e permitir que funções modifiquem as variáveis do chamador.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@Learn Pointers](https://www.learn-c.org/en/Pointers)
-- [@article@Pointers in C](https://www.tutorialspoint.com/cprogramming/c_pointers.htm)
-- [@video@Pointers in C / C++ \[Full Course\]](https://www.youtube.com/watch?v=zuegQmMdy8M)
+- [@curso@Aprenda Ponteiros](https://www.learn-c.org/en/Pointers)
+- [@artigo@Ponteiros em C](https://www.tutorialspoint.com/cprogramming/c_pointers.htm)
+- [@vídeo@Ponteiros em C / C++ \[Curso Completo\]](https://www.youtube.com/watch?v=zuegQmMdy8M)

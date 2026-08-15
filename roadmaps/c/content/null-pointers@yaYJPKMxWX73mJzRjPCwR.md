@@ -1,8 +1,8 @@
-# Null Pointers
+# Ponteiros Nulos
 
-A null pointer is a pointer that intentionally points to no valid memory location, conventionally written as `NULL` in C. It is used to indicate that a pointer does not currently reference anything, such as before allocation or after freeing memory. Dereferencing a null pointer is undefined behavior and typically causes a program crash, so checking for `NULL` before use is a common defensive practice.
+Um ponteiro nulo é um ponteiro que aponta intencionalmente para uma localização de memória inválida, comumente escrita como `NULL` em C. É usado para indicar que um ponteiro não está atualmente referenciando nada, como antes da alocação ou após a liberação de memória. Desreferenciar um ponteiro nulo é comportamento indefinido e geralmente causa uma falha do programa, então verificar por `NULL` antes de usar é uma prática defensiva comum.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Null pointers in C](https://www.tutorialspoint.com/cprogramming/c_null_pointer.htm)
-- [@video@Understanding the Null Pointers](https://www.youtube.com/watch?v=oPScHNQDCkc)
+- [@artigo@Ponteiros Nulos em C](https://www.tutorialspoint.com/cprogramming/c_null_pointer.htm)
+- [@vídeo@Compreendendo Ponteiros Nulos](https://www.youtube.com/watch?v=oPScHNQDCkc)

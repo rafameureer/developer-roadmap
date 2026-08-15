@@ -1,9 +1,9 @@
-# Opaque Pointers
+# Ponteiros Opacos
 
-An opaque pointer is a pointer to a struct whose full definition is hidden from the code using it, typically by only declaring the struct's existence in a header file without listing its members. This lets a library expose functions that operate on the type while keeping its internal fields inaccessible and free to change, achieving a form of encapsulation similar to private members in object-oriented languages. Code using an opaque pointer can only interact with the underlying data through the functions the library provides.
+Um ponteiro opaco é um ponteiro para uma estrutura cuja definição completa é oculta do código que o usa, geralmente declarando apenas a existência da estrutura em um arquivo de cabeçalho sem listar seus membros. Isso permite que uma biblioteca expome funções que operam no tipo enquanto mantém seus campos internos inacessíveis e livres para serem alterados, alcançando um tipo de encapsulamento semelhante aos membros privados em linguagens orientadas a objetos. Código usando um ponteiro opaco pode interagir apenas com os dados subjacentes através das funções fornecidas pela biblioteca.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Practical Design Patterns: Opaque Pointers and Objects in C](https://interrupt.memfault.com/blog/opaque-pointers)
-- [@article@Opaque Data Pointers](https://blog.aaronballman.com/2011/07/opaque-data-pointers/)
-- [@video@Make your Data Type more Abstract with Opaque Types in C](https://www.youtube.com/watch?v=TsUOhPsZk6k)
+- [@artigo@Práticas de Design Práticas: Ponteiros Opacos e Objetos em C](https://interrupt.memfault.com/blog/opaque-pointers)
+- [@artigo@Ponteiros de Dados Opacos](https://blog.aaronballman.com/2011/07/opaque-data-pointers/)
+- [@vídeo@Torne seu Tipo de Dado Mais Abstrato com Tipos Opacos em C](https://www.youtube.com/watch?v=TsUOhPsZk6k)

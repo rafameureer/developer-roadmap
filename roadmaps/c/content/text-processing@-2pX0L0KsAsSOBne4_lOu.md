@@ -1,9 +1,9 @@
-# Text Processing
+# Processamento de Texto
 
-Text processing functions, mostly from `<string.h>` and `<ctype.h>`, handle operations on C strings and characters, such as measuring length (`strlen`), copying (`strcpy`), concatenating (`strcat`), comparing (`strcmp`), and classifying individual characters as alphabetic, numeric, or whitespace. Many of these functions assume null-terminated strings and do not check buffer sizes, so using safer, bounded variants where available reduces the risk of buffer overflows. They form the core toolkit for any program that manipulates text.
+Funções de processamento de texto, principalmente do `<string.h>` e `<ctype.h>`, lidam com operações em strings C e caracteres, como medir comprimento (`strlen`), copiar (`strcpy`), concatenar (`strcat`), comparar (`strcmp`) e classificar caracteres individuais como alfabéticos, numéricos ou brancos. Muitas dessas funções assumem strings terminadas em nulo e não verificam tamanhos de buffer, então usar variantes mais seguras e limitadas quando disponíveis reduz o risco de estouro de buffer. Eles formam a base do conjunto de ferramentas para qualquer programa que manipule texto.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@C string (string.h) Library](https://www.w3schools.com/c/c_ref_string.php)
-- [@article@C String Functions](https://www.w3schools.com/c/c_strings_functions.php)
-- [@article@C Programming Strings](https://www.programiz.com/c-programming/c-strings)
+- [@artigo@Biblioteca C string (string.h)](https://www.w3schools.com/c/c_ref_string.php)
+- [@artigo@Funções de String em C](https://www.w3schools.com/c/c_strings_functions.php)
+- [@artigo@Strings em C Programming](https://www.programiz.com/c-programming/c-strings)

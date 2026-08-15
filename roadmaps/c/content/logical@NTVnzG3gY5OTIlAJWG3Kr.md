@@ -1,7 +1,7 @@
-# Logical
+# Lógico
 
-Logical operators, `&&` (AND), `||` (OR), and `!` (NOT), combine or invert boolean conditions and are typically used in control flow statements. C uses short-circuit evaluation, meaning `&&` stops evaluating as soon as one operand is false, and `||` stops as soon as one operand is true. This behavior is often relied on deliberately, for example checking a pointer is not null before dereferencing it in the same condition.
+Os operadores lógicos, `&&` (E), `||` (OU) e `!` (NÃO), combinam ou invertem condições booleanas e são tipicamente usados em declarações de fluxo de controle. O C usa a avaliação curta-circuito, o que significa que `&&` para de avaliar assim que um operando for falso, e `||` para de avaliar assim que um operando for verdadeiro. Esse comportamento é frequentemente aproveitado deliberadamente, por exemplo, verificando se um ponteiro não é nulo antes de desreferenciá-lo na mesma condição.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Logical Operators in C](https://www.tutorialspoint.com/cprogramming/c_logical_operators.htm)
+- [@artigo@Operadores Lógicos em C](https://www.tutorialspoint.com/cprogramming/c_logical_operators.htm)

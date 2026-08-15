@@ -1,9 +1,9 @@
-# Function pointers & Callbacks
+# Ponteiros para funções & Callbacks
 
-A function pointer stores the address of a function, allowing that function to be called indirectly, passed as an argument, or stored in a data structure, similar to how a regular pointer stores the address of a variable. Callbacks use this to let one function invoke another that is decided at runtime, a pattern used by standard library functions like `qsort`, which takes a comparison function as a callback. This mechanism underlies more advanced patterns in C, including simulating object-oriented dispatch through structs containing function pointers.
+Um ponteiro para função armazena o endereço de uma função, permitindo que essa função seja chamada indiretamente, passada como um argumento ou armazenada em uma estrutura de dados, semelhante à forma como um ponteiro regular armazena o endereço de uma variável. Os callbacks usam isso para permitir que uma função invoque outra que é decidida em tempo de execução, um padrão usado por funções da biblioteca padrão como `qsort`, que aceita uma função de comparação como um callback. Esse mecanismo subjacente a mais padrões avançados em C, incluindo simular o dispatch orientado a objetos através de estruturas contendo ponteiros para funções.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Function Pointers](https://www.w3schools.com/c/c_functions_pointers.php)
-- [@article@Making Function Pointers Usable In C](https://vandervoord.net/blog/2015/6/2/making-function-pointers-usable-in-c)
-- [@video@Function Pointers in C](https://www.youtube.com/watch?v=BRsv3ZXoHto)
+- [@article@Ponteiros para Funções](https://www.w3schools.com/c/c_functions_pointers.php)
+- [@article@Tornando Ponteiros para Funções Usáveis em C](https://vandervoord.net/blog/2015/6/2/making-function-pointers-usable-in-c)
+- [@video@Ponteiros para Funções em C](https://www.youtube.com/watch?v=BRsv3ZXoHto)

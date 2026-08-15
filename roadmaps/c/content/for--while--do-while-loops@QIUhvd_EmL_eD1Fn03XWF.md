@@ -1,10 +1,10 @@
 # for / while / do while loops
 
-C offers three loop constructs: `for`, which bundles initialization, condition, and increment in one line and suits a known number of iterations; `while`, which checks its condition before each iteration and suits an unknown number of repetitions; and `do-while`, which checks its condition after each iteration, guaranteeing the loop body runs at least once. Choosing between them mostly comes down to whether the number of iterations is known ahead of time and whether the body must run at least once.
+C oferece três construções de loop: `for`, que agrupa a inicialização, a condição e o incremento em uma única linha e é adequado para um número conhecido de iterações; `while`, que verifica sua condição antes de cada iteração e é adequado para um número desconhecido de repetições; e `do-while`, que verifica sua condição após cada iteração, garantindo que o corpo do loop seja executado pelo menos uma vez. A escolha entre eles depende principalmente da quantidade de iterações conhecida em tempo de execução e se o corpo deve ser executado pelo menos uma vez.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@For Loop](https://www.tutorialspoint.com/cprogramming/c_for_loop.htm)
-- [@article@While Loop](https://www.tutorialspoint.com/cprogramming/c_while_loop.htm)
-- [@article@Do-While Loop](https://www.tutorialspoint.com/cprogramming/c_do_while_loop.htm)
-- [@video@C for loops in 3 minutes! 🔁](https://www.youtube.com/watch?v=b4DPj0XAfSg)
+- [@article@Laço for](https://www.tutorialspoint.com/cprogramming/c_for_loop.htm)
+- [@article@Laço while](https://www.tutorialspoint.com/cprogramming/c_while_loop.htm)
+- [@article@Laço do-while](https://www.tutorialspoint.com/cprogramming/c_do_while_loop.htm)
+- [@video@Laços for em C em 3 minutos! 🔁](https://www.youtube.com/watch?v=b4DPj0XAfSg)

@@ -1,9 +1,9 @@
-# Enums
+# Enumeradores (Enums)
 
-An `enum` defines a type consisting of a set of named integer constants, making code more readable than using raw numbers to represent a fixed set of options, such as days of the week or states in a state machine. By default, enum values start at 0 and increase by one for each subsequent name, though explicit values can be assigned. Enums are just integers under the hood, so C does not prevent assigning an out-of-range integer to an enum variable.
+Um `enum` define um tipo consistindo de um conjunto de constantes inteiros nomeadas, tornando o código mais legível do que usar números brutos para representar um conjunto fixo de opções, como dias da semana ou estados em uma máquina de estados. Por padrão, os valores de enum começam em 0 e aumentam em um para cada nome subsequente, embora valores explícitos possam ser atribuídos. Os enums são apenas inteiros por baixo dos panos, então o C não impede a atribuição de um inteiro fora do intervalo a uma variável de enum.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@C Enumeration (enum)](https://www.w3schools.com/c/c_enums.php)
-- [@article@Enumerations](https://en.cppreference.com/c/language/enum)
-- [@video@Learn enums in 8 minutes! 📅](https://www.youtube.com/watch?v=sU0XQ3jSsu8)
+- [@artigo@Enumeração (enum)](https://www.w3schools.com/c/c_enums.php)
+- [@artigo@Enumerações](https://en.cppreference.com/c/language/enum)
+- [@vídeo@Entenda enums em 8 minutos! 📅](https://www.youtube.com/watch?v=sU0XQ3jSsu8)

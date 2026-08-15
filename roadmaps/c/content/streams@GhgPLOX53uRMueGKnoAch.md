@@ -1,7 +1,7 @@
 # Streams
 
-A stream in C is an abstraction representing a source or destination of data, such as a file, the keyboard, or the screen, accessed through a `FILE *` pointer. The standard library provides three streams automatically: `stdin` for input, `stdout` for normal output, and `stderr` for error output. Functions like `fopen`, `fread`, `fwrite`, and `fclose` operate on streams rather than directly on the underlying file descriptor.
+Um stream em C é uma abstração que representa uma fonte ou destino de dados, como um arquivo, o teclado ou a tela, acessados através de um ponteiro `FILE *`. A biblioteca padrão fornece três streams automaticamente: `stdin` para entrada, `stdout` para saída normal e `stderr` para saída de erros. Funções como `fopen`, `fread`, `fwrite` e `fclose` operam em streams em vez de diretamente no descritor de arquivo subjacente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@article@C programming/Stream IO](https://en.wikibooks.org/wiki/C_programming/Stream_IO)

@@ -1,3 +1,3 @@
-# File Scope & Storage Duration
- 
-File scope refers to a variable or function declared outside any function, making it visible throughout the rest of that file, and potentially other files if declared `extern`. Storage duration describes how long a variable's memory remains allocated: automatic for local variables that exist only during their enclosing block, static for variables that persist for the entire program's execution, and dynamic for heap-allocated memory managed manually. These two concepts together determine both where a variable can be used and how long it stays valid.
+# Escopo de Arquivo e Duração de Armazenamento
+
+O escopo de arquivo refere-se a uma variável ou função declarada fora de qualquer função, tornando-a visível em todo o resto do arquivo, e potencialmente em outros arquivos se declarada como `extern`. A duração de armazenamento descreve por quanto tempo a memória de uma variável permanece alocada: automática para variáveis locais que existem apenas durante seu bloco encerrante, estática para variáveis que persistem durante toda a execução do programa e dinâmica para memória alocada no heap gerenciada manualmente. Essas duas conceitos juntos determinam tanto onde uma variável pode ser usada quanto por quanto tempo ela permanece válida.

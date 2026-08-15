@@ -1,7 +1,7 @@
-# Initialization
+# Inicialização
 
-Initialization is giving a variable its first value at the point it is created, as in `int count = 0;`. Uninitialized local variables in C hold indeterminate values, whatever bits happened to be in that memory location before, so reading one before assigning it produces undefined behavior. Global and static variables are automatically initialized to zero if no explicit value is given, but local variables are not.
+A inicialização é dar a uma variável seu primeiro valor no momento em que ela é criada, como em `int count = 0;`. Variáveis locais não inicializadas em C contêm valores indeterminados, independentemente dos bits que tivessem naquele local de memória antes, então ler um sem atribuí-lo produz comportamento indefinido. Variáveis globais e estáticas são automaticamente inicializadas a zero se nenhum valor explícito for fornecido, mas variáveis locais não.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@C - Variables](https://www.tutorialspoint.com/cprogramming/c_variables.htm)
+- [@article@C - Variáveis](https://www.tutorialspoint.com/cprogramming/c_variables.htm)

@@ -1,3 +1,3 @@
-# Basic Functions
+# Funções Básicas
  
-A basic function definition in C specifies a return type, a name, a parameter list, and a body containing the code to execute, for example `int add(int a, int b) { return a + b; }`. If a function does not return a value, its return type is declared as `void`. Function prototypes, declarations without a body, let functions be used before their full definition appears later in the file.
+A definição básica de uma função em C especifica um tipo de retorno, um nome, uma lista de parâmetros e um corpo contendo o código a ser executado, por exemplo `int add(int a, int b) { return a + b; }`. Se uma função não retornar um valor, seu tipo de retorno é declarado como `void`. Os protótipos de função, declarações sem corpo, permitem que as funções sejam usadas antes da sua definição completa aparecer mais tarde no arquivo.

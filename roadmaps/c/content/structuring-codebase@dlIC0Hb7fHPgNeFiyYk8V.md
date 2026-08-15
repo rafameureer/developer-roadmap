@@ -1,3 +1,3 @@
-# Structuring Codebase
+# Estruturação do Código Fonte
 
-Structuring a C codebase covers how to organize code across multiple files as a project grows beyond a single source file. This includes splitting declarations into header files, controlling which variables and functions are visible outside a file using linkage, and understanding how storage duration affects a variable's lifetime. Good structure keeps large C projects maintainable and avoids naming conflicts between files.
+Estruturar um código-fonte em C cobre como organizar o código em vários arquivos conforme um projeto cresce além de um único arquivo fonte. Isso inclui dividir as declarações em arquivos de cabeçalho, controlar quais variáveis e funções são visíveis fora de um arquivo usando vinculação, e entender como a duração de armazenamento afeta a vida útil de uma variável. Uma boa estrutura mantém grandes projetos em C manterem-se organizados e evita conflitos de nomeação entre arquivos.

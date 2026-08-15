@@ -1,9 +1,9 @@
-# Preprocessors
+# Pré-processadores
 
-The preprocessor runs before actual compilation begins, handling directives that start with `#`, such as `#include`, `#define`, and conditional compilation directives. It performs purely textual transformations on the source code, expanding macros and including header file contents, before the compiler ever sees the result. Understanding preprocessor behavior helps explain why macro-related bugs can be tricky, since errors often point to the expanded code rather than the original macro invocation.
+O pré-processador é executado antes da compilação real começar, lidando com diretivas que começam com `#`, como `#include`, `#define` e diretivas de compilação condicional. Ele realiza transformações textuais puras no código-fonte, expandindo macros e incluindo o conteúdo dos arquivos de cabeçalho, antes do compilador ver o resultado. Compreender o comportamento do pré-processador ajuda a explicar por que erros relacionados a macros podem ser difíceis, pois os erros muitas vezes apontam para o código expandido em vez da invocação original da macro.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@C Preprocessor and Macros](https://www.w3schools.com/c/c_macros.php)
-- [@article@Preprocessors in C](https://www.tutorialspoint.com/cprogramming/c_preprocessors.htm)
-- [@article@Preprocessor](https://cppreference.com/c/preprocessor)
+- [@artigo@Pré-processador e Macros](https://www.w3schools.com/c/c_macros.php)
+- [@artigo@Pré-processadores em C](https://www.tutorialspoint.com/cprogramming/c_preprocessors.htm)
+- [@artigo@Pré-processador](https://cppreference.com/c/preprocessor)

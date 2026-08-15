@@ -1,8 +1,8 @@
 # float
 
-The `float` type stores single-precision floating-point numbers, meaning it can represent fractional values but with limited precision, typically around 6 to 7 significant decimal digits. It follows the IEEE 754 standard on most systems and takes up 4 bytes of memory. Because floating-point representation is inherently imprecise, comparing `float` values for exact equality is generally unreliable.
+O tipo `float` armazena números de ponto flutuante de precisão simples, o que significa que pode representar valores fracionários, mas com uma precisão limitada, geralmente em torno de 6 a 7 dígitos decimais significativos. Ele segue o padrão IEEE 754 em大多数系统上，并占用4 bytes de memória. Porque a representação de ponto flutuante é intrinsecamente imprecisa, comparar valores `float` para igualdade exata geralmente não é confiável.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Float Data Type in C](https://data-flair.training/blogs/float-data-type-in-c/)
-- [@video@Fundamental Data Types − Float, Double & Long Double](https://www.youtube.com/watch?v=vNeOx1rQ25E)
+- [@artigo@Tipo de Dados Float em C](https://data-flair.training/blogs/float-data-type-in-c/)
+- [@vídeo@Tipos de Dados Fundamentais − Float, Double & Long Double](https://www.youtube.com/watch?v=vNeOx1rQ25E)

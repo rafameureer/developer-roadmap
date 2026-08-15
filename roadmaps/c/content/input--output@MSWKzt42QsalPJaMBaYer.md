@@ -1,8 +1,8 @@
-# Input / Output
+# Entrada / Saída
 
-The standard library's I/O functions, declared mainly in `<stdio.h>`, handle reading from and writing to streams, including the console and files. Common functions include `printf` and `scanf` for formatted console I/O, and `fopen`, `fread`, and `fwrite` for file access. These functions form the primary way a C program interacts with the outside world during execution.
+As funções de entrada/saída padrão da biblioteca, declaradas principalmente em `<stdio.h>`, lidam com a leitura e escrita em fluxos, incluindo o console e arquivos. Funções comuns incluem `printf` e `scanf` para I/O formatado no console, e `fopen`, `fread` e `fwrite` para acesso a arquivos. Essas funções formam a maneira principal como um programa C interage com o mundo exterior durante a execução.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@File input/output](https://cppreference.com/c/io)
-- [@video@File Access Basics | C Programming Tutorial](https://www.youtube.com/watch?v=HQNsriyMhtY)
+- [@artigo@Entrada/Saída de Arquivo](https://cppreference.com/c/io)
+- [@vídeo@Básico de Acesso a Arquivos | Tutorial de Programação em C](https://www.youtube.com/watch?v=HQNsriyMhtY)

@@ -1,9 +1,9 @@
 # free
 
-`free` is a standard library function used to deallocate a block of memory that was previously reserved on the heap. When you call this function, it releases the specified memory back to the system so that it can be used for other purposes in the program. Passing a pointer to the start of a previously allocated memory block to `free` effectively marks that space as available, though the pointer itself remains unchanged and should ideally be set to `NULL` immediately afterward to prevent accidental use of dangling references.
+`free` é uma função padrão da biblioteca usada para desalocar um bloco de memória que foi anteriormente reservado na pilha. Quando você chama essa função, ela libera a memória especificada de volta ao sistema para que possa ser usada por outros propósitos no programa. Passar um ponteiro para o início de um bloco de memória previamente alocado para `free` marca efetivamente esse espaço como disponível, embora o próprio ponteiro permaneça inalterado e deve ser idealmente definido como `NULL` imediatamente após isso para prevenir o uso acidental de referências pendentes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@C Deallocate Memory](https://www.w3schools.com/c/c_memory_deallocate.php)
-- [@article@C library - free() function](https://www.tutorialspoint.com/c_standard_library/c_function_free.htm)
-- [@video@Releasing the Dynamically Allocated Memory using free()](https://www.youtube.com/watch?v=qG0wUzuBI_A)
+- [@article@Desalocar Memória em C](https://www.w3schools.com/c/c_memory_deallocate.php)
+- [@article@Função free() da biblioteca C](https://www.tutorialspoint.com/c_standard_library/c_function_free.htm)
+- [@video@Liberando a Memória Alocada Dinamicamente usando free()](https://www.youtube.com/watch?v=qG0wUzuBI_A)

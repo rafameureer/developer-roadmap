@@ -1,10 +1,10 @@
 # C vs C++
 
-C is a procedural language with manual memory management and no built-in support for classes, inheritance, or exceptions. C++ extends C with object-oriented features, templates, the standard template library, and stronger compile-time checks, while remaining mostly compatible with C syntax. Programs written in C tend to be smaller and more predictable in behavior, while C++ trades some of that simplicity for abstraction and reuse. Choosing between them usually depends on whether the project needs low-level control or higher-level abstractions.
+C é uma linguagem procedural com gerenciamento manual de memória e sem suporte embutido para classes, herança ou exceções. C++ estende C com recursos orientados a objetos, templates, a biblioteca padrão de modelos e verificações mais fortes em tempo de compilação, mantendo-se na maioria das vezes compatível com a sintaxe de C. Programas escritos em C tendem a ser menores e mais previsíveis em comportamento, enquanto C++ troca uma parte dessa simplicidade por abstração e reutilização. A escolha entre eles geralmente depende se o projeto precisa de controle de nível baixo ou abstrações de nível alto.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated C++ Roadmap](https://roadmap.sh/cpp)
-- [@article@C++ vs. C: When (and when not) to use each language](https://roadmap.sh/cpp/vs-c)
+- [@roadmap@Visite a Rota C++ dedicada](https://roadmap.sh/cpp)
+- [@article@C++ vs. C: Quando (e quando não) usar cada linguagem](https://roadmap.sh/cpp/vs-c)
 - [@article@C vs C++](https://www.reddit.com/r/C_Programming/comments/34tes5/c_vs_c/)
 - [@video@C vs C++ vs C#](https://www.youtube.com/watch?v=sNMtjs_wQiE)

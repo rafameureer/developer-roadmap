@@ -1,8 +1,8 @@
-# User-Defined Types
+# Tipos Definidos pelo Usuário
 
-User-defined types let a programmer group related data or give existing types new names, going beyond the basic built-in types. C provides `struct` for grouping different types together, `union` for storing different types in the same memory, `enum` for naming a set of related integer constants, and `typedef` for creating aliases for existing types. These tools make code more organized and self-documenting when modeling real-world data.
+Tipos definidos pelo usuário permitem que um programador agrupe dados relacionados ou dê a tipos existentes novos nomes, indo além dos tipos básicos internos. C fornece `struct` para agrupar diferentes tipos juntos, `union` para armazenar diferentes tipos na mesma memória, `enum` para nomear um conjunto de constantes inteiros relacionadas e `typedef` para criar aliases para tipos existentes. Essas ferramentas tornam o código mais organizado e auto-documentado ao modelar dados do mundo real.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@A Beginner’s Guide to Data Types in C Programming](https://medium.com/@c2w.extras/a-beginners-guide-to-data-types-in-c-programming-mastering-memory-and-variables-f2602a4a3464)
-- [@video@User Defined Datatypes in C Language | C Tutorial for Beginners](https://www.youtube.com/watch?v=DIbmZn6ZgKU)
+- [@article@Guia Iniciante sobre Tipos de Dados em Programação C](https://medium.com/@c2w.extras/a-beginners-guide-to-data-types-in-c-programming-mastering-memory-and-variables-f2602a4a3464)
+- [@video@Tipos Definidos pelo Usuário em Linguagem C | Tutorial de Iniciante para C](https://www.youtube.com/watch?v=DIbmZn6ZgKU)

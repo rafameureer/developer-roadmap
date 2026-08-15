@@ -1,7 +1,7 @@
-# RAII-Simulated Cleanup
+# Simulação de Limpeza com RAII
 
-RAII (Resource Acquisition Is Initialization) is a pattern from C++ where a resource's cleanup is tied automatically to an object's lifetime. C has no destructors to do this automatically, so similar cleanup guarantees are simulated manually, for example using the `goto` statement to jump to a single cleanup section at the end of a function that frees all acquired resources. Some compilers also support a non-standard `__attribute__((cleanup))` extension that calls a specified function automatically when a variable goes out of scope. Both approaches aim to reduce the risk of forgetting to release a resource on one of several possible exit paths from a function.
+RAII (Resource Acquisition Is Initialization) é um padrão do C++ onde a limpeza de um recurso está vinculada automaticamente à vida útil de um objeto. O C não tem destrutores para fazer isso automaticamente, então garantias semelhantes de limpeza são simuladas manualmente, por exemplo, usando a instrução `goto` para pular para uma única seção de limpeza no final da função que libera todos os recursos alocados. Alguns compiladores também suportam uma extensão não padrão `__attribute__((cleanup))` que chama uma função especificada automaticamente quando uma variável sai do escopo. Ambos os métodos visam reduzir o risco de esquecer de liberar um recurso em um dos vários caminhos possíveis de saída de uma função.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@RAII in C: Automating Resource Management with GCC Attributes](https://dev.to/ayush_saini/raii-in-c-automating-resource-management-with-gcc-attributes-3cgf)
+- [@artigo@RAII no C: Gerenciamento Automático de Recursos com Atributos do GCC](https://dev.to/ayush_saini/raii-in-c-automating-resource-management-with-gcc-attributes-3cgf)

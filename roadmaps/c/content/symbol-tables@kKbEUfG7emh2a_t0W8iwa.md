@@ -1,8 +1,8 @@
-# Symbol Tables
+# Tabelas de Símbolos
 
-A symbol table is a data structure maintained during compilation and linking that maps names, like function and variable identifiers, to information such as their memory addresses or types. Compilers use it internally to resolve references within a single file, while linkers use symbol tables to connect references across multiple object files. Tools like `nm` can inspect the symbol table of a compiled object file to see what names it defines or requires.
+Uma tabela de símbolos é uma estrutura de dados mantida durante a compilação e vinculação que mapeia nomes, como identificadores de funções e variáveis, para informações como seus endereços de memória ou tipos. Compiladores usam internamente ela para resolver referências dentro de um único arquivo, enquanto vinculadores usam tabelas de símbolos para conectar referências em vários arquivos objeto. Ferramentas como `nm` podem inspecionar a tabela de símbolos de um arquivo objeto compilado para ver quais nomes ela define ou requer.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Symbol Tables - Wikipedia](https://en.wikipedia.org/wiki/Symbol_table)
-- [@video@Symbol Table](https://www.youtube.com/watch?v=Dd3DWRpqI40&t=95s)
+- [@article@Tabelas de Símbolos - Wikipedia](https://en.wikipedia.org/wiki/Symbol_table)
+- [@video@Tabela de Símbolos](https://www.youtube.com/watch?v=Dd3DWRpqI40&t=95s)

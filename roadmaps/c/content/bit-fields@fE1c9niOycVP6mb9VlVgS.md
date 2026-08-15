@@ -1,3 +1,3 @@
-# Typedef
- 
-`typedef` creates an alias for an existing type, which can shorten complex type declarations or make code more portable and readable, for example `typedef unsigned long size_t;`. It is commonly used with structs to avoid repeating the `struct` keyword every time the type is used. `typedef` does not create a new distinct type, it is purely a naming convenience for the compiler.
+# Tipos de Definição (typedef)
+
+`typedef` cria um alias para um tipo existente, o que pode encurtar declarações de tipos complexos ou tornar o código mais portável e legível, por exemplo `typedef unsigned long size_t;`. Ele é comumente usado com structs para evitar repetir a palavra-chave `struct` toda vez que o tipo for utilizado. `typedef` não cria um novo tipo distinto, ele é puramente uma conveniência de nomeação para o compilador.

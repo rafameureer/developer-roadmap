@@ -1,7 +1,7 @@
-# Extended Types
+# Tipos Estendidos
 
-Extended types cover additional numeric and specialized types beyond the basic set, such as `long long` for larger integer ranges, `long double` for extended floating-point precision, and complex number types added in later C standards. They exist to handle cases where the basic types are not large or precise enough. Availability and exact behavior of some extended types can vary between compilers and standards versions.
+Os tipos estendidos cobrem tipos numéricos e especializados além do conjunto básico, como `long long` para intervalos de inteiros maiores, `long double` para precisão de ponto flutuante estendida, e os tipos de números complexos adicionados em versões posteriores dos padrões C. Eles existem para lidar com casos onde os tipos básicos não são grandes ou precisos o suficiente. A disponibilidade e o comportamento exato de alguns tipos estendidos podem variar entre compiladores e versões de padrões.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@C Extended Types](https://www.w3schools.com/c/c_data_types_extended.php)
+- [@artigo@Tipos Estendidos em C](https://www.w3schools.com/c/c_data_types_extended.php)

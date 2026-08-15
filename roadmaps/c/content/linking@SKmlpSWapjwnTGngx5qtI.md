@@ -1,9 +1,9 @@
-# Linking
+# Ligação
 
-Linking is the stage after compilation that combines multiple object files and libraries into a single executable, resolving references between them, such as a function called in one file but defined in another. A linker error occurs when a referenced symbol cannot be found anywhere among the provided object files and libraries. Linking can happen statically, embedding library code directly into the executable, or dynamically, where the executable references a shared library loaded at runtime.
+A ligação é a fase após a compilação que combina vários arquivos objeto e bibliotecas em um único executável, resolvendo referências entre eles, como uma função chamada em um arquivo mas definida em outro. Um erro de ligação ocorre quando um símbolo referenciado não pode ser encontrado em nenhum dos arquivos objeto e bibliotecas fornecidos. A ligação pode acontecer estáticamente, incorporando o código da biblioteca diretamente no executável, ou dinamicamente, onde o executável faz referência a uma biblioteca compartilhada carregada em tempo de execução.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@The Four Stages of Compiling a C Program](https://www.calleluks.com/the-four-stages-of-compiling-a-c-program/)
-- [@article@Compiling and Linking](https://www.cprogramming.com/compilingandlinking.html)
-- [@video@Compiling, assembling, and linking](https://www.youtube.com/watch?v=N2y6csonII4)
+- [@artigo@As Quatro Fases do Compilação de um Programa C](https://www.calleluks.com/the-four-stages-of-compiling-a-c-program/)
+- [@artigo@Compilando e Ligando](https://www.cprogramming.com/compilingandlinking.html)
+- [@vídeo@Compilando, Assembleiando e Ligando](https://www.youtube.com/watch?v=N2y6csonII4)

@@ -1,8 +1,8 @@
-# Comparison
+# Comparação
 
-Comparison operators, such as `==`, `!=`, `<`, `>`, `<=`, and `>=`, evaluate two values and produce a result of 1 (true) or 0 (false). They are commonly used in conditions for `if` statements and loops to control program flow. A frequent beginner mistake is writing `=` instead of `==`, which assigns a value instead of comparing it.
+Os operadores de comparação, como `==`, `!=`, `<`, `>`, `<=` e `>=`, avaliam dois valores e produzem um resultado de 1 (verdadeiro) ou 0 (falso). Eles são comumente usados em condições para instruções `if` e laços para controlar o fluxo do programa. Um erro frequente iniciante é escrever `=` em vez de `==`, o que atribui um valor em vez de compará-lo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Comparison Operators](https://www.tutorialspoint.com/cprogramming/c_relational_operators.htm)
-- [@article@C Comparison Operators](https://www.w3schools.com/c/c_operators_comparison.php)
+- [@artigo@Operadores de Comparação](https://www.tutorialspoint.com/cprogramming/c_relational_operators.htm)
+- [@artigo@Operadores de Comparações em C](https://www.w3schools.com/c/c_operators_comparison.php)

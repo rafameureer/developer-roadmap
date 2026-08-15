@@ -1,8 +1,8 @@
-# Ternary
+# Operador Ternário
 
-The ternary operator, written as `condition ? value_if_true : value_if_false`, is a compact way to write a simple if-else expression that returns a value. It is the only operator in C that takes three operands. Overusing it for complex conditions can hurt readability, so it works best for short, simple choices.
+O operador ternário, escrito como `condition ? value_if_true : value_if_false`, é uma maneira compacta de escrever uma expressão if-else simples que retorna um valor. É o único operador em C que aceita três operandos. Usar demais para condições complexas pode prejudicar a legibilidade, então funciona melhor para escolhas curtas e simples.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Ternary Operator in C](https://www.tutorialspoint.com/cprogramming/c_ternary_operator.htm)
-- [@video@Ternary Operator in C |](https://www.youtube.com/watch?v=05xv2nMj6Ls)
+- [@artigo@Operador Ternário em C](https://www.tutorialspoint.com/cprogramming/c_ternary_operator.htm)
+- [@vídeo@Operador Ternário em C |](https://www.youtube.com/watch?v=05xv2nMj6Ls)

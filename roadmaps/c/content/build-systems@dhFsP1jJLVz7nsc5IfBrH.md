@@ -1,3 +1,3 @@
-# Build Systems
+# Sistemas de Construção
 
-A build system automates the process of compiling and linking a project's source files into a final executable or library, tracking dependencies so that only files affected by a change need to be rebuilt. Options range from simple tools like GNU Make, which uses explicit rules in a Makefile, to higher-level generators like CMake, which produce build files for other underlying build tools. Choosing a build system matters more as a project grows beyond a handful of source files.
+Um sistema de construção automatiza o processo de compilação e vinculação dos arquivos-fonte de um projeto em um executável ou biblioteca final, rastreando dependências para que apenas os arquivos afetados por uma mudança precisem ser reconstruídos. As opções variam desde ferramentas simples como o GNU Make, que usa regras explícitas em um arquivo Makefile, até geradores de nível superior como o CMake, que produzem arquivos de construção para outras ferramentas de construção subjacentes. A escolha de um sistema de construção é mais importante conforme um projeto cresce além de algumas centenas de arquivos-fonte.

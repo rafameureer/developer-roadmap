@@ -1,8 +1,8 @@
-# Variadic Functions
+# Funções Variádicas
 
-Variadic functions accept a variable number of arguments, like `printf`, which can take any number of values depending on its format string. They are declared using an ellipsis (`...`) as the last parameter and accessed inside the function using macros from `<stdarg.h>`, such as `va_start`, `va_arg`, and `va_end`. Because the compiler cannot type-check variadic arguments the way it does regular parameters, mismatches between expected and actual argument types are a common source of bugs.
+Funções variádicas aceitam um número variável de argumentos, como `printf`, que pode receber qualquer número de valores dependendo da sua string de formato. Elas são declaradas usando um elipsis (`...`) como o último parâmetro e acessadas dentro da função usando macros do `<stdarg.h>`, como `va_start`, `va_arg` e `va_end`. Como o compilador não pode verificar os tipos dos argumentos variádicos da mesma forma que faz com os parâmetros regulares, desencaixes entre os tipos de argumento esperados e reais são uma fonte comum de bugs.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Variadic Functions in C](https://www.tutorialspoint.com/cprogramming/c_variadic_functions.htm)
-- [@video@How to create functions with a variable number of arguments](https://www.youtube.com/watch?v=3iX9a_l9W9Y)
+- [@artigo@Funções Variádicas em C](https://www.tutorialspoint.com/cprogramming/c_variadic_functions.htm)
+- [@vídeo@Como criar funções com um número variável de argumentos](https://www.youtube.com/watch?v=3iX9a_l9W9Y)

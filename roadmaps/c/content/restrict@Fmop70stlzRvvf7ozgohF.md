@@ -1,8 +1,8 @@
-# restrict
+# Qualificador restrict
 
-The `restrict` qualifier, introduced in C99, is a hint to the compiler that a pointer is the only way to access the memory it points to during its lifetime. This allows the compiler to make more aggressive optimizations, since it does not need to guard against another pointer aliasing the same memory. Misusing `restrict` by actually aliasing the memory anyway results in undefined behavior.
+O qualificador `restrict`, introduzido em C99, é uma dica para o compilador que um ponteiro é a única maneira de acessar a memória à que ele aponta durante sua vida útil. Isso permite que o compilador faça otimizações mais agressivas, pois não precisa se proteger contra outro ponteiro aliasando a mesma memória. Usar incorretamente `restrict` ao realmente aliasar a memória resulta em comportamento indefinido.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@restrict type qualifier](https://en.cppreference.com/c/language/restrict)
-- [@video@The ONLY C keyword with no C++ equivalent](https://www.youtube.com/watch?v=TBGu3NNpF1Q&t=58s)
+- [@artigo@Qualificador restrict](https://en.cppreference.com/c/language/restrict)
+- [@vídeo@O único keyword do C sem equivalente no C++](https://www.youtube.com/watch?v=TBGu3NNpF1Q&t=58s)

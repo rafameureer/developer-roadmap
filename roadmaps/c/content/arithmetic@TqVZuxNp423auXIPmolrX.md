@@ -1,7 +1,7 @@
-# Arithmetic
+# Operadores Aritméticos
 
-Arithmetic operators perform basic mathematical operations: `+` for addition, `-` for subtraction, `*` for multiplication, `/` for division, and `%` for remainder (modulo). Division between two integers truncates toward zero and discards any fractional part, which can surprise programmers expecting a decimal result. Operator precedence follows standard mathematical rules, with multiplication and division evaluated before addition and subtraction unless parentheses override it.
+Os operadores aritméticos realizam operações matemáticas básicas: `+` para adição, `-` para subtração, `*` para multiplicação, `/` para divisão e `%` para resto (módulo). A divisão entre dois inteiros é truncada em direção ao zero e qualquer parte fracionária é descartada, o que pode surpreender programadores esperando um resultado decimal. A precedência dos operadores segue as regras matemáticas padrão, com a multiplicação e a divisão avaliadas antes da adição e subtração a menos que parênteses os substituam.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@C Arithmetic Operators](https://www.w3schools.com/c/c_operators_arithmetic.php)
+- [@artigo@Operadores Aritméticos em C](https://www.w3schools.com/c/c_operators_arithmetic.php)

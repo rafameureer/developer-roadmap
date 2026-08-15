@@ -1,9 +1,9 @@
-# Memory Model
+# Modelo de Memória
 
-C's memory model describes how a running program's memory is organized into distinct regions: the stack for local variables and function call information, the heap for dynamically allocated memory, and separate segments for global/static variables and the compiled program code itself. Understanding this layout helps explain why some memory is automatically reclaimed and other memory must be freed manually. It also clarifies why certain bugs, like stack overflows or heap corruption, occur in specific regions.
+O modelo de memória em C descreve como a memória de um programa em execução é organizada em regiões distintas: a pilha para variáveis locais e informações de chamadas de função, o heap para memória dinamicamente alocada, e segmentos separados para variáveis globais/estáticas e o próprio código do programa compilado. Entender essa disposição ajuda a explicar por que algumas memórias são automaticamente recuperadas e outras memórias devem ser liberadas manualmente. Também esclarece por que certos bugs, como estouro de pilha ou corrupção de heap, ocorrem em regiões específicas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Memory model](https://en.cppreference.com/c/language/memory_model#:~:text=Defines%20the%20semantics%20of%20computer,memory%20has%20a%20unique%20address.)
-- [@article@The C Memory Model](https://www.cs.toronto.edu/~strider//docs/ICS_Chapter_2.pdf)
-- [@video@C Programming and Memory Management - Full Course](https://www.youtube.com/watch?v=rJrd2QMVbGM)
+- [@artigo@Modelo de Memória](https://en.cppreference.com/c/language/memory_model#:~:text=Defines%20the%20semantics%20of%20computer,memory%20has%20a%20unique%20address.)
+- [@artigo@O Modelo de Memória em C](https://www.cs.toronto.edu/~strider//docs/ICS_Chapter_2.pdf)
+- [@vídeo@Programação em C e Gerenciamento de Memória - Curso Completo](https://www.youtube.com/watch?v=rJrd2QMVbGM)

@@ -1,10 +1,10 @@
-# File I/O
+# Entrada/Saída de Arquivos
 
-File input/output in C is done through the standard library's stream-based functions, which let a program open, read from, write to, and close files. Streams abstract away the underlying operating system details of file access behind a consistent interface. File I/O also involves choosing between binary and text mode, which affects how certain characters, like line endings, are handled.
+A entrada/saída de arquivos em C é feita através das funções baseadas em fluxo da biblioteca padrão, que permitem a um programa abrir, ler, escrever e fechar arquivos. Os fluxos abstraiam os detalhes subjacentes do sistema operacional de acesso ao arquivo por trás de uma interface consistente. A entrada/saída de arquivos também envolve escolher entre modo binário e modo texto, o que afeta como certos caracteres, como as terminações de linha, são tratados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@C File Handling](https://www.programiz.com/c-programming/c-file-input-output)
-- [@article@Exploring File I/O in C📁](https://dev.to/angelotheman/exploring-file-io-in-c-1j07)
-- [@video@File Access Basics | C Programming Tutorial](https://www.youtube.com/watch?v=HQNsriyMhtY)
-- [@video@Reading and Writing Files in C, two ways (fopen vs. open)](https://www.youtube.com/watch?v=BQJBe4IbsvQ)
+- [@artigo@Manipulação de Arquivos em C](https://www.programiz.com/c-programming/c-file-input-output)
+- [@artigo@Explorando a Entrada/Saída de Arquivos em C📁](https://dev.to/angelotheman/exploring-file-io-in-c-1j07)
+- [@vídeo@Básicos de Acesso a Arquivos | Tutorial de Programação em C](https://www.youtube.com/watch?v=HQNsriyMhtY)
+- [@vídeo@Leitura e Escrita de Arquivos em C, duas maneiras (fopen vs. open)](https://www.youtube.com/watch?v=BQJBe4IbsvQ)

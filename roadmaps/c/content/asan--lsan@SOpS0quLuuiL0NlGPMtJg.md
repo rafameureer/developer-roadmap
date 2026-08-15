@@ -1,9 +1,9 @@
 # ASan & LSan
 
-AddressSanitizer (ASan) and LeakSanitizer (LSan) are compiler-integrated tools, enabled with a flag like `-fsanitize=address`, that detect memory errors and leaks respectively by instrumenting the compiled code to check memory accesses at runtime. ASan catches issues such as buffer overflows, use-after-free, and use of memory after it goes out of scope, reporting the exact location of the error. Compared to tools like Valgrind, sanitizers typically run faster since the checks are built into the compiled binary itself rather than emulated externally.
+AddressSanitizer (ASan) e LeakSanitizer (LSan) são ferramentas integradas ao compilador, ativadas com uma bandeira como `-fsanitize=address`, que detectam erros de memória e vazamentos, respectivamente, instrumentando o código compilado para verificar acessos à memória em tempo de execução. ASan captura problemas como estouro de buffer, uso após a liberação e uso de memória após ela sair do escopo, relatando a localização exata do erro. Em comparação com ferramentas como Valgrind, os sanitizadores geralmente são mais rápidos porque as verificações estão incorporadas no próprio binário compilado em vez de serem emuladas externamente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@AddressSanitizer](https://learn.microsoft.com/en-gb/cpp/sanitizers/asan?view=msvc-170)
-- [@video@find memory errors quickly. (-fsanitize, addresssanitizer)](https://www.youtube.com/watch?v=tEbV21aPSKw)
-- [@video@Detect C++ Memory Leaks with ALSan:](https://www.youtube.com/watch?v=9f5hd-8suVE)
+- [@artigo@AddressSanitizer](https://learn.microsoft.com/en-gb/cpp/sanitizers/asan?view=msvc-170)
+- [@vídeo@Encontre erros de memória rapidamente. (-fsanitize, addresssanitizer)](https://www.youtube.com/watch?v=tEbV21aPSKw)
+- [@vídeo@Detecte vazamentos de memória em C++ com ALSan:](https://www.youtube.com/watch?v=9f5hd-8suVE)

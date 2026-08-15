@@ -4,7 +4,7 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 
 ---
 
-> ⚠️ **Total de itens sinalizados:** 363
+> ⚠️ **Total de itens sinalizados:** 367
 
 | Arquivo / Tópico | Motivo da Sinalização | Data/Hora |
 |---|---|---|
@@ -371,3 +371,7 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 | `roadmaps/blockchain/content/quicknode@FGih8w9We52PHpBnnGO6H.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:54:39.205611 |
 | `roadmaps/blockchain/content/react@0DUYS40_-BTpk2rLQ1a0e.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:54:44.931417 |
 | `roadmaps/blockchain/content/zk-rollups--zero-knowledge-proof@PykoX4j5Q3eJWIpUoczjM.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:57:43.985270 |
+| `roadmaps/c/content/command-line-arguments@Ss_Ga6RY_gAriphVtJ0wV.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:00:13.288370 |
+| `roadmaps/c/content/core-data-structures@Iw6fn73v5n8Ru0zA-IJfP.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:01:05.462632 |
+| `roadmaps/c/content/dangling-pointers@nMzRriI7nNECvHOofg5wb.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:01:10.135560 |
+| `roadmaps/c/content/data-types@OkN6Kgp_rYIfd7qivswlO.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:01:14.275837 |

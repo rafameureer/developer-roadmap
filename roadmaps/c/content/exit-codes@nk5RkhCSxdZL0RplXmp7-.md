@@ -1,9 +1,9 @@
-# Exit Codes
+# Códigos de Saída
 
-An exit code is a small integer that a program returns to the operating system when it finishes, indicating whether it succeeded or failed, and if it failed, sometimes why. By convention, an exit code of 0 means success and any nonzero value indicates an error, with `EXIT_SUCCESS` and `EXIT_FAILURE` from `<stdlib.h>` providing portable constants for these. Exit codes are commonly checked by shell scripts and other programs that call a C program and need to know whether it completed successfully.
+Um código de saída é um pequeno inteiro que um programa retorna para o sistema operacional quando termina, indicando se ele teve sucesso ou falhou, e se falhou, às vezes por quê. Por convenção, um código de saída de 0 significa sucesso e qualquer valor não nulo indica um erro, com `EXIT_SUCCESS` e `EXIT_FAILURE` da `<stdlib.h>` fornecendo constantes portáteis para esses. Os códigos de saída são comumente verificados por scripts shell e outros programas que chamam um programa C e precisam saber se ele foi concluído com sucesso.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Exit Codes in Linux C Programming](https://medium.com/@linuxrootroom/exit-codes-in-linux-c-programming-14dd90c4b48d)
-- [@article@exit](https://en.cppreference.com/c/program/exit)
-- [@video@Getting exit status code in C](https://www.youtube.com/watch?v=DiNmwwQWl0g)
+- [@artigo@Códigos de Saída em Programação Linux C](https://medium.com/@linuxrootroom/exit-codes-in-linux-c-programming-14dd90c4b48d)
+- [@artigo@exit](https://en.cppreference.com/c/program/exit)
+- [@vídeo@Obtendo o código de status de saída em C](https://www.youtube.com/watch?v=DiNmwwQWl0g)

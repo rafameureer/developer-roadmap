@@ -1,8 +1,8 @@
-# void Pointers
+# Ponteiros void
 
-A `void` pointer, declared as `void *`, can point to any data type but cannot be dereferenced directly, since the compiler has no type information about what it points to. It is typically cast to a specific pointer type before use, and appears often in generic functions like `malloc`, which returns `void *` because it has no knowledge of what type of data will be stored there. This flexibility comes at the cost of losing type safety until the cast happens.
+Um ponteiro `void`, declarado como `void *`, pode apontar para qualquer tipo de dados, mas não pode ser desreferenciado diretamente, pois o compilador não tem informações sobre o tipo de dados ao que ele está apontando. Geralmente é convertido em um tipo de ponteiro específico antes de uso e aparece frequentemente em funções genéricas como `malloc`, que retorna `void *` porque não sabe qual tipo de dado será armazenado lá. Essa flexibilidade vem com o custo de perder a segurança do tipo até que a conversão aconteça.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@void pointer in C](https://www.tutorialspoint.com/cprogramming/c_void_pointer.htm)
-- [@video@Understanding the Void Pointers](https://www.youtube.com/watch?v=ij2jrsUmwCI)
+- [@article@Ponteiro void em C](https://www.tutorialspoint.com/cprogramming/c_void_pointer.htm)
+- [@video@Entendendo ponteiros void](https://www.youtube.com/watch?v=ij2jrsUmwCI)

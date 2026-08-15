@@ -1,9 +1,9 @@
-# Object-Oriented C
+# Programação Orientada a Objetos em C
 
-Object-oriented programming techniques can be approximated in C, despite the language having no built-in classes, by combining structs to hold data with function pointers to simulate methods, often organized as a table of function pointers resembling a virtual method table. Encapsulation is typically achieved through opaque pointers, hiding a struct's internal fields from code outside the module that defines it. This style requires more manual discipline than a language with native object-oriented support, but is common in larger C codebases and libraries.
+Técnicas de programação orientada a objetos podem ser aproximadas em C, apesar da linguagem não ter classes embutidas, combinando estruturas para armazenar dados com ponteiros de função para simular métodos, geralmente organizados como uma tabela de ponteiros de função semelhante a uma tabela de métodos virtuais. Encapsulamento é tipicamente alcançado através de ponteiros opacos, ocultando os campos internos de uma estrutura do código fora do módulo que o define. Este estilo requer mais disciplina manual do que uma linguagem com suporte nativo a orientação a objetos, mas é comum em grandes códigos C e bibliotecas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Object-Oriented C: A Primer](https://aartaka.me/oop-c.html)
-- [@article@Object-Oriented Programming (OOP) in C](https://www.codementor.io/@michaelsafyan/object-oriented-programming-in-c-du1081gw2)
-- [@video@OOP in Pure C](https://www.youtube.com/watch?v=6Riy9hVIFDE)
+- [@artigo@Programação Orientada a Objetos em C: Um Guia Inicial](https://aartaka.me/oop-c.html)
+- [@artigo@Programação Orientada a Objetos (OOP) em C](https://www.codementor.io/@michaelsafyan/object-oriented-programming-in-c-du1081gw2)
+- [@vídeo@OOP em Pure C](https://www.youtube.com/watch?v=6Riy9hVIFDE)

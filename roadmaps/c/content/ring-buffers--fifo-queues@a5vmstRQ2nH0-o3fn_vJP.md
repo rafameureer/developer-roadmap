@@ -1,8 +1,8 @@
-# Ring Buffers / FIFO Queues
+# Buffers Círculares / Filas FIFO
 
-A ring buffer, or circular buffer, is a fixed-size buffer that wraps around to the beginning once it reaches the end, making it efficient for implementing first-in-first-out queues without shifting elements. It tracks a read position and a write position that both wrap around the buffer's length. Ring buffers are common in embedded systems and streaming applications where data arrives continuously and memory needs to stay bounded.
+Um buffer circular, ou buffer cíclico, é um buffer de tamanho fixo que se volta para o início uma vez chegar ao fim, tornando-se eficiente para implementar filas first-in-first-out sem deslocar elementos. Ele rastreia uma posição de leitura e uma posição de escrita que ambos se voltam pelo comprimento do buffer. Buffers cíclicos são comuns em sistemas embarcados e aplicações de streaming onde os dados chegam continuamente e a memória precisa permanecer limitada.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Creating a Circular Buffer in C and C++](https://embeddedartistry.com/blog/2017/05/17/creating-a-circular-buffer-in-c-and-c/)
-- [@video@Circular Buffer | Circular Buffer Implementation in C](https://www.youtube.com/watch?v=uvD9_Wdtjtw)
+- [@artigo@Criando um Buffer Circular em C e C++](https://embeddedartistry.com/blog/2017/05/17/creating-a-circular-buffer-in-c-and-c/)
+- [@vídeo@Buffer Circular | Implementação de Buffer Circular em C](https://www.youtube.com/watch?v=uvD9_Wdtjtw)

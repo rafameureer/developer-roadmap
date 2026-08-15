@@ -1,9 +1,9 @@
 # VSCode
 
-Visual Studio Code is a free, extensible code editor from Microsoft that supports C through extensions like the C/C++ extension pack. It offers syntax highlighting, IntelliSense autocomplete, integrated debugging, and build task configuration through simple JSON files. Its balance of features and ease of setup makes it a common choice for C beginners on any operating system.
+Visual Studio Code é um editor de código gratuito e extensível da Microsoft que suporta C através de extensões como o pacote de extensões C/C++. Ele oferece destacamento de sintaxe, conclusão inteligente de autocompletar, depuração integrada e configuração de tarefas de build através de arquivos JSON simples. Sua equilíbrio de recursos e facilidade de instalação o tornam uma escolha comum para iniciantes em C em qualquer sistema operacional.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@C/C++ for Visual Studio Code](https://code.visualstudio.com/docs/languages/cpp)
-- [@video@ES  Skip navigation vscode for c     Create   Avatar image How to Set up Visual Studio Code for C and C++ Programming](https://www.youtube.com/watch?v=1PBD5qFWdq8)
-- [@video@Start C programming in 15 minutes! ⚙️](https://www.youtube.com/watch?v=2ciUcosJFBc)
+- [@official@C/C++ para Visual Studio Code](https://code.visualstudio.com/docs/languages/cpp)
+- [@video@ES  Pular navegação vscode para c     Criar   Imagem de Avatar Como configurar o Visual Studio Code para programação em C e C++](https://www.youtube.com/watch?v=1PBD5qFWdq8)
+- [@video@Comece a programar em C em 15 minutos! ⚙️](https://www.youtube.com/watch?v=2ciUcosJFBc)

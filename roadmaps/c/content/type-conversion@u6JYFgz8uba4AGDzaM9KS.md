@@ -1,9 +1,9 @@
-# Type Conversion
+# Conversão de Tipo
 
-Type conversion changes a value from one data type to another, either automatically by the compiler (implicit conversion) or explicitly by the programmer using a cast, such as `(int)3.9`. Implicit conversions follow C's promotion rules, for example converting a `char` to an `int` in arithmetic, and can sometimes cause unexpected precision loss or overflow. Explicit casts give the programmer direct control but also make it easy to silently discard data if used carelessly.
+A conversão de tipo altera um valor de um tipo de dados para outro, seja automaticamente pelo compilador (conversão implícita) ou explicitamente pelo programador usando uma cast, como `(int)3.9`. As conversões implícitas seguem as regras de promoção do C, por exemplo, convertendo um `char` em um `int` em cálculos, e às vezes podem causar perda de precisão inesperada ou estouro. As casts explícitas dão ao programador o controle direto, mas também facilitam a descarte silencioso de dados se usado com cuidado.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Type Casting in C](https://www.tutorialspoint.com/cprogramming/c_type_casting.htm)
-- [@article@C Type Conversion](https://www.w3schools.com/c/c_type_conversion.php)
-- [@video@Type Conversion in C |](https://www.youtube.com/watch?v=xi2wf0Zy2Y4)
+- [@article@Casting em C](https://www.tutorialspoint.com/cprogramming/c_type_casting.htm)
+- [@article@Conversão de Tipo em C](https://www.w3schools.com/c/c_type_conversion.php)
+- [@video@Conversão de Tipo em C |](https://www.youtube.com/watch?v=xi2wf0Zy2Y4)

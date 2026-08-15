@@ -1,10 +1,10 @@
-# Running your First Program
+# Executando Seu Primeiro Programa
 
-Running a first C program means writing a small source file, usually one that prints "Hello, World!", compiling it with a tool like GCC, and executing the resulting binary. This process introduces the basic compile-then-run workflow that every C program follows: source code goes through the compiler to produce machine code, and only that machine code actually runs. It is a good checkpoint to confirm the toolchain from installation works correctly.
+Executar um primeiro programa em C significa escrever um pequeno arquivo de código-fonte, geralmente um que imprime "Hello, World!", compilá-lo com uma ferramenta como o GCC e executar o binário resultante. Esse processo introduz a workflow básico de compilar-e-executar que todos os programas em C seguem: o código-fonte passa pelo compilador para produzir código-máquina, e apenas esse código-máquina realmente executa. É um bom ponto de verificação para confirmar que a cadeia de ferramentas instalada funciona corretamente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@C - Program Structure](https://www.tutorialspoint.com/cprogramming/c_program_structure.htm)
-- [@article@C - Hello World](https://www.tutorialspoint.com/cprogramming/c_hello_world.htm)
-- [@article@Your First Program in C (For Windows Users)](https://www.instructables.com/Your-first-program-in-C-For-Windows-users/)
-- [@video@Start C programming in 15 minutes! ⚙️](https://www.youtube.com/watch?v=2ciUcosJFBc)
+- [@artigo@Estrutura do Programa em C](https://www.tutorialspoint.com/cprogramming/c_program_structure.htm)
+- [@artigo@Hello World em C](https://www.tutorialspoint.com/cprogramming/c_hello_world.htm)
+- [@artigo@Seu Primeiro Programa em C (Para Usuários de Windows)](https://www.instructables.com/Your-first-program-in-C-For-Windows-users/)
+- [@vídeo@Comece a programar em C em 15 minutos! ⚙️](https://www.youtube.com/watch?v=2ciUcosJFBc)

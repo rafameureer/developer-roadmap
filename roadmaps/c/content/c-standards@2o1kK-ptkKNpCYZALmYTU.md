@@ -1,8 +1,8 @@
-# C Standards
+# Padrões C
 
-C has evolved through a series of standardized versions published by ANSI and ISO, each adding new features and clarifying existing behavior while aiming to remain largely compatible with earlier code. Notable versions include C89/C90, the first widely adopted standard, C99, which added several commonly used features, C11, which introduced multithreading and atomics, and the more recent C17 and C23. Knowing which standard a codebase or compiler targets matters because some features, like `_Atomic` or fixed-width integers, are only guaranteed to exist from a specific version onward.
+C evoluiu através de uma série de versões padronizadas publicadas pela ANSI e ISO, cada uma adicionando novos recursos e esclarecendo o comportamento existente enquanto tenta permanecer em grande parte compatível com o código anterior. Versões notáveis incluem C89/C90, a primeira padrão amplamente adotada, C99, que adicionou vários recursos comumente usados, C11, que introduziu multithreading e atomos, e as versões mais recentes C17 e C23. Saber qual padrão um repositório de código ou compilador almeja é importante porque alguns recursos, como `_Atomic` ou inteiros de largura fixa, só são garantidos existir a partir de uma versão específica em diante.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@C - Standards (ANSI, ISO, C99, C11, C17)](https://www.tutorialspoint.com/cprogramming/c_standards.htm)
-- [@video@8) C language GUIDE: standards (K&R, ANSI, C99, C11, C17, C2x)](https://www.youtube.com/watch?v=etJzrUzk5Rc)
+- [@artigo@C - Padrões (ANSI, ISO, C99, C11, C17)](https://www.tutorialspoint.com/cprogramming/c_standards.htm)
+- [@vídeo@8) Guia do idioma C: padrões (K&R, ANSI, C99, C11, C17, C2x)](https://www.youtube.com/watch?v=etJzrUzk5Rc)

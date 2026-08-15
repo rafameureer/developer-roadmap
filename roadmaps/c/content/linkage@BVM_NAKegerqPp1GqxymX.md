@@ -1,8 +1,8 @@
-# Linkage
+# Ligação
 
-Linkage determines whether a name, like a variable or function, refers to the same entity when it appears in multiple files. External linkage means the name is visible and shared across files, internal linkage restricts it to the file it is defined in, and no linkage applies to names like local variables that exist only within a block. Linkage is controlled with the `static` and `extern` keywords at file scope.
+A ligação determina se um nome, como uma variável ou função, refere-se à mesma entidade quando aparece em vários arquivos. A ligação externa significa que o nome é visível e compartilhado entre os arquivos, a ligação interna restringe-o ao arquivo no qual ele é definido, e nenhuma ligação se aplica a nomes como variáveis locais que existem apenas dentro de um bloco. A ligação é controlada com as palavras-chave `static` e `extern` no escopo do arquivo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Linkage in C and C++](https://www.embedded.com/linkage-in-c-and-c/)
-- [@video@Storage Duration and Linkage in C and C++ - Dan Saks](https://www.youtube.com/watch?v=0kgTuWkyorc)
+- [@artigo@Ligação em C e C++](https://www.embedded.com/linkage-in-c-and-c/)
+- [@vídeo@Duração de Armazenamento e Ligação em C e C++ - Dan Saks](https://www.youtube.com/watch?v=0kgTuWkyorc)

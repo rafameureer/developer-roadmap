@@ -1,8 +1,8 @@
-# integers
+# Inteiros
 
-Integer types in C, such as `int`, `short`, and `long`, store whole numbers without a fractional part. Their exact size in bytes is not fixed by the language and can vary between platforms, though `int` is commonly 4 bytes on modern systems. Integers can be signed, allowing negative values, or unsigned, doubling the positive range but disallowing negatives, and choosing the wrong one is a frequent source of bugs.
+Os tipos de inteiros em C, como `int`, `short` e `long`, armazenam números inteiros sem parte fracionária. Seu tamanho exato em bytes não é fixo pela linguagem e pode variar entre plataformas, embora o `int` seja comumente 4 bytes em sistemas modernos. Os inteiros podem ser assinados, permitindo valores negativos, ou sem sinal, dobrando o intervalo positivo mas proibindo negativos, e escolher a errada é uma fonte frequente de bugs.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Integer types](https://www.cs.yale.edu/homes/aspnes/pinewiki/C(2f)IntegerTypes.html)
-- [@video@Fundamental Data Types − Integer (Part 1)](https://www.youtube.com/watch?v=_9bAlgRzlkc)
+- [@artigo@Tipos de Inteiros](https://www.cs.yale.edu/homes/aspnes/pinewiki/C(2f)IntegerTypes.html)
+- [@vídeo@Tipos de Dados Fundamentais − Inteiro (Parte 1)](https://www.youtube.com/watch?v=_9bAlgRzlkc)

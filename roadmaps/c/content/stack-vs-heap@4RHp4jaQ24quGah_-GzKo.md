@@ -1,9 +1,8 @@
-# Stack vs Heap
+# Pilha vs. Heap
 
-The stack is a region of memory that automatically manages local variables and function call data, growing and shrinking as functions are called and return, and it is fast but limited in size. The heap is a region for dynamically allocated memory, managed manually with functions like `malloc` and `free`, offering more flexibility in size and lifetime at the cost of more responsibility. Choosing between them depends on whether the data's size is known at compile time and how long it needs to live.
+A pilha é uma região de memória que gerencia automaticamente variáveis locais e dados de chamada de função, crescendo e diminuindo conforme as funções são chamadas e retornadas, sendo rápida mas limitada em tamanho. O heap é uma área para memória alocada dinamicamente, gerenciada manualmente com funções como `malloc` e `free`, oferecendo mais flexibilidade no tamanho e na duração à custo de maior responsabilidade. A escolha entre eles depende se o tamanho dos dados é conhecido em tempo de compilação e por quanto tempo ele precisa durar.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Stack and Heap](https://medium.com/@beingnile/stack-and-heap-25ada76c1b61)
-- [@article@What are Stack and Heap Memory?](https://www.youtube.com/watch?v=ep2xOW52mDY)
-- [@video@How to Implement a Stack in C With Code Examples](https://www.digitalocean.com/community/tutorials/stack-in-c)
+- [@artigo@Pilha e Heap](https://medium.com/@beingnile/stack-and-heap-25ada76c1b61)
+- [@video@Como Implementar uma Pilha em C com Exemplos de Código](https://www.digitalocean.com/community/tutorials/stack-in-c)

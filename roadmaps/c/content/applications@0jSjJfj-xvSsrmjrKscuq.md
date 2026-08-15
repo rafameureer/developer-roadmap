@@ -1,8 +1,8 @@
-# Applications
+# Aplicações
 
-C shows up in operating system kernels (Linux, Windows internals), embedded systems and microcontrollers, device drivers, database engines, and performance-critical libraries. Many other languages, including Python and Ruby, have interpreters written in C, and most language runtimes expose a C interface for interoperability. It is also the language of choice when a program needs to run close to hardware with minimal overhead.
+C aparece em kernels de sistemas operacionais (Linux, internos do Windows), sistemas embarcados e microcontroladores, controladores de dispositivos, motores de banco de dados e bibliotecas críticas para o desempenho. Muitos outros idiomas, incluindo Python e Ruby, têm interpretadores escritos em C, e a maioria dos runtimes de linguagem expõe uma interface C para interoperação. É também o idioma de escolha quando um programa precisa ser executado próximo à hardware com mínima sobrecarga.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Applications of C Programming That Will Make You Fall In Love With C](https://data-flair.training/blogs/applications-of-c/)
-- [@article@What are common uses of C in the real world outside of embedded and OS dev?](https://www.reddit.com/r/C_Programming/comments/llwg2e/what_are_common_uses_of_c_in_the_real_world/)
+- [@artigo@Aplicações do Programação em C que irão te fazer apaixonar por C](https://data-flair.training/blogs/applications-of-c/)
+- [@artigo@Quais são as usos comuns de C no mundo real fora do desenvolvimento de sistemas embarcados e de SO?](https://www.reddit.com/r/C_Programming/comments/llwg2e/what_are_common_uses_of_c_in_the_real_world/)

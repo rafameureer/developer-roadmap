@@ -1,8 +1,8 @@
-# booleans
+# Booleanos
 
-C did not originally have a dedicated boolean type, relying instead on the convention that zero means false and any nonzero value means true. Since C99, the `<stdbool.h>` header provides a `bool` type along with `true` and `false` macros for clearer code. Under the hood, `bool` is still typically implemented as a small integer type.
+C não tinha originalmente um tipo booleano dedicado, dependendo em vez disso da convenção de que zero significa falso e qualquer valor não-zero significa verdadeiro. Desde C99, o cabeçalho `<stdbool.h>` fornece um tipo `bool` junto com macros `true` e `false` para código mais claro. Por baixo dos panos, `bool` ainda é tipicamente implementado como um pequeno tipo de inteiro.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@C Booleans](https://www.w3schools.com/c/c_booleans.php)
-- [@video@Boolean and Comparison Operators in C Programming](https://www.youtube.com/watch?v=TybmJxXRV80)
+- [@article@Booleanos em C](https://www.w3schools.com/c/c_booleans.php)
+- [@video@Operadores booleanos e de comparação em programação C](https://www.youtube.com/watch?v=TybmJxXRV80)

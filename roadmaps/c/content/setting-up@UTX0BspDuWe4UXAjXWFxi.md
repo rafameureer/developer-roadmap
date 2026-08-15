@@ -1,9 +1,9 @@
-# Setting up
+# Configuração
 
-Setting up C means installing a compiler, choosing an editor, and confirming that a simple program builds and runs on the local machine. The exact steps differ by operating system, since Linux and macOS often ship with a compiler already available while Windows usually requires a separate install. Getting this working correctly at the start avoids confusion later when debugging build errors.
+Configurar C significa instalar um compilador, escolher um editor e confirmar que um programa simples é construído e executado na máquina local. Os passos exatos diferem por sistema operacional, pois Linux e macOS geralmente já vem com um compilador disponível enquanto o Windows normalmente requer uma instalação separada. Configurar isso corretamente no início evita a confusão mais tarde ao depurar erros de construção.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@C Get Started](https://www.w3schools.com/c/c_getstarted.php)
-- [@article@C - Environment Setup](http://tutorialspoint.com/cprogramming/c_environment_setup.htm)
-- [@video@Start C programming in 15 minutes! ⚙️](https://www.youtube.com/watch?v=2ciUcosJFBc)
+- [@artigo@Começando com C](https://www.w3schools.com/c/c_getstarted.php)
+- [@artigo@Configuração do Ambiente em C](http://tutorialspoint.com/cprogramming/c_environment_setup.htm)
+- [@vídeo@Comece a programar em C em 15 minutos! ⚙️](https://www.youtube.com/watch?v=2ciUcosJFBc)

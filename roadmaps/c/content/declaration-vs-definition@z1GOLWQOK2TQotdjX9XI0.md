@@ -1,9 +1,9 @@
-# Declaration vs Definition
+# Declaração vs Definição
 
-A declaration tells the compiler that a variable or function exists and states its type, without necessarily allocating memory or providing a function body. A definition actually allocates storage for a variable or provides the function's implementation. In C, `extern int x;` is a declaration, while `int x;` is a definition. This distinction matters most when code spans multiple files and needs to share variables or functions across them.
+Uma declaração informa ao compilador que uma variável ou função existe e especifica seu tipo, sem necessariamente alocar memória ou fornecer o corpo da função. Uma definição, por outro lado, aloca armazenamento para uma variável ou fornece a implementação da função. Em C, `extern int x;` é uma declaração, enquanto `int x;` é uma definição. Esta distinção é mais importante quando o código abrange vários arquivos e precisa compartilhar variáveis ou funções entre eles.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@C - Variables](https://www.tutorialspoint.com/cprogramming/c_variables.htm)
-- [@video@Declaration vs. Definition of a variable in C](https://www.youtube.com/watch?v=TtJw4VUYsiM)
-- [@video@C variables 💰](https://www.youtube.com/watch?v=aIQk1O08zpg)
+- [@article@C - Variáveis](https://www.tutorialspoint.com/cprogramming/c_variables.htm)
+- [@video@Declaração vs. Definição de uma variável em C](https://www.youtube.com/watch?v=TtJw4VUYsiM)
+- [@video@Variáveis em C 💰](https://www.youtube.com/watch?v=aIQk1O08zpg)

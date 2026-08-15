@@ -1,9 +1,9 @@
 # GDB
 
-GDB (GNU Debugger) is a command-line debugger that lets a programmer run a C program under its control, set breakpoints to pause execution at specific lines, inspect and modify variable values, and step through code one line or instruction at a time. It works with binaries compiled with debugging information, typically added using the `-g` compiler flag. GDB is the standard debugger on most Linux systems and supports many other languages beyond C.
+GDB (GNU Debugger) é um depurador de linha de comando que permite a um programador executar um programa em C sob seu controle, definir pontos de interrupção para pausar a execução em linhas específicas, inspecionar e modificar valores de variáveis, e passar por código uma linha ou instrução de cada vez. Ele funciona com binários compilados com informações de depuração, geralmente adicionadas usando o sinalizador `-g` do compilador. GDB é o depurador padrão em muitos sistemas Linux e suporta muitas outras linguagens além de C.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@GDB Docs](https://www.sourceware.org/gdb/)
-- [@article@Debugging C code With GDB](https://medium.com/havingfun/debugging-c-code-with-gdb-90adb2f3da96)
-- [@video@GDB is REALLY easy! Find Bugs in Your Code with Only A Few Commands](https://www.youtube.com/watch?v=Dq8l1_-QgAc)
+- [@oficial@Documentação do GDB](https://www.sourceware.org/gdb/)
+- [@artigo@Depurando código C com o GDB](https://medium.com/havingfun/debugging-c-code-with-gdb-90adb2f3da96)
+- [@vídeo@O GDB é REALMENTE fácil! Encontre bugs em seu código com apenas alguns comandos](https://www.youtube.com/watch?v=Dq8l1_-QgAc)

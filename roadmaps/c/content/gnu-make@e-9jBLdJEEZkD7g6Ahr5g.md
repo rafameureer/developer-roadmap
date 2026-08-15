@@ -1,9 +1,9 @@
 # GNU Make
 
-GNU Make is a build automation tool that reads a file called a Makefile, containing rules that specify how to build targets from their dependencies, and only rebuilds the parts of a project that have actually changed. It is one of the oldest and most widely available build tools on Unix-like systems. Writing Makefiles by hand for larger projects can become complex, which is part of why higher-level tools like CMake are often used to generate them instead.
+GNU Make é uma ferramenta de automação de build que lê um arquivo chamado Makefile, contendo regras que especificam como construir alvos a partir de suas dependências e reconstrói apenas as partes do projeto que realmente mudaram. É uma das ferramentas de build mais antigas e amplamente disponíveis em sistemas Unix-like. Escrever Makefiles manualmente para projetos maiores pode se tornar complexo, o que é parte da razão pela qual ferramentas de nível superior como CMake são frequentemente usadas para gerá-los em vez disso.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@GNU Make](https://ftp.gnu.org/old-gnu/Manuals/make-3.80/html_node/make.html)
-- [@article@A Simple Makefile Tutorial](https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/)
-- [@video@What is GNU Make?](https://www.youtube.com/watch?v=mQupK2oTPF4)
+- [@article@Um Tutorial Simples sobre Makefile](https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/)
+- [@video@O que é GNU Make?](https://www.youtube.com/watch?v=mQupK2oTPF4)

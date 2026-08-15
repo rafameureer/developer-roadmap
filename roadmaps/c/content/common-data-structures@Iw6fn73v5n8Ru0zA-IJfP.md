@@ -1,3 +1,3 @@
-# Common Data Structures
+# Estruturas de Dados Comuns
 
-Beyond the built-in array, C programmers commonly build their own data structures using structs and pointers, since the language does not provide these as ready-made library types. Common examples include dynamic arrays that grow as needed, linked lists that store elements as a chain of nodes, hash maps for fast key-based lookup, and ring buffers for fixed-size queues. Implementing these from scratch is a common exercise for understanding how higher-level languages' built-in collections work internally.
+Além do array embutido, os programadores em C frequentemente criam suas próprias estruturas de dados usando structs e ponteiros, pois o idioma não fornece essas como tipos de biblioteca prontos. Exemplos comuns incluem arrays dinâmicos que crescem conforme necessário, listas encadeadas que armazenam elementos como uma cadeia de nós, mapas de hash para pesquisa rápida por chaves e buffers circulares para filas de tamanho fixo. Implementar esses tipos a partir do zero é um exercício comum para entender como as coleções internas dos idiomas de nível superior funcionam.

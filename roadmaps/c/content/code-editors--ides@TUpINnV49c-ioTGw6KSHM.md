@@ -1,7 +1,7 @@
-# Code Editors / IDEs
+# Editores de Código / IDEs
 
-C can be written in a plain text editor, a lightweight code editor, or a full IDE, and the choice affects how much tooling support you get for things like autocomplete, debugging, and build integration. Lightweight editors like vim or VSCode require some manual setup for compiling and debugging, while full IDEs bundle these features together. Beginners often start with something simple and add tooling as their projects grow more complex.
+C pode ser escrito em um editor de texto simples, um editor de código leve ou um IDE completo, e a escolha afeta quanto suporte de ferramentas você recebe para coisas como auto-completar, depuração e integração de construção. Editores leves como o vim ou VSCode requerem algum setup manual para compilação e depuração, enquanto IDEs completas agrupam essas funcionalidades juntas. Iniciantes geralmente começam com algo simples e adicionam ferramentas conforme seus projetos se tornam mais complexos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@what are some good, simple C IDEs for the modern day?](https://www.reddit.com/r/C_Programming/comments/1ai3chm/what_are_some_good_simple_c_ides_for_the_modern/)
+- [@article@Quais são alguns bons e simples IDEs C modernos?](https://www.reddit.com/r/C_Programming/comments/1ai3chm/what_are_some_good_simple_c_ides_for_the_modern/)

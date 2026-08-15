@@ -1,9 +1,9 @@
-# Dynamic Memory Allocation
+# Alocação Dinâmica de Memória
 
-Dynamic memory allocation reserves memory on the heap at runtime, when the amount of memory needed is not known in advance or needs to outlive the function that created it. C provides `malloc`, `calloc`, and `realloc` for allocation and `free` for releasing memory back to the system. Every successful allocation must eventually be paired with exactly one `free` call, and using memory after freeing it or freeing it twice both lead to undefined behavior.
+A alocação dinâmica reserva memória na pilha em tempo de execução, quando a quantidade de memória necessária não é conhecida antecipadamente ou precisa durar além da função que a criou. O C fornece `malloc`, `calloc` e `realloc` para alocação e `free` para liberar a memória de volta ao sistema. Cada alocação bem-sucedida deve ser eventualmente acompanhada por exatamente uma chamada `free`. Usar memória após liberá-la ou liberá-la duas vezes ambos levam a comportamento indefinido.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@C Memory Management](https://www.w3schools.com/c/c_memory_management.php)
-- [@article@C Programming — Dynamic Memory Allocation](https://medium.com/@acamvproducingstudio/c-programming-dynamic-memory-allocation-86221e811379)
-- [@video@Dynamic Memory Allocation | C Programming Tutorial](https://www.youtube.com/watch?v=R0qIYWo8igs)
+- [@artigo@Gerenciamento de Memória em C](https://www.w3schools.com/c/c_memory_management.php)
+- [@artigo@Programação em C — Alocação Dinâmica de Memória](https://medium.com/@acamvproducingstudio/c-programming-dynamic-memory-allocation-86221e811379)
+- [@vídeo@Alocação Dinâmica | Tutorial de Programação em C](https://www.youtube.com/watch?v=R0qIYWo8igs)

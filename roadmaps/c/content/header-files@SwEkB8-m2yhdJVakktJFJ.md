@@ -1,9 +1,9 @@
-# Header Files
+# Arquivos de cabeçalho
 
-Header files, with a `.h` extension, contain declarations, such as function prototypes, struct definitions, and macros, that are shared across multiple source files using `#include`. They let multiple `.c` files agree on the same interface without duplicating code. Header guards, or `#pragma once`, prevent the same header from being included multiple times in one compilation, which would otherwise cause duplicate-definition errors.
+Os arquivos de cabeçalho, com a extensão `.h`, contêm declarações, como protótipos de função, definições de estrutura e macros, que são compartilhadas em vários arquivos-fonte usando `#include`. Eles permitem que múltiplos arquivos `.c` concordem na mesma interface sem duplicar código. Os guardas de cabeçalho, ou `#pragma once`, previnem o mesmo cabeçalho de ser incluído várias vezes em uma compilação, o que caso contrário causaria erros de definição duplicada.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Header Files in C](https://www.tutorialspoint.com/cprogramming/c_header_files.htm)
-- [@article@C Organize Code](https://www.w3schools.com/c/c_organize_code.php)
-- [@video@why do header files even exist?](https://www.youtube.com/watch?v=tOQZlD-0Scc)
+- [@article@Arquivos de cabeçalho em C](https://www.tutorialspoint.com/cprogramming/c_header_files.htm)
+- [@article@Organizar código em C](https://www.w3schools.com/c/c_organize_code.php)
+- [@video@Por que os arquivos de cabeçalho existem mesmo?](https://www.youtube.com/watch?v=tOQZlD-0Scc)

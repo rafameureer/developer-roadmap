@@ -1,9 +1,9 @@
 # IPC
 
-Inter-process communication (IPC) covers mechanisms that let separate, independent processes exchange data, since processes do not share memory the way threads within one process do. Common IPC mechanisms include pipes for streaming data between related processes, shared memory segments for faster but more manually managed data sharing, and message queues or sockets for more structured or networked communication. Choosing an IPC mechanism depends on factors like whether the processes are on the same machine and how much data needs to move between them.
+Comunicação entre processos (IPC) abrange mecanismos que permitem que processos separados e independentes troquem dados, já que os processos não compartilham memória da mesma forma que as threads dentro de um processo. Mecanismos comuns de IPC incluem tubos para transmissão de dados entre processos relacionados, segmentos de memória compartilhada para compartilhamento de dados mais rápido mas manualmente gerenciado e filas de mensagens ou sockets para comunicação estruturada ou rede. A escolha de um mecanismo de IPC depende de fatores como se os processos estiverem na mesma máquina e quantos dados precisam ser movidos entre eles.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Inter Process communication](https://kuleuven-diepenbeek.github.io/osc-course/ch6-tasks/interprocess/)
-- [@article@IPC: Inter-process communication in C programming](http://medium.com/@CesarPrz/ipc-inter-process-communication-in-c-programming-1d9069edc27f)
-- [@video@Interprocess Communication](https://www.youtube.com/watch?v=dJuYKfR8vec)
+- [@artigo@Comunicação Entre Processos](https://kuleuven-diepenbeek.github.io/osc-course/ch6-tasks/interprocess/)
+- [@artigo@IPC: Comunicação Entre Processos em Programação C](http://medium.com/@CesarPrz/ipc-inter-process-communication-in-c-programming-1d9069edc27f)
+- [@vídeo@Comunicação entre Processos](https://www.youtube.com/watch?v=dJuYKfR8vec)

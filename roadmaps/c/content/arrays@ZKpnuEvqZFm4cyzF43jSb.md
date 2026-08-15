@@ -1,9 +1,9 @@
 # Arrays
 
-An array in C is a fixed-size, contiguous block of memory holding multiple elements of the same type, accessed using an index starting at zero. The size of an array must be known at compile time unless it is allocated dynamically on the heap. Arrays decay into pointers to their first element when passed to functions, which means the function receiving them loses information about the array's original size.
+Um array em C é um bloco de memória contínuo e de tamanho fixo que armazena vários elementos do mesmo tipo, acessados usando um índice que começa em zero. O tamanho de um array deve ser conhecido em tempo de compilação a menos que seja alocado dinamicamente na pilha. Quando passados para funções, os arrays se descomparam em ponteiros para seu primeiro elemento, o que significa que a função recebendo-os perde informações sobre o tamanho original do array.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@C Arrays](https://www.w3schools.com/c/c_arrays.php)
-- [@article@C Arrays](https://www.programiz.com/c-programming/c-arrays)
-- [@video@Arrays in C are easy! 🗃️](https://www.youtube.com/watch?v=6Hk2aE_SRzY)
+- [@artigo@Arrays em C](https://www.w3schools.com/c/c_arrays.php)
+- [@artigo@Arrays em C](https://www.programiz.com/c-programming/c-arrays)
+- [@vídeo@Arrays em C são fáceis! 🗃️](https://www.youtube.com/watch?v=6Hk2aE_SRzY)

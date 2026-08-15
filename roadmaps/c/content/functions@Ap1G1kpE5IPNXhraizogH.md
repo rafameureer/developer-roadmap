@@ -1,10 +1,10 @@
-# Functions
+# Funções
 
-A function in C is a named, reusable block of code that takes inputs (parameters), performs some computation, and optionally returns a value. Functions must be declared, either with a prototype or a full definition, before they are used, so the compiler knows their expected parameter and return types. Breaking a program into functions makes code easier to read, test, and reuse.
+Uma função em C é um bloco de código nomeado e reutilizável que aceita entradas (parâmetros), realiza algum cálculo e opcionalmente retorna um valor. As funções devem ser declaradas, seja com uma protótipo ou uma definição completa, antes de serem usadas, para que o compilador saiba seus tipos de parâmetro e retorno esperados. Dividir um programa em funções torna o código mais fácil de ler, testar e reutilizar.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Functions in C](https://www.tutorialspoint.com/cprogramming/c_functions.htm)
-- [@article@C Functions](https://www.w3schools.com/c/c_functions.php)
-- [@video@C functions 📞](https://www.youtube.com/watch?v=ou_G7_zodR4)
-- [@video@Function Basics | C Programming Tutorial](https://www.youtube.com/watch?v=NGQoKF2Ggt8)
+- [@artigo@Funções em C](https://www.tutorialspoint.com/cprogramming/c_functions.htm)
+- [@artigo@Funções em C](https://www.w3schools.com/c/c_functions.php)
+- [@vídeo@Funções em C 📞](https://www.youtube.com/watch?v=ou_G7_zodR4)
+- [@vídeo@Fundamentos de Funções | Tutorial de Programação em C](https://www.youtube.com/watch?v=NGQoKF2Ggt8)

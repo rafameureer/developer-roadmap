@@ -1,8 +1,8 @@
-# static
+# estático
 
-At file scope, `static` gives a variable or function internal linkage, restricting its visibility to the file it is defined in and preventing naming conflicts with other files. Inside a function, `static` on a local variable makes it retain its value between function calls instead of being reinitialized each time, while still keeping it local to that function. These two uses of `static` control different things, visibility versus lifetime, depending on where the keyword appears.
+No escopo de arquivo, `static` dá a uma variável ou função vinculação interna, restringindo sua visibilidade ao arquivo em que é definido e impedindo conflitos de nome com outros arquivos. Dentro de uma função, `static` em uma variável local faz com que ela mantenha seu valor entre chamadas de função em vez de ser reinicializada a cada chamada, enquanto ainda mantém-se local para aquela função. Essas duas usos de `static` controlam coisas diferentes, visibilidade versus duração, dependendo onde a palavra-chave aparece.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@C static Keyword](https://www.w3schools.com/c/ref_keyword_static.php)
-- [@video@The Static Keyword in C](https://www.youtube.com/watch?v=3E-r4GfvWOI)
+- [@artigo@Palavra-chave static em C](https://www.w3schools.com/c/ref_keyword_static.php)
+- [@video@A Palavra-chave static em C](https://www.youtube.com/watch?v=3E-r4GfvWOI)

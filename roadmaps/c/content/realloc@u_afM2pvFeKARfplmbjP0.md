@@ -1,9 +1,9 @@
 # realloc
 
-`realloc` is a function used to change the size of a previously allocated memory block. It takes a pointer to an existing memory block and a new size as arguments, then attempts to resize the block while preserving its existing contents. If the current memory location cannot be expanded, it allocates a new block of the requested size, copies the data from the old memory to the new location, frees the old memory, and returns a pointer to the new block.
+`realloc` é uma função usada para alterar o tamanho de um bloco de memória alocado anteriormente. Ela recebe um ponteiro para um bloco de memória existente e um novo tamanho como argumentos, então tenta redimensionar o bloco preservando seu conteúdo existente. Se a localização atual da memória não puder ser expandida, ela aloca um novo bloco do tamanho solicitado, copia os dados do antigo bloco para a nova localização, libera o antigo bloco e retorna um ponteiro para o novo bloco.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@C Reallocate Memory](https://www.w3schools.com/c/c_memory_reallocate.php)
-- [@article@C library - realloc() function](https://www.tutorialspoint.com/c_standard_library/c_function_realloc.htm)
-- [@video@Realloc in C explained easy! 🚢](https://www.youtube.com/watch?v=rUXjvybSPWc)
+- [@artigo@Realloc em C](https://www.w3schools.com/c/c_memory_reallocate.php)
+- [@artigo@Biblioteca C - Função realloc()](https://www.tutorialspoint.com/c_standard_library/c_function_realloc.htm)
+- [@vídeo@Explicação de Realloc em C explicada de forma fácil! 🚢](https://www.youtube.com/watch?v=rUXjvybSPWc)

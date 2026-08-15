@@ -1,8 +1,8 @@
-# Operators
+# Operadores
 
-Operators in C are symbols that perform operations on values and variables, such as addition, comparison, or bitwise manipulation. They are grouped into categories including arithmetic, comparison, logical, bitwise, and ternary operators. Each category has its own precedence and associativity rules that determine how expressions with multiple operators are evaluated.
+Os operadores em C são símbolos que realizam operações em valores e variáveis, como adição, comparação ou manipulação bit-a-bit. Eles são agrupados em categorias incluindo operadores aritméticos, de comparação, lógicos, bit-a-bit e ternários. Cada categoria tem suas próprias regras de precedência e associatividade que determinam como expressões com múltiplos operadores são avaliadas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@C Operators](https://www.tutorialspoint.com/cprogramming/c_operators.htm)
-- [@video@C Operators - C Programming for Beginners](https://www.youtube.com/watch?v=_57FcSBtJNU)
+- [@artigo@Operadores em C](https://www.tutorialspoint.com/cprogramming/c_operators.htm)
+- [@vídeo@Operadores em C - Programação em C para Iniciantes](https://www.youtube.com/watch?v=_57FcSBtJNU)

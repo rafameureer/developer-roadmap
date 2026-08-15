@@ -1,3 +1,3 @@
-# Standard Library
+# Biblioteca Padrão
 
-The C standard library is a collection of functions and macros, grouped into headers like `<stdio.h>` and `<stdlib.h>`, that come bundled with every standards-compliant C compiler. It covers common needs such as input/output, string handling, memory allocation, math functions, and time handling, so programmers do not need to reimplement basic functionality themselves. Its scope is deliberately limited compared to standard libraries in some other languages, reflecting C's minimalist design.
+A biblioteca padrão em C é uma coleção de funções e macros, agrupados em cabeçalhos como `<stdio.h>` e `<stdlib.h>`, que vem embutidos com todos os compiladores de C compatíveis com padrões. Ela abrange necessidades comuns como entrada/saída, manipulação de strings, alocação de memória, funções matemáticas e manipulação de tempo, para que os programadores não precisem reimplementar funcionalidade básica por conta própria. Seu escopo é limitado deliberadamente em comparação com bibliotecas padrão em alguns outros idiomas, refletindo o design minimalista do C.

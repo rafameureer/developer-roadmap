@@ -1,8 +1,8 @@
-# Data Utilities
+# Utilidades de Dados
 
-Data utility functions, largely from `<stdlib.h>`, provide general-purpose operations such as memory allocation (`malloc`, `free`), converting strings to numbers (`atoi`, `strtol`), generating pseudo-random numbers (`rand`), and sorting or searching arrays (`qsort`, `bsearch`). They cover common tasks that come up across many kinds of programs regardless of domain. Because they are part of the standard library, they are available on any standards-compliant C implementation without extra installation.
+As funções utilitárias de dados, em grande parte do `<stdlib.h>`, fornecem operações gerais como alocação de memória (`malloc`, `free`), conversão de strings para números (`atoi`, `strtol`), geração de números pseudo-aleatórios (`rand`) e classificação ou busca de arrays (`qsort`, `bsearch`). Cobrem tarefas comuns que surgem em muitos tipos de programas, independentemente do domínio. Como parte da biblioteca padrão, estão disponíveis em qualquer implementação C padrão sem instalação extra.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@C stdlib (stdlib.h) Library](https://www.w3schools.com/c/c_ref_stdlib.php)
-- [@article@C Library - \<stdlib.h\>](https://www.tutorialspoint.com/c_standard_library/stdlib_h.htm)
+- [@article@Biblioteca C stdlib (stdlib.h)](https://www.w3schools.com/c/c_ref_stdlib.php)
+- [@article@Biblioteca C - \<stdlib.h\>](https://www.tutorialspoint.com/c_standard_library/stdlib_h.htm)

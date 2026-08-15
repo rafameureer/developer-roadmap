@@ -1,9 +1,9 @@
-# Memory Leakage
+# Perda de Memória
 
-A memory leak happens when dynamically allocated memory is no longer needed but is never freed, so it stays reserved and unavailable for the rest of the program's execution. Leaks accumulate over time, especially in long-running programs, and can eventually exhaust available memory. Tools like Valgrind can detect leaks by tracking allocations that are never matched with a corresponding `free`.
+Uma perda de memória ocorre quando a memória dinamicamente alocada não é mais necessária, mas nunca é liberada, então ela permanece reservada e indisponível para o resto da execução do programa. As perdas acumulam ao longo do tempo, especialmente em programas que duram por muito tempo, e podem eventualmente esgotar toda a memória disponível. Ferramentas como Valgrind podem detectar as perdas rastreando alocações que nunca são correspondidas com um `free` adequado.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Finding a Memory Leak in C or C++](https://www.parasoft.com/blog/finding-memory-leaks-in-c-or-c/)
-- [@article@How To Find And Fix Memory Leaks in C or C++](https://www.netdata.cloud/academy/how-to-find-memory-leak-in-c/)
-- [@video@Memory Leaks And How To Prevent Them](https://www.youtube.com/watch?v=lQCLAKfcYI4)
+- [@artigo@Como encontrar uma perda de memória em C ou C++](https://www.parasoft.com/blog/finding-memory-leaks-in-c-or-c/)
+- [@artigo@Como encontrar e corrigir perdas de memória em C ou C++](https://www.netdata.cloud/academy/how-to-find-memory-leak-in-c/)
+- [@vídeo@Perdas de Memória e Como Prevenir Elas](https://www.youtube.com/watch?v=lQCLAKfcYI4)

@@ -1,7 +1,7 @@
-# OS & Signal Interfaces
+# Interfaces de Sistema Operacional e Sinais
 
-Operating system and signal interfaces, such as `<signal.h>` and parts of `<stdlib.h>`, let a C program interact with the underlying operating system, including handling asynchronous events like interrupts (`SIGINT`) or setting up custom responses to system-generated signals. These functions provide a portable, if limited, way to write programs that respond to external events like a user pressing Ctrl+C. More extensive OS interaction, such as process creation, typically requires platform-specific APIs like POSIX functions on Unix-like systems.
+As interfaces de sistema operacional e sinais, como `<signal.h>` e partes de `<stdlib.h>`, permitem que um programa em C interaja com o sistema operacional subjacente, incluindo o tratamento de eventos assíncronos como interrupções (`SIGINT`) ou a configuração de respostas personalizadas para sinais gerados pelo sistema. Essas funções fornecem uma maneira portátil, se limitada, de escrever programas que respondam a eventos externos como um usuário pressionando Ctrl+C. Uma interação mais extensa com o sistema operacional, como a criação de processos, geralmente requer APIs específicas da plataforma, como funções POSIX em sistemas Unix-like.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@C Library - \<signal.h\>](https://www.tutorialspoint.com/c_standard_library/signal_h.htm)
+- [@artigo@Biblioteca C - \<signal.h\>](https://www.tutorialspoint.com/c_standard_library/signal_h.htm)

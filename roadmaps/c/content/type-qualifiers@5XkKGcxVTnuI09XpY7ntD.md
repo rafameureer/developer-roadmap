@@ -1,9 +1,9 @@
-# Type Qualifiers
+# Qualificadores de Tipo
 
-Type qualifiers add extra meaning to a variable's declaration beyond its basic type, telling the compiler how the variable can be used or how it might change. C provides four standard qualifiers: `const`, `volatile`, `restrict`, and `_Atomic`. They do not change how much memory a variable uses, but they do affect what optimizations the compiler is allowed to make and what guarantees the programmer gets.
+Os qualificadores de tipo adicionam significado extra à declaração de uma variável além do seu tipo básico, informando ao compilador como a variável pode ser usada ou como ela pode mudar. O C fornece quatro qualificadores padrão: `const`, `volatile`, `restrict` e `_Atomic`. Eles não alteram quantos bytes um variável usa, mas afetam as otimizações que o compilador pode fazer e as garantias que o programador recebe.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Type Qualifiers](https://learn.microsoft.com/en-us/cpp/c-language/type-qualifiers?view=msvc-170)
-- [@article@Type Qualifiers in C](https://www.naukri.com/code360/library/type-qualifiers-in-c)
-- [@article@_Atomic keyword in C](https://aticleworld.com/what-is-_atomic-keyword-in-c/)
+- [@article@Qualificadores de Tipo](https://learn.microsoft.com/en-us/cpp/c-language/type-qualifiers?view=msvc-170)
+- [@article@Qualificadores de Tipo em C](https://www.naukri.com/code360/library/type-qualifiers-in-c)
+- [@article@Keyword _Atomic em C](https://aticleworld.com/what-is-_atomic-keyword-in-c/)

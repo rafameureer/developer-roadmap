@@ -1,9 +1,9 @@
-# Dynamic Arrays
+# Arrays Dinâmicos
 
-A dynamic array is an array-like structure that can grow or shrink at runtime, typically implemented by allocating memory on the heap and reallocating a larger block, often using `realloc`, when it runs out of space. Unlike a fixed-size C array, it tracks both its current length and its allocated capacity separately. This pattern underlies dynamic array types like C++'s `std::vector` or Python's list, though C requires implementing it manually.
+Um array dinâmico é uma estrutura semelhante a um array que pode crescer ou diminuir em tempo de execução, geralmente implementada alocando memória na pilha e realocando um bloco maior, frequentemente usando `realloc`, quando não houver espaço suficiente. Diferentemente de um array de tamanho fixo do C, ele rastreia separadamente seu comprimento atual e sua capacidade alocada. Este padrão subjacente às tipos de arrays dinâmicos como o `std::vector` em C++ ou a lista em Python, embora o C exija implementá-lo manualmente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Dynamic Arrays in C](https://www.bytesbeneath.com/p/dynamic-arrays-in-c?hide_intro_popup=true)
-- [@article@Dynamic arrays in C: An implementation guide](https://medium.com/@sohaib.arshid101/dynamic-arrays-in-c-an-implementation-guide-4a959de94332)
-- [@video@Dynamic Arrays in C](https://www.youtube.com/watch?v=_KSKH8C9Gf0)
+- [@artigo@Arrays Dinâmicos em C](https://www.bytesbeneath.com/p/dynamic-arrays-in-c?hide_intro_popup=true)
+- [@artigo@Implementação de Arrays Dinâmicos em C: Um guia](https://medium.com/@sohaib.arshid101/dynamic-arrays-in-c-an-implementation-guide-4a959de94332)
+- [@vídeo@Arrays Dinâmicos em C](https://www.youtube.com/watch?v=_KSKH8C9Gf0)

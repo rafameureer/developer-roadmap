@@ -1,8 +1,8 @@
 # WinDbg
 
-WinDbg is a debugger from Microsoft for Windows programs, capable of both live debugging and analyzing crash dump files after a program has already terminated. It is commonly used for debugging Windows-specific issues, including kernel-level and driver debugging, that other cross-platform debuggers do not handle. Its interface and command set differ significantly from GDB or LLDB, reflecting its Windows-specific origins.
+WinDbg é um depurador da Microsoft para programas do Windows, capaz de depuração em tempo real e análise de arquivos de despejo de falha após que um programa já tenha terminado. É comumente usado para depurar problemas específicos do Windows, incluindo depuração no nível do kernel e dos drivers, que outros depuradores cross-platform não lidam. Sua interface e conjunto de comandos diferem significativamente de GDB ou LLDB, refletindo suas origens específicas do Windows.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@install WinDbg](https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/)
-- [@video@Debugging C/C++ Programs from Scratch with WinDbg: A Beginner's Guide](https://www.youtube.com/watch?v=AgtgZDsADUI)
+- [@official@instalar WinDbg](https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/)
+- [@video@Depurando programas C/C++ do zero com o WinDbg: um guia iniciante](https://www.youtube.com/watch?v=AgtgZDsADUI)

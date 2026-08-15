@@ -1,10 +1,10 @@
-# Introduction
+# Introdução
 
-C is a general-purpose programming language created in the early 1970s at Bell Labs by Dennis Ritchie. It gives direct access to memory and hardware while staying close to the machine, which makes it fast and predictable but also demands more care from the programmer. Operating systems, embedded firmware, compilers, and many other languages' runtimes are built with it. Learning C teaches how computers actually manage memory and execute instructions, knowledge that carries over to almost every other language.
+C é um idioma de programação de propósito geral criado no início dos anos 1970 na Bell Labs por Dennis Ritchie. Ele oferece acesso direto à memória e ao hardware, mantendo-se próximo da máquina, o que o torna rápido e previsível, mas também exige mais cuidado do programador. Sistemas operacionais, firmware incorporados, compiladores e muitos outros runtimes de linguagens são construídos com ele. Aprender C ensina como computadores gerenciam a memória e executam instruções, conhecimento que se aplica quase em todas as outras linguagens.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@Learn C](https://www.learn-c.org/)
-- [@book@The C Programming Language - 2nd Edition](https://seriouscomputerist.atariverse.com/media/pdf/book/C%20Programming%20Language%20-%202nd%20Edition%20(OCR).pdf)
-- [@video@C Programming and Memory Management - Full Course](https://www.youtube.com/watch?v=rJrd2QMVbGM)
-- [@article@C Programming Full Course for free ⚙️](https://www.youtube.com/watch?v=xND0t1pr3KY)
+- [@curso@Aprenda C](https://www.learn-c.org/)
+- [@livro@O Livro do Programador em C - 2ª Edição](https://seriouscomputerist.atariverse.com/media/pdf/book/C%20Programming%20Language%20-%202nd%20Edition%20(OCR).pdf)
+- [@vídeo@Programação em C e Gerenciamento de Memória - Curso Completo](https://www.youtube.com/watch?v=rJrd2QMVbGM)
+- [@artigo@Curso Completo de Programação em C para Grátis ⚙️](https://www.youtube.com/watch?v=xND0t1pr3KY)

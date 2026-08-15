@@ -1,9 +1,9 @@
-# Process Management
+# Gerenciamento de Processos
 
-Process management covers creating, controlling, and terminating processes from within a C program, typically using POSIX functions like `fork` to create a new process, `exec` to replace a process's program with a new one, and `wait` to have a parent process wait for a child process to finish. This is the foundation for how shells and other programs launch and manage other programs. It is closely related to but distinct from concurrency, since separate processes have their own independent memory space unlike threads.
+O gerenciamento de processos abrange a criação, controle e terminação de processos dentro de um programa em C, geralmente usando funções POSIX como `fork` para criar um novo processo, `exec` para substituir o programa de um processo por um novo e `wait` para que um processo pai espere até que um filho termine. Isso é a base do funcionamento de shells e outros programas ao iniciar e gerenciar outros programas. Ele está estreitamente relacionado, mas distinto da concorrência, pois processos separados têm seu próprio espaço de memória independente, em vez de threads.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Process Management: Operating System](https://dev.to/harshm03/process-management-operating-system-18gl)
-- [@article@Mastering fork() and exec() in C: The Complete Beginner’s Guide to Process Management in Unix-like Systems](https://levelup.gitconnected.com/mastering-fork-and-exec-in-c-a-beginners-guide-to-process-management-in-unix-like-operating-81b2b19b4dfe)
-- [@video@Process Management (Processes and Threads)](https://www.youtube.com/watch?v=OrM7nZcxXZU)
+- [@artigo@Gerenciamento de Processos: Sistema Operacional](https://dev.to/harshm03/process-management-operating-system-18gl)
+- [@artigo@Dominando fork() e exec() em C: A Guia Completa do Iniciante para o Gerenciamento de Processos em Sistemas Unix-like](https://levelup.gitconnected.com/mastering-fork-and-exec-in-c-a-beginners-guide-to-process-management-in-unix-like-operating-81b2b19b4dfe)
+- [@vídeo@Gerenciamento de Processos (Processos e Threads)](https://www.youtube.com/watch?v=OrM7nZcxXZU)

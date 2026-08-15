@@ -1,9 +1,9 @@
-# Conditional Compilation
+# Compilação Condicional
 
-Conditional compilation uses preprocessor directives like `#ifdef`, `#ifndef`, `#if`, and `#endif` to include or exclude blocks of code before the compiler processes them, based on whether certain macros are defined. It is commonly used for platform-specific code, enabling debug-only sections, or preventing a header file from being included multiple times through header guards. Because this happens during preprocessing, excluded code is never even seen by the compiler.
+A compilação condicional usa diretivas de pré-processador como `#ifdef`, `#ifndef`, `#if` e `#endif` para incluir ou excluir blocos de código antes que o compilador os processe, com base em whether certas macros estão definidas. É comumente usado para código específico da plataforma, permitindo seções de depuração exclusivas ou impedindo que um arquivo de cabeçalho seja incluído múltiplas vezes através dos guardas de cabeçalho. Porque isso acontece durante o pré-processamento, o código excluído nunca é visto pelo compilador.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Conditional compilation directives in C](https://fastbitlab.com/blog/microcontroller-embedded-c-programming-lecture-182-conditional-compilation-directives/)
-- [@article@Conditional compilation - Wikipedia](https://en.wikipedia.org/wiki/Conditional_compilation)
-- [@video@Conditional Compilation Directives](https://www.youtube.com/watch?v=rTNDAMyRpUs)
+- [@artigo@Diretivas de compilação condicional em C](https://fastbitlab.com/blog/microcontroller-embedded-c-programming-lecture-182-conditional-compilation-directives/)
+- [@artigo@Compilação condicional - Wikipedia](https://en.wikipedia.org/wiki/Conditional_compilation)
+- [@vídeo@Diretivas de compilação condicional](https://www.youtube.com/watch?v=rTNDAMyRpUs)

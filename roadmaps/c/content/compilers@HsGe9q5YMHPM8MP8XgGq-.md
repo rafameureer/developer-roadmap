@@ -1,9 +1,9 @@
-# Compilers
+# Compiladores
 
-A compiler translates C source code into machine code that can run directly on a specific processor and operating system. Popular choices include GCC and Clang, which support most platforms, and specialized compilers like TinyCC, designed for speed rather than optimization. Compilers also expose various flags controlling optimization level, warnings, and debugging information included in the output.
+Um compilador traduz o código-fonte em C para código de máquina que pode ser executado diretamente em um processador e sistema operacional específico. Opções populares incluem GCC e Clang, que suportam a maioria das plataformas, e compiladores especializados como TinyCC, projetados para velocidade em vez de otimização. Compiladores também expõem várias bandeiras controlando o nível de otimização, avisos e informações de depuração incluídas na saída.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is a Compiler? Compilers in C Explained for Beginners](https://www.freecodecamp.org/news/what-is-a-compiler-in-c/)
-- [@article@How Does C Compilation Work?](https://medium.com/@bdov_/what-happens-when-you-type-gcc-main-c-a4454564e96d)
-- [@video@Why is C Compiler So Smart?](https://www.youtube.com/watch?v=juWM6saNCZk)
+- [@artigo@O que é um Compilador? Explicação de Compiladores em C para Iniciantes](https://www.freecodecamp.org/news/what-is-a-compiler-in-c/)
+- [@artigo@Como Funciona a Compilação em C?](https://medium.com/@bdov_/o-que-acaba-de-suceder-quando-digitamos-gcc-main-c-a4454564e96d)
+- [@vídeo@Por Que o Compilador C é Tão Inteligente?](https://www.youtube.com/watch?v=juWM6saNCZk)

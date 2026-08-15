@@ -1,9 +1,9 @@
-# Variables
+# Variáveis
 
-A variable in C is a named piece of memory that holds a value of a specific type, such as an integer or a character. Every variable must be declared with a type before use, since C is statically typed and does not infer types automatically. Variables can be reassigned during a program's execution, unlike constants, and their scope determines where in the code they can be accessed.
+Em C, uma variável é um pedaço de memória nomeado que armazena um valor de um tipo específico, como um inteiro ou um caractere. Cada variável deve ser declarada com um tipo antes de uso, pois o C é tipicamente estáticamente tipado e não infere tipos automaticamente. Variáveis podem ser reatribuídas durante a execução do programa, em contraste com constantes, e seu escopo determina onde no código elas podem ser acessadas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@C Variables](https://www.w3schools.com/c/c_variables.php)
-- [@article@C - Variables](https://www.tutorialspoint.com/cprogramming/c_variables.htm)
-- [@video@C variables 💰](https://www.youtube.com/watch?v=aIQk1O08zpg)
+- [@artigo@Variáveis em C](https://www.w3schools.com/c/c_variables.php)
+- [@artigo@C - Variáveis](https://www.tutorialspoint.com/cprogramming/c_variables.htm)
+- [@vídeo@Variáveis em C 💰](https://www.youtube.com/watch?v=aIQk1O08zpg)

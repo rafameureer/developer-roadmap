@@ -1,8 +1,8 @@
 # extern
 
-The `extern` keyword declares that a variable or function is defined in another file, giving the compiler the information it needs to reference it without allocating storage again. It is typically placed in a header file so multiple source files can share the same global variable or function. Using `extern` correctly avoids duplicate-definition errors that occur when a variable is accidentally defined in more than one file.
+A palavra-chave `extern` declara que uma variável ou função é definida em outro arquivo, fornecendo ao compilador as informações necessárias para referenciá-la sem alocar armazenamento novamente. Ela é geralmente colocada em um arquivo de cabeçalho para que múltiplos arquivos-fonte possam compartilhar a mesma variável global ou função. Usar `extern` corretamente evita erros de definição duplicada que ocorrem quando uma variável é acidentalmente definida em mais de um arquivo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is the Extern Keyword in C?](https://www.scaler.com/topics/c-extern/)
-- [@video@Understanding the Extern Keyword in C](https://www.youtube.com/watch?v=ySY_FlA7EvA)
+- [@artigo@O Que é a Palavra-chave Extern em C?](https://www.scaler.com/topics/c-extern/)
+- [@vídeo@Entendendo a Palavra-chave Extern em C](https://www.youtube.com/watch?v=ySY_FlA7EvA)

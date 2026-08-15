@@ -1,8 +1,8 @@
-# Installing C
+# Instalando C
 
-Installing C means installing a compiler such as GCC or Clang, since C itself is just a language specification with no official installer. On Linux, package managers like apt or dnf usually provide GCC directly. On macOS, Xcode Command Line Tools include Clang, and on Windows, options include MinGW, WSL, or MSVC. Once installed, running the compiler on a small test file confirms the setup works.
+Instalar C significa instalar um compilador como GCC ou Clang, pois C em si é apenas uma especificação de linguagem sem instalador oficial. No Linux, gerenciadores de pacotes como apt ou dnf geralmente fornecem GCC diretamente. No macOS, Xcode Command Line Tools incluem Clang, e no Windows, as opções incluem MinGW, WSL ou MSVC. Uma vez instalado, executar o compilador em um pequeno arquivo de teste confirma que a configuração funciona.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@C - Environment Setup](https://www.tutorialspoint.com/cprogramming/c_environment_setup.htm)
-- [@video@ES  Skip navigation installing c     Create   Avatar image How to Set up Visual Studio Code for C and C++ Programming](https://www.youtube.com/watch?v=1PBD5qFWdq8)
+- [@artigo@Configuração do Ambiente C](https://www.tutorialspoint.com/cprogramming/c_environment_setup.htm)
+- [@vídeo@ES  Pular navegação instalar c     Criar   Imagem de Avatar Como Configurar o Visual Studio Code para Programação em C e C++](https://www.youtube.com/watch?v=1PBD5qFWdq8)

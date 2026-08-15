@@ -1,8 +1,8 @@
 # CMocka
 
-CMocka is a unit testing framework for C that includes support for mock objects, letting tests replace real function calls with controlled substitutes to isolate the code under test. It provides assertion macros for checking expected values and can run groups of test cases together while reporting pass/fail results. Its mocking support makes it well suited to testing code with external dependencies, like hardware interfaces or network calls.
+CMocka é um framework de teste unitário para C que inclui suporte a objetos-mock, permitindo que os testes substituam chamadas de funções reais por substitutos controlados para isolar o código em teste. Ele fornece macros de declaração de afirmações para verificar valores esperados e pode executar grupos de casos de teste juntos enquanto relata resultados de passagem/falha. Seu suporte a mockup o torna adequado para testar código com dependências externas, como interfaces de hardware ou chamadas de rede.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@CMocka](https://cmocka.org/)
-- [@article@Unit testing C code with CMocka](https://blog.microjoe.org/2017/unit-tests-c-cmocka-coverage-cmake.html)
+- [@article@Testando código C com CMocka](https://blog.microjoe.org/2017/unit-tests-c-cmocka-coverage-cmake.html)

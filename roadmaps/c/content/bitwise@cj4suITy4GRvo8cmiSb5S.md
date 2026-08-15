@@ -1,8 +1,8 @@
-# Bitwise
+# Operadores Bitwise
 
-Bitwise operators manipulate individual bits within a value, including AND (`&`), OR (`|`), XOR (`^`), NOT (`~`), and the shift operators (`<<`, `>>`). They are used in low-level programming for tasks like setting flags, masking bits, or optimizing certain calculations. Because they operate at the bit level, mixing them up with logical operators, like `&` versus `&&`, is a common source of bugs.
+Os operadores bitwise manipulam bits individuais em um valor, incluindo AND (`&`), OR (`|`), XOR (`^`), NOT (`~`) e os operadores de deslocamento (`<<`, `>>`). Eles são usados na programação de nível baixo para tarefas como definir flags, mascarar bits ou otimizar certos cálculos. Porque eles operam no nível do bit, misturá-los com operadores lógicos, como `&` versus `&&`, é uma fonte comum de bugs.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Bitwise operators](https://www.tutorialspoint.com/cprogramming/c_bitwise_operators.htm)
-- [@video@C bitwise operators 🔣](https://www.youtube.com/watch?v=BGeOwlIGRGI)
+- [@article@Operadores bitwise](https://www.tutorialspoint.com/cprogramming/c_bitwise_operators.htm)
+- [@video@Operadores bitwise em C 🔣](https://www.youtube.com/watch?v=BGeOwlIGRGI)

@@ -1,7 +1,7 @@
-# s
+# O Elemento <s>
 
-The `<s>` element in HTML represents content that is no longer accurate or relevant. It indicates things that are no longer correct, accurate, or no longer relevant. Browsers typically render this element with a strikethrough, visually indicating the text has been removed or is no longer valid.
+O elemento `<s>` em HTML representa conteúdo que não é mais preciso ou relevante. Indica coisas que já não são corretas, precisas ou relevantes. Os navegadores geralmente renderizam esse elemento com um tachado, visualmente indicando que o texto foi removido ou não é mais válido.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@HTML s Tag: How it Works with Examples](https://flatcoding.com/tutorials/html/html-s-tag-how-it-works-with-examples/)
+- [@article@Tag HTML s: Como Funciona com Exemplos](https://flatcoding.com/tutorials/html/html-s-tag-how-it-works-with-examples/)

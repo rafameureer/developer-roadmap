@@ -1,9 +1,9 @@
-# Standard Attributes
+# Atributos Padrão
 
-Standard attributes are properties that can be used on almost all HTML elements to provide additional information or functionality. These attributes control things like element styling, identification, accessibility, and event handling, allowing you to modify how elements behave and interact within a webpage. They offer a consistent way to manage common element characteristics across different browsers and devices.
+Atributos padrão são propriedades que podem ser usados em quase todos os elementos HTML para fornecer informações adicionais ou funcionalidades. Esses atributos controlam coisas como estilização do elemento, identificação, acessibilidade e manipulação de eventos, permitindo que você modifique como os elementos se comportam e interagem dentro de uma página da web. Eles oferecem uma maneira consistente de gerenciar características comuns dos elementos em diferentes navegadores e dispositivos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@HTML Global Attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes)
-- [@article@HTML Attributes Reference](https://www.w3schools.com/tags/ref_attributes.asp)
-- [@article@Understanding HTML Attributes](https://www.freecodecamp.org/news/html-attributes-and-how-to-use-them/)
+- [@artigo@Atributos Globais do HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Global_attributes)
+- [@artigo@Referência de Atributos do HTML](https://www.w3schools.com/tags/ref_attributes.asp)
+- [@artigo@Entendendo os Atributos do HTML](https://www.freecodecamp.org/news/html-attributes-and-how-to-use-them/)

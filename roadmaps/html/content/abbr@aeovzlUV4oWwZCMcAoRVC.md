@@ -1,7 +1,7 @@
-# Abbreviation Element
+# Elemento de Abreviação
 
-The `<abbr>` tag in HTML represents an abbreviation or acronym. It's useful for providing a full description of the abbreviated term when the user hovers over it, improving accessibility and clarity. The `title` attribute is used to specify the expanded form of the abbreviation.
+O elemento `<abbr>` em HTML representa uma abreviatura ou acrônimo. É útil para fornecer uma descrição completa do termo abreviado quando o usuário passa o mouse sobre ele, melhorando a acessibilidade e clareza. O atributo `title` é usado para especificar a forma expandida da abreviação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@HTML abbr tag](https://www.youtube.com/watch?v=yN191Pkg4kg)
+- [@vídeo@Tag HTML abbr](https://www.youtube.com/watch?v=yN191Pkg4kg)

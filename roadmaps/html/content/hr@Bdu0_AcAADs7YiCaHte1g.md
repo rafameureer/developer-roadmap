@@ -1,8 +1,8 @@
-# Horizontal Rule
+# Linha Horizontal
 
-The `<hr>` tag in HTML creates a thematic break in an HTML page and is most often displayed as a horizontal rule. It's used to separate content visually, like dividing sections of text or indicating a change in topic. The `<hr>` tag is an empty element, meaning it doesn't have a closing tag.
+A tag `<hr>` em HTML cria um quebra tópico na página HTML e é geralmente exibida como uma linha horizontal. É usado para separar o conteúdo visualmente, como dividindo seções de texto ou indicando uma mudança no tópico. A tag `<hr>` é um elemento vazio, o que significa que não tem uma tag de fechamento.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@article@: The Thematic Break (Horizontal Rule) element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/hr)
-- [@video@hr & br tags in HTML](https://www.youtube.com/watch?v=B1UCE3nfLww)
+- [@artigo@O Elemento de Quebra Tópico (Linha Horizontal)](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/hr)
+- [@vídeo@Tags hr e br em HTML](https://www.youtube.com/watch?v=B1UCE3nfLww)

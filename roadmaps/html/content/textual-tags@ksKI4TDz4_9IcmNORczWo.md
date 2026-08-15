@@ -1,9 +1,9 @@
-# Textual Tags
+# Tags Textuais
 
-Textual tags in HTML are used to structure and format text content on a webpage. They define how text should appear, whether it's a paragraph, heading, emphasized word, or a quoted section. These tags provide semantic meaning to the text, helping browsers and search engines understand the content's organization and purpose.
+As tags textuais em HTML são usadas para estruturar e formatar o conteúdo de texto em uma página da web. Elas definem como o texto deve aparecer, seja um parágrafo, título, palavra enfatizada ou uma seção citada. Essas tags fornecem significado semântico ao texto, ajudando os navegadores e motores de busca a entender a organização e o propósito do conteúdo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@HTML Text Formatting Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/text-level_semantics)
-- [@article@HTML Text Tags Overview](https://www.w3schools.com/html/html_formatting.asp)
-- [@article@Semantic HTML for Text](https://www.freecodecamp.org/news/semantic-html5-elements/)
+- [@artigo@Elementos de Formatação de Texto em HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/text-level_semantics)
+- [@artigo@Visão Geral das Tags de Texto em HTML](https://www.w3schools.com/html/html_formatting.asp)
+- [@artigo@HTML Semântico para Texto](https://www.freecodecamp.org/news/semantic-html5-elements/)

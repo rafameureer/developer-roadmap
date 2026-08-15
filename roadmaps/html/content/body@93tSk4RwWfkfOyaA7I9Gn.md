@@ -1,7 +1,7 @@
-# Body Tag
+# Tag Body
 
-The `<body>` tag in HTML defines the main content of an HTML document. It contains all the visible elements of a webpage, such as text, images, links, tables, lists, and more. Think of it as the container for everything you actually see and interact with on a website.
+A tag `<body>` em HTML define o conteúdo principal de um documento HTML. Ela contém todos os elementos visíveis de uma página web, como texto, imagens, links, tabelas, listas e mais. Pense nele como o recipiente para tudo que você realmente vê e interage em um site.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@body HTML Document Body element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/body)

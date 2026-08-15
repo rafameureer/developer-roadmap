@@ -1,8 +1,8 @@
-# Using Forms
+# Usando Formulários
 
-Forms in HTML are used to collect data from users. They provide a way for users to input information like text, passwords, and selections, and then submit that data to a server for processing. Forms are created using the `<form>` element, which contains various input elements like `<input>`, `<textarea>`, and `<select>` to define the different fields for user input.
+Os formulários em HTML são usados para coletar dados dos usuários. Eles fornecem uma maneira para os usuários inserirem informações como texto, senhas e seleções, e então enviar esses dados para um servidor para processamento. Os formulários são criados usando o elemento `<form>`, que contém vários elementos de entrada como `<input>`, `<textarea>` e `<select>` para definir os diferentes campos para a entrada do usuário.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Your first form](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Forms/Your_first_form)
-- [@video@Learn HTML forms in 8 minutes 📝](https://www.youtube.com/watch?v=2O8pkybH6po)
+- [@artigo@Seu primeiro formulário](https://developer.mozilla.org/pt-BR/docs/Aprender/Desenvolvimento_web/Formulários/Seu_primeiro_formulário)
+- [@vídeo@Aprenda HTML forms em 8 minutos 📝](https://www.youtube.com/watch?v=2O8pkybH6po)

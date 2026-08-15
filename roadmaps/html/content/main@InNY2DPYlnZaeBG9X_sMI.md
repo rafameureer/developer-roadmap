@@ -1,7 +1,7 @@
-# Main Element
+# Elemento Main
 
-The `<main>` element in HTML defines the primary content of a document's `<body>`. It should contain the central topic of the page, excluding any content that is repeated across multiple pages, such as navigation, headers, or footers. Using `<main>` helps improve accessibility and provides a clear structure for search engines and assistive technologies to understand the page's purpose.
+O elemento `<main>` em HTML define o conteúdo principal de um documento `<body>`. Ele deve conter o tópico central da página, excluindo qualquer conteúdo que seja repetido em várias páginas, como navegação, cabeçalhos ou rodapés. Usar `<main>` ajuda a melhorar a acessibilidade e fornece uma estrutura clara para motores de busca e tecnologias assistivas entenderem o propósito da página.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@HTML main Tag Tutorial (Semantic Element): Easy Guide for Beginners](https://www.youtube.com/watch?v=ROahTJeu-Iw)
+- [@vídeo@Tutorial do Elemento HTML main (Elemento Semântico): Guia fácil para iniciantes](https://www.youtube.com/watch?v=ROahTJeu-Iw)

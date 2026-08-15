@@ -1,10 +1,10 @@
-# Frontend Development
+# Desenvolvimento Front-end
 
-Frontend development is the practice of creating the user interface and user experience of a website or web application. It focuses on the parts of a website that users directly interact with, such as buttons, text, images, and navigation menus. Frontend developers use languages like HTML, CSS, and JavaScript to build these interactive elements and ensure they are visually appealing and function correctly across different devices and browsers.
+O desenvolvimento front-end é a prática de criar a interface do usuário e a experiência do usuário de um site ou aplicativo web. Foca nas partes de um site que os usuários interagem diretamente, como botões, texto, imagens e menus de navegação. Os desenvolvedores front-end usam linguagens como HTML, CSS e JavaScript para construir esses elementos interativos e garantir que sejam visualmente atraentes e funcionem corretamente em diferentes dispositivos e navegadores.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the dedicated Frontend Developer Roadmap](https://roadmap.sh/frontend)
-- [@article@https://www.coursera.org/articles/what-is-front-end-development](https://www.coursera.org/articles/what-is-front-end-development)
-- [@video@Frontend web development - a complete overview](https://www.youtube.com/watch?v=WG5ikvJ2TKA)
-- [@video@The Complete Frontend Developer Roadmap](https://www.youtube.com/watch?v=Tef1e9FiSR0)
+- [@roadmap@Visite o Roadmap dedicado ao Desenvolvedor Front-end](https://roadmap.sh/frontend)
+- [@artigo@O que é desenvolvimento front-end](https://www.coursera.org/articles/what-is-front-end-development)
+- [@vídeo@Desenvolvimento web front-end - uma visão geral completa](https://www.youtube.com/watch?v=WG5ikvJ2TKA)
+- [@vídeo@Roadmap Completo do Desenvolvedor Front-end](https://www.youtube.com/watch?v=Tef1e9FiSR0)

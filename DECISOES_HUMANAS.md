@@ -4,7 +4,7 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 
 ---
 
-> ⚠️ **Total de itens sinalizados:** 1061
+> ⚠️ **Total de itens sinalizados:** 1065
 
 | Arquivo / Tópico | Motivo da Sinalização | Data/Hora |
 |---|---|---|
@@ -1069,3 +1069,7 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 | `roadmaps/graphql/content/batching@v9gVexHfDkpG9z3NL5S-9.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:58:11.288049 |
 | `roadmaps/graphql/content/caching@UYwuUVTeurwODV4_Kdt_W.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:58:14.240471 |
 | `roadmaps/graphql/content/defer--stream-directives@t6XxFB_lx27kS4FE2_GMH.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:58:16.812486 |
+| `roadmaps/html/content/internal-css@1uhThwxjHgXPu_i1__1eE.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:04:34.863125 |
+| `roadmaps/html/content/introduction@JkLec2vSBMFAUc1Dzra-L.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:04:39.341061 |
+| `roadmaps/html/content/javascript@F-9uI39S9oYVGA8hi7aZI.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:04:43.991536 |
+| `roadmaps/html/content/whitespaces@IUsaaRxiuOn3y9uYbpsJ0.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:06:59.873519 |

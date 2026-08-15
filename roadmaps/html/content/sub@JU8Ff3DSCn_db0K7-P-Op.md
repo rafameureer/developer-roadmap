@@ -1,7 +1,7 @@
-# Subscript Text
+# Texto Subscrito
 
-The `<sub>` tag in HTML is used to display text as subscript. Subscript text appears slightly below the normal line of text and is typically rendered in a smaller font size. It's commonly used for mathematical formulas, chemical formulas, or footnotes.
+A tag `<sub>` em HTML é usada para exibir texto como subscrito. O texto subscrito aparece ligeiramente abaixo da linha normal do texto e geralmente é renderizado em um tamanho de fonte menor. É comumente usado em fórmulas matemáticas, fórmulas químicas ou notas de rodapé.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@HTML sub Tag | HTML sup Tag](https://www.youtube.com/watch?v=7GBTIHoWZko)
+- [@video@Tag HTML sub | Tag HTML sup](https://www.youtube.com/watch?v=7GBTIHoWZko)

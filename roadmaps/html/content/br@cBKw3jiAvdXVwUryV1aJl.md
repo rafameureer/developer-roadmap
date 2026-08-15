@@ -1,8 +1,8 @@
-# br Tag
+# Tag br
 
-The `<br>` tag in HTML creates a line break within a text block. It's used to start a new line without creating a new paragraph, effectively forcing the text that follows to appear on the next line. It is an empty element, meaning it has no closing tag.
+A tag `<br>` em HTML cria um quebra de linha dentro de um bloco de texto. Ela é usada para iniciar uma nova linha sem criar um novo parágrafo, efetivamente forçando o texto que segue a aparecer na próxima linha. É um elemento vazio, o que significa que não tem tag de fechamento.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@The Line Break element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/br)
+- [@article@O Elemento Line Break](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/br)
 - [@video@hr & br tags in HTML](https://www.youtube.com/watch?v=B1UCE3nfLww)

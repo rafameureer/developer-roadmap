@@ -1,8 +1,8 @@
 # b / strong
 
-The `<b>` and `<strong>` tags in HTML are used to make text appear bold. While both achieve a similar visual effect, the `<b>` tag is primarily for stylistic purposes, indicating text that should be visually distinguished without necessarily conveying importance. On the other hand, the `<strong>` tag signifies that the enclosed text has strong importance, seriousness, or urgency.
+As tags `<b>` e `<strong>` em HTML são usadas para tornar o texto aparecer em negrito. Embora ambos alcancem um efeito visual semelhante, a tag `<b>` é principalmente para fins estéticos, indicando que o texto deve ser distinguido visualmente, sem necessariamente transmitir importância. Por outro lado, a tag `<strong>` significa que o texto contido tem uma importância forte, sério ou urgente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@b: Bring Attention To element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/b)
-- [@article@strong: The Strong Importance element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/strong)
+- [@artigo@b: Destaque para um elemento](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Elemento/b)
+- [@artigo@strong: O Elemento de Importância Forte](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Elemento/strong)

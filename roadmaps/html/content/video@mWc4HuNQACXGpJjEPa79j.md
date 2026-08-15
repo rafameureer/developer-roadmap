@@ -1,8 +1,8 @@
-# Video
+# Vídeo
 
-The `<video>` element in HTML is used to embed video content directly into a webpage. It allows you to display video files, control playback, and provide options for users to interact with the video, such as pausing, playing, adjusting volume, and viewing in fullscreen. The element supports various video formats and attributes to customize the video's appearance and behavior.
+O elemento `<video>` em HTML é usado para incorporar conteúdo de vídeo diretamente em uma página da web. Ele permite exibir arquivos de vídeo, controlar a reprodução e fornecer opções para os usuários interagirem com o vídeo, como pausar, reproduzir, ajustar o volume e assistir em tela cheia. O elemento suporta vários formatos de vídeo e atributos para personalizar a aparência e o comportamento do vídeo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@HTML & CSS - How to Embed a YouTube Video in Your Website](https://www.youtube.com/watch?v=ly36kn0ug4k)
-- [@article@Learn HTML video in 4 minutes!](https://www.youtube.com/watch?v=BAx2GaMW2qA)
+- [@curso@HTML & CSS - Como incorporar um vídeo do YouTube em seu site](https://www.youtube.com/watch?v=ly36kn0ug4k)
+- [@artigo@Aprenda HTML video em 4 minutos!](https://www.youtube.com/watch?v=BAx2GaMW2qA)

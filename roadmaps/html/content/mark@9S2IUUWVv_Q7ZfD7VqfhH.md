@@ -1,7 +1,7 @@
-# Mark Text
+# Marcando Texto
 
-The `<mark>` tag in HTML is used to highlight specific parts of text within a larger block of content. It's primarily intended to draw the reader's attention to these sections, often because they are relevant to the user's current activity or search query. The default styling usually renders the marked text with a yellow background, but this can be customized using CSS.
+O elemento `<mark>` em HTML é usado para destacar partes específicas de um texto em um bloco maior de conteúdo. Ele é principalmente intencionalmente para chamar a atenção do leitor para essas seções, geralmente porque elas são relevantes para a atividade atual ou consulta de pesquisa do usuário. A formatação padrão geralmente renderiza o texto marcado com um fundo amarelo, mas isso pode ser personalizado usando CSS.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@Mark Tag Example HTML | Master When and How to Use Mark Tag properly!](https://www.youtube.com/watch?v=uJc-UUgZ-UM)
+- [@vídeo@Exemplo de Tag Mark HTML | Domine quando e como usar a Tag Mark corretamente!](https://www.youtube.com/watch?v=uJc-UUgZ-UM)

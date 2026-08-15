@@ -1,7 +1,7 @@
-# Nested Lists in HTML
+# Listas Aninhadas em HTML
 
-Nested lists in HTML allow you to create lists within lists, forming a hierarchical structure. This is achieved by placing one list (either ordered `<ol>` or unordered `<ul>`) inside a list item `<li>` of another list. This creates a sub-list that is visually indented, helping to organize information into related categories and subcategories.
+As listas aninhadas em HTML permitem que você crie listas dentro de outras listas, formando uma estrutura hierárquica. Isso é feito colocando uma lista (seja ordenada `<ol>` ou não ordenada `<ul>`) dentro de um item da lista `<li>` de outra lista. Isso cria uma sub-lista que é visualmente indentada, ajudando a organizar informações em categorias e subcategorias relacionadas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@How to Create Nested Lists in HTML: A Simple Guide](https://www.dhiwise.com/post/how-to-create-nested-lists-in-html-a-simple-guide)
+- [@article@Como Criar Listas Aninhadas em HTML: Um Guia Simples](https://www.dhiwise.com/post/how-to-create-nested-lists-in-html-a-simple-guide)

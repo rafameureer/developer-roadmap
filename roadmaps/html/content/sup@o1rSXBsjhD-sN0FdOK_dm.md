@@ -1,7 +1,7 @@
-# sup
+# Sup
 
-The `<sup>` tag in HTML is used to display text as superscript. Superscript text appears slightly above the normal line of text and is typically rendered in a smaller font size. It's commonly used for things like exponents, ordinal numbers (e.g., 1st, 2nd), and footnotes.
+A tag `<sup>` em HTML é usada para exibir texto como superscrito. O texto superscrito aparece ligeiramente acima da linha normal do texto e geralmente é renderizado em um tamanho de fonte menor. É comumente usado para coisas como expoentes, números ordinais (ex: 1º, 2º) e notas de rodapé.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@HTML sub Tag | HTML sup Tag](https://www.youtube.com/watch?v=7GBTIHoWZko)
+- [@video@Tag HTML sub | Tag HTML sup](https://www.youtube.com/watch?v=7GBTIHoWZko)

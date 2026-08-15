@@ -1,8 +1,8 @@
-# External CSS
+# Estilos Externos (CSS)
 
-External CSS involves creating separate files (with a `.css` extension) to hold all the styling rules for an HTML document. These CSS files are then linked to the HTML document using the `<link>` tag, allowing you to apply the same styles across multiple pages and keep your HTML code clean and organized. This approach promotes reusability and maintainability of your website's design.
+Os estilos externos envolvem a criação de arquivos separados (com extensão `.css`) para armazenar todas as regras de estilo para um documento HTML. Esses arquivos CSS são então vinculados ao documento HTML usando a tag `<link>`, permitindo que você aplique os mesmos estilos em várias páginas e mantenha seu código HTML limpo e organizado. Esse método promove a reutilização e manutenção da design do seu site.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Types of CSS: inline, external and internal definitions and differences explained](https://www.hostinger.com/tutorials/difference-between-inline-external-and-internal-css)
-- [@video@External Style Sheets | CSS](https://www.youtube.com/watch?v=2P_LUPc2HrM)
+- [@artigo@Tipos de CSS: inline, externo e internos - definições e diferenças explicadas](https://www.hostinger.com/tutorials/difference-between-inline-external-and-internal-css)
+- [@vídeo@Folhas de Estilo Externas | CSS](https://www.youtube.com/watch?v=2P_LUPc2HrM)

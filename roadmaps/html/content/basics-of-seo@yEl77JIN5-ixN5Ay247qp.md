@@ -1,11 +1,11 @@
-# Basics of SEO
+# Básico de SEO
 
-Search Engine Optimization (SEO) is the practice of improving a website to increase its visibility in search engine results pages (SERPs). This involves optimizing various elements of a website, such as its content, structure, and HTML code, to make it more appealing to search engines like Google. The goal is to rank higher in search results for relevant keywords, which can drive more organic traffic to the website.
+A otimização para motores de busca (SEO) é a prática de melhorar um site para aumentar sua visibilidade em páginas de resultados dos motores de busca (SERPs). Isso envolve otimizar vários elementos do site, como seu conteúdo, estrutura e código HTML, para torná-lo mais atraente para motores de busca como o Google. O objetivo é obter um ranking mais alto nos resultados de pesquisa por palavras-chave relevantes, o que pode levar mais tráfego orgânico ao site.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Search Engine Optimization (SEO) Starter Guide](https://developers.google.com/search/docs/fundamentals/seo-starter-guide)
-- [@article@What Is SEO?](https://exposureninja.com/blog/what-is-seo/)
-- [@article@GEO (Generative Engine Optimization) vs SEO (Search Engine Optimization): What’s The Difference?](https://writesonic.com/blog/geo-vs-seo)
-- [@video@SEO In 5 Minutes | What Is SEO And How Does It Work](https://www.youtube.com/watch?v=MYE6T_gd7H0)
-- [@video@Why Generative Engine Optimisation (GEO) is the FUTURE of SEO](https://www.youtube.com/watch?v=FoIc8LkSETo)
+- [@artigo@Guia Inicial de SEO](https://developers.google.com/search/docs/fundamentals/seo-starter-guide)
+- [@artigo@O Que é SEO?](https://exposureninja.com/blog/what-is-seo/)
+- [@artigo@GEO (Engenharia Gerativa) vs SEO (Otimização para motores de busca): O que é a Diferença?](https://writesonic.com/blog/geo-vs-seo)
+- [@vídeo@SEO em 5 Minutos | O Que é SEO e Como Ele Funciona](https://www.youtube.com/watch?v=MYE6T_gd7H0)
+- [@vídeo@Por que a Engenharia Gerativa (GEO) é o FUTURO do SEO](https://www.youtube.com/watch?v=FoIc8LkSETo)

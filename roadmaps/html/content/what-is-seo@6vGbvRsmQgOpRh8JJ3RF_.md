@@ -1,11 +1,11 @@
-# Search Engine Optimization (SEO)
+# Otimização para motores de busca (SEO)
 
-Search Engine Optimization, or SEO, is the practice of improving your website to increase its visibility when people search for products or services related to your business in search engines like Google. The better visibility your pages have in search results, the more likely you are to garner attention and attract prospective and existing customers to your business. A related concept, Generative Engine Optimization (GEO), focuses on optimizing content for AI-powered search experiences, ensuring your information is accurately and effectively presented in AI-generated summaries and responses.
+A Otimização para motores de busca, ou SEO, é a prática de melhorar seu site para aumentar sua visibilidade quando as pessoas buscam produtos ou serviços relacionados ao seu negócio em motores de busca como Google. Quanto maior a visibilidade das suas páginas nos resultados de pesquisa, mais provável é que você receba atenção e atrinja clientes potenciais e existentes ao seu negócio. Um conceito relacionado é a Otimização para motores de busca geradores (GEO), que se concentra em otimizar o conteúdo para experiências de busca baseadas em IA, garantindo que suas informações sejam apresentadas com precisão e eficácia em resumos e respostas gerados por IA.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Search Engine Optimization (SEO) Starter Guide](https://developers.google.com/search/docs/fundamentals/seo-starter-guide)
-- [@article@What Is SEO?](https://exposureninja.com/blog/what-is-seo/)
-- [@article@GEO (Generative Engine Optimization) vs SEO (Search Engine Optimization): What’s The Difference?](https://writesonic.com/blog/geo-vs-seo)
-- [@video@SEO In 5 Minutes | What Is SEO And How Does It Work](https://www.youtube.com/watch?v=MYE6T_gd7H0)
-- [@video@Why Generative Engine Optimisation (GEO) is the FUTURE of SEO](https://www.youtube.com/watch?v=FoIc8LkSETo)
+- [@artigo@Guia Inicial de Otimização para motores de busca (SEO)](https://developers.google.com/search/docs/fundamentals/seo-starter-guide)
+- [@artigo@O que é SEO?](https://exposureninja.com/blog/what-is-seo/)
+- [@artigo@GEO (Otimização para motores de busca geradores) vs SEO (Otimização para motores de busca): Qual a Diferença?](https://writesonic.com/blog/geo-vs-seo)
+- [@vídeo@SEO em 5 minutos | O que é SEO e Como Ele Funciona](https://www.youtube.com/watch?v=MYE6T_gd7H0)
+- [@vídeo@Por Que a Otimização para motores de busca geradores (GEO) é o FUTURO do SEO](https://www.youtube.com/watch?v=FoIc8LkSETo)

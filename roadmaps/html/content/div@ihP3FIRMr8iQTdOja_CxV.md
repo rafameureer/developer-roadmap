@@ -1,8 +1,8 @@
 # div
 
-The `<div>` element is a generic container for flow content, which in simpler terms means it's a way to group together other HTML elements. It doesn't inherently represent anything specific on its own, but it's commonly used to structure and style sections of a webpage. It has no effect on the content or layout until styled in some way using CSS (e.g., styling is directly applied to it, or some kind of layout model like Flexbox is applied to its parent element).
+O elemento `<div>` é um contêiner genérico para conteúdo de fluxo, que em termos mais simples significa ser uma maneira de agrupar outros elementos HTML. Ele não representa nada específico por si só, mas é comumente usado para estruturar e estilizar seções de uma página web. Não tem efeito no conteúdo ou layout até ser estilizado de alguma forma usando CSS (por exemplo, o estilo é aplicado diretamente a ele, ou algum tipo de modelo de layout como Flexbox é aplicado ao elemento pai).
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@HTML Div – What is a Div Tag and How to Style it with CSS](https://www.freecodecamp.org/news/html-div-what-is-a-div-tag-and-how-to-style-it-with-css/)
-- [@video@Learn HTML span & div in 4 minutes!](https://www.youtube.com/watch?v=WbnCll6vvw4)
+- [@article@HTML Div – O que é uma Tag Div e Como Estilizá-la com CSS](https://www.freecodecamp.org/news/html-div-what-is-a-div-tag-and-how-to-style-it-with-css/)
+- [@video@Aprenda HTML span & div em 4 minutos!](https://www.youtube.com/watch?v=WbnCll6vvw4)

@@ -1,7 +1,7 @@
-# Section Tag
+# Tag de Seção
 
-The `<section>` tag in HTML is used to define thematic groupings of content within a document. It's a way to organize related content together, like chapters, introductions, or news items. A section typically has a heading and can contain other HTML elements to structure the content within it.
+A tag `<section>` em HTML é usada para definir agrupamentos temáticos de conteúdo dentro de um documento. É uma maneira de organizar conteúdo relacionado juntos, como capítulos, introduções ou itens de notícias. Uma seção geralmente possui um título e pode conter outros elementos HTML para estruturar o conteúdo dentro dela.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@HTML section Tag Tutorial (Semantic Element): Easy Guide for Beginners](https://www.youtube.com/watch?v=08b6OJbL3Cs)
+- [@vídeo@Tutorial sobre a Tag Section HTML (Elemento Semântico): Guia Fácil para Iniciantes](https://www.youtube.com/watch?v=08b6OJbL3Cs)

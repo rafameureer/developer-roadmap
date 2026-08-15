@@ -1,7 +1,7 @@
-# Embedding Media
+# Inserindo Mídia
 
-Embedding media in HTML involves integrating multimedia content like images, audio, and video directly into a webpage. This allows users to view or listen to these elements without having to download them separately or navigate to another site. HTML provides specific elements, such as `<img>`, `<audio>`, and `<video>`, to facilitate this embedding process, along with attributes to control their appearance and behavior.
+Inserir mídia em HTML envolve integrar conteúdo multimídia como imagens, áudio e vídeo diretamente em uma página da web. Isso permite que os usuários vejam ou escutem esses elementos sem ter que baixá-los separadamente ou navegar para outro site. O HTML fornece elementos específicos, como `<img>`, `<audio>` e `<video>`, para facilitar esse processo de inserção, além de atributos para controlar sua aparência e comportamento.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Adding Media](https://learn.shayhowe.com/html-css/adding-media/)
+- [@artigo@Adicionando Mídia](https://learn.shayhowe.com/html-css/adding-media/)

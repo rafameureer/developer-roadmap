@@ -1,8 +1,8 @@
 # iframe
 
-An `iframe` (Inline Frame) is an HTML element that allows you to embed another HTML document within the current HTML page. It essentially creates a window within your webpage where you can display content from a different source, such as another website, a video, or even another HTML file on your own server.
+Um `iframe` (Inline Frame) é um elemento HTML que permite incorporar outro documento HTML dentro da página HTML atual. Ele cria essencialmente uma janela em sua página web onde você pode exibir conteúdo de uma fonte diferente, como outro site, um vídeo ou até mesmo outro arquivo HTML em seu próprio servidor.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is an iframe, and how do you use it on your website?](https://world.siteground.com/kb/what-is-iframe/)
-- [@video@Learn HTML iframes in 3 minutes](https://www.youtube.com/watch?v=aRGdDy18qfY)
+- [@artigo@O que é um iframe e como você o usa no seu site?](https://world.siteground.com/kb/what-is-iframe/)
+- [@vídeo@Aprenda iframes em HTML em 3 minutos](https://www.youtube.com/watch?v=aRGdDy18qfY)

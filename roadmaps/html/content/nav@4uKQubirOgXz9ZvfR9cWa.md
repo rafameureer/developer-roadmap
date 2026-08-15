@@ -1,7 +1,7 @@
 # Nav
 
-The `<nav>` element in HTML is used to define a section of a page that contains navigation links. It's intended for major navigational blocks, like a site's menu, a table of contents, or a set of breadcrumbs. Using `<nav>` helps structure your content and makes it more accessible to screen readers and search engines by clearly identifying navigation sections.
+O elemento `<nav>` em HTML é usado para definir uma seção de uma página que contém links de navegação. Ele é destinado a blocos de navegação maiores, como o menu de um site, uma tabela de conteúdo ou um conjunto de breadcrumbs. Usar `<nav>` ajuda a estruturar seu conteúdo e torná-lo mais acessível para leitores de tela e motores de busca identificando claramente as seções de navegação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@HTML nav Tag Tutorial (Semantic Element): Easy Guide for Beginners](https://www.youtube.com/watch?v=FqDFwCQb4yI)
+- [@video@Tutorial HTML nav Tag (Elemento Semântico): Guia Fácil para Iniciantes](https://www.youtube.com/watch?v=FqDFwCQb4yI)

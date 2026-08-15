@@ -1,7 +1,7 @@
 # del
 
-The `<del>` element in HTML represents text that has been deleted or removed from a document. Browsers typically render deleted text with a strikethrough, visually indicating that the content is no longer valid or accurate. This element is useful for showing edits and revisions in a clear and understandable way.
+O elemento `<del>` em HTML representa texto que foi excluído ou removido de um documento. Os navegadores geralmente renderizam o texto excluído com uma linha riscada, visualmente indicando que o conteúdo não é mais válido ou preciso. Este elemento é útil para mostrar edições e revisões de forma clara e compreensível.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@Deleted Text in HTML (del Tag)](https://www.youtube.com/watch?v=7TuyqBr0eH8)
+- [@vídeo@Texto Excluído em HTML (Tag del)](https://www.youtube.com/watch?v=7TuyqBr0eH8)

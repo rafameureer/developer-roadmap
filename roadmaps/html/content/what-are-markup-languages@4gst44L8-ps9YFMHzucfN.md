@@ -1,8 +1,8 @@
-# Markup Languages
+# Linguagens de Marcação
 
-Markup languages are systems for annotating text in a way that makes it readable by both humans and computers. They use tags to define elements within a document, specifying how the text should be structured, formatted, and displayed. For example, HTML uses tags like `<p>` for paragraphs and `<h1>` for headings to structure web content, while XML uses custom tags to define data structures for various applications.
+As linguagens de marcação são sistemas para anotar texto de uma maneira que o torna legível tanto para humanos quanto para computadores. Eles usam tags para definir elementos em um documento, especificando como o texto deve ser estruturado, formatado e exibido. Por exemplo, HTML usa tags como `<p>` para parágrafos e `<h1>` para títulos para estruturar conteúdo da web, enquanto XML usa tags personalizadas para definir estruturas de dados para várias aplicações.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What Is a Markup Language?](https://www.semrush.com/blog/markup-language/)
-- [@video@Theory - Markup Languages](https://www.youtube.com/watch?v=6PWOswN4lgg)
+- [@artigo@O que é uma Linguagem de Marcação?](https://www.semrush.com/blog/markup-language/)
+- [@vídeo@Teoria - Linguagens de Marcação](https://www.youtube.com/watch?v=6PWOswN4lgg)

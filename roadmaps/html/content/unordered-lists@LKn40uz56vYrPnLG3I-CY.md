@@ -1,8 +1,8 @@
-# Unordered Lists
+# Listas Não Ordenadas
 
-Unordered lists present items in a bulleted format, where the order of the items is not significant. They are used to group related content together without implying any specific sequence or priority. Each item in the list is typically marked with a bullet point, making it easy to visually distinguish and scan the list's contents.
+As listas não ordenadas apresentam itens em um formato de lista com marcadores, onde a ordem dos itens não é significativa. Elas são usadas para agrupar conteúdo relacionado juntos sem impor qualquer sequência ou prioridade específica. Cada item na lista geralmente é marcado com um ponto de exclamação, tornando fácil distinguir e navegar pelos conteúdos da lista.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@ul: The Unordered List element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/ul)
-- [@article@HTML Unordered Lists](https://www.w3schools.com/html/html_lists_unordered.asp)
+- [@artigo@Elemento ul: A Lista Não Ordenada](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/ul)
+- [@artigo@Listas Não Ordenadas em HTML](https://www.w3schools.com/html/html_lists_unordered.asp)

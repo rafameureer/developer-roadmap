@@ -1,7 +1,7 @@
-# Headings
+# Títulos
 
-Headings are used to define the titles and subtitles within a document. HTML provides six levels of headings, from `<h1>` (the most important and largest) to `<h6>` (the least important and smallest). They help structure content and improve readability by creating a clear hierarchy.
+Os títulos são usados para definir os títulos e subtítulos dentro de um documento. O HTML fornece seis níveis de títulos, desde `<h1>` (o mais importante e o maior) até `<h6>` (o menos importante e o menor). Eles ajudam a estruturar o conteúdo e melhorar a legibilidade criando uma hierarquia clara.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@HTML - Headings | W3Schools](https://www.youtube.com/watch?v=9gHPpwq6IaY)
+- [@video@HTML - Títulos | W3Schools](https://www.youtube.com/watch?v=9gHPpwq6IaY)

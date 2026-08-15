@@ -1,9 +1,9 @@
-# HTML Entities
+# Entidades HTML
 
-HTML entities are special codes used to represent reserved characters or characters that are difficult to type directly in HTML. They allow you to display characters like angle brackets (< and >), ampersands (&), and copyright symbols (©) that have special meanings in HTML or are not readily available on a standard keyboard. Using entities ensures that these characters are displayed correctly in a web browser.
+As entidades HTML são códigos especiais usados para representar caracteres reservados ou caracteres que são difíceis de digitar diretamente em HTML. Eles permitem que você exiba caracteres como os colchetes angulares (< e >), o comercial (&) e símbolos de direitos autorais (©) que têm significado especial em HTML ou não estão disponíveis facilmente em um teclado padrão. Usar entidades garante que esses caracteres sejam exibidos corretamente em um navegador da web.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Entity | MDN docs](https://developer.mozilla.org/en-US/docs/Glossary/Entity)
-- [@article@Character reference | MDN docs](https://developer.mozilla.org/en-US/docs/Glossary/Character_reference)
-- [@video@What Are HTML Entities, and What Are Some Common Examples?](https://www.youtube.com/watch?v=brTVRzirTGM)
+- [@artigo@Entidade | MDN docs](https://developer.mozilla.org/pt-BR/docs/Glossário/Entity)
+- [@artigo@Referência de caractere | MDN docs](https://developer.mozilla.org/pt-BR/docs/Glossário/Character_reference)
+- [@vídeo@O que são entidades HTML e quais são alguns exemplos comuns?](https://www.youtube.com/watch?v=brTVRzirTGM)

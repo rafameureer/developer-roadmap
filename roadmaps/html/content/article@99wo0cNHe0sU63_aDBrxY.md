@@ -1,7 +1,7 @@
-# Article Element
+# Elemento de Artigo
 
-The `<article>` element in HTML represents a self-contained composition in a document, page, application, or site. It is intended to independently distributable or reusable, for example, in syndication. This could be a forum post, a magazine or newspaper article, a blog entry, a user-submitted comment, or any other independent item of content.
+O elemento `<article>` em HTML representa uma composição autônoma em um documento, página, aplicativo ou site. Ele é projetado para ser distribuído ou reutilizado independentemente, por exemplo, na sinodicação. Isso pode ser um post de fórum, um artigo de revista ou jornal, uma entrada de blog, um comentário enviado pelo usuário ou qualquer outro item de conteúdo independente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@HTML article Tag Tutorial (Semantic Element): Easy Guide for Beginners](https://www.youtube.com/watch?v=C7Sp70_TU40)
+- [@video@Tutorial sobre a Tag HTML article (Elemento Semântico): Guia Fácil para Iniciantes](https://www.youtube.com/watch?v=C7Sp70_TU40)

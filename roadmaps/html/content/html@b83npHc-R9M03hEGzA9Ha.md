@@ -1,8 +1,8 @@
 # HTML
 
-HTML (HyperText Markup Language) is the standard markup language for creating web pages. It provides the structure of a webpage, defining elements like headings, paragraphs, images, and links using tags. Web browsers interpret these tags to display the content to users.
+HTML (HyperText Markup Language) é o padrão de linguagem de marcação para criar páginas da web. Ele fornece a estrutura de uma página da web, definindo elementos como títulos, parágrafos, imagens e links usando tags. Os navegadores interpretam essas tags para exibir o conteúdo aos usuários.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@HTML MDN Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [@article@HTML | Wikipedia](https://en.wikipedia.org/wiki/HTML)
+- [@artigo@HTML MDN Docs](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [@artigo@HTML | Wikipedia](https://en.wikipedia.org/wiki/HTML)

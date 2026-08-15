@@ -1,9 +1,9 @@
-# id Attribute
+# Atributo id
 
-The `id` attribute in HTML provides a unique identifier for an element within a document. This identifier allows you to target and manipulate that specific element using CSS styles, JavaScript code, or even link directly to it using fragment identifiers in URLs (e.g., `#section1`). Each `id` value should be unique within the entire HTML document to ensure proper functionality.
+O atributo `id` no HTML fornece um identificador único para um elemento em um documento. Esse identificador permite que você almeje e manipule esse elemento específico usando estilos CSS, código JavaScript ou até mesmo vincular diretamente a ele usando fragmentos de identificadores em URLs (por exemplo, `#section1`). Cada valor `id` deve ser único dentro do entire HTML document para garantir uma funcionalidade adequada.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@HTML id global attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Global_attributes/id)
-- [@article@HTML id](https://www.codecademy.com/resources/docs/html/attributes/id)
-- [@video@HTML - Id | W3Schools](https://www.youtube.com/watch?v=rZ0k516qZmc)
+- [@artigo@Atributo global id do HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Referência/Global_attributes/id)
+- [@artigo@Atributo id do HTML](https://www.codecademy.com/resources/docs/html/attributes/id)
+- [@vídeo@HTML - Id | W3Schools](https://www.youtube.com/watch?v=rZ0k516qZmc)

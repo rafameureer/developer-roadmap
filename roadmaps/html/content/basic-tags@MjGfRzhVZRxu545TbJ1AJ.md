@@ -1,7 +1,7 @@
-# Basic HTML Tags
+# Tags Básicas do HTML
 
-HTML documents are structured using fundamental tags that define the document's content and structure. The `<!DOCTYPE html>` declaration informs the browser that the document is an HTML5 document. The `<html>` tag is the root element, encompassing all other HTML elements. Inside `<html>`, the `<head>` tag contains metadata about the document, such as the title and character set, while the `<body>` tag contains the visible content of the webpage. The `<meta>` tag provides metadata like character encoding (`charset="UTF-8"`) to ensure proper text display.
+Os documentos HTML são estruturados usando tags fundamentais que definem o conteúdo e a estrutura do documento. A declaração `<!DOCTYPE html>` informa ao navegador que o documento é um documento HTML5. A tag `<html>` é o elemento raiz, abrangendo todos os outros elementos HTML. Dentro de `<html>`, a tag `<head>` contém metadados sobre o documento, como o título e o conjunto de caracteres, enquanto a tag `<body>` contém o conteúdo visível da página web. A tag `<meta>` fornece metadados como codificação do caractere (`charset="UTF-8"`) para garantir o exibição correto do texto.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@HTML Basic Tags: A Guide for Complete Beginners with Examples](https://www.tutorialspoint.com/html/html_basic_tags.htm)
+- [@artigo@HTML Básicas Tags: Um Guia Completo para Iniciantes com Exemplos](https://www.tutorialspoint.com/html/html_basic_tags.htm)

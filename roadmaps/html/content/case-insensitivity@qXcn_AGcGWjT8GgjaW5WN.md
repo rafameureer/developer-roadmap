@@ -1,9 +1,9 @@
-# Case Insensitivity
+# Insensibilidade a maiúsculas e minúsculas
 
-HTML isn't picky about capitalization. You can write tags and attributes using uppercase, lowercase, or a mix of both. For example, `<html>`, `<HTML>`, and `<Html>` all work the same way. While browsers understand all these variations, it's generally considered good practice to stick to lowercase for better readability and consistency in your code.
+HTML não é exigente em relação à capitalização. Você pode escrever rótulos e atributos usando letras maiúsculas, minúsculas ou uma mistura de ambas. Por exemplo, `<html>`, `<HTML>` e `<Html>` funcionam da mesma forma. Embora os navegadores entendam todas essas variações, é geralmente considerado uma boa prática manter tudo em minúsculas para melhor legibilidade e consistência no seu código.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@HTML Style Guide - Capitalization](https://developer.mozilla.org/en-US/docs/Web/HTML/HTML5/HTML5_notes)
-- [@article@HTML Case Sensitivity Explained](https://www.w3schools.com/html/html5_syntax.asp)
-- [@article@What is Case Sensitivity in HTML?](https://www.educative.io/answers/what-is-case-sensitivity-in-html)
+- [@artigo@Guia de Estilo HTML - Capitalização](https://developer.mozilla.org/en-US/docs/Web/HTML/HTML5/HTML5_notes)
+- [@artigo@Explicação da Insensibilidade a Maiúsculas e Minúsculas em HTML](https://www.w3schools.com/html/html5_syntax.asp)
+- [@artigo@O que é Insensibilidade a Maiúsculas e Minúsculas em HTML?](https://www.educative.io/answers/what-is-case-sensitivity-in-html)

@@ -1,7 +1,7 @@
-# Priority Hints
+# Dicas de Prioridade
 
-Priority Hints in HTML allow developers to indicate the relative priority of fetching resources like images. This helps the browser decide which images to load first, potentially improving page load times and user experience by prioritizing content that is immediately visible or more important to the user. This is achieved using the `fetchpriority` attribute.
+As Dicas de Prioridade em HTML permitem aos desenvolvedores indicar a prioridade relativa na obtenção de recursos como imagens. Isso ajuda o navegador a decidir quais imagens carregar primeiro, potencialmente melhorando os tempos de carregamento da página e a experiência do usuário ao priorizar conteúdo que é visível imediatamente ou mais importante para o usuário. Isso é alcançado usando o atributo `fetchpriority`.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@fetchpriority HTML attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Attributes/fetchpriority)
+- [@article@Atributo fetchpriority HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Attributes/fetchpriority)

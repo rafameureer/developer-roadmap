@@ -1,7 +1,5 @@
-# The  Element
-The <cite> element in HTML is used to define the title of a creative work (e.g., a book, article, song, movie, painting, sculpture, etc.). It's typically used to provide a reference or citation for a source. The content inside the <cite> element is often rendered in italics by browsers, but this styling can be overridden with CSS.
-Visit the following resources to learn more:
+# O Elemento <cite>
+O elemento `<cite>` em HTML é usado para definir o título de uma obra criativa (por exemplo, um livro, artigo, música, filme, pintura, escultura, etc.). Geralmente é usado para fornecer uma referência ou citação para uma fonte. O conteúdo dentro do elemento `<cite>` é frequentemente renderizado em itálico pelos navegadores, mas esse estilo pode ser substituído com CSS.
+Acesse os seguintes recursos para saber mais:
 
-Visit the following resources to learn more:
-
-- [@video@How to set work title (cite tag) in HTML | HTML5 Tutorial](https://www.youtube.com/watch?v=nCsUD4h1qC4)
+- [@vídeo@Como definir o título de trabalho (tag cite) em HTML | Tutorial HTML5](https://www.youtube.com/watch?v=nCsUD4h1qC4)

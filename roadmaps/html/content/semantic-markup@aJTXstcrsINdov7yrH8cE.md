@@ -1,9 +1,9 @@
-# Semantic Markup
+# Marcado Semântico
 
-Semantic markup uses HTML tags to convey the meaning and structure of content, rather than just its appearance. This approach makes web pages more accessible to both humans and machines by providing context about the different parts of the content, such as headings, paragraphs, articles, and navigation menus. By using semantic elements, developers create more organized and understandable code, which improves search engine optimization and overall website usability.
+O marcado semântico usa tags HTML para transmitir o significado e a estrutura do conteúdo, em vez de apenas sua aparência. Esse abordagem torna as páginas da web mais acessíveis tanto para humanos quanto para máquinas fornecendo contexto sobre as diferentes partes do conteúdo, como títulos, parágrafos, artigos e menus de navegação. Ao usar elementos semânticos, os desenvolvedores criam código mais organizado e compreensível, o que melhora a otimização para motores de busca e a usabilidade geral do site.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
-- [@article@HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
-- [@video@HTML & CSS for Absolute Beginners: Semantic HTML](https://www.youtube.com/watch?v=YOsMJQfwqow)
+- [@artigo@Semântica](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
+- [@artigo@Elementos Semânticos HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
+- [@vídeo@HTML & CSS para Iniciantes: Marcado Semântico HTML](https://www.youtube.com/watch?v=YOsMJQfwqow)

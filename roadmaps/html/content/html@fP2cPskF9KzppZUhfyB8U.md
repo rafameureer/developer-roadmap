@@ -1,8 +1,8 @@
-# HTML Element
+# Elemento HTML
 
-The `<html>` element is the root element of an HTML page. It tells the browser that this is an HTML document. All other HTML elements (except for the `<!DOCTYPE>` declaration) must be descendants of the `<html>` element.
+O elemento `<html>` é o elemento raiz de uma página HTML. Ele informa ao navegador que este é um documento HTML. Todos os outros elementos HTML (exceto a declaração `<!DOCTYPE>`) devem ser descendentes do elemento `<html>`.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@The HTML Document / Root element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/html)
-- [@article@HTML Tag](https://www.w3schools.com/tags/tag_html.asp)
+- [@artigo@O Documento HTML / Elemento Raiz](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Referência/Elementos/html)
+- [@artigo@Tag HTML](https://www.w3schools.com/tags/tag_html.asp)

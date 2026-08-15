@@ -1,9 +1,9 @@
-# Style Attribute
+# Atributo Style
 
-The `style` attribute in HTML allows you to apply CSS (Cascading Style Sheets) directly to individual HTML elements. It's used to define inline styles, overriding external stylesheets or default browser styles. You can set properties like color, font, size, and layout directly within the HTML tag.
+O atributo `style` em HTML permite que você aplique CSS (Folhas de Estilo em Cascata) diretamente a elementos HTML individuais. Ele é usado para definir estilos em linha, sobrescrevendo folhas de estilo externas ou estilos padrão do navegador. Você pode definir propriedades como cor, fonte, tamanho e layout diretamente dentro da tag HTML.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@HTML style global attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Global_attributes/style)
-- [@article@HTML style](https://www.codecademy.com/resources/docs/html/attributes/style)
-- [@video@HTML Style Attribute | Mastering of Web development](https://www.youtube.com/watch?v=zk97ve9JM6A)
+- [@artigo@Atributo global style do HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Referência/Global_attributes/style)
+- [@artigo@Atributo style do HTML](https://www.codecademy.com/resources/docs/html/attributes/style)
+- [@vídeo@Atributo Style do HTML | Dominando o Desenvolvimento Web](https://www.youtube.com/watch?v=zk97ve9JM6A)

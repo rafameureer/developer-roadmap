@@ -1,7 +1,7 @@
 # Header
 
-The `<header>` element represents introductory content, typically containing a group of introductory or navigational aids. It might contain a heading, logo, search form, or other relevant content. It's used to define the top section of a document, article, or section.
+O elemento `<header>` representa conteúdo introdutório, geralmente contendo um grupo de elementos de introdução ou navegação. Pode conter um título, um logotipo, um formulário de pesquisa ou outros conteúdos relevantes. É usado para definir a seção superior de um documento, artigo ou seção.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@Learn HTML headers & footers in 5 minutes!](https://www.youtube.com/watch?v=JNFdCgmMkPk)
+- [@video@Aprenda HTML headers & footers em 5 minutos!](https://www.youtube.com/watch?v=JNFdCgmMkPk)

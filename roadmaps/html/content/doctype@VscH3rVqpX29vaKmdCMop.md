@@ -1,9 +1,9 @@
-# !DOCTYPE Declaration
+# Declaração de !DOCTYPE
 
-The `<!DOCTYPE>` declaration is an instruction to the web browser about the HTML version used to write the page. It's placed at the very top of an HTML document, before the `<html>` tag, and ensures that the browser renders the page in "standards mode," following the correct specifications for that HTML version. Technically, It is not an HTML tag itself.
+A declaração `<!DOCTYPE>` é uma instrução ao navegador sobre a versão do HTML usada para escrever a página. Ela deve ser colocada no topo de um documento HTML, antes da tag `<html>`, e garante que o navegador renderize a página em "modo padrão", seguindo as especificações corretas para aquela versão do HTML. Técnicaamente, ela não é uma tag HTML em si.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Doctype | DMN docs](https://developer.mozilla.org/en-US/docs/Glossary/Doctype)
-- [@article@What is the DOCTYPE Declaration in HTML?](https://www.freecodecamp.org/news/what-is-the-doctype-declaration-in-html/)
-- [@video@HTML DOCTYPE | Standards vs Quirks mode | HTML 5 Tutorial](https://www.youtube.com/watch?v=G1MOlh5uJYE)
+- [@artigo@Declaração de !DOCTYPE | DMN docs](https://developer.mozilla.org/en-US/docs/Glossary/Doctype)
+- [@artigo@O que é a Declaração de !DOCTYPE no HTML?](https://www.freecodecamp.org/news/what-is-the-doctype-declaration-in-html/)
+- [@vídeo@Declaração de !DOCTYPE em HTML | Modos Padrão vs. Modo Quirks | Tutorial HTML 5](https://www.youtube.com/watch?v=G1MOlh5uJYE)

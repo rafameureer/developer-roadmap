@@ -1,9 +1,9 @@
 # Meta Tags
 
-Meta tags are HTML elements that provide metadata about a webpage. This data is not displayed on the page itself but is used by browsers, search engines, and other web services to understand the content and purpose of the page. They are placed within the `<head>` section of an HTML document and can specify information like character set, description, keywords, author, and viewport settings.
+As tags meta em HTML fornecem metadados sobre uma página da web. Esses dados não são exibidos na própria página, mas são usados pelos navegadores, motores de busca e outros serviços web para entender o conteúdo e o propósito da página. Eles são colocados dentro da seção `<head>` de um documento HTML e podem especificar informações como conjunto de caracteres, descrição, palavras-chave, autor e configurações do viewport.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@meta: The metadata element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/meta)
+- [@article@Meta: O elemento metadata](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/meta)
 - [@article@Meta elements | Wikipedia](https://en.wikipedia.org/wiki/Meta_element)
-- [@video@Learn HTML meta tags in 3 minutes](https://www.youtube.com/watch?v=bi5bfH_gVWE)
+- [@video@Aprenda HTML meta tags em 3 minutos](https://www.youtube.com/watch?v=bi5bfH_gVWE)

@@ -1,9 +1,9 @@
-# Including JavaScript
+# Incluindo JavaScript
 
-JavaScript can be added to HTML documents to make web pages interactive. This is done by embedding the JavaScript code directly within the HTML or by linking to external JavaScript files. Embedding uses the `<script>` tag, while linking uses the `<script>` tag with the `src` attribute pointing to the JavaScript file.
+JavaScript pode ser adicionado a documentos HTML para tornar as páginas da web interativas. Isso é feito inserindo o código JavaScript diretamente no HTML ou linkando a arquivos de JavaScript externos. A inserção usa a tag `<script>`, enquanto o link usa a tag `<script>` com o atributo `src` apontando para o arquivo de JavaScript.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Visit the Dedicated JavaScript Roadmap](https://roadmap.sh/javascript)
-- [@article@Add JavaScript to your web page](https://developer.mozilla.org/en-US/docs/Web/HTML/How_to/Add_JavaScript_to_your_web_page)
-- [@video@Link JavaScript to HTML: How to run your JavaScript code in the browser](https://www.youtube.com/watch?v=821C5aJ3SLM)
+- [@oficial@Visite o Caminho do JavaScript Dedidado](https://roadmap.sh/javascript)
+- [@artigo@Adicione JavaScript à sua página web](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Como_adicionar_JavaScript_a_sua_página_web)
+- [@vídeo@Link JavaScript com HTML: Como executar seu código JavaScript no navegador](https://www.youtube.com/watch?v=821C5aJ3SLM)

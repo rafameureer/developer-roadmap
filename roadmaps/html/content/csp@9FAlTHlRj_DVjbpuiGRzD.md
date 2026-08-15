@@ -1,9 +1,9 @@
-# Content Security Policy
+# Política de Segurança do Conteúdo
 
-Content Security Policy (CSP) is a security standard introduced to prevent cross-site scripting (XSS), clickjacking, and other code injection attacks. It works by allowing you to define a whitelist of sources that the browser is permitted to load resources from. This helps to control the origins of scripts, stylesheets, images, and other assets, effectively reducing the attack surface of a web application.
+Política de Segurança do Conteúdo (CSP) é um padrão de segurança introduzido para prevenir ataques de injeção de código, como cross-site scripting (XSS), clickjacking e outros. Ele funciona permitindo que você defina uma lista branca de fontes das quais o navegador está permitido carregar recursos. Isso ajuda a controlar as origens de scripts, folhas de estilo, imagens e outros ativos, reduzindo efetivamente a superfície de ataque de um aplicativo web.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Content Security Policy (CSP)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/CSP)
-- [@article@Content Security Policy Cheat Sheet¶](https://cheatsheetseries.owasp.org/cheatsheets/Content_Security_Policy_Cheat_Sheet.html)
-- [@video@Content Security Policy Explained](https://www.youtube.com/watch?v=-LjPRzFR5f0)
+- [@artigo@Política de Segurança do Conteúdo (CSP)](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/CSP)
+- [@folheto@Folheto de Dicas: Política de Segurança do Conteúdo](https://cheatsheetseries.owasp.org/cheatsheets/Content_Security_Policy_Cheat_Sheet.html)
+- [@vídeo@Política de Segurança do Conteúdo Explicada](https://www.youtube.com/watch?v=-LjPRzFR5f0)

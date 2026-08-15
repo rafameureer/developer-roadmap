@@ -1,10 +1,10 @@
-# Tags and Attributes
+# Tags e Atributos
 
-Tags and attributes are fundamental building blocks of HTML. Tags define the structure and content of a webpage, such as headings, paragraphs, and images. Attributes provide additional information about HTML elements, modifying their behavior or appearance, like specifying the source of an image or the destination of a link.
+Tags e atributos são blocos fundamentais de construção do HTML. As tags definem a estrutura e o conteúdo de uma página da web, como títulos, parágrafos e imagens. Os atributos fornecem informações adicionais sobre os elementos HTML, modificando seu comportamento ou aparência, como especificar a fonte de uma imagem ou o destino de um link.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Tags | MDN docs](https://developer.mozilla.org/en-US/docs/Glossary/Tag)
-- [@article@Attributes | MDN docs](https://developer.mozilla.org/en-US/docs/Glossary/Attribute)
-- [@video@HTML - Tags | W3Schools](https://www.youtube.com/watch?v=vIoO52MdZFE)
-- [@video@HTML - Attributes | W3Schools](https://www.youtube.com/watch?v=yMX901oVtn8)
+- [@artigo@Tags | Docs MDN](https://developer.mozilla.org/pt-BR/docs/Glossário/Tag)
+- [@artigo@Atributos | Docs MDN](https://developer.mozilla.org/pt-BR/docs/Glossário/Atributo)
+- [@vídeo@HTML - Tags | W3Schools](https://www.youtube.com/watch?v=vIoO52MdZFE)
+- [@vídeo@HTML - Atributos | W3Schools](https://www.youtube.com/watch?v=yMX901oVtn8)

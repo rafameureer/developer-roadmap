@@ -1,10 +1,10 @@
-# Definition Lists
+# Listas de Definição
 
-Definition lists in HTML are used to present terms and their corresponding definitions. They are structured using three main elements: `<dl>` (definition list), `<dt>` (definition term), and `<dd>` (definition description). The `<dl>` element acts as the container for the entire list, while each term is marked with `<dt>` and its associated description is enclosed within `<dd>`. This structure allows for a clear and organized presentation of terms and their meanings.
+As listas de definição em HTML são usadas para apresentar termos e suas correspondentes definições. Elas são estruturadas usando três elementos principais: `<dl>` (lista de definição), `<dt>` (termo de definição) e `<dd>` (descrição da definição). O elemento `<dl>` atua como o contêiner para toda a lista, enquanto cada termo é marcado com `<dt>` e sua descrição associada está encerrada dentro de `<dd>`. Esta estrutura permite uma apresentação clara e organizada dos termos e suas significativas.
 
-@article@: The Description List element @article@: The Description Details element
+@artigo@: O Elemento @artigo@: O Detalhe da Descrição
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@d;" The Description List element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/dl)
-- [@article@HTML dl Tag](https://www.w3schools.com/tags/tag_dl.asp)
+- [@artigo@O Elemento de Lista de Definição](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Referência/Elementos/dl)
+- [@artigo@Tag dl do HTML](https://www.w3schools.com/tags/tag_dl.asp)

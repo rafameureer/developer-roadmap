@@ -1,7 +1,7 @@
 # i / em
 
-The `<i>` and `<em>` tags in HTML are used to emphasize text. The `<i>` tag represents text that is set off from the normal prose, such as technical terms, foreign words, or thoughts. The `<em>` tag represents stress emphasis of its contents. While both may render similarly in browsers (often as italicized text), `<em>` has semantic meaning, indicating importance, whereas `<i>` is purely presentational.
+As tags `<i>` e `<em>` no HTML são usadas para enfatizar o texto. A tag `<i>` representa texto que está separado do prosa normal, como termos técnicos, palavras estrangeiras ou pensamentos. A tag `<em>` representa ênfase de destaque dos seus conteúdos. Embora ambos possam renderizar da mesma forma nos navegadores (geralmente em itálico), `<em>` tem significado semântico, indicando importância, enquanto `<i>` é puramente apresentacional.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@Learn HTML em and i elements in 6 minutes](https://m.youtube.com/watch?v=yhbzW3y_7KE)
+- [@vídeo@Aprenda HTML i e em elementos em 6 minutos](https://m.youtube.com/watch?v=yhbzW3y_7KE)

@@ -1,8 +1,8 @@
-# HTML Form Constraints
+# Restrições de Formulário HTML
 
-HTML form constraints are rules you set on form fields to control what kind of data users can enter. These constraints help ensure that the information submitted is valid and meets your requirements. For example, you can specify that a field is required, set a minimum or maximum length for text, or restrict the input to a specific data type like a number or email address. These limitations are defined using HTML attributes directly within the form elements.
+Restrições de formulário HTML são regras que você define em campos de formulário para controlar o tipo de dados que os usuários podem inserir. Essas restrições ajudam a garantir que as informações enviadas sejam válidas e atendam aos seus requisitos. Por exemplo, você pode especificar que um campo é obrigatório, definir uma largura mínima ou máxima para texto, ou restringir a entrada a um tipo específico de dado como número ou endereço de e-mail. Essas limitações são definidas usando atributos HTML diretamente nos elementos do formulário.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Using HTML form validation and the Constraint Validation API](https://developer.mozilla.org/en-US/docs/Web/HTML/Guides/Constraint_validation)
-- [@article@The Definitive Guide to the Constraint Validation API](https://dev.to/itxshakil/the-definitive-guide-to-the-constraint-validation-api-3l80)
+- [@artigo@Usando a validação de formulários HTML e a API de Validação de Restrições](https://developer.mozilla.org/pt-BR/docs/Web/Guia/HTML/Validação_de_formulários)
+- [@artigo@Guia Definitivo da API de Validação de Restrições](https://dev.to/itxshakil/the-definitive-guide-to-the-constraint-validation-api-3l80)

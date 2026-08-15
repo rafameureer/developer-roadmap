@@ -1,7 +1,5 @@
-# The  Element
-The <q> element in HTML represents a short, inline quotation. Browsers typically render this element with quotation marks around the content it contains. It's designed for brief quotes that fit within a paragraph, as opposed to longer, block-level quotations that would use the <blockquote> element.
-Visit the following resources to learn more:
+# O Elemento <q>
+O elemento `<q>` em HTML representa uma citação curta e inline. Os navegadores geralmente renderizam esse elemento com aspas ao redor do conteúdo que contém. Ele é projetado para citações breves que cabem em um parágrafo, em vez de citações mais longas e de nível de bloco que usariam o elemento `<blockquote>`.
+Acesse os seguintes recursos para saber mais:
 
-Visit the following resources to learn more:
-
-- [@video@The Blockquote and Quote Tags](https://www.youtube.com/watch?v=SNEABGfkWhQ)
+- [@video@As Tags Blockquote e Quote](https://www.youtube.com/watch?v=SNEABGfkWhQ)

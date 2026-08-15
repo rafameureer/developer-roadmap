@@ -1,7 +1,7 @@
-# ins Element
+# Elemento ins
 
-The `<ins>` element in HTML represents text that has been inserted into a document. It's used to indicate additions or updates to content, often displayed with an underline to visually distinguish it from the original text. This element helps to clearly communicate revisions and modifications within a webpage.
+O elemento `<ins>` em HTML representa texto que foi inserido em um documento. Ele é usado para indicar adições ou atualizações no conteúdo, geralmente exibido com sublinhado para distinguir visualmente do texto original. Esse elemento ajuda a comunicar claramente revisões e modificações dentro de uma página da web.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@Inserted Text in HTML (ins Tag)](https://www.youtube.com/watch?v=fKWiyfOUs9M)
+- [@vídeo@Texto Inserido em HTML (Tag ins)](https://www.youtube.com/watch?v=fKWiyfOUs9M)

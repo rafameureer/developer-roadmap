@@ -1,9 +1,9 @@
-# Domain name
+# Nome de domínio
 
-Domain names are human-friendly web addresses (e.g., [google.com](http://google.com)) substituting numerical IP addresses. Comprise second-level ("google") and top-level (".com") domains. Registered through registrars, essential for branding and online presence. DNS translates names to IP addresses for accessibility.
+Os nomes de domínio são endereços web amigáveis para humanos (por exemplo, [google.com](http://google.com)) substituindo endereços IP numéricos. Eles compõem domínios de segundo nível ("google") e de nível superior (".com"). Registram-se através de registradores, essenciais para a marcação e a presença online. O DNS traduz nomes em endereços IP para acessibilidade.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is a Domain Name?](https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/What_is_a_domain_name)
-- [@article@What is a domain name? | Domain name vs. URL](https://www.cloudflare.com/en-gb/learning/dns/glossary/what-is-a-domain-name/)
-- [@video@What Is a Domain Name | Domain Names Explained](https://www.youtube.com/watch?v=lMHzpBwPuG8)
+- [@artigo@O que é um Nome de Domínio?](https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/What_is_a_domain_name)
+- [@artigo@O que é um nome de domínio? | Nome de domínio vs. URL](https://www.cloudflare.com/en-gb/learning/dns/glossary/what-is-a-domain-name/)
+- [@vídeo@O Que é um Nome de Domínio | Explicação sobre Nomes de Domínio](https://www.youtube.com/watch?v=lMHzpBwPuG8)

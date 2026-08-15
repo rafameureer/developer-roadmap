@@ -1,7 +1,7 @@
 # dfn
 
-The `<dfn>` element in HTML represents the defining instance of a term. It's used to indicate the specific location where a word or phrase is being defined for the first time within a document. Typically, the term being defined is included within the `<dfn>` tags, and often a definition or explanation of the term is provided nearby.
+O elemento `<dfn>` em HTML representa a instância definidora de um termo. Ele é usado para indicar o local específico onde uma palavra ou frase está sendo definida pela primeira vez dentro de um documento. Geralmente, o termo que está sendo definido está incluído dentro das tags `<dfn>`, e muitas vezes uma definição ou explicação do termo são fornecidas perto dele.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@HTML dfn Tag](https://www.youtube.com/watch?v=o6pKejnUN9s)
+- [@video@Tag dfn HTML](https://www.youtube.com/watch?v=o6pKejnUN9s)

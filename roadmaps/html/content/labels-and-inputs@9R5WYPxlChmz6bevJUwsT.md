@@ -1,8 +1,8 @@
-# Labels and Inputs
+# Etiquetas e Entradas
 
-Labels and inputs are fundamental building blocks for creating forms in HTML. Labels provide descriptive text that tells users what information is expected in a corresponding input field. Input elements, on the other hand, are the interactive controls where users can enter data, such as text, numbers, dates, or make selections from options. They work together to create a user-friendly and accessible form experience.
+Etiquetas e entradas são blocos fundamentais para criar formulários em HTML. As etiquetas fornecem texto descritivo que informa aos usuários o tipo de informação esperada em um campo de entrada correspondente. Os elementos de entrada, por outro lado, são os controles interativos onde os usuários podem inserir dados, como texto, números, datas ou fazer seleções a partir de opções. Eles trabalham juntos para criar uma experiência de formulário amigável e acessível.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@: The HTML Input element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/input)
-- [@article@HTML Inputs and Labels: A Love Story](https://css-tricks.com/html-inputs-and-labels-a-love-story/)
+- [@artigo@: O elemento HTML Input](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Elemento/input)
+- [@artigo@Etiquetas HTML e Entradas: Uma História de Amor](https://css-tricks.com/html-inputs-and-labels-a-love-story/)

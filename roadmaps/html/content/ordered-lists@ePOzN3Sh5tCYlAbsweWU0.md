@@ -1,8 +1,8 @@
-# Ordered Lists
+# Listas Ordenadas
 
-Ordered lists in HTML are used to display a series of items in a specific order. Each item in the list is typically numbered, allowing readers to easily follow a sequence or ranking. The `<ol>` tag is used to create an ordered list, and each list item is defined using the `<li>` tag.
+As listas ordenadas em HTML são usadas para exibir uma série de itens em um ordem específica. Cada item na lista geralmente é numerado, permitindo que os leitores sigam facilmente uma sequência ou classificação. A tag `<ol>` é usada para criar uma lista ordenada, e cada item da lista é definido usando a tag `<li>`.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@ol: HTML ordered list element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/ol)
-- [@article@HTML Ordered Lists](https://www.w3schools.com/html/html_lists_ordered.asp)
+- [@artigo@ol: Elemento de lista ordenada HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/ol)
+- [@artigo@Listas Ordenadas em HTML](https://www.w3schools.com/html/html_lists_ordered.asp)

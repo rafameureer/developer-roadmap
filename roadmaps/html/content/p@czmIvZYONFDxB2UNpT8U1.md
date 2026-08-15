@@ -1,7 +1,7 @@
-# p Tag
+# Tag p
 
-The `<p>` tag in HTML defines a paragraph. Browsers automatically add a single blank line before and after each paragraph, creating a clear separation between blocks of text. It's a block-level element, meaning it occupies the full width available to it and starts on a new line.
+A tag `<p>` em HTML define um parágrafo. Os navegadores adicionam automaticamente uma linha em branco antes e depois de cada parágrafo, criando uma separação clara entre blocos de texto. É um elemento de nível de bloco, o que significa que ocupa toda a largura disponível para ele e começa em uma nova linha.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@HTML - Paragraphs | W3Schools](https://www.youtube.com/watch?v=qis4kAOThLw)
+- [@vídeo@HTML - Parágrafos | W3Schools](https://www.youtube.com/watch?v=qis4kAOThLw)

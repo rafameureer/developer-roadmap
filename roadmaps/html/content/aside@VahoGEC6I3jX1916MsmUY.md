@@ -1,7 +1,7 @@
-# Aside Element
+# Elemento Aside
 
-The `<aside>` element in HTML represents a section of a page that is tangentially related to the main content. It's often used for sidebars, pull quotes, or other content that provides additional information or context but isn't essential to understanding the primary content. Think of it as content that can be removed without significantly impacting the user's comprehension of the main topic.
+O elemento `<aside>` em HTML representa uma seção de uma página que está tangencialmente relacionada ao conteúdo principal. Ele é frequentemente usado para barras laterais, citações-puxadas ou outros conteúdos que fornecem informações adicionais ou contexto, mas não são essenciais para entender o conteúdo primário. Pense nele como conteúdo que pode ser removido sem significativamente impactar a compreensão do usuário sobre o tópico principal.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@HTML aside Tag Tutorial (Semantic Element): Easy Guide for Beginners](https://www.youtube.com/watch?v=2uKbSQ0mXGA)
+- [@video@Tutorial sobre a Tag HTML aside (Elemento Semântico): Guia Fácil para Iniciantes](https://www.youtube.com/watch?v=2uKbSQ0mXGA)

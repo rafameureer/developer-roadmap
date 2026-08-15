@@ -1,8 +1,8 @@
 # img vs. figure
 
-The `<img>` tag in HTML is used to embed a simple image directly into a webpage. It requires a `src` attribute to specify the image source. On the other hand, the `<figure>` element represents self-contained content, like an image, illustration, diagram, code snippet, etc., that is referenced as a single unit. It is typically used with the `<figcaption>` element to provide a caption for the figure.
+A tag `<img>` em HTML é usada para incorporar uma imagem simples diretamente em uma página web. Ela requer um atributo `src` para especificar a fonte da imagem. Por outro lado, o elemento `<figure>` representa conteúdo independente, como uma imagem, ilustração, diagrama, trecho de código, etc., que é referenciado como um único unidade. Ele é típicamente usado com o elemento `<figcaption>` para fornecer uma legenda para a figura.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@The Ultimate Guide to Using HTML Figure Elements](https://www.dhiwise.com/post/the-ultimate-guide-to-using-html-figure-elements)
-- [@video@When to use image, figure and picture tag in html](https://www.youtube.com/watch?v=Xn5_gDQFyJg)
+- [@artigo@O Guia Último sobre Usar Elementos de Figura em HTML](https://www.dhiwise.com/post/the-ultimate-guide-to-using-html-figure-elements)
+- [@vídeo@Quando usar as tags image, figure e picture em html](https://www.youtube.com/watch?v=Xn5_gDQFyJg)

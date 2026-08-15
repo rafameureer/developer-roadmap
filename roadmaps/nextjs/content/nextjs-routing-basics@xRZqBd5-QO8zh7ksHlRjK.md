@@ -1,9 +1,9 @@
-# Next.js Routing Basics
+# Básicos de Roteamento do Next.js
 
-Routing is the process of defining how an application responds to client requests to specific endpoints (URIs). In Next.js, routing is primarily file-system based. This means that the structure of your `pages` directory directly corresponds to the routes of your application. Each file in the `pages` directory becomes a route based on its filename. For example, a file named `about.js` in the `pages` directory will be accessible at the `/about` route.
+O roteamento é o processo de definir como uma aplicação responde a solicitações de clientes para endpoints específicos (URIs). No Next.js, o roteamento é principalmente baseado no sistema de arquivos. Isso significa que a estrutura do diretório `pages` da sua aplicação corresponde diretamente às rotas da mesma. Cada arquivo no diretório `pages` se torna uma rota com base em seu nome de arquivo. Por exemplo, um arquivo chamado `about.js` no diretório `pages` será acessível na rota `/about`.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@https://nextjs.org/docs/pages/building-your-application/routing](https://nextjs.org/docs/pages/building-your-application/routing)
-- [@official@Defining Routes](https://nextjs.org/docs/14/app/building-your-application/routing/defining-routes)
-- [@video@Next.js 15 Routing Explained For Beginners](https://www.youtube.com/watch?v=qivq_vDYFGk)
+- [@oficial@https://nextjs.org/docs/pages/building-your-application/routing](https://nextjs.org/docs/pages/building-your-application/routing)
+- [@oficial@Definindo Rotas](https://nextjs.org/docs/14/app/building-your-application/routing/defining-routes)
+- [@vídeo@Explicação do Roteamento do Next.js 15 para Iniciantes](https://www.youtube.com/watch?v=qivq_vDYFGk)

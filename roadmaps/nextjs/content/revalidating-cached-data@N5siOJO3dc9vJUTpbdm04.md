@@ -1,8 +1,8 @@
-# Revalidating Cached Data
+# Revalidação de Dados em Cache
 
-Revalidation is the process of updating cached data. When you cache data, it's stored for a certain period. After that period, or based on specific events, you might want to refresh the data to ensure your application displays the most up-to-date information. Revalidation allows you to control when and how your cached data is updated, balancing performance with data freshness. Revalidating in Next.js is conducted through the `revalidatePath` and `revalidateTag` functions.
+A revalidação é o processo de atualizar dados em cache. Quando você armazena dados em cache, eles são mantidos por um determinado período. Após esse período ou com base em eventos específicos, você pode querer refrescar os dados para garantir que sua aplicação exiba as informações mais atualizadas. A revalidação permite controlar quando e como seus dados em cache são atualizados, equilibrando o desempenho com a frescor dos dados. Na Next.js, a revalidação é realizada através das funções `revalidatePath` e `revalidateTag`.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Revalidating](https://nextjs.org/docs/app/guides/caching#revalidating-1)
-- [@official@Caching and Revalidating](https://nextjs.org/docs/app/getting-started/caching-and-revalidating#revalidatetag)
+- [@oficial@Revalidação](https://nextjs.org/docs/app/guides/caching#revalidating-1)
+- [@oficial@Cache e Revalidação](https://nextjs.org/docs/app/getting-started/caching-and-revalidating#revalidatetag)

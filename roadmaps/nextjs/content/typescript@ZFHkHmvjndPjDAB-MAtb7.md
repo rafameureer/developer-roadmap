@@ -1,9 +1,9 @@
 # TypeScript
 
-TypeScript is a syntactic superset of JavaScript which adds static typing. This means that TypeScript adds syntax on top of JavaScript, allowing developers to add types.
+TypeScript é um superconjunto sintático do JavaScript que adiciona tipagem estática. Isso significa que TypeScript adiciona uma sintaxe ao JavaScript, permitindo aos desenvolvedores adicionar tipos.
 
-Next.js comes with built-in TypeScript, automatically installing the necessary packages and configuring the proper settings when you create a new project with create-next-app. To add TypeScript to an existing project, rename a file to `.ts` / `.tsx`. Run `next dev` and `next build` to automatically install the necessary dependencies and add a `tsconfig.json` file with the recommended config options.
+O Next.js vem com suporte interno ao TypeScript, instalando automaticamente os pacotes necessários e configurando as configurações apropriadas quando você cria um novo projeto com `create-next-app`. Para adicionar TypeScript a um projeto existente, renomeie um arquivo para `.ts` / `.tsx`. Execute `next dev` e `next build` para instalar automaticamente as dependências necessárias e adicionar um arquivo `tsconfig.json` com as opções de configuração recomendadas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@TypeScript](https://nextjs.org/docs/app/api-reference/config/typescript)
+- [@oficial@TypeScript](https://nextjs.org/docs/app/api-reference/config/typescript)

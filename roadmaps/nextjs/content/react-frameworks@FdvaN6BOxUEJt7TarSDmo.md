@@ -1,7 +1,7 @@
-# React Frameworks
+# Estruturas de React
 
-React frameworks provide structure and tools to streamline the development of React applications. They offer solutions for common challenges like routing, data fetching, state management, and build processes, allowing developers to focus on building features rather than configuring infrastructure. These frameworks often include pre-built components, optimized performance configurations, and conventions that promote code organization and maintainability.
+As estruturas de React fornecem estrutura e ferramentas para facilitar o desenvolvimento de aplicativos React. Elas oferecem soluções para desafios comuns como roteamento, busca de dados, gerenciamento de estado e processos de construção, permitindo que os desenvolvedores se concentrem em construir recursos em vez de configurar a infraestrutura. Essas estruturas geralmente incluem componentes pré-construídos, configurações otimizadas para desempenho e convenções que promovem a organização e manutenção do código.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Comparing The Top React Frameworks](https://dev.to/surajondev/comparing-the-top-cra-alternatives-9cg)
+- [@artigo@Comparando as principais estruturas de React](https://dev.to/surajondev/comparing-the-top-cra-alternatives-9cg)

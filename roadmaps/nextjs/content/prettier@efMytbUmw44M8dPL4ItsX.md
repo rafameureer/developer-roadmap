@@ -1,10 +1,10 @@
 # Prettier
 
-Prettier is an opinionated code formatter that supports many languages, including JavaScript, TypeScript, and CSS. It automatically formats your code to adhere to a consistent style, ensuring readability and maintainability across your project. 
+Prettier é um formatador de código opinativo que suporta muitos idiomas, incluindo JavaScript, TypeScript e CSS. Ele formata automaticamente seu código para seguir um estilo consistente, garantindo a legibilidade e manutenção em todo o projeto.
 
-The ESLint Plugin contains code formatting rules, which may conflict with your existing Prettier setup. To make ESLint and Prettier work together, you can include `eslint-config-prettier` in your ESLint config.
+O Plugin do ESLint contém regras de formatação de código, que podem conflitar com sua configuração existente do Prettier. Para fazer o ESLint e o Prettier trabalharem juntos, você pode incluir `eslint-config-prettier` em sua configuração do ESLint.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@ESLint Plugin with Prettier](https://nextjs.org/docs/app/api-reference/config/eslint#with-prettier)
+- [@oficial@Plugin do ESLint com Prettier](https://nextjs.org/docs/app/api-reference/config/eslint#with-prettier)
 - [@opensource@eslint-config-prettier](https://github.com/prettier/eslint-config-prettier)

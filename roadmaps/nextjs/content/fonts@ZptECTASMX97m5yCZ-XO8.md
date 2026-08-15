@@ -1,7 +1,7 @@
-# Font Optimization
+# Otimização de Fontes
 
-The `next/font` module automatically optimizes your fonts and removes external network requests for improved privacy and performance. It includes built-in self-hosting for any font file. This means you can optimally load web fonts with no layout shift.
+O módulo `next/font` do Next.js automatiza a otimização de suas fontes e remove solicitações de rede externas para melhorar a privacidade e o desempenho. Ele inclui hospedagem autônoma embutida para qualquer arquivo de fonte. Isso significa que você pode carregar fontes web de forma ótima sem deslocamento de layout.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Font Optimization](https://nextjs.org/docs/app/getting-started/fonts)
+- [@official@Otimização de Fontes](https://nextjs.org/docs/app/getting-started/fonts)

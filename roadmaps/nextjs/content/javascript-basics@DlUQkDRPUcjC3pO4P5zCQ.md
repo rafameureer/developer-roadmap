@@ -1,10 +1,10 @@
-# JavaScript Basics
+# Básicos de JavaScript
 
-JavaScript is a programming language that adds interactivity to websites. It allows you to create dynamic content, control multimedia, animate images, and much more. Think of HTML as the structure of a house, CSS as the interior design, and JavaScript as the electrical system that makes everything work. Understanding JavaScript is crucial before diving into Next.js because Next.js is built on top of React, which itself is a JavaScript library. Without a solid grasp of JavaScript fundamentals, you'll find it difficult to understand and effectively use Next.js's features and concepts.
+JavaScript é um idioma de programação que adiciona interatividade a sites. Ele permite criar conteúdo dinâmico, controlar mídia multimídia, animar imagens e muito mais. Pense em HTML como a estrutura de uma casa, CSS como o design interno e JavaScript como o sistema elétrico que faz tudo funcionar. Entender JavaScript é crucial antes de mergulhar no Next.js porque o Next.js é construído sobre o React, que por sua vez é uma biblioteca do JavaScript. Sem um entendimento sólido dos fundamentos do JavaScript, você encontrará difícil entender e usar efetivamente os recursos e conceitos do Next.js.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit Dedicated JavaScript Roadmap](https://roadmap.sh/javascript)
-- [@article@The Modern JavaScript Tutorial](https://javascript.info/)
-- [@video@JavaScript Crash Course for Beginners](https://youtu.be/hdI2bqOjy3c)
-- [@feed@Explore top posts about JavaScript](https://app.daily.dev/tags/javascript?ref=roadmapsh)
+- [@roadmap@Visite a Estrada de Carreira dedicada ao JavaScript](https://roadmap.sh/javascript)
+- [@artigo@O Tutorial Moderno do JavaScript](https://javascript.info/)
+- [@vídeo@Curso rápido de introdução ao JavaScript](https://youtu.be/hdI2bqOjy3c)
+- [@feed@Explore as melhores postagens sobre JavaScript](https://app.daily.dev/tags/javascript?ref=roadmapsh)

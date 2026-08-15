@@ -1,25 +1,25 @@
-# Routing Terminology in Next.js
+# Terminologia de Roteamento em Next.js
 
-In Next.js, routing is primarily handled through the `app` directory (introduced in Next.js 13) and the older `pages` directory. Key terms include:
+Em Next.js, o roteamento é principalmente gerenciado através do diretório `app` (introduzido no Next.js 13) e do antigo diretório `pages`. Termos-chave incluem:
 
-*   **Route:** A specific URL path that maps to a particular component or page. For example, `/blog/my-first-post`.
+*   **Rota:** Um caminho de URL específico que se mapeia para um componente ou página particular. Por exemplo, `/blog/my-first-post`.
 
-*   **Route Segment:** A part of the URL path. In `/blog/my-first-post`, `blog` and `my-first-post` are route segments.
+*   **Segmento de Rota:** Uma parte do caminho da URL. Em `/blog/my-first-post`, `blog` e `my-first-post` são segmentos de rota.
 
-*   **File-System Routing:** Next.js uses a file-system based router. The structure of your directories and files within the `app` or `pages` directory directly defines your application's routes.
+*   **Roteamento Baseado em Sistema de Arquivos:** O Next.js usa um roteador baseado em sistema de arquivos. A estrutura dos seus diretórios e arquivos dentro do diretório `app` ou `pages` define diretamente as rotas da sua aplicação.
 
-*   **Dynamic Routes:** Routes that include parameters, allowing you to create pages based on data. For example, `/blog/[slug]` where `[slug]` is a dynamic parameter.
+*   **Rotas Dinâmicas:** Rotas que incluem parâmetros, permitindo criar páginas com base em dados. Por exemplo, `/blog/[slug]`, onde `[slug]` é um parâmetro dinâmico.
 
-*   **Index Route:** The route that is served when a user visits a directory. Typically represented by an `index.js` or `page.js` file within a directory.
+*   **Rota Índice:** A rota que é servida quando um usuário visita um diretório. Geralmente representada por um arquivo `index.js` ou `page.js` dentro de um diretório.
 
-*   **Layout:** A component that wraps multiple pages, providing a consistent UI structure (like headers and footers) across different routes.
+*   **Layout:** Um componente que envolve várias páginas, fornecendo uma estrutura UI consistente (como cabeçalhos e rodapés) em diferentes rotas.
 
-*   **Link Component:** The `<Link>` component from `next/link` is used for client-side navigation between routes, providing better performance than traditional `<a>` tags.
+*   **Componente Link:** O componente `<Link>` do `next/link` é usado para navegação entre rotas no lado do cliente, oferecendo melhor desempenho que as tags tradicionais `<a>`.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Project structure and organization](https://nextjs.org/docs/app/getting-started/project-structure)
-- [@video@Next.js 15 Tutorial - Routing](https://www.youtube.com/watch?v=9602Yzvd7i)
-- [@video@Next.js 15 Tutorial - Nested Routes](https://www.youtube.com/watch?v=H7JjKjkC33c)
-- [@video@Next.js 15 Tutorial - Dynamic Routes](https://www.youtube.com/watch?v=k9g6aVLH3p4)
-- [@video@Next.js 15 Tutorial - Nested Dynamic Routes](https://www.youtube.com/watch?v=edrJf0GKfAI)
+- [@oficial@Estrutura e organização do projeto](https://nextjs.org/docs/app/getting-started/project-structure)
+- [@vídeo@Tutorial Next.js 15 - Roteamento](https://www.youtube.com/watch?v=9602Yzvd7i)
+- [@vídeo@Tutorial Next.js 15 - Rotas Aninhadas](https://www.youtube.com/watch?v=H7JjKjkC33c)
+- [@vídeo@Tutorial Next.js 15 - Rotas Dinâmicas](https://www.youtube.com/watch?v=k9g6aVLH3p4)
+- [@vídeo@Tutorial Next.js 15 - Rotas Aninhadas Dinâmicas](https://www.youtube.com/watch?v=edrJf0GKfAI)

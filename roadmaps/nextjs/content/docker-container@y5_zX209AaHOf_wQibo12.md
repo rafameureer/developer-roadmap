@@ -1,8 +1,8 @@
-# Docker Container
+# Contêiner Docker
 
-Next.js can be deployed to any provider that supports Docker containers. This includes container orchestrators like Kubernetes or a cloud provider that runs Docker. Docker deployments support all Next.js features.
+Next.js pode ser implantado em qualquer provedor que suporte contêineres Docker. Isso inclui orquestradores de contêineres como Kubernetes ou um provedor de nuvem que execute Docker. Implantações com Docker suportam todas as funcionalidades do Next.js.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated Docker Roadmap](https://roadmap.sh/docker)
-- [@official@Deployment with Docker](https://nextjs.org/docs/app/getting-started/deploying#nodejs-server)
+- [@roadmap@Visite a Roadmap Específica do Docker](https://roadmap.sh/docker)
+- [@oficial@Implantação com Docker](https://nextjs.org/docs/app/getting-started/deploying#nodejs-server)

@@ -1,9 +1,9 @@
 # Middleware
 
-Middleware is a powerful feature that allows you to intercept and run code on the server before a request is completed. Then, based on the incoming request, you can modify the response by rewriting, redirecting, modifying the request or response headers, or responding directly. Middleware executes before routes are rendered. It's particularly useful for implementing custom server-side logic like authentication, logging, or handling redirects.
+O Middleware é uma funcionalidade poderosa que permite interceptar e executar código no servidor antes de uma solicitação ser concluída. Em seguida, com base na solicitação recebida, você pode modificar a resposta reescrevendo, redirecionando, modificando os cabeçalhos da solicitação ou resposta ou respondendo diretamente. O Middleware é executado antes das rotas serem renderizadas. É particularmente útil para implementar lógica personalizada do lado do servidor como autenticação, registro em log ou manipulação de redirecionamentos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Middleware for App Router](https://nextjs.org/docs/app/api-reference/file-conventions/middleware)
-- [@official@Middleware for Pages Router](https://nextjs.org/docs/pages/api-reference/file-conventions/middleware)
-- [@video@Next.js 15 Tutorial - Middleware](https://www.youtube.com/watch?v=t1KTTZbqCm0)
+- [@oficial@Middleware para App Router](https://nextjs.org/docs/app/api-reference/file-conventions/middleware)
+- [@oficial@Middleware para Pages Router](https://nextjs.org/docs/pages/api-reference/file-conventions/middleware)
+- [@vídeo@Tutorial do Next.js 15 - Middleware](https://www.youtube.com/watch?v=t1KTTZbqCm0)

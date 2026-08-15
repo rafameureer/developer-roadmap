@@ -1,13 +1,13 @@
-# Types of Routers
+# Tipos de Roteadores
 
-Next.js has two different routers:
+O Next.js tem dois diferentes roteadores:
 
-*   **App Router**: The newer router that supports new React features like Server Components.
-*   **Pages Router**: The original router, still supported and being improved.
+*   **Roteador App**: O novo roteador que suporta novas funcionalidades do React como Componentes do Servidor.
+*   **Roteador Pages**: O roteador original, ainda suportado e sendo melhorado.
 
-Before Next.js 13, the Pages Router was the main way to create routes in Next.js. It's still supported in newer versions of Next.js, but Next.js recommends migrating to the new App Router to leverage React's latest features.
+Antes do Next.js 13, o Roteador Pages era a maneira principal de criar rotas no Next.js. Ele ainda é suportado em versões mais novas do Next.js, mas o Next.js recomenda migrar para o novo Roteador App para aproveitar as últimas funcionalidades do React.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Next.js Docs](https://nextjs.org/docs#app-router-and-pages-router)
-- [@video@Next.js App vs. Pages Router - Which One is Better?](https://www.youtube.com/watch?v=EYDOXzpTRvw)
+- [@official@Documentação do Next.js](https://nextjs.org/docs#app-router-and-pages-router)
+- [@video@Roteador App vs. Pages Router - Qual é o Melhor?](https://www.youtube.com/watch?v=EYDOXzpTRvw)

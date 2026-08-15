@@ -1,11 +1,11 @@
-# Parallel vs Sequential
+# Paralelo vs Sequencial
 
-When fetching data inside React components, you need to be aware of two data fetching patterns: Parallel and Sequential. 
+Quando você está buscando dados dentro de componentes React, é necessário estar ciente de dois padrões de busca de dados: Paralelo e Sequencial.
 
-With sequential data fetching, requests in a route are dependent on each other and therefore create waterfalls. There may be cases where you want this pattern because one fetch depends on the result of the other, or you want a condition to be satisfied before the next fetch to save resources. However, this behavior can also be unintentional and lead to longer loading times. 
+Com a busca de dados sequencial, as solicitações em uma rota dependem umas das outras e, portanto, criam cascadas. Pode haver casos onde você deseja esse padrão porque uma busca depende do resultado da outra ou você deseja que uma condição seja satisfeita antes da próxima busca para economizar recursos. No entanto, esse comportamento também pode ser inconsciente e levar a tempos de carregamento mais longos.
 
-With parallel data fetching, requests in a route are eagerly initiated and will load data at the same time. This reduces client-server waterfalls and the total time it takes to load data.
+Com a busca de dados paralela, as solicitações em uma rota são iniciadas com entusiasmo e carregarão os dados ao mesmo tempo. Isso reduz as cascadas cliente-servidor e o tempo total para carregar os dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Parallel and sequential data fetching](https://nextjs.org/docs/14/app/building-your-application/data-fetching/patterns#parallel-and-sequential-data-fetching)
+- [@oficial@Busca de dados paralela e sequencial](https://nextjs.org/docs/14/app/building-your-application/data-fetching/patterns#parallel-and-sequential-data-fetching)

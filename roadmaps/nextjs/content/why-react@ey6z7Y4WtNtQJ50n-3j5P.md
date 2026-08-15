@@ -1,10 +1,10 @@
-# Why React?
+# Por que usar React?
 
-React is a JavaScript library designed for building user interfaces in a declarative and component-based way. It simplifies the process of creating dynamic and interactive web applications by allowing developers to break down complex UIs into smaller, reusable pieces. This approach promotes code maintainability, reusability, and efficiency, making it easier to manage and update large-scale frontend projects. React also works with tools like Redux for data management and React Native for mobile apps. It's popular because it's clear, fast, and has a big community.
+React é uma biblioteca de JavaScript projetada para construir interfaces do usuário de forma declarativa e baseada em componentes. Ela simplifica o processo de criar aplicativos web dinâmicos e interativos permitindo aos desenvolvedores quebrarem complexas UIs em partes menores, reutilizáveis. Esse abordagem promove a manutenção do código, a reutilização e a eficiência, tornando mais fácil gerenciar e atualizar projetos frontend de escala. React também funciona com ferramentas como Redux para gestão de dados e React Native para aplicativos móveis. É popular porque é claro, rápido e tem uma grande comunidade.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit Dedicated React Roadmap](https://roadmap.sh/react)
-- [@official@React Website](https://react.dev)
-- [@video@Full Stack React Developer Course](https://www.youtube.com/watch?v=Bvwq_S0n2pk)
-- [@feed@Explore top posts about React](https://app.daily.dev/tags/react?ref=roadmapsh)
+- [@roadmap@Visite o Caminho do React dedicado](https://roadmap.sh/react)
+- [@oficial@Site oficial do React](https://react.dev)
+- [@vídeo@Curso Completo de Desenvolvedor Full Stack com React](https://www.youtube.com/watch?v=Bvwq_S0n2pk)
+- [@feed]Explore os melhores posts sobre React](https://app.daily.dev/tags/react?ref=roadmapsh)

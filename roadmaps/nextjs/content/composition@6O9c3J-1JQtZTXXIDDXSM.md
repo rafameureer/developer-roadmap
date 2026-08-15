@@ -1,9 +1,9 @@
-# Rendering Composition
+# Composição de Renderização
 
-Rendering composition is the practice of building complex user interfaces by combining smaller, reusable components. In Next.js, this is important because it allows you to strategically decide which parts of your application should be pre-rendered on the server for better performance and SEO, and which parts can be rendered on the client for dynamic interactivity. By composing components effectively, you can optimize the rendering strategy for each part of your application, leading to a faster and more efficient user experience.
+A composição de renderização é a prática de construir interfaces do usuário complexas combinando componentes menores e reutilizáveis. No Next.js, isso é importante porque permite que você decida estratégicamente quais partes da sua aplicação devem ser pré-renderizadas no servidor para melhor desempenho e SEO, e quais partes podem ser renderizadas no cliente para interatividade dinâmica. Compondo componentes de forma eficaz, você pode otimizar a estratégia de renderização para cada parte da sua aplicação, resultando em uma experiência do usuário mais rápida e eficiente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Server and Client Composition Patterns](https://nextjs.org/docs/14/app/building-your-application/rendering/composition-patterns)
-- [@official@Server and Client Components](https://nextjs.org/docs/app/getting-started/server-and-client-components#how-do-server-and-client-components-work-in-nextjs)
-- [@video@Next.js 15 Tutorial - Server and Client Components](https://www.youtube.com/watch?v=dMCSiA5gzkU)
+- [@official@Padrões de Composição Servidor e Cliente](https://nextjs.org/docs/14/app/building-your-application/rendering/composition-patterns)
+- [@official@Componentes Servidor e Cliente](https://nextjs.org/docs/app/getting-started/server-and-client-components#como-funcionam-os-componentes-servidor-e-cliente-no-nextjs)
+- [@video@Tutorial Next.js 15 - Componentes Servidor e Cliente](https://www.youtube.com/watch?v=dMCSiA5gzkU)

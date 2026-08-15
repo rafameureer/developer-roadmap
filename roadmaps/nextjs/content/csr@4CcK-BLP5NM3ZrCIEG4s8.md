@@ -1,10 +1,10 @@
-# Client-Side Rendering (CSR)
+# Renderização do Lado do Cliente (CSR)
 
-In Client-Side Rendering (CSR) with React, the browser downloads a minimal HTML page and the JavaScript needed for the page. The JavaScript is then used to update the DOM and render the page. When the application is first loaded, the user may notice a slight delay before they can see the full page, this is because the page isn't fully rendered until all the JavaScript is downloaded, parsed, and executed.
+Na Renderização do Lado do Cliente (CSR) com React, o navegador baixa uma página HTML mínima e o JavaScript necessário para a página. O JavaScript é então usado para atualizar o DOM e renderizar a página. Quando a aplicação é carregada pela primeira vez, o usuário pode notar um pequeno atraso antes de ver a página completa, isso ocorre porque a página não é totalmente renderizada até que todo o JavaScript seja baixado, analisado e executado.
 
-After the page has been loaded for the first time, navigating to other pages on the same website is typically faster, as only necessary data needs to be fetched, and JavaScript can re-render parts of the page without requiring a full page refresh.
+Após a primeira carga da página, navegar para outras páginas no mesmo site geralmente é mais rápido, pois apenas os dados necessários precisam ser recuperados, e o JavaScript pode re-renderizar partes da página sem exigir um recarregamento completo da página.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Client-side Rendering (CSR)](https://nextjs.org/docs/pages/building-your-application/rendering/client-side-rendering)
-- [@article@What is Client-side Rendering (CSR)?](https://prismic.io/blog/client-side-rendering)
+- [@article@O que é Renderização do Lado do Cliente (CSR)?](https://prismic.io/blog/client-side-rendering)

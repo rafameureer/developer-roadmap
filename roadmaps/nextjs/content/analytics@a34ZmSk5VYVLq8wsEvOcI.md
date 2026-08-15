@@ -1,8 +1,8 @@
-# Analytics
+# Análise
 
-Next.js has built-in support for measuring and reporting performance metrics. You can either use the `useReportWebVitals` hook to manage reporting yourself, or alternatively, Vercel provides a managed service to automatically collect and visualize metrics for you.
+O Next.js tem suporte integrado para medir e relatar métricas de desempenho. Você pode usar o hook `useReportWebVitals` para gerenciar a relatórios por conta própria, ou alternativamente, Vercel fornece um serviço gerenciado para coletar e visualizar métricas automaticamente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@How to add analytics to your Next.js application](https://nextjs.org/docs/app/guides/analytics)
+- [@official@Como adicionar análise à sua aplicação Next.js](https://nextjs.org/docs/app/guides/analytics)
 - [@official@useReportWebVitals](https://nextjs.org/docs/app/api-reference/functions/use-report-web-vitals)

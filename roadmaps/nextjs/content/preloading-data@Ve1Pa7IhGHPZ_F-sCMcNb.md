@@ -1,7 +1,7 @@
-# Preloading data
+# Pré-carregamento de dados
 
-Another way to optimize data fetching is to use the preload pattern. You can optionally create a preload function to further optimize parallel data fetching. With this approach, you don't have to pass promises down as props. The preload function can also have any name as it's a pattern, not an API.
+Outra forma de otimizar a busca por dados é usar o padrão de pré-carregamento. Você pode criar opcionalmente uma função de pré-carregamento para otimizar ainda mais a busca paralela de dados. Com essa abordagem, você não precisa passar promessas como props. A função de pré-carregamento também pode ter qualquer nome, pois é um padrão e não uma API.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Preloading data](https://nextjs.org/docs/14/app/building-your-application/data-fetching/patterns#preloading-data)
+- [@oficial@Pré-carregamento de dados](https://nextjs.org/docs/14/app/building-your-application/data-fetching/patterns#preloading-data)

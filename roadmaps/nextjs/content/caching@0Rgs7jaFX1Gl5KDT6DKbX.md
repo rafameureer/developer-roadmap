@@ -1,9 +1,9 @@
-# Caching API Endpoints in Next.js
+# Cacheamento de Ponto Final da API no Next.js
 
-When you don't know the exact route segment names ahead of time and want to create routes from dynamic data, you can use Dynamic Segments that are filled in at request time or prerendered at build time. One example is catch-all segments, which allow you to extend API Routes  to catch all subsequent paths.
+Quando você não sabe os nomes exatos dos segmentos de rota antecipadamente e deseja criar rotas a partir de dados dinâmicos, pode usar Segmentos Dinâmicos que são preenchidos em tempo de solicitação ou pré-renderizados em tempo de construção. Um exemplo é segmentos catch-all, que permitem estender Rotas da API para capturar todos os caminhos subsequentes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Catch-all Segments for App Router](https://nextjs.org/docs/app/api-reference/file-conventions/dynamic-routes#catch-all-segments)
-- [@official@Catch all API routes for Page Router](https://nextjs.org/docs/pages/building-your-application/routing/api-routes#catch-all-api-routes)
-- [@video@Next.js 15 Tutorial - Catch all Segments](https://www.youtube.com/watch?v=d46hLIg1B3Q)
+- [@oficial@Segmentos Catch-all para Roteador de Aplicativo](https://nextjs.org/docs/app/api-reference/file-conventions/dynamic-routes#catch-all-segments)
+- [@oficial@Segmentos Catch-all da API para Rotas de Página](https://nextjs.org/docs/pages/building-your-application/routing/api-routes#catch-all-api-routes)
+- [@vídeo@Tutorial do Next.js 15 - Segmentos Catch-all](https://www.youtube.com/watch?v=d46hLIg1B3Q)

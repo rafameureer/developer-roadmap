@@ -1,8 +1,8 @@
-# Lazy Loading
+# Carregamento Eager
 
-Lazy loading in Next.js helps improve the initial loading performance of an application by decreasing the amount of JavaScript needed to render a route. It allows you to defer loading of Client Components and imported libraries, and only include them in the client bundle when they're needed. For example, you might want to defer loading a modal until a user clicks to open it.
+O carregamento eager no Next.js ajuda a melhorar o desempenho de inicialização de uma aplicação reduzindo a quantidade de JavaScript necessário para renderizar uma rota. Ele permite adiar o carregamento de Componentes do Cliente e bibliotecas importadas, incluindo-os apenas no pacote do cliente quando forem necessários. Por exemplo, você pode querer adiar o carregamento de um modal até que um usuário clique para abri-lo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@How to lazy load Client Components and libraries](https://nextjs.org/docs/app/guides/lazy-loading)
-- [@article@Lazy loading](https://developer.mozilla.org/en-US/docs/Web/Performance/Guides/Lazy_loading)
+- [@oficial@Como carregar Componentes do Cliente e bibliotecas em segundo plano](https://nextjs.org/docs/app/guides/lazy-loading)
+- [@artigo@Carregamento em segundo plano](https://developer.mozilla.org/en-US/docs/Web/Performance/Guides/Lazy_loading)

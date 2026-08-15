@@ -1,7 +1,7 @@
-# Node.js Server
+# Servidor Node.js
 
-Next.js can be deployed to any provider that supports Node.js. You just have to build your application and start a Node.js server using simple commands. This server supports all Next.js features. If needed, you can also eject to a custom server. Node.js deployments support all Next.js features.
+Next.js pode ser implantado em qualquer provedor que suporte Node.js. Basta construir seu aplicativo e iniciar um servidor Node.js usando comandos simples. Este servidor suporta todas as funcionalidades do Next.js. Se necessário, você também pode desligar para um servidor personalizado. Implantações de Node.js suportam todas as funcionalidades do Next.js.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Node.js Server](https://nextjs.org/docs/app/getting-started/deploying#nodejs-server)
+- [@official@Servidor Node.js](https://nextjs.org/docs/app/getting-started/deploying#nodejs-server)

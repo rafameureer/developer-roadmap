@@ -1,8 +1,8 @@
-# Middleware Use Cases
+# Casos de Uso do Middleware
 
-Middleware in Next.js allows you to run code before a request is completed. This provides a flexible way to modify the response by rewriting, redirecting, adding headers, or even directly responding. Common use cases include authentication, authorization, redirecting users based on their location (localization), handling bots, and implementing advanced security measures.
+O Middleware no Next.js permite que você execute código antes de uma solicitação ser concluída. Isso fornece uma maneira flexível de modificar a resposta, reescrevendo, redirecionando, adicionando cabeçalhos ou até mesmo respondendo diretamente. Casos comuns de uso incluem autenticação, autorização, redirecionamento de usuários com base em sua localização (localização), manipulação de bots e implementação de medidas de segurança avançadas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Middleware for App Router](https://nextjs.org/docs/app/api-reference/file-conventions/middleware)
-- [@official@Middleware for Pages Router](https://nextjs.org/docs/pages/api-reference/file-conventions/middleware)
+- [@oficial@Middleware para App Router](https://nextjs.org/docs/app/api-reference/file-conventions/middleware)
+- [@oficial@Middleware para Pages Router](https://nextjs.org/docs/pages/api-reference/file-conventions/middleware)

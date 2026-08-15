@@ -1,11 +1,11 @@
-# Rendering Pages in Next.js
+# Renderizando Páginas no Next.js
 
-Rendering refers to the process of converting your code into HTML that can be displayed in a web browser. Next.js offers different strategies for this, including server-side rendering (SSR), static site generation (SSG), incremental static regeneration (ISR), and client-side rendering (CSR). Each method determines when and where the HTML is generated, impacting performance, SEO, and interactivity. Choosing the right rendering strategy depends on the specific needs of each page in your application.
+O renderizado refere-se ao processo de converter seu código em HTML que pode ser exibido em um navegador da web. O Next.js oferece diferentes estratégias para isso, incluindo renderização do lado do servidor (SSR), geração de sites estáticos (SSG), regeneração incremental de sites estáticos (ISR) e renderização do lado do cliente (CSR). Cada método determina quando e onde o HTML é gerado, impactando desempenho, SEO e interatividade. A escolha da estratégia de renderizado adequada depende das necessidades específicas de cada página em seu aplicativo.
 
-Recently, Next.js has launched a partial prerendering feature, that allows you to combine static and dynamic content in the same route. This improves the initial page performance while still supporting personalized, dynamic data. However, this feature is currently experimental and subject to change, it's not recommended for production.
+Recentemente, o Next.js lançou uma funcionalidade de pré-renderização parcial, que permite combinar conteúdo estático e dinâmico na mesma rota. Isso melhora o desempenho inicial da página enquanto ainda suporta dados personalizados e dinâmicos. No entanto, essa funcionalidade é atualmente experimental e pode sofrer alterações, não é recomendada para produção.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Rendering Strategies](https://nextjs.org/learn/seo/rendering-strategies)
-- [@official@Partial Prerendering](https://nextjs.org/docs/app/getting-started/partial-prerendering)
-- [@official@Rendering User Interfaces (UI)](https://nextjs.org/learn/react-foundations/rendering-ui)
+- [@official@Estratégias de Renderizado](https://nextjs.org/learn/seo/rendering-strategies)
+- [@official@Pre-renderização Parcial](https://nextjs.org/docs/app/getting-started/partial-prerendering)
+- [@official@Renderizando Interfaces do Usuário (UI)](https://nextjs.org/learn/react-foundations/rendering-ui)

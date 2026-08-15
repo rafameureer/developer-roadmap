@@ -4,7 +4,7 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 
 ---
 
-> ⚠️ **Total de itens sinalizados:** 1271
+> ⚠️ **Total de itens sinalizados:** 1273
 
 | Arquivo / Tópico | Motivo da Sinalização | Data/Hora |
 |---|---|---|
@@ -1279,3 +1279,5 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 | `roadmaps/network-engineer/content/wireshark@Ly43qxaO0RsKSy-_VuIBx.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T10:17:10.030456 |
 | `roadmaps/network-engineer/content/wlan@D_zZAYVkxB_SLTCuhqkZY.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T10:17:14.050381 |
 | `roadmaps/network-engineer/content/zigbee--z-wave@29J7P_SMDppcBiJJ-WGOr.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T10:17:41.175916 |
+| `roadmaps/nextjs/content/introduction@tcDL4OEbZplbjNa8VTLpv.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T10:20:01.901444 |
+| `roadmaps/nextjs/content/javascript-basics@DlUQkDRPUcjC3pO4P5zCQ.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T10:20:06.599390 |

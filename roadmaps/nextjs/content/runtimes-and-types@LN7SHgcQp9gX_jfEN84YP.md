@@ -1,10 +1,10 @@
-# Runtimes and Types
+# Runtimes e Tipos
 
-In the context of Next.js, runtime refers to the set of libraries, APIs, and general functionality available to your code during execution. On the server, there are two runtimes where parts of your application code can be rendered:
+No contexto do Next.js, o runtime refere-se ao conjunto de bibliotecas, APIs e funcionalidades gerais disponíveis para seu código durante a execução. No servidor, há dois runtimes onde partes do seu código da aplicação podem ser renderizados:
 
-* The Node.js Runtime (default), which has access to all Node.js APIs and is used for rendering your application.
-* The Edge Runtime which contains a more limited set of APIs, used in Middleware.
+* O Runtime Node.js (padrão), que tem acesso a todas as APIs do Node.js e é usado para renderizar sua aplicação.
+* O Edge Runtime, que contém um conjunto mais limitado de APIs, usado em Middleware.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@https://nextjs.org/docs/app/api-reference/edge](https://nextjs.org/docs/app/api-reference/edge)
+- [@oficial@https://nextjs.org/docs/app/api-reference/edge](https://nextjs.org/docs/app/api-reference/edge)

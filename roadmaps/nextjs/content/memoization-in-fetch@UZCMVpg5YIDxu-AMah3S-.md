@@ -1,10 +1,10 @@
-# Memoization in Fetch
+# Memoização em Fetch
 
-Memoization is an optimization technique that speeds up subsequent function calls by caching the results of previous calls with the same input parameters. This approach allows for re-use of data in a React Component tree, prevents redundant network calls and enhances performance
-For the initial request, data is fetched from an external source and the result is stored in memory
-Subsequent requests for the same data within the same render pass retrieve the result from memory, bypassing the need to make the request again.
+Memoização é uma técnica de otimização que acelera chamadas subsequentes de função armazenando os resultados das chamadas anteriores com os mesmos parâmetros de entrada. Esse abordagem permite o reuso de dados em uma árvore de componentes React, previne chamadas de rede redundantes e melhora o desempenho.
+Para a primeira solicitação, os dados são recuperados de uma fonte externa e o resultado é armazenado na memória
+Solicitações subsequentes para os mesmos dados dentro da mesma passagem de renderização recuperam o resultado da memória, evitando a necessidade de fazer a solicitação novamente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Request Memoization](https://nextjs.org/docs/app/guides/caching#request-memoization)
-- [@video@Next.js 14 Tutorial - vRequest Memoization](https://www.youtube.com/watch?v=tcLe3Xi0fJE)
+- [@oficial@Memoização de Solicitação](https://nextjs.org/docs/app/guides/caching#request-memoization)
+- [@vídeo@Tutorial do Next.js 14 - vRequest Memoization](https://www.youtube.com/watch?v=tcLe3Xi0fJE)

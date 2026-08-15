@@ -1,7 +1,7 @@
-# Setting Things Up
+# Configurando Coisas
 
-Next.js allows you to customize your project to meet specific requirements. This includes integrations with TypeScript, ESlint, and more, as well as internal configuration options such as Absolute Imports and Environment Variables.
+O Next.js permite que você personalize seu projeto para atender a requisitos específicos. Isso inclui integrações com TypeScript, ESlint e mais, bem como opções de configuração internas como Imports Absolutos e Variáveis de Ambiente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Configuration](https://nextjs.org/docs/app/api-reference/config)
+- [@official@Configuração](https://nextjs.org/docs/app/api-reference/config)

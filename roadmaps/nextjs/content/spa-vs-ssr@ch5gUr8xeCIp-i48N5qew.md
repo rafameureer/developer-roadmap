@@ -1,9 +1,9 @@
 # SPA vs SSR
 
-Single-Page Applications (SPAs) load a single HTML page and dynamically update the content using JavaScript, providing a fluid user experience without full page reloads. Server-Side Rendering (SSR), on the other hand, generates the HTML on the server for each request, sending a fully rendered page to the client. Next.js allows you to choose between these approaches or even combine them, offering flexibility in optimizing for performance, SEO, and user experience.
+Aplicações de Página Única (SPAs) carregam uma única página HTML e atualizam dinamicamente o conteúdo usando JavaScript, fornecendo uma experiência do usuário fluida sem recarregamentos completos da página. Renderização do Lado Servidor (SSR), por outro lado, gera a página HTML no servidor para cada solicitação, enviando uma página totalmente renderizada ao cliente. O Next.js permite que você escolha entre essas abordagens ou até mesmo as combine, oferecendo flexibilidade na otimização para desempenho, SEO e experiência do usuário.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@How to build single-page applications with Next.js](https://nextjs.org/docs/app/guides/single-page-applications)
-- [@official@Server-side Rendering (SSR)](https://nextjs.org/docs/pages/building-your-application/rendering/server-side-rendering)
+- [@official@Como construir aplicações de página única com o Next.js](https://nextjs.org/docs/app/guides/single-page-applications)
+- [@official@Renderização do Lado Servidor (SSR)](https://nextjs.org/docs/pages/building-your-application/rendering/server-side-rendering)
 - [@article@https://dev.to/santhanam87/ssr-vs-spa-showdown-choosing-the-right-rendering-approach-for-your-web-app-4439](https://dev.to/santhanam87/ssr-vs-spa-showdown-choosing-the-right-rendering-approach-for-your-web-app-4439)

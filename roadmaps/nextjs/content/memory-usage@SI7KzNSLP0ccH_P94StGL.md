@@ -1,7 +1,7 @@
-# Memory Usage
+# Uso de Memória
 
-As applications grow and become more feature rich, they can demand more resources when developing locally or creating production builds. Next.js provides several strategies and techniques to optimize memory and address common memory issues in Next.js.
+Quanto mais crescem as aplicações e se tornam mais ricas em recursos, podem exigir mais recursos ao desenvolver localmente ou criar builds de produção. O Next.js oferece várias estratégias e técnicas para otimizar a memória e abordar problemas comuns de memória no Next.js.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@How to optimize memory usage](https://nextjs.org/docs/app/guides/memory-usage)
+- [@oficial@Como otimizar o uso de memória](https://nextjs.org/docs/app/guides/memory-usage)

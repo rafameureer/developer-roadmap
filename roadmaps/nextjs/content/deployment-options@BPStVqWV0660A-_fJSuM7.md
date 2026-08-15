@@ -1,12 +1,12 @@
-# Deployment Options
+# Opções de Implantação
 
-Next.js can be deployed in multiple ways, including as a :
+Next.js pode ser implantado de várias maneiras, incluindo como um:
 
-* Node.js server, 
-* Docker container, 
-* static export,
-* adapted to run on different platforms.
+* Servidor Node.js,
+* Contêiner Docker,
+* Exportação estática,
+* Adaptado para funcionar em diferentes plataformas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Deploying in Next.js](https://nextjs.org/docs/app/getting-started/deploying)
+- [@oficial@Implantando no Next.js](https://nextjs.org/docs/app/getting-started/deploying)

@@ -1,8 +1,8 @@
 # create-next-app
 
-The create-next-app CLI allow you to create a new Next.js application using the default template or an example from a public GitHub repository. It is the easiest way to get started with Next.js.
+O CLI create-next-app permite que você crie uma nova aplicação Next.js usando o modelo padrão ou um exemplo de um repositório público do GitHub. É a maneira mais fácil de começar com o Next.js.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@create-next-app](https://nextjs.org/docs/app/api-reference/cli/create-next-app)
 - [@video@Create Next App | Create Next Js Project](https://www.youtube.com/watch?v=o1cRvsrHbfo)

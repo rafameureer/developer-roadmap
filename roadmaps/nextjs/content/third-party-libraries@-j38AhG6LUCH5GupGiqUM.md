@@ -1,7 +1,7 @@
-# Third Party Libraries
+# Bibliotecas de Terceiros
 
-`@next/third-parties` is a library that provides a collection of components and utilities that improve the performance and developer experience of loading popular third-party libraries, like Google Tag Manager and Google Analytics,  in your Next.js application. All third-party integrations provided by `@next/third-parties` have been optimized for performance and ease of use.
+`@next/third-parties` é uma biblioteca que fornece uma coleção de componentes e utilitários que melhoram o desempenho e a experiência do desenvolvedor ao carregar popular bibliotecas de terceiros, como Google Tag Manager e Google Analytics, em sua aplicação Next.js. Todas as integrações de bibliotecas de terceiros fornecidas por `@next/third-parties` foram otimizadas para desempenho e facilidade de uso.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@How to optimize third-party libraries](https://nextjs.org/docs/app/guides/third-party-libraries)
+- [@official@Como otimizar bibliotecas de terceiros](https://nextjs.org/docs/app/guides/third-party-libraries)

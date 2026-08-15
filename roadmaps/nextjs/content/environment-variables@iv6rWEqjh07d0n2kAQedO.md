@@ -1,9 +1,9 @@
-# Environment Variables
+# Variáveis de Ambiente
 
-Environment variables are dynamic values that can affect the behavior of programs on a computer. They are typically used to store configuration settings, API keys, and other sensitive information that should not be hardcoded directly into the application's source code. This allows you to easily change the application's behavior without modifying the code itself, making it more flexible and secure across different environments like development, testing, and production.
+As variáveis de ambiente são valores dinâmicos que podem afetar o comportamento dos programas em um computador. Eles são geralmente usados para armazenar configurações de configuração, chaves de API e outras informações sensíveis que não devem ser codificadas diretamente no código-fonte da aplicação. Isso permite que você altere facilmente o comportamento da aplicação sem modificar o próprio código, tornando-a mais flexível e segura em diferentes ambientes como desenvolvimento, teste e produção.
 
-Next.js comes with built-in support for environment variables, which allows you to use `.env` to load environment variables, and bundle environment variables for the browser by prefixing with` NEXT_PUBLIC_`
+O Next.js vem com suporte interno para variáveis de ambiente, permitindo que você use `.env` para carregar variáveis de ambiente e empacote variáveis de ambiente para o navegador prefixando com `NEXT_PUBLIC_`
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@How to use environment variables in Next.js](https://nextjs.org/docs/app/guides/environment-variables)
+- [@oficial@Como usar variáveis de ambiente no Next.js](https://nextjs.org/docs/app/guides/environment-variables)

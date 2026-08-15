@@ -1,12 +1,12 @@
-# Loading and Streaming
+# Carregamento e Streaming
 
-The special file `loading.js` helps you create meaningful Loading UI with React Suspense. With this convention, you can show an instant loading state from the server while the content of a route segment loads. The new content is automatically swapped in once rendering is complete.
+O arquivo especial `loading.js` ajuda você a criar UI de carregamento significativa com React Suspense. Com essa convenção, você pode mostrar um estado de carregamento instantâneo do servidor enquanto o conteúdo de uma segmento de rota é carregado. O novo conteúdo é automaticamente substituído assim que a renderização for concluída.
 
-In addition to `loading.js`, you can also manually create Suspense Boundaries for your own UI components. The App Router supports streaming with Suspense for both Node.js and Edge runtimes.
+Além de `loading.js`, você também pode criar manualmente limites de Suspense para seus próprios componentes UI. O App Router suporta streaming com Suspense tanto para o tempo de execução Node.js quanto Edge.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Loading UI and Streaming](https://nextjs.org/docs/14/app/building-your-application/routing/loading-ui-and-streaming)
-- [@official@Instant Loading States](https://nextjs.org/docs/14/app/building-your-application/routing/loading-ui-and-streaming#instant-loading-states)
-- [@official@Suspense](https://react.dev/reference/react/Suspense)
-- [@article@Next.js 15 Tutorial - Loading UI](https://www.youtube.com/watch?v=0OVg4ikUaz0)
+- [@oficial@UI de Carregamento e Streaming](https://nextjs.org/docs/14/app/building-your-application/routing/loading-ui-and-streaming)
+- [@oficial@Estados de carregamento instantâneos](https://nextjs.org/docs/14/app/building-your-application/routing/loading-ui-and-streaming#instant-loading-states)
+- [@oficial@Suspense](https://react.dev/reference/react/Suspense)
+- [@artigo@Tutorial do Next.js 15 - UI de Carregamento](https://www.youtube.com/watch?v=0OVg4ikUaz0)

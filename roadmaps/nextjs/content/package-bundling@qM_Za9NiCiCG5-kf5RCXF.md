@@ -1,7 +1,7 @@
-# Package Bundling
+# Empacotamento de Pacotes
 
-Bundling external packages can significantly improve the performance of your application. By default, packages imported inside Server Components and Route Handlers are automatically bundled by Next.js for enhanced optimization.
+O empacotamento de pacotes externos pode significativamente melhorar o desempenho do seu aplicativo. Por padrão, os pacotes importados dentro dos Componentes Servidor e Handlers de Rota são automaticamente empacotados pelo Next.js para uma otimização aprimorada.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@How to optimize package bundling](https://nextjs.org/docs/app/guides/package-bundling)
+- [@oficial@Como otimizar o empacotamento de pacotes](https://nextjs.org/docs/app/guides/package-bundling)

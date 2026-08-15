@@ -1,8 +1,8 @@
-# Intercepting Routes
+# Interceptar Rotas
 
-Intercepting routes allows you to load a route from another part of your application within the current layout. This routing paradigm can be useful when you want to display the content of a route without the user switching to a different context. For example, when clicking on a photo in a feed, you can display the photo in a modal, overlaying the feed.
+Interceptar rotas permite que você carregue uma rota de outra parte do seu aplicativo dentro do layout atual. Este paradigma de roteamento pode ser útil quando você deseja exibir o conteúdo de uma rota sem que o usuário mude para um contexto diferente. Por exemplo, ao clicar em uma foto em uma feed, você pode exibir a foto em um modal, sobrepondo o feed.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@official@Intercepting Routes](https://nextjs.org/docs/app/api-reference/file-conventions/intercepting-routes)
-- [@video@Next.js 15 Tutorial - Intercepting Routes](https://www.youtube.com/watch?v=FTiwIVxWC00)
+- [@official@Interceptando Rotas](https://nextjs.org/docs/app/api-reference/file-conventions/intercepting-routes)
+- [@video@Tutorial do Next.js 15 - Interceptar Rotas](https://www.youtube.com/watch?v=FTiwIVxWC00)

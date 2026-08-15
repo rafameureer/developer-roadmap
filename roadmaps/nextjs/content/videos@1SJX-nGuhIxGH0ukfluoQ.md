@@ -1,8 +1,8 @@
-# Videos in Next.js
+# Vídeos no Next.js
 
-Next.js provides various approaches and techniques to store and display video files without affecting performance. Videos can be embedded on the page using the HTML `<video>` tag for direct video files and `<iframe>` for external platform-hosted videos.
+O Next.js oferece várias abordagens e técnicas para armazenar e exibir arquivos de vídeo sem afetar o desempenho. Vídeos podem ser incorporados na página usando a tag HTML `<video>` para arquivos de vídeo diretamente e `<iframe>` para vídeos hospedados em plataformas externas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@How to use and optimize videos](https://nextjs.org/docs/app/guides/videos)
-- [@video@Add high-performance video to your Nextjs app](https://next-video.dev/docs)
+- [@oficial@Como usar e otimizar vídeos](https://nextjs.org/docs/app/guides/videos)
+- [@vídeo@Adicionar vídeo de alta performance ao seu aplicativo Next.js](https://next-video.dev/docs)

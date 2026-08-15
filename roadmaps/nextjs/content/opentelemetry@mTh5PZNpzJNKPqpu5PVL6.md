@@ -1,10 +1,10 @@
 # OpenTelemetry
 
-Observability is crucial for understanding and optimizing the behavior and performance of your Next.js app. With observability, developers can proactively address issues before they become major problems and provide a better user experience. 
+A observabilidade é crucial para entender e otimizar o comportamento e desempenho do seu aplicativo Next.js. Com a observabilidade, os desenvolvedores podem abordar problemas proativamente antes de se tornarem problemas maiores e fornecer uma melhor experiência do usuário.
 
-Next.js recommends using OpenTelemetry for instrumenting your apps. It's a platform-agnostic way to instrument apps that allows you to change your observability provider without changing your code. Next.js supports OpenTelemetry instrumentation out of the box, which means that we already instrumented Next.js itself.
+O Next.js recomenda usar o OpenTelemetry para instrumentar seus aplicativos. É uma maneira agnóstica à plataforma de instrumentar aplicativos que permite alterar seu provedor de observabilidade sem alterar o código. O Next.js suporta a instrumentação do OpenTelemetry por padrão, o que significa que já instrumentamos o próprio Next.js.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@How to set up instrumentation with OpenTelemetry](https://nextjs.org/docs/app/guides/open-telemetry)
-- [@official@OpenTelemetry Docs](https://opentelemetry.io/docs/)
+- [@oficial@Como configurar a instrumentação com o OpenTelemetry](https://nextjs.org/docs/app/guides/open-telemetry)
+- [@oficial@Documentação do OpenTelemetry](https://opentelemetry.io/docs/)

@@ -1,8 +1,8 @@
 # Cypress
 
-Next.js supports Cypress for End-to-End (E2E) and Component Testing. With Cypress, you can easily create tests for your modern web applications, debug them visually, and automatically run them in your continuous integration builds.
+O Next.js suporta o Cypress para Testes de Integração End-to-End (E2E) e Componentes. Com o Cypress, você pode facilmente criar testes para suas aplicações web modernas, depurá-los visualmente e executá-los automaticamente em seus builds de integração contínua.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@How to set up Cypress with Next.js](https://nextjs.org/docs/app/guides/testing/cypress)
+- [@official@Como configurar o Cypress com o Next.js](https://nextjs.org/docs/app/guides/testing/cypress)
 - [@official@Cypress](https://www.cypress.io/)

@@ -1,11 +1,11 @@
-# Metadata
+# Metadados
 
-The Metadata APIs can be used to define your application metadata for improved SEO and web shareability and include:
+As APIs de Metadados podem ser usadas para definir os metadados da sua aplicação para melhorar a SEO e a compartilhabilidade na web, incluindo:
 
-* The static `metadata` object
-* The dynamic `generateMetadata` function
-* Special file conventions that can be used to add static or dynamically generated favicons and OG images.
+* O objeto estático `metadata`
+* A função dinâmica `generateMetadata`
+* Convenções de arquivos especiais que podem ser usadas para adicionar ícones favoritos estáticos ou gerados dinamicamente e imagens OG.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Metadata and OG images](https://nextjs.org/docs/app/getting-started/metadata-and-og-images#static-open-graph-images)
+- [@oficial@Metadados e Imagens OG](https://nextjs.org/docs/app/getting-started/metadata-and-og-images#static-open-graph-images)

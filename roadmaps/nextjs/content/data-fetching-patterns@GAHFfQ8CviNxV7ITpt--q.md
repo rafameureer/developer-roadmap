@@ -1,12 +1,12 @@
-# Data Fetching Patterns in Next.js
+# Padrões de Recuperação de Dados em Next.js
 
-There are a few recommended patterns and best practices for fetching data in React and Next.js, including: 
-* Fetching data on the server.
-* Fetching data only where it's necessary.
-* Using React's streaming and Suspense features to progressively render and incrementally stream rendered units of the UI to the client.
-* Using parallel or sequential fetching depending on your particular use case.
-* Using preload data.
+Existem alguns padrões recomendados e práticas boas para recuperar dados em React e Next.js, incluindo:
+* Recuperar dados no servidor.
+* Recuperar dados apenas onde for necessário.
+* Usando as funcionalidades de streaming e Suspense do React para renderizar progressivamente e streaminar incrementalmente unidades da interface do usuário ao cliente.
+* Usando a recuperação em paralelo ou sequencial dependendo do caso de uso específico.
+* Usando dados pré-carregados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Patterns and Best Practices](https://nextjs.org/docs/14/app/building-your-application/data-fetching/patterns#fetching-data-on-the-server)
+- [@oficial@Padrões e Práticas](https://nextjs.org/docs/14/app/building-your-application/data-fetching/patterns#fetching-data-on-the-server)

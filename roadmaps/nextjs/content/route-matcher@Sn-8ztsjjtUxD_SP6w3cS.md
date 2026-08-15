@@ -1,8 +1,8 @@
-# Route Matcher
+# Matcher de Rota
 
-A route matcher in Next.js middleware allows you to conditionally execute middleware based on the incoming request's path. It defines specific patterns or conditions that the request path must satisfy for the middleware to run. This enables you to apply middleware logic only to certain routes or groups of routes within your application, providing fine-grained control over request handling.
+Um matcher de rota na middleware da Next.js permite que você execute condicionalmente a middleware com base no caminho da solicitação recebida. Ele define padrões específicos ou condições que o caminho da solicitação deve atender para que a middleware seja executada. Isso permite aplicar lógica de middleware apenas a certas rotas ou grupos de rotas em sua aplicação, fornecendo um controle granular sobre o tratamento das solicitações.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Matcher for App Router](https://nextjs.org/docs/app/api-reference/file-conventions/middleware#matcher)
-- [@official@Matcher for Pages Router](https://nextjs.org/docs/pages/api-reference/file-conventions/middleware#matcher)
+- [@oficial@Matcher para App Router](https://nextjs.org/docs/app/api-reference/file-conventions/middleware#matcher)
+- [@oficial@Matcher para Pages Router](https://nextjs.org/docs/pages/api-reference/file-conventions/middleware#matcher)

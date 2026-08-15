@@ -1,8 +1,8 @@
-# Redirects in Next.js API Endpoints
+# Redirecionamentos em Pontos Finais de API do Next.js
 
-Redirects in Next.js API endpoints allow you to send a user from one URL to another. This is useful for various scenarios, such as moving or renaming pages, handling temporary content changes, or guiding users to a different part of your application based on specific conditions. By sending an HTTP redirect response, the server instructs the client's browser to navigate to the new URL.
+Os redirecionamentos em pontos finais de API do Next.js permitem que você envie um usuário de uma URL para outra. Isso é útil em várias situações, como mover ou renomear páginas, lidar com alterações temporárias de conteúdo ou guiando os usuários para uma parte diferente do seu aplicativo com base em condições específicas. Ao enviar uma resposta de redirecionamento HTTP, o servidor instrui o navegador do cliente a navegar para a nova URL.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@How to handle redirects in Next.js for App Router](https://nextjs.org/docs/app/guides/redirecting)
-- [@official@redirectHow to handle redirects in Next.js for Pages Router](https://nextjs.org/docs/pages/guides/redirecting)
+- [@oficial@Como lidar com redirecionamentos no Next.js para App Router](https://nextjs.org/docs/app/guides/redirecting)
+- [@oficial@redirecionamentoComo lidar com redirecionamentos no Next.js para Pages Router](https://nextjs.org/docs/pages/guides/redirecting)

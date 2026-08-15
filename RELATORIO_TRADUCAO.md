@@ -1,11 +1,12 @@
 # 📊 Relatório de Progresso da Tradução Autônoma (PT-BR)
 
-**Última atualização:** 15/08/2026 10:17:41
+**Última atualização:** 15/08/2026 10:25:56
+**Modo:** ❄️ Modo Econômico / Resfriamento Ativo (Pausas térmicas entre lotes)
 
 ## 📈 Estatísticas Gerais
-- **Progresso Global:** `5168 / 10365` arquivos (`49.86%`)
-- **Roadmaps Concluídos:** `57 / 91`
-- **Itens Pendentes para Decisão Humana:** `1271` (veja [DECISOES_HUMANAS.md](./DECISOES_HUMANAS.md))
+- **Progresso Global:** `5262 / 10365` arquivos (`50.77%`)
+- **Roadmaps Concluídos:** `58 / 91`
+- **Itens Pendentes para Decisão Humana:** `1273` (veja [DECISOES_HUMANAS.md](./DECISOES_HUMANAS.md))
 
 ---
 
@@ -67,3 +68,4 @@
 - ✅ `mlops`
 - ✅ `mongodb`
 - ✅ `network-engineer`
+- ✅ `nextjs`

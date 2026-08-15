@@ -1,8 +1,8 @@
 # Jest
 
-Next.js allows you to use Jest for unit testing and snapshot testing. Jest is a JavaScript testing framework created by Facebook, designed for ensuring the correctness of JavaScript code, especially React applications. It provides a complete and easy-to-use solution for writing unit, integration, and end-to-end tests. Jest includes features like a test runner, assertion library, mocking capabilities, and code coverage reporting, making it a popular choice for developers looking to thoroughly test their code.
+O Next.js permite que você use o Jest para testes unitários e de snapshot. O Jest é um quadro de teste do JavaScript criado pela Facebook, projetado para garantir a correção do código JavaScript, especialmente aplicativos React. Ele oferece uma solução completa e fácil de usar para escrever testes unitários, de integração e de ponta a ponta. O Jest inclui recursos como um executador de testes, uma biblioteca de afirmações, capacidades de mock e relatórios de cobertura de código, tornando-o uma escolha popular para desenvolvedores que desejam testar seu código com profundidade.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@How to set up Jest with Next.js](https://nextjs.org/docs/app/guides/testing/jest)
-- [@official@Jest](https://jestjs.io/)
+- [@oficial@Como configurar o Jest com o Next.js](https://nextjs.org/docs/app/guides/testing/jest)
+- [@oficial@Jest](https://jestjs.io/)

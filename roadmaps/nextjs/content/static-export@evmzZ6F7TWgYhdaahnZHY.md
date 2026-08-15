@@ -1,9 +1,9 @@
-# Static Export
+# Exportação Estática
 
-Next.js enables starting as a static site or Single-Page Application (SPA), then later optionally upgrading to use features that require a server. Since Next.js supports static exports, it can be deployed and hosted on any web server that can serve HTML/CSS/JS static assets. This includes tools like AWS S3, Nginx, or Apache.
+O Next.js permite começar como um site estático ou Aplicativo de Página Única (SPA), e posteriormente, opcionalmente, atualizar para usar recursos que exigem um servidor. Como o Next.js suporta exportações estáticas, ele pode ser implantado e hospedado em qualquer servidor web que possa servir ativos HTML/CSS/JS estáticos. Isso inclui ferramentas como AWS S3, Nginx ou Apache.
 
-Running as a static export does not support Next.js features that require a server.
+A execução como exportação estática não suporta recursos do Next.js que exigem um servidor.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Static Export Deployment](https://nextjs.org/docs/app/getting-started/deploying#static-export)
+- [@oficial@Implantação de Exportação Estática](https://nextjs.org/docs/app/getting-started/deploying#static-export)

@@ -1,9 +1,9 @@
-# Caching Data
+# Cacheamento de Dados
 
-Caching data in Next.js involves storing the results of data fetches so that subsequent requests for the same data can be served faster. Instead of repeatedly fetching data from a database or API, Next.js can retrieve it from the cache. This improves performance and reduces the load on your data sources. Caching can be configured at different levels.
+O cacheamento de dados no Next.js envolve armazenar os resultados das chamadas de dados para que solicitações subsequentes para os mesmos dados possam ser servidas mais rapidamente. Em vez de repetir a obtenção de dados de um banco de dados ou API, o Next.js pode recuperá-los do cache. Isso melhora o desempenho e reduz a carga em suas fontes de dados. O cacheamento pode ser configurado em diferentes níveis.
 
-Caching behavior changes depending on whether the route is statically or dynamically rendered, data is cached or uncached, and whether a request is part of an initial visit or a subsequent navigation. Depending on your use case, you can configure the caching behavior for individual routes and data requests.
+O comportamento de cacheamento muda dependendo se a rota é renderizada estáticamente ou dinamicamente, se os dados são armazenados em cache ou não, e se uma solicitação faz parte de uma visita inicial ou uma navegação subsequente. Dependendo do seu caso de uso, você pode configurar o comportamento de cacheamento para rotas individuais e solicitações de dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Caching and Revalidating](https://nextjs.org/docs/app/getting-started/caching-and-revalidating)
+- [@oficial@Cacheamento e Revalidação](https://nextjs.org/docs/app/getting-started/caching-and-revalidating)

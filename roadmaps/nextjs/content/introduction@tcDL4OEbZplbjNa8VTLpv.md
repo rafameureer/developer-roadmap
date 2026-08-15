@@ -1,10 +1,10 @@
-# Introduction
+# Introdução
 
-Next.js is a React framework that enables functionalities like server-side rendering and static site generation for web applications. It provides a structure for organizing React components, handling routing, and optimizing performance. Next.js simplifies the process of building production-ready, full-stack web applications with React.
+O Next.js é um framework do React que habilita funcionalidades como renderização no lado do servidor e geração de sites estáticos para aplicativos web. Ele fornece uma estrutura para organizar componentes React, lidar com roteamento e otimizar o desempenho. O Next.js simplifica o processo de construir aplicativos web full-stack prontos para produção com React.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Next.js](https://nextjs.org/)
-- [@official@Next.js Docs](https://nextjs.org/docs)
-- [@official@Next.js Course](https://nextjs.org/learn)
-- [@opensource@Next.js](https://github.com/vercel/next.js)
+- [@oficial@Next.js](https://nextjs.org/)
+- [@oficial@Documentação do Next.js](https://nextjs.org/docs)
+- [@oficial@Curso do Next.js](https://nextjs.org/learn)
+- [@opensource@Repositório do Next.js](https://github.com/vercel/next.js)

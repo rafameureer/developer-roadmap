@@ -1,7 +1,7 @@
-# Static Assets
+# Ativos Estáticos
 
-Static content is any file that is stored in a server and is the same every time it is delivered to users. HTML files and images are examples of this kind of content. Next.js can serve static files under a folder called `public` in the root directory. Files inside `public` can then be referenced by your code starting from the base URL (`/`). It's important to note that Next.js cannot safely cache assets in the public folder because they may change.
+Conteúdo estático é qualquer arquivo armazenado em um servidor e que é o mesmo toda vez que é entregue aos usuários. Exemplos desse tipo de conteúdo incluem arquivos HTML e imagens. O Next.js pode servir arquivos estáticos sob uma pasta chamada `public` no diretório raiz. Os arquivos dentro de `public` podem então ser referenciados pelo seu código a partir da URL base (`/`). É importante notar que o Next.js não pode armazenar em cache seguramente os ativos na pasta public porque eles podem mudar.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@public Folder](https://nextjs.org/docs/app/api-reference/file-conventions/public-folder)
+- [@oficial@Pasta Public](https://nextjs.org/docs/app/api-reference/file-conventions/public-folder)

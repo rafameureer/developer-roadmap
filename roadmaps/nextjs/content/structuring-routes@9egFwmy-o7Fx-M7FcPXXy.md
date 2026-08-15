@@ -1,9 +1,9 @@
-# Structuring Routes
+# Estruturando Rotas
 
-Structuring routes in Next.js involves organizing your project's file system to define the different URLs (or routes) of your application. Each file within the `app` directory (or `pages` directory in older versions) corresponds to a specific route. The file's location and name directly determine the URL path that users will access. This file-system-based routing simplifies navigation and makes it easy to create a well-organized web application.
+Estruturar rotas no Next.js envolve organizar o sistema de arquivos do seu projeto para definir as diferentes URLs (ou rotas) da sua aplicação. Cada arquivo dentro do diretório `app` (ou diretório `pages` em versões mais antigas) corresponde a uma rota específica. A localização e nome do arquivo determinam diretamente o caminho da URL que os usuários acessarão. Esta roteamento baseado no sistema de arquivos simplifica a navegação e torna fácil criar uma aplicação web bem organizada.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Project structure and organization for App Router](https://nextjs.org/docs/app/getting-started/project-structure)
-- [@official@Project Structure and Organization for Pages Router](https://nextjs.org/docs/pages/getting-started/project-structure)
-- [@video@Next.js 15 Tutorial - Project Structure](https://www.youtube.com/watch?v=L0g87N0piT0)
+- [@official@Estrutura do Projeto e Organização para o App Router](https://nextjs.org/docs/app/getting-started/project-structure)
+- [@official@Estrutura do Projeto e Organização para o Pages Router](https://nextjs.org/docs/pages/getting-started/project-structure)
+- [@video@Tutorial do Next.js 15 - Estrutura do Projeto](https://www.youtube.com/watch?v=L0g87N0piT0)

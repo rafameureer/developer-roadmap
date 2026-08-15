@@ -1,8 +1,8 @@
-# Server-Side Rendering (SSR)
+# Renderização do Lado do Servidor (SSR)
 
-Server-Side Rendering (SSR) is a technique where a web application's HTML is generated on the server in response to each user request. The server then sends the fully rendered HTML to the client's browser, which displays it. This differs from client-side rendering, where the browser downloads a minimal HTML page and then uses JavaScript to render the content.
+A renderização do lado do servidor (SSR) é uma técnica onde a aplicação web HTML é gerada no servidor em resposta a cada solicitação de usuário. O servidor, em seguida, envia o HTML totalmente renderizado para o navegador do cliente, que o exibe. Isso difere da renderização do lado do cliente, onde o navegador baixa uma página HTML mínima e depois usa JavaScript para renderizar o conteúdo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Server-side Rendering (SSR)](https://nextjs.org/docs/pages/building-your-application/rendering/server-side-rendering)
-- [@article@What is Server-Side Rendering: Definition, Benefits and Risks](https://solutionshub.epam.com/blog/post/what-is-server-side-rendering)
+- [@oficial@Renderização do Lado do Servidor (SSR)](https://nextjs.org/docs/pages/building-your-application/rendering/server-side-rendering)
+- [@artigo@O que é a Renderização do Lado do Servidor: Definição, Benefícios e Riscos](https://solutionshub.epam.com/blog/post/what-is-server-side-rendering)

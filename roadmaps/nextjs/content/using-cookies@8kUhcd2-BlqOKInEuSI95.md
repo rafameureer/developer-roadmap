@@ -1,8 +1,8 @@
-# Using Cookies in Next.js Middleware
+# Usando Cookies no Middleware do Next.js
 
-Cookies are small pieces of data that websites store on a user's computer to remember information about them, such as login details, preferences, or shopping cart items. In Next.js middleware, you can access and modify these cookies before a request is handled by your application's routes, allowing you to implement features like authentication, personalization, and A/B testing based on cookie values. This provides a powerful way to control the user experience at the edge.
+Os cookies são pequenos pedaços de dados que os sites armazenam em um computador do usuário para lembrar informações sobre eles, como detalhes de login, preferências ou itens do carrinho de compras. No middleware do Next.js, você pode acessar e modificar esses cookies antes de uma solicitação ser manipulada por rotas da aplicação, permitindo que você implemente recursos como autenticação, personalização e testes A/B com base nos valores dos cookies. Isso fornece uma maneira poderosa de controlar a experiência do usuário na borda.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Using Cookies for App Router](https://nextjs.org/docs/app/api-reference/file-conventions/middleware#using-cookies)
-- [@official@Using Cookies for Pages Router](https://nextjs.org/docs/pages/api-reference/file-conventions/middleware#using-cookies)
+- [@oficial@Usando Cookies para App Router](https://nextjs.org/docs/app/api-reference/file-conventions/middleware#using-cookies)
+- [@oficial@Usando Cookies para Pages Router](https://nextjs.org/docs/pages/api-reference/file-conventions/middleware#using-cookies)

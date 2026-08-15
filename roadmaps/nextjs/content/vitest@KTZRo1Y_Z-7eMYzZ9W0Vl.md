@@ -1,8 +1,8 @@
 # Vitest
 
-Next.js allows you to use Vitest for unit testing. Vitest is a fast unit test framework powered by Vite. It offers a development experience similar to Vite, making it easy to set up and use in projects that already use Vite for building. Vitest focuses on speed and simplicity, providing features like instant hot module replacement (HMR) and built-in support for TypeScript and JSX.
+O Next.js permite que você use o Vitest para testes unitários. O Vitest é um framework de teste unitário rápido baseado em Vite. Ele oferece uma experiência de desenvolvimento semelhante ao de Vite, tornando-o fácil de configurar e usar em projetos que já usam Vite para construção. O Vitest se concentra na velocidade e simplicidade, fornecendo recursos como substituição instantânea de módulos (HMR) e suporte integrado a TypeScript e JSX.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@How to set up Vitest with Next.js](https://nextjs.org/docs/app/guides/testing/vitest)
-- [@official@Vitest](https://vitest.dev/)
+- [@oficial@Como configurar o Vitest com o Next.js](https://nextjs.org/docs/app/guides/testing/vitest)
+- [@oficial@Vitest](https://vitest.dev/)

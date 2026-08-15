@@ -1,9 +1,9 @@
-# Markdown and MDX
+# Markdown e MDX
 
-Markdown is a lightweight markup language used to format text. It allows you to write using plain text syntax and convert it to structurally valid HTML. It's commonly used for writing content on websites and blogs. MDX is a superset of markdown that lets you write JSX directly in your markdown files. It is a powerful way to add dynamic interactivity and embed React components within your content.
+Markdown é um linguagem de marcação leve usada para formatar texto. Ele permite que você escreva usando a sintaxe de texto plano e o converta em HTML estruturalmente válido. É comumente usado para escrever conteúdo em sites e blogs. MDX é um superconjunto do markdown que permite escrever JSX diretamente em seus arquivos markdown. É uma maneira poderosa de adicionar interatividade dinâmica e incorporar componentes React dentro do seu conteúdo.
 
-Next.js can support both local MDX content inside your application, as well as remote MDX files fetched dynamically on the server. The Next.js plugin handles transforming markdown and React components into HTML, including support for usage in Server Components (the default in App Router).
+O Next.js pode suportar tanto o conteúdo MDX local dentro da sua aplicação quanto os arquivos MDX remotos recuperados dinamicamente no servidor. O plugin do Next.js lida com a transformação de markdown e componentes React em HTML, incluindo suporte para uso em Componentes Servidor (o padrão no App Router).
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@How to use markdown and MDX in Next.js](https://nextjs.org/docs/app/guides/mdx)
+- [@oficial@Como usar markdown e MDX no Next.js](https://nextjs.org/docs/app/guides/mdx)

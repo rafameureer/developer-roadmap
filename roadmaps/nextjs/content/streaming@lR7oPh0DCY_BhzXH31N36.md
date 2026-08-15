@@ -1,9 +1,9 @@
-# Streaming in Next.js API Endpoints
+# Streaming em Endpoints de API do Next.js
 
-Streaming in Next.js API endpoints allows you to send data to the client in chunks, rather than waiting for the entire response to be generated on the server before sending anything. This can significantly improve perceived performance, especially for long-running processes or when dealing with large datasets. By sending data incrementally, the client can start processing and displaying information sooner, leading to a more responsive user experience.
+O streaming em endpoints de API do Next.js permite que você envie dados ao cliente em partes, em vez de esperar por toda a resposta ser gerada no servidor antes de enviar qualquer coisa. Isso pode significativamente melhorar o desempenho percebido, especialmente para processos de longa duração ou quando lidando com grandes conjuntos de dados. Ao enviar dados incrementalmente, o cliente pode começar a processar e exibir informações mais cedo, levando a uma experiência do usuário mais respondente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Streaming](https://nextjs.org/docs/app/api-reference/file-conventions/route#streaming)
-- [@official@Streaming responses](https://nextjs.org/docs/pages/building-your-application/routing/api-routes#streaming-responses)
-- [@video@Next.js 15 Tutorial - Streaming](https://www.youtube.com/watch?v=oSf1gUDGJOA)
+- [@official@Respostas de Streaming](https://nextjs.org/docs/pages/building-your-application/routing/api-routes#streaming-responses)
+- [@video@Tutorial do Next.js 15 - Streaming](https://www.youtube.com/watch?v=oSf1gUDGJOA)

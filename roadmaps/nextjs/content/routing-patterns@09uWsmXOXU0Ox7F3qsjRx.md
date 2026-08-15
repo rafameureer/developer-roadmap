@@ -1,12 +1,12 @@
-# Routing Patterns
+# Modelos de Roteamento
 
-The App Router provides a set of conventions to help you implement more advanced routing patterns. These include:
+O App Router oferece um conjunto de convenções para ajudar você a implementar padrões de roteamento mais avançados. Esses incluem:
 
-* Parallel Routes: Allow you to simultaneously show two or more pages in the same view that can be navigated independently.
-* Intercepting Routes: Allow you to intercept a route and show it in the context of another route. 
+* Rotas Paralelas: Permite que você exiba simultaneamente duas ou mais páginas na mesma visualização que podem ser navegadas independentemente.
+* Rotas Interceptoras: Permite interceptar uma rota e mostrá-la no contexto de outra rota.
 
-These patterns allow you to build richer and more complex UIs, democratizing features that were historically complex for small teams and individual developers to implement.
+Esses padrões permitem que você construa UIs mais ricas e complexas, democratizando recursos que historicamente eram complexos para pequenas equipes e desenvolvedores individuais implementarem.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Advanced Routing Patterns](https://nextjs.org/docs/13/app/building-your-application/routing#advanced-routing-patterns)
+- [@oficial@Modelos de Roteamento Avançados](https://nextjs.org/docs/13/app/building-your-application/routing#advanced-routing-patterns)

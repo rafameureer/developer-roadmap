@@ -1,9 +1,9 @@
 # ESLint
 
-ESLint is an open-source static code analysis tool for JavaScript that identifies problematic patterns and style issues in your code, helping to enforce coding standards and prevent bugs before they occur
+O ESLint é uma ferramenta de análise estática de código aberta para JavaScript que identifica padrões problemáticos e problemas de estilo em seu código, ajudando a impor padrões de codificação e prevenir bugs antes de ocorrer.
 
-Next.js provides an ESLint plugin, `eslint-plugin-next`, already bundled within the base configuration that makes it possible to catch common issues and problems in a Next.js application.
+O Next.js fornece um plugin do ESLint chamado `eslint-plugin-next`, já embutido na configuração base, o que torna possível capturar problemas comuns e problemas em uma aplicação Next.js.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@ESLint Plugin](https://nextjs.org/docs/app/api-reference/config/eslint)
+- [@official@Plugin do ESLint](https://nextjs.org/docs/app/api-reference/config/eslint)

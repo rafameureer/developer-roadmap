@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
 Autonomous Translation Loop Engine for developer-roadmap (PT-BR)
+[MODO ECONÔMICO / RESFRIAMENTO ATIVO]
 Strictly isolated to /home/rafaelmeurer/workspaces/developer-roadmap
 """
 
@@ -16,7 +17,7 @@ import urllib.error
 import subprocess
 from datetime import datetime
 
-# Prevent SIGHUP from killing the process when terminal closes
+# Prevent SIGHUP from killing the process
 signal.signal(signal.SIGHUP, signal.SIG_IGN)
 
 WORKSPACE_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -29,6 +30,10 @@ HUMAN_DECISIONS_FILE = os.path.join(WORKSPACE_DIR, "DECISOES_HUMANAS.md")
 OLLAMA_URL = "http://localhost:11434/api/generate"
 OLLAMA_MODEL = "qwen2.5-coder:7b"
 BATCH_SIZE = 3
+
+# Pausas para resfriamento térmico da CPU/GPU
+COOLING_PAUSE_BATCH = 4.0     # 4 segundos de pausa a cada 3 arquivos traduzidos
+COOLING_PAUSE_ROADMAP = 8.0   # 8 segundos de pausa após concluir cada roadmap
 
 ISSUE_MAPPINGS = {
     1: ["frontend-beginner", "backend-beginner", "devops-beginner", "git-github-beginner"],
@@ -121,6 +126,7 @@ def update_progress_report(state, total_files_count):
     content = f"""# 📊 Relatório de Progresso da Tradução Autônoma (PT-BR)
 
 **Última atualização:** {datetime.now().strftime("%d/%m/%Y %H:%M:%S")}
+**Modo:** ❄️ Modo Econômico / Resfriamento Ativo (Pausas térmicas entre lotes)
 
 ## 📈 Estatísticas Gerais
 - **Progresso Global:** `{completed_count} / {total_files_count}` arquivos (`{percent:.2f}%`)
@@ -147,7 +153,8 @@ def query_ollama(prompt, retries=3, backoff=3):
                 "stream": False,
                 "options": {
                     "temperature": 0.2,
-                    "num_ctx": 4096
+                    "num_ctx": 4096,
+                    "num_thread": 4
                 }
             }
             req = urllib.request.Request(
@@ -258,7 +265,7 @@ def run_loop():
     while True:
         try:
             log("==================================================")
-            log("🚀 Autonomous Translation Loop Running...")
+            log("❄️ Autonomous Translation Loop Running [MODO ECONÔMICO / RESFRIAMENTO]...")
             log("==================================================")
 
             state = load_state()
@@ -350,6 +357,9 @@ def run_loop():
                     update_progress_report(state, total_files)
                     update_human_decisions_file(state["flagged_issues"])
 
+                    # ❄️ Pausa para descanso e resfriamento térmico da CPU/GPU
+                    time.sleep(COOLING_PAUSE_BATCH)
+
                 state["completed_roadmaps"].append(roadmap)
                 save_state(state)
                 update_progress_report(state, total_files)
@@ -358,6 +368,9 @@ def run_loop():
                 sync_github_issue_for_roadmap(roadmap)
                 log(f"✅ Roadmap '{roadmap}' completed ({roadmap_success_count} topics translated).")
                 completed_this_cycle += 1
+
+                # ❄️ Pausa extra de resfriamento entre roadmaps
+                time.sleep(COOLING_PAUSE_ROADMAP)
 
             if completed_this_cycle == 0:
                 log("🎉 All 91 roadmaps are translated! Sleeping for 10 minutes before next check.")

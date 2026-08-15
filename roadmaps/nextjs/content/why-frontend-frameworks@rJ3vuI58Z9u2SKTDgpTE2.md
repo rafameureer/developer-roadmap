@@ -1,10 +1,10 @@
-# Why Frontend Frameworks?
+# Por que usar frameworks frontend?
 
-Building modern web applications often involves managing complex user interfaces, handling data efficiently, and ensuring a smooth user experience. Frontend frameworks like React, Angular, and Next.js provide a structured approach to these challenges. They offer pre-built components, routing solutions, state management tools, and optimized build processes, allowing developers to focus on building features rather than reinventing the wheel. This leads to faster development cycles, more maintainable code, and ultimately, better web applications.
+A construção de aplicativos web modernos muitas vezes envolve gerenciar interfaces de usuário complexas, lidar eficientemente com dados e garantir uma experiência de usuário suave. Os frameworks frontend como React, Angular e Next.js oferecem uma abordagem estruturada a esses desafios. Eles oferecem componentes pré-construídos, soluções de roteamento, ferramentas de gerenciamento de estado e processos de construção otimizados, permitindo que os desenvolvedores se concentrem em construir recursos em vez de reinventar a roda. Isso resulta em ciclos de desenvolvimento mais rápidos, código mais mantémável e, finalmente, aplicativos web melhores.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Web3 Frontend – Everything You Need to Learn About Building Dapp Frontends](https://moralis.io/web3-frontend-everything-you-need-to-learn-about-building-dapp-frontends/)
-- [@video@What is the difference between a framework and a library?](https://www.youtube.com/watch?v=D_MO9vIRBcA)
-- [@video@Which JS Framework is best?](https://www.youtube.com/watch?v=cuHDQhDhvPE)
-- [@feed@Explore top posts about Frontend Development](https://app.daily.dev/tags/frontend?ref=roadmapsh)
+- [@artigo@Web3 Frontend – Tudo o que você precisa aprender sobre a construção de frontends de Dapps](https://moralis.io/web3-frontend-everything-you-need-to-learn-about-building-dapp-frontends/)
+- [@vídeo@O que é a diferença entre um framework e uma biblioteca?](https://www.youtube.com/watch?v=D_MO9vIRBcA)
+- [@vídeo@Qual é o melhor framework JS?](https://www.youtube.com/watch?v=cuHDQhDhvPE)
+- [@feed@Explore os melhores posts sobre Desenvolvimento Frontend](https://app.daily.dev/tags/frontend?ref=roadmapsh)

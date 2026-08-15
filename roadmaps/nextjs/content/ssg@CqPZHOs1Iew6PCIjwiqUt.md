@@ -1,7 +1,7 @@
-# Static Site Generation (SSG)
+# Geração de Site Estático (SSG)
 
-Static Site Generation (SSG) is a rendering method that generates HTML pages at build time. This means that when a user requests a page, the server sends a pre-rendered HTML file, rather than dynamically generating it on each request. This approach leads to faster load times and improved SEO, as search engines can easily crawl and index the static content.
+Geração de Site Estático (SSG) é um método de renderização que gera páginas HTML no momento da construção. Isso significa que quando um usuário solicita uma página, o servidor envia um arquivo HTML pré-renderizado, em vez de gerá-lo dinamicamente em cada solicitação. Esse método resulta em tempos de carregamento mais rápidos e melhor SEO, pois os motores de busca podem facilmente raspar e indexar o conteúdo estático.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Static Site Generation (SSG)](https://nextjs.org/docs/pages/building-your-application/rendering/static-site-generation)
+- [@official@Geração de Site Estático (SSG)](https://nextjs.org/docs/pages/building-your-application/rendering/static-site-generation)

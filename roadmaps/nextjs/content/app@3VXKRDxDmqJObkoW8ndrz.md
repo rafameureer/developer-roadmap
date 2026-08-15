@@ -1,8 +1,8 @@
-# App Router
+# Roteador de Aplicativo
 
-The App Router is a file-system based router that uses React's latest features, such as [Server Components](https://react.dev/reference/rsc/server-components), [Suspense](https://react.dev/reference/react/Suspense), and [Server Functions](https://react.dev/reference/rsc/server-functions)
+O Roteador de Aplicativo é um roteador baseado em sistema de arquivos que usa as últimas funcionalidades do React, como [Componentes do Servidor](https://react.dev/reference/rsc/server-components), [Suspense](https://react.dev/reference/react/Suspense) e [Funções do Servidor](https://react.dev/reference/rsc/server-functions)
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@App Router Tutorial](https://nextjs.org/learn/dashboard-app)
-- [@video@Next js Tutorial for Beginners | Nextjs 13 (App Router) with TypeScript](https://www.youtube.com/watch?v=ZVnjOPwW4ZA)
+- [@oficial@Tutorial de Roteador de Aplicativo](https://nextjs.org/learn/dashboard-app)
+- [@vídeo@Tutorial do Next.js para Iniciantes | Nextjs 13 (Roteador de Aplicativo) com TypeScript](https://www.youtube.com/watch?v=ZVnjOPwW4ZA)

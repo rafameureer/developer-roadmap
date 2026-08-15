@@ -1,11 +1,11 @@
-# Sass in Next.js
+# Sass em Next.js
 
-Sass (Syntactically Awesome Style Sheets) is a CSS preprocessor that extends the capabilities of standard CSS. It allows you to use features like variables, nesting, mixins, and functions to write more organized, maintainable, and efficient stylesheets. These features are then compiled into standard CSS that browsers can understand.
+Sass (Syntactically Awesome Style Sheets) é um pré-processador CSS que estende as capacidades do CSS padrão. Ele permite que você use recursos como variáveis, aninhamento, mixins e funções para escrever folhas de estilo mais organizadas, manter e eficientes. Essas funcionalidades são então compiladas em CSS padrão que os navegadores podem entender.
 
-Next.js has built-in support for integrating with Sass after the package is installed using both the `.scss` and `.sass` extensions. You can use component-level Sass via CSS Modules and the `.module.scss` or `.module.sass` extension.
+O Next.js tem suporte integrado para a integração com Sass após a instalação do pacote usando tanto as extensões `.scss` quanto `.sass`. Você pode usar o Sass de nível de componente via CSS Modules e as extensões `.module.scss` ou `.module.sass`.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Sass](https://sass-lang.com/)
 - [@opensource@Sass](https://github.com/sass/sass)
-- [@article@How to use Sass in Next.js](https://nextjs.org/docs/app/guides/sass)
+- [@article@Como usar Sass em Next.js](https://nextjs.org/docs/app/guides/sass)

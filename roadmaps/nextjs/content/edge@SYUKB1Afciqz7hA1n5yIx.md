@@ -1,8 +1,8 @@
-# Edge Runtime
+# Ambiente de Execução Edge
 
-The Edge Runtime is a lightweight JavaScript runtime environment based on V8, designed to execute code closer to the user. It allows you to run server-side logic, like API routes and middleware, on a globally distributed network of servers. This proximity reduces latency and improves the overall performance of your application by minimizing the distance data needs to travel.
+O Ambiente de Execução Edge é um ambiente de tempo de execução JavaScript leve baseado em V8, projetado para executar código mais próximo do usuário. Ele permite que você execute lógica do lado do servidor, como rotas de API e middleware, em uma rede globalmente distribuída de servidores. Esta proximidade reduz a latência e melhora o desempenho geral da sua aplicação minimizando a distância que os dados precisam viajar.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@What is Edge Runtime?](https://edge-runtime.vercel.app/)
-- [@official@Edge Runtime](https://nextjs.org/docs/app/api-reference/edge)
+- [@oficial@O que é Ambiente de Execução Edge?](https://edge-runtime.vercel.app/)
+- [@oficial@Ambiente de Execução Edge](https://nextjs.org/docs/app/api-reference/edge)

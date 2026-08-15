@@ -1,7 +1,7 @@
-# instrumentation
+# Instrumentação
 
-Instrumentation is the process of using code to integrate monitoring and logging tools into your application. This allows you to track the performance and behavior of your application, and to debug issues in production.
+A instrumentação é o processo de usar código para integrar ferramentas de monitoramento e registro em seu aplicativo. Isso permite que você rastreie o desempenho e o comportamento do seu aplicativo, além de depurar problemas em produção.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@official@How to set up instrumentation](https://nextjs.org/docs/app/guides/instrumentation)
+- [@official@Como configurar a instrumentação](https://nextjs.org/docs/app/guides/instrumentation)

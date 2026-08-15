@@ -1,11 +1,11 @@
-# Client-Side Data Fetching
+# Busca de Dados do Lado do Cliente
 
-Client-side data fetching involves retrieving data directly in the user's browser using JavaScript. This happens after the initial HTML content is loaded. When a user interacts with a page, or after a certain event, the browser makes a request to an API or data source. The fetched data is then used to update the user interface dynamically, without requiring a full page reload. 
+A busca de dados do lado do cliente envolve recuperar dados diretamente no navegador do usuário usando JavaScript. Isso acontece após o carregamento inicial do conteúdo HTML. Quando um usuário interage com uma página ou após um determinado evento, o navegador faz uma solicitação a uma API ou fonte de dados. Os dados recuperados são então usados para atualizar dinamicamente a interface do usuário, sem exigir um recarregamento completo da página.
 
-Client-side data fetching is useful when your page doesn't require SEO indexing, when you don't need to pre-render your data, or when the content of your pages needs to update frequently.  It's important to note that using client-side data fetching can affect the performance of your application and the load speed of your pages. This is because the data fetching is done at the time of the component or pages mount, and the data is not cached.
+A busca de dados do lado do cliente é útil quando sua página não requer indexação por motores de busca, quando você não precisa pré-renderizar seus dados ou quando o conteúdo das suas páginas precisa ser atualizado frequentemente. É importante notar que usar a busca de dados do lado do cliente pode afetar o desempenho da sua aplicação e a velocidade de carregamento das suas páginas. Isso ocorre porque a busca de dados é feita no momento em que o componente ou as páginas são montadas, e os dados não são armazenados em cache.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Client-side Fetching for App Router](https://nextjs.org/docs/app/getting-started/fetching-data#client-components)
-- [@official@Client-side Fetching for Pages Router](https://nextjs.org/docs/pages/building-your-application/data-fetching/client-side)
-- [@video@Next.js 15 Tutorial - Fetching Data in Client Components](https://www.youtube.com/watch?v=7Kz4--kCBP0)
+- [@official@Busca de Dados do Lado do Cliente para App Router](https://nextjs.org/docs/app/getting-started/fetching-data#client-components)
+- [@official@Busca de Dados do Lado do Cliente para Pages Router](https://nextjs.org/docs/pages/building-your-application/data-fetching/client-side)
+- [@video@Tutorial Next.js 15 - Buscando Dados em Componentes do Lado do Cliente](https://www.youtube.com/watch?v=7Kz4--kCBP0)

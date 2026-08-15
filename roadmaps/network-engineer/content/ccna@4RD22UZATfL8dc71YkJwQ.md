@@ -1,9 +1,9 @@
 # CCNA
 
-The Cisco Certified Network Associate (CCNA) certification is an entry-level certification for IT professionals who want to specialize in networking, specifically within the realm of Cisco products. This certification validates an individual's ability to install, configure, operate, and troubleshoot medium-sized routed and switched networks. It also covers the essentials of network security and management.
+A certificação Cisco Certified Network Associate (CCNA) é uma certificação de nível inicial para profissionais da TI que desejam se especializar em redes, especificamente no âmbito dos produtos Cisco. Esta certificação valida a habilidade individual de instalar, configurar, operar e solucionar problemas de redes roteadas e trocadas por meios médios. Também cobre os fundamentos da segurança e gestão de rede.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@CCNA Certification](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html)
-- [@video@Network Chuck Free CCNA Course](https://www.youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P)
-- [@video@Jeremy's IT Lab](https://www.youtube.com/@JeremysITLab)
+- [@oficial@Certificação CCNA](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html)
+- [@vídeo@Curso gratuito do Network Chuck Free CCNA](https://www.youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P)
+- [@vídeo@Jeremy's IT Lab](https://www.youtube.com/@JeremysITLab)

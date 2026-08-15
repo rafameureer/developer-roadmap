@@ -1,9 +1,9 @@
 # QoS (Quality of Service)
 
-QoS, or Quality of Service, refers to a set of techniques used to manage network traffic and ensure that critical applications receive the bandwidth, low latency, and reliability they need. Without QoS, all traffic is treated equally, which can cause voice calls to break up or video to buffer when the network is congested. QoS works by classifying, prioritizing, and managing packets so that high-priority traffic is delivered first.
+QoS, ou Quality of Service, refere-se a um conjunto de técnicas usadas para gerenciar o tráfego de rede e garantir que aplicativos críticos recebam largura de banda, baixa latência e confiabilidade que precisam. Sem QoS, todo o tráfego é tratado igualmente, o que pode causar chamadas de voz a quebrar ou vídeo a bufferizar quando a rede estiver congestionada. O QoS funciona classificando, priorizando e gerenciando pacotes para que o tráfego de alta prioridade seja entregue primeiro.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What Is Quality Of Service (QoS) In Networking?](https://www.fortinet.com/resources/cyberglossary/qos-quality-of-service)
-- [@article@What is Quality of Service?](https://www.paloaltonetworks.com/cyberpedia/what-is-quality-of-service-qos)
-- [@video@Communication Networks Quality Of Service (QOS).](https://www.youtube.com/watch?v=-cGMmSx9Ag0)
+- [@artigo@O Que é Quality Of Service (QoS) em Networking?](https://www.fortinet.com/resources/cyberglossary/qos-quality-of-service)
+- [@artigo@O que é Quality of Service?](https://www.paloaltonetworks.com/cyberpedia/what-is-quality-of-service-qos)
+- [@vídeo@Comunicação Networks Quality Of Service (QOS).](https://www.youtube.com/watch?v=-cGMmSx9Ag0)

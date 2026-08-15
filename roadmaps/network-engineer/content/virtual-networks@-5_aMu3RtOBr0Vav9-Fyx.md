@@ -1,9 +1,9 @@
-# Virtual Networks
+# Redes Virtuais
 
-A virtual network in cloud computing is a software-defined network that replicates the functionality of a physical network entirely in software, allowing cloud resources to communicate with each other, with on-premises systems, and with the Internet. Virtual networks are defined through configuration rather than physical cabling, making them fast to create, easy to modify, and infinitely scalable. Each cloud provider has its own implementation —AWS calls it a VPC, Azure calls it a VNet, and GCP also uses the VPC model— but all share the same core concept of providing isolated, configurable network environments for cloud resources.
+Uma rede virtual em computação em nuvem é uma rede definida por software que replica a funcionalidade de uma rede física inteiramente em software, permitindo que recursos da nuvem comuniquem-se entre si, com sistemas on-premises e com a Internet. Redes virtuais são definidas através de configuração em vez de cabos físicos, tornando-as rápidas para criação, fáceis de modificar e escaláveis infinitamente. Cada provedor de nuvem tem sua própria implementação — AWS chama de VPC, Azure chama de VNet e GCP também usa o modelo VPC — mas todos compartilham o mesmo conceito central de fornecer ambientes de rede isolados e configuráveis para recursos da nuvem.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is a Virtual Network? How it Works and Its Types?](https://www.pynetlabs.com/what-is-a-virtual-network/)
-- [@video@Virtual Networking Explained](https://www.youtube.com/watch?v=u0TgGIn2LIM)
-- [@video@Virtual Private Cloud (VPC) Explained](https://www.youtube.com/watch?v=2fPgKvDBfbs)
+- [@artigo@O que é uma Rede Virtual? Como Funciona e Seus Tipos?](https://www.pynetlabs.com/what-is-a-virtual-network/)
+- [@vídeo@Rede Virtual Explicada](https://www.youtube.com/watch?v=u0TgGIn2LIM)
+- [@vídeo@Rede Privada Virtual (VPC) Explicada](https://www.youtube.com/watch?v=2fPgKvDBfbs)

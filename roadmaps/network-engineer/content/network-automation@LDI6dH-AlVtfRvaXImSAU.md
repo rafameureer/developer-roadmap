@@ -1,8 +1,8 @@
-# Network Automation
+# Automação de Rede
 
-Network automation is the process of using software, scripts, and tools to automatically configure, manage, monitor, and operate network devices and infrastructure instead of performing these tasks manually. Traditionally, network engineers would log into each device individually and type commands one at a time — a process that is slow, error-prone, and impossible to scale across hundreds or thousands of devices. Automation replaces repetitive manual work with code that can apply consistent configurations across the entire network in seconds, respond to events without human intervention, and make infrastructure changes as reliable and repeatable as software deployments.
+A automação de rede é o processo de usar software, scripts e ferramentas para configurar, gerenciar, monitorar e operar dispositivos e infraestrutura de rede automaticamente, em vez de realizar essas tarefas manualmente. Tradicionalmente, engenheiros de redes entrariam em cada dispositivo individualmente e digitariam comandos um por um - um processo que é lento, propenso a erros e impossível de escalar para centenas ou milhares de dispositivos. A automação substitui trabalho manual repetitivo com código que pode aplicar configurações consistentes em toda a rede em segundos, responder a eventos sem intervenção humana e fazer alterações na infraestrutura tão confiáveis e repetíveis quanto as implantações de software.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is network automation?](https://www.ibm.com/think/topics/network-automation)
-- [@video@Fundamentals of Network Automation](https://www.youtube.com/watch?v=K8ptdi-z7ls)
+- [@artigo@O que é automação de rede?](https://www.ibm.com/think/topics/network-automation)
+- [@vídeo@Fundamentos da Automação de Rede](https://www.youtube.com/watch?v=K8ptdi-z7ls)

@@ -1,7 +1,7 @@
 # Google Public DNS
 
-Google Public DNS is a global Domain Name System (DNS) resolution service that translates human-readable domain names into numerical IP addresses. It functions as a recursive name server, allowing users and network devices to perform lookups more efficiently by leveraging Google's massive infrastructure for faster responses and enhanced security. By utilizing Anycast routing, it directs DNS queries to the nearest data center, minimizing latency and providing a highly available, reliable alternative to standard ISP-provided DNS resolvers.
+O Google Public DNS é um serviço de resolução de sistema de nomes de domínio (DNS) global que traduz nomes de domínio humanamente legíveis em endereços IP numéricos. Ele funciona como um servidor de nome recursivo, permitindo que usuários e dispositivos de rede realizem pesquisas mais eficientemente ao aproveitar a infraestrutura massiva do Google para respostas mais rápidas e segurança melhorada. Ao utilizar roteamento Anycast, ele direciona consultas DNS para o centro de dados mais próximo, minimizando latência e fornecendo uma alternativa altamente disponível e confiável em relação aos resolvers DNS padrão fornecidos por provedores ISP.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Google Cloud DNS](https://cloud.google.com/dns)
+- [@oficial@Google Cloud DNS](https://cloud.google.com/dns)

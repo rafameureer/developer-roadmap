@@ -1,8 +1,8 @@
 # HTTP / HTTPS
 
-HTTP (HyperText Transfer Protocol) is the foundation of data communication on the web, defining how messages are formatted and transmitted between browsers and servers. HTTPS is the secure version of HTTP, adding an SSL/TLS encryption layer to protect data from being intercepted during transmission. Most modern websites use HTTPS to ensure privacy and data integrity for their users.
+HTTP (Protocolo de Transferência de Hipertexto) é a base da comunicação de dados na web, definindo como as mensagens são formatadas e transmitidas entre navegadores e servidores. HTTPS é a versão segura do HTTP, adicionando uma camada de criptografia SSL/TLS para proteger os dados de serem interceptados durante a transmissão. A maioria dos sites modernos usa HTTPS para garantir a privacidade e integridade dos dados para seus usuários.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What’s the Difference Between HTTP and HTTPS?](https://aws.amazon.com/compare/the-difference-between-https-and-http/)
-- [@video@SSL, TLS, HTTP, HTTPS Explained](https://www.youtube.com/watch?v=hExRDVZHhig)
+- [@artigo@O que é a diferença entre HTTP e HTTPS?](https://aws.amazon.com/compare/the-difference-between-https-and-http/)
+- [@vídeo@SSL, TLS, HTTP, HTTPS Explicados](https://www.youtube.com/watch?v=hExRDVZHhig)

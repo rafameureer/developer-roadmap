@@ -1,10 +1,10 @@
-# Python for Networking
+# Python para Networking
 
-Python has become the dominant programming language in network engineering due to its simplicity, readability, and the rich ecosystem of libraries built specifically for interacting with network devices and infrastructure. Network engineers use Python to write scripts that automate configuration changes, parse device output, interact with APIs, process network data, and build custom tools. Libraries like Netmiko and NAPALM abstract away the complexity of connecting to and communicating with different vendors' devices, allowing engineers to write automation code without needing to handle low-level connection management themselves.
+Python se tornou a linguagem de programação dominante em engenharia de redes devido à sua simplicidade, legibilidade e ao rico ecossistema de bibliotecas construídas especificamente para interagir com dispositivos e infraestrutura de rede. Engenheiros de redes usam Python para escrever scripts que automatizam alterações de configuração, analisam a saída dos dispositivos, interagem com APIs, processam dados de rede e construem ferramentas personalizadas. Bibliotecas como Netmiko e NAPALM abstraem a complexidade de se conectar e comunicar com diferentes dispositivos de fornecedores, permitindo que engenheiros escrevam código de automação sem precisar lidar com a gestão de conexões de nível baixo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated Python Roadmap](https://roadmap.sh/python)
-- [@book@Python for Network Automation](https://python-automation-book.readthedocs.io/en/stable/)
-- [@article@Python for Network Programming — A Beginner’s Overview](https://medium.com/@AlexanderObregon/python-for-network-programming-a-beginners-overview-e9379cc44479)
-- [@video@Python for Networking](https://www.youtube.com/watch?v=3UOyky9sEQY&list=PL7yh-TELLS1FwBSNR_tH7qVbNpYHL4IQs)
+- [@roadmap@Visite o Caminho Dedicado do Python](https://roadmap.sh/python)
+- [@livro@Python para Automação de Redes](https://python-automation-book.readthedocs.io/en/stable/)
+- [@artigo@Python para Programação de Redes — Uma Visão Iniciante](https://medium.com/@AlexanderObregon/python-for-network-programming-a-beginners-overview-e9379cc44479)
+- [@vídeo@Python para Networking](https://www.youtube.com/watch?v=3UOyky9sEQY&list=PL7yh-TELLS1FwBSNR_tH7qVbNpYHL4IQs)

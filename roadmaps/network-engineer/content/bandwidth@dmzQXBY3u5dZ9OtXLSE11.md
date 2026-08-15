@@ -1,8 +1,8 @@
-# Bandwidth
+# largura de banda
 
-Bandwidth refers to the maximum amount of data that can be transmitted over a network connection in a given amount of time, typically measured in bits per second (bps). Higher bandwidth means more data can flow simultaneously, which generally results in faster network performance. It is often compared to the width of a pipe: the wider the pipe, the more water (data) can flow through it at once.
+A largura de banda refere-se ao máximo de dados que podem ser transmitidos em uma conexão de rede em um determinado período de tempo, geralmente medida em bits por segundo (bps). Uma maior largura de banda significa mais dados podendo fluir simultaneamente, o que geralmente resulta em melhor desempenho da rede. Ela é frequentemente comparada à largura de uma tubulação: quanto maior a tubulação, mais água (dados) pode passar por ela de uma vez.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Network Bandwidth?](https://www.solarwinds.com/resources/it-glossary/network-bandwidth)
-- [@video@Internet Bandwidth (speed) Explained](https://www.youtube.com/watch?v=DHa9gxRfAmM)
+- [@artigo@O que é Largura de Banda de Rede?](https://www.solarwinds.com/resources/it-glossary/network-bandwidth)
+- [@vídeo@Largura de banda da Internet (velocidade) explicada](https://www.youtube.com/watch?v=DHa9gxRfAmM)

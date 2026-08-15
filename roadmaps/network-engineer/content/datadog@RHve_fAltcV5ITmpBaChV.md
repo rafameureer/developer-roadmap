@@ -1,8 +1,8 @@
 # Datadog
 
-Datadog is a cloud-based observability platform that provides monitoring, logging, and security capabilities across infrastructure, applications, and networks in a single unified interface. It collects metrics, traces, and logs from servers, containers, cloud services, and network devices, correlating them to give a complete picture of system health. For network engineers, Datadog offers network performance monitoring (NPM) features that provide visibility into traffic flows, latency between services, and the health of network paths across on-premises and cloud environments.
+Datadog é uma plataforma de observabilidade em nuvem que fornece capacidades de monitoramento, registro e segurança em uma única interface unificada em infraestrutura, aplicativos e redes. Ele coleta métricas, rastreamentos e logs dos servidores, contêineres, serviços em nuvem e dispositivos de rede, correlacionando-os para fornecer uma visão completa da saúde do sistema. Para engenheiros de rede, Datadog oferece recursos de monitoramento de desempenho de rede (NPM) que fornecem visibilidade nas flutuações de tráfego, latência entre serviços e a saúde dos caminhos de rede em ambientes on-premises e em nuvem.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Datadog](https://www.datadoghq.com/)
-- [@official@Datadog Docs](https://docs.datadoghq.com/)
+- [@oficial@Datadog](https://www.datadoghq.com/)
+- [@oficial@Documentação do Datadog](https://docs.datadoghq.com/)

@@ -1,8 +1,8 @@
-# Supernetting
+# Supernetagem
 
-Supernetting, also known as route aggregation or summarization, is the process of combining multiple smaller network routes into a single, larger route advertisement. This reduces the size of routing tables and simplifies routing by representing several contiguous subnets as one summary route. It is commonly used in large-scale networks and by ISPs to keep routing tables manageable.
+A supernetagem, também conhecida como agregação de rotas ou resumo, é o processo de combinar várias rotas de rede menores em uma única rota de anúncio maior. Isso reduz o tamanho das tabelas de encaminhamento e simplifica o encaminhamento representando várias sub-redes contínuas como uma única rota de resumo. É comumente usado em redes escaláveis e por provedores de serviços de internet (ISPs) para manter as tabelas de encaminhamento gerenciáveis.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Ultimate Guide to Supernetting](https://www.dnsstuff.com/supernetting)
-- [@video@Supernetting, IP Aggregation, and IP Summarization](https://www.youtube.com/watch?v=Q4MArJTbUwk)
+- [@artigo@Guia Completo sobre Supernetagem](https://www.dnsstuff.com/supernetting)
+- [@vídeo@Supernetagem, Agregação de IPs e Resumo de IPs](https://www.youtube.com/watch?v=Q4MArJTbUwk)

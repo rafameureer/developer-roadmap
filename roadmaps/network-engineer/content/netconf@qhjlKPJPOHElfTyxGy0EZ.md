@@ -1,9 +1,9 @@
 # NETCONF
 
-NETCONF, or Network Configuration Protocol, is a network management protocol designed specifically for configuring and retrieving the state of network devices. It uses XML to encode data and runs over SSH, providing a structured, transactional approach to device management that is far more reliable than screen-scraping CLI output. NETCONF supports operations like get, edit-config, copy-config, and commit, and works alongside YANG data models, which define the structure of the configuration data being exchanged, making it one of the primary protocols used in programmatic network management and automation.
+NETCONF, ou Protocolo de Configuração de Rede, é um protocolo de gerenciamento de rede projetado especificamente para configurar e recuperar o estado dos dispositivos de rede. Ele usa XML para codificar dados e opera sobre SSH, fornecendo uma abordagem estruturada e transacional ao gerenciamento de dispositivos que é muito mais confiável do que a raspagem de saída da CLI. NETCONF suporta operações como get, edit-config, copy-config e commit, e funciona em conjunto com modelos de dados YANG, que definem a estrutura dos dados de configuração sendo trocados, tornando-o um dos principais protocolos usados na gestão e automação programática de redes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Network Configuration Protocol (NETCONF)](https://datatracker.ietf.org/doc/html/rfc6241)
-- [@article@What Is NETCONF?](https://info.support.huawei.com/info-finder/encyclopedia/en/NETCONF.html)
-- [@video@Getting Started with NETCONF](https://www.youtube.com/watch?v=BvPRkAQOrD8)
+- [@official@Protocolo de Configuração de Rede (NETCONF)](https://datatracker.ietf.org/doc/html/rfc6241)
+- [@article@O que é NETCONF?](https://info.support.huawei.com/info-finder/encyclopedia/en/NETCONF.html)
+- [@video@Introdução ao NETCONF](https://www.youtube.com/watch?v=BvPRkAQOrD8)

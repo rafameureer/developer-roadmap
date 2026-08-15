@@ -1,8 +1,8 @@
 # Hub
 
-A hub is a basic network device that connects multiple devices in a LAN and broadcasts incoming data to all connected ports, regardless of the intended recipient. This makes hubs simple but inefficient, as all devices receive all traffic, even if it is not meant for them. Hubs have largely been replaced by switches, which are smarter and handle traffic more efficiently.
+Um hub é um dispositivo de rede básico que conecta vários dispositivos em uma LAN e difunde dados recebidos para todas as portas conectadas, independentemente do destinatário intencional. Isso torna os hubs simples, mas ineficientes, pois todos os dispositivos recebem todo o tráfego, mesmo se não for para eles. Os hubs foram largamente substituídos por switches, que são mais inteligentes e lidam com o tráfego de maneira mais eficiente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is a hub?](https://www.lenovo.com/us/en/glossary/what-is-a-hub/?orgRef=https%253A%252F%252Fwww.google.com%252F&srsltid=AfmBOorUVQYz_rnn0AMWBhjhWbGypNf7SE3oHeDSXPYS3hsKpIKEFZGD)
-- [@video@Hub, Switch, & Router Explained - What's the difference?](https://www.youtube.com/watch?v=1z0ULvg_pW8&t=20s)
+- [@artigo@O que é um hub?](https://www.lenovo.com/us/en/glossary/what-is-a-hub/?orgRef=https%253A%252F%252Fwww.google.com%252F&srsltid=AfmBOorUVQYz_rnn0AMWBhjhWbGypNf7SE3oHeDSXPYS3hsKpIKEFZGD)
+- [@vídeo@Hub, Switch e Router Explicados - Qual a diferença?](https://www.youtube.com/watch?v=1z0ULvg_pW8&t=20s)

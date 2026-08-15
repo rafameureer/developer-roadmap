@@ -1,8 +1,8 @@
-# RIP
+# Protocolo de Informação de Roteamento (RIP)
 
-RIP, or Routing Information Protocol, is one of the oldest dynamic routing protocols, using a distance-vector algorithm to determine the best path based on hop count —the number of routers a packet must pass through to reach its destination. It has a maximum hop count of 15, making it unsuitable for large networks. RIP is simple to configure but has largely been replaced by more efficient protocols like OSPF and EIGRP in modern networks.
+O RIP, ou Protocolo de Informação de Roteamento, é um dos protocolos de roteamento dinâmicos mais antigos, que usa um algoritmo de vetor de distância para determinar o melhor caminho com base no número de saltos — o número de roteadores que um pacote deve passar para chegar ao seu destino. Ele tem um limite máximo de 15 saltos, tornando-o inadequado para redes grandes. O RIP é simples de configurar, mas foi largamente substituído por protocolos mais eficientes como OSPF e EIGRP em redes modernas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Routing Information Protocol:](https://www.cloudns.net/blog/routing-information-protocol-explaining-one-of-the-oldest-routing-protocols/)
-- [@video@Networking Basics - How RIP Works](https://www.youtube.com/watch?v=tZWlRq-iunI&t=59s)
+- [@artigo@Protocolo de Informação de Roteamento:](https://www.cloudns.net/blog/routing-information-protocol-explaining-one-of-the-oldest-routing-protocols/)
+- [@vídeo@Básicos da Redes - Como o RIP Funciona](https://www.youtube.com/watch?v=tZWlRq-iunI&t=59s)

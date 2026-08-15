@@ -1,8 +1,8 @@
-# Three-Tier
+# Arquitetura de Três Camadas
 
-The three-tier architecture organizes a network into three distinct layers: the core, distribution, and access layers. The core layer provides high-speed backbone connectivity between distribution blocks and is optimized purely for fast packet forwarding with no policy enforcement. The distribution layer handles routing, filtering, and policy between the core and access layers, while the access layer connects end-user devices to the network. This design is the traditional standard for large enterprise campus networks where scalability, redundancy, and clear separation of functions are critical.
+A arquitetura de três camadas organiza uma rede em três camadas distintas: a camada central, a camada de distribuição e a camada de acesso. A camada central fornece conectividade de backbone de alta velocidade entre as blocos de distribuição e é otimizada exclusivamente para o encaminhamento rápido de pacotes sem aplicação de políticas. A camada de distribuição lida com roteamento, filtragem e políticas entre a camada central e a camada de acesso, enquanto a camada de acesso conecta dispositivos de usuário ao red. Este design é o padrão tradicional para redes de campus empresariais grandes onde a escalabilidade, redundância e clara separação das funções são cruciais.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@A Guide to Simple Two-Tier, Three-Tier, and Spine-Leaf Designs](https://learningnetwork.cisco.com/s/question/0D56e0000EBtd2dCQB/a-guide-to-simple-twotier-threetier-and-spineleaf-designs)
-- [@video@ES  Skip navigation network design two tier     Create   Avatar image Network Topology Architectures (2-tier and 3-tier)](https://www.youtube.com/watch?v=XHlr791Lid0)
+- [@artigo@Um guia simples sobre as arquiteturas de duas camadas, três camadas e espinha dorsal](https://learningnetwork.cisco.com/s/question/0D56e0000EBtd2dCQB/a-guide-to-simple-twotier-threetier-and-spineleaf-designs)
+- [@vídeo@ES  Pular navegação design de rede duas camadas     Criar   Imagem Avatar Arquiteto de Topologia de Rede (2-camadas e 3-camadas)](https://www.youtube.com/watch?v=XHlr791Lid0)

@@ -1,8 +1,8 @@
-# Subnetting
+# Sub-rede
 
-Subnetting is the process of dividing a large network into smaller, more manageable sub-networks called subnets. It helps improve network performance by reducing broadcast traffic and allows organizations to organize their network logically, such as separating departments or locations. Subnetting works by borrowing bits from the host portion of an IP address to create a subnet identifier, controlled by the subnet mask.
+A sub-rede é o processo de dividir uma grande rede em sub-redes menores e mais gerenciáveis chamadas de sub-redes. Ajuda a melhorar o desempenho da rede reduzindo o tráfego de broadcast e permite que as organizações organizem sua rede logicamente, como separando departamentos ou locais. A sub-rede funciona emprestando bits da parte do host de um endereço IP para criar um identificador de sub-rede, controlado pela máscara de sub-rede.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is a subnet? | How subnetting works](https://www.cloudflare.com/en-gb/learning/network-layer/what-is-a-subnet/)
-- [@video@Subnetting Explained: Networking Basics](https://www.youtube.com/watch?v=hbdT_Q9DM8w)
+- [@artigo@O que é uma Sub-rede? | Como funciona a sub-rede](https://www.cloudflare.com/en-gb/learning/network-layer/what-is-a-subnet/)
+- [@vídeo@Sub-rede Explicada: Básicos da Redes](https://www.youtube.com/watch?v=hbdT_Q9DM8w)

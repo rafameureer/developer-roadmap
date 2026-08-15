@@ -1,3 +1,3 @@
-# Traffic Management
+# Gerenciamento de Tráfego
 
-Traffic management refers to the set of techniques and tools used to control how network traffic flows, ensuring efficient use of available bandwidth and reliable delivery of data. It covers everything from prioritizing critical applications over less important ones, to shaping traffic to prevent congestion, to distributing load across multiple servers or links. Effective traffic management ensures that the network performs well under normal conditions and degrades gracefully under heavy load.
+Gerenciamento de tráfego refere-se ao conjunto de técnicas e ferramentas usadas para controlar como o tráfego de rede flui, garantindo um uso eficiente da largura de banda disponível e uma entrega confiável dos dados. Cobre tudo desde a priorização de aplicativos críticos sobre os menos importantes, até a formação do tráfego para prevenir congestionamentos, até a distribuição do carregamento em múltiplos servidores ou links. Um gerenciamento eficaz de tráfego garante que a rede funcione bem sob condições normais e degrade-se de maneira graciosamente sob carga pesada.

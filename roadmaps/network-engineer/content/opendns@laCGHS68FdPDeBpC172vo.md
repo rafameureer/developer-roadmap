@@ -1,8 +1,8 @@
 # OpenDNS
 
-OpenDNS is a cloud-based DNS service operated by Cisco that provides fast DNS resolution along with additional security and filtering features. It can block access to malicious websites, phishing domains, and unwanted content categories before a connection is ever established. OpenDNS is commonly used by organizations and families to add a layer of protection at the DNS level without requiring software on individual devices.
+O OpenDNS é um serviço de DNS em nuvem operado pela Cisco que fornece resolução rápida de DNS, além de recursos adicionais de segurança e filtragem. Ele pode bloquear o acesso a sites maliciosos, domínios de phishing e categorias de conteúdo indesejado antes mesmo da estabelecimento de uma conexão. O OpenDNS é comumente usado por organizações e famílias para adicionar uma camada de proteção no nível do DNS sem exigir software em dispositivos individuais.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@OpenDNS](https://www.opendns.com/)
-- [@video@OpenDNS vs Google DNS (2026) - Which One Is BETTER?](https://www.youtube.com/watch?v=b3fYQ77VOrk)
+- [@oficial@OpenDNS](https://www.opendns.com/)
+- [@vídeo@OpenDNS vs Google DNS (2026) - Qual é MELHOR?](https://www.youtube.com/watch?v=b3fYQ77VOrk)

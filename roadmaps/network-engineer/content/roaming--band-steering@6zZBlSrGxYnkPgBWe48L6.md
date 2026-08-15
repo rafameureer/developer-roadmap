@@ -1,9 +1,9 @@
-# Roaming & Band Steering
+# Roaming e Direcionamento de Banda
 
-Roaming is the process by which a wireless client seamlessly transitions from one access point to another as it moves through a space, without dropping its network connection. In enterprise environments, fast roaming protocols like 802.11r (Fast BSS Transition) allow clients to re-authenticate quickly as they move between APs, which is critical for real-time applications like voice and video. Band steering is a related technique where the wireless controller or AP encourages dual-band capable devices to connect on the less congested 5 GHz band rather than the 2.4 GHz band, improving overall network performance by distributing clients more evenly across available spectrum.
+O roaming é o processo pelo qual um cliente sem fio se transmite suavemente de um ponto de acesso para outro à medida que se move por um espaço, sem interromper sua conexão de rede. Em ambientes corporativos, protocolos rápidos de roaming como 802.11r (Fast BSS Transition) permitem que os clientes se reautentifiquem rapidamente enquanto se movem entre APs, o que é crucial para aplicativos em tempo real como voz e vídeo. O direcionamento de banda é uma técnica relacionada onde o controlador sem fio ou AP incentiva dispositivos capazes de dual-band a se conectar na banda menos congestionada do 5 GHz em vez da banda 2.4 GHz, melhorando assim o desempenho geral da rede distribuindo os clientes mais uniformemente entre a espectroscopia disponível.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@WiFi Band Steering:](https://www.splashaccess.com/wifi-band-steering/)
-- [@video@What is Band Steering?](https://www.youtube.com/watch?v=GBhHNbkYTyU)
-- [@video@WiFi Roaming Explained](https://www.youtube.com/watch?v=gf4XuGK4N5Q)
+- [@artigo@Direcionamento de Banda Wi-Fi:](https://www.splashaccess.com/wifi-band-steering/)
+- [@vídeo@O que é Direcionamento de Banda?](https://www.youtube.com/watch?v=GBhHNbkYTyU)
+- [@vídeo@Explicação do Roaming Wi-Fi](https://www.youtube.com/watch?v=gf4XuGK4N5Q)

@@ -1,9 +1,9 @@
-# Default Gateway
+# Gateway Padrão
 
-A default gateway is the IP address of the router that a device uses to send traffic destined for networks outside its own local subnet. When a device does not have a specific route for a destination, it forwards the packet to the default gateway, which then handles the routing decision. In most home and office networks, the default gateway is the IP address of the local router.
+Um gateway padrão é o endereço IP do roteador que um dispositivo usa para enviar tráfego destinado a redes fora de seu próprio sub-rede local. Quando um dispositivo não tem uma rota específica para um destino, ele encaminha o pacote para o gateway padrão, que então lida com a decisão de roteamento. Em大多数家和办公室网络中，gateway padrão é o endereço IP do roteador local.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is a default gateway, and how can you find its address?](https://nordvpn.com/blog/what-is-a-default-gateway/?srsltid=AfmBOop1EOdHkR__w-7OxSPfTRdWONwCm-BmXoLZ5tadeiF4o5ZASfa-)
-- [@article@What is Default Gateway?](https://www.cbtnuggets.com/blog/technology/networking/what-is-default-gateway)
-- [@video@Default Gateway Explained](https://www.youtube.com/watch?v=pCcJFdYNamc)
+- [@artigo@O que é um gateway padrão e como você pode encontrar seu endereço?](https://nordvpn.com/blog/what-is-a-default-gateway/?srsltid=AfmBOop1EOdHkR__w-7OxSPfTRdWONwCm-BmXoLZ5tadeiF4o5ZASfa-)
+- [@artigo@O que é Gateway Padrão?](https://www.cbtnuggets.com/blog/technology/networking/what-is-default-gateway)
+- [@vídeo@Gateway Padrão Explicado](https://www.youtube.com/watch?v=pCcJFdYNamc)

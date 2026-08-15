@@ -1,9 +1,9 @@
 # NFC
 
-NFC, or Near Field Communication, is a short-range wireless communication technology that allows two devices to exchange small amounts of data when brought within a few centimeters of each other. It operates at 13.56 MHz and is most commonly used for contactless payments, access control cards, and quick device pairing. Unlike Wi-Fi or Bluetooth, NFC requires no manual pairing or configuration (proximity alone initiates the connection) making it ideal for fast, simple interactions where security through physical closeness is sufficient.
+NFC, ou Comunicação em Campo Próximo, é uma tecnologia de comunicação sem fio a curto alcance que permite que dois dispositivos troquiem pequenas quantidades de dados quando estão perto uns dos outros por alguns centímetros. Ele opera em 13.56 MHz e é mais comumente usado para pagamentos sem contato, cartões de controle de acesso e parada rápida de dispositivos. Diferentemente do Wi-Fi ou Bluetooth, NFC não requer uma configuração manual (a conexão é iniciada apenas pela proximidade), tornando-o ideal para interações rápidas e simples onde a segurança através da proximidade física é suficiente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What NFC does](https://nfc-forum.org/learn/what-nfc-does)
-- [@video@What is NFC? Explained - Tech Tips](https://www.youtube.com/watch?v=-TwwqdDTzfU&t=33s)
-- [@video@simpleshow explains Near Field Communication (NFC)](https://www.youtube.com/watch?v=Gbv2BIi9i58)
+- [@artigo@O que é NFC](https://nfc-forum.org/learn/what-nfc-does)
+- [@vídeo@O que é NFC? Explicado - Dicas de Tecnologia](https://www.youtube.com/watch?v=-TwwqdDTzfU&t=33s)
+- [@vídeo@simpleshow explica Comunicação em Campo Próximo (NFC)](https://www.youtube.com/watch?v=Gbv2BIi9i58)

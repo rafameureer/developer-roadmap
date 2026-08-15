@@ -1,8 +1,8 @@
-# Troubleshooting Methodologies
+# Metodologias de Troubleshooting
 
-A troubleshooting methodology is a structured approach to diagnosing network problems that prevents guesswork and reduces time to resolution. The most common approaches are bottom-up (starting at the Physical layer and working up through the OSI model), top-down (starting at the Application layer and working down), and divide and conquer (starting at a middle layer based on available evidence). Most methodologies follow a general cycle: identify the problem, establish a theory of probable cause, test the theory, create a plan of action, implement the fix, verify full functionality, and document the outcome.
+Uma metodologia de troubleshooting é uma abordagem estruturada para diagnosticar problemas de rede que previne a especulação e reduz o tempo para resolução. As abordagens mais comuns são bottom-up (começando na Camada Física e trabalhando até o modelo OSI), top-down (começando na Camada Aplicação e trabalhando para baixo) e divide and conquer (começando em uma camada intermediária com base em evidências disponíveis). A maioria das metodologias segue um ciclo geral: identificar o problema, estabelecer uma teoria de causa provável, testar a teoria, criar um plano de ação, implementar a correção, verificar a funcionalidade completa e documentar o resultado.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Network Troubleshooting Methodology and Techniques](https://study-ccna.com/network-troubleshooting-methodology-techniques/)
-- [@article@Most Common Network Troubleshooting Steps, Techniques and Best Practices](https://www.dnsstuff.com/network-troubleshooting-steps)
+- [@article@Metodologia e Técnicas de Troubleshooting de Rede](https://study-ccna.com/network-troubleshooting-methodology-techniques/)
+- [@article@As Melhores Práticas de Troubleshooting de Rede, Passos e Técnicas Comuns](https://www.dnsstuff.com/network-troubleshooting-steps)

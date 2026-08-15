@@ -1,9 +1,9 @@
 # Shell & Scripting
 
-The shell is the command-line interface used to interact with a Linux system, while scripting is the practice of combining shell commands into reusable files called scripts. For network engineers, shell scripting helps automate repetitive tasks such as backing up device configurations, parsing log files, running diagnostic checks across multiple devices, and generating reports. Bash is the most common shell used in networking environments, and even basic scripting knowledge can significantly reduce manual work and human error. Python is equally important and has become the dominant programming language in network engineering. Compared to Bash, Python is better suited for complex automation tasks and serves as the foundation for many modern network automation tools and frameworks, including Ansible and API-based network management.
+O shell é a interface de linha de comando usada para interagir com um sistema Linux, enquanto scripting é a prática de combinar comandos do shell em arquivos reutilizáveis chamados scripts. Para engenheiros de rede, o scripting em shell ajuda a automatizar tarefas repetitivas como backup de configurações de dispositivos, análise de arquivos de log, execução de verificações diagnósticas em vários dispositivos e geração de relatórios. O Bash é o shell mais comum usado em ambientes de rede, e mesmo conhecimento básico de scripting pode significativamente reduzir o trabalho manual e erros humanos. O Python é igualmente importante e se tornou a linguagem de programação dominante na engenharia de redes. Comparado ao Bash, o Python é mais adequado para tarefas de automação complexas e serve como a base para muitos dos modernos ferramentários e estruturas de automação de rede, incluindo Ansible e gerenciamento de rede baseado em API.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated Shell/Bash Roadmap](https://roadmap.sh/shell-bash)
-- [@roadmap@Visit the Dedicated Python Roadmap](https://roadmap.sh/python)
-- [@video@Shell Scripting Tutorial for Beginners 1 - Introduction](https://www.youtube.com/watch?v=cQepf9fY6cE&list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_)
+- [@roadmap@Visite o Caminho Dedicado de Shell/Bash](https://roadmap.sh/shell-bash)
+- [@roadmap@Visite o Caminho Dedicado de Python](https://roadmap.sh/python)
+- [@vídeo@Tutorial de Scripting em Shell para Iniciantes 1 - Introdução](https://www.youtube.com/watch?v=cQepf9fY6cE&list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_)

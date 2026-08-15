@@ -1,8 +1,8 @@
 # HSRP
 
-HSRP, or Hot Standby Router Protocol, is a Cisco proprietary protocol that provides gateway redundancy by allowing two or more routers to work together as a single virtual router. One router acts as the active gateway handling all traffic, while one or more standby routers monitor it and take over automatically if the active router fails. End devices are configured to use the shared virtual IP address as their default gateway, so they experience no disruption when a failover occurs.
+HSRP, ou Protocolo de Roteador em Reserva Quente (Hot Standby Router Protocol), é um protocolo proprietário da Cisco que fornece redundância de gateway permitindo que dois ou mais roteadores trabalhem juntos como um único roteador virtual. Um roteador atua como o gateway ativo, lidando com todo o tráfego, enquanto um ou mais roteadores de reserva monitoram-o e assumem automaticamente o controle se o roteador ativo falhar. Dispositivos finais são configurados para usar o endereço IP virtual compartilhado como seu gateway padrão, então eles não experimentam interrupção quando ocorre uma failover.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Hot Standby Router Protocol (HSRP)](http://networklessons.com/ip-services/hot-standby-router-protocol-hsrp)
-- [@video@Understanding (and Configuring) HSRP](https://www.youtube.com/watch?v=-IaUa4-6ZeI&pp=ygUESFNSUA%3D%3D)
+- [@artigo@Protocolo de Roteador em Reserva Quente (HSRP)](http://networklessons.com/ip-services/hot-standby-router-protocol-hsrp)
+- [@vídeo@Entendendo (e Configurando) HSRP](https://www.youtube.com/watch?v=-IaUa4-6ZeI&pp=ygUESFNSUA%3D%3D)

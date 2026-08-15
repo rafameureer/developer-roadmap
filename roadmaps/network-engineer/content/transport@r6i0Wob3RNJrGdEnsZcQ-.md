@@ -1,3 +1,3 @@
-# Transport
+# Transporte
 
-The Transport layer of the TCP/IP model is responsible for end-to-end communication between applications on different hosts. It uses TCP for reliable, ordered delivery and UDP for faster, connectionless communication where some data loss is acceptable. This layer manages segmentation, flow control, and error handling to ensure data reaches the correct application.
+A camada de transporte do modelo TCP/IP é responsável por comunicação ponta a ponta entre aplicativos em diferentes hosts. Ele usa TCP para entrega confiável e ordenada e UDP para comunicação mais rápida, sem conexão, onde algumas perdas de dados são aceitáveis. Esta camada gerencia segmentação, controle de fluxo e tratamento de erros para garantir que os dados cheguem ao aplicativo correto.

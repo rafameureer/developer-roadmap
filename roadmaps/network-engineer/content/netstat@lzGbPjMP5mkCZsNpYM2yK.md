@@ -1,8 +1,8 @@
 # netstat
 
-netstat, short for network statistics, is a command-line tool that displays active network connections, listening ports, routing tables, and network interface statistics on a device. It is useful for identifying which services are listening on which ports, spotting unexpected or unauthorized connections, and understanding the current state of network activity on a machine. Although largely replaced by the newer `ss` command on Linux systems, netstat remains widely used and available across Windows, macOS, and Linux.
+O netstat, ou estatísticas de rede em português, é uma ferramenta de linha de comando que exibe conexões de rede ativas, portas em escuta, tabelas de roteamento e estatísticas de interface de rede em um dispositivo. É útil para identificar quais serviços estão escutando em quais portas, detectar conexões inesperadas ou não autorizadas e entender o estado atual da atividade de rede em uma máquina. Apesar de ser amplamente substituído pelo comando mais novo `ss` nos sistemas Linux, o netstat ainda é amplamente usado e disponível no Windows, macOS e Linux.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is the netstat Command?](https://www.cbtnuggets.com/blog/technology/networking/netstat-command)
-- [@video@NETSTAT Command Explained](https://www.youtube.com/watch?v=8UZFpCQeXnM)
+- [@article@O que é o Comando Netstat?](https://www.cbtnuggets.com/blog/technology/networking/netstat-command)
+- [@video@Explicação do Comando NETSTAT](https://www.youtube.com/watch?v=8UZFpCQeXnM)

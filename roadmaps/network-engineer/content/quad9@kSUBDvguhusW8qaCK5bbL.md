@@ -1,7 +1,7 @@
 # Quad9
 
-Quad9 is a free, public DNS resolver that focuses on security by blocking access to known malicious domains at the DNS level. It uses threat intelligence from multiple cybersecurity partners to identify and block harmful websites before a connection is made, without logging personally identifiable information. Quad9 is operated by a non-profit organization and is accessible at the address 9.9.9.9.
+Quad9 é um resolutor DNS gratuito e público que se concentra na segurança ao bloquear o acesso a domínios maliciosos conhecidos no nível do DNS. Ele usa inteligência em ameaças de múltiplos parceiros de segurança cibernética para identificar e bloquear sites prejudiciais antes da conexão ser estabelecida, sem registrar informações pessoalmente identificáveis. Quad9 é operado por uma organização sem fins lucrativos e está acessível no endereço 9.9.9.9.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Quad9](https://quad9.net/)
+- [@oficial@Quad9](https://quad9.net/)

@@ -1,8 +1,8 @@
-# Circuit Level Gateway
+# Gateway de Nível Circuito
 
-A circuit-level gateway is a type of firewall that operates at the session layer and monitors TCP handshakes to verify that a connection is legitimate before allowing data to flow. Unlike application-layer proxies, it does not inspect the content of the data itself — only the connection establishment. Once a session is deemed valid, traffic passes through without further inspection, making it faster but less thorough than application-layer firewalls.
+Um gateway de nível circuito é um tipo de firewall que opera na camada de sessão e monitora os handshakes TCP para verificar se uma conexão é legítima antes de permitir o fluxo de dados. Diferentemente dos proxies de aplicativo, ele não inspeciona o conteúdo dos próprios dados — apenas a estabelecimento da conexão. Uma vez que uma sessão seja considerada válida, o tráfego passa sem inspeção adicional, tornando-o mais rápido, mas menos abrangente do que os firewalls de aplicativo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What Is a Circuit Level Gateway?](https://www.paloaltonetworks.com/cyberpedia/what-is-a-circuit-level-gateway)
-- [@article@What is a circuit level firewall?](https://nordlayer.com/learn/firewall/circuit-level/)
+- [@artigo@O que é um Gateway de Nível Circuito?](https://www.paloaltonetworks.com/cyberpedia/what-is-a-circuit-level-gateway)
+- [@artigo@O que é um firewall de nível circuto?](https://nordlayer.com/learn/firewall/circuit-level/)

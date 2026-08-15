@@ -1,8 +1,8 @@
-# Public vs Private Addresses
+# Público vs Privado
 
-Public IP addresses are globally unique addresses assigned by Internet Service Providers and are reachable over the Internet. Private IP addresses are reserved for use within local networks and are not routable on the public Internet (ranges like 192.168.x.x, 10.x.x.x, and 172.16.x.x are commonly used internally). Devices with private addresses access the Internet through a process called NAT (Network Address Translation), which maps multiple private addresses to a single public one.
+Endereços IP públicos são endereços únicos globalmente atribuídos por provedores de serviços de internet e são acessíveis na internet. Endereços IP privados são reservados para uso em redes locais e não são roteáveis na internet pública (intervalos como 192.168.x.x, 10.x.x.x e 172.16.x.x são comumente usados internamente). Dispositivos com endereços privados acessam a internet através de um processo chamado NAT (Tradução de Endereço de Rede), que mapeia múltiplos endereços privados para um único público.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Public vs. Private IP Addresses: What’s the Difference?](https://www.avast.com/c-ip-address-public-vs-private)
-- [@video@Public vs Private IP Address](https://www.youtube.com/watch?v=po8ZFG0Xc4Q)
+- [@artigo@Público vs. Privado IP Addresses: O que é a Diferença?](https://www.avast.com/c-ip-address-public-vs-private)
+- [@vídeo@Público vs Privado IP Address](https://www.youtube.com/watch?v=po8ZFG0Xc4Q)

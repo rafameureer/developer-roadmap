@@ -1,8 +1,8 @@
 # IDS / IPS
 
-An IDS (Intrusion Detection System) monitors network traffic for suspicious patterns and known attack signatures, alerting administrators when potential threats are detected without taking direct action. An IPS (Intrusion Prevention System) goes a step further by automatically blocking or dropping malicious traffic in real time based on the same detection mechanisms. Together, they provide visibility into network threats and an active layer of defense against intrusions.
+Um IDS (Sistema de Detecção de Invasão) monitora o tráfego de rede em busca de padrões suspeitos e assinaturas de ataques conhecidos, alertando os administradores quando ameaças potenciais são detectadas sem tomar ações diretas. Um IPS (Sistema de Prevenção de Invasão) vai um passo além ao bloquear ou descartar tráfego malicioso em tempo real com base nas mesmas mecanismos de detecção. Juntos, eles fornecem visibilidade sobre ameaças de rede e uma camada ativa de defesa contra invasões.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Intrusion Detection and Prevention Systems (IDS/IPS)](https://www.group-ib.com/resources/knowledge-hub/ids/)
-- [@video@IDS vs IPS: Which to Use and When](https://www.youtube.com/watch?v=wQSd_piqxQo)
+- [@artigo@Sistemas de Detecção e Prevenção de Invasão (IDS/IPS)](https://www.group-ib.com/resources/knowledge-hub/ids/)
+- [@vídeo@IDS vs IPS: Qual usar e quando](https://www.youtube.com/watch?v=wQSd_piqxQo)

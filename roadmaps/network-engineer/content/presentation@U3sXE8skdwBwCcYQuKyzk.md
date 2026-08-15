@@ -1,8 +1,8 @@
-# Presentation
+# Apresentação
 
-The Presentation layer is the sixth layer of the OSI model, responsible for translating data between the format used by the application and the format used for network transmission. It handles tasks such as data encryption and decryption, compression, and character encoding. This layer ensures that data sent from one system can be read by another, regardless of differences in internal data representation.
+A Camada de Apresentação é a sexta camada do modelo OSI, responsável por traduzir dados entre o formato usado pela aplicação e o formato usado para a transmissão de rede. Ela lida com tarefas como criptografia e descriptografia de dados, compressão e codificação de caracteres. Esta camada garante que os dados enviados de um sistema possam ser lidos por outro, independentemente das diferenças na representação interna dos dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Understanding Layer 6: The Presentation Layer of the OSI Model](https://jumpcloud.com/it-index/understanding-layer-6-the-presentation-layer-of-the-osi-model)
-- [@video@Layer 6 (Presentation Layer)](https://www.youtube.com/watch?v=AtITX-U2mL4)
+- [@artigo@Entendendo a Camada 6: A Camada de Apresentação do Modelo OSI](https://jumpcloud.com/it-index/understanding-layer-6-the-presentation-layer-of-the-osi-model)
+- [@vídeo@Camada 6 (Camada de Apresentação)](https://www.youtube.com/watch?v=AtITX-U2mL4)

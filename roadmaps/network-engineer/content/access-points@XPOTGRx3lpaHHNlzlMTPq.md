@@ -1,8 +1,8 @@
-# Access Points
+# Pontos de Acesso
 
-A wireless access point (AP) is a device that creates a wireless local area network, typically in an office or large building, by connecting to a wired router or switch and broadcasting a Wi-Fi signal. Multiple access points can be deployed across a large area to extend wireless coverage and allow devices to roam seamlessly. Access points are distinct from routers —they extend the network wirelessly but do not typically perform routing functions on their own.
+Um ponto de acesso sem fio (AP) é um dispositivo que cria uma rede local sem fio, normalmente em um escritório ou edifício grande, conectando-se a um roteador ou troca com cabos e transmetindo sinal Wi-Fi. Múltiplos pontos de acesso podem ser implantados em uma área ampla para estender cobertura sem fio e permitir que dispositivos se roguem suavemente. Pontos de acesso são distintos dos roteadores — eles estendem a rede sem fio, mas geralmente não executam funções de roteamento por conta própria.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is a wireless access point?](https://www.cisco.com/site/us/en/learn/topics/small-business/what-is-an-access-point.html)
-- [@video@Wireless Access Point vs Wi-Fi Router](https://www.youtube.com/watch?v=OxiY4yf6GGg)
+- [@artigo@O que é um ponto de acesso sem fio?](https://www.cisco.com/site/us/en/learn/topics/small-business/what-is-an-access-point.html)
+- [@vídeo@Ponto de Acesso Sem Fio vs Roteador Wi-Fi](https://www.youtube.com/watch?v=OxiY4yf6GGg)

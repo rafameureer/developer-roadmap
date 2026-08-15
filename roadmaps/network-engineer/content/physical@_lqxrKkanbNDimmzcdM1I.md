@@ -1,8 +1,8 @@
-# Physical
+# Físico
 
-The Physical layer is the first and lowest layer of the OSI model, responsible for the actual transmission of raw bits over a physical medium such as copper cables, fiber optics, or radio waves. It defines the electrical, mechanical, and timing specifications for hardware components like network cables, connectors, and network interface cards. Everything at this layer deals with the physical delivery of signals, not their meaning.
+A camada Física é a primeira e mais baixa camada do modelo OSI, responsável pela transmissão real de bits brutos sobre um meio físico como cabos de cobre, fibras ópticas ou ondas radioelétricas. Ela define as especificações elétricas, mecânicas e temporais para componentes de hardware como cabos de rede, conectores e cartões de interface de rede. Tudo nesta camada lida com a entrega física de sinais, não com seu significado.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What Is the Physical Layer: A Beginner’s Guide](https://www.coursera.org/articles/physical-layer)
-- [@video@Networking Fundamentals: OSI 7 - Layer 1 - the physical layer](http://youtube.com/watch?v=a5SMTyhn0U8)
+- [@artigo@O que é a Camada Física: Um Guia Iniciante](https://www.coursera.org/articles/physical-layer)
+- [@vídeo@Fundamentos da Redes de Computadores: OSI 7 - Camada 1 - A camada física](http://youtube.com/watch?v=a5SMTyhn0U8)

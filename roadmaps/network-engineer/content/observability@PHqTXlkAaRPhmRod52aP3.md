@@ -1,8 +1,8 @@
-# Observability
+# Observabilidade
 
-Network observability refers to the ability to understand the internal state and behavior of a network by collecting and analyzing data from its components, including logs, metrics, traces, and flow records. It goes beyond basic monitoring by providing deep insight into why things are happening, not just what is happening. Good observability enables network engineers to detect issues early, troubleshoot faster, and optimize performance across complex, distributed environments.
+A observabilidade da rede refere-se à capacidade de entender o estado interno e o comportamento de uma rede coletando e analisando dados dos seus componentes, incluindo logs, métricas, rastreamentos e registros de fluxo. Ela vai além da monitorização básica fornecendo uma visão profunda sobre por que as coisas estão acontecendo, não apenas o que está acontecendo. Boa observabilidade permite aos engenheiros de rede detectar problemas cedo, diagnosticar mais rapidamente e otimizar desempenho em ambientes complexos e distribuídos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is network observability?](https://www.ibm.com/think/topics/network-observability)
-- [@video@Observability vs. APM vs. Monitoring](https://www.youtube.com/watch?v=CAQ_a2-9UOI)
+- [@artigo@O que é observabilidade da rede?](https://www.ibm.com/think/topics/network-observability)
+- [@vídeo@Observabilidade vs. APM vs. Monitoramento](https://www.youtube.com/watch?v=CAQ_a2-9UOI)

@@ -1,3 +1,3 @@
-# High Availability
+# Alta Disponibilidade
 
-High Availability refers to systems and network configurations designed to ensure continuous operational uptime by minimizing service disruptions caused by hardware failures, software errors, or maintenance. It is typically achieved through redundancy, where backup components or secondary paths are ready to take over automatically if the primary system fails.
+A alta disponibilidade refere-se a sistemas e configurações de rede projetadas para garantir um tempo de operação contínuo, minimizando as interrupções de serviço causadas por falhas de hardware, erros de software ou manutenção. Isso é geralmente alcançado através da redundância, onde componentes de backup ou caminhos secundários estão prontos para assumir automaticamente o controle se o sistema principal falhar.

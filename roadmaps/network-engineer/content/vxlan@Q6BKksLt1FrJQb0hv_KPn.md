@@ -1,8 +1,8 @@
 # VXLAN
 
-VXLAN, or Virtual Extensible LAN, is a network virtualization technology that extends Layer 2 networks over a Layer 3 infrastructure by encapsulating Ethernet frames inside UDP packets. It was created to overcome the scalability limitations of traditional VLANs, which support a maximum of 4,096 network segments, by supporting up to 16 million virtual network identifiers. VXLAN is widely used in data centers and cloud environments where large numbers of isolated virtual networks need to coexist on shared physical infrastructure.
+VXLAN, ou Virtual Extensible LAN, é uma tecnologia de virtualização de rede que estende redes Layer 2 sobre uma infraestrutura Layer 3 encapsulando quadros Ethernet dentro de pacotes UDP. Foi criado para superar as limitações de escala dos VLANs tradicionais, que suportam um máximo de 4.096 segmentos de rede, ao suportar até 16 milhões de identificadores de rede virtual. O VXLAN é amplamente utilizado em data centers e ambientes de nuvem onde grandes números de redes virtuais isoladas precisam coexistir na mesma infraestrutura física compartilhada.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is VXLAN?](https://www.hpe.com/emea_europe/en/what-is/vxlan.html)
-- [@video@VXLAN - What is VXLAN?](https://www.youtube.com/watch?v=Jv0IqaM9KOs)
+- [@article@O que é VXLAN?](https://www.hpe.com/emea_europe/en/what-is/vxlan.html)
+- [@video@VXLAN - O que é VXLAN?](https://www.youtube.com/watch?v=Jv0IqaM9KOs)

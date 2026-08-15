@@ -1,9 +1,9 @@
-# Link Aggregation
+# Agregação de Links
 
-Link aggregation is a technique that combines multiple physical network connections between two devices into a single logical link, increasing bandwidth and providing redundancy. If one physical link fails, the others continue to carry traffic without interruption. It is standardized under IEEE 802.3ad (LACP) and is commonly used between switches, servers, and storage devices to improve both performance and reliability.
+A agregação de links é uma técnica que combina várias conexões físicas de rede entre dois dispositivos em um único link lógico, aumentando a largura de banda e fornecendo redundância. Se uma conexão física falhar, as outras continuam a transportar o tráfego sem interrupção. Ela é padronizada sob IEEE 802.3ad (LACP) e é comumente usada entre switches, servidores e dispositivos de armazenamento para melhorar tanto desempenho quanto confiabilidade.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Essential FAQs about Link Aggregation, LAG, and LACP](https://www.fs.com/blog/understanding-link-aggregation-and-lacp-faqs-1262.html)
-- [@video@Cisco CCNA - What is LACP In Networking?](https://www.youtube.com/watch?v=z6hStQ3g4ck)
-- [@video@What is LACP (Link Aggregation Control Protocol)?](https://www.youtube.com/watch?v=gtDkqhP6Gvc)
+- [@artigo@Perguntas Frequentes Essenciais sobre Agregação de Links, LAG e LACP](https://www.fs.com/blog/understanding-link-aggregation-and-lacp-faqs-1262.html)
+- [@vídeo@Cisco CCNA - O que é LACP em Networking?](https://www.youtube.com/watch?v=z6hStQ3g4ck)
+- [@vídeo@O que é LACP (Protocolo de Controle de Agregação de Links)?](https://www.youtube.com/watch?v=gtDkqhP6Gvc)

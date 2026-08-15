@@ -1,8 +1,8 @@
 # Throughput
 
-Throughput is the actual amount of data successfully transferred over a network in a given period of time, as opposed to the theoretical maximum that bandwidth represents. While bandwidth is the capacity of a network link, throughput reflects real-world performance after accounting for packet loss, latency, and protocol overhead. It is also measured in bits per second.
+Throughput é a quantidade real de dados transferidos com sucesso em uma rede em um determinado período de tempo, em vez do máximo teórico que a largura de banda representa. Enquanto a largura de banda é a capacidade de um link de rede, o throughput reflete desempenho real na vida cotidiana, considerando perdas de pacote, latência e sobrecarga de protocolo. Ele também é medido em bits por segundo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What’s the Difference Between Throughput and Latency?](https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/)
-- [@video@Inside Wireless: Network Throughput](https://www.youtube.com/watch?v=l23baEHJ9YQ)
+- [@article@O que é a diferença entre Throughput e Latência?](https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/)
+- [@video@Dentro do Wireless: Network Throughput](https://www.youtube.com/watch?v=l23baEHJ9YQ)

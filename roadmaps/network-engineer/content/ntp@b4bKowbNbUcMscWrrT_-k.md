@@ -1,8 +1,8 @@
-# NTP
+# Protocolo de Tempo da Rede (NTP)
 
-NTP, or Network Time Protocol, is used to synchronize the clocks of computers and network devices over a network. Accurate timekeeping is essential for logging events, coordinating distributed systems, and ensuring security certificates work correctly. NTP works by having devices query time servers and adjust their local clocks to match, accounting for network delay in the process.
+O NTP, ou Protocolo de Tempo da Rede, é usado para sincronizar os relógios dos computadores e dispositivos de rede em uma rede. A manutenção precisa do tempo é essencial para registrar eventos, coordenar sistemas distribuídos e garantir que os certificados de segurança funcionem corretamente. O NTP funciona consultando servidores de tempo e ajustando seus relógios locais para corresponder, levando em conta atrasos na rede durante o processo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Network Time Protocol (NTP)](https://www.mobatime.com/technology/ntp-network-time-protocol/)
-- [@video@Network Time Protocol (NTP)](https://www.youtube.com/watch?v=BAo5C2qbLq8)
+- [@artigo@Protocolo de Tempo da Rede (NTP)](https://www.mobatime.com/technology/ntp-network-time-protocol/)
+- [@vídeo@Protocolo de Tempo da Rede (NTP)](https://www.youtube.com/watch?v=BAo5C2qbLq8)

@@ -1,7 +1,7 @@
-# Network Simulators
+# Simuladores de Rede
 
-Network simulators are software applications that allow engineers to create, configure, and test virtual network topologies without needing physical hardware. By modeling the behavior of devices like routers, switches, and firewalls, these tools enable the practice of complex configurations, troubleshooting scenarios, and protocol analysis in a safe, controlled environment. They serve as a practical platform for verifying network designs and preparing for certification exams by emulating various operating systems and network conditions.
+Simuladores de rede são aplicativos de software que permitem aos engenheiros criar, configurar e testar topologias de rede virtual sem a necessidade de hardware físico. Ao modelar o comportamento de dispositivos como roteadores, switches e firewalls, essas ferramentas permitem a prática de configurações complexas, cenários de diagnóstico e análise de protocolos em um ambiente seguro e controlado. Eles servem como uma plataforma prática para verificar designs de rede e preparar-se para exames de certificação ao emular diversos sistemas operacionais e condições de rede.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Top 10 Most Popular Network Simulation Tools](https://www.pynetlabs.com/top-most-popular-network-simulation-tools/)
+- [@artigo@Top 10 Simuladores de Rede Mais Populares](https://www.pynetlabs.com/top-most-popular-network-simulation-tools/)

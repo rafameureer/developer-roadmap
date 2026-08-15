@@ -1,8 +1,8 @@
-# Protocol
+# Protocolo
 
-A protocol is a set of rules that defines how data is formatted, transmitted, and received between devices on a network. Protocols ensure that different systems, regardless of manufacturer or operating system, can predictably communicate with each other. Examples include TCP, IP, HTTP, and DNS, each governing a specific aspect of how network communication works.
+Um protocolo é um conjunto de regras que define como os dados são formatados, transmitidos e recebidos entre dispositivos em uma rede. Os protocolos garantem que diferentes sistemas, independentemente do fabricante ou sistema operacional, possam se comunicar previsivelmente com um ao outro. Exemplos incluem TCP, IP, HTTP e DNS, cada um governando um aspecto específico de como a comunicação na rede funciona.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is a protocol?](https://www.cloudflare.com/en-gb/learning/network-layer/what-is-a-protocol/)
-- [@video@Network Protocols Explained: Networking Basics](https://www.youtube.com/watch?v=1zVZ9cWFnCc)
+- [@artigo@O que é um protocolo?](https://www.cloudflare.com/en-gb/learning/network-layer/what-is-a-protocol/)
+- [@vídeo@Protocolos de Rede Explicados: Básicos da Redes](https://www.youtube.com/watch?v=1zVZ9cWFnCc)

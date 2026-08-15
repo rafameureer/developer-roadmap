@@ -1,10 +1,10 @@
-# Encryption Basics
+# Básicos de Criptografia
 
-Encryption is the process of converting readable data (plaintext) into an unreadable format (ciphertext) using an algorithm and a key, so that only authorized parties with the correct key can decrypt and read it. It is the foundation of data security in networking, protecting information in transit and at rest from unauthorized access. The two main types are symmetric encryption, where the same key is used to encrypt and decrypt, and asymmetric encryption, which uses a pair of public and private keys.
+A criptografia é o processo de converter dados legíveis (texto plano) em um formato não legível (cifrado) usando um algoritmo e uma chave, de forma que apenas as partes autorizadas com a chave correta possam descriptografar e ler. É a base da segurança dos dados na rede, protegendo informações em transito e em repouso de acesso não autorizado. Os dois tipos principais são criptografia simétrica, onde a mesma chave é usada para criptografar e descriptografar, e criptografia assimétrica, que usa um par de chaves públicas e privadas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@Encryption Course](https://www.internetsociety.org/learning/encryption/)
-- [@article@What is encryption?](https://www.cloudflare.com/learning/ssl/what-is-encryption/)
-- [@video@Cryptography Full Course Part 1](https://www.youtube.com/watch?v=j_8PLI_wCVU)
-- [@video@Cryptography Full Course Part 2](https://www.youtube.com/watch?v=s5yza-s0bhM)
+- [@curso@Curso de Criptografia](https://www.internetsociety.org/learning/encryption/)
+- [@artigo@O que é criptografia?](https://www.cloudflare.com/learning/ssl/what-is-encryption/)
+- [@vídeo@Curso Completo de Criptografia Parte 1](https://www.youtube.com/watch?v=j_8PLI_wCVU)
+- [@vídeo@Curso Completo de Criptografia Parte 2](https://www.youtube.com/watch?v=s5yza-s0bhM)

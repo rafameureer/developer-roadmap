@@ -1,8 +1,8 @@
-# Access Points & Controllers
+# Pontos de Acesso e Controladores
 
-Wireless access points (APs) are devices that broadcast Wi-Fi signals and connect wireless clients to a wired network. In larger deployments, multiple access points are managed by a wireless controller, which centralizes configuration, monitoring, and roaming policies across all APs. This controller-based architecture simplifies management and ensures consistent performance and security across the entire wireless network.
+Pontos de acesso sem fio (APs) são dispositivos que transmitem sinal Wi-Fi e conectam clientes sem fio a uma rede com cabos. Em implantações maiores, múltiplos pontos de acesso são gerenciados por um controlador sem fio, que centraliza a configuração, monitoramento e políticas de roamed entre todos os APs. Esta arquitetura baseada em controladores simplifica o gerenciamento e garante desempenho e segurança consistentes na rede sem fio inteira.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What Is Access Point Controller and How to Use?](https://www.qsfptek.com/qt-news/what-is-access-point-controller-and-how-to-use.html?srsltid=AfmBOopKCqq5gmcPlfeBDm4CFpiZhpfyx38GQ0Ec33h9U_W3Hl6j3W7A)
-- [@video@Wireless Access Points Explained - Home Networking For Beginners](https://www.youtube.com/watch?v=bRjbil52Qm4)
+- [@artigo@O que é um Controlador de Ponto de Acesso e Como Usar?](https://www.qsfptek.com/qt-news/what-is-access-point-controller-and-how-to-use.html?srsltid=AfmBOopKCqq5gmcPlfeBDm4CFpiZhpfyx38GQ0Ec33h9U_W3Hl6j3W7A)
+- [@vídeo@Pontos de Acesso Sem Fio Explicados - Redes Domésticas para Iniciantes](https://www.youtube.com/watch?v=bRjbil52Qm4)

@@ -1,9 +1,9 @@
-# OSI Model
+# Modelo OSI
 
-The OSI (Open Systems Interconnection) model is a conceptual framework that standardizes the functions of a network into seven distinct layers, from physical transmission up to application-level communication. It was developed to help different systems and vendors communicate using common standards, making troubleshooting and network design more systematic. Each layer has a specific role and interacts only with the layers directly above and below it.
+O Modelo OSI (Open Systems Interconnection) é um quadro conceitual que estabelece funções de uma rede em sete camadas distintas, desde a transmissão física até a comunicação no nível da aplicação. Foi desenvolvido para ajudar diferentes sistemas e fornecedores a se comunicarem usando padrões comuns, tornando o diagnóstico e o design de redes mais sistemáticos. Cada camada tem um papel específico e interage apenas com as camadas diretamente acima e abaixo dela.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is the OSI Model?](https://www.cloudflare.com/en-gb/learning/ddos/glossary/open-systems-interconnection-model-osi/)
-- [@article@OSI Model](https://www.imperva.com/learn/application-security/osi-model/)
-- [@video@What is OSI Model?](https://www.youtube.com/watch?v=Ilk7UXzV_Qc)
+- [@artigo@O que é o Modelo OSI?](https://www.cloudflare.com/en-gb/learning/ddos/glossary/open-systems-interconnection-model-osi/)
+- [@artigo@Modelo OSI](https://www.imperva.com/learn/application-security/osi-model/)
+- [@vídeo@O que é o Modelo OSI?](https://www.youtube.com/watch?v=Ilk7UXzV_Qc)

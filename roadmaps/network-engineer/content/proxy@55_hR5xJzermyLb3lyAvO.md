@@ -1,9 +1,9 @@
 # Proxy
 
-A proxy firewall operates at the application layer and acts as an intermediary between internal clients and external servers, inspecting the full content of network requests and responses. Instead of allowing direct connections, all traffic is routed through the proxy, which can apply content filtering, authentication, and logging. Because it terminates and re-establishes each connection, a proxy firewall provides deep inspection but can introduce latency.
+Um firewall proxy opera na camada de aplicativos e atua como um intermediário entre clientes internos e servidores externos, inspecionando o conteúdo completo das solicitações e respostas da rede. Em vez de permitir conexões diretas, todo o tráfego é roteado através do proxy, que pode aplicar filtragem de conteúdo, autenticação e registro em log. Porque ele termina e reestabelece cada conexão, um firewall proxy fornece uma inspeção profunda, mas pode introduzir latência.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What Is A Proxy Firewall?](https://www.fortinet.com/resources/cyberglossary/proxy-firewall)
-- [@video@Types of Firewalls Explained](https://www.youtube.com/watch?v=IbimC-tx7XI)
-- [@video@What is a Proxy Server?](https://www.youtube.com/watch?v=5cPIukqXe5w)
+- [@artigo@O que é um Firewall Proxy?](https://www.fortinet.com/resources/cyberglossary/proxy-firewall)
+- [@vídeo@Tipos de Firewalls Explained](https://www.youtube.com/watch?v=IbimC-tx7XI)
+- [@vídeo@O que é um Servidor Proxy?](https://www.youtube.com/watch?v=5cPIukqXe5w)

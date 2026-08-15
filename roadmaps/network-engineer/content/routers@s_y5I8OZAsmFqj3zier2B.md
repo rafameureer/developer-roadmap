@@ -1,8 +1,8 @@
-# Routers
+# Roteadores
 
-A router is a network device that forwards data packets between different networks, directing traffic based on IP addresses. It determines the best path for data to travel from source to destination, making routing decisions using routing tables and protocols. Routers are what connect your home or office network to the Internet and are essential for communication between separate networks.
+Um roteador é um dispositivo de rede que encaminha pacotes de dados entre diferentes redes, direcionando o tráfego com base em endereços IP. Ele determina a melhor rota para que os dados viajem da fonte até o destino, tomando decisões de roteamento usando tabelas de roteamento e protocolos. Roteadores são o que conectam sua rede doméstica ou de escritório à Internet e são essenciais para a comunicação entre redes separadas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is a router?](https://www.cloudflare.com/en-gb/learning/network-layer/what-is-a-router/)
-- [@video@Modem vs Router - What's the difference?](https://www.youtube.com/watch?v=Mad4kQ5835Y)
+- [@artigo@O que é um roteador?](https://www.cloudflare.com/pt-br/learning/network-layer/o-que-e-um-roteador/)
+- [@vídeo@Modem vs Roteador - Qual a diferença?](https://www.youtube.com/watch?v=Mad4kQ5835Y)

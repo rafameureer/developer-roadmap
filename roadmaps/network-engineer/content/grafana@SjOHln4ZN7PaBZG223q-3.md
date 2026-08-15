@@ -1,9 +1,9 @@
 # Grafana
 
-Grafana is an open-source data visualization and dashboarding platform that connects to a wide range of data sources, including Prometheus, InfluxDB, Elasticsearch, and SNMP collectors, and displays the data in customizable, real-time dashboards. In network engineering, it is commonly used to visualize metrics like interface traffic, packet loss, latency, and device health collected from monitoring tools. Grafana does not collect data itself but excels at making complex time-series data understandable through graphs, gauges, and alerts.
+O Grafana é uma plataforma de visualização e painel de controle de dados de código aberto que se conecta a uma ampla gama de fontes de dados, incluindo Prometheus, InfluxDB, Elasticsearch e coletores SNMP, e exibe os dados em painéis personalizáveis e em tempo real. No engenharia de redes, ele é comumente usado para visualizar métricas como tráfego de interface, perda de pacotes, latência e saúde do dispositivo coletadas por ferramentas de monitoramento. O Grafana não coleta dados por si só, mas excelencia em tornar dados complexos de séries temporais compreensíveis através de gráficos, medidores e alertas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Grafana](https://grafana.com/)
-- [@official@Grafana Webinars and Videos](https://grafana.com/videos/)
-- [@video@Server Monitoring // Prometheus and Grafana Tutorial](https://www.youtube.com/watch?v=9TJx7QTrTyo)
+- [@oficial@Grafana](https://grafana.com/)
+- [@oficial@Webinars e Vídeos do Grafana](https://grafana.com/videos/)
+- [@video@Monitoramento de Servidor // Tutorial de Prometheus e Grafana](https://www.youtube.com/watch?v=9TJx7QTrTyo)

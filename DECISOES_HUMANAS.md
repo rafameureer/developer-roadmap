@@ -4,7 +4,7 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 
 ---
 
-> ⚠️ **Total de itens sinalizados:** 1226
+> ⚠️ **Total de itens sinalizados:** 1271
 
 | Arquivo / Tópico | Motivo da Sinalização | Data/Hora |
 |---|---|---|
@@ -1234,3 +1234,48 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 | `roadmaps/mongodb/content/what-is-mongodb@tJljSlb5S_tZLZhZHHd_I.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:57:22.166169 |
 | `roadmaps/mongodb/content/when-to-use-mongodb@qh8MEbXKPVt8mqlarhUj0.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:57:27.011195 |
 | `roadmaps/mongodb/content/x509-certificate-auth@NV39oWwr7iB_dnlnD_Q6Y.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:57:36.421445 |
+| `roadmaps/network-engineer/content/arp@FuIjDNBlT5SSf9lCG_e3e.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:58:45.706442 |
+| `roadmaps/network-engineer/content/aws@YuiWVG6IB5tXBmQfZVM9m.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:58:51.880136 |
+| `roadmaps/network-engineer/content/azure@ureyf-ZuLYApXDMh_772m.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T09:58:58.241482 |
+| `roadmaps/network-engineer/content/client@8QCl0RNdxtpva4AxJUKMT.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T10:00:11.277928 |
+| `roadmaps/network-engineer/content/cloud-certifications@fSf714jdEpuR9s5-w9wgC.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T10:00:16.234849 |
+| `roadmaps/network-engineer/content/cloud-network-types@q-J08VY4H4y-XfDgpF1ap.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T10:00:21.112869 |
+| `roadmaps/network-engineer/content/cloud-networking-basics@5ye5erjT8jOhptU_ZFY9E.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T10:00:45.435886 |
+| `roadmaps/network-engineer/content/cloud-routing@4QMijqUnLobtmoJVPno1A.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T10:00:51.534920 |
+| `roadmaps/network-engineer/content/cloud-vpn@XoEA6plSo5DSw2GKO05Vv.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T10:00:57.100645 |
+| `roadmaps/network-engineer/content/cloud@GQNvSg3w5UUtpre_9_Pjl.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T10:01:16.261861 |
+| `roadmaps/network-engineer/content/cloudflare@ltBgGfY9KOS87dPUs476I.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T10:01:19.540840 |
+| `roadmaps/network-engineer/content/comptia-network@4RGbNOfMPDbBcvUFWTTCV.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T10:01:45.171185 |
+| `roadmaps/network-engineer/content/comptia-security@AxeDcKK3cUtEojtHQPBw7.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T10:01:50.308694 |
+| `roadmaps/network-engineer/content/controllers@dw2yqbXJdfcPutP_oi_Sk.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T10:01:54.447521 |
+| `roadmaps/network-engineer/content/gcp@u2EeL1CasEoOTO7sORiRG.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T10:03:33.495931 |
+| `roadmaps/network-engineer/content/glbp@pF3nA9VU7t32cgyrejntj.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T10:03:39.341203 |
+| `roadmaps/network-engineer/content/gns3@rwwp_CinwcRXtJ_jv0rs7.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T10:03:44.307934 |
+| `roadmaps/network-engineer/content/linux-for-networking@5o_VRIz7dZ7Pm3FsAW7We.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T10:06:03.176913 |
+| `roadmaps/network-engineer/content/load-balancer@R5dmATbOlYEFce7rQImiw.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T10:06:07.892796 |
+| `roadmaps/network-engineer/content/load-balancing@i5ojP4on5Iz2MgeFc0050.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T10:06:13.483187 |
+| `roadmaps/network-engineer/content/mobile-networks@nBXPiMyDKkFtD25ReqUEF.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T10:07:02.817625 |
+| `roadmaps/network-engineer/content/modems@5aZe1jNCH2cM-8ZCYeI-e.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T10:07:07.712838 |
+| `roadmaps/network-engineer/content/mpls@uH-ufJAMyoqDlx7RzYsnX.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T10:07:12.259933 |
+| `roadmaps/network-engineer/content/napalm@C-fB6MVaegHPXPxsV3ZEh.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T10:07:34.964889 |
+| `roadmaps/network-engineer/content/nat-vs-pat@8aKWoGDQobyc53A2ByJXo.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T10:07:38.111027 |
+| `roadmaps/network-engineer/content/nat64@4xKfS5faxHqJ1JV2jWu9B.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T10:07:44.516019 |
+| `roadmaps/network-engineer/content/pan@fLXIQLKecjWUvjIWUaF9r.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T10:09:56.085508 |
+| `roadmaps/network-engineer/content/patnat-overload@1k6V7nlZHU7b6IuVT-kPa.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T10:10:01.649971 |
+| `roadmaps/network-engineer/content/peer-to-peer-network@DaJDqRCvGNekZ-e6aDVZj.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T10:10:05.754586 |
+| `roadmaps/network-engineer/content/satellite@Vg-JGhGZLrYtZCdA-u5s4.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T10:11:59.761111 |
+| `roadmaps/network-engineer/content/sd-wan@vplU66XdAm84SWTcS092H.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T10:12:05.519828 |
+| `roadmaps/network-engineer/content/security-groups@XVBia0Me-Nllgi56PW3W0.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T10:12:11.408880 |
+| `roadmaps/network-engineer/content/sntp@GhurQiBhFWlYQ7slPP8QU.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T10:12:59.065740 |
+| `roadmaps/network-engineer/content/socket@jvMvCRqstz3Z7cKYv6MZX.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T10:13:02.652974 |
+| `roadmaps/network-engineer/content/speedtest@Qcy3RjC0Queb5MxaLUMHp.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T10:13:06.472461 |
+| `roadmaps/network-engineer/content/spine-leaf@HPEtXVRezN0b0EAjx2wrF.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T10:13:28.562825 |
+| `roadmaps/network-engineer/content/ssh@D-4ZVP3RqLuNDzXamRlv3.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T10:13:32.254729 |
+| `roadmaps/network-engineer/content/ssl--tls@ZtMTMBQkOWoM-su3V-T8Z.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T10:13:35.885273 |
+| `roadmaps/network-engineer/content/vlsm@tXjRU0HJ2d9RWxuOQ79wH.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T10:15:51.332775 |
+| `roadmaps/network-engineer/content/vpn@b2HXcIkkjJB8WhHbrVesk.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T10:15:55.437687 |
+| `roadmaps/network-engineer/content/vpns@WHYQSWWe4mKUl7OC9thyF.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T10:16:00.144645 |
+| `roadmaps/network-engineer/content/wireless-site-surveys@HkPONvRMHU5b3OwCvfMXM.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T10:17:06.022187 |
+| `roadmaps/network-engineer/content/wireshark@Ly43qxaO0RsKSy-_VuIBx.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T10:17:10.030456 |
+| `roadmaps/network-engineer/content/wlan@D_zZAYVkxB_SLTCuhqkZY.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T10:17:14.050381 |
+| `roadmaps/network-engineer/content/zigbee--z-wave@29J7P_SMDppcBiJJ-WGOr.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T10:17:41.175916 |

@@ -1,9 +1,9 @@
 # MPLS VPN
 
-MPLS VPN is a technique that uses Multiprotocol Label Switching to create private, isolated network connections over a shared provider backbone. Service providers use it to offer private WAN connectivity to enterprise customers, where each customer's traffic is logically separated from others, even though it travels across the same physical infrastructure. MPLS VPNs are highly scalable and offer predictable performance, making them a popular choice for connecting multiple branch offices across a wide area network.
+MPLS VPN é uma técnica que usa Multiprotocol Label Switching para criar conexões de rede privadas e isoladas sobre um backbone compartilhado fornecido. Os provedores de serviços usam essa tecnologia para oferecer conectividade WAN privada a clientes empresariais, onde o tráfego de cada cliente é logicamente separado dos outros, mesmo que ele percorra a mesma infraestrutura física. As MPLS VPNs são altamente escaláveis e oferecem desempenho previsível, tornando-as uma escolha popular para conectar várias filiais em uma rede de área ampla.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@MPLS VPN services, types, and benefits](https://nordvpn.com/blog/mpls-vpn)
+- [@article@Serviços, tipos e benefícios da MPLS VPN](https://nordvpn.com/blog/mpls-vpn)
 - [@article@MPLS](https://networklessons.com/mpls)
-- [@video@Understanding L2 VPNs in MPLS](https://www.youtube.com/watch?v=PErdlfW-wkQ)
+- [@video@Compreendendo L2 VPNs na MPLS](https://www.youtube.com/watch?v=PErdlfW-wkQ)

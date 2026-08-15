@@ -1,9 +1,9 @@
 # IP vs MAC vs ARP
 
-An IP address is a logical address used to identify a device across networks and is assigned by software, while a MAC address is a physical address burned into the network interface hardware, used for communication within a local network segment. ARP (Address Resolution Protocol) bridges the two by resolving a known IP address to its corresponding MAC address so that data can be delivered on the local network. Together, these three concepts work in layers: IP handles routing across networks, MAC handles delivery within a network, and ARP connects them.
+Um endereço IP é um endereço lógico usado para identificar um dispositivo em redes diferentes e atribuído por software, enquanto um endereço MAC é um endereço físico gravado no hardware da interface de rede, usado para comunicação dentro de um segmento de rede local. O ARP (Protocolo de Resolução de Endereços) conecta esses dois elementos, resolvendo um endereço IP conhecido em seu correspondente endereço MAC, permitindo que dados sejam entregues na rede local. Juntos, esses três conceitos funcionam em camadas: o IP lida com a roteagem entre redes, o MAC lida com a entrega dentro de uma rede e o ARP os conecta.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@ARP – Associating IP with MAC addresses](https://www.homenethowto.com/switching/arp-mac-ip/)
-- [@article@Understanding MAC Addresses & ARP](https://www.youtube.com/watch?v=R41uQv_Ap0s)
-- [@article@How does ARP work with IP and MAC addresses](https://www.youtube.com/watch?v=TOYgyYpOK4I)
+- [@artigo@ARP – Associando IP com endereços MAC](https://www.homenethowto.com/switching/arp-mac-ip/)
+- [@artigo@Compreendendo Endereços MAC e ARP](https://www.youtube.com/watch?v=R41uQv_Ap0s)
+- [@artigo@Como o ARP funciona com endereços IP e MAC](https://www.youtube.com/watch?v=TOYgyYpOK4I)

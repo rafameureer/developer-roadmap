@@ -1,9 +1,9 @@
 # LAN
 
-A LAN, or Local Area Network, is a network that connects devices within a limited geographic area, such as a home, office, or building. LANs typically use Ethernet cables or Wi-Fi to link computers, printers, and other devices, allowing them to share files and resources at high speeds. Because all devices are physically close together, LANs offer low latency and high bandwidth compared to larger networks.
+Uma LAN, ou Rede de Área Local, é uma rede que conecta dispositivos em um área geográfica limitada, como uma casa, escritório ou edifício. As LANs geralmente usam cabos Ethernet ou Wi-Fi para conectar computadores, impressoras e outros dispositivos, permitindo que eles compartilhem arquivos e recursos a alta velocidade. Como todos os dispositivos estão fisicamente próximos um do outro, as LANs oferecem latência baixa e largura de banda alta em comparação com redes maiores.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What Is a LAN?](https://www.cisco.com/site/us/en/learn/topics/networking/what-is-a-lan-local-area-network.html)
-- [@video@LAN, WAN, SUBNET - EXPLAINED](https://www.youtube.com/watch?v=NyZWSvSj8ek&t=40s)
-- [@video@LAN vs. WAN: What's the Difference? | Network Essentials](https://www.youtube.com/watch?v=5OoX_cRLaNM)
+- [@artigo@O que é uma LAN?](https://www.cisco.com/site/us/en/learn/topics/networking/what-is-a-lan-local-area-network.html)
+- [@vídeo@LAN, WAN, SUBNET - EXPLAINED](https://www.youtube.com/watch?v=NyZWSvSj8ek&t=40s)
+- [@vídeo@LAN vs. WAN: O que é a diferença? | Elementos de rede essenciais](https://www.youtube.com/watch?v=5OoX_cRLaNM)

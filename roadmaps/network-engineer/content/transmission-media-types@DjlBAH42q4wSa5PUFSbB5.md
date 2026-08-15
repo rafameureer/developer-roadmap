@@ -1,9 +1,9 @@
-# Transmission Media Types
+# Tipos de Meios de Transmissão
 
-Transmission media refers to the physical or wireless channels through which data travels between devices. Wired media includes twisted pair cables (like Ethernet), coaxial cables, and fiber optic cables, each with different speeds, ranges, and interference characteristics. Wireless media uses radio waves, microwaves, or infrared signals to transmit data without physical connections.
+Meio de transmissão se refere aos canais físicos ou sem fio através dos quais os dados viajam entre dispositivos. Os meios de transmissão por cabo incluem cabos parafusados (como Ethernet), cabos coaxiais e fibras ópticas, cada um com diferentes velocidades, alcance e características de interferência. Os meios de transmissão sem fio usam ondas radioelétricas, microwaves ou sinais infravermelhos para transmitir dados sem conexões físicas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Transmission Media and Its Types in Computer Networks](https://www.uninets.com/blog/transmission-media-in-computer-networks)
-- [@video@Guided Vs Unguided Transmission Media | Differences & Comparison | Types of Transmission Media](https://www.youtube.com/watch?v=vUDtFjiNib4)
-- [@video@CN 5 : Transmission Media | Guided & Unguided Media with Examples](https://www.youtube.com/watch?v=HryzQDpKvwA)
+- [@artigo@Meios de Transmissão e Seus Tipos em Redes Computacionais](https://www.uninets.com/blog/transmission-media-in-computer-networks)
+- [@vídeo@Transmissão Guiada vs Não Guiada | Diferenças & Comparação | Tipos de Meio de Transmissão](https://www.youtube.com/watch?v=vUDtFjiNib4)
+- [@vídeo@CN 5 : Meios de Transmissão | Meios Guiados e Não Guiados com Exemplos](https://www.youtube.com/watch?v=HryzQDpKvwA)

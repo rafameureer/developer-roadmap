@@ -1,8 +1,8 @@
-# Troubleshooting
+# Solução de Problemas
 
-Network troubleshooting is the process of identifying, diagnosing, and resolving problems that affect network connectivity, performance, or reliability. It requires a combination of systematic methodology, knowledge of networking concepts, and familiarity with diagnostic tools. Good troubleshooting is not about randomly trying fixes, it is about gathering evidence, forming a hypothesis, testing it, and working through the problem layer by layer until the root cause is found and resolved.
+A solução de problemas de rede é o processo de identificar, diagnosticar e resolver problemas que afetam a conectividade da rede, desempenho ou confiabilidade. Requer uma combinação de metodologia sistemática, conhecimento dos conceitos de rede e familiaridade com ferramentas de diagnóstico. Boa solução de problemas não é sobre tentar aleatoriamente reparos, é sobre coletar evidências, formular uma hipótese, testá-la e trabalhar através do problema camada por camada até que a causa raiz seja encontrada e resolvida.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What Is Network Troubleshooting?](https://www.cisco.com/site/us/en/learn/topics/networking/what-is-network-troubleshooting.html)
-- [@video@Steps for Network Troubleshooting](https://www.youtube.com/watch?v=1i3XdhC2ZAs)
+- [@artigo@O Que é a Solução de Problemas de Rede?](https://www.cisco.com/site/us/en/learn/topics/networking/what-is-network-troubleshooting.html)
+- [@vídeo@Passos para a Solução de Problemas de Rede](https://www.youtube.com/watch?v=1i3XdhC2ZAs)

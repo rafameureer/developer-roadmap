@@ -1,8 +1,8 @@
 # DNS
 
-DNS, or Domain Name System, is the system that translates human-readable domain names like [www.example.com](http://www.example.com) into IP addresses that computers use to identify each other on the network. Without DNS, users would need to memorize IP addresses to visit websites or access online services. DNS operates as a distributed, hierarchical database spread across many servers around the world.
+DNS, ou Sistema de Nome de Domínio (Domain Name System), é o sistema que traduz nomes de domínios humanamente legíveis como [www.example.com](http://www.example.com) em endereços IP que computadores usam para se identificar na rede. Sem DNS, usuários precisariam memorizar endereços IP para visitar sites ou acessar serviços online. O DNS opera como um banco de dados distribuído e hierárquico espalhado em muitos servidores ao redor do mundo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is DNS? | How DNS works](https://www.cloudflare.com/learning/dns/what-is-dns/)
-- [@video@How a DNS Server (Domain Name System) works.](https://www.youtube.com/watch?v=mpQZVYPuDGU)
+- [@artigo@O que é DNS? | Como o DNS funciona](https://www.cloudflare.com/learning/dns/what-is-dns/)
+- [@vídeo@Como um Servidor DNS (Sistema de Nome de Domínio) funciona.](https://www.youtube.com/watch?v=mpQZVYPuDGU)

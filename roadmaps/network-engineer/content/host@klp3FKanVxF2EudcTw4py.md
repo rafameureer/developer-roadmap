@@ -1,8 +1,8 @@
 # Host
 
-A host is any device connected to a network that has an IP address and can send or receive data. This includes computers, servers, printers, smartphones, and any other networked device. The term is used broadly to refer to any endpoint that participates in network communication.
+Um host é qualquer dispositivo conectado a uma rede que tenha um endereço IP e possa enviar ou receber dados. Isso inclui computadores, servidores, impressoras, smartphones e qualquer outro dispositivo de rede. O termo é usado amplamente para se referir a qualquer ponto final que participe da comunicação de rede.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is a Host: How It Works in Networking](https://www.temok.com/blog/what-is-a-host)
-- [@video@What is Web Hosting and How Does It Work?](https://www.youtube.com/watch?v=H8oAvyqQwew)
+- [@artigo@O que é um Host: Como ele funciona na rede](https://www.temok.com/blog/what-is-a-host)
+- [@vídeo@O que é Hospedagem Web e como ela funciona?](https://www.youtube.com/watch?v=H8oAvyqQwew)

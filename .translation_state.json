@@ -4962,7 +4962,158 @@
     "roadmaps/mongodb/content/unwind@AY-8KJGA9ZA6ay3rbURt3.md",
     "roadmaps/mongodb/content/update-and-relevant@liGbnGyQaG-Vqt6cuB91N.md",
     "roadmaps/mongodb/content/validate@4h8NdcdXmNqJxLkVJqPtX.md",
-    "roadmaps/mongodb/content/what-is-mongodb-atlas@1UXfFROvcunyhkx0zB_1S.md"
+    "roadmaps/mongodb/content/what-is-mongodb-atlas@1UXfFROvcunyhkx0zB_1S.md",
+    "roadmaps/network-engineer/content/access-points--controllers@x1B9MVsG_C-CejgLAeTzA.md",
+    "roadmaps/network-engineer/content/access-points@XPOTGRx3lpaHHNlzlMTPq.md",
+    "roadmaps/network-engineer/content/access-points@x1B9MVsG_C-CejgLAeTzA.md",
+    "roadmaps/network-engineer/content/acls@MVuNY7zJkimjXMMeXbVTa.md",
+    "roadmaps/network-engineer/content/ansible@nbOAx9ljA8eZEYRpnvpOW.md",
+    "roadmaps/network-engineer/content/ap-placement--coverage@_KcUvubLvgG0s9pbxiDko.md",
+    "roadmaps/network-engineer/content/apis-for-networking@PQyKcqw8-NIxE3_MAr58j.md",
+    "roadmaps/network-engineer/content/application@IVpbjVpRESZvx8k2Mik5B.md",
+    "roadmaps/network-engineer/content/application@bnYi5Bwth3f_nOpRDywXc.md",
+    "roadmaps/network-engineer/content/bandwidth@dmzQXBY3u5dZ9OtXLSE11.md",
+    "roadmaps/network-engineer/content/bgp@gCdUfkMlZwamhOpM5aUqr.md",
+    "roadmaps/network-engineer/content/bluetooth-basics@VdAObqd1uue--xbej2M-f.md",
+    "roadmaps/network-engineer/content/bluetooth@VdAObqd1uue--xbej2M-f.md",
+    "roadmaps/network-engineer/content/ccna@4RD22UZATfL8dc71YkJwQ.md",
+    "roadmaps/network-engineer/content/ccnp@lbAgU5lR1O7L_5mCbNz_D.md",
+    "roadmaps/network-engineer/content/channel-planning@-NZjacBrMq8AsFNgYdpup.md",
+    "roadmaps/network-engineer/content/channel-planning@n47x3D1lYmL8SR676_7Uu.md",
+    "roadmaps/network-engineer/content/cidr@y43H6qnMn4qUTjInlGR04.md",
+    "roadmaps/network-engineer/content/circuit-level-gateway@bolfExgkr0i8jEbw-GF3O.md",
+    "roadmaps/network-engineer/content/cisco-packet-tracer@cX0ZrSVpL8Xu0P8JaANyl.md",
+    "roadmaps/network-engineer/content/client-server-network@15Q1VPROHgjfaJkTLOfly.md",
+    "roadmaps/network-engineer/content/common-network-issues@aorLjhyk7VjFTWgV19uRf.md",
+    "roadmaps/network-engineer/content/data-link@wWaxMK7-hGSAZbp7RHrnH.md",
+    "roadmaps/network-engineer/content/datadog@RHve_fAltcV5ITmpBaChV.md",
+    "roadmaps/network-engineer/content/default-gateway@Z9B1TI61zhm7Vp-yur0pD.md",
+    "roadmaps/network-engineer/content/design-best-practices@yaxDHcIbupKmE51O8q3Q9.md",
+    "roadmaps/network-engineer/content/dhcp@yL4HVbX33i2wAj-k92X48.md",
+    "roadmaps/network-engineer/content/dns@plhYS2KebLyhuudwhEWHZ.md",
+    "roadmaps/network-engineer/content/dos--ddos@Absx6bmAk6xq8KDGC5e70.md",
+    "roadmaps/network-engineer/content/dynatrace@KFHcpdrwn70xEK4AWMQhS.md",
+    "roadmaps/network-engineer/content/eigrp@tgLkAZB5G4XZj_2QS9mnZ.md",
+    "roadmaps/network-engineer/content/encryption-basics@oxORoWnDRfGLor3BV76Wo.md",
+    "roadmaps/network-engineer/content/eve-ng@lK4h4bGgtUgH2QHEYomGN.md",
+    "roadmaps/network-engineer/content/failover@PcFSE-h39-bLmrVcc1ae7.md",
+    "roadmaps/network-engineer/content/firewalls@QiTR_A2pALS4UD7cOndjR.md",
+    "roadmaps/network-engineer/content/frame@JHvS4yZ7z8XyimBXmNG4r.md",
+    "roadmaps/network-engineer/content/ftp--sftp@yf85bJUO52dfE4G5wjSm9.md",
+    "roadmaps/network-engineer/content/google@cjUzC-pYTZCSNKeY3fFro.md",
+    "roadmaps/network-engineer/content/grafana@SjOHln4ZN7PaBZG223q-3.md",
+    "roadmaps/network-engineer/content/greipsec-tunnels@D4M9Yh2g5S4g7QNteA32Q.md",
+    "roadmaps/network-engineer/content/high-availability@no6c8-vVBQSoe1ruutOxj.md",
+    "roadmaps/network-engineer/content/host@klp3FKanVxF2EudcTw4py.md",
+    "roadmaps/network-engineer/content/hotspot-and-tethering@uEQVBbo3E7eBCyl_XVTuU.md",
+    "roadmaps/network-engineer/content/how-does-the-internet-work@k51wR5lAwf7qI-p4jb8ih.md",
+    "roadmaps/network-engineer/content/hsrp@pAnal6NJxnCxnNPDFEQ83.md",
+    "roadmaps/network-engineer/content/http--https@_st-ChGja7h83_MOwtiF2.md",
+    "roadmaps/network-engineer/content/hub@p9J57XYINH7TYgjw9G-r8.md",
+    "roadmaps/network-engineer/content/ids--ips@gqRtzgYUs87I7en2MCPSw.md",
+    "roadmaps/network-engineer/content/infrastructure-as-code@pKqBMC1Ck7h58e7cJDWPT.md",
+    "roadmaps/network-engineer/content/internet@TMBH_Y5fPYCIcjhISUojv.md",
+    "roadmaps/network-engineer/content/introduction@_OZl6uYkb61iQ_Wb0Q70Q.md",
+    "roadmaps/network-engineer/content/ip-address@FwwaKfxW5j5r4_lN6_G8Z.md",
+    "roadmaps/network-engineer/content/ip-addressing@2Ajvxz7ErF9tFKi6TuwI_.md",
+    "roadmaps/network-engineer/content/ip-vs-mac-vs-arp@eXoOjsMKNi90_sRdBc_nY.md",
+    "roadmaps/network-engineer/content/ipconfig--ifconfig@XZlgkympmXpmToDYel1sx.md",
+    "roadmaps/network-engineer/content/ipsec-vs-ssl-vpn@LesiUZyQTRgQErALy5W-v.md",
+    "roadmaps/network-engineer/content/ipv4-vs-ipv6@wzYaf1wtbo2RQ8JSRawFM.md",
+    "roadmaps/network-engineer/content/lan@6Wfv3THDhldz_9M6Hv1Gr.md",
+    "roadmaps/network-engineer/content/latency@u1nJXjWZekrzyiDvri6-O.md",
+    "roadmaps/network-engineer/content/least-connections@1Os97-x1qqdLJyKAjICiV.md",
+    "roadmaps/network-engineer/content/link-aggregation@h4_EMwTv7j_06MsBhURvg.md",
+    "roadmaps/network-engineer/content/lorawan@oPwP-9QV1xs6W00Gohfrl.md",
+    "roadmaps/network-engineer/content/mac-address-tables@Yoj06pntnFzv2NDlr6seC.md",
+    "roadmaps/network-engineer/content/mac-address@6zxS5esVlRNIDrQuZBaHz.md",
+    "roadmaps/network-engineer/content/man@usgE8mpRUSLMRv7d0kXy3.md",
+    "roadmaps/network-engineer/content/methodologies@WjhKYOnKJx3HSbDxtwAS0.md",
+    "roadmaps/network-engineer/content/mlps-vpn@GqTT8HjC8yHboiCwsT7Pt.md",
+    "roadmaps/network-engineer/content/netconf@qhjlKPJPOHElfTyxGy0EZ.md",
+    "roadmaps/network-engineer/content/netflow--sflow@sKbTs6q8CBF6_BTDu6xpy.md",
+    "roadmaps/network-engineer/content/netmiko@_5MtpKVNmBZI7phdwzvIX.md",
+    "roadmaps/network-engineer/content/netstat@lzGbPjMP5mkCZsNpYM2yK.md",
+    "roadmaps/network-engineer/content/network-access@x6gwBUjdcBwqjrSa_WNkp.md",
+    "roadmaps/network-engineer/content/network-attacks@iSXa4nyLa6AQDhFRPz87x.md",
+    "roadmaps/network-engineer/content/network-automation@LDI6dH-AlVtfRvaXImSAU.md",
+    "roadmaps/network-engineer/content/network-design-principles@NP6dgisuDN583hVH7iUuC.md",
+    "roadmaps/network-engineer/content/network-devices@2b4Bbs-I8k62zOF97Z_uZ.md",
+    "roadmaps/network-engineer/content/network-simulators@ZYgCKyGUoxocad6iJw8x5.md",
+    "roadmaps/network-engineer/content/network@20DK-6sEsl8uy6JJoVgE1.md",
+    "roadmaps/network-engineer/content/next-generation@i7aEMN40vQesQbJENQ6gV.md",
+    "roadmaps/network-engineer/content/nfc@85ZCXmzs67irYQ-Fqnxra.md",
+    "roadmaps/network-engineer/content/nmap@dwtbPxxNGQtoStpEd_ydY.md",
+    "roadmaps/network-engineer/content/nslookup@Do6-cQ3nXGjGSmGgDJ_eA.md",
+    "roadmaps/network-engineer/content/ntp@b4bKowbNbUcMscWrrT_-k.md",
+    "roadmaps/network-engineer/content/observability@PHqTXlkAaRPhmRod52aP3.md",
+    "roadmaps/network-engineer/content/opendns@laCGHS68FdPDeBpC172vo.md",
+    "roadmaps/network-engineer/content/osi-model@pt6RO3SEStG9TJOWpt_8D.md",
+    "roadmaps/network-engineer/content/ospf@OZICDRrSq-KJNAGTlmwr7.md",
+    "roadmaps/network-engineer/content/package@rlUkMwML31YWfLSYLPdaL.md",
+    "roadmaps/network-engineer/content/packet-analysis@36jbOEEyvUP-gxTB_Di_a.md",
+    "roadmaps/network-engineer/content/packet-filtering@wNwT9OgpslH4YG9BZvQIK.md",
+    "roadmaps/network-engineer/content/packet-prioritization@IOu0hW9FZsLYe-KIaZZ4s.md",
+    "roadmaps/network-engineer/content/physical@_lqxrKkanbNDimmzcdM1I.md",
+    "roadmaps/network-engineer/content/ping@h0E993-5ONxubc4NZEXjP.md",
+    "roadmaps/network-engineer/content/port@TJZ9vsSxQlotKCWQ2HHfS.md",
+    "roadmaps/network-engineer/content/presentation@U3sXE8skdwBwCcYQuKyzk.md",
+    "roadmaps/network-engineer/content/prometheus@_uu_DSfe2EPCyJYB_it0q.md",
+    "roadmaps/network-engineer/content/protocol@9q3EjoReSztEf3wffNDIs.md",
+    "roadmaps/network-engineer/content/proxy@55_hR5xJzermyLb3lyAvO.md",
+    "roadmaps/network-engineer/content/public-vs-private-addresses@DJVkJUV6Sx2Ez6t6yCOm7.md",
+    "roadmaps/network-engineer/content/python-for-networking@UJTUgFFNTr-UdtwcUoOp-.md",
+    "roadmaps/network-engineer/content/qos-quality-of-service@1AWSj4RYLouXC4eJvg2N9.md",
+    "roadmaps/network-engineer/content/quad9@kSUBDvguhusW8qaCK5bbL.md",
+    "roadmaps/network-engineer/content/restconf@f6yRhyIy0tNx09oqUXH0u.md",
+    "roadmaps/network-engineer/content/rip@koRzHVPTKTNmTt8dC-h3m.md",
+    "roadmaps/network-engineer/content/roaming--band-steering@6zZBlSrGxYnkPgBWe48L6.md",
+    "roadmaps/network-engineer/content/round-robin@uQz1QLVkQtwf8ZeXexEQ1.md",
+    "roadmaps/network-engineer/content/routers@s_y5I8OZAsmFqj3zier2B.md",
+    "roadmaps/network-engineer/content/routing@rbm4cELHUgaL_Gl9uuLq1.md",
+    "roadmaps/network-engineer/content/san@9tkaAhzPhiiGUoL2LqbPb.md",
+    "roadmaps/network-engineer/content/server@huzbiZu77aeCBVU40C429.md",
+    "roadmaps/network-engineer/content/session@q6dPa3Nqjw8cmZApzpcZK.md",
+    "roadmaps/network-engineer/content/shell--scripting@m8opRjj1rNgQqoN3rTkbI.md",
+    "roadmaps/network-engineer/content/site-to-site-vs-remote-access@e0mUmniS-GT8DccJq95VB.md",
+    "roadmaps/network-engineer/content/smtp--imap@CxC1hOOue_2aNHs1KdkAV.md",
+    "roadmaps/network-engineer/content/snmp@KqxGa5MoKuprDLF9OY988.md",
+    "roadmaps/network-engineer/content/stateful-inspection@jjdqsmXHNt78cgVDr_gC_.md",
+    "roadmaps/network-engineer/content/static-vs-dynamic-nat@A-zwe2FsXS7QfGymbb3GI.md",
+    "roadmaps/network-engineer/content/static-vs-dynamic-routing@n3fdYKpMFSkcasrqokPO8.md",
+    "roadmaps/network-engineer/content/stp@DM50xKwBoRZa0_JdQi07v.md",
+    "roadmaps/network-engineer/content/subnet-masks@KpifvB6Yn9u32TRBX9hMs.md",
+    "roadmaps/network-engineer/content/subnetting@d93bl-7gSB8lu43BQlqvY.md",
+    "roadmaps/network-engineer/content/supernetting@zX1S1ZXm8vTcyXhRvYZGv.md",
+    "roadmaps/network-engineer/content/switches@4iXennqlVoVVKcV1vCUmP.md",
+    "roadmaps/network-engineer/content/switching@TLfYI5HUUJBj1MNywlT3Z.md",
+    "roadmaps/network-engineer/content/tcpip-model@JL4oU_MaY-4QRWKQjMBZb.md",
+    "roadmaps/network-engineer/content/terraform@a1nC8vNJod_e0RrGjTeBd.md",
+    "roadmaps/network-engineer/content/three-tier@ThgTXZ7Q1jubAdS-UL8je.md",
+    "roadmaps/network-engineer/content/throughput@BBS99mZfQqfXDEnBlZy1B.md",
+    "roadmaps/network-engineer/content/traceroute--tracert@gvMthdnaTxXOUKx4rAl6S.md",
+    "roadmaps/network-engineer/content/traffic-management@E4ryTk563my0yfOhXvGwg.md",
+    "roadmaps/network-engineer/content/traffic-shaping@OoeM99CKlStR1qzyCv1GZ.md",
+    "roadmaps/network-engineer/content/transmission-media-types@DjlBAH42q4wSa5PUFSbB5.md",
+    "roadmaps/network-engineer/content/transport@Llr9kp0Oyyj2uZ9qNHCVL.md",
+    "roadmaps/network-engineer/content/transport@r6i0Wob3RNJrGdEnsZcQ-.md",
+    "roadmaps/network-engineer/content/troubleshooting@vG_95IDrk5lOnCQub2XkD.md",
+    "roadmaps/network-engineer/content/tunneling--vpns@WHYQSWWe4mKUl7OC9thyF.md",
+    "roadmaps/network-engineer/content/two-tier@t37pYpV51yTHI4InGYLOL.md",
+    "roadmaps/network-engineer/content/virtual-networks@-5_aMu3RtOBr0Vav9-Fyx.md",
+    "roadmaps/network-engineer/content/vlans@x0bAdjSBNfZ4gm1CwnPBK.md",
+    "roadmaps/network-engineer/content/vrfs@dwqMxvPbs-s2c6sgoPz-s.md",
+    "roadmaps/network-engineer/content/vrrp@XqCdBCL2E8XSCVlwrOohL.md",
+    "roadmaps/network-engineer/content/vxlan@Q6BKksLt1FrJQb0hv_KPn.md",
+    "roadmaps/network-engineer/content/wan@1xOaztV7JJaXK9B6Wa4YQ.md",
+    "roadmaps/network-engineer/content/web-application@xmkSedJJIDwrys8HzDD-j.md",
+    "roadmaps/network-engineer/content/what-are-networks@0BPBSnyYnEAScnqZ8q5ZX.md",
+    "roadmaps/network-engineer/content/wifi-standards@Cahf4Y8A0W-EHeeU4dTej.md",
+    "roadmaps/network-engineer/content/wireless-networking@RCUgWXsit4Jcma9UNBd2c.md",
+    "roadmaps/network-engineer/content/wireless-security@MThbykuwPtbDeskypaD7I.md",
+    "roadmaps/network-engineer/content/wpa-vs-wps@_J0L4Ir0pxXPVeW7x68dv.md",
+    "roadmaps/network-engineer/content/yang@XmFsOi61Atcwx3G3EJVzC.md",
+    "roadmaps/network-engineer/content/zero-trust-architecture@qW27P1HWMCtVkLgVHmU7z.md"
   ],
   "completed_roadmaps": [
     "frontend-beginner",
@@ -5020,7 +5171,8 @@
     "linux",
     "machine-learning",
     "mlops",
-    "mongodb"
+    "mongodb",
+    "network-engineer"
   ],
   "flagged_issues": [
     {
@@ -11152,8 +11304,233 @@
       "file": "roadmaps/mongodb/content/x509-certificate-auth@NV39oWwr7iB_dnlnD_Q6Y.md",
       "reason": "Falha na tradução automática após tentativas no Ollama",
       "timestamp": "2026-08-15T09:57:36.421445"
+    },
+    {
+      "file": "roadmaps/network-engineer/content/arp@FuIjDNBlT5SSf9lCG_e3e.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T09:58:45.706442"
+    },
+    {
+      "file": "roadmaps/network-engineer/content/aws@YuiWVG6IB5tXBmQfZVM9m.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T09:58:51.880136"
+    },
+    {
+      "file": "roadmaps/network-engineer/content/azure@ureyf-ZuLYApXDMh_772m.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T09:58:58.241482"
+    },
+    {
+      "file": "roadmaps/network-engineer/content/client@8QCl0RNdxtpva4AxJUKMT.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T10:00:11.277928"
+    },
+    {
+      "file": "roadmaps/network-engineer/content/cloud-certifications@fSf714jdEpuR9s5-w9wgC.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T10:00:16.234849"
+    },
+    {
+      "file": "roadmaps/network-engineer/content/cloud-network-types@q-J08VY4H4y-XfDgpF1ap.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T10:00:21.112869"
+    },
+    {
+      "file": "roadmaps/network-engineer/content/cloud-networking-basics@5ye5erjT8jOhptU_ZFY9E.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T10:00:45.435886"
+    },
+    {
+      "file": "roadmaps/network-engineer/content/cloud-routing@4QMijqUnLobtmoJVPno1A.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T10:00:51.534920"
+    },
+    {
+      "file": "roadmaps/network-engineer/content/cloud-vpn@XoEA6plSo5DSw2GKO05Vv.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T10:00:57.100645"
+    },
+    {
+      "file": "roadmaps/network-engineer/content/cloud@GQNvSg3w5UUtpre_9_Pjl.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T10:01:16.261861"
+    },
+    {
+      "file": "roadmaps/network-engineer/content/cloudflare@ltBgGfY9KOS87dPUs476I.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T10:01:19.540840"
+    },
+    {
+      "file": "roadmaps/network-engineer/content/comptia-network@4RGbNOfMPDbBcvUFWTTCV.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T10:01:45.171185"
+    },
+    {
+      "file": "roadmaps/network-engineer/content/comptia-security@AxeDcKK3cUtEojtHQPBw7.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T10:01:50.308694"
+    },
+    {
+      "file": "roadmaps/network-engineer/content/controllers@dw2yqbXJdfcPutP_oi_Sk.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T10:01:54.447521"
+    },
+    {
+      "file": "roadmaps/network-engineer/content/gcp@u2EeL1CasEoOTO7sORiRG.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T10:03:33.495931"
+    },
+    {
+      "file": "roadmaps/network-engineer/content/glbp@pF3nA9VU7t32cgyrejntj.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T10:03:39.341203"
+    },
+    {
+      "file": "roadmaps/network-engineer/content/gns3@rwwp_CinwcRXtJ_jv0rs7.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T10:03:44.307934"
+    },
+    {
+      "file": "roadmaps/network-engineer/content/linux-for-networking@5o_VRIz7dZ7Pm3FsAW7We.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T10:06:03.176913"
+    },
+    {
+      "file": "roadmaps/network-engineer/content/load-balancer@R5dmATbOlYEFce7rQImiw.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T10:06:07.892796"
+    },
+    {
+      "file": "roadmaps/network-engineer/content/load-balancing@i5ojP4on5Iz2MgeFc0050.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T10:06:13.483187"
+    },
+    {
+      "file": "roadmaps/network-engineer/content/mobile-networks@nBXPiMyDKkFtD25ReqUEF.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T10:07:02.817625"
+    },
+    {
+      "file": "roadmaps/network-engineer/content/modems@5aZe1jNCH2cM-8ZCYeI-e.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T10:07:07.712838"
+    },
+    {
+      "file": "roadmaps/network-engineer/content/mpls@uH-ufJAMyoqDlx7RzYsnX.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T10:07:12.259933"
+    },
+    {
+      "file": "roadmaps/network-engineer/content/napalm@C-fB6MVaegHPXPxsV3ZEh.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T10:07:34.964889"
+    },
+    {
+      "file": "roadmaps/network-engineer/content/nat-vs-pat@8aKWoGDQobyc53A2ByJXo.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T10:07:38.111027"
+    },
+    {
+      "file": "roadmaps/network-engineer/content/nat64@4xKfS5faxHqJ1JV2jWu9B.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T10:07:44.516019"
+    },
+    {
+      "file": "roadmaps/network-engineer/content/pan@fLXIQLKecjWUvjIWUaF9r.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T10:09:56.085508"
+    },
+    {
+      "file": "roadmaps/network-engineer/content/patnat-overload@1k6V7nlZHU7b6IuVT-kPa.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T10:10:01.649971"
+    },
+    {
+      "file": "roadmaps/network-engineer/content/peer-to-peer-network@DaJDqRCvGNekZ-e6aDVZj.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T10:10:05.754586"
+    },
+    {
+      "file": "roadmaps/network-engineer/content/satellite@Vg-JGhGZLrYtZCdA-u5s4.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T10:11:59.761111"
+    },
+    {
+      "file": "roadmaps/network-engineer/content/sd-wan@vplU66XdAm84SWTcS092H.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T10:12:05.519828"
+    },
+    {
+      "file": "roadmaps/network-engineer/content/security-groups@XVBia0Me-Nllgi56PW3W0.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T10:12:11.408880"
+    },
+    {
+      "file": "roadmaps/network-engineer/content/sntp@GhurQiBhFWlYQ7slPP8QU.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T10:12:59.065740"
+    },
+    {
+      "file": "roadmaps/network-engineer/content/socket@jvMvCRqstz3Z7cKYv6MZX.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T10:13:02.652974"
+    },
+    {
+      "file": "roadmaps/network-engineer/content/speedtest@Qcy3RjC0Queb5MxaLUMHp.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T10:13:06.472461"
+    },
+    {
+      "file": "roadmaps/network-engineer/content/spine-leaf@HPEtXVRezN0b0EAjx2wrF.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T10:13:28.562825"
+    },
+    {
+      "file": "roadmaps/network-engineer/content/ssh@D-4ZVP3RqLuNDzXamRlv3.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T10:13:32.254729"
+    },
+    {
+      "file": "roadmaps/network-engineer/content/ssl--tls@ZtMTMBQkOWoM-su3V-T8Z.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T10:13:35.885273"
+    },
+    {
+      "file": "roadmaps/network-engineer/content/vlsm@tXjRU0HJ2d9RWxuOQ79wH.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T10:15:51.332775"
+    },
+    {
+      "file": "roadmaps/network-engineer/content/vpn@b2HXcIkkjJB8WhHbrVesk.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T10:15:55.437687"
+    },
+    {
+      "file": "roadmaps/network-engineer/content/vpns@WHYQSWWe4mKUl7OC9thyF.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T10:16:00.144645"
+    },
+    {
+      "file": "roadmaps/network-engineer/content/wireless-site-surveys@HkPONvRMHU5b3OwCvfMXM.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T10:17:06.022187"
+    },
+    {
+      "file": "roadmaps/network-engineer/content/wireshark@Ly43qxaO0RsKSy-_VuIBx.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T10:17:10.030456"
+    },
+    {
+      "file": "roadmaps/network-engineer/content/wlan@D_zZAYVkxB_SLTCuhqkZY.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T10:17:14.050381"
+    },
+    {
+      "file": "roadmaps/network-engineer/content/zigbee--z-wave@29J7P_SMDppcBiJJ-WGOr.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T10:17:41.175916"
     }
   ],
-  "last_updated": "2026-08-15T09:57:36.433723",
+  "last_updated": "2026-08-15T10:17:41.186131",
   "total_translated_count": 54
 }

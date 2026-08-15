@@ -1,9 +1,9 @@
-# Static vs Dynamic NAT
+# NAT Estático vs Dinâmico
 
-Static NAT creates a permanent, one-to-one mapping between a specific private IP address and a specific public IP address, ensuring that a device always appears on the Internet with the same public IP. It is commonly used for servers that need to be consistently reachable from outside the network, such as web servers or mail servers hosted internally. Dynamic NAT, on the other hand, maps private IP addresses to public IP addresses from a pool on a first-come, first-served basis, with no device being guaranteed a specific public IP. Dynamic NAT is less common than PAT since it still requires one public IP per active connection, but is used in scenarios where full PAT is not suitable.
+O NAT estático cria um mapeamento permanente, de um para um, entre um endereço IP privado específico e um endereço IP público específico, garantindo que um dispositivo sempre apareça na Internet com o mesmo endereço IP público. Ele é comumente usado para servidores que precisam ser consistentemente acessíveis do exterior da rede, como servidores web ou servidores de email hospedados internamente. O NAT dinâmico, por outro lado, mapeia endereços IP privados para endereços IP públicos de um pool em uma base de primeiro a entrar, primeiro atendido, com nenhum dispositivo garantindo um endereço IP público específico. O NAT dinâmico é menos comum que o PAT, já que ainda requer um endereço IP público por conexão ativa, mas é usado em cenários onde o PAT completo não é adequado.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Static vs Dynamic NAT: What’s the Difference?](https://www.h2kinfosys.com/blog/static-vs-dynamic-nat-whats-the-difference/)
-- [@video@NAT Explained - Network Address Translation](https://www.youtube.com/watch?v=FTUV0t6JaDA)
-- [@video@NAT vs PAT, Static vs Dynamic](https://www.youtube.com/watch?v=KA56kj23RPU)
+- [@artigo@Diferença entre NAT Estático e Dinâmico: O Que É?](https://www.h2kinfosys.com/blog/static-vs-dynamic-nat-whats-the-difference/)
+- [@vídeo@NAT Explicado - Tradução de Endereços IP](https://www.youtube.com/watch?v=FTUV0t6JaDA)
+- [@vídeo@NAT vs PAT, Estático vs Dinâmico](https://www.youtube.com/watch?v=KA56kj23RPU)

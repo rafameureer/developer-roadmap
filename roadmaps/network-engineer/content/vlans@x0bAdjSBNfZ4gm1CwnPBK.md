@@ -1,8 +1,8 @@
 # VLANs
 
-A VLAN, or Virtual Local Area Network, is a logical subdivision of a physical network that groups devices together regardless of their physical location. VLANs allow network administrators to segment traffic, improve security, and reduce broadcast domains without needing separate physical switches. Devices in different VLANs cannot communicate directly without going through a router or a Layer 3 switch.
+Uma VLAN, ou Rede Local Virtual (VLAN), é uma subdivisão lógica de uma rede física que agrupa dispositivos juntos independentemente de sua localização física. VLANs permitem a administração de redes que segmentam o tráfego, melhoram a segurança e reduzem domínios de broadcast sem a necessidade de switches físicos separados. Dispositivos em diferentes VLANs não podem se comunicar diretamente sem passar por um roteador ou um switch de camada 3.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Guide to VLANs](https://www.cbtnuggets.com/blog/technology/networking/what-is-a-vlan-and-how-they-work)
-- [@video@VLAN Explained](https://www.youtube.com/watch?v=jC6MJTh9fRE)
+- [@artigo@Guia sobre VLANs](https://www.cbtnuggets.com/blog/technology/networking/what-is-a-vlan-and-how-they-work)
+- [@vídeo@VLAN Explicada](https://www.youtube.com/watch?v=jC6MJTh9fRE)

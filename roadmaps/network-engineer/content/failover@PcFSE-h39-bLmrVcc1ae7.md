@@ -1,8 +1,8 @@
 # Failover
 
-Failover is the process by which a system automatically switches to a backup server, network path, or resource when the primary one becomes unavailable due to failure or maintenance. The goal is to minimize downtime and ensure continuity of service without requiring manual intervention. Failover configurations can be active-passive, where the backup sits idle until needed, or active-active, where multiple systems share the load and take over seamlessly if one fails.
+Failover é o processo pelo qual um sistema automaticamente passa para um servidor de backup, caminho de rede ou recurso quando o principal fica indisponível devido a falha ou manutenção. O objetivo é minimizar o tempo de inatividade e garantir a continuidade dos serviços sem a necessidade de intervenção manual. As configurações de failover podem ser ativa-passiva, onde o backup fica ocioso até ser necessário, ou ativa-ativa, onde múltiplos sistemas compartilham a carga e assumem automaticamente o controle se um falhar.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Load Balancing vs Failover: An Overview](https://www.parallels.com/blogs/ras/load-balancing-vs-failover/?srsltid=AfmBOoqc5D3jnDadoZi4MfxBshZhvanecpzP_nXz_PbIt6NpAfEYs4pN)
-- [@video@Fail-over and High-Availability (Explained by Example)](https://www.youtube.com/watch?v=Zgy1miPsTNs)
+- [@artigo@Balanceamento de Carga vs Failover: Uma Visão Geral](https://www.parallels.com/blogs/ras/load-balancing-vs-failover/?srsltid=AfmBOoqc5D3jnDadoZi4MfxBshZhvanecpzP_nXz_PbIt6NpAfEYs4pN)
+- [@vídeo@Fail-over e Alta Disponibilidade (Explicado por Exemplo)](https://www.youtube.com/watch?v=Zgy1miPsTNs)

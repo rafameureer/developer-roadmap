@@ -1,8 +1,8 @@
 # WPA vs WPS
 
-WPA (Wi-Fi Protected Access) is a security protocol designed to protect wireless networks through encryption and authentication, with WPA2 and WPA3 being the current standards offering strong AES-based encryption. WPS (Wi-Fi Protected Setup) is a feature designed to simplify the process of connecting devices to a Wi-Fi network, typically using a PIN or button press. However, WPS has well-known security vulnerabilities (particularly the PIN method) and is generally recommended to be disabled on network equipment.
+O WPA (Wi-Fi Protected Access) é um protocolo de segurança projetado para proteger redes sem fio através da criptografia e autenticação, com o WPA2 e WPA3 sendo os padrões atuais oferecendo uma criptografia baseada em AES robusta. O WPS (Wi-Fi Protected Setup) é uma funcionalidade projetada para simplificar o processo de conexão de dispositivos a uma rede Wi-Fi, geralmente usando um PIN ou pressionar um botão. No entanto, o WPS possui vulnerabilidades de segurança bem conhecidas (especialmente o método PIN) e é geralmente recomendado desabilitar em equipamentos de rede.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Wi-Fi Security Comparisons](https://www.avast.com/c-wep-vs-wpa-or-wpa2)
-- [@video@WiFi (Wireless) Password Security](https://www.youtube.com/watch?v=WZaIfyvERcA)
+- [@artigo@Comparação de Segurança Wi-Fi](https://www.avast.com/c-wep-vs-wpa-or-wpa2)
+- [@vídeo@Segurança da Senha Wi-Fi (Wireless)](https://www.youtube.com/watch?v=WZaIfyvERcA)

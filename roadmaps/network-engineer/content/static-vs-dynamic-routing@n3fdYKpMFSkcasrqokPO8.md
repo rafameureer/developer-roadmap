@@ -1,8 +1,8 @@
-# Static vs Dynamic Routing
+# Roteamento Estático vs Dinâmico
 
-Static routing involves manually configuring fixed routes in a router's routing table, which do not change unless an administrator updates them. It is simple and predictable, but does not adapt automatically to network changes or failures. Dynamic routing uses routing protocols that allow routers to automatically discover routes, share information with neighboring routers, and adapt to topology changes in real time.
+O roteamento estático envolve a configuração manual de rotas fixas na tabela de roteamento de um roteador, que não mudam a menos que um administrador as atualize. É simples e previsível, mas não se adapta automaticamente às alterações ou falhas da rede. O roteamento dinâmico usa protocolos de roteamento que permitem aos roteadores descobrir rotas automaticamente, compartilhar informações com roteadores vizinhos e adaptar-se a mudanças na topologia em tempo real.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Static vs Dynamic Routing: What's the Difference?](https://www.ioriver.io/blog/static-dynamic-routing)
-- [@video@Understanding Routing!](https://www.youtube.com/watch?v=gQtgtKtvRdo&t=77s)
+- [@artigo@Diferença entre Roteamento Estático e Dinâmico: O Que É?](https://www.ioriver.io/blog/static-dynamic-routing)
+- [@vídeo@Entendendo o Roteamento!](https://www.youtube.com/watch?v=gQtgtKtvRdo&t=77s)

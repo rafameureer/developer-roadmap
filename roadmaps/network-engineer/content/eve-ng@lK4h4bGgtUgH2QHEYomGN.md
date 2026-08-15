@@ -1,8 +1,8 @@
 # EVE-NG
 
-EVE-NG (Emulated Virtual Environment - Next Generation) is a multi-vendor network emulation platform that allows users to create virtual network topologies. It runs as a virtual machine on a server, enabling engineers to drag and drop various virtual appliances, such as routers, switches, and firewalls, into a workspace to simulate complex enterprise environments. It provides a functional environment to test configurations, troubleshoot connectivity, and practice new protocols without the need for physical hardware.
+EVE-NG (Emulated Virtual Environment - Next Generation) é uma plataforma de emulação de rede multi-vendor que permite aos usuários criar topologias de rede virtuais. Ele roda como uma máquina virtual em um servidor, permitindo que engenheiros arrastem e soltem várias aplicações virtuais, como roteadores, switches e firewalls, para um espaço de trabalho para simular ambientes empresariais complexos. Ele fornece um ambiente funcional para testar configurações, diagnosticar conectividade e praticar novos protocolos sem a necessidade de hardware físico.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@EVE-NG](https://www.eve-ng.net/)
-- [@video@EVE NG Installation](https://www.youtube.com/watch?v=FDbgTlr-tnw)
+- [@oficial@EVE-NG](https://www.eve-ng.net/)
+- [@vídeo@Instalação do EVE NG](https://www.youtube.com/watch?v=FDbgTlr-tnw)

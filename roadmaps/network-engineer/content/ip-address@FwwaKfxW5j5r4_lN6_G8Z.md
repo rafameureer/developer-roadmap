@@ -1,8 +1,8 @@
-# IP Address
+# Endereço IP
 
-An IP address is a numerical label assigned to each device on a network that uses the Internet Protocol for communication. It serves two main purposes: identifying the host and providing its location in the network for routing purposes. IP addresses come in two versions: IPv4, which uses a 32-bit format, and IPv6, which uses a 128-bit format to accommodate a much larger number of devices.
+Um endereço IP é uma etiqueta numérica atribuída a cada dispositivo em uma rede que usa o Protocolo de Internet para comunicação. Ele desempenha duas funções principais: identificar o host e fornecer sua localização na rede para fins de roteamento. Os endereços IP vêm em duas versões: IPv4, que usa um formato de 32 bits, e IPv6, que usa um formato de 128 bits para caber com um número muito maior de dispositivos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What Is an IP Address?](https://www.coursera.org/articles/ip-address)
-- [@video@what is an IP Address?](https://www.youtube.com/watch?v=5WfiTHiU4x8)
+- [@article@O que é um Endereço IP?](https://www.coursera.org/articles/ip-address)
+- [@video@O que é um Endereço IP?](https://www.youtube.com/watch?v=5WfiTHiU4x8)

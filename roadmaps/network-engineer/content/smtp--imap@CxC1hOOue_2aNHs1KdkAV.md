@@ -1,8 +1,8 @@
 # SMTP / IMAP
 
-SMTP (Simple Mail Transfer Protocol) is the protocol used to send emails from a client to a server or between mail servers. IMAP (Internet Message Access Protocol) is used by email clients to retrieve and manage messages stored on a mail server, allowing access from multiple devices while keeping messages synchronized. Together, these protocols handle the sending and receiving sides of email communication.
+SMTP (Protocolo de Transferência Simples de E-mail) é o protocolo usado para enviar e-mails de um cliente a um servidor ou entre servidores de correio. IMAP (Protocolo de Acesso ao Correio na Internet) é usado por clientes de e-mail para recuperar e gerenciar mensagens armazenadas em um servidor de correio, permitindo acesso de múltiplos dispositivos enquanto mantém as mensagens sincronizadas. Juntos, esses protocolos lidam com os lados de envio e recebimento da comunicação de e-mail.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What are Email Protocols](https://www.siteground.com/tutorials/email/protocols-pop3-smtp-imap/)
-- [@video@SMTP vs IMAP vs POP3 Explained - Tutorial by Mailtrap](https://www.youtube.com/watch?v=IMLFrYqI-oQ)
+- [@artigo@O que são Protocolos de E-mail](https://www.siteground.com/tutorials/email/protocols-pop3-smtp-imap/)
+- [@vídeo@SMTP vs IMAP vs POP3 Explained - Tutorial by Mailtrap](https://www.youtube.com/watch?v=IMLFrYqI-oQ)

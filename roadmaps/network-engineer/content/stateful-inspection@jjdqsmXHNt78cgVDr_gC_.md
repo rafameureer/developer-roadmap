@@ -1,8 +1,8 @@
-# Stateful Inspection
+# Inspeção Estatal
 
-Stateful inspection, also known as dynamic packet filtering, is a firewall technique that tracks the state of active network connections and makes filtering decisions based on context, not just individual packets. By maintaining a state table of established connections, a stateful firewall can allow response packets that belong to a legitimate session while blocking unsolicited incoming traffic. This provides significantly better security than simple packet filtering without sacrificing too much performance.
+A inspeção estatal, também conhecida como filtragem de pacotes dinâmica, é uma técnica de firewall que rastreia o estado das conexões de rede ativas e toma decisões de filtragem com base no contexto, não apenas nos pacotes individuais. Ao manter uma tabela de estado de conexões estabelecidas, um firewall estatal pode permitir pacotes de resposta que pertencem a uma sessão legítima enquanto bloqueia o tráfego de entrada não solicitado. Isso oferece uma segurança significativamente melhor do que a filtragem de pacotes simples sem sacrificar muito desempenho.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What Is a Stateful Firewall?](https://www.paloaltonetworks.com/cyberpedia/what-is-a-stateful-firewall)
-- [@video@Stateful Inspection Firewall](https://www.youtube.com/watch?v=rC37jKY3ono)
+- [@artigo@O que é um Firewall Estatal?](https://www.paloaltonetworks.com/cyberpedia/what-is-a-stateful-firewall)
+- [@vídeo@Firewall de Inspeção Estatal](https://www.youtube.com/watch?v=rC37jKY3ono)

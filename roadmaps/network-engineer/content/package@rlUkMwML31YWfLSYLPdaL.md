@@ -1,8 +1,8 @@
-# Package
+# Pacote
 
-In networking, a package (or packet) is a small chunk of data broken off from a larger message for transmission across a network. Each packet travels independently through the network and is reassembled at the destination. Packets contain both the payload data and header information, such as source and destination addresses, needed to route them correctly.
+Na rede, um pacote (ou packet) é uma pequena porção de dados quebrada de uma mensagem maior para transmissão em uma rede. Cada pacote viaja independentemente pela rede e é reconstituído no destino. Os pacotes contêm tanto os dados do payload quanto informações de cabeçalho, como endereços de origem e destino, necessários para roteá-los corretamente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is a packet? | Network packet definition](https://www.cloudflare.com/en-gb/learning/network-layer/what-is-a-packet/)
-- [@video@How Does the Internet Work? | Data Packets](https://www.youtube.com/watch?v=KjD3KANH-xc)
+- [@artigo@O que é um pacote? | Definição de pacote de rede](https://www.cloudflare.com/en-gb/learning/network-layer/what-is-a-packet/)
+- [@vídeo@Como funciona a Internet? | Pacotes de dados](https://www.youtube.com/watch?v=KjD3KANH-xc)

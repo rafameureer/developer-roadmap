@@ -1,8 +1,8 @@
-# Network Devices
+# Dispositivos de Rede
 
-Network devices are the physical hardware components that make up a network and enable communication between connected devices. Each type of device serves a specific function, such as directing traffic, amplifying signals, or connecting different network segments. Understanding what each device does and how they interact is fundamental to designing and troubleshooting any network.
+Dispositivos de rede são os componentes de hardware físicos que compõem uma rede e permitem a comunicação entre dispositivos conectados. Cada tipo de dispositivo serve uma função específica, como direcionar o tráfego, amplificar sinais ou conectar diferentes segmentos de rede. Entender o que cada dispositivo faz e como eles se interagem é fundamental para projetar e solucionar problemas em qualquer rede.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@A Guide to Network Devices](https://sciencelogic.com/articles/a-guide-to-network-devices)
-- [@video@Network Devices Explained | Hub, Bridge, Router, Switch](https://www.youtube.com/watch?v=eMamgWllRFY)
+- [@artigo@Guia dos Dispositivos de Rede](https://sciencelogic.com/articles/a-guide-to-network-devices)
+- [@vídeo@Dispositivos de Rede Explicados | Hub, Bridge, Router, Switch](https://www.youtube.com/watch?v=eMamgWllRFY)

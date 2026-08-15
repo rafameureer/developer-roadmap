@@ -1,8 +1,8 @@
 # Switches
 
-A switch is a network device that connects multiple devices within the same local network and forwards data based on MAC addresses. Unlike a hub, a switch sends data only to the specific device it is intended for, making communication more efficient and reducing unnecessary network traffic. Managed switches offer additional features like VLANs, port security, and traffic monitoring.
+Um switch é um dispositivo de rede que conecta vários dispositivos na mesma rede local e encaminha dados com base em endereços MAC. Diferentemente de um hub, um switch envia dados apenas para o dispositivo específico ao qual ele está destinado, tornando a comunicação mais eficiente e reduzindo o tráfego de rede desnecessário. Os switches gerenciados oferecem funcionalidades adicionais como VLANs, segurança de porta e monitoramento de tráfego.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is a network switch? | Switch vs. router](https://www.cloudflare.com/en-gb/learning/network-layer/what-is-a-network-switch/)
-- [@video@What is a Network Switch?](https://www.youtube.com/watch?v=OvEu4owdjcg)
+- [@artigo@O que é um switch de rede? | Switch vs. roteador](https://www.cloudflare.com/en-gb/learning/network-layer/what-is-a-network-switch/)
+- [@vídeo@O que é um Switch de Rede?](https://www.youtube.com/watch?v=OvEu4owdjcg)

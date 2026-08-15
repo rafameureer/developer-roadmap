@@ -1,8 +1,8 @@
 # nslookup
 
-nslookup is a command-line tool used to query DNS servers and retrieve information about domain name resolution. It allows a network engineer to check what IP address a domain resolves to, which DNS server is being used, and whether DNS records such as A, MX, or CNAME entries are correctly configured. It is an essential tool for diagnosing DNS-related issues, such as a website being unreachable due to a missing or incorrect DNS record.
+nslookup é uma ferramenta de linha de comando usada para consultar servidores DNS e recuperar informações sobre a resolução de nomes de domínio. Ele permite que um engenheiro de rede verifique qual endereço IP um domínio resolve, qual servidor DNS está sendo usado e se as entradas de registro DNS como A, MX ou CNAME estão configuradas corretamente. É uma ferramenta essencial para diagnosticar problemas relacionados a DNS, como um site não estar acessível devido a um registro DNS ausente ou incorreto.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@What Is nslookup and How Does It Work?](https://www.networksolutions.com/blog/what-is-nslookup/)
-- [@video@What is Nslookup?](https://www.youtube.com/watch?v=n6pT8lbyhog)
+- [@oficial@O que é nslookup e Como Ele Funciona?](https://www.networksolutions.com/blog/what-is-nslookup/)
+- [@vídeo@O que é Nslookup?](https://www.youtube.com/watch?v=n6pT8lbyhog)

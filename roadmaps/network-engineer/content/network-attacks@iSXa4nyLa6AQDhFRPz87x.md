@@ -1,9 +1,9 @@
-# Network Attacks
+# Ataques à Rede
 
-Network attacks are deliberate actions taken by malicious actors to disrupt, intercept, or gain unauthorized access to network resources and data. They can target vulnerabilities in protocols, devices, software, or human behavior to compromise the confidentiality, integrity, or availability of a network. Understanding the types of attacks that exist is the first step in designing defenses and responding effectively when incidents occur.
+Os ataques à rede são ações deliberadas tomadas por atores maliciosos para interromper, interceptar ou obter acesso não autorizado aos recursos e dados da rede. Eles podem alvo de vulnerabilidades em protocolos, dispositivos, software ou comportamento humano para comprometer a confidencialidade, integridade ou disponibilidade de uma rede. Entender os tipos de ataques que existem é o primeiro passo para projetar defesas e responder efetivamente quando incidentes ocorrem.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated Cybersecurity Roadmap](https://roadmap.sh/cyber-security)
-- [@article@What Is a Network Attack?](https://www.cynet.com/security-foundations/attack-techniques/network-attacks-and-network-security-threats/)
-- [@article@10 Types of Network Attacks: Common Threats and How to Prevent Them](https://cymulate.com/blog/types-of-network-attacks/)
+- [@roadmap@Visite a Estrada Dedidada à Segurança Cibernética](https://roadmap.sh/cyber-security)
+- [@article@O que é um Ataque à Rede?](https://www.cynet.com/security-foundations/attack-techniques/network-attacks-and-network-security-threats/)
+- [@article@10 Tipos de Ataques à Rede: Ameaças Comuns e Como Prevenir](https://cymulate.com/blog/types-of-network-attacks/)

@@ -1,9 +1,9 @@
-# Packet Analysis
+# Análise de Pacotes
 
-Packet analysis is the process of capturing and inspecting the raw data packets traveling across a network to understand exactly what is happening at a detailed level. By examining individual packets, network engineers can diagnose connectivity issues, identify security threats, verify that protocols are behaving correctly, and understand the root cause of performance problems. Tools like Wireshark and tcpdump are the primary instruments used for packet analysis, allowing engineers to filter, decode, and interpret traffic at every layer of the OSI model.
+A análise de pacotes é o processo de capturar e examinar os pacotes de dados brutos em transito em uma rede para entender exatamente o que está acontecendo em um nível detalhado. Ao examinar pacotes individuais, engenheiros de redes podem diagnosticar problemas de conectividade, identificar ameaças de segurança, verificar se os protocolos estão funcionando corretamente e entender a causa raiz de problemas de desempenho. Ferramentas como o Wireshark e o tcpdump são as principais ferramentas usadas para análise de pacotes, permitindo aos engenheiros filtrar, decodificar e interpretar o tráfego em cada camada do modelo OSI.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What Is Network Packet Analysis and Why Does It Matter?](https://www.networkcritical.com/blogs/what-is-network-packet-analysis)
-- [@video@Hands-On Packet Analysis : The Course Overview](https://www.youtube.com/watch?v=1b54-GSYqDc&list=PLTgRMOcmRb3PFf5ZBQbM1OJUcs4SQjggv)
-- [@video@Wireshark Tutorial for Beginners | Network Scanning Made Easy](https://www.youtube.com/watch?v=qTaOZrDnMzQ)
+- [@artigo@O que é a Análise de Pacotes de Rede e Por Que Ela Importa?](https://www.networkcritical.com/blogs/what-is-network-packet-analysis)
+- [@vídeo@Análise de Pacotes em Ação: Visão Geral do Curso](https://www.youtube.com/watch?v=1b54-GSYqDc&list=PLTgRMOcmRb3PFf5ZBQbM1OJUcs4SQjggv)
+- [@vídeo@Tutorial de Wireshark para Iniciantes | Escaneamento de Rede Simplificado](https://www.youtube.com/watch?v=qTaOZrDnMzQ)

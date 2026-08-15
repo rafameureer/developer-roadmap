@@ -1,8 +1,8 @@
 # Cisco Packet Tracer
 
-Cisco Packet Tracer is a visual simulation and modeling tool that allows users to design, configure, and troubleshoot network topologies without the need for physical hardware. It provides a drag-and-drop interface where you can place virtual routers, switches, and end devices, and then execute Cisco IOS commands to test network connectivity and protocols. It is widely used to practice networking concepts, build simulated lab environments, and prepare for certification exams in a safe, risk-free virtual space.
+Cisco Packet Tracer é uma ferramenta de simulação e modelagem visual que permite aos usuários projetar, configurar e solucionar problemas em topologias de rede sem a necessidade de hardware físico. Ele fornece uma interface de arrastar e soltar onde você pode colocar roteadores virtuais, switches e dispositivos finais, e então executar comandos do Cisco IOS para testar a conectividade da rede e os protocolos. É amplamente utilizado para praticar conceitos de rede, construir ambientes de laboratório simulados e se preparar para exames de certificação em um espaço virtual seguro e sem riscos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Cisco Packet Tracer](https://www.netacad.com/cisco-packet-tracer)
-- [@article@What is Cisco Packet Tracer? | Free Training and Download](https://www.netcomlearning.com/blog/what-is-cisco-packet-tracer)
+- [@artigo@Cisco Packet Tracer](https://www.netacad.com/cisco-packet-tracer)
+- [@artigo@O que é Cisco Packet Tracer? | Treinamento Gratuito e Download](https://www.netcomlearning.com/blog/what-is-cisco-packet-tracer)

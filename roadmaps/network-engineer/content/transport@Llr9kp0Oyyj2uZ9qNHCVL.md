@@ -1,9 +1,9 @@
-# Transport
+# Transporte
 
-The Transport layer is the fourth layer of the OSI model, responsible for end-to-end communication, data flow control, and error recovery between applications on different hosts. It breaks data into segments, ensures they are delivered reliably and in order, and manages retransmission if packets are lost. The two main protocols at this layer are TCP, which provides reliable delivery, and UDP, which prioritizes speed over reliability.
+A camada de transporte é a quarta camada do modelo OSI, responsável por comunicação ponta a ponta, controle de fluxo de dados e recuperação de erros entre aplicativos em diferentes hosts. Ela quebra os dados em segmentos, garante que sejam entregues de forma confiável e na ordem correta, e gerencia a retransmissão se pacotes forem perdidos. Os dois principais protocolos nesta camada são TCP, que fornece entrega confiável, e UDP, que prioriza velocidade sobre confiabilidade.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Understanding Layer 4: The Transport Layer of the OSI Model](https://jumpcloud.com/it-index/understanding-layer-4-the-transport-layer-of-the-osi-model)
-- [@video@Networking Fundamentals: OSI 7 - Layer 4&5 - Transport & Session Layers - Part 1](https://www.youtube.com/watch?v=MBLecyQuNqk)
-- [@video@Networking Fundamentals: OSI 7 - Layer 4&5 - Transport & Session Layers - Part 2](https://www.youtube.com/watch?v=drvbm6R0ONY)
+- [@artigo@Entendendo a Camada 4: A Camada de Transporte do Modelo OSI](https://jumpcloud.com/it-index/understanding-layer-4-the-transport-layer-of-the-osi-model)
+- [@vídeo@Fundamentos da Redes: OSI 7 - Camadas 4&5 - Camada de Transporte & Sessão - Parte 1](https://www.youtube.com/watch?v=MBLecyQuNqk)
+- [@vídeo@Fundamentos da Redes: OSI 7 - Camadas 4&5 - Camada de Transporte & Sessão - Parte 2](https://www.youtube.com/watch?v=drvbm6R0ONY)

@@ -1,8 +1,8 @@
 # GRE / IPSec Tunnels
 
-GRE, or Generic Routing Encapsulation, is a tunneling protocol that wraps packets from one protocol inside packets of another, allowing traffic to be carried across networks that would not normally support it. On its own, GRE provides no encryption, so it is commonly combined with IPSec, which adds authentication and encryption to secure the tunnel. Together, GRE over IPSec is widely used to create flexible, secure connections between sites while supporting routing protocols and multicast traffic that plain IPSec tunnels cannot carry on their own.
+GRE, ou Generic Routing Encapsulation, é um protocolo de túnel que embrulha pacotes de um protocolo dentro de pacotes de outro, permitindo o transporte de tráfego em redes que normalmente não suportam isso. Por si só, o GRE não fornece criptografia, então ele é comumente combinado com IPSec, que adiciona autenticação e criptografia para segurar o túnel. Juntos, o GRE sobre IPSec é amplamente usado para criar conexões flexíveis e seguras entre sites enquanto suporta roteamento de protocolos e tráfego multicast que os túneis simples de IPSec não podem transportar por conta própria.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Encrypted GRE Tunnel with IPSEC](https://networklessons.com/vpn/encrypted-gre-tunnel-with-ipsec)
-- [@video@Net Talk - GRE over IPsec](https://www.youtube.com/watch?v=anm84IVNBZU)
+- [@artigo@Túnel GRE Criptografado com IPSec](https://networklessons.com/vpn/encrypted-gre-tunnel-with-ipsec)
+- [@video@Net Talk - GRE sobre IPsec](https://www.youtube.com/watch?v=anm84IVNBZU)

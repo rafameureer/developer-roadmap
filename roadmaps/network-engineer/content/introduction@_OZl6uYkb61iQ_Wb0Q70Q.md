@@ -1,9 +1,9 @@
-# Introduction
+# Introdução
 
-A network engineer is a technology professional responsible for designing, building, and maintaining the communication infrastructure that allows computers and devices to exchange data. This includes planning how networks are structured, selecting and configuring hardware like routers and switches, troubleshooting connectivity issues, and ensuring the network remains secure and reliable. Network engineers work across a wide range of environments and must understand both the theoretical principles behind how data travels and the practical skills needed to implement and manage real-world systems.
+Um engenheiro de rede é um profissional da tecnologia responsável por projetar, construir e manter a infraestrutura de comunicação que permite que computadores e dispositivos troquem dados. Isso inclui planejamento da estrutura das redes, seleção e configuração de hardware como roteadores e switches, solução de problemas de conectividade e garantia de que a rede permaneça segura e confiável. Engenheiros de rede trabalham em uma ampla gama de ambientes e devem entender tanto os princípios teóricos por trás do funcionamento dos dados quanto as habilidades práticas necessárias para implementar e gerenciar sistemas reais.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Network Engineer - Cisco](https://www.cisco.com/site/us/en/learn/training-certifications/tech-roles/network-engineer.html)
-- [@article@What Is a Network Engineer?](https://www.indeed.com/career-advice/finding-a-job/what-is-a-network-engineer)
-- [@video@What Does A Network Engineer Actually Do](https://www.youtube.com/watch?v=JpiCwQKb0PM)
+- [@article@Engenheiro de Rede - Cisco](https://www.cisco.com/site/us/en/learn/training-certifications/tech-roles/network-engineer.html)
+- [@article@O que é um Engenheiro de Rede?](https://www.indeed.com/career-advice/finding-a-job/what-is-a-network-engineer)
+- [@video@O que um Engenheiro de Rede Realmente Faz](https://www.youtube.com/watch?v=JpiCwQKb0PM)

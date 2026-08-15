@@ -1,9 +1,9 @@
-# How does the Internet Work?
+# Como funciona a Internet?
 
-The Internet is a massive global network of interconnected computers and devices that communicate by sending data to each other using a shared set of rules. When you visit a website, your device sends a request that travels through multiple routers and networks until it reaches the server hosting that site, which then sends the data back to your screen. This exchange happens through a system of protocols —most notably TCP/IP— that break data into small packets, route them across the network, and reassemble them at the destination.
+A Internet é uma enorme rede global de computadores e dispositivos interconectados que se comunicam enviando dados uns para os outros usando um conjunto compartilhado de regras. Quando você visita um site, seu dispositivo envia uma solicitação que viaja por várias roteadoras e redes até chegar ao servidor que aloja aquele site, que então envia os dados de volta para sua tela. Este troca acontece através de um sistema de protocolos —notavelmente TCP/IP— que quebra os dados em pequenos pacotes, os direciona pela rede e reassembla-os no destino.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@How does the internet work?](https://roadmap.sh/guides/what-is-internet)
-- [@article@How does the Internet work? | Cloudflare](https://www.cloudflare.com/en-gb/learning/network-layer/how-does-the-internet-work/)
-- [@article@How does the Internet work? - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/How_does_the_Internet_work)
+- [@artigo@Como funciona a Internet?](https://roadmap.sh/guides/what-is-internet)
+- [@artigo@Como funciona a Internet? | Cloudflare](https://www.cloudflare.com/en-gb/learning/network-layer/how-does-the-internet-work/)
+- [@artigo@Como funciona a Internet? - Aprenda desenvolvimento web | MDN](https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/How_does_the_Internet_work)

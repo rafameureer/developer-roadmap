@@ -1,9 +1,9 @@
 # EIGRP
 
-EIGRP, or Enhanced Interior Gateway Routing Protocol, is an advanced distance-vector routing protocol developed by Cisco that combines features of both distance-vector and link-state protocols. It uses a composite metric based on bandwidth, delay, load, and reliability to calculate the best route and converges faster than traditional distance-vector protocols. EIGRP is efficient in terms of bandwidth usage and CPU load, making it popular in Cisco-based enterprise networks.
+EIGRP, ou Enhanced Interior Gateway Routing Protocol (Protocolo de Roteamento Interno Aumentado), é um protocolo de roteamento a distância desenvolvido pela Cisco que combina características de ambos os protocolos de roteamento a distância e estado de link. Ele usa uma métrica composta baseada em largura de banda, latência, carga e confiabilidade para calcular o melhor caminho e convergir mais rápido que os protocolos de roteamento a distância tradicionais. O EIGRP é eficiente em termos de uso de largura de banda e carregamento do CPU, tornando-o popular em redes empresariais baseadas na Cisco.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Introduction to EIGRP](https://www.cisco.com/c/en/us/support/docs/ip/enhanced-interior-gateway-routing-protocol-eigrp/13669-1.html)
-- [@article@What is EIGRP (Enhanced Interior Gateway Routing Protocol)?](https://www.cbtnuggets.com/blog/technology/networking/what-is-eigrp)
-- [@video@EIGRP Explained | Step by Step](https://www.youtube.com/watch?v=QyymlFWDEgM)
+- [@artigo@Introdução ao EIGRP](https://www.cisco.com/c/en/us/support/docs/ip/enhanced-interior-gateway-routing-protocol-eigrp/13669-1.html)
+- [@artigo@O que é o EIGRP (Enhanced Interior Gateway Routing Protocol)?](https://www.cbtnuggets.com/blog/technology/networking/what-is-eigrp)
+- [@vídeo@EIGRP Explicado | Passo a Passo](https://www.youtube.com/watch?v=QyymlFWDEgM)

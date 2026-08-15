@@ -1,9 +1,9 @@
 # Ansible
 
-Ansible is an open-source automation tool that uses simple, human-readable YAML files called playbooks to automate the configuration and management of servers, network devices, and cloud infrastructure. Unlike some automation tools, Ansible is agentless — it communicates with devices directly over SSH or APIs without requiring any software to be installed on the target device first. For network engineers, Ansible is particularly valuable for pushing configuration changes to many routers and switches simultaneously, ensuring consistency across the network and eliminating the need to log into each device manually.
+Ansible é uma ferramenta de automação de código aberto que usa arquivos YAML simples e legíveis por humanos chamados playbooks para automatizar a configuração e gestão de servidores, dispositivos de rede e infraestrutura em nuvem. Diferentemente de alguns outros sistemas de automação, Ansible é sem agentes — ele comunica-se diretamente com os dispositivos via SSH ou APIs, sem exigir que qualquer software seja instalado no dispositivo-alvo primeiro. Para engenheiros de rede, o Ansible é particularmente valioso para empurrar alterações de configuração em muitos roteadores e trocas simultaneamente, garantindo a consistência na rede e eliminando a necessidade de entrar manualmente em cada dispositivo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Ansible for Network Automation](https://docs.ansible.com/projects/ansible/latest/network/index.html)
-- [@official@Ansible Docs](https://docs.ansible.com/)
-- [@video@Introduction to Ansible - Automating Network Configuration](https://www.youtube.com/watch?v=il5IjFehoMA)
+- [@oficial@Ansible para Automação de Redes](https://docs.ansible.com/projects/ansible/latest/network/index.html)
+- [@oficial@Documentação do Ansible](https://docs.ansible.com/)
+- [@vídeo@Introdução ao Ansible - Automatizando a Configuração da Rede](https://www.youtube.com/watch?v=il5IjFehoMA)

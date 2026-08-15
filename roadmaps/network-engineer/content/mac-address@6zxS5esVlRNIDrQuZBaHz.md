@@ -1,8 +1,8 @@
-# Mac Address
+# Endereço MAC
 
-A MAC address, or Media Access Control address, is a unique hardware identifier assigned to a network interface card (NIC) by its manufacturer. It operates at the Data Link layer and is used to identify devices within the same local network segment. Unlike IP addresses, MAC addresses are typically fixed and do not change as a device moves between networks.
+Um endereço MAC, ou Media Access Control address, é um identificador de hardware único atribuído a uma placa de interface de rede (NIC) por seu fabricante. Ele opera na camada de Dados Link e é usado para identificar dispositivos dentro da mesma segmentação de rede local. Contrariamente aos endereços IP, os endereços MAC são geralmente fixos e não mudam conforme um dispositivo se move entre redes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Mac Address: Explained](https://licensespring.com/blog/glossary/mac-address)
-- [@video@MAC Address Explained](https://www.youtube.com/watch?v=TIiQiw7fpsU)
+- [@article@Explicação sobre o Endereço MAC](https://licensespring.com/blog/glossary/mac-address)
+- [@video@Explicação sobre o Endereço MAC](https://www.youtube.com/watch?v=TIiQiw7fpsU)

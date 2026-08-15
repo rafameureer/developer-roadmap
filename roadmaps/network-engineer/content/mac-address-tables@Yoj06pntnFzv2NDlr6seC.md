@@ -1,9 +1,9 @@
-# MAC Address Tables
+# Tabelas de Endereços MAC
 
-A MAC address table, also called a CAM (Content Addressable Memory) table, is a database maintained by a network switch that maps MAC addresses to the specific ports those devices are connected to. When a frame arrives, the switch looks up the destination MAC address in this table to determine which port to forward the frame to. If the address is not found, the switch floods the frame to all ports until it learns the correct mapping.
+Uma tabela de endereços MAC, também chamada de CAM (Content Addressable Memory), é um banco de dados mantido por um roteador de rede que mapeia os endereços MAC para as portas específicas às quais esses dispositivos estão conectados. Quando um quadro chega, o roteador pesquisa o endereço MAC de destino nesta tabela para determinar qual porta encaminhar o quadro. Se o endereço não for encontrado, o roteador difunde o quadro em todas as portas até aprender a mapeamento correto.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What Is a MAC Address Table?](https://jumpcloud.com/it-index/what-is-a-mac-address-table)
-- [@video@How a Switch Forwards and Builds the MAC Address Table](https://www.youtube.com/watch?v=sdYDLip2ANI)
-- [@video@MAC Address Explained](https://www.youtube.com/watch?v=TIiQiw7fpsU)
+- [@article@O que é uma Tabela de Endereços MAC?](https://jumpcloud.com/it-index/what-is-a-mac-address-table)
+- [@video@Como um Roteador Encaminha e Constrói a Tabela de Endereços MAC](https://www.youtube.com/watch?v=sdYDLip2ANI)
+- [@video@Explicação sobre o Endereço MAC](https://www.youtube.com/watch?v=TIiQiw7fpsU)

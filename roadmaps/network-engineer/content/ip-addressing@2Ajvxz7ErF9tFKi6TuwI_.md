@@ -1,9 +1,9 @@
-# IP Addressing
+# Atribuição de Endereços IP
 
-IP addressing is the system used to assign unique numerical identifiers to devices on a network so they can communicate with each other. Every device connected to a network needs an IP address, which tells other devices where to send data. IP addresses come in two versions — IPv4 and IPv6 — and can be assigned statically by an administrator or dynamically by a DHCP server.
+O sistema de atribuição de endereços IP é usado para atribuir identificadores numéricos únicos a dispositivos em uma rede, permitindo que eles se comuniquem entre si. Cada dispositivo conectado à rede precisa de um endereço IP, que informa outros dispositivos onde enviar dados. Os endereços IP vêm em duas versões — IPv4 e IPv6 — e podem ser atribuídos estaticamente por um administrador ou dinamicamente por um servidor DHCP.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@IP Addressing And Its Classification In Computer Networks](https://medium.com/@mustafa.bohra20/ip-addressing-and-its-classification-in-computer-networks-6b7112439a87)
-- [@article@IP address - Wikipedia](https://en.wikipedia.org/wiki/IP_address)
-- [@video@what is an IP Address?](https://www.youtube.com/watch?v=5WfiTHiU4x8)
+- [@artigo@Atribuição de Endereços IP e sua Classificação em Redes Computacionais](https://medium.com/@mustafa.bohra20/ip-addressing-and-its-classification-in-computer-networks-6b7112439a87)
+- [@artigo@Endereço IP - Wikipedia](https://en.wikipedia.org/wiki/IP_address)
+- [@vídeo@O que é um Endereço IP?](https://www.youtube.com/watch?v=5WfiTHiU4x8)

@@ -1,3 +1,3 @@
-# Application
+# Aplicação
 
-The Application layer of the TCP/IP model is the topmost layer and encompasses all the protocols that applications use to communicate over the network. It combines the functions of the OSI Session, Presentation, and Application layers into one. Protocols like HTTP, DNS, SMTP, FTP, and SSH all operate here, directly serving user-facing applications.
+A Camada de Aplicação do modelo TCP/IP é a camada superior e abrange todos os protocolos que as aplicações usam para se comunicar na rede. Ela combina as funções das camadas de sessão, apresentação e aplicativo do modelo OSI em uma única camada. Protocolos como HTTP, DNS, SMTP, FTP e SSH operam aqui, fornecendo serviços diretamente para aplicativos front-end dos usuários.

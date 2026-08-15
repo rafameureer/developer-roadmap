@@ -1,9 +1,9 @@
-# Common Network Issues
+# Problemas Comuns de Rede
 
-Common network issues are recurring problems that network engineers encounter regularly across different environments and infrastructures. These include IP address conflicts where two devices share the same address, DNS resolution failures where domain names cannot be translated to IP addresses, default gateway misconfigurations that prevent traffic from leaving the local network, duplex and speed mismatches between connected devices causing performance degradation, VLAN misconfigurations that isolate devices unintentionally, routing loops where packets cycle endlessly between routers, and high latency or packet loss caused by congestion, faulty hardware, or misconfigured QoS policies.
+Problemas comuns de rede são problemas recorrentes que engenheiros de redes enfrentam regularmente em diferentes ambientes e infraestruturas. Isso inclui conflitos de endereço IP, onde dois dispositivos compartilham o mesmo endereço, falhas na resolução de DNS, onde nomes de domínio não podem ser traduzidos para endereços IP, configurações incorretas da porta padrão que impedem o tráfego de sair da rede local, desajustes de duplex e velocidade entre dispositivos conectados causando degradação de desempenho, configurações incorretas de VLAN que isolam dispositivos inadvertidamente, loops de roteamento onde pacotes ciclam eternamente entre roteadores e alta latência ou perda de pacotes causadas por congestionamentos, falhas em hardware ou políticas de QoS mal configuradas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@7 Common Network Issues and How to Resolve Them Fast](http://cbtnuggets.com/blog/technology/networking/7-common-network-issues-and-how-to-resolve-them-fast)
-- [@article@9 common network issues and how to fix them](https://www.techtarget.com/searchnetworking/answer/What-are-the-3-most-common-network-issues-to-troubleshoot)
-- [@video@Network Troubleshooting for Beginners: Fix Your Internet Step-by-Step](https://www.youtube.com/watch?v=czXiP1mYtPE)
+- [@artigo@7 Problemas Comuns de Rede e Como Resolver Rapidamente](http://cbtnuggets.com/blog/technology/networking/7-common-network-issues-and-how-to-resolve-them-fast)
+- [@artigo@9 problemas comuns de rede e como corrigi-los](https://www.techtarget.com/searchnetworking/answer/What-are-the-3-most-common-network-issues-to-troubleshoot)
+- [@vídeo@Resolução de Problemas de Rede para Iniciantes: Corrija Seu Internet Passo a Passo](https://www.youtube.com/watch?v=czXiP1mYtPE)

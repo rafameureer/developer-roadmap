@@ -1,8 +1,8 @@
 # WAN
 
-A WAN, or Wide Area Network, is a network that spans a large geographic area, often connecting multiple LANs across cities, countries, or continents. The Internet itself is the largest example of a WAN. Organizations use WANs to connect their branch offices and data centers, often leasing connections from telecommunications providers.
+A WAN, ou Rede de Área Ampla (WAN), é uma rede que abrange uma área geográfica ampla, geralmente conectando várias LANs em cidades, países ou continentes. A Internet em si é o exemplo mais grande de uma WAN. As organizações usam WANs para conectar suas filiais e centros de dados, muitas vezes alugando conexões dos provedores de telecomunicações.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is a WAN? | WAN vs. LAN](https://www.cloudflare.com/en-gb/learning/network-layer/what-is-a-wan/)
+- [@article@O que é uma WAN? | WAN vs. LAN](https://www.cloudflare.com/en-gb/learning/network-layer/what-is-a-wan/)
 - [@video@LAN, WAN, SUBNET - EXPLAINED](https://www.youtube.com/watch?v=NyZWSvSj8ek)

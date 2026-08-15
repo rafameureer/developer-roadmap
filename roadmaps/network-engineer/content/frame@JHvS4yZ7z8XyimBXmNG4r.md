@@ -1,8 +1,8 @@
 # Frame
 
-A frame is a unit of data transmission at the Data Link layer of the OSI model. It wraps raw bits into a structured format that includes source and destination MAC addresses, the data payload, and error-checking information. Frames are used to move data between devices on the same local network segment.
+Um frame é uma unidade de transmissão de dados na camada de Enlace de Dados do modelo OSI. Ele embrulha bits brutos em um formato estruturado que inclui endereços MAC de origem e destino, o payload de dados e informações de verificação de erros. Frames são usados para mover dados entre dispositivos no mesmo segmento de rede local.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Frames and Packets in Computer Networks ✉️📦📮](https://www.patreon.com/posts/frames-and-in-101725193)
-- [@video@Packets and Frames — The containers of networking](https://www.youtube.com/watch?v=-hkF4OyxzNQ)
+- [@article@Frames e Pacotes em Redes Computacionais ✉️📦📮](https://www.patreon.com/posts/frames-and-in-101725193)
+- [@video@Pacotes e Frames — Os contêineres da rede](https://www.youtube.com/watch?v=-hkF4OyxzNQ)

@@ -1,8 +1,8 @@
-# Two-Tier
+# Arquitetura de Duas Camadas
 
-The two-tier architecture, also called the collapsed core design, organizes a network into two layers: the distribution layer and the access layer. The distribution layer handles routing, policy enforcement, and inter-VLAN communication, while the access layer connects end devices like computers, phones, and printers to the network. This design is simpler and more cost-effective than three-tier architectures and is well suited for small to medium-sized networks where a dedicated core layer would add unnecessary complexity and cost.
+A arquitetura de duas camadas, também conhecida como design de núcleo colapsado, organiza uma rede em duas camadas: a camada de distribuição e a camada de acesso. A camada de distribuição lida com roteamento, aplicação de políticas e comunicação entre VLANs, enquanto a camada de acesso conecta dispositivos finais como computadores, telefones e impressoras à rede. Este design é mais simples e econômico do que arquiteturas de três camadas e é adequado para redes pequenas a médias onde uma camada de núcleo dedicada adicionaria complexidade e custo desnecessários.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@A Guide to Simple Two-Tier, Three-Tier, and Spine-Leaf Designs](https://learningnetwork.cisco.com/s/question/0D56e0000EBtd2dCQB/a-guide-to-simple-twotier-threetier-and-spineleaf-designs)
-- [@video@Network Topology Architectures (2-tier and 3-tier)](https://www.youtube.com/watch?v=XHlr791Lid0)
+- [@artigo@Guia sobre Design Simples de Duas Camadas, Três Camadas e Spine-Leaf](https://learningnetwork.cisco.com/s/question/0D56e0000EBtd2dCQB/a-guide-to-simple-twotier-threetier-and-spineleaf-designs)
+- [@vídeo@Arquiteturas de Topologia de Rede (2-tier e 3-tier)](https://www.youtube.com/watch?v=XHlr791Lid0)

@@ -1,8 +1,8 @@
 # traceroute / tracert
 
-traceroute (on Linux and macOS) and tracert (on Windows) are diagnostic tools that map the path packets take from a source device to a destination, showing each hop along the route and the latency at each one. By sending packets with incrementally increasing TTL (Time to Live) values, they reveal every router the traffic passes through on its way to the target. This makes them invaluable for identifying where in the network a problem is occurring — whether a packet is being dropped, a specific hop has high latency, or traffic is taking an unexpected route.
+traceroute (no Linux e macOS) e tracert (no Windows) são ferramentas de diagnóstico que mapeiam o caminho pelos quais os pacotes viajam de um dispositivo de origem para um destino, mostrando cada salto ao longo do caminho e a latência em cada um. Enviando pacotes com valores TTL (Time to Live) incrementais, eles revelam todos os roteadores que o tráfego passa durante o caminho até o alvo. Isso os torna indiscutivelmente valiosos para identificar onde ocorre um problema na rede — seja um pacote sendo descartado, um salto específico com alta latência ou tráfego seguindo um caminho inesperado.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Traceroute? How It Works and How to Read Results](https://www.varonis.com/blog/what-is-traceroute)
-- [@video@Traceroute (tracert) Explained - Network Troubleshooting](https://www.youtube.com/watch?v=up3bcBLZS74)
+- [@article@O que é Traceroute? Como funciona e como ler os resultados](https://www.varonis.com/blog/what-is-traceroute)
+- [@video@Traceroute (tracert) Explicado - Solução de Problemas de Rede](https://www.youtube.com/watch?v=up3bcBLZS74)

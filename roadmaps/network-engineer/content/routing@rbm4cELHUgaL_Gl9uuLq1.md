@@ -1,9 +1,9 @@
-# Routing
+# Roteamento
 
-Routing is the process of selecting a path for traffic to travel across one or more networks from source to destination. Routers perform this function by examining the destination IP address of each packet and consulting a routing table to determine where to forward it next. Routing can be done statically, where paths are manually configured, or dynamically, where routers automatically discover and update paths using routing protocols.
+O roteamento é o processo de seleção de um caminho para que o tráfego viaje em uma ou mais redes de fonte até o destino. Os roteadores desempenham essa função examinando o endereço IP de destino de cada pacote e consultando uma tabela de roteamento para determinar onde encaminhar o próximo. O roteamento pode ser feito estáticamente, onde os caminhos são configurados manualmente, ou dinamicamente, onde os roteadores descobrem e atualizam automaticamente os caminhos usando protocolos de roteamento.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is routing? | IP routing](https://www.cloudflare.com/en-gb/learning/network-layer/what-is-routing/)
-- [@video@Understanding Routing! | ICT#8](https://www.youtube.com/watch?v=gQtgtKtvRdo&t=77s)
-- [@video@What is a ROUTER?](https://www.youtube.com/watch?v=p9ScLm9S3B4)
+- [@artigo@O que é o roteamento? | Roteamento IP](https://www.cloudflare.com/pt-br/learning/network-layer/o-que-e-o-roteamento/)
+- [@vídeo@Entendendo o Roteamento! | ICT#8](https://www.youtube.com/watch?v=gQtgtKtvRdo&t=77s)
+- [@vídeo@O que é um ROTEADOR?](https://www.youtube.com/watch?v=p9ScLm9S3B4)

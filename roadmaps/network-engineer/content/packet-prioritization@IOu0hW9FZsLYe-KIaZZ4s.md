@@ -1,8 +1,8 @@
-# Packet prioritization
+# Priorização de Pacotes
 
-Packet prioritization is the process of classifying network traffic and assigning different levels of importance to different types of packets so that critical traffic is processed and delivered first. Real-time traffic, like VoIP and video conferencing, is given higher priority than background activities like file downloads or software updates. This ensures that time-sensitive applications remain functional even when the network is under heavy load.
+A priorização de pacotes é o processo de classificar o tráfego da rede e atribuir diferentes níveis de importância a diferentes tipos de pacotes para que o tráfego crítico seja processado e entregue primeiro. O tráfego em tempo real, como VoIP e conferências de vídeo, é dado prioridade mais alta do que atividades em segundo plano como downloads de arquivos ou atualizações de software. Isso garante que as aplicações sensíveis ao tempo permaneçam funcionais mesmo quando a rede estiver sob carregamento pesado.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Implementing Quality of Service for Prioritizing Network Traffic](https://www.etherwan.com/support/featured-articles/implementing-quality-service-prioritizing-network-traffic)
-- [@video@QoS Explained | How to Prioritize Voice, Video & Data on Your Network](https://www.youtube.com/watch?v=FFL8Uql1m_4)
+- [@artigo@Implementando Qualidade de Serviço para Priorizar o Tráfego da Rede](https://www.etherwan.com/support/featured-articles/implementing-quality-service-prioritizing-network-traffic)
+- [@vídeo@QoS Explicado | Como Priorizar Voz, Vídeo e Dados na Sua Rede](https://www.youtube.com/watch?v=FFL8Uql1m_4)

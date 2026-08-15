@@ -1,9 +1,9 @@
-# Infrastructure as Code
+# Infraestrutura como Código
 
-Infrastructure as Code (IaC) is the practice of managing and provisioning infrastructure — including networks, servers, and cloud resources — through machine-readable configuration files rather than manual processes or interactive tools. Instead of clicking through a web console or typing commands into a CLI to set up a network, IaC lets you write code that describes exactly what the infrastructure should look like, check that code into version control, and apply it automatically and repeatably. This brings software development practices like version control, code review, and automated testing to infrastructure management, making changes more reliable, auditable, and consistent across environments
+Infraestrutura como Código (IaC) é a prática de gerenciar e provisionar infraestrutura — incluindo redes, servidores e recursos em nuvem — através de arquivos de configuração maquinários em vez de processos manuais ou ferramentas interativas. Em vez de clicar por meio de uma console web ou digitar comandos em um CLI para configurar uma rede, IaC permite que você escreva código que descreve exatamente como a infraestrutura deve ser, verifique esse código no controle de versão e o aplique automaticamente e repetidamente. Isso traz práticas de desenvolvimento de software como controle de versão, revisão de código e teste automatizado para a gestão da infraestrutura, tornando as alterações mais confiáveis, auditáveis e consistentes em ambientes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What Is Infrastructure as Code?](https://www.cisco.com/site/us/en/learn/topics/computing/what-is-iac.html)
-- [@article@Infrastructure-as-Code (IaC): Benefits And Best Practices](https://www.fortinet.com/resources/cyberglossary/infrastructure-as-code)
-- [@video@What is Infrastructure as Code?](https://www.youtube.com/watch?v=zWw2wuiKd5o)
+- [@artigo@O que é Infraestrutura como Código?](https://www.cisco.com/site/us/en/learn/topics/computing/what-is-iac.html)
+- [@artigo@Infraestrutura como Código (IaC): Benefícios e Melhores Práticas](https://www.fortinet.com/resources/cyberglossary/infrastructure-as-code)
+- [@vídeo@O que é Infraestrutura como Código?](https://www.youtube.com/watch?v=zWw2wuiKd5o)

@@ -1,8 +1,8 @@
 # VRFs
 
-VRF, or Virtual Routing and Forwarding, is a technology that allows a single physical router to run multiple independent routing tables at the same time. Each VRF acts like a completely separate virtual router, meaning traffic in one VRF is fully isolated from traffic in another, even if they share the same physical hardware. This is commonly used by service providers to keep customer traffic separate on shared infrastructure, and by enterprises to isolate different departments or network segments on the same device.
+VRF, ou Virtual Routing and Forwarding, é uma tecnologia que permite a execução de várias tabelas de roteamento independentes em um único roteador físico ao mesmo tempo. Cada VRF funciona como um roteador virtual completamente separado, o que significa que o tráfego em um VRF está totalmente isolado do tráfego em outro, mesmo se compartilharem a mesma infraestrutura física. Isso é comumente usado por provedores de serviços para manter o tráfego dos clientes separado em uma infraestrutura compartilhada e por empresas para isolar diferentes departamentos ou segmentos de rede no mesmo dispositivo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Cisco VRF (Virtual Routing and Forwarding)?](https://www.cbtnuggets.com/blog/technology/networking/what-is-cisco-vrf-virtual-routing-forwarding)
-- [@video@What is Cisco VRF (Virtual Routing and Forwarding)?](https://www.youtube.com/watch?v=JIEwTTZuNHI)
+- [@article@O que é VRF (Virtual Routing and Forwarding) do Cisco?](https://www.cbtnuggets.com/blog/technology/networking/what-is-cisco-vrf-virtual-routing-forwarding)
+- [@video@O que é VRF (Virtual Routing and Forwarding)? Protocolo de Redundância de Roteador Virtual](https://www.youtube.com/watch?v=JIEwTTZuNHI)

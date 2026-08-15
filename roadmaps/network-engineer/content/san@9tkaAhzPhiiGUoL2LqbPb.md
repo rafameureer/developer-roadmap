@@ -1,9 +1,9 @@
 # SAN
 
-A SAN, or Storage Area Network, is a specialized high-speed network that provides block-level access to shared storage devices such as disk arrays and tape libraries. Unlike a regular network where files are shared, a SAN makes storage appear as locally attached to the servers that use it, enabling fast and reliable data access. SANs are commonly used in enterprise environments to support databases, virtualization, and backup systems.
+Um SAN, ou Storage Area Network (Rede de Armazenamento Área), é uma rede especializada em alta velocidade que fornece acesso a nível de bloco a dispositivos de armazenamento compartilhados como arrays de disco e bibliotecas de fita. Diferentemente de uma rede regular onde os arquivos são compartilhados, um SAN torna o armazenamento aparecer como localmente anexado aos servidores que usam ele, permitindo acesso rápido e confiável a dados. Os SANs são comumente usados em ambientes empresariais para suportar bancos de dados, virtualização e sistemas de backup.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is a storage area network (SAN)?](https://www.ibm.com/think/topics/storage-area-network)
-- [@video@NAS vs SAN - Network Attached Storage vs Storage Area Network](https://www.youtube.com/watch?v=3yZDDr0JKVc)
-- [@video@Ultimate Beginners Guide to Storage Area Network / SAN](https://www.youtube.com/watch?v=1PIxEpQDRqc)
+- [@artigo@O que é uma rede de armazenamento área (SAN)?](https://www.ibm.com/think/topics/storage-area-network)
+- [@vídeo@NAS vs SAN - Armazenamento em Rede Anexado vs Rede de Armazenamento Área](https://www.youtube.com/watch?v=3yZDDr0JKVc)
+- [@vídeo@Guia Inicial para Amantes do Armazenamento Área / SAN](https://www.youtube.com/watch?v=1PIxEpQDRqc)

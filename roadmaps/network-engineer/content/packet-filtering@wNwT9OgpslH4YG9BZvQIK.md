@@ -1,8 +1,8 @@
-# Packet Filtering
+# Filtros de Pacote
 
-Packet filtering is the most basic type of firewall technique, where each packet is inspected individually against a set of rules based on attributes like source IP, destination IP, port numbers, and protocol. If a packet matches an allow rule, it passes through; if it matches a deny rule or no rule at all, it is dropped. Packet filtering is fast and lightweight, but provides limited protection since it does not consider the state of the connection or the content of the data.
+Filtro de pacote é a técnica de firewall mais básica, onde cada pacote é examinado individualmente contra um conjunto de regras baseadas em atributos como IP de origem, IP de destino, números de porta e protocolo. Se um pacote corresponder a uma regra permitir, ele passa; se corresponder a uma regra negar ou nenhuma regra, é descartado. O filtro de pacote é rápido e leve, mas fornece proteção limitada, pois não considera o estado da conexão ou o conteúdo dos dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What Is a Packet Filtering Firewall?](https://www.paloaltonetworks.com/cyberpedia/what-is-a-packet-filtering-firewall)
-- [@video@Firewalls: Packet-Filtering/Stateless Firewalls](https://www.youtube.com/watch?v=jkYVRtiUmJ0)
+- [@artigo@O que é um Firewall de Filtro de Pacote?](https://www.paloaltonetworks.com/cyberpedia/what-is-a-packet-filtering-firewall)
+- [@vídeo@Firewalls: Filtros de Pacote/Sem Estado](https://www.youtube.com/watch?v=jkYVRtiUmJ0)

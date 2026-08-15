@@ -1,9 +1,9 @@
-# Design Best Practices
+# Melhores Práticas de Design de Rede
 
-Network design best practices are a set of proven principles that engineers follow to build networks that are reliable, secure, and maintainable over time. Key practices include designing for redundancy at every layer to eliminate single points of failure, keeping the design as simple as possible since complexity increases the chance of misconfiguration and makes troubleshooting harder, segmenting the network using VLANs and subnets to limit broadcast domains and contain security incidents, documenting everything from IP address assignments to device configurations, and designing with scalability in mind so the network can grow without requiring a fundamental redesign. Following established frameworks like Cisco's PPDIOO (Prepare, Plan, Design, Implement, Operate, Optimize) lifecycle model provides a structured approach to network projects from initial planning through ongoing operation.
+As melhores práticas de design de rede são um conjunto de princípios provados que engenheiros seguem para construir redes confiáveis, seguras e manteráveis ao longo do tempo. Práticas-chave incluem projetar a redundância em cada camada para eliminar pontos únicos de falha, manter o design tão simples quanto possível, pois a complexidade aumenta as chances de configuração incorreta e torna mais difícil a solução de problemas, segmentar a rede usando VLANs e sub-redes para limitar domínios de broadcast e conter incidentes de segurança, documentar tudo, desde atribuições de endereços IP até as configurações dos dispositivos, e projetar com escala em mente, para que a rede possa crescer sem exigir uma redesign fundamental. Seguir modelos estabelecidos como o ciclo de vida PPDIOO da Cisco (Preparar, Planejar, Designar, Implementar, Operar, Otimizar) fornece uma abordagem estruturada aos projetos de rede desde a fase inicial de planejamento até a operação contínua.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Network Design and Best Practices](http://auvik.com/franklyit/blog/network-design-best-practices/)
-- [@article@Network Design Best Practices](https://haptic-networks.com/networks/network-design-best-practices/)
-- [@video@DO NOT design your network like this!!](https://www.youtube.com/watch?v=wwwAXlE4OtU)
+- [@artigo@Melhores Práticas de Design de Rede](http://auvik.com/franklyit/blog/network-design-best-practices/)
+- [@artigo@Melhores Práticas de Design de Rede](https://haptic-networks.com/networks/network-design-best-practices/)
+- [@vídeo@NÃO designsse sua rede assim!!](https://www.youtube.com/watch?v=wwwAXlE4OtU)

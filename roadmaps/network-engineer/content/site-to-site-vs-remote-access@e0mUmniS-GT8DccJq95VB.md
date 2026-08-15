@@ -1,8 +1,8 @@
-# Site-to-Site vs Remote Access
+# Site-to-Site vs Acesso Remoto
 
-Site-to-site VPNs connect two entire networks together — such as a branch office to a headquarters — over an encrypted tunnel, allowing devices on both networks to communicate as if they were on the same LAN. Remote access VPNs allow individual users to securely connect to a corporate network from any location, typically using a VPN client on their device. Both serve different purposes and are often deployed together in enterprise environments to address different connectivity needs.
+VPN de rede site a site conecta duas redes inteiras umas com as outras — como uma filial a uma sede — por meio de um túnel criptografado, permitindo que dispositivos em ambas as redes comuniquem-se como se estivessem na mesma LAN. VPNs de acesso remoto permitem que usuários individuais conectem-se de forma segura a uma rede corporativa de qualquer localização, geralmente usando um cliente VPN no seu dispositivo. Ambos têm propósitos diferentes e são frequentemente implantados juntos em ambientes empresariais para abordar diferentes necessidades de conectividade.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Site-to-site VPN vs remote access VPN: Which is better?](https://nordvpn.com/blog/site-to-site-vpn-vs-remote-access-vpn/?srsltid=AfmBOoq_TRsDLA4LQ2Rxo_jdvPWQNjKg85L1eBDf8zlgodcp9QFvqx7V)
-- [@video@VPNs Explained | Site-to-Site + Remote Access](https://www.youtube.com/watch?v=CWy3x3Wux6o)
+- [@artigo@VPN de rede site a site vs acesso remoto: qual é melhor?](https://nordvpn.com/blog/site-to-site-vpn-vs-remote-access-vpn/?srsltid=AfmBOoq_TRsDLA4LQ2Rxo_jdvPWQNjKg85L1eBDf8zlgodcp9QFvqx7V)
+- [@vídeo@VPN Explained | Site-to-Site + Acesso Remoto](https://www.youtube.com/watch?v=CWy3x3Wux6o)

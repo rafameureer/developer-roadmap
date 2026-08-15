@@ -1,8 +1,8 @@
-# Traffic shaping
+# Controle de Tráfego
 
-Traffic shaping is a QoS technique used to control the rate at which data is transmitted on a network, smoothing out bursts and enforcing bandwidth limits for specific types of traffic. By delaying or queuing packets that exceed a defined rate, traffic shaping ensures that no single application or user monopolizes network resources. It is commonly used by ISPs and enterprises to manage congestion and maintain consistent performance across the network.
+O controle de tráfego é uma técnica de QoS usada para controlar a taxa em que os dados são transmitidos em uma rede, suavizando picos e impostando limites de largura de banda para tipos específicos de tráfego. Ao atrasar ou colocar em fila pacotes que ultrapassam uma taxa definida, o controle de tráfego garante que nenhuma única aplicação ou usuário monopolize os recursos da rede. É comumente usado por ISP e empresas para gerenciar congestionamentos e manter um desempenho consistente na rede.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@QoS Traffic Shaping Explained](https://networklessons.com/quality-of-service/qos-traffic-shaping-explained)
-- [@video@What is Traffic Shaping and Policing?](https://www.youtube.com/watch?v=khS8c1WrWfU)
+- [@artigo@Controle de Tráfego QoS Explicado](https://networklessons.com/quality-of-service/qos-traffic-shaping-explained)
+- [@vídeo@O que é Controle de Tráfego e Policiamento?](https://www.youtube.com/watch?v=khS8c1WrWfU)

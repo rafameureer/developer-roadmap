@@ -1,8 +1,8 @@
 # OSPF
 
-OSPF, or Open Shortest Path First, is a link-state interior gateway routing protocol used within a single autonomous system or organization. It works by having each router build a complete map of the network topology and then calculate the shortest path to every destination using Dijkstra's algorithm. OSPF converges quickly after network changes and is widely used in medium to large enterprise networks.
+OSPF, ou Open Shortest Path First, é um protocolo de roteamento de gateway interno de estado de link usado em um único sistema autônomo ou organização. Funciona construindo uma representação completa da topologia da rede e, em seguida, calculando o caminho mais curto para cada destino usando o algoritmo de Dijkstra. O OSPF converge rapidamente após alterações na rede e é amplamente utilizado em redes corporativas médias a grandes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is OSPF?](https://www.networkacademy.io/ccna/ospf/what-is-ospf)
-- [@video@What is OSPF and How Does It Work?](https://www.youtube.com/watch?v=Xb3CbIDMDRk&t=74s)
+- [@artigo@O que é OSPF?](https://www.networkacademy.io/ccna/ospf/what-is-ospf)
+- [@vídeo@O que é OSPF e Como Ele Funciona?](https://www.youtube.com/watch?v=Xb3CbIDMDRk&t=74s)

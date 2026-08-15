@@ -1,8 +1,8 @@
 # MAN
 
-A MAN, or Metropolitan Area Network, is a network that covers a geographic area roughly the size of a city or a large campus. It is larger than a LAN but smaller than a WAN, often used by organizations or service providers to connect multiple buildings or locations within the same metropolitan region. MANs typically use fiber optic cables or wireless links to achieve high-speed connectivity across the area.
+A MAN, ou Rede Metropolitana (MAN), é uma rede que cobre uma área geográfica de aproximadamente o tamanho de uma cidade ou um grande campus. É maior que uma LAN mas menor que uma WAN, frequentemente usada por organizações ou provedores de serviços para conectar vários edifícios ou locais na mesma região metropolitana. As MANs geralmente usam fibras ópticas ou links sem fio para obter conectividade de alta velocidade na área.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is a metropolitan area network (MAN)?](https://www.cloudflare.com/en-gb/learning/network-layer/what-is-a-metropolitan-area-network/)
-- [@video@Network Types: LAN, WAN, PAN, CAN, MAN, SAN, WLAN](https://www.youtube.com/watch?v=4_zSIXb7tLQ)
+- [@article@O que é uma rede metropolitana (MAN)?](https://www.cloudflare.com/en-gb/learning/network-layer/what-is-a-metropolitan-area-network/)
+- [@video@Tipos de Redes: LAN, WAN, PAN, CAN, MAN, SAN, WLAN](https://www.youtube.com/watch?v=4_zSIXb7tLQ)

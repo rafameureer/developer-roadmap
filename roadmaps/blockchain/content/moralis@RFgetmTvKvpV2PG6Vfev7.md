@@ -1,10 +1,10 @@
 # Moralis
 
-Moralis is a development platform that simplifies the process of building decentralized applications (dApps). It provides a suite of tools and infrastructure, including a managed backend, authentication, and real-time data synchronization, allowing developers to focus on the front-end user experience and smart contract logic rather than managing complex server-side infrastructure.
+Moralis é uma plataforma de desenvolvimento que simplifica o processo de construção de aplicativos descentralizados (dApps). Ele oferece um conjunto de ferramentas e infraestrutura, incluindo um backend gerenciado, autenticação e sincronização de dados em tempo real, permitindo aos desenvolvedores se concentrarem na experiência do usuário front-end e na lógica dos contratos inteligentes em vez de gerenciar a complexa infraestrutura do lado do servidor.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Moralis](https://moralis.com/)
-- [@official@Moralis Docs](https://docs.moralis.com/)
-- [@opensource@Moralis SDK](https://github.com/MoralisWeb3/Moralis-JS-SDK)
+- [@official@Documentação do Moralis](https://docs.moralis.com/)
+- [@opensource@SDK do Moralis](https://github.com/MoralisWeb3/Moralis-JS-SDK)
 - [@feed@Explore top posts about Moralis](https://app.daily.dev/tags/moralis?ref=roadmapsh)

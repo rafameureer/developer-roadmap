@@ -1,7 +1,7 @@
 # OpenZeppelin
 
-OpenZeppelin is a library of secure, reusable smart contracts for Ethereum and other blockchain platforms. It provides implementations of common standards like ERC-20 and ERC-721, as well as security tools and best practices to help developers build decentralized applications (dApps) safely and efficiently. Think of it as a collection of pre-built, audited building blocks for smart contract development.
+OpenZeppelin é uma biblioteca de contratos inteligentes seguros e reutilizáveis para Ethereum e outras plataformas blockchain. Ele fornece implementações de padrões comuns como ERC-20 e ERC-721, assim como ferramentas e práticas recomendadas de segurança para ajudar os desenvolvedores a construir aplicativos descentralizados (dApps) de maneira segura e eficiente. Imagine-o como uma coleção de blocos pré-construídos e auditados para o desenvolvimento de contratos inteligentes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@OpenZeppelin Contracts](https://docs.openzeppelin.com/contracts/)
+- [@oficial@Contratos OpenZeppelin](https://docs.openzeppelin.com/contracts/)

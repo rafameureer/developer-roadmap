@@ -1,10 +1,10 @@
-# Blockchain Applications and Uses
+# Aplicações e Usos da Blockchain
 
-Blockchain technology enables secure and transparent record-keeping across various sectors. It's used to track goods as they move through supply chains, ensuring authenticity and reducing fraud. Digital identities can be managed securely on a blockchain, giving individuals more control over their personal data. Voting systems can leverage blockchain for increased transparency and tamper-proof results. Furthermore, blockchain facilitates decentralized finance (DeFi), enabling peer-to-peer lending, borrowing, and trading without traditional intermediaries.
+A tecnologia blockchain permite o registro seguro e transparente de dados em várias setores. Ela é usada para rastrear bens à medida que se movem pelas cadeias de suprimentos, garantindo a autenticidade e reduzindo fraudes. Identidades digitais podem ser gerenciadas com segurança em uma blockchain, dando aos indivíduos mais controle sobre seus dados pessoais. Sistemas de votação podem aproveitar a blockchain para maior transparência e resultados imunes à adulteração. Além disso, a blockchain facilita o financeiro descentralizado (DeFi), permitindo empréstimos, empréstimos e negociações peer-to-peer sem intermediários tradicionais.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Blockchain Use Cases and Applications by Industry](https://consensys.net/blockchain-use-cases/)
-- [@article@Top 10 Real-World Applications Of Blockchain Technology](https://www.blockchain-council.org/blockchain/top-10-real-world-applications-of-blockchain-technology/)
-- [@article@Ethereum Blockchain Transactions](https://ethereum.org/en/developers/docs/transactions/)
-- [@article@E34 Blockchain Applications and Real-World Use Cases Disrupting the Status Quo](https://builtin.com/blockchain/blockchain-applications)
+- [@artigo@Casos de Uso e Aplicações da Blockchain por Indústria](https://consensys.net/blockchain-use-cases/)
+- [@artigo@Top 10 Aplicações do Mundo Real da Tecnologia Blockchain](https://www.blockchain-council.org/blockchain/top-10-real-world-applications-of-blockchain-technology/)
+- [@artigo@Transações na Blockchain Ethereum](https://ethereum.org/en/developers/docs/transactions/)
+- [@artigo@Aplicações e Casos de Uso da Blockchain Disruptando o Status Quo](https://builtin.com/blockchain/blockchain-applications)

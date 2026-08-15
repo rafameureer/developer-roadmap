@@ -1,10 +1,10 @@
 # Hardhat
 
-Hardhat is a development environment designed for Ethereum software. It helps developers manage and automate the tasks that are inherent to building smart contracts and decentralized applications (dApps), such as compiling, testing, debugging, and deploying smart contracts. It provides a local development network, allowing developers to experiment and iterate quickly without needing to interact with a live blockchain.
+Hardhat é um ambiente de desenvolvimento projetado para software Ethereum. Ele ajuda os desenvolvedores a gerenciar e automatizar as tarefas intrínsecas ao construção de contratos inteligentes e aplicativos descentralizados (dApps), como compilar, testar, depurar e implantar contratos inteligentes. Ele fornece uma rede de desenvolvimento local, permitindo aos desenvolvedores experimentar e iterar rapidamente sem a necessidade de interagir com uma blockchain em tempo real.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Hardhat](https://hardhat.org/)
-- [@official@Hardhat Overview](https://hardhat.org/hardhat-runner/docs/getting-started#overview)
-- [@video@Build and Deploy Smart Contracts using Hardhat](https://youtu.be/GBc3lBrXEBo)
-- [@feed@Explore top posts about Hardhat](https://app.daily.dev/tags/hardhat?ref=roadmapsh)
+- [@official@Visão Geral do Hardhat](https://hardhat.org/hardhat-runner/docs/getting-started#overview)
+- [@video@Construa e Implante Contratos Inteligentes usando o Hardhat](https://youtu.be/GBc3lBrXEBo)
+- [@feed@Explore os melhores posts sobre Hardhat](https://app.daily.dev/tags/hardhat?ref=roadmapsh)

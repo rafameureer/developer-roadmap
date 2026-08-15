@@ -1,11 +1,11 @@
-# Cryptowallets
+# Carteiras Criptográficas
 
-Cryptowallets are tools that allow users to manage, store, and transact with cryptocurrencies. They don't actually hold the cryptocurrency itself; instead, they store the private keys needed to access and control your digital assets on the blockchain. These wallets come in various forms, including software, hardware, and paper, each offering different levels of security and convenience.
+Carteiras criptográficas são ferramentas que permitem aos usuários gerenciar, armazenar e transacionar com criptomoedas. Elas não armazenam na verdade a própria criptomoeda; em vez disso, elas armazenam as chaves privadas necessárias para acessar e controlar seus ativos digitais na blockchain. Essas carteiras vêm em várias formas, incluindo software, hardware e papel, cada uma oferecendo diferentes níveis de segurança e conveniência.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@Web3 Wallet Security Basics - Cyfrin Updraft](https://updraft.cyfrin.io/courses/web3-wallet-security-basics)
-- [@course@Advanced Web3 Wallet Security - Cyfrin Updraft](https://updraft.cyfrin.io/courses/advanced-web3-wallet-security)
-- [@article@What is a Cryptocurrency Wallet?](https://www.investopedia.com/terms/b/bitcoin-wallet.asp)
-- [@article@What is a Crypto Wallet? A Beginner's Guide](https://crypto.com/university/crypto-wallets)
-- [@video@Cyfrin Updraft | Setting Up a Wallet](https://updraft.cyfrin.io/courses/blockchain-basics/basics/setting-up-your-wallet)
+- [@curso@Fundamentos da Segurança das Carteiras Web3 - Cyfrin Updraft](https://updraft.cyfrin.io/courses/web3-wallet-security-basics)
+- [@curso@Segurança Avançada de Carteiras Web3 - Cyfrin Updraft](https://updraft.cyfrin.io/courses/advanced-web3-wallet-security)
+- [@artigo@O que é uma Carteira Criptográfica?](https://www.investopedia.com/terms/b/bitcoin-wallet.asp)
+- [@artigo@O que é uma Carteira Criptográfica? Um Guia Iniciante](https://crypto.com/university/crypto-wallets)
+- [@vídeo@Cyfrin Updraft | Configurando uma Carteira](https://updraft.cyfrin.io/courses/blockchain-basics/basics/setting-up-your-wallet)

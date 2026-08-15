@@ -1,8 +1,8 @@
 # ethers.js
 
-Ethers.js is a JavaScript library that simplifies interacting with the Ethereum blockchain and its ecosystem. It provides a complete and well-tested set of tools for developers to create and deploy smart contracts, send transactions, and interact with blockchain data. Ethers.js aims to be a user-friendly and comprehensive alternative to other Ethereum JavaScript libraries.
+Ethers.js é uma biblioteca JavaScript que simplifica a interação com a blockchain Ethereum e seu ecossistema. Ele fornece um conjunto completo e bem testado de ferramentas para desenvolvedores criarem e implantarem contratos inteligentes, enviar transações e interagir com dados da blockchain. Ethers.js visa ser uma alternativa amigável ao usuário e abrangente a outras bibliotecas JavaScript Ethereum.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Ethers.js Documentation](https://docs.ethers.io/)
-- [@feed@Explore top posts about JavaScript](https://app.daily.dev/tags/javascript?ref=roadmapsh)
+- [@official@Documentação do ethers.js](https://docs.ethers.io/)
+- [@feed@Explore os principais posts sobre JavaScript](https://app.daily.dev/tags/javascript?ref=roadmapsh)

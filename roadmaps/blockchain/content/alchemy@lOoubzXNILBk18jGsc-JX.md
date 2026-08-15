@@ -1,8 +1,8 @@
 # Alchemy
 
-Alchemy is a platform that provides developers with the infrastructure and tools needed to build and scale decentralized applications (dApps). It simplifies the process of interacting with blockchain networks by offering reliable and scalable APIs, enhanced monitoring, and developer tools that abstract away the complexities of running and maintaining blockchain nodes. This allows developers to focus on building the application logic rather than managing the underlying infrastructure.
+Alchemy é uma plataforma que oferece aos desenvolvedores a infraestrutura e as ferramentas necessárias para construir e escalar aplicativos descentralizados (dApps). Ele simplifica o processo de interação com redes blockchain, oferecendo APIs confiáveis e escaláveis, monitoramento aprimorado e ferramentas para desenvolvedores que abstraem complexidades na execução e manutenção de nós blockchain. Isso permite aos desenvolvedores se concentrar na lógica da aplicação em vez de gerenciar a infraestrutura subjacente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Alchemy](https://www.alchemy.com/)
-- [@video@Cyfrin Updraft | Introduction to Alchemy](https://updraft.cyfrin.io/courses/foundry/foundry-simple-storage/introduction-to-alchemy)
+- [@video@Cyfrin Updraft | Introdução ao Alchemy](https://updraft.cyfrin.io/courses/foundry/foundry-simple-storage/introduction-to-alchemy)

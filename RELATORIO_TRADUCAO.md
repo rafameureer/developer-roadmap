@@ -1,11 +1,11 @@
 # 📊 Relatório de Progresso da Tradução Autônoma (PT-BR)
 
-**Última atualização:** 15/08/2026 02:44:58
+**Última atualização:** 15/08/2026 02:57:43
 
 ## 📈 Estatísticas Gerais
-- **Progresso Global:** `1107 / 10365` arquivos (`10.68%`)
-- **Roadmaps Concluídos:** `16 / 91`
-- **Itens Pendentes para Decisão Humana:** `343` (veja [DECISOES_HUMANAS.md](./DECISOES_HUMANAS.md))
+- **Progresso Global:** `1214 / 10365` arquivos (`11.71%`)
+- **Roadmaps Concluídos:** `17 / 91`
+- **Itens Pendentes para Decisão Humana:** `363` (veja [DECISOES_HUMANAS.md](./DECISOES_HUMANAS.md))
 
 ---
 
@@ -23,6 +23,7 @@
 - ✅ `backend`
 - ✅ `backend-beginner`
 - ✅ `bi-analyst`
+- ✅ `blockchain`
 - ✅ `devops-beginner`
 - ✅ `frontend-beginner`
 - ✅ `git-github-beginner`

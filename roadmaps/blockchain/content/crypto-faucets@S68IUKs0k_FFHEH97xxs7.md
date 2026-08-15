@@ -1,9 +1,9 @@
-# Crypto Faucets
+# Faucetas Criptográficas
 
-Crypto faucets are websites or apps that distribute small amounts of cryptocurrency as a reward for completing simple tasks. These tasks can include things like solving captchas, watching ads, or playing games. The purpose of a faucet is to introduce people to cryptocurrencies and encourage them to learn more about the technology, often by providing them with a small amount of crypto to start experimenting with.
+As faucetes criptográficas são sites ou aplicativos que distribuem pequenas quantias de criptomoedas como recompensa por completar tarefas simples. Essas tarefas podem incluir coisas como resolver captchas, assistir anúncios ou jogar jogos. O propósito de uma faucet é introduzir pessoas a criptomoedas e encorajar-as a aprender mais sobre a tecnologia, geralmente fornecendo-lhes uma pequena quantidade de cripto para começar a experimentar.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What Is A Crypto Faucet?](https://academy.binance.com/en/articles/what-is-a-crypto-faucet)
-- [@article@What are crypto faucets and how do they work?](https://cointelegraph.com/news/what-are-crypto-faucets-and-how-do-they-work)
+- [@artigo@O que é uma Fauceta Criptográfica?](https://academy.binance.com/en/articles/what-is-a-crypto-faucet)
+- [@artigo@O que são faucetes criptográficas e como elas funcionam?](https://cointelegraph.com/news/what-are-crypto-faucets-and-how-do-they-work)
 - [@feed@Explore top posts about Crypto](https://app.daily.dev/tags/crypto?ref=roadmapsh)

@@ -1,10 +1,10 @@
 # Cardano
 
-Cardano is a third-generation, open-source, decentralized public blockchain and cryptocurrency project. It uses a proof-of-stake consensus mechanism called Ouroboros, designed to be more energy-efficient and scalable than proof-of-work systems. Cardano aims to provide a secure and sustainable platform for decentralized applications (dApps) and smart contracts, with a focus on peer-reviewed research and a layered architecture.
+Cardano é um projeto de blockchain e criptomoeda aberto-fonte, descentralizado e público da terceira geração. Ele usa um mecanismo de consenso chamado Ouroboros, projetado para ser mais eficiente em energia e escalável do que os sistemas de prova-de-trabalho. O Cardano visa fornecer uma plataforma segura e sustentável para aplicativos descentralizados (dApps) e contratos inteligentes, com foco em pesquisas revisadas por pares e arquitetura em camadas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Cardano](https://cardano.org/)
-- [@official@Cardano Docs](https://docs.cardano.org/)
-- [@article@Cardano (ADA): What It Is and How It Differs From Bitcoin](https://www.investopedia.com/cardano-definition-4683961)
-- [@video@What is Cardano? ADA Explained with Animations](https://www.youtube.com/watch?v=UMUztLQNqSI)
+- [@official@Documentação do Cardano](https://docs.cardano.org/)
+- [@article@O que é o Cardano (ADA) e como ele se diferencia do Bitcoin](https://www.investopedia.com/cardano-definition-4683961)
+- [@video@O que é o Cardano? ADA Explained com Animações](https://www.youtube.com/watch?v=UMUztLQNqSI)

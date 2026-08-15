@@ -1,3 +1,3 @@
 # TVM-Based
 
-TVM-based blockchains execute smart contracts on a stack-based virtual machine rather than the Ethereum Virtual Machine. The most prominent example is the TON blockchain, whose Telegram Virtual Machine (TVM) uses its own bytecode and design, trading Ethereum-tooling compatibility for performance and unique contract capabilities.
+As blockchains baseadas em TVM executam contratos inteligentes em uma máquina virtual de pilha em vez da Ethereum Virtual Machine. O exemplo mais proeminente é a blockchain TON, cuja Telegram Virtual Machine (TVM) usa seu próprio bytecode e design, trocando a compatibilidade com ferramentas do Ethereum por desempenho e capacidades únicas de contratos.

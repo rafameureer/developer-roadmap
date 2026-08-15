@@ -4,7 +4,7 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 
 ---
 
-> ⚠️ **Total de itens sinalizados:** 343
+> ⚠️ **Total de itens sinalizados:** 363
 
 | Arquivo / Tópico | Motivo da Sinalização | Data/Hora |
 |---|---|---|
@@ -351,3 +351,23 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 | `roadmaps/bi-analyst/content/storytelling-framework@t_J0MZTMWMnrImGHjXYov.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:43:01.167249 |
 | `roadmaps/bi-analyst/content/strategic-bi@3BxbkrBp8veZj38zdwN8s.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:43:03.248389 |
 | `roadmaps/bi-analyst/content/window-functions@1toMuRZResgse1AtwEck6.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:44:51.048548 |
+| `roadmaps/blockchain/content/basic-blockchain-operations@9z0Fqn1qqN8eo6s7_kwcb.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:46:03.527495 |
+| `roadmaps/blockchain/content/besu@Gnnp5qrFmuSVtaq31rvMX.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:46:22.916188 |
+| `roadmaps/blockchain/content/bft@Bj3T_4lfr0Yianuwr3pDN.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:46:28.309792 |
+| `roadmaps/blockchain/content/bitbucket@TMPB62h9LGIA0pMmjfUun.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:46:34.350460 |
+| `roadmaps/blockchain/content/bitcoin@tmI1PrE4fInrGB3-jMrFW.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:46:53.134125 |
+| `roadmaps/blockchain/content/blockchain-forking@L08v-78UsEhcg-mZtMVuk.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:46:57.670065 |
+| `roadmaps/blockchain/content/blockchain-interoperability@nNPa6jKRUaitmHwBip_LE.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:47:02.339365 |
+| `roadmaps/blockchain/content/cryptography--hashing@e_I-4Q6_qIW09Hcn-pgKm.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:48:39.869225 |
+| `roadmaps/blockchain/content/daos@RsoOgixZlyQU6h7nIaY9J.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:48:50.751013 |
+| `roadmaps/blockchain/content/javascript@fF06XiQV4CPEJnt_ESOvv.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:51:58.951836 |
+| `roadmaps/blockchain/content/poh@-bul5ZMIcZf8RNd4kV54s.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:53:35.791223 |
+| `roadmaps/blockchain/content/pokt-network@pJhR9OQo8YFQmAZXQbikJ.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:53:39.193153 |
+| `roadmaps/blockchain/content/polygon@JNilHFQnnVDOz-Gz6eNo5.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:53:43.335535 |
+| `roadmaps/blockchain/content/pos@WNPNoDZ57M2QHEIIU-Bpa.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:54:04.010918 |
+| `roadmaps/blockchain/content/pow@XbO1CKYZ6OVqVjtrcHKq2.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:54:09.088577 |
+| `roadmaps/blockchain/content/practices@UOF7Ep97i1l3Own6YEWlq.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:54:13.738373 |
+| `roadmaps/blockchain/content/python@pVG7bGqVGCeSBlZxRNHJs.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:54:36.300222 |
+| `roadmaps/blockchain/content/quicknode@FGih8w9We52PHpBnnGO6H.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:54:39.205611 |
+| `roadmaps/blockchain/content/react@0DUYS40_-BTpk2rLQ1a0e.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:54:44.931417 |
+| `roadmaps/blockchain/content/zk-rollups--zero-knowledge-proof@PykoX4j5Q3eJWIpUoczjM.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:57:43.985270 |

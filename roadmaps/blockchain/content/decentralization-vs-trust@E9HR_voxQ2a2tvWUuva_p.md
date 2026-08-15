@@ -1,10 +1,10 @@
-# Decentralization vs. Trust
+# Descentralização vs. Confiança
 
-Decentralization refers to the distribution of power and control away from a central authority. Trust, in this context, is the reliance on a third party or system to act honestly and reliably. The relationship between the two lies in how decentralization aims to reduce or eliminate the need for trust in a single entity by distributing it across a network.
+A descentralização refere-se à distribuição de poder e controle de uma autoridade centralizada. A confiança, neste contexto, é a dependência em um terceiro ou sistema para agir honestamente e de forma confiável. A relação entre as duas reside na maneira como a descentralização visa reduzir ou eliminar a necessidade de confiança em uma única entidade distribuindo-a em uma rede.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What Crypto Is Really About](https://blog.chain.link/what-crypto-is-really-about/)
-- [@article@Ethereum Consensus Mechanisms](https://ethereum.org/en/developers/docs/consensus-mechanisms/)
-- [@video@The Superiority of Cryptographic Truth](https://youtu.be/AEtBPbmIRKQ)
-- [@feed@Explore top posts about Decentralization](https://app.daily.dev/tags/decentralization?ref=roadmapsh)
+- [@artigo@O que Crypto Realmente É Sobre](https://blog.chain.link/what-crypto-is-really-about/)
+- [@artigo@Mecanismos de Consenso do Ethereum](https://ethereum.org/en/developers/docs/consensus-mechanisms/)
+- [@vídeo@A Superioridade da Verdade Criptográfica](https://youtu.be/AEtBPbmIRKQ)
+- [@feed@Explore top posts about Descentralização](https://app.daily.dev/tags/decentralization?ref=roadmapsh)

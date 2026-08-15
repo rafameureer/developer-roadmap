@@ -1,9 +1,9 @@
 # Arbitrum
 
-Arbitrum is a Layer-2 scaling solution designed to improve the speed and reduce the costs of transactions on the Ethereum blockchain. It operates by executing transactions off-chain and then posting the results back to the main Ethereum chain, leveraging optimistic rollups to achieve higher throughput and lower gas fees compared to directly interacting with Ethereum. This allows for more complex and scalable decentralized applications (dApps) to be built and used without being constrained by the limitations of the base layer.
+Arbitrum é uma solução de escalonamento Layer-2 projetada para melhorar a velocidade e reduzir os custos das transações na blockchain Ethereum. Ele opera executando as transações off-chain e, em seguida, publicando os resultados de volta à cadeia principal do Ethereum, aproveitando os rollups otimistas para atingir uma maior taxa de transferência e taxas mais baixas de gás em comparação com a interação direta com o Ethereum. Isso permite que sejam construídas e usadas aplicações descentralizadas (dApps) mais complexas e escaláveis sem serem limitadas pelas restrições da camada base.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Arbitrum - The Future of Ethereum](https://arbitrum.io/)
-- [@official@Getting Started with Arbitrum](https://docs.arbitrum.io/welcome/get-started)
-- [@article@Arbitrum Whitepaper](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-kalodner.pdf)
+- [@oficial@Arbitrum - O Futuro do Ethereum](https://arbitrum.io/)
+- [@oficial@Começando com Arbitrum](https://docs.arbitrum.io/welcome/get-started)
+- [@artigo@Whitepaper do Arbitrum](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-kalodner.pdf)

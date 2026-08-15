@@ -1,8 +1,8 @@
 # TVM-Based Blockchains
 
-TVM-based blockchains use the TON Virtual Machine (TVM) to execute smart contracts. TVM is designed for high performance and scalability, allowing these blockchains to handle a large number of transactions efficiently. It supports multiple programming languages and offers features like asynchronous message passing, enabling complex and decentralized applications to be built on the chain.
+As blockchains baseadas em TVM usam a TON Virtual Machine (TVM) para executar contratos inteligentes. A TVM foi projetada para alta performance e escalabilidade, permitindo que essas blockchains lidem eficientemente com um grande número de transações. Ela suporta múltiplos idiomas de programação e oferece recursos como a passagem assíncrona de mensagens, permitindo que complexos e aplicativos descentralizados sejam construídos na rede.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Original Specification](https://ton.org/tvm.pdf)
-- [@official@Everscale VM Specification](https://docs.everscale.network/tvm.pdf)
+- [@oficial@Especificação Original](https://ton.org/tvm.pdf)
+- [@oficial@Especificações da VM Everscale](https://docs.everscale.network/tvm.pdf)

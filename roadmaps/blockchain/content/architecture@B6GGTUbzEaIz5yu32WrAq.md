@@ -1,9 +1,9 @@
-# dApp Architecture
+# Arquitetura da dApp
 
-Traditional web applications typically rely on a centralized server to handle data storage, logic, and user authentication. In contrast, decentralized applications (dApps) shift these responsibilities to a decentralized network, often a blockchain. Instead of a single server, dApps use smart contracts deployed on the blockchain to manage data and logic. The frontend of a dApp, which users interact with, can still be hosted on traditional servers or decentralized storage solutions, but the core functionality is executed and verified on the blockchain, making it more transparent and resistant to censorship.
+As aplicações web tradicionais geralmente dependem de um servidor centralizado para lidar com o armazenamento de dados, a lógica e a autenticação do usuário. Em contraste, as aplicativos descentralizados (dApps) deslocam essas responsabilidades para uma rede descentralizada, frequentemente uma blockchain. Em vez de um único servidor, as dApps usam contratos inteligentes implantados na blockchain para gerenciar dados e lógica. A interface front-end da dApp, que os usuários interagem, ainda pode ser hospedada em servidores tradicionais ou soluções de armazenamento descentralizado, mas a funcionalidade core é executada e verificada na blockchain, tornando-a mais transparente e resistente à censura.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@The Architecture of a Web 3.0 application](https://www.preethikasireddy.com/post/the-architecture-of-a-web-3-0-application)
-- [@video@Blockchain Development: Dapp Architecture](https://youtu.be/KBSq8-LnUDI?t=286)
-- [@feed@Explore top posts about Architecture](https://app.daily.dev/tags/architecture?ref=roadmapsh)
+- [@artigo@Arquitetura de uma Aplicação Web 3.0](https://www.preethikasireddy.com/post/the-architecture-of-a-web-3-0-application)
+- [@vídeo@Desenvolvimento de Blockchain: Arquitetura da dApp](https://youtu.be/KBSq8-LnUDI?t=286)
+- [@feed@Explore os melhores posts sobre Arquitetura](https://app.daily.dev/tags/architecture?ref=roadmapsh)

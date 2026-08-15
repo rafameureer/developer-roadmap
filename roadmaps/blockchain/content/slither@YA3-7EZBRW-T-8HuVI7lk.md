@@ -1,9 +1,9 @@
 # Slither
 
-Slither is a static analysis tool for Solidity smart contracts. It analyzes code without executing it, identifying potential vulnerabilities, bugs, and code inefficiencies. It helps developers find issues like reentrancy, gas optimization opportunities, and compliance with coding standards before deploying their contracts.
+Slither é uma ferramenta de análise estática para contratos inteligentes em Solidity. Ele analisa o código sem executá-lo, identificando vulnerabilidades potenciais, bugs e ineficiências no código. Ajuda os desenvolvedores a encontrar problemas como reentrância, oportunidades de otimização de gás e conformidade com padrões de codificação antes de implantar seus contratos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@opensource@Slither, the Solidity source analyzer](https://github.com/crytic/slither)
-- [@article@Slither Framework](https://blog.trailofbits.com/2018/10/19/slither-a-solidity-static-analysis-framework/)
-- [@video@Cyfrin Updraft | Slither Walkthrough](https://updraft.cyfrin.io/courses/security/puppy-raffle/slither-walkthrough)
+- [@opensource@Slither, o analisador de código-fonte em Solidity](https://github.com/crytic/slither)
+- [@artigo@Framework Slither](https://blog.trailofbits.com/2018/10/19/slither-a-solidity-static-analysis-framework/)
+- [@vídeo@Cyfrin Updraft | Passo a passo com Slither](https://updraft.cyfrin.io/courses/security/puppy-raffle/slither-walkthrough)

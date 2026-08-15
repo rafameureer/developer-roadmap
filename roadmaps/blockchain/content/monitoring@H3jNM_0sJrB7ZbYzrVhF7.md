@@ -1,8 +1,8 @@
-# Smart Contract Monitoring
+# Monitoramento de Contratos Inteligentes
 
-Smart contract monitoring involves continuously observing and analyzing the activity and state of deployed smart contracts. This process helps identify potential issues, vulnerabilities, or unexpected behavior in real-time. By tracking key metrics, events, and transactions, developers and stakeholders can proactively respond to anomalies, ensure contract security, and maintain the integrity of the blockchain application.
+O monitoramento de contratos inteligentes envolve observar e analisar continuamente a atividade e o estado dos contratos inteligentes implantados. Esse processo ajuda a identificar problemas potenciais, vulnerabilidades ou comportamentos inesperados em tempo real. Ao rastrear métricas-chave, eventos e transações, os desenvolvedores e os stakeholders podem responder proativamente às anomalias, garantir a segurança do contrato e manter a integridade da aplicação blockchain.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@On-Chain Security: What’s Lurking in Your Web3 Project?](https://www.quillaudits.com/blog/web3-security/on-chain-security-monitoring)
+- [@artigo@Segurança em Chain: O Que Está Oculto no Seu Projeto Web3?](https://www.quillaudits.com/blog/web3-security/on-chain-security-monitoring)
 - [@feed@Explore top posts about Monitoring](https://app.daily.dev/tags/monitoring?ref=roadmapsh)

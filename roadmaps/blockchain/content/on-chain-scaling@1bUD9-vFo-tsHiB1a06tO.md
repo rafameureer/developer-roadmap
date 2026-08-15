@@ -1,7 +1,7 @@
-# On-Chain Scaling
+# Escalabilidade na Blockchain
 
-On-chain scaling refers to methods of increasing a blockchain's transaction processing capacity directly within the blockchain's own architecture. This involves modifications to the blockchain's core rules, such as increasing the block size or changing the consensus mechanism, to allow for more transactions to be processed in a given time period. The goal is to handle a higher volume of transactions without relying on external solutions.
+A escalabilidade na blockchain refere-se a métodos de aumentar a capacidade de processamento de transações diretamente na própria arquitetura da blockchain. Isso envolve modificações nas regras nucleares da blockchain, como aumentar o tamanho do bloco ou alterar o mecanismo de consenso, para permitir que mais transações sejam processadas em um determinado período de tempo. O objetivo é lidar com um volume maior de transações sem depender de soluções externas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Scaling - Ethereum](https://ethereum.org/en/developers/docs/scaling/)
+- [@artigo@Escalabilidade - Ethereum](https://ethereum.org/en/developers/docs/scaling/)

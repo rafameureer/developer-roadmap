@@ -1,8 +1,8 @@
-# Node as a Service
+# Serviço de Nó
 
-Node as a Service (NaaS) provides access to blockchain nodes without requiring users to set up and maintain their own infrastructure. Instead of running a node directly, developers can connect to a node provided by a third-party service. This allows them to interact with the blockchain, read data, and broadcast transactions without the complexities of node management.
+O Serviço de Nó (NaaS) oferece acesso a nós blockchain sem que os usuários precisem configurar e manter sua própria infraestrutura. Em vez de executar um nó diretamente, os desenvolvedores podem se conectar a um nó fornecido por um serviço de terceiros. Isso permite que eles interajam com a blockchain, leiam dados e broadcasts transações sem as complexidades da gestão do nó.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Blockchain Node Providers and How They Work](https://www.infoq.com/articles/blockchain-as-a-service-get-block/)
-- [@article@Node as a Service - Ethereum](https://ethereum.org/en/developers/docs/nodes-and-clients/nodes-as-a-service/)
+- [@artigo@Provedores de Nós Blockchain e Como Eles Funcionam](https://www.infoq.com/articles/blockchain-as-a-service-get-block/)
+- [@artigo@Serviço de Nó - Ethereum](https://ethereum.org/en/developers/docs/nodes-and-clients/nodes-as-a-service/)

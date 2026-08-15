@@ -1,11 +1,11 @@
-# Decentralization
+# Descentralização
 
-Decentralization means power and control are distributed, rather than held by a single entity. Imagine a group of friends managing a shared bank account; no single person can make changes without the others knowing and agreeing. This shared control makes the system more resistant to censorship, single points of failure, and manipulation, as no one individual has the authority to alter the rules or data unilaterally.
+A descentralização significa que o poder e o controle estão distribuídos, em vez de serem mantidos por uma única entidade. Imagine um grupo de amigos gerenciando uma conta bancária compartilhada; nenhum indivíduo pode fazer alterações sem os outros sabendo e concordando. Esse controle compartilhado torna o sistema mais resistente à censura, pontos únicos de falha e manipulação, pois nenhuma pessoa individual tem autoridade para alterar as regras ou dados unilateralmente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Decentralization in Blockchain](https://www.investopedia.com/decentralized-finance-defi-5113835)
-- [@article@What is Decentralization?](https://aws.amazon.com/blockchain/decentralization-in-blockchain/)
-- [@article@What is Decentralization in Blockchain?](https://www.blockchain-council.org/blockchain/what-is-decentralization-in-blockchain/)
-- [@video@What Is Decentralization in Crypto, Exactly?](https://youtu.be/5iesIki27zw?si=3tUygdRSAveuxGlr)
-- [@feed@Explore top posts about Decentralization](https://app.daily.dev/tags/decentralization?ref=roadmapsh)
+- [@artigo@Descentralização na Blockchain](https://www.investopedia.com/decentralized-finance-defi-5113835)
+- [@artigo@O que é Descentralização?](https://aws.amazon.com/blockchain/decentralization-in-blockchain/)
+- [@artigo@O que é a Descentralização na Blockchain?](https://www.blockchain-council.org/blockchain/what-is-decentralization-in-blockchain/)
+- [@vídeo@O que é a Descentralização em Criptomoedas, Exatamente?](https://youtu.be/5iesIki27zw?si=3tUygdRSAveuxGlr)
+- [@feed@Explore top posts about Descentralização](https://app.daily.dev/tags/decentralization?ref=roadmapsh)

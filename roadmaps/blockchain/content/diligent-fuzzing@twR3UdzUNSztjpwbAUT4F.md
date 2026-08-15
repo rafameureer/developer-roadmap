@@ -1,7 +1,7 @@
 # Manticore
 
-Manticore is a symbolic execution tool used for analyzing smart contracts and binary programs. It works by exploring all possible execution paths of a program, identifying potential vulnerabilities like integer overflows, underflows, and other security flaws. This allows developers to automatically detect and fix bugs before deployment.
+Manticore é uma ferramenta de execução simbólica usada para analisar contratos inteligentes e programas binários. Ele funciona explorando todas as possíveis caminhos de execução de um programa, identificando vulnerabilidades potenciais como estouro de inteiros, subestouro de inteiros e outros defeitos de segurança. Isso permite que os desenvolvedores detectem automaticamente e corrijam bugs antes da implantação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Manticore Docs](https://manticore.readthedocs.io/)
+- [@oficial@Documentação do Manticore](https://manticore.readthedocs.io/)

@@ -1,11 +1,11 @@
-# Go (Golang) for dApps
+# Go (Golang) para dApps
 
-Go, often referred to as Golang, is a programming language known for its simplicity, efficiency, and strong support for concurrency. It's designed to be easy to learn and use, while also providing the performance needed for complex systems. For decentralized applications (dApps), Go's speed and ability to handle multiple tasks simultaneously make it well-suited for building the backend logic, smart contracts, and other components that require high performance and reliability.
+Go, frequentemente chamado de Golang, é um idioma de programação conhecido por sua simplicidade, eficiência e forte suporte à concorrência. Foi projetado para ser fácil de aprender e usar, enquanto também fornece o desempenho necessário para sistemas complexos. Para aplicativos descentralizados (dApps), a velocidade do Go e sua capacidade de lidar com várias tarefas simultaneamente o tornam bem-sucedido em construir a lógica de backend, contratos inteligentes e outros componentes que exigem desempenho e confiabilidade altos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit Dedicated Go Roadmap](https://roadmap.sh/golang)
-- [@official@A Tour of Go – Go Basics](https://go.dev/tour/welcome/1)
-- [@official@Go Reference Documentation](https://go.dev/doc/)
-- [@article@Go by Example - annotated example programs](https://gobyexample.com/)
-- [@feed@Explore top posts about Golang](https://app.daily.dev/tags/golang?ref=roadmapsh)
+- [@roadmap@Visite a Rota do Go dedicada](https://roadmap.sh/golang)
+- [@official@Um Tour de Go – Básico do Go](https://go.dev/tour/welcome/1)
+- [@official@Documentação Oficial do Go](https://go.dev/doc/)
+- [@article@Go by Example - programas de exemplo anotados](https://gobyexample.com/)
+- [@feed@Explore os melhores posts sobre Golang](https://app.daily.dev/tags/golang?ref=roadmapsh)

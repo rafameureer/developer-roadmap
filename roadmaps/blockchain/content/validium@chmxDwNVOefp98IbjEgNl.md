@@ -1,7 +1,7 @@
 # Validium
 
-Validium is a type of layer-2 scaling solution for blockchains that processes transactions off-chain and posts only validity proofs on the main chain. Unlike other scaling solutions, Validium uses external data availability, meaning the transaction data is not stored on the main chain or by the validators of the layer-2 network itself, but by a separate entity. This approach can significantly increase transaction throughput and reduce costs, as the main chain only needs to verify the proofs, not store the entire transaction data.
+Validium é uma solução de escalabilidade do tipo layer-2 para blockchains que processa transações off-chain e publica apenas provas de validade na blockchain principal. Diferentemente de outras soluções de escalabilidade, Validium usa a disponibilidade externa de dados, o que significa que os dados da transação não são armazenados na blockchain principal ou pelos validadores da rede layer-2 em si, mas por uma entidade separada. Este abordagem pode significativamente aumentar a taxa de transações e reduzir custos, pois a blockchain principal só precisa verificar as provas, não armazenar toda a data da transação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Validium - Ethereum](https://ethereum.org/en/developers/docs/scaling/validium/)
+- [@artigo@Validium - Ethereum](https://ethereum.org/en/developers/docs/scaling/validium/)

@@ -1,9 +1,9 @@
-# Unit Tests
+# Testes Unitários
 
-Unit tests are a way to check if individual parts of a program, like functions or modules, work correctly in isolation. They involve writing specific test cases that provide inputs to these parts and then verifying that the outputs match what's expected. This helps developers find and fix bugs early in the development process, ensuring that each component of the software behaves as intended before being integrated with other parts.
+Testes unitários são uma maneira de verificar se partes individuais de um programa, como funções ou módulos, funcionam corretamente em isolamento. Eles envolvem a escrita de casos específicos de teste que fornecem entradas para essas partes e, em seguida, verificam se as saídas correspondem ao esperado. Isso ajuda os desenvolvedores a encontrar e corrigir bugs cedo no processo de desenvolvimento, garantindo que cada componente do software comporte-se conforme o planejado antes de ser integrado com outras partes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Smart Contracts Unit Testing](https://ethereum.org/en/developers/docs/smart-contracts/testing/#unit-testing)
-- [@article@Tips for Unit Testing Ethereum Smart Contracts in Solidity](https://betterprogramming.pub/a-few-tips-for-unit-testing-ethereum-smart-contract-in-solidity-d804062068fb)
+- [@artigo@Teste de Contratos Inteligentes](https://ethereum.org/en/developers/docs/smart-contracts/testing/#unit-testing)
+- [@artigo>Dicas para Testar Contratos Inteligentes Ethereum em Solidity](https://betterprogramming.pub/a-few-tips-for-unit-testing-ethereum-smart-contract-in-solidity-d804062068fb)
 - [@feed@Explore top posts about Testing](https://app.daily.dev/tags/testing?ref=roadmapsh)

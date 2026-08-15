@@ -1,9 +1,9 @@
 # TON
 
-TON (The Open Network) is a fast and scalable layer-1 blockchain architecture designed for high transaction throughput and user accessibility. It aims to provide a platform for decentralized applications, instant payments, and secure communication. TON utilizes a unique multi-blockchain approach with a main chain and numerous workchains, allowing for parallel processing and efficient resource allocation.
+TON (The Open Network) é uma arquitetura de blockchain de nível-1 rápida e escalável projetada para alta taxa de transações e acessibilidade do usuário. Ele visa fornecer uma plataforma para aplicativos descentralizados, pagamentos instantâneos e comunicação segura. O TON utiliza um abordagem única de multi-blockchain com uma cadeia principal e várias workchains, permitindo o processamento em paralelo e a alocação eficiente de recursos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Start Building on The Open Network](https://ton.org/dev)
-- [@official@TON Introduction](https://ton.org/docs/learn/introduction)
-- [@official@Blockchain Analysis](https://ton.org/analysis)
+- [@oficial@Comece a construir no The Open Network](https://ton.org/dev)
+- [@oficial@Introdução ao TON](https://ton.org/docs/learn/introduction)
+- [@oficial@Análise de Blockchain](https://ton.org/analysis)

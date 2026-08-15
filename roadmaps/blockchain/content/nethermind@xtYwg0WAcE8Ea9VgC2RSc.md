@@ -1,8 +1,8 @@
 # Nethermind
 
-Nethermind is a software client for the Ethereum blockchain, written in C#/.NET. It allows developers to interact with the Ethereum network, execute smart contracts, and build decentralized applications (dApps). It offers a full Ethereum node implementation, providing features like JSON-RPC API, tracing, and monitoring tools, making it a versatile option for developers seeking an alternative to other Ethereum clients like Geth or Parity.
+Nethermind é um cliente de software para a blockchain Ethereum, escrito em C#/.NET. Ele permite que os desenvolvedores interajam com a rede Ethereum, execute contratos inteligentes e construam aplicativos descentralizados (dApps). Oferece uma implementação completa de um nó Ethereum, fornecendo recursos como a API JSON-RPC, rastreamento e ferramentas de monitoramento, tornando-se uma opção versátil para desenvolvedores buscando uma alternativa aos outros clientes Ethereum como Geth ou Parity.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Nethermind](https://www.nethermind.io/)
-- [@official@Nethermind Documentation](https://docs.nethermind.io/)
+- [@official@Documentação do Nethermind](https://docs.nethermind.io/)

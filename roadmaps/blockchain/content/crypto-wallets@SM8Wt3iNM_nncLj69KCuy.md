@@ -1,10 +1,10 @@
-# Crypto Wallets
+# Carteiras Criptográficas
 
-Crypto wallets are tools that allow users to manage and interact with their cryptocurrencies. They don't actually store the crypto themselves; instead, they store the private keys needed to access and control your digital assets on the blockchain. These wallets enable users to send, receive, and store cryptocurrencies, as well as interact with decentralized applications (dApps).
+Carteiras criptográficas são ferramentas que permitem aos usuários gerenciar e interagir com suas criptomoedas. Elas não armazenam as criptomoedas em si; em vez disso, elas armazenam as chaves privadas necessárias para acessar e controlar seus ativos digitais na blockchain. Essas carteiras permitem aos usuários enviar, receber e armazenar criptomoedas, bem como interagir com aplicativos descentralizados (dApps).
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@Cyfrin Updraft | Smart Contract DevOps](https://updraft.cyfrin.io/courses/wallets)
-- [@article@What is a Crypto Wallet?: A Beginner’s Guide](https://crypto.com/university/crypto-wallets)
-- [@article@Crypto Wallet? What is it?](https://www.coinbase.com/learn/crypto-basics/what-is-a-crypto-wallet)
-- [@article@Choose your wallet - Ethereum](https://ethereum.org/en/wallets/find-wallet/)
+- [@curso@Cyfrin Updraft | Desenvolvimento de Contratos Inteligentes](https://updraft.cyfrin.io/courses/wallets)
+- [@artigo@O que é uma Carteira Criptográfica? Um Guia Iniciante](https://crypto.com/university/crypto-wallets)
+- [@artigo@O que é uma Carteira Criptográfica?](https://www.coinbase.com/learn/crypto-basics/what-is-a-crypto-wallet)
+- [@artigo@Escolha sua carteira - Ethereum](https://ethereum.org/en/wallets/find-wallet/)

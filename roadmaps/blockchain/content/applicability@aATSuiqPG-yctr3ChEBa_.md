@@ -1,9 +1,9 @@
-# Applicability
+# Aplicabilidade
 
-dApps can be used for just about anything that requires two or more parties to agree on something. When the appropriate conditions are met, the smart contract will execute automatically. An important differentiation is that these transactions are no longer based on trust but they are rather based on cryptographically-backed smart contracts.
+dApps podem ser usados para praticamente qualquer coisa que requer duas ou mais partes concordarem em algo. Quando as condições apropriadas são atendidas, o contrato inteligente será executado automaticamente. Uma distinção importante é que essas transações não estão mais baseadas na confiança, mas sim em contratos inteligentes apoiados por criptografia.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What are dApps? A guide to decentralized applications](https://www.moonpay.com/learn/defi/what-are-dapps)
-- [@article@Blockchain Use Cases and Applications by Industry](https://consensys.net/blockchain-use-cases/)
-- [@article@The real-world use cases for blockchain technology](https://roboticsandautomationnews.com/2022/05/20/the-real-world-use-cases-for-blockchain-technology/)
+- [@article@O que são dApps? Um guia sobre aplicativos descentralizados](https://www.moonpay.com/learn/defi/what-are-dapps)
+- [@article@Casos de Uso e Aplicações da Blockchain por Indústria](https://consensys.net/blockchain-use-cases/)
+- [@article@Os casos de uso reais para a tecnologia blockchain](https://roboticsandautomationnews.com/2022/05/20/the-real-world-use-cases-for-blockchain-technology/)

@@ -1,7 +1,7 @@
 # Plasma
 
-Plasma is a framework for building scalable decentralized applications (dApps) on top of a parent blockchain, like Ethereum. It essentially creates "child chains" that operate independently but are anchored to the main chain for security. These child chains can process transactions much faster and cheaper than the main chain, and periodically commit summaries of their activity to the parent chain, ensuring data integrity and dispute resolution.
+Plasma é um quadro para construir aplicativos descentralizados (dApps) escaláveis em cima de uma blockchain pai, como Ethereum. Ele cria efetivamente "filhas chains" que operam independentemente, mas são ancoradas na cadeia principal para segurança. Essas filhas chains podem processar transações muito mais rapidamente e economicamente baratas em comparação com a cadeia principal, e periodicamente comitam resumos de suas atividades à blockchain pai, garantindo integridade dos dados e resolução de disputas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Plasma Chains - Ethereum](https://ethereum.org/en/developers/docs/scaling/plasma/)
+- [@artigo@Filhas Chains - Ethereum](https://ethereum.org/en/developers/docs/scaling/plasma/)

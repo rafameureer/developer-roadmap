@@ -1,8 +1,8 @@
-# Client Nodes
+# Nós de Cliente
 
-Client nodes are the user's entry point to interact with a blockchain network and its decentralized applications (dApps). They provide an interface, often a web browser or a dedicated application, that allows users to send transactions, query blockchain data, and generally engage with the dApp's functionalities without needing to directly manage or understand the complexities of the underlying blockchain infrastructure. These nodes rely on other nodes in the network to verify and process transactions.
+Nós de cliente são o ponto de entrada do usuário para interagir com uma rede de blockchain e suas aplicações descentralizadas (dApps). Eles fornecem uma interface, geralmente um navegador da web ou uma aplicação dedicada, que permite aos usuários enviar transações, consultar dados da blockchain e, em geral, se envolver nas funcionalidades das dApps sem precisar gerenciar diretamente ou entender as complexidades da infraestrutura de blockchain subjacente. Esses nós dependem de outros nós na rede para verificar e processar transações.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Nodes and Clients](https://ethereum.org/en/developers/docs/nodes-and-clients/)
-- [@article@Ethereum Nodes](https://www.coindesk.com/learn/ethereum-nodes-and-clients-a-complete-guide/)
+- [@artigo@Nós e Clientes](https://ethereum.org/en/developers/docs/nodes-and-clients/)
+- [@artigo@Nós da Ethereum](https://www.coindesk.com/learn/ethereum-nodes-and-clients-a-complete-guide/)

@@ -1,10 +1,10 @@
-# Optimism
+# Optimismo
 
-Optimism is a Layer 2 scaling solution for Ethereum. It aims to improve transaction speeds and reduce costs on the Ethereum network by processing transactions off-chain and then bundling them back onto the main chain in a more efficient manner. It uses a technology called Optimistic Rollups, which assumes transactions are valid unless proven otherwise, streamlining the validation process.
+O Optimismo é uma solução de escalabilidade Layer 2 para a Ethereum. Ele visa melhorar as velocidades de transação e reduzir os custos na rede Ethereum processando transações off-chain e, em seguida, agrupando-as de volta na cadeia principal de forma mais eficiente. Ele usa uma tecnologia chamada Optimistic Rollups, que assume que as transações são válidas a menos que sejam provadas caso contrário, streamlinhando o processo de validação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@book@Optimism Explained: Layer 2 Scaling & How It Differs from Arbitrum](https://www.youtube.com/watch?v=Rte3fQY6xy4)
-- [@official@Optimism](https://www.optimism.io/)
-- [@official@Optimism Documentation](https://docs.optimism.io/)
-- [@video@How To Use Ethereum Optimism L2 (2025)](https://www.youtube.com/watch?v=KsYFeG4mBoE)
+- [@book@Otimismo Explicado: Escalabilidade Layer 2 & Como Diferencia-se do Arbitrum](https://www.youtube.com/watch?v=Rte3fQY6xy4)
+- [@official@Otimismo](https://www.optimism.io/)
+- [@official@Documentação do Otimismo](https://docs.optimism.io/)
+- [@video@Como Usar o Optimismo L2 da Ethereum (2025)](https://www.youtube.com/watch?v=KsYFeG4mBoE)

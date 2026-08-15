@@ -1,8 +1,8 @@
-# Hybrid Smart Contracts
+# Contratos Inteligentes Híbridos
 
-Hybrid smart contracts combine the benefits of blockchain-based smart contracts with external data and computation. They leverage on-chain code for core logic and security, while using off-chain oracles to access real-world information and perform complex computations that are impractical or impossible to execute directly on the blockchain. This allows smart contracts to interact with the outside world and create more sophisticated and versatile applications.
+Contratos inteligentes híbridos combinam os benefícios dos contratos inteligentes baseados em blockchain com dados e computação externos. Eles aproveitam o código na rede para a lógica principal e segurança, enquanto usam oráculos off-chain para acessar informações do mundo real e realizar cálculos complexos que são impraticáveis ou impossíveis de executar diretamente na blockchain. Isso permite que os contratos inteligentes interajam com o mundo exterior e criem aplicativos mais sofisticados e versáteis.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Hybrid Smart Contracts Explained](https://blog.chain.link/hybrid-smart-contracts-explained/)
-- [@article@Guide to Hybrid Smart Contracts](https://www.leewayhertz.com/hybrid-smart-contracts/)
+- [@article@Contratos Inteligentes Híbridos Explicados](https://blog.chain.link/hybrid-smart-contracts-explained/)
+- [@article@Guia de Contratos Inteligentes Híbridos](https://www.leewayhertz.com/hybrid-smart-contracts/)

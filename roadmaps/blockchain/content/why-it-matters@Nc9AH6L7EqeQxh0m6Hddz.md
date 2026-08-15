@@ -1,9 +1,9 @@
-# Why Blockchain Matters
+# Por que o Blockchain Importa
 
-Blockchain technology provides a secure and transparent way to record and share information across a network. It works by grouping data into blocks, which are then cryptographically linked together in a chain. This structure makes it extremely difficult to alter or tamper with the data, as any change would require altering all subsequent blocks. This inherent security and immutability are key to its significance.
+A tecnologia blockchain fornece uma maneira segura e transparente de registrar e compartilhar informações em uma rede. Funciona agrupando dados em blocos, que são então vinculados criptograficamente em uma cadeia. Esta estrutura torna extremamente difícil alterar ou manipular os dados, pois qualquer mudança exigiria alterar todos os blocos subsequentes. Essa segurança intrínseca e imutabilidade são fundamentais para seu significado.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Benefits of blockchain](https://www.ibm.com/think/topics/benefits-of-blockchain)
-- [@article@Why is Blockchain Important and Why Does it Matters](https://www.simplilearn.com/tutorials/blockchain-tutorial/why-is-blockchain-important)
-- [@video@Why Blockchain should matter to you | Enrique Alvarado | TEDxEcublens](https://www.youtube.com/watch?v=P1U4B8NeoMw)
+- [@article@Benefícios do blockchain](https://www.ibm.com/think/topics/benefits-of-blockchain)
+- [@article@Por que o Blockchain é Importante e Por Que Ele Importa](https://www.simplilearn.com/tutorials/blockchain-tutorial/why-is-blockchain-important)
+- [@video@Por que o Blockchain deve importar para você | Enrique Alvarado | TEDxEcublens](https://www.youtube.com/watch?v=P1U4B8NeoMw)

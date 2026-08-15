@@ -1,8 +1,8 @@
-# State & Payment Channels
+# Canais de Estado e Pagamentos
 
-State channels and payment channels are techniques used to improve the scalability and efficiency of blockchain transactions. They allow participants to conduct multiple transactions off-chain, only interacting with the main blockchain to open and close the channel. This reduces congestion on the main chain and lowers transaction fees, as only the opening and closing transactions need to be recorded on the blockchain.
+Os canais de estado e os canais de pagamento são técnicas usadas para melhorar a escalabilidade e eficiência das transações na blockchain. Eles permitem que participantes realizem várias transações off-chain, interagindo apenas com a blockchain principal para abrir e fechar o canal. Isso reduz a congestionamento na cadeia principal e diminui as taxas de transação, pois apenas as transações de abertura e fechamento precisam ser registradas na blockchain.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@The Basics of State Channels](https://education.district0x.io/general-topics/understanding-ethereum/basics-state-channels/)
-- [@article@State Channels: An Introduction to Off-chain Transactions](https://www.talentica.com/blogs/state-channels-an-introduction-to-off-chain-transactions/)
+- [@artigo@As Básicas dos Canais de Estado](https://education.district0x.io/general-topics/understanding-ethereum/basics-state-channels/)
+- [@artigo@Canais de Estado: Introdução a Transações Off-chain](https://www.talentica.com/blogs/state-channels-an-introduction-to-off-chain-transactions/)

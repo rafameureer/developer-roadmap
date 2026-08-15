@@ -1,13 +1,13 @@
-# Basic Blockchain Knowledge
+# Conhecimento Básico da Blockchain
 
-Understanding the fundamental concepts of blockchain technology is essential. This includes grasping what a blockchain is – a distributed, immutable ledger – and how it operates through cryptographic principles. Key elements involve understanding blocks, transactions, hashing, consensus mechanisms, and the decentralized nature of the system.
+Entender os conceitos fundamentais da tecnologia blockchain é essencial. Isso inclui compreender o que é uma blockchain – um livro-razão distribuído e imutável – e como ela opera através de princípios criptográficos. Elementos-chave envolvem entender blocos, transações, hashing, mecanismos de consenso e a natureza descentralizada do sistema.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@Cyfirn Updraft | Blockchain Basics](https://updraft.cyfrin.io/courses/blockchain-basics)
-- [@article@Introduction to Blockchain](https://chain.link/education-hub/blockchain)
-- [@article@Blockchain Explained](https://www.investopedia.com/terms/b/blockchain.asp)
-- [@article@Blockchain for beginners- basic guiding principles](https://blockchain-observatory.ec.europa.eu/document/download/1063effa-59cc-4df4-aeee-d2cf94f69178_en?filename=Blockchain_For_Beginners_A_EUBOF_Guide.pdf)
-- [@video@How does a blockchain work?](https://youtu.be/SSo_EIwHSd4)
-- [@video@What Is a Blockchain? | Blockchain Basics for Developers](https://youtu.be/4ff9esY_4aU)
+- [@curso@Cyfirn Updraft | Introdução à Blockchain](https://updraft.cyfrin.io/courses/blockchain-basics)
+- [@artigo@Introdução à Blockchain](https://chain.link/education-hub/blockchain)
+- [@artigo@Blockchain Explicado](https://www.investopedia.com/terms/b/blockchain.asp)
+- [@artigo@Blockchain para iniciantes - princípios básicos de orientação](https://blockchain-observatory.ec.europa.eu/document/download/1063effa-59cc-4df4-aeee-d2cf94f69178_en?filename=Blockchain_For_Beginners_A_EUBOF_Guide.pdf)
+- [@vídeo@Como funciona uma blockchain?](https://youtu.be/SSo_EIwHSd4)
+- [@vídeo@O que é uma Blockchain? | Introdução à Blockchain para Desenvolvedores](https://youtu.be/4ff9esY_4aU)
 - [@feed@Explore top posts about Blockchain](https://app.daily.dev/tags/blockchain?ref=roadmapsh)

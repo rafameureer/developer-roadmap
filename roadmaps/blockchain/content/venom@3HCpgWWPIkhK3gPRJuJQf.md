@@ -1,10 +1,10 @@
 # Venom
 
-Venom Network is a next-generation, scalable Layer 0 blockchain designed for enterprise and Web3 use, featuring advanced dynamic sharding, Proof-of-Stake (PoS), and a unique architecture for high transaction speeds (150k+ TPS) and security, allowing for parallel processing of tasks like CBDCs, RWA tokenization, and dApps. It combines Layer 0 interoperability with Layer 1 execution, offering a hybrid approach for regulated environments
+Venom Network é uma blockchain de geração próxima, escalável e de nível 0 projetada para uso empresarial e Web3, com recursos avançados de fragmentação dinâmica, Proof-of-Stake (PoS) e uma arquitetura única para altas taxas de transações (150k+ TPS) e segurança, permitindo o processamento paralelo de tarefas como CBDCs, tokenização de RWA e dApps. Combina a interoperabilidade nível 0 com a execução nível 1, oferecendo uma abordagem híbrida para ambientes regulados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Venom](https://venom.foundation)
-- [@official@Venom Documentation](https://docs.venom.foundation/)
-- [@official@Venom Whitepaper](https://venom.foundation/Venom_Whitepaper.pdf)
-- [@official@Venom Explore Grants](https://venom.foundation/#explore_grants)
+- [@oficial@Venom](https://venom.foundation)
+- [@oficial@Documentação do Venom](https://docs.venom.foundation/)
+- [@oficial@Whitepaper do Venom](https://venom.foundation/Venom_Whitepaper.pdf)
+- [@oficial@Explorar Grants do Venom](https://venom.foundation/#explore_grants)

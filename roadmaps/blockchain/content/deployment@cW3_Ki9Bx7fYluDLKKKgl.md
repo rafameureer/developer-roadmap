@@ -1,9 +1,9 @@
-# dApp Deployment
+# Implantação de dApp
 
-Deployment refers to the process of making a decentralized application (dApp) accessible and functional for users. This involves taking the code, smart contracts, and user interface components and placing them on the appropriate networks and servers so that users can interact with the dApp. It includes compiling smart contracts, migrating them to a blockchain network (like Ethereum), setting up the frontend hosting, and configuring any necessary backend services.
+A implantação refere-se ao processo de tornar uma aplicação descentralizada (dApp) acessível e funcional para os usuários. Isso envolve levar o código, contratos inteligentes e componentes da interface do usuário e colocá-los em redes e servidores apropriados, de modo que os usuários possam interagir com a dApp. Inclui a compilação de contratos inteligentes, migração para uma rede blockchain (como Ethereum), configuração da hospedagem frontend e configuração de quaisquer serviços backend necessários.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Tutorial for building an Ethereum DApp with Integrated Web3 Monitoring](https://www.moesif.com/blog/blockchain/ethereum/Tutorial-for-building-Ethereum-Dapp-with-Integrated-Error-Monitoring/)
-- [@video@Build and Deploy a Modern Web 3.0 Blockchain App](https://youtu.be/Wn_Kb3MR_cU)
-- [@feed@Explore top posts about CI/CD](https://app.daily.dev/tags/cicd?ref=roadmapsh)
+- [@artigo@Tutorial para construir uma dApp Ethereum com Monitoramento Web3 Integrado](https://www.moesif.com/blog/blockchain/ethereum/Tutorial-for-building-Ethereum-Dapp-with-Integrated-Error-Monitoring/)
+- [@vídeo@Construa e Implante uma Aplicação Blockchain Moderna da Web 3.0](https://youtu.be/Wn_Kb3MR_cU)
+- [@feed@Explore as principais postagens sobre CI/CD](https://app.daily.dev/tags/cicd?ref=roadmapsh)

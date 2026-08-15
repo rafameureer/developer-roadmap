@@ -1,10 +1,10 @@
-# Smart Contract Deployment
+# Implantação de Contratos Inteligentes
 
-Smart contract deployment is the process of taking a smart contract, written in a language like Solidity, and making it live and executable on a blockchain network. This involves compiling the code into bytecode, paying a transaction fee (gas) to the network, and storing the contract's bytecode and initial state on the blockchain. Once deployed, the smart contract becomes an immutable and autonomous program that can be interacted with by users and other contracts.
+A implantação de contratos inteligentes é o processo de levar um contrato inteligente, escrito em uma linguagem como Solidity, e torná-lo vivo e executável em uma rede blockchain. Isso envolve compilar o código em bytecode, pagar uma taxa de transação (gas) para a rede e armazenar o bytecode do contrato e seu estado inicial na blockchain. Uma vez implantado, o contrato inteligente se torna um programa imutável e autônomo que pode ser interagido por usuários e outros contratos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Deploying Smart Contracts](https://ethereum.org/en/developers/docs/smart-contracts/deploying/)
-- [@article@Deploying and Interacting with Smart Contracts](https://docs.openzeppelin.com/learn/deploying-and-interacting)
-- [@video@Cyfrin Updraft | Deploying Your First Smart Contract](https://updraft.cyfrin.io/courses/solidity/simple-storage/deploying-solidity-smart-contract)
+- [@artigo@Implantando Contratos Inteligentes](https://ethereum.org/en/developers/docs/smart-contracts/deploying/)
+- [@artigo@Implantando e Interagindo com Contratos Inteligentes](https://docs.openzeppelin.com/learn/deploying-and-interacting)
+- [@vídeo@Cyfrin Updraft | Implantação do Seu Primeiro Contrato Inteligente](https://updraft.cyfrin.io/courses/solidity/simple-storage/deploying-solidity-smart-contract)
 - [@feed@Explore top posts about CI/CD](https://app.daily.dev/tags/cicd?ref=roadmapsh)

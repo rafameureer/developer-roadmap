@@ -1,8 +1,8 @@
 # Fantom
 
-Fantom is a directed acyclic graph (DAG) smart contract platform that provides decentralized, scalable, and secure services. It's designed to overcome the limitations of older blockchain technologies, particularly in terms of transaction speed and cost. Fantom uses its own consensus mechanism called Lachesis, which allows for near-instant transaction finality and high throughput.
+Fantom é uma plataforma de contratos inteligentes baseada em gráfico direcionado acíclico (DAG) que fornece serviços descentralizados, escaláveis e seguros. Ele foi projetado para superar as limitações das tecnologias blockchain mais antigas, especialmente em termos de velocidade e custo de transação. Fantom usa seu próprio mecanismo de consenso chamado Lachesis, que permite uma finalidade de transação quase instantânea e alta taxa de throughput.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Fantom Overview](https://docs.fantom.foundation/)
-- [@article@Fantom Whitepaper](https://arxiv.org/pdf/1810.10360.pdf)
+- [@oficial@Visão geral do Fantom](https://docs.fantom.foundation/)
+- [@artigo@Whitepaper do Fantom](https://arxiv.org/pdf/1810.10360.pdf)

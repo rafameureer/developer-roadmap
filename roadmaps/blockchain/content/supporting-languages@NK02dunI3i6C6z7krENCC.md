@@ -1,8 +1,8 @@
-# Supporting Languages
+# Linguagens Suportadas
 
-While the bulk of the logic in blockchain applications is handled by smart contracts, all the surrounding services that support those smart contracts (frontend, monitoring, etc.) are often written in other languages.
+Embora a maioria da lógica em aplicações blockchain seja manipulada por contratos inteligentes, todos os serviços circundantes que suportam esses contratos inteligentes (frontend, monitoramento, etc.) são geralmente escritos em outras linguagens.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Programming Languages for Smart Contracts](https://blog.logrocket.com/smart-contract-programming-languages/)
-- [@article@Top Programming Languages for Blockchains](https://www.codecademy.com/resources/blog/programming-languages-blockchain-development/)
+- [@artigo@Linguagens de Programação para Contratos Inteligentes](https://blog.logrocket.com/smart-contract-programming-languages/)
+- [@artigo@Top Linguagens de Programação para Blockchain](https://www.codecademy.com/resources/blog/programming-languages-blockchain-development/)

@@ -1,7 +1,7 @@
 # Substrate
 
-Substrate is a modular framework for building blockchains. It provides a set of pre-built components and libraries that developers can use to create custom blockchains tailored to specific needs, rather than building everything from scratch. It offers flexibility in designing consensus mechanisms, runtime logic, and networking protocols, making it suitable for a wide range of blockchain applications.
+Substrate é um quadro modular para construir blockchains. Ele fornece um conjunto de componentes e bibliotecas pré-construídos que os desenvolvedores podem usar para criar blockchains personalizadas adaptadas a necessidades específicas, em vez de construir tudo do zero. Oferece flexibilidade na designação de mecanismos de consenso, lógica de tempo de execução e protocolos de rede, tornando-o adequado para uma ampla gama de aplicações blockchain.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Substrate Documentation](https://docs.substrate.io/quick-start/)
+- [@oficial@Documentação do Substrate](https://docs.substrate.io/quick-start/)

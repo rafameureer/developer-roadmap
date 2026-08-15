@@ -1,9 +1,9 @@
 # IDEs
 
-An integrated development environment is a software application that provides comprehensive facilities to computer programmers for software development. An IDE normally consists of at least a source code editor, build automation tools and a debugger.
+Um ambiente de desenvolvimento integrado (IDE) é uma aplicação de software que fornece recursos abrangentes para programadores de computador para o desenvolvimento de software. Um IDE normalmente consiste em pelo menos um editor de código-fonte, ferramentas de automação de build e um depurador.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Integrated Development Environments](https://ethereum.org/en/developers/docs/ides/)
-- [@article@Remix - Ethereum IDE & community](https://remix-project.org/)
+- [@artigo@Ambientes de Desenvolvimento Integrados](https://ethereum.org/en/developers/docs/ides/)
+- [@artigo@Remix - IDE e comunidade Ethereum](https://remix-project.org/)
 - [@feed@Explore top posts about DevTools](https://app.daily.dev/tags/devtools?ref=roadmapsh)

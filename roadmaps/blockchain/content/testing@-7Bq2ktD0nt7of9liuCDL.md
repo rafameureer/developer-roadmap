@@ -1,10 +1,10 @@
-# Testing dApps
+# Testes de dApps
 
-Testing decentralized applications (dApps) involves verifying that the smart contracts and user interfaces function correctly and securely. This process ensures that the dApp behaves as expected under various conditions, including normal usage, edge cases, and potential attacks. Effective testing helps identify and fix bugs, vulnerabilities, and performance issues before deployment, leading to a more reliable and trustworthy application.
+Testar aplicativos descentralizados (dApps) envolve verificar que os contratos inteligentes e as interfaces do usuário funcionam corretamente e de forma segura. Esse processo garante que o dApp comporte-se conforme esperado em várias condições, incluindo uso normal, casos extremos e ataques potenciais. Testes eficazes ajudam a identificar e corrigir bugs, vulnerabilidades e problemas de desempenho antes da implantação, levando a uma aplicação mais confiável e confiável.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Software Testing?](https://www.guru99.com/software-testing-introduction-importance.html)
-- [@article@Testing Pyramid](https://www.browserstack.com/guide/testing-pyramid-for-test-automation)
-- [@article@How to test dApps (decentralized applications)](https://rhian-is.medium.com/how-to-test-dapps-decentralized-applications-4662cf61db90)
+- [@artigo@O que é Teste de Software?](https://www.guru99.com/software-testing-introduction-importance.html)
+- [@artigo@Pirâmide de Testes](https://www.browserstack.com/guide/testing-pyramid-for-test-automation)
+- [@artigo@Como testar dApps (aplicativos descentralizados)](https://rhian-is.medium.com/how-to-test-dapps-decentralized-applications-4662cf61db90)
 - [@feed@Explore top posts about Testing](https://app.daily.dev/tags/testing?ref=roadmapsh)

@@ -1,11 +1,11 @@
 # Everscale
 
-Everscale is a layer-1 PoS blockchain network of the 5th generation. It is one of the most technologically advanced blockchain networks, and that is not a marketing exaggeration. Everscale incorporates all the blockchain innovations and concepts of recent years. Its versatility helps it develop as a decentralized hub for many blockchains and resource-demanding applications such as GameFi, DeFi, micro-transactions, real-time bidding, etc.
+Everscale é uma rede de blockchain layer-1 PoS da 5ª geração. É um dos blocos de cadeia de bloco mais avançados, e isso não é uma exageração de marketing. Everscale incorpora todas as inovações e conceitos de blockchain recentes. Sua versatilidade o ajuda a se desenvolver como um hub descentralizado para muitas blockchains e aplicações que exigem recursos intensos, como GameFi, DeFi, transações micro, licitações em tempo real, etc.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Everscale](https://everscale.network)
-- [@official@Everscale Documentation](https://docs.everscale.network/)
-- [@official@Everscale Guide](https://everscale.guide/)
-- [@official@Everscale - Getting Started](https://everscale.network/getting-started)
-- [@official@Everscale Whitepaper](https://coinpaprika.com/storage/cdn/whitepapers/10976405.pdf)
+- [@official@Documentação do Everscale](https://docs.everscale.network/)
+- [@official@Guia do Everscale](https://everscale.guide/)
+- [@official@Começando com o Everscale](https://everscale.network/getting-started)
+- [@official@Relatório Branco do Everscale](https://coinpaprika.com/storage/cdn/whitepapers/10976405.pdf)

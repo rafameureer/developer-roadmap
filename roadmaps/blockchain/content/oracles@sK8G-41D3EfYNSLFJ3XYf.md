@@ -1,9 +1,9 @@
-# Oracles
+# Oráculos
 
-Oracles are entities that connect blockchains to external systems, enabling smart contracts to interact with real-world data. They act as bridges, fetching information from off-chain sources like APIs, databases, or even physical sensors, and then relaying that data onto the blockchain for use in smart contract execution. This allows smart contracts to react to real-world events and conditions, making them more versatile and useful.
+Oráculos são entidades que conectam blockchains a sistemas externos, permitindo que contratos inteligentes interajam com dados do mundo real. Eles atuam como pontes, recuperando informações de fontes off-chain como APIs, bancos de dados ou até sensores físicos, e depois encaminhando esses dados para a blockchain para uso na execução dos contratos inteligentes. Isso permite que os contratos inteligentes reagem a eventos e condições do mundo real, tornando-os mais versáteis e úteis.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Blockchain Oracle](https://en.wikipedia.org/wiki/Blockchain_oracle)
-- [@article@What Is a Blockchain Oracle?](https://chain.link/education/blockchain-oracles)
+- [@artigo@Oráculo de Blockchain](https://en.wikipedia.org/wiki/Blockchain_oracle)
+- [@artigo@O que é um Oráculo de Blockchain?](https://chain.link/education/blockchain-oracles)
 - [@feed@Explore top posts about Blockchain](https://app.daily.dev/tags/blockchain?ref=roadmapsh)

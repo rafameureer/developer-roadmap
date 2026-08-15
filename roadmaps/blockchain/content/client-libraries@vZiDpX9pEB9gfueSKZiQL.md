@@ -1,8 +1,8 @@
-# Client Libraries
+# Bibliotecas de Cliente
 
-Client libraries are collections of pre-written code that simplify how applications interact with a blockchain. They provide functions and tools to easily connect to a blockchain network, send transactions, retrieve data, and manage smart contracts, abstracting away the complexities of low-level blockchain communication. This allows developers to focus on building the application's logic rather than dealing with the intricacies of blockchain protocols.
+Bibliotecas de cliente são coleções de código pré-escrito que simplificam como as aplicações interagem com uma blockchain. Elas fornecem funções e ferramentas para conectar facilmente a uma rede de blockchain, enviar transações, recuperar dados e gerenciar contratos inteligentes, abstrayendo as complexidades da comunicação de baixo nível da blockchain. Isso permite que os desenvolvedores se concentrem na lógica da construção da aplicação em vez de lidar com as intricacidades dos protocolos de blockchain.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Viem Library](https://viem.sh)
-- [@article@Client Libraries](https://docs.waves.tech/en/building-apps/waves-api-and-sdk/client-libraries/)
+- [@oficial@Biblioteca Viem](https://viem.sh)
+- [@artigo@Bibliotecas de Cliente](https://docs.waves.tech/en/building-apps/waves-api-and-sdk/client-libraries/)

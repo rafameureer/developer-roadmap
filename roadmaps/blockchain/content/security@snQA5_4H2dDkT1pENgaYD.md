@@ -1,10 +1,10 @@
-# Security
+# Segurança
 
-Security is about protecting valuable information and assets from unauthorized access, use, disclosure, disruption, modification, or destruction. In blockchains, this means ensuring that transactions are valid, data is tamper-proof, and the system is resistant to attacks. Strong security is essential for maintaining trust and reliability in blockchain networks, as any vulnerability could lead to loss of funds, data breaches, or network failures.
+A segurança se refere à proteção de informações e ativos valiosos de acesso, uso, divulgação, interrupção, modificação ou destruição não autorizados. Em blockchains, isso significa garantir que as transações sejam válidas, os dados sejam imunes ao adulteração e o sistema seja resistente a ataques. Uma segurança forte é essencial para manter a confiança e a fiabilidade em redes blockchain, pois qualquer vulnerabilidade pode levar à perda de fundos, violações de dados ou falhas na rede.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@Cyfrin Updraft | Smart Contract Security](https://updraft.cyfrin.io/courses/security)
-- [@article@Smart Contract Security](https://ethereum.org/en/developers/docs/smart-contracts/security/)
-- [@article@Ethereum Smart Contract Security Recommendations](https://consensys.net/blog/developers/ethereum-smart-contract-security-recommendations/)
+- [@curso@Cyfrin Updraft | Segurança de Contratos Inteligentes](https://updraft.cyfrin.io/courses/security)
+- [@artigo@Segurança de Contratos Inteligentes](https://ethereum.org/en/developers/docs/smart-contracts/security/)
+- [@artigo@Recomendações de Segurança para Contratos Inteligentes no Ethereum](https://consensys.net/blog/developers/ethereum-smart-contract-security-recommendations/)
 - [@feed@Explore top posts about Blockchain](https://app.daily.dev/tags/blockchain?ref=roadmapsh)

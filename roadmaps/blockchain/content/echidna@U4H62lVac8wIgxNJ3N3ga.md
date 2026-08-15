@@ -1,8 +1,8 @@
 # Echidna
 
-Echidna is a Haskell program designed for fuzzing/property-based testing of Ethereum smart contracts. It generates random sequences of calls to the contract and checks if certain user-defined properties hold true after each sequence. This helps developers uncover unexpected behavior and potential vulnerabilities in their smart contract code.
+Echidna é um programa em Haskell projetado para testes baseados em propriedades de contratos inteligentes Ethereum. Ele gera sequências aleatórias de chamadas ao contrato e verifica se certas propriedades definidas pelo usuário são verdadeiras após cada sequência. Isso ajuda os desenvolvedores a descobrir comportamentos inesperados e vulnerabilidades potenciais em seu código de contratos inteligentes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Echidna - Smart Contracts](https://secure-contracts.com/program-analysis/echidna/index.html)
-- [@opensource@Echidna: A Fast Smart Contract Fuzzer](https://github.com/crytic/echidna/)
+- [@oficial@Echidna - Contratos Inteligentes](https://secure-contracts.com/program-analysis/echidna/index.html)
+- [@opensource@Echidna: Um Fuzzer Rápido de Contratos Inteligentes](https://github.com/crytic/echidna/)

@@ -1,8 +1,8 @@
-# Mining and Incentive Models
+# Mineração e Modelos de Incentivo
 
-Mining, in the context of blockchain, is the process of validating new transactions and adding them to the blockchain. This is achieved by solving complex computational problems. Incentive models are the mechanisms used to reward miners for their efforts in maintaining the network's security and validating transactions. These rewards typically come in the form of newly created cryptocurrency and transaction fees.
+A mineração, no contexto da blockchain, é o processo de validar novas transações e adicioná-las à blockchain. Isso é alcançado resolvendo problemas computacionais complexos. Os modelos de incentivo são os mecanismos usados para recompensar os mineradores por seus esforços em manter a segurança da rede e validar transações. Essas recompensas geralmente vêm na forma de novos criptomoedas criados e taxas de transação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Ethereum Consensus Mechanisms](https://ethereum.org/en/developers/docs/consensus-mechanisms/)
-- [@article@Solana Staking Rewards](https://docs.solana.com/implemented-proposals/staking-rewards)
+- [@artigo@Mecanismos de Consenso do Ethereum](https://ethereum.org/en/developers/docs/consensus-mechanisms/)
+- [@artigo@Recompensas de Staking no Solana](https://docs.solana.com/implemented-proposals/staking-rewards)

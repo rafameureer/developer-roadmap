@@ -1052,7 +1052,114 @@
     "roadmaps/bi-analyst/content/what-is-data@g5j_mbjx2yZUIK5lfN3eT.md",
     "roadmaps/bi-analyst/content/why-bi-matters@NX-YaB_FVjoHYsR6z9QIL.md",
     "roadmaps/bi-analyst/content/writing-executive-summaries@Slg3fXGPTa-Z4sdZY86XK.md",
-    "roadmaps/bi-analyst/content/xml@ytgK7van84j5DsfD0JyZ3.md"
+    "roadmaps/bi-analyst/content/xml@ytgK7van84j5DsfD0JyZ3.md",
+    "roadmaps/blockchain/content/alchemy@lOoubzXNILBk18jGsc-JX.md",
+    "roadmaps/blockchain/content/angular@UY_vAsixTyocvo8zvAF4b.md",
+    "roadmaps/blockchain/content/applicability@aATSuiqPG-yctr3ChEBa_.md",
+    "roadmaps/blockchain/content/applications-and-uses@WD2JH4X4tEE4J0W0XFQ_4.md",
+    "roadmaps/blockchain/content/arbitrum@A_yVDg-6b42ynmh71jk1V.md",
+    "roadmaps/blockchain/content/architecture@B6GGTUbzEaIz5yu32WrAq.md",
+    "roadmaps/blockchain/content/avalanche@txQ9U1wcnZkQVh6B49krk.md",
+    "roadmaps/blockchain/content/base@ixTIn2Uhs-i5-UPt9jKAa.md",
+    "roadmaps/blockchain/content/blockchain-networks@nuq_juiBSecI7PwERR_4R.md",
+    "roadmaps/blockchain/content/blockchain-structure@Atv-4Q7edtvfySs_XhgEq.md",
+    "roadmaps/blockchain/content/bnb-chain@sJj-6wG5KjjzYYia_eo63.md",
+    "roadmaps/blockchain/content/brownie@Q64AbQlvYPiqJl8BtoJj9.md",
+    "roadmaps/blockchain/content/building-for-scale@bTdRKEiIUmu1pnp8UbJK9.md",
+    "roadmaps/blockchain/content/cardano@IzBZnvl8lqVKsog-IGwtV.md",
+    "roadmaps/blockchain/content/chainlink@omQOhNfMO09pBc7oy76Wo.md",
+    "roadmaps/blockchain/content/client-libraries@vZiDpX9pEB9gfueSKZiQL.md",
+    "roadmaps/blockchain/content/client-nodes@CoYEwHNNmrQ0i0sSQTcB7.md",
+    "roadmaps/blockchain/content/code-coverage@4V-dj9x9hSAAGCxpBWsbE.md",
+    "roadmaps/blockchain/content/common-threat-vectors@GxD-KybtmkwT3wqDzIfHp.md",
+    "roadmaps/blockchain/content/consensus-protocols@_BkpK9qgp9up8nXNH7q4m.md",
+    "roadmaps/blockchain/content/crypto-faucets@S68IUKs0k_FFHEH97xxs7.md",
+    "roadmaps/blockchain/content/crypto-wallets@SM8Wt3iNM_nncLj69KCuy.md",
+    "roadmaps/blockchain/content/cryptocurrencies@s1QqQc0We5yQaNF3Ogt4k.md",
+    "roadmaps/blockchain/content/cryptowallets@FSThY0R1OAZCIL98W3AMj.md",
+    "roadmaps/blockchain/content/dapps@oczIhxMB7WOhcAocIa2Ew.md",
+    "roadmaps/blockchain/content/decentralization-vs-trust@E9HR_voxQ2a2tvWUuva_p.md",
+    "roadmaps/blockchain/content/decentralization@H9jvIlxX6P-C_cgPfZop4.md",
+    "roadmaps/blockchain/content/decentralized-storage@tvk1Wh04BcFbAAwYWMx27.md",
+    "roadmaps/blockchain/content/defi@1AhombZUkZN6Ra5fysSpg.md",
+    "roadmaps/blockchain/content/deployment@7goaYnedUlfgfl5qApoO2.md",
+    "roadmaps/blockchain/content/deployment@cW3_Ki9Bx7fYluDLKKKgl.md",
+    "roadmaps/blockchain/content/diligent-fuzzing@twR3UdzUNSztjpwbAUT4F.md",
+    "roadmaps/blockchain/content/echidna@U4H62lVac8wIgxNJ3N3ga.md",
+    "roadmaps/blockchain/content/environmental-considerations@-dIX_3qo97B418_BmJ5wP.md",
+    "roadmaps/blockchain/content/erc-tokens@bjUuL7WALETzgFxL6-ivU.md",
+    "roadmaps/blockchain/content/ethereum-20@9uz6LBQwYpOid61LrK5dl.md",
+    "roadmaps/blockchain/content/ethereum@JLXIbP-y8C2YktIk3R12m.md",
+    "roadmaps/blockchain/content/ethersjs@i-ltfXPTCu3WaBo-xaN05.md",
+    "roadmaps/blockchain/content/everscale@YC385OLECWjpZjVeWKksO.md",
+    "roadmaps/blockchain/content/evm-based@tSJyp46rkJcOtDqVpJX1s.md",
+    "roadmaps/blockchain/content/fantom@trcGwYcFW5LQUUrAcbUf_.md",
+    "roadmaps/blockchain/content/foundry@F1EUAxODBJ3GEoh7cqM-K.md",
+    "roadmaps/blockchain/content/frontend-frameworks@YR-U2njkUrEMO0JxCU1PH.md",
+    "roadmaps/blockchain/content/fuzz-testing--static-analysis@wypJdjTW4jHm9FCqv7Lhb.md",
+    "roadmaps/blockchain/content/geth@DBRaXtwvdq2UGE8rVCmI1.md",
+    "roadmaps/blockchain/content/git@gpS5CckcQZX3TMFQ2jtIL.md",
+    "roadmaps/blockchain/content/github@GOgeaQoRvqg-7mAfL_A8t.md",
+    "roadmaps/blockchain/content/gitlab@CWqwv4asouS-dssAwIdxv.md",
+    "roadmaps/blockchain/content/gnosis-chain@UQ9AejYV6_Sk6ZJkXYWf7.md",
+    "roadmaps/blockchain/content/go@jxlQ1ibcCv6ZlcEvobZ_G.md",
+    "roadmaps/blockchain/content/gosh@5MGtl00EEZdSnJdrNYPJ7.md",
+    "roadmaps/blockchain/content/hardhat@l110d4NqTQt9lfEoxqXMX.md",
+    "roadmaps/blockchain/content/hybrid-smart-contracts@JbgBwG6KmeTdyle9U6WAv.md",
+    "roadmaps/blockchain/content/infura@hJmNuEMHaMSM0QQlABFRS.md",
+    "roadmaps/blockchain/content/insurance@uMXcKCUoUN8-Hq_IOBRCp.md",
+    "roadmaps/blockchain/content/integration-tests@QNfnbUGkT3N-pj5epnHcM.md",
+    "roadmaps/blockchain/content/introduction@MvpHHpbS-EksUfuOKILOq.md",
+    "roadmaps/blockchain/content/l2-blockchains@i_Dw3kUZ7qKPG-tk-sFPf.md",
+    "roadmaps/blockchain/content/maintenance@XvVpnlYhT_yOsvjAvwZpr.md",
+    "roadmaps/blockchain/content/mining--incentive-models@B7niNXMOTbHn_1ixKQ8ri.md",
+    "roadmaps/blockchain/content/monitoring@H3jNM_0sJrB7ZbYzrVhF7.md",
+    "roadmaps/blockchain/content/moonbeam--moonriver@VVbvueVMJKLUoJYhbJB1z.md",
+    "roadmaps/blockchain/content/moralis@RFgetmTvKvpV2PG6Vfev7.md",
+    "roadmaps/blockchain/content/nethermind@xtYwg0WAcE8Ea9VgC2RSc.md",
+    "roadmaps/blockchain/content/nfts@e4OHLOfa_AqEShpMQe6Dx.md",
+    "roadmaps/blockchain/content/node-as-a-service@dDPhMNPpl3rZh3EgXy13P.md",
+    "roadmaps/blockchain/content/on-chain-scaling@1bUD9-vFo-tsHiB1a06tO.md",
+    "roadmaps/blockchain/content/openzeppelin@qox-x_q-Q7aWcNFWD7RkT.md",
+    "roadmaps/blockchain/content/optimism@EK5TqRRn15ExsGc4gfMLu.md",
+    "roadmaps/blockchain/content/optimistic-rollups--fraud-proofs@ti6-LSK52dTCLVdxArp9q.md",
+    "roadmaps/blockchain/content/oracle-networks@CzfsAQIk3zIsDaDAorG9K.md",
+    "roadmaps/blockchain/content/oracles@sK8G-41D3EfYNSLFJ3XYf.md",
+    "roadmaps/blockchain/content/payments@vTGSDThkDDHvCanNlgP07.md",
+    "roadmaps/blockchain/content/plasma@dMesiPUPBegYQ7hgeMMJK.md",
+    "roadmaps/blockchain/content/remix@lXukWXEatsF87EWFSYyOO.md",
+    "roadmaps/blockchain/content/rust@Larbhjzi-MnPQKH1Pzn2R.md",
+    "roadmaps/blockchain/content/security@PBTrg9ivOpw9uNTVisIpx.md",
+    "roadmaps/blockchain/content/security@snQA5_4H2dDkT1pENgaYD.md",
+    "roadmaps/blockchain/content/sidechains@lSQA3CfQBugEBhAh2yxro.md",
+    "roadmaps/blockchain/content/slither@YA3-7EZBRW-T-8HuVI7lk.md",
+    "roadmaps/blockchain/content/smart-contracts@BV6lEwCAKaYxSPWD0LV_d.md",
+    "roadmaps/blockchain/content/solana@JYHK95Xr0R1MVCda1Epl6.md",
+    "roadmaps/blockchain/content/solidity@chaIKoE1uE8rpZLkDSfV-.md",
+    "roadmaps/blockchain/content/source-of-randomness-attacks@f60P5RNNdgCbrhDDzkY25.md",
+    "roadmaps/blockchain/content/starknet@Ib9STGxQa8yeoB-GFeGDE.md",
+    "roadmaps/blockchain/content/state--payment-channels@5T5c3SrFfMZLEKAzxJ-_S.md",
+    "roadmaps/blockchain/content/storage@zvUCR0KeigEi9beqFpwny.md",
+    "roadmaps/blockchain/content/substrate@E4uuJZFZz-M1vlpZmdJTO.md",
+    "roadmaps/blockchain/content/supporting-languages@NK02dunI3i6C6z7krENCC.md",
+    "roadmaps/blockchain/content/testing@-7Bq2ktD0nt7of9liuCDL.md",
+    "roadmaps/blockchain/content/ton@4tAyunbYVwlbzybuVq7fr.md",
+    "roadmaps/blockchain/content/truffle@Vl9XHtc22HnqaCnF9yJv9.md",
+    "roadmaps/blockchain/content/tvm-based@hlcavpstLnXkJcjccQUL8.md",
+    "roadmaps/blockchain/content/tvm-based@miBEG3x_foKYxwfX4Tr4f.md",
+    "roadmaps/blockchain/content/types-of-blockchains@EQgb4LqXnyq3gOX7Fb85s.md",
+    "roadmaps/blockchain/content/understanding-blockchain@bA4V_9AbV3uQi3qrtLWk0.md",
+    "roadmaps/blockchain/content/unit-tests@IXs4nUzy_A5vBjI_44kaT.md",
+    "roadmaps/blockchain/content/upgrades@OotJnHgm622NQJc2WRI7c.md",
+    "roadmaps/blockchain/content/utxo-based@C-SpX4Rzk5Um2F_X5ZdBr.md",
+    "roadmaps/blockchain/content/validium@chmxDwNVOefp98IbjEgNl.md",
+    "roadmaps/blockchain/content/venom@3HCpgWWPIkhK3gPRJuJQf.md",
+    "roadmaps/blockchain/content/vs-code@J4ev2h5cipcwh3OcuBdMU.md",
+    "roadmaps/blockchain/content/vue@Ke97bMHGfb-8hB_xSwMbk.md",
+    "roadmaps/blockchain/content/vyper@jgHa_LeCac0pl6dSADizF.md",
+    "roadmaps/blockchain/content/web3js@jwuMeo9TwaQviGIMO13Jf.md",
+    "roadmaps/blockchain/content/what-is-blockchain@edO8iEehsZtYavlsEKhOy.md",
+    "roadmaps/blockchain/content/why-it-matters@Nc9AH6L7EqeQxh0m6Hddz.md"
   ],
   "completed_roadmaps": [
     "frontend-beginner",
@@ -1070,7 +1177,8 @@
     "aspnet-core",
     "aws",
     "backend",
-    "bi-analyst"
+    "bi-analyst",
+    "blockchain"
   ],
   "flagged_issues": [
     {
@@ -2787,8 +2895,108 @@
       "file": "roadmaps/bi-analyst/content/window-functions@1toMuRZResgse1AtwEck6.md",
       "reason": "Falha na tradução automática após tentativas no Ollama",
       "timestamp": "2026-08-15T02:44:51.048548"
+    },
+    {
+      "file": "roadmaps/blockchain/content/basic-blockchain-operations@9z0Fqn1qqN8eo6s7_kwcb.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:46:03.527495"
+    },
+    {
+      "file": "roadmaps/blockchain/content/besu@Gnnp5qrFmuSVtaq31rvMX.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:46:22.916188"
+    },
+    {
+      "file": "roadmaps/blockchain/content/bft@Bj3T_4lfr0Yianuwr3pDN.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:46:28.309792"
+    },
+    {
+      "file": "roadmaps/blockchain/content/bitbucket@TMPB62h9LGIA0pMmjfUun.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:46:34.350460"
+    },
+    {
+      "file": "roadmaps/blockchain/content/bitcoin@tmI1PrE4fInrGB3-jMrFW.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:46:53.134125"
+    },
+    {
+      "file": "roadmaps/blockchain/content/blockchain-forking@L08v-78UsEhcg-mZtMVuk.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:46:57.670065"
+    },
+    {
+      "file": "roadmaps/blockchain/content/blockchain-interoperability@nNPa6jKRUaitmHwBip_LE.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:47:02.339365"
+    },
+    {
+      "file": "roadmaps/blockchain/content/cryptography--hashing@e_I-4Q6_qIW09Hcn-pgKm.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:48:39.869225"
+    },
+    {
+      "file": "roadmaps/blockchain/content/daos@RsoOgixZlyQU6h7nIaY9J.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:48:50.751013"
+    },
+    {
+      "file": "roadmaps/blockchain/content/javascript@fF06XiQV4CPEJnt_ESOvv.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:51:58.951836"
+    },
+    {
+      "file": "roadmaps/blockchain/content/poh@-bul5ZMIcZf8RNd4kV54s.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:53:35.791223"
+    },
+    {
+      "file": "roadmaps/blockchain/content/pokt-network@pJhR9OQo8YFQmAZXQbikJ.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:53:39.193153"
+    },
+    {
+      "file": "roadmaps/blockchain/content/polygon@JNilHFQnnVDOz-Gz6eNo5.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:53:43.335535"
+    },
+    {
+      "file": "roadmaps/blockchain/content/pos@WNPNoDZ57M2QHEIIU-Bpa.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:54:04.010918"
+    },
+    {
+      "file": "roadmaps/blockchain/content/pow@XbO1CKYZ6OVqVjtrcHKq2.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:54:09.088577"
+    },
+    {
+      "file": "roadmaps/blockchain/content/practices@UOF7Ep97i1l3Own6YEWlq.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:54:13.738373"
+    },
+    {
+      "file": "roadmaps/blockchain/content/python@pVG7bGqVGCeSBlZxRNHJs.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:54:36.300222"
+    },
+    {
+      "file": "roadmaps/blockchain/content/quicknode@FGih8w9We52PHpBnnGO6H.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:54:39.205611"
+    },
+    {
+      "file": "roadmaps/blockchain/content/react@0DUYS40_-BTpk2rLQ1a0e.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:54:44.931417"
+    },
+    {
+      "file": "roadmaps/blockchain/content/zk-rollups--zero-knowledge-proof@PykoX4j5Q3eJWIpUoczjM.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:57:43.985270"
     }
   ],
-  "last_updated": "2026-08-15T02:44:58.368070",
+  "last_updated": "2026-08-15T02:57:43.988577",
   "total_translated_count": 54
 }

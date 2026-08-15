@@ -1,8 +1,8 @@
-# Insurance dApps
+# Aplicações de Seguro em dApps
 
-Insurance dApps can streamline and automate various insurance processes. For example, claims processing can be automated using smart contracts that trigger payouts when specific conditions are met, verified by oracles providing external data. This reduces fraud, speeds up payouts, and lowers administrative costs. Policy management can also be improved by storing policy details on the blockchain, ensuring transparency and immutability. Furthermore, new insurance models like peer-to-peer insurance can be facilitated, where users pool resources and share risks directly, cutting out traditional intermediaries.
+As dApps de seguro podem simplificar e automatizar diversos processos de seguros. Por exemplo, o processamento de reclamações pode ser automatizado usando contratos inteligentes que desencadeiam pagamentos quando certas condições são atendidas, verificados por oráculos fornecendo dados externos. Isso reduz fraudes, acelera os pagamentos e diminui custos administrativos. A gestão de seguros também pode ser melhorada armazenando detalhes dos seguros na blockchain, garantindo transparência e imutabilidade. Além disso, novos modelos de seguro como o seguro peer-to-peer podem ser facilitados, onde usuários poolam recursos e compartilham riscos diretamente, eliminando intermediários tradicionais.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Smart Contract Use Cases - Insurance](https://blog.chain.link/smart-contract-use-cases/#insurance)
-- [@article@Top 7 Use Cases of Blockchain in the Insurance Industry](https://imaginovation.net/blog/blockchain-insurance-industry-examples/)
+- [@artigo@Casos de Uso de Contratos Inteligentes - Seguro](https://blog.chain.link/smart-contract-use-cases/#insurance)
+- [@artigo@Top 7 Casos de Uso da Blockchain na Indústria do Seguro](https://imaginovation.net/blog/blockchain-insurance-industry-examples/)

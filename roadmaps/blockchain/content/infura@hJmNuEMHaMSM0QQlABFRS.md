@@ -1,8 +1,8 @@
 # Infura
 
-Infura provides a suite of tools and infrastructure that allows developers to easily connect to the Ethereum and IPFS networks. It essentially acts as a gateway, handling the complexities of running and maintaining blockchain nodes. Instead of setting up and managing their own Ethereum node, developers can use Infura's API to interact with the blockchain, making it simpler to build and deploy decentralized applications.
+Infura oferece uma suite de ferramentas e infraestrutura que permite aos desenvolvedores se conectar facilmente às redes Ethereum e IPFS. Ele essencialmente atua como uma porta de entrada, lidando com a complexidade de executar e manter nós da blockchain. Em vez de configurar e gerenciar seus próprios nós Ethereum, os desenvolvedores podem usar a API do Infura para interagir com a blockchain, tornando mais simples a construção e implantação de aplicativos descentralizados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Infura](https://infura.io/)
-- [@official@Infura Documentation](https://docs.infura.io/api)
+- [@official@Documentação do Infura](https://docs.infura.io/api)

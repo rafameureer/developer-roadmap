@@ -1,9 +1,9 @@
-# Code Coverage
+# Cobertura de Código
 
-Code coverage is a metric that measures the extent to which the source code of a program is executed when a test suite is run. It helps identify areas of the code that are not being tested, potentially revealing bugs or vulnerabilities that might otherwise go unnoticed. It's expressed as a percentage, indicating the proportion of code lines, branches, or paths that have been exercised by the tests.
+A cobertura de código é uma métrica que mede a extensão em que o código-fonte de um programa é executado quando um conjunto de testes é rodado. Ela ajuda a identificar áreas do código que não estão sendo testadas, potencialmente revelando bugs ou vulnerabilidades que podem ir sem serem percebidos. É expressa como uma porcentagem, indicando a proporção de linhas de código, ramificações ou caminhos que foram exercitados pelos testes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Testing Smart Contracts](https://ethereum.org/en/developers/docs/smart-contracts/testing/)
-- [@article@Smart Contract Code Coverage In Hardhat](https://medium.com/coinmonks/smart-contract-code-coverage-in-hardhat-d4a5ff6c9ba6)
-- [@feed@Explore top posts about General Programming](https://app.daily.dev/tags/general-programming?ref=roadmapsh)
+- [@artigo@Testando Contratos Inteligentes](https://ethereum.org/en/developers/docs/smart-contracts/testing/)
+- [@artigo@Cobertura de Código dos Contratos Inteligentes no Hardhat](https://medium.com/coinmonks/smart-contract-code-coverage-in-hardhat-d4a5ff6c9ba6)
+- [@feed@Explore os principais posts sobre Programação Geral](https://app.daily.dev/tags/general-programming?ref=roadmapsh)

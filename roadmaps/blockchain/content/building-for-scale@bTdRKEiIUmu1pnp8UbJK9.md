@@ -1,7 +1,7 @@
-# Building for Scale
+# Construindo para Escala
 
-As more people use decentralized applications (dApps), the underlying blockchains can get congested and slow. This creates a need for new technologies and solutions that help these dApps handle a large number of users and transactions efficiently, without sacrificing speed or security. These solutions aim to make dApps more practical and user-friendly for widespread adoption.
+Quanto mais pessoas usarem aplicativos descentralizados (dApps), as blockchains subjacentes podem ficar congestionadas e lentas. Isso cria a necessidade de novas tecnologias e soluções que ajudem esses dApps a lidar com um grande número de usuários e transações eficientemente, sem sacrificar velocidade ou segurança. Essas soluções visam tornar os dApps mais práticos e fáceis de usar para uma adoção em larga escala.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Blockchain Scalability](https://medium.com/iovlabs-innovation-stories/blockchain-scalability-4dce74382930)
+- [@article@Escalabilidade da Blockchain](https://medium.com/iovlabs-innovation-stories/blockchain-scalability-4dce74382930)

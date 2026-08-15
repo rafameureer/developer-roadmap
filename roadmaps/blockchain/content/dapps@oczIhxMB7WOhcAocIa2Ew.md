@@ -1,9 +1,9 @@
-# Decentralized Applications (dApps)
+# Aplicações Descentralizadas (dApps)
 
-Decentralized applications, or dApps, are applications that run on a decentralized network, like a blockchain, rather than a single, centralized server. This means that the application's backend logic and data are distributed across many computers, making it more resistant to censorship and single points of failure. Users typically interact with dApps through a user interface, similar to traditional applications, but the underlying architecture is fundamentally different.
+As aplicações descentralizadas, ou dApps, são aplicativos que funcionam em uma rede descentralizada, como uma blockchain, em vez de um único servidor centralizado. Isso significa que a lógica de back-end e os dados da aplicação estão distribuídos em muitos computadores, tornando-a mais resistente à censura e pontos únicos de falha. Os usuários interagem com as dApps através de uma interface do usuário, semelhante às aplicações tradicionais, mas a arquitetura subjacente é fundamentalmente diferente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Decentralized Applications (dApps): What They Are, Uses, and Benefits](https://www.investopedia.com/terms/d/decentralized-applications-dapps.asp)
-- [@article@What is a decentralized application (dApp)?](https://www.kraken.com/learn/what-is-a-decentralized-application-dapp)
-- [@video@What Is a dApp? | How Decentralized Apps Work in Web3](https://www.youtube.com/watch?v=F2XTfezYTe8)
+- [@artigo@Aplicações Descentralizadas (dApps): O que São, Usos e Benefícios](https://www.investopedia.com/terms/d/decentralized-applications-dapps.asp)
+- [@artigo@O que é uma aplicação descentralizada (dApp)?](https://www.kraken.com/learn/what-is-a-decentralized-application-dapp)
+- [@vídeo@O que é uma dApp? | Como as Aplicações Descentralizadas Funcionam na Web3](https://www.youtube.com/watch?v=F2XTfezYTe8)

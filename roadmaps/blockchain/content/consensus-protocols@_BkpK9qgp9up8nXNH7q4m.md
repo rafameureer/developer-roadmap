@@ -1,10 +1,10 @@
-# Consensus Protocols
+# Protocolos de Consenso
 
-Consensus protocols are mechanisms that allow a distributed network of computers to agree on a single, consistent state of data. They ensure that all participants in the network can trust the information being shared, even when some participants might be unreliable or malicious. These protocols establish rules for how new information is added to the network and how conflicts are resolved, ultimately leading to a shared understanding of the truth.
+Protocolos de consenso são mecanismos que permitem uma rede distribuída de computadores concordar em um único estado consistente de dados. Eles garantem que todos os participantes na rede possam confiar nas informações compartilhadas, mesmo quando alguns participantes podem ser incertos ou maliciosos. Esses protocolos estabelecem regras sobre como novas informações são adicionadas à rede e como conflitos são resolvidos, levando ao fim a uma compreensão compartilhada da verdade.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Consensus Mechanisms in Blockchain: A Beginner’s Guide](https://crypto.com/university/consensus-mechanisms-explained)
-- [@article@Consensus Mechanisms](https://ethereum.org/en/developers/docs/consensus-mechanisms/)
-- [@article@What Is a Consensus Mechanism?](https://www.coindesk.com/learn/what-is-a-consensus-mechanism/)
-- [@article@Consensus Algorithm](https://www.cyfrin.io/glossary/consensus-algorithm)
+- [@artigo@Mecanismos de Consenso na Blockchain: Um Guia Iniciante](https://crypto.com/university/consensus-mechanisms-explained)
+- [@artigo@Mecanismos de Consenso](https://ethereum.org/en/developers/docs/consensus-mechanisms/)
+- [@artigo@O que é um Mecanismo de Consenso?](https://www.coindesk.com/learn/what-is-a-consensus-mechanism/)
+- [@artigo@Algoritmo de Consenso](https://www.cyfrin.io/glossary/consensus-algorithm)

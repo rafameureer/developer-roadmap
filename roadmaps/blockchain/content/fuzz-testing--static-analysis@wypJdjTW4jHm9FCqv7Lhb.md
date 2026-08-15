@@ -1,11 +1,11 @@
-# Fuzz Testing & Static Analysis
+# Teste de Fuzzing & Análise Estática
 
-Fuzz testing involves providing invalid, unexpected, or random data as input to a program to identify potential vulnerabilities and bugs. Static analysis, on the other hand, examines the source code of a program without actually executing it, looking for potential errors, security flaws, and coding standard violations. Both techniques are used to improve the robustness and security of software.
+O teste de fuzzing envolve fornecer dados inválidos, inesperados ou aleatórios como entrada a um programa para identificar vulnerabilidades e bugs potenciais. Por outro lado, a análise estática examina o código-fonte de um programa sem executá-lo realmente, procurando por erros potenciais, falhas de segurança e violações de padrões de codificação. Ambas as técnicas são usadas para melhorar a robustez e a segurança do software.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Getting Started with Smart Contract Fuzzing](https://www.immunebytes.com/blog/getting-started-with-smart-contract-fuzzing/)
-- [@article@Solidity Smart Contract Static Code Analysis](https://lightrains.com/blogs/solidity-static-analysis-tools/#static-code-analysis)
-- [@video@Smart Contract Fuzzing](https://youtu.be/LRyyNzrqgOc)
-- [@video@Cyfrin Updraft | Stateful And Stateless Fuzzing](https://updraft.cyfrin.io/courses/security/tswap/stateful-and-stateless-fuzzing)
-- [@feed@Explore top posts about Testing](https://app.daily.dev/tags/testing?ref=roadmapsh)
+- [@artigo@Começando com o Fuzzing de Contratos Inteligentes](https://www.immunebytes.com/blog/getting-started-with-smart-contract-fuzzing/)
+- [@artigo@Análise Estática de Código Solidity](https://lightrains.com/blogs/solidity-static-analysis-tools/#static-code-analysis)
+- [@vídeo@Fuzzing de Contratos Inteligentes](https://youtu.be/LRyyNzrqgOc)
+- [@vídeo@Cyfrin Updraft | Fuzzing Estatal e Não-Estatal](https://updraft.cyfrin.io/courses/security/tswap/stateful-and-stateless-fuzzing)
+- [@feed@Explore os principais posts sobre Testes](https://app.daily.dev/tags/testing?ref=roadmapsh)

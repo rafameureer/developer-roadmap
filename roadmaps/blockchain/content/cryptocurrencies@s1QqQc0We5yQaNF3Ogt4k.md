@@ -1,11 +1,11 @@
-# Cryptocurrencies
+# Criptomoedas
 
-Cryptocurrencies are digital or virtual currencies that use cryptography for security. They operate independently of a central bank and are often decentralized, meaning no single entity controls them. Transactions are typically recorded on a distributed public ledger called a blockchain.
+Criptomoedas são moedas digitais ou virtuais que usam criptografia para segurança. Elas operam independentemente de um banco central e geralmente são descentralizadas, o que significa que nenhuma entidade única as controla. As transações são tipicamente registradas em uma ledger pública distribuída chamada blockchain.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What Is Cryptocurrency?](https://www.investopedia.com/terms/c/cryptocurrency.asp)
-- [@article@Cryptocurrency: What It Is and How It Works](https://www.nerdwallet.com/article/investing/cryptocurrency)
-- [@article@Cyfrin Glossary | Cryptocurrency](https://www.cyfrin.io/glossary/cryptocurrency)
-- [@video@How Cryptocurrency actually works.](https://youtu.be/rYQgy8QDEBI)
+- [@artigo@O que é Criptomoeda?](https://www.investopedia.com/terms/c/cryptocurrency.asp)
+- [@artigo@Criptomoedas: O Que São e Como Funcionam](https://www.nerdwallet.com/article/investing/cryptocurrency)
+- [@artigo@Cyfrin Glossário | Criptomoeda](https://www.cyfrin.io/glossary/cryptocurrency)
+- [@vídeo@Como as criptomoedas funcionam de fato.](https://youtu.be/rYQgy8QDEBI)
 - [@feed@Explore top posts about Crypto](https://app.daily.dev/tags/crypto?ref=roadmapsh)

@@ -1,10 +1,10 @@
 # Angular
 
-Angular is a TypeScript-based, open-source web application framework led by the Angular Team at Google. It provides a structured way to build dynamic web applications, using components, templates, and dependency injection. Angular helps developers create complex, single-page applications with features like data binding, routing, and form management, making it a popular choice for building interactive user interfaces.
+Angular é um framework de aplicativos web baseado em TypeScript, mantido pela equipe do Angular no Google. Ele oferece uma maneira estruturada de construir aplicativos web dinâmicos, usando componentes, modelos e injeção de dependência. O Angular ajuda os desenvolvedores a criar aplicativos complexos, com páginas únicas, com funcionalidades como vinculação de dados, roteamento e gerenciamento de formulários, tornando-o uma escolha popular para construir interfaces de usuário interativas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit Dedicated Angular Roadmap](https://roadmap.sh/angular)
+- [@roadmap@Visite o Caminho Dedidado do Angular](https://roadmap.sh/angular)
 - [@official@Angular](https://angular.dev/)
-- [@official@Getting Started with Angular](https://angular.dev/overview)
-- [@feed@Explore top posts about Angular](https://app.daily.dev/tags/angular?ref=roadmapsh)
+- [@official@Começando com Angular](https://angular.dev/overview)
+- [@feed@Explore as melhores postagens sobre Angular](https://app.daily.dev/tags/angular?ref=roadmapsh)

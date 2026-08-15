@@ -1,10 +1,10 @@
 # BNB Chain
 
-BNB Chain is a blockchain network created by Binance. It's designed for fast and low-cost transactions, and it supports smart contracts and decentralized applications (dApps). It operates using a dual-chain architecture, consisting of the BNB Beacon Chain (for governance) and the BNB Smart Chain (for smart contracts), aiming to provide a scalable and efficient platform for blockchain development.
+BNB Chain é uma rede de blockchain criada pela Binance. Está projetada para transações rápidas e de baixo custo, e suporta contratos inteligentes e aplicativos descentralizados (dApps). Ela opera usando uma arquitetura dual-chain, composta pelo BNB Beacon Chain (para governança) e o BNB Smart Chain (para contratos inteligentes), visando fornecer uma plataforma escalável e eficiente para desenvolvimento de blockchain.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@BNB Chain](https://www.binance.com/en/blog/all/bnb-chain-blockchain-for-exchanging-the-world-304219301536473088)
-- [@official@Binance Website](https://www.binance.com/en)
-- [@article@Binance Whitepaper](https://www.exodus.com/assets/docs/binance-coin-whitepaper.pdf)
+- [@oficial@BNB Chain](https://www.binance.com/en/blog/all/bnb-chain-blockchain-for-exchanging-the-world-304219301536473088)
+- [@oficial@Site da Binance](https://www.binance.com/en)
+- [@artigo@Whitepaper da Binance](https://www.exodus.com/assets/docs/binance-coin-whitepaper.pdf)
 - [@feed@Explore top posts about Crypto](https://app.daily.dev/tags/crypto?ref=roadmapsh)

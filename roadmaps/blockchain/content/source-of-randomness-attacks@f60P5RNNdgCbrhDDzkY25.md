@@ -1,8 +1,8 @@
-# Source of Randomness Attacks
+# Ataques de Origem Aleatória
 
-The security of cryptographic systems depends on some secret data that is known to authorized persons but unknown and unpredictable to others. To achieve this unpredictability, some randomization is typically employed. Modern cryptographic protocols often require frequent generation of random quantities. Cryptographic attacks that subvert or exploit weaknesses in this process are known as randomness attacks.
+A segurança dos sistemas criptográficos depende de alguns dados secretos que são conhecidos por pessoas autorizadas, mas desconhecidos e imprevisíveis para outras. Para alcançar essa imprevisibilidade, é comum empregar algum tipo de randomização. Protocolos modernos de criptografia muitas vezes exigem a geração frequente de quantidades aleatórias. Ataques criptográficos que subvertam ou explorem fraquezas nesse processo são conhecidos como ataques de origem aleatória.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Smart Contract Randomness or ReplicatedLogic Attack](https://blog.finxter.com/randomness-or-replicatedlogic-attack-on-smart-contracts/)
+- [@artigo@Aleatoriedade em Contratos Inteligentes ou Ataque Replicado da Lógica](https://blog.finxter.com/randomness-or-replicatedlogic-attack-on-smart-contracts/)
 - [@feed@Explore top posts about Security](https://app.daily.dev/tags/security?ref=roadmapsh)

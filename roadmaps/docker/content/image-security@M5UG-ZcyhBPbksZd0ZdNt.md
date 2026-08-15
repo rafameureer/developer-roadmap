@@ -1,8 +1,8 @@
-# Image Security
+# Segurança da Imagem
 
-Image security is a crucial aspect of deploying Docker containers in your environment. Ensuring the images you use are secure, up to date, and free of vulnerabilities is essential. In this section, we will review best practices and tools for securing and managing your Docker images. When pulling images from public repositories, always use trusted, official images as a starting point for your containerized applications. Official images are vetted by Docker and are regularly updated with security fixes. You can find these images on the Docker Hub or other trusted registries.
+A segurança da imagem é um aspecto crucial do deploy de contêineres Docker em seu ambiente. Garantir que as imagens que você usa sejam seguras, atualizadas e livres de vulnerabilidades é essencial. Nesta seção, revisaremos práticas recomendadas e ferramentas para segurança e gerenciamento das suas imagens Docker. Quando puxar imagens de repositórios públicos, sempre use imagens oficiais confiáveis como ponto de partida para seus aplicativos contêinerizados. As imagens oficiais são avaliadas pelo Docker e são atualizadas regularmente com correções de segurança. Você pode encontrar essas imagens no Hub do Docker ou em outros registros confiáveis.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Docker Content Trust](https://docs.docker.com/engine/security/trust/content_trust/)
-- [@official@Docker Hub](https://hub.docker.com/)
+- [@oficial@Docker Content Trust](https://docs.docker.com/engine/security/trust/content_trust/)
+- [@oficial@Docker Hub](https://hub.docker.com/)

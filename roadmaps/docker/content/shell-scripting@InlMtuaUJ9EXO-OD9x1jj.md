@@ -1,10 +1,10 @@
-# Shell Scripting
+# Scripting de Shell
 
-Shell scripting involves writing scripts using shell languages like Bash to automate tasks and workflows. In the context of Docker, shell scripts are commonly used in Dockerfiles as part of `RUN` instructions to set up the container environment, install packages, or configure applications. They are also used as entrypoint or startup scripts (via `ENTRYPOINT` or `CMD`) to initialize services when a container starts. Understanding variables, conditionals, loops, and functions in shell scripting helps you write more efficient Dockerfiles and manage complex container setups.
+O scripting de shell envolve escrever scripts usando linguagens de shell como Bash para automatizar tarefas e fluxos de trabalho. No contexto do Docker, os scripts de shell são comumente usados em Dockerfiles como parte das instruções `RUN` para configurar o ambiente do contêiner, instalar pacotes ou configurar aplicativos. Eles também são usados como scripts de entrada ou de inicialização (através de `ENTRYPOINT` ou `CMD`) para inicializar serviços quando um contêiner começa. Entender variáveis, condicionais, loops e funções em scripting de shell ajuda você a escrever Dockerfiles mais eficientes e gerenciar configurações complexas de contêineres.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Shell Scripting Tutorial](https://www.shellscript.sh/)
-- [@article@Bash Scripting Tutorial for Beginners](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)
-- [@video@Bash Scripting Full Course](https://www.youtube.com/watch?v=tK9Oc6AEnR4)
-- [@feed@Explore top posts about Docker](https://app.daily.dev/tags/docker?ref=roadmapsh)
+- [@artigo@Tutorial de Scripting de Shell](https://www.shellscript.sh/)
+- [@artigo@Tutorial de Scripting Bash para Iniciantes](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)
+- [@vídeo@Curso Completo de Scripting Bash](https://www.youtube.com/watch?v=tK9Oc6AEnR4)
+- [@feed@Explore os principais posts sobre Docker](https://app.daily.dev/tags/docker?ref=roadmapsh)

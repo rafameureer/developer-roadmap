@@ -1,8 +1,8 @@
-# Developer Experience
+# Experiência do Desenvolvedor
 
-Docker significantly enhances the developer experience by providing a consistent, isolated environment for building, testing, and running applications, eliminating the “it works on my machine” problem. With Docker, developers can package their applications and dependencies into portable containers, ensuring consistency across different environments, from local development to staging and production. The simplified setup and reproducibility of environments accelerate onboarding, minimize conflicts, and allow developers to focus on coding rather than troubleshooting configurations. Moreover, tools like Docker Compose enable quick orchestration of complex multi-container applications, making it easier to prototype, iterate, and collaborate, ultimately streamlining the entire development lifecycle.
+Docker melhora significativamente a experiência do desenvolvedor fornecendo um ambiente consistente e isolado para construir, testar e executar aplicativos, eliminando o problema "funciona em minha máquina". Com Docker, os desenvolvedores podem empacotar seus aplicativos e dependências em contêineres portáteis, garantindo a consistência em diferentes ambientes, desde o desenvolvimento local até o staging e produção. A configuração simplificada e a reproduzibilidade do ambiente aceleram a adoção, minimizam conflitos e permitem que os desenvolvedores concentrem-se no código em vez de na solução de problemas de configurações. Além disso, ferramentas como Docker Compose facilitam a orquestração rápida de aplicativos multi-contêiner complexos, tornando mais fácil prototipar, iterar e colaborar, finalmente streamlinhando todo o ciclo de vida do desenvolvimento.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Docker Developer Experience](https://www.docker.com/blog/cto-chat-overcoming-the-developer-experience-gap-feat-redmonk-flow-io/)
-- [@article@Developer Experience Wishlist - Docker](https://courses.devopsdirective.com/docker-beginner-to-pro/lessons/11-development-workflow/00-devx-wishlist#key-devx-features)
+- [@oficial@Experiência do Desenvolvedor - Docker](https://www.docker.com/blog/cto-chat-overcoming-the-developer-experience-gap-feat-redmonk-flow-io/)
+- [@artigo@Lista de Desejos da Experiência do Desenvolvedor - Docker](https://courses.devopsdirective.com/docker-beginner-to-pro/lessons/11-development-workflow/00-devx-wishlist#key-devx-features)

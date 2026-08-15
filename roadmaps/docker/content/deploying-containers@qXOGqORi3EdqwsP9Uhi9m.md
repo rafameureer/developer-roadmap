@@ -1,9 +1,9 @@
-# Deploying Containers
+# Implantação de Contêineres
 
-Deploying containers is a crucial step in using Docker and containerization to manage applications more efficiently, easily scale, and ensure consistent performance across environments. This topic will give you an overview of how to deploy Docker containers to create and run your applications.
+Implantar contêineres é um passo crucial no uso do Docker e da containerização para gerenciar aplicativos de forma mais eficiente, escalar facilmente e garantir desempenho consistente em diferentes ambientes. Este tópico fornecerá uma visão geral de como implantar contêineres Docker para criar e executar seus aplicativos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Docker Deployment](https://docs.docker.com/guides/orchestration/)
-- [@official@Docker Compose](https://docs.docker.com/compose/)
-- [@official@Docker Swarm](https://docs.docker.com/engine/swarm/)
+- [@oficial@Implantação do Docker](https://docs.docker.com/guides/orchestration/)
+- [@oficial@Docker Compose](https://docs.docker.com/compose/)
+- [@oficial@Swarm do Docker](https://docs.docker.com/engine/swarm/)

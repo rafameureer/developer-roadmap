@@ -1,8 +1,8 @@
-# Docker and OCI
+# Docker e OCI
 
-The Open Container Initiative (OCI) is a Linux Foundation project which aims at creating industry standards for container formats and runtimes. Its primary goal is to ensure the compatibility and interoperability of container environments through defined technical specifications.
+O Open Container Initiative (OCI) é um projeto da Linux Foundation com o objetivo de criar padrões indústria para formatos e runtimes de contêiner. Seu principal objetivo é garantir a compatibilidade e interoperabilidade de ambientes de contêiner através de especificações técnicas definidas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Open Container Initiative](https://opencontainers.org/)
-- [@article@OCI - Wikipedia](https://en.wikipedia.org/wiki/Open_Container_Initiative)
+- [@oficial@Open Container Initiative](https://opencontainers.org/)
+- [@artigo@OCI - Wikipedia](https://en.wikipedia.org/wiki/Open_Container_Initiative)

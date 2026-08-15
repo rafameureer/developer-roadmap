@@ -1,10 +1,10 @@
 # Docker Desktop
 
-Docker Desktop is a comprehensive development environment for Windows, macOS, and Linux with a GUI. It includes Docker Engine, CLI, Buildx, Extensions, Compose, Kubernetes, and credentials helper, providing everything needed for container development on desktop platforms.
+Docker Desktop é um ambiente de desenvolvimento completo para Windows, macOS e Linux com uma interface gráfica. Ele inclui o Docker Engine, CLI, Buildx, Extensões, Compose, Kubernetes e ajudante de credenciais, fornecendo tudo que você precisa para o desenvolvimento de contêineres em plataformas de desktop.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Docker Desktop Documentation](https://docs.docker.com/desktop/)
-- [@official@Docker Get Started Guide](https://docs.docker.com/get-started/)
-- [@official@Docker Hub](https://hub.docker.com/)
+- [@oficial@Documentação do Docker Desktop](https://docs.docker.com/desktop/)
+- [@oficial@Guia de Introdução ao Docker](https://docs.docker.com/get-started/)
+- [@oficial@Docker Hub](https://hub.docker.com/)
 - [@feed@Explore top posts about Docker](https://app.daily.dev/tags/docker?ref=roadmapsh)

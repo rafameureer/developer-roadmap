@@ -1,8 +1,8 @@
-# Debuggers in Docker
+# Depuradores em Docker
 
-In order to make developing with containers competitive with developing locally, we need the ability to run and attach to debuggers inside the container.
+Para tornar o desenvolvimento com contêineres competitivo com o desenvolvimento local, precisamos da capacidade de executar e anexar depuradores dentro do contêiner.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Docker Buildx Debug](https://docs.docker.com/reference/cli/docker/buildx/debug/)
-- [@article@Debuggers in Docker](https://courses.devopsdirective.com/docker-beginner-to-pro/lessons/11-development-workflow/02-debug-and-test)
+- [@oficial@Depuração no Buildx do Docker](https://docs.docker.com/reference/cli/docker/buildx/debug/)
+- [@artigo@Depuradores em Docker](https://courses.devopsdirective.com/docker-beginner-to-pro/lessons/11-development-workflow/02-debug-and-test)

@@ -1,8 +1,8 @@
-# Installation Setup
+# Configuração de Instalação
 
-Docker provides Docker Desktop, a desktop application that simplifies installation and setup with GUI capabilities. Alternatively, you can install Docker Engine for command-line only functionality without graphical interface components.
+Docker oferece o Docker Desktop, uma aplicação de desktop que simplifica a instalação e configuração com capacidades de interface gráfica. Alternativamente, você pode instalar o Docker Engine para funcionalidade em linha de comando apenas, sem componentes da interface gráfica.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Docker Desktop website](https://www.docker.com/products/docker-desktop)
-- [@official@Docker Engine](https://docs.docker.com/engine/install/)
+- [@oficial@Site do Docker Desktop](https://www.docker.com/products/docker-desktop)
+- [@oficial@Docker Engine](https://docs.docker.com/engine/install/)

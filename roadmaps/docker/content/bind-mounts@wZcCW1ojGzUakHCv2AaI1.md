@@ -1,7 +1,7 @@
-# Bind Mounts
+# Montagens de Vínculo
 
-Bind mounts have limited functionality compared to volumes. When you use a bind mount, a file or directory on the host machine is mounted into a container. The file or directory is referenced by its absolute path on the host machine. By contrast, when you use a volume, a new directory is created within Docker's storage directory on the host machine, and Docker manages that directory's contents.
+As montagens de vínculo têm funcionalidade limitada em comparação com volumes. Quando você usa uma montagem de vínculo, um arquivo ou diretório na máquina anfitriã é montado dentro de um contêiner. O arquivo ou diretório é referenciado por seu caminho absoluto na máquina anfitriã. Por outro lado, quando você usa um volume, um novo diretório é criado dentro do diretório de armazenamento do Docker na máquina anfitriã, e o Docker gerencia o conteúdo desse diretório.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Docker Bind Mounts](https://docs.docker.com/storage/bind-mounts/)
+- [@oficial@Montagens de Vínculo do Docker](https://docs.docker.com/storage/bind-mounts/)

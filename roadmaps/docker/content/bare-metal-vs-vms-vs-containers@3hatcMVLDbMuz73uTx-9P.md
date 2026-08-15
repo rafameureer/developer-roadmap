@@ -1,9 +1,9 @@
 # Bare Metal vs VM vs Containers
 
-Bare metal runs applications directly on hardware with maximum performance but limited flexibility. VMs use hypervisors to run multiple OS instances with strong isolation but higher overhead. Containers share the host OS kernel, providing lightweight isolation with better resource efficiency than VMs while maintaining portability.
+O bare metal executa aplicativos diretamente no hardware com o máximo de desempenho, mas limitando a flexibilidade. As VMs usam hipervisores para executar múltiplas instâncias de sistemas operacionais com forte isolamento, mas com maior sobrecarga. Os contêineres compartilham o kernel do sistema operacional anfitrião, fornecendo isolamento leve e eficiência de recursos melhor que as VMs, mantendo a portabilidade.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@History of Virtualization](https://courses.devopsdirective.com/docker-beginner-to-pro/lessons/01-history-and-motivation/03-history-of-virtualization)
-- [@article@Bare Metal Machine](https://glossary.cncf.io/bare-metal-machine/)
-- [@article@What is a Virtual Machine?](https://azure.microsoft.com/en-au/resources/cloud-computing-dictionary/what-is-a-virtual-machine)
+- [@article@História da Virtualização](https://courses.devopsdirective.com/docker-beginner-to-pro/lessons/01-history-and-motivation/03-history-of-virtualization)
+- [@article@Máquina Bare Metal](https://glossary.cncf.io/bare-metal-machine/)
+- [@article@O que é uma Máquina Virtual?](https://azure.microsoft.com/en-au/resources/cloud-computing-dictionary/what-is-a-virtual-machine)

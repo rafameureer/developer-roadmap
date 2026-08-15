@@ -1,8 +1,8 @@
-# Docker Images
+# Imagens Docker
 
-Docker images are lightweight, standalone packages containing everything needed to run software: application code, runtime, libraries, and system tools. Built in layers for efficient storage, they serve as blueprints for containers and can be shared through registries like Docker Hub for consistent deployment across environments.
+Imagens Docker são pacotes leves, independentes que contêm tudo necessário para executar software: código de aplicativo, tempo de execução, bibliotecas e ferramentas do sistema. Construídas em camadas para armazenamento eficiente, elas servem como modelos para contêineres e podem ser compartilhadas através de registros como o Docker Hub para implantação consistente em diferentes ambientes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What's the Difference Between Docker Images and Containers?](https://aws.amazon.com/compare/the-difference-between-docker-images-and-containers/)
-- [@video@What is an image?](https://www.youtube.com/watch?v=NyvT9REqLe4)
+- [@artigo@O que é a diferença entre Imagens Docker e Contêineres?](https://aws.amazon.com/compare/the-difference-between-docker-images-and-containers/)
+- [@vídeo@O que é uma imagem?](https://www.youtube.com/watch?v=NyvT9REqLe4)

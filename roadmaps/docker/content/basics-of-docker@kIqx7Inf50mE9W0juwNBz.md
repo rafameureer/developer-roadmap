@@ -1,31 +1,31 @@
-# Docker Basics
+# Básicos do Docker
 
-Docker is a platform that simplifies building, packaging, and deploying applications in lightweight, portable containers. Key components include Dockerfiles (build instructions), Images (snapshots), and Containers (running instances). Essential commands cover pulling images, building from Dockerfiles, running containers with port mapping, and managing both containers and images.
+O Docker é uma plataforma que simplifica a construção, empacotamento e implantação de aplicativos em contêineres leves e portáteis. Componentes-chave incluem Dockerfiles (instruções de build), Imagens (capturas instantâneas) e Contêineres (instâncias em execução). Comandos essenciais cobrem o download de imagens, a construção a partir de Dockerfiles, a execução de contêineres com mapeamento de portas e a gestão tanto dos contêineres quanto das imagens.
 
-What is a Container?
+O que é um Contêiner?
 --------------------
 
-A container is a lightweight, standalone, and executable software package that includes all the dependencies (libraries, binaries, and configuration files) required to run an application. Containers isolate applications from their environment, ensuring they work consistently across different systems.
+Um contêiner é um pacote leve, independente e executável de software que inclui todas as dependências (bibliotecas, binários e arquivos de configuração) necessárias para executar um aplicativo. Os contêineres isolam aplicativos do seu ambiente, garantindo que eles funcionem consistentemente em diferentes sistemas.
 
-Docker Components
------------------
+Componentes do Docker
+---------------------
 
-There are three key components in the Docker ecosystem:
+Existem três componentes-chave no ecossistema do Docker:
 
-*   **Dockerfile**: A text file containing instructions (commands) to build a Docker image.
-*   **Docker Image**: A snapshot of a container, created from a Dockerfile. Images are stored in a registry, like Docker Hub, and can be pulled or pushed to the registry.
-*   **Docker Container**: A running instance of a Docker image.
+*   **Dockerfile**: Um arquivo de texto contendo instruções (comandos) para construir uma imagem do Docker.
+*   **Imagem do Docker**: Uma captura instantânea de um contêiner, criada a partir de um Dockerfile. As imagens são armazenadas em um registro, como o Docker Hub, e podem ser-puxadas ou empurradas para o registro.
+*   **Contêiner do Docker**: Uma instância em execução de uma imagem do Docker.
 
-Docker Commands
+Comandos do Docker
 ---------------
 
-Below are some essential Docker commands you'll use frequently:
+Abaixo estão alguns comandos do Docker essenciais que você usará frequentemente:
 
-*   `docker pull <image>`: Download an image from a registry, like Docker Hub.
-*   `docker build -t <image_name> <path>`: Build an image from a Dockerfile, where `<path>` is the directory containing the Dockerfile.
-*   `docker image ls`: List all images available on your local machine.
-*   `docker run -d -p <host_port>:<container_port> --name <container_name> <image>`: Run a container from an image, mapping host ports to container ports.
-*   `docker container ls`: List all running containers.
-*   `docker container stop <container>`: Stop a running container.
-*   `docker container rm <container>`: Remove a stopped container.
-*   `docker image rm <image>`: Remove an image from your local machine.
+*   `docker pull <image>`: Baixe uma imagem de um registro, como o Docker Hub.
+*   `docker build -t <nome_da_imagem> <caminho>`: Construa uma imagem a partir de um Dockerfile, onde `<caminho>` é o diretório contendo o Dockerfile.
+*   `docker image ls`: Liste todas as imagens disponíveis em seu computador local.
+*   `docker run -d -p <porta_do_host>:<porta_do_contêiner> --name <nome_do_contêiner> <image>`: Execute um contêiner a partir de uma imagem, mapeando portas do host para as portas do contêiner.
+*   `docker container ls`: Liste todos os contêineres em execução.
+*   `docker container stop <contêiner>`: Pare um contêiner em execução.
+*   `docker container rm <contêiner>`: Remova um contêiner parado.
+*   `docker image rm <image>`: Remova uma imagem do seu computador local.

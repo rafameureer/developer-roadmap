@@ -1,7 +1,7 @@
-# Need for Containers
+# Por que precisamos de contêineres?
 
-Containers solve environment inconsistency issues when working in teams by standardizing runtime environments. Before containers, significant time was lost configuring local environments to run projects shared by teammates, leading to "works on my machine" problems.
+Os contêineres resolvem problemas de inconsistência do ambiente ao trabalhar em equipes, padronizando os ambientes de tempo de execução. Antes dos contêineres, significativo tempo era perdido configurando ambientes locais para executar projetos compartilhados por colegas, levando a problemas como "funciona no meu computador".
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Need for Containers](https://www.redhat.com/en/topics/containers)
+- [@artigo@Por que precisamos de contêineres](https://www.redhat.com/en/topics/containers)

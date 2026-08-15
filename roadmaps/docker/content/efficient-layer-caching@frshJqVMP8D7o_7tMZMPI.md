@@ -1,8 +1,8 @@
-# Efficient Layer Caching
+# Cache de Camadas Eficiente
 
-When building container images, Docker caches the newly created layers. These layers can then be used later on when building other images, reducing the build time and minimizing bandwidth usage. However, to make the most of this caching mechanism, you should be aware of how to efficiently use layer caching. Docker creates a new layer for each instruction (e.g., `RUN`, `COPY`, `ADD`, etc.) in the Dockerfile. If the instruction hasn't changed since the last build, Docker will reuse the existing layer.
+Ao construir imagens de contêiner, o Docker armazena em cache as camadas recentemente criadas. Essas camadas podem ser usadas posteriormente ao construir outras imagens, reduzindo o tempo de construção e minimizando o uso de largura de banda. No entanto, para tirar o máximo proveito deste mecanismo de cacheamento, é necessário estar ciente de como usar eficientemente o cacheamento de camadas. O Docker cria uma nova camada para cada instrução (por exemplo, `RUN`, `COPY`, `ADD`, etc.) no Dockerfile. Se a instrução não tiver mudado desde a última construção, o Docker reutilizará a camada existente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Docker Layer Caching](https://docs.docker.com/build/cache/)
-- [@video@Layer Caching](https://www.youtube.com/watch?v=_nMpndIyaBU)
+- [@official@Cacheamento de Camadas do Docker](https://docs.docker.com/build/cache/)
+- [@video@Cacheamento de Camadas](https://www.youtube.com/watch?v=_nMpndIyaBU)

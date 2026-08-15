@@ -1,8 +1,8 @@
-# Container Security
+# Segurança de Contêineres
 
-Container security encompasses a broad set of practices and tools aimed at protecting containerized applications from development through deployment and runtime. It involves securing the container image, ensuring that only trusted and non-vulnerable code is used, implementing strong access controls for container environments, and configuring containers to follow the principle of least privilege. Additionally, it includes monitoring for unexpected behavior, protecting communication between containers, and maintaining the host environment’s security. Effective container security integrates seamlessly into DevSecOps workflows to provide continuous visibility and protection across the container lifecycle without disrupting development speed or agility.
+A segurança de contêineres abrange um amplo conjunto de práticas e ferramentas voltadas para proteger aplicativos containerizados desde a fase de desenvolvimento até a implantação e o tempo de execução. Isso envolve a segurança da imagem do contêiner, garantindo que apenas código confiável e não vulnerável seja usado, implementando controles de acesso fortes para ambientes de contêiner e configurando os contêineres para seguir o princípio da menor privilégio. Além disso, inclui monitoramento de comportamentos inesperados, proteção da comunicação entre contêineres e manutenção da segurança do ambiente anfitrião. Uma segurança eficaz de contêiner integra-se perfeitamente nos fluxos de trabalho DevSecOps para fornecer uma visibilidade e proteção contínuas ao longo do ciclo de vida do contêiner sem interromper a velocidade ou agilidade do desenvolvimento.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Docker Security](https://docs.docker.com/engine/security/)
-- [@article@Kubernetes Security Best Practices](https://www.aquasec.com/cloud-native-academy/kubernetes-in-production/kubernetes-security-best-practices-10-steps-to-securing-k8s/)
+- [@oficial@Segurança do Docker](https://docs.docker.com/engine/security/)
+- [@artigo@Melhores Práticas de Segurança do Kubernetes](https://www.aquasec.com/cloud-native-academy/kubernetes-in-production/kubernetes-security-best-practices-10-steps-to-securing-k8s/)

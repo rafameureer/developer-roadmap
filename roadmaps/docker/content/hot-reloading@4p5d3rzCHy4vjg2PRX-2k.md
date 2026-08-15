@@ -1,7 +1,7 @@
-# Hot Reloading in Docker
+# Recarregamento Quente em Docker
 
-Even though we can speed up the image building with layer caching enable, we don't want to have to rebuild our container image with every code change. Instead, we want the state of our application in the container to reflect changes immediately. We can achieve this through a combination of bind mounts and hot reloading utilities!
+Mesmo que possamos acelerar a construção da imagem com o caching de camadas ativado, não queremos ter que reconstruir nossa imagem do contêiner com cada alteração de código. Em vez disso, queremos que o estado da nossa aplicação no contêiner reflita as mudanças imediatamente. Podemos alcançar isso através de uma combinação de montagens de associação e utilitários de recarregamento quente!
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Hot Reloading - Docker](https://courses.devopsdirective.com/docker-beginner-to-pro/lessons/11-development-workflow/01-hot-reloading)
+- [@artigo@Recarregamento Quente - Docker](https://courses.devopsdirective.com/docker-beginner-to-pro/lessons/11-development-workflow/01-hot-reloading)

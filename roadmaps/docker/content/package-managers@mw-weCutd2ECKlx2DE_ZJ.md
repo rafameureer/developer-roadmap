@@ -1,10 +1,10 @@
-# Package Managers
+# Gerenciadores de Pacotes
 
-Package managers are tools used to install, update, and manage software packages on Linux systems. Since most Docker images are based on Linux distributions, understanding package managers like `apt` (Debian/Ubuntu), `yum`/`dnf` (RHEL/CentOS/Fedora), and `apk` (Alpine Linux) is essential for building Docker images. In a Dockerfile, you typically use `RUN` instructions with package managers to install the dependencies your application needs, and it is a best practice to clean up package caches afterward to keep image sizes small.
+Gerenciadores de pacotes são ferramentas usadas para instalar, atualizar e gerenciar pacotes de software em sistemas Linux. Como a maioria das imagens Docker é baseada em distribuições Linux, entender gerenciadores de pacotes como `apt` (Debian/Ubuntu), `yum`/`dnf` (RHEL/CentOS/Fedora) e `apk` (Alpine Linux) é essencial para construir imagens Docker. Em um Dockerfile, você geralmente usa instruções `RUN` com gerenciadores de pacotes para instalar as dependências necessárias pelo seu aplicativo, e é uma prática recomendada limpar caches de pacotes após isso para manter o tamanho da imagem pequeno.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@APT Package Manager Guide](https://ubuntu.com/server/docs/package-management)
-- [@article@Alpine Linux Package Management](https://wiki.alpinelinux.org/wiki/Alpine_Package_Keeper)
-- [@video@Linux Package Managers Explained](https://www.youtube.com/watch?v=-iSMFoPPbKU)
-- [@feed@Explore top posts about Docker](https://app.daily.dev/tags/docker?ref=roadmapsh)
+- [@article@Guia do Gerenciador de Pacotes APT](https://ubuntu.com/server/docs/package-management)
+- [@article@Gerenciamento de Pacotes no Alpine Linux](https://wiki.alpinelinux.org/wiki/Alpine_Package_Keeper)
+- [@video@Explicação dos Gerenciadores de Pacotes do Linux](https://www.youtube.com/watch?v=-iSMFoPPbKU)
+- [@feed@Explore os melhores posts sobre Docker](https://app.daily.dev/tags/docker?ref=roadmapsh)

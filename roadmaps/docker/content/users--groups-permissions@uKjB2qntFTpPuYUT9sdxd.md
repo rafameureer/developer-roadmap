@@ -1,10 +1,10 @@
-# Users / Groups Permissions
+# Usuários / Permissões de Grupos
 
-Linux users, groups, and file permissions control access to files and resources on the system. In Docker, understanding these concepts is important because containers run processes as specific users, and the permissions model determines what files a containerized application can read, write, or execute. By default, containers run as root, which poses security risks, so it is a best practice to create non-root users in your Dockerfile using `RUN useradd` and switch to them with the `USER` instruction. Commands like `chmod`, `chown`, and `chgrp` help you set the correct permissions on files and directories within your container images.
+Os usuários, grupos e permissões de arquivos do Linux controlam o acesso a arquivos e recursos no sistema. No Docker, entender esses conceitos é importante porque os contêineres executam processos como usuários específicos, e o modelo de permissões determina quais arquivos uma aplicação contenedora pode ler, escrever ou executar. Por padrão, os contêineres são executados como root, o que apresenta riscos de segurança, então é uma boa prática criar usuários não-root em seu Dockerfile usando `RUN useradd` e alternar para eles com a instrução `USER`. Comandos como `chmod`, `chown` e `chgrp` ajudam você a definir as permissões corretas nos arquivos e diretórios dentro das imagens de contêiner.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Linux File Permissions Explained](https://www.redhat.com/en/blog/linux-file-permissions-explained)
-- [@article@Users and Groups in Linux](https://wiki.archlinux.org/title/Users_and_groups)
-- [@official@Dockerfile USER Instruction](https://docs.docker.com/reference/dockerfile/#user)
-- [@feed@Explore top posts about Docker](https://app.daily.dev/tags/docker?ref=roadmapsh)
+- [@artigo@Permissões de Arquivos no Linux Explicadas](https://www.redhat.com/en/blog/linux-file-permissions-explained)
+- [@artigo@Usuários e Grupos no Linux](https://wiki.archlinux.org/title/Users_and_groups)
+- [@oficial@Instrução USER do Dockerfile](https://docs.docker.com/reference/dockerfile/#user)
+- [@feed@Explore os melhores posts sobre Docker](https://app.daily.dev/tags/docker?ref=roadmapsh)

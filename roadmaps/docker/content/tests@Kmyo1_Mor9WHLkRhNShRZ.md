@@ -1,8 +1,8 @@
-# Tests
+# Testes
 
-We want to run tests in an environment as similar as possible to production, so it only makes sense to do so inside of our containers! This can include unit tests, integration tests, and end-to-end tests, all run within Docker containers to simulate real-world scenarios while avoiding interference from external dependencies. Using Docker CLI and tools like Docker Compose, you can create isolated testing environments, run tests in parallel, and spin up and tear down the necessary infrastructure automatically.
+Queremos executar testes em um ambiente tão semelhante ao de produção quanto possível, então faz sentido fazer isso dentro dos nossos contêineres! Isso pode incluir testes unitários, testes de integração e testes de ponta a ponta, todos executados dentro de contêineres Docker para simular cenários do mundo real enquanto evitam interferência com dependências externas. Usando o CLI do Docker e ferramentas como Docker Compose, você pode criar ambientes de teste isolados, executar testes em paralelo e iniciar e encerrar a infraestrutura necessária automaticamente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Running Tests - Docker](https://courses.devopsdirective.com/docker-beginner-to-pro/lessons/11-development-workflow/03-tests)
-- [@feed@Explore top posts about Testing](https://app.daily.dev/tags/testing?ref=roadmapsh)
+- [@artigo@Executando Testes - Docker](https://courses.devopsdirective.com/docker-beginner-to-pro/lessons/11-development-workflow/03-tests)
+- [@feed@Explore os principais posts sobre Testes](https://app.daily.dev/tags/testing?ref=roadmapsh)

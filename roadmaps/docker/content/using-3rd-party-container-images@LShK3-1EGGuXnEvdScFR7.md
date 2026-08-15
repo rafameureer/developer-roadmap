@@ -1,7 +1,7 @@
-# Using Third Party Images
+# Usando Imagens de Terceiros
 
-Third-party images are pre-built Docker container images that are available on Docker Hub or other container registries. These images are created and maintained by individuals or organizations and can be used as a starting point for your containerized applications.
+Imagens de terceiros são imagens de contêiner Docker pré-construídas que estão disponíveis no Docker Hub ou em outros registros de contêineres. Essas imagens são criadas e mantidas por indivíduos ou organizações e podem ser usadas como ponto de partida para suas aplicações containerizadas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Docker Hub Registry](https://hub.docker.com/)

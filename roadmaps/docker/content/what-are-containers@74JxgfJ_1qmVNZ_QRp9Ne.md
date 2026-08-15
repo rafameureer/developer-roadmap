@@ -1,9 +1,9 @@
-# What are Containers?
+# O que são Contêineres?
 
-Containers are lightweight, portable, and isolated software environments that package applications with their dependencies for consistent execution across different platforms. They streamline development, deployment, and management while ensuring applications run reliably regardless of underlying infrastructure.
+Os contêineres são ambientes de software leves, portáteis e isolados que empacotam aplicativos com suas dependências para uma execução consistente em diferentes plataformas. Eles streamlinham o desenvolvimento, a implantação e a gestão, garantindo que os aplicativos sejam executados confiavelmente independentemente da infraestrutura subjacente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@Introduction to Containers - AWS Skill Builder](https://explore.skillbuilder.aws/learn/course/106/introduction-to-containers)
-- [@official@What is a Container?](https://www.docker.com/resources/what-container/)
-- [@feed@Explore top posts about Containers](https://app.daily.dev/tags/containers?ref=roadmapsh)
+- [@curso@Introdução aos Contêineres - AWS Skill Builder](https://explore.skillbuilder.aws/learn/course/106/introduction-to-containers)
+- [@oficial@O que é um Contêiner?](https://www.docker.com/resources/what-container/)
+- [@feed@Explore os principais posts sobre Contêineres](https://app.daily.dev/tags/containers?ref=roadmapsh)

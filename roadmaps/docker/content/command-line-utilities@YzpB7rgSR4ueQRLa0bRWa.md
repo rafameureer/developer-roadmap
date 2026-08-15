@@ -1,9 +1,9 @@
-# Command Line Utilities
+# Ferramentas de Linha de Comando
 
-Docker images can include command line utilities or standalone applications that we can run inside containers.
+As imagens do Docker podem incluir ferramentas de linha de comando ou aplicativos autônomos que podemos executar dentro dos contêineres.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Docker Images](https://docs.docker.com/engine/reference/commandline/images/)
-- [@official@Docker Run](https://docs.docker.com/reference/cli/docker/container/run/)
-- [@official@Docker Pull](https://docs.docker.com/engine/reference/commandline/pull/)
+- [@oficial@Imagens do Docker](https://docs.docker.com/engine/reference/commandline/images/)
+- [@oficial@Docker Run](https://docs.docker.com/reference/cli/docker/container/run/)
+- [@oficial@Docker Pull](https://docs.docker.com/engine/reference/commandline/pull/)

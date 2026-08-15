@@ -1,8 +1,8 @@
-# What is Docker?
+# O que é Docker?
 
-Docker is an open-source platform that automates application deployment, scaling, and management using lightweight, portable containers. Containers are standalone executable units containing all necessary dependencies, libraries, and configuration files for consistent application execution across various environments.
+Docker é uma plataforma de código aberto que automatiza o deploy, escalação e gestão de aplicações usando contêineres leves e portáteis. Os contêineres são unidades executáveis independentes que contêm todas as dependências necessárias, bibliotecas e arquivos de configuração para a execução consistente da aplicação em diversos ambientes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Docker](https://www.docker.com/)
-- [@official@Docker Docs](https://docs.docker.com/)
+- [@oficial@Docker](https://www.docker.com/)
+- [@oficial@Documentação do Docker](https://docs.docker.com/)

@@ -1,7 +1,7 @@
-# Data Persistence in Docker
+# Persistência de Dados no Docker
 
-Docker enables you to run containers that are isolated pieces of code, including applications and their dependencies, separated from the host operating system. Containers are ephemeral by default, which means any data stored in the container will be lost once it is terminated. To overcome this problem and retain data across container lifecycle, Docker provides various data persistence methods.
+O Docker permite que você execute contêineres que são pedaços isolados de código, incluindo aplicativos e suas dependências, separados do sistema operacional anfitrião. Contêineres são efêmeros por padrão, o que significa que qualquer dado armazenado no contêiner será perdido uma vez que ele for encerrado. Para superar esse problema e manter dados ao longo da vida útil dos contêineres, o Docker oferece vários métodos de persistência de dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Data Persistence - Docker Documentation](https://docs.docker.com/get-started/docker-concepts/running-containers/persisting-container-data/)
+- [@official@Persistência de Dados - Documentação do Docker](https://docs.docker.com/get-started/docker-concepts/running-containers/persisting-container-data/)

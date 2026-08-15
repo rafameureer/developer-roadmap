@@ -1,8 +1,8 @@
-# Ephemeral FS
+# Sistema de Arquivos Ephemeral
 
-By default, the storage within a Docker container is ephemeral, meaning that any data changes or modifications made inside a container will only persist until the container is stopped and removed. Once the container is stopped and removed, all the associated data will be lost. This is because Docker containers are designed to be stateless by nature. This temporary or short-lived storage is called the "ephemeral container file system". It is an essential feature of Docker, as it enables fast and consistent deployment of applications across different environments without worrying about the state of a container.
+Por padrão, o armazenamento dentro de um contêiner do Docker é efêmero, o que significa que quaisquer alterações ou modificações feitas dentro de um contêiner só persistirão até que o contêiner seja parado e removido. Uma vez que o contêiner for parado e removido, todos os dados associados serão perdidos. Isso ocorre porque os contêineres do Docker são projetados para serem sem estado por natureza. Este armazenamento temporário ou de curta duração é chamado de "sistema de arquivos efêmero" dos contêineres. É uma característica essencial do Docker, pois permite a implantação rápida e consistente de aplicativos em diferentes ambientes sem se preocupar com o estado de um contêiner.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Data Persistence - Docker Documentation](https://docs.docker.com/get-started/docker-concepts/running-containers/persisting-container-data/)
-- [@video@Docker Concepts - Persisting container data](https://www.youtube.com/watch?v=10_2BjqB_Ls)
+- [@official@Persistência de Dados - Documentação do Docker](https://docs.docker.com/get-started/docker-concepts/running-containers/persisting-container-data/)
+- [@video@Conceitos do Docker - Persistindo dados dos contêineres](https://www.youtube.com/watch?v=10_2BjqB_Ls)

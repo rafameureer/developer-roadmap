@@ -1,9 +1,9 @@
-# Underlying Technologies
+# Tecnologias Subjacentes
 
-Docker containers use Linux kernel technologies for isolation and resource management: namespaces for process isolation, cgroups for resource limits, and union filesystems for efficient layered storage. These enable lightweight, portable, and secure containers that share the host kernel.
+Os contêineres do Docker usam tecnologias do núcleo Linux para isolamento e gerenciamento de recursos: namespaces para isolamento de processos, cgroups para limites de recursos e sistemas de arquivos unificados para armazenamento em camadas eficientes. Isso habilita contêineres leves, portáteis e seguros que compartilham o núcleo do host.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Underlying Technologies](https://www.docker.com/resources/what-container/#underlying-technologies)
-- [@article@Underlying Technologies - Medium](https://medium.com/@furkan.turkal/how-does-docker-actually-work-the-hard-way-a-technical-deep-diving-c5b8ea2f0422)
-- [@video@Containers - Namespaces, Cgroups and Overlay Filesystem](https://www.youtube.com/watch?v=wJdDWc6zO4U)
+- [@oficial@Tecnologias Subjacentes](https://www.docker.com/resources/what-container/#underlying-technologies)
+- [@artigo@Tecnologias Subjacentes - Medium](https://medium.com/@furkan.turkal/how-does-docker-actually-work-the-hard-way-a-technical-deep-diving-c5b8ea2f0422)
+- [@vídeo@Contêineres - Namespaces, Cgroups e Sistema de Arquivos Overlay](https://www.youtube.com/watch?v=wJdDWc6zO4U)

@@ -1,9 +1,9 @@
-# Volume Mounts
+# Mapeamentos de Volume
 
-Volume mounts are a way to map a folder or file on the host system to a folder or file inside a container. This allows the data to persist outside the container even when the container is removed. Additionally, multiple containers can share the same volume, making data sharing between containers easy.
+Mapeamentos de volume são uma maneira de mapear uma pasta ou arquivo no sistema anfitrião para uma pasta ou arquivo dentro de um contêiner. Isso permite que os dados persistam fora do contêiner, mesmo quando o contêiner é removido. Além disso, múltiplos contêineres podem compartilhar o mesmo volume, tornando a troca de dados entre contêineres fácil.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Docker Volumes](https://docs.docker.com/storage/volumes/)
 - [@official@Docker Volume Flags](https://docs.docker.com/storage/bind-mounts/#choose-the--v-or---mount-flag)
-- [@video@Docker Volumes explained in 6 minutes](https://www.youtube.com/watch?v=p2PH_YPCsis)
+- [@video@Docker Volumes explicados em 6 minutos](https://www.youtube.com/watch?v=p2PH_YPCsis)

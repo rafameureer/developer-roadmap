@@ -1,9 +1,9 @@
-# Docker Compose
+# Composição de Docker
 
-Docker Compose is a tool for defining and running multi-container applications using a YAML file (`docker-compose.yml`). It describes application services, networks, and volumes, enabling you to create, manage, and run entire containerized applications with single commands for simplified orchestration.
+O Compose de Docker é uma ferramenta para definir e executar aplicativos multi-contêiner usando um arquivo YAML (`docker-compose.yml`). Ele descreve serviços, redes e volumes do aplicativo, permitindo que você crie, gerencie e execute toda a aplicação containerizada com comandos simples para orquestração simplificada.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Docker Compose documentation](https://docs.docker.com/compose/)
-- [@opensource@Curated Docker Compose Samples](https://github.com/docker/awesome-compose?tab=readme-ov-file)
-- [@video@Docker Compose Tutorial](https://www.youtube.com/watch?v=DM65_JyGxCo)
+- [@oficial@Documentação do Compose de Docker](https://docs.docker.com/compose/)
+- [@opensource@Exemplos curados do Compose de Docker](https://github.com/docker/awesome-compose?tab=readme-ov-file)
+- [@video@Tutorial do Compose de Docker](https://www.youtube.com/watch?v=DM65_JyGxCo)

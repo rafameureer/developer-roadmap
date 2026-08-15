@@ -1,8 +1,8 @@
 # Docker Volumes
 
-Docker volumes are persistent storage solutions used to manage and store data outside the container's filesystem, ensuring data remains intact even if the container is deleted or recreated. They are ideal for storing application data, logs, and configuration files that need to persist across container restarts and updates. With the Docker CLI, you can create and manage volumes using commands like `docker volume create` to define a new volume, `docker volume ls` to list all volumes, and `docker run -v` to mount a volume to a specific container. This approach helps maintain data integrity, simplifies backup processes, and supports data sharing between containers, making volumes a core part of stateful containerized applications.
+Volumes do Docker são soluções de armazenamento persistente usadas para gerenciar e armazenar dados fora do sistema de arquivos do contêiner, garantindo que os dados permaneçam intactos mesmo se o contêiner for excluído ou recém-criado. Eles são ideais para armazenar dados de aplicativos, logs e arquivos de configuração que precisam persistir em reinicializações e atualizações de contêineres. Com a CLI do Docker, você pode criar e gerenciar volumes usando comandos como `docker volume create` para definir um novo volume, `docker volume ls` para listar todos os volumes e `docker run -v` para montar um volume em um contêiner específico. Esse abordagem ajuda a manter a integridade dos dados, simplifica processos de backup e suporta compartilhamento de dados entre contêineres, tornando os volumes uma parte essencial de aplicativos containerizados com estado.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Docker Volumes](https://docs.docker.com/storage/volumes/)
 - [@official@Docker Volume Commands](https://docs.docker.com/engine/reference/commandline/volume/)

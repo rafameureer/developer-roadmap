@@ -1,8 +1,8 @@
-# Using Databases
+# Usando Bancos de Dados
 
-Running your database in a Docker container can help streamline your development process and ease deployment. Docker Hub provides numerous pre-made images for popular databases such as MySQL, PostgreSQL, and MongoDB.
+Executar seu banco de dados em um contêiner Docker pode ajudar a streamlinhar o processo de desenvolvimento e facilitar a implantação. O Hub do Docker oferece várias imagens prontas para uso com bancos de dados populares como MySQL, PostgreSQL e MongoDB.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Containerized Databases](https://docs.docker.com/guides/use-case/databases/)
-- [@video@How to Setup MySQL Database with Docker](https://www.youtube.com/watch?v=igc2zsOKPJs)
+- [@oficial@Bancos de Dados Containerizados](https://docs.docker.com/guides/use-case/databases/)
+- [@vídeo@Como Configurar um Banco de Dados MySQL com Docker](https://www.youtube.com/watch?v=igc2zsOKPJs)

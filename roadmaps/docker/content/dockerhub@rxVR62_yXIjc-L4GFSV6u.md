@@ -1,9 +1,9 @@
 # DockerHub
 
-Docker Hub is a cloud-based registry service that serves as the primary public repository for Docker container images. It allows users to store, share, and distribute Docker images, offering both free public repositories and paid private ones and integrates seamlessly with Docker CLI, enabling easy pushing and pulling of images. It features official images maintained by software vendors, automated builds linked to source code repositories, and webhooks for triggering actions based on repository events.
+Docker Hub é um serviço de registro em nuvem que serve como o repositório público primário para imagens de contêineres do Docker. Ele permite que usuários armazenem, compartilhem e distribuam imagens do Docker, oferecendo tanto repositórios públicos gratuitos quanto privados pagos e integra-se perfeitamente com a CLI do Docker, facilitando o empurrar e-puxar de imagens. Ele possui imagens oficiais mantidas por fornecedores de software, builds automatizados vinculados aos repositórios de código-fonte e webhooks para disparar ações com base em eventos de repositório.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@DockerHub](https://hub.docker.com/)
-- [@official@DockerHub Repositories](https://docs.docker.com/docker-hub/repos/)
-- [@official@DockerHub Webhooks](https://docs.docker.com/docker-hub/webhooks/)
+- [@official@Repositórios do DockerHub](https://docs.docker.com/docker-hub/repos/)
+- [@official@Webhooks do DockerHub](https://docs.docker.com/docker-hub/webhooks/)

@@ -1,9 +1,9 @@
 # Dockerfile
 
-A Dockerfile is a text document that contains a list of instructions used by the Docker engine to build an image. Each instruction in the Dockerfile adds a new layer to the image. Docker will build the image based on these instructions, and then you can run containers from the image.
+Um Dockerfile é um documento de texto que contém uma lista de instruções usadas pelo mecanismo do Docker para construir uma imagem. Cada instrução no Dockerfile adiciona uma nova camada à imagem. O Docker construirá a imagem com base nessas instruções, e então você poderá executar contêineres a partir da imagem.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Dockerfile Reference](https://docs.docker.com/engine/reference/builder/)
-- [@official@Dockerfile Best Practices](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
-- [@opensource@Dockerfile Examples](https://github.com/dockersamples)
+- [@oficial@Referência do Dockerfile](https://docs.docker.com/engine/reference/builder/)
+- [@oficial@Melhores Práticas do Dockerfile](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
+- [@opensource@Exemplos de Dockerfile](https://github.com/dockersamples)

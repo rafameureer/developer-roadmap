@@ -1,8 +1,8 @@
 # Kubernetes
 
-Kubernetes is an open-source container orchestration platform designed to automate the deployment, scaling, and management of containerized applications. It provides a robust framework for handling complex container workloads by organizing containers into logical units called pods, managing service discovery, load balancing, and scaling through declarative configurations. Kubernetes enables teams to deploy containers across clusters of machines, ensuring high availability and fault tolerance through self-healing capabilities like automatic restarts, replacements, and rollback mechanisms. With its extensive ecosystem and flexibility, Kubernetes has become the de facto standard for running large-scale, distributed applications, simplifying operations and improving the reliability of containerized workloads.
+Kubernetes é uma plataforma de orquestração de contêineres de código aberto projetada para automatizar o deploy, escalação e gestão de aplicações containerizadas. Ele fornece um quadro robusto para lidar com cargas de trabalho complexas de contêineres organizando os contêineres em unidades lógicas chamadas pods, gerenciando a descoberta de serviços, balanceamento de carga e escalação através de configurações declarativas. O Kubernetes permite que equipes deployem contêineres em clusters de máquinas, garantindo alta disponibilidade e tolerância a falhas através de capacidades auto-reparadoras como reinicializações automáticas, substituições e mecanismos de rollback. Com seu ecossistema extenso e flexibilidade, Kubernetes se tornou o padrão facto para executar aplicativos distribuídos em escala, simplificando operações e melhorando a confiabilidade das cargas de trabalho containerizadas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Kubernetes](https://kubernetes.io/)
-- [@official@Docker Swarm](https://docs.docker.com/engine/swarm/)
+- [@oficial@Kubernetes](https://kubernetes.io/)
+- [@oficial@Docker Swarm](https://docs.docker.com/engine/swarm/)

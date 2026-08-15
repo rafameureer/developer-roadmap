@@ -1,11 +1,11 @@
-# Container Registries
+# Registros de Contêineres
 
-A Container Registry is a centralized storage and distribution system for Docker container images. It allows developers to easily share and deploy applications in the form of these images. Container registries play a crucial role in the deployment of containerized applications, as they provide a fast, reliable, and secure way to distribute container images across various production environments.
+Um Registro de Contêiner é um sistema centralizado de armazenamento e distribuição para imagens do Docker. Ele permite que os desenvolvedores compartilhem e implantem facilmente aplicativos no formato dessas imagens. Os registros de contêiner desempenham um papel crucial na implantação de aplicativos containerizados, pois fornecem uma maneira rápida, confiável e segura de distribuir imagens do contêiner em vários ambientes de produção.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Docker Registry](https://docs.docker.com/registry/)
-- [@official@Docker Hub](https://hub.docker.com/)
-- [@official@Artifact Registry](https://cloud.google.com/artifact-registry)
-- [@official@Amazon ECR](https://aws.amazon.com/ecr/)
-- [@official@Azure Container Registry](https://azure.microsoft.com/en-in/products/container-registry)
+- [@oficial@Docker Registry](https://docs.docker.com/registry/)
+- [@oficial@Docker Hub](https://hub.docker.com/)
+- [@oficial@Artifact Registry](https://cloud.google.com/artifact-registry)
+- [@oficial@Amazon ECR](https://aws.amazon.com/ecr/)
+- [@oficial@Azure Container Registry](https://azure.microsoft.com/en-in/products/container-registry)

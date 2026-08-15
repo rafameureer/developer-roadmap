@@ -1,9 +1,9 @@
-# Reducing Image Size
+# Reduzindo o Tamanho da Imagem
 
-Reducing Docker image size is crucial for optimizing storage, transfer speeds, and deployment times. Key strategies include using minimal base images like Alpine Linux, leveraging multi-stage builds to exclude unnecessary build tools, removing unnecessary files and packages, and minimizing the number of layers by combining commands.
+Reduzir o tamanho da imagem Docker é crucial para otimizar a armazenamento, velocidades de transferência e tempos de deploy. Estratégias-chave incluem usar imagens base mínimas como o Alpine Linux, aproveitar builds em etapas múltiplas para excluir ferramentas de build desnecessárias, remover arquivos e pacotes desnecessários, e minimizar o número de camadas combinando comandos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Multi-stage builds](https://docs.docker.com/build/building/multi-stage/)
-- [@official@Docker Best Practices](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
+- [@oficial@Builds em Etapas Múltiplas](https://docs.docker.com/build/building/multi-stage/)
+- [@oficial@Melhores Práticas do Docker](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
 - [@feed@Explore top posts about Security](https://app.daily.dev/tags/security?ref=roadmapsh)

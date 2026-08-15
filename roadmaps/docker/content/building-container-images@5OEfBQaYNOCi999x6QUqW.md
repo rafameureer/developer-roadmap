@@ -1,10 +1,10 @@
-# Building Container Images
+# Construindo Imagens de Contêiner
 
-Container images are executable packages that include everything required to run an application: code, runtime, system tools, libraries, and settings. By building custom images, you can deploy applications seamlessly with all their dependencies on any Docker-supported platform. The key component in building a container image is the `Dockerfile`. It is essentially a script containing instructions on how to assemble a Docker image. Each instruction in the Dockerfile creates a new layer in the image, making it easier to track changes and minimize the image size. Here's a simple example of a Dockerfile:
+As imagens de contêiner são pacotes executáveis que incluem tudo o que é necessário para executar uma aplicação: código, tempo de execução, ferramentas do sistema, bibliotecas e configurações. Ao construir imagens personalizadas, você pode implantar aplicações de forma transparente com todas as suas dependências em qualquer plataforma suportada pelo Docker. O componente-chave na construção de uma imagem de contêiner é o `Dockerfile`. É essencialmente um script contendo instruções sobre como montar uma imagem do Docker. Cada instrução no Dockerfile cria uma nova camada na imagem, tornando mais fácil rastrear as alterações e minimizar o tamanho da imagem. Aqui está um exemplo simples de um Dockerfile:
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Docker Build Overview](https://docs.docker.com/build/concepts/overview)
-- [@official@Docker Image Builder](https://docs.docker.com/reference/cli/docker/buildx/build/)
-- [@official@Dockerfile Reference](https://docs.docker.com/engine/reference/builder/)
-- [@opensource@Dockerfile Examples](https://github.com/dockersamples)
+- [@oficial@Visão Geral do Build do Docker](https://docs.docker.com/build/concepts/overview)
+- [@oficial@Construtor de Imagens do Docker](https://docs.docker.com/reference/cli/docker/buildx/build/)
+- [@oficial@Referência do Dockerfile](https://docs.docker.com/engine/reference/builder/)
+- [@opensource@Exemplos de Dockerfile](https://github.com/dockersamples)

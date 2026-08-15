@@ -1,10 +1,10 @@
-# PaaS Options for Deploying Containers
+# Opções de PaaS para Deployar Contêineres
 
-Platform-as-a-Service (PaaS) options for deploying containers provide a simplified and managed environment where developers can build, deploy, and scale containerized applications without worrying about the underlying infrastructure. Popular PaaS offerings include Google Cloud Run, Azure App Service, AWS Elastic Beanstalk, and Heroku, which abstract away container orchestration complexities while offering automated scaling, easy integration with CI/CD pipelines, and monitoring capabilities. These platforms support rapid development and deployment by allowing teams to focus on application logic rather than server management, providing a seamless way to run containers in production with minimal operational overhead.
+As opções de Platform-as-a-Service (PaaS) para deployar contêineres oferecem um ambiente simplificado e gerenciado onde os desenvolvedores podem construir, implantar e dimensionar aplicativos contêinerizados sem se preocupar com a infraestrutura subjacente. Ofertas populares de PaaS incluem Google Cloud Run, Azure App Service, AWS Elastic Beanstalk e Heroku, que abstraem complexidades de orquestração de contêineres enquanto oferecem escalabilidade automática, integração fácil com pipelines CI/CD e capacidades de monitoramento. Essas plataformas permitem o desenvolvimento rápido e implantação ao permitir que equipes se concentrem na lógica do aplicativo em vez da gestão de servidores, fornecendo uma maneira suave de executar contêineres em produção com pouco esforço operacional.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@PaaS Options for Deploying Containers](https://www.docker.com/resources/what-container/#paas-options)
+- [@official@Opções de PaaS para Deployar Contêineres](https://www.docker.com/resources/what-container/#paas-options)
 - [@official@Azure Container Instances](https://azure.microsoft.com/en-us/services/container-instances/)
 - [@official@Google Cloud Run](https://cloud.google.com/run)
 - [@official@IBM Cloud Code Engine](https://www.ibm.com/cloud/code-engine)

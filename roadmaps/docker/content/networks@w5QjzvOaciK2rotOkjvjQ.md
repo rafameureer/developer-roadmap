@@ -1,9 +1,9 @@
-# Docker Networks
+# Redes do Docker
 
-Docker networks enable containers to communicate with each other and with external systems, providing the necessary connectivity for microservices architectures. By default, Docker offers several network types such as bridge, host, and overlay, each suited for different use cases like isolated environments, high-performance scenarios, or multi-host communication. Using the Docker CLI, you can create, inspect, and manage networks with commands like `docker network create` to define custom networks, `docker network ls` to list existing networks, and `docker network connect` to attach a container to a network. This flexibility allows developers to control how containers interact, ensuring secure and efficient communication across distributed applications.
+As redes do Docker permitem que os contêineres se comuniquem entre si e com sistemas externos, fornecendo a conectividade necessária para arquiteturas de microserviços. Por padrão, o Docker oferece vários tipos de rede como bridge, host e overlay, cada um adequado para diferentes casos de uso como ambientes isolados, cenários de alto desempenho ou comunicação entre múltiplos hosts. Usando a CLI do Docker, você pode criar, inspecionar e gerenciar redes com comandos como `docker network create` para definir redes personalizadas, `docker network ls` para listar as redes existentes e `docker network connect` para conectar um contêiner a uma rede. Essa flexibilidade permite que os desenvolvedores controlem como os contêineres se interagem, garantindo comunicação segura e eficiente em aplicativos distribuídos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Docker Networks](https://docs.docker.com/network/)
-- [@official@Docker Network Commands](https://docs.docker.com/engine/reference/commandline/network/)
-- [@video@Docker Networking](https://www.youtube.com/watch?v=bKFMS5C4CG0)
+- [@oficial@Redes do Docker](https://docs.docker.com/network/)
+- [@oficial@Comandos de Rede do Docker](https://docs.docker.com/engine/reference/commandline/network/)
+- [@vídeo@Redes do Docker](https://www.youtube.com/watch?v=bKFMS5C4CG0)

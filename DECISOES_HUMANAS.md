@@ -4,7 +4,7 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 
 ---
 
-> ⚠️ **Total de itens sinalizados:** 983
+> ⚠️ **Total de itens sinalizados:** 990
 
 | Arquivo / Tópico | Motivo da Sinalização | Data/Hora |
 |---|---|---|
@@ -991,3 +991,10 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 | `roadmaps/frontend/content/web-components@ruoFa3M4bUE3Dg6GXSiUI.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:12:30.899874 |
 | `roadmaps/frontend/content/web-security@RDWbG3Iui6IPgp0shvXtg.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:12:35.609228 |
 | `roadmaps/frontend/content/yarn@yrq3nOwFREzl-9EKnpU-e.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:12:55.727579 |
+| `roadmaps/full-stack/content/checkpoint---static-webpages@WsdUAEaI7FX6DKKhPXUHp.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:13:58.773919 |
+| `roadmaps/full-stack/content/checkpoint--automation@sO_9-l4FECbaqiaFnyeXO.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:14:01.362111 |
+| `roadmaps/full-stack/content/checkpoint--ci--cd@liaY1GnlOateB_ZKBjNpY.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:14:06.009521 |
+| `roadmaps/full-stack/content/checkpoint--infrastructure@YVMyHFSCVF-GgXydq-SFJ.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:14:45.679614 |
+| `roadmaps/full-stack/content/checkpoint--monitoring@NQmEl27eBPYhivcXdOEz3.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:14:49.178088 |
+| `roadmaps/full-stack/content/checkpoint--simple-crud-apps@3EtGLO6cwkLc1-o9gwFNk.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:14:54.432394 |
+| `roadmaps/full-stack/content/vpc@QtL-bLKtWIdH00K6k_PdC.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:16:27.249565 |

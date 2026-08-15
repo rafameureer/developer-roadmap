@@ -1,10 +1,10 @@
 # Terraform
 
-Terraform is an extremely popular open source Infrastructure as Code (IaC) tool that can be used with many different cloud and service provider APIs. Terraform focuses on an immutable approach to infrastructure, with a terraform state file center to tracking the status of your real world infrastructure.
+Terraform é uma ferramenta de código-fonte aberto extremamente popular para Infraestrutura como Código (IaC) que pode ser usada com muitas diferentes APIs de nuvem e provedores de serviços. O Terraform se concentra em um abordagem imutável à infraestrutura, com um arquivo de estado do terraform centralizado para rastrear o status da sua infraestrutura real.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit Dedicated Terraform Roadmap](https://roadmap.sh/terraform)
-- [@official@Terraform Documentation](https://www.terraform.io/docs)
-- [@official@Terraform Tutorials](https://learn.hashicorp.com/terraform)
-- [@video@Intro to Terraform](https://www.youtube.com/watch?v=h970ZBgKINg&ab_channel=HashiCorp)
+- [@roadmap@Visite a Rota de Aprendizagem Específica do Terraform](https://roadmap.sh/terraform)
+- [@official@Documentação do Terraform](https://www.terraform.io/docs)
+- [@official@Tutoriais do Terraform](https://learn.hashicorp.com/terraform)
+- [@video@Introdução ao Terraform](https://www.youtube.com/watch?v=h970ZBgKINg&ab_channel=HashiCorp)

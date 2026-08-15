@@ -1,18 +1,18 @@
 # Checkpoint
 
-At this point you should be able to add interactivity to your web pages using JavaScript. You should make sure that you have learnt the following:
+Aqui, você deve ser capaz de adicionar interatividade às suas páginas web usando JavaScript. Você deve garantir que tenha aprendido o seguinte:
 
-*   Know about variables, loops, data types, conditionals, functions.
-*   Know about arrays and objects and different ways to access their data.
-*   Know how to select DOM elements.
-*   Add event listeners to DOM elements (e.g. click, focus, form submission).
-*   Use JavaScript to add and remove DOM elements
-*   Add and remove classes from DOM elements
-*   Use JavaScript to make HTTP requests to external APIs (i.e. `fetch`)
-*   Use JavaScript to store data in the browser's local storage
+*   Conheça variáveis, loops, tipos de dados, condicionais e funções.
+*   Conheça arrays e objetos e diferentes maneiras de acessar seus dados.
+*   Conheça como selecionar elementos do DOM.
+*   Adicione ouvintes de eventos a elementos do DOM (por exemplo, clique, foco, envio de formulário).
+*   Use JavaScript para adicionar e remover elementos do DOM
+*   Adicione e remova classes de elementos do DOM
+*   Use JavaScript para fazer solicitações HTTP a APIs externas (ou seja, `fetch`)
+*   Use JavaScript para armazenar dados no armazenamento local do navegador
 
-Here are few ideas to practice your skills:
+Aqui estão algumas ideias para praticar suas habilidades:
 
-*   Create a simple to-do list app that allows users to search, add, edit, and delete items. Use local storage to store the data.
-*   Create a simple webpage where user can put in anyone's GitHub username and see their profile information. You can use GitHub's API to fetch the data. For example, here is the [sample URL to fetch my data](https://api.github.com/users/nilbuild). Make sure to add validation and error handling.
-*   Create a basic calculator app that allows users to perform basic arithmetic operations.
+*   Crie uma aplicação simples de lista de tarefas que permita aos usuários pesquisar, adicionar, editar e excluir itens. Use o armazenamento local para armazenar os dados.
+*   Crie uma página web simples onde o usuário possa inserir qualquer nome de usuário do GitHub e ver suas informações de perfil. Você pode usar a API do GitHub para buscar os dados. Por exemplo, aqui está a [URL de amostra para buscar meus dados](https://api.github.com/users/nilbuild). Certifique-se de adicionar validação e tratamento de erros.
+*   Crie uma aplicação básica de calculadora que permita aos usuários realizar operações aritméticas básicas.

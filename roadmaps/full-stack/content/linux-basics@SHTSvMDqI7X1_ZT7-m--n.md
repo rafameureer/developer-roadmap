@@ -1,10 +1,10 @@
 # Linux / Unix
 
-Knowledge of UNIX is a must for almost all kind of development as most of the code that you write is most likely going to be finally deployed on a UNIX/Linux machine. Linux has been the backbone of the free and open source software movement, providing a simple and elegant operating system for almost all your needs.
+Conhecimento de UNIX é essencial para quase todos os tipos de desenvolvimento, já que a maioria do código que você escreve provavelmente será finalmente implantado em uma máquina UNIX/Linux. O Linux tem sido o suporte da movimentação livre e aberta de software, fornecendo um sistema operacional simples e elegante para quase todas as suas necessidades.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit Dedicated Linux Roadmap](https://roadmap.sh/linux)
-- [@course@Coursera - Unix Courses](https://www.coursera.org/courses?query=unix)
-- [@article@Unix / Linux Tutorial](https://www.tutorialspoint.com/unix/index.htm)
-- [@video@Linux Operating System - Crash Course](https://www.youtube.com/watch?v=ROjZy1WbCIA)
+- [@roadmap@Visite o Caminho Dedidado do Linux](https://roadmap.sh/linux)
+- [@course@Coursera - Cursos de Unix](https://www.coursera.org/courses?query=unix)
+- [@article@Tutorial de Unix / Linux](https://www.tutorialspoint.com/unix/index.htm)
+- [@video@Curso de Introdução ao Sistema Operacional Linux](https://www.youtube.com/watch?v=ROjZy1WbCIA)

@@ -1,10 +1,10 @@
 # React
 
-React is the most popular front-end JavaScript library for building user interfaces. React can also render on the server using Node and power mobile apps using React Native.
+React é a biblioteca JavaScript de front-end mais popular para construir interfaces do usuário. React também pode renderizar no servidor usando Node e potencializar aplicativos móveis usando React Native.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit Dedicated React Roadmap](https://roadmap.sh/react)
-- [@official@Getting Started with React](https://react.dev/learn/tutorial-tic-tac-toe)
-- [@video@React JS Course for Beginners](https://www.youtube.com/watch?v=nTeuhbP7wdE)
-- [@video@React Course - Beginners Tutorial for React](https://www.youtube.com/watch?v=bMknfKXIFA8)
+- [@roadmap@Visite o Caminho Dedidado do React](https://roadmap.sh/react)
+- [@official@Começando com React](https://react.dev/learn/tutorial-tic-tac-toe)
+- [@video@Curso de Introdução ao React JS](https://www.youtube.com/watch?v=nTeuhbP7wdE)
+- [@video@Curso do React - Tutorial Iniciante para o React](https://www.youtube.com/watch?v=bMknfKXIFA8)

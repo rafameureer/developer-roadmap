@@ -1,10 +1,10 @@
 # EC2
 
-Amazon Elastic Compute Cloud (EC2) is a web service that provides resizable compute capacity in the form of virtual servers, known as instances. With EC2, you can quickly scale your infrastructure up or down as your computing requirements change. This service effectively reduces the time required to obtain and boot new server instances, allowing you to easily adjust capacity according to the needs of your application.
+Amazon Elastic Compute Cloud (EC2) é um serviço web que fornece capacidade computacional escalonável na forma de servidores virtuais, conhecidos como instâncias. Com o EC2, você pode escalar rapidamente sua infraestrutura para cima ou para baixo conforme suas necessidades de computação mudam. Este serviço reduz efetivamente o tempo necessário para obter e iniciar novas instâncias de servidor, permitindo que você ajuste facilmente a capacidade de acordo com as necessidades da sua aplicação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Amazon AWS EC2](https://aws.amazon.com/ec2/)
-- [@article@Up and Running with AWS EC2](https://cs.fyi/guide/up-and-running-with-aws-ec2)
-- [@article@EC2 Essentials](https://cloudcasts.io/course/ec2-essentials)
-- [@video@Deploy Node App on AWS EC2](https://youtu.be/oHAQ3TzUTro)
+- [@article@Começando com o AWS EC2](https://cs.fyi/guide/up-and-running-with-aws-ec2)
+- [@article@Essenciais do EC2](https://cloudcasts.io/course/ec2-essentials)
+- [@video@Implantar uma Aplicação Node.js no AWS EC2](https://youtu.be/oHAQ3TzUTro)

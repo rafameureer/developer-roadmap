@@ -1,10 +1,10 @@
 # Redis
 
-Redis is an open source (BSD licensed), in-memory data structure store used as a database, cache, message broker, and streaming engine. Redis provides data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes, and streams. Redis has built-in replication, Lua scripting, LRU eviction, transactions, and different levels of on-disk persistence, and provides high availability via Redis Sentinel and automatic partitioning with Redis Cluster.
+Redis é um armazenamento de estruturas de dados em memória de código aberto (licenciado BSD), usado como banco de dados, cache, intermediário de mensagens e motor de streaming. Redis fornece estruturas de dados como strings, hashes, listas, conjuntos, conjuntos ordenados com consultas de faixa, bitmaps, hyperloglogs, índices geoespaciais e streams. Redis tem replicação interna, scriptings em Lua, evitamento LRU, transações e diferentes níveis de persistência no disco, e fornece alta disponibilidade através do Sentinel do Redis e particionamento automático com o Cluster do Redis.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit Dedicated Redis Roadmap](https://roadmap.sh/redis)
-- [@official@Redis Documentation](https://redis.io/docs/latest/)
-- [@video@Redis in 100 Seconds](https://www.youtube.com/watch?v=G1rOthIU-uo)
-- [@video@Redis Caching in Node.js](https://www.youtube.com/watch?v=oaJq1mQ3dFI)
+- [@roadmap@Visite o Caminho Dedidado do Redis](https://roadmap.sh/redis)
+- [@official@Documentação oficial do Redis](https://redis.io/docs/latest/)
+- [@video@Redis em 100 Segundos](https://www.youtube.com/watch?v=G1rOthIU-uo)
+- [@video@Caching do Redis no Node.js](https://www.youtube.com/watch?v=oaJq1mQ3dFI)

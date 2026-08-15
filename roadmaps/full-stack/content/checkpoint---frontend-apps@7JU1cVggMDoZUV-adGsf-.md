@@ -1,17 +1,17 @@
 # Checkpoint
 
-At this point you should be able to build a complete frontend application including:
+Aqui, você deve ser capaz de construir uma aplicação frontend completa incluindo:
 
-*   Structuring your webpages with HTML
-*   Styling your webpages with CSS
-*   Adding interactivity to your webpages with JavaScript
-*   Using the DOM API to manipulate your webpages
-*   Using the Fetch API to make HTTP requests
-*   Understand promises and use `async`/`await` syntax to write asynchronous code
-*   Installing and using external libraries with npm
-*   Version controlling your code with Git
-*   Pushing your code to GitHub
+*   Estruturar suas páginas web com HTML
+*   Estilizar suas páginas web com CSS
+*   Adicionar interatividade às suas páginas web com JavaScript
+*   Usar a API DOM para manipular suas páginas web
+*   Usar a API Fetch para fazer solicitações HTTP
+*   Entender promessas e usar a sintaxe `async`/`await` para escrever código assíncrono
+*   Instalar e usar bibliotecas externas com npm
+*   Controlar versão do seu código com Git
+*   Empurrar o seu código para o GitHub
 
-If you decided to skip React and Tailwind for now, that is fine also but you should be able to build a complete frontend application using vanilla HTML, CSS, and JavaScript. However, keep in mind that the modern frontend applications are mostly built with frameworks like React, Vue, and Angular. So, you should learn at least one of them at any point of time.
+Se você decidiu pular React e Tailwind por enquanto, isso está bem também, mas você deve ser capaz de construir uma aplicação frontend completa usando HTML vanilla, CSS e JavaScript. No entanto, lembre-se de que as aplicações frontend modernas são principalmente construídas com frameworks como React, Vue e Angular. Então, você deve aprender ao menos um deles em algum momento.
 
-This marks the end of frontend basics that you needed, we will now be moving to the backend development. While you continue with the backend development, know that there is more to frontend development and remember to checkout the [frontend roadmap](/frontend) later in your journey.
+Isso marca o fim dos fundamentos básicos do frontend que você precisava. Agora estamos passando para o desenvolvimento backend. Enquanto você continua com o desenvolvimento backend, saiba que há mais a ser feito no desenvolvimento frontend e lembre-se de verificar o [roadmap frontend](/frontend) mais tarde em sua jornada.

@@ -1,7 +1,7 @@
 # Monit
 
-When it comes to monitoring the health of your applications, there are several different options available. My favorite monitoring stack is Prometheus and Grafana, but it can be a bit overwhelming to set up and configure. If you're looking for a simpler solution, **Monit** is a great alternative that can be utilized to monitor and manage system resources such as services, processes, files, directories, devices, and network connections, making your application more reliable and resilient to issues like crashes, unresponsiveness, or resource exhaustion.
+Quando se trata de monitorar a saúde dos seus aplicativos, há várias opções disponíveis. Meu stack favorito para monitoramento é o Prometheus e o Grafana, mas pode ser um pouco intimidante configurá-los. Se você estiver procurando por uma solução mais simples, **Monit** é uma ótima alternativa que pode ser utilizada para monitorar e gerenciar recursos do sistema como serviços, processos, arquivos, diretórios, dispositivos e conexões de rede, tornando seu aplicativo mais confiável e resiliente a problemas como falhas, indisponibilidade ou esgotamento de recursos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Monit Documentation](https://mmonit.com/monit/documentation/)
+- [@official@Documentação do Monit](https://mmonit.com/monit/documentation/)

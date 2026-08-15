@@ -1,10 +1,10 @@
 # Node.js
 
-Node.js is an open-source and cross-platform JavaScript runtime environment. It is a popular tool for almost any kind of project! Node.js runs the V8 JavaScript engine, Google Chrome's core, outside the browser. This allows Node.js to be very performant. A Node.js app runs in a single process, without creating a new thread for every request. Node.js provides a set of asynchronous I/O primitives in its standard library that prevent JavaScript code from blocking and generally, libraries in Node.js are written using non-blocking paradigms, making blocking behavior the exception rather than the norm.
+Node.js é um ambiente de tempo de execução de JavaScript open-source e cross-platform. É uma ferramenta popular para quase qualquer tipo de projeto! O Node.js executa o motor de JavaScript V8, que é a base do Google Chrome, fora do navegador. Isso permite que o Node.js seja muito performático. Um aplicativo Node.js roda em um único processo, sem criar uma nova thread para cada solicitação. O Node.js fornece um conjunto de primitivas I/O assíncronas na sua biblioteca padrão que impedem que o código JavaScript bloqueie e geralmente, as bibliotecas do Node.js são escritas usando paradigmas não-bloqueantes, tornando o comportamento bloqueante a exceção em vez da regra.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit Dedicated Node.js Roadmap](https://roadmap.sh/nodejs)
-- [@official@Node.js Website](https://nodejs.org/en/about/)
-- [@official@Learn Node.js Official Website](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
-- [@video@Node.js and Express.js Full Course](https://www.youtube.com/watch?v=Oe421EPjeBE)
+- [@roadmap@Visite a Rota de Aprendizado Específica do Node.js](https://roadmap.sh/nodejs)
+- [@official@Site Oficial do Node.js](https://nodejs.org/en/about/)
+- [@official@Site Oficial de Aprender o Node.js](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
+- [@video@Curso Completo sobre Node.js e Express.js](https://www.youtube.com/watch?v=Oe421EPjeBE)

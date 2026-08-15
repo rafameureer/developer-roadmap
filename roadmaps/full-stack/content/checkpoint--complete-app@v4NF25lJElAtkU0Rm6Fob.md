@@ -1,15 +1,15 @@
 # Checkpoint
 
-At this point, you should have everything that you need to build a complete application that:
+Neste ponto, você deve ter tudo o que precisa para construir uma aplicação completa que:
 
-*   Has a responsive frontend that users can interact with
-*   Has a backend API that is secured with JWT authentication
-*   Has a database that stores data
+*   Tenha um frontend responsivo com o qual os usuários podem interagir
+*   Tenha uma API backend segura com autenticação JWT
+*   Tenha um banco de dados que armazene dados
 
-At this point you should practice building as much as you can on your own to solidify your knowledge. If you need inspiration, here are some ideas:
+Neste ponto, você deve praticar a construção tanto quanto possível por conta própria para solidificar seus conhecimentos. Se precisar de inspiração, aqui estão algumas ideias:
 
-*   Build a simple blogging application where users can register, login, setup their blog and write posts.
-*   A single page site builder where users can pick a template, modify it and publish it. **Hint** you will need filesystem to store the design templates. Template files will have placeholders that you will need to replace with user data.
-*   Build a simple e-commerce application which will have two types of users i.e. **Sellers** who can: Register as Seller, Login, Setup their store, Add products, Edit products, Delete products, View Received Orders, Update Order Status (Pending, Shipped, Delivered), **Buyers** who can register, Login, Browse products by all sellers, Add products to cart, Checkout, View order history, View order status, Cancel order, View seller profile, View seller products
+*   Construa uma aplicação de blog simples onde os usuários possam se registrar, fazer login, configurar seu blog e escrever posts.
+*   Um construtor de sites em uma única página onde os usuários possam escolher um modelo, modificá-lo e publicá-lo. **Dica**: você precisará do sistema de arquivos para armazenar os modelos de design. Os arquivos de modelo terão placeholders que você precisará substituir pelos dados dos usuários.
+*   Construa uma aplicação de comércio eletrônico simples que terá dois tipos de usuários: **Vendedores** que podem: se registrar como vendedor, fazer login, configurar sua loja, adicionar produtos, editar produtos, excluir produtos, visualizar pedidos recebidos, atualizar status do pedido (pendente, enviado, entregue), **Compradores** que podem se registrar, fazer login, navegar por produtos de todos os vendedores, adicionar produtos ao carrinho, finalizar compra, visualizar histórico de pedidos, visualizar status do pedido, cancelar pedido, visualizar perfil do vendedor, visualizar produtos do vendedor
 
-These are just some ideas to get you started. You can build anything you want. The goal is to practice building a complete application from scratch.
+Estas são apenas algumas ideias para começar. Você pode construir qualquer coisa que quiser. O objetivo é praticar a construção de uma aplicação completa do zero.

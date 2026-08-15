@@ -1,10 +1,10 @@
 # Checkpoint
 
-At this point, you should be able to install and use external packages using `npm`. You probably know about [npmjs.com](https://npmjs.com/) where you can search for packages and read their documentation. You should also be familiar with the `package.json` file and how to use it to manage your project dependencies.
+Aqui, você deve ser capaz de instalar e usar pacotes externos usando `npm`. Provavelmente já sabe sobre [npmjs.com](https://npmjs.com/) onde você pode pesquisar pacotes e ler sua documentação. Você também deve estar familiarizado com o arquivo `package.json` e como usá-lo para gerenciar as dependências do seu projeto.
 
-You don't need to get into the module bundlers and build tools just yet. Just make sure that you are able to use the dependencies installed in the `node_modules` folder using simple link and script tags in your HTML.
+Não precisa entrar em bundlers de módulos e ferramentas de construção por enquanto. Apenas certifique-se de que você é capaz de usar as dependências instaladas na pasta `node_modules` usando tags simples de link e script em seu HTML.
 
-Regarding projects, here are a few ideas that you can try:
+Em relação a projetos, aqui estão algumas ideias que você pode tentar:
 
-*   Create a simple webpage that shows the current time of user. You can use [dayjs](https://day.js.org/) to get the current time and display it on the page. Here is the [sample design for homepage](https://i.imgur.com/yGIMGkr.png).
-*   Install the [micromodal](https://micromodal.vercel.app/#introduction) library. Create a button on the page clicking which should open a modal and let the user select a timezone from a dropdown. Once the user selects a timezone, the modal should close and the time on the page should be updated to show the time in the selected timezone. Here is the [sample design for the modal](https://imgur.com/a/vFY6Sdl).
+*   Crie uma página web simples que mostre o horário atual do usuário. Você pode usar [dayjs](https://day.js.org/) para obter o horário atual e exibi-lo na página. Aqui está o [design de exemplo da página inicial](https://i.imgur.com/yGIMGkr.png).
+*   Instale a biblioteca [micromodal](https://micromodal.vercel.app/#introduction). Crie um botão na página que, ao ser clicado, deve abrir uma janela modal e permitir que o usuário selecione um fuso horário de um menu suspenso. Uma vez que o usuário selecionar um fuso horário, a janela modal deve fechar e o horário na página deve ser atualizado para mostrar o horário no fuso horário selecionado. Aqui está o [design de exemplo da janela modal](https://imgur.com/a/vFY6Sdl).

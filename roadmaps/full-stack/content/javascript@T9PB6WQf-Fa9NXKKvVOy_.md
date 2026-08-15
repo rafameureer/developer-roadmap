@@ -1,10 +1,10 @@
 # JavaScript
 
-JavaScript allows you to add interactivity to your pages. Common examples that you may have seen on the websites are sliders, click interactions, popups and so on.
+JavaScript permite adicionar interatividade às suas páginas. Exemplos comuns que você pode ter visto em sites são sliders, interações de clique, popups e muito mais.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit Dedicated JavaScript Roadmap](https://roadmap.sh/javascript)
-- [@article@The Modern JavaScript Tutorial](https://javascript.info/)
-- [@article@Build 30 Javascript projects in 30 days](https://javascript30.com/)
-- [@video@JavaScript Crash Course for Beginners](https://youtu.be/hdI2bqOjy3c?t=2)
+- [@roadmap@Visite o Caminho Dedidado do JavaScript](https://roadmap.sh/javascript)
+- [@article@O Tutorial Moderno do JavaScript](https://javascript.info/)
+- [@article@Construa 30 projetos em JavaScript em 30 dias](https://javascript30.com/)
+- [@video@Curso de Introdução ao JavaScript para Iniciantes](https://youtu.be/hdI2bqOjy3c?t=2)

@@ -1,10 +1,10 @@
 # GitHub
 
-GitHub is a provider of Internet hosting for software development and version control using Git. It offers the distributed version control and source code management functionality of Git, plus its own features.
+GitHub é um provedor de hospedagem na Internet para desenvolvimento de software e controle de versão usando Git. Ele oferece a funcionalidade de controle de versão distribuído e gerenciamento de código-fonte do Git, mais suas próprias funcionalidades.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@GitHub Documentation](https://docs.github.com/en/get-started/quickstart)
-- [@article@How to Use Git in a Professional Dev Team](https://ooloo.io/project/github-flow)
-- [@video@Git vs. GitHub: What's the difference?](https://www.youtube.com/watch?v=wpISo9TNjfU)
-- [@video@Git and GitHub for Beginners](https://www.youtube.com/watch?v=RGOj5yH7evk)
+- [@official@Documentação oficial do GitHub](https://docs.github.com/en/get-started/quickstart)
+- [@article@Como usar Git em um time de desenvolvimento profissional](https://ooloo.io/project/github-flow)
+- [@video@Diferença entre Git e GitHub: O que é?](https://www.youtube.com/watch?v=wpISo9TNjfU)
+- [@video@Git e GitHub para iniciantes](https://www.youtube.com/watch?v=RGOj5yH7evk)

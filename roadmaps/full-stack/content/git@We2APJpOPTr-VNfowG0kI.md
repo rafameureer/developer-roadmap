@@ -1,10 +1,10 @@
 # Git
 
-Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+Git é um sistema de controle de versão distribuído gratuito e de código aberto projetado para lidar com tudo, desde pequenos até projetos muito grandes, com velocidade e eficiência.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit Dedicated Git & GitHub Roadmap](https://roadmap.sh/git-github)
-- [@course@Why use Git? (Interactive Lesson)](https://inter-git.com/lessons/introduction)
-- [@article@Tutorial: Git for Absolutely Everyone](https://thenewstack.io/tutorial-git-for-absolutely-everyone/)
-- [@video@Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+- [@roadmap@Visite o Caminho Dedicado de Git & GitHub](https://roadmap.sh/git-github)
+- [@course@Por que usar Git? (Aula Interativa)](https://inter-git.com/lessons/introduction)
+- [@article@Tutorial: Git para Todos](https://thenewstack.io/tutorial-git-for-absolutely-everyone/)
+- [@video@Curso de Crash Course em Git & GitHub Para Iniciantes](https://www.youtube.com/watch?v=SWYqp7iY_Tc)

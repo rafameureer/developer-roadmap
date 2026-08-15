@@ -1,10 +1,10 @@
 # PostgreSQL
 
-PostgreSQL, also known as Postgres, is a free and open-source relational database management system emphasizing extensibility and SQL compliance.
+PostgreSQL, também conhecido como Postgres, é um sistema de gerenciamento de banco de dados relacional gratuito e de código aberto que enfatiza a extensibilidade e conformidade com SQL.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit Dedicated PostgreSQL DBA Roadmap](https://roadmap.sh/postgresql-dba)
-- [@official@PostgreSQL Website](https://www.postgresql.org/)
-- [@article@Learn PostgreSQL - Full Tutorial for Beginners](https://www.postgresqltutorial.com/)
-- [@video@Postgres tutorial for Beginners](https://www.youtube.com/watch?v=eMIxuk0nOkU)
+- [@roadmap@Visite o Caminho Dedidado do DBA PostgreSQL](https://roadmap.sh/postgresql-dba)
+- [@official@Site oficial do PostgreSQL](https://www.postgresql.org/)
+- [@article@Aprenda PostgreSQL - Tutorial Completo para Iniciantes](https://www.postgresqltutorial.com/)
+- [@video@Tutorial do React para Iniciantes](https://www.youtube.com/watch?v=eMIxuk0nOkU)

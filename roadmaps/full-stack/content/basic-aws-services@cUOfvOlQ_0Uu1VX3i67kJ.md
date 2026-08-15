@@ -1,10 +1,10 @@
-# Basic AWS Services
+# Serviços Básicos do AWS
 
-AWS has several services but you don't need to know all of them. Some common ones that you can start with are EC2, VPC, S3, Route 53, and SES.
+O AWS tem vários serviços, mas você não precisa saber todos. Alguns comuns que você pode começar são EC2, VPC, S3, Route 53 e SES.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated AWS Roadmap](https://roadmap.sh/aws)
-- [@article@VPC Basics](https://cloudcasts.io/course/vpc-basics)
-- [@article@EC2 Essentials](https://cloudcasts.io/course/ec2-essentials)
-- [@video@Deploy Node App on AWS EC2](https://youtu.be/oHAQ3TzUTro)
+- [@roadmap@Visite o Caminho Dedidado do AWS](https://roadmap.sh/aws)
+- [@article@Básico de VPC](https://cloudcasts.io/course/vpc-basics)
+- [@article@Essenciais do EC2](https://cloudcasts.io/course/ec2-essentials)
+- [@video@Implantar uma Aplicação Node.js no AWS EC2](https://youtu.be/oHAQ3TzUTro)

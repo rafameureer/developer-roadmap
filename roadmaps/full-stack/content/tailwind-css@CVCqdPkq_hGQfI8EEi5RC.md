@@ -1,10 +1,10 @@
 # Tailwind CSS
 
-CSS Framework that provides atomic CSS classes to help you style components e.g. `flex`, `pt-4`, `text-center` and `rotate-90` that can be composed to build any design, directly in your markup.
+Framework de CSS que fornece classes atômicas de CSS para ajudar você a estilizar componentes, como `flex`, `pt-4`, `text-center` e `rotate-90`, que podem ser compostas para construir qualquer design diretamente em seu código HTML.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Tailwind CSS](https://tailwindcss.com)
-- [@video@Tailwind CSS Full Course for Beginners](https://www.youtube.com/watch?v=lCxcTsOHrjo)
-- [@video@Tailwind CSS Crash Course](https://www.youtube.com/watch?v=UBOj6rqRUME)
-- [@video@Should You Use Tailwind CSS?](https://www.youtube.com/watch?v=hdGsFpZ0J2E)
+- [@video@Curso Completo de Tailwind CSS para Iniciantes](https://www.youtube.com/watch?v=lCxcTsOHrjo)
+- [@video@Crash Course em Tailwind CSS](https://www.youtube.com/watch?v=UBOj6rqRUME)
+- [@video@Você Deveria Usar o Tailwind CSS?](https://www.youtube.com/watch?v=hdGsFpZ0J2E)

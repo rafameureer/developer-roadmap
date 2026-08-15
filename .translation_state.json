@@ -3263,7 +3263,37 @@
     "roadmaps/frontend/content/vitest@hVQ89f6G0LXEgHIOKHDYq.md",
     "roadmaps/frontend/content/what-is-domain-name@ZhSuu2VArnzPDp6dPQQSC.md",
     "roadmaps/frontend/content/what-is-hosting@aqMaEY8gkKMikiqleV5EP.md",
-    "roadmaps/frontend/content/what-is-http@R12sArWVpbIs_PHxBqVaR.md"
+    "roadmaps/frontend/content/what-is-http@R12sArWVpbIs_PHxBqVaR.md",
+    "roadmaps/full-stack/content/ansible@rFXupYpUFfp7vZO8zh614.md",
+    "roadmaps/full-stack/content/basic-aws-services@cUOfvOlQ_0Uu1VX3i67kJ.md",
+    "roadmaps/full-stack/content/checkpoint---collaborative-work@zFGWxgLPcZoW7KIzlnSV9.md",
+    "roadmaps/full-stack/content/checkpoint---external-packages@R4aeJNOrfWyVp3ea-qF4H.md",
+    "roadmaps/full-stack/content/checkpoint---frontend-apps@7JU1cVggMDoZUV-adGsf-.md",
+    "roadmaps/full-stack/content/checkpoint---interactivity@2DFzoIUjKdAKGjfu_SCfa.md",
+    "roadmaps/full-stack/content/checkpoint--cli-apps@JGu0TKwAw-ieiG92BytYI.md",
+    "roadmaps/full-stack/content/checkpoint--complete-app@v4NF25lJElAtkU0Rm6Fob.md",
+    "roadmaps/full-stack/content/checkpoint--deployment@J2_IWAb1s9zZcxOY3NXm2.md",
+    "roadmaps/full-stack/content/css@dAJHWmGeiYdzZ1ZjrWz1S.md",
+    "roadmaps/full-stack/content/ec2@6oBIxYj8WPcUHidQ99tus.md",
+    "roadmaps/full-stack/content/git@We2APJpOPTr-VNfowG0kI.md",
+    "roadmaps/full-stack/content/github-actions@863KMXcFJzInvTp_-Ldmz.md",
+    "roadmaps/full-stack/content/github@8sPXL8iClpPqje03ksses.md",
+    "roadmaps/full-stack/content/html@B0kARTODvCBi0iOF8iiqI.md",
+    "roadmaps/full-stack/content/javascript@T9PB6WQf-Fa9NXKKvVOy_.md",
+    "roadmaps/full-stack/content/jwt-auth@vHojhJYjiN0IwruEqi1Dv.md",
+    "roadmaps/full-stack/content/linux-basics@SHTSvMDqI7X1_ZT7-m--n.md",
+    "roadmaps/full-stack/content/monit@y1SFX7uvWaCy4OYBnECLu.md",
+    "roadmaps/full-stack/content/nodejs@_aA6Hp4KkgJeptqo8oKTg.md",
+    "roadmaps/full-stack/content/npm@mGgx_QTEPmVKf6AijX9fi.md",
+    "roadmaps/full-stack/content/postgresql@HGhnbMg6jh6cAmUH4DtOx.md",
+    "roadmaps/full-stack/content/react@khoUtTUxdf8udAzN9_CAb.md",
+    "roadmaps/full-stack/content/redis@Onfd7Sl8LG2sjh2aQY7gb.md",
+    "roadmaps/full-stack/content/restful-apis@vmHbWdmMHF53otXIrqzRV.md",
+    "roadmaps/full-stack/content/route53@5zyYpu9cyuTFwQCjTbHpS.md",
+    "roadmaps/full-stack/content/s3@n2Xp_ijJ2OS8xhE7xMWxk.md",
+    "roadmaps/full-stack/content/ses@B-cphY7Imnv6JBMujVIF7.md",
+    "roadmaps/full-stack/content/tailwind-css@CVCqdPkq_hGQfI8EEi5RC.md",
+    "roadmaps/full-stack/content/terraform@2kKHuQZScu7hCDgQWxl5u.md"
   ],
   "completed_roadmaps": [
     "frontend-beginner",
@@ -3304,7 +3334,8 @@
     "engineering-manager",
     "flutter",
     "forward-deployed-engineer",
-    "frontend"
+    "frontend",
+    "full-stack"
   ],
   "flagged_issues": [
     {
@@ -8221,8 +8252,43 @@
       "file": "roadmaps/frontend/content/yarn@yrq3nOwFREzl-9EKnpU-e.md",
       "reason": "Falha na tradução automática após tentativas no Ollama",
       "timestamp": "2026-08-15T07:12:55.727579"
+    },
+    {
+      "file": "roadmaps/full-stack/content/checkpoint---static-webpages@WsdUAEaI7FX6DKKhPXUHp.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:13:58.773919"
+    },
+    {
+      "file": "roadmaps/full-stack/content/checkpoint--automation@sO_9-l4FECbaqiaFnyeXO.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:14:01.362111"
+    },
+    {
+      "file": "roadmaps/full-stack/content/checkpoint--ci--cd@liaY1GnlOateB_ZKBjNpY.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:14:06.009521"
+    },
+    {
+      "file": "roadmaps/full-stack/content/checkpoint--infrastructure@YVMyHFSCVF-GgXydq-SFJ.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:14:45.679614"
+    },
+    {
+      "file": "roadmaps/full-stack/content/checkpoint--monitoring@NQmEl27eBPYhivcXdOEz3.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:14:49.178088"
+    },
+    {
+      "file": "roadmaps/full-stack/content/checkpoint--simple-crud-apps@3EtGLO6cwkLc1-o9gwFNk.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:14:54.432394"
+    },
+    {
+      "file": "roadmaps/full-stack/content/vpc@QtL-bLKtWIdH00K6k_PdC.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:16:27.249565"
     }
   ],
-  "last_updated": "2026-08-15T07:12:55.735430",
+  "last_updated": "2026-08-15T07:16:27.260019",
   "total_translated_count": 54
 }

@@ -1,7 +1,7 @@
-# Manage Context
+# Gerenciar Contexto
 
-Active management of the context window is the single most effective way to ensure reliable model performance and predictable operational costs, as Claude Code is billed based on the total number of tokens processed in each turn. Because the tool re-reads the entire conversation history with every new message to maintain state, unmanaged sessions can quickly balloon in size, leading to "context rot" where the model loses track of early instructions or struggles with "lost-in-the-middle" accuracy degradation.
+A gestão ativa da janela de contexto é a abordagem mais eficaz para garantir o desempenho do modelo confiável e custos operacionais previsíveis, já que o Claude Code é cobrado com base no número total de tokens processados em cada turno. Como a ferramenta re-lê toda a história da conversa com cada novo mensagem para manter o estado, sessões não gerenciadas podem rapidamente aumentar em tamanho, levando a um "rotorno do contexto" onde o modelo perde o rastreamento de instruções iniciais ou tem dificuldades com a degradação de precisão "perdida no meio".
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Manage costs effectively](https://code.claude.com/docs/en/costs#reduce-token-usage)
+- [@oficial@Gerencie custos efetivamente](https://code.claude.com/docs/pt-br/custos#reduzir-o-uso-de-tokens)

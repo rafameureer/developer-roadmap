@@ -1,10 +1,10 @@
-# API Usage
+# Uso da API
 
-Claude Console authentication uses a pay-as-you-go model where the tool connects directly to the Anthropic API using a personal API key rather than a flat-rate monthly subscription. To set this up, you must first create an account at the Claude Console, generate a secret API key, and ensure you have a balance of credits in your account. This mode is ideal for power users or developers who prefer to pay only for the specific amount of data (or tokens) processed during their coding sessions. Because this connection communicates directly with the API, it also allows you to choose specific model versions and provides more granular control over your billing and usage thresholds.
+A autenticação do Console Claude usa um modelo de pagamento à medida que você vai, onde a ferramenta se conecta diretamente à API do Anthropic usando uma chave de API pessoal em vez de uma assinatura mensal fixa. Para configurar isso, você deve primeiro criar uma conta no Console Claude, gerar uma chave de API secreta e garantir que tenha um saldo de créditos na sua conta. Este modo é ideal para usuários avançados ou desenvolvedores que preferem pagar apenas pelo volume específico de dados (ou tokens) processados durante suas sessões de codificação. Como esta conexão comunica-se diretamente com a API, ela também permite que você escolha versões específicas do modelo e forneça um controle mais granular sobre seus limites de faturamento e uso.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Claude Console](https://platform.claude.com/)
-- [@official@Claude Code Analytics API](https://platform.claude.com/docs/en/build-with-claude/claude-code-analytics-api)
-- [@article@Claude Pricing Explained: Subscription Plans & API Costs](https://intuitionlabs.ai/articles/claude-pricing-plans-api-costs)
-- [@article@Claude, Claude API, and Claude Code: What's the Difference?](https://eval.16x.engineer/blog/claude-vs-claude-api-vs-claude-code)
+- [@oficial@Console Claude](https://platform.claude.com/)
+- [@oficial@API de Análise de Código do Claude](https://platform.claude.com/docs/en/build-with-claude/claude-code-analytics-api)
+- [@artigo@Preço do Claude Explicado: Planos de Assinatura e Custos da API](https://intuitionlabs.ai/articles/claude-pricing-plans-api-costs)
+- [@artigo@Claude, API do Claude e Código do Claude: O que é o Diferença?](https://eval.16x.engineer/blog/claude-vs-claude-api-vs-claude-code)

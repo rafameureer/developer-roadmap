@@ -1,8 +1,8 @@
-# /permissions
+# /permissões
 
-The `/permissions` command is a security management interface that allows you to view and adjust the rules governing what Claude can and cannot do on your machine. By default, Claude Code operates with a "human-in-the-loop" philosophy, meaning it asks for your approval before performing any action that could affect your system—such as modifying a file or running a terminal command. The `/permissions` command allows you to grant "permanent" trust to specific tools or commands, reducing the number of interruptions during your workflow.
+O comando `/permissões` é uma interface de gerenciamento de segurança que permite que você visualize e ajuste as regras que governam o que o Claude pode ou não fazer em seu computador. Por padrão, o Claude Code opera com um filosofia "humano no laço", o que significa que ele solicita sua aprovação antes de realizar qualquer ação que possa afetar seu sistema—como modificar um arquivo ou executar um comando do terminal. O comando `/permissões` permite que você conceda uma "permissão permanente" a ferramentas ou comandos específicos, reduzindo o número de interrupções durante seu fluxo de trabalho.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Built-in commands](https://code.claude.com/docs/en/interactive-mode)
-- [@official@Manage permissions](https://code.claude.com/docs/en/permissions)
+- [@oficial@Comandos internos](https://code.claude.com/docs/en/interactive-mode)
+- [@oficial@Gerenciar permissões](https://code.claude.com/docs/en/permissions)

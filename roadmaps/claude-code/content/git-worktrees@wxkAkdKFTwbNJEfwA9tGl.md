@@ -1,9 +1,9 @@
 # Git Worktrees
 
-Using Git worktrees with Claude Code is a powerful scaling technique that allows you to run multiple independent AI sessions in parallel without the overhead of context switching or the risk of file-edit collisions. This workflow is highly efficient for "fanning out" tasks: you can supervise several separate worktrees simultaneously, leveraging prompt caching across them for shared codebase context, and simply delete the worktree folder once the branch is merged to keep your environment clean.
+Usar Git worktrees com Claude Code é uma técnica de escala poderosa que permite executar várias sessões AI independentes em paralelo, sem a sobrecarga do contexto de troca ou o risco de colisão de edição de arquivos. Este fluxo de trabalho é altamente eficiente para "fan-out" tarefas: você pode supervisionar vários worktrees separados simultaneamente, aproveitando o cache de prompts para um contexto compartilhado do código-fonte e simplesmente excluindo a pasta do worktree uma vez que a branch for mesclada para manter seu ambiente limpo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Run parallel Claude Code sessions with Git worktrees](https://code.claude.com/docs/en/worktrees)
-- [@article@Using Git Worktrees for Parallel AI Development](https://stevekinney.com/courses/ai-development/git-worktrees)
-- [@video@Git Worktrees: The secret sauce to Claude Code!](https://www.youtube.com/watch?v=up91rbPEdVc)
+- [@official@Executar sessões paralelas do Claude Code com Git worktrees](https://code.claude.com/docs/en/worktrees)
+- [@article@Usando Git Worktrees para Desenvolvimento Paralelo de IA](https://stevekinney.com/courses/ai-development/git-worktrees)
+- [@video@Git Worktrees: O segredo da receita do Claude Code!](https://www.youtube.com/watch?v=up91rbPEdVc)

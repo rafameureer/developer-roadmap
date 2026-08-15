@@ -1,8 +1,8 @@
-# Resume Conversations
+# Retomar Conversas
 
-To resume a conversation in Claude Code, you can use the terminal command `claude --continue` (or `-c`) to instantly pick up the most recent session in your current directory, or `claude --resume` (or `-r`) to open an interactive session picker. This picker allows you to browse past conversations and select one using your arrow keys and the Enter key. If you know a specific session ID, you can bypass the menu by running `claude --resume <session_id>`. Once inside a session, you can also use the `/resume` slash command to switch between conversations without exiting the tool.
+Para retomar uma conversa no Claude Code, você pode usar o comando de terminal `claude --continue` (ou `-c`) para pular imediatamente para a sessão mais recente em seu diretório atual, ou `claude --resume` (ou `-r`) para abrir um seletor interativo de sessões. Esse seletor permite que você navegue pelas conversas passadas e selecione uma delas usando as teclas de seta e Enter. Se você souber o ID específico da sessão, pode pular o menu executando `claude --resume <session_id>`. Uma vez dentro de uma sessão, você também pode usar o comando de barra `/resume` para alternar entre conversas sem sair da ferramenta.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Resume previous conversations](https://code.claude.com/docs/en/common-workflows#resume-previous-conversations)
-- [@official@Resume conversations](https://code.claude.com/docs/en/best-practices#resume-conversations)
+- [@oficial@Retomar conversas anteriores](https://code.claude.com/docs/en/common-workflows#resume-previous-conversations)
+- [@oficial@Retomar conversas](https://code.claude.com/docs/en/best-practices#resume-conversations)

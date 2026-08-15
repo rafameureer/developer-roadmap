@@ -1,8 +1,8 @@
-# Ways to Use Claude Code
+# Maneiras de Usar o Claude Code
 
-Claude Code offers multiple interfaces to cater to diverse development workflows. These include a Command Line Interface (CLI) for automation and scripting, editor code extensions (like VS Code, JetBrains IDEs) providing a graphical sidebar with inline code diffs, and a standalone Desktop Application for managing complex projects. Each interface leverages the same agentic engine for researching, writing, and executing code, providing options for different development styles. The CLI is accessible via shell scripts for macOS, Linux, and WSL, and through PowerShell for Windows.
+O Claude Code oferece várias interfaces para atender a diferentes fluxos de trabalho de desenvolvimento. Isso inclui uma Interface de Linha de Comando (CLI) para automação e scripting, extensões de código do editor (como VS Code, IDEs JetBrains) que fornecem um painel gráfico com diffs de código em linha, e uma aplicativo desktop independente para gerenciar projetos complexos. Cada interface usa o mesmo motor agente para pesquisar, escrever e executar código, oferecendo opções para diferentes estilos de desenvolvimento. A CLI é acessível através de scripts de shell para macOS, Linux e WSL, e por meio do PowerShell para Windows.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@Claude 101](https://anthropic.skilljar.com/claude-101)
-- [@official@Use Claude Code everywhere](https://code.claude.com/docs/en/overview#use-claude-code-everywhere)
+- [@curso@Claude 101](https://anthropic.skilljar.com/claude-101)
+- [@oficial@Use o Claude Code em qualquer lugar](https://code.claude.com/docs/en/overview#use-claude-code-everywhere)

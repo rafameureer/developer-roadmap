@@ -1,8 +1,8 @@
-# Scaling Claude Code
+# Escalando o Claude Code
 
-Claude Code offers several ways to parallelize work across multiple agents or sessions: subagents, agent view, agent teams, and worktrees. Subagents are delegated workers that handle a side task within their own context and return a summary, keeping the main conversation clean. Agent view lets you dispatch independent sessions to the background and monitor them from a single screen. Agent teams coordinate multiple sessions through a shared task list and inter-agent messaging, managed by a lead agent. Worktrees isolate parallel sessions into separate git checkouts so they never conflict over the same files.
+O Claude Code oferece várias maneiras de paralelizar o trabalho em vários agentes ou sessões: subagentes, visão do agente, equipes de agentes e árvores de trabalho. Subagentes são trabalhadores delegados que lidam com uma tarefa secundária em seu próprio contexto e retornam um resumo, mantendo a conversa principal limpa. A visão do agente permite que você envie sessões independentes para o plano de fundo e as monitore de um único monitor. As equipes de agentes coordenam várias sessões através de uma lista compartilhada de tarefas e mensagens entre agentes, gerenciadas por um agente líder. Árvores de trabalho isolam sessões paralelas em checkout git separados para que nunca conflituem sobre os mesmos arquivos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Run agents in parallel](https://code.claude.com/docs/en/agents)
-- [@official@Agent view](https://code.claude.com/docs/en/agent-view)
+- [@oficial@Executar agentes em paralelo](https://code.claude.com/docs/en/agents)
+- [@oficial@Visão do agente](https://code.claude.com/docs/en/agent-view)

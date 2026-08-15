@@ -1,8 +1,8 @@
 # /cost
 
-The `/cost` command is a financial monitoring tool that provides a real-time snapshot of the monetary expenses and token usage for your active session. While the `/usage` command focuses on how much of your context window is occupied, /cost translates that activity into USD amounts, showing you exactly how much your current conversation has cost based on your API pricing tier.
+O comando `/cost` é uma ferramenta de monitoramento financeiro que fornece um instantâneo em tempo real dos gastos monetários e uso de tokens para sua sessão ativa. Enquanto o comando `/usage` se concentra em quantos recursos da janela de contexto estão sendo ocupados, o `/cost` traduz essa atividade em valores em dólares americanos, mostrando exatamente quanto seu atual diálogo custou com base no seu nível de preços da API.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Built-in commands](https://code.claude.com/docs/en/interactive-mode)
-- [@official@Using the /cost command](https://code.claude.com/docs/en/costs)
+- [@official@Comandos internos](https://code.claude.com/docs/en/interactive-mode)
+- [@official@Usando o Comando /cost](https://code.claude.com/docs/en/costs)

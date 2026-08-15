@@ -1,10 +1,10 @@
-# Common Usecases
+# Casos Comuns de Uso
 
-Claude Code can be used for a wide range of professional software development tasks, from legacy system modernization and large-scale refactoring to rapid prototyping for startups. Organizations use it to navigate and modernize massive codebases containing millions of lines of code, while data science teams employ it to convert exploratory research from notebooks into production-ready data pipelines. In daily engineering workflows, it is frequently applied to automate unit testing, diagnose complex bugs using stack traces, and manage dependency upgrades across entire repositories. Additionally, it has become a powerful tool for infrastructure automation, where DevOps teams use it to manage Kubernetes clusters, configure monitoring systems, and build CI/CD pipelines through natural language instructions.
+O Claude Code pode ser usado para uma ampla gama de tarefas de desenvolvimento de software profissional, desde a modernização de sistemas legados e refatoração em escala até prototipagem rápida para startups. Organizações usam-o para navegar e modernizar grandes códigos contendo milhões de linhas de código, enquanto equipes de ciência de dados o empregam para converter pesquisas exploratórias de notebooks em pipelines de dados prontos para produção. No fluxo de trabalho diário de engenharia, ele é frequentemente aplicado para automatizar testes unitários, diagnosticar bugs complexos usando rastreamentos de pilha e gerenciar atualizações de dependências em todo o repositório. Além disso, se tornou uma ferramenta poderosa para automação de infraestrutura, onde equipes DevOps usam-o para gerenciar clusters Kubernetes, configurar sistemas de monitoramento e construir pipelines CI/CD através de instruções naturais.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@What you can do](https://code.claude.com/docs/en/overview#what-you-can-do)
-- [@official@Common workflows](https://code.claude.com/docs/en/common-workflows)
-- [@article@20+ Real Use Cases That Prove Claude Code Is a Game-Changer](https://medium.com/@agencyai/20-real-use-cases-that-prove-claude-code-is-a-game-changer-46ceefaf19ed)
-- [@video@8 Insane Claude Code Use Cases (code anything!)](https://www.youtube.com/watch?v=akIHv-n--io)
+- [@oficial@O que você pode fazer](https://code.claude.com/docs/en/overview#o-que-você-pode-fazer)
+- [@oficial@Fluxos comuns](https://code.claude.com/docs/en/common-workflows)
+- [@artigo@20+ Casos Reais que Proveam que o Claude Code é um Game-Changer](https://medium.com/@agencyai/20-real-use-cases-that-prove-claude-code-is-a-game-changer-46ceefaf19ed)
+- [@vídeo@8 Insane Use Cases do Claude Code (código de tudo!)](https://www.youtube.com/watch?v=akIHv-n--io)

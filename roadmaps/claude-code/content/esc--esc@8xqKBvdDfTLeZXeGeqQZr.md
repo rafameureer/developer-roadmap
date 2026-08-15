@@ -1,9 +1,9 @@
 # Esc + Esc
 
-Double-tapping the `Esc` key in Claude Code activates the Rewind feature, which serves as a temporal navigation system for both your conversation history and your code state. When triggered, it opens an interactive menu that allows you to jump back to any previous prompt in the session, effectively acting as a "undo" button for AI-driven development. You can choose to restore only the conversation (useful for refining instructions without losing current file edits), restore only the code (to revert specific file changes while keeping the chat context), or restore both to a verified checkpoint. This shortcut is particularly valuable for experimental coding because it automatically creates local checkpoints before every change, allowing you to quickly discard an entire branch of reasoning or a failed implementation without manually restoring individual files or managing Git commits.
+Toque duas vezes na tecla `Esc` no Claude Code ativa a função de Retrocesso, que funciona como um sistema de navegação temporal para seu histórico de conversas e estado do código. Quando ativado, ele abre um menu interativo que permite você pular para qualquer prompt anterior na sessão, efetivamente funcionando como um botão "desfazer" para o desenvolvimento guiado por IA. Você pode escolher restaurar apenas a conversa (útil para refinamento de instruções sem perder as edições atuais do arquivo), restaurar apenas o código (para reverter alterações específicas em arquivos enquanto mantém o contexto da conversa) ou restaurar ambos a um ponto de verificação verificado. Este atalho é particularmente valioso para codificação experimental porque ele cria automaticamente pontos de verificação locais antes de cada mudança, permitindo que você descarte rapidamente uma ramificação inteira de raciocínio ou uma implementação falhada sem restaurar individualmente arquivos ou gerenciar commits do Git.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Interactive mode - Claude Code Docs](https://code.claude.com/docs/en/interactive-mode#reverse-search-with-ctrl+r)
-- [@official@Checkpointing - Claude Code Docs](https://code.claude.com/docs/en/checkpointing)
-- [@article@Your Time Machine for Code: Double Esc to Rewind When Things Go Wrong - DEV Community](https://dev.to/rajeshroyal/your-time-machine-for-code-double-esc-to-rewind-when-things-go-wrong-53pa)
+- [@oficial@Modo interativo - Documentação do Claude Code](https://code.claude.com/docs/pt-br/modo-interativo#pesquisa-reversa-com-ctrl+r)
+- [@oficial@Pontos de verificação - Documentação do Claude Code](https://code.claude.com/docs/pt-br/pontos-de-verificacao)
+- [@artigo@Sua Máquina do Tempo para Código: Duplo Esc para Retroceder Quando Coisas Vão Errado - Comunidade DEV](https://dev.to/rajeshroyal/sua-máquina-do-tempo-para-código-duplo-esc-para-retroceder-quando-coisas-vão-errado-53pa)

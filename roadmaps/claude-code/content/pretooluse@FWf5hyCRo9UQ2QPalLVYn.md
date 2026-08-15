@@ -1,9 +1,9 @@
 # PreToolUse
 
-The `PreToolUse` hook is a validation gate that executes immediately after Claude decides to use a tool (like writing a file or running a shell command) but before that tool actually runs. It is primarily used for security, policy enforcement, and input sanitization, acting as a final check to ensure the AI's proposed action is safe and correct.
+O `PreToolUse` é uma barreira de validação que executa imediatamente após Claude decidir usar uma ferramenta (como escrever um arquivo ou executar um comando shell), mas antes que essa ferramenta realmente seja executada. Ele é principalmente usado para segurança, aplicação de políticas e sanitização de entrada, agindo como uma verificação final para garantir que a ação proposta pela IA seja segura e correta.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Hooks reference](https://code.claude.com/docs/en/hooks)
-- [@official@Automate workflows with hooks](https://code.claude.com/docs/en/hooks-guide)
-- [@article@Secure Your Claude Skills with Custom PreToolUse Hooks](https://egghead.io/secure-your-claude-skills-with-custom-pre-tool-use-hooks~dhqko)
+- [@official@Referência de Hooks](https://code.claude.com/docs/en/hooks)
+- [@official@Automatize fluxos de trabalho com hooks](https://code.claude.com/docs/en/hooks-guide)
+- [@article@Segure suas habilidades do Claude com hooks personalizados PreToolUse](https://egghead.io/secure-your-claude-skills-with-custom-pre-tool-use-hooks~dhqko)

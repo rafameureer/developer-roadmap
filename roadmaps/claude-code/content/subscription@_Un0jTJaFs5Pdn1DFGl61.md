@@ -1,10 +1,10 @@
-# Subscription Options
+# Opções de Assinatura
 
-Subscription options for Claude Code allow users to authenticate and access its features. Individuals with a Claude Pro or Claude Max subscription can link their account for free Claude Code usage. For teams and larger organizations, Team and Enterprise plans offer higher usage limits, enhanced security features like SSO and audit logs, and deeper integration capabilities.
+As opções de assinatura para o Claude Code permitem que os usuários autentiquem e acessem suas funcionalidades. Indivíduos com uma assinatura do Claude Pro ou Max podem vincular sua conta para uso gratuito do Claude Code. Para equipes e organizações maiores, os planos de equipe e empresa oferecem limites de uso mais altos, recursos de segurança aprimorados como SSO e logs de auditoria, e integração mais profunda.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Log in to your account](https://code.claude.com/docs/en/quickstart#step-2-log-in-to-your-account)
-- [@official@Subscription & Pricing](https://claude.com/pricing)
-- [@official@Choosing a Claude plan](https://support.claude.com/en/articles/11049762-choosing-a-claude-plan)
-- [@article@Claude Pricing Explained: Subscription Plans & API Costs](https://intuitionlabs.ai/articles/claude-pricing-plans-api-costs)
+- [@oficial@Entrar na sua conta](https://code.claude.com/docs/en/quickstart#step-2-log-in-to-your-account)
+- [@oficial@Assinatura & Preços](https://claude.com/pricing)
+- [@oficial@Escolhendo um plano do Claude](https://support.claude.com/en/articles/11049762-choosing-a-claude-plan)
+- [@artigo@Preço do Claude Explained: Planos de Assinatura & Custos da API](https://intuitionlabs.ai/articles/claude-pricing-plans-api-costs)

@@ -1,12 +1,12 @@
-# Skills
+# Habilidades
 
-In Claude Code, Skills are self-contained folders of "expert knowledge" and repeatable workflows that Claude loads dynamically into its context only when the task requires it. Each skill is anchored by a `SKILL.md` file containing YAML frontmatter, which helps Claude identify the skill's purpose without bloating the context window, and a body of specific instructions
+Em Claude Code, as habilidades são pastas autônomas de "conhecimento especializado" e fluxos de trabalho repetíveis que o Claude carrega dinamicamente em seu contexto apenas quando a tarefa exigir. Cada habilidade é ancorada por um arquivo `SKILL.md` contendo frontmatter YAML, o que ajuda o Claude a identificar o propósito da habilidade sem distorcer o contexto de cada conversa, e um corpo de instruções específicas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@Agent Skills with Anthropic](https://www.deeplearning.ai/short-courses/agent-skills-with-anthropic/)
-- [@course@Introduction to agent skills](https://anthropic.skilljar.com/introduction-to-agent-skills)
-- [@official@Extend Claude with skills](https://code.claude.com/docs/en/skills#extend-claude-with-skills)
-- [@official@The Complete Guide to Building Skills for Claude](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf?hsLang=en)
-- [@video@Claude Code Skills & skills.sh - Crash Course](https://www.youtube.com/watch?v=rcRS8-7OgBo)
-- [@video@MCP vs Skills: Which Is Right for Your AI Agent and LLMs?](https://www.youtube.com/watch?v=goU9VIXA8II)
+- [@curso@Habilidades de Agente com Anthropic](https://www.deeplearning.ai/short-courses/agent-skills-with-anthropic/)
+- [@curso@Introdução às habilidades de agente](https://anthropic.skilljar.com/introduction-to-agent-skills)
+- [@oficial@Estenda o Claude com habilidades](https://code.claude.com/docs/en/skills#extend-claude-with-skills)
+- [@oficial@Guia Completo de Como Construir Habilidades para Claude](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf?hsLang=en)
+- [@vídeo@Habilidades do Claude Code & skills.sh - Aula Rápida](https://www.youtube.com/watch?v=rcRS8-7OgBo)
+- [@vídeo@MCP vs Habilidades: Qual é o Melhor para Seu Agente AI e LLMs?](https://www.youtube.com/watch?v=goU9VIXA8II)

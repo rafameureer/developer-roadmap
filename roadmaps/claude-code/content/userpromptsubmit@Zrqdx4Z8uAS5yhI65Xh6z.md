@@ -1,9 +1,9 @@
 # UserPromptSubmit
 
-The `UserPromptSubmit` hook is an interception mechanism that fires the moment you press Enter on a prompt, but before the text is actually sent to the Claude model. It is the most powerful tool for prompt engineering automation, allowing you to programmatically rewrite, validate, or enhance your instructions on the fly.
+O `UserPromptSubmit` hook é um mecanismo de intercepção que dispara no momento em que você pressiona Enter em um prompt, mas antes do texto ser realmente enviado ao modelo Claude. É a ferramenta mais poderosa para automação de engenharia de prompts, permitindo que você reescreva, valide ou melhore programaticamente suas instruções em tempo real.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Hooks reference](https://code.claude.com/docs/en/hooks)
-- [@official@Automate workflows with hooks](https://code.claude.com/docs/en/hooks-guide)
-- [@article@Rewrite Prompts on the Fly with UserPromptSubmit Hooks](https://egghead.io/lessons/rewrite-prompts-on-the-fly-with-user-prompt-submit-hooks~76rrt)
+- [@official@Referência de hooks](https://code.claude.com/docs/en/hooks)
+- [@official@Automatize fluxos de trabalho com hooks](https://code.claude.com/docs/en/hooks-guide)
+- [@article@Reescreva prompts em tempo real com hooks UserPromptSubmit](https://egghead.io/lessons/rewrite-prompts-on-the-fly-with-user-prompt-submit-hooks~76rrt)

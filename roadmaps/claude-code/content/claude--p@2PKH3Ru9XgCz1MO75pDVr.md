@@ -1,9 +1,9 @@
 # claude -p
 
-The `claude -p` command (short for --print) activates Print Mode, which runs Claude Code as a non-interactive, single-use utility rather than a continuous chat session. When you use this flag, you provide a prompt directly in the command line; Claude then executes its agentic loop—researching, editing files, or running commands as needed—and exits immediately once the task is complete. This mode is designed primarily for automation and scripting, allowing you to integrate Claude's reasoning into CI/CD pipelines, shell scripts, or "one-liners".
+O comando `claude -p` (abreviação de --print) ativa o Modo Impressão, que executa o Claude Code como uma utilidade não interativa e única em vez de uma sessão de chat contínua. Quando você usa esta bandeira, fornece um prompt diretamente na linha de comando; o Claude então executa seu loop agente—pesquisando, editando arquivos ou executando comandos conforme necessário—and sai imediatamente após a tarefa ser concluída. Este modo é projetado principalmente para automação e scripting, permitindo que você integre o raciocínio do Claude em pipelines CI/CD, scripts de shell ou "one-liners".
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@CLI commands](https://code.claude.com/docs/en/cli-reference#cli-commands)
-- [@official@Run Claude Code programmatically](https://code.claude.com/docs/en/headless)
-- [@video@Building headless automation with Claude Code | Code w/ Claude](https://www.youtube.com/watch?v=dRsjO-88nBs)
+- [@oficial@Comandos CLI](https://code.claude.com/docs/en/cli-reference#cli-commands)
+- [@oficial@Executar o Claude Code programaticamente](https://code.claude.com/docs/en/headless)
+- [@vídeo@Construindo automação headless com o Claude Code | Código com Claude](https://www.youtube.com/watch?v=dRsjO-88nBs)

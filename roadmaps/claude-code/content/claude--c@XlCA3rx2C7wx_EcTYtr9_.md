@@ -1,8 +1,8 @@
 # claude -c
 
-The `claude -c` command (short for --continue) is a CLI flag used to instantly reopen the most recent conversation session in your current directory. Instead of starting a fresh chat with a clean context, this command restores the previous conversation history, allowing you to pick up exactly where you left off without having to re-explain your project’s state or repeat previous instructions.
+O comando `claude -c` (abreviação de --continue) é uma bandeira do CLI usado para reabrir imediatamente a sessão de conversa mais recente no diretório atual. Em vez de iniciar um novo chat com um contexto limpo, este comando restaura o histórico da conversa anterior, permitindo que você continue exatamente onde parou sem precisar explicar novamente o estado do seu projeto ou repetir instruções anteriores.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@CLI commands](https://code.claude.com/docs/en/cli-reference#cli-commands)
-- [@official@Resume previous conversations](https://code.claude.com/docs/en/common-workflows#resume-previous-conversations)
+- [@oficial@Comandos CLI](https://code.claude.com/docs/en/cli-reference#cli-commands)
+- [@oficial@Retomar conversas anteriores](https://code.claude.com/docs/en/common-workflows#resume-previous-conversations)

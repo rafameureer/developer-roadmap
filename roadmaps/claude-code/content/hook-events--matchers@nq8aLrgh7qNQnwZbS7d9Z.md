@@ -1,9 +1,9 @@
-# Hook Events & Matchers
+# Eventos de Hook & Matchers
 
-In Claude Code, Hook Events represent the specific lifecycle moments when custom logic can be triggered, while Matchers act as the regex-based filters that determine which specific actions within those moments should fire the hook.
+No Claude Code, os Eventos de Hook representam os momentos específicos da vida do ciclo em que a lógica personalizada pode ser disparada, enquanto os Matchers atuam como filtros baseados em regex que determinam quais ações específicas dentro desses momentos devem acionar o hook.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Hook Events](https://code.claude.com/docs/en/hooks#hook-events)
-- [@official@Event Matchers](https://code.claude.com/docs/en/hooks#matcher-patterns)
-- [@article@Hooks: Automating Event Reactions](https://angelo-lima.fr/en/claude-code-hooks/)
+- [@official@Eventos de Hook](https://code.claude.com/docs/en/hooks#hook-events)
+- [@official@Padrões de Matcher](https://code.claude.com/docs/en/hooks#matcher-patterns)
+- [@article@Hooks: Automatizando Reações a Eventos](https://angelo-lima.fr/en/claude-code-hooks/)

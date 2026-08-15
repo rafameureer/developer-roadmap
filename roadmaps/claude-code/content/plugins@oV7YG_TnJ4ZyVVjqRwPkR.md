@@ -1,11 +1,11 @@
 # Plugins
 
-Claude Code plugins are shareable packages that bundle multiple customizations, including slash commands, specialized agents, skills, hooks, and Model Context Protocol (MCP) servers, into a single installable unit. They serve as a standardized way to distribute complex AI workflows across different projects or within an engineering team, ensuring that every developer has access to the same tools and coding standards.
+Os plugins do Claude Code são pacotes compartilháveis que agrupam várias personalizações, incluindo comandos de barra, agentes especializados, habilidades, ganchos e servidores do Protocolo Contexto do Modelo (MCP), em um único pacote instalável. Eles servem como uma maneira padrão de distribuir fluxos de trabalho complexos de IA entre diferentes projetos ou dentro de uma equipe de engenharia, garantindo que todos os desenvolvedores tenham acesso aos mesmos ferramentas e padrões de codificação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Discover and install prebuilt plugins through marketplaces - Claude Code Docs](https://code.claude.com/docs/en/discover-plugins)
-- [@official@Plugins](https://claude.com/plugins)
+- [@oficial@Descubra e instale plugins pré-construídos através dos mercados - Documentação do Claude Code](https://code.claude.com/docs/en/discover-plugins)
+- [@oficial@Plugins](https://claude.com/plugins)
 - [@opensource@plugins](https://github.com/anthropics/claude-code/tree/main/plugins)
-- [@article@Claude Code Now Has SUPERPOWERS! (plugin)](https://www.youtube.com/watch?v=vfVQP2AbUHo)
-- [@article@Claude Code Plugins Just Changed My Workflow Forever](https://www.youtube.com/watch?v=-KusSduAP1A)
+- [@artigo@Claude Code Agora Tem SUPERPOWERS! (plugin)](https://www.youtube.com/watch?v=vfVQP2AbUHo)
+- [@artigo@Claude Code Plugins Mudaram Meu Fluxo de Trabalho para Sempre](https://www.youtube.com/watch?v=-KusSduAP1A)

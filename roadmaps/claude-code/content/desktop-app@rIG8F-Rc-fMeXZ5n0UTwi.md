@@ -1,10 +1,10 @@
 # Claude Code Desktop
 
-Claude Code desktop is a software application that allows an AI assistant to interact directly with your local files and development tools through a graphical interface. It functions as an agentic coding partner that can read your codebase, edit files, and execute terminal commands to help build features or fix bugs in real time.
+O Claude Code desktop é um aplicativo de software que permite a um assistente de inteligência artificial interagir diretamente com seus arquivos locais e ferramentas de desenvolvimento através de uma interface gráfica. Ele funciona como um parceiro agente de codificação que pode ler seu código-fonte, editar arquivos e executar comandos de terminal para ajudar a construir recursos ou corrigir bugs em tempo real.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Claude Code on desktop](https://code.claude.com/docs/en/desktop)
-- [@article@I Discovered Claude Code Desktop: The (New) Way to Build Faster Than Your Terminal](https://medium.com/@joe.njenga/i-discovered-claude-code-desktop-the-new-way-to-build-faster-than-your-terminal-1679aa6ce790)
-- [@video@Claude Code on desktop](https://www.youtube.com/watch?v=zrcCS9oHjtI)
-- [@video@Claude Code for Desktop is the BEST way to build apps with AI EVER](https://www.youtube.com/watch?v=pZ2N7CJFbBk)
+- [@official@Claude Code no desktop](https://code.claude.com/docs/en/desktop)
+- [@article@Eu descobri o Claude Code Desktop: A (Nova) Maneira de Construir Mais Rápido que Seu Terminal](https://medium.com/@joe.njenga/i-discovered-claude-code-desktop-the-new-way-to-build-faster-than-your-terminal-1679aa6ce790)
+- [@video@Claude Code no desktop](https://www.youtube.com/watch?v=zrcCS9oHjtI)
+- [@video@Claude Code para Desktop é a MELHOR maneira de construir aplicativos com IA JAMAS](https://www.youtube.com/watch?v=pZ2N7CJFbBk)

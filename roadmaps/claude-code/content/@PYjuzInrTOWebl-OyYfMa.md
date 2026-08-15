@@ -1,8 +1,8 @@
-# Bash Mode (!)
+# Modo Bash (!)
 
-Bash Mode (triggered by prefixing your input with an exclamation mark !) is a powerful feature that allows you to execute shell commands directly on your machine without involving the Claude Code's reasoning or consuming any tokens. While the AI assistant normally uses the "Bash tool" to run commands on your behalf (which costs money and takes time for the model to "think"), Bash Mode is your direct line to the terminal.
+O Modo Bash (disparado prefixando sua entrada com um ponto de exclamação !) é uma funcionalidade poderosa que permite executar comandos shell diretamente em seu computador sem envolver a razão do Claude Code ou consumir qualquer token. Enquanto o assistente AI normalmente usa a "Ferramenta Bash" para executar comandos em seu nome (o que custa dinheiro e leva tempo para o modelo "pensar"), o Modo Bash é sua linha direta para o terminal.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Bash mode with ! prefix](https://code.claude.com/docs/en/interactive-mode#bash-mode-with-prefix)
-- [@article@Claude Code and Bash Scripts | Developing with AI Tools | Steve Kinney](https://stevekinney.com/courses/ai-development/claude-code-and-bash-scripts)
+- [@oficial@Modo Bash com prefixo !](https://code.claude.com/docs/en/interactive-mode#bash-mode-with-prefix)
+- [@artigo@Claude Code e Scripts Bash | Desenvolvendo com Ferramentas de IA | Steve Kinney](https://stevekinney.com/courses/ai-development/claude-code-and-bash-scripts)

@@ -1,8 +1,8 @@
 # Opusplan
 
-`opusplan` is a specialized command alias for Claude Code that combines the high-level reasoning of the most advanced model with the speed and efficiency of a faster one to optimize complex development tasks. When you initiate a session using `claude opusplan`, the tool uses Claude Opus to analyze your request, explore the codebase, and draft a comprehensive technical strategy, ensuring that the initial logic and architectural decisions are as accurate as possible.
+O `opusplan` é um alias de comando especializado para o Claude Code que combina o raciocínio de alto nível do modelo mais avançado com a velocidade e eficiência de um modelo mais rápido, otimizando tarefas de desenvolvimento complexas. Quando você inicia uma sessão usando `claude opusplan`, a ferramenta usa o Claude Opus para analisar sua solicitação, explorar o código-fonte e elaborar uma estratégia técnica abrangente, garantindo que as decisões iniciais de lógica e arquitetura sejam o mais precisas possíveis.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@opusplan model setting](https://code.claude.com/docs/en/model-config#opusplan-model-setting)
-- [@video@Claude Code Opus Plan Mode // 1M Context // Testing ++](https://www.youtube.com/watch?v=I2aAkp7q_uY)
+- [@official@Configuração do modelo opusplan](https://code.claude.com/docs/en/model-config#opusplan-model-setting)
+- [@video@Modo Opus Plan do Claude Code // 1M Contexto // Testando ++](https://www.youtube.com/watch?v=I2aAkp7q_uY)

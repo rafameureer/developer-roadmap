@@ -1,7 +1,7 @@
-# Hook Inputs & Outputs
+# Entradas e Saídas de Hook
 
-Hooks communicate via a standardized JSON interface: Inputs are passed to the hook via `stdin`, and Outputs are returned via `stdout` to influence the agent's next move. The input payload typically includes a `context` object containing session metadata and event-specific data, such as the `tool` name and its arguments (e.g., the exact code being written or command being run). To respond, your hook must return a JSON object.
+Os Hooks se comunicam por meio de uma interface JSON padrão: as entradas são passadas para o hook via `stdin`, e as saídas são retornadas via `stdout` para influenciar a próxima ação do agente. O payload de entrada geralmente inclui um objeto `contexto` contendo metadados da sessão e dados específicos do evento, como o nome da `ferramenta` e seus argumentos (por exemplo, o código exato sendo escrito ou o comando sendo executado). Para responder, seu hook deve retornar um objeto JSON.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Hook Inputs & Outputs](https://code.claude.com/docs/en/hooks#hook-input-and-output)
+- [@official@Entradas e Saídas de Hook](https://code.claude.com/docs/en/hooks#hook-input-and-output)

@@ -1,8 +1,8 @@
 # /export
 
-The `/export` command is a data utility that allows you to save your entire current conversation history into a single file on your local machine. This command generates a Markdown-formatted document containing all your prompts, the AI's responses, and the results of any code changes or terminal commands executed during the session. It is designed for documentation and knowledge sharing, enabling you to archive successful debugging sessions, create project reports, or share a complex implementation logic with teammates who do not have access to your local terminal history.
+O comando `/export` é uma utilidade de dados que permite salvar seu histórico completo da conversa atual em um único arquivo na sua máquina local. Este comando gera um documento formatado em Markdown contendo todas suas solicitações, as respostas do AI e os resultados de quaisquer alterações de código ou comandos de terminal executados durante a sessão. Ele é projetado para documentação e compartilhamento de conhecimento, permitindo que você arquive sessões de depuração bem-sucedidas, crie relatórios de projeto ou compartilhe uma lógica de implementação complexa com colegas que não têm acesso ao histórico do terminal local.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Built-in commands](https://code.claude.com/docs/en/interactive-mode)
-- [@article@1.0.44 has new /export command : r/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1lw5r1l/1044_has_new_export_command/)
+- [@oficial@Comandos internos](https://code.claude.com/docs/en/interactive-mode)
+- [@artigo@1.0.44 tem novo comando /export : r/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1lw5r1l/1044_has_new_export_command/)

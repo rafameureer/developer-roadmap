@@ -1,8 +1,8 @@
-# Stop
+# Parar
 
-The `Stop` hook is a final-stage lifecycle event that triggers when Claude Code believes it has finished its entire response and is about to return control to the user. Unlike `PostToolUse`, which fires after every single file edit or command, the `Stop` hook only runs once at the very end of the interaction "turn."
+O gatilho `Stop` é um evento de ciclo de vida final que é acionado quando o Claude Code acredita que já terminou toda sua resposta e está prestes a retornar o controle para o usuário. Diferentemente do `PostToolUse`, que dispara após cada edição de arquivo ou comando individual, o gatilho `Stop` só roda uma vez no final da interação "turn".
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Hooks reference](https://code.claude.com/docs/en/hooks)
-- [@official@Automate workflows with hooks](https://code.claude.com/docs/en/hooks-guide)
+- [@official@Referência de Gatilhos](https://code.claude.com/docs/en/hooks)
+- [@official@Automatize fluxos de trabalho com gatilhos](https://code.claude.com/docs/en/hooks-guide)

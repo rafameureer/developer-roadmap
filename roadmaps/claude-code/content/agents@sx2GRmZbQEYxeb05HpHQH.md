@@ -1,10 +1,10 @@
-# /agents
+# /agentes
 
-The `/agents` command is a specialized management interface used to create, configure, and orchestrate sub-agents within your Claude Code environment. This command transitions from a single-assistant model to a multi-agent workflow, allowing you to delegate specific types of work—like security auditing, unit testing, or architectural planning—to "specialists" that have their own isolated context windows and tailored system prompts.
+O comando `/agentes` é uma interface de gerenciamento especializada usada para criar, configurar e orquestrar sub-agentes em seu ambiente do Claude Code. Este comando transmite de um modelo de assistente único para um fluxo de trabalho multi-agente, permitindo que você delegue tipos específicos de trabalho—como auditoria de segurança, testes unitários ou planejamento arquitetônico—para "especialistas" que têm suas próprias janelas de contexto isoladas e prompts do sistema personalizados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Built-in commands](https://code.claude.com/docs/en/interactive-mode)
-- [@official@Create custom subagents](https://code.claude.com/docs/en/sub-agents#use-the-agents-command)
-- [@official@Agents flag format](https://code.claude.com/docs/en/cli-reference)
-- [@video@Claude Code NEW Sub Agents in 7 Minutes](https://www.youtube.com/watch?v=DNGxMX7ym44)
+- [@oficial@Comandos internos](https://code.claude.com/docs/en/interactive-mode)
+- [@oficial@Criando subagentes personalizados](https://code.claude.com/docs/en/sub-agents#use-the-agents-command)
+- [@oficial@Formato da bandeira de agentes](https://code.claude.com/docs/en/cli-reference)
+- [@vídeo@Novos Sub Agentes do Claude Code em 7 Minutos](https://www.youtube.com/watch?v=DNGxMX7ym44)

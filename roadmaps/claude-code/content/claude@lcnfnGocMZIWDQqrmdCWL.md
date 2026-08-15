@@ -1,7 +1,7 @@
-# claude command
+# Comando claude
 
-The `claude` command is the primary entry point used to launch the Claude Code interface from your terminal. When you type this command within a project directory, it initializes the agentic environment, indexes your local files, and establishes a secure connection to the AI model so you can begin issuing natural language instructions. It also supports various flags to customize Claude Code’s behavior.
+O comando `claude` é o ponto de entrada principal usado para iniciar a interface do Claude Code em seu terminal. Quando você digita este comando dentro de um diretório de projeto, ele inicializa o ambiente agente, indexa seus arquivos locais e estabelece uma conexão segura com o modelo de IA para que você possa começar a emitir instruções naturais. Ele também suporta várias flags para personalizar o comportamento do Claude Code.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@CLI commands](https://code.claude.com/docs/en/cli-reference#cli-commands)
+- [@official@Comandos CLI](https://code.claude.com/docs/en/cli-reference#cli-commands)

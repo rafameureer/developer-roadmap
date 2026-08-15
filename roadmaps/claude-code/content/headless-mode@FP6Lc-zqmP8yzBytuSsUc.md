@@ -1,9 +1,9 @@
-# Headless mode
+# Modo Headless
 
-Headless mode in Claude Code, enabled by the `-p` (or `--print`) flag, transforms the interactive terminal assistant into a programmable Unix-style utility designed for automation and CI/CD pipelines.
+Modo headless no Claude Code, ativado pela bandeira `-p` (ou `--print`), transforma o assistente interativo de terminal em uma utilidade Unix-style programável projetada para automação e pipelines CI/CD.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Run Claude Code programmatically](https://code.claude.com/docs/en/headless)
-- [@article@Headless Mode: Unleash AI in Your CI/CD Pipeline](https://dev.to/rajeshroyal/headless-mode-unleash-ai-in-your-cicd-pipeline-1imm)
-- [@video@Building headless automation with Claude Code | Code w/ Claude](https://www.youtube.com/watch?v=dRsjO-88nBs)
+- [@official@Executar o Claude Code de forma programática](https://code.claude.com/docs/en/headless)
+- [@article@Modo Headless: Libere a IA em Seu Pipeline CI/CD](https://dev.to/rajeshroyal/headless-mode-unleash-ai-in-your-cicd-pipeline-1imm)
+- [@video@Construindo automação headless com o Claude Code | Código com Claude](https://www.youtube.com/watch?v=dRsjO-88nBs)

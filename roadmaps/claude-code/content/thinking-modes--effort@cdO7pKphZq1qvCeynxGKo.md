@@ -1,10 +1,10 @@
-# Thinking modes & Effort
+# Modos de Pensamento & Esforço
 
-Using thinking modes and adjusting effort levels in Claude Code is essential for balancing deep reasoning with operational efficiency. Furthermore, you can fine-tune Claude's cognitive energy using the effort parameter (available through the /model command).
+Usar modos de pensamento e ajustar os níveis de esforço no Claude Code é essencial para equilibrar a razão profunda com a eficiência operacional. Além disso, você pode finetunizar o energia cognitiva do Claude usando o parâmetro de esforço (disponível através do comando /model).
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Adjust effort level](https://code.claude.com/docs/en/model-config#adjust-ef)
-- [@official@Adjust extended thinking](https://code.claude.com/docs/en/costs#adjust-extended-thinking)
-- [@official@Effort](https://platform.claude.com/docs/en/build-with-claude/effort)
-- [@official@Speed up responses with fast mode](https://code.claude.com/docs/en/fast-mode)
+- [@oficial@Ajustar nível de esforço](https://code.claude.com/docs/en/model-config#adjust-ef)
+- [@oficial@Ajustar pensamento estendido](https://code.claude.com/docs/en/costs#adjust-extended-thinking)
+- [@oficial@Esforço](https://platform.claude.com/docs/en/build-with-claude/effort)
+- [@oficial@Acelerar respostas com o modo rápido](https://code.claude.com/docs/en/fast-mode)

@@ -1,8 +1,8 @@
-# Model Configuration
+# Configuração do Modelo
 
-Claude Code offers a highly flexible model configuration hierarchy that allows you to balance speed, cost, and reasoning depth across different tasks. You can switch models instantly during an active session using the `/model` command, specify a model at startup with the `--model` flag, or set a permanent default in your `~/.claude/settings.json` file using the `model` key. The system supports semantic aliases like sonnet (default for daily coding), haiku (fast and efficient), and opus (high-reasoning for complex architecture), as well as a specialized `opusplan` mode that intelligently uses Opus for strategic planning before automatically switching to Sonnet for the actual code implementation. Furthermore, you can fine-tune performance on supported models by adjusting the `effortLevel` (low, medium, or high), which controls how much "thinking time" Claude allocates to solving difficult logic puzzles versus generating rapid responses.
+O Claude Code oferece uma hierarquia de configuração de modelo altamente flexível que permite equilibrar velocidade, custo e profundidade de raciocínio em diferentes tarefas. Você pode trocar modelos instantaneamente durante uma sessão ativa usando o comando `/model`, especificar um modelo no início com a bandeira `--model` ou definir um padrão default permanente em seu arquivo `~/.claude/settings.json` usando a chave `model`. O sistema suporta aliases semânticos como sonnet (padrão para codificação diária), haiku (rápido e eficiente) e opus (alto raciocínio para arquiteturas complexas), bem como um modo especializado `opusplan` que usa inteligentemente o Opus para planejamento estratégico antes de automaticamente trocar para Sonnet para a implementação do código real. Além disso, você pode ajustar desempenho em modelos suportados ajustando o `effortLevel` (baixo, médio ou alto), que controla quanto "tempo de pensamento" o Claude aloca para resolver puzzles lógicos difíceis em vez de gerar respostas rápidas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Model configuration](https://code.claude.com/docs/en/model-config#model-configuration)
-- [@article@A complete guide to model configuration in Claude Code](https://www.eesel.ai/blog/model-configuration-claude-code)
+- [@oficial@Configuração do modelo](https://code.claude.com/docs/en/model-config#model-configuration)
+- [@artigo@Guia completo sobre a configuração do modelo no Claude Code](https://www.eesel.ai/blog/model-configuration-claude-code)

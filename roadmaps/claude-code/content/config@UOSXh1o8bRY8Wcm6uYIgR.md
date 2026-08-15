@@ -1,8 +1,8 @@
 # /config
 
-The `/config` command is the central management tool for customizing your Claude Code experience and fine-tuning how the assistant interacts with your system. Running this command opens an interactive menu—or allows for direct terminal arguments—to modify global and project-specific settings such as default models, theme preferences, and permission levels.
+O comando `/config` é a ferramenta de gerenciamento central para personalizar sua experiência com o Claude Code e ajustar como o assistente interage com seu sistema. Executar esse comando abre um menu interativo ou permite argumentos diretos no terminal para modificar configurações globais e específicas do projeto, como modelos padrão, preferências de tema e níveis de permissão.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Built-in commands](https://code.claude.com/docs/en/interactive-mode)
-- [@official@Claude Code settings](https://code.claude.com/docs/en/settings)
+- [@official@Comandos internos](https://code.claude.com/docs/en/interactive-mode)
+- [@official@Configurações do Claude Code](https://code.claude.com/docs/en/settings)

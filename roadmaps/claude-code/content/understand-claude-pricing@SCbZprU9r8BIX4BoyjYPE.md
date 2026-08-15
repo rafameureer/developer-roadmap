@@ -1,9 +1,9 @@
-# Understand Claude Pricing
+# Entenda o Preço do Claude
 
-Claude Code offers a flexible, dual-path pricing model designed to accommodate both individual power users and high-scale enterprise teams. You can access the tool through a fixed-rate subscription (such as the Pro or Max plans), which provides a generous recurring allocation of messages shared across the web interface and the terminal, making costs predictable for daily development. Alternatively, you can use a pay-as-you-go API model, where you are billed based on the total number of "tokens" (small units of text) processed in each interaction.
+O Claude Code oferece um modelo de preços flexível e dual-path projetado para atender a usuários individuais de alta potência e equipes empresariais em escala. Você pode acessar a ferramenta através de uma assinatura com taxa fixa (como os planos Pro ou Max), que fornece uma alocação recorrente generosa de mensagens compartilhadas entre a interface web e o terminal, tornando os custos previsíveis para o desenvolvimento diário. Alternativamente, você pode usar um modelo de API pay-as-you-go, onde você é cobrado com base no número total de "tokens" (unidades pequenas de texto) processados em cada interação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Pricing](https://claude.com/pricing)
-- [@official@Pricing in detail](https://platform.claude.com/docs/en/about-claude/pricing)
-- [@article@Claude Pricing Explained: Subscription Plans & API Costs](https://intuitionlabs.ai/articles/claude-pricing-plans-api-costs)
+- [@oficial@Preços](https://claude.com/pricing)
+- [@oficial@Detalhes dos Preços](https://platform.claude.com/docs/en/about-claude/pricing)
+- [@artigo@Preço do Claude Explicado: Planos de Assinatura e Custos da API](https://intuitionlabs.ai/articles/claude-pricing-plans-api-costs)

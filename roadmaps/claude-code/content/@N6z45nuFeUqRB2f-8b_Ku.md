@@ -1,8 +1,8 @@
-# Multiline input ()
+# Entrada de várias linhas ()
 
-Multiline input allows you to format complex instructions across several lines without immediately sending the prompt to the AI. The fastest way to create multiline input is by typing `\` followed by `Enter`. This works in all terminals by default and tells the system to treat the next line as a continuation of the current one. However, depending on your terminal and configuration, alternative methods may be available.
+A entrada de várias linhas permite que você formate instruções complexas em várias linhas sem enviar imediatamente o prompt para a IA. A maneira mais rápida de criar uma entrada de várias linhas é digitando `\` seguido por `Enter`. Isso funciona por padrão em todos os terminais e instrui o sistema a tratar a próxima linha como uma continuação da atual. No entanto, dependendo do seu terminal e configuração, métodos alternativos podem estar disponíveis.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Multiline input](https://code.claude.com/docs/en/interactive-mode#multiline-input)
-- [@official@Line breaks](http://code.claude.com/docs/en/terminal-config#line-breaks)
+- [@oficial@Entrada de várias linhas](https://code.claude.com/docs/en/interactive-mode#multiline-input)
+- [@oficial@Quebras de linha](http://code.claude.com/docs/en/terminal-config#line-breaks)

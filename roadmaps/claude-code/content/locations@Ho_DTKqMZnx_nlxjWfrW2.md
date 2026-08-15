@@ -1,9 +1,9 @@
-# Locations of CLAUDE.md
+# Locações do CLAUDE.md
 
-Claude Code manages instructions through a hierarchical memory system that layers context based on the directory structure of your project. At the start of every session, Claude recursively searches from your current working directory up to the root, automatically loading global preferences from `~/.claude/CLAUDE.md` and shared team standards from the project root's `CLAUDE.md`. Claude also supports progressive disclosure via subdirectory [CLAUDE.md](http://CLAUDE.md) files.
+Claude Code gerencia instruções através de um sistema de memória hierárquica que camada contexto com base na estrutura de diretórios do seu projeto. No início de cada sessão, Claude busca recursivamente a partir do seu diretório de trabalho até a raiz, carregando automaticamente preferências globais de `~/.claude/CLAUDE.md` e padrões compartilhados da equipe a partir do arquivo `CLAUDE.md` na raiz do projeto. Claude também suporta revelação progressiva através dos arquivos [CLAUDE.md](http://CLAUDE.md) em subdiretórios.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Write an effective CLAUDE.md](https://code.claude.com/docs/en/best-practices)
-- [@official@Determine memory type](https://code.claude.com/docs/en/memory#determine-memory-type)
-- [@article@The Complete Guide to CLAUDE.md](https://www.builder.io/blog/claude-md-guide)
+- [@official@Escreva um CLAUDE.md eficaz](https://code.claude.com/docs/en/best-practices)
+- [@official@Determinar o tipo de memória](https://code.claude.com/docs/en/memory#determine-memory-type)
+- [@article@Guia Completo do CLAUDE.md](https://www.builder.io/blog/claude-md-guide)

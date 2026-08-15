@@ -1,8 +1,8 @@
 # claude -r
 
-The `claude -r` command (short for --resume) allows you to restart a specific past conversation by providing its unique Session ID. Unlike the `-c` flag, which automatically opens the very last session you had, `-r` gives you the precision to jump back to any session from your history, ensuring you can continue a specific line of work without losing context or previous tool outputs. If you run the command without an ID—simply typing `claude --resume` —it opens an interactive session picker where you can scroll through a list of recent conversations, see their titles, and choose the one you want to reactivate.
+O comando `claude -r` (abreviação de --resume) permite que você reinicie uma conversa específica do passado fornecendo seu ID de sessão único. Diferentemente da bandeira `-c`, que abre automaticamente a última sessão que você teve, o `-r` lhe dá a precisão para pular para qualquer sessão em sua história, garantindo que você possa continuar uma linha específica do trabalho sem perder contexto ou saídas de ferramentas anteriores. Se você executar o comando sem um ID — simplesmente digitando `claude --resume` — ele abrirá um seletor de sessões interativas onde você pode rolar por uma lista de conversas recentes, ver seus títulos e escolher a que deseja reativar.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@CLI commands](https://code.claude.com/docs/en/cli-reference#cli-commands)
-- [@official@Resume or fork sessions](https://code.claude.com/docs/en/how-claude-code-works#resume-or-fork-sessions)
+- [@oficial@Comandos da CLI](https://code.claude.com/docs/en/cli-reference#cli-commands)
+- [@oficial@Reaniciar ou clonar sessões](https://code.claude.com/docs/en/how-claude-code-works#resume-or-fork-sessions)

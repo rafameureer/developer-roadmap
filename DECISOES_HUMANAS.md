@@ -4,7 +4,7 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 
 ---
 
-> ⚠️ **Total de itens sinalizados:** 367
+> ⚠️ **Total de itens sinalizados:** 381
 
 | Arquivo / Tópico | Motivo da Sinalização | Data/Hora |
 |---|---|---|
@@ -375,3 +375,17 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 | `roadmaps/c/content/core-data-structures@Iw6fn73v5n8Ru0zA-IJfP.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:01:05.462632 |
 | `roadmaps/c/content/dangling-pointers@nMzRriI7nNECvHOofg5wb.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:01:10.135560 |
 | `roadmaps/c/content/data-types@OkN6Kgp_rYIfd7qivswlO.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:01:14.275837 |
+| `roadmaps/claude-code/content/compact@65s0P7d39fFR2yhy4JKEZ.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:12:28.208112 |
+| `roadmaps/claude-code/content/connecting-tools-with-mcp@OBtJvLaEV3giUhvGFofKv.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:12:37.527076 |
+| `roadmaps/claude-code/content/introduction@RqfeqVMhTSdC4w4GcsETP.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:15:19.470945 |
+| `roadmaps/claude-code/content/manage-sessions@rlj-GMcqgdKM5_7rs7yz9.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:15:50.767268 |
+| `roadmaps/claude-code/content/mcp@8Nd9CdGb1_Jl4YLBvew4z.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:15:56.783797 |
+| `roadmaps/claude-code/content/mcp@Lyl4h5cvdY1YVpzBo_LEB.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:16:00.529727 |
+| `roadmaps/claude-code/content/setting-up-claude@XApGUujmnvp2VYUyEj1Kc.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:18:48.569288 |
+| `roadmaps/claude-code/content/shifttab@gpg2cfEUUKI5J9FMxn5QD.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:18:54.775435 |
+| `roadmaps/claude-code/content/skill-best-practices@5uIBv9rk7Wzc_bXny0B27.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:19:00.948750 |
+| `roadmaps/claude-code/content/usage-best-practices@svhWAC463Y9CUkFb524Fd.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:20:54.333616 |
+| `roadmaps/claude-code/content/usage@CPJulmusiWq3JQ6MmEJ0I.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:20:56.524890 |
+| `roadmaps/claude-code/content/use-compact-and-clear@YjRDJcSK_h82DooDWY2k4.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:21:00.546771 |
+| `roadmaps/claude-code/content/what-is-agentic-loop@uOowDiCXVKyMFrZO1pnXv.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:21:49.042656 |
+| `roadmaps/claude-code/content/what-is-vibe-coding@SKkeuO_5B18AbxlNGeazN.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:21:54.308252 |

@@ -1,10 +1,10 @@
-# Scheduling Jobs
+# Agendando Tarefas
 
-Scheduled tasks let you run prompts automatically on a schedule in Claude Code. You can use the `/loop` command to repeat a prompt at regular intervals (like every 5 minutes or every 2 hours) while your session is open. You can also set one-time reminders for specific times. The tasks run in the background and stop when you close Claude Code. If you need tasks to keep running after you close the program, you should use Cloud or Desktop scheduled tasks instead.
+Tarefas agendadas permitem que você execute prompts automaticamente em um cronograma no Claude Code. Você pode usar o comando `/loop` para repetir um prompt a intervalos regulares (como a cada 5 minutos ou a cada 2 horas) enquanto sua sessão estiver aberta. Você também pode definir lembretes de uma única vez para horários específicos. As tarefas são executadas em segundo plano e param quando você fecha o Claude Code. Se você precisar que as tarefas continuem rodando após fechar o programa, você deve usar tarefas agendadas na nuvem ou no desktop em vez disso.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Run prompts on a schedule](https://code.claude.com/docs/en/scheduled-tasks)
-- [@official@Schedule tasks on the web](https://code.claude.com/docs/en/web-scheduled-tasks)
-- [@article@Claude Code Loop vs Scheduled Tasks: Which Should You Use?](https://www.mindstudio.ai/blog/claude-code-loop-vs-scheduled-tasks)
-- [@video@Claude Code Scheduled Tasks Are Insane](https://www.youtube.com/watch?v=U_cDKkDvPAQ)
+- [@oficial@Executar prompts em um cronograma](https://code.claude.com/docs/en/scheduled-tasks)
+- [@oficial@Agendar tarefas na web](https://code.claude.com/docs/en/web-scheduled-tasks)
+- [@artigo@Claude Code Loop vs Tarefas Agendadas: Qual Você Deve Usar?](https://www.mindstudio.ai/blog/claude-code-loop-vs-scheduled-tasks)
+- [@vídeo@Tarefas Agendadas do Claude Code São Insanas](https://www.youtube.com/watch?v=U_cDKkDvPAQ)

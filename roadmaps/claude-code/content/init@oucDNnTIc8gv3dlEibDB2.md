@@ -1,9 +1,9 @@
 # /init
 
-The `/init` command is the initialization utility used to set up Claude Code for a specific project directory. When you run this command, it creates a [CLAUDE.md](http://CLAUDE.md) file in your current folder. This file serves as the "foundation" for the assistant, allowing you to define project-specific coding standards, build commands, and test suites that Claude will automatically reference in every future session within that repository.
+O comando `/init` é a utilidade de inicialização usada para configurar o Claude Code em um diretório de projeto específico. Quando você executa esse comando, ele cria um arquivo [CLAUDE.md](http://CLAUDE.md) na sua pasta atual. Esse arquivo serve como a "fundação" para o assistente, permitindo que você defina padrões de codificação específicos do projeto, comandos de construção e conjuntos de testes que o Claude automaticamente referenciará em cada sessão futura dentro desse repositório.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Built-in commands](https://code.claude.com/docs/en/interactive-mode)
-- [@official@Write an effective CLAUDE.md](https://code.claude.com/docs/en/best-practices#write-an-effective-claude-md)
-- [@article@Build your own /init command like Claude Code](https://kau.sh/blog/build-ai-init-command/)
+- [@oficial@Comandos internos](https://code.claude.com/docs/en/interactive-mode)
+- [@oficial@Escreva um CLAUDE.md eficaz](https://code.claude.com/docs/en/best-practices#write-an-effective-claude-md)
+- [@artigo@Build your own /init command like Claude Code](https://kau.sh/blog/build-ai-init-command/)

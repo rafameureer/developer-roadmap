@@ -1,10 +1,10 @@
-# How to Structure CLAUDE.md
+# Como Estruturar CLAUDE.md
 
-To write an effective [CLAUDE.md](http://CLAUDE.md), you should treat it as a concise, persistent "source of truth" that provides Claude with the project-specific context it cannot infer from the code alone. The file should be kept short and human-readable, focusing on non-obvious information like unique bash commands for building and testing, repository-specific code styles, and architectural decisions.
+Para escrever um [CLAUDE.md](http://CLAUDE.md) eficaz, você deve tratá-lo como uma fonte concisa e persistente "de verdadeira" que forneça ao Claude o contexto do projeto específico que ele não pode inferir apenas com o código. O arquivo deve ser mantido curto e legível para humanos, focando em informações não-obvias como comandos bash únicos para construção e teste, estilos de código específicos do repositório e decisões arquitetônicas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Write an effective CLAUDE.md](https://code.claude.com/docs/en/best-practices#write-an-effective-claude-md)
-- [@article@How to structure your CLAUDE.md file](https://www.builder.io/blog/claude-md-guide)
-- [@article@How we structure our CLAUDE.md file (and why) : r/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1mecx5t/how_we_structure_our_claudemd_file_and_why/)
-- [@article@# Writing a good CLAUDE.md](https://www.humanlayer.dev/blog/writing-a-good-claude-md)
+- [@oficial@Escreva um CLAUDE.md eficaz](https://code.claude.com/docs/en/best-practices#write-an-effective-claude-md)
+- [@artigo@Como estruturar seu arquivo CLAUDE.md](https://www.builder.io/blog/claude-md-guide)
+- [@artigo@How we structure our CLAUDE.md file (and why) : r/ClaudeAI](https://www.reddit.com/r/ClaudeAI/comments/1mecx5t/how_we_structure_our_claudemd_file_and_why/)
+- [@artigo@# Writing a good CLAUDE.md](https://www.humanlayer.dev/blog/writing-a-good-claude-md)

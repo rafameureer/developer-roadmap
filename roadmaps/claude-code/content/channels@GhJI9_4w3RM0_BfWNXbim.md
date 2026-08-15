@@ -1,9 +1,9 @@
-# Channels
+# Canais
 
-Claude Code channels are MCP server plugins that push messages, alerts, and webhooks into your running Claude Code session, allowing Claude to react to events while you're away from the terminal. Channels enable two-way communication through platforms like Telegram, Discord, and iMessage. You install them as plugins, configure credentials, and pair your account so Claude can receive and respond to messages in real-time. Unlike web sessions that spawn fresh instances, events arrive in your already-open session, making channels ideal for always-on setups where you run Claude in a background process.
+Os canais do Claude Code são plugins de servidor MCP que empurram mensagens, alertas e webhooks para sua sessão de código do Claude em execução, permitindo que o Claude reaja a eventos enquanto você está afastado do terminal. Os canais permitem comunicação bidirecional através de plataformas como Telegram, Discord e iMessage. Você os instala como plugins, configura as credenciais e vincula sua conta para que o Claude possa receber e responder a mensagens em tempo real. Diferentemente das sessões web que criam novas instâncias, os eventos chegam na sua sessão já aberta, tornando os canais ideais para configurações sempre ligadas onde você roda o Claude como um processo em segundo plano.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Push events into a running session with channels](https://code.claude.com/docs/en/channels)
-- [@official@Channels reference](https://code.claude.com/docs/en/channels-reference)
-- [@video@Claude Code Channels in 8 Minutes](https://www.youtube.com/watch?v=QZXaAc80OL0)
+- [@oficial@Empurre eventos para uma sessão em execução com canais](https://code.claude.com/docs/en/channels)
+- [@oficial@Referência de Canais](https://code.claude.com/docs/en/channels-reference)
+- [@vídeo@Canais do Claude Code em 8 Minutos](https://www.youtube.com/watch?v=QZXaAc80OL0)

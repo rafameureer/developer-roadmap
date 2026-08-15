@@ -1,10 +1,10 @@
-# Skills for MCP
+# Habilidades para MCP
 
-Skills act as structured, reusable knowledge packages that dramatically improve how Claude interacts with MCP (Model Context Protocol) servers by giving it precise, context-aware instructions for specific tools and workflows. Rather than relying on Claude to infer how to use a given MCP server from scratch each time, skills provide curated guidance that helps Claude make smarter, more reliable decisions when invoking tools, chaining calls, and interpreting results.
+As habilidades atuam como pacotes estruturados e reutilizáveis de conhecimento que significativamente melhoram como Claude interage com servidores MCP (Protocolo de Contexto do Modelo) fornecendo instruções precisas e conscientes do contexto para ferramentas específicas e fluxos de trabalho. Em vez de depender de Claude para inferir como usar um determinado servidor MCP a partir do zero cada vez, as habilidades oferecem orientação curada que ajuda Claude a tomar decisões mais inteligentes e confiáveis ao invocar ferramentas, encadear chamadas e interpretar resultados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@The Complete Guide to Building Skills for Claude](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf?hsLang=en)
-- [@opensource@Anthropic Skills Guide](https://github.com/darraghh1/my-claude-setup/blob/main/docs/research/anthropic-skills-guide.md)
-- [@article@Claude Skills Library](https://mcpservers.org/claude-skills)
-- [@video@MCP vs Skills: Which Is Right for Your AI Agent and LLMs?](https://www.youtube.com/watch?v=goU9VIXA8II)
+- [@oficial@Guia Completo de Como Construir Habilidades para Claude](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf?hsLang=en)
+- [@opensource@Guia das Habilidades do Anthropic](https://github.com/darraghh1/my-claude-setup/blob/main/docs/research/anthropic-skills-guide.md)
+- [@artigo@Biblioteca de Habilidades do Claude](https://mcpservers.org/claude-skills)
+- [@vídeo@MCP vs Habilidades: Qual é o Melhor para Seu Agente AI e LLMs?](https://www.youtube.com/watch?v=goU9VIXA8II)

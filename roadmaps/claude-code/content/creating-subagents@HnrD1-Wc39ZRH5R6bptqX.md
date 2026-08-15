@@ -1,10 +1,10 @@
-# Creating Subagents
+# Criando Subagentes
 
-To create a Subagent in Claude Code, you must define a specialized assistant within a Markdown file located in the `.claude/agents/` directory, using YAML frontmatter to specify its `name`, `description`, `model`, and a restricted set of `tools`.
+Para criar um Subagente no Claude Code, você deve definir um assistente especializado em um arquivo Markdown localizado no diretório `.claude/agents/`, usando frontmatter YAML para especificar seu `name`, `description`, `model` e um conjunto restrito de `tools`.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Create custom subagents](https://code.claude.com/docs/en/sub-agents)
-- [@article@Building with Claude Code Subagents (My Beloved Minions)](https://medium.com/@ooi_yee_fei/building-with-claude-code-subagents-my-beloved-minions-b5a9a4318ba5)
-- [@video@Claude Code Tutorial #8 - Subagents](https://www.youtube.com/watch?v=Phr7vBx9yFQ)
-- [@video@Master Claude Code Sub‑Agents in 10 Minutes](https://www.youtube.com/watch?v=mEt-i8FunG8)
+- [@oficial@Crie subagentes personalizados](https://code.claude.com/docs/en/sub-agents)
+- [@artigo@Construindo com Subagentes do Claude Code (Meus Ministros Amados)](https://medium.com/@ooi_yee_fei/building-with-claude-code-subagents-my-beloved-minions-b5a9a4318ba5)
+- [@vídeo@Tutorial do Claude Code #8 - Subagentes](https://www.youtube.com/watch?v=Phr7vBx9yFQ)
+- [@vídeo@Domine os Subagentes do Claude Code em 10 Minutos](https://www.youtube.com/watch?v=mEt-i8FunG8)

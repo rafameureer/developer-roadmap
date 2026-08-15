@@ -1302,7 +1302,109 @@
     "roadmaps/c/content/void-pointers@LWsaf-bUIAilXbobQCHv9.md",
     "roadmaps/c/content/volatile@_KdE4w3OfOMt5EYWkCCVQ.md",
     "roadmaps/c/content/vscode@g4Jne3Ok5KqLdRKcv000s.md",
-    "roadmaps/c/content/windbg@w1AYTM94VDO2YMQoKkXFq.md"
+    "roadmaps/c/content/windbg@w1AYTM94VDO2YMQoKkXFq.md",
+    "roadmaps/claude-code/content/@La3uarrUxC5oTszf4oaWr.md",
+    "roadmaps/claude-code/content/@N6z45nuFeUqRB2f-8b_Ku.md",
+    "roadmaps/claude-code/content/@PYjuzInrTOWebl-OyYfMa.md",
+    "roadmaps/claude-code/content/add-dir@FgQXBQ6oJ5sfW_ar0u6ez.md",
+    "roadmaps/claude-code/content/agent-team@fI90DtG5CoZbDyJUqLGoy.md",
+    "roadmaps/claude-code/content/agents@sx2GRmZbQEYxeb05HpHQH.md",
+    "roadmaps/claude-code/content/api-usage@N6dDyEXIUJUA3-o1J9K_n.md",
+    "roadmaps/claude-code/content/be-mindful-of-extensions@__3S2Z00hK_g_GQJxv_21.md",
+    "roadmaps/claude-code/content/channels@GhJI9_4w3RM0_BfWNXbim.md",
+    "roadmaps/claude-code/content/claude---add-dir@FgQXBQ6oJ5sfW_ar0u6ez.md",
+    "roadmaps/claude-code/content/claude--c@XlCA3rx2C7wx_EcTYtr9_.md",
+    "roadmaps/claude-code/content/claude--p@2PKH3Ru9XgCz1MO75pDVr.md",
+    "roadmaps/claude-code/content/claude--r@zUxO8udwPhYK6J_3wAs2Z.md",
+    "roadmaps/claude-code/content/claude-cli@3r-vFlVAEirxD1gaFOO4H.md",
+    "roadmaps/claude-code/content/claude-code-security@KgXvbrUuYyiBn52QCRoLl.md",
+    "roadmaps/claude-code/content/claude-query@zSpldCAVxYoRpHDIR2oVa.md",
+    "roadmaps/claude-code/content/claude-workflow@_iAIq8mwW0cIGbvrfmSJ5.md",
+    "roadmaps/claude-code/content/claude@lcnfnGocMZIWDQqrmdCWL.md",
+    "roadmaps/claude-code/content/claudemd@T6PklJYVOrmcAgNcCFhKt.md",
+    "roadmaps/claude-code/content/claudemd@TCWd5vobMAhP7I97Q1rTq.md",
+    "roadmaps/claude-code/content/clear@N4YM2lqDcic5AiYgv0eRZ.md",
+    "roadmaps/claude-code/content/code-intelligence@qg6ZTF0LCz5zo5G1a3BEf.md",
+    "roadmaps/claude-code/content/common-usecases@rGtz0Nw4BgOrdm3WUmjwZ.md",
+    "roadmaps/claude-code/content/community-tools@e12uqC2SEzaMfmBbz7VZf.md",
+    "roadmaps/claude-code/content/config@UOSXh1o8bRY8Wcm6uYIgR.md",
+    "roadmaps/claude-code/content/context@6UHAXR4praMqGiEUgWAt8.md",
+    "roadmaps/claude-code/content/context@C5tCsAJQxq2d-fOrjjloB.md",
+    "roadmaps/claude-code/content/cost@vw9cc6_33nHnNPNyhLo_d.md",
+    "roadmaps/claude-code/content/creating-skills@6WsAQV_e_2XJKl2KlN2dl.md",
+    "roadmaps/claude-code/content/creating-subagents@HnrD1-Wc39ZRH5R6bptqX.md",
+    "roadmaps/claude-code/content/ctrlc@dD0TlpfC4GzYWINplekKw.md",
+    "roadmaps/claude-code/content/ctrlr@R7YJyNd0taUVJvXDPHBn5.md",
+    "roadmaps/claude-code/content/customize-status-line@xEu9-kBz5SbM3Mrrwu446.md",
+    "roadmaps/claude-code/content/desktop-app@rIG8F-Rc-fMeXZ5n0UTwi.md",
+    "roadmaps/claude-code/content/doctor@IzHlnmGAqG1lpwuX1Oh4p.md",
+    "roadmaps/claude-code/content/editor-extensions@ONhEanq8I2RE-Jc_YY3Wa.md",
+    "roadmaps/claude-code/content/esc--esc@8xqKBvdDfTLeZXeGeqQZr.md",
+    "roadmaps/claude-code/content/esc@2pu6b0Z5BQAz44Hx69Pzk.md",
+    "roadmaps/claude-code/content/exit@MjZUaSJLSU5nDMgDJaWUh.md",
+    "roadmaps/claude-code/content/export@eLlCNxa6bqQW0JsHxIdOa.md",
+    "roadmaps/claude-code/content/git-worktrees@wxkAkdKFTwbNJEfwA9tGl.md",
+    "roadmaps/claude-code/content/haiku@y_euG-Rzj-OmCZhvMXegc.md",
+    "roadmaps/claude-code/content/headless-mode@FP6Lc-zqmP8yzBytuSsUc.md",
+    "roadmaps/claude-code/content/help@I4i_fKzuBy5pTC0JXyEl-.md",
+    "roadmaps/claude-code/content/hook-events--matchers@nq8aLrgh7qNQnwZbS7d9Z.md",
+    "roadmaps/claude-code/content/hook-inputs--outputs@Gwsh4g1SxI2hJcS84p9it.md",
+    "roadmaps/claude-code/content/hook-types@uC2PkMsCK-vaBo5Ygha2P.md",
+    "roadmaps/claude-code/content/hooks@801KNtjf61FTiLS1yrDSB.md",
+    "roadmaps/claude-code/content/hooks@OTpU2G6mnbkFhthKAkxlM.md",
+    "roadmaps/claude-code/content/hooks@qPH0w52-8MvzZdFdsNMap.md",
+    "roadmaps/claude-code/content/how-to-structure@7ZD0nOke-7vqaibxBx24Y.md",
+    "roadmaps/claude-code/content/init@oucDNnTIc8gv3dlEibDB2.md",
+    "roadmaps/claude-code/content/locations@Ho_DTKqMZnx_nlxjWfrW2.md",
+    "roadmaps/claude-code/content/manage-context@8fXu3OX3xfwr3NTAIHU0z.md",
+    "roadmaps/claude-code/content/memory@l7ECu0Q5bW9_OgVH7Ih4S.md",
+    "roadmaps/claude-code/content/mobile-channels@wLaM_NHs7-ANFhtjYiY-F.md",
+    "roadmaps/claude-code/content/model-configuration@Tq83zphFUA1J8spMEyN8H.md",
+    "roadmaps/claude-code/content/model@NMBBRdBWwCphjwQuFAp9W.md",
+    "roadmaps/claude-code/content/models@RHWW3QOFWRMqlaovGOLEO.md",
+    "roadmaps/claude-code/content/modes@gcZCpCWHvIo5Ox0vVkdgV.md",
+    "roadmaps/claude-code/content/opus@TWN08Vx7aBK-mvOSQuFfu.md",
+    "roadmaps/claude-code/content/opusplan@aHi-EWuBbn1xvK5osHOUM.md",
+    "roadmaps/claude-code/content/output-styles@i3K2_8VcOGGSPdj1Jb4Im.md",
+    "roadmaps/claude-code/content/permission-modes@y8VCGx-h97udP-dRzsSAI.md",
+    "roadmaps/claude-code/content/permissions@8rKpgtmO92EUFAKlWVuO5.md",
+    "roadmaps/claude-code/content/plan-mode@Dutj1C19nrbonQ7OpqBnv.md",
+    "roadmaps/claude-code/content/plan@3ZYaw7kTiErPiLVwMf3J8.md",
+    "roadmaps/claude-code/content/plugins@oV7YG_TnJ4ZyVVjqRwPkR.md",
+    "roadmaps/claude-code/content/plugins@wd9T37TIM_1JU4o_2Fb0h.md",
+    "roadmaps/claude-code/content/posttooluse@TBrr5EscwLZu7cOJoWbPy.md",
+    "roadmaps/claude-code/content/pretooluse@FWf5hyCRo9UQ2QPalLVYn.md",
+    "roadmaps/claude-code/content/prompt-caching@Dam_IG339RrYZXjXq3T8_.md",
+    "roadmaps/claude-code/content/reduce-token-usage@Dam_IG339RrYZXjXq3T8_.md",
+    "roadmaps/claude-code/content/resume@0HKJlqhoSCMNKf1lRIEy1.md",
+    "roadmaps/claude-code/content/rewind@-K5K7yT97VRC7u0IOzJyT.md",
+    "roadmaps/claude-code/content/rewind@cW0a112UVj2M3wBDA8UDj.md",
+    "roadmaps/claude-code/content/scaling-claude@ip2bq52qRah-7db6dORO8.md",
+    "roadmaps/claude-code/content/scheduling-jobs@DDEgVgkdu8PR4x8pHfD5Y.md",
+    "roadmaps/claude-code/content/security-best-practices@WVrC8-nf8xn1jckCHO3h4.md",
+    "roadmaps/claude-code/content/sessionend@x5U0F5WWAqnNCC8f-qjr7.md",
+    "roadmaps/claude-code/content/sessionstart@cMGYb_X1UK8sWI6brFj9S.md",
+    "roadmaps/claude-code/content/skill-scope@5uIBv9rk7Wzc_bXny0B27.md",
+    "roadmaps/claude-code/content/skills-for-mcp@U22jPxfQWbu7-54OcsqkV.md",
+    "roadmaps/claude-code/content/skills@OJIfG7DRO4jgQEcberkNx.md",
+    "roadmaps/claude-code/content/skills@iVa6piQwdPHIDkSRX8OSy.md",
+    "roadmaps/claude-code/content/slash-commands@JeotqE91kV1n-YRoXN9gX.md",
+    "roadmaps/claude-code/content/sonnet@nDodLa7_UEeOmx6iM0Xp5.md",
+    "roadmaps/claude-code/content/status@PS0GH8e9sW9N4s3UeHhjH.md",
+    "roadmaps/claude-code/content/stop@v-gjhrW3oVZTe3EpUCjhY.md",
+    "roadmaps/claude-code/content/subagents@EsbasCHDQOBZcBfHIrTbE.md",
+    "roadmaps/claude-code/content/subagents@wFxYfNu7LtzV72a224WTZ.md",
+    "roadmaps/claude-code/content/subscription@_Un0jTJaFs5Pdn1DFGl61.md",
+    "roadmaps/claude-code/content/thinking-modes--effort@cdO7pKphZq1qvCeynxGKo.md",
+    "roadmaps/claude-code/content/tools@vB1d1mbiPJK3a1LbYZkH9.md",
+    "roadmaps/claude-code/content/tunnels@q26hZANRABWXI8bzE0ai2.md",
+    "roadmaps/claude-code/content/understand-claude-pricing@SCbZprU9r8BIX4BoyjYPE.md",
+    "roadmaps/claude-code/content/use-compact-regularly@YjRDJcSK_h82DooDWY2k4.md",
+    "roadmaps/claude-code/content/use-subagents-and-hooks@-P9o-aiDM7CDtLimppkjM.md",
+    "roadmaps/claude-code/content/userpromptsubmit@Zrqdx4Z8uAS5yhI65Xh6z.md",
+    "roadmaps/claude-code/content/using-claude-code@29xiIXYlB0bjXKA794qap.md",
+    "roadmaps/claude-code/content/ways-to-use-claude@thR8GUbuAkEL4sb4m3llJ.md",
+    "roadmaps/claude-code/content/what-is-a-coding-agent@LGxnQkrbwVu9z1PFB12P3.md"
   ],
   "completed_roadmaps": [
     "frontend-beginner",
@@ -1322,7 +1424,8 @@
     "backend",
     "bi-analyst",
     "blockchain",
-    "c"
+    "c",
+    "claude-code"
   ],
   "flagged_issues": [
     {
@@ -3159,8 +3262,78 @@
       "file": "roadmaps/c/content/data-types@OkN6Kgp_rYIfd7qivswlO.md",
       "reason": "Falha na tradução automática após tentativas no Ollama",
       "timestamp": "2026-08-15T03:01:14.275837"
+    },
+    {
+      "file": "roadmaps/claude-code/content/compact@65s0P7d39fFR2yhy4JKEZ.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:12:28.208112"
+    },
+    {
+      "file": "roadmaps/claude-code/content/connecting-tools-with-mcp@OBtJvLaEV3giUhvGFofKv.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:12:37.527076"
+    },
+    {
+      "file": "roadmaps/claude-code/content/introduction@RqfeqVMhTSdC4w4GcsETP.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:15:19.470945"
+    },
+    {
+      "file": "roadmaps/claude-code/content/manage-sessions@rlj-GMcqgdKM5_7rs7yz9.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:15:50.767268"
+    },
+    {
+      "file": "roadmaps/claude-code/content/mcp@8Nd9CdGb1_Jl4YLBvew4z.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:15:56.783797"
+    },
+    {
+      "file": "roadmaps/claude-code/content/mcp@Lyl4h5cvdY1YVpzBo_LEB.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:16:00.529727"
+    },
+    {
+      "file": "roadmaps/claude-code/content/setting-up-claude@XApGUujmnvp2VYUyEj1Kc.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:18:48.569288"
+    },
+    {
+      "file": "roadmaps/claude-code/content/shifttab@gpg2cfEUUKI5J9FMxn5QD.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:18:54.775435"
+    },
+    {
+      "file": "roadmaps/claude-code/content/skill-best-practices@5uIBv9rk7Wzc_bXny0B27.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:19:00.948750"
+    },
+    {
+      "file": "roadmaps/claude-code/content/usage-best-practices@svhWAC463Y9CUkFb524Fd.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:20:54.333616"
+    },
+    {
+      "file": "roadmaps/claude-code/content/usage@CPJulmusiWq3JQ6MmEJ0I.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:20:56.524890"
+    },
+    {
+      "file": "roadmaps/claude-code/content/use-compact-and-clear@YjRDJcSK_h82DooDWY2k4.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:21:00.546771"
+    },
+    {
+      "file": "roadmaps/claude-code/content/what-is-agentic-loop@uOowDiCXVKyMFrZO1pnXv.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:21:49.042656"
+    },
+    {
+      "file": "roadmaps/claude-code/content/what-is-vibe-coding@SKkeuO_5B18AbxlNGeazN.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:21:54.308252"
     }
   ],
-  "last_updated": "2026-08-15T03:09:47.464835",
+  "last_updated": "2026-08-15T03:21:54.311813",
   "total_translated_count": 54
 }

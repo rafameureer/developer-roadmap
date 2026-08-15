@@ -1,8 +1,8 @@
 # Claude CLI
 
-Claude Code CLI is a command-line tool that acts as an agentic AI coding partner by interacting directly with your local files and terminal. To set it up, you first need an active Claude subscription or an Anthropic Console account. Once installed, navigate to your project folder, type `claude` to start a session, and follow the prompts to log in via your browser.
+Claude Code CLI é uma ferramenta de linha de comando que atua como um parceiro de IA agente ao interagir diretamente com seus arquivos locais e terminal. Para configurá-lo, você precisa primeiro de uma assinatura ativa do Claude ou uma conta no Anthropic Console. Uma vez instalado, navegue para sua pasta de projeto, digite `claude` para iniciar uma sessão e siga as instruções para fazer login via navegador.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Getting Started with Claude Code](https://code.claude.com/docs/en/quickstart)
-- [@official@Optimize your terminal setup](https://code.claude.com/docs/en/terminal-config)
+- [@oficial@Começando com o Claude Code](https://code.claude.com/docs/en/quickstart)
+- [@oficial@Otimizando a configuração do terminal](https://code.claude.com/docs/en/terminal-config)

@@ -1,9 +1,9 @@
 # /context
 
-The `/context` command is a diagnostic tool that provides a technical breakdown of how the model's context window is currently allocated, using a colored grid. While commands like `/usage` show you the "how much," `/context` shows you the "what." It lists every file, conversation turn, and tool result currently being held in the AI's active memory, allowing you to see exactly which resources are consuming tokens.
+O comando `/context` é uma ferramenta de diagnóstico que fornece uma análise técnica do como a janela de contexto do modelo está sendo atualmente alocada, usando uma grade colorida. Enquanto comandos como `/usage` mostram "quantidade," o `/context` mostra "o quê." Ele lista todos os arquivos, turnos de conversa e resultados de ferramentas que estão atualmente sendo armazenados na memória ativa da IA, permitindo que você veja exatamente quais recursos estão consumindo tokens.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Built-in commands](https://code.claude.com/docs/en/interactive-mode)
-- [@article@Monitor Token Usage with the /context Command](https://wmedia.es/en/tips/claude-code-context-command-token-usage)
-- [@video@3 Ways to Fix Claude Code's Context](https://www.youtube.com/watch?v=yBLwsBKPYSw)
+- [@official@Comandos internos](https://code.claude.com/docs/en/interactive-mode)
+- [@article@Monitoramento de Uso de Tokens com o Comando /context](https://wmedia.es/en/tips/claude-code-context-command-token-usage)
+- [@video@3 Maneiras de Corrigir o Contexto do Claude Code](https://www.youtube.com/watch?v=yBLwsBKPYSw)

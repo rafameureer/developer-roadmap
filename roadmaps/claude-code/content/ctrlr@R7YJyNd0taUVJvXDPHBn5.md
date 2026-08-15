@@ -1,9 +1,9 @@
 # Ctrl+R
 
-`Ctrl+R` is a terminal shortcut that opens the command history search, allowing you to quickly find and reuse previous prompts or terminal commands you have typed during your session. Instead of manually retyping complex instructions or scrolling back through hundreds of lines of output, you can press `Ctrl+R` and start typing a few letters to filter your recent activity until the correct entry is highlighted. Once you find the desired command, you can press `Enter` to run it immediately or use the arrow keys to edit the text before execution.
+`Ctrl+R` é um atalho de terminal que abre a pesquisa do histórico de comandos, permitindo que você encontre e reutilize rapidamente prompts ou comandos de terminal que digitou durante sua sessão. Em vez de digitar manualmente instruções complexas ou rolar para trás por centenas de linhas de saída, você pode pressionar `Ctrl+R` e começar a digitar algumas letras para filtrar sua atividade recente até que a entrada correta seja destacada. Uma vez que encontrar o comando desejado, você pode pressionar `Enter` para executá-lo imediatamente ou usar as teclas de seta para editar o texto antes da execução.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Interactive mode - Claude Code Docs](https://code.claude.com/docs/en/interactive-mode)
-- [@official@Reverse search with Ctrl+R](https://code.claude.com/docs/en/interactive-mode#reverse-search-with-ctrl+r)
-- [@article@Ctrl+R: Stop Retyping That Perfect Prompt You Wrote Last Week - DEV Community](https://dev.to/rajeshroyal/ctrlr-stop-retyping-that-perfect-prompt-you-wrote-last-week-19ae)
+- [@official@Modo interativo - Documentação do Claude Code](https://code.claude.com/docs/en/interactive-mode)
+- [@official@Pesquisa reversa com Ctrl+R](https://code.claude.com/docs/en/interactive-mode#reverse-search-with-ctrl+r)
+- [@article@Ctrl+R: Pare de digitar novamente aquele perfeito prompt que você escreveu na semana passada - DEV Community](https://dev.to/rajeshroyal/ctrlr-stop-retyping-that-perfect-prompt-you-wrote-last-week-19ae)

@@ -1,8 +1,8 @@
-# MCP Tunnels
+# Túneis MCP
 
-MCP Tunnels let you connect Claude to MCP servers running inside your private network without opening inbound firewall ports or exposing services to the public internet. Traffic flows over an outbound-only encrypted connection, meaning your internal tools and data sources stay fully private while still being accessible to Claude. This makes it practical to build agents that interact with internal databases, APIs, or services that you would never expose publicly.
+Os Túneis MCP permitem que você conecte o Claude aos servidores MCP em execução dentro da sua rede privada sem abrir portas de firewall de entrada ou expor serviços à internet pública. O tráfego flui por uma conexão criptografada unidirecional, o que significa que suas ferramentas internas e fontes de dados permanecem totalmente privadas enquanto ainda estão acessíveis ao Claude. Isso torna prático a construção de agentes que interagem com bancos de dados internos, APIs ou serviços que você nunca exporá publicamente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@MCP Tunnels](https://platform.claude.com/docs/en/agents-and-tools/mcp-tunnels/overview)
-- [@video@How to connect enterprise MCP servers to Claude via Anthropic MCP Tunnels](https://www.youtube.com/watch?v=DlCP7PKN-dU)
+- [@oficial@Túneis MCP](https://platform.claude.com/docs/en/agents-and-tools/mcp-tunnels/overview)
+- [@vídeo@Como conectar servidores MCP corporativos ao Claude via Túneis MCP do Anthropic](https://www.youtube.com/watch?v=DlCP7PKN-dU)

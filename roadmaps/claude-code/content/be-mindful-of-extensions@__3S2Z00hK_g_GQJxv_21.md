@@ -1,8 +1,8 @@
-# Be mindful of extensions
+# Tenha cuidado com as extensões
 
-Carefully managing extensions, such as MCP servers, skills, and subagents, is vital because every active integration consumes a portion of Claude’s finite context window, and excessive "context pollution" can lead to degraded reasoning or higher operational costs.
+Gerenciar cuidadosamente as extensões, como servidores MCP, habilidades e subagentes, é crucial porque cada integração ativa consome uma parte da janela de contexto finita do Claude, e o excesso de "poluição de contexto" pode levar a um raciocínio degradado ou custos operacionais mais altos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@The Hidden Cost of MCP Servers (And When They're Worth It)](https://mariogiancini.com/the-hidden-cost-of-mcp-servers-and-when-theyre-worth-it)
-- [@article@Claude Skills are awesome, maybe a bigger deal than MCP](https://simonw.substack.com/p/claude-skills-are-awesome-maybe-a)
+- [@artigo@O Custo Oculto dos Servidores MCP (E Quando Eles São Válidos)](https://mariogiancini.com/the-hidden-cost-of-mcp-servers-and-when-theyre-worth-it)
+- [@artigo@Habilidades do Claude são incríveis, talvez mais importantes que o MCP](https://simonw.substack.com/p/claude-skills-are-awesome-maybe-a)

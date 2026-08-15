@@ -1,9 +1,9 @@
-# Modes
+# Modos
 
-Permission modes are settings that control the level of autonomy the AI has when interacting with your computer. By default, the system operates in Default Mode, where it must ask for your approval before it edits any files or executes shell commands. You can cycle through other levels of authority, such as Accept-Edits Mode, which allows the AI to modify files automatically while still prompting you for terminal commands, or Plan Mode, which restricts the AI to read-only tools so it can research and outline a strategy without making any actual changes. For advanced workflows, specialized states like Delegate Mode exist to limit a "lead" agent to coordinating other sub-agents, while the high-risk Bypass-Permissions Mode removes all approval prompts entirely for use in secure, isolated environments.
+Os modos de permissão são configurações que controlam o nível de autonomia do AI quando interage com seu computador. Por padrão, o sistema opera no modo Default, onde ele deve solicitar sua aprovação antes de editar qualquer arquivo ou executar comandos shell. Você pode circular por outros níveis de autoridade, como o modo Accept-Edits, que permite ao AI modificar arquivos automaticamente enquanto ainda lhe pede comandos de terminal, ou o modo Plan, que restringe o AI a ferramentas somente leitura para que ele possa pesquisar e esboçar uma estratégia sem fazer qualquer alteração real. Para fluxos de trabalho avançados, estados especializados como Delegate Mode existem para limitar um "agente líder" a coordenar outros sub-agentes, enquanto o alto risco Bypass-Permissions Mode remove todas as solicitações de aprovação completamente para uso em ambientes seguros e isolados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Configure permissions](https://code.claude.com/docs/en/permissions)
-- [@article@A complete guide to Claude Code permissions](https://www.eesel.ai/blog/claude-code-permissions)
-- [@video@Claude Code Tutorial #4 - Tools & Permissions](https://www.youtube.com/watch?v=TU0ZcDFq0e0)
+- [@official@Configurar permissões](https://code.claude.com/docs/en/permissions)
+- [@article@Um guia completo sobre as permissões do Claude Code](https://www.eesel.ai/blog/claude-code-permissions)
+- [@video@Tutorial do Claude Code #4 - Ferramentas & Permissões](https://www.youtube.com/watch?v=TU0ZcDFq0e0)

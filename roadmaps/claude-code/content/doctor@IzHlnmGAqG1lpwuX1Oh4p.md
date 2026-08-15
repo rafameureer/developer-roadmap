@@ -1,8 +1,8 @@
-# /doctor
+# /medico
 
-The `/doctor` command is a diagnostic utility used to troubleshoot and verify the health of your Claude Code installation and its environment. When executed, it runs a series of automated checks to ensure that your authentication tokens are valid, your network connection to the Anthropic servers is stable, and all required system dependencies—like Git and Node.js—are correctly configured. If the tool detects an issue, such as a missing binary or an expired session, it provides a detailed error report and suggested steps to resolve the problem immediately.
+O comando `/medico` é uma ferramenta de diagnóstico usada para solucionar e verificar a saúde da sua instalação do Claude Code e seu ambiente. Quando executado, ele executa uma série de verificações automatizadas para garantir que seus tokens de autenticação sejam válidos, sua conexão de rede com os servidores Anthropic esteja estável e todas as dependências do sistema necessárias—como Git e Node.js—estejam corretamente configuradas. Se a ferramenta detectar um problema, como uma binária ausente ou uma sessão expirada, ela fornece um relatório de erro detalhado e sugestões de passos para resolver o problema imediatamente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Built-in commands](https://code.claude.com/docs/en/interactive-mode)
-- [@article@Claude Code Installation Guide: Using irm Script, npm Setup, and https://claude.ai/install.ps1 Script](https://vibecodingwithfred.com/blog/claude-code-installation-guide/)
+- [@oficial@Comandos internos](https://code.claude.com/docs/pt-br/modo-interativo)
+- [@artigo@Guia de Instalação do Claude Code: Usando o script irm, configuração npm e o script https://claude.ai/install.ps1](https://vibecodingwithfred.com/blog/guia-de-instalacao-do-claude-code/)

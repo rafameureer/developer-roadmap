@@ -1,13 +1,13 @@
-# Using Claude Code
+# Usando o Claude Code
 
-Claude Code is a sophisticated agentic tool that provides significant power through its ability to execute commands and edit files, but it requires a disciplined approach to prevent security risks and runaway costs.
+O Claude Code é uma ferramenta agente sofisticada que fornece poder significativo através de sua capacidade de executar comandos e editar arquivos, mas requer um abordagem disciplinada para prevenir riscos de segurança e custos descontrolados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@AI Capabilities and Limitations](https://anthropic.skilljar.com/ai-capabilities-and-limitations)
-- [@official@Best Practices for Claude Code - Claude Code Docs](https://code.claude.com/docs/en/best-practices)
-- [@official@Prompting best practices - Claude API Docs](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices)
-- [@article@Vibe coding tutorial: Build your first app with Claude Code](https://roadmap.sh/vibe-coding/tutorial)
-- [@article@How I use Claude Code (+ my best tips)](https://www.builder.io/blog/claude-code)
-- [@video@How I use Claude Code (Meta Staff Engineer Tips) - YouTube](https://www.youtube.com/watch?v=mZzhfPle9QU)
-- [@video@My top 6 tips & ways of using Claude Code efficiently - YouTube](https://www.youtube.com/watch?v=WwdIYp5fuxY)
+- [@curso@Capacidades e Limitações do AI](https://anthropic.skilljar.com/ai-capabilities-and-limitations)
+- [@oficial@Melhores Práticas para o Claude Code - Documentação do Claude Code](https://code.claude.com/docs/en/best-practices)
+- [@oficial@Práticas recomendadas de prompt - Documentação da API do Claude](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices)
+- [@artigo@Tutorial de codificação Vibe: Construa seu primeiro aplicativo com o Claude Code](https://roadmap.sh/vibe-coding/tutorial)
+- [@artigo@Como eu uso o Claude Code (+ meus melhores dicas)](https://www.builder.io/blog/claude-code)
+- [@vídeo@Como eu uso o Claude Code (Dicas do engenheiro de TI da Meta) - YouTube](https://www.youtube.com/watch?v=mZzhfPle9QU)
+- [@vídeo@Meus 6 melhores dicas e maneiras de usar o Claude Code eficientemente - YouTube](https://www.youtube.com/watch?v=WwdIYp5fuxY)

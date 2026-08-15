@@ -1,10 +1,10 @@
 # Opus
 
-Claude Opus is the most advanced and capable large language model in the Claude family, designed specifically for high-level reasoning and complex problem-solving. It functions as a "deep thinking" engine that can handle vast amounts of information and follow intricate instructions with a high degree of accuracy and nuance.
+O Claude Opus é o modelo de linguagem de grande escala mais avançado e capaz da família Claude, projetado especificamente para raciocínio de alto nível e resolução de problemas complexos. Ele funciona como um "motor de pensamento profundo" que pode lidar com grandes quantidades de informações e seguir instruções intrincadas com alta precisão e nuance.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Claude Opus 4.6 \\ Anthropic](https://www.anthropic.com/claude/opus)
-- [@official@What's new in Claude 4.6 - Claude API Docs](https://platform.claude.com/docs/en/about-claude/models/whats-new-claude-4-6)
-- [@video@Introducing Claude Opus 4.6](https://www.youtube.com/watch?v=dPn3GBI8lII)
-- [@video@Claude Opus 4.6: The Biggest AI Jump I've Covered--It's Not Close. (Here's What You Need to Know)](https://www.youtube.com/watch?v=JKk77rzOL34)
+- [@official@O que há de novo no Claude 4.6 - Documentação da API do Claude](https://platform.claude.com/docs/en/about-claude/models/whats-new-claude-4-6)
+- [@video@Introdução ao Claude Opus 4.6](https://www.youtube.com/watch?v=dPn3GBI8lII)
+- [@video@Claude Opus 4.6: O Maior Salto na IA que Eu Tenho Coberto -- Não é Próximo. (Aqui está o Que Você Precisa Saber)](https://www.youtube.com/watch?v=JKk77rzOL34)

@@ -1,11 +1,11 @@
-# Subagents
+# Subagentes
 
-Subagents are specialized AI assistants that function as independent "team members" to handle focused tasks on behalf of the main agent. Each subagent operates within its own isolated context window, meaning it starts with a clean slate and does not clutter your primary conversation with large amounts of intermediate research or technical logs. They are typically defined by a markdown file in the `.claude/agents/` directory, where you specify their unique system prompt, expertise, and restricted tool access.
+Subagentes são assistentes AI especializados que funcionam como membros independentes da equipe para lidar com tarefas focadas em nome do agente principal. Cada subagente opera em seu próprio contexto isolado, o que significa que ele começa com uma folha em branco e não polui sua conversa primária com grandes quantidades de pesquisa intermediária ou logs técnicos. Eles são geralmente definidos por um arquivo markdown na pasta `.claude/agents/`, onde você especifica seu prompt de sistema único, expertise e acesso limitado a ferramentas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@Introduction to subagents](https://anthropic.skilljar.com/introduction-to-subagents)
-- [@official@Create custom subagents - Claude Code Docs](https://code.claude.com/docs/en/sub-agents)
-- [@video@Stop Using Claude Code Like This (Use Sub-Agents Instead) -](https://www.youtube.com/watch?v=P60LqQg1RH8)
-- [@video@Claude Code NEW Sub Agents in 7 Minutes](https://www.youtube.com/watch?v=DNGxMX7ym44)
-- [@video@Claude Code Tutorial #8 - Subagents](https://www.youtube.com/watch?v=Phr7vBx9yFQ)
+- [@curso@Introdução aos subagentes](https://anthropic.skilljar.com/introduction-to-subagents)
+- [@oficial@Criar subagentes personalizados - Documentação do Claude Code](https://code.claude.com/docs/en/sub-agents)
+- [@vídeo@Parar de usar o Claude Code da seguinte maneira (Use Sub-Agentes em vez disso)](https://www.youtube.com/watch?v=P60LqQg1RH8)
+- [@vídeo@Novos Sub-Agentes do Claude Code em 7 minutos](https://www.youtube.com/watch?v=DNGxMX7ym44)
+- [@vídeo@Tutorial do Claude Code #8 - Subagentes](https://www.youtube.com/watch?v=Phr7vBx9yFQ)

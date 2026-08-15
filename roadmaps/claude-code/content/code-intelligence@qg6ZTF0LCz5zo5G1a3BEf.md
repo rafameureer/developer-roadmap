@@ -1,9 +1,9 @@
-# Code Intelligence Plugin
+# Plugin de Inteligência do Código
 
-Code Intelligence plugins extend the CLI's native search capabilities by integrating with the Language Server Protocol (LSP), granting Claude the same "IDE-level" awareness found in modern editors.
+Os plugins de inteligência do código estendem as capacidades nativas da CLI integrando-se com o Protocolo Servidor de Linguagem (LSP), concedendo ao Claude a mesma "consciência de nível de IDE" encontrada em editores modernos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Code intelligence](https://code.claude.com/docs/en/discover-plugins#code-intelligence)
-- [@official@LSP server](https://code.claude.com/docs/en/plugins-reference#lsp-servers)
-- [@article@Language Server Protocol](https://microsoft.github.io/language-server-protocol/)
+- [@oficial@Inteligência do código](https://code.claude.com/docs/en/discover-plugins#inteligência-do-código)
+- [@oficial@Servidor LSP](https://code.claude.com/docs/en/plugins-reference#servidores-lsp)
+- [@artigo@Protocolo Servidor de Linguagem](https://microsoft.github.io/language-server-protocol/)

@@ -1,10 +1,10 @@
 # CLAUDE.md
 
-`CLAUDE.md` is a configuration file placed in a project's root directory that provides the AI assistant with specific rules, project context, and custom instructions for that particular codebase. It acts as a set of persistent guidelines that the AI reads at the start of every session to ensure its code suggestions align with your project's coding standards, tech stack, and architectural patterns.
+`CLAUDE.md` é um arquivo de configuração colocado no diretório raiz do projeto que fornece ao assistente AI regras específicas, contexto do projeto e instruções personalizadas para esse código em particular. Ele atua como um conjunto de diretrizes persistentes que o AI lê no início de cada sessão para garantir que suas sugestões de código estejam alinhadas com os padrões de codificação do seu projeto, pilha técnica e padrões arquitetônicos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Write an effective CLAUDE.md](https://code.claude.com/docs/en/best-practices#write-an-effective-claude-md)
-- [@article@The Complete Guide to CLAUDE.md](https://www.builder.io/blog/claude-md-guide)
-- [@article@Writing a good CLAUDE.md | HumanLayer Blog](https://www.humanlayer.dev/blog/writing-a-good-claude-md)
-- [@video@Claude Code Tutorial #2 - CLAUDE.md Files & /init - YouTube](https://www.youtube.com/watch?v=i_OHQH4-M2Y)
+- [@official@Escreva um CLAUDE.md eficaz](https://code.claude.com/docs/en/best-practices#write-an-effective-claude-md)
+- [@article@Guia Completo sobre CLAUDE.md](https://www.builder.io/blog/claude-md-guide)
+- [@article@Como escrever um bom CLAUDE.md | Blog HumanLayer](https://www.humanlayer.dev/blog/writing-a-good-claude-md)
+- [@video@Tutorial de Código Claude #2 - Arquivos CLAUDE.md e /init - YouTube](https://www.youtube.com/watch?v=i_OHQH4-M2Y)

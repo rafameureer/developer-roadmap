@@ -1,8 +1,8 @@
 # /help
 
-The `/help` command is an interactive directory that provides a comprehensive list of all available slash commands, keyboard shortcuts, and system features. When you type it, Claude Code displays a searchable guide that explains how to use tools such as context management, file mentions, and permission modes. It is designed to be a quick-access manual that helps you discover advanced functionality or refresh your memory of syntax without leaving your terminal or consulting external documentation.
+O comando `/help` é um diretório interativo que fornece uma lista abrangente de todos os comandos de barra (/) disponíveis, atalhos de teclado e recursos do sistema. Quando você digita ele, Claude Code exibe um guia pesquisável que explica como usar ferramentas como gerenciamento de contexto, menções a arquivos e modos de permissão. Ele está projetado para ser um manual rápido de acesso que ajuda você a descobrir funcionalidades avançadas ou atualizar sua memória da sintaxe sem sair do terminal ou consultar documentação externa.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Built-in commands](https://code.claude.com/docs/en/interactive-mode)
-- [@video@Claude Code Tutorial #6 - Slash Commands](https://www.youtube.com/watch?v=52KBhQqqHuc&t=1s)
+- [@official@Comandos internos](https://code.claude.com/docs/en/interactive-mode)
+- [@video@Tutorial de Claude Code #6 - Comandos de Barra](https://www.youtube.com/watch?v=52KBhQqqHuc&t=1s)

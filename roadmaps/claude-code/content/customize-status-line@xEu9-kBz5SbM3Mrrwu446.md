@@ -1,9 +1,9 @@
-# Customize Status Line
+# Personalizar a Linha de Status
 
-Claude Code allows you to personalize your terminal environment by customizing the status line, which is the persistent information bar at the bottom of the interface. You can keep essential data like real-time session costs or context usage percentages visible at all times, helping you manage your budget and "context rot" without manually running diagnostic commands.
+O Claude Code permite que você personalize seu ambiente de terminal personalizando a linha de status, que é a barra de informações persistente na parte inferior da interface. Você pode manter dados essenciais como custos de sessão em tempo real ou porcentagens de uso de contexto visíveis sempre, ajudando você a gerenciar seu orçamento e "rotatividade do contexto" sem ter que executar comandos diagnósticos manualmente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Customize Status Line](https://code.claude.com/docs/en/statusline)
-- [@video@Your Claude Code Terminal Should Look Like This](https://www.youtube.com/watch?v=fiZfVTsPy-w)
+- [@official@Personalizar a Linha de Status](https://code.claude.com/docs/en/statusline)
+- [@video@Seu terminal do Claude Code deve parecer assim](https://www.youtube.com/watch?v=fiZfVTsPy-w)
 - [@video@Claude Code StatusLine Explained (Free Script Generator)](https://www.youtube.com/watch?v=PB9_Q2tfe90)

@@ -1,8 +1,8 @@
-# Community Tools
+# Ferramentas da Comunidade
 
-Community tools extend Claude Code's capabilities by integrating it with external platforms via the Model Context Protocol (MCP) and specialized plugins. These integrations allow the assistant to interact directly with services like GitHub for managing pull requests, Slack for sending project updates, and Jira or Linear for tracking issues. Beyond official offerings, the community has developed numerous third-party extensions, which can be easily added via the `/plugin` command.
+As ferramentas da comunidade estendem as capacidades do Claude Code integrando-se com plataformas externas via o Protocolo Contexto do Modelo (MCP) e plugins especializados. Essas integrações permitem que o assistente interaja diretamente com serviços como GitHub para gerenciar solicitações de pull, Slack para enviar atualizações de projeto e Jira ou Linear para rastrear problemas. Além das ofertas oficiais, a comunidade desenvolveu numerosas extensões terceirizadas, que podem ser facilmente adicionadas via o comando `/plugin`.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Conductor](https://docs.conductor.build/)
-- [@article@A Hands-On Review of Conductor, an AI Parallel Runner App](https://thenewstack.io/a-hands-on-review-of-conductor-an-ai-parallel-runner-app/)
+- [@oficial@Conductor](https://docs.conductor.build/)
+- [@artigo@Uma Revisão Prática do Conductor, um Aplicativo de Execução Paralela de IA](https://thenewstack.io/a-hands-on-review-of-conductor-an-ai-parallel-runner-app/)

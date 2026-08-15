@@ -1,7 +1,7 @@
-# /exit
+# /sair
 
-The `/exit` command is a built-in utility used to safely terminate your current Claude Code session and return you to your standard terminal prompt. Unlike force-quitting the application, using this command ensures that the system performs a clean shutdown, which includes saving your conversation history and updating any local session metadata so that you can resume your work later using the `claude -c` flag.
+O comando `/sair` é uma utilidade interna usada para encerrar de forma segura sua sessão atual do Claude Code e retornar ao seu prompt padrão de terminal. Diferentemente de forçar a saída da aplicação, usar este comando garante que o sistema realize um desligamento limpo, que inclui salvar seu histórico de conversa e atualizar qualquer metadados de sessão local para que você possa retomar seu trabalho mais tarde usando a bandeira `claude -c`.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Built-in commands](https://code.claude.com/docs/en/interactive-mode)
+- [@oficial@Comandos internos](https://code.claude.com/docs/en/interactive-mode)

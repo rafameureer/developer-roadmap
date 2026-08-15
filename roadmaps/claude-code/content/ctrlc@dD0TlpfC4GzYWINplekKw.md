@@ -1,8 +1,8 @@
 # Ctrl+C
 
-`Ctrl+C` is a keyboard shortcut that immediately sends an interrupt signal to the Claude Code terminal to stop its current activity. It is primarily used to halt a long-running process, such as an accidental infinite loop in your code, a search that is taking too long, or a lengthy model response that you realized was going in the wrong direction. This provides a manual "kill switch" that is essential for maintaining control over the agent's actions and preventing the unnecessary consumption of tokens and time.
+`Ctrl+C` é um atalho de teclado que envia imediatamente uma sinalização de interrupção para o terminal do Claude Code, parando sua atividade atual. Ele é principalmente usado para parar um processo em execução por muito tempo, como um loop infinito acidental em seu código, uma pesquisa que está demorando muito ou uma resposta de modelo extensa que você percebeu estar indo na direção errada. Isso fornece um "interruptor manual" que é essencial para manter o controle sobre as ações do agente e evitar o consumo desnecessário de tokens e tempo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Interactive mode - Claude Code Docs](https://code.claude.com/docs/en/interactive-mode)
-- [@article@How I use Claude Code (+ my best tips)](https://www.builder.io/blog/claude-code)
+- [@oficial@Modo interativo - Documentação do Claude Code](https://code.claude.com/docs/en/interactive-mode)
+- [@artigo@Como uso o Claude Code (+ meus melhores dicas)](https://www.builder.io/blog/claude-code)

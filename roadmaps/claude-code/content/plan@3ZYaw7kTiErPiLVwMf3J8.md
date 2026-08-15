@@ -1,9 +1,9 @@
-# /plan
+# /planejamento
 
-Plan Mode is a read-only environment that allows the AI to research, analyze, and outline a multi-step strategy for a task without making any actual changes to your files or executing state-altering commands. When you enter this mode—either by typing `/plan` or pressing `Shift+Tab`—the assistant focuses on gathering context and identifying dependencies to create a detailed implementation document. This serves as a safety gate where you can review and edit the proposed approach (using `Ctrl+G` to open the plan file) before giving the final approval to transition into an execution mode to apply the changes.
+O Modo Planejamento é um ambiente de leitura apenas para permitir que a IA pesquise, analise e esboce uma estratégia multi-etapa para uma tarefa sem fazer qualquer alteração real em seus arquivos ou executar comandos que alterem o estado. Quando você entra nesse modo—digitando `/planejamento` ou pressionando `Shift+Tab`—o assistente se concentra em coletar contexto e identificar dependências para criar um documento de implementação detalhado. Isso serve como uma barreira de segurança onde você pode revisar e editar a abordagem proposta (usando `Ctrl+G` para abrir o arquivo do planejamento) antes de dar a aprovação final para transitar em um modo de execução para aplicar as alterações.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Built-in commands](https://code.claude.com/docs/en/interactive-mode)
-- [@official@Use Plan Mode for safe code analysis](https://code.claude.com/docs/en/common-workflows#use-plan-mode-for-safe-code-analysis)
-- [@article@What Actually Is Claude Code’s Plan Mode?](https://lucumr.pocoo.org/2025/12/17/what-is-plan-mode/)
+- [@oficial@Comandos internos](https://code.claude.com/docs/en/interactive-mode)
+- [@oficial@Use o Modo Planejamento para análise de código segura](https://code.claude.com/docs/en/common-workflows#use-plan-mode-for-safe-code-analysis)
+- [@artigo@O que na verdade é o Modo Planejamento do Claude Code?](https://lucumr.pocoo.org/2025/12/17/what-is-plan-mode/)

@@ -1,9 +1,9 @@
 # /hooks
 
-The `/hooks` command opens an interactive management menu for configuring automated workflows that trigger at specific points in the Claude Code lifecycle. While features like `CLAUDE.md` provide "soft" instructions, hooks offer deterministic control, ensuring that specific shell commands or AI evaluations run every single time a certain event occurs—such as formatting code after an edit or sending a notification when Claude needs your attention.
+O comando `/hooks` abre um menu de gerenciamento interativo para configurar fluxos de trabalho automatizados que são acionados em pontos específicos no ciclo de vida do Claude Code. Enquanto recursos como `CLAUDE.md` fornecem instruções "suaves", os hooks oferecem controle determinístico, garantindo que comandos shell específicos ou avaliações da IA sejam executados toda vez que um certo evento ocorrer—como formatar o código após uma edição ou enviar uma notificação quando o Claude precisar de sua atenção.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Built-in commands](https://code.claude.com/docs/en/interactive-mode)
-- [@official@Hooks reference](https://code.claude.com/docs/en/hooks)
-- [@official@The /hooks menu](https://code.claude.com/docs/en/hooks#the-hooks-menu)
+- [@oficial@Comandos internos](https://code.claude.com/docs/en/interactive-mode)
+- [@oficial@Referência de hooks](https://code.claude.com/docs/en/hooks)
+- [@oficial@O menu /hooks](https://code.claude.com/docs/en/hooks#the-hooks-menu)

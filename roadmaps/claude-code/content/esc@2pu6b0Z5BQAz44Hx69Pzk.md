@@ -1,7 +1,7 @@
-# Esc Command
+# Comando Esc
 
-The `Esc` key is a navigation shortcut used to exit current menus, cancel active inputs, or clear the command line. If you are in the middle of typing a long prompt and want to start over, pressing Esc will wipe the input field clean, and if you have a dropdown menu or a multi-select list open—such as when choosing files to add to context—it will close that menu without making a selection. This shortcut provides a quick way to reset your immediate interface state without interrupting the underlying AI process or closing the terminal session entirely.
+A tecla `Esc` é um atalho de navegação usado para sair dos menus atuais, cancelar entradas ativas ou limpar a linha de comando. Se você estiver no meio de digitar uma solicitação longa e quiser começar tudo de novo, pressionar Esc limpará o campo de entrada, e se tiver um menu suspenso ou uma lista de seleção múltipla aberta—como ao escolher arquivos para adicionar ao contexto—itirá fechar esse menu sem fazer uma seleção. Este atalho fornece uma maneira rápida de resetar seu estado de interface imediata sem interromper o processo AI subjacente ou encerrar a sessão do terminal completamente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Interactive mode - Claude Code Docs](https://code.claude.com/docs/en/interactive-mode)
+- [@oficial@Modo interativo - Documentação do Claude Code](https://code.claude.com/docs/en/interactive-mode)

@@ -1,12 +1,12 @@
-# Plan Mode
+# Modo Plan
 
-Plan Mode is a strictly read-only permission state that allows Claude to analyze your codebase, research dependencies, and draft a step-by-step implementation strategy without the risk of modifying any files or executing state-changing commands.
+O Modo Plan é um estado de permissão somente leitura que permite ao Claude analisar seu código, pesquisar dependências e esboçar uma estratégia de implementação passo a passo sem risco de modificar qualquer arquivo ou executar comandos que alterem o estado do sistema.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@How to use Plan Mode](https://code.claude.com/docs/en/common-workflows#how-to-use-plan-mode)
-- [@official@Explore first, then plan, then code](https://code.claude.com/docs/en/best-practices#explore-first-then-plan-then-code)
-- [@article@What Actually Is Claude Code’s Plan Mode?](https://lucumr.pocoo.org/2025/12/17/what-is-plan-mode/)
-- [@article@Claude Code Plan Mode | Developing with AI Tools | Steve Kinney](https://stevekinney.com/courses/ai-development/claude-code-plan-mode)
-- [@video@I was an AI skeptic. Then I tried plan mode](https://www.youtube.com/watch?v=WNx-s-RxVxk&t=70s)
-- [@video@How I Use Claude Code Plan Mode: 3 Examples](https://www.youtube.com/watch?v=altX5elI-1k)
+- [@oficial@Como usar o Modo Plan](https://code.claude.com/docs/en/common-workflows#how-to-use-plan-mode)
+- [@oficial@Explorar primeiro, planejar depois, codificar em seguida](https://code.claude.com/docs/en/best-practices#explore-first-then-plan-then-code)
+- [@artigo@O que na verdade é o Modo Plan do Claude Code?](https://lucumr.pocoo.org/2025/12/17/what-is-plan-mode/)
+- [@artigo@Modo Plan do Claude Code | Desenvolvendo com Ferramentas de IA | Steve Kinney](https://stevekinney.com/courses/ai-development/claude-code-plan-mode)
+- [@vídeo@Eu era um suspeito de IA. Depois que eu experimentei o modo plan](https://www.youtube.com/watch?v=WNx-s-RxVxk&t=70s)
+- [@vídeo@Como uso o Modo Plan do Claude Code: 3 Exemplos](https://www.youtube.com/watch?v=altX5elI-1k)

@@ -1,10 +1,10 @@
-# Security Best Practices
+# Melhores Práticas de Segurança
 
-Security is the most critical pillar of using Claude Code because giving an AI agent the ability to execute terminal commands and modify files creates a powerful "intern with root access" who is susceptible to prompt injection and data exfiltration.
+A segurança é o pilar mais crítico ao usar Claude Code, pois conceder a um agente de IA a capacidade de executar comandos de terminal e modificar arquivos cria um "interno com acesso root" suscetível à injeção de prompts e exfiltração de dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Security](https://code.claude.com/docs/en/security#security)
-- [@official@Sandboxing](https://code.claude.com/docs/en/sandboxing)
-- [@official@Beyond permission prompts: making Claude Code more secure and autonomous](https://www.anthropic.com/engineering/claude-code-sandboxing)
-- [@article@A deep dive into security for Claude Code in 2025](https://www.eesel.ai/blog/security-claude-code)
+- [@oficial@Segurança](https://code.claude.com/docs/en/security#security)
+- [@oficial@Sandboxing](https://code.claude.com/docs/en/sandboxing)
+- [@oficial@Beyond permission prompts: making Claude Code more secure and autonomous](https://www.anthropic.com/engineering/claude-code-sandboxing)
+- [@artigo@Um mergulho profundo na segurança do Claude Code em 2025](https://www.eesel.ai/blog/security-claude-code)

@@ -1,9 +1,9 @@
 # /rewind
 
-The `/rewind` command is a history management tool that allows you to undo recent turns in your conversation. When executed, it removes the most recent prompt and response from the active context, effectively "winding back" the session to a previous state. This is particularly useful if the AI misunderstood a complex instruction or if a code generation task went in the wrong direction, as it allows you to re-issue the command with better clarity without the baggage of the failed attempt cluttering the model's memory or inflating your token usage.
+O comando `/rewind` é uma ferramenta de gerenciamento de histórico que permite desfazer as últimas rodadas em sua conversa. Quando executado, ele remove o último prompt e resposta do contexto ativo, efetivamente "voltando" a sessão para um estado anterior. Isso é particularmente útil se a IA mal compreendeu uma instrução complexa ou se uma tarefa de geração de código foi em direção errada, pois permite que você re-envie o comando com maior clareza sem a bagunça do esforço falhado poluir a memória do modelo ou aumentar seu uso de tokens.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Built-in commands](https://code.claude.com/docs/en/interactive-mode)
-- [@official@Checkpointing](https://code.claude.com/docs/en/checkpointing)
-- [@article@Rewind Changes Instantly with Checkpoints](https://wmedia.es/en/tips/rewind-changes-instantly-with-checkpoints)
+- [@oficial@Comandos internos](https://code.claude.com/docs/en/interactive-mode)
+- [@oficial@Ponto de verificação](https://code.claude.com/docs/en/checkpointing)
+- [@artigo@Reverter alterações instantaneamente com pontos de verificação](https://wmedia.es/en/tips/rewind-changes-instantly-with-checkpoints)

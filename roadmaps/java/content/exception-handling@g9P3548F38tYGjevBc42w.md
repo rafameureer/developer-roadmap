@@ -1,14 +1,14 @@
-# Exception Handling
+# Tratamento de Exceções
 
-Exception Handling in Java is one of the effective means to handle the runtime errors so that the regular flow of the application can be preserved. Java Exception Handling is a mechanism to handle runtime errors such as ClassNotFoundException, IOException, SQLException, RemoteException, etc.
+O tratamento de exceções em Java é um dos métodos eficazes para lidar com erros de tempo de execução, garantindo que o fluxo regular da aplicação seja preservado. O tratamento de exceções em Java é um mecanismo para lidar com erros de tempo de execução como ClassNotFoundException, IOException, SQLException, RemoteException, etc.
 
-There are three types of exceptions -
+Existem três tipos de exceções -
 
-1.  Checked Exception - exceptions checked at compile time. Example - IOException
-2.  Unchecked Exception - exceptions checked at run time. Example - NullPointerException
-3.  Error - It is irrecoverable. Example - OutOfMemoryError
+1.  Exceção Verificada - exceções verificadas no momento da compilação. Exemplo - IOException
+2.  Exceção Não Verificada - exceções não verificadas no momento da execução. Exemplo - NullPointerException
+3.  Erro - é irrecoverável. Exemplo - OutOfMemoryError
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@Understanding Java Exceptions](https://www.youtube.com/watch?v=W-N2ltgU-X4)
-- [@video@Java Exception Handling](https://www.youtube.com/watch?v=1XAfapkBQjk)
+- [@vídeo@Entendendo Exceções em Java](https://www.youtube.com/watch?v=W-N2ltgU-X4)
+- [@vídeo@Tratamento de Exceções em Java](https://www.youtube.com/watch?v=1XAfapkBQjk)

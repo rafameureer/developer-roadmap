@@ -1,8 +1,8 @@
-# Pass by Value / Pass by Reference
+# Passagem por Valor / Passagem por Referência
 
-Pass by value and pass by reference are two different ways of passing arguments to a function or method. In pass by value, a copy of the variable's value is passed to the function, so any changes made to the parameter inside the function do not affect the original variable. In pass by reference, a direct reference to the variable is passed, meaning that changes made to the parameter inside the function will directly affect the original variable.
+Passagem por valor e passagem por referência são duas maneiras diferentes de passar argumentos para uma função ou método. Na passagem por valor, uma cópia do valor da variável é passada para a função, então qualquer alteração feita ao parâmetro dentro da função não afeta a variável original. Na passagem por referência, uma referência direta à variável é passada, o que significa que qualquer alteração feita ao parâmetro dentro da função afetará diretamente a variável original.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Java is Pass-by-Value, Not Pass-by-Reference](https://www.baeldung.com/java-pass-by-value-or-pass-by-reference)
-- [@article@Is Java "pass-by-reference" or "pass-by-value"?](https://stackoverflow.com/questions/40480/is-java-pass-by-reference-or-pass-by-value)
+- [@artigo@Java é Pass-by-Value, Não Pass-by-Reference](https://www.baeldung.com/java-pass-by-value-or-pass-by-reference)
+- [@artigo@É Java "pass-by-reference" ou "pass-by-value"?](https://stackoverflow.com/questions/40480/is-java-pass-by-reference-or-pass-by-value)

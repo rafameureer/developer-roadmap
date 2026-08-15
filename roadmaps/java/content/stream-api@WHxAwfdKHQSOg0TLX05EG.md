@@ -1,9 +1,9 @@
 # Streams
 
-Java provides a new additional package in Java 8 called java.util.stream. This package consists of classes, interfaces and enum to allows functional-style operations on the elements. You can use stream by importing java.util.stream package.
+Java introduziu um novo pacote adicional chamado java.util.stream na versão 8 do Java. Este pacote consiste em classes, interfaces e enum para permitir operações funcionais nos elementos. Você pode usar stream importando o pacote java.util.stream.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@The Java 8 Stream API Tutorial](https://www.baeldung.com/java-8-streams)
-- [@video@Streams API Tutorial in Java 8+](https://www.youtube.com/watch?v=VNovNwHr9jY)
-- [@video@Java 8 Streams Tutorial](https://www.youtube.com/watch?v=t1-YZ6bF-g0)
+- [@article@Tutorial da API Stream do Java 8](https://www.baeldung.com/java-8-streams)
+- [@video@Tutorial da API Stream em Java 8+](https://www.youtube.com/watch?v=VNovNwHr9jY)
+- [@video@Tutorial de Streams no Java 8](https://www.youtube.com/watch?v=t1-YZ6bF-g0)

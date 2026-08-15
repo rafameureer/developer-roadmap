@@ -1,10 +1,10 @@
-# Loops
+# Laços
 
-In Java and other programming languages, loops are used to iterate a part of the program several times. There are four types of loops in Java, `for`, `forEach`, `while`, and `do...while`.
+Em Java e em outras linguagens de programação, os laços são usados para iterar uma parte do programa várias vezes. Existem quatro tipos de laços em Java: `for`, `forEach`, `while` e `do...while`.
 
-*   Syntax of `for` loop is `for(initialization;condition;increment/decrement){}`
-*   Syntax of `forEach` loop is `for(data_type variable:array_name){}`
+*   A sintaxe do laço `for` é `for(inicialização;condição;incremento/decremento){}`
+*   A sintaxe do laço `forEach` é `for(tipo_de_dados variável:nome_do_array){}`
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Loops in Java.](https://www.programiz.com/java-programming/for-loop)
+- [@artigo@Laços em Java.](https://www.programiz.com/java-programming/for-loop)

@@ -1,7 +1,7 @@
-# I/O Operations
+# Operações de E/S
 
-I/O Operations, short for Input/Output Operations, deal with how a program interacts with the outside world. This involves reading data from sources like files, network connections, or the keyboard, and writing data to destinations such as files, the console, or network sockets. Essentially, it's the mechanism by which a program receives information and sends results.
+Operações de E/S, ou Input/Output Operations em português, lidam com como um programa interage com o mundo exterior. Isso envolve ler dados de fontes como arquivos, conexões de rede ou teclado, e escrever dados para destinos como arquivos, a consola ou soquetes de rede. Em essência, é o mécanismo pelo qual um programa recebe informações e envia resultados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Java IO Tutorial](https://jenkov.com/tutorials/java-io/index.html)
+- [@artigo@Tutorial de E/S em Java](https://jenkov.com/tutorials/java-io/index.html)

@@ -1,8 +1,8 @@
-# Testng
+# TestNG
 
-TestNG is a testing framework inspired from JUnit and NUnit but introducing some new functionalities that make it more powerful and easier to use.
+TestNG é um framework de teste inspirado em JUnit e NUnit, mas introduzindo algumas novas funcionalidades que o tornam mais poderoso e fácil de usar.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Testng](https://testng.org)
 - [@official@Testng Documentation](https://testng.org/doc/documentation-main.html)

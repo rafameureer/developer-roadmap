@@ -1,8 +1,8 @@
-# Functional Composition
+# Composição Funcional
 
-Functional composition is the process of combining two or more functions to produce a new function. The resulting function applies each function in order, passing the output of one function as the input to the next. This allows you to build complex operations by chaining together simpler, reusable functions.
+A composição funcional é o processo de combinar duas ou mais funções para produzir uma nova função. A função resultante aplica cada função em ordem, passando a saída de uma função como entrada para a próxima. Isso permite que você construa operações complexas encadeando juntas funções simples e reutilizáveis.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Functional Composition in Java](https://jenkov.com/tutorials/java-functional-programming/functional-composition.html)
-- [@article@Java Functional Programming](https://www.baeldung.com/java-functional-programming)
+- [@artigo@Composição Funcional no Java](https://jenkov.com/tutorials/java-functional-programming/functional-composition.html)
+- [@artigo@Programação Funcional em Java](https://www.baeldung.com/java-functional-programming)

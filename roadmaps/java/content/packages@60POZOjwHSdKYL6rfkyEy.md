@@ -1,9 +1,9 @@
-# Packages
+# Pacotes
 
-A package is a namespace that mainly contains classes and interfaces. For instance, the standard class `ArrayList` is in the package `java.util`. For this class, `java.util.ArrayList` is called its fully qualified name because this syntax has no ambiguity. Classes in different packages can have the same name. For example, you have the two classes `java.util.Date` and `java.sql.Date`, which are different. If no package is declared in a class, its package is the default package.
+Um pacote é um namespace que principalmente contém classes e interfaces. Por exemplo, a classe padrão `ArrayList` está no pacote `java.util`. Para essa classe, `java.util.ArrayList` é chamado de nome qualificado completo porque esta sintaxe não tem ambiguidade. Classes em diferentes pacotes podem ter o mesmo nome. Por exemplo, você tem as duas classes `java.util.Date` e `java.sql.Date`, que são diferentes. Se nenhuma declaração de pacote for feita em uma classe, seu pacote será o pacote padrão.
 
-To create package use this command -> javac -d directory javafilename
+Para criar um pacote use este comando -> javac -d diretório nome_do_arquivo.java
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Packages in Java](https://docs.oracle.com/javase/8/docs/api/java/lang/Package.html)
+- [@artigo@Pacotes em Java](https://docs.oracle.com/javase/8/docs/api/java/lang/Package.html)

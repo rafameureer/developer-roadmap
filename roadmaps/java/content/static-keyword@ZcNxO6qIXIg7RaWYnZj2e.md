@@ -1,9 +1,9 @@
-# Static Keyword
+# Palavra-chave Static
 
-The `static` keyword in Java is used to create members (variables and methods) that belong to the class itself, rather than to any specific instance of the class. This means there's only one copy of a static variable shared by all objects of that class, and you can access static members directly using the class name without needing to create an object. Static methods can only access static variables and call other static methods.
+A palavra-chave `static` em Java é usada para criar membros (variáveis e métodos) que pertencem à própria classe, em vez de qualquer instância específica da classe. Isso significa que há apenas uma cópia compartilhada de uma variável estática por todos os objetos daquela classe, e você pode acessar membros estáticos diretamente usando o nome da classe sem a necessidade de criar um objeto. Métodos estáticos podem acessar apenas variáveis estáticas e chamar outros métodos estáticos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Java Static Keyword Explained With Examples](https://www.freecodecamp.org/news/java-static-keyword-explained/)
-- [@article@Static and Non-static Fields in Java](https://jenkov.com/tutorials/java/fields.html#static-and-non-static-fields)
-- [@article@Guide to the Java 'static' Keyword](https://www.baeldung.com/java-static)
+- [@artigo@Explicação sobre a Palavra-chave Static em Java com Exemplos](https://www.freecodecamp.org/news/java-static-keyword-explained/)
+- [@artigo@Campos Estáticos e Não-Estáticos em Java](https://jenkov.com/tutorials/java/fields.html#static-and-non-static-fields)
+- [@artigo@Guia sobre a Palavra-chave 'static' em Java](https://www.baeldung.com/java-static)

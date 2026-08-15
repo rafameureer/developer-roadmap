@@ -1,7 +1,7 @@
-# High Order Functions
+# Funções de Primeira Ordem
 
-High Order Functions are functions that can either accept other functions as arguments or return functions as their results. This capability allows for more flexible and reusable code by enabling you to abstract over operations. Essentially, you can pass behavior as data, making your code more dynamic and adaptable to different situations.
+Funções de Primeira Ordem são funções que podem aceitar outras funções como argumentos ou retornar funções como seus resultados. Essa capacidade permite um código mais flexível e reutilizável ao permitir que você abstraia sobre operações. Basicamente, você pode passar comportamentos como dados, tornando seu código mais dinâmico e adaptável a diferentes situações.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@article@Java High Order Functions](https://jenkov.com/tutorials/java-functional-programming/higher-order-functions.html)
+- [@article@Funções de Primeira Ordem em Java](https://jenkov.com/tutorials/java-functional-programming/higher-order-functions.html)

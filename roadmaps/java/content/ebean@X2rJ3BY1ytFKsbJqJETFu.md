@@ -1,9 +1,9 @@
 # Ebean
 
-Ebean is an object-relational mapping tool written in Java. It supports the standard JPA annotations for declaring entities. However, it provides a much simpler API for persisting. In fact, one of the points worth mentioning about the Ebean architecture is that it is sessionless, meaning it does not fully manage entities.
+Ebean é uma ferramenta de mapeamento objeto-relacional escrita em Java. Ele suporta as anotações padrão JPA para declarar entidades. No entanto, ele fornece uma API muito mais simples para persistência. Na verdade, um dos pontos valiosos a serem mencionados sobre a arquitetura Ebean é que ela é sem sessão, o que significa que não gerencia completamente as entidades.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Ebean](https://ebean.io/)
-- [@official@Ebean Documentation](https://ebean.io/docs/)
-- [@article@Guide to Ebean](https://www.baeldung.com/ebean-orm)
+- [@oficial@Ebean](https://ebean.io/)
+- [@oficial@Documentação do Ebean](https://ebean.io/docs/)
+- [@artigo@Guia de Ebean](https://www.baeldung.com/ebean-orm)

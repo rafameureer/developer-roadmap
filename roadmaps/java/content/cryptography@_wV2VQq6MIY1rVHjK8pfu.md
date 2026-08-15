@@ -1,8 +1,8 @@
-# Cryptography
+# Criptografia
 
-Cryptography is the practice and study of techniques for secure communication in the presence of adversaries. It involves converting readable data (plaintext) into an unreadable format (ciphertext) through encryption, and then converting the ciphertext back into plaintext through decryption. Cryptography uses algorithms and keys to ensure confidentiality, integrity, authentication, and non-repudiation of information.
+Criptografia é a prática e estudo de técnicas para comunicação segura no presença de adversários. Ela envolve converter dados legíveis (texto plano) em um formato não legível (cifrado) através da criptografia, e depois convertendo o cifrado de volta para texto plano através da descriptografia. Criptografia usa algoritmos e chaves para garantir a confidencialidade, integridade, autenticação e non-repudiação de informações.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Java Cryptography Tutorial](https://jenkov.com/tutorials/java-cryptography/index.html)
-- [@video@Cryptography 101 for Java developers](https://www.youtube.com/watch?v=itmNhVckTPc)
+- [@artigo@Tutorial de Criptografia em Java](https://jenkov.com/tutorials/java-cryptography/index.html)
+- [@vídeo@Criptografia 101 para desenvolvedores Java](https://www.youtube.com/watch?v=itmNhVckTPc)

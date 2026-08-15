@@ -1,12 +1,12 @@
-# Basic Syntax
+# Sintaxe Básica
 
-Understanding the basics is the key to a solid foundation. In this section, learn the basic terminologies, naming conventions, reserved keywords, expressions, statements, data structures, OOP, packages, etc.
+Entender os fundamentos é a chave para uma base sólida. Nesta seção, aprenda as terminologias básicas, convenções de nomenclatura, palavras-chave reservadas, expressões, declarações, estruturas de dados, OOP, pacotes, etc.
 
-*   To print output use --> System.out.println();
-*   To take input from user --> Scanner or BufferedReader class can be used
+*   Para imprimir saída use --> System.out.println();
+*   Para obter entrada do usuário --> A classe Scanner ou BufferedReader pode ser usada
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Java Language Basics](https://dev.java/learn/language-basics)
-- [@video@Java - Basic Syntax](https://www.youtube.com/watch?v=81piDKqPxjQ)
-- [@video@Java Tutorial for Beginners](https://www.youtube.com/watch?v=RRubcjpTkks)
+- [@official@Básico da Linguagem Java](https://dev.java/learn/language-basics)
+- [@video@Java - Sintaxe Básica](https://www.youtube.com/watch?v=81piDKqPxjQ)
+- [@video@Tutorial Inicial do Java](https://www.youtube.com/watch?v=RRubcjpTkks)

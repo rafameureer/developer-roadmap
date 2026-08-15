@@ -1,12 +1,12 @@
-# Networking sockets
+# Sockets de Rede
 
-*   Java Networking is a concept of connecting two or more computing devices together so that we can share resources.
-*   Java socket programming provides facility to share data between different computing devices.
-*   A socket is one endpoint of a two-way communication link between two programs running on the network. A socket is bound to a port number so that the TCP layer can identify the application that data is destined to be sent to.
+*   A Networking em Java é um conceito de conectar dois ou mais dispositivos computacionais entre si, para que possamos compartilhar recursos.
+*   O programação de sockets em Java fornece a capacidade de compartilhar dados entre diferentes dispositivos computacionais.
+*   Um socket é um endpoint de uma conexão bidirecional entre dois programas em execução na rede. Um socket está vinculado a um número de porta para que a camada TCP possa identificar o aplicativo ao qual os dados devem ser enviados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@article@Sockets](https://docs.oracle.com/javase/tutorial/networking/sockets/index.html)
 - [@article@Java Networking](https://www.tutorialspoint.com/java/java_networking.htm)
-- [@video@What is Socket Programming?](https://youtu.be/BqBKEXLqdvI)
+- [@video@O que é Programação de Sockets?](https://youtu.be/BqBKEXLqdvI)
 - [@feed@Explore top posts about Networking](https://app.daily.dev/tags/networking?ref=roadmapsh)

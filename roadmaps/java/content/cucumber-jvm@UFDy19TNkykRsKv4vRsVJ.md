@@ -1,11 +1,11 @@
 # Cucumber JVM
 
-Cucumber is a testing tool that supports Behavior Driven Development (BDD). It offers a way to write tests that anybody can understand, regardless of their technical knowledge.
+Cucumber é uma ferramenta de teste que suporta Desenvolvimento Guiado por Comportamento (BDD). Ele oferece uma maneira de escrever testes que qualquer pessoa possa entender, independentemente do seu conhecimento técnico.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Cucumber](https://cucumber.io/)
-- [@official@Cucumber Documentation](https://cucumber.io/docs/cucumber/)
-- [@article@Cucumber-JVM for Java](https://automationpanda.com/2017/10/24/cucumber-jvm-for-java/)
-- [@video@Cucumber-JVM 5 with Enhanced Cucumber Expression](https://www.youtube.com/watch?v=jCzpxvAJoZM)
+- [@oficial@Cucumber](https://cucumber.io/)
+- [@oficial@Documentação do Cucumber](https://cucumber.io/docs/cucumber/)
+- [@artigo@Cucumber-JVM para Java](https://automationpanda.com/2017/10/24/cucumber-jvm-for-java/)
+- [@vídeo@Cucumber-JVM 5 com Expressão de Cucumber Aumentada](https://www.youtube.com/watch?v=jCzpxvAJoZM)
 - [@feed@Explore top posts about JVM](https://app.daily.dev/tags/jvm?ref=roadmapsh)

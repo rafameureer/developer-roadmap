@@ -1,8 +1,8 @@
-# Iterator
+# Iterador
 
-An Iterator is an object that enables you to traverse through a collection (like a List or Set) one element at a time. It provides a standard way to access elements sequentially without needing to know the underlying structure of the collection. You can use methods like `hasNext()` to check if there's a next element and `next()` to retrieve it.
+Um Iterador é um objeto que permite percorrer uma coleção (como uma Lista ou Conjunto) um elemento de cada vez. Ele fornece um modo padrão de acessar elementos sequencialmente, sem precisar saber a estrutura subjacente da coleção. Você pode usar métodos como `hasNext()` para verificar se há um próximo elemento e `next()` para recuperá-lo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Java Iterator Tutorial](https://jenkov.com/tutorials/java-collections/iterator.html)
-- [@article@Java Iterable Tutorial](https://jenkov.com/tutorials/java-collections/iterable.html)
+- [@artigo@Tutorial de Iterador em Java](https://jenkov.com/tutorials/java-collections/iterator.html)
+- [@artigo@Tutorial de Iterable em Java](https://jenkov.com/tutorials/java-collections/iterable.html)

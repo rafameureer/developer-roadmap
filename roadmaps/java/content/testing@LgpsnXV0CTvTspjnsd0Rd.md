@@ -1,9 +1,9 @@
-# Testing
+# Testes
 
-A key to building software that meets requirements without defects is testing. Software testing helps developers know they are building the right software. When tests are run as part of the development process (often with continuous integration tools), they build confidence and prevent regressions in the code.
+A chave para construir software que atenda aos requisitos sem defeitos é o teste. O teste de software ajuda os desenvolvedores a saberem se estão construindo o software certo. Quando os testes são executados como parte do processo de desenvolvimento (geralmente com ferramentas de integração contínua), eles criam confiança e previnem regressões no código.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Software Testing?](https://www.guru99.com/software-testing-introduction-importance.html)
-- [@article@Testing Pyramid](https://www.browserstack.com/guide/testing-pyramid-for-test-automation)
-- [@feed@Explore top posts about Java](https://app.daily.dev/tags/java?ref=roadmapsh)
+- [@article@O que é Teste de Software?](https://www.guru99.com/software-testing-introduction-importance.html)
+- [@article@Pirâmide de Testes](https://www.browserstack.com/guide/testing-pyramid-for-test-automation)
+- [@feed]Explore os melhores posts sobre Java</a>(https://app.daily.dev/tags/java?ref=roadmapsh)

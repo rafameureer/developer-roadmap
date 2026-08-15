@@ -1,15 +1,15 @@
-# Conditionals
+# Condicional
 
-Java has the following conditional statements:
+Java tem as seguintes instruções condicionais:
 
-*   Use `if` to specify a block of code to be executed, if a specified condition is true
-*   Use `else` to specify a block of code to be executed if the same condition is false
-*   Use `else if` to specify a new condition to test; if the first condition is false
-*   Use `switch` to specify many alternative blocks of code to be executed
-*   Use `?,:` operator to specify one line condition
+*   Use `if` para especificar um bloco de código a ser executado, se uma condição específica for verdadeira
+*   Use `else` para especificar um bloco de código a ser executado se a mesma condição for falsa
+*   Use `else if` para especificar uma nova condição a ser testada; se a primeira condição for falsa
+*   Use `switch` para especificar muitos blocos alternativos de código a serem executados
+*   Use `?,:` operador para especificar uma condição em linha
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What are Conditional statements?](https://www.educative.io/answers/what-are-conditional-statements-in-programming)
-- [@video@Conditionals and Loops in Java](https://youtu.be/ldYLYRNaucM)
-- [@video@Switch Statements + Nested Case in Java](https://youtu.be/mA23x39DjbI)
+- [@artigo@O que são instruções condicionais?](https://www.educative.io/answers/what-are-conditional-statements-in-programming)
+- [@vídeo@Condicional e Loops em Java](https://youtu.be/ldYLYRNaucM)
+- [@vídeo@Switch Statements + Nested Case em Java](https://youtu.be/mA23x39DjbI)

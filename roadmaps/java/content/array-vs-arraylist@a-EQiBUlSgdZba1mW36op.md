@@ -1,8 +1,8 @@
 # Array vs ArrayList
 
-Arrays and ArrayLists are both ways to store collections of elements in Java. An array is a fixed-size, ordered sequence of elements of the same data type. Once you declare its size, you cannot change it. An ArrayList, on the other hand, is a dynamic, resizable array implementation. It can grow or shrink as needed, allowing you to add or remove elements without worrying about the initial size.
+Arrays e ArrayLists são ambos métodos para armazenar coleções de elementos em Java. Um array é uma sequência ordenada fixa de elementos do mesmo tipo de dados. Uma vez que você declara seu tamanho, não pode alterá-lo. Por outro lado, um ArrayList é uma implementação dinâmica e redimensionável de um array. Ele pode crescer ou diminuir conforme necessário, permitindo-lhe adicionar ou remover elementos sem se preocupar com o tamanho inicial.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Java Arrays](https://jenkov.com/tutorials/java/arrays.html)
-- [@article@Java ArrayLists](https://jenkov.com/tutorials/java-collections/list.html)
+- [@article@Arrays em Java](https://jenkov.com/tutorials/java/arrays.html)
+- [@article@ArrayLists em Java](https://jenkov.com/tutorials/java-collections/list.html)

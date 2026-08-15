@@ -1,13 +1,13 @@
 # ORM (Object-Relational Mapping)
 
-A programming method to map objects in Java to relational entities in a database. In other words, converting data between relational databases and object-oriented programming languages. Some popular ORM tools/frameworks in Java are:
+Um método de programação para mapear objetos em Java a entidades relacionais em um banco de dados. Em outras palavras, converter dados entre bancos de dados relacionais e linguagens de programação orientadas a objetos. Alguns dos principais ferramentas/frameworks ORM em Java são:
 
 *   Spring Data JPA
 *   Hibernate
 *   Ebean
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@article@ORM tutorial](https://www.altexsoft.com/blog/object-relational-mapping/)
-- [@article@Java Databases: An Overview of Libraries & APIs](https://www.marcobehler.com/guides/java-databases)
-- [@feed@Explore top posts about Java](https://app.daily.dev/tags/java?ref=roadmapsh)
+- [@article@Tutorial ORM](https://www.altexsoft.com/blog/object-relational-mapping/)
+- [@article@Uma Visão Geral de Bibliotecas & APIs em Java](https://www.marcobehler.com/guides/java-databases)
+- [@feed@Explore os melhores posts sobre Java](https://app.daily.dev/tags/java?ref=roadmapsh)

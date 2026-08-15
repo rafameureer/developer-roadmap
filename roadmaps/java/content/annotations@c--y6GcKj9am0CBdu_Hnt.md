@@ -1,7 +1,7 @@
-# Annotations
+# Anotações
 
-Annotations are a form of metadata that provide data about a program. They are used to provide supplemental information about the code, but they are not a part of the program itself. Annotations can be used by the compiler to detect errors or suppress warnings, and they can also be used at runtime to modify the behavior of the program.
+As anotações são uma forma de metadados que fornecem dados sobre um programa. Elas são usadas para fornecer informações suplementares sobre o código, mas não fazem parte do próprio programa. As anotações podem ser usadas pelo compilador para detectar erros ou suprimir avisos, e também podem ser usadas em tempo de execução para modificar o comportamento do programa.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Java Annotations Tutorial](https://jenkov.com/tutorials/java/annotations.html)
+- [@tutorial@Tutorial sobre Anotações em Java](https://jenkov.com/tutorials/java/annotations.html)

@@ -1,10 +1,10 @@
 # Log4j2
 
-Apache Log4j is a Java-based logging utility. Log4j Java library's role is to log information that helps applications run smoothly, determine what's happening, and help with the debugging process when errors occur. Logging libraries typically write down messages to the log file or a database.
+O Apache Log4j é uma utilidade de registro baseada em Java. O papel da biblioteca Java do Log4j é registrar informações que ajudam as aplicações a funcionar suavemente, determinar o que está acontecendo e auxiliar no processo de depuração quando ocorrem erros. As bibliotecas de registro geralmente escrevem mensagens em um arquivo de log ou um banco de dados.
 
-Log4j2 is the updated version of the popular and influential log4j library, used extensively throughout the Java ecosystem for so many years. Version 2. x keeps all the logging features of its predecessor and builds on that foundation with some significant improvements, especially in the area of performance.
+O Log4j2 é a versão atualizada da popular e influente biblioteca Log4j, amplamente utilizada na ecossistema Java por muitos anos. A versão 2.x mantém todas as funcionalidades de registro de seu antecessor e constrói sobre essa base com algumas melhorias significativas, especialmente em relação à área de desempenho.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Official Website](https://logging.apache.org/log4j/2.x/manual/configuration.html)
-- [@article@Log4j explained: Everything you need to know](https://www.techtarget.com/whatis/feature/Log4j-explained-Everything-you-need-to-know)
+- [@article@Site Oficial](https://logging.apache.org/log4j/2.x/manual/configuration.html)
+- [@article@Log4j explicado: Tudo o que você precisa saber](https://www.techtarget.com/whatis/feature/Log4j-explained-Everything-you-need-to-know)

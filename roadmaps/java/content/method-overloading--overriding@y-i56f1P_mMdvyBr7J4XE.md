@@ -1,8 +1,8 @@
-# Method Overloading and Overriding
+# Sobrecarga e Sobreposição de Métodos
 
-Method overloading allows you to define multiple methods in the same class with the same name but different parameters (different number, types, or order of parameters). Method overriding, on the other hand, occurs when a subclass provides a specific implementation for a method that is already defined in its superclass. The method signature (name and parameters) must be the same in both the superclass and the subclass for overriding to occur.
+A sobrecarga de métodos permite definir vários métodos na mesma classe com o mesmo nome, mas parâmetros diferentes (número diferente, tipos ou ordem dos parâmetros). A sobreposição de métodos ocorre quando uma subclasse fornece uma implementação específica para um método que já está definido em sua superclasse. A assinatura do método (nome e parâmetros) deve ser a mesma tanto na superclasse quanto na subclasse para a sobreposição ocorrer.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para saber mais:
 
-- [@article@Overriding vs Overloading in Java](https://www.digitalocean.com/community/tutorials/overriding-vs-overloading-in-java)
-- [@article@Java Inheritance Tutorial](https://jenkov.com/tutorials/java/inheritance.html)
+- [@article@Sobreposição vs Sobrecarga em Java](https://www.digitalocean.com/community/tutorials/overriding-vs-overloading-in-java)
+- [@article@Tutorial de Herança em Java](https://jenkov.com/tutorials/java/inheritance.html)

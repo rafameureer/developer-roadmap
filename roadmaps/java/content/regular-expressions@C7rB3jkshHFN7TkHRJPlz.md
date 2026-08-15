@@ -1,7 +1,7 @@
-# Regular Expressions
+# Expressões Regulares
 
-Regular expressions, often shortened to "regex," are sequences of characters that define a search pattern. These patterns are used to match character combinations in strings. They can be used to search, edit, or manipulate text and data. Regular expressions provide a powerful and flexible way to work with text-based data.
+As expressões regulares, frequentemente abreviadas como "regex," são sequências de caracteres que definem um padrão de pesquisa. Esses padrões são usados para corresponder combinações de caracteres em strings. Eles podem ser usados para pesquisar, editar ou manipular texto e dados. As expressões regulares oferecem uma maneira poderosa e flexível de trabalhar com dados baseados em texto.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Java Regular Expressions Tutorial](https://jenkov.com/tutorials/java-regex/index.html)
+- [@artigo@Tutorial de Expressões Regulares em Java](https://jenkov.com/tutorials/java-regex/index.html)

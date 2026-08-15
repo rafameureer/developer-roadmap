@@ -1,10 +1,10 @@
 # Play Framework
 
-Play Framework is a high-productivity web application framework that allows the model-view-controller pattern. It is written in Scala but can also be used for other programming languages that are compiled and run on the JVM. e.g.Java.
+Play Framework é um framework de aplicativos web de alta produtividade que permite o padrão modelo-exibição-controlador. Ele está escrito em Scala, mas também pode ser usado para outras linguagens de programação que são compiladas e executadas na JVM. Ex: Java.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Play Framework Website](https://www.playframework.com/)
-- [@article@What is Play Framework?](https://en.wikipedia.org/wiki/Play_Framework)
-- [@article@Intro to Play Framework](https://www.baeldung.com/java-intro-to-the-play-framework)
-- [@video@Introduction to Play Framework](https://youtu.be/bLrmnjPQsZc)
+- [@oficial@Site oficial do Play Framework](https://www.playframework.com/)
+- [@artigo@O que é o Play Framework?](https://en.wikipedia.org/wiki/Play_Framework)
+- [@artigo@Introdução ao Play Framework](https://www.baeldung.com/java-intro-to-the-play-framework)
+- [@vídeo@Introdução ao Play Framework](https://youtu.be/bLrmnjPQsZc)

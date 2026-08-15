@@ -1,8 +1,8 @@
-# Nested Classes
+# Classes Aninhadas
 
-Nested classes are classes defined inside another class. The class that contains the inner class is known as the outer class. Nested classes can access members of the outer class, even if they are declared private. They are a way to logically group classes that are only used in one place, increasing encapsulation and maintainability.
+Classes aninhadas são classes definidas dentro de outra classe. A classe que contém a classe interna é conhecida como a classe externa. As classes aninhadas podem acessar membros da classe externa, mesmo se eles forem declarados privados. Elas são uma maneira de agrupar logicamente as classes que são usadas em apenas um lugar, aumentando a encapsulação e a manutenibilidade.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Java Nested Classes](https://jenkov.com/tutorials/java/nested-classes.html)
-- [@article@Guide to Nested Classes in Java](https://www.baeldung.com/java-nested-classes)
+- [@article@Classes Aninhadas em Java](https://jenkov.com/tutorials/java/nested-classes.html)
+- [@article@Guia sobre Classes Aninhadas no Java](https://www.baeldung.com/java-nested-classes)

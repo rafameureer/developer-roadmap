@@ -1,8 +1,8 @@
 # Interfaces
 
-An interface in Java is a blueprint of a class. It specifies a set of methods that a class must implement if it claims to implement the interface. Think of it as a contract: any class that "signs" the contract (implements the interface) agrees to provide specific behaviors (methods). Interfaces can also contain constants (static final variables). They help achieve abstraction and multiple inheritance in Java.
+Uma interface em Java é um esboço de uma classe. Ela especifica um conjunto de métodos que uma classe deve implementar se ela afirma que implementa a interface. Pense nisso como um contrato: qualquer classe que "se inscreva" no contrato (implementando a interface) concorda em fornecer comportamentos específicos (métodos). Interfaces também podem conter constantes (variáveis estáticas finais). Elas ajudam a alcançar abstração e múltiplo herança em Java.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Interfaces in Java](https://jenkov.com/tutorials/java/interfaces.html)
-- [@article@A Guide to Java Interfaces](https://www.baeldung.com/java-interfaces)
+- [@artigo@Interfaces em Java](https://jenkov.com/tutorials/java/interfaces.html)
+- [@artigo@Guia sobre Interfaces em Java](https://www.baeldung.com/java-interfaces)

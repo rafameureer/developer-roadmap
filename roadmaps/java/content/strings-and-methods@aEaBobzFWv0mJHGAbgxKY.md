@@ -1,7 +1,7 @@
-# Strings and Methods
+# Strings e Métodos
 
-Strings are sequences of characters, like words or sentences, used to represent text in programming. Methods are actions you can perform on these strings, such as finding their length, changing their case (uppercase or lowercase), or extracting parts of them. These methods allow you to manipulate and work with text data effectively.
+As strings são sequências de caracteres, como palavras ou frases, usadas para representar texto em programação. Os métodos são ações que você pode realizar nessas strings, como encontrar seu comprimento, alterar seu caso (maiúsculo ou minúsculo) ou extrair partes delas. Esses métodos permitem manipular e trabalhar com dados de texto de forma eficaz.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@article@Java Strings](https://jenkov.com/tutorials/java/strings.html)

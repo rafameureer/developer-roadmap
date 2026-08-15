@@ -1,8 +1,8 @@
 # Dequeue
 
-A Dequeue (pronounced "dee-queue") is a double-ended queue, a data structure that allows you to add and remove elements from both the front (head) and the back (tail) of the queue. Unlike a regular queue (FIFO - First-In, First-Out), a dequeue provides flexibility for both FIFO and LIFO (Last-In, First-Out) operations. This makes it useful for implementing various algorithms and data management tasks where elements need to be accessed or modified from either end.
+Um Dequeue (pronunciado "dee-queue") é uma fila dupla-fim, uma estrutura de dados que permite adicionar e remover elementos tanto do início (cabeça) quanto do final (cauda) da fila. Diferentemente de uma fila regular (FIFO - Primeiro-A Entrar, Primeiro-Sair), um dequeue oferece flexibilidade para operações FIFO e LIFO (Último-A Entrar, Primeiro-Sair). Isso o torna útil para implementar vários algoritmos e tarefas de gerenciamento de dados onde elementos precisam ser acessados ou modificados por qualquer uma das extremidades.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Java Deque Tutorial](https://jenkov.com/tutorials/java-collections/deque.html)
-- [@article@Java Deque](https://www.programiz.com/java-programming/deque)
+- [@artigo@Tutorial de Deque em Java](https://jenkov.com/tutorials/java-collections/deque.html)
+- [@artigo@Deque em Java](https://www.programiz.com/java-programming/deque)

@@ -1,8 +1,8 @@
-# Record
+# Registro
 
-A record is a special type of class in Java that is designed to hold immutable data. It automatically generates methods like `equals()`, `hashCode()`, and `toString()` based on the components declared in its header, reducing boilerplate code. Records are useful for creating data transfer objects (DTOs) or simple data aggregates where the primary purpose is to store and access data.
+Um registro é um tipo especial de classe em Java projetada para armazenar dados imutáveis. Ele gera automaticamente métodos como `equals()`, `hashCode()` e `toString()` com base nos componentes declarados no cabeçalho, reduzindo o código boilerplate. Registros são úteis para criar objetos de transferência de dados (DTOs) ou agregados de dados simples onde a principal finalidade é armazenar e acessar dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@article@Java Records](https://jenkov.com/tutorials/java/record.html)
 - [@video@Java Records](https://www.youtube.com/watch?v=xs7DiEIHW0U)

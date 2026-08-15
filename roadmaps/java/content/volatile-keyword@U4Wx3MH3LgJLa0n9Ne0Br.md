@@ -1,8 +1,8 @@
-# Volatile Keyword
+# Palavra-chave Volatile
 
-The `volatile` keyword in Java is a modifier that can be applied to instance variables. It ensures that all threads see the most up-to-date value of a variable. Without `volatile`, each thread might cache its own copy of the variable, leading to inconsistencies when multiple threads access and modify it concurrently. Using `volatile` forces the thread to read the variable's value directly from main memory, and write changes directly back to main memory, bypassing the thread's local cache.
+A palavra-chave `volatile` em Java é um modificador que pode ser aplicado a variáveis de instância. Ela garante que todas as threads vejam o valor mais atual da variável. Sem `volatile`, cada thread pode cachear sua própria cópia da variável, levando a inconsistências quando múltiplas threads acessam e modificam-a simultaneamente. Usar `volatile` força a thread a ler o valor da variável diretamente da memória principal e escrever as alterações diretamente de volta à memória principal, evitando o cache local da thread.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Java Volatile Keyword](https://jenkov.com/tutorials/java-concurrency/volatile.html)
-- [@article@Guide to the Volatile Keyword in Java](https://www.baeldung.com/java-volatile)
+- [@artigo@Java Volatile Keyword](https://jenkov.com/tutorials/java-concurrency/volatile.html)
+- [@artigo@Guia sobre a Palavra-chave Volatile em Java](https://www.baeldung.com/java-volatile)

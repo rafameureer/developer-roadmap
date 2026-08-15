@@ -1,10 +1,10 @@
 # Rest assured
 
-Testing and validating REST services in Java is harder than in dynamic languages such as Ruby and Groovy. REST Assured brings the simplicity of using these languages into the Java domain.
+Testar e validar serviços REST em Java é mais difícil do que em linguagens dinâmicas como Ruby e Groovy. O Rest Assured traz a simplicidade de usar essas linguagens para o domínio Java.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Rest-assured](https://rest-assured.io/)
-- [@opensource@Rest-assured Documentation](https://github.com/rest-assured/rest-assured/wiki)
-- [@article@A Guide to REST-assured](https://www.baeldung.com/rest-assured-tutorial)
-- [@feed@Explore top posts about REST API](https://app.daily.dev/tags/rest-api?ref=roadmapsh)
+- [@oficial@Rest-assured](https://rest-assured.io/)
+- [@opensource@Documentação do Rest-assured](https://github.com/rest-assured/rest-assured/wiki)
+- [@artigo@Guia sobre o Rest-assured](https://www.baeldung.com/rest-assured-tutorial)
+- [@feed@Explore os melhores posts sobre API REST](https://app.daily.dev/tags/rest-api?ref=roadmapsh)

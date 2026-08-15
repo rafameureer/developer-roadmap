@@ -1,7 +1,7 @@
-# Lambda Expressions
+# Expressões Lambda
 
-Lambda expressions are essentially short blocks of code that you can pass around to be executed. They allow you to treat functionality as a method argument, or code as data. Think of them as anonymous methods – methods without a name – that can be written directly in the place where they are needed, making your code more concise and readable, especially when dealing with functional interfaces.
+As expressões lambda são essencialmente blocos de código curtos que você pode passar para serem executados. Eles permitem tratar a funcionalidade como um argumento de método ou código como dados. Imagine-as como métodos anônimos – métodos sem nome – que podem ser escritos diretamente no local onde são necessários, tornando seu código mais conciso e legível, especialmente ao lidar com interfaces funcionais.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Java Lambda Expressions](https://jenkov.com/tutorials/java/lambda-expressions.html)
+- [@artigo@Expressões Lambda em Java](https://jenkov.com/tutorials/java/lambda-expressions.html)

@@ -1,8 +1,8 @@
 # Arrays
 
-Arrays are fundamental data structures used to store a collection of elements of the same data type in contiguous memory locations. They provide a way to organize and access multiple values using a single variable name and an index. Each element in an array can be accessed directly using its index, starting from 0.
+Arrays são estruturas de dados fundamentais usadas para armazenar uma coleção de elementos do mesmo tipo de dados em locações de memória contíguas. Eles fornecem uma maneira de organizar e acessar múltiplos valores usando um único nome de variável e um índice. Cada elemento em um array pode ser acessado diretamente usando seu índice, começando por 0.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Java Arrays](https://jenkov.com/tutorials/java/arrays.html)
-- [@video@Java Arrays Tutorial](https://www.youtube.com/watch?v=ei_4Nt7XWOw)
+- [@article@Arrays em Java](https://jenkov.com/tutorials/java/arrays.html)
+- [@video@Tutorial de Arrays em Java](https://www.youtube.com/watch?v=ei_4Nt7XWOw)

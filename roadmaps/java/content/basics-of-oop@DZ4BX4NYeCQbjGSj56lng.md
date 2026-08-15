@@ -1,7 +1,7 @@
-# Basics of OOP
+# Conceitos Básicos de OOP
 
-Object-Oriented Programming (OOP) is a programming paradigm centered around "objects," which contain data in the form of fields (attributes) and code in the form of procedures (methods). OOP focuses on creating reusable code by grouping related data and behavior into objects, allowing for modularity, abstraction, inheritance, and polymorphism. These concepts help in organizing and structuring code in a way that mirrors real-world entities and their interactions.
+Orientação a Objetos (OOP) é um paradigma de programação centrado em "objetos", que contêm dados na forma de campos (atributos) e código na forma de procedimentos (métodos). OOP se concentra em criar códigos reutilizáveis agrupando dados relacionados e comportamentos em objetos, permitindo a modularidade, abstração, herança e polimorfismo. Esses conceitos ajudam a organizar e estruturar o código de uma maneira que reflete entidades e interações do mundo real.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Java Classes and Objects](https://jenkov.com/tutorials/java/classes.html)
+- [@article@Java Classes e Objetos](https://jenkov.com/tutorials/java/classes.html)

@@ -1,7 +1,7 @@
-# Queue
+# Fila
 
-A queue is a fundamental data structure that follows the First-In, First-Out (FIFO) principle. Think of it like a line at a store: the first person to join the line is the first person to be served. Elements are added to the rear (enqueue) and removed from the front (dequeue) of the queue.
+Uma fila é uma estrutura de dados fundamental que segue o princípio First-In, First-Out (FIFO). Imagine uma fila em um supermercado: a primeira pessoa a entrar na fila é a primeira a ser atendida. Elementos são adicionados ao final da fila (enqueue) e removidos do início da fila (dequeue).
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@article@Java Queue](https://jenkov.com/tutorials/java-collections/queue.html)

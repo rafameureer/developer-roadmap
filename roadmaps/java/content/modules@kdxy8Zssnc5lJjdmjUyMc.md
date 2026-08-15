@@ -1,8 +1,8 @@
-# Modules
+# Módulos
 
-Modules in Java are a way to organize code into reusable and independent units. They provide a higher level of abstraction than packages, allowing you to control which parts of your code are exposed to other modules and which are kept private. This enhances encapsulation, improves security, and simplifies dependency management by explicitly declaring dependencies between modules.
+Módulos em Java são uma maneira de organizar o código em unidades reutilizáveis e independentes. Eles fornecem um nível mais alto de abstração do que pacotes, permitindo controlar quais partes do seu código são expostas a outros módulos e quais são mantidas privadas. Isso melhora a encapsulação, aumenta a segurança e simplifica o gerenciamento de dependências declarando explicitamente as dependências entre módulos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Java Modules](https://jenkov.com/tutorials/java/modules.html)
-- [@article@A Guide to Java 9 Modularity](https://www.baeldung.com/java-modularity)
+- [@article@Módulos em Java](https://jenkov.com/tutorials/java/modules.html)
+- [@article@Guia sobre a modularidade do Java 9](https://www.baeldung.com/java-modularity)

@@ -1,11 +1,11 @@
 # Gradle
 
-Gradle is an open-source build automation tool that helps software engineers to test, build, and release high-performance software products. In addition, Gradle also supports multi-language development. Currently, the supported languages for Gradle include Java, Kotlin, Groovy, Scala, C/C++, and JavaScript.
+Gradle é uma ferramenta de automação de construção de código-fonte aberta que ajuda engenheiros de software a testar, construir e lançar produtos de software de alto desempenho. Além disso, o Gradle também suporta desenvolvimento multi-linguagem. Atualmente, as línguas suportadas pelo Gradle incluem Java, Kotlin, Groovy, Scala, C/C++ e JavaScript.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Gradle](https://gradle.org/)
-- [@article@Building Spring Boot Projects with Gradle](https://www.baeldung.com/spring-boot-gradle-plugin)
-- [@video@Gradle Tutorial](https://youtu.be/kONQCIAcWeI)
-- [@video@Working with Gradle](https://youtu.be/6V6G3RyxEMk)
-- [@feed@Explore top posts about Gradle](https://app.daily.dev/tags/gradle?ref=roadmapsh)
+- [@oficial@Gradle](https://gradle.org/)
+- [@artigo@Construindo Projetos Spring Boot com o Gradle](https://www.baeldung.com/spring-boot-gradle-plugin)
+- [@vídeo@Tutorial do Gradle](https://youtu.be/kONQCIAcWeI)
+- [@vídeo@Trabalhando com o Gradle](https://youtu.be/6V6G3RyxEMk)
+- [@feed@Explore as melhores postagens sobre Gradle](https://app.daily.dev/tags/gradle?ref=roadmapsh)

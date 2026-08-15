@@ -1,3 +1,3 @@
-# Object Lifecycle
+# Ciclo de Vida do Objeto
 
-The object lifecycle refers to the series of stages an object goes through from its creation (allocation of memory) to its destruction (reclaiming of memory). These stages typically include object creation, initialization, usage, and eventual garbage collection when the object is no longer needed. Understanding this lifecycle is crucial for efficient memory management and preventing resource leaks.
+O ciclo de vida do objeto refere-se à série de estágios que um objeto passa desde sua criação (alocação de memória) até sua destruição (recuperação de memória). Esses estágios geralmente incluem a criação do objeto, inicialização, uso e eventual coleta de lixo quando o objeto não é mais necessário. Entender este ciclo de vida é crucial para o gerenciamento eficiente da memória e para evitar vazamentos de recursos.

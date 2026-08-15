@@ -1,7 +1,7 @@
-# Slf4j
+# SLF4J
 
-The SLF4J or the Simple Logging Facade for Java is an abstraction layer for various Java logging frameworks, like Log4j 2 or Logback. This allows for plugging different logging frameworks at deployment time without the need for code changes.
+O SLF4J ou Simple Logging Facade for Java é uma camada de abstração para vários frameworks de logging em Java, como Log4j 2 ou Logback. Isso permite a inserção de diferentes frameworks de logging no momento da implantação sem a necessidade de alterações de código.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Official Website](https://www.slf4j.org/)
+- [@article@Site Oficial](https://www.slf4j.org/)

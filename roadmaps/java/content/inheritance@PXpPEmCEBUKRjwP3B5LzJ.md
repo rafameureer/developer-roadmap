@@ -1,8 +1,8 @@
-# Inheritance
+# Herança
 
-Inheritance is a fundamental concept in object-oriented programming where a new class (called a subclass or derived class) acquires properties and behaviors from an existing class (called a superclass or base class). This allows for code reuse and the creation of hierarchical relationships between classes, promoting a more organized and maintainable codebase. The subclass can extend the superclass by adding new attributes and methods or overriding existing ones.
+A herança é um conceito fundamental na programação orientada a objetos, onde uma nova classe (chamada de subclasse ou classe derivada) adquire propriedades e comportamentos de uma classe existente (chamada de superclasse ou classe base). Isso permite o reuso de código e a criação de relações hierárquicas entre classes, promovendo um código mais organizado e manterável. A subclasse pode estender a superclasse adicionando novos atributos e métodos ou substituindo os existentes.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@article@Java Inheritance](https://jenkov.com/tutorials/java/inheritance.html)
-- [@article@Inheritance in Java with Example](https://www.digitalocean.com/community/tutorials/inheritance-java-example)
+- [@article@Herança em Java](https://jenkov.com/tutorials/java/inheritance.html)
+- [@article@Herança em Java com Exemplo](https://www.digitalocean.com/community/tutorials/inheritance-java-example)

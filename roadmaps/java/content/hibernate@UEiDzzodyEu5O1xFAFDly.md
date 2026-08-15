@@ -1,8 +1,8 @@
 # Hibernate
 
-Hibernate is an open source object-relational mapping tool that provides a framework to map object-oriented domain models to relational databases for web applications. Hibernate implements the specifications of JPA. Performance is key so Hibernate supports first-level and second-level caching
+Hibernate é uma ferramenta de mapeamento objeto-relacional de código aberto que fornece um quadro para mapear modelos de domínio orientados a objetos em bancos de dados relacionais para aplicativos web. O Hibernate implementa as especificações do JPA. A performance é crucial, então o Hibernate suporta caching de nível de primeiro e segundo nível.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
 - [@official@Hibernate](https://hibernate.org/)
-- [@article@Second-level caching explained](https://hazelcast.com/glossary/hibernate-second-level-cache/)
+- [@article@Caching em segundo nível explicado](https://hazelcast.com/glossary/hibernate-second-level-cache/)

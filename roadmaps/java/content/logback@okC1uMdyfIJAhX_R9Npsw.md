@@ -1,7 +1,7 @@
 # Logback
 
-Logback is one of the most widely used logging frameworks in the Java Community. It's a replacement for its predecessor, Log4j. Logback offers a faster implementation, provides more options for configuration, and more flexibility in archiving old log files.
+O Logback é um dos frameworks de registro mais amplamente utilizados na Comunidade Java. É uma substituição para seu antecessor, o Log4j. O Logback oferece uma implementação mais rápida, fornece mais opções para configuração e maior flexibilidade no arquivamento de arquivos de log antigos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Official Website](https://logback.qos.ch/manual/configuration.html)
+- [@article@Site Oficial](https://logback.qos.ch/manual/configuration.html)

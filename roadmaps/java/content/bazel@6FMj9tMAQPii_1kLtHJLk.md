@@ -1,9 +1,9 @@
 # Bazel
 
-Bazel is an open-source build and test tool similar to Make, Maven, and Gradle. It uses a human-readable, high-level build language. Bazel supports projects in multiple languages and builds outputs for multiple platforms. It's designed for fast, reliable, and reproducible builds, making it suitable for large codebases and complex projects.
+Bazel é uma ferramenta de construção e teste open-source semelhante a Make, Maven e Gradle. Ele usa um idioma de construção altamente legível e fácil de usar. Bazel suporta projetos em múltiplos idiomas e gera saídas para múltiplas plataformas. Foi projetado para construções rápidas, confiáveis e reproduzíveis, tornando-se adequada para grandes bases de código e projetos complexos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Getting started with Bazel](https://bazel.build/start)
-- [@article@Build Java Projects with Bazel](https://earthly.dev/blog/build-java-projects-with-bazel/)
-- [@article@Introduction to the Bazel Build Tool](https://www.baeldung.com/bazel-build-tool)
+- [@article@Começando com o Bazel](https://bazel.build/start)
+- [@article@Construindo Projetos Java com o Bazel](https://earthly.dev/blog/build-java-projects-with-bazel/)
+- [@article@Introdução ao Ferramenta de Construção Bazel](https://www.baeldung.com/bazel-build-tool)

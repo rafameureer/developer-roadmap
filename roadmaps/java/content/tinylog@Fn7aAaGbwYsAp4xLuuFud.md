@@ -1,8 +1,8 @@
 # Tinylog
 
-Tinylog is a lightweight open-source logging framework for Java and Android, optimized for ease of use.
+Tinylog é um framework de registro leve e de código aberto para Java e Android, otimizado para facilitar o uso.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Official Website](https://tinylog.org/v1/)
+- [@official@Site Oficial](https://tinylog.org/v1/)
 - [@official@TinyLog v2](https://tinylog.org/v2/)

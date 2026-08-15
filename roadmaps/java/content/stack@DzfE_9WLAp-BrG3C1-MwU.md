@@ -1,8 +1,8 @@
-# Stack
+# Pilha
 
-A stack is a fundamental data structure that follows the Last-In, First-Out (LIFO) principle. Imagine a stack of plates; you can only add or remove plates from the top. This means the last element added to the stack is the first one to be removed. Stacks are used to manage function calls, evaluate expressions, and implement undo/redo functionality.
+A pilha é uma estrutura de dados fundamental que segue o princípio Last-In, First-Out (LIFO). Imagine uma pilha de pratos; você pode adicionar ou remover pratos apenas do topo. Isso significa que o último elemento adicionado à pilha é o primeiro a ser removido. Pilhas são usadas para gerenciar chamadas de função, avaliar expressões e implementar funcionalidades de desfazer/refazer.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Java Stack Tutorial](https://jenkov.com/tutorials/java-collections/stack.html)
-- [@article@Guide to Java Stack](https://www.baeldung.com/java-stack)
+- [@artigo@Tutorial sobre Pilha em Java](https://jenkov.com/tutorials/java-collections/stack.html)
+- [@artigo@Guia sobre Pilha em Java](https://www.baeldung.com/java-stack)

@@ -1,8 +1,8 @@
-# Final Keyword
+# Palavra-chave Final
 
-The `final` keyword in Java is a non-access modifier used to apply restrictions on a variable, method, or class. When applied to a variable, it makes the variable's value constant after initialization. When applied to a method, it prevents the method from being overridden in a subclass. When applied to a class, it prevents the class from being subclassed (inherited).
+A palavra-chave `final` no Java é um modificador não de acesso usado para aplicar restrições em uma variável, método ou classe. Quando aplicada a uma variável, torna o valor da variável constante após a inicialização. Quando aplicada a um método, impede que o método seja sobrescrito em uma subclasse. Quando aplicada a uma classe, impede que a classe seja subclassificada (herdada).
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Java Final Keyword](https://www.baeldung.com/java-final)
-- [@article@How does the final keyword in Java work? I can still modify an object](https://stackoverflow.com/questions/15655012/how-does-the-final-keyword-in-java-work-i-can-still-modify-an-object)
+- [@artigo@Palavra-chave Final no Java](https://www.baeldung.com/java-final)
+- [@artigo@Como funciona a palavra-chave final no Java? Eu ainda consigo modificar um objeto](https://stackoverflow.com/questions/15655012/how-does-the-final-keyword-in-java-work-i-can-still-modify-an-object)

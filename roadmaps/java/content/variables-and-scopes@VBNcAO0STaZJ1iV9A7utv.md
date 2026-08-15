@@ -1,8 +1,8 @@
-# Variables and Scopes
+# Variáveis e Escopos
 
-Variables are like containers that hold data in a program. Each variable has a name, a type (like integer, text, or boolean), and a value. The scope of a variable determines where in your code you can access and use that variable. Understanding scope is crucial to avoid naming conflicts and ensure data is accessed correctly within different parts of your program.
+As variáveis são como recipientes que armazenam dados em um programa. Cada variável tem um nome, um tipo (como inteiro, texto ou booleano) e um valor. O escopo de uma variável determina onde no seu código você pode acessar e usar aquela variável. Entender o escopo é crucial para evitar conflitos de nomes e garantir que os dados sejam acessados corretamente em diferentes partes do seu programa.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Java Variables](https://jenkov.com/tutorials/java/variables.html)
-- [@article@Java Variable Scope](https://www.baeldung.com/java-variable-scope)
+- [@article@Variáveis em Java](https://jenkov.com/tutorials/java/variables.html)
+- [@article@Escopo de Variável em Java](https://www.baeldung.com/java-variable-scope)

@@ -1,8 +1,8 @@
-# Method Chaining
+# Encadeamento de Métodos
 
-Method chaining is a programming technique where multiple method calls are made sequentially on the same object, one after another, in a single statement. Each method in the chain returns an object, allowing the next method to be called on that returned object. This approach enhances code readability and conciseness by reducing the need for temporary variables and intermediate steps.
+O encadeamento de métodos é uma técnica de programação onde várias chamadas de método são feitas sequencialmente no mesmo objeto, um após o outro, em uma única declaração. Cada método na cadeia retorna um objeto, permitindo que o próximo método seja chamado nesse objeto retornado. Esse abordagem melhora a legibilidade e concisão do código reduzindo a necessidade de variáveis temporárias e passos intermediários.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para saber mais:
 
-- [@article@@GeeksforGeeks@Method Chaining In Java with Examples](https://www.geeksforgeeks.org/java/method-chaining-in-java-with-examples/)
-- [@article@How to achieve method chaining in Java](https://stackoverflow.com/questions/21180269/how-to-achieve-method-chaining-in-java)
+- [@article@GeeksforGeeks@Encadeamento de Métodos em Java com Exemplos](https://www.geeksforgeeks.org/java/method-chaining-in-java-with-examples/)
+- [@article@Como alcançar o encadeamento de métodos em Java](https://stackoverflow.com/questions/21180269/how-to-achieve-method-chaining-in-java)

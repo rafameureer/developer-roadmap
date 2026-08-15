@@ -1,8 +1,8 @@
-# Set
+# Conjunto (Set)
 
-A Set is a data structure that stores a collection of unique elements. This means that no duplicate values are allowed within a Set. Sets provide efficient ways to check for membership (if an element exists in the set) and perform operations like union, intersection, and difference.
+Um Conjunto é uma estrutura de dados que armazena uma coleção de elementos únicos. Isso significa que não são permitidos valores duplicados dentro de um Conjunto. Os Conjuntos oferecem maneiras eficientes de verificar a pertencência (se um elemento existe no conjunto) e realizar operações como união, interseção e diferença.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Java Set](https://jenkov.com/tutorials/java-collections/set.html)
-- [@article@Java Set Interface and Implementation](https://www.digitalocean.com/community/tutorials/java-set)
+- [@artigo@Conjunto em Java](https://jenkov.com/tutorials/java-collections/set.html)
+- [@artigo@Interface e Implementação do Conjunto em Java](https://www.digitalocean.com/community/tutorials/java-set)

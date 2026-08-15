@@ -1,8 +1,8 @@
-# Functional Interfaces
+# Interfaces Funcionais
 
-Functional interfaces are interfaces that contain only one abstract method. They can have multiple default or static methods, but only one method that needs to be implemented. These interfaces can be used with lambda expressions and method references, allowing for concise and readable code when dealing with single-method operations.
+As interfaces funcionais são interfaces que contêm apenas um método abstrato. Elas podem ter vários métodos padrão ou estáticos, mas apenas um método que precisa ser implementado. Essas interfaces podem ser usadas com expressões lambda e referências a métodos, permitindo código conciso e legível ao lidar com operações de único método.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Java Functional Interfaces](https://jenkov.com/tutorials/java-functional-programming/functional-interfaces.html)
-- [@article@Java Functional Interfaces](https://www.baeldung.com/java-8-functional-interfaces)
+- [@artigo@Interfaces Funcionais em Java](https://jenkov.com/tutorials/java-functional-programming/functional-interfaces.html)
+- [@artigo@Interfaces Funcionais em Java](https://www.baeldung.com/java-8-functional-interfaces)

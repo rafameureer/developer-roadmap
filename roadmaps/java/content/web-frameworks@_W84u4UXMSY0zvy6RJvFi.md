@@ -1,3 +1,3 @@
-# Web Frameworks
+# Estruturas Web
 
-Frameworks are tools with pre-written code, that act as a template or skeleton, which can be reused to create an application by simply filling with your code as needed which enables developers to program their application with no overhead of creating each line of code again and again from scratch.
+As estruturas web são ferramentas com código pré-escrito que atuam como um modelo ou esqueleto, que pode ser reutilizado para criar uma aplicação simplesmente preenchendo seu código conforme necessário. Isso permite aos desenvolvedores programar suas aplicações sem a sobrecarga de criar cada linha de código novamente e novamente do zero.

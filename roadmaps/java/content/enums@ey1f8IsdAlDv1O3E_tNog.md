@@ -1,8 +1,8 @@
-# Enums
+# Enumeradores (Enums)
 
-Enums, short for enumerations, are a special data type in Java that represent a group of named constants. They allow you to define a type that can only take on a specific set of predefined values. This makes your code more readable and less prone to errors by restricting the possible values a variable can hold.
+Os enumeradores, ou enums, são um tipo de dado especial em Java que representam um grupo de constantes nomeadas. Eles permitem definir um tipo que pode assumir apenas um conjunto específico de valores pré-definidos. Isso torna o código mais legível e menos propenso a erros restringindo os possíveis valores que uma variável pode conter.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Java Enums](https://jenkov.com/tutorials/java/enums.html)
-- [@article@Java Enums](https://www.programiz.com/java-programming/enums)
+- [@artigo@Enums em Java](https://jenkov.com/tutorials/java/enums.html)
+- [@artigo@Enums em Java](https://www.programiz.com/java-programming/enums)

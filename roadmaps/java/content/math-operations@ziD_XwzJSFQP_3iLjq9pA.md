@@ -1,7 +1,7 @@
-# Math Operations
+# Operações Matemáticas
 
-Math operations involve performing calculations using numbers. These operations include addition, subtraction, multiplication, division, and modulus (finding the remainder). They are fundamental building blocks for solving numerical problems and manipulating data in programming.
+As operações matemáticas envolvem realizar cálculos usando números. Essas operações incluem adição, subtração, multiplicação, divisão e módulo (encontrar o resto). Elas são blocos fundamentais para resolver problemas numéricos e manipular dados em programação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Java Math](https://jenkov.com/tutorials/java/math-operators-and-math-class.html)
+- [@artigo@Java Math](https://jenkov.com/tutorials/java/math-operators-and-math-class.html)

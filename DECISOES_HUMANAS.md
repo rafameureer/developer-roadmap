@@ -4,7 +4,7 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 
 ---
 
-> ⚠️ **Total de itens sinalizados:** 1089
+> ⚠️ **Total de itens sinalizados:** 1092
 
 | Arquivo / Tópico | Motivo da Sinalização | Data/Hora |
 |---|---|---|
@@ -1097,3 +1097,6 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 | `roadmaps/ios/content/version-control@sGnDm2xuJxqfU3pwmlY7H.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:18:52.409969 |
 | `roadmaps/ios/content/view-controllers@mfWdkUm1RhjygtMyInXiD.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:18:55.358006 |
 | `roadmaps/ios/content/xibs@RwvC4Pi18_1phcrJL-9iu.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:20:10.524260 |
+| `roadmaps/java/content/build-tools@81N1cZLue_Ii0uD5CV6kZ.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:20:56.829233 |
+| `roadmaps/java/content/classes-and-objects@LenPrQwxFsE1UVbXO_dE7.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:20:59.524849 |
+| `roadmaps/java/content/concurrency@shqS9-hg__mkOtnnl_I4l.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:21:03.547391 |

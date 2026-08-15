@@ -1,8 +1,8 @@
 # Type Casting
 
-Type casting is the process of converting a variable from one data type to another. This is often necessary when you need to perform operations between variables of different types, or when you need to store a value of one type in a variable of another type. In Java, type casting can be either implicit (automatic) or explicit (requiring a cast operator).
+O type casting é o processo de converter uma variável de um tipo de dados para outro. Isso é frequentemente necessário quando você precisa realizar operações entre variáveis de tipos diferentes, ou quando você precisa armazenar um valor de um tipo em uma variável de outro tipo. No Java, o type casting pode ser implícito (automático) ou explícito (requerendo um operador de cast).
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Type Casting in Java: Everything You Need to Know](https://www.simplilearn.com/tutorials/java-tutorial/type-casting-in-java)
-- [@article@Java Type Casting (With Examples)](https://www.programiz.com/java-programming/typecasting)
+- [@article@Type Casting em Java: Tudo o Que Você Precisa Saber](https://www.simplilearn.com/tutorials/java-tutorial/type-casting-in-java)
+- [@article@Type Casting em Java (Com Exemplos)](https://www.programiz.com/java-programming/typecasting)

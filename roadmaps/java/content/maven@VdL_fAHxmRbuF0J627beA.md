@@ -1,9 +1,9 @@
 # Maven
 
-Maven is an open-source build tool, used primarily for Java projects.
+Maven é uma ferramenta de construção open-source, usada principalmente para projetos Java.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para saber mais:
 
-- [@article@Getting started](https://maven.apache.org/guides/getting-started/)
-- [@article@Building Spring Projects with Maven](https://www.baeldung.com/spring-with-maven)
-- [@feed@Explore top posts about Maven](https://app.daily.dev/tags/maven?ref=roadmapsh)
+- [@article@Começando](https://maven.apache.org/guides/getting-started/)
+- [@article@Construindo Projetos Spring com Maven](https://www.baeldung.com/spring-with-maven)
+- [@feed@Explore as principais postagens sobre Maven](https://app.daily.dev/tags/maven?ref=roadmapsh)

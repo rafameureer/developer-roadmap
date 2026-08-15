@@ -1,14 +1,14 @@
 # Mocking
 
-Mocking removes external dependencies from a unit test to create a sense of an entire controlled environment. The traditional method of mocks involves mocking all other classes that interact with the class we want to test. The common targets for mocking are:
+Mocking remove as dependências externas de um teste unitário para criar uma sensação de um ambiente controlado inteiro. O método tradicional de mocks envolve mockar todas as outras classes que interagem com a classe que queremos testar. Os alvos comuns para mocking são:
 
-*   Database connections
-*   Web services
-*   Slow Classes
-*   Classes with side effects
-*   Classes with non-deterministic behavior
+*   Conexões de banco de dados
+*   Serviços web
+*   Classes lentas
+*   Classes com efeitos colaterais
+*   Classes com comportamento não determinístico
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Mockito - Mocking Framework for Java](https://site.mockito.org/)
+- [@article@Mockito - Framework de mocking para Java](https://site.mockito.org/)
 - [@feed@Explore top posts about Testing](https://app.daily.dev/tags/testing?ref=roadmapsh)

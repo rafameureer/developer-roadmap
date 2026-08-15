@@ -1,8 +1,8 @@
-# Optionals
+# Optionais
 
-Optionals are a container object that may or may not contain a non-null value. They are primarily used to represent the absence of a value, avoiding the need to return null, which can lead to NullPointerExceptions. Optionals provide methods to explicitly check if a value is present and to handle cases where a value is absent in a more controlled and readable manner.
+Optionais são um objeto contêiner que pode ou não conter um valor não nulo. Eles são principalmente usados para representar a ausência de um valor, evitando a necessidade de retornar null, o que pode levar a NullPointerExceptions. Os Optionals fornecem métodos para verificar explicitamente se um valor está presente e para lidar com casos em que um valor está ausente de uma maneira mais controlada e legível.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Guide To Optionals](https://www.baeldung.com/java-optional)
+- [@article@Guia sobre Optionais](https://www.baeldung.com/java-optional)
 - [@article@Java Optional](https://dzone.com/articles/optional-in-java)

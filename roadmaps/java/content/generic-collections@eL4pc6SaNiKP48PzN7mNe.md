@@ -1,8 +1,8 @@
-# Generics
+# Genéricos
 
-Java Generic methods and generic classes enable programmers to specify, with a single method declaration, a set of related methods, or with a single class declaration, a set of related types, respectively.
+Os métodos e classes genéricos em Java permitem que os programadores especifiquem, com uma única declaração de método, um conjunto de métodos relacionados, ou com uma única declaração de classe, um conjunto de tipos relacionados, respectivamente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Java - Generics](https://www.tutorialspoint.com/java/java_generics.htm)
-- [@video@Generics in Java](https://www.youtube.com/watch?v=XMvznsY02Mk)
+- [@artigo@Genéricos em Java](https://www.tutorialspoint.com/java/java_generics.htm)
+- [@vídeo@Genéricos em Java](https://www.youtube.com/watch?v=XMvznsY02Mk)

@@ -1,6 +1,6 @@
 # Quarkus
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Official Website](https://quarkus.io/)
+- [@official@Site Oficial](https://quarkus.io/)
 - [@feed@Explore top posts about Quarkus](https://app.daily.dev/tags/quarkus?ref=roadmapsh)

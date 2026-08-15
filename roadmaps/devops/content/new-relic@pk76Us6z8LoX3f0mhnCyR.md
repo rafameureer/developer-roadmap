@@ -1,8 +1,8 @@
 # New Relic
 
-New Relic is a cloud-based observability platform that provides monitoring for applications, infrastructure, and user experience in a single interface. It offers APM (Application Performance Monitoring), distributed tracing, log management, and dashboards, and is widely used by engineering teams to diagnose performance issues across complex systems.
+New Relic é uma plataforma de observabilidade em nuvem que fornece monitoramento para aplicativos, infraestrutura e experiência do usuário em uma única interface. Ele oferece APM (Monitoramento de Desempenho de Aplicativos), rastreamento distribuído, gerenciamento de logs e dashboards, e é amplamente utilizado por equipes de engenharia para diagnosticar problemas de desempenho em sistemas complexos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@New Relic](https://newrelic.com/)
-- [@video@New Relic Platform Demo](https://www.youtube.com/watch?v=8kx7nRGVJRg)
+- [@oficial@New Relic](https://newrelic.com/)
+- [@vídeo@Demonstração da Plataforma New Relic](https://www.youtube.com/watch?v=8kx7nRGVJRg)

@@ -1,9 +1,9 @@
-# Text Manipulation
+# Manipulação de Texto
 
-Text manipulation involves using command-line tools to search, filter, transform, and extract data from text files or streams. These utilities, such as `grep`, `sed`, `awk`, and `cut`, allow you to process large amounts of output, reformat configuration files, or parse logs directly within the terminal. By chaining these commands together through pipes, you can efficiently automate repetitive data processing tasks and gain quick insights into system information.
+A manipulação de texto envolve o uso de ferramentas de linha de comando para pesquisar, filtrar, transformar e extrair dados de arquivos ou fluxos de texto. Essas utilitárias, como `grep`, `sed`, `awk` e `cut`, permitem que você processe grandes quantidades de saída, reformate arquivos de configuração ou analise logs diretamente no terminal. Ao encadear esses comandos juntos através de tubulações, você pode automatizar eficientemente tarefas de processamento de dados repetitivas e obter insights rápidos sobre informações do sistema.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated Bash/Shell Roadmap](https://roadmap.sh/shell-bash)
-- [@article@Linux Text Processing Command](https://earthly.dev/blog/linux-text-processing-commands/)
-- [@video@Learning Awk Is Essential For Linux Users](https://www.youtube.com/watch?v=9YOZmI-zWok)
+- [@roadmap@Visite o Caminho Dedicado Bash/Shell](https://roadmap.sh/shell-bash)
+- [@article@Comandos de Processamento de Texto no Linux](https://earthly.dev/blog/linux-text-processing-commands/)
+- [@video@Aprenda Awk É Essencial Para Usuários do Linux](https://www.youtube.com/watch?v=9YOZmI-zWok)

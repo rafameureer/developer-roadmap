@@ -1,8 +1,8 @@
 # Pop3s
 
-POP3 (port 110) or POP3s (port 995) stands for The Post Office Protocol. It's an Internet standard protocol used by local email software clients to retrieve emails from a remote mail server over a TCP/IP connection. Email servers hosted by Internet service providers also use POP3 to receive and hold emails intended for their subscribers. Periodically, these subscribers will use email client software to check their mailbox on the remote server and download any emails addressed to them. Once the email client has downloaded the emails, they are usually deleted from the server, although some email clients allow users to specify that mails be copied or saved on the server for a period of time.
+POP3 (porta 110) ou POP3s (porta 995) significa Protocolo de Caixa Postal. É um protocolo padrão da Internet usado por clientes de software de email locais para recuperar emails de um servidor de correio remoto através de uma conexão TCP/IP. Servidores de email hospedados por provedores de serviços de internet também usam POP3 para receber e manter emails destinados a seus assinantes. Periodicamente, esses assinantes usarão software de cliente de email para verificar sua caixa postal no servidor remoto e baixar qualquer email destinado a eles. Uma vez que o cliente de email tenha baixado os emails, eles são geralmente excluídos do servidor, embora alguns clientes de email permitem que os usuários especifiquem que as mensagens sejam copiadas ou salvas no servidor por um período de tempo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is POP3?](https://www.techtarget.com/whatis/definition/POP3-Post-Office-Protocol-3)
-- [@video@What are POP3, IMAP, and SMTP?](https://www.youtube.com/watch?v=gLNOVbcyWbI)
+- [@artigo@O que é POP3?](https://www.techtarget.com/whatis/definition/POP3-Post-Office-Protocol-3)
+- [@vídeo@O que são POP3, IMAP e SMTP?](https://www.youtube.com/watch?v=gLNOVbcyWbI)

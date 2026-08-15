@@ -1,9 +1,9 @@
 # Jaeger
 
-Jaeger is an open-source distributed tracing platform originally developed by Uber. It tracks requests as they flow through microservices, capturing timing and dependency information to help engineers identify latency bottlenecks and understand how services interact with each other.
+O Jaeger é uma plataforma de rastreamento distribuído de código aberto originalmente desenvolvida pela Uber. Ele rastreia solicitações conforme elas fluem através dos microserviços, capturando informações de tempo e dependência para ajudar os engenheiros a identificar gargalos de latência e entender como os serviços se interagem um com o outro.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@official@Jaeger](https://www.jaegertracing.io/)
-- [@official@Jaeger Documentation](https://www.jaegertracing.io/docs/latest)
+- [@oficial@Jaeger](https://www.jaegertracing.io/)
+- [@oficial@Documentação do Jaeger](https://www.jaegertracing.io/docs/latest)
 - [@opensource@jaegertracing/jaeger](https://github.com/jaegertracing/jaeger)

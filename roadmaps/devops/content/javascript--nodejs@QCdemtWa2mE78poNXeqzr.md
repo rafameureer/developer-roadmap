@@ -1,10 +1,10 @@
 # JavaScript
 
-JavaScript is a high-level, interpreted programming language primarily used for client-side web development. It enables interactive and dynamic content on web pages, allowing developers to create responsive user interfaces and complex web applications. JavaScript is a core technology of the World Wide Web, alongside HTML and CSS. It supports object-oriented, imperative, and functional programming paradigms. With the advent of Node.js, JavaScript has also become popular for server-side development. The language features dynamic typing, first-class functions, and prototype-based object-orientation. JavaScript's ubiquity in web browsers, extensive ecosystem of libraries and frameworks (like React, Angular, and Vue.js), and its versatility across front-end and back-end development have made it one of the most widely used programming languages in modern software development.
+JavaScript é um linguagem de programação de alto nível e interpretada, principalmente usada para desenvolvimento web do lado do cliente. Ele habilita conteúdo interativo e dinâmico em páginas da web, permitindo aos desenvolvedores criar interfaces de usuário respondivas e aplicativos web complexos. JavaScript é uma tecnologia fundamental da Web, junto com HTML e CSS. Ele suporta paradigmas de programação orientada a objetos, imperativa e funcional. Com o advento do Node.js, JavaScript também se tornou popular para desenvolvimento no lado do servidor. O idioma possui tipagem dinâmica, funções de primeira classe e orientação a objetos baseada em protótipos. A ubiquidade do JavaScript nas navegadores web, extensa ecossistema de bibliotecas e frameworks (como React, Angular e Vue.js) e sua versatilidade tanto no front-end quanto no back-end o tornaram uma das linguagens de programação mais amplamente utilizadas na desenvolvimento moderno.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@roadmap@Visit Dedicated JavaScript Roadmap](https://roadmap.sh/javascript)
-- [@article@The Modern JavaScript Tutorial](https://javascript.info/)
-- [@video@JavaScript Crash Course for Beginners](https://youtu.be/hdI2bqOjy3c)
-- [@feed@Explore top posts about JavaScript](https://app.daily.dev/tags/javascript?ref=roadmapsh)
+- [@rota@Visite a Rotação Específica do JavaScript](https://roadmap.sh/javascript)
+- [@artigo@O Tutorial Moderno do JavaScript](https://javascript.info/)
+- [@vídeo@Curso de Introdução ao JavaScript](https://youtu.be/hdI2bqOjy3c)
+- [@feed@Explore os melhores posts sobre JavaScript](https://app.daily.dev/tags/javascript?ref=roadmapsh)

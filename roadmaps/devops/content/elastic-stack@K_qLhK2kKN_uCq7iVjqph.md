@@ -1,10 +1,10 @@
 # Elastic Stack
 
-The Elastic Stack (formerly known as the ELK Stack) is a collection of open-source tools — Elasticsearch, Logstash, and Kibana — used together for searching, analyzing, and visualizing log and event data at scale. Elasticsearch stores and indexes the data, Logstash ingests and transforms it, and Kibana provides the visualization layer.
+O Elastic Stack (anteriormente conhecido como o ELK Stack) é uma coleção de ferramentas open-source — Elasticsearch, Logstash e Kibana — usadas juntas para pesquisar, analisar e visualizar dados de log e eventos em escala. O Elasticsearch armazena e indexa os dados, o Logstash ingere e transforma-os, e o Kibana fornece a camada de visualização.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated Elasticsearch Roadmap](https://roadmap.sh/elasticsearch)
+- [@roadmap@Visite o Caminho do Elasticsearch](https://roadmap.sh/elasticsearch)
 - [@official@Elastic Stack](https://www.elastic.co/elastic-stack/)
 - [@article@Logstash vs Fluentd](https://logz.io/blog/fluentd-logstash/)
-- [@video@Master the Elastic Stack: Elastic Stack Overview](https://www.youtube.com/watch?v=CfCTWVAwFbQ)
+- [@video@Dominando o Elastic Stack: Visão Geral do Elastic Stack](https://www.youtube.com/watch?v=CfCTWVAwFbQ)

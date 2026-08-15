@@ -1,9 +1,9 @@
-# Secret Management
+# Gerenciamento de Segredos
 
-Secret management refers to the practices and tools used to securely store, access, and distribute sensitive information such as passwords, API keys, tokens, and certificates. Rather than hardcoding secrets in code or config files, secret management systems provide a controlled way to inject credentials into applications at runtime.
+Gerenciamento de segredos refere-se às práticas e ferramentas usadas para armazenar, acessar e distribuir informações sensíveis como senhas, chaves API, tokens e certificados. Em vez de codificar segredos em código ou arquivos de configuração, sistemas de gerenciamento de segredos fornecem uma maneira controlada de injetar credenciais em aplicativos em tempo real.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@How to Manage Secrets in Web Applications?](https://cs.fyi/guide/secret-management-best-practices)
-- [@article@Why DevSecOps Teams Need Secrets Management](https://www.keepersecurity.com/blog/2023/01/26/why-devsecops-teams-need-secrets-management/)
-- [@video@DevOps Tricks for Managing Secrets in Production](https://www.youtube.com/watch?v=u_L-f7Th_7o)
+- [@article@Como Gerenciar Segredos em Aplicações Web?](https://cs.fyi/guide/secret-management-best-practices)
+- [@article@Por que Equipes DevSecOps Precisam de Gerenciamento de Segredos](https://www.keepersecurity.com/blog/2023/01/26/why-devsecops-teams-need-secrets-management/)
+- [@video@Truques DevOps para Gerenciar Segredos em Produção](https://www.youtube.com/watch?v=u_L-f7Th_7o)

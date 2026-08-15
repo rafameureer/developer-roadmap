@@ -1,9 +1,9 @@
-# Forward Proxy
+# Proxy Avançado
 
-A forward proxy is an intermediary server that sits between a client and the internet to act on behalf of the client. When a request is made, the client sends it to the proxy, which then forwards the request to the destination server, receives the response, and passes it back to the client. This setup is commonly used to bypass network restrictions, filter outgoing traffic, enforce security policies, and cache frequently accessed content to improve performance.
+Um proxy avançado é um servidor intermediário que se encontra entre um cliente e a internet, agindo em nome do cliente. Quando uma solicitação é feita, o cliente envia-a para o proxy, que então encaminha a solicitação ao servidor de destino, recebe a resposta e a passa de volta para o cliente. Esta configuração é comumente usada para evitar restrições de rede, filtrar o tráfego de saída, aplicar políticas de segurança e armazenar em cache conteúdo acessado frequentemente para melhorar o desempenho.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@article@What is Forward Proxy?](https://www.fortinet.com/resources/cyberglossary/proxy-server)
-- [@article@Forward vs Reverse Proxy](https://oxylabs.io/blog/reverse-proxy-vs-forward-proxy)
-- [@video@Understanding Proxy, Forward Proxy, and Reverse Proxy](https://www.youtube.com/watch?v=HrG0MHkSsCA)
+- [@artigo@O que é Proxy Avançado?](https://www.fortinet.com/resources/cyberglossary/proxy-server)
+- [@artigo@Proxy Avançado vs Proxy Reverso](https://oxylabs.io/blog/reverse-proxy-vs-forward-proxy)
+- [@vídeo@Entendendo Proxy, Proxy Avançado e Proxy Reverso](https://www.youtube.com/watch?v=HrG0MHkSsCA)

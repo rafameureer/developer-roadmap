@@ -1,9 +1,9 @@
 # Azure Functions
 
-Azure Functions is a serverless compute service in Microsoft Azure that enables developers to run event-triggered code without managing infrastructure. It supports multiple programming languages and integrates seamlessly with other Azure services, allowing for scalable, on-demand execution of small, focused pieces of code. Azure Functions automatically scales based on demand, charges only for actual compute time used, and can be triggered by various events such as HTTP requests, timers, or changes in cloud services, making it ideal for microservices, data processing, and workflow automation tasks.
+Azure Functions é um serviço de computação sem servidor no Microsoft Azure que permite aos desenvolvedores executar código disparado por eventos sem gerenciar infraestrutura. Ele suporta múltiplos idiomas de programação e integra-se perfeitamente com outros serviços do Azure, permitindo a execução escalável e à demanda de pequenos pedaços focados de código. O Azure Functions escala automaticamente com base na demanda, cobrando apenas pelo tempo de computação real utilizado e pode ser disparado por vários eventos como solicitações HTTP, temporizadores ou alterações em serviços da nuvem, tornando-o ideal para microservices, processamento de dados e tarefas de automação de fluxo de trabalho.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Azure Functions - Serverless Computing](https://azure.microsoft.com/en-in/products/functions)
-- [@official@Azure Functions Overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-overview)
-- [@video@Getting Started With Azure Functions](https://www.youtube.com/watch?v=l3beXs3o-0w)
+- [@official@Azure Functions - Computação Sem Servidor](https://azure.microsoft.com/en-in/products/functions)
+- [@official@Visão Geral do Azure Functions](https://learn.microsoft.com/en-us/azure/azure-functions/functions-overview)
+- [@video@Introdução ao Azure Functions](https://www.youtube.com/watch?v=l3beXs3o-0w)

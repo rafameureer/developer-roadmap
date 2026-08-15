@@ -1,8 +1,8 @@
 # Azure
 
-Azure is a comprehensive cloud computing platform offered by Microsoft that provides a wide range of services including computing, analytics, storage, and networking. It allows users to build, deploy, and manage applications through a global network of data centers. Organizations use this platform to host their infrastructure, run virtual machines, and integrate various cloud-native tools to support their development and operational workflows.
+O Azure é uma plataforma de computação em nuvem abrangente oferecida pela Microsoft que fornece uma ampla gama de serviços, incluindo computação, análise, armazenamento e rede. Ele permite aos usuários construir, implantar e gerenciar aplicativos através de uma rede global de centros de dados. Organizações usam esta plataforma para hospedar sua infraestrutura, executar máquinas virtuais e integrar várias ferramentas nativas da nuvem para suportar seus fluxos de trabalho de desenvolvimento e operações.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Azure Website](https://azure.microsoft.com/en-us/)
-- [@video@Microsoft Azure Fundamentals Certification Course (AZ-900)](https://www.youtube.com/watch?v=5abffC-K40c)
+- [@official@Site oficial do Azure](https://azure.microsoft.com/pt-br/)
+- [@video@Certificação Fundamentos do Microsoft Azure (AZ-900)](https://www.youtube.com/watch?v=5abffC-K40c)

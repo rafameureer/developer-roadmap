@@ -4,7 +4,7 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 
 ---
 
-> ⚠️ **Total de itens sinalizados:** 667
+> ⚠️ **Total de itens sinalizados:** 697
 
 | Arquivo / Tópico | Motivo da Sinalização | Data/Hora |
 |---|---|---|
@@ -675,3 +675,33 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 | `roadmaps/design-system/content/visual-forms@-MrrapoyFWKhSeE2PZ9mb.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:21:07.535608 |
 | `roadmaps/design-system/content/what-is-a-design-system@4PrkkoZ5fY-oow0O-bVhu.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:21:10.797006 |
 | `roadmaps/design-system/content/what-is-atomic-design@6r9XbwlBtHmJrhviG2cTD.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:21:15.002536 |
+| `roadmaps/devops/content/argocd@i-DLwNXdCUUug6lfjkPSy.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:21:49.248511 |
+| `roadmaps/devops/content/artifact-management@zuBAjrqQPjj-0DHGjCaqT.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:21:53.471834 |
+| `roadmaps/devops/content/artifactory@C_sFyIsIIpriZlovvcbSE.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:21:56.701538 |
+| `roadmaps/devops/content/caching-server@R4XSY4TSjU1M7cW66zUqJ.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:22:59.044870 |
+| `roadmaps/devops/content/caddy@54UZNO2q8M5FiA_XbcU_D.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:23:03.357214 |
+| `roadmaps/devops/content/chef@kv508kxzUj_CjZRb-TeRv.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:23:06.660520 |
+| `roadmaps/devops/content/ci--cd-tools@aQJaouIaxIJChM-40M3HQ.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:23:23.488697 |
+| `roadmaps/devops/content/circle-ci@1-JneOQeGhox-CKrdiquq.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:23:26.207592 |
+| `roadmaps/devops/content/cloud-design-patterns@Qc0MGR5bMG9eeM5Zb9PMk.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:23:30.386370 |
+| `roadmaps/devops/content/containers@CQhUflAcv1lhBnmDY0gaz.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:24:25.021712 |
+| `roadmaps/devops/content/data-management@5FN7iva4DW_lv-r1tijd8.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:24:28.623245 |
+| `roadmaps/devops/content/datadog@BHny2Emf96suhAlltiEro.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:24:32.019554 |
+| `roadmaps/devops/content/git@uyDm1SpOQdpHjq9zBAdck.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:26:15.245231 |
+| `roadmaps/devops/content/github-actions@JnWVCS1HbAyfCJzGt-WOH.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:26:19.308675 |
+| `roadmaps/devops/content/github@ot9I_IHdnq2yAMffrSrbN.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:26:23.676530 |
+| `roadmaps/devops/content/grafana@niA_96yR7uQ0sc6S_OStf.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:27:10.668394 |
+| `roadmaps/devops/content/graylog@s_kss4FJ2KyZRdcKNHK2v.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:27:13.796498 |
+| `roadmaps/devops/content/heroku@FaPf567JGRAg1MBlFj9Tk.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:27:17.674204 |
+| `roadmaps/devops/content/hetzner@I327qPYGMcdayRR5WT0Ek.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:27:36.035153 |
+| `roadmaps/devops/content/http@ke-8MeuLx7AS2XjSsPhxe.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:27:40.829497 |
+| `roadmaps/devops/content/https@AJO3jtHvIICj8YKaSXl0U.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:27:44.897953 |
+| `roadmaps/devops/content/netbsd@haiYSwNt3rjiiwCDszPk1.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:29:09.771682 |
+| `roadmaps/devops/content/netlify@hCKODV2b_l2uPit0YeP1M.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:29:14.988943 |
+| `roadmaps/devops/content/networking--protocols@w5d24Sf8GDkLDLGUPxzS9.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:29:19.415412 |
+| `roadmaps/devops/content/ssh@wcIRMLVm3SdEJWF9RPfn7.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:32:22.025130 |
+| `roadmaps/devops/content/ssl--tls@0o6ejhfpmO4S8A6djVWva.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:32:27.059796 |
+| `roadmaps/devops/content/suse-linux@zhNUK953p6tjREndk3yQZ.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:32:32.406683 |
+| `roadmaps/devops/content/white--grey-listing@E-lSLGzgOPrz-25ER2Hk7.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:33:50.198413 |
+| `roadmaps/devops/content/windows@UOQimp7QkM3sxmFvk5d3i.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:33:55.223278 |
+| `roadmaps/devops/content/zabbix@W9sKEoDlR8LzocQkqSv82.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T05:33:58.629239 |

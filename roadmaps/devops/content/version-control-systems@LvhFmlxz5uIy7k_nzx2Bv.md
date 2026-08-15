@@ -1,11 +1,11 @@
-# Version Control Systems
+# Sistemas de Controle de Versão
 
-Version control systems (VCS) are tools that track changes to code and files over time, enabling multiple users to collaborate on projects, maintain history, and manage different versions of codebases. They help in tracking modifications, merging changes, and resolving conflicts. There are two main types of VCS: centralized and distributed. Centralized systems (like Subversion and CVS) rely on a single central repository, while distributed systems (like Git and Mercurial) allow each user to have a complete copy of the repository, including its history. Distributed VCSs, such as Git, are particularly popular for their flexibility, branching capabilities, and robust support for collaborative workflows.
+Os sistemas de controle de versão (VCS) são ferramentas que rastreiam as alterações no código e arquivos ao longo do tempo, permitindo que múltiplos usuários trabalhem em projetos, mantenham o histórico e gerenciem diferentes versões dos repositórios de código. Eles ajudam a rastrear modificações, mesclar alterações e resolver conflitos. Existem dois tipos principais de VCS: centralizados e distribuídos. Os sistemas centrais (como Subversion e CVS) dependem de um único repositório central, enquanto os sistemas distribuídos (como Git e Mercurial) permitem que cada usuário tenha uma cópia completa do repositório, incluindo seu histórico. Os VCS distribuídos, como o Git, são particularmente populares por sua flexibilidade, capacidade de ramificação e suporte robusto para fluxos de trabalho colaborativos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit Dedicated Git & GitHub Roadmap](https://roadmap.sh/git-github)
-- [@course@Why version control? (Interactive Lesson)](https://inter-git.com/lessons/introduction)
-- [@article@What is Version Control?](https://www.atlassian.com/git/tutorials/what-is-version-control)
-- [@video@Version Control System (VCS)](https://www.youtube.com/watch?v=SVkuliabq4g)
-- [@video@What is a Version Control System and why you should always use it](https://www.youtube.com/watch?v=IeXhYROClZk)
+- [@roadmap@Visite a Rota do Git & GitHub](https://roadmap.sh/git-github)
+- [@course@Por que usar controle de versão? (Aula Interativa)](https://inter-git.com/lessons/introduction)
+- [@article@O que é Controle de Versão?](https://www.atlassian.com/git/tutorials/what-is-version-control)
+- [@video@Controle de Versão do Sistema (VCS)](https://www.youtube.com/watch?v=SVkuliabq4g)
+- [@video@O que é um Sistema de Controle de Versão e por que você deve sempre usá-lo](https://www.youtube.com/watch?v=IeXhYROClZk)

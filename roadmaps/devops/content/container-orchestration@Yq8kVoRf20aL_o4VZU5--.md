@@ -1,9 +1,9 @@
-# Container Orchestration
+# Orquestração de Contêineres
 
-Container orchestration refers to the automated management of containerized applications across clusters of machines. It handles tasks such as scheduling containers, scaling workloads up and down, managing networking between containers, and ensuring that failed containers are automatically restarted.
+Orquestração de contêineres refere-se ao gerenciamento automatizado de aplicativos containerizados em clusters de máquinas. Ele lida com tarefas como agendamento de contêineres, escalonamento de cargas de trabalho para cima e para baixo, gestão da rede entre contêineres e garantia de que contêineres falhos sejam reiniciados automaticamente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Container Orchestration?](https://www.redhat.com/en/topics/containers/what-is-container-orchestration)
-- [@article@What is Kubernetes?](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
-- [@article@Docker Swarm](https://docs.docker.com/engine/swarm/)
+- [@artigo@O que é Orquestração de Contêineres?](https://www.redhat.com/en/topics/containers/what-is-container-orchestration)
+- [@artigo@O que é Kubernetes?](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
+- [@artigo@Docker Swarm](https://docs.docker.com/engine/swarm/)

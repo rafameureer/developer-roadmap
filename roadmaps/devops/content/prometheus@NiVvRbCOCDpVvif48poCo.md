@@ -1,8 +1,8 @@
 # Prometheus
 
-Prometheus is an open-source monitoring and alerting toolkit originally developed at SoundCloud. It collects metrics by scraping HTTP endpoints at defined intervals, stores them in a time-series database, and provides a powerful query language called PromQL to analyze and alert on that data.
+Prometheus é uma ferramenta de monitoramento e alertas de código aberto originalmente desenvolvida pela SoundCloud. Ele coleta métricas raspando endpoints HTTP em intervalos definidos, armazena-as em um banco de dados de séries temporais e fornece uma linguagem de consulta poderosa chamada PromQL para analisar e alertar sobre esses dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Prometheus Website](https://prometheus.io/)
-- [@video@Introduction to the Prometheus Monitoring System | Key Concepts and Features](https://www.youtube.com/watch?v=STVMGrYIlfg)
+- [@official@Site oficial do Prometheus](https://prometheus.io/)
+- [@video@Introdução ao Sistema de Monitoramento Prometheus | Conceitos Chave e Funcionalidades](https://www.youtube.com/watch?v=STVMGrYIlfg)

@@ -1,8 +1,8 @@
 # FTP / SFTP
 
-FTP (File Transfer Protocol) is a standard network protocol used to transfer computer files between a client and a server on a computer network. SFTP (SSH File Transfer Protocol) is a secure version of this process that uses the SSH (Secure Shell) protocol to encrypt both commands and data, ensuring that sensitive information remains protected from unauthorized access during transit.
+FTP (Protocolo de Transferência de Arquivos) é um protocolo de rede padrão usado para transferir arquivos entre um cliente e um servidor em uma rede de computadores. SFTP (SSH File Transfer Protocol) é uma versão segura deste processo que usa o protocolo SSH (Secure Shell) para criptografar tanto os comandos quanto os dados, garantindo que informações sensíveis permaneçam protegidas durante a transmissão.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@article@FTP vs SFTP vs FTPS](https://www.fortinet.com/resources/cyberglossary/file-transfer-protocol-ftp-meaning)
-- [@article@What is SFTP?](https://www.kiteworks.com/risk-compliance-glossary/sftp/)
+- [@article@O que é SFTP?](https://www.kiteworks.com/risk-compliance-glossary/sftp/)

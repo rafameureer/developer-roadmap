@@ -1,8 +1,8 @@
 # Vercel
 
-Vercel is a provider of front-end cloud that provides the infrastructure to build, scale, and secure a faster, more personalized web. In other words, it is a cloud platform designed to simplify the deployment process for web applications, particularly those built with modern frameworks like React, Next, etc. where various projects can be deployed by connecting the GitHub repository in Vercel we can deploy the selected GitHub branch to the Vercel domains. Simultaneously, it provides custom domains to deploy code on live servers. These servers contain the `vercel.app` as the suffix in the domain.
+Vercel é um provedor de infraestrutura de nuvem para front-end que oferece a infraestrutura para construir, escalar e proteger uma web mais rápida e personalizada. Em outras palavras, é uma plataforma de nuvem projetada para simplificar o processo de implantação de aplicativos web, especialmente aqueles construídos com frameworks modernos como React, Next, etc., onde vários projetos podem ser implantados conectando o repositório do GitHub no Vercel. Simultaneamente, ele fornece domínios personalizados para implantar código em servidores em tempo real. Esses servidores contêm `vercel.app` como sufixo no domínio.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Vercel](https://vercel.com/)
 - [@official@Vercel Docs](https://vercel.com/docs)

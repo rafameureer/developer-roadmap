@@ -1,7 +1,7 @@
-# Learn a Language
+# Aprenda um idioma de programação
 
-Learning a programming language is a valuable skill in today's world, opening doors to various opportunities, including automation, web development, data analysis, and more. Choosing the right language depends on your specific goals and interests. For beginners, Python is often recommended due to its easy-to-read syntax and wide range of applications. Learning a programming language is a rewarding journey. Start with a language that interests you and explore!
+Aprender um idioma de programação é uma habilidade valiosa no mundo atual, abrindo portas para várias oportunidades, incluindo automação, desenvolvimento web, análise de dados e muito mais. Escolher o idioma certo depende dos seus objetivos específicos e interesses. Para iniciantes, Python é frequentemente recomendado devido à sua sintaxe fácil de ler e ampla gama de aplicações. Aprender um idioma de programação é uma jornada recompensadora. Comece com um idioma que o interesse e explore!
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Guide to Picking a Language for DevOps](https://cs.fyi/guide/programming-language-for-devops)
+- [@article@Guia para escolher um idioma para DevOps](https://cs.fyi/guide/programming-language-for-devops)

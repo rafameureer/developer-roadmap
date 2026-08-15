@@ -1,9 +1,9 @@
 # Render
 
-Render is a cloud platform for deploying and hosting web applications, APIs, databases, and background workers. It supports a range of runtimes including Node.js, Python, Ruby, Go, and Docker containers. Deployments are triggered automatically from a Git repository, and Render handles scaling, SSL certificates, and infrastructure management. It is popular as a Heroku alternative, offering a simpler setup than AWS or GCP for teams that want managed hosting without heavy configuration.
+Render é uma plataforma de nuvem para implantar e hospedar aplicativos web, APIs, bancos de dados e trabalhadores em segundo plano. Ele suporta uma variedade de runtimes incluindo Node.js, Python, Ruby, Go e contêineres Docker. Implantações são disparadas automaticamente a partir de um repositório Git, e Render lida com escalabilidade, certificados SSL e gerenciamento de infraestrutura. É popular como alternativa ao Heroku, oferecendo uma configuração mais simples para equipes que desejam hospedagem gerenciada sem uma configuração pesada.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Render Docs](https://render.com/docs)
+- [@official@Documentação do Render](https://render.com/docs)
 - [@official@Quickstarts](https://render.com/docs#quickstarts)
-- [@video@From GitHub to Production in Minutes with Render](https://www.youtube.com/watch?v=VyxA3mlvo84)
+- [@video@De GitHub para Produção em Minutos com o Render](https://www.youtube.com/watch?v=VyxA3mlvo84)

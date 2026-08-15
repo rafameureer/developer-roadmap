@@ -1,7 +1,7 @@
 # Contabo
 
-Contabo is a German-based hosting provider that offers virtual private servers (VPS), dedicated servers, and cloud instances at competitive price points. It provides infrastructure-as-a-service (IaaS) solutions that allow developers to deploy and manage Linux or Windows environments with customizable CPU, RAM, and storage resources. By offering scalable cloud compute options, it serves as a platform for hosting applications, databases, and various backend services in a virtualized network environment.
+Contabo é um provedor de hospedagem baseado em Alemanha que oferece servidores virtuais privados (VPS), servidores dedicados e instâncias de nuvem a preços competitivos. Ele fornece soluções de infraestrutura como serviço (IaaS) que permitem aos desenvolvedores implantar e gerenciar ambientes Linux ou Windows com recursos personalizáveis de CPU, RAM e armazenamento. Ao oferecer opções escaláveis de computação em nuvem, ele serve como uma plataforma para hospedar aplicativos, bancos de dados e diversos serviços de backend em um ambiente de rede virtualizado.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Contabo](https://contabo.com/)
+- [@oficial@Contabo](https://contabo.com/)

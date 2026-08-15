@@ -1,9 +1,9 @@
 # Nginx
 
-Nginx is a high-performance web server that also functions as a reverse proxy, load balancer, and HTTP cache. It is designed to handle a large number of concurrent connections with low memory usage, making it an efficient tool for serving static content or distributing incoming traffic across multiple backend application servers.
+Nginx é um servidor web de alto desempenho que também funciona como um proxy reverso, balanceador de carga e cache HTTP. Ele foi projetado para lidar com um grande número de conexões simultâneas com baixo uso de memória, tornando-o uma ferramenta eficiente para servir conteúdo estático ou distribuir o tráfego entrante em vários servidores de aplicativos backend.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Nginx](https://nginx.org/)
-- [@article@Basic NGINX Setup on Ubuntu: Guide to a Functional and Secure Website Serving](https://swissmade.host/en/blog/basic-nginx-setup-ubuntu-guide-to-a-functional-and-secure-website-serving)
-- [@video@NGINX Explained in 100 Seconds](https://www.youtube.com/watch?v=JKxlsvZXG7c)
+- [@article@Configuração Básica do Nginx no Ubuntu: Guia para um Site Funcional e Seguro](https://swissmade.host/en/blog/basic-nginx-setup-ubuntu-guide-to-a-functional-and-secure-website-serving)
+- [@video@Nginx Explicado em 100 Segundos](https://www.youtube.com/watch?v=JKxlsvZXG7c)

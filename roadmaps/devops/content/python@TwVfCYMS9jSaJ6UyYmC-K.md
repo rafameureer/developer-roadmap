@@ -1,10 +1,10 @@
 # Python
 
-Python is a high-level, interpreted programming language known for its clear syntax and readability. It supports multiple programming paradigms, including procedural, object-oriented, and functional programming, making it highly versatile for various tasks. Because of its extensive standard library and broad ecosystem of third-party packages, it is widely used for automating system tasks, scripting infrastructure operations, and developing scalable web applications.
+Python é um linguagem de programação de alto nível e interpretada, conhecida por sua sintaxe clara e legibilidade. Ela suporta múltiplos paradigmas de programação, incluindo procedural, orientado a objetos e funcional, tornando-a altamente versátil para várias tarefas. Devido à sua extensa biblioteca padrão e vasto ecossistema de pacotes de terceiros, é amplamente utilizado para automatizar tarefas do sistema, scripting operações de infraestrutura e desenvolvimento de aplicativos web escaláveis.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit Dedicated Python Roadmap](https://roadmap.sh/python)
-- [@official@Python Website](https://www.python.org/)
-- [@article@Python Crash Course](https://ehmatthes.github.io/pcc_3e/)
-- [@video@Python Full Course for free](https://www.youtube.com/watch?v=ix9cRaBkVe0)
+- [@roadmap@Visite o Caminho Dedidado do Python](https://roadmap.sh/python)
+- [@official@Site oficial do Python](https://www.python.org/)
+- [@article@Curso de Introdução ao Python](https://ehmatthes.github.io/pcc_3e/)
+- [@video@Curso Completo em Python Grátis](https://www.youtube.com/watch?v=ix9cRaBkVe0)

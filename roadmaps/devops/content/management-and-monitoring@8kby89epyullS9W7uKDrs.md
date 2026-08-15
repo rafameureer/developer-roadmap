@@ -1,7 +1,7 @@
-# Management and Monitoring
+# Gerenciamento e Monitoramento
 
-Management and monitoring patterns focus on keeping cloud applications observable, configurable, and operable at scale. They include patterns such as externalized configuration, health endpoint monitoring, and the Ambassador pattern, helping teams gain visibility into running systems and manage them effectively without requiring application restarts or redeployments.
+Os padrões de gerenciamento e monitoramento focam em manter as aplicações em nuvem observáveis, configuráveis e operáveis a escala. Eles incluem padrões como configuração externa, monitoramento de pontos de extremidade de saúde e o padrão Ambassador, ajudando os times a obter visibilidade nos sistemas em execução e gerenciá-los eficazmente sem a necessidade de reiniciar ou reimplantar as aplicações.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Management and Monitoring Get Started Guide](https://www.atlassian.com/devops/devops-tools/devops-monitoring)
+- [@article@Guia de introdução ao Gerenciamento e Monitoramento](https://www.atlassian.com/devops/devops-tools/devops-monitoring)

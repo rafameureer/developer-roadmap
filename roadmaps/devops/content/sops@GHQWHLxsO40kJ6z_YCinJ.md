@@ -1,8 +1,8 @@
 # SOPS
 
-SOPS (Secrets OPerationS) is an open-source tool developed by Mozilla for encrypting the values within structured files such as YAML, JSON, and ENV files. It integrates with key management services like AWS KMS, GCP KMS, and PGP, allowing encrypted secrets to be safely committed to version control.
+SOPS (Secrets OPerationS) é uma ferramenta de código aberto desenvolvida pela Mozilla para criptografar os valores dentro de arquivos estruturados como YAML, JSON e ENV. Ele integra com serviços de gerenciamento de chaves como AWS KMS, GCP KMS e PGP, permitindo que segredos criptografados sejam comitados de forma segura ao controle de versão.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@SOPs Website](https://getsops.io)
-- [@opensource@getsops/sops](https://github.com/getsops/sops)
+- [@official@Site oficial do SOPS](https://getsops.io)
+- [@opensource@Repositório do SOPS no GitHub](https://github.com/getsops/sops)

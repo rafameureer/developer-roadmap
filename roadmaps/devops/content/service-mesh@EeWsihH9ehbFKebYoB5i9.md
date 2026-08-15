@@ -1,9 +1,9 @@
-# Service Mesh
+# Malha de Serviço
 
-A service mesh is a dedicated infrastructure layer that manages communication between microservices in a distributed application. It provides features like load balancing, service discovery, encryption, observability, and traffic management, allowing services to communicate securely and efficiently. By abstracting network-related concerns from the application code, a service mesh enhances reliability and security while simplifying the management of microservice interactions. Popular service mesh implementations include Istio, Linkerd, and Consul.
+Uma malha de serviço é uma camada de infraestrutura dedicada que gerencia a comunicação entre microserviços em um aplicativo distribuído. Ela fornece recursos como balanceamento de carga, descoberta de serviços, criptografia, observabilidade e gerenciamento de tráfego, permitindo que os serviços se comuniquem com segurança e eficiência. Ao abstrair as preocupações relacionadas à rede do código da aplicação, uma malha de serviço aumenta a confiabilidade e a segurança enquanto simplifica o gerenciamento das interações entre microserviços. Implementações populares de malhas de serviço incluem Istio, Linkerd e Consul.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What's a Service Mesh?](https://www.redhat.com/en/topics/microservices/what-is-a-service-mesh)
-- [@article@The Latest News About Service Mesh (TNS)](https://thenewstack.io/category/service-mesh/)
-- [@video@Istio & Service Mesh - Simply Explained in 15 mins](https://www.youtube.com/watch?v=16fgzklcF7Y)
+- [@artigo@O que é uma Malha de Serviço?](https://www.redhat.com/en/topics/microservices/what-is-a-service-mesh)
+- [@artigo@As últimas notícias sobre Malhas de Serviço (TNS)](https://thenewstack.io/category/service-mesh/)
+- [@vídeo@Istio & Malha de Serviço - Explicado Simplesmente em 15 minutos](https://www.youtube.com/watch?v=16fgzklcF7Y)

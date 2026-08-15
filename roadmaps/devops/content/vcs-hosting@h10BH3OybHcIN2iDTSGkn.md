@@ -1,8 +1,8 @@
-# Version Control Hosting Services
+# Serviços de Hospedagem de Controle de Versão
 
-When working on a team, you often need a remote place to put your code so others can access it, create their own branches, and create or review pull requests. This remote place is called a repository, and these services often include issue tracking, code review, and continuous integration features. A few popular choices are GitHub, GitLab, Bitbucket, and AWS CodeCommit.
+Quando trabalha em um time, você geralmente precisa de um local remoto para colocar seu código, onde outros possam acessá-lo, criar suas próprias ramificações e criar ou revisar solicitações de pull. Esse local remoto é chamado de repositório, e esses serviços muitas vezes incluem funcionalidades de rastreamento de problemas, revisão de código e integração contínua. Alguns escolhas populares são GitHub, GitLab, Bitbucket e AWS CodeCommit.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@GitHub](https://github.com)
 - [@official@GitLab](https://about.gitlab.com/)

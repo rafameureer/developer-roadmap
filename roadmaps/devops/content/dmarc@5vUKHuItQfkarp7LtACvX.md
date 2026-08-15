@@ -1,8 +1,8 @@
 # DMARC
 
-DMARC (Domain-based Message Authentication, Reporting, and Conformance) is an email authentication protocol that helps protect a domain from being used for email spoofing and phishing attacks. It works by building upon the existing SPF (Sender Policy Framework) and DKIM (DomainKeys Identified Mail) standards to provide instructions to receiving mail servers on how to handle emails that fail authentication. By publishing a DMARC policy in their DNS records, domain owners can specify whether suspicious emails should be delivered, marked as spam, or rejected entirely, while also receiving reports about mail flow and potential security threats.
+DMARC (Domain-based Message Authentication, Reporting, and Conformance) é um protocolo de autenticação de e-mail que ajuda a proteger um domínio contra o uso para enganos por e-mail e ataques de phishing. Ele funciona construindo sobre os padrões existentes do SPF (Sender Policy Framework) e DKIM (DomainKeys Identified Mail), fornecendo instruções aos servidores de correio recebidos sobre como lidar com e-mails que falham na autenticação. Ao publicar uma política DMARC em seus registros DNS, os proprietários de domínios podem especificar se e-mails suspeitos devem ser entregues, marcados como spam ou rejeitados completamente, enquanto também recebem relatórios sobre o fluxo de e-mail e ameaças potenciais de segurança.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@DMARC](https://dmarc.org/)
-- [@video@What is DMARC: Email Security You Need to Know About](https://www.youtube.com/watch?v=zLxJLKf-ua8)
+- [@video@O que é DMARC: Segurança de E-mail que Você Precisa Saber](https://www.youtube.com/watch?v=zLxJLKf-ua8)

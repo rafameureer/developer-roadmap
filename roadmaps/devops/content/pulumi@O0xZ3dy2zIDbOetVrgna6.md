@@ -1,8 +1,8 @@
 # Pulumi
 
-Pulumi is an open-source infrastructure-as-code tool that allows you to create, deploy, and manage cloud infrastructure using familiar programming languages like Python, JavaScript, TypeScript, Go, and C#. It enables developers to utilize standard software engineering practices such as loops, conditionals, classes, and testing frameworks to define and provision cloud resources across various providers.
+Pulumi é uma ferramenta de código-fonte aberto de infraestrutura como código que permite criar, implantar e gerenciar infraestrutura na nuvem usando linguagens de programação familiares como Python, JavaScript, TypeScript, Go e C#. Ele habilita os desenvolvedores a utilizar práticas padrão de engenharia de software como loops, condicionais, classes e frameworks de testes para definir e provisionar recursos de nuvem em vários provedores.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Pulumi Website](https://www.pulumi.com/)
-- [@video@Pulumi in Three Minutes](https://www.youtube.com/watch?v=Q8tw6YTD3ac)
+- [@oficial@Site oficial do Pulumi](https://www.pulumi.com/)
+- [@vídeo@Pulumi em três minutos](https://www.youtube.com/watch?v=Q8tw6YTD3ac)

@@ -1,9 +1,9 @@
 # GitLab
 
-GitLab is a web-based platform that provides a complete software development lifecycle tool, including a Git repository manager, issue tracking, and CI/CD pipelines. It allows teams to manage their codebase, collaborate on code reviews, and automate the process of building, testing, and deploying applications within a single application.
+GitLab é uma plataforma baseada na web que oferece uma ferramenta completa do ciclo de vida de desenvolvimento de software, incluindo um gerenciador de repositórios Git, controle de problemas e pipelines CI/CD. Ele permite que equipes gerenciem seu código-fonte, colaborem em revisões de código e automatizem o processo de construção, teste e implantação de aplicativos dentro de uma única aplicação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@GitLab Website](https://gitlab.com/)
-- [@official@GitLab Documentation](https://docs.gitlab.com/)
-- [@video@GitLab Explained: What is GitLab and Why Use It?](https://www.youtube.com/watch?v=bnF7f1zGpo4)
+- [@official@Site oficial do GitLab](https://gitlab.com/)
+- [@official@Documentação do GitLab](https://docs.gitlab.com/)
+- [@video@GitLab explicado: O que é o GitLab e por que usar?](https://www.youtube.com/watch?v=bnF7f1zGpo4)

@@ -1,9 +1,9 @@
 # Ubuntu / Debian
 
-Ubuntu and Debian are Linux-based operating systems that serve as the foundation for running applications and managing server infrastructure. Debian is known for its stability and commitment to free software, while Ubuntu is built on top of Debian and focuses on ease of use, frequent updates, and broad hardware support. These distributions provide a command-line interface and a comprehensive package management system —APT—, which allows users to efficiently install, configure, and maintain the software required for hosting services and automating system tasks.
+Ubuntu e Debian são sistemas operacionais baseados em Linux que servem como a base para executar aplicativos e gerenciar infraestrutura de servidor. Debian é conhecido por sua estabilidade e comprometimento com software livre, enquanto Ubuntu é construído sobre o Debian e se concentra na facilidade de uso, atualizações frequentes e suporte amplo a hardware. Essas distribuições fornecem uma interface de linha de comando e um sistema de gerenciamento de pacotes completo —APT—, que permite aos usuários instalar, configurar e manter eficientemente o software necessário para hospedar serviços e automatizar tarefas do sistema.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@Practice Linux Commands with Hands-on Labs"](https://labex.io/courses/linux-basic-commands-practice-online)
-- [@official@Debian Website](https://www.debian.org/)
-- [@official@Ubuntu Website](https://ubuntu.com/)
+- [@course@Pratique Comandos Linux com Laboratórios Práticos](https://labex.io/courses/linux-basic-commands-practice-online)
+- [@official@Site oficial do Debian](https://www.debian.org/)
+- [@official@Site oficial do Ubuntu](https://ubuntu.com/)

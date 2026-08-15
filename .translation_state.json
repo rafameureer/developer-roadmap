@@ -2463,7 +2463,115 @@
     "roadmaps/design-system/content/user-onboarding@PlW8mHnOTyYnbtl0zUSG9.md",
     "roadmaps/design-system/content/version-control@CYY6nbQiC2pu5ATWmO6wA.md",
     "roadmaps/design-system/content/vision@cMfsRtvzvDZZJ0TqeUOxm.md",
-    "roadmaps/design-system/content/writing-guidelines@toyNbBB5tbyiJZkzuklIv.md"
+    "roadmaps/design-system/content/writing-guidelines@toyNbBB5tbyiJZkzuklIv.md",
+    "roadmaps/devops/content/alibaba-cloud@YUJf-6ccHvYjL_RzufQ-G.md",
+    "roadmaps/devops/content/ansible@h9vVPOmdUSeEGVQQaSTH5.md",
+    "roadmaps/devops/content/apache@0_GMTcMeZv3A8dYkHRoW7.md",
+    "roadmaps/devops/content/availability@JCe3fcOf-sokTJURyX1oI.md",
+    "roadmaps/devops/content/aws-cdk@XA__697KgofsH28coQ-ma.md",
+    "roadmaps/devops/content/aws-ecs--fargate@FE2h-uQy6qli3rKERci1j.md",
+    "roadmaps/devops/content/aws-lambda@UfQrIJ-uMNJt9H_VM_Q5q.md",
+    "roadmaps/devops/content/aws@1ieK6B_oqW8qOC6bdmiJe.md",
+    "roadmaps/devops/content/azure-functions@mlrlf2McMI7IBhyEdq0Nf.md",
+    "roadmaps/devops/content/azure@ctor79Vd7EXDMdrLyUcu_.md",
+    "roadmaps/devops/content/bash@syBIAL1mHbJLnTBoSxXI7.md",
+    "roadmaps/devops/content/bitbucket@Z7SsBWgluZWr9iWb2e9XO.md",
+    "roadmaps/devops/content/cloud-providers@2Wd9SlWGg6QtxgiUVLyZL.md",
+    "roadmaps/devops/content/cloud-smith@vsmE6EpCc2DFGk1YTbkHS.md",
+    "roadmaps/devops/content/cloud-specific-tools@yQ4d2uiROZYr950cjYnQE.md",
+    "roadmaps/devops/content/cloudflare@l8VAewSEXzoyqYFhoplJj.md",
+    "roadmaps/devops/content/cloudformation@TgBb4aL_9UkyU36CN4qvS.md",
+    "roadmaps/devops/content/configuration-management@V9sOxlNOyRp0Mghl7zudv.md",
+    "roadmaps/devops/content/consul@OXOTm3nz6o44p50qd0brN.md",
+    "roadmaps/devops/content/contabo@eJZdjheptmiwKsVokt7Io.md",
+    "roadmaps/devops/content/container-orchestration@Yq8kVoRf20aL_o4VZU5--.md",
+    "roadmaps/devops/content/datadog@bujq_C-ejtpmk-ICALByy.md",
+    "roadmaps/devops/content/design-and-implementation@1_NRXjckZ0F8EtEmgixqz.md",
+    "roadmaps/devops/content/digital-ocean@-h-kNVDNzZYnQAR_4lfXc.md",
+    "roadmaps/devops/content/dmarc@5vUKHuItQfkarp7LtACvX.md",
+    "roadmaps/devops/content/dns@Vu955vdsYerCG8G6suqml.md",
+    "roadmaps/devops/content/docker-swarm@VD24HC9qJOC42lbpJ-swC.md",
+    "roadmaps/devops/content/docker@P0acFNZ413MSKElHqCxr3.md",
+    "roadmaps/devops/content/domain-keys@RYCD78msIR2BPJoIP71aj.md",
+    "roadmaps/devops/content/dynatrace@4aJVaimsuvGIPXMZ_WjaA.md",
+    "roadmaps/devops/content/elastic-stack@K_qLhK2kKN_uCq7iVjqph.md",
+    "roadmaps/devops/content/envoy@epLLYArR16HlhAS4c33b4.md",
+    "roadmaps/devops/content/eso@lUUJAEBrGJvL8dRs2n1GD.md",
+    "roadmaps/devops/content/firewall@f3tM2uo6LLSOmyeFfLc7h.md",
+    "roadmaps/devops/content/fluxcd@6gVV_JUgKgwJb4C8tHZn7.md",
+    "roadmaps/devops/content/forward-proxy@F93XnRj0BLswJkzyRggLS.md",
+    "roadmaps/devops/content/freebsd@PiPHFimToormOPl1EtEe8.md",
+    "roadmaps/devops/content/ftp--sftp@RDLmML_HS2c8J4D_U_KYe.md",
+    "roadmaps/devops/content/gcp-functions@JXsctlXUUS1ie8nNEgIk9.md",
+    "roadmaps/devops/content/gitlab-ci@2KjSLLVTvl2G2KValw7S7.md",
+    "roadmaps/devops/content/gitlab@oQIB0KE0BibjIYmxrpPZS.md",
+    "roadmaps/devops/content/gitops@-INN1qTMLimrZgaSPCcHj.md",
+    "roadmaps/devops/content/gke--eks--aks@XbrWlTyH4z8crSHkki2lp.md",
+    "roadmaps/devops/content/go@npnMwSDEK2aLGgnuZZ4dO.md",
+    "roadmaps/devops/content/google-cloud@zYrOxFQkl3KSe67fh3smD.md",
+    "roadmaps/devops/content/iis@5iJOE1QxMvf8BQ_8ssiI8.md",
+    "roadmaps/devops/content/imap@WMuXqa4b5wyRuYAQKQJRj.md",
+    "roadmaps/devops/content/infrastructure-monitoring@qqRLeTpuoW64H9LvY0U_w.md",
+    "roadmaps/devops/content/istio@XsSnqW6k2IzvmrMmJeU6a.md",
+    "roadmaps/devops/content/jaeger@8rd7T5ahK2I_zh5co-IF-.md",
+    "roadmaps/devops/content/javascript--nodejs@QCdemtWa2mE78poNXeqzr.md",
+    "roadmaps/devops/content/jenkins@dUapFp3f0Rum-rf_Vk_b-.md",
+    "roadmaps/devops/content/kubernetes@hIBeTUiAI3zwUY6NgAO-A.md",
+    "roadmaps/devops/content/learn-a-programming-language@v5FGKQc-_7NYEsWjmTEuq.md",
+    "roadmaps/devops/content/linkerd@hhoSe4q1u850PgK62Ubau.md",
+    "roadmaps/devops/content/load-balancer@i8Sd9maB_BeFurULrHXNq.md",
+    "roadmaps/devops/content/logs-management@gaoZjOYmU0J5aM6vtLNvN.md",
+    "roadmaps/devops/content/loki@w2eCgBC-ydMHSxh7LMti8.md",
+    "roadmaps/devops/content/lxc@qYRJYIZsmf-inMqKECRkI.md",
+    "roadmaps/devops/content/management-and-monitoring@8kby89epyullS9W7uKDrs.md",
+    "roadmaps/devops/content/networking-tools@OaqKLZe-XnngcDhDzCtRt.md",
+    "roadmaps/devops/content/new-relic@pk76Us6z8LoX3f0mhnCyR.md",
+    "roadmaps/devops/content/nexus@ootuLJfRXarVvm3J1Ir11.md",
+    "roadmaps/devops/content/nginx@ukOrSeyK1ElOt9tTjCkfO.md",
+    "roadmaps/devops/content/observability@wNguM6-YEznduz3MgBCYo.md",
+    "roadmaps/devops/content/octopus-deploy@TsXFx1wWikVBVoFUUDAMx.md",
+    "roadmaps/devops/content/openbsd@97cJYKqv7CPPUXkKNwM4x.md",
+    "roadmaps/devops/content/openshift@3GryoQuI67JTHg9r3xUHO.md",
+    "roadmaps/devops/content/opentelemetry@K81bmtgnB1gfhYdi3TB5a.md",
+    "roadmaps/devops/content/operating-system@qe84v529VbCyydl0BKFk2.md",
+    "roadmaps/devops/content/osi-model@QZ7bkY-MaEgxYoPDP3nma.md",
+    "roadmaps/devops/content/papertrail@cjjMZdyLgakyVkImVQTza.md",
+    "roadmaps/devops/content/performance-monitoring@gIEQDgKOsoEnSv8mpEzGH.md",
+    "roadmaps/devops/content/pop3s@fzO6xVTBxliu24f3W5zaU.md",
+    "roadmaps/devops/content/power-shell@z6IBekR8Xl-6f8WEb05Nw.md",
+    "roadmaps/devops/content/process-monitoring@x-JWvG1iw86ULL9KrQmRu.md",
+    "roadmaps/devops/content/prometheus@NiVvRbCOCDpVvif48poCo.md",
+    "roadmaps/devops/content/prometheus@eOyu4wmKOrcMlhD8pUGGh.md",
+    "roadmaps/devops/content/provisioning@1oYvpFG8LKT1JD6a_9J0m.md",
+    "roadmaps/devops/content/pulumi@O0xZ3dy2zIDbOetVrgna6.md",
+    "roadmaps/devops/content/puppet@yP1y8U3eblpzbaLiCGliU.md",
+    "roadmaps/devops/content/python@TwVfCYMS9jSaJ6UyYmC-K.md",
+    "roadmaps/devops/content/render@DjDR8Yn5Q55NvoihElj7m.md",
+    "roadmaps/devops/content/reverse-proxy@eGF7iyigl57myx2ejpmNC.md",
+    "roadmaps/devops/content/rhel--derivatives@7mS6Y_BOAHNgM3OjyFtZ9.md",
+    "roadmaps/devops/content/ruby@PuXAPYA0bsMgwcnlwJxQn.md",
+    "roadmaps/devops/content/rust@eL62bKAoJCMsu7zPlgyhy.md",
+    "roadmaps/devops/content/salt@Kumwd6XOlEMeDohDH0q9P.md",
+    "roadmaps/devops/content/sealed-secrets@ZWq23Q9ZNxLNti68oltxA.md",
+    "roadmaps/devops/content/secret-management@hcrPpjFxPi_iLiMdLKJrO.md",
+    "roadmaps/devops/content/serverless@9p_ufPj6QH9gHbWBQUmGw.md",
+    "roadmaps/devops/content/service-mesh@EeWsihH9ehbFKebYoB5i9.md",
+    "roadmaps/devops/content/smtp@zJy9dOynWgLTDKI1iBluG.md",
+    "roadmaps/devops/content/sops@GHQWHLxsO40kJ6z_YCinJ.md",
+    "roadmaps/devops/content/spf@ewcJfnDFKXN8I5TLpXEaB.md",
+    "roadmaps/devops/content/splunk@dZID_Y_uRTF8JlfDCqeqs.md",
+    "roadmaps/devops/content/teamcity@L000AbzF3oLcn4B1eUIYX.md",
+    "roadmaps/devops/content/terminal-knowledge@wjJPzrFJBNYOD3SJLzW2M.md",
+    "roadmaps/devops/content/terraform@nUBGf1rp9GK_pbagWCP9g.md",
+    "roadmaps/devops/content/text-manipulation@cUifrP7v55psTb20IZndf.md",
+    "roadmaps/devops/content/tomcat@dF3otkMMN09tgCzci8Jyv.md",
+    "roadmaps/devops/content/ubuntu--debian@cTqVab0VbVcn3W7i0wBrX.md",
+    "roadmaps/devops/content/vault@tZzvs80KzqT8aDvEyjack.md",
+    "roadmaps/devops/content/vcs-hosting@h10BH3OybHcIN2iDTSGkn.md",
+    "roadmaps/devops/content/vercel@LZDRgDxEZ3klp2PrrJFBX.md",
+    "roadmaps/devops/content/version-control-systems@LvhFmlxz5uIy7k_nzx2Bv.md",
+    "roadmaps/devops/content/vim--nano---emacs@Jt8BmtLUH6fHT2pGKoJs3.md",
+    "roadmaps/devops/content/what-is-and-how-to-setup-x@jCWrnQNgjHKyhzd9dwOHz.md"
   ],
   "completed_roadmaps": [
     "frontend-beginner",
@@ -2494,7 +2602,8 @@
     "data-analyst",
     "data-engineer",
     "datastructures-and-algorithms",
-    "design-system"
+    "design-system",
+    "devops"
   ],
   "flagged_issues": [
     {
@@ -5831,8 +5940,158 @@
       "file": "roadmaps/design-system/content/what-is-atomic-design@6r9XbwlBtHmJrhviG2cTD.md",
       "reason": "Falha na tradução automática após tentativas no Ollama",
       "timestamp": "2026-08-15T05:21:15.002536"
+    },
+    {
+      "file": "roadmaps/devops/content/argocd@i-DLwNXdCUUug6lfjkPSy.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:21:49.248511"
+    },
+    {
+      "file": "roadmaps/devops/content/artifact-management@zuBAjrqQPjj-0DHGjCaqT.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:21:53.471834"
+    },
+    {
+      "file": "roadmaps/devops/content/artifactory@C_sFyIsIIpriZlovvcbSE.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:21:56.701538"
+    },
+    {
+      "file": "roadmaps/devops/content/caching-server@R4XSY4TSjU1M7cW66zUqJ.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:22:59.044870"
+    },
+    {
+      "file": "roadmaps/devops/content/caddy@54UZNO2q8M5FiA_XbcU_D.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:23:03.357214"
+    },
+    {
+      "file": "roadmaps/devops/content/chef@kv508kxzUj_CjZRb-TeRv.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:23:06.660520"
+    },
+    {
+      "file": "roadmaps/devops/content/ci--cd-tools@aQJaouIaxIJChM-40M3HQ.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:23:23.488697"
+    },
+    {
+      "file": "roadmaps/devops/content/circle-ci@1-JneOQeGhox-CKrdiquq.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:23:26.207592"
+    },
+    {
+      "file": "roadmaps/devops/content/cloud-design-patterns@Qc0MGR5bMG9eeM5Zb9PMk.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:23:30.386370"
+    },
+    {
+      "file": "roadmaps/devops/content/containers@CQhUflAcv1lhBnmDY0gaz.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:24:25.021712"
+    },
+    {
+      "file": "roadmaps/devops/content/data-management@5FN7iva4DW_lv-r1tijd8.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:24:28.623245"
+    },
+    {
+      "file": "roadmaps/devops/content/datadog@BHny2Emf96suhAlltiEro.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:24:32.019554"
+    },
+    {
+      "file": "roadmaps/devops/content/git@uyDm1SpOQdpHjq9zBAdck.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:26:15.245231"
+    },
+    {
+      "file": "roadmaps/devops/content/github-actions@JnWVCS1HbAyfCJzGt-WOH.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:26:19.308675"
+    },
+    {
+      "file": "roadmaps/devops/content/github@ot9I_IHdnq2yAMffrSrbN.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:26:23.676530"
+    },
+    {
+      "file": "roadmaps/devops/content/grafana@niA_96yR7uQ0sc6S_OStf.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:27:10.668394"
+    },
+    {
+      "file": "roadmaps/devops/content/graylog@s_kss4FJ2KyZRdcKNHK2v.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:27:13.796498"
+    },
+    {
+      "file": "roadmaps/devops/content/heroku@FaPf567JGRAg1MBlFj9Tk.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:27:17.674204"
+    },
+    {
+      "file": "roadmaps/devops/content/hetzner@I327qPYGMcdayRR5WT0Ek.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:27:36.035153"
+    },
+    {
+      "file": "roadmaps/devops/content/http@ke-8MeuLx7AS2XjSsPhxe.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:27:40.829497"
+    },
+    {
+      "file": "roadmaps/devops/content/https@AJO3jtHvIICj8YKaSXl0U.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:27:44.897953"
+    },
+    {
+      "file": "roadmaps/devops/content/netbsd@haiYSwNt3rjiiwCDszPk1.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:29:09.771682"
+    },
+    {
+      "file": "roadmaps/devops/content/netlify@hCKODV2b_l2uPit0YeP1M.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:29:14.988943"
+    },
+    {
+      "file": "roadmaps/devops/content/networking--protocols@w5d24Sf8GDkLDLGUPxzS9.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:29:19.415412"
+    },
+    {
+      "file": "roadmaps/devops/content/ssh@wcIRMLVm3SdEJWF9RPfn7.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:32:22.025130"
+    },
+    {
+      "file": "roadmaps/devops/content/ssl--tls@0o6ejhfpmO4S8A6djVWva.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:32:27.059796"
+    },
+    {
+      "file": "roadmaps/devops/content/suse-linux@zhNUK953p6tjREndk3yQZ.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:32:32.406683"
+    },
+    {
+      "file": "roadmaps/devops/content/white--grey-listing@E-lSLGzgOPrz-25ER2Hk7.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:33:50.198413"
+    },
+    {
+      "file": "roadmaps/devops/content/windows@UOQimp7QkM3sxmFvk5d3i.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:33:55.223278"
+    },
+    {
+      "file": "roadmaps/devops/content/zabbix@W9sKEoDlR8LzocQkqSv82.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T05:33:58.629239"
     }
   ],
-  "last_updated": "2026-08-15T05:21:17.110778",
+  "last_updated": "2026-08-15T05:33:58.637332",
   "total_translated_count": 54
 }

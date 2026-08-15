@@ -1,8 +1,8 @@
 # CloudFormation
 
-CloudFormation is an infrastructure-as-code service that allows you to define and provision AWS cloud resources using templates written in JSON or YAML. By describing your desired state in a text file, the service automatically handles the creation, updating, and deletion of the necessary resources in the correct order. This approach enables you to manage your infrastructure as version-controlled code, ensuring that your environment deployments are consistent, repeatable, and easily scalable.
+CloudFormation é um serviço de infraestrutura como código que permite definir e provisionar recursos da nuvem AWS usando modelos escritos em JSON ou YAML. Ao descrever seu estado desejado em um arquivo de texto, o serviço lida automaticamente com a criação, atualização e exclusão dos recursos necessários na ordem correta. Esse abordagem permite gerenciar sua infraestrutura como código controlado por versão, garantindo que as implantações do ambiente sejam consistentes, repetíveis e facilmente escaláveis.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@AWS CloudFormation](https://aws.amazon.com/cloudformation/)
-- [@video@Create and Delete an AWS CloudFormation Stack](https://www.youtube.com/watch?v=fmDG-W5TFp4)
+- [@video@Criar e Excluir uma Pilha do AWS CloudFormation](https://www.youtube.com/watch?v=fmDG-W5TFp4)

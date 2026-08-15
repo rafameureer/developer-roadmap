@@ -1,8 +1,8 @@
-# Sealed Secrets
+# Segredos Selados
 
-Sealed Secrets is a Kubernetes-focused tool developed by Bitnami that lets you encrypt Kubernetes secrets so they can be safely stored in version control. A controller running in the cluster holds the decryption key and is the only entity able to decrypt and create the actual secrets at runtime.
+Segredos Selados é uma ferramenta focada em Kubernetes desenvolvida pela Bitnami que permite criptografar segredos do Kubernetes para que possam ser armazenados de forma segura no controle de versão. Um controlador rodando na cluster mantém a chave de descriptografia e é a única entidade capaz de descriptografar e criar os segredos reais em tempo real.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@opensource@bitnami/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets)
-- [@article@Sealed Secrets](https://fluxcd.io/flux/guides/sealed-secrets/)
+- [@article@Segredos Selados](https://fluxcd.io/flux/guides/sealed-secrets/)

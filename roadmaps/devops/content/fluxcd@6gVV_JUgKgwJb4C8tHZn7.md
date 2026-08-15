@@ -1,8 +1,8 @@
 # FluxCD
 
-Flux is an open-source GitOps tool that automatically synchronizes the state of a Kubernetes cluster with configuration stored in a Git repository. It watches for changes in Git and applies them to the cluster, supporting Helm charts, Kustomize overlays, and multi-tenancy out of the box.
+Flux é uma ferramenta de código aberto do GitOps que sincroniza automaticamente o estado de um cluster Kubernetes com a configuração armazenada em um repositório Git. Ele monitora as alterações no Git e as aplica ao cluster, suportando Helm charts, overlays Kustomize e multi-tenancy por padrão.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@official@Flux CD](https://fluxcd.io/flux/)
-- [@video@Introduction to Flux CD on Kubernetes](https://www.youtube.com/watch?v=X5W_706-jSY)
+- [@oficial@Flux CD](https://fluxcd.io/flux/)
+- [@vídeo@Introdução ao Flux CD no Kubernetes](https://www.youtube.com/watch?v=X5W_706-jSY)

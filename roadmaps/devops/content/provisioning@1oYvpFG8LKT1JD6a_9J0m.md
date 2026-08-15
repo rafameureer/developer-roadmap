@@ -1,9 +1,9 @@
-# Provisioning
+# Provisionamento
 
-Provisioning is the process of setting up and configuring the infrastructure, software, and services required to make a system ready for use. It involves automating the deployment of servers, databases, and network components so that environments can be created consistently and efficiently. By using code to define these resources, teams can ensure that their infrastructure is reproducible, scalable, and quickly available whenever needed.
+O provisionamento é o processo de configurar e configurar a infraestrutura, software e serviços necessários para tornar um sistema pronto para uso. Envolve automatizar a implantação de servidores, bancos de dados e componentes de rede para que ambientes possam ser criados consistentemente e eficientemente. Ao usar código para definir esses recursos, equipes podem garantir que sua infraestrutura seja reproduzível, escalável e disponível rapidamente quando necessário.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is provisioning? - RedHat](https://www.redhat.com/en/topics/automation/what-is-provisioning)
-- [@article@What is provisioning? - IBM](https://www.ibm.com/topics/provisioning)
-- [@video@Open Answers: What is provisioning?](https://www.youtube.com/watch?v=hWvDlmhASpk)
+- [@artigo@O que é provisionamento? - RedHat](https://www.redhat.com/en/topics/automation/what-is-provisioning)
+- [@artigo@O que é provisionamento? - IBM](https://www.ibm.com/topics/provisioning)
+- [@vídeo@Open Answers: O que é provisionamento?](https://www.youtube.com/watch?v=hWvDlmhASpk)

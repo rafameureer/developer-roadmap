@@ -1,10 +1,10 @@
 # FreeBSD
 
-FreeBSD is an open-source Unix-like operating system known for its high performance, stability, and advanced networking capabilities. It is developed as a complete operating system rather than just a kernel, providing a robust environment for servers, embedded systems, and network appliances. Known for its distinct ZFS file system integration and "Jails" virtualization technology, it offers a secure and highly scalable platform for managing infrastructure and services.
+FreeBSD é um sistema operacional open-source Unix-like conhecido por seu desempenho alto, estabilidade e capacidades avançadas de rede. É desenvolvido como um sistema operacional completo em vez de apenas um kernel, fornecendo um ambiente robusto para servidores, sistemas embarcados e aplicações de rede. Conhecido pela sua integração distinta do sistema de arquivos ZFS e tecnologia de virtualização "Jails", oferece uma plataforma segura e altamente escalável para gerenciar infraestrutura e serviços.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@FreeBSD](https://www.freebsd.org/)
-- [@official@FreeBSD Resources for Newbies](https://www.freebsd.org/projects/newbies/)
-- [@official@FreeBSD Documentation](https://docs.freebsd.org/en/)
-- [@video@FreeBSD in 100 Seconds](https://www.youtube.com/watch?v=NKHzcXwTdB4)
+- [@official@Recursos do FreeBSD para iniciantes](https://www.freebsd.org/projects/newbies/)
+- [@official@Documentação do FreeBSD](https://docs.freebsd.org/en/)
+- [@video@FreeBSD em 100 Segundos](https://www.youtube.com/watch?v=NKHzcXwTdB4)

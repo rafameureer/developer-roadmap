@@ -1,9 +1,9 @@
 # Cloudflare
 
-Cloudflare is a internet company that provides a range of services to help protect and accelerate websites and applications. At its core, Cloudflare is a content delivery network (CDN) and a reverse proxy cloud provider. This means that it acts as an intermediary between a website's origin server and its visitors, caching content and filtering out malicious traffic. Cloudflare was founded in July 2009 by Matthew Prince, Lee Holloway, and Michelle Zatlyn. The company was venture-capital funded and submitted its S-1 filing for IPO on the New York Stock Exchange in August 2019. It opened for public trading on September 13, 2019, at $15 per share.
+Cloudflare é uma empresa de internet que oferece uma variedade de serviços para ajudar a proteger e acelerar sites e aplicativos. No seu núcleo, o Cloudflare é um rede de distribuição de conteúdo (CDN) e um provedor de nuvem reversa. Isso significa que ele atua como um intermediário entre o servidor de origem do site e seus visitantes, cacheando conteúdo e filtrando tráfego malicioso. O Cloudflare foi fundado em julho de 2009 por Matthew Prince, Lee Holloway e Michelle Zatlyn. A empresa foi financiada por capital de risco e submeteu seu pedido de arquivo S-1 para IPO na Bolsa de Nova York em agosto de 2019. Ele abriu para negociações públicas em 13 de setembro de 2019, a $15 por ação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated Cloudflare Roadmap](https://roadmap.sh/cloudflare)
+- [@roadmap@Visite o Caminho do Cloudflare](https://roadmap.sh/cloudflare)
 - [@official@Cloudflare](https://cloudflare.com/)
-- [@video@Introduction to Cloudflare](https://www.youtube.com/watch?v=24cml1rKGBs)
+- [@video@Introdução ao Cloudflare](https://www.youtube.com/watch?v=24cml1rKGBs)

@@ -1,10 +1,10 @@
 # Docker
 
-Docker is an open-source platform that automates the deployment, scaling, and management of applications using containerization technology. It enables developers to package applications with all their dependencies into standardized units called containers, ensuring consistent behavior across different environments. Docker provides a lightweight alternative to full machine virtualization, using OS-level virtualization to run multiple isolated systems on a single host. Its ecosystem includes tools for building, sharing, and running containers, such as Docker Engine, Docker Hub, and Docker Compose. Docker has become integral to modern DevOps practices, facilitating microservices architectures, continuous integration/deployment pipelines, and efficient resource utilization in both development and production environments.
+Docker é uma plataforma de código aberto que automatiza a implantação, escala e gestão de aplicativos usando tecnologia de contêinerização. Ele permite aos desenvolvedores empacotar aplicativos com todas as suas dependências em unidades padrão chamadas contêineres, garantindo um comportamento consistente em diferentes ambientes. Docker oferece uma alternativa leve a virtualização completa de máquinas virtuais, usando a virtualização no nível do sistema operacional para executar múltiplos sistemas isolados em um único host. Seu ecossistema inclui ferramentas para construir, compartilhar e executar contêineres, como Docker Engine, Docker Hub e Docker Compose. Docker se tornou integral aos práticas modernas de DevOps, facilitando arquiteturas de microserviços, pipelines de integração/implantação contínuas e o uso eficiente dos recursos em ambientes de desenvolvimento e produção.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit Dedicated Docker Roadmap](https://roadmap.sh/docker)
-- [@course@DevOps with Docker](https://courses.mooc.fi/org/uh-cs/courses/devops-with-docker)
-- [@official@Docker Documentation](https://docs.docker.com/)
-- [@video@Docker Tutorial](https://www.youtube.com/watch?v=RqTEHSBrYFw)
+- [@roadmap@Visite a Roadmap Específica do Docker](https://roadmap.sh/docker)
+- [@course@DevOps com Docker](https://courses.mooc.fi/org/uh-cs/courses/devops-with-docker)
+- [@official@Documentação oficial do Docker](https://docs.docker.com/)
+- [@video@Tutorial do Docker](https://www.youtube.com/watch?v=RqTEHSBrYFw)

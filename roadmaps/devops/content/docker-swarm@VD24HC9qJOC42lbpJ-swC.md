@@ -1,11 +1,11 @@
 # Docker Swarm
 
-A Docker Swarm is a group of either physical or virtual machines that are running the Docker application and that have been configured to join together in a cluster. Once a group of machines have been clustered together, you can still run the Docker commands that you're used to, but they will now be carried out by the machines in your cluster. The activities of the cluster are controlled by a swarm manager, and machines that have joined the cluster are referred to as nodes.
+Um Docker Swarm é um grupo de máquinas físicas ou virtuais que estão executando o aplicativo Docker e que foram configurados para se juntar em uma cluster. Uma vez que um grupo de máquinas tenha sido agrupado, você ainda pode executar os comandos do Docker que está acostumado, mas agora eles serão realizados pelas máquinas em seu cluster. As atividades do cluster são controladas por um gerenciador de swarm e as máquinas que se juntaram ao cluster são referidas como nós.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Docker Swarm Documentation](https://docs.docker.com/engine/swarm/)
-- [@article@Tutorial: Manage Docker Swarm with Portainer](https://thenewstack.io/tutorial-manage-docker-swarm-with-portainer/)
-- [@article@Tutorial: Create a Docker Swarm with Persistent Storage Using GlusterFS](https://thenewstack.io/tutorial-create-a-docker-swarm-with-persistent-storage-using-glusterfs/)
-- [@video@Docker Swarm | Introduction | Step By Step Examples](https://www.youtube.com/watch?v=Xaea-XnJTJU)
-- [@feed@Explore top posts about Docker](https://app.daily.dev/tags/docker?ref=roadmapsh)
+- [@official@Documentação do Docker Swarm](https://docs.docker.com/engine/swarm/)
+- [@article@Tutorial: Gerencie o Docker Swarm com Portainer](https://thenewstack.io/tutorial-manage-docker-swarm-with-portainer/)
+- [@article@Tutorial: Crie um Docker Swarm com Armazenamento Persistente Usando GlusterFS](https://thenewstack.io/tutorial-create-a-docker-swarm-with-persistent-storage-using-glusterfs/)
+- [@video@Docker Swarm | Introdução | Exemplos Passo a Passo](https://www.youtube.com/watch?v=Xaea-XnJTJU)
+- [@feed@Explore as melhores postagens sobre Docker](https://app.daily.dev/tags/docker?ref=roadmapsh)

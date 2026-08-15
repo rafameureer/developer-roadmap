@@ -1,10 +1,10 @@
 # Prometheus
 
-Prometheus is a free software application used for event monitoring and alerting. It records real-time metrics in a time series database built using a HTTP pull model, with flexible queries and real-time alerting.
+Prometheus é um aplicativo de software livre usado para monitoramento de eventos e alertas. Ele registra métricas em tempo real em um banco de dados de séries temporais construído usando um modelo-puxo HTTP, com consultas flexíveis e alertas em tempo real.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Prometheus Website](https://prometheus.io/)
-- [@official@Prometheus Documentation](https://prometheus.io/docs/introduction/overview/)
-- [@official@Getting Started with Prometheus](https://prometheus.io/docs/tutorials/getting_started/)
-- [@feed@Explore top posts about Prometheus](https://app.daily.dev/tags/prometheus?ref=roadmapsh)
+- [@official@Site oficial do Prometheus](https://prometheus.io/)
+- [@official@Documentação do Prometheus](https://prometheus.io/docs/introduction/overview/)
+- [@official@Começando com o Prometheus](https://prometheus.io/docs/tutorials/getting_started/)
+- [@feed@Explore as melhores publicações sobre Prometheus](https://app.daily.dev/tags/prometheus?ref=roadmapsh)

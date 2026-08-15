@@ -1,9 +1,9 @@
-# Availability
+# Disponibilidade
 
-Availability patterns are design approaches that ensure a system remains operational and accessible even in the face of failures. They include techniques such as health endpoint monitoring, queue-based load leveling, and the throttling pattern, all aimed at preventing downtime and gracefully handling spikes or partial failures.
+Os padrões de disponibilidade são abordagens de design que garantem que um sistema permaneça operacional e acessível mesmo diante de falhas. Eles incluem técnicas como monitoramento do endpoint de saúde, nivelamento de carga com filas e o padrão de throttling, todos voltados para prevenir a paralisação e lidar graciosamente picos ou falhas parciais.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Defining Availability, Maintainability and Reliability in SRE](https://devops.com/defining-availability-maintainability-and-reliability-in-sre/)
-- [@article@Techniques for Achieving High Availability](https://www.sqlservercentral.com/articles/cloud-computing-basics-achieving-high-availability-2)
-- [@video@SLIs, SLOs, SLAs, oh my! (class SRE implements DevOps)](https://www.youtube.com/watch?v=tEylFyxbDLE)
+- [@artigo@Definindo Disponibilidade, Manutenibilidade e Reliability em SRE](https://devops.com/defining-availability-maintainability-and-reliability-in-sre/)
+- [@artigo@Técnicas para Atingir Alta Disponibilidade](https://www.sqlservercentral.com/articles/cloud-computing-basics-achieving-high-availability-2)
+- [@vídeo@SLIs, SLOs, SLAs, oh my! (classe SRE implementa DevOps)](https://www.youtube.com/watch?v=tEylFyxbDLE)

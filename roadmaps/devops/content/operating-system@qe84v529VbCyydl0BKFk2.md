@@ -1,10 +1,10 @@
-# Operating System
+# Sistema Operacional
 
-An operating system is the foundational software that manages a computer's hardware and software resources, providing common services for various programs. It acts as an intermediary between users and hardware, handling tasks like process scheduling, memory management, file systems, and device control. By abstracting the complexity of physical components, it allows applications to run consistently across different environments.
+Um sistema operacional é o software fundamental que gerencia os recursos de hardware e software de um computador, fornecendo serviços comuns para vários programas. Ele atua como uma intermediária entre usuários e hardware, lidando com tarefas como planejamento de processos, gerenciamento de memória, sistemas de arquivos e controle de dispositivos. Ao abstrair a complexidade dos componentes físicos, ele permite que as aplicações sejam executadas consistentemente em diferentes ambientes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Operating Systems - Wiki](https://en.wikipedia.org/wiki/Operating_system)
-- [@article@Learn Operating Systems](https://www.tutorialspoint.com/operating_system/os_overview.htm)
-- [@video@What are Operating Systems?](https://www.youtube.com/watch?v=pVzRTmdd9j0)
-- [@video@Operating Systems](https://www.youtube.com/watch?v=vBURTt97EkA&list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)
+- [@artigo@Sistemas Operacionais - Wiki](https://en.wikipedia.org/wiki/Operating_system)
+- [@artigo@Aprenda Sistemas Operacionais](https://www.tutorialspoint.com/operating_system/os_overview.htm)
+- [@vídeo@O que são Sistemas Operacionais?](https://www.youtube.com/watch?v=pVzRTmdd9j0)
+- [@vídeo@Sistemas Operacionais](https://www.youtube.com/watch?v=vBURTt97EkA&list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)

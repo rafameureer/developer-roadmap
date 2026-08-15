@@ -1,9 +1,9 @@
 # Papertrail
 
-Papertrail is a cloud-hosted log management service that aggregates logs from servers, applications, and network devices in real time. It offers a simple interface for tailing, searching, and archiving logs, and is popular for smaller teams looking for a straightforward hosted logging solution.
+Papertrail é um serviço de gerenciamento de logs hospedado na nuvem que agrupa logs dos servidores, aplicativos e dispositivos de rede em tempo real. Ele oferece uma interface simples para rastreamento, busca e arquivamento de logs e é popular para equipes menores procurando por uma solução de log hospedada direta.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Papertrail Guides](https://www.papertrail.com/solution/guides/)
-- [@official@Papertrail Blog](https://www.papertrail.com/blog/)
-- [@video@SolarWinds Papertrail Overview](https://www.youtube.com/watch?v=lx3UyNSn8AQ)
+- [@oficial@Guias do Papertrail](https://www.papertrail.com/solution/guides/)
+- [@oficial@Blog do Papertrail](https://www.papertrail.com/blog/)
+- [@vídeo@Visão geral do Papertrail da SolarWinds](https://www.youtube.com/watch?v=lx3UyNSn8AQ)

@@ -1,10 +1,10 @@
-# Load Balancer
+# Balanceador de Carga
 
-A load balancer is a device or software application that acts as a traffic cop, sitting in front of your servers and routing incoming client requests across all servers capable of fulfilling those requests. By distributing the workload, it prevents any single server from becoming overwhelmed, which increases the responsiveness and availability of applications. To set one up, you typically choose between a hardware appliance or a software-based solution like NGINX or HAProxy, configure your backend server pool, and define the distribution algorithm, such as round-robin or least connections, to ensure traffic is shared effectively.
+Um balanceador de carga é um dispositivo ou aplicativo de software que atua como um trânsito, sentado na frente dos seus servidores e roteando solicitações de clientes entrantes em todos os servidores capazes de atender a essas solicitações. Ao distribuir o trabalho, ele previne qualquer servidor único de se tornar sobrecarregado, aumentando a resposta e disponibilidade das aplicações. Para configurá-lo, você geralmente escolhe entre um appliance de hardware ou uma solução baseada em software como NGINX ou HAProxy, configura seu pool de servidores backend e define o algoritmo de distribuição, como round-robin ou menos conexões, para garantir que o tráfego seja compartilhado efetivamente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Load Balancing?](https://www.nginx.com/resources/glossary/load-balancing/)
-- [@article@Load Balancing concepts and algorithms](https://www.cloudflare.com/en-gb/learning/performance/what-is-load-balancing/)
-- [@article@NGINX Reverse Proxy and Load Balancing](https://dzone.com/articles/nginx-reverse-proxy-and-load-balancing)
-- [@video@What is a Load Balancer?](https://www.youtube.com/watch?v=sCR3SAVdyCc)
+- [@article@O que é Balanceamento de Carga?](https://www.nginx.com/resources/glossary/load-balancing/)
+- [@article Conceitos e algoritmos de balanceamento de carga](https://www.cloudflare.com/en-gb/learning/performance/what-is-load-balancing/)
+- [@article@NGINX Reverse Proxy e Balanceamento de Carga](https://dzone.com/articles/nginx-reverse-proxy-and-load-balancing)
+- [@video@O que é um Balanceador de Carga?](https://www.youtube.com/watch?v=sCR3SAVdyCc)

@@ -1,10 +1,10 @@
 # AWS
 
-Amazon Web Services has been the market-leading cloud computing platform since 2011, ahead of Azure and Google Cloud. AWS offers over 200 services with data centers located all over the globe. AWS is an online platform that provides scalable and cost-effective cloud computing solutions. It is a broadly adopted cloud platform that offers several on-demand operations like compute power, database storage, content delivery, and so on.
+O Amazon Web Services é a plataforma de computação em nuvem líder do mercado desde 2011, antes de Azure e Google Cloud. O AWS oferece mais de 200 serviços com centros de dados localizados em todo o mundo. O AWS é uma plataforma online que fornece soluções de computação em nuvem escaláveis e econômicas. É uma plataforma de nuvem amplamente adotada que oferece várias operações à demanda como poder de processamento, armazenamento de banco de dados, entrega de conteúdo e muito mais.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated AWS Roadmap](https://roadmap.sh/aws)
-- [@course@100 hour AWS Complete Course 2024](https://www.youtube.com/watch?v=zA8guDqfv40)
-- [@official@AWS Cloud Essentials](https://aws.amazon.com/getting-started/cloud-essentials/)
-- [@official@Overview of Amazon Web Services](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html)
+- [@roadmap@Visite o Caminho do AWS dedicado](https://roadmap.sh/aws)
+- [@course@Curso Completo do AWS em 100 Horas 2024](https://www.youtube.com/watch?v=zA8guDqfv40)
+- [@official@Essenciais do AWS Cloud](https://aws.amazon.com/getting-started/cloud-essentials/)
+- [@official@Visão Geral dos Serviços da Amazon Web Services](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html)

@@ -1,9 +1,9 @@
 # LXC
 
-LXC, or Linux Containers, is an operating-system-level virtualization method for running multiple isolated Linux systems on a single control host. It works by utilizing kernel features like cgroups and namespaces to partition resources, allowing applications to run in distinct environments without the overhead of a full virtual machine. Each container acts like a lightweight virtual server, sharing the host’s kernel while maintaining its own filesystem, network stack, and process space.
+LXC, ou Linux Containers, é um método de virtualização em nível do sistema operacional para executar múltiplos sistemas Linux isolados em uma única máquina controladora. Ele funciona utilizando recursos do kernel como cgroups e namespaces para particionar os recursos, permitindo que aplicativos sejam executados em ambientes distintos sem a sobrecarga de uma máquina virtual completa. Cada contêiner atua como um servidor virtual leve, compartilhando o kernel da máquina anfitriã enquanto mantém seu próprio sistema de arquivos, pilha de rede e espaço de processos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@LXC Documentation](https://linuxcontainers.org/lxc/documentation/)
-- [@video@Getting started with LXC containers](https://www.youtube.com/watch?v=CWmkSj_B-wo)
-- [@video@LXC - Guide to building a LXC Lab](https://www.youtube.com/watch?v=cqOtksmsxfg)
+- [@official@Documentação do LXC](https://linuxcontainers.org/lxc/documentation/)
+- [@video@Introdução aos contêineres LXC](https://www.youtube.com/watch?v=CWmkSj_B-wo)
+- [@video@Guia de construção de um laboratório LXC](https://www.youtube.com/watch?v=cqOtksmsxfg)

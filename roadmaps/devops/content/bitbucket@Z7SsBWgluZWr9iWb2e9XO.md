@@ -1,9 +1,9 @@
 # Bitbucket
 
-Bitbucket is a web-based version control repository hosting service owned by Atlassian that supports both Git and Mercurial. It provides teams with a centralized platform to store code, track issues, and manage project workflows through pull requests and branch permissions. Built to integrate seamlessly with other Atlassian tools like Jira and Trello, it allows developers to collaborate on codebases, perform code reviews, and automate delivery pipelines directly within the platform.
+Bitbucket é um serviço de hospedagem de repositórios de controle de versão em nuvem baseado na web, proprietário pela Atlassian, que suporta tanto Git quanto Mercurial. Ele fornece equipes com uma plataforma centralizada para armazenar código, rastrear problemas e gerenciar fluxos de trabalho de projetos através de solicitações de pull e permissões de branch. Construído para integrar-se facilmente com outras ferramentas da Atlassian como Jira e Trello, ele permite que os desenvolvedores colaborem em códigos-fonte, realizem revisões de código e automatizem pipelines de entrega diretamente na plataforma.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Bitbucket Website](https://bitbucket.org)
-- [@official@Bitbucket Overview](https://bitbucket.org/product/guides/getting-started/overview)
-- [@video@Bitbucket Tutorial | How to use Bitbucket Cloud](https://www.youtube.com/watch?v=M44nEyd_5To)
+- [@official@Site oficial do Bitbucket](https://bitbucket.org)
+- [@official@Visão Geral do Bitbucket](https://bitbucket.org/product/guides/getting-started/overview)
+- [@video@Tutorial do Bitbucket | Como usar o Bitbucket Cloud](https://www.youtube.com/watch?v=M44nEyd_5To)

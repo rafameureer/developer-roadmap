@@ -1,10 +1,10 @@
-# Networking Tools
+# Ferramentas de Rede
 
-Networking tools are command-line utilities used to monitor, diagnose, and troubleshoot network connections between computers and servers. These tools allow you to verify connectivity via ping, inspect active network sockets, trace the route of data packets, and analyze traffic passing through specific network interfaces. By utilizing these commands, you can identify configuration issues, test firewall rules, and ensure that your applications can successfully communicate across internal and external networks.
+As ferramentas de rede são utilitários de linha de comando usados para monitorar, diagnosticar e resolver problemas de conexão de rede entre computadores e servidores. Essas ferramentas permitem que você verifique a conectividade através do ping, inspecione sockets de rede ativos, traçe o caminho dos pacotes de dados e analise o tráfego passando por interfaces de rede específicas. Ao utilizar esses comandos, você pode identificar problemas de configuração, testar regras de firewall e garantir que suas aplicações possam se comunicar com sucesso em redes internas e externas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@10 SCP command examples](https://www.tecmint.com/scp-commands-examples/)
-- [@article@SCP command explained](https://phoenixnap.com/kb/linux-scp-command)
-- [@video@Top 5 Linux Networking Commands](https://www.youtube.com/watch?v=MT85eMsMN6o)
-- [@video@60 Linux Commands you NEED to know](https://www.youtube.com/watch?v=gd7BXuUQ91w)
+- [@artigo@10 exemplos de comandos SCP](https://www.tecmint.com/scp-commands-examples/)
+- [@artigo@Comando SCP explicado](https://phoenixnap.com/kb/linux-scp-command)
+- [@vídeo@Top 5 comandos de rede Linux](https://www.youtube.com/watch?v=MT85eMsMN6o)
+- [@vídeo@60 comandos de Linux que você precisa saber](https://www.youtube.com/watch?v=gd7BXuUQ91w)

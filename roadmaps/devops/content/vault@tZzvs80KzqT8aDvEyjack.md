@@ -1,8 +1,8 @@
 # Vault
 
-Vault is a secrets management tool developed by HashiCorp that provides a secure, centralized store for sensitive data such as API keys, passwords, and certificates. It supports dynamic secrets, fine-grained access policies, secret leasing and renewal, and integrates with a wide range of cloud providers and authentication systems.
+Vault é uma ferramenta de gerenciamento de segredos desenvolvida pela HashiCorp que fornece um armazenamento centralizado e seguro para dados sensíveis como chaves API, senhas e certificados. Ele suporta segredos dinâmicos, políticas de acesso granulares, aluguel e renovação de segredos, e integra-se com uma ampla gama de provedores de nuvem e sistemas de autenticação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@HashiCorp Vault](https://www.vaultproject.io/)
 - [@opensource@hashicorp/vault](https://github.com/hashicorp/vault)

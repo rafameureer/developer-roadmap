@@ -1,10 +1,10 @@
-# Setting up ________
+# Configurando ________
 
-Learn how to set up:
+Aprenda como configurar:
 
-*   Forward Proxy
-*   Reverse Proxy
-*   Load Balancer
+*   Proxy Encaminhador
+*   Proxy Inverso
+*   Balanceador de Carga
 *   Firewall
-*   Caching Server
-*   Web Server
+*   Servidor de Cache
+*   Servidor Web

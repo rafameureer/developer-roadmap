@@ -1,10 +1,10 @@
 # Reverse Proxy
 
-A reverse proxy is a server that sits in front of one or more web servers and intercepts requests from clients. Instead of a client connecting directly to an application server, it connects to the reverse proxy, which then forwards the request to the appropriate backend server and returns the response back to the client. This setup is commonly used to manage traffic load, improve security by hiding the identity of backend servers, and handle tasks like SSL termination or caching to optimize performance.
+Um reverse proxy é um servidor que fica em frente a um ou mais servidores web e intercepta solicitações de clientes. Em vez de um cliente se conectar diretamente a um servidor de aplicativos, ele se conecta ao reverse proxy, que então encaminha a solicitação para o servidor backend apropriado e retorna a resposta de volta ao cliente. Esta configuração é comumente usada para gerenciar o carregamento de tráfego, melhorar a segurança escondendo a identidade dos servidores backend e lidando com tarefas como terminação SSL ou caching para otimizar desempenho.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Reverse Proxy?](https://www.cloudflare.com/en-gb/learning/cdn/glossary/reverse-proxy/)
-- [@article@NGINX Documentation](https://www.nginx.com/resources/glossary/reverse-proxy-server/)
-- [@article@Understanding NGINX as a Reverse Proxy](https://medium.com/globant/understanding-nginx-as-a-reverse-proxy-564f76e856b2)
-- [@video@Proxy vs Reverse Proxy (Real-world Examples)](https://www.youtube.com/watch?v=4NB0NDtOwIQ)
+- [@article@O que é Reverse Proxy?](https://www.cloudflare.com/en-gb/learning/cdn/glossary/reverse-proxy/)
+- [@article@Documentação do NGINX](https://www.nginx.com/resources/glossary/reverse-proxy-server/)
+- [@article@Entendendo o NGINX como um Reverse Proxy](https://medium.com/globant/understanding-nginx-as-a-reverse-proxy-564f76e856b2)
+- [@video@Proxy vs Reverse Proxy (Exemplos Reais)](https://www.youtube.com/watch?v=4NB0NDtOwIQ)

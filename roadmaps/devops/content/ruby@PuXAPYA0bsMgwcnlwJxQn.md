@@ -1,10 +1,10 @@
 # Ruby
 
-Ruby is a dynamic, open-source programming language with a focus on simplicity and productivity. It features an elegant syntax that is natural to read and easy to write, making it a popular choice for web development, particularly through the Ruby on Rails framework. Its object-oriented design and powerful standard library allow developers to build robust applications efficiently by prioritizing human-friendly code over complex machine-level logic.
+Ruby é um linguagem de programação dinâmica e de código aberto com foco em simplicidade e produtividade. Ele possui uma sintaxe elegante que é natural de ler e fácil de escrever, tornando-se uma escolha popular para o desenvolvimento web, especialmente através do framework Ruby on Rails. Seu design orientado a objetos e biblioteca padrão poderosa permitem aos desenvolvedores construir aplicativos robustos eficientemente, priorizando código amigável ao usuário em vez de complexa lógica de nível de máquina.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated Ruby Roadmap](https://roadmap.sh/ruby)
-- [@official@Ruby Website](https://www.ruby-lang.org/en/)
-- [@official@Learn Ruby in 20 minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
-- [@video@Ruby Programming Crash Course](https://www.youtube.com/watch?v=w9yNsTAp-Mg)
+- [@roadmap@Visite o Caminho do Ruby dedicado](https://roadmap.sh/ruby)
+- [@oficial@Site oficial do Ruby](https://www.ruby-lang.org/en/)
+- [@oficial@Aprenda Ruby em 20 minutos](https://www.ruby-lang.org/en/documentation/quickstart/)
+- [@vídeo@Curso rápido de introdução ao Ruby](https://www.youtube.com/watch?v=w9yNsTAp-Mg)

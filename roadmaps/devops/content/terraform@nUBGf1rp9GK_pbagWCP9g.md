@@ -1,10 +1,10 @@
 # Terraform
 
-Terraform is an open-source infrastructure as code tool that allows you to define and manage your data center infrastructure using a declarative configuration language. By writing infrastructure requirements in human-readable files, you can automate the creation, update, and versioning of cloud resources across various providers. It maintains a state file to track the current configuration of your environment, ensuring that the deployed infrastructure matches the intended design defined in your code.
+Terraform é uma ferramenta de código como infraestrutura de código aberta que permite definir e gerenciar sua infraestrutura de data center usando um idioma de configuração declarativa. Escrevendo requisitos de infraestrutura em arquivos legíveis por humanos, você pode automatizar a criação, atualização e versionamento de recursos na nuvem em vários provedores. Ele mantém um arquivo de estado para rastrear a configuração atual do seu ambiente, garantindo que a infraestrutura implantada corresponda ao design intencional definido no código.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit Dedicated Terraform Roadmap](https://roadmap.sh/terraform)
-- [@course@Complete Terraform Course](https://www.youtube.com/watch?v=7xngnjfIlK4)
-- [@official@Terraform Documentation](https://www.terraform.io/docs)
-- [@article@Terraform Backend: How it Works and How to Configure it](https://roadmap.sh/terraform/backend)
+- [@roadmap@Visite o Caminho Dedidado Terraform](https://roadmap.sh/terraform)
+- [@course@Curso Completo de Terraform](https://www.youtube.com/watch?v=7xngnjfIlK4)
+- [@official@Documentação do Terraform](https://www.terraform.io/docs)
+- [@article@Terraform Backend: Como Funciona e Como Configurá-lo](https://roadmap.sh/terraform/backend)

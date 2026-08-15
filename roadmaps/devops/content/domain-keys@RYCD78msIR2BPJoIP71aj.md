@@ -1,8 +1,8 @@
-# Domain Keys
+# Chaves de Domínio
 
-DomainKeys is an email authentication system designed to verify that an email message was sent by an authorized sender and has not been altered during transit. It works by attaching a digital signature to the header of an email, which the receiving mail server can then cryptographically validate using a public key published in the sender's DNS records. This process helps prevent email spoofing and ensures that the integrity of the message remains intact from the source to the destination.
+Chaves de Domínio é um sistema de autenticação de e-mail projetado para verificar que uma mensagem de e-mail foi enviada por um remetente autorizado e não tenha sido alterada durante o transporte. Ele funciona adicionando uma assinatura digital à cabeçalho de um e-mail, que o servidor de correio recebido pode então validar criptograficamente usando uma chave pública publicada nos registros DNS do remetente. Esse processo ajuda a prevenir suposição de e-mails e garante que a integridade da mensagem permaneça inalterada desde a origem até o destino.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@DomainKeys Identified Mail](https://www.brainkart.com/article/DomainKeys-Identified-Mail_8493/)
-- [@video@What is DKIM? DomainKeys Identified Mail](https://www.youtube.com/watch?v=IBhO0akhMlQ)
+- [@article@Chaves de Domínio Identificadas](https://www.brainkart.com/article/DomainKeys-Identified-Mail_8493/)
+- [@video@O que é DKIM? Chaves de Domínio Identificadas](https://www.youtube.com/watch?v=IBhO0akhMlQ)

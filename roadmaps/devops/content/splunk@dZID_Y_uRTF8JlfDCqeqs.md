@@ -1,9 +1,9 @@
 # Splunk
 
-Splunk is a data platform for searching, monitoring, and analyzing machine-generated data, including logs, metrics, and events. It is widely used in enterprise environments for security monitoring, IT operations, and business analytics, offering powerful search capabilities and a rich ecosystem of apps and integrations.
+Splunk é uma plataforma de dados para pesquisa, monitoramento e análise de dados gerados por máquinas, incluindo logs, métricas e eventos. É amplamente utilizado em ambientes empresariais para monitoramento de segurança, operações IT e análises de negócios, oferecendo capacidades de busca poderosas e um rico ecossistema de aplicativos e integrações.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Splunk Documentation](https://docs.splunk.com/Documentation)
-- [@official@Splunk Videos](https://www.splunk.com/en_us/resources/videos.html)
-- [@video@Splunk Tutorial for Beginners](https://www.youtube.com/watch?v=3CiRs6WaWaU)
+- [@official@Documentação oficial do Splunk](https://docs.splunk.com/Documentation)
+- [@official>Vídeos oficiais do Splunk](https://www.splunk.com/en_us/resources/videos.html)
+- [@video@Tutorial do Splunk para iniciantes](https://www.youtube.com/watch?v=3CiRs6WaWaU)

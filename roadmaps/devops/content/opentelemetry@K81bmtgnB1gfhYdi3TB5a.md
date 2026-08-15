@@ -1,10 +1,10 @@
 # OpenTelemetry
 
-OpenTelemetry is an open-source observability framework that provides standardized APIs, SDKs, and tools for collecting traces, metrics, and logs from applications. It is vendor-neutral and supported by most major observability platforms, making it the emerging standard for instrumenting cloud-native applications.
+O OpenTelemetry é um quadro de observabilidade aberto que fornece APIs, SDKs e ferramentas padronizadas para coletar rastreamentos, métricas e logs de aplicativos. Ele é neutro em relação a vendedores e suportado por maioria dos principais plataformas de observabilidade, tornando-se o padrão emergente para instrumentar aplicativos nativos da nuvem.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@OpenTelemetry Website](https://opentelemetry.io/)
-- [@official@OpenTelemetry Documentation](https://opentelemetry.io/docs/)
-- [@video@What is OpenTelemetry?](https://www.youtube.com/watch?v=mUA-uzk94ro)
-- [@video@OpenTelemetry Course - Understand Software Performance](https://www.youtube.com/watch?v=r8UvWSX3KA8)
+- [@official@Site do OpenTelemetry](https://opentelemetry.io/)
+- [@official@Documentação do OpenTelemetry](https://opentelemetry.io/docs/)
+- [@video@O que é o OpenTelemetry?](https://www.youtube.com/watch?v=mUA-uzk94ro)
+- [@video@Curso do OpenTelemetry - Entenda o desempenho do software](https://www.youtube.com/watch?v=r8UvWSX3KA8)

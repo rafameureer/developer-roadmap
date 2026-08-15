@@ -1,13 +1,13 @@
 # Go
 
-Go, also known as Golang, is a statically typed, compiled programming language developed by Google. It emphasizes simplicity, efficiency, and built-in concurrency support. Go features fast compilation, garbage collection, and a robust standard library. Its syntax is clean and concise, promoting easy readability and maintainability. Go's goroutines and channels provide powerful tools for concurrent programming. The language is particularly well-suited for system programming, network services, and cloud-native applications. Go's efficient memory usage and quick execution make it popular for building scalable server-side applications and microservices. With its focus on simplicity and performance, Go has gained significant adoption in DevOps tooling, containerization technologies, and cloud infrastructure projects.
+Go, também conhecido como Golang, é um idioma de programação estáticamente tipado e compilado desenvolvido pela Google. Ele enfatiza simplicidade, eficiência e suporte nativo à concorrência. O Go possui compilação rápida, coleta de lixo e uma biblioteca padrão robusta. Sua sintaxe é limpa e concisa, promovendo facilidade na leitura e manutenção. As goroutines e canais do Go oferecem ferramentas poderosas para programação concorrente. A linguagem é especialmente adequada para programação de sistemas, serviços de rede e aplicativos nativos da nuvem. O uso eficiente da memória e a execução rápida o tornam popular para construir aplicativos de servidor escaláveis e microserviços. Com seu foco na simplicidade e desempenho, Go obteve uma adotivação significativa em ferramentas DevOps, tecnologias de contêinerização e projetos de infraestrutura da nuvem.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit Dedicated Go Roadmap](https://roadmap.sh/golang)
-- [@official@A Tour of Go – Go Basics](https://go.dev/tour/welcome/1)
-- [@official@Go Reference Documentation](https://go.dev/doc/)
-- [@article@Go by Example - annotated example programs](https://gobyexample.com/)
-- [@article@Making a RESTful JSON API in Go](https://thenewstack.io/make-a-restful-json-api-go/)
-- [@video@Go in 100 Seconds](https://www.youtube.com/watch?v=446E-r0rXHI)
-- [@feed@Explore top posts about Golang](https://app.daily.dev/tags/golang?ref=roadmapsh)
+- [@roadmap@Visite o Caminho Dedidado do Go](https://roadmap.sh/golang)
+- [@oficial@Uma Visita ao Go – Básico do Go](https://go.dev/tour/welcome/1)
+- [@oficial@Documentação de Referência do Go](https://go.dev/doc/)
+- [@artigo@Go by Example - programas de exemplo anotados](https://gobyexample.com/)
+- [@artigo@Criando uma API RESTful JSON no Go](https://thenewstack.io/make-a-restful-json-api-go/)
+- [@vídeo@Go em 100 Segundos](https://www.youtube.com/watch?v=446E-r0rXHI)
+- [@feed]Explore as melhores postagens sobre o Go](https://app.daily.dev/tags/golang?ref=roadmapsh)

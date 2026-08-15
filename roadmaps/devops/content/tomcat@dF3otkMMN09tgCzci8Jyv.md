@@ -1,9 +1,9 @@
 # Tomcat
 
-Apache Tomcat is an open-source web server and servlet container that implements Java Servlet, JavaServer Pages (JSP), and Java Expression Language (EL) specifications. It is widely used to deploy and manage Java-based web applications. Tomcat provides a robust platform for running Java web applications with features like request handling, session management, and resource pooling. It is known for its performance, scalability, and ease of integration with other Java technologies, making it a popular choice for developers seeking to run Java applications in a production environment.
+Apache Tomcat é um servidor web e contêiner de servlets open-source que implementa as especificações Java Servlet, JavaServer Pages (JSP) e Java Expression Language (EL). É amplamente utilizado para implantar e gerenciar aplicativos web baseados em Java. O Tomcat oferece uma plataforma robusta para executar aplicativos web do Java com recursos como tratamento de solicitações, gerenciamento de sessões e pooling de recursos. Ele é conhecido por seu desempenho, escalabilidade e facilidade de integração com outras tecnologias Java, tornando-se uma escolha popular para desenvolvedores que buscam executar aplicativos Java em um ambiente de produção.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Tomcat Website](https://tomcat.apache.org/)
-- [@official@Tomcat Documentation](https://tomcat.apache.org/tomcat-10.0-doc/index.html)
-- [@video@Apache Tomcat Full Tutorial](https://www.youtube.com/watch?v=rElJIPRw5iM)
+- [@official@Site oficial do Tomcat](https://tomcat.apache.org/)
+- [@official@Documentação do Tomcat](https://tomcat.apache.org/tomcat-10.0-doc/index.html)
+- [@video@Tutorial Completo do Apache Tomcat](https://www.youtube.com/watch?v=rElJIPRw5iM)

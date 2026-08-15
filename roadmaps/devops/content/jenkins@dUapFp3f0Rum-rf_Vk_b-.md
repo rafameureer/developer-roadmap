@@ -1,10 +1,10 @@
 # Jenkins
 
-Jenkins is an open-source automation server widely used to build, test, and deploy software. It has a large ecosystem of plugins that integrate with virtually every tool in the development lifecycle, and supports both simple pipelines and complex distributed build configurations.
+Jenkins é um servidor de automação open-source amplamente utilizado para construir, testar e implantar software. Ele tem uma grande ecossistema de plugins que integram com praticamente todas as ferramentas do ciclo de vida de desenvolvimento e suporta tanto pipelines simples quanto configurações complexas de build distribuídas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Jenkins Website](https://www.jenkins.io/)
-- [@official@Jenkins Getting Started Guide](https://www.jenkins.io/doc/pipeline/tour/getting-started/)
-- [@article@Jenkins Tutorial](https://octopus.com/devops/jenkins/jenkins-tutorial/?utm_source=roadmap&utm_medium=link&utm_campaign=devops-ci-cd-gitlab-ci)
-- [@video@Learn Jenkins! Complete Jenkins Course - Zero to Hero](https://www.youtube.com/watch?v=6YZvp2GwT0A)
+- [@official@Site oficial do Jenkins](https://www.jenkins.io/)
+- [@official@Guia de introdução ao Jenkins](https://www.jenkins.io/doc/pipeline/tour/getting-started/)
+- [@article@Tutorial do Jenkins](https://octopus.com/devops/jenkins/jenkins-tutorial/?utm_source=roadmap&utm_medium=link&utm_campaign=devops-ci-cd-gitlab-ci)
+- [@video@Aprenda o Jenkins! Curso completo do Jenkins - De zero a herói](https://www.youtube.com/watch?v=6YZvp2GwT0A)

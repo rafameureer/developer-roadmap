@@ -1,10 +1,10 @@
 # Rust
 
-Rust is a multi-paradigm programming language designed for performance and safety, particularly safe concurrency. It achieves memory safety without a garbage collector by using a unique ownership model that checks references at compile time. Because of its efficiency and ability to manage low-level resources reliably, it is increasingly used to build high-performance infrastructure tools, cloud services, and command-line applications.
+Rust é uma linguagem de programação multi-paradigma projetada para desempenho e segurança, especialmente segurança em concorrência. Ele atinge a segurança da memória sem um coletor de lixo usando um modelo único de propriedade que verifica referências em tempo de compilação. Devido à sua eficiência e capacidade de gerenciar recursos de nível baixo de forma confiável, ele está sendo cada vez mais usado para construir ferramentas de infraestrutura de alto desempenho, serviços na nuvem e aplicativos de linha de comando.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit Dedicated Rust Roadmap](https://roadmap.sh/rust)
-- [@course@Rust by Practice - Interactive Rust Course](https://practice.course.rs/)
-- [@official@The Rust Programming Language - Online Book](https://doc.rust-lang.org/book/)
-- [@video@Full Crash Rust Tutorial for Beginners](https://www.youtube.com/watch?v=R33h77nrMqc&list=PLPoSdR46FgI412aItyJhj2bF66cudB6Qs)
+- [@roadmap@Visite o Caminho do Rust dedicado](https://roadmap.sh/rust)
+- [@curso@Rust por Prática - Curso Interativo em Rust](https://practice.course.rs/)
+- [@oficial@O Livro de Programação em Rust - Livro Online](https://doc.rust-lang.org/book/)
+- [@vídeo@Tutorial completo em Rust para iniciantes](https://www.youtube.com/watch?v=R33h77nrMqc&list=PLPoSdR46FgI412aItyJhj2bF66cudB6Qs)

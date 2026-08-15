@@ -1,8 +1,8 @@
-# Cloud Providers
+# Provedores de nuvem
 
-Cloud providers provide a layer of APIs to abstract infrastructure and provision it based on security and billing boundaries. The cloud runs on servers in data centers, but the abstractions cleverly give the appearance of interacting with a single “platform” or large application. The ability to quickly provision, configure, and secure resources with cloud providers has been key to both the tremendous success and complexity of modern DevOps.
+Os provedores de nuvem oferecem uma camada de APIs para abstrair a infraestrutura e fornecer recursos com base em limites de segurança e cobrança. A nuvem roda em servidores em centros de dados, mas as abstrações criam a impressão de interagir com uma única "plataforma" ou aplicativo grande. A capacidade de provisionar, configurar e proteger recursos rapidamente com provedores de nuvem foi crucial tanto para o enorme sucesso quanto para a complexidade moderna do DevOps.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Cloud Service Provider](https://www.techtarget.com/searchitchannel/definition/cloud-service-provider-cloud-provider)
-- [@article@What are Cloud Providers?](https://www.redhat.com/en/topics/cloud-computing/what-are-cloud-providers)
+- [@artigo@Provedor de Serviço em Nuvem](https://www.techtarget.com/searchitchannel/definition/cloud-service-provider-cloud-provider)
+- [@artigo@O que são Provedores de Nuvem?](https://www.redhat.com/en/topics/cloud-computing/what-are-cloud-providers)

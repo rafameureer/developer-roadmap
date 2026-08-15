@@ -1,10 +1,10 @@
 # Kubernetes
 
-Kubernetes is an open-source container orchestration platform originally developed by Google. It automates the deployment, scaling, and management of containerized applications across clusters of nodes, and has become the de facto standard for running containers in production environments.
+Kubernetes é um plataforma de orquestração de contêineres open-source originalmente desenvolvida pela Google. Ele automatiza o deploy, escala e gerencia aplicativos containerizados em clusters de nós, tornando-se a padrão fato para executar contêineres em ambientes de produção.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit Dedicated Kubernetes Roadmap](https://roadmap.sh/kubernetes)
-- [@official@Kubernetes Website](https://kubernetes.io/)
+- [@roadmap@Visite o roadmap dedicado ao Kubernetes](https://roadmap.sh/kubernetes)
+- [@official@Site oficial do Kubernetes](https://kubernetes.io/)
 - [@opensource@kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
-- [@article@Kubernetes: An Overview](https://thenewstack.io/kubernetes-an-overview/)
+- [@article@Kubernetes: Uma visão geral](https://thenewstack.io/kubernetes-an-overview/)

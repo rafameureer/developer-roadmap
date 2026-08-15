@@ -1,9 +1,9 @@
-# Cloud Specific Tools
+# Ferramentas Específicas da Nuvem
 
-Major cloud providers offer their own native secret management services, such as AWS Secrets Manager, Azure Key Vault, and GCP Secret Manager. These services allow applications running in those clouds to securely store and retrieve secrets with built-in access controls, audit logging, and automatic rotation capabilities.
+Os principais provedores de nuvem oferecem seus próprios serviços nativos de gerenciamento de segredos, como o AWS Secrets Manager, Azure Key Vault e o GCP Secret Manager. Esses serviços permitem que aplicativos em nuvens armazenem e recuperem segredos de forma segura com controles de acesso integrados, registro de auditoria e capacidades de rotação automática.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@AWS Secrets Manager - Amazon Web Services](https://aws.amazon.com/secrets-manager/)
-- [@article@Google Cloud Secret Manager - Google Cloud](https://cloud.google.com/secret-manager)
-- [@article@Azure Key Vault - Microsoft Azure](https://azure.microsoft.com/en-us/services/key-vault/)
+- [@artigo@AWS Secrets Manager - Amazon Web Services](https://aws.amazon.com/secrets-manager/)
+- [@artigo@Google Cloud Secret Manager - Google Cloud](https://cloud.google.com/secret-manager)
+- [@artigo@Azure Key Vault - Microsoft Azure](https://azure.microsoft.com/en-us/services/key-vault/)

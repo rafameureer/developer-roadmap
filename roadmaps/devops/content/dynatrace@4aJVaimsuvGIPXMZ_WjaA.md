@@ -1,9 +1,9 @@
 # Dynatrace
 
-Dynatrace is an AI-powered observability and application performance monitoring platform. It automatically discovers and maps all components of your environment, collects metrics, traces, and logs, and uses its AI engine (called Davis) to detect anomalies and identify root causes without requiring manual configuration.
+Dynatrace é uma plataforma de observabilidade e monitoramento de desempenho de aplicativos baseada em IA. Ele descobre automaticamente e mapeia todos os componentes do seu ambiente, coleta métricas, rastreamentos e logs, e usa seu motor de IA (chamado Davis) para detectar anomalias e identificar causas raízes sem a necessidade de configuração manual.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Dynatrace Documentation](https://docs.dynatrace.com/docs)
-- [@video@What is Dynatrace in 15 minutes](https://www.youtube.com/watch?v=qo6vjyE-Ak0)
-- [@video@Dynatrace Fundamental Tutorials](https://www.youtube.com/watch?v=F2PvOaM5Iws&list=PLDhScTEBdP8yAgvshsI_TwWvH2FCiOtd5)
+- [@official@Documentação oficial do Dynatrace](https://docs.dynatrace.com/docs)
+- [@video@O que é o Dynatrace em 15 minutos](https://www.youtube.com/watch?v=qo6vjyE-Ak0)
+- [@video@Tutoriais Fundamentais do Dynatrace](https://www.youtube.com/watch?v=F2PvOaM5Iws&list=PLDhScTEBdP8yAgvshsI_TwWvH2FCiOtd5)

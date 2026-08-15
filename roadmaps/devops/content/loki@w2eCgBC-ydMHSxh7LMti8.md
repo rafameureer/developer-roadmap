@@ -1,9 +1,9 @@
 # Loki
 
-Loki is a log aggregation system developed by Grafana Labs, designed to be cost-effective and easy to operate. Unlike other log systems, it indexes only metadata labels rather than the full log content, making it lightweight and well-suited for use alongside Prometheus and Grafana.
+O Loki é um sistema de agregação de logs desenvolvido pela Grafana Labs, projetado para ser econômico e fácil de operar. Diferentemente de outros sistemas de log, ele indexa apenas rótulos de metadados em vez do conteúdo completo dos logs, tornando-o leve e adequado para uso junto com o Prometheus e o Grafana.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Loki](https://grafana.com/oss/loki/)
-- [@official@Loki Documentation](https://grafana.com/docs/loki/latest/?pg=oss-loki&plcmt=quick-links)
-- [@video@Meet Grafana LOKI, a Log Aggregation System for EVERYTHING](https://www.youtube.com/watch?v=h_GGd7HfKQ8)
+- [@official@Documentação do Loki](https://grafana.com/docs/loki/latest/?pg=oss-loki&plcmt=quick-links)
+- [@video@Conheça o Grafana LOKI, um Sistema de Agregação de Logs para TUDO](https://www.youtube.com/watch?v=h_GGd7HfKQ8)

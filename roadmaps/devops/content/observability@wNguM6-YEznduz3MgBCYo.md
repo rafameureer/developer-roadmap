@@ -1,8 +1,8 @@
-# Observability
+# Observabilidade
 
-Observability is the ability to understand the internal state of a system by examining the data it produces, such as primarily logs, metrics, and traces, often referred to as the "three pillars of observability." A highly observable system makes it easier to diagnose unexpected behavior, track performance over time, and understand how different components interact.
+A observabilidade é a capacidade de entender o estado interno de um sistema examinando os dados que ele produz, como principalmente logs, métricas e rastreamentos, frequentemente referidos como as "três pilares da observabilidade". Um sistema altamente observável facilita a diagnóstico de comportamentos inesperados, o acompanhamento do desempenho ao longo do tempo e a compreensão de como diferentes componentes interagem.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Applying Basic vs. Advanced Monitoring Techniques](https://thenewstack.io/applying-basic-vs-advanced-monitoring-techniques/)
-- [@video@Application Monitoring - 4 Golden Signals](https://www.youtube.com/watch?v=PHcnmTdVPT0)
+- [@article@Aplicando Técnicas Básicas vs. Avançadas de Monitoramento](https://thenewstack.io/applying-basic-vs-advanced-monitoring-techniques/)
+- [@video@Monitoramento de Aplicações - 4 Sinais Dourados](https://www.youtube.com/watch?v=PHcnmTdVPT0)

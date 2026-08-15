@@ -1,9 +1,9 @@
-# OSI Model
+# Modelo OSI
 
-The OSI (Open Systems Interconnection) model is a conceptual framework that standardizes the functions of a telecommunication or computing system into seven abstraction layers. These layers, from bottom to top, are: Physical, Data Link, Network, Transport, Session, Presentation, and Application. Each layer serves a specific purpose in the process of data communication, with lower layers handling more hardware-oriented tasks and upper layers dealing with software and user-interface aspects. The model helps in understanding how data moves through a network, troubleshooting network issues, and designing network protocols and hardware. While not strictly adhered to in real-world implementations, the OSI model remains a valuable educational tool and reference point for network engineers and developers, providing a common language for discussing network operations and architecture.
+O modelo OSI (Open Systems Interconnection) é um quadro conceitual que estabelece as funções de um sistema de telecomunicação ou computação em sete camadas abstratas. Essas camadas, da mais baixa para a mais alta, são: Física, Enlace de Dados, Rede, Transporte, Sessão, Apresentação e Aplicação. Cada camada tem um propósito específico no processo de comunicação de dados, com as camadas inferiores lidando com tarefas mais orientadas ao hardware e as camadas superiores lidando com aspectos de software e interface do usuário. O modelo ajuda a entender como os dados se movem por uma rede, solucionar problemas de rede e projetar protocolos de rede e hardware. Embora não seja estritamente seguido em implementações reais, o modelo OSI continua sendo uma ferramenta educacional valiosa e um ponto de referência para engenheiros e desenvolvedores de redes, fornecendo um idioma comum para discutir operações e arquitetura de rede.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is OSI Model?](https://www.cloudflare.com/en-gb/learning/ddos/glossary/open-systems-interconnection-model-osi/)
-- [@video@OSI Model](https://www.youtube.com/watch?v=dV8mjZd1OtU)
-- [@video@OSI vs TCP/IP Model](https://www.youtube.com/watch?v=F5rni9fr1yE)
+- [@artigo@O que é Modelo OSI?](https://www.cloudflare.com/en-gb/learning/ddos/glossary/open-systems-interconnection-model-osi/)
+- [@vídeo@Modelo OSI](https://www.youtube.com/watch?v=dV8mjZd1OtU)
+- [@vídeo@Modelo OSI vs TCP/IP](https://www.youtube.com/watch?v=F5rni9fr1yE)

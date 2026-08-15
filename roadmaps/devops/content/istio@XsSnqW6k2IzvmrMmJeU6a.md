@@ -1,8 +1,8 @@
 # Istio
 
-Istio is an open source service mesh platform that provides a way to control how microservices share data. It includes APIs that let Istio integrate into any logging platform, telemetry, or policy system. Istio is designed to run in a variety of environments: on-premise, cloud-hosted, in Kubernetes containers, in services running on virtual machines, and more.
+O Istio é uma plataforma de malha de serviço de código aberto que fornece um modo de controlar como os microserviços compartilham dados. Ele inclui APIs que permitem que o Istio integre-se em qualquer plataforma de registro, telemetria ou sistema de política. O Istio está projetado para funcionar em vários ambientes: on-premise, hospedados na nuvem, dentro de contêineres do Kubernetes, em serviços rodando em máquinas virtuais e muito mais.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@article@What is Istio?](https://www.redhat.com/en/topics/microservices/what-is-istio)
-- [@video@Istio Service Mesh Explained](https://www.youtube.com/watch?v=6zDrLvpfCK4)
+- [@artigo@O que é Istio?](https://www.redhat.com/en/topics/microservices/what-is-istio)
+- [@vídeo@Malha de Serviço Istio Explicada](https://www.youtube.com/watch?v=6zDrLvpfCK4)

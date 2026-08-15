@@ -1,9 +1,9 @@
-# Performance Monitoring
+# Monitoramento de Desempenho
 
-Performance monitoring involves tracking and analyzing the resource usage and health of a computer system in real-time. By using command-line tools like `top`, `htop`, `vmstat`, and `iostat`, you can observe how CPU, memory, disk I/O, and network bandwidth are being consumed by various processes. This practice helps in identifying bottlenecks, troubleshooting unexpected spikes in resource demand, and ensuring that applications run efficiently under different workloads.
+O monitoramento de desempenho envolve o acompanhamento e análise do uso de recursos e saúde de um sistema computacional em tempo real. Ao usar ferramentas de linha de comando como `top`, `htop`, `vmstat` e `iostat`, você pode observar como CPU, memória, E/S de disco e largura de banda da rede estão sendo consumidos por vários processos. Essa prática ajuda a identificar gargalos, diagnosticar picos inesperados no consumo de recursos e garantir que as aplicações sejam executadas eficientemente sob diferentes cargas de trabalho.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Linux Commands: Exploring Virtual Memory with vmstat](https://www.redhat.com/sysadmin/linux-commands-vmstat)
-- [@article@VMstat Man Page](https://man7.org/linux/man-pages/man8/vmstat.8.html)
-- [@article@vmstat tutorial](https://phoenixnap.com/kb/vmstat-command)
+- [@artigo@Comandos Linux: Explorando a Memória Virtual com vmstat](https://www.redhat.com/sysadmin/linux-commands-vmstat)
+- [@manual@Manual da vmstat](https://man7.org/linux/man-pages/man8/vmstat.8.html)
+- [@tutorial@Tutorial sobre o comando vmstat](https://phoenixnap.com/kb/vmstat-command)

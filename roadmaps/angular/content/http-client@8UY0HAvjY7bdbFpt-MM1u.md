@@ -1,9 +1,9 @@
-# HTTP Client
+# Cliente HTTP
 
-Most front-end applications need to communicate with a server over the HTTP protocol, to download or upload data and access other back-end services. Angular provides a client HTTP API for Angular applications, the `HttpClient` service class in `@angular/common/http`.
+A maioria das aplicações front-end precisa se comunicar com um servidor através do protocolo HTTP, para baixar ou carregar dados e acessar outros serviços de back-end. O Angular fornece uma API de cliente HTTP para aplicativos Angular, a classe de serviço `HttpClient` em `@angular/common/http`.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@HTTP Client](https://angular.dev/guide/http)
-- [@article@Angular HTTP Client - Quickstart Guide](https://blog.angular-university.io/angular-http/)
-- [@article@Using HTTP Client in modern Angular applications](https://www.thisdot.co/blog/using-httpclient-in-modern-angular-applications)
+- [@official@Cliente HTTP](https://angular.dev/guide/http)
+- [@article@Guia Rápido do Cliente HTTP do Angular](https://blog.angular-university.io/angular-http/)
+- [@article@Usando o Cliente HTTP em Aplicações Angular Modernas](https://www.thisdot.co/blog/using-httpclient-in-modern-angular-applications)

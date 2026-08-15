@@ -1,9 +1,9 @@
-# Testing directives
+# Testando Diretivas
 
-Directives are classes that add new behavior or modify the existing behavior to the elements in the template. Basically directives are used to manipulate the DOM, for example adding/removing the element from DOM or changing the appearance of the DOM elements.
+As diretivas são classes que adicionam novo comportamento ou modificam o comportamento existente aos elementos no template. Basicamente, as diretivas são usadas para manipular o DOM, por exemplo, adicionando/removendo elementos do DOM ou alterando a aparência dos elementos do DOM.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Attribute Directives](https://angular.dev/guide/testing/attribute-directives)
-- [@article@Testing Directives](https://testing-angular.com/testing-directives/)
-- [@feed@Explore top posts about Testing](https://app.daily.dev/tags/testing?ref=roadmapsh)
+- [@oficial@Diretivas de Atributo](https://angular.dev/guide/testing/attribute-directives)
+- [@artigo@Testando Diretivas](https://testing-angular.com/testing-directives/)
+- [@feed]Explore as principais postagens sobre Teste</a>

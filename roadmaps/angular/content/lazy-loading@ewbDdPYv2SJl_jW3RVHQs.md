@@ -1,8 +1,8 @@
-# Lazy loading
+# Carregamento Eager
 
-Lazy loading is a technique in Angular that allows you to load JavaScript components asynchronously when a specific route is activated. It improves the application load time speed by splitting the application into several bundles. The bundles are loaded as required when the user navigates through the app.
+O carregamento eager é uma técnica no Angular que permite carregar componentes JavaScript de forma assíncrona quando uma rota específica é ativada. Ele melhora a velocidade do tempo de carregamento da aplicação dividindo-a em vários pacotes. Os pacotes são carregados conforme necessário enquanto o usuário navega pela aplicação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Lazy-loading Feature Modules](https://angular.dev/guide/ngmodules/lazy-loading)
-- [@video@Angular Tutorial - Lazy Loading](https://www.youtube.com/watch?v=JjIQq9lh-Bw)
+- [@oficial@Carregamento Eager](https://angular.dev/guide/ngmodules/lazy-loading)
+- [@vídeo@Tutorial do Angular - Carregamento Eager](https://www.youtube.com/watch?v=JjIQq9lh-Bw)

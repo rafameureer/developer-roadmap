@@ -1,8 +1,8 @@
 # Schematics
 
-A schematic is a template-based code generator that supports complex logic. It is a set of instructions for transforming a software project by generating or modifying code.
+Um schematic é um gerador de código baseado em modelos que suporta lógica complexa. É um conjunto de instruções para transformar um projeto de software gerando ou modificando código.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Generating Code using Schematics](https://angular.dev/tools/cli/schematics)
-- [@article@Angular Blog](https://blog.angular.io/schematics-an-introduction-dc1dfbc2a2b2?gi=ad9571373944)
+- [@oficial@Generating Code using Schematics](https://angular.dev/tools/cli/schematics)
+- [@artigo@Angular Blog](https://blog.angular.io/schematics-an-introduction-dc1dfbc2a2b2?gi=ad9571373944)

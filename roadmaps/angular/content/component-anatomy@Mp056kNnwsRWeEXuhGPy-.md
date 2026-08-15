@@ -1,14 +1,14 @@
-# Component Anatomy
+# Anatomia do Componente
 
-Angular components are the foundational building blocks of Angular applications, designed to encapsulate both the UI and the business logic.
+Os componentes do Angular são os blocos de construção fundamentais das aplicações Angular, projetados para encapsular tanto a interface do usuário quanto a lógica de negócios.
 
-Every component must have:
+Cada componente deve ter:
 
-*   A TypeScript class with behaviors
-*   An HTML template
-*   A CSS selector
+*   Uma classe TypeScript com comportamentos
+*   Um modelo HTML
+*   Um seletor CSS
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Anatomy of a Component](https://angular.dev/guide/components)
-- [@official@Anatomy of a Component - Interactive Tutorial](https://angular.dev/tutorials/learn-angular/1-components-in-angular)
+- [@oficial@Anatomia de um Componente](https://angular.dev/guide/components)
+- [@oficial@Anatomia de um Componente - Tutorial Interativo](https://angular.dev/tutorials/learn-angular/1-components-in-angular)

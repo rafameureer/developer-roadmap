@@ -1,8 +1,8 @@
 # @switch
 
-The `@switch` blocks displays content selected by one of the cases matching against the conditional expression. The value of the conditional expression is compared to the case expression using the `===` operator. `@switch` does not have fallthrough, so you do not need an equivalent to a break or return statement.
+O bloco `@switch` exibe o conteúdo selecionado por um dos casos que correspondem à expressão condicional. O valor da expressão condicional é comparado com a expressão do caso usando o operador `===`. `@switch` não tem fallthrough, então você não precisa de uma equivalente a uma declaração break ou return.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@@switch](https://angular.dev/guide/templates/control-flow#switch-block---selection)
-- [@article@Angular @switch: Complete Guide](https://blog.angular-university.io/angular-switch/)
+- [@article@Angular @switch: Guia Completo](https://blog.angular-university.io/angular-switch/)

@@ -1,7 +1,7 @@
-# Creating Modules
+# Criando Módulos
 
-Creating modules in Angular helps organize your application into manageable, cohesive units. Each module can encapsulate related components, directives, pipes, and services. Here's a detailed guide on how to create and use modules in Angular.
+Criar módulos no Angular ajuda a organizar seu aplicativo em unidades gerenciáveis e coesas. Cada módulo pode encapsular componentes, diretivas, pipes e serviços relacionados. Aqui está um guia detalhado sobre como criar e usar módulos no Angular.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Feature Modules](https://angular.dev/guide/ngmodules/feature-modules)
+- [@official@Módulos de Funcionalidade](https://angular.dev/guide/ngmodules/feature-modules)

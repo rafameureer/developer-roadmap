@@ -1,8 +1,8 @@
-# Filtering
+# Filtros
 
-RxJS provides a variety of filtering operators that you can use to filter and transform the data in a stream. You can use these operators in combination with other RxJS operators to create powerful and efficient data processing pipelines.
+O RxJS oferece uma variedade de operadores de filtro que você pode usar para filtrar e transformar os dados em um fluxo. Você pode usar esses operadores em combinação com outros operadores do RxJS para criar pipelines de processamento de dados poderosos e eficientes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@RxJS Operators](https://www.learnrxjs.io/learn-rxjs/operators)
-- [@article@Understanding RxJS Operators](https://medium.com/@madhavi792002/understanding-rxjs-operators-a-friendly-guide-to-reactive-programming-part-1-305dbc0c6e72)
+- [@official@Operadores do RxJS](https://www.learnrxjs.io/learn-rxjs/operators)
+- [@article@Entendendo Operadores do RxJS](https://medium.com/@madhavi792002/understanding-rxjs-operators-a-friendly-guide-to-reactive-programming-part-1-305dbc0c6e72)

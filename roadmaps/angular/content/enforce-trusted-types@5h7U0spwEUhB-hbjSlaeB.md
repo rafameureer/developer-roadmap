@@ -1,10 +1,10 @@
-# Enforce Trusted Types
+# Forçar Tipos Confiáveis
 
-It is recommended that you use Trusted Types as a way to help secure your applications from cross-site scripting attacks. Trusted Types is a web platform feature that can help you prevent cross-site scripting attacks by enforcing safer coding practices. Trusted Types can also help simplify the auditing of application code.
+Recomenda-se que você use Tipos Confiáveis como uma maneira de ajudar a proteger seus aplicativos contra ataques de injeção de script entre sites. Os Tipos Confiáveis são uma funcionalidade da plataforma web que pode ajudá-lo a prevenir ataques de injeção de script ao impor práticas de codificação mais seguras. Os Tipos Confiáveis também podem ajudar a simplificar o auditoria do código do aplicativo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Enforcing Trusted Types](https://angular.dev/best-practices/security#enforcing-trusted-types)
-- [@official@W3C - Trusted Types](https://w3c.github.io/trusted-types/dist/spec/)
-- [@official@Trusted Types API](https://developer.mozilla.org/en-US/docs/Web/API/Trusted_Types_API)
-- [@article@How to use Trusted Types](https://web.dev/articles/trusted-types#how-to-use-trusted-types)
+- [@oficial@Forçando Tipos Confiáveis](https://angular.dev/best-practices/security#enforcing-trusted-types)
+- [@oficial@W3C - Tipos Confiáveis](https://w3c.github.io/trusted-types/dist/spec/)
+- [@oficial@Api de Tipos Confiáveis](https://developer.mozilla.org/en-US/docs/Web/API/Trusted_Types_API)
+- [@artigo@Como usar Tipos Confiáveis](https://web.dev/articles/trusted-types#how-to-use-trusted-types)

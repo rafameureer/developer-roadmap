@@ -1,13 +1,13 @@
-# Combination
+# Combinação
 
-RxJS combination operators merge multiple observables into a single one using various strategies. Key operators include: `Merge` (emits items from all sources as they arrive), `Concat` (emits items from sources sequentially, one after another), `Zip` (pairs emissions from sources based on index), `CombineLatest` (emits based on the latest values from all sources whenever any source emits), `WithLatestFrom` (combines the value of one observable with the latest values of others when the first observable emits), and `ForkJoin` (emits the last value from each source only after all sources complete).
+Os operadores de combinação do RxJS mesclam vários observáveis em um único observável usando várias estratégias. Os principais operadores incluem: `Merge` (emite itens de todas as fontes conforme chegam), `Concat` (emite itens de fontes sequencialmente, um após o outro), `Zip` (pareia emissões de fontes com base no índice), `CombineLatest` (emite com base nos valores mais recentes de todas as fontes sempre que qualquer uma das fontes emite), `WithLatestFrom` (combina o valor de um observável com os valores mais recentes dos outros quando o primeiro observável emite), e `ForkJoin` (emite apenas o último valor de cada fonte após todas as fontes serem concluídas).
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@The RxJS Library](https://v17.angular.io/guide/rx-library)
-- [@official@Merge](https://www.learnrxjs.io/learn-rxjs/operators/combination/merge)
-- [@official@Concat](https://www.learnrxjs.io/learn-rxjs/operators/combination/concat)
-- [@official@Zip](https://www.learnrxjs.io/learn-rxjs/operators/combination/zip)
-- [@official@CombineLatest](https://www.learnrxjs.io/learn-rxjs/operators/combination/combineLatest)
-- [@official@WithLatestFrom](https://www.learnrxjs.io/learn-rxjs/operators/combination/withLatestFrom)
-- [@official@ForkJoin](https://www.learnrxjs.io/learn-rxjs/operators/combination/forkJoin)
+- [@oficial@A Biblioteca RxJS](https://v17.angular.io/guide/rx-library)
+- [@oficial@Merge](https://www.learnrxjs.io/learn-rxjs/operators/combination/merge)
+- [@oficial@Concat](https://www.learnrxjs.io/learn-rxjs/operators/combination/concat)
+- [@oficial@Zip](https://www.learnrxjs.io/learn-rxjs/operators/combination/zip)
+- [@oficial@CombineLatest](https://www.learnrxjs.io/learn-rxjs/operators/combination/combineLatest)
+- [@oficial@WithLatestFrom](https://www.learnrxjs.io/learn-rxjs/operators/combination/withLatestFrom)
+- [@oficial@ForkJoin](https://www.learnrxjs.io/learn-rxjs/operators/combination/forkJoin)

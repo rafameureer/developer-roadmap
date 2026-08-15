@@ -1,11 +1,11 @@
 # HttpClient CSRF
 
-HttpClient includes a built-in mechanism to prevent XSRF attacks. When making HTTP requests, an interceptor reads a token from a cookie (default name: XSRF-TOKEN) and sets it as an HTTP header (X-XSRF-TOKEN). Since only code running on your domain can read this cookie, the backend can verify that the HTTP request originates from your client application and not from an attacker.
+O HttpClient inclui um mecanismo embutido para prevenir ataques de XSRF. Quando fazendo solicitações HTTP, um interceptor lê um token de um cookie (nome padrão: XSRF-TOKEN) e o define como um cabeçalho HTTP (X-XSRF-TOKEN). Como apenas código em execução no seu domínio pode ler este cookie, o backend pode verificar que a solicitação HTTP origina-se da sua aplicação cliente e não de um atacante.
 
-However, HttpClient only handles the client-side aspect of XSRF protection. Your backend service must be configured to set the cookie for your page and verify that the header is present on all relevant requests. Without this backend configuration, Angular’s default XSRF protection will not be effective.
+No entanto, o HttpClient só lida com a parte do lado do cliente da proteção contra XSRF. Seu serviço de backend deve ser configurado para definir o cookie para sua página e verificar que o cabeçalho esteja presente em todas as solicitações relevantes. Sem esta configuração de backend, a proteção XSRF padrão do Angular não será eficaz.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Angular Security](https://angular.dev/best-practices/security#httpclient-xsrf-csrf-security)
-- [@article@How can you protect Angular Web app from cross site request forgery?](https://www.linkedin.com/advice/3/how-can-you-protect-angular-web-app-from-cross-site-pyqwc)
-- [@article@Cross Site Request Forgery: XSRF protection in Angular](https://borstch.com/blog/development/cross-site-request-forgery-xsrf-protection-in-angular)
+- [@official@Segurança do Angular](https://angular.dev/best-practices/security#httpclient-xsrf-csrf-security)
+- [@article@Como você pode proteger uma aplicação web Angular contra ataques de falsificação de solicitação cruzada?](https://www.linkedin.com/advice/3/how-can-you-protect-angular-web-app-from-cross-site-pyqwc)
+- [@article@Falsificação de Solicitação Cruzada: Proteção XSRF em Angular](https://borstch.com/blog/development/cross-site-request-forgery-xsrf-protection-in-angular)

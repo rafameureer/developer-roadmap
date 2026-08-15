@@ -1,15 +1,15 @@
-# Complex Sequences
+# Sequências Complexas
 
-Angular lets you animate coordinated sequences, such as an entire grid or list of elements as they enter and leave a page. You can choose to run multiple animations in parallel, or run discrete animations sequentially, one following another.
+O Angular permite animar sequências coordenadas, como uma grade ou lista de elementos inteira enquanto entram e saem da página. Você pode escolher executar várias animações em paralelo ou animações discretas em sequência, uma após outra.
 
-The functions that control complex animation sequences are:
+As funções que controlam sequências complexas de animação são:
 
-*   `query()`: Finds one or more inner HTML elements.
-*   `stagger()`: Applies a cascading delay to animations for multiple elements.
-*   `group()`: Runs multiple animation steps in parallel.
-*   `sequence()`: Runs animation steps one after another.
+*   `query()`: Encontra um ou mais elementos HTML internos.
+*   `stagger()`: Aplica um atraso cascading a animações para vários elementos.
+*   `group()`: Executa várias etapas de animação em paralelo.
+*   `sequence()`: Executa etapas de animação uma após outra.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Complex Sequences](https://angular.dev/guide/animations/complex-sequences)
-- [@video@Angular Animations: Animating multiple items in parallel](https://www.youtube.com/watch?v=RPdR7HzNQIw)
+- [@oficial@Sequências Complexas](https://angular.dev/guide/animations/complex-sequences)
+- [@video@Animações do Angular: Animando vários itens em paralelo](https://www.youtube.com/watch?v=RPdR7HzNQIw)

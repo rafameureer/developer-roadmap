@@ -1,12 +1,12 @@
-# Angular CLI
+# CLI do Angular
 
-The Angular CLI is a command-line interface tool that you use to initialize, develop, scaffold, and maintain Angular applications directly from a command shell. we can install angular latest CLI using the following command:
+O CLI do Angular é uma ferramenta de interface de linha de comando que você usa para inicializar, desenvolver, esqueleto e manter aplicativos Angular diretamente a partir de um shell de comando. Podemos instalar o último CLI do Angular usando o seguinte comando:
 
 `npm install -g @angular/cli`
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@CLI Reference](https://angular.dev/cli)
-- [@official@The Angular CLI](https://angular.dev/tools/cli)
-- [@video@Angular CLI - Setup](https://www.youtube.com/watch?v=mZnzX3J5XKI)
-- [@feed@Explore top posts about Angular](https://app.daily.dev/tags/angular?ref=roadmapsh)
+- [@oficial@Referência do CLI](https://angular.dev/cli)
+- [@oficial@O CLI do Angular](https://angular.dev/tools/cli)
+- [@vídeo@Configuração do CLI do Angular](https://www.youtube.com/watch?v=mZnzX3J5XKI)
+- [@feed@Explore as melhores postagens sobre o Angular](https://app.daily.dev/tags/angular?ref=roadmapsh)

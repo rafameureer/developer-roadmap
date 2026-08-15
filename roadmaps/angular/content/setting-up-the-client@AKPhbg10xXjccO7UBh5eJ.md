@@ -1,8 +1,8 @@
-# Setting Up the Client
+# Configurando o Cliente
 
-Before you can use `HttpClient` in your app, you must configure it using dependency injection. `HttpClient` is provided using the `provideHttpClient` helper function, which most apps include in the application providers in `app.config.ts`. If your app is using NgModule-based bootstrap instead, you can include `provideHttpClient` in the providers of your app's `NgModule`.
+Antes de você poder usar `HttpClient` em seu aplicativo, deve configurá-lo usando a injeção de dependências. O `HttpClient` é fornecido usando a função auxiliar `provideHttpClient`, que a maioria dos apps inclui nas provedores do aplicativo em `app.config.ts`. Se o seu app estiver usando bootstrap baseado em NgModule, você pode incluir `provideHttpClient` nos provedores de seu `NgModule`.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Setting up HttpClient](https://angular.dev/guide/http/setup)
-- [@video@Setting up HttpClient in Angular (NgModule)](https://www.youtube.com/watch?v=hBFtim1vO3M)
+- [@oficial@Configurando HttpClient](https://angular.dev/guide/http/setup)
+- [@vídeo@Configurando HttpClient no Angular (NgModule)](https://www.youtube.com/watch?v=hBFtim1vO3M)

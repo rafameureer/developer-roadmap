@@ -1,9 +1,9 @@
-# Inputs as Signals
+# Entradas como Sinais
 
-Signal inputs allow values to be bound from parent components. Those values are exposed using a Signal and can change during the lifecycle of your component. Angular supports two variants of inputs: `Optional` and `Required`.
+Os sinais de entrada permitem que valores sejam vinculados a componentes pai. Esses valores são expostos usando um Sinal e podem mudar durante o ciclo de vida do seu componente. O Angular suporta duas variantes de entradas: `Opcional` e `Necessária`.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Inputs as Signals](https://angular.dev/guide/signals/inputs)
-- [@article@Angular Signal Inputs: Complete Guide to input()](https://blog.angular-university.io/angular-signal-inputs/)
-- [@video@Angular's New Signal Inputs](https://www.youtube.com/watch?v=yjCeaiWXC0U)
+- [@oficial@Entradas como Sinais](https://angular.dev/guide/signals/inputs)
+- [@artigo@Sinais de Entrada do Angular: Guia Completo para input()](https://blog.angular-university.io/angular-signal-inputs/)
+- [@vídeo@Novos Sinais de Entrada do Angular](https://www.youtube.com/watch?v=yjCeaiWXC0U)

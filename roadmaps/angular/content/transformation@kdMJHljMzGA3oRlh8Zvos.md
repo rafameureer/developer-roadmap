@@ -1,20 +1,20 @@
-# Transformation
+# Transformação
 
-In RxJS, "transformation" refers to the process of modifying or manipulating the data emitted by an Observable. There are a variety of methods available in RxJS that can be used to transform the data emitted by an Observable, including:
+No RxJS, "transformação" refere-se ao processo de modificar ou manipular os dados emitidos por um Observable. Há uma variedade de métodos disponíveis no RxJS que podem ser usados para transformar os dados emitidos por um Observable, incluindo:
 
-*   **map**: applies a function to each item emitted by the Observable and emits the resulting value
-*   **mergeMap**: applies a function to each item emitted by the Observable, and then merges the resulting Observables into a single Observable
-*   **switchMap**: applies a function to each item emitted by the Observable, and then switches to the latest resulting Observable
-*   **concatMap**: applies a function to each item emitted by the Observable, and then concatenates the resulting Observables into a single Observable
-*   **exhaustMap**: applies a function to each item emitted by the Observable, but ignores subsequent emissions until the current Observable completes
+*   **map**: aplica uma função a cada item emitido pelo Observable e emite o valor resultante
+*   **mergeMap**: aplica uma função a cada item emitido pelo Observable, e então mescla os Observables resultantes em um único Observable
+*   **switchMap**: aplica uma função a cada item emitido pelo Observable, e então troca para o último Observable resultante
+*   **concatMap**: aplica uma função a cada item emitido pelo Observable, e então concatena os Observables resultantes em um único Observable
+*   **exhaustMap**: aplica uma função a cada item emitido pelo Observable, mas ignora as emissões subsequentes até que o atual Observable complete
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@The RxJS Library](https://v17.angular.io/guide/rx-library)
-- [@official@Merge](https://www.learnrxjs.io/learn-rxjs/operators/combination/merge)
-- [@official@Concat](https://www.learnrxjs.io/learn-rxjs/operators/combination/concat)
-- [@official@Zip](https://www.learnrxjs.io/learn-rxjs/operators/combination/zip)
-- [@official@switchMap](https://www.learnrxjs.io/learn-rxjs/operators/transformation/switchmap)
-- [@official@concatMap](https://www.learnrxjs.io/learn-rxjs/operators/transformation/concatMap)
-- [@official@exhaustMap](https://www.learnrxjs.io/learn-rxjs/operators/transformation/exhaustMap)
-- [@video@switchMap vs mergeMap vs concatMap vs exhaustMap practical guide](https://youtu.be/40pC5wHowWw)
+- [@oficial@A Biblioteca RxJS](https://v17.angular.io/guide/rx-library)
+- [@oficial@Merge](https://www.learnrxjs.io/learn-rxjs/operators/combination/merge)
+- [@oficial@Concat](https://www.learnrxjs.io/learn-rxjs/operators/combination/concat)
+- [@oficial@Zip](https://www.learnrxjs.io/learn-rxjs/operators/combination/zip)
+- [@oficial@switchMap](https://www.learnrxjs.io/learn-rxjs/operators/transformation/switchmap)
+- [@oficial@concatMap](https://www.learnrxjs.io/learn-rxjs/operators/transformation/concatMap)
+- [@oficial@exhaustMap](https://www.learnrxjs.io/learn-rxjs/operators/transformation/exhaustMap)
+- [@vídeo@Prática guia de switchMap vs mergeMap vs concatMap vs exhaustMap](https://youtu.be/40pC5wHowWw)

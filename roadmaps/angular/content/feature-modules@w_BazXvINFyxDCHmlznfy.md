@@ -1,9 +1,9 @@
-# Feature Modules
+# Módulos de Funcionalidade
 
-Feature modules are `NgModules` for the purpose of organizing code. With feature modules, you can keep code related to a specific functionality or feature separate from other code. Delineating areas of your application helps with collaboration between developers and teams, separating directives, and managing the size of the root module.
+Os módulos de funcionalidade são `NgModules` com o propósito de organizar código. Com os módulos de funcionalidade, você pode manter o código relacionado a uma função específica ou recurso separado do outro código. Delimitar áreas do seu aplicativo ajuda na colaboração entre desenvolvedores e equipes, separando diretivas e gerenciando o tamanho do módulo raiz.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Feature Modules](https://angular.dev/guide/ngmodules/feature-modules#how-to-make-a-feature-module)
-- [@article@Feature module with lazy loading in Angular 15](https://medium.com/@jaydeepvpatil225/feature-module-with-lazy-loading-in-angular-15-53bb8e15d193)
-- [@video@Creating a Feature Module | Understanding Angular Modules](https://www.youtube.com/watch?v=VaPhaexVa1U)
+- [@oficial@Módulos de Funcionalidade](https://angular.dev/guide/ngmodules/feature-modules#how-to-make-a-feature-module)
+- [@artigo@Module de funcionalidade com carregamento preguiçoso no Angular 15](https://medium.com/@jaydeepvpatil225/feature-module-with-lazy-loading-in-angular-15-53bb8e15d193)
+- [@vídeo@Criando um Módulo de Funcionalidade | Entendendo módulos do Angular](https://www.youtube.com/watch?v=VaPhaexVa1U)

@@ -1,8 +1,8 @@
 # @let
 
-@let allows you to define a local variable and re-use it across the template.
+O @let permite definir uma variável local e reutilizá-la em todo o template.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@@let](https://angular.dev/api/core/@let)
-- [@article@Angular's next feature let syntax](https://nhannguyendevjs.medium.com/angulars-next-feature-let-syntax-afba6354112b)
+- [@oficial@@let](https://angular.dev/api/core/@let)
+- [@artigo@Sintaxe do próximo recurso let do Angular](https://nhannguyendevjs.medium.com/angulars-next-feature-let-syntax-afba6354112b)

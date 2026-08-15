@@ -1,12 +1,12 @@
-# Binding data props attrs events
+# Ligação de dados, props, attrs e eventos
 
-In an Angular template, a binding creates a live connection between view and the model and keeps them both in sync.
+Em um modelo Angular, uma ligação cria uma conexão em tempo real entre a exibição e o modelo, mantendo-os sempre sincronizados.
 
-*   **property**: helps you set values for properties of HTML elements or directives.
-*   **attributes**: helps you set values for attributes of HTML elements directly.
-*   **event**: lets you listen for and respond to user actions such as keystrokes, mouse movements, clicks, and touches.
-*   **data**: It's a combination of property and event binding and helps you share data between components.
+*   **propriedade**: ajuda você a definir valores para as propriedades de elementos HTML ou diretivas.
+*   **atributo**: ajuda você a definir valores para os atributos de elementos HTML diretamente.
+*   **evento**: permite que você escute e responda a ações do usuário, como teclas pressionadas, movimentos do mouse, cliques e toques.
+*   **dados**: é uma combinação da ligação de propriedade e evento e ajuda você a compartilhar dados entre componentes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Binding](https://angular.dev/guide/templates/binding)
+- [@oficial@Ligação](https://angular.dev/guide/templates/binding)

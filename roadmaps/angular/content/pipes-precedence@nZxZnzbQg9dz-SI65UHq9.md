@@ -1,12 +1,12 @@
-# Pipes Precedence
+# Precedência dos Pipes
 
-The pipe operator has a higher precedence than the JavaScript ternary operator.
+O operador pipe tem uma precedência maior que o operador ternário do JavaScript.
 
-You should always use parentheses to be sure Angular evaluates the expression as you intend.
+Você deve sempre usar parênteses para garantir que o Angular avalie a expressão conforme você deseja.
 
     (condition ? a : b) | pipe
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para saber mais:
 
-- [@official@Precedence](https://angular.dev/guide/pipes/precedence)
-- [@article@What is the precedence between pipe and ternary operators?](https://iq.js.org/questions/angular/what-is-the-precedence-between-pipe-and-ternary-operators)
+- [@oficial@Precedência](https://angular.dev/guide/pipes/precedence)
+- [@artigo@Qual é a precedência entre pipe e operadores ternários?](https://iq.js.org/questions/angular/what-is-the-precedence-between-pipe-and-ternary-operators)

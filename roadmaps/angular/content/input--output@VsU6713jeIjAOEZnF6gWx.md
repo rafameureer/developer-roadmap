@@ -1,8 +1,8 @@
-# Input output
+# Entrada e Saída
 
-`@Input()` and `@Output()` give a child component a way to communicate with its parent component. `@Input()` lets a parent component update data in the child component. Conversely, `@Output()` lets the child send data to a parent component.
+`@Input()` e `@Output()` fornecem a um componente filho uma maneira de se comunicar com seu componente pai. `@Input()` permite que um componente pai atualize dados no componente filho. Por outro lado, `@Output()` permite que o filho envie dados para o componente pai.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para saber mais:
 
-- [@official@inputs](https://angular.dev/guide/components/inputs)
-- [@official@outputs](https://angular.dev/guide/components/outputs)
+- [@official@Entradas](https://angular.dev/guide/components/inputs)
+- [@official@Saídas](https://angular.dev/guide/components/outputs)

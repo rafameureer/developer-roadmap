@@ -1,8 +1,8 @@
 # Template
 
-`template` metadata is a property defined within the `@Component` decorator that specifies the HTML template for the component. It allows you to define the structure and layout of the component's view.
+A propriedade `template` de metadados é uma definição dentro do decorador `@Component` que especifica o template HTML para o componente. Permite definir a estrutura e layout da visão do componente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Template Syntax](https://angular.dev/guide/templates)
-- [@official@Component Template API](https://angular.dev/api/core/Component#template)
+- [@oficial@Sintaxe de Template](https://angular.dev/guide/templates)
+- [@oficial@Component Template API](https://angular.dev/api/core/Component#template)

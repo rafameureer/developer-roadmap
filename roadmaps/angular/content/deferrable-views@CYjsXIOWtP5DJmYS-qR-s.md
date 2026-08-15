@@ -1,10 +1,10 @@
-# Deferrable Views
+# Visualizações Adiáveis
 
-Deferrable views can be used in component template to defer the loading of select dependencies within that template. Those dependencies include components, directives, and pipes, and any associated CSS. To use this feature, you can declaratively wrap a section of your template in a @defer block which specifies the loading conditions.
+As visualizações adiáveis podem ser usadas em um modelo de componente para adiar o carregamento de dependências selecionadas nesse modelo. Essas dependências incluem componentes, diretivas e pipes, e qualquer CSS associado. Para usar essa funcionalidade, você pode declarativamente envolver uma seção do seu modelo em um bloco @defer que especifica as condições de carregamento.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Deferrable Views](https://angular.dev/guide/defer)
-- [@article@Unlocking Performance with Deferrable views](https://medium.com/@kashif_khan/exploring-angular-17-unlocking-performance-with-deferrable-views-580b1977f430)
-- [@article@Learn how to unit test deferrable views](https://angular.love/en/learn-how-to-unit-test-the-deferrable-views)
-- [@video@Angular 17 Defer Block](https://www.youtube.com/watch?v=h2rEGoqwr6o)
+- [@official@Visualizações Adiáveis](https://angular.dev/guide/defer)
+- [@article@Desbloqueando a Performance com Visualizações Adiáveis no Angular](https://medium.com/@kashif_khan/exploring-angular-17-unlocking-performance-with-deferrable-views-580b1977f430)
+- [@article@Aprenda como testar unidade as visualizações adiáveis](https://angular.love/en/learn-how-to-unit-test-the-deferrable-views)
+- [@video@Bloco @defer no Angular 17](https://www.youtube.com/watch?v=h2rEGoqwr6o)

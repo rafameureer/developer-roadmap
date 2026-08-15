@@ -1,8 +1,8 @@
-# Library
+# Biblioteca
 
-Use the Angular CLI and the npm package manager to build and publish your library as an npm package.
+Use o Angular CLI e o gerenciador de pacotes npm para construir e publicar sua biblioteca como um pacote npm.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Libraries](https://angular.dev/tools/libraries/creating-libraries)
-- [@official@Angular CLI](https://angular.dev/tools/cli)
+- [@oficial@Bibliotecas](https://angular.dev/tools/libraries/creating-libraries)
+- [@oficial@Angular CLI](https://angular.dev/tools/cli)

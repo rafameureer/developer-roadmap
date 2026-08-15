@@ -1,9 +1,9 @@
-# Sanitization
+# Sanitização
 
-Sanitization is the inspection of an untrusted value, turning it into a value that's safe to insert into the DOM. In many cases, sanitization doesn't change a value at all. Sanitization depends on context: A value that's harmless in CSS is potentially dangerous in a URL.
+A sanitização é a inspeção de um valor não confiável, transformando-o em um valor seguro para inserir no DOM. Em muitos casos, a sanitização não altera o valor em nada algum. A sanitização depende do contexto: Um valor que é inofensivo em CSS pode ser potencialmente perigoso em uma URL.
 
-Angular sanitizes untrusted values for HTML and URLs. Sanitizing resource URLs isn't possible because they contain arbitrary code. In development mode, Angular prints a console warning when it has to change a value during sanitization.
+O Angular sanitiza valores não confiáveis para HTML e URLs. A sanitização de URLs de recursos não é possível porque elas contêm código arbitrário. No modo de desenvolvimento, o Angular imprime um aviso no console quando precisa alterar um valor durante a sanitização.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Sanitization and Security Contexts](https://angular.dev/best-practices/security#sanitization-and-security-contexts)
+- [@oficial@Sanitização e Contextos de Segurança](https://angular.dev/best-practices/security#sanitization-and-security-contexts)

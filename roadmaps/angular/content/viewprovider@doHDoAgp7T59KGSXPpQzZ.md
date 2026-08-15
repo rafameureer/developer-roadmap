@@ -1,8 +1,8 @@
 # viewProvider
 
-Defines the set of injectable objects that are visible to its view DOM children.
+Define o conjunto de objetos injetáveis que são visíveis para seus filhos DOM da exibição.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Using the viewProviders array](https://angular.dev/guide/di/hierarchical-dependency-injection#using-the-viewproviders-array)
+- [@official@Usando o array viewProviders](https://angular.dev/guide/di/hierarchical-dependency-injection#using-the-viewproviders-array)
 - [@official@Component - API](https://angular.dev/api/core/Component#viewProviders)

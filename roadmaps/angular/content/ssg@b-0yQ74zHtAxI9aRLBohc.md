@@ -1,9 +1,9 @@
-# Angular SSG
+# SSG do Angular
 
-SSG (Static Site Generator) helps in building the HTML full website during the process of building and serving that HTML page. This method helps to generate the HTML website on the client side before it's served on the server side. Therefore, whenever a user requests a HTML page, the HTML page will be rendered, and secondly, the Angular app will be rendered. The SSG can be used only if your website is static or its content doesn't change frequently.
+SSG (Gerador de Sites Estáticos) ajuda a construir o HTML completo do site durante o processo de construção e entrega daquela página HTML. Esse método ajuda a gerar o website HTML no lado do cliente antes de ser servido no lado do servidor. Portanto, sempre que um usuário solicitar uma página HTML, a página HTML será renderizada, e em segundo lugar, a aplicação Angular será renderizada. O SSG pode ser usado apenas se seu site for estático ou se o conteúdo não mudar frequentemente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@podcast@Angular Air with Alyssa Nicoll - SSR, SSG, ISR, & SOS](https://www.youtube.com/watch?v=b0pUU7RJbBQ)
-- [@official@Prerendering (SSG)](https://angular.dev/guide/prerendering)
-- [@video@Angular 16 Pre Rendering Static Pages - Static Site Generation SSG](https://www.youtube.com/watch?v=vmOWJvm3apA)
+- [@podcast@Angular Air com Alyssa Nicoll - SSR, SSG, ISR e SOS](https://www.youtube.com/watch?v=b0pUU7RJbBQ)
+- [@oficial@Prerendering (SSG)](https://angular.dev/guide/prerendering)
+- [@vídeo@Angular 16 Pré-renderização de Páginas Estáticas - Geração de Sites Estáticos SSG](https://www.youtube.com/watch?v=vmOWJvm3apA)

@@ -1,12 +1,12 @@
-# Deployment
+# Implantação
 
-The Angular CLI command `ng deploy` executes the deploy CLI builder associated with your project. A number of third-party builders implement deployment capabilities to different platforms. You can add any of them to your project with `ng add`.
+O comando `ng deploy` do Angular CLI executa o construtor de linha de comando de implantação associado ao seu projeto. Muitos construtores de terceiros implementam capacidades de implantação em diferentes plataformas. Você pode adicionar qualquer um deles ao seu projeto com `ng add`.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para saber mais:
 
-- [@official@Deployment](https://angular.dev/tools/cli/deployment)
+- [@official@Implantação](https://angular.dev/tools/cli/deployment)
 - [@official@Firebase Hosting](https://firebase.google.com/docs/hosting)
-- [@official@Vercel: Angular Solutions](https://vercel.com/solutions/angular)
+- [@official@Vercel: Soluções Angular](https://vercel.com/solutions/angular)
 - [@official@Netlify](https://docs.netlify.com/frameworks/angular/)
 - [@official@Cloudflare Pages](https://developers.cloudflare.com/pages/framework-guides/deploy-an-angular-site/#create-a-new-project-using-the-create-cloudflare-cli-c3)
 - [@official@AWS Amplify](https://docs.amplify.aws/angular/)

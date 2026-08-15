@@ -1,8 +1,8 @@
 # @if
 
-The @if block conditionally displays its content when its condition expression is truthy. Content is added and removed from the DOM based on the evaluation of conditional expressions in the @if and @else blocks.
+O bloco @if condicionalmente exibe seu conteúdo quando sua expressão de condição for verdadeira. O conteúdo é adicionado e removido da DOM com base na avaliação das expressões condicionais nos blocos @if e @else.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@@if](https://angular.dev/api/core/@if)
 - [@video@Narrow Down signal value type within an if statement](https://egghead.io/lessons/angular-narrow-down-angular-s-signal-value-type-within-an-if-statement)

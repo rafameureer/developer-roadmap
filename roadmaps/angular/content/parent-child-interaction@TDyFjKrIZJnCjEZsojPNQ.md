@@ -1,8 +1,8 @@
-# Parent-Child Interaction
+# Interação Parent-Child
 
-In angular parent-child communication is commonly used to share data between two components.
+A comunicação parent-child no Angular é comumente usada para compartilhar dados entre dois componentes.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para saber mais:
 
-- [@official@Component Interaction](https://angular.io/guide/component-interaction)
-- [@article@Medium - Parent-Child Communication](https://jaspritk.medium.com/parent-child-communication-in-angular-888373e0b69e)
+- [@oficial@Component Interaction](https://angular.io/guide/component-interaction)
+- [@artigo@Medium - Comunicação Parent-Child](https://jaspritk.medium.com/parent-child-communication-in-angular-888373e0b69e)

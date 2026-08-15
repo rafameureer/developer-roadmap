@@ -1,9 +1,9 @@
 # Ngxs
 
-Ngxs is a state management pattern for the Angular framework. It acts as a single source of truth for our application. Ngxs is very simple and easily implementable. It reduce lots of boilerplate code . It is a replacement for Ngrx. In Ngrx we are creating state, action, reducer, and effects but in Ngxs, we are creating only state and actions instead of all of this. Like Ngrx, Ngxs is also asynchronous and when we dispatch any action we can get a response back.
+Ngxs é um padrão de gerenciamento de estado para o framework Angular. Ele atua como uma única fonte de verdade para nossa aplicação. Ngxs é muito simples e fácil de implementar. Reduz muitos códigos boilerplate. É uma substituição para Ngrx. Em Ngrx, criamos state, action, reducer e effects, mas em Ngxs, criamos apenas state e actions em vez disso. Como Ngrx, Ngxs também é assíncrono e quando despachamos qualquer ação, podemos obter uma resposta de volta.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@What is NGXS?](https://www.ngxs.io/)
-- [@article@Details about NGXS](https://medium.com/@knoldus/introduction-to-ngxs-state-management-pattern-library-for-angular-ec76f681ceba)
-- [@video@Practice of NGXS](https://www.youtube.com/watch?v=SGj11j4hxmg)
+- [@oficial@O que é NGXS?](https://www.ngxs.io/)
+- [@artigo@Detalhes sobre NGXS](https://medium.com/@knoldus/introduction-to-ngxs-state-management-pattern-library-for-angular-ec76f681ceba)
+- [@vídeo@Prática de NGXS](https://www.youtube.com/watch?v=SGj11j4hxmg)

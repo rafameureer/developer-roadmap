@@ -1,8 +1,8 @@
-# Build Environments
+# Ambientes de Construção
 
-You can define different named build configurations for your project, such as `development` and `production`, with different defaults. Each named configuration can have defaults for any of the options that apply to the various builder targets, such as `build`, `serve`, and `test`. The Angular CLI can replace files for each environment if you pass a `--configuration` flag with the named configuration when running a CLI command.
+Você pode definir diferentes configurações nomeadas de construção para o seu projeto, como `desenvolvimento` e `produção`, com diferentes padrões. Cada configuração nomeada pode ter padrões para quaisquer das opções que se aplicam a vários alvos de construtor, como `build`, `serve` e `test`. O CLI do Angular pode substituir arquivos para cada ambiente se você passar um sinalizador `--configuration` com o nome da configuração ao executar um comando do CLI.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Build Environments](https://angular.dev/tools/cli/environments#using-environment-specific-variables-in-your-app)
-- [@article@Building an Angular application in various environments using Angular CLI and server](https://medium.com/yavar/building-an-angular-application-in-various-environments-using-angular-cli-and-server-18f94067154b)
+- [@official@Ambientes de Construção](https://angular.dev/tools/cli/environments#using-environment-specific-variables-in-your-app)
+- [@article@Construindo um aplicativo Angular em vários ambientes usando o CLI do Angular e o servidor](https://medium.com/yavar/building-an-angular-application-in-various-environments-using-angular-cli-and-server-18f94067154b)

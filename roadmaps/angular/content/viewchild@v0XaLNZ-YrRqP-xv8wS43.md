@@ -1,10 +1,10 @@
 # ViewChild
 
-View queries retrieve results from the elements in the component's view — the elements defined in the component's own template.
+Consultas de exibição recuperam resultados dos elementos na exibição do componente — os elementos definidos no próprio template do componente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@View queries](https://angular.dev/guide/components/queries#view-queries)
-- [@official@viewChild - signal](https://angular.dev/guide/signals/queries#viewchild)
-- [@official@viewChildren - signal](https://angular.dev/guide/signals/queries#viewchildren)
-- [@official@viewChild - API](https://angular.dev/api/core/viewChild)
+- [@oficial@Consultas de Exibição](https://angular.dev/guide/components/queries#view-queries)
+- [@oficial@ViewChild - sinal](https://angular.dev/guide/signals/queries#viewchild)
+- [@oficial@viewChildren - sinal](https://angular.dev/guide/signals/queries#viewchildren)
+- [@oficial@ViewChild - API](https://angular.dev/api/core/viewChild)

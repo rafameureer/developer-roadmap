@@ -1,9 +1,9 @@
-# Dependencies
+# Dependências
 
-A provider is an instruction to the Dependency Injection system on how to obtain a value for a dependency. Most of the time, these dependencies are services that you create and provide.
+Um provedor é uma instrução ao sistema de Injeção de Dependência sobre como obter um valor para uma dependência. Na maioria dos casos, essas dependências são serviços que você cria e fornece.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Providing Dependencies in Modules](https://angular.dev/guide/ngmodules/providers)
-- [@article@Providers in Angular](https://www.scaler.com/topics/angular/providers-in-angular/)
-- [@article@Working with providers in Angular](https://sergeygultyayev.medium.com/working-with-providers-in-angular-eeb493151446)
+- [@official@Fornecendo Dependências em Módulos](https://angular.dev/guide/ngmodules/providers)
+- [@article@Provedores no Angular](https://www.scaler.com/topics/angular/providers-in-angular/)
+- [@article@Trabalhando com provedores no Angular](https://sergeygultyayev.medium.com/working-with-providers-in-angular-eeb493151446)

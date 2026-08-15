@@ -1,8 +1,8 @@
-# Security
+# Segurança
 
-This topic describes Angular's built-in protections against common web-application vulnerabilities and attacks such as cross-site scripting attacks. It doesn't cover application-level security, such as authentication and authorization.
+Este tópico descreve as proteções internas do Angular contra vulnerabilidades e ataques comuns de aplicativos web, como ataques de injeção de script entre sites. Ele não cobre a segurança no nível da aplicação, como autenticação e autorização.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Security](https://angular.dev/best-practices/security)
+- [@official@Segurança](https://angular.dev/best-practices/security)
 - [@official@Open Web Application Security Project (OWASP)](https://owasp.org/)

@@ -1,17 +1,17 @@
-# Pure Pipes
+# PIPES Puros
 
-Angular provides built-in pipes for typical data transformations, including transformations for internationalization (i18n), which use locale information to format data. The following are commonly used built-in pipes for data formatting:
+O Angular fornece pipes embutidos para transformações de dados típicas, incluindo transformações para internacionalização (i18n), que usam informações de localidade para formatar os dados. Os seguintes são pipes embutidos comuns para formatação de dados:
 
-*   DatePipe: Formats a date value according to locale rules.
-*   UpperCasePipe: Transforms text to all upper case.
-*   LowerCasePipe: Transforms text to all lower case.
-*   CurrencyPipe: Transforms a number to a currency string, formatted according to locale rules.
-*   DecimalPipe: Transforms a number into a string with a decimal point, formatted according to locale rules.
-*   PercentPipe: Transforms a number to a percentage string, formatted according to locale rules.
-*   AsyncPipe: Subscribe and unsubscribe to an asynchronous source such as an observable.
-*   JsonPipe: Display a component object property to the screen as JSON for debugging.
+*   DatePipe: Formata um valor de data de acordo com as regras de localidade.
+*   UpperCasePipe: Transforma o texto em maiúsculas.
+*   LowerCasePipe: Transforma o texto em minúsculas.
+*   CurrencyPipe: Transforma um número em uma string de moeda, formatada de acordo com as regras de localidade.
+*   DecimalPipe: Transforma um número em uma string com um ponto decimal, formatada de acordo com as regras de localidade.
+*   PercentPipe: Transforma um número em uma string de porcentagem, formatada de acordo com as regras de localidade.
+*   AsyncPipe: Inscreve e desinscreve-se de uma fonte assíncrona como um observável.
+*   JsonPipe: Exibe uma propriedade do objeto de componente na tela como JSON para depuração.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Pipes](https://angular.dev/guide/pipes)
-- [@article@Pipes in Angular](https://medium.com/@aqeelabbas3972/pipes-in-angular-6a871589299d)
+- [@oficial@Pipes](https://angular.dev/guide/pipes)
+- [@artigo@Pipes no Angular](https://medium.com/@aqeelabbas3972/pipes-in-angular-6a871589299d)

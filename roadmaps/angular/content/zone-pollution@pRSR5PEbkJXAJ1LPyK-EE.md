@@ -1,10 +1,10 @@
-# Zone Pollution
+# Poluição de Zona
 
-`Zone.js` is a signaling mechanism that Angular uses to detect when an application state might have changed. In some cases, scheduled tasks or microtasks don’t make any changes in the data model, which makes running change detection unnecessary. Common examples are `requestAnimationFrame`, `setTimeout` and `setInterval`. You can identify change detection with Angular DevTools, and you can run code outside the Angular zone to avoid unnecessary change detection calls.
+`Zone.js` é um mecanismo de sinalização que o Angular usa para detectar quando o estado da aplicação pode ter mudado. Em alguns casos, tarefas agendadas ou microtarefas não fazem nenhuma alteração no modelo de dados, o que torna a detecção de mudança desnecessária. Exemplos comuns são `requestAnimationFrame`, `setTimeout` e `setInterval`. Você pode identificar a detecção de mudança com Angular DevTools e executar código fora da zona do Angular para evitar chamadas desnecessárias de detecção de mudança.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Zone Pollution](https://angular.dev/best-practices/zone-pollution)
+- [@official@Poluição de Zona](https://angular.dev/best-practices/zone-pollution)
 - [@official@Angular DevTools](https://angular.dev/tools/devtools)
-- [@video@NgZone in Angular - Improve Performance by Running Code Outside Angular](https://www.youtube.com/watch?v=7duYY9IFIuw)
-- [@video@4 Runtime Performance Optimizations](https://www.youtube.com/watch?v=f8sA-i6gkGQ)
+- [@video@NgZone em Angular - Melhore o desempenho executando código fora do Angular](https://www.youtube.com/watch?v=7duYY9IFIuw)
+- [@video@4 Otimizações de Desempenho em Tempo Real](https://www.youtube.com/watch?v=f8sA-i6gkGQ)

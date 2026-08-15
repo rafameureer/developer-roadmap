@@ -1,7 +1,7 @@
-# Control Flow
+# Controle de Fluxo
 
-Angular templates support control flow blocks that let you conditionally show, hide, and repeat elements.
+As templates do Angular suportam blocos de controle de fluxo que permitem que você mostre, oculte e repita elementos condicionalmente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Built-in Control Flow](https://angular.dev/guide/templates/control-flow)
+- [@official@Controle de Fluxo Interno](https://angular.dev/guide/templates/control-flow)

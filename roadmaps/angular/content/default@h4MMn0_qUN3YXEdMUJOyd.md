@@ -1,8 +1,8 @@
 # @default
 
-The `@default` clause is used to render a template when none of the `@case` blocks matches the value of the `@switch` conditional. `@default` is optional and can be omitted.
+A cláusula `@default` é usada para renderizar um modelo quando nenhuma das cláusulas `@case` corresponde ao valor da condição `@switch`. A cláusula `@default` é opcional e pode ser omitida.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@@switch](https://angular.dev/api/core/@switch#description)
-- [@article@Angular @switch: Complete Guide](https://blog.angular-university.io/angular-switch/)
+- [@article@Angular @switch: Guia Completo](https://blog.angular-university.io/angular-switch/)

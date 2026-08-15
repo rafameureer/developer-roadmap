@@ -1,12 +1,12 @@
-# Template Driven Forms
+# Formulários baseados em modelo
 
-A Template driven form is the simplest form we can build in Angular. It is mainly used for creating simple form application.
+Um formulário baseado em modelo é o formulário mais simples que podemos construir no Angular. Ele é principalmente usado para criar aplicativos de formulário simples.
 
-It uses two-way data-binding (ngModel) to create and handle the form components.
+Ele usa a vinculação de dados bidirecional (ngModel) para criar e gerenciar os componentes do formulário.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Building a Template-driven Form](https://angular.dev/guide/forms/template-driven-forms)
-- [@article@Template-Driven Forms](https://codecraft.tv/courses/angular/forms/template-driven/)
-- [@video@Template driven form](https://www.youtube.com/watch?v=whr14XxB8-M)
-- [@video@Template driven form Validations](https://www.youtube.com/watch?v=cVd4ZCIXprs)
+- [@oficial@Construindo um Formulário Baseado em Modelo](https://angular.dev/guide/forms/template-driven-forms)
+- [@artigo@Formulários Baseados em Modelo](https://codecraft.tv/courses/angular/forms/template-driven/)
+- [@vídeo@Formulário baseado em modelo](https://www.youtube.com/watch?v=whr14XxB8-M)
+- [@vídeo@Validações de formulário baseado em modelo](https://www.youtube.com/watch?v=cVd4ZCIXprs)

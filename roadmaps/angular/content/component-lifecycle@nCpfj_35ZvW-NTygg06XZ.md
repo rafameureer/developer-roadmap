@@ -1,8 +1,8 @@
-# Lifecycle hooks
+# Ganchos de ciclo de vida
 
-A component instance has a lifecycle that starts when Angular instantiates the component class and renders the component view along with its child views. The lifecycle continues with change detection, as Angular checks to see when data-bound properties change, and updates both the view and the component instance as needed. The lifecycle ends when Angular destroys the component instance and removes its rendered template from the DOM. Directives have a similar lifecycle, as Angular creates, updates, and destroys instances in the course of execution.
+Uma instância de componente tem um ciclo de vida que começa quando o Angular instancia a classe do componente e renderiza a exibição do componente junto com suas exibições filhas. O ciclo de vida continua com a detecção de alterações, enquanto o Angular verifica se as propriedades ligadas aos dados mudaram e atualiza tanto a exibição quanto a instância do componente conforme necessário. O ciclo de vida termina quando o Angular destroi a instância do componente e remove sua exibição renderizada do DOM. As diretivas têm um ciclo de vida semelhante, pois o Angular cria, atualiza e destroi as instâncias durante a execução.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Component Lifecycle](https://angular.dev/guide/components/lifecycle)
 - [@article@The Life Cycle Hooks of Angular](https://blog.logrocket.com/angular-lifecycle-hooks/)

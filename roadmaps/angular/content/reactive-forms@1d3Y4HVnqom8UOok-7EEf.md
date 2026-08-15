@@ -1,10 +1,10 @@
-# Reactive Forms
+# Formulários Reativos
 
-Reactive Forms in angular are those which used to handle the inputs coming from the user. We can define controls by using classes such as FormGroup and FormControl.
+Formulários reativos no Angular são aqueles que usam para lidar com as entradas vindas do usuário. Podemos definir controles usando classes como FormGroup e FormControl.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Reactive Forms - Angular](https://angular.dev/guide/forms/reactive-forms)
-- [@article@How To Use Reactive Forms in Angular](https://www.digitalocean.com/community/tutorials/angular-reactive-forms-introduction)
-- [@video@Reactive Form in Angular](https://www.youtube.com/watch?v=8k4ctDmVn7w)
+- [@oficial@Formulários Reativos - Angular](https://angular.dev/guide/forms/reactive-forms)
+- [@artigo@Como usar Formulários Reativos no Angular](https://www.digitalocean.com/community/tutorials/angular-reactive-forms-introduction)
+- [@vídeo@Formulário Reativo no Angular](https://www.youtube.com/watch?v=8k4ctDmVn7w)
 - [@feed@Explore top posts about General Programming](https://app.daily.dev/tags/general-programming?ref=roadmapsh)

@@ -1,9 +1,9 @@
-# Translation Files
+# Arquivos de Tradução
 
-After you prepare a component for translation, use the `extract-i18n` Angular CLI command to extract the marked text in the component into a source language file. The marked text includes text marked with `i18n`, attributes marked with `i18n`\-attribute, and text tagged with `$localize`. The `extract-i18n` command creates a source language file named `messages.xlf` in the root directory of your project. If you have multiple language files, add the locale to the file name, like `messages.{locale}.xlf`.
+Após preparar um componente para tradução, use o comando `extract-i18n` do CLI Angular para extrair o texto marcado no componente em um arquivo de idioma-fonte. O texto marcado inclui texto marcado com `i18n`, atributos marcados com `i18n`-attribute e texto rotulado com `$localize`. O comando `extract-i18n` cria um arquivo de idioma-fonte chamado `messages.xlf` na raiz do seu projeto. Se você tiver vários arquivos de idioma, adicione o local para o nome do arquivo, como `messages.{locale}.xlf`.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Translation Files](https://angular.dev/guide/i18n/translation-files)
-- [@official@Extract i18n](https://angular.dev/cli/extract-i18n)
-- [@article@Angular i18n: internationalization & localization with examples](https://lokalise.com/blog/angular-i18n/)
+- [@oficial@Arquivos de Tradução](https://angular.dev/guide/i18n/translation-files)
+- [@oficial@Extrair i18n](https://angular.dev/cli/extract-i18n)
+- [@artigo@Angular i18n: internacionalização & localização com exemplos](https://lokalise.com/blog/angular-i18n/)

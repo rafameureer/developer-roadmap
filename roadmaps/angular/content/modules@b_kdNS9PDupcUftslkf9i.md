@@ -1,9 +1,9 @@
-# Angular Modules
+# Módulos do Angular
 
-Modules in Angular act like a container where we can group the components, directives, pipes, and services, related to the application.
+Os módulos no Angular atuam como um contêiner onde podemos agrupar componentes, diretivas, pipes e serviços relacionados à aplicação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Importing and Using Components](https://angular.dev/guide/components/importing)
-- [@official@Introduction to Modules](https://angular.dev/guide/ngmodules)
+- [@oficial@Importando e Usando Componentes](https://angular.dev/guide/components/importing)
+- [@oficial@Introdução aos Módulos](https://angular.dev/guide/ngmodules)
 - [@feed@Explore top posts about Angular](https://app.daily.dev/tags/angular?ref=roadmapsh)

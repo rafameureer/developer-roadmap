@@ -1,9 +1,9 @@
-# Testing pipes
+# Testando Pipes
 
-An Angular Pipe is a special function that is called from a Component template. Its purpose is to transform a value: You pass a value to the Pipe, the Pipe computes a new value and returns it.
+Um Pipe do Angular é uma função especial que é chamada de um template de Component. Seu propósito é transformar um valor: você passa um valor para o Pipe, o Pipe calcula um novo valor e retorna ele.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Testing Pipes](https://angular.dev/guide/testing/pipes)
-- [@article@Testing Pipes Examples](https://testing-angular.com/testing-pipes/)
-- [@feed@Explore top posts about Testing](https://app.daily.dev/tags/testing?ref=roadmapsh)
+- [@oficial@Testando Pipes](https://angular.dev/guide/testing/pipes)
+- [@artigo]Exemplos de Testagem de Pipes</a>
+- [@feed]Explore as principais postagens sobre Teste</a>

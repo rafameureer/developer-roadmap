@@ -1,10 +1,10 @@
-# Model Inputs
+# Entradas de Modelo
 
-Model inputs are a special type of input that enable a component to propagate new values back to another component. Use model inputs in components that exist to modify a value based on user interaction.
+As entradas de modelo são um tipo especial de entrada que permitem a um componente propagar novos valores de volta para outro componente. Use entradas de modelo em componentes que existem para modificar um valor com base na interação do usuário.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Model Inputs](https://angular.dev/guide/signals/model)
-- [@article@Angular Model Inputs: Two-way binding inputs with signals](https://www.codemotion.com/magazine/frontend/angular-model-inputs-two-way-binding-inputs-with-signals/)
-- [@article@Model Inputs: Reactive two-way binding ](https://dev.to/this-is-angular/model-inputs-reactive-two-way-binding-2538)
-- [@video@Angular's New Model Inputs: Two-way Communication with your Child Components](https://www.youtube.com/watch?v=frXIBKqzTK0)
+- [@oficial@Entradas de Modelo](https://angular.dev/guide/signals/model)
+- [@artigo@Entradas de Modelo: Entradas de duas vias com sinais no Angular](https://www.codemotion.com/magazine/frontend/angular-model-inputs-two-way-binding-inputs-with-signals/)
+- [@artigo@Entradas de Modelo: Ligação reativa de duas vias ](https://dev.to/this-is-angular/model-inputs-reactive-two-way-binding-2538)
+- [@vídeo@Novas Entradas de Modelo do Angular: Comunicação em duas vias com seus componentes filhos](https://www.youtube.com/watch?v=frXIBKqzTK0)

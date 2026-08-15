@@ -1,7 +1,7 @@
-# Trusting Safe Values
+# Confiando em Valores Seguros
 
-Sometimes applications genuinely need to include executable code, display an `<iframe>` from some URL, or construct potentially dangerous URLs. To prevent automatic sanitization in these situations, tell Angular that you inspected a value, checked how it was created, and made sure it is secure. Do be careful. If you trust a value that might be malicious, you are introducing a security vulnerability into your application. If in doubt, find a professional security reviewer.
+Às vezes, as aplicações precisam de fato incluir código executável, exibir um `<iframe>` de algum URL ou construir URLs potencialmente perigosas. Para evitar a sanitização automática nesses casos, diga ao Angular que você verificou um valor, verificou como ele foi criado e garantiu que seja seguro. Tenha cuidado. Se você confiar em um valor que possa ser malicioso, está introduzindo uma vulnerabilidade de segurança na sua aplicação. Se tiver dúvidas, encontre um revisor de segurança profissional.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Trusting Safe Values](https://angular.dev/best-practices/security#trusting-safe-values)
+- [@oficial@Confiando em Valores Seguros](https://angular.dev/best-practices/security#trusting-safe-values)

@@ -1,8 +1,8 @@
-# Using Libraries
+# Usando Bibliotecas
 
-Libraries are published as `npm packages`, usually together with schematics that integrate them with the Angular CLI. To integrate reusable library code into an application, you need to install the package and import the provided functionality in the location you use it. For most published Angular libraries, use the `ng add <lib_name>` Angular CLI command. A published library typically provides a `README` file or other documentation on how to add that library to your application. A library is able to be updated by the publisher, and also has individual dependencies which need to be kept current. To check for updates to your installed libraries, use the `ng update` Angular CLI command.
+Bibliotecas são publicadas como pacotes `npm`, geralmente junto com esquemas que as integram com o CLI Angular. Para integrar código de biblioteca reutilizável em um aplicativo, você precisa instalar o pacote e importar a funcionalidade fornecida no local onde é usado. Para a maioria das bibliotecas Angular publicadas, use o comando `ng add <nome_da_biblioteca>` do CLI Angular. Uma biblioteca publicada geralmente fornece um arquivo `README` ou outra documentação sobre como adicionar aquela biblioteca ao seu aplicativo. Uma biblioteca pode ser atualizada pelo editor e também tem dependências individuais que precisam ser mantidas atualizadas. Para verificar as atualizações das suas bibliotecas instaladas, use o comando `ng update` do CLI Angular.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Using Libraries](https://angular.dev/tools/libraries/using-libraries)
-- [@official@npm](https://www.npmjs.com/)
+- [@oficial@Usando Bibliotecas](https://angular.dev/tools/libraries/using-libraries)
+- [@oficial@npm](https://www.npmjs.com/)

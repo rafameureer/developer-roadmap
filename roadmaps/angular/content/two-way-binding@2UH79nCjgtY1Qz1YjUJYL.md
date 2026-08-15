@@ -1,8 +1,8 @@
-# Two-way Binding
+# Ligação de Dados Bidirecional
 
-Two-way binding gives components in your application a way to share data. Use two-way binding to listen for events and update values simultaneously between parent and child components. Angular's two-way binding syntax is a combination of square brackets and parentheses, `[()]`, commonly known as `banana in a box`.
+A ligação de dados bidirecional permite que componentes em sua aplicação compartilhem dados. Use a ligação de dados bidirecional para ouvir eventos e atualizar valores simultaneamente entre componentes pai e filho. A sintaxe de ligação de dados bidirecional do Angular é uma combinação de colchetes e parênteses, `[()]`, comumente conhecida como "banana em um caixote".
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Two-way binding](https://angular.dev/guide/templates/two-way-binding)
-- [@article@How to implement two-way data binding in Angular](https://www.angularminds.com/blog/how-to-implement-two-way-data-binding-in-angular)
+- [@oficial@Ligação de Dados Bidirecional](https://angular.dev/guide/templates/two-way-binding)
+- [@artigo@Como implementar a ligação de dados bidirecional no Angular](https://www.angularminds.com/blog/how-to-implement-two-way-data-binding-in-angular)

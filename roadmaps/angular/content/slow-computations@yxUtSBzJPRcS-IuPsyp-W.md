@@ -1,8 +1,8 @@
-# Slow Computations
+# Computações Lentas
 
-On every change detection cycle, Angular synchronously evaluates all template expressions in components based on their detection strategy and executes the `ngDoCheck`, `ngAfterContentChecked`, `ngAfterViewChecked`, and `ngOnChanges` lifecycle hooks. To remove slow computations, you can optimize algorithms, cache data with pure pipes or memoization, and limit lifecycle hook usage.
+Em cada ciclo de detecção de alteração, o Angular synchronousmente avalia todas as expressões do modelo em componentes com base na estratégia de detecção e executa os hooks de ciclo de vida `ngDoCheck`, `ngAfterContentChecked`, `ngAfterViewChecked` e `ngOnChanges`. Para remover computações lentas, você pode otimizar algoritmos, armazenar dados com pipes puros ou memoização, e limitar o uso dos hooks de ciclo de vida.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Slow Computations](https://angular.dev/best-practices/slow-computations)
-- [@article@Angular Performance Optimization](https://davembush.medium.com/angular-performance-optimization-5ec630d2b8f1)
+- [@oficial@Computações Lentas](https://angular.dev/best-practices/slow-computations)
+- [@artigo@Otimização de Desempenho do Angular](https://davembush.medium.com/angular-performance-optimization-5ec630d2b8f1)

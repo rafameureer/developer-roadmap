@@ -4,7 +4,7 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 
 ---
 
-> ⚠️ **Total de itens sinalizados:** 150
+> ⚠️ **Total de itens sinalizados:** 167
 
 | Arquivo / Tópico | Motivo da Sinalização | Data/Hora |
 |---|---|---|
@@ -158,3 +158,20 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 | `roadmaps/android/content/rxjava@xk0vnWr7uESdzYRxwFjoK.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:21:33.231433 |
 | `roadmaps/android/content/what-is-and-how-to-use-gradle@FVxNjbDBxgf6vkZWw1Awt.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:23:18.067846 |
 | `roadmaps/android/content/workmanager@OAb_JD64uGm2tPoue7w6t.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:23:20.819702 |
+| `roadmaps/angular/content/accessibility@VNG9DdXlS6R1OJ6Lrn4Lt.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:23:41.139527 |
+| `roadmaps/angular/content/analogjs@kauQofxCmpktXPcnzid17.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:23:45.940560 |
+| `roadmaps/angular/content/angular-and-history@hpShWwL0M57ZAzqkB4I8t.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:23:49.403451 |
+| `roadmaps/angular/content/cross-site-request-forgery@Z1DZBbFI4oU6-KQg3wqMm.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:26:13.181545 |
+| `roadmaps/angular/content/cross-site-script-inclusion@zd7YJGlcMFNFbsKUiW_XC.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:26:18.140077 |
+| `roadmaps/angular/content/cross-site-scripting@umUX4Hxk7srHlFR_Un-u7.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:26:22.128970 |
+| `roadmaps/angular/content/devtools@T3MmS3bvMMgCUbOk3ktU7.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:27:29.191740 |
+| `roadmaps/angular/content/directives@kGzlumFdZFxTRZ3HnCGFO.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:27:32.656130 |
+| `roadmaps/angular/content/dynamic-components@tC5ETtOuuUcybj1jI4CuG.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:27:37.686181 |
+| `roadmaps/angular/content/localize-package@W8OwpEw00xn0GxidlJjdc.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:29:59.370719 |
+| `roadmaps/angular/content/making-requests@HjGAv3aV-p4ijYJ8XYIw3.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:30:02.529572 |
+| `roadmaps/angular/content/metadata@Szgr8dnZNi-z5i6raIJzW.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:30:04.471677 |
+| `roadmaps/angular/content/observable-lifecycle@b06Y5YrqBbHhWkK6Ws_1c.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:30:50.051155 |
+| `roadmaps/angular/content/observable-pattern@krXA6ua7E3m4IIpFkgQZe.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:30:53.325996 |
+| `roadmaps/angular/content/operators@ihsjIcF0tkhjs56458teE.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:30:57.643524 |
+| `roadmaps/angular/content/pipes@j99WQxuTzGeBBVoReDp_y.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:31:20.402844 |
+| `roadmaps/angular/content/property-binding@TJOZfHtsLfwA0CZ2bd1b2.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:31:22.880209 |

@@ -1,10 +1,10 @@
-# Debugging Tests
+# Depuração de Testes
 
-If your tests aren't working as you expect them to, you can inspect and debug them in the browser. Be sure to set breakpoints to track your application's execution.
+Se seus testes não estiverem funcionando como você espera, você pode inspecionar e depurar eles no navegador. Certifique-se de definir pontos de interrupção para rastrear a execução do seu aplicativo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Debugging Tests](https://angular.dev/guide/testing/debugging)
-- [@official@Devtools](https://angular.dev/tools/devtools)
-- [@video@Debug Like a Pro: Essential Breakpoint Techniques in Angular](https://www.youtube.com/watch?v=Be9Q1cchurQ)
-- [@video@Debug Angular 17 Code in VS Code with Break Points and Extensions](https://www.youtube.com/watch?v=r50UXhT9hc0)
+- [@official@Depuração de Testes](https://angular.dev/guide/testing/debugging)
+- [@official@Ferramentas de Desenvolvedor](https://angular.dev/tools/devtools)
+- [@video@Depure como um Profissional: Técnicas Essenciais de Ponto de Interrupção no Angular](https://www.youtube.com/watch?v=Be9Q1cchurQ)
+- [@video@Depure Código do Angular 17 no VS Code com Pontos de Interrupção e Extensões](https://www.youtube.com/watch?v=r50UXhT9hc0)

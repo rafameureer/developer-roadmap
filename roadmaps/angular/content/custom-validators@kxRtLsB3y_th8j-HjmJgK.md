@@ -1,8 +1,8 @@
-# Custom Validators
+# Validadores Personalizados
 
-Custom validators in Angular are functions that allow you to define your own validation logic for form controls. They are used when the built-in validators (like `required`, `minLength`, etc.) do not meet your specific validation requirements. A custom validator is a function that returns either `null` if the form control is valid, or an object that represents the validation error if it is invalid. This object typically contains a key-value pair where the key is the error name and the value is a boolean or some details about the error.
+Os validadores personalizados no Angular são funções que permitem definir sua própria lógica de validação para os controles de formulário. Eles são usados quando os validadores embutidos (como `required`, `minLength`, etc.) não atendem às suas exigências específicas de validação. Um validador personalizado é uma função que retorna `null` se o controle do formulário for válido, ou um objeto que representa o erro de validação se ele for inválido. Esse objeto geralmente contém um par chave-valor onde a chave é o nome do erro e o valor é um booleano ou alguns detalhes sobre o erro.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para saber mais:
 
-- [@official@Defining custom validators](https://angular.dev/guide/forms/form-validation#defining-custom-validators)
-- [@video@How to create custom validator in Angular 17](https://youtu.be/3TwmS0Gdg9I?si=1w4EX-HifJ70-CxT)
+- [@official@Definindo validadores personalizados](https://angular.dev/guide/forms/form-validation#defining-custom-validators)
+- [@video@Como criar um validador personalizado no Angular 17](https://youtu.be/3TwmS0Gdg9I?si=1w4EX-HifJ70-CxT)

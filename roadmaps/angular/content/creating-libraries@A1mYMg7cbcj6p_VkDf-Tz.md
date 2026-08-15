@@ -1,9 +1,9 @@
-# Creating Libraries
+# Criando Bibliotecas
 
-If you have developed features that are suitable for reuse, you can create your own libraries. These libraries can be used locally in your workspace, or you can publish them as npm packages to share with other projects or other Angular developers. Putting code into a separate library is more complex than simply putting everything in one application. It requires more of an investment in time and thought for managing, maintaining, and updating the library. This complexity can pay off when the library is being used in multiple applications.
+Se você tiver desenvolvido recursos que são adequados para reutilização, pode criar suas próprias bibliotecas. Essas bibliotecas podem ser usadas localmente em seu espaço de trabalho ou você pode publicá-las como pacotes npm para compartilhar com outros projetos ou outros desenvolvedores do Angular. Colocar o código em uma biblioteca separada é mais complexo que simplesmente colocar tudo em um aplicativo. Requer mais investimento de tempo e pensamento para gerenciar, manter e atualizar a biblioteca. Essa complexidade pode se pagar quando a biblioteca estiver sendo usada em vários aplicativos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Creating Libraries](https://angular.dev/tools/libraries/creating-libraries)
-- [@official@File Structure: Library project files](https://angular.dev/reference/configs/file-structure#library-project-files)
+- [@official@Criando Bibliotecas](https://angular.dev/tools/libraries/creating-libraries)
+- [@official@Estrutura de Arquivos: Arquivos do projeto da biblioteca](https://angular.dev/reference/configs/file-structure#library-project-files)
 - [@opensource@NG Packagr](https://github.com/ng-packagr/ng-packagr)

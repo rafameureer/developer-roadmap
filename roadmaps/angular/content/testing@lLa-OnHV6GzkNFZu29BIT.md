@@ -1,11 +1,11 @@
-# Testing Angular Apps
+# Testando Aplicativos Angular
 
-In any software development process, testing the application plays a vital role. If bugs and crashes are not figured out and solved they can defame the development company as well as hurt the clients too. But, Angular’s architecture comes with built-in testability features. As soon as you create a new project with Angular CLI, two essential testing tools are installed. They are: Jasmine and Karma. Jasmine is the testing library which structures individual tests into specifications (“specs”) and suites. And Karma is the test runner, which enables the different browsers to run the tests mentioned by Jasmine and the browsers will finally report the test results back.
+Em qualquer processo de desenvolvimento de software, testar a aplicação desempenha um papel crucial. Se bugs e falhas não forem identificados e resolvidos, eles podem prejudicar a empresa de desenvolvimento assim como ferir os clientes também. No entanto, a arquitetura do Angular vem com recursos de testabilidade embutidos. Assim que você criar um novo projeto com o CLI do Angular, duas ferramentas de teste essenciais são instaladas. Elas são: Jasmine e Karma. O Jasmine é a biblioteca de teste que estrutura os testes individuais em especificações ("specs") e conjuntos. E o Karma é o executador de testes, que permite que diferentes navegadores executem os testes mencionados pelo Jasmine e os navegadores relataram finalmente os resultados dos testes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Testing Angular Apps](https://angular.dev/guide/testing)
-- [@official@Jasmine Docs](https://jasmine.github.io/)
-- [@official@Karma Docs](https://karma-runner.github.io/latest/index.html)
-- [@article@Testing Angular - A Guide to Robust Angular Applications](https://testing-angular.com/)
-- [@video@Introduction | Angular Unit Testing Made Easy: A Comprehensive Introduction](https://www.youtube.com/watch?v=emnwsVy8wRs)
+- [@oficial@Testando Aplicativos Angular](https://angular.dev/guide/testing)
+- [@oficial@Documentação do Jasmine](https://jasmine.github.io/)
+- [@oficial@Documentação do Karma](https://karma-runner.github.io/latest/index.html)
+- [@artigo@Testando Angular - Um Guia para Aplicações Robustas do Angular](https://testing-angular.com/)
+- [@vídeo@Introdução | Testes Unitários do Angular Fáceis: Uma Introdução Compreensiva](https://www.youtube.com/watch?v=emnwsVy8wRs)

@@ -1,9 +1,9 @@
-# Testing Requests
+# Testando Requisições
 
-As for any external dependency, you must mock the HTTP backend so your tests can simulate interaction with a remote server. The `@angular/common/http/testing` library provides tools to capture requests made by the application, make assertions about them, and mock the responses to emulate your backend's behavior.
+Como qualquer dependência externa, você deve mockar o backend HTTP para que seus testes possam simular a interação com um servidor remoto. A biblioteca `@angular/common/http/testing` fornece ferramentas para capturar as requisições feitas pela aplicação, fazer afirmações sobre elas e mockar as respostas para emular o comportamento do seu backend.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Testing Requests](https://angular.dev/guide/http/testing)
-- [@video@Import Http Client Testing Module and make Test call with the HttpClient](https://www.youtube.com/watch?v=Sgy_RRXC9As)
-- [@video@HTTP | Angular Unit Testing Made Easy: Comprehensive Guide to HTTP Testing](https://www.youtube.com/watch?v=7rlwryYhGzs)
+- [@oficial]Testando Requisições</a>
+- [@vídeo]Importe o módulo de teste do HttpClient e faça uma chamada de teste com o HttpClient</a>
+- [@vídeo]HTTP | Angular Testes Unitários Fáceis: Guia Completo sobre Testagem HTTP</a>

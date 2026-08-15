@@ -1,9 +1,9 @@
-# Transitions & Triggers
+# Transições e Gatilhos
 
-In Angular, transition states can be defined explicitly through the `state()` function, or using the predefined `*` wildcard and `void` states. An asterisk `*` or wildcard matches any animation state. This is useful for defining transitions that apply regardless of the HTML element's start or end state. Use the `void` state to configure transitions for an element that is entering or leaving a page.
+No Angular, os estados de transição podem ser definidos explicitamente através da função `state()`, ou usando o estado predefinido `*` curinga e o estado `void`. Um asterisco `*` ou curinga corresponde a qualquer estado de animação. Isso é útil para definir transições que sejam aplicadas independentemente do estado inicial ou final do elemento HTML. Use o estado `void` para configurar transições para um elemento que está entrando ou saindo da página.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Transition and Triggers](https://angular.dev/guide/animations/transition-and-triggers)
-- [@video@Angular Animations: Learn the basics](https://www.youtube.com/watch?v=CGBcIz1tYec)
-- [@video@How to use trigger function in Angular Animations](https://www.youtube.com/watch?v=3_B4OV5M_Ag)
+- [@oficial@Transições e Gatilhos](https://angular.dev/guide/animations/transition-and-triggers)
+- [@vídeo@Angular Animations: Aprenda os fundamentos](https://www.youtube.com/watch?v=CGBcIz1tYec)
+- [@vídeo@Como usar a função gatilho em Angular Animations](https://www.youtube.com/watch?v=3_B4OV5M_Ag)

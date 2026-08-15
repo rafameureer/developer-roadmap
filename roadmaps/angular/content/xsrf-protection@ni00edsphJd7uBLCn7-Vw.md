@@ -1,9 +1,9 @@
-# XSRF Protection
+# Proteção contra XSRF
 
-Cross-Site Request Forgery (XSRF or CSRF) protection is a critical security measure designed to prevent a type of malicious exploit where an attacker tricks a web browser into sending an unauthorized request to a trusted site on behalf of a logged-in user. Unlike phishing, which tries to steal credentials, XSRF exploits a user's active session.
+A proteção contra Cross-Site Request Forgery (XSRF ou CSRF) é uma medida de segurança crítica projetada para prevenir um tipo de exploit malicioso onde um atacante engana um navegador em enviar um pedido não autorizado a um site confiável em nome de um usuário logado. Diferentemente do phishing, que tenta roubar credenciais, o XSRF explora uma sessão de usuário ativa.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Prevent Cross-Site Request Forgery (XSRF/CSRF) Attack](https://learn.microsoft.com/en-us/aspnet/core/security/anti-request-forgery?view=aspnetcore-9.0)
-- [@video@Configure the CSRF Protection With Spring Security 6 and Angular](https://www.youtube.com/watch?v=tgjLsEmxcuY)
-- [@video@Angular Security - CSRF prevention using Double Submit Cookie](https://www.youtube.com/watch?v=lZfF4MOTeNM)
+- [@article@Prevenir Ataque Cross-Site Request Forgery (XSRF/CSRF)](https://learn.microsoft.com/en-us/aspnet/core/security/anti-request-forgery?view=aspnetcore-9.0)
+- [@video@Configurar a Proteção CSRF com Spring Security 6 e Angular](https://www.youtube.com/watch?v=tgjLsEmxcuY)
+- [@video@Segurança do Angular - Prevenção de CSRF usando Double Submit Cookie](https://www.youtube.com/watch?v=lZfF4MOTeNM)

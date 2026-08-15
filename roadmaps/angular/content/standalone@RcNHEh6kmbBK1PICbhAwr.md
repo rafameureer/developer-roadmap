@@ -1,8 +1,8 @@
 # Standalone
 
-A standalone component is a component that sets `standalone: true` in its component metadata. Standalone components directly import other components, directives, and pipes used in their templates
+Um componente standalone é um componente que define `standalone: true` em suas metadados de componente. Componentes standalone importam diretamente outros componentes, diretivas e pipes usados em seus templates.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Standalone Components](https://angular.dev/guide/components/importing#standalone-components)
+- [@official@Componentes Standalone](https://angular.dev/guide/components/importing#standalone-components)
 - [@official@Component - API](https://angular.dev/api/core/Component#standalone)

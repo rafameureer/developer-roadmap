@@ -1,7 +1,7 @@
-# Reference vars
+# Variáveis de referência do template
 
-Template reference variables help you use data from one part of a template in another part of the template. A template variable can refer to a DOM element within a template, component or directive. In the template, use the hash symbol, `#`, to declare a template reference variable.
+As variáveis de referência do template ajudam você a usar dados de uma parte do template em outra parte do template. Uma variável de referência do template pode se referir a um elemento DOM dentro do template, componente ou diretiva. No template, use o símbolo de hash (#) para declarar uma variável de referência do template.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Reference Variables](https://angular.dev/guide/templates/reference-variables)
+- [@oficial@Variáveis de Referência](https://angular.dev/guide/templates/reference-variables)

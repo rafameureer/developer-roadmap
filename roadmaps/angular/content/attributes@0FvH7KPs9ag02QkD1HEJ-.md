@@ -1,9 +1,9 @@
-# Attributes
+# Atributos
 
-Building accessible web experience often involves setting Accessible Rich Internet Applications (ARIA) attributes to provide semantic meaning where it might otherwise be missing. Use attribute binding template syntax to control the values of accessibility-related attributes.
+Construir uma experiência web acessível muitas vezes envolve definir atributos de Aplicativos Ricos em Internet Acessíveis (ARIA) para fornecer significado semântico onde pode faltar. Use a sintaxe de modelo de vinculação de atributo para controlar os valores dos atributos relacionados à acessibilidade.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Accessibility Attributes](https://angular.dev/best-practices/a11y#accessibility-attributes)
+- [@official@Atributos de Acessibilidade](https://angular.dev/best-practices/a11y#accessibility-attributes)
 - [@article@ARIA HTML](https://web.dev/learn/accessibility/aria-html/)
-- [@article@Comprehensive accessibility strategies for Angular apps leveraging aria-label for dynamic content](https://yasikahivin.medium.com/comprehensive-accessibility-strategies-for-angular-apps-leveraging-aria-label-for-dynamic-content-fdf114834317)
+- [@article@Estratégias de acessibilidade abrangentes para aplicativos Angular usando aria-label para conteúdo dinâmico](https://yasikahivin.medium.com/comprehensive-accessibility-strategies-for-angular-apps-leveraging-aria-label-for-dynamic-content-fdf114834317)

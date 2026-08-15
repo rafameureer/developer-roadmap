@@ -1,8 +1,8 @@
-# Template statements
+# Declarações do template
 
-Template statements are methods or properties that you can use in your HTML to respond to user events. With template statements, your application can engage users through actions such as displaying dynamic content or submitting forms. Enclose the event in `()` which causes Angular to evaluate the right hand side of the assignment as one or more template statements chained together using semicolon `;`.
+As declarações do template são métodos ou propriedades que você pode usar em seu HTML para responder a eventos de usuário. Com as declarações do template, o aplicativo pode engajar os usuários através de ações como exibir conteúdo dinâmico ou enviar formulários. Envolva o evento em `()` que faz com que o Angular avalie a parte direita da atribuição como uma ou mais declarações de template encadeadas usando ponto e vírgula `;`.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Template Statements](https://angular.dev/guide/templates/template-statements)
-- [@official@Understanding Template Statements](https://angular.dev/guide/templates/template-statements#)
+- [@oficial@Declarações do Template](https://angular.dev/guide/templates/template-statements)
+- [@oficial@Entendendo Declarações do Template](https://angular.dev/guide/templates/template-statements#)

@@ -1,9 +1,9 @@
-# Template Syntax
+# Sintaxe de Template
 
-In Angular, a _template_ is a chunk of HTML. Use special syntax within a template to build on many of Angular's features. Extend the HTML vocabulary of your applications with special Angular syntax in your templates. For example, Angular helps you get and set DOM (Document Object Model) values dynamically with features such as built-in template functions, variables, event listening, and data binding.
+No Angular, um _template_ é uma porção de HTML. Use uma sintaxe especial dentro do template para construir em muitos dos recursos do Angular. Estenda o vocabulário HTML das suas aplicações com uma sintaxe especial do Angular no seu template. Por exemplo, o Angular ajuda você a obter e definir valores do DOM (Modelo de Objeto do Documento) dinamicamente com recursos como funções de template embutidas, variáveis, ouvintes de eventos e vinculação de dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Template Syntax](https://angular.dev/guide/templates)
-- [@article@An Introduction to Angular Template Syntax](https://angularstart.com/modules/basic-angular-concepts/3/)
-- [@video@Craft Dynamic Templates with Angular's Template Syntax](https://www.youtube.com/watch?v=uSnUTcf8adI)
+- [@oficial@Sintaxe de Template](https://angular.dev/guide/templates)
+- [@artigo@Introdução à Sintaxe de Template do Angular](https://angularstart.com/modules/basic-angular-concepts/3/)
+- [@vídeo@Criando Templates Dinâmicos com a Sintaxe do Template do Angular](https://www.youtube.com/watch?v=uSnUTcf8adI)

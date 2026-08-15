@@ -1,8 +1,8 @@
-# HTTP Vulnerabilities
+# Vulnerabilidades HTTP
 
-Angular has built-in support to help prevent two common HTTP vulnerabilities, cross-site request forgery (CSRF or XSRF) and cross-site script inclusion (XSSI). Both of these must be mitigated primarily on the server side, but Angular provides helpers to make integration on the client side easier.
+O Angular tem suporte integrado para ajudar a prevenir duas vulnerabilidades HTTP comuns, o cross-site request forgery (CSRF ou XSRF) e o cross-site script inclusion (XSSI). Ambas essas vulnerabilidades devem ser mitigadas principalmente no lado do servidor, mas o Angular fornece assistentes para tornar a integração no lado do cliente mais fácil.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Angular Security](https://angular.dev/best-practices/security)
+- [@official@Segurança Angular](https://angular.dev/best-practices/security)
 - [@article@Angular | HackTricks](https://book.hacktricks.xyz/network-services-pentesting/pentesting-web/angular)

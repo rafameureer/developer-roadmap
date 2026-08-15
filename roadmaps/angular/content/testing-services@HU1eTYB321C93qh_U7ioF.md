@@ -1,8 +1,8 @@
-# Testing Services
+# Testes de Serviços
 
-To ensure your services function as expected, you can write dedicated tests for them. Services are typically the easiest files to unit test. You can instantiate the service within a `beforeEach` block, invoke its methods, and assert the results.
+Para garantir que seus serviços funcionem conforme o esperado, você pode escrever testes dedicados para eles. Os serviços são geralmente os arquivos mais fáceis de serem testados em unidade. Você pode instanciar o serviço dentro de um bloco `beforeEach`, invocar seus métodos e afirmar os resultados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Testing Services](https://angular.dev/guide/testing/services)
-- [@video@Step by Step implementation of the Calculator Service with Jasmine Specification](https://www.youtube.com/watch?v=yoJDYEq8vSs)
+- [@oficial@Testes de Serviços](https://angular.dev/guide/testing/services)
+- [@vídeo@Implementação passo a passo do Serviço Calculadora com Especificação Jasmine](https://www.youtube.com/watch?v=yoJDYEq8vSs)

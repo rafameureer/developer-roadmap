@@ -1,9 +1,9 @@
 # @defer
 
-A type of block that can be used to defer load the JavaScript for components, directives and pipes used inside a component template.
+Um tipo de bloco que pode ser usado para adiar o carregamento do JavaScript para componentes, diretivas e pipes usados dentro de um modelo de componente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@@defer](https://angular.dev/api/core/@defer)
-- [@article@Angular Defer Complete Guide](https://blog.angular-university.io/angular-defer/)
-- [@article@How to use Angular's defer block to improve performance](https://angular.love/en/how-to-use-angulars-defer-block-to-improve-performance)
+- [@article@Guia Completo sobre @defer no Angular](https://blog.angular-university.io/angular-defer/)
+- [@article@Como usar o bloco @defer do Angular para melhorar a performance](https://angular.love/en/how-to-use-angulars-defer-block-to-improve-performance)

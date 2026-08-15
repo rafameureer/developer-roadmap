@@ -1,8 +1,8 @@
-# Angular Templates
+# Templates do Angular
 
-A Template is a form of HTML which tells Angular to go towards another component. To create many Angular features, special syntax within the templates is used.
+Um Template é uma forma de HTML que instrui o Angular a ir para outro componente. Para criar muitos recursos do Angular, uma sintaxe especial dentro dos templates é usada.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Template Syntax](https://angular.dev/guide/templates)
-- [@feed@Explore top posts about Angular](https://app.daily.dev/tags/angular?ref=roadmapsh)
+- [@oficial@Sintaxe de Template](https://angular.dev/guide/templates)
+- [@feed@Explorando as melhores postagens sobre o Angular](https://app.daily.dev/tags/angular?ref=roadmapsh)

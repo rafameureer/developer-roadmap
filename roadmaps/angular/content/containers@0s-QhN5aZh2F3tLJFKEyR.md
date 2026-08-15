@@ -1,7 +1,7 @@
-# Containers
+# Contêineres
 
-Some Angular Material UI components cannot take children, such as an input, so you need to use container elements to customize the UI component.
+Alguns componentes de interface do usuário do Angular Material não podem receber filhos, como um campo de entrada, então você precisa usar elementos contêiner para personalizar o componente de interface do usuário.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Using Containers for Native Elements](https://angular.dev/best-practices/a11y#using-containers-for-native-elements)
+- [@official@Usando Contêineres para Elementos Nativos](https://angular.dev/best-practices/a11y#using-containers-for-native-elements)

@@ -1,11 +1,11 @@
 # changeDetection
 
-The change-detection strategy to use for this component. When a component is instantiated, Angular creates a change detector, which is responsible for propagating the component's bindings. The strategy is one of:
+A estratégia de detecção de mudanças a ser usada para este componente. Quando um componente é instanciado, o Angular cria um detector de mudança, responsável por propagar as vinculações do componente. A estratégia pode ser uma das seguintes:
 
-*   `ChangeDetectionStrategy.OnPush` sets the strategy to CheckOnce (on demand).
-*   `ChangeDetectionStrategy.Default` sets the strategy to CheckAlways.
+*   `ChangeDetectionStrategy.OnPush` define a estratégia como CheckOnce (manualmente).
+*   `ChangeDetectionStrategy.Default` define a estratégia como CheckAlways.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Advanced Component Configuration](https://angular.dev/guide/components/advanced-configuration#changedetectionstrategy)
+- [@official@Configuração Avançada de Componentes](https://angular.dev/guide/components/advanced-configuration#changedetectionstrategy)
 - [@official@Component - API](https://angular.dev/api/core/Component#changeDetection)

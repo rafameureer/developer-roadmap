@@ -1,8 +1,8 @@
-# Data Binding
+# Ligação de Dados
 
-In an Angular template, a binding creates a live connection between a part of the UI created from a template (a DOM element, directive, or component) and the model (the component instance to which the template belongs). This connection can be used to synchronize the view with the model, to notify the model when an event or user action takes place in the view, or both. Angular's Change Detection algorithm is responsible for keeping the view and the model in sync. Bindings always have two parts: a target which will receive the bound value, and a template expression which produces a value from the model.
+Em um modelo Angular, uma ligação cria uma conexão em tempo real entre uma parte da interface do usuário (UI) criada a partir de um modelo (um elemento DOM, diretiva ou componente) e o modelo (a instância de componente à qual o modelo pertence). Essa conexão pode ser usada para sincronizar a exibição com o modelo, notificar o modelo quando um evento ou ação do usuário ocorrer na exibição, ou ambos. O algoritmo de Detecção de Mudanças do Angular é responsável por manter a exibição e o modelo em sincronia. As ligações sempre têm duas partes: uma parte de destino que receberá o valor ligado e uma expressão de modelo que produz um valor a partir do modelo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Understand Binding](https://angular.dev/guide/templates/binding)
-- [@article@Data Binding in Angular](https://www.angularminds.com/blog/data-binding-in-angular)
+- [@official@Entenda Ligação](https://angular.dev/guide/templates/binding)
+- [@article@Ligação de Dados no Angular](https://www.angularminds.com/blog/data-binding-in-angular)

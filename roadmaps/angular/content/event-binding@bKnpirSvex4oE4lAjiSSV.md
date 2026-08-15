@@ -1,8 +1,8 @@
-# Event Binding
+# Ligação de Eventos
 
-Event binding lets you listen for and respond to user actions such as keystrokes, mouse movements, clicks, and touches.
+A ligação de eventos permite que você ouça e responda a ações do usuário, como teclas pressionadas, movimentos do mouse, cliques e toques.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Event Binding](https://angular.dev/guide/templates/event-binding)
-- [@article@Event Handling in Angular](https://medium.com/@theriyasharma24/event-handling-in-angular-a5854a61b4a5)
+- [@oficial@Ligação de Eventos](https://angular.dev/guide/templates/event-binding)
+- [@artigo@Manipulação de eventos no Angular](https://medium.com/@theriyasharma24/event-handling-in-angular-a5854a61b4a5)

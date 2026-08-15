@@ -1,8 +1,8 @@
-# Dynamic Forms
+# Formulários Dinâmicos
 
-Dynamic forms in Angular are a flexible way to create forms where the structure (such as form fields and validation rules) is generated at runtime, rather than being hardcoded. By using Angular's `FormBuilder` and `FormGroup`, you can dynamically add, remove, or modify form controls based on user input, data fetched from a server, or other logic. This approach allows for creating complex forms that can adapt to different user scenarios, reducing the need for multiple form templates and making the codebase more maintainable and scalable.
+Os formulários dinâmicos no Angular são uma maneira flexível de criar formulários onde a estrutura (como campos do formulário e regras de validação) é gerada em tempo real, em vez de ser codificada de forma rígida. Ao usar o `FormBuilder` e o `FormGroup` do Angular, você pode adicionar dinamicamente, remover ou modificar controles de formulário com base na entrada do usuário, dados obtidos de um servidor ou outra lógica. Esse abordagem permite criar formulários complexos que podem se adaptar a diferentes cenários de usuário, reduzindo a necessidade de múltiplos modelos de formulário e tornando o código mais manterável e escalável.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Dynamic Forms Documentation](https://angular.dev/guide/forms/dynamic-forms)
-- [@video@Create a Dynamic Reactive Angular Form with JSON](https://www.youtube.com/watch?v=ByHw_RMjkKM)
+- [@official@Documentação de Formulários Dinâmicos](https://angular.dev/guide/forms/dynamic-forms)
+- [@video@Criar um Formulário Reativo Angular Dinâmico com JSON](https://www.youtube.com/watch?v=ByHw_RMjkKM)

@@ -1,9 +1,9 @@
-# Router links
+# Links do roteador
 
-In Angular, routerLink when applied to an element in a template, makes that element a link that initiates navigation to a route. Navigation opens one or more routed components in one or more `<router-outlet>` locations on the page.
+No Angular, quando o routerLink é aplicado a um elemento em uma template, torna esse elemento um link que inicia a navegação para uma rota. A navegação abre um ou mais componentes roteados em um ou mais locais `<router-outlet>` na página.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Router Reference - Router links](https://angular.dev/guide/routing/router-reference#router-links)
-- [@official@Router Link - API](https://angular.dev/api/router/RouterLink)
-- [@article@Angular Router: Navigation Using RouterLink, Navigate, or NavigateByUrl](https://www.digitalocean.com/community/tutorials/angular-navigation-routerlink-navigate-navigatebyurl)
+- [@oficial@Referência do Roteador - Links do Roteador](https://angular.dev/guide/routing/router-reference#router-links)
+- [@oficial@Link do Roteador - API](https://angular.dev/api/router/RouterLink)
+- [@artigo@Roteador Angular: Navegação usando RouterLink, Navigate ou NavigateByUrl](https://www.digitalocean.com/community/tutorials/angular-navigation-routerlink-navigate-navigatebyurl)

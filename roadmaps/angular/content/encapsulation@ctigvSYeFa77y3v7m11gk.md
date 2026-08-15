@@ -1,16 +1,16 @@
-# Encapsulation
+# Encapsulamento
 
-An encapsulation policy for the component's styling. Possible values:
+Política de encapsulamento para o estilo do componente. Valores possíveis:
 
-*   `ViewEncapsulation.Emulated`: Apply modified component styles in order to emulate a native Shadow DOM CSS encapsulation behavior.
-*   `ViewEncapsulation.None`: Apply component styles globally without any sort of encapsulation.
-*   `ViewEncapsulation.ShadowDom`: Use the browser's native Shadow DOM API to encapsulate styles.
+*   `ViewEncapsulation.Emulated`: Aplica estilos modificados do componente para emular um comportamento de encapsulamento CSS nativo Shadow DOM.
+*   `ViewEncapsulation.None`: Aplica estilos do componente globalmente sem qualquer tipo de encapsulamento.
+*   `ViewEncapsulation.ShadowDom`: Usa a API nativa do Shadow DOM do navegador para encapsular estilos.
 
-If not supplied, the value is taken from the CompilerOptions which defaults to `ViewEncapsulation.Emulated`.
+Se não for fornecido, o valor é tomado das opções do compilador, que padrão para `ViewEncapsulation.Emulated`.
 
-If the policy is `ViewEncapsulation.Emulated` and the component has no styles nor {@link Component#styleUrls styleUrls}, the policy is automatically switched to `ViewEncapsulation.None`.
+Se a política for `ViewEncapsulation.Emulated` e o componente não tiver estilos nem {@link Component#styleUrls styleUrls}, a política é automaticamente alterada para `ViewEncapsulation.None`.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Style Scoping](https://angular.dev/guide/components/styling#style-scoping)
-- [@official@Component Encapsulation](https://angular.dev/api/core/Component#encapsulation)
+- [@official@Escopo de Estilos](https://angular.dev/guide/components/styling#style-scoping)
+- [@official@Component Encapsulamento](https://angular.dev/api/core/Component#encapsulation)

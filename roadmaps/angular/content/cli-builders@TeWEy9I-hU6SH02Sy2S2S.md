@@ -1,9 +1,9 @@
-# CLI Builders
+# Construtores CLI
 
-A number of Angular CLI commands run a complex process on your code, such as building, testing, or serving your application. The commands use an internal tool called `Architect` to run CLI builders, which invoke another tool (bundler, test runner, server) to accomplish the desired task. Custom builders can perform an entirely new task or to change which third-party tool is used by an existing command.
+Vários comandos do Angular CLI executam um processo complexo em seu código, como a construção, teste ou atendimento ao cliente da sua aplicação. Os comandos usam uma ferramenta interna chamada `Architect` para executar construtores CLI, que invocam outra ferramenta (empacotador, executador de testes, servidor) para concluir a tarefa desejada. Construtores personalizados podem realizar uma nova tarefa completamente ou alterar qual ferramenta terceirizada é usada por um comando existente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@CLI Builders](https://angular.dev/tools/cli/cli-builder)
-- [@opensource@Angular Builders](https://github.com/just-jeb/angular-builders)
-- [@video@Angular Builders – Creating Custom Builder from Scratch](https://www.youtube.com/watch?v=QbDkDLnXAZE)
+- [@official@Construtores CLI](https://angular.dev/tools/cli/cli-builder)
+- [@opensource@Ferramentas de Construção do Angular](https://github.com/just-jeb/angular-builders)
+- [@video@Angular Builders – Criando um Construtor Personalizado do Zero](https://www.youtube.com/watch?v=QbDkDLnXAZE)

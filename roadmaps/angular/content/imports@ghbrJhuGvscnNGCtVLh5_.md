@@ -1,8 +1,8 @@
-# Imports
+# Importações
 
-The `imports` property specifies the `standalone` component's template dependencies — those directives, components, and pipes that can be used within its template.
+A propriedade `imports` especifica as dependências de modelo do componente `standalone` — diretivas, componentes e pipes que podem ser usados dentro de seu modelo.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para saber mais:
 
-- [@official@Importing and Using Components](https://angular.dev/guide/components/importing)
+- [@official@Importando e Usando Componentes](https://angular.dev/guide/components/importing)
 - [@official@Component - API](https://angular.dev/api/core/Component#imports)

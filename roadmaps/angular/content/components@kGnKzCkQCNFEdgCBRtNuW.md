@@ -1,15 +1,15 @@
-# Angular Components
+# Componentes do Angular
 
-Components are the main building block for Angular applications. Each component consists of:
+Os componentes são a principal unidade de construção para aplicativos do Angular. Cada componente consiste em:
 
-*   An HTML template that declares what renders on the page
-*   A TypeScript class that defines the behavior
-*   A CSS selector that defines how the component is used in a template
-*   Optionally, CSS styles applied to the template
+*   Um modelo HTML que declara o que é renderizado na página
+*   Uma classe TypeScript que define o comportamento
+*   Um seletor CSS que define como o componente é usado em um modelo
+*   Opicionalmente, estilos CSS aplicados ao modelo
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Anatomy of a Component](https://angular.dev/guide/components)
-- [@official@Composing with Components in Angular](https://angular.dev/essentials/components)
-- [@video@Standalone Components in Angular](https://www.youtube.com/watch?v=x5PZwb4XurU)
+- [@official@Anatomia de um Componente](https://angular.dev/guide/components)
+- [@official@Compondo com Componentes no Angular](https://angular.dev/essentials/components)
+- [@video@Componentes Independentes no Angular](https://www.youtube.com/watch?v=x5PZwb4XurU)
 - [@feed@Explore top posts about Angular](https://app.daily.dev/tags/angular?ref=roadmapsh)

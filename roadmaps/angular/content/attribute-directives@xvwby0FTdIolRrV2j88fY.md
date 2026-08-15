@@ -1,14 +1,14 @@
-# Attribute Directives
+# Diretrizes de Atributo
 
-Change the appearance or behavior of DOM elements and Angular components with attribute directives.
+Altere a aparência ou o comportamento dos elementos DOM e componentes Angular com diretrizes de atributo.
 
-The most used attribute directives are:
+As diretrizes de atributo mais usadas são:
 
 *   ngClass
 *   ngStyle
 *   ngModel
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Attribute Directives](https://angular.dev/guide/directives/attribute-directives)
-- [@article@Angular Attribute Directive](https://www.scaler.com/topics/angular/angular-attribute-directive/)
+- [@official@Diretrizes de Atributo](https://angular.dev/guide/directives/attribute-directives)
+- [@article@Diretiva Atual do Angular](https://www.scaler.com/topics/angular/angular-attribute-directive/)

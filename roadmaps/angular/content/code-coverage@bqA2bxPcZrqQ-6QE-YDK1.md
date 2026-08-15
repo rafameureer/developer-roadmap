@@ -1,8 +1,8 @@
-# Code Coverage
+# Cobertura de Código
 
-The Angular CLI can run unit tests and create code coverage reports. Code coverage reports show you any parts of your code base that might not be properly tested by your unit tests.
+O CLI do Angular pode executar testes unitários e criar relatórios de cobertura de código. Os relatórios de cobertura de código mostram quaisquer partes do seu base de código que possivelmente não estejam sendo testadas adequadamente pelos seus testes unitários.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Code Coverage](https://angular.dev/guide/testing/code-coverage)
-- [@article@Measuring Code Coverage](https://testing-angular.com/measuring-code-coverage/)
+- [@oficial@Cobertura de Código](https://angular.dev/guide/testing/code-coverage)
+- [@artigo@Medindo Cobertura de Código](https://testing-angular.com/measuring-code-coverage/)

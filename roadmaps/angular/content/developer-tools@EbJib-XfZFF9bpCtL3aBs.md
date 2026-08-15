@@ -1,8 +1,8 @@
-# Developer Tools
+# Ferramentas de Desenvolvedor
 
-Angular offers a suite of powerful developer tools designed to streamline and enhance the development process. These include the Angular CLI for efficient project setup and management, the Angular DevTools extension for advanced debugging and profiling, and the Angular Language Service for improved code editing and completion. Leveraging these tools will significantly improve your ability to write high-quality Angular code.
+O Angular oferece uma suite de poderosas ferramentas de desenvolvedor projetadas para simplificar e melhorar o processo de desenvolvimento. Isso inclui o Angular CLI para a configuração e gerenciamento eficientes do projeto, a extensão Angular DevTools para depuração e perfilamento avançados, e o Angular Language Service para edição e conclusão de código melhoradas. Aproveitar essas ferramentas significativamente melhorará sua capacidade de escrever código Angular de alta qualidade.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para saber mais:
 
 - [@official@Angular Devtools](https://angular.dev/tools/devtools)
 - [@official@Angular CLI](https://angular.dev/tools/cli)

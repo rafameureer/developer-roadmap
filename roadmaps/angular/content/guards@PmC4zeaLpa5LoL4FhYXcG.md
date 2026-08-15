@@ -1,12 +1,12 @@
-# Route Guards
+# Garantes de Rota
 
-Use route guards to prevent users from navigating to parts of an application without authorization.
+Use garantes de rota para impedir que usuários naveguem por partes de uma aplicação sem autorização.
 
-Angular route guards are interfaces provided by Angular that, when implemented, allow us to control the accessibility of a route based on conditions provided in function implementation of that interface.
+As garantes de rota do Angular são interfaces fornecidas pelo Angular que, quando implementadas, nos permitem controlar a acessibilidade de uma rota com base em condições fornecidas na implementação da função dessa interface.
 
-Some types of angular guards are `CanActivate`, `CanActivateChild`, `CanDeactivate`, `CanMatch` and `Resolve`.
+Alguns tipos de garantes angular incluem `CanActivate`, `CanActivateChild`, `CanDeactivate`, `CanMatch` e `Resolve`.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Preventing Unauthorized Access](https://angular.dev/guide/routing/common-router-tasks#preventing-unauthorized-access)
+- [@official@Prevenção de Acesso Não Autorizado](https://angular.dev/guide/routing/common-router-tasks#preventing-unauthorized-access)
 - [@official@Resolve](https://angular.dev/api/router/Resolve)

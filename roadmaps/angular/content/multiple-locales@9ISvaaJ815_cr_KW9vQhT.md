@@ -1,12 +1,12 @@
-# Multiple Locales
+# Múltiplos Locais
 
-To deploy an Angular application with multiple locales, follow these steps:
+Para implantar uma aplicação Angular com múltiplos locais, siga estes passos:
 
-1.  Place different versions of your app in locale-specific directories
-2.  Use the HTML `<base>` tag with the `href` attribute to set the base URL for relative links.
-3.  Deploy each language version in a different subdirectory. Redirect users to their preferred language based on the `Accept-Language` HTTP header.
+1. Coloque diferentes versões do seu app em diretórios específicos para cada local.
+2. Use a tag HTML `<base>` com o atributo `href` para definir a URL base para links relativos.
+3. Implante cada versão de idioma em um subdiretório diferente. Redirecione os usuários para o idioma preferido com base no cabeçalho HTTP `Accept-Language`.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Deploy Multiple Locales](https://angular.dev/guide/i18n/deploy)
-- [@video@How Make Multi-Language Angular Websites - Full Guidance On Angular Localization](https://www.youtube.com/watch?v=vSwYuyH4kMA)
+- [@oficial@Implantar Múltiplos Locais](https://angular.dev/guide/i18n/deploy)
+- [@vídeo@Como Criar Websites Multilíngues em Angular - Guia Completo sobre Localização Angular](https://www.youtube.com/watch?v=vSwYuyH4kMA)

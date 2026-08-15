@@ -1,9 +1,9 @@
-# Change detection
+# Detecção de Mudanças
 
-Change detection is the process through which Angular checks to see whether your application state has changed, and if any DOM needs to be updated. At a high level, Angular walks your components from top to bottom, looking for changes. Angular runs its change detection mechanism periodically so that changes to the data model are reflected in an application’s view. Change detection can be triggered either manually or through an asynchronous event
+A detecção de mudanças é o processo pelo qual o Angular verifica se o estado da sua aplicação foi alterado e, se houver alguma atualização necessária no DOM. Em nível alto, o Angular percorre seus componentes do topo para baixo, procurando por alterações. O Angular executa seu mecanismo de detecção de mudanças periodicamente para que as alterações no modelo de dados sejam refletidas na visão da aplicação. A detecção de mudanças pode ser disparada manualmente ou por meio de um evento assíncrono.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Runtime Performance Optimization](https://angular.dev/best-practices/runtime-performance)
+- [@official@Otimização de Desempenho em Tempo de Execução](https://angular.dev/best-practices/runtime-performance)
 - [@official@ChangeDetectionStrategy](https://angular.dev/guide/components/advanced-configuration#changedetectionstrategy)
-- [@video@4 Runtime Performance Optimizations ( Change detection )](https://www.youtube.com/watch?v=f8sA-i6gkGQ)
+- [@video@4 Otimizações de Desempenho em Tempo de Execução (Detecção de Mudanças)](https://www.youtube.com/watch?v=f8sA-i6gkGQ)

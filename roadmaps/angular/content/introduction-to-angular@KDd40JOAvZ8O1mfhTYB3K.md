@@ -1,10 +1,10 @@
-# Introduction to Angular
+# Introdução ao Angular
 
-Angular is a popular open-source front-end web application framework developed by Google. It is written in TypeScript and allows developers to build dynamic, single-page web applications with ease. Angular provides a comprehensive set of features for creating interactive and responsive user interfaces, making it a powerful tool for modern web development.
+Angular é um popular framework de aplicativos web front-end open-source desenvolvido pela Google. Ele está escrito em TypeScript e permite aos desenvolvedores construir aplicativos web dinâmicos e de uma única página com facilidade. O Angular oferece um conjunto completo de recursos para criar interfaces de usuário interativas e respondivas, tornando-o uma ferramenta poderosa para o desenvolvimento web moderno.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Angular](https://angular.dev/)
-- [@official@Angular Documentation](https://angular.dev/overview)
-- [@official@Angular Playground](https://angular.dev/playground)
-- [@official@Angular API Reference](https://angular.dev/api)
+- [@oficial@Angular](https://angular.dev/)
+- [@oficial@Documentação do Angular](https://angular.dev/overview)
+- [@oficial@Jogos de Aprendizado do Angular](https://angular.dev/playground)
+- [@oficial@Referência da API do Angular](https://angular.dev/api)

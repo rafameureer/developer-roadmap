@@ -1,11 +1,11 @@
-# Forms
+# Formulários
 
-Forms are used to handle user input in many applications, from entering sensitive information to performing data entry tasks.
+Os formulários são usados para lidar com a entrada do usuário em muitas aplicações, desde o preenchimento de informações sensíveis até tarefas de entrada de dados.
 
-Angular provides two approaches to handle user input through forms: reactive and template-driven forms.
+O Angular oferece duas abordagens para lidar com a entrada do usuário através de formulários: formulários reativos e formulários baseados em modelo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Forms in Angular](https://angular.dev/guide/forms)
-- [@video@Angular Forms Tutorial](https://www.youtube.com/watch?v=-bGgjgx3fGs)
-- [@video@Building Forms in Angular Apps](https://www.youtube.com/watch?v=hAaoPOx_oIw)
+- [@official@Formulários no Angular](https://angular.dev/guide/forms)
+- [@video@Tutorial de Formulários no Angular](https://www.youtube.com/watch?v=-bGgjgx3fGs)
+- [@video@Construindo Formulários em Aplicativos do Angular](https://www.youtube.com/watch?v=hAaoPOx_oIw)

@@ -1,11 +1,11 @@
-# End-to-End Testing
+# Testes de Integração Total
 
-End-to-end or (E2E) testing is a form of testing used to assert your entire application works as expected from start to finish or "end-to-end". E2E testing differs from unit testing in that it is completely decoupled from the underlying implementation details of your code. It is typically used to validate an application in a way that mimics the way a user would interact with it. The `ng e2e` command will first check your project for the "e2e" target. If it can't locate it, the CLI will then prompt you which e2e package you would like to use and walk you through the setup.
+Testes de integração total ou (E2E) são um tipo de teste usado para afirmar que sua aplicação funciona como esperado do início ao fim ou "de ponta a ponta". Os testes E2E diferem dos testes unitários em que estão completamente decoupidos dos detalhes de implementação subjacentes do seu código. Geralmente são usados para validar uma aplicação de maneira que simule como um usuário interagiria com ela. O comando `ng e2e` primeiro verificará o projeto pela meta "e2e". Se não localizar, a CLI então solicitará qual pacote e2e você gostaria de usar e guiará você através da configuração.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@End to End Testing](https://angular.dev/tools/cli/end-to-end)
-- [@official@Your First Test with Cypress](https://docs.cypress.io/guides/end-to-end-testing/writing-your-first-end-to-end-test)
-- [@official@Writing Tests: Introduction](https://nightwatchjs.org/guide/writing-tests/introduction.html)
-- [@official@Getting Started](https://webdriver.io/docs/gettingstarted/)
+- [@official@Testes de Integração Total](https://angular.dev/tools/cli/end-to-end)
+- [@official@Seu Primeiro Teste com Cypress](https://docs.cypress.io/guides/end-to-end-testing/writing-your-first-end-to-end-test)
+- [@official@Introdução à Escrita de Testes](https://nightwatchjs.org/guide/writing-tests/introduction.html)
+- [@official@Começando](https://webdriver.io/docs/gettingstarted/)
 - [@official@Puppeteer Angular Schematic](https://pptr.dev/guides/ng-schematics/#getting-started)

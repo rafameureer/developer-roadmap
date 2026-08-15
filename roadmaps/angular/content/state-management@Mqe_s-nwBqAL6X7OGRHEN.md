@@ -1,10 +1,10 @@
-# State Management
+# Gerenciamento de Estado
 
-Application state management is the process of maintaining knowledge of an application's inputs across multiple related data flows that form a complete business transaction -- or a session -- to understand the condition of the app at any given moment. In computer science, an input is information put into the program by the user and state refers to the condition of an application according to its stored inputs -- saved as variables or constants. State can also be described as the collection of preserved information that forms a complete session.
+O gerenciamento de estado da aplicação é o processo de manter conhecimento dos inputs de uma aplicação em várias fluxos de dados relacionados que formam uma transação comercial completa -- ou uma sessão -- para entender a condição da app em qualquer momento dado. Em ciência da computação, um input é informações inseridas no programa pelo usuário e o estado refere-se à condição de uma aplicação de acordo com seus inputs armazenados -- salvos como variáveis ou constantes. O estado também pode ser descrito como a coleção de informações preservadas que formam uma sessão completa.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is State Management?](https://www.techtarget.com/searchapparchitecture/definition/state-management)
-- [@article@Angular state management made simple with NgRx](https://blog.logrocket.com/angular-state-management-made-simple-with-ngrx/)
-- [@article@Angular State Management with NgRx](https://www.syncfusion.com/blogs/post/angular-state-management-with-ngrx.aspx)
-- [@article@State Management and the Facade pattern in Angular](https://thefullstack.engineer/full-stack-development-series-part-10-state-management-and-the-facade-pattern-in-angular)
+- [@article@O que é Gerenciamento de Estado?](https://www.techtarget.com/searchapparchitecture/definition/state-management)
+- [@article@Gerenciamento de Estado do Angular simplificado com NgRx](https://blog.logrocket.com/angular-state-management-made-simple-with-ngrx/)
+- [@article@Gerenciamento de Estado do Angular com NgRx](https://www.syncfusion.com/blogs/post/angular-state-management-with-ngrx.aspx)
+- [@article@Gerenciamento de Estado e o padrão Facade no Angular](https://thefullstack.engineer/full-stack-development-series-part-10-state-management-and-the-facade-pattern-in-angular)

@@ -1,9 +1,9 @@
-# RxJS Interop
+# Interoperação com RxJS
 
-Angular's `@angular/core/rxjs-interop` package provides useful utilities to integrate Angular Signals with RxJS Observables. Use a `toSignal` function to create a signal that tracks the value of an Observable. Use the `toObservable` utility to create an Observable which tracks the value of a signal.
+O pacote `@angular/core/rxjs-interop` do Angular fornece utilitários úteis para integrar Sinais do Angular com Observáveis do RxJS. Use a função `toSignal` para criar um sinal que rastreia o valor de um Observable. Use a utilidade `toObservable` para criar um Observable que rastreia o valor de um sinal.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@RxJS Interop](https://angular.dev/guide/signals/rxjs-interop)
-- [@article@Angular Signals RxJS Interop from a Practical example](https://angular.love/en/angular-signals-rxjs-interop-from-a-practical-example)
-- [@video@Angular Signals RxJs Interoperability: toObservable() (Guess the Behavior)](https://www.youtube.com/watch?v=cam39UyVbpI)
+- [@oficial@Interoperação com RxJS](https://angular.dev/guide/signals/rxjs-interop)
+- [@artigo@Interoperação entre Sinais do Angular e RxJS a partir de um exemplo prático](https://angular.love/en/angular-signals-rxjs-interop-from-a-practical-example)
+- [@vídeo@Interoperabilidade entre Sinais do Angular e RxJS: toObservable() (Adivinhe o Comportamento)](https://www.youtube.com/watch?v=cam39UyVbpI)

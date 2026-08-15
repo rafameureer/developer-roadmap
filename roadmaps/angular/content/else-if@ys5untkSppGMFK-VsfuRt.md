@@ -1,8 +1,8 @@
 # @else if
 
-With the new control flow syntax, you gain `@else if` conditional blocks, something that is not possible with `@ngIf`. This addition makes the control flow syntax close to what we would write with just plain JavaScript.
+Com a nova sintaxe de fluxo de controle, você ganha blocos condicionais `@else if`, algo que não é possível com `@ngIf`. Esta adição torna a sintaxe de fluxo de controle mais próxima do que escreveríamos apenas com JavaScript puro.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@@if](https://angular.dev/api/core/@if)
-- [@article@Angular @if: Complete Guide](https://blog.angular-university.io/angular-if/)
+- [@article@Guia Completo sobre @if no Angular](https://blog.angular-university.io/angular-if/)

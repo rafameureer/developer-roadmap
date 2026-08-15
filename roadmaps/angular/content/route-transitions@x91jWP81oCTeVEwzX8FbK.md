@@ -1,9 +1,9 @@
-# Route Transitions
+# Transições de Rota
 
-When a user navigates from one route to another, the Angular router maps the URL path to a relevant component and displays its view. Animating this route transition can greatly enhance the user experience.
+Quando um usuário navega de uma rota para outra, o roteador Angular mapeia a caminho da URL para um componente relevante e exibe sua visão. Animar essa transição de rota pode amplamente melhorar a experiência do usuário.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Route transition animations](https://angular.dev/guide/animations/route-animations)
-- [@article@Add Router Animation Transitions for navigation in Angular 17](https://dev.to/this-is-angular/add-router-animation-transitions-for-navigation-in-angular-17-2m5a)
-- [@video@Angular Animations: Router transitions](https://www.youtube.com/watch?v=7d8UDEKT1pU)
+- [@oficial@Transições de Rota](https://angular.dev/guide/animations/route-animations)
+- [@artigo@Adicionar Transições de Rota para navegação no Angular 17](https://dev.to/this-is-angular/add-router-animation-transitions-for-navigation-in-angular-17-2m5a)
+- [@vídeo@Angular Animações: Transições de Rota](https://www.youtube.com/watch?v=7d8UDEKT1pU)

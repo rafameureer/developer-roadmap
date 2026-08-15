@@ -1,14 +1,14 @@
-# Communication
+# Comunicação
 
-Angular components can communicate with each other using `@Input()` and `@Output()` decorators. These decorators facilitate data exchange between parent and child components.
+Os componentes do Angular podem se comunicar uns com os outros usando decoradores `@Input()` e `@Output()`. Esses decoradores facilitam a troca de dados entre componentes pai e filho.
 
-*   **@Input()**: This decorator allows a parent component to pass data to a child component, enabling the child to receive and use the data.
-*   **@Output()**: This decorator allows a child component to emit events to a parent component, enabling the parent to respond to changes or actions within the child component.
+*   **@Input()**: Esse decorador permite que um componente pai passe dados para um componente filho, permitindo que o filho receba e use os dados.
+*   **@Output()**: Esse decorador permite que um componente filho emita eventos para um componente pai, permitindo que o pai responda a mudanças ou ações dentro do componente filho.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Inputs](https://angular.dev/guide/components/inputs)
-- [@official@Outputs](https://angular.dev/guide/components/outputs)
-- [@official@Model Inputs](https://angular.dev/guide/signals/model)
-- [@official@Custom events with outputs](https://angular.dev/guide/components/outputs)
-- [@video@Non-Related Component Communication | Angular Component & Directives](https://www.youtube.com/watch?v=aIkGXMJFTzM)
+- [@oficial@Inputs](https://angular.dev/guide/components/inputs)
+- [@oficial@Outputs](https://angular.dev/guide/components/outputs)
+- [@oficial@Model Inputs](https://angular.dev/guide/signals/model)
+- [@oficial@Eventos personalizados com outputs](https://angular.dev/guide/components/outputs)
+- [@video@Comunicação entre componentes não relacionados | Componentes e diretivas do Angular](https://www.youtube.com/watch?v=aIkGXMJFTzM)

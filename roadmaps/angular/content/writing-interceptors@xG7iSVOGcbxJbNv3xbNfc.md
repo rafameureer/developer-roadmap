@@ -1,9 +1,9 @@
-# Writing Interceptors
+# Escrevendo Interceptores
 
-Interceptors are middleware that allows common patterns around retrying, caching, logging, and authentication to be abstracted away from individual requests.
+Interceptores são middleware que permitem abstrair padrões comuns como tentativas de reconexão, caching, loggin e autenticação dos pedidos individuais.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Interceptors](https://angular.dev/guide/http/interceptors)
-- [@article@Angular Interceptor](https://www.scaler.com/topics/angular/angular-interceptor/)
-- [@video@Interceptors in Angular](https://www.youtube.com/watch?v=w1_AmHv2LmA)
+- [@official@Interceptores](https://angular.dev/guide/http/interceptors)
+- [@article@Interceptor Angular](https://www.scaler.com/topics/angular/angular-interceptor/)
+- [@video@Interceptores no Angular](https://www.youtube.com/watch?v=w1_AmHv2LmA)

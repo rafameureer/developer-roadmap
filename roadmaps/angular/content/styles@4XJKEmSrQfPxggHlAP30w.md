@@ -1,8 +1,8 @@
-# Styles
+# Estilos
 
-This metadata allows developers to apply CSS styles directly to a component, enhancing its appearance and ensuring that styles are scoped to that particular component.
+Essas metadados permitem aos desenvolvedores aplicar estilos CSS diretamente a um componente, melhorando sua aparência e garantindo que os estilos estejam escopos para esse componente em particular.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Styling Components](https://angular.dev/guide/components/styling)
+- [@official@Estilizando Componentes](https://angular.dev/guide/components/styling)
 - [@official@Component Style - API](https://angular.dev/api/core/Component#styles)

@@ -1,10 +1,10 @@
-# Router outlets
+# Saídas do Roteador
 
-The router-outlet is a directive that's available from the @angular/router package and is used by the router to mark where in a template, a matched component should be inserted.
+O router-outlet é uma diretiva disponível no pacote @angular/router e usada pelo roteador para marcar onde em uma template, um componente correspondente deve ser inserido.
 
-Thanks to the router outlet, your app will have multiple views/pages and the app template acts like a shell of your application. Any element, you add to the shell will be rendered in each view, only the part marked by the router outlet will be changed between views.
+Através da saída do roteador, seu aplicativo terá várias visualizações/páginas e a template do aplicativo atuará como uma envoltória de sua aplicação. Qualquer elemento que você adicionar à envoltória será renderizado em cada visualização, apenas a parte marcada pelo router-outlet será alterada entre as visualizações.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Router Reference - Router Outlet](https://angular.dev/guide/routing/router-reference#router-outlet)
-- [@official@Router Outlet - API](https://angular.dev/api/router/RouterOutlet)
+- [@oficial@Referência do Roteador - Saída do Roteador](https://angular.dev/guide/routing/router-reference#router-outlet)
+- [@oficial@Saída do Roteador - API](https://angular.dev/api/router/RouterOutlet)

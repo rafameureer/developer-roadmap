@@ -1,10 +1,10 @@
-# Local Setup
+# Configuração Local
 
-To install Angular CLI on your local system, you need to install `Node.js`. Angular requires an active LTS or maintenance LTS version of Node. Angular CLI uses Node and its associated package manager, npm, to install and run JavaScript tools outside the browser. Once you have Node installed, you can run `npm install -g @angular/cli` to install the Angular CLI.
+Para instalar o Angular CLI em seu sistema local, você precisa instalar `Node.js`. O Angular requer uma versão ativa LTS ou de manutenção LTS do Node. O Angular CLI usa o Node e seu gerenciador de pacotes associado, npm, para instalar e executar ferramentas JavaScript fora do navegador. Uma vez que você tenha o Node instalado, você pode rodar `npm install -g @angular/cli` para instalar o Angular CLI.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Local set-up](https://angular.dev/tools/cli/setup-local)
-- [@official@Version Compatibility Guide](https://angular.dev/reference/versions)
-- [@video@How To Install Angular CLI In Windows 10 | In Under 2 Minutes!](https://www.youtube.com/watch?v=vjgACKkPENg)
-- [@video@How to Install Multiple Versions of Angular in Your Development Environment](https://www.youtube.com/watch?v=LYNG3kcKRQ8)
+- [@official@Configuração local](https://angular.dev/tools/cli/setup-local)
+- [@official@Guia de compatibilidade de versões](https://angular.dev/reference/versions)
+- [@video@Como Instalar o Angular CLI no Windows 10 | Em menos de 2 minutos!](https://www.youtube.com/watch?v=vjgACKkPENg)
+- [@video@Como instalar várias versões do Angular em seu ambiente de desenvolvimento](https://www.youtube.com/watch?v=LYNG3kcKRQ8)

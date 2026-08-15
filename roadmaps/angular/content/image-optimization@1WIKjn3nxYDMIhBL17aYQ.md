@@ -1,9 +1,9 @@
-# Image Optimization
+# Otimização de Imagens
 
-The NgOptimizedImage directive makes it easy to adopt performance best practices for loading images.
+A diretiva `NgOptimizedImage` facilita a adoção de práticas de desempenho ótimas para o carregamento de imagens.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para saber mais:
 
-- [@official@Image Optimization](https://angular.dev/guide/image-optimization)
-- [@article@Automatic Adjustments in Angular's optimized images](https://medium.com/ngconf/automatic-adjustments-in-angulars-optimized-images-0034335e0374)
-- [@article@Boost your application's performance with NgOptimizedImage](https://angular.love/en/boost-your-applications-performance-with-ngoptimizedimage)
+- [@official@Otimização de Imagens](https://angular.dev/guide/image-optimization)
+- [@article@Ajustamentos Automáticos em Imagens Otimizadas do Angular](https://medium.com/ngconf/automatic-adjustments-in-angulars-optimized-images-0034335e0374)
+- [@article@Melhore o desempenho da sua aplicação com NgOptimizedImage](https://angular.love/en/boost-your-applications-performance-with-ngoptimizedimage)

@@ -1,8 +1,8 @@
-# Configuration
+# Configuração
 
-The configuration of routes in an Angular application involves defining route mappings in an array and providing these routes to the Angular router.
+A configuração de rotas em um aplicativo do Angular envolve definir mapeamentos de rota em um array e fornecer essas rotas ao roteador do Angular.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Router Reference - Configuration](https://angular.dev/guide/routing/router-reference#configuration)
-- [@official@Routing Overview](https://angular.dev/guide/routing)
+- [@official@Referência do Roteador - Configuração](https://angular.dev/guide/routing/router-reference#configuration)
+- [@official@Visão Geral da Navegação](https://angular.dev/guide/routing)

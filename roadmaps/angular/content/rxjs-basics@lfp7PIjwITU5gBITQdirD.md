@@ -1,11 +1,11 @@
-# RxJS Basics
+# Básicos do RxJS
 
-Reactive Extensions for JavaScript, or RxJS, is a reactive library used to implement reactive programming to deal with async implementation, callbacks, and event-based programs.
+Reactive Extensions for JavaScript, ou RxJS, é uma biblioteca reativa usada para implementar programação reativa para lidar com implementações assíncronas, callbacks e programas baseados em eventos.
 
-The reactive paradigm can be used in many different languages through the use of reactive libraries. These libraries are downloaded APIs that provide functionalities for reactive tools like observers and operators. It can be used in your browser or with Node.js.
+O paradigma reativo pode ser usado em muitos diferentes idiomas através do uso de bibliotecas reativas. Essas bibliotecas são APIs baixadas que fornecem funcionalidades para ferramentas reativas como observadores e operadores. Pode ser usado no seu navegador ou com Node.js.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Learn RxJS](https://www.learnrxjs.io/)
-- [@article@RxJs and Observables for Beginners: A Beginner Friendly Introduction](https://blog.angular-university.io/functional-reactive-programming-for-angular-2-developers-rxjs-and-observables/)
-- [@video@Beginner's RxJS Tutorial: Dive Deep with RxJS Crash Course!](https://www.youtube.com/watch?v=yJdh1_FbtjU)
+- [@artigo@Aprenda RxJS](https://www.learnrxjs.io/)
+- [@artigo@RxJs e Observáveis para Iniciantes: Uma Introdução Amigável](https://blog.angular-university.io/functional-reactive-programming-for-angular-2-developers-rxjs-and-observables/)
+- [@vídeo@Tutorial Básico do RxJS: Immerse-se Profundamente com o Curso de Crash Course do RxJS!](https://www.youtube.com/watch?v=yJdh1_FbtjU)

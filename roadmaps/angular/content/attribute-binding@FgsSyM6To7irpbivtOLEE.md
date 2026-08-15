@@ -1,8 +1,8 @@
-# Attribute Binding
+# Ligação de Atributos
 
-Attribute binding in Angular helps you set values for attributes directly. With attribute binding, you can improve accessibility, style your application dynamically, and manage multiple CSS classes or styles simultaneously.
+A ligação de atributos no Angular ajuda você a definir valores para atributos diretamente. Com a ligação de atributos, você pode melhorar a acessibilidade, estilizar dinamicamente sua aplicação e gerenciar várias classes CSS ou estilos simultaneamente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Attribute Binding](https://angular.dev/guide/templates/attribute-binding)
-- [@article@What is difference between binding to attribute and binding to property in Angular?](https://stackoverflow.com/questions/76967327/what-is-difference-between-binding-to-attribute-and-binding-to-property-in-angul)
+- [@official@Ligação de Atributos](https://angular.dev/guide/templates/attribute-binding)
+- [@article@Qual é a diferença entre ligar a um atributo e ligar a uma propriedade no Angular?](https://stackoverflow.com/questions/76967327/what-is-difference-between-binding-to-attribute-and-binding-to-property-in-angul)

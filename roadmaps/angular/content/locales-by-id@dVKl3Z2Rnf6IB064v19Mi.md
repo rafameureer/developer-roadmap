@@ -1,10 +1,10 @@
-# Locales by ID
+# Locais por ID
 
-Angular uses the Unicode locale identifier (Unicode locale ID) to find the correct locale data for internationalization of text strings. A locale ID specifies the language, country, and an optional code for further variants or subdivisions. A locale ID consists of the language identifier, a hyphen (-) character, and the locale extension. By default, Angular uses `en-US` as the source locale of your project.
+O Angular usa o identificador de localização Unicode (Unicode locale ID) para encontrar os dados de localização corretos para a internacionalização de strings de texto. Um identificador de localização especifica o idioma, o país e um código opcional para variantes ou subdivisões adicionais. Um identificador de localização consiste no identificador do idioma, um caractere hífen (-) e a extensão da localidade. Por padrão, o Angular usa `en-US` como o local-fonte do seu projeto.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Refer to Locales by ID](https://angular.dev/guide/i18n/locale-id)
-- [@opensource@Angular locales](https://github.com/angular/angular/tree/main/packages/common/locales)
-- [@article@Codes arranged alphabetically by alpha-3/ISO 639-2 Code](https://www.loc.gov/standards/iso639-2/php/code_list.php)
-- [@article@Unicode CLDR Specifications](https://cldr.unicode.org/index/cldr-spec)
+- [@official@Consulte Locais por ID](https://angular.dev/guide/i18n/locale-id)
+- [@opensource@Locais do Angular](https://github.com/angular/angular/tree/main/packages/common/locales)
+- [@article@Códigos organizados alfabeticamente pelo código alpha-3/ISO 639-2](https://www.loc.gov/standards/iso639-2/php/code_list.php)
+- [@article@Especificações Unicode CLDR](https://cldr.unicode.org/index/cldr-spec)

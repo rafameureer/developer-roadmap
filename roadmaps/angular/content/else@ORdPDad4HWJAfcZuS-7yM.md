@@ -1,8 +1,8 @@
 # @else
 
-While the `@if` block can be helpful in many situations, it's common to also show fallback UI when the condition is not met. When you need a fallback, similar to JavaScript's else clause, add an `@else` block to accomplish the same effect.
+Enquanto o bloco `@if` pode ser útil em muitas situações, é comum também mostrar uma interface de usuário de fallback quando a condição não é atendida. Quando você precisa de um fallback, similar à cláusula else do JavaScript, adicione um bloco `@else` para alcançar o mesmo efeito.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Angular Official Docs - @else block](https://angular.dev/guide/templates/control-flow#conditionally-display-content-with-if-else-if-and-else)
-- [@article@Angular If Else Control Flow Blocks Explained](https://ultimatecourses.com/blog/angular-if-else-control-flow-blocks-explained)
+- [@official@Documentação Oficial do Angular - Bloco @else](https://angular.dev/guide/templates/control-flow#conditionally-display-content-with-if-else-if-and-else)
+- [@article@Controle de Fluxo If Else Explained no Ultimate Courses](https://ultimatecourses.com/blog/angular-if-else-control-flow-blocks-explained)

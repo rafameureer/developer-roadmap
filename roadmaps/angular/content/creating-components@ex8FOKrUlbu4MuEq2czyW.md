@@ -1,9 +1,9 @@
-# Creating Components
+# Criando Componentes
 
-You can either use Angular CLI to create the Angular components or create it manually.
+Você pode criar componentes Angular usando o CLI do Angular ou criá-los manualmente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Build your first Angular App](https://angular.dev/tutorials/first-app)
-- [@official@Components](https://angular.dev/essentials/components)
-- [@official@Angular CLI - ng generate components](https://angular.dev/guide/components)
+- [@official@Construa seu primeiro aplicativo Angular](https://angular.dev/tutorials/first-app)
+- [@official@Componentes](https://angular.dev/essentials/components)
+- [@official@CLI do Angular - ng generate components](https://angular.dev/guide/components)

@@ -1,8 +1,8 @@
-# Provider
+# Provedor
 
-Configure the injector of component with a token that maps to a provider of a dependency.
+Configure o injetor do componente com um token que mapeia a um provedor de uma dependência.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Defining dependency providers](https://angular.dev/guide/di/defining-dependency-providers)
+- [@official@Definindo provedores de dependências](https://angular.dev/guide/di/defining-dependency-providers)
 - [@official@Component API](https://angular.dev/api/core/Component#providers)

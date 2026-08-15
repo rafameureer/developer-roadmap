@@ -1,8 +1,8 @@
-# UI Components
+# Componentes de Interface do Usuário
 
-The Angular Material library, which is maintained by the Angular team, is a suite of reusable UI components that aims to be fully accessible. The Component Development Kit (CDK) includes the a11y package that provides tools to support various areas of accessibility.
+A biblioteca Angular Material, mantida pela equipe do Angular, é uma suíte de componentes UI reutilizáveis que visa ser completamente acessível. O Component Development Kit (CDK) inclui o pacote a11y que fornece ferramentas para suportar várias áreas da acessibilidade.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@UI Components](https://angular.dev/best-practices/a11y#angular-ui-components)
-- [@official@Angular a11y overview](https://material.angular.io/cdk/a11y/overview)
+- [@oficial@Componentes de Interface do Usuário](https://angular.dev/best-practices/a11y#angular-ui-components)
+- [@oficial@Visão geral de acessibilidade do Angular](https://material.angular.io/cdk/a11y/overview)

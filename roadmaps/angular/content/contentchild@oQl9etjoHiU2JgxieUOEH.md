@@ -1,9 +1,9 @@
 # ContentChild
 
-Content queries retrieve results from the elements in the component's content— the elements nested inside the component in the template where it's used.
+Consultas de conteúdo recuperam resultados dos elementos no conteúdo do componente—os elementos aninhados dentro do componente na template onde ele é usado.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Content Queries - Signal](https://angular.dev/guide/signals/queries#content-queries)
-- [@official@Content Queries](https://angular.dev/guide/components/queries#content-queries)
+- [@official@Consultas de Conteúdo - Sinal](https://angular.dev/guide/signals/queries#content-queries)
+- [@official@Consultas de Conteúdo](https://angular.dev/guide/components/queries#content-queries)
 - [@official@contentChild - API](https://angular.dev/api/core/contentChild)

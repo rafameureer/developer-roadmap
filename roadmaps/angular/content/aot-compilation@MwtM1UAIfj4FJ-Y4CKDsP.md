@@ -1,9 +1,9 @@
-# AoT Compilation
+# Compilação AoT
 
-Angular applications require a compilation process before they can run in a browser. The Angular ahead-of-time (AOT) compiler converts your Angular HTML and TypeScript code into efficient JavaScript code during the build phase before the browser downloads and runs that code. Compiling your application during the build process provides a faster rendering in the browser.
+As aplicações Angular requerem um processo de compilação antes de poderem ser executadas em um navegador. O compilador Angular ahead-of-time (AOT) converte o código HTML e TypeScript do Angular em JavaScript eficiente durante a fase de construção, antes que o navegador baixe e execute esse código. Compilar sua aplicação durante a fase de construção fornece um renderizado mais rápido no navegador.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Ahead-of-time (AOT) compilation](https://angular.dev/tools/cli/aot-compiler)
-- [@opensource@Angular Compiler Output](https://github.com/JeanMeche/angular-compiler-output)
-- [@article@Understanding Angular's ahead of time compilation](https://blog.nashtechglobal.com/understanding-angulars-ahead-of-time-aot-compilation/)
+- [@official@Compilação AoT](https://angular.dev/tools/cli/aot-compiler)
+- [@opensource@Saída do Compilador Angular](https://github.com/JeanMeche/angular-compiler-output)
+- [@article@Entendendo a compilação ahead-of-time (AoT) do Angular](https://blog.nashtechglobal.com/understanding-angulars-ahead-of-time-aot-compilation/)

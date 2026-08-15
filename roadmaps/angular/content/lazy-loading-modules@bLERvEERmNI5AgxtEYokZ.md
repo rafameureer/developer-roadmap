@@ -1,9 +1,9 @@
-# Lazy Loading Modules
+# Carregamento Eager de Módulos
 
-By default, NgModules are eagerly loaded. This means that as soon as the application loads, so do all the NgModules, whether they are immediately necessary or not. For large applications with lots of routes, consider lazy loading —a design pattern that loads NgModules as needed. Lazy loading helps keep initial bundle sizes smaller, which in turn helps decrease load times.
+Por padrão, os NgModules são carregados com entusiasmo. Isso significa que assim que o aplicativo é carregado, todos os NgModules também são carregados, independentemente de serem necessários imediatamente ou não. Para aplicativos grandes com muitas rotas, considere o carregamento atrasado — um padrão de design que carrega NgModules conforme necessário. O carregamento atrasado ajuda a manter os tamanhos iniciais dos pacotes menores, o que por sua vez ajuda a diminuir os tempos de carregamento.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Lazy Loading](https://angular.dev/guide/ngmodules/lazy-loading)
-- [@article@Angular Lazy Loading](https://www.bairesdev.com/blog/angular-lazy-loading/)
-- [@video@Lazy Loading in Angular: Improving Performance and User Experience](https://www.youtube.com/watch?v=mjhi27YfV8Y)
+- [@oficial@Carregamento Atrasado](https://angular.dev/guide/ngmodules/lazy-loading)
+- [@artigo@Carregamento Atrasado do Angular](https://www.bairesdev.com/blog/angular-lazy-loading/)
+- [@vídeo@Carregamento Atrasado no Angular: Melhorando o desempenho e a experiência do usuário](https://www.youtube.com/watch?v=mjhi27YfV8Y)

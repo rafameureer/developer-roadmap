@@ -1,8 +1,8 @@
-# Icon in Compose
+# Ícone em Compose
 
-In Jetpack Compose, an `Icon` is a composable function that displays a graphical image. You can use it to show vector drawables, raster images, or even custom shapes. It's a fundamental building block for enhancing your app's user interface by adding visual cues and branding elements. You can customize the `Icon`'s color, size, and add a content description for accessibility.
+No Jetpack Compose, um `Icon` é uma função composta que exibe uma imagem gráfica. Você pode usá-lo para mostrar desenhos vetoriais, imagens rastreadas ou até formas personalizadas. É um bloco de construção fundamental para melhorar a interface do usuário da sua aplicação adicionando indicadores visuais e elementos de branding. Você pode personalizar a cor, o tamanho do `Icon` e adicionar uma descrição de conteúdo para acessibilidade.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Icons  |  Jetpack Compose  |  Android Developers](https://developer.android.com/develop/ui/compose/graphics/images/material)
-- [@article@IconButton in Jetpack Compose. Ever wondered how to use icons as… | by Dhivya | Medium](https://medium.com/@dhivyakgf/iconbutton-in-jetpack-compose-bc1f1268c745)
+- [@official@Ícones  |  Jetpack Compose  |  Desenvolvedores Android](https://developer.android.com/develop/ui/compose/graphics/images/material)
+- [@article@IconButton em Jetpack Compose. Você já se perguntou como usar ícones como… | por Dhivya | Medium](https://medium.com/@dhivyakgf/iconbutton-in-jetpack-compose-bc1f1268c745)

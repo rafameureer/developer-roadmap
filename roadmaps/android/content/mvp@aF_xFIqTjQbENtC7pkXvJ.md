@@ -1,7 +1,7 @@
 # MVP
- 
-MVP (Model-View-Presenter) is an architectural pattern where the Presenter acts as a mediator between the View and the Model. The View delegates user actions to the Presenter, which processes them and updates the View through an interface contract. MVP was widely used before MVVM and ViewModel became the recommended approach.
 
-Visit the following resources to learn more:
+O MVP (Model-View-Presenter) é um padrão arquitetônico onde o Presenter atua como um mediador entre a View e o Model. A View delega as ações do usuário ao Presenter, que processa elas e atualiza a View através de um contrato de interface. O MVP foi amplamente utilizado antes da introdução do MVVM e ViewModel, que se tornaram a abordagem recomendada.
 
-- [@article@Model View Presenter](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93presenter)
+Acesse os seguintes recursos para saber mais:
+
+- [@artigo@Model View Presenter](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93presenter)

@@ -1,7 +1,7 @@
-# Services
- 
-A Service is an app component that performs long-running operations in the background without a user interface. Services handle tasks like playing music, downloading files, or processing data while the user interacts with other apps. Android provides foreground services, background services, and bound services depending on the use case.
+# Serviços
 
-Visit the following resources to learn more:
+Um serviço é um componente de aplicativo que executa operações em segundo plano sem uma interface do usuário. Os serviços lidam com tarefas como tocar música, baixar arquivos ou processar dados enquanto o usuário interage com outros aplicativos. O Android fornece serviços em primeiro plano, serviços em segundo plano e serviços vinculados dependendo do caso de uso.
 
-- [@official@Services](https://developer.android.com/guide/components/services)
+Acesse os seguintes recursos para saber mais:
+
+- [@oficial@Serviços](https://developer.android.com/guide/components/services)

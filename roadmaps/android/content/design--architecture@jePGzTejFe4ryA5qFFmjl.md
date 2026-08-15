@@ -1,10 +1,10 @@
-# Architecture and Design Patterns
+# Arquitetura e Padrões de Design
 
-**Design Architecture** refers to structuring the code in a way that increases its readability, maintainability, and testability. There are several ways to design architecture like Model-View-Controller (MVC), Model-View-Intent (MVI). Each of these define the interaction between the data, the logic, and the UI layers. Google’s recommended architectural pattern is Android Architecture Components which follow the principles of the MVVM pattern. Bear in mind that an architecture is not a rigid structure that fits all solutions. Rather, it serves as a guideline and can be tweaked as necessary.
+**Arquitetura de Design** refere-se a estruturar o código de uma maneira que aumente sua legibilidade, manutenção e testabilidade. Existem várias maneiras de projetar arquiteturas como Model-View-Controller (MVC), Model-View-Intent (MVI). Cada um desses define a interação entre as camadas de dados, lógica e interface do usuário. O padrão de arquitetura recomendado pela Google é os Componentes da Arquitetura Android que seguem os princípios do padrão MVVM. Lembre-se de que uma arquitetura não é uma estrutura rígida que se adapta a todas as soluções. Ao contrário disso, ela atua como um guia e pode ser ajustada conforme necessário.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Android Architecture Components](https://developer.android.com/topic/libraries/architecture)
+- [@official@Componentes da Arquitetura Android](https://developer.android.com/topic/libraries/architecture)
 - [@article@Model-View-Controller (MVC)](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
 - [@article@Model-View-Presenter (MVP)](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93presenter)
 - [@article@Model-View-ViewModel (MVVM)](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)

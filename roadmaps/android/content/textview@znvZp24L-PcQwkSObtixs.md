@@ -1,7 +1,7 @@
 # TextView
 
-TextView displays text to the user. It's a fundamental UI element in Android used to show static or dynamically updated content. You can customize the appearance of the text, including font, color, size, and style. TextView also supports features like handling clicks and displaying formatted text using spans.
+O TextView exibe texto para o usuário. É um elemento de interface do usuário fundamental no Android usado para mostrar conteúdo estático ou atualizado dinamicamente. Você pode personalizar a aparência do texto, incluindo fonte, cor, tamanho e estilo. O TextView também suporta recursos como lidar com cliques e exibir texto formatado usando spans.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@TextView](https://developer.android.com/reference/android/widget/TextView)
+- [@artigo@TextView](https://developer.android.com/reference/android/widget/TextView)

@@ -1,8 +1,8 @@
-# Asynchronism
- 
-Asynchronism in Android refers to running operations outside the main thread to prevent blocking the UI. Android provides several tools for this: Kotlin Coroutines as the modern recommended approach, Threads for low-level concurrency, RxJava and RxKotlin for reactive streams, and WorkManager for deferred background tasks.
+# Assincronismo
 
-Visit the following resources to learn more:
+O assincronismo no Android refere-se a executar operações fora da thread principal para evitar bloquear a interface do usuário. O Android fornece várias ferramentas para isso: Coroutines Kotlin como o método moderno recomendado, Threads para concorrência de nível baixo, RxJava e RxKotlin para fluxos reativos e WorkManager para tarefas em segundo plano adiadas.
 
-- [@official@Asynchronous Tasks](https://developer.android.com/guide/background)
-- [@article@Asynchronous Task Execution](https://medium.com/@cpvasani48/asynchronous-task-execution-in-android-a-guide-with-example-44732744f3b8)
+Acesse os seguintes recursos para saber mais:
+
+- [@oficial@Tarefas Assíncronas](https://developer.android.com/guide/background)
+- [@artigo@Execução de Tarefas Assíncronas](https://medium.com/@cpvasani48/execu%C3%A7%C3%A3o-de-tarefas-ass%C3%ADncronas-no-android-um-guia-com-exemplo-44732744f3b8)

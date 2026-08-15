@@ -1,7 +1,7 @@
-# Common Services
+# Serviços Comuns
  
-Common Services covers widely used Google and third-party platform services that Android apps integrate with. These include Google Maps for location and mapping, Google Play Services for platform features, AdMob for advertising, and Firebase for a range of backend services.
+Serviços Comuns cobrem amplamente usados serviços de plataforma Google e terceiros que os aplicativos Android integram. Isso inclui o Google Maps para localização e mapeamento, o Google Play Services para recursos da plataforma, AdMob para publicidade e Firebase para uma variedade de serviços de backend.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Common Services](https://developer.android.com/guide/components/services)
+- [@official@Serviços Comuns](https://developer.android.com/guide/components/services)

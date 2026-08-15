@@ -1,7 +1,7 @@
-# Create a Basic Hello World App
- 
-Creating a Hello World app is the starting point for hands-on Android development. It involves setting up a new project in Android Studio, writing a simple activity, and running it on an emulator or physical device. The exercise introduces the project structure, the Gradle build process, and how the UI connects to code.
+# Criar um Aplicativo Hello World Básico
 
-Visit the following resources to learn more:
+Criar um aplicativo Hello World é o ponto de partida para o desenvolvimento Android prático. Envolve a criação de um novo projeto no Android Studio, a escrita de uma atividade simples e a execução em um emulador ou dispositivo físico. O exercício apresenta a estrutura do projeto, o processo de construção Gradle e como a interface do usuário se conecta ao código.
 
-- [@official@Create Your First Android Application](https://developer.android.com/codelabs/basic-android-kotlin-compose-first-app)
+Acesse os seguintes recursos para saber mais:
+
+- [@official@Criar Sua Primeira Aplicação Android](https://developer.android.com/codelabs/basic-android-kotlin-compose-first-app)

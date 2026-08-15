@@ -1,7 +1,7 @@
 # ImageView
 
-ImageView is a UI component that displays images in an Android application. It's used to show pictures, icons, and other visual content to users. You can set the image source from a variety of resources, including local files, drawables, or URLs. ImageView offers various scaling options to fit the image within its bounds and can also handle image transformations.
+ImageView é um componente de interface do usuário que exibe imagens em uma aplicação Android. Ele é usado para mostrar fotos, ícones e outros conteúdos visuais aos usuários. Você pode definir a fonte da imagem de várias fontes, incluindo arquivos locais, desenháveis ou URLs. ImageView oferece várias opções de escalonamento para ajustar a imagem dentro dos limites dele e também pode lidar com transformações de imagem.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Android Developers: ImageView](https://developer.android.com/reference/android/widget/ImageView)
+- [@article@Desenvolvedores Android: ImageView](https://developer.android.com/reference/android/widget/ImageView)

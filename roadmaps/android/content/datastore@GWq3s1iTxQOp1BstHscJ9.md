@@ -1,8 +1,8 @@
 # DataStore
  
-DataStore is Jetpack's modern replacement for Shared Preferences. It provides two implementations: Preferences DataStore for key-value storage and Proto DataStore for typed, schema-based storage using Protocol Buffers. DataStore uses Kotlin coroutines and Flow, making it asynchronous and safer to use than Shared Preferences.
+DataStore é a substituição moderna do Jetpack para Shared Preferences. Ele fornece duas implementações: Preferences DataStore para armazenamento de chave-valor e Proto DataStore para armazenamento tipado e baseado em esquema usando Protocol Buffers. DataStore usa Kotlin coroutines e Flow, tornando-o assíncrono e mais seguro de usar que as Shared Preferences.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Documentation](https://developer.android.com/topic/libraries/architecture/datastore)
-- [@video@Introduction to DataStore](https://www.youtube.com/watch?v=9ws-cJzlJkU&list=PLWz5rJ2EKKc8to3Ere-ePuco69yBUmQ9C)
+- [@official@Documentação](https://developer.android.com/topic/libraries/architecture/datastore)
+- [@video@Introdução ao DataStore](https://www.youtube.com/watch?v=9ws-cJzlJkU&list=PLWz5rJ2EKKc8to3Ere-ePuco69yBUmQ9C)

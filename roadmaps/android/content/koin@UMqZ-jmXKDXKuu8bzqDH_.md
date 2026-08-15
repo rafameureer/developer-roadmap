@@ -1,8 +1,8 @@
 # Koin
 
-Koin is a lightweight dependency injection framework developed specifically for Kotlin developers. It uses functional resolution only - no proxy, no code generation, no reflection, and offers simplicity by leveraging Kotlin's language features. While Koin is not related to the Android platform, it provides specific extensions enabling an efficient integration into your Android applications, including Android Architecture Components and Kotlin Coroutines amongst others.
+O Koin é um framework de injeção de dependência leve desenvolvido especificamente para desenvolvedores Kotlin. Ele usa apenas resolução funcional - sem proxy, sem geração de código, sem reflexão e oferece simplicidade ao aproveitar as características do idioma Kotlin. Embora o Koin não esteja relacionado à plataforma Android, ele fornece extensões específicas que facilitam uma integração eficiente em suas aplicações Android, incluindo Componentes de Arquitetura Android e Coroutines Kotlin entre outros.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Koin](https://insert-koin.io)
 - [@official@Android Architecture Components](https://developer.android.com/topic/libraries/architecture/index.html)

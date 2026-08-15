@@ -1,7 +1,7 @@
 # Threads
- 
-Threads are the basic unit of concurrency in the JVM. Android runs UI operations on the main thread and requires network, database, and other slow operations to run on background threads. Developers use Thread, Handler, Executors, or HandlerThread to manage background work at the thread level.
 
-Visit the following resources to learn more:
+As threads são a unidade básica de concorrência no JVM. O Android executa operações da interface do usuário na thread principal e requer que as operações de rede, banco de dados e outras operações lentas sejam executadas em threads em segundo plano. Desenvolvedores usam Thread, Handler, Executors ou HandlerThread para gerenciar trabalho em segundo plano no nível da thread.
+
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Threads](https://developer.android.com/guide/components/processes-and-threads)

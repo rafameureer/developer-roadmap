@@ -4,7 +4,7 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 
 ---
 
-> ⚠️ **Total de itens sinalizados:** 134
+> ⚠️ **Total de itens sinalizados:** 150
 
 | Arquivo / Tópico | Motivo da Sinalização | Data/Hora |
 |---|---|---|
@@ -142,3 +142,19 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 | `roadmaps/ai-red-teaming/content/vulnerability-assessment@887lc3tWCRH-sOHSxWgWJ.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:14:38.869841 |
 | `roadmaps/ai-red-teaming/content/white-box-testing@Mrk_js5UVn4dRDw-Yco3Y.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:14:44.134446 |
 | `roadmaps/ai-red-teaming/content/why-red-team-ai-systems@fNTb9y3zs1HPYclAmu_Wv.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:14:53.190208 |
+| `roadmaps/android/content/animations@pHxtpvd7U8CbIW6yebcVX.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:15:18.072892 |
+| `roadmaps/android/content/basics-of-oop@j69erqfosSZMDlmKcnnn0.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:15:54.134860 |
+| `roadmaps/android/content/bitbucket@5LFZdUiFYYU_1sYsouyan.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:15:56.913265 |
+| `roadmaps/android/content/bottomsheet@Z4Tbd5ClnqCXGPGG09F-G.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:16:00.455936 |
+| `roadmaps/android/content/debugging@6KbSUAoT_jTudFoIbwMpA.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:17:22.609616 |
+| `roadmaps/android/content/dependency-injection@qtXM9K7wyjOFuEMlZrB3C.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:17:25.289462 |
+| `roadmaps/android/content/gitlab@Q47BtQphp59NkkZoeNXmP.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:18:44.108135 |
+| `roadmaps/android/content/google-admob@D4ZXQOKJkyFYNZIy-MJ9Y.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:18:47.889582 |
+| `roadmaps/android/content/google-maps@S5FVF9rMgVSSDKXJW2GYb.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:18:50.786098 |
+| `roadmaps/android/content/google-play-services@m5rumeynEbS8T27pelr0-.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:19:01.551670 |
+| `roadmaps/android/content/google-playstore@HgRdgi2Hu4C8YLG5PXfoo.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:19:04.494750 |
+| `roadmaps/android/content/hilt@ooo_k2k_vUBR_jQ7Ke6Et.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:19:07.387284 |
+| `roadmaps/android/content/room-database@Bfg4So5RlI09zFNcburJd.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:21:30.167780 |
+| `roadmaps/android/content/rxjava@xk0vnWr7uESdzYRxwFjoK.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:21:33.231433 |
+| `roadmaps/android/content/what-is-and-how-to-use-gradle@FVxNjbDBxgf6vkZWw1Awt.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:23:18.067846 |
+| `roadmaps/android/content/workmanager@OAb_JD64uGm2tPoue7w6t.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:23:20.819702 |

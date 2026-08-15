@@ -1,7 +1,7 @@
 # RxKotlin
 
-`RxKotlin` is a lightweight library that adds convenient extension functions to `RxJava`. It allows developers to use RxJava with Kotlin in a more idiomatic way, thus making code more readable and understandable. While `RxJava` is a Java-based implementation of Reactive Extensions, `RxKotlin` is essentially a wrapper that includes extension functions and other constructs to take full advantage of Kotlin's features, such as its syntactic simplicity and ease of use.
+`RxKotlin` é uma biblioteca leve que adiciona funções de extensão convenientes a `RxJava`. Ele permite aos desenvolvedores usar o `RxJava` com Kotlin de maneira mais idiomática, tornando o código mais legível e compreensível. Enquanto o `RxJava` é uma implementação baseada em Java das Extensões Reativas, o `RxKotlin` é essencialmente um wrapper que inclui funções de extensão e outros construtos para aproveitar plenamente as características do Kotlin, como sua simplicidade sintática e facilidade de uso.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@opensource@RxKotlin](https://github.com/ReactiveX/RxKotlin)

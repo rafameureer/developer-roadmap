@@ -1,8 +1,8 @@
 # Drawer
 
-The **Navigation Drawer** in Android is a sliding menu from the left that simplifies navigation between important app links. It opens by sliding or via an icon in the `ActionBar`. It’s an overlay panel that replaces a screen dedicated to displaying options.
+O **Drawer** no Android é um menu deslizante à esquerda que simplifica a navegação entre links importantes do aplicativo. Ele se abre deslizando ou através de um ícone na `ActionBar`. É uma aba de sobreposição que substitui uma tela dedicada para exibir opções.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Android developers: DrawerLayout](https://developer.android.com/reference/androidx/drawerlayout/widget/DrawerLayout)
-- [@article@Navigate Drawer Tutorial](https://www.digitalocean.com/community/tutorials/android-navigation-drawer-example-tutorial)
+- [@oficial@Android developers: DrawerLayout](https://developer.android.com/reference/androidx/drawerlayout/widget/DrawerLayout)
+- [@artigo@Tutorial de Navegação do Drawer](https://www.digitalocean.com/community/tutorials/android-navigation-drawer-example-tutorial)

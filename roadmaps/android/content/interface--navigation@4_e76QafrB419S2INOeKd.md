@@ -1,8 +1,8 @@
-# Interface and Navigation
+# Interface e Navegação
 
-In Android development, the concepts of "Interface" and "Navigation" are crucial. The "Interface" often refers to the Graphical User Interface (GUI) that users interact with. This includes buttons, text fields, image views, scroll views and other UI elements that the users can interact with to perform certain tasks. Tools like XML and Material Designs are used for interface design in Android.
+No desenvolvimento Android, os conceitos de "Interface" e "Navegação" são cruciais. A "Interface" geralmente se refere à Interface do Usuário Gráfico (GUI) com a qual os usuários interagem. Isso inclui botões, campos de texto, exibições de imagem, rolagens e outros elementos da interface que os usuários podem interagir para realizar certas tarefas. Ferramentas como XML e Designers do Material são usadas para o design de interfaces no Android.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Android Developers: Interface](https://developer.android.com/guide/topics/ui/declaring-layout.html)
-- [@official@Android Developers: Navigation](https://developer.android.com/guide/navigation)
+- [@oficial@Desenvolvedores do Android: Interface](https://developer.android.com/guide/topics/ui/declaring-layout.html)
+- [@oficial@Desenvolvedores do Android: Navegação](https://developer.android.com/guide/navigation)

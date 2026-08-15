@@ -1,7 +1,7 @@
-# Broadcast Receiver
- 
-A Broadcast Receiver is a component that listens for system-wide broadcast announcements. Common broadcasts include events like device boot, network connectivity changes, or battery status updates. Receivers can also facilitate communication between different parts of the same app.
+# Recebedor de Broadcast
 
-Visit the following resources to learn more:
+Um Recebedor de Broadcast é um componente que escuta anúncios de transmissão em larga escala do sistema. Anúncios comuns incluem eventos como o boot do dispositivo, alterações na conectividade da rede ou atualizações de status da bateria. Os recebedores também podem facilitar a comunicação entre diferentes partes do mesmo aplicativo.
 
-- [@official@Broadcast Receiver](https://developer.android.com/reference/android/content/BroadcastReceiver)
+Acesse os seguintes recursos para saber mais:
+
+- [@official@Recebedor de Broadcast](https://developer.android.com/reference/android/content/BroadcastReceiver)

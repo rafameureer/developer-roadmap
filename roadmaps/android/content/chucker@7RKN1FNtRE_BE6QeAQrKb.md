@@ -1,8 +1,8 @@
 # Chucker
  
-Chucker is an in-app HTTP inspector for Android. It intercepts OkHttp network requests and responses and displays them in a dedicated UI within the app during development. Chucker helps developers inspect API calls, headers, payloads, and response times without needing an external proxy tool.
+Chucker é um inspetor de HTTP em aplicativos para Android. Ele intercepta solicitações e respostas da rede OkHttp e as exibe em uma interface dedicada dentro do aplicativo durante o desenvolvimento. Chucker ajuda os desenvolvedores a inspecionar chamadas de API, cabeçalhos, payloads e tempos de resposta sem precisar de um ferramentário de proxy externo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@opensource@ChuckerTeam/chucker - Chucker On GitHub](https://github.com/ChuckerTeam/chucker)
-- [@article@Network Traffic Inspection with Chucker](https://medium.com/tech-takeaways/simple-android-network-traffic-inspection-with-chucker-and-seismic-1e6162c51f64)
+- [@opensource@ChuckerTeam/chucker - Chucker no GitHub](https://github.com/ChuckerTeam/chucker)
+- [@artigo@Inspecção de Tráfego de Rede com Chucker](https://medium.com/tech-takeaways/simple-android-network-traffic-inspection-with-chucker-and-seismic-1e6162c51f64)

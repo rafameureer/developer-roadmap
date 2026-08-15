@@ -1,7 +1,7 @@
-# Distribution
- 
-Distribution covers how Android apps are packaged and delivered to users. This includes generating a signed APK or AAB for release, and publishing through channels like the Google Play Store or Firebase App Distribution for internal testing and staged rollouts.
+# Distribuição
 
-Visit the following resources to learn more:
+A distribuição cobre como os aplicativos Android são empacotados e entregues aos usuários. Isso inclui a geração de um APK ou AAB assinado para lançamento, e a publicação através de canais como o Google Play Store ou Firebase App Distribution para testes internos e rollouts em etapas.
 
-- [@official@Google Play Developer Distribution](https://developer.android.com/distribute)
+Acesse os seguintes recursos para saber mais:
+
+- [@official@Distribuição do Desenvolvedor do Google Play](https://developer.android.com/distribute)

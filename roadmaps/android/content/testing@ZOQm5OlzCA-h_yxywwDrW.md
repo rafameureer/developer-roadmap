@@ -1,7 +1,7 @@
-# Testing
- 
-Testing in Android ensures that app code behaves correctly and that UI interactions work as expected. JUnit is used for unit testing business logic, while Espresso handles UI testing by simulating user interactions on a device or emulator.
+# Testes
 
-Visit the following resources to learn more:
+Os testes no Android garantem que o código da aplicação funcione corretamente e que as interações com a interface do usuário funcionem conforme esperado. O JUnit é usado para testar a lógica de negócios em unidades individuais, enquanto o Espresso lida com os testes de interface do usuário simulando as interações do usuário em um dispositivo ou emulador.
 
-- [@official@Testing](https://developer.android.com/training/testing)
+Acesse os seguintes recursos para saber mais:
+
+- [@oficial@Testes](https://developer.android.com/training/testing)

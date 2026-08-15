@@ -1,9 +1,9 @@
-# Scaffold
+# Estrutura (Scaffold)
 
-Scaffold, in simple terms, is a structure that provides a foundation for building a user interface. It typically includes common screen elements like an app bar (top bar), a body (the main content area), and optionally, a bottom navigation bar or a drawer. Think of it as a pre-designed template that takes care of basic screen organization, letting you focus on the specific content and functionality of your app.
+Em termos simples, uma estrutura é um esqueleto que fornece uma base para a construção de uma interface do usuário. Ela geralmente inclui elementos comuns da tela como uma barra de aplicativo (barra superior), um corpo (área principal do conteúdo) e opcionalmente, uma barra de navegação inferior ou um drawer. Imagine-a como um modelo pré-diseñado que cuida da organização básica da tela, permitindo que você se concentre no conteúdo específico e na funcionalidade do seu aplicativo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Scaffold](https://developer.android.com/develop/ui/compose/components/scaffold)
-- [@official@Create a scaffold component to hold the UI together](https://developer.android.com/develop/ui/compose/quick-guides/content/create-scaffold)
-- [@article@Understanding Scaffold in Jetpack Compose: A Comprehensive Guide](https://medium.com/@ramadan123sayed/understanding-scaffold-in-jetpack-compose-a-comprehensive-guide-e248c2406412)
+- [@oficial@Estrutura](https://developer.android.com/develop/ui/compose/components/scaffold)
+- [@oficial@Criar uma estrutura de componente para unir a interface do usuário](https://developer.android.com/develop/ui/compose/quick-guides/content/create-scaffold)
+- [@artigo@Entendendo a Estrutura em Jetpack Compose: Um Guia Completo](https://medium.com/@ramadan123sayed/understanding-scaffold-in-jetpack-compose-a-comprehensive-guide-e248c2406412)

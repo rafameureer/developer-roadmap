@@ -1,8 +1,8 @@
-# File System
- 
-The Android file system allows apps to read and write files to internal storage, external storage, and cache directories. Internal storage is private to the app, while shared storage is accessible to other apps through proper permissions and scoped storage APIs. File system access is used for raw files, media, and documents.
+# Sistema de Arquivos
 
-Visit the following resources to learn more:
+O sistema de arquivos do Android permite que as apps leiam e escrevam arquivos em armazenamento interno, armazenamento externo e diretórios de cache. O armazenamento interno é privado para a app, enquanto o armazenamento compartilhado é acessível a outras apps através das permissões adequadas e APIs de armazenamento escopo. O acesso ao sistema de arquivos é usado para arquivos brutos, mídia e documentos.
 
-- [@official@Android File System](https://developer.android.com/training/data-storage/)
-- [@article@Android File System](https://www.androidauthority.com/android-file-system-1010817/)
+Acesse os seguintes recursos para saber mais:
+
+- [@oficial@Sistema de Arquivos do Android](https://developer.android.com/training/data-storage/)
+- [@artigo@Sistema de Arquivos do Android](https://www.androidauthority.com/android-file-system-1010817/)

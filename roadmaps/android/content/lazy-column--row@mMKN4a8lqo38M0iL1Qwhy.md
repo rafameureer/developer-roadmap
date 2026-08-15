@@ -1,10 +1,10 @@
-# Lazy Column and Row
+# Lazy Column e Lazy Row
 
-LazyColumn and LazyRow are composable functions in Jetpack Compose that efficiently display a large number of items in a scrollable list. Instead of composing all items at once, they only compose and render the items that are currently visible on the screen. This approach significantly improves performance and reduces memory consumption, especially when dealing with extensive datasets or dynamically changing content. They are similar to RecyclerView in the traditional Android View system, but with Compose's declarative and concise syntax.
+LazyColumn e LazyRow são funções compostas no Jetpack Compose que exibem eficientemente uma grande quantidade de itens em uma lista rotable. Em vez de compor todos os itens de uma só vez, eles apenas compõem e renderizam os itens que estão atualmente visíveis na tela. Esse abordagem melhora significativamente o desempenho e reduz o consumo de memória, especialmente ao lidar com conjuntos de dados extensos ou conteúdo dinamicamente alterante. Eles são semelhantes ao RecyclerView no sistema de visualização tradicional do Android, mas com a sintaxe declarativa e concisa do Compose.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Lazy Column](https://developer.android.com/reference/kotlin/androidx/compose/foundation/lazy/LazyColumn.composable)
 - [@official@Lazy Row](https://developer.android.com/reference/kotlin/androidx/compose/foundation/lazy/LazyRow.composable)
-- [@official@Lists and grids](https://developer.android.com/develop/ui/compose/lists)
-- [@video@Lazy layouts in Compose](https://www.youtube.com/watch?v=1ANt65eoNhQ)
+- [@official@Listas e grids](https://developer.android.com/develop/ui/compose/lists)
+- [@video@Layouts Lazy no Compose](https://www.youtube.com/watch?v=1ANt65eoNhQ)

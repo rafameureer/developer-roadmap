@@ -1,10 +1,10 @@
 # Git
 
-`Git` is a highly efficient and flexible distributed version control system that was created by **Linus Torvalds**, the creator of Linux. It allows multiple developers to work on a project concurrently, providing tools for non-linear development and tracking changes in any set of files. Git has a local repository with a complete history and version-tracking capabilities, allowing offline operations, unlike SVN. It ensures data integrity and provides strong support for non-linear development with features such as branching and merging.
+`Git` é um sistema de controle de versão distribuído altamente eficiente e flexível criado por **Linus Torvalds**, o criador do Linux. Ele permite que múltiplos desenvolvedores trabalhem em um projeto simultaneamente, fornecendo ferramentas para desenvolvimento não-linear e rastreamento de alterações em qualquer conjunto de arquivos. Git tem um repositório local com uma história completa e capacidades de controle de versão, permitindo operações offline, o que é diferente do SVN. Ele garante a integridade dos dados e fornece suporte forte para desenvolvimento não-linear com recursos como ramificação e mesclagem.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated Git and GitHub Roadmap](https://roadmap.sh/git-github)
-- [@course@Why use Git? (Interactive Lesson)](https://inter-git.com/lessons/introduction)
-- [@article@Git by Example - Learn Version Control with Bite-sized Lessons](https://antonz.org/git-by-example/)
-- [@video@Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=vA5TTz6BXhY)
+- [@roadmap@Visite o Caminho Git e GitHub](https://roadmap.sh/git-github)
+- [@course@Por que usar Git? (Aula Interativa)](https://inter-git.com/lessons/introduction)
+- [@article@Git por Exemplo - Aprenda Controle de Versão com Lições em Pequenas Portas](https://antonz.org/git-by-example/)
+- [@video@Curso Inicial de Git & GitHub](https://www.youtube.com/watch?v=vA5TTz6BXhY)

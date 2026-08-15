@@ -1,8 +1,8 @@
-# Builder Pattern
+# Padrão Builder
 
-The **Builder Pattern** in Android is used to construct complex objects step by step. It separates the construction of an object from its representation. The pattern involves a `Builder` class which is used to construct the `Product` class. The Builder class typically has a method for each part that may be used to construct a Product. It also has a method for returning the final product. The Builder pattern is useful in situations where you might have multiple ways to create an object or when an object requires a large number of parameters for its constructor.
+O **Padrão Builder** em Android é usado para construir objetos complexos passo a passo. Ele separa a construção de um objeto da sua representação. O padrão envolve uma classe `Builder` que é usada para construir a classe `Product`. A classe Builder geralmente tem um método para cada parte que pode ser usada para construir um Produto. Ele também tem um método para retornar o produto final. O Padrão Builder é útil em situações onde você possa ter várias maneiras de criar um objeto ou quando um objeto requer um grande número de parâmetros para seu construtor.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Builder Pattern](https://developer.android.com/kotlin/style-guide#builder-pattern)
-- [@article@Android Builder Pattern](https://medium.com/kayvan-kaseb/builder-design-pattern-in-android-a38dccb75485)
+- [@official@Padrão Builder](https://developer.android.com/kotlin/style-guide#builder-pattern)
+- [@article@Padrão Builder em Android](https://medium.com/kayvan-kaseb/builder-design-pattern-in-android-a38dccb75485)

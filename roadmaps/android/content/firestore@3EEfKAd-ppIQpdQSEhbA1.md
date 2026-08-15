@@ -1,7 +1,7 @@
-# FireStore
+# Firestore
  
-Firestore is Firebase's scalable, flexible NoSQL cloud database. It stores data as collections of documents and supports real-time listeners that push updates to connected clients instantly. Firestore provides offline support through local caching and automatically syncs data when connectivity is restored.
+Firestore é o banco de dados NoSQL escalável e flexível da Firebase. Ele armazena dados como coleções de documentos e suporta ouvintes em tempo real que empurram atualizações para clientes conectados instantaneamente. O Firestore fornece suporte offline através do cache local e sincroniza automaticamente os dados quando a conectividade é restaurada.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Firestore](https://firebase.google.com/docs/firestore)
+- [@oficial@Firestore](https://firebase.google.com/docs/firestore)

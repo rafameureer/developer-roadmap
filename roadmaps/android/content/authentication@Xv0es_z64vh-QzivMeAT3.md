@@ -1,8 +1,8 @@
-# Authentication
- 
-Firebase Authentication provides backend services for authenticating users with email and password, phone numbers, or federated identity providers like Google, Facebook, and Apple. It manages tokens and session state securely. On Android, it integrates with the Firebase SDK to handle sign-in flows with minimal boilerplate.
+# Autenticação
 
-Visit the following resources to learn more:
+O Firebase Authentication oferece serviços de back-end para autenticar usuários com e-mail e senha, números de telefone ou provedores de identidade federada como Google, Facebook e Apple. Ele gerencia tokens e o estado da sessão de forma segura. No Android, ele integra-se ao SDK do Firebase para lidar com fluxos de entrada com minimas linhas de código.
 
-- [@official@Firebase Authentication](https://firebase.google.com/docs/auth)
-- [@official@Firebase Authentication: Android](https://firebase.google.com/docs/auth/android/start)
+Acesse os seguintes recursos para saber mais:
+
+- [@oficial@Autenticação do Firebase](https://firebase.google.com/docs/auth)
+- [@oficial@Autenticação do Firebase: Android](https://firebase.google.com/docs/auth/android/start)

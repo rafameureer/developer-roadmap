@@ -1,7 +1,7 @@
 # Content Provider
  
-A Content Provider manages access to a structured set of data and provides a standard interface for sharing data between apps. Platform apps like Contacts, Calendar, and Media Store expose their data through content providers. Custom content providers are used to share data with other apps or between processes within the same app.
+Um Content Provider gerencia o acesso a um conjunto estruturado de dados e fornece uma interface padrão para compartilhar dados entre aplicativos. Aplicativos da plataforma como Contatos, Calendário e Armazenamento de Mídia expõem seus dados através de content providers. Content providers personalizados são usados para compartilhar dados com outros aplicativos ou entre processos dentro do mesmo aplicativo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Content Provider](https://developer.android.com/guide/topics/providers/content-providers)

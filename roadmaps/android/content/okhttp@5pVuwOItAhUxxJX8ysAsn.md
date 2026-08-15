@@ -1,8 +1,8 @@
 # OkHttp
 
-`OkHttp` is an HTTP client that's extremely efficient, enabling several advanced features in Android app or other platforms that use Java. Developed by Square, it's built for high efficiency and capacity, simplifying many networking tasks, including connection pooling, response caching, and request retries. OkHttp allows seamless recovery from network issues, minimizing the loss of data. The library ensures fewer errors and higher quality of service by using the modern TLS encryption, extensible request and response models, and a fluent API for ease of use and integration.
+`OkHttp` é um cliente HTTP extremamente eficiente, permitindo várias funcionalidades avançadas em aplicativos Android ou outras plataformas que usam Java. Desenvolvido pela Square, ele foi criado para alta eficiência e capacidade, simplificando muitas tarefas de rede, incluindo agrupamento de conexões, cache de respostas e reações a tentativas de solicitação. OkHttp permite uma recuperação suave de problemas de rede, minimizando a perda de dados. A biblioteca garante menos erros e maior qualidade de serviço usando a criptografia TLS moderna, modelos de solicitação e resposta extensíveis e uma API fluente para facilitar o uso e integração.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@OkHttp](https://square.github.io/okhttp/)
-- [@opensource@OkHttp on GitHub](https://github.com/square/okhttp)
+- [@opensource@OkHttp no GitHub](https://github.com/square/okhttp)

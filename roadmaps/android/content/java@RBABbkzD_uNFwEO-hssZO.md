@@ -1,9 +1,9 @@
 # Java
- 
-Java was the original language for Android development and remains supported on the Android platform. It is a statically typed, object-oriented language that runs on the JVM. Many existing Android codebases and libraries are written in Java, so familiarity with it is still valuable even for developers working primarily in Kotlin.
 
-Visit the following resources to learn more:
+Java foi a linguagem original para o desenvolvimento Android e ainda é suportada na plataforma Android. É uma linguagem tipada estáticamente, orientada a objetos que roda no JVM. Muitos dos códigos base existentes e bibliotecas do Android são escritos em Java, então a familiaridade com ela ainda é valiosa mesmo para desenvolvedores trabalhando principalmente em Kotlin.
 
-- [@roadmap@Visit the dedicated Java Roadmap](https://roadmap.sh/java)
-- [@official@Java](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
-- [@official@Java Documentation](https://docs.oracle.com/en/java/javase/11/docs/api/)
+Acesse os seguintes recursos para saber mais:
+
+- [@roadmap@Visite o Caminho do Java dedicado](https://roadmap.sh/java)
+- [@oficial@Java](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
+- [@oficial@Documentação do Java](https://docs.oracle.com/en/java/javase/11/docs/api/)

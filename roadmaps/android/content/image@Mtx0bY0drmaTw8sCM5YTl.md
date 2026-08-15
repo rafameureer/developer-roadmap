@@ -1,8 +1,8 @@
-# Image
+# Imagem
 
-An image, in the context of Android development, refers to a visual representation displayed within an application's user interface. It allows developers to incorporate graphics, photographs, or illustrations into their apps to enhance visual appeal, provide context, or convey information. Images can be static or dynamically loaded from various sources, such as local storage, network resources, or generated programmatically.
+No contexto do desenvolvimento Android, uma imagem refere-se a uma representação visual exibida na interface do usuário de um aplicativo. Ela permite que os desenvolvedores integrem gráficos, fotografias ou ilustrações em seus apps para aumentar o visual, fornecer contexto ou transmitir informações. As imagens podem ser estáticas ou carregadas dinamicamente de várias fontes, como armazenamento local, recursos da rede ou geradas programaticamente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Loading images  |  Jetpack Compose  |  Android Developers](https://developer.android.com/reference/kotlin/androidx/compose/foundation/Image.composable)
-- [@official@Working with images](https://developer.android.com/develop/ui/compose/graphics/images)
+- [@official@Carregando imagens  |  Jetpack Compose  |  Desenvolvedores Android](https://developer.android.com/reference/kotlin/androidx/compose/foundation/Image.composable)
+- [@official@Trabalhando com imagens](https://developer.android.com/develop/ui/compose/graphics/images)

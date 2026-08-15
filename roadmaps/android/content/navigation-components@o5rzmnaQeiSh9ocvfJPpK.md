@@ -1,7 +1,7 @@
-# Navigation Components
+# Componentes de Navegação
 
-The **Navigation Components** are part of Android Jetpack and are designed to simplify the implementation of navigation in your Android app. These components help you follow best practices, handle deep linking, and provide a consistent user experience across deep and conditional navigation. They also automate many common tasks, such as handling Up and Back actions correctly across many different types of devices. The Navigation component consists of three key parts which are Navigation graph, NavHost, and NavController.
+Os **Componentes de Navegação** fazem parte do Android Jetpack e estão projetados para simplificar a implementação de navegação em seu aplicativo Android. Esses componentes ajudam você a seguir as melhores práticas, lidar com o enlace profundo e fornecer uma experiência de usuário consistente em navegações profundas e condicionais. Eles também automatizam muitas tarefas comuns, como lidar corretamente com ações Up e Back em muitos tipos diferentes de dispositivos. O componente de Navegação é composto por três partes principais que são o Gráfico de Navegação, NavHost e NavController.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Navigation Components](https://developer.android.com/guide/navigation)
+- [@oficial@Componentes de Navegação](https://developer.android.com/guide/navigation)

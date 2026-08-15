@@ -1,7 +1,7 @@
 # Espresso
 
-Espresso is a testing framework provided by Android to create UI tests for Android applications. It automatically synchronizes your test actions with the UI of your application, ensuring that your test will only proceed when the necessary UI activities have been completed. In Espresso, you can programmatically simulate user interactions like clicking buttons, typing text, or swiping screens, and then examine the UI's state to confirm it's as expected. Espresso tests can run on devices running Android 4.3 (API level 18) or higher.
+Espresso é um framework de teste fornecido pelo Android para criar testes de interface do usuário para aplicativos Android. Ele sincroniza automaticamente suas ações de teste com a interface do usuário do seu aplicativo, garantindo que o teste só prossiga quando as atividades de interface do usuário necessárias tenham sido concluídas. No Espresso, você pode simular programaticamente interações do usuário como clicar em botões, digitar texto ou deslizar nas telas, e depois examinar o estado da interface para confirmar se está conforme esperado. Os testes do Espresso podem ser executados em dispositivos que estão rodando Android 4.3 (nível de API 18) ou superior.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Espresso](https://developer.android.com/training/testing/espresso)

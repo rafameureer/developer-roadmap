@@ -1,9 +1,9 @@
-# Network
+# Rede
 
-In Android, the `Network` component offers vital capabilities that enable communication and interaction among users, between users and remote servers, and between users and cloud services. Android provides a variety of APIs and services to interact with networks. The primary APIs are the `ConnectivityManager`, `WifiManager`, `TelephonyManager`, and `BluetoothManager` APIs, among others. ConnectivityManager, for example, can tell you about network connectivity changes.
+No Android, o componente `Network` oferece capacidades vitais que permitem a comunicação e interação entre usuários, entre usuários e servidores remotos e entre usuários e serviços em nuvem. O Android fornece uma variedade de APIs e serviços para interagir com redes. As principais APIs são as APIs `ConnectivityManager`, `WifiManager`, `TelephonyManager` e `BluetoothManager`, entre outras. Por exemplo, o ConnectivityManager pode informar sobre alterações na conectividade da rede.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Network](https://developer.android.com/guide/topics/connectivity)
-- [@official@ConnectivityManager](https://developer.android.com/reference/android/net/ConnectivityManager)
-- [@official@WifiManager](https://developer.android.com/reference/android/net/wifi/WifiManager)
+- [@oficial@Rede](https://developer.android.com/guide/topics/connectivity)
+- [@oficial@ConnectivityManager](https://developer.android.com/reference/android/net/ConnectivityManager)
+- [@oficial@WifiManager](https://developer.android.com/reference/android/net/wifi/WifiManager)

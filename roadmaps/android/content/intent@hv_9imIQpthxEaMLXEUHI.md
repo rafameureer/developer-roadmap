@@ -1,7 +1,7 @@
-# Intent
+# Intenção
 
-Intent in Android is a software mechanism used for late runtime binding between components, such as activities, content providers, and services. It is essentially a passive data structure holding an abstract description of an operation that the Android system is requested to perform.
+A intenção no Android é um mecanismo de software usado para vinculação tardia em tempo de execução entre componentes, como atividades, provedores de conteúdo e serviços. É essencialmente uma estrutura de dados passiva que armazena uma descrição abstrata de uma operação que o sistema do Android foi solicitado a realizar.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Intent](https://developer.android.com/reference/android/content/Intent)
+- [@oficial@Intenção](https://developer.android.com/reference/android/content/Intent)

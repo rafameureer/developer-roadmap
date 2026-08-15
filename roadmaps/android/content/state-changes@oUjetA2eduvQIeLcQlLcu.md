@@ -1,7 +1,7 @@
-# State Changes
- 
-State changes occur when an Activity transitions between lifecycle states due to user actions or system events. Common triggers include pressing the Home button, rotating the device, or receiving a phone call. Android developers must save and restore UI state during these transitions to prevent data loss.
+# Mudanças de Estado
 
-Visit the following resources to learn more:
+As mudanças de estado ocorrem quando uma Activity transita entre estados de ciclo de vida devido a ações do usuário ou eventos do sistema. Geralmente, os gatilhos incluem pressionar o botão Início, girar o dispositivo ou receber uma chamada telefônica. Desenvolvedores Android devem salvar e restaurar o estado da interface do usuário durante essas transições para evitar a perda de dados.
 
-- [@official@Activity Lifecycle](https://developer.android.com/guide/components/activities/activity-lifecycle)
+Acesse os seguintes recursos para saber mais:
+
+- [@oficial@Ciclo de Vida da Activity](https://developer.android.com/guide/components/activities/activity-lifecycle)

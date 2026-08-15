@@ -1,8 +1,8 @@
-# Side Effects
+# Efeitos Colaterais
 
-In Jetpack Compose, side effects are actions that occur outside the composable function itself, such as updating a database, making a network request, or using shared mutable state. Compose recomposes when its inputs change and to avoid unpredictable behaviour, any code that interacts with the outside world needs to be carefully controlled, so Side Effects is a way for doing it in a predictable and testable manner. They should be isolated and handled in a controlled way to maintain the predictability and reliability of your UI.
+No Jetpack Compose, os efeitos colaterais são ações que ocorrem fora da própria função composable, como atualizar um banco de dados, fazer uma solicitação de rede ou usar estado mutável compartilhado. O Compose recomposto quando seus inputs mudam e para evitar comportamentos imprevisíveis, qualquer código que interaja com o mundo exterior precisa ser controlado cuidadosamente, então Efeitos Colaterais é uma maneira de fazer isso de forma previsível e testável. Eles devem ser isolados e manipulados de uma maneira controlada para manter a previsibilidade e confiabilidade da sua interface do usuário.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Side-effects in Compose  |  Jetpack Compose  |  Android Developers](https://developer.android.com/develop/ui/compose/side-effects)
-- [@article@Complete Guide to Side Effects in Jetpack Compose](https://proandroiddev.com/complete-guide-to-side-effects-in-jetpack-compose-5be32b09514a)
+- [@official@Efeitos Colaterais em Compose  |  Jetpack Compose  |  Android Developers](https://developer.android.com/develop/ui/compose/side-effects)
+- [@article@Guia Completo sobre Efeitos Colaterais no Jetpack Compose](https://proandroiddev.com/complete-guide-to-side-effects-in-jetpack-compose-5be32b09514a)

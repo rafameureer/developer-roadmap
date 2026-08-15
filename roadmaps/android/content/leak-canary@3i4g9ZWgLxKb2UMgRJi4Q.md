@@ -1,8 +1,8 @@
 # Leak Canary
  
-LeakCanary is an open-source memory leak detection library for Android. It automatically monitors objects that should be garbage collected and reports leaks with a detailed analysis showing the reference chain causing the problem. LeakCanary is typically included only in debug builds.
+LeakCanary é uma biblioteca de detecção de vazamento de memória aberta-fonte para Android. Ele monitora automaticamente objetos que devem ser coletados pelo garbage collector e relata os vazamentos com uma análise detalhada mostrando a cadeia de referências causando o problema. LeakCanary é geralmente incluído apenas em builds de depuração.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Leak Canary](https://square.github.io/leakcanary/)
-- [@opensource@LeakCanary on GitHub](https://github.com/square/leakcanary)
+- [@opensource@LeakCanary no GitHub](https://github.com/square/leakcanary)

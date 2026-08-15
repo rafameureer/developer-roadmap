@@ -1,7 +1,7 @@
 # Linting
 
-`Linting` in Android is a tool that analyzes the source code of your application to identify potential errors, bugs, stylistic errors, and suspicious constructs. The term Linting came from a Unix utility that examined C language source code. In Android, it not only checks for potential Java issues but also for XML layout files and provides alerts for issues it encounters regarding usability, performance, and accessibility. For instance, it may scrutinize a draft of your AndroidManifest.xml file for potential duplication of elements or other anomalies that would cause the app to crash.
+`Linting` no Android é uma ferramenta que analisa o código-fonte da sua aplicação para identificar possíveis erros, bugs, erros de estilo e construções suspeitas. O termo Linting veio de uma utilidade Unix que examinava o código-fonte em C. No Android, ele não apenas verifica problemas potenciais de Java, mas também de arquivos de layout XML e fornece alertas para questões relacionadas à usabilidade, desempenho e acessibilidade que ele encontra. Por exemplo, pode analisar um rascunho do seu arquivo AndroidManifest.xml em busca de duplicações de elementos ou outras anomalias que causariam o aplicativo a crashar.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Linting](https://developer.android.com/studio/write/lint)

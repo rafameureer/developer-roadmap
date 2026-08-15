@@ -1,7 +1,7 @@
-# The Fundamentals
+# Os Fundamentos
  
-The fundamentals cover the core programming and tooling concepts needed before building Android apps. This includes understanding Kotlin or Java basics, object-oriented programming principles, data structures and algorithms, Gradle as the build system, and how to set up a working development environment.
+Os fundamentos cobrem os conceitos de programação e ferramentas essenciais necessários antes de construir aplicativos Android. Isso inclui entender os princípios básicos do Kotlin ou Java, os princípios de programação orientada a objetos, estruturas de dados e algoritmos, Gradle como o sistema de construção, e como configurar um ambiente de desenvolvimento funcional.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@The Fundamentals](https://developer.android.com/guide/components/fundamentals)
+- [@oficial@Os Fundamentos](https://developer.android.com/guide/components/fundamentals)

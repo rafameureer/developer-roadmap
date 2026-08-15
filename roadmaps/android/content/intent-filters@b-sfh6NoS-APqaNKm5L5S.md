@@ -1,7 +1,7 @@
-# Intent Filters
- 
-Intent filters declare what types of intents a component can receive. They are defined in the AndroidManifest.xml file and describe the actions, data types, and categories a component supports. The system uses intent filters to determine which activities or services can respond to a given implicit intent.
+# Filtros de Intenção
 
-Visit the following resources to learn more:
+Os filtros de intenção declaram quais tipos de intenções um componente pode receber. Eles são definidos no arquivo `AndroidManifest.xml` e descrevem as ações, tipos de dados e categorias que um componente suporta. O sistema usa filtros de intenção para determinar quais atividades ou serviços podem responder a uma intenção implícita dada.
 
-- [@official@Intent Filters](https://developer.android.com/guide/components/intents-filters)
+Acesse os seguintes recursos para saber mais:
+
+- [@oficial@Filtros de Intenção](https://developer.android.com/guide/components/intents-filters)

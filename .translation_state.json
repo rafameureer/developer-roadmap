@@ -283,7 +283,105 @@
     "roadmaps/ai-red-teaming/content/role-of-red-teams@Irkc9DgBfqSn72WaJqXEt.md",
     "roadmaps/ai-red-teaming/content/testing-platforms@c8n8FcYKDOgPLQvV9xF5J.md",
     "roadmaps/ai-red-teaming/content/threat-modeling@RDOaTBWP3aIJPUp_kcafm.md",
-    "roadmaps/ai-red-teaming/content/unauthorized-access@DQeOavZCoXpF3k_qRDABs.md"
+    "roadmaps/ai-red-teaming/content/unauthorized-access@DQeOavZCoXpF3k_qRDABs.md",
+    "roadmaps/android/content/activity-lifecycle@FVg438cVBBzqJFkGWVbQM.md",
+    "roadmaps/android/content/activity@nwuVlPmzwJ17mtVQ8Hi9w.md",
+    "roadmaps/android/content/apollo-android@ww0fTbdXwVr-QIOClU7ng.md",
+    "roadmaps/android/content/app-components@5Li8J5iR_ZuyIlxX0LYei.md",
+    "roadmaps/android/content/app-shortcuts@xV475jHTlLuHtpHZeXb7P.md",
+    "roadmaps/android/content/asynchronism@cFYZ2C7yNnY6NHKUNP2Z4.md",
+    "roadmaps/android/content/authentication@Xv0es_z64vh-QzivMeAT3.md",
+    "roadmaps/android/content/basics-of-kotlin@jl1FsQ5-WGKeFyaILNt_p.md",
+    "roadmaps/android/content/box@Dp2DOX10u2xJUjB8Okhzh.md",
+    "roadmaps/android/content/broadcast-receiver@tFuAToid1Fkmu96BDtW7K.md",
+    "roadmaps/android/content/builder-pattern@784fiIdKrQDlIm3VIiJQN.md",
+    "roadmaps/android/content/button@WhfzFOUpm0DFEj7Oeq21R.md",
+    "roadmaps/android/content/card@EzLjX4iRT7AxkAOsJYnSU.md",
+    "roadmaps/android/content/chucker@7RKN1FNtRE_BE6QeAQrKb.md",
+    "roadmaps/android/content/cloud-messaging@e3vHFaFFMV7kI9q6yf5e9.md",
+    "roadmaps/android/content/column--row@yE0qAQZiEC9R8WvCdskpr.md",
+    "roadmaps/android/content/common-services@ZEdn2yy-IwHN3kOYr2ZbC.md",
+    "roadmaps/android/content/constraint@3fFNMhQIuuh-NRzSXYpXO.md",
+    "roadmaps/android/content/constraintlayout@qNzC8sQqQaDnG1oy1jiO0.md",
+    "roadmaps/android/content/content-provider@nkcdjrswv0WCzUs48BAt9.md",
+    "roadmaps/android/content/coroutines@i_cKmTnGAYw8xpHwZHjAd.md",
+    "roadmaps/android/content/crashlytics@xB4evbD07n1VrHOIpowV4.md",
+    "roadmaps/android/content/create-a-basic-hello-world-app@5m_7DvInF8C_4Ml1xVI6L.md",
+    "roadmaps/android/content/dagger@CK7Ce632fdTgxeFsRUVvd.md",
+    "roadmaps/android/content/data-structures-and-algorithms@cNeT1dJDfgn0ndPzSxhSL.md",
+    "roadmaps/android/content/datastore@GWq3s1iTxQOp1BstHscJ9.md",
+    "roadmaps/android/content/design--architecture@jePGzTejFe4ryA5qFFmjl.md",
+    "roadmaps/android/content/detekt@RUvuCp_JK5MQQT13SSHUV.md",
+    "roadmaps/android/content/development-ide@ZRGsokU313Ky-anWbWK6q.md",
+    "roadmaps/android/content/dialog@Xn1VQ-xOT67ZfJJTM4r1p.md",
+    "roadmaps/android/content/distribution@kc6buUsLAeZeUb4Tk0apM.md",
+    "roadmaps/android/content/drawer@mhxUDPHI-6NHwOxsdVn65.md",
+    "roadmaps/android/content/espresso@-ONSC-ImGSELbamKmjIlH.md",
+    "roadmaps/android/content/explicit-intents@TmIeCF3xVCe5Sy3ITmM31.md",
+    "roadmaps/android/content/factory-pattern@DeOxj6RzQBYfEWV-M1Ybm.md",
+    "roadmaps/android/content/file-system@A4kdaj6AFueUgPI7hwKi5.md",
+    "roadmaps/android/content/firebase-distribution@T7q_quNaIAuGi96OdnDT1.md",
+    "roadmaps/android/content/firestore@3EEfKAd-ppIQpdQSEhbA1.md",
+    "roadmaps/android/content/flow@W-WTIiQml8dLK6i_V69JK.md",
+    "roadmaps/android/content/fragments@2iDJrxjXOt7o2fPp2HfRl.md",
+    "roadmaps/android/content/git@rqSZ2ATeHbOdIQE9Jlb0B.md",
+    "roadmaps/android/content/github@H-2eb8fLwz8IKYXbeSVKK.md",
+    "roadmaps/android/content/icon@pEBpXv3Jf1AzBNHlvVrG8.md",
+    "roadmaps/android/content/image@Mtx0bY0drmaTw8sCM5YTl.md",
+    "roadmaps/android/content/imageview@A4rtNULX_MoV93IH1Lgqw.md",
+    "roadmaps/android/content/implicit-intents@gGdz3j33x0gfrFDp_rw8Z.md",
+    "roadmaps/android/content/intent-filters@b-sfh6NoS-APqaNKm5L5S.md",
+    "roadmaps/android/content/intent@hv_9imIQpthxEaMLXEUHI.md",
+    "roadmaps/android/content/interface--navigation@4_e76QafrB419S2INOeKd.md",
+    "roadmaps/android/content/java@RBABbkzD_uNFwEO-hssZO.md",
+    "roadmaps/android/content/jetpack-benchmark@ACUJlDDR0jqEohsFzWEoQ.md",
+    "roadmaps/android/content/jetpack-compose@60Vm-77rseUqpMiFvp-dA.md",
+    "roadmaps/android/content/junit@gvGAwjk_nhEgxzZ_c3f6b.md",
+    "roadmaps/android/content/kodein@dc7k50PjCYZcElHhCk66p.md",
+    "roadmaps/android/content/koin@UMqZ-jmXKDXKuu8bzqDH_.md",
+    "roadmaps/android/content/kotlin@qIzUv8-GgQnkqChEdgD50.md",
+    "roadmaps/android/content/ktlint@zMbXQH17Q52opdbitPzj7.md",
+    "roadmaps/android/content/lazy-column--row@mMKN4a8lqo38M0iL1Qwhy.md",
+    "roadmaps/android/content/leak-canary@3i4g9ZWgLxKb2UMgRJi4Q.md",
+    "roadmaps/android/content/linting@77F9F3oI5CPgwgM_hxWfa.md",
+    "roadmaps/android/content/livedata@TiokceMGU9caqiR0lbFYL.md",
+    "roadmaps/android/content/mvc@w1A6wPKSd3Yh2luuHV-aE.md",
+    "roadmaps/android/content/mvi@Bz-BkfzsDHAbAw3HD7WCd.md",
+    "roadmaps/android/content/mvp@aF_xFIqTjQbENtC7pkXvJ.md",
+    "roadmaps/android/content/mvvm@pSU-NZtjBh-u0WKTYfjk_.md",
+    "roadmaps/android/content/navhost@UAerxLQ1ZB6N6LS1IhfNk.md",
+    "roadmaps/android/content/navigation-components@o5rzmnaQeiSh9ocvfJPpK.md",
+    "roadmaps/android/content/network@Yb6aKJMMCxU1QVltWg3Dr.md",
+    "roadmaps/android/content/observer-pattern@N_auRfGKkeIIc-qiHLkR_.md",
+    "roadmaps/android/content/okhttp@5pVuwOItAhUxxJX8ysAsn.md",
+    "roadmaps/android/content/pick-a-language@Suws-7f_6Z1ChpfcnxX2M.md",
+    "roadmaps/android/content/recycleview@xIvplWfe-uDr9iHjPT1Mx.md",
+    "roadmaps/android/content/remember--state@8axL6Fa5fm1xWPP07MUbD.md",
+    "roadmaps/android/content/remote-config@1Tz-Shj_Tuz2U8llEAcLr.md",
+    "roadmaps/android/content/repository-pattern@ZF5XgO7I_J9928bD3CVXo.md",
+    "roadmaps/android/content/retro@dDMRYiqrKyOBnRRQc8zsp.md",
+    "roadmaps/android/content/rxjava@zXsNEyRbb8UpEOAUv6FpY.md",
+    "roadmaps/android/content/rxkotlin@4h37WBpYxRRyw9oH8ge7o.md",
+    "roadmaps/android/content/rxkotlin@7rbsp1o5bzIJP11BRIoeG.md",
+    "roadmaps/android/content/scaffold@U8iMGGOd2EgPxSuwSG39Z.md",
+    "roadmaps/android/content/security@j5qmSMOdhpGZo1XOUVx1k.md",
+    "roadmaps/android/content/services@PcHmU1c9hqKyzSjwlRPHk.md",
+    "roadmaps/android/content/shared-preferences@PKql1HY0PLMfp50FRELXL.md",
+    "roadmaps/android/content/side-effects@XTMhA-rYiXP7aVFk2nDLY.md",
+    "roadmaps/android/content/signed-apk@_FSlD_qTz5Xo0x3pB6sZI.md",
+    "roadmaps/android/content/state-changes@oUjetA2eduvQIeLcQlLcu.md",
+    "roadmaps/android/content/storage@0fNQWRxst8xRstIfPaPO6.md",
+    "roadmaps/android/content/tabrow@amTxz7mS98lkhOrNMJXG_.md",
+    "roadmaps/android/content/tasks--backstack@-O-G9bg36ut8NnZcdOaop.md",
+    "roadmaps/android/content/testing@ZOQm5OlzCA-h_yxywwDrW.md",
+    "roadmaps/android/content/text@BVgO9n7tGlVdiS72-hFSd.md",
+    "roadmaps/android/content/textfield@boMz0HZlMAsLdCZlpUo-H.md",
+    "roadmaps/android/content/textview@znvZp24L-PcQwkSObtixs.md",
+    "roadmaps/android/content/the-fundamentals@HlUUGj3dOZ68t4gIjerXh.md",
+    "roadmaps/android/content/threads@BeGrA5BDBMZP1Jy7n-wl-.md",
+    "roadmaps/android/content/timber@VFOD4JrV8kZ2583G3oT95.md",
+    "roadmaps/android/content/version-control@5s1CqsYCOXjNroDHaGKGa.md",
+    "roadmaps/android/content/viewmodel-state@lEdmnJhs-WN-A6glX2DeA.md"
   ],
   "completed_roadmaps": [
     "frontend-beginner",
@@ -294,7 +392,8 @@
     "ai-data-scientist",
     "ai-engineer",
     "ai-product-builder",
-    "ai-red-teaming"
+    "ai-red-teaming",
+    "android"
   ],
   "flagged_issues": [
     {
@@ -966,8 +1065,88 @@
       "file": "roadmaps/ai-red-teaming/content/why-red-team-ai-systems@fNTb9y3zs1HPYclAmu_Wv.md",
       "reason": "Falha na tradução automática após tentativas no Ollama",
       "timestamp": "2026-08-15T01:14:53.190208"
+    },
+    {
+      "file": "roadmaps/android/content/animations@pHxtpvd7U8CbIW6yebcVX.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:15:18.072892"
+    },
+    {
+      "file": "roadmaps/android/content/basics-of-oop@j69erqfosSZMDlmKcnnn0.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:15:54.134860"
+    },
+    {
+      "file": "roadmaps/android/content/bitbucket@5LFZdUiFYYU_1sYsouyan.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:15:56.913265"
+    },
+    {
+      "file": "roadmaps/android/content/bottomsheet@Z4Tbd5ClnqCXGPGG09F-G.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:16:00.455936"
+    },
+    {
+      "file": "roadmaps/android/content/debugging@6KbSUAoT_jTudFoIbwMpA.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:17:22.609616"
+    },
+    {
+      "file": "roadmaps/android/content/dependency-injection@qtXM9K7wyjOFuEMlZrB3C.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:17:25.289462"
+    },
+    {
+      "file": "roadmaps/android/content/gitlab@Q47BtQphp59NkkZoeNXmP.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:18:44.108135"
+    },
+    {
+      "file": "roadmaps/android/content/google-admob@D4ZXQOKJkyFYNZIy-MJ9Y.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:18:47.889582"
+    },
+    {
+      "file": "roadmaps/android/content/google-maps@S5FVF9rMgVSSDKXJW2GYb.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:18:50.786098"
+    },
+    {
+      "file": "roadmaps/android/content/google-play-services@m5rumeynEbS8T27pelr0-.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:19:01.551670"
+    },
+    {
+      "file": "roadmaps/android/content/google-playstore@HgRdgi2Hu4C8YLG5PXfoo.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:19:04.494750"
+    },
+    {
+      "file": "roadmaps/android/content/hilt@ooo_k2k_vUBR_jQ7Ke6Et.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:19:07.387284"
+    },
+    {
+      "file": "roadmaps/android/content/room-database@Bfg4So5RlI09zFNcburJd.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:21:30.167780"
+    },
+    {
+      "file": "roadmaps/android/content/rxjava@xk0vnWr7uESdzYRxwFjoK.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:21:33.231433"
+    },
+    {
+      "file": "roadmaps/android/content/what-is-and-how-to-use-gradle@FVxNjbDBxgf6vkZWw1Awt.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:23:18.067846"
+    },
+    {
+      "file": "roadmaps/android/content/workmanager@OAb_JD64uGm2tPoue7w6t.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T01:23:20.819702"
     }
   ],
-  "last_updated": "2026-08-15T01:14:53.192210",
+  "last_updated": "2026-08-15T01:23:20.821432",
   "total_translated_count": 54
 }

@@ -1,7 +1,7 @@
 # RxJava
 
-RxJava (Reactive Extensions for the JVM) is a powerful library for composing asynchronous and event-based programs using observable sequences in Java. If you are an Android developer, you might be familiar with callbacks and async tasks to perform long-running operations in the background. However, handling multiple async tasks and nested callbacks can produce code that's complicated to read and maintain. To alleviate such complexities, RxJava provides tools and methods to create, transform and chain Observable sequences in a clean and declarative manner.
+RxJava (Extensões Reativas para a JVM) é uma poderosa biblioteca para compor programas assíncronos e baseados em eventos usando sequências observáveis em Java. Se você é um desenvolvedor Android, pode estar familiarizado com callbacks e tarefas assíncronas para realizar operações de longo prazo no plano de fundo. No entanto, lidar com várias tarefas assíncronas e callbacks aninhados pode produzir código complicado de ler e manter. Para aliviar essas complexidades, RxJava fornece ferramentas e métodos para criar, transformar e encadear sequências observáveis de uma maneira limpa e declarativa.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@opensource@RxJava on GitHub](https://github.com/ReactiveX/RxJava)
+- [@opensource@RxJava no GitHub](https://github.com/ReactiveX/RxJava)

@@ -1,8 +1,8 @@
-# Shared Preferences
+# Preferências Compartilhadas
 
-Shared Preferences in Android are used to store data in key-value pairs. It works similar to a tiny database where you can save small pieces of data such as settings or the state of an application. When data is saved to Shared Preferences, it persists across user sessions, even if your application is killed or gets deleted. Data in Shared Preferences is not typically used for large amounts of data. To perform actions such as saving, retrieving, or editing data in Shared Preferences, you use an instance of `SharedPreferences.Editor`.
+As Preferências Compartilhadas no Android são usadas para armazenar dados em pares chave-valor. Ela funciona de forma semelhante a um banco de dados minúsculo onde você pode salvar pequenas partes de dados como configurações ou o estado de uma aplicação. Quando os dados são salvos nas Preferências Compartilhadas, eles persistem entre as sessões do usuário, mesmo se sua aplicação for encerrada ou excluída. Os dados nas Preferências Compartilhadas não são típicamente usados para grandes quantidades de dados. Para realizar ações como salvar, recuperar ou editar dados nas Preferências Compartilhadas, você usa uma instância de `SharedPreferences.Editor`.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Shared Preferences Documentation](https://developer.android.com/training/data-storage/shared-preferences)
-- [@video@SharedPreferences in Android](https://www.youtube.com/watch?v=rJ3uwqko9Ew)
+- [@official@Documentação das Preferências Compartilhadas](https://developer.android.com/training/data-storage/shared-preferences)
+- [@video@Preferências Compartilhadas no Android](https://www.youtube.com/watch?v=rJ3uwqko9Ew)

@@ -1,9 +1,9 @@
-# Version Control
- 
-Version control systems track changes to code over time and enable collaboration among developers. In Android development, Git is the standard version control tool, and platforms like GitHub, GitLab, and Bitbucket are used to host and manage repositories.
+# Controle de Versão
 
-Visit the following resources to learn more:
+Os sistemas de controle de versão rastreiam alterações no código ao longo do tempo e permitem a colaboração entre desenvolvedores. No desenvolvimento Android, o Git é a ferramenta padrão de controle de versão e plataformas como GitHub, GitLab e Bitbucket são usadas para hospedar e gerenciar repositórios.
 
-- [@course@What is Git? (Interactive Lesson)](https://inter-git.com/lessons/introduction)
-- [@article@Version Control Systems](https://en.wikipedia.org/wiki/Version_control)
-- [@video@What is Git? Explained in 2 minutes](https://www.youtube.com/watch?v=2ReR1YJrNOM)
+Acesse os seguintes recursos para saber mais:
+
+- [@course@O que é Git? (Aula Interativa)](https://inter-git.com/lessons/introduction)
+- [@article@Sistemas de Controle de Versão](https://en.wikipedia.org/wiki/Version_control)
+- [@video@O que é Git? Explicado em 2 minutos](https://www.youtube.com/watch?v=2ReR1YJrNOM)

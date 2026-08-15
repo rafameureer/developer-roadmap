@@ -1,10 +1,10 @@
-# Android Security
+# Segurança do Android
 
-Android security encompasses the strategies and techniques used to protect Android devices and the data they contain from unauthorized access, use, disclosure, disruption, modification, or destruction. It involves various layers of protection, including hardware security features, the Android operating system's security architecture, and application-level security measures, all working together to safeguard user data and device integrity.
+A segurança do Android abrange as estratégias e técnicas usadas para proteger dispositivos Android e os dados que eles contêm de acesso não autorizado, uso, divulgação, interrupção, modificação ou destruição. Envolve várias camadas de proteção, incluindo recursos de segurança de hardware, a arquitetura de segurança do sistema operacional Android e medidas de segurança em nível de aplicativo, todas trabalhando juntas para proteger os dados dos usuários e a integridade do dispositivo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Security checklist](https://developer.android.com/privacy-and-security/security-tips)
-- [@official@Improve your app's security](https://developer.android.com/privacy-and-security/security-best-practices)
-- [@official@Cryptography](https://developer.android.com/privacy-and-security/cryptography)
-- [@official@Android Keystore system](https://developer.android.com/privacy-and-security/keystore)
+- [@oficial@Lista de verificação de segurança](https://developer.android.com/privacy-and-security/security-tips)
+- [@oficial@Melhorar a segurança do seu aplicativo](https://developer.android.com/privacy-and-security/security-best-practices)
+- [@oficial@Criptografia](https://developer.android.com/privacy-and-security/cryptography)
+- [@oficial@Sistema de Keystore do Android](https://developer.android.com/privacy-and-security/keystore)

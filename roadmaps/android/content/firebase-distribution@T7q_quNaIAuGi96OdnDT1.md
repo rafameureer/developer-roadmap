@@ -1,7 +1,7 @@
-# Firebase Distribution
+# Distribuição do Firebase
 
-Firebase Distribution is a development tool within the Google Firebase suite that allows you to share pre-release versions of your Android apps with your development team. It enables you to distribute your app binaries to multiple testers and teams to get feedback before the app's official launch. Firebase Distribution supports both Android and iOS applications and works in tandem with other features, like Firebase Crashlytics, to effectively manage the testing and debugging aspects of your application's lifecycle.
+A Distribuição do Firebase é uma ferramenta de desenvolvimento dentro da suite do Google Firebase que permite compartilhar versões pré-lançamento de seus aplicativos Android com seu time de desenvolvimento. Ela habilita a distribuição de binários de aplicativo para vários testadores e equipes para obter feedback antes do lançamento oficial do aplicativo. A Distribuição do Firebase suporta tanto aplicativos Android quanto iOS e funciona em conjunto com outras funcionalidades, como o Crashlytics do Firebase, para gerenciar efetivamente os aspectos de teste e depuração da vida útil do seu aplicativo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Firebase Distribution](https://firebase.google.com/docs/app-distribution)
+- [@oficial@Distribuição do Firebase](https://firebase.google.com/docs/app-distribution)

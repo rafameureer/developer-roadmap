@@ -1,9 +1,9 @@
 # GitHub
 
-**GitHub** is a cloud-based hosting service for managing software version control using Git. It provides a platform for enabling multiple developers to work together on the same project at the same time. With GitHub, codes can be stored publicly, allowing for collaboration with other developers or privately for individual projects. Key features of GitHub include code sharing, task management, and version control, among others. GitHub also offers functionalities such as bug tracking, feature requests, and task management for the project.
+**GitHub** é um serviço de hospedagem em nuvem para gerenciar o controle de versão de software usando Git. Ele fornece uma plataforma para permitir que múltiplos desenvolvedores trabalhem juntos no mesmo projeto ao mesmo tempo. Com o GitHub, códigos podem ser armazenados publicamente, permitindo colaboração com outros desenvolvedores ou em privado para projetos individuais. Características-chave do GitHub incluem compartilhamento de código, gerenciamento de tarefas e controle de versão, entre outros. O GitHub também oferece funcionalidades como rastreamento de bugs, solicitações de recursos de função e gerenciamento de tarefas para o projeto.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Git and GitHub Roadmap](https://roadmap.sh/git-github)
+- [@roadmap@Caminho Git e GitHub](https://roadmap.sh/git-github)
 - [@official@GitHub](https://github.com/)
-- [@official@GitHub Documentation](https://docs.github.com/)
+- [@official@Documentação do GitHub](https://docs.github.com/)

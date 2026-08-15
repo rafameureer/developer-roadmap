@@ -1,9 +1,9 @@
-# Basics of Kotlin
+# Básicos do Kotlin
 
-Kotlin is a concise, multi-platform, and fun language developed by JetBrains. Learn how to use Kotlin for Android, server-side, and cross-platform development, and explore its features, news, and community. Kotlin is a statically-typed programming language that runs on the Java Virtual Machine (JVM) and can be used to develop all types of Android apps. It is Google's preferred language for Android app development.
+O Kotlin é um idioma conciso, multi-plataforma e divertido desenvolvido pela JetBrains. Aprenda como usar o Kotlin para Android, desenvolvimento de servidor e desenvolvimento cruz-plataforma, e explore suas funcionalidades, notícias e comunidade. O Kotlin é um idioma tipado estáticamente que roda na Máquina Virtual Java (JVM) e pode ser usado para desenvolver todos os tipos de aplicativos Android. É o idioma preferido do Google para o desenvolvimento de aplicativos Android.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicaated Kotlin Roadmap](https://roadmap.sh/kotlin)
-- [@official@Kotlin](https://kotlinlang.org/)
-- [@official@Kotlin Docs](https://kotlinlang.org/docs/getting-started.html)
+- [@roadmap@Visite a Estrada do Kotlin Dedidada](https://roadmap.sh/kotlin)
+- [@oficial@Kotlin](https://kotlinlang.org/)
+- [@oficial@Documentação do Kotlin](https://kotlinlang.org/docs/getting-started.html)

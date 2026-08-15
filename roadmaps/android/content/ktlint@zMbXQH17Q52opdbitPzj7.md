@@ -1,8 +1,8 @@
 # Ktlint
  
-Ktlint is a Kotlin linter and formatter that enforces the official Kotlin coding style. It can run manually, as part of a Gradle build, or as a pre-commit hook. Ktlint has minimal configuration by design and focuses on formatting rules like indentation, spacing, and import ordering.
+O Ktlint é um linter e formatador de Kotlin que impõe o estilo de codificação oficial do Kotlin. Ele pode ser executado manualmente, como parte de uma build Gradle ou como um gatilho pré-commit. O Ktlint tem configuração mínima por design e se concentra em regras de formatação como indentação, espaçamento e ordem de importação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Ktlint](https://ktlint.github.io/)
-- [@opensource@Ktlint: Static Code Analysis for Kotlin](https://github.com/pinterest/ktlint)
+- [@opensource@Ktlint: Análise Estática de Código para Kotlin](https://github.com/pinterest/ktlint)

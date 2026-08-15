@@ -1,8 +1,8 @@
 # JUnit
  
-JUnit is the standard testing framework for unit testing Java and Kotlin code on Android. Unit tests run on the local JVM without needing a device or emulator, making them fast to execute. JUnit is used to verify the logic of ViewModels, Repositories, and other non-UI components.
+JUnit é o framework de teste padrão para testes unitários de código Java e Kotlin no Android. Os testes unitários são executados localmente na JVM sem a necessidade de um dispositivo ou emulador, tornando-os rápidos para execução. O JUnit é usado para verificar a lógica dos ViewModels, Repositories e outros componentes não-UI.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Documentation](https://developer.android.com/training/testing/local-tests)
-- [@video@Junit for android](https://www.youtube.com/watch?v=jE1vQGVHaQA)
+- [@official@Documentação](https://developer.android.com/training/testing/local-tests)
+- [@video@JUnit para Android](https://www.youtube.com/watch?v=jE1vQGVHaQA)

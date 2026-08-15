@@ -1,7 +1,7 @@
-# App Shortcuts
+# Atalhos de Aplicativo
 
-App shortcuts in Android are designed to provide quick and convenient routes to specific actions or functions within your app from the device home screen. To use them, long-press an app's icon and a pop-up menu will appear with the available shortcuts. Depending on the app, you might be able to send a message, make a booking, navigate home, or perform some other specific task without having to first open the app and navigate to the desired function. These shortcuts can also be moved and placed individually on the home screen for even faster access.
+Os atalhos de aplicativo no Android são projetados para fornecer caminhos rápidos e convenientes para ações ou funções específicas dentro do seu aplicativo a partir da tela inicial do dispositivo. Para usá-los, pressione longamente o ícone do aplicativo e um menu flutuante aparecerá com os atalhos disponíveis. Dependendo do aplicativo, você pode ser capaz de enviar uma mensagem, fazer uma reserva, navegar para casa ou realizar outra tarefa específica sem ter que abrir primeiro o aplicativo e navegar até a função desejada. Esses atalhos também podem ser movidos e colocados individualmente na tela inicial para acesso ainda mais rápido.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@App Shortcuts](https://developer.android.com/guide/topics/ui/shortcuts)
+- [@official@Atalhos de Aplicativo](https://developer.android.com/guide/topics/ui/shortcuts)

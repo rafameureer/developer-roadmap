@@ -1,7 +1,7 @@
-# Factory Pattern
- 
-The Factory pattern provides an interface for creating objects without specifying their exact class. It centralizes object creation logic, making it easier to swap implementations without modifying calling code. In Android, factory patterns appear in ViewModelProvider.Factory for creating ViewModels with custom constructor arguments.
+# Padrão Fábrica
 
-Visit the following resources to learn more:
+O padrão Fábrica fornece uma interface para criar objetos sem especificar sua classe exata. Ele centraliza a lógica de criação de objetos, tornando mais fácil trocar implementações sem modificar o código chamador. No Android, os padrões fábrica aparecem em ViewModelProvider.Factory para criar ViewModels com argumentos de construtor personalizados.
 
-- [@official@Android: Factory Pattern](https://developer.android.com/guide/components/intents-filters#factory)
+Acesse os seguintes recursos para saber mais:
+
+- [@oficial@Android: Padrão Fábrica](https://developer.android.com/guide/components/intents-filters#factory)

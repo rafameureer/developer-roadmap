@@ -1,8 +1,8 @@
 # ConstraintLayout
 
-ConstraintLayout is a layout manager in Android that gives you flexible control over the positioning and sizing of views within your user interface. It allows you to create complex layouts without nesting multiple view groups, which can improve performance. Views are positioned by defining constraints relative to other views or the parent layout.
+ConstraintLayout é um gerenciador de layout no Android que oferece controle flexível sobre a posição e o tamanho das exibições em sua interface do usuário. Ele permite criar layouts complexos sem aninhar múltiplos grupos de exibição, o que pode melhorar o desempenho. As exibições são posicionadas definindo restrições relativas a outras exibições ou ao layout pai.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Android: ConstraintLayout in XML](https://developer.android.com/develop/ui/views/layout/constraint-layout)
-- [@official@Android: ConstraintLayout in Compose](https://developer.android.com/develop/ui/compose/layouts/constraintlayout)
+- [@official@Android: ConstraintLayout em XML](https://developer.android.com/develop/ui/views/layout/constraint-layout)
+- [@official@Android: ConstraintLayout em Compose](https://developer.android.com/develop/ui/compose/layouts/constraintlayout)

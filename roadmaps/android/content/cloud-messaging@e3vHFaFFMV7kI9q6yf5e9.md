@@ -1,8 +1,8 @@
 # Cloud Messaging
- 
-Firebase Cloud Messaging (FCM) is a cross-platform messaging service for delivering push notifications and data messages to Android apps. Notifications can target individual devices, device groups, or topics that users subscribe to. FCM supports both foreground and background message delivery and is free to use.
 
-Visit the following resources to learn more:
+O Firebase Cloud Messaging (FCM) é um serviço de mensageria cruz-plataforma para enviar notificações push e mensagens de dados para aplicativos Android. As notificações podem ser direcionadas a dispositivos individuais, grupos de dispositivos ou tópicos aos quais os usuários assinam. O FCM suporta tanto a entrega de mensagens em primeiro plano quanto em segundo plano e é gratuito.
 
-- [@official@Documentation](https://firebase.google.com/docs/cloud-messaging/android/client)
+Acesse os seguintes recursos para saber mais:
+
+- [@official@Documentação](https://firebase.google.com/docs/cloud-messaging/android/client)
 - [@video@Firebase Cloud Messaging](https://www.youtube.com/watch?v=sioEY4tWmLI&list=PLl-K7zZEsYLkuHRCtHTpi6JYHka8oHLft)

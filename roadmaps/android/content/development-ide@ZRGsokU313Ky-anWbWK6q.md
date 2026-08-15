@@ -1,9 +1,9 @@
-# Development IDE
- 
-Android Studio is the official integrated development environment for Android development. It is built on IntelliJ IDEA and provides tools for code editing, debugging, performance profiling, and device emulation. It also integrates directly with the Gradle build system and the Android SDK.
+# IDE de Desenvolvimento
 
-Visit the following resources to learn more:
+Android Studio é o ambiente de desenvolvimento integrado oficial para o desenvolvimento Android. Ele é baseado no IntelliJ IDEA e fornece ferramentas para edição de código, depuração, perfilamento de desempenho e emulação de dispositivos. Ele também integra diretamente com o sistema de construção Gradle e a SDK do Android.
+
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Android Studio](https://developer.android.com/studio)
-- [@official@Android Studio Documentation](https://developer.android.com/studio/intro)
-- [@video@Android Studio Tutorial (2024 Edition) - Part 1](https://www.youtube.com/watch?v=saKrGCWlJDs)
+- [@official@Documentação do Android Studio](https://developer.android.com/studio/intro)
+- [@video@Tutorial do Android Studio (Edição 2024) - Parte 1](https://www.youtube.com/watch?v=saKrGCWlJDs)

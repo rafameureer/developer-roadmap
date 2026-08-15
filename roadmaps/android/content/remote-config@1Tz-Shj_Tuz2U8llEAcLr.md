@@ -1,8 +1,8 @@
-# Remote Config
+# Configuração Remota
  
-Firebase Remote Config allows developers to change the behavior and appearance of an Android app without publishing an app update. Configuration values are stored in the cloud and fetched at runtime. It is commonly used for A/B testing, feature flags, and gradual feature rollouts.
+O Firebase Remote Config permite aos desenvolvedores alterar o comportamento e a aparência de um aplicativo Android sem publicar uma atualização do app. Os valores de configuração são armazenados na nuvem e recuperados em tempo real. Ele é comumente usado para testes A/B, bandeiras de recurso e rollout gradual de recursos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Remote Config](https://firebase.google.com/docs/remote-config/get-started?platform=android)
-- [@video@Getting Started with Remote Config](https://www.youtube.com/watch?v=pcnnbjAAIkI)
+- [@official@Configuração Remota](https://firebase.google.com/docs/remote-config/get-started?platform=android)
+- [@video@Introdução à Configuração Remota](https://www.youtube.com/watch?v=pcnnbjAAIkI)

@@ -1,8 +1,8 @@
-# remember / State
- 
-remember is a Compose function that retains a value across recompositions within a composable. Combined with mutableStateOf, it creates a state holder that triggers recomposition when its value changes. Local state managed with remember is suitable for UI-only state that does not need to survive configuration changes.
+# remember / Estado
 
-Visit the following resources to learn more:
+A função `remember` é uma função do Compose que mantém um valor entre recomposições dentro de um composável. Quando combinada com `mutableStateOf`, ela cria um holder de estado que dispara uma recomposição quando o valor muda. O estado local gerenciado com `remember` é adequado para estados da UI que não precisam sobreviver a alterações de configuração.
 
-- [@official@State and Jetpack Compose](https://developer.android.com/develop/ui/compose/state)
-- [@article@Understanding remember in Jetpack Compose: A Deep Dive from First Principles](https://medium.com/@sandeepkella23/understanding-remember-in-jetpack-compose-a-deep-dive-from-first-principles-2587b2098323)
+Acesse os seguintes recursos para saber mais:
+
+- [@official@Estado e Jetpack Compose](https://developer.android.com/develop/ui/compose/state)
+- [@article@Entendendo remember em Jetpack Compose: Uma Profundidade Inicial](https://medium.com/@sandeepkella23/understanding-remember-in-jetpack-compose-a-deep-dive-from-first-principles-2587b2098323)

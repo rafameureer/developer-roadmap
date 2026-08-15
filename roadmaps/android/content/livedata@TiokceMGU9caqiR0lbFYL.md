@@ -1,7 +1,7 @@
 # LiveData
- 
-LiveData is a lifecycle-aware observable data holder from Android Jetpack. It delivers updates to UI observers only when they are in an active lifecycle state, preventing crashes from updates sent to stopped components. LiveData is commonly used to expose ViewModel state to the UI layer.
 
-Visit the following resources to learn more:
+LiveData é um contêiner de dados observável e ciente da vida do Android Jetpack. Ele entrega atualizações aos observadores de interface do usuário apenas quando eles estão em um estado de ciclo de vida ativo, previnindo falhas devido a atualizações enviadas a componentes parados. LiveData é comumente usado para expor o estado do ViewModel à camada da interface do usuário.
+
+Acesse os seguintes recursos para saber mais:
 
 - [@official@LiveData](https://developer.android.com/topic/libraries/architecture/livedata)

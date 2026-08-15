@@ -1,7 +1,7 @@
-# Activity LifeCycle
- 
-The Activity lifecycle is a set of states and callbacks that an Activity goes through from creation to destruction. Key callbacks include onCreate, onStart, onResume, onPause, onStop, and onDestroy. Properly implementing these callbacks ensures the app handles interruptions like phone calls or screen rotations without data loss.
+# Ciclo de Vida da Activity
 
-Visit the following resources to learn more:
+O ciclo de vida da Activity é um conjunto de estados e callbacks que uma Activity passa desde a criação até a destruição. Os principais callbacks incluem onCreate, onStart, onResume, onPause, onStop e onDestroy. Implementar adequadamente esses callbacks garante que o aplicativo trate interrupções como chamadas telefônicas ou rotações da tela sem perda de dados.
 
-- [@official@Activity Lifecycle](https://developer.android.com/guide/components/activities/activity-lifecycle)
+Acesse os seguintes recursos para saber mais:
+
+- [@oficial@Ciclo de Vida da Activity](https://developer.android.com/guide/components/activities/activity-lifecycle)

@@ -1,8 +1,8 @@
-# Observer Pattern
+# Padrão Observer
  
-The Observer pattern defines a one-to-many dependency where multiple observers are notified automatically when a subject changes state. In Android, this pattern is the foundation of reactive data streams implemented through LiveData, Kotlin Flow, RxJava, and RxKotlin.
+O padrão Observer define uma dependência de um para muitos, onde vários observadores são notificados automaticamente quando um sujeito muda de estado. No Android, este padrão é a base dos fluxos de dados reativos implementados através do LiveData, Kotlin Flow, RxJava e RxKotlin.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Observer Pattern](https://en.wikipedia.org/wiki/Observer_pattern)
-- [@article@Observer Pattern](https://refactoring.guru/design-patterns/observer)
+- [@artigo@Padrão Observer](https://en.wikipedia.org/wiki/Observer_pattern)
+- [@artigo@Padrão Observer](https://refactoring.guru/design-patterns/observer)

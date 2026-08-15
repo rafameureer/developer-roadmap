@@ -1,8 +1,8 @@
 # Crashlytics
 
-`Crashlytics` is a lightweight, real-time crash reporter that helps you track, prioritize, and fix stability issues that dismantle your app's quality. It delivers fast and precise information about crashes and helps you gain insights into your app's performance so you can pinpoint the exact line of code your app crashed on. Crashlytics offers a comprehensive suite of features like crash analysis, issue aggregation, and tracking user activities that led to a crash. This tool is now a part of Google's `Firebase` platform but can also be used independently.
+`Crashlytics` é um relatório de falhas leve e em tempo real que ajuda você a rastrear, priorizar e corrigir problemas de estabilidade que desmantelam a qualidade do seu aplicativo. Ele fornece informações rápidas e precisas sobre as falhas e ajuda você a obter insights sobre o desempenho do seu aplicativo para identificar a linha exata de código em que o aplicativo falhou. Crashlytics oferece um conjunto completo de recursos como análise de falha, agregação de problemas e rastreamento das atividades dos usuários que levaram à falha. Esta ferramenta agora faz parte da plataforma `Firebase` do Google, mas também pode ser usada independentemente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Crashlytics Documentation](https://firebase.google.com/docs/crashlytics/get-started?platform=android)
+- [@official@Documentação do Crashlytics](https://firebase.google.com/docs/crashlytics/get-started?platform=android)
 - [@video@Firebase: Crashlytics](https://www.youtube.com/watch?v=LhjTAkifr6g)

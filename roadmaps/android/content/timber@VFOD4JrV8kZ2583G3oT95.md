@@ -1,7 +1,7 @@
 # Timber
- 
-Timber is a logging utility library for Android built on top of the standard android.util.Log API. It provides a cleaner logging interface, automatically includes class names in log tags, and makes it easy to control logging behavior per build variant. In release builds, logging can be suppressed or redirected to a crash reporting service.
 
-Visit the following resources to learn more:
+Timber é uma biblioteca de utilitário de registro para Android construída sobre a API padrão android.util.Log. Ele fornece uma interface de registro mais limpa, inclui automaticamente nomes de classes em rótulos de log e facilita o controle do comportamento de registro por variante de build. Em builds de release, o registro pode ser suprimido ou redirecionado para um serviço de relatório de falhas.
+
+Acesse os seguintes recursos para saber mais:
 
 - [@opensource@Timber on GitHub](https://github.com/JakeWharton/timber)

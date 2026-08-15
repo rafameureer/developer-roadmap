@@ -1,7 +1,7 @@
-# Tasks & Backstack
- 
-A task is a collection of activities that the user interacts with to accomplish a goal, and the back stack keeps track of the order in which those activities were opened. When the user presses Back, activities are popped off the stack in reverse order. Understanding task and back stack behavior is important for building predictable navigation flows.
+# Tarefas e Backstack
 
-Visit the following resources to learn more:
+Uma tarefa é uma coleção de atividades com as quais o usuário interage para atingir um objetivo, e a back stack mantém o registro da ordem em que essas atividades foram abertas. Quando o usuário pressiona "Voltar", as atividades são removidas da pilha na ordem inversa. Compreender o comportamento de tarefas e backstack é importante para construir fluxos de navegação previsíveis.
 
-- [@official@Tasks and Backstack](https://developer.android.com/guide/components/activities/tasks-and-back-stack)
+Acesse os seguintes recursos para saber mais:
+
+- [@oficial@Tarefas e Backstack](https://developer.android.com/guide/components/activities/tasks-and-back-stack)

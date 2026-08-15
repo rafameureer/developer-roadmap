@@ -1,7 +1,7 @@
-# Repository Pattern
+# Padrão de Repositório
 
-The `Repository Pattern` separates the data sources from the rest of the application. It acts as a mediator between different data sources, such as persistent models, web services, or caches. Instead of having the network and database calls spread out throughout your ViewModel, they are encapsulated within a Repository class. This separation will make the code clean, easy to read and testable. It provides a simple API for data access, the rest of the app doesn't need to know where the data is coming from it just asks the repository.
+O `Padrão de Repositório` separa as fontes de dados da restante da aplicação. Ele atua como um mediador entre diferentes fontes de dados, como modelos persistentes, serviços web ou caches. Em vez de ter chamadas de rede e banco de dados espalhadas por toda a ViewModel, elas são encapsuladas em uma classe de Repositório. Esta separação tornará o código limpo, fácil de ler e testável. Ele fornece uma API simples para acesso aos dados, a restante da aplicação não precisa saber onde os dados estão vindo; ela apenas solicita ao repositório.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Repository Pattern](https://en.wikipedia.org/wiki/Repository_pattern)
+- [@article@Padrão de Repositório](https://en.wikipedia.org/wiki/Repository_pattern)

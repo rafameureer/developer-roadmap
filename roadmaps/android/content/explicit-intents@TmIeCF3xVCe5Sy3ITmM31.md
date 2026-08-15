@@ -1,7 +1,7 @@
-# Explicit Intents
+# Intenções Explícitas
 
-**Explicit Intents** are primarily used within an application's own boundaries. In explicit intents you specify the component that needs to be responded to the intent. Therefore, the target component must be specified by calling methods such as `setComponent(ComponentName)`, `setClass(Context, Class)`, or `setClassName(String, String)`. This means that explicit intents are typically used for launching activities, broadcasting messages, starting services within the app. Explicit intents are not resolved by the system but are passed to the component identified in the intent.
+**Intenções Explícitas** são principalmente usadas dentro dos limites de uma aplicação. Em intenções explícitas, você especifica o componente que precisa responder à intenção. Portanto, o componente-alvo deve ser especificado chamando métodos como `setComponent(ComponentName)`, `setClass(Context, Class)` ou `setClassName(String, String)`. Isso significa que as intenções explícitas são tipicamente usadas para iniciar atividades, enviar mensagens de broadcast e iniciar serviços dentro da aplicação. As intenções explícitas não são resolvidas pelo sistema, mas são passadas ao componente identificado na intenção.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Explicit Intents](https://developer.android.com/guide/components/intents-filters#explicit)
+- [@oficial@Intenções Explícitas](https://developer.android.com/guide/components/intents-filters#explicit)

@@ -1,8 +1,8 @@
-# Animations
+# Animações
 
-`Animations` can add visual cues that notify users about what's going on in your app. They are especially useful when the UI changes state, such as when new content loads or new actions become available. Animations also add a polished look to your app, which gives it a higher quality look and feel.
+As `animações` podem adicionar sinais visuais que notifiquem os usuários sobre o que está acontecendo em seu aplicativo. Elas são especialmente úteis quando a interface do usuário muda de estado, como quando novo conteúdo é carregado ou novas ações se tornam disponíveis. As animações também adicionam um visual refinado ao seu aplicativo, o que o dá uma aparência e sentimento de maior qualidade.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Google developers: Animations](https://developer.android.com/develop/ui/views/animations/overview)
-- [@video@Google developers: Animations](https://www.youtube.com/watch?v=N_x7SV3I3P0)
+- [@official@Desenvolvedores do Google: Animações](https://developer.android.com/develop/ui/views/animations/overview)
+- [@video@Desenvolvedores do Google: Animações](https://www.youtube.com/watch?v=N_x7SV3I3P0)

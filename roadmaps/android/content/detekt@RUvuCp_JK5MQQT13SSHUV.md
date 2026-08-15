@@ -1,8 +1,8 @@
 # Detekt
- 
-Detekt is a static code analysis tool for Kotlin that identifies code smells, complexity issues, potential bugs, and style violations. It is more configurable than Ktlint and covers a broader range of quality checks. Detekt reports can be integrated into CI pipelines to prevent problematic code from being merged.
 
-Visit the following resources to learn more:
+Detekt é uma ferramenta de análise estática de código para Kotlin que identifica cheiros de código, problemas de complexidade, possíveis bugs e violações de estilo. Ele é mais configurável do que o Ktlint e cobre um intervalo mais amplo de verificações de qualidade. Os relatórios do Detekt podem ser integrados em pipelines CI para impedir a fusão de código problemático.
+
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Detekt](https://detekt.dev/)
-- [@opensource@Detekt: Static Code Analysis for Kotlin](https://github.com/detekt/detekt)
+- [@opensource@Detekt: Análise Estática de Código para Kotlin](https://github.com/detekt/detekt)

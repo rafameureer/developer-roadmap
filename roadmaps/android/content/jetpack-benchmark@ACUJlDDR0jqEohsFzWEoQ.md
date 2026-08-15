@@ -1,7 +1,7 @@
 # Jetpack Benchmark
 
-Jetpack Benchmark is a library within the Android Jetpack Suite that allows developers to quickly and accurately measure the performance of their apps. This library can help measure CPU, memory, and IO performance of code in Android apps. Developers can define some specific code paths to be benchmarked by wrapping the code in `BenchmarkRule.measureRepeated {}`. In addition, it automatically takes care of warmup, measures your code performance, and outputs benchmarking results to the Android Studio's logcat.
+Jetpack Benchmark é uma biblioteca dentro do conjunto Android Jetpack que permite aos desenvolvedores medir rapidamente e com precisão o desempenho de suas aplicações. Esta biblioteca pode ajudar a medir o desempenho da CPU, memória e IO de código em aplicativos Android. Os desenvolvedores podem definir algumas caminhos de código específicos para serem benchmarkados envolvendo o código em `BenchmarkRule.measureRepeated {}`. Além disso, ela cuida automaticamente do aquecimento, mede o desempenho do seu código e exporta os resultados de benchmarking para o logcat do Android Studio.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Jetpack Benchmark](https://developer.android.com/studio/profile/benchmark)
+- [@oficial@Jetpack Benchmark](https://developer.android.com/studio/profile/benchmark)

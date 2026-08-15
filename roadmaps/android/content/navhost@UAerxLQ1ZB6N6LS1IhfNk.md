@@ -1,8 +1,8 @@
 # NavHost
 
-A NavHost is a special Android UI component, typically a Fragment, within your app that serves as a central point for navigating between different destinations. It's like the container that displays different parts of your app's user interface as the user moves from one screen to another. The NavHost works together with a NavController to manage the navigation flow based on a navigation graph.
+O NavHost é um componente de interface do usuário especial do Android, geralmente um Fragment, dentro da sua aplicação que atua como um ponto central para navegar entre diferentes destinos. É como o contêiner que exibe diferentes partes da interface do usuário da sua aplicação conforme o usuário se move de uma tela para outra. O NavHost trabalha em conjunto com um NavController para gerenciar o fluxo de navegação com base em um gráfico de navegação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Navigation with Compose  |  Jetpack Compose  |  Android Developers](https://developer.android.com/develop/ui/compose/navigation)
-- [@article@Navigation in Jetpack Compose. | by Chase | Medium](https://medium.com/@jpmtech/navigation-in-jetpack-compose-c9e1fcfd2cdd)
+- [@oficial@Navigation with Compose  |  Jetpack Compose  |  Android Developers](https://developer.android.com/develop/ui/compose/navigation)
+- [@artigo@Navigation in Jetpack Compose. | by Chase | Medium](https://medium.com/@jpmtech/navigation-in-jetpack-compose-c9e1fcfd2cdd)

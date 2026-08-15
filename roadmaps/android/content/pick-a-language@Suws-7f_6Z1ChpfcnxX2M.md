@@ -1,8 +1,8 @@
-# Pick a Language
- 
-Android development primarily uses Kotlin and Java. Kotlin is Google's officially preferred language since 2019, but Java remains fully supported and is still present in many existing codebases and libraries.
+# Escolha um Idioma
 
-Visit the following resources to learn more:
+Desenvolvimento Android usa principalmente Kotlin e Java. Desde 2019, Kotlin é o idioma oficialmente preferido pela Google, mas Java ainda é completamente suportado e ainda está presente em muitos códigos existentes e bibliotecas.
 
-- [@official@Pick a Language](https://developer.android.com/studio/write/java8-support)
+Acesse os seguintes recursos para saber mais:
+
+- [@official@Escolha um Idioma](https://developer.android.com/studio/write/java8-support)
 - [@official@Kotlin vs Java](https://developer.android.com/kotlin)

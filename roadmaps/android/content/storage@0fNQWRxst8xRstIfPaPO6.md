@@ -1,7 +1,7 @@
-# Storage
+# Armazenamento
 
-On Android devices, storage refers to where your data such as apps, photos, videos, and music are saved. It can be categorized into two types: internal and external storage. Internal Storage is where data is stored that's tied directly to your app. This data is private by default and not accessible by other apps. External Storage, on the other hand, is a shared space where all apps can read and write data. It can be further sub-categorized into Public and Private directories. Public directories are shared among all apps while private directories are specific to your app but can be accessed by other apps if they have the appropriate permissions.
+No dispositivo Android, o armazenamento refere-se a onde seus dados, como aplicativos, fotos, vídeos e música, são salvos. Pode ser categorizado em dois tipos: armazenamento interno e armazenamento externo. O Armazenamento Interno é onde os dados que estão diretamente ligados ao seu aplicativo são armazenados. Esses dados são privados por padrão e não acessíveis por outros aplicativos. Por outro lado, o Armazenamento Externo é um espaço compartilhado onde todos os aplicativos podem ler e escrever dados. Ele pode ser sub-categorizado em diretórios Públicos e Privados. Os diretórios Públicos são compartilhados entre todos os aplicativos enquanto os diretórios Privados são específicos para o seu aplicativo, mas podem ser acessados por outros aplicativos se eles tiverem as permissões apropriadas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Storage](https://developer.android.com/guide/topics/data/data-storage)
+- [@oficial@Armazenamento](https://developer.android.com/guide/topics/data/data-storage)

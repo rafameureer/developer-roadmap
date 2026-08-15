@@ -1,7 +1,7 @@
-# Implicit Intents
+# Intenções Implícitas
 
-**Implicit Intents** do not specify the target component explicitly like Explicit Intents. Instead, they allow the system to find a suitable component matching the Intent description to handle the request. The system will find an activity that can handle this intent by comparing the `<intent-filter>` section in the `AndroidManifest.xml` of all apps installed on the device against the Implicit Intent.
+**Intenções Implícitas** não especificam o componente-alvo explicitamente como as **Intenções Explícitas**. Em vez disso, elas permitem que o sistema encontre um componente adequado que corresponda à descrição da Intenção para lidar com a solicitação. O sistema encontrará uma atividade que possa lidar com essa intenção comparando a seção `<intent-filter>` no `AndroidManifest.xml` de todos os aplicativos instalados no dispositivo com a Intenção Implícita.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Implicit Intents](https://developer.android.com/guide/components/intents-filters#implicit)
+- [@oficial@Intenções Implícitas](https://developer.android.com/guide/components/intents-filters#implicit)

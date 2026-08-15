@@ -1,8 +1,8 @@
-# App Components
- 
-App components are the building blocks of an Android application. The four main types are Activities, Services, Broadcast Receivers, and Content Providers. Each serves a different purpose and has its own lifecycle managed by the Android system.
+# Componentes de Aplicativo
 
-Visit the following resources to learn more:
+Os componentes de aplicativo são os blocos de construção de um aplicativo Android. Os quatro tipos principais são Atividades, Serviços, Receivers de Broadcast e Provedores de Conteúdo. Cada um serve um propósito diferente e tem seu próprio ciclo de vida gerenciado pelo sistema Android.
 
-- [@official@App Fundamentals](https://developer.android.com/guide/components/fundamentals)
-- [@article@Android App Components](https://medium.com/android-hunger/android-app-components-activities-fragments-and-intents-ed7373455555)
+Acesse os seguintes recursos para saber mais:
+
+- [@official@Fundamentos do App](https://developer.android.com/guide/components/fundamentals)
+- [@article@Componentes de Aplicativo do Android](https://medium.com/android-hunger/android-app-components-activities-fragments-and-intents-ed7373455555)

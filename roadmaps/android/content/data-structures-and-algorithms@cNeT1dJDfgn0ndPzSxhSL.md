@@ -1,7 +1,7 @@
-# Data Structures and Algorithms
+# Estruturas de Dados e Algoritmos
  
-Data structures and algorithms cover how data is organized and processed efficiently in code. Common structures include lists, maps, sets, stacks, and queues; common algorithmic topics include sorting, searching, and recursion. Understanding these is necessary for writing performant apps and for technical interviews.
+Estruturas de dados e algoritmos cobrem como os dados são organizados e processados eficientemente em código. Estruturas comuns incluem listas, mapas, conjuntos, pilhas e filas; tópicos algorítmicos comuns incluem classificação, busca e recursão. Entender esses conceitos é necessário para escrever aplicativos performáticos e para entrevistas técnicas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Data Structures and Algorithms in Android](https://medium.com/@pranamsharma.1997/importance-of-data-structure-and-algorithms-in-android-app-development-75eed9f73909)
+- [@article@Estruturas de Dados e Algoritmos em Android](https://medium.com/@pranamsharma.1997/importance-of-data-structure-and-algorithms-in-android-app-development-75eed9f73909)

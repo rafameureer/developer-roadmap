@@ -1,9 +1,9 @@
 # GCD
- 
-Grand Central Dispatch (GCD) is a C-based system for dispatching work to queues managed by the operating system. The main queue runs tasks on the main thread for UI updates, while serial and concurrent dispatch queues run background work. GCD is lightweight and efficient, and remains widely used alongside Swift's async/await model.
 
-Visit the following resources to learn more:
+Grand Central Dispatch (GCD) é um sistema baseado em C para distribuir trabalho para filas gerenciadas pelo sistema operacional. A fila principal executa tarefas na thread principal para atualizações de interface do usuário, enquanto filas de dispatch serial e concorrente executam trabalho em segundo plano. O GCD é leve e eficiente e continua sendo amplamente utilizado junto com o modelo async/await do Swift.
+
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Dispatch](https://developer.apple.com/documentation/DISPATCH)
-- [@article@Grand Central Dispatch (GCD) in iOS: The Developer's Guide](https://hackernoon.com/grand-central-dispatch-gcd-in-ios-the-developers-guide)
-- [@article@Grand Central Dispatch in iOS](https://medium.com/@knoo/gcd-grand-central-dispatch-in-ios-b2dd665cabd5)
+- [@article@Grand Central Dispatch (GCD) em iOS: O Guia do Desenvolvedor](https://hackernoon.com/grand-central-dispatch-gcd-em-ios-o-guia-do-desenvolvedor)
+- [@article@Grand Central Dispatch em iOS](https://medium.com/@knoo/gcd-grand-central-dispatch-em-ios-b2dd665cabd5)

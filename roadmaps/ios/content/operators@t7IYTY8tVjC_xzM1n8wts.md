@@ -1,8 +1,8 @@
-# Operators
+# Operadores
 
-RxSwift operators are functions that process, transform, or combine observable sequences. They allow developers to manipulate data streams in powerful ways. Common operators include map (transform elements), filter (select elements based on criteria), flatMap (transform elements into new observables), merge (combine multiple observables), and debounce (limit emission rate). Operators can be chained to create complex data processing pipelines. They handle tasks like error management, retrying failed operations, and combining asynchronous operations.
+Os operadores do RxSwift são funções que processam, transformam ou combinam sequências observáveis. Eles permitem aos desenvolvedores manipular fluxos de dados de maneiras poderosas. Operadores comuns incluem map (transformar elementos), filter (selecionar elementos com base em critérios), flatMap (transformar elementos em novas observáveis), merge (combinar múltiplas observáveis) e debounce (limitar a taxa de emissão). Os operadores podem ser encadeados para criar pipelines complexos de processamento de dados. Eles lidam com tarefas como gerenciamento de erros, repetição de operações falhas e combinação de operações assíncronas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@Interactive diagrams of Rx Observables](https://rxmarbles.com/)
-- [@article@Mastering RxSwift Operators](https://medium.com/@mumensh/mastering-rxswift-operators-e66bd8ef5933)
+- [@curso@Diagramas interativos dos observáveis Rx](https://rxmarbles.com/)
+- [@artigo@Dominando os Operadores do RxSwift](https://medium.com/@mumensh/mastering-rxswift-operators-e66bd8ef5933)

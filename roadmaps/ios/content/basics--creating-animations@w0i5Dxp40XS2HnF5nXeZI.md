@@ -1,10 +1,10 @@
-# Basics / Creating Animations
- 
-Creating animations with Core Animation involves working with CALayer and CAAnimation subclasses. CABasicAnimation animates a single property from one value to another, while CAKeyframeAnimation defines multiple values along an animation path. Animations are applied to layer properties like position, opacity, transform, and background color.
+# Básico / Criando Animações
 
-Visit the following resources to learn more:
+Criar animações com Core Animation envolve trabalhar com subclasses de CALayer e CAAnimation. CABasicAnimation anima uma única propriedade de um valor para outro, enquanto CAKeyframeAnimation define vários valores ao longo de um caminho de animação. As animações são aplicadas a propriedades de camada como posição, opacidade, transformação e cor de fundo.
 
-- [@official@CALayer Documentation](https://developer.apple.com/documentation/quartzcore/calayer)
-- [@official@CAKeyframeAnimation Documentation](https://developer.apple.com/documentation/quartzcore/cakeyframeanimation)
-- [@article@https://developer.apple.com/documentation/quartzcore/cabasicanimation](https://developer.apple.com/documentation/quartzcore/cabasicanimation)
-- [@article@What is CALayer?](https://www.hackingwithswift.com/example-code/calayer/what-is-calayer)
+Acesse os seguintes recursos para saber mais:
+
+- [@oficial@Documentação de CALayer](https://developer.apple.com/documentation/quartzcore/calayer)
+- [@oficial@Documentação de CAKeyframeAnimation](https://developer.apple.com/documentation/quartzcore/cakeyframeanimation)
+- [@artigo@https://developer.apple.com/documentation/quartzcore/cabasicanimation](https://developer.apple.com/documentation/quartzcore/cabasicanimation)
+- [@artigo@O que é CALayer?](https://www.hackingwithswift.com/example-code/calayer/what-is-calayer)

@@ -1,8 +1,8 @@
-# View Transitions
+# Transições de Vista
  
-View transitions control how the app animates when moving between screens. UIKit provides built-in transition styles like push and modal presentation, and custom transitions are created using the UIViewControllerAnimatedTransitioning protocol. Transitions provide visual continuity that helps users understand where they are in the app.
+As transições de vista controlam como o aplicativo anima ao navegar entre telas. UIKit fornece estilos de transição embutidos como push e apresentação modal, e as transições personalizadas são criadas usando a protocolo UIViewControllerAnimatedTransitioning. As transições fornecem continuidade visual que ajuda os usuários a entenderem onde estão no aplicativo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@Kodeco - UIKit Transitions](https://www.kodeco.com/books/ios-animations-by-tutorials/v6.0/chapters/5-transitions)
-- [@article@View Controller Transitions](https://developer.apple.com/documentation/uikit/animation_and_haptics/view_controller_transitions)
+- [@curso@Kodeco - Transições de UIKit](https://www.kodeco.com/books/ios-animations-by-tutorials/v6.0/chapters/5-transitions)
+- [@artigo@Transições de Controlador de Vista](https://developer.apple.com/documentation/uikit/animation_and_haptics/view_controller_transitions)

@@ -1,3 +1,3 @@
-# Dependency Manager
+# Gerenciador de Dependências
  
-Dependency managers automate adding, updating, and removing third-party libraries in an iOS project. The three main options are Swift Package Manager, CocoaPods, and Carthage. Each has different trade-offs around integration complexity, build speed, and the breadth of available packages.
+Gerenciadores de dependência automatizam o processo de adicionar, atualizar e remover bibliotecas de terceiros em um projeto iOS. As três principais opções são Swift Package Manager, CocoaPods e Carthage. Cada uma tem diferentes desafios em torno da complexidade de integração, velocidade de build e a amplitude de pacotes disponíveis.

@@ -1,3 +1,3 @@
 # Toolbar
  
-The Xcode toolbar provides quick access to common actions, including running and stopping the app, selecting a target device or simulator, and showing or hiding the navigator and inspector panels. It also displays build activity messages and scheme selection controls.
+A barra de ferramentas do Xcode fornece acesso rápido a ações comuns, incluindo executar e parar o aplicativo, selecionar um dispositivo ou simulador de destino e mostrar ou ocultar os painéis de navegador e inspetor. Ela também exibe mensagens de atividade de build e controles de seleção de esquema.

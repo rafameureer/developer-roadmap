@@ -1,8 +1,8 @@
-# Latest Swift Version
+# Última Versão do Swift
  
-Apple releases new Swift versions annually alongside Xcode and iOS updates. New Swift versions introduce language features, performance improvements, and standard library additions. Tracking the Swift Evolution process and WWDC sessions on Swift helps developers adopt new capabilities and respond to deprecations promptly.
+Apple libera novas versões do Swift anualmente junto com atualizações de Xcode e iOS. Novas versões do Swift introduzem recursos linguísticos, melhorias de desempenho e adições à biblioteca padrão. Rastreie o processo de evolução do Swift e as sessões WWDC sobre Swift para ajudar os desenvolvedores a adotar novas capacidades e responder às depreciações com prompt.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Official Swift Website](https://www.swift.org/download/)
-- [@official@Swiftversion.net](https://swiftversion.net/)
+- [@oficial@Site oficial do Swift](https://www.swift.org/download/)
+- [@oficial@Swiftversion.net](https://swiftversion.net/)

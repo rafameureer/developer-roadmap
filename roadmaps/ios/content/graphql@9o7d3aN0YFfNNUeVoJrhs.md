@@ -1,8 +1,8 @@
 # GraphQL
  
-GraphQL is a query language for APIs that allows clients to request exactly the data they need in a single request. iOS apps interact with GraphQL APIs using libraries like Apollo iOS. GraphQL reduces over-fetching and under-fetching of data, making it efficient for mobile clients on limited bandwidth.
+GraphQL é uma linguagem de consulta para APIs que permite aos clientes solicitar exatamente os dados que precisam em uma única solicitação. As apps iOS interagem com APIs GraphQL usando bibliotecas como Apollo iOS. O GraphQL reduz o sobre-carregamento e sub-carregamento de dados, tornando-o eficiente para clientes móveis com baixa largura de banda.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated GraphQL Roadmap](https://roadmap.sh/graphql)
-- [@official@GraphQL Website](https://graphql.org/)
+- [@roadmap@Visite a Roadmap dedicada ao GraphQL](https://roadmap.sh/graphql)
+- [@official@Site do GraphQL](https://graphql.org/)

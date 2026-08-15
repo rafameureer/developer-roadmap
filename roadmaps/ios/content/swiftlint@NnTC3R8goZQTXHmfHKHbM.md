@@ -1,8 +1,8 @@
 # SwiftLint
 
-SwiftLint is an open-source tool developed by Realm, that facilitates maintaining standardized code development by enabling the definition and enforcement of project-specific conventions and guidelines. It ensures developers adhere to these standards, thereby promoting organized code practices.
+SwiftLint é uma ferramenta de código aberto desenvolvida pela Realm que facilita a manutenção de códigos padronizados ao permitir a definição e aplicação de convenções e diretrizes específicas do projeto. Ele garante que os desenvolvedores estejam em conformidade com esses padrões, promovendo práticas organizadas de codificação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@SwiftLint Documentation](https://github.com/realm/SwiftLint)
-- [@video@Mastering SwiftLint for Code Readability](https://www.youtube.com/watch?v=4YQ6DJ-xovY)
+- [@official@Documentação do SwiftLint](https://github.com/realm/SwiftLint)
+- [@video@Dominando o SwiftLint para Melhorar a Legibilidade do Código](https://www.youtube.com/watch?v=4YQ6DJ-xovY)

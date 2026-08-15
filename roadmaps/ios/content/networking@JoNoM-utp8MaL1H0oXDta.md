@@ -1,7 +1,7 @@
 # Networking
- 
-Networking in iOS covers how apps communicate with remote servers and APIs. The native foundation is URLSession for HTTP requests, and Alamofire is a popular third-party library that simplifies common networking tasks. iOS apps commonly consume REST APIs over HTTPS and, increasingly, GraphQL APIs.
 
-Visit the following resources to learn more:
+O networking no iOS cobre como as apps se comunicam com servidores remotos e APIs. A base nativa é URLSession para solicitações HTTP, e Alamofire é uma popular biblioteca de terceiros que simplifica tarefas de networking comuns. As apps do iOS geralmente consomem APIs REST sobre HTTPS e, cada vez mais, APIs GraphQL.
 
-- [@roadmap@Visit the Dedicated Network Engineer Roadmap](https://roadmap.sh/network-engineer)
+Acesse os seguintes recursos para saber mais:
+
+- [@roadmap@Visite o Caminho Dedidado para Engenheiros de Rede](https://roadmap.sh/network-engineer)

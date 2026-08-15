@@ -1,9 +1,9 @@
 # MapKit
  
-MapKit is Apple's framework for embedding maps and location-based features into iOS apps. It provides interactive map views, annotation pins, overlays, turn-by-turn directions, and local place search. MapKit uses Apple Maps as its data source and integrates with Core Location for GPS access.
+MapKit é o framework da Apple para incorporar mapas e recursos baseados em localização em aplicativos iOS. Ele fornece visualizações de mapas interativas, marcadores de anotação, sobreposições, direções por etapas e pesquisa de locais locais. O MapKit usa os mapas da Apple como fonte de dados e integra com o Core Location para acesso a GPS.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@MapKit](https://developer.apple.com/documentation/mapkit/)
-- [@article@Implement MapKit APIs](https://medium.com/simform-engineering/mapkit-swiftui-in-ios-17-1fec82c3bf00)
-- [@video@Meet MapKit for SwiftUI](https://developer.apple.com/videos/play/wwdc2023/10043/)
+- [@oficial@MapKit](https://developer.apple.com/documentation/mapkit/)
+- [@artigo@Implementando APIs do MapKit](https://medium.com/simform-engineering/mapkit-swiftui-in-ios-17-1fec82c3bf00)
+- [@vídeo@Conheça o MapKit para SwiftUI](https://developer.apple.com/videos/play/wwdc2023/10043/)

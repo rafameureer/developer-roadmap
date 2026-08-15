@@ -1,9 +1,9 @@
-# Implementing Delegates
- 
-Implementing a delegate involves defining a protocol with required methods, adding a weak delegate property to the delegating class, and calling delegate methods at the appropriate times. The conforming class implements the protocol methods to respond to events. The weak reference is necessary to prevent retain cycles between the delegate and the delegating object.
+# Implementando Delegates
 
-Visit the following resources to learn more:
+Implementar um delegate envolve definir um protocolo com métodos obrigatórios, adicionar uma propriedade de delegate fraca à classe delegante e chamar os métodos do delegate no momento apropriado. A classe que se conforma implementa os métodos do protocolo para responder a eventos. A referência fraca é necessária para evitar ciclos de retenção entre o delegate e o objeto delegante.
 
-- [@article@Delegates in Swift](https://medium.com/@muhammad.cse11/delegates-in-swift-ios-application-6dfb37897f9b)
-- [@article@What is a delegate in Swift](https://www.hackingwithswift.com/example-code/language/what-is-a-delegate-in-ios)
-- [@video@Delegate protocol - Swift example](https://www.youtube.com/watch?v=Z9eSUE-lzig)
+Visite os seguintes recursos para saber mais:
+
+- [@article@Delegates em Swift](https://medium.com/@muhammad.cse11/delegates-in-swift-ios-application-6dfb37897f9b)
+- [@article@O que é um delegate em Swift](https://www.hackingwithswift.com/example-code/language/what-is-a-delegate-in-ios)
+- [@video@Protocolo Delegate - Exemplo em Swift](https://www.youtube.com/watch?v=Z9eSUE-lzig)

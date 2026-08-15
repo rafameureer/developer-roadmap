@@ -1,8 +1,8 @@
-# Basic Interfaces
+# Interfaces Básicas
  
-Building a basic interface in UIKit involves adding views to a view controller's root view, setting up Auto Layout constraints, and wiring controls to code through IBOutlets and IBActions. Simple interfaces typically combine labels, buttons, text fields, and image views arranged into a readable, functional layout.
+Construir uma interface básica no UIKit envolve adicionar exibições à raiz de um controlador de visualização, configurar restrições de Auto Layout e conectar controles ao código através de IBOutlets e IBActions. Interfaces simples geralmente combinam rótulos, botões, campos de texto e exibições de imagem dispostas em um layout legível e funcional.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@UINavigationBar](https://developer.apple.com/documentation/uikit/uinavigationbar)
 - [@official@UITabBar](https://developer.apple.com/documentation/uikit/uitabbar)

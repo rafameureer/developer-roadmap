@@ -1,8 +1,8 @@
-# Dynamic Type
+# Tipos Dinâmicos
 
-The Dynamic Type feature allows users to choose the size of textual content displayed on the screen. It helps users who need larger text for better readability. It also accommodates those who can read smaller text, allowing more information to appear on the screen. Apps that support Dynamic Type also provide a more consistent reading experience.
+O recurso de Tipos Dinâmicos permite que os usuários escolham o tamanho do conteúdo textual exibido na tela. Ele ajuda usuários que precisam de texto maior para melhorar a legibilidade. Também atende aos que podem ler texto menor, permitindo mais informações aparecerem na tela. Aplicativos que suportam Tipos Dinâmicos também fornecem uma experiência de leitura mais consistente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Dynamic Type](https://developer.apple.com/documentation/uikit/uifont/scaling_fonts_automatically/)
-- [@official@WWDC24: Get started with Dynamic Type](https://www.youtube.com/watch?v=ZqDZjW9TpFw)
+- [@oficial@Tipos Dinâmicos](https://developer.apple.com/documentation/uikit/uifont/scaling_fonts_automatically/)
+- [@oficial@WWDC24: Começando com Tipos Dinâmicos](https://www.youtube.com/watch?v=ZqDZjW9TpFw)

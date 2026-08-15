@@ -1,3 +1,3 @@
-# Code Quality Tools
- 
-Code quality tools for iOS enforce consistent style and detect potential issues in Swift code through static analysis. SwiftLint, Tailor, and SwiftFormat are the main tools available. Integrating them into the Xcode build process or CI pipeline ensures consistent code quality across the team.
+# Ferramentas de Qualidade do Código
+
+Ferramentas de qualidade do código para iOS garantem um estilo consistente e detectam problemas potenciais no código Swift através da análise estática. As principais ferramentas disponíveis são o SwiftLint, Tailor e SwiftFormat. Integrá-las ao processo de construção do Xcode ou à pipeline CI garante uma qualidade de código consistente na equipe.

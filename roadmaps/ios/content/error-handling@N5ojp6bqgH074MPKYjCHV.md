@@ -1,9 +1,9 @@
-# Error Handling
- 
-Swift provides a structured error handling model using the throw, try, and catch keywords. Functions that can fail declare throws in their signature, and callers handle errors using do-catch blocks. Swift also supports the Result type for propagating errors through asynchronous APIs.
+# Tratamento de Erros
 
-Visit the following resources to learn more:
+O Swift fornece um modelo estruturado de tratamento de erros usando as palavras-chave throw, try e catch. Funções que podem falhar declaram throws em sua assinatura, e chamadores lidam com erros usando blocos do-catch. O Swift também suporta o tipo Result para propagar erros através de APIs assíncronas.
 
-- [@article@General Error Handling Rules - Google](https://developers.google.com/tech-writing/error-messages/error-handling)
-- [@article@Error Handling Patterns](https://andreabergia.com/blog/2023/05/error-handling-patterns/)
-- [@video@Error Handling by Timoth Cain](https://www.youtube.com/watch?v=yhJEJKG-aK8)
+Acesse os seguintes recursos para saber mais:
+
+- [@artigo@Regras Gerais de Tratamento de Erros - Google](https://developers.google.com/tech-writing/error-messages/error-handling)
+- [@artigo@Padrões de Tratamento de Erros](https://andreabergia.com/blog/2023/05/error-handling-patterns/)
+- [@vídeo@Tratamento de Erros por Timoth Cain](https://www.youtube.com/watch?v=yhJEJKG-aK8)

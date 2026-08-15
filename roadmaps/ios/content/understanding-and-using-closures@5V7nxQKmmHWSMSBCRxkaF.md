@@ -1,9 +1,9 @@
-# Understanding and using Closures
+# Entendendo e usando Closures
  
-Understanding closures involves knowing their syntax, how they capture surrounding values, and how to use them as function parameters and return values. Swift offers shorthand argument names and trailing closure syntax to keep closure usage concise. Closures appear throughout the Swift standard library and iOS SDK as the primary mechanism for passing behavior between components.
+Entender closures envolve conhecer sua sintaxe, como elas capturam valores circundantes e como usá-las como parâmetros de função e retornos de valor. Swift oferece nomes de argumentos abreviados e a sintaxe de closure final para manter o uso de closures conciso. Closures aparecem em toda a biblioteca padrão do Swift e no SDK iOS como a principal mecanismo para passar comportamentos entre componentes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Swift Closures](https://www.programiz.com/swift-programming/closures)
-- [@article@A guide to closures in Swift](https://medium.com/swiftable/a-guide-to-closures-in-swift-368e6aca6d71)
-- [@article@Introduction to Swift Closures](https://codewithchris.com/introduction-to-swift-closures-in-2023/)
+- [@article@Closures em Swift](https://www.programiz.com/swift-programming/closures)
+- [@article@Guia de closures em Swift](https://medium.com/swiftable/a-guide-to-closures-in-swift-368e6aca6d71)
+- [@article@Introdução a Closures em Swift](https://codewithchris.com/introduction-to-swift-closures-in-2023/)

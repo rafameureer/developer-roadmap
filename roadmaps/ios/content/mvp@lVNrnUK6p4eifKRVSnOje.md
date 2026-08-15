@@ -1,8 +1,8 @@
 # MVP
  
-MVP (Model-View-Presenter) improves on MVC by separating UIKit view controllers into a passive View and a Presenter that contains all UI logic. The View delegates user interactions to the Presenter, which processes them and updates the View through a protocol-based interface. Moving logic out of the view controller makes it much easier to unit test.
+MVP (Model-View-Presenter) melhora o MVC separando os controladores de visualização do UIKit em uma View passiva e um Presenter que contém toda a lógica da interface do usuário. A View delega as interações do usuário ao Presenter, que processa-as e atualiza a View através de uma interface baseada em protocolos. Mover a lógica fora do controlador de visualização torna muito mais fácil testar unidade.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@MVP Wikipedia](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93presenter)
-- [@video@Discover the MVP architecture in less than 90 seconds](https://www.youtube.com/watch?v=DUX0nr5rvnU)
+- [@artigo@MVP Wikipedia](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93presenter)
+- [@vídeo@Descubra a arquitetura MVP em menos de 90 segundos](https://www.youtube.com/watch?v=DUX0nr5rvnU)

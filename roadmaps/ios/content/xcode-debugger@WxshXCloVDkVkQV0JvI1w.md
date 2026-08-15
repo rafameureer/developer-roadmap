@@ -1,8 +1,8 @@
-# Xcode Debugger
- 
-The Xcode debugger allows developers to pause execution at breakpoints, inspect variable values, evaluate expressions using LLDB commands in the console, and step through code line by line. The debug area displays the current thread, call stack, and local variable state during a paused session.
+# Depurador do Xcode
 
-Visit the following resources to learn more:
+O depurador do Xcode permite aos desenvolvedores pausar a execução em pontos de interrupção, inspecionar valores de variáveis, avaliar expressões usando comandos LLDB na console e passar por linha em linha do código. A área de depuração exibe o thread atual, a pilha de chamadas e o estado das variáveis locais durante uma sessão pausada.
 
-- [@article@Xcode Debug Console Tour: Exploring All Options](https://www.avanderlee.com/xcode/xcode-debug-console/)
-- [@video@Debugging in Xcode](https://www.youtube.com/watch?v=ZAqnJQn7xp4)
+Acesse os seguintes recursos para saber mais:
+
+- [@artigo@Turorial da Consola de Depuração do Xcode: Explorando Todas as Opções](https://www.avanderlee.com/xcode/xcode-debug-console/)
+- [@vídeo@Depuração no Xcode](https://www.youtube.com/watch?v=ZAqnJQn7xp4)

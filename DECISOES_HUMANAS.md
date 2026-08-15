@@ -4,7 +4,7 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 
 ---
 
-> ⚠️ **Total de itens sinalizados:** 1065
+> ⚠️ **Total de itens sinalizados:** 1089
 
 | Arquivo / Tópico | Motivo da Sinalização | Data/Hora |
 |---|---|---|
@@ -1073,3 +1073,27 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 | `roadmaps/html/content/introduction@JkLec2vSBMFAUc1Dzra-L.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:04:39.341061 |
 | `roadmaps/html/content/javascript@F-9uI39S9oYVGA8hi7aZI.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:04:43.991536 |
 | `roadmaps/html/content/whitespaces@IUsaaRxiuOn3y9uYbpsJ0.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:06:59.873519 |
+| `roadmaps/ios/content/app-store-optimization-aso@jZpH-T2hW-XBdprVqemGi.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:07:37.840413 |
+| `roadmaps/ios/content/architectural-patterns@ajPGMwoaFb1UFWTtpi5kd.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:07:39.919135 |
+| `roadmaps/ios/content/concurrency-and-multithreading@fbloF-u4XwdHLmBS9flZm.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:09:23.119581 |
+| `roadmaps/ios/content/concurrency-gcd-asyncawait@aALIiAxKz4f7B_EYyhBCi.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:09:25.333657 |
+| `roadmaps/ios/content/concurrency@-aLGB3cDXZHIhVU3t-Ve4.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:09:29.519106 |
+| `roadmaps/ios/content/debug-navigator@VuWUsg05WmOoP_RJ5AXJO.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:10:32.799635 |
+| `roadmaps/ios/content/declarative-syntax@QVg4_8EXeQBJbleryy8c1.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:10:40.759650 |
+| `roadmaps/ios/content/interoperability-with-swift@IAPzuN51xvrZJ5TFB23Q9.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:12:36.024212 |
+| `roadmaps/ios/content/ios-architecture@IduGSdUa2Fi7VFMLKgmsS.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:12:55.030751 |
+| `roadmaps/ios/content/jenkins@TrblGyy81Oep2CBxoZkaf.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:12:58.844159 |
+| `roadmaps/ios/content/json--xml@WYV4YG_sLvC4S5ptFFdrF.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:13:00.825464 |
+| `roadmaps/ios/content/media@nGCG74_Xp_Ngt0u7PZnZl.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:13:39.072271 |
+| `roadmaps/ios/content/memory-management@tqbg8mBJfjuXacdMlIB_L.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:13:43.886263 |
+| `roadmaps/ios/content/metal@5VguZoP4h40rTWkxWxaxU.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:13:46.301424 |
+| `roadmaps/ios/content/modals-and-navigation@jb89kQxDhZND3vQo0EH7r.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:14:04.127199 |
+| `roadmaps/ios/content/pick-a-language@MrdIb9F-wSEbUz7KRnH3t.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:15:46.664864 |
+| `roadmaps/ios/content/presenting--dismissing-views@4pmjLa7WvwV7D3RZlM6Hp.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:15:56.289082 |
+| `roadmaps/ios/content/tailor@F5796wzm5Ar6sQt-1y8vH.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:17:51.017886 |
+| `roadmaps/ios/content/tca@NhC0SBZgUFGjMLNICvbTI.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:17:55.645353 |
+| `roadmaps/ios/content/test-plan--coverage@uczkyc30K_qqcarZCGTdF.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:17:58.091224 |
+| `roadmaps/ios/content/user-interactions@GKuxilB0AwjcTgCSk3FeU.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:18:48.379747 |
+| `roadmaps/ios/content/version-control@sGnDm2xuJxqfU3pwmlY7H.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:18:52.409969 |
+| `roadmaps/ios/content/view-controllers@mfWdkUm1RhjygtMyInXiD.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:18:55.358006 |
+| `roadmaps/ios/content/xibs@RwvC4Pi18_1phcrJL-9iu.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:20:10.524260 |

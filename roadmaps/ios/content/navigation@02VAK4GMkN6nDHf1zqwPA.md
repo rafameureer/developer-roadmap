@@ -1,10 +1,10 @@
-# Navigation
- 
-Navigation in SwiftUI is managed with NavigationStack (iOS 16+) or NavigationView for older deployment targets. NavigationLink connects the current view to a destination, and the navigation stack maintains a history that the user can traverse with the Back button. SwiftUI's navigation model is state-driven, enabling programmatic navigation and deep link support.
+# Navegação
 
-Visit the following resources to learn more:
+A navegação no SwiftUI é gerenciada com NavigationStack (iOS 16+) ou NavigationView para alvos de implantação mais antigos. NavigationLink conecta a exibição atual a um destino, e a pilha de navegação mantém um histórico que o usuário pode percorrer com o botão Voltar. O modelo de navegação do SwiftUI é baseado em estado, permitindo navegação programática e suporte a links profundos.
 
-- [@official@Apple Tutorials: Navigation and modal presentation - Creating a navigation hierarchy](https://developer.apple.com/tutorials/app-dev-training/creating-a-navigation-hierarchy)
-- [@official@Apple Tutorials: Navigation and modal presentation - Managing data flow between views](https://developer.apple.com/tutorials/app-dev-training/managing-data-flow-between-views)
+Acesse os seguintes recursos para saber mais:
+
+- [@official@Tutoriais da Apple: Navegação e apresentação modal - Criando uma hierarquia de navegação](https://developer.apple.com/tutorials/app-dev-training/creating-a-navigation-hierarchy)
+- [@official@Tutoriais da Apple: Navegação e apresentação modal - Gerenciando o fluxo de dados entre exibições](https://developer.apple.com/tutorials/app-dev-training/managing-data-flow-between-views)
 - [@opensource@pointfreeco/swiftui-navigation](https://github.com/pointfreeco/swiftui-navigation)
-- [@article@The complete guide to NavigationView in SwiftUI](https://www.hackingwithswift.com/articles/216/complete-guide-to-navigationview-in-swiftui)
+- [@article@Guia completo sobre NavigationView no SwiftUI](https://www.hackingwithswift.com/articles/216/complete-guide-to-navigationview-in-swiftui)

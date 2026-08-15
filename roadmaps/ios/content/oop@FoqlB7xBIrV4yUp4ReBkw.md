@@ -1,7 +1,7 @@
 # OOP
 
-Object-Oriented Programming **(OOP)** is a style where code is organized around "objects," which are instances of classes combining data and methods. It emphasizes encapsulation, abstraction, inheritance, and polymorphism, enabling modular, reusable, and maintainable code. OOP allows developers to model real-world entities and their interactions, making complex software design more intuitive and efficient.
+Orientação a Objetos **(OOP)** é um estilo onde o código é organizado em torno de "objetos", que são instâncias de classes combinando dados e métodos. Ele enfatiza encapsulamento, abstração, herança e polimorfismo, permitindo código modular, reutilizável e manterável. OOP permite aos desenvolvedores modelar entidades do mundo real e suas interações, tornando o design de softwares complexos mais intuitivo e eficiente.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@video@Object-oriented Programming in 7 minutes](https://www.youtube.com/watch?v=pTB0EiLXUC8)
+- [@video@Programação orientada a objetos em 7 minutos](https://www.youtube.com/watch?v=pTB0EiLXUC8)

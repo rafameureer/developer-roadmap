@@ -1,10 +1,10 @@
-# Swift (Recommended)
+# Swift (Recomendado)
  
-Swift is Apple's modern, statically typed programming language for iOS, macOS, watchOS, and tvOS development. Introduced in 2014, it has become the recommended choice for new iOS projects. Swift features a clean syntax, strong type inference, optionals for safe null handling, and built-in concurrency support through async/await.
+Swift é o moderno e tipado estáticamente linguagem de programação da Apple para desenvolvimento em iOS, macOS, watchOS e tvOS. Introduzido em 2014, tornou-se a escolha recomendada para novos projetos iOS. Swift possui uma sintaxe limpa, inferência forte de tipos, opcionais para o tratamento seguro de nulos e suporte interno à concorrência através de async/await.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated Swift & Swift UI Roadmap](https://roadmap.sh/swift-ui)
-- [@official@Swift Documentation](https://www.swift.org/documentation/)
-- [@course@Programiz - Swift Programming Tutorials](https://www.programiz.com/swift-programming)
-- [@course@HackingWithSwift - 100 Days of Swift](https://www.hackingwithswift.com/100)
+- [@roadmap@Visite a Estrada Dedicada ao Swift & Swift UI](https://roadmap.sh/swift-ui)
+- [@oficial@Documentação do Swift](https://www.swift.org/documentation/)
+- [@curso@Programiz - Aulas de Programação em Swift](https://www.programiz.com/swift-programming)
+- [@curso@HackingWithSwift - 100 Dias de Swift](https://www.hackingwithswift.com/100)

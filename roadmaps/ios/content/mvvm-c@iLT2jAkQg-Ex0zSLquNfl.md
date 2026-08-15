@@ -1,8 +1,8 @@
 # MVVM-C
  
-MVVM-C extends the MVVM pattern by adding a Coordinator component that manages navigation between screens. Coordinators handle routing logic that would otherwise live in view controllers or ViewModels, making navigation testable and reusable. This separation is particularly valuable in apps with complex conditional navigation flows.
+O MVVM-C estende o padrão MVVM adicionando um componente Coordinator que gerencia a navegação entre telas. Coordinators lidam com a lógica de roteamento que, caso contrário, ficaria em controladores de exibição ou ViewModel, tornando a navegação testável e reutilizável. Esta separação é particularmente valiosa em aplicativos com fluxos de navegação condicionais complexos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@iOS Architecture: MVVM-C, Introduction](https://medium.com/sudo-by-icalia-labs/ios-architecture-mvvm-c-introduction-1-6-815204248518)
-- [@video@Everything you need to know about client arthitecture patterns](https://www.youtube.com/watch?v=I5c7fBgvkNY)
+- [@article@Arquitetura iOS: MVVM-C, Introdução](https://medium.com/sudo-by-icalia-labs/ios-architecture-mvvm-c-introduction-1-6-815204248518)
+- [@video@Tudo o que você precisa saber sobre padrões de arquitetura cliente](https://www.youtube.com/watch?v=I5c7fBgvkNY)

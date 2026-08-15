@@ -1,7 +1,7 @@
-# Swift Package Manager
+# Gerenciador de Pacotes Swift
 
-The Swift Package Manager (SwiftPM) is a tool for managing the distribution of Swift code. It’s integrated with the Swift build system to automate the process of downloading, compiling, and linking dependencies. The Package Manager is included in Swift 3.0 and above.
+O Gerenciador de Pacotes Swift (SwiftPM) é uma ferramenta para gerenciar a distribuição de código Swift. Ele está integrado ao sistema de construção Swift para automatizar o processo de download, compilação e vinculação de dependências. O Gerenciador de Pacotes é incluído no Swift 3.0 e versões posteriores.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Swift Package Manager](https://www.swift.org/documentation/package-manager/)
+- [@oficial@Gerenciador de Pacotes Swift](https://www.swift.org/documentation/package-manager/)

@@ -1,8 +1,8 @@
-# Navigation Stacks
+# Pilhas de Navegação
  
-Navigation stacks in SwiftUI are managed by NavigationStack (iOS 16+), which maintains a path representing the current navigation state. Views are pushed onto the stack by navigating to a value, and the stack handles the back button automatically. The state-driven model enables programmatic navigation and full deep link support.
+As pilhas de navegação no SwiftUI são gerenciadas pelo NavigationStack (iOS 16+), que mantém um caminho representando o estado atual da navegação. As exibições são empurradas para a pilha navegando para um valor, e a pilha lida automaticamente com o botão de voltar. O modelo baseado em estado habilita a navegação programática e suporte completo a links profundos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@NavigationStack](https://developer.apple.com/documentation/swiftui/navigationstack)
-- [@video@NavigationStack](https://www.youtube.com/watch?v=DMsALlhObNk)
+- [@oficial@Pilha de Navegação](https://developer.apple.com/documentation/swiftui/navigationstack)
+- [@vídeo@Pilha de Navegação](https://www.youtube.com/watch?v=DMsALlhObNk)

@@ -1,9 +1,9 @@
-# Publishers / Subscribers
+# Publicadores / Assinantes
 
-The Combine framework in iOS uses Publishers and Subscribers as core components for reactive programming. Publishers are types that can emit a sequence of values over time, representing sources of asynchronous events or data. Subscribers receive and process these values, defining how to handle the published data. Publishers can emit multiple values, complete successfully, or terminate with an error. Subscribers can receive and react to these events, often updating UI or triggering further operations.
+O framework Combine no iOS usa Publicadores e Assinantes como componentes principais para o programação reativa. Os Publicadores são tipos que podem emitir uma sequência de valores ao longo do tempo, representando fontes de eventos assíncronos ou dados. Os Assinantes recebem e processam esses valores, definindo como lidar com os dados publicados. Os Publicadores podem emitir vários valores, concluir com sucesso ou terminar com um erro. Os Assinantes podem receber e reagir a esses eventos, frequentemente atualizando a interface do usuário ou disparando operações adicionais.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Processing Published Elements with Subscribers](https://developer.apple.com/documentation/combine/processing-published-elements-with-subscribers)
-- [@article@Combine Publishers & Subscribers](https://www.kodeco.com/books/combine-asynchronous-programming-with-swift/v2.0/chapters/2-publishers-subscribers)
-- [@video@Combine - Publishers and Subscribers Lifecycles and Error Handling](https://www.youtube.com/watch?v=4WQskqNHxhQ)
+- [@oficial@Processamento de Elementos Publicados com Assinantes](https://developer.apple.com/documentation/combine/processing-published-elements-with-subscribers)
+- [@artigo@Publicadores & Assinantes do Combine](https://www.kodeco.com/books/combine-asynchronous-programming-with-swift/v2.0/chapters/2-publishers-subscribers)
+- [@vídeo@Combine - Ciclo de Vida dos Publicadores e Assinantes e Tratamento de Erros](https://www.youtube.com/watch?v=4WQskqNHxhQ)

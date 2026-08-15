@@ -1,9 +1,9 @@
 # RxSwift
  
-RxSwift is the Swift implementation of the ReactiveX library, providing a comprehensive API for reactive programming. It introduces Observable sequences that emit items over time and a large set of operators for combining and transforming them. RxSwift was widely adopted in iOS development before Apple introduced Combine and remains in use in many codebases.
+RxSwift é a implementação em Swift da biblioteca ReactiveX, fornecendo uma API abrangente para programação reativa. Ele introduz sequências observáveis que emitem itens ao longo do tempo e um grande conjunto de operadores para combinar e transformá-los. O RxSwift foi amplamente adotado no desenvolvimento iOS antes da Apple apresentar Combine e ainda é usado em muitos códigos-fonte.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@ReactiveX Documentation](https://reactivex.io/intro.html)
-- [@opensource@RxSwift Documentation](https://github.com/ReactiveX/RxSwift)
-- [@video@RxSwift Basics](https://www.youtube.com/watch?v=ES5RuLSv61g)
+- [@official@Documentação ReactiveX](https://reactivex.io/intro.html)
+- [@opensource@Documentação RxSwift](https://github.com/ReactiveX/RxSwift)
+- [@video@Básico de RxSwift](https://www.youtube.com/watch?v=ES5RuLSv61g)

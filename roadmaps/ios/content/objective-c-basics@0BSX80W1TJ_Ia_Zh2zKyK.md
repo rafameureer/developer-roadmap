@@ -1,3 +1,3 @@
-# Objective-C Basics
- 
-Objective-C basics cover the core syntax and concepts needed to read and write Objective-C code. This includes pointers, message syntax, classes, categories, protocols, and property declarations. A working knowledge of these basics is useful when maintaining legacy codebases or interoperating with frameworks that expose Objective-C interfaces.
+# Básicos de Objective-C
+
+Os fundamentos do Objective-C cobrem a sintaxe e os conceitos essenciais necessários para ler e escrever código em Objective-C. Isso inclui ponteiros, sintaxe de mensagem, classes, categorias, protocolos e declarações de propriedade. Um conhecimento funcional desses fundamentos é útil quando manter códigos baseadas em legado ou interagir com frameworks que expõem interfaces do Objective-C.

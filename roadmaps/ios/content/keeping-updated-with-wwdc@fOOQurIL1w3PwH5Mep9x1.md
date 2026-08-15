@@ -1,9 +1,9 @@
-# Keeping Updated with WWDC
- 
-WWDC (Apple Worldwide Developers Conference) is Apple's annual developer event where new iOS, macOS, and framework announcements are made. Watching WWDC sessions, reading the associated documentation, and reviewing the release notes keeps iOS developers current with new APIs, deprecations, and best practices.
+# Manter-se Atualizado com WWDC
 
-Visit the following resources to learn more:
+A WWDC (Apple Worldwide Developers Conference) é o evento anual do desenvolvedor da Apple onde novas anúncios de iOS, macOS e frameworks são feitos. Assistir às sessões da WWDC, ler a documentação associada e revisar as notas de lançamento mantém os desenvolvedores do iOS atualizados sobre novas APIs, descontinuações e práticas recomendadas.
 
-- [@official@Worldwide Developers Conference](https://developer.apple.com/wwdc)
-- [@official@Apple Developer YouTube channel](https://www.youtube.com/@AppleDeveloper)
-- [@official@WWDC videos collection by year](https://developer.apple.com/videos/)
+Acesse os seguintes recursos para saber mais:
+
+- [@oficial@Conferência Mundial dos Desenvolvedores da Apple](https://developer.apple.com/wwdc)
+- [@oficial@Canal do YouTube da Apple Developer](https://www.youtube.com/@AppleDeveloper)
+- [@oficial@Coleção de vídeos da WWDC por ano](https://developer.apple.com/videos/)

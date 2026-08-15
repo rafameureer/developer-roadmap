@@ -1,7 +1,7 @@
-# Navigation View
+# Exibição de Navegação
  
-NavigationView is the SwiftUI component for hierarchical navigation, used before NavigationStack was introduced in iOS 16. It wraps a view and provides a navigation bar and back navigation behavior. NavigationView is still relevant for apps targeting iOS 15 and earlier.
+NavigationView é o componente SwiftUI para navegação hierárquica, usado antes que NavigationStack fosse introduzido no iOS 16. Ele envolve uma exibição e fornece uma barra de navegação e comportamento de navegação para trás. A Exibição de Navegação ainda é relevante para aplicativos direcionados ao iOS 15 e versões anteriores.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Navigation View](https://developer.apple.com/documentation/swiftui/navigationview)
+- [@oficial@Exibição de Navegação](https://developer.apple.com/documentation/swiftui/navigationview)

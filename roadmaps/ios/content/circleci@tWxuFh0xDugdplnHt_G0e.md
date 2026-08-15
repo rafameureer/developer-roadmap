@@ -1,9 +1,9 @@
 # CircleCI
  
-CircleCI is a cloud-based CI/CD platform that supports iOS development through macOS build environments with Xcode installed. It runs builds, executes test suites, and triggers Fastlane lanes for automated distribution. Pipelines are configured with YAML files and integrate with GitHub and Bitbucket repositories.
+CircleCI é uma plataforma de CI/CD em nuvem que suporta o desenvolvimento iOS através de ambientes de build macOS com Xcode instalado. Ele executa builds, executa conjuntos de testes e dispara faixas do Fastlane para distribuição automatizada. As pipelines são configuradas com arquivos YAML e integram-se com repositórios GitHub e Bitbucket.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@CircleCI Website](https://circleci.com)
-- [@article@Deploy iOS applications](https://circleci.com/docs/deploy-ios-applications/)
-- [@video@Automate building and testing your iPhone application with CircleCI Cloud - iOS Conf SG 2023](https://www.youtube.com/watch?v=MyQ-e7Ae8y8)
+- [@official@Site oficial do CircleCI](https://circleci.com)
+- [@article@Implantar aplicativos iOS](https://circleci.com/docs/deploy-ios-applications/)
+- [@video@Automatize a construção e teste do seu aplicativo iPhone com o CircleCI Cloud - iOS Conf SG 2023](https://www.youtube.com/watch?v=MyQ-e7Ae8y8)

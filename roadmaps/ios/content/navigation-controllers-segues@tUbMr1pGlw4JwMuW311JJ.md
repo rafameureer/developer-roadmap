@@ -1,8 +1,8 @@
-# Navigation Controllers, Segues
+# Controladores de Navegação, Segues
  
-UINavigationController manages a stack of view controllers with a navigation bar at the top. Segues are the transitions between view controllers defined in a Storyboard, triggered by user interaction or called programmatically. The prepare(for:sender:) method is used to pass data to the destination view controller before a segue executes.
+O UINavigationController gerencia uma pilha de controladores de exibição com uma barra de navegação no topo. Os segues são as transições entre controladores de exibição definidos em um Storyboard, acionados por interação do usuário ou chamados programaticamente. O método prepare(for:sender:) é usado para passar dados ao controlador de destino de exibição antes que o segue seja executado.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@UINavigationController](https://developer.apple.com/documentation/uikit/uinavigationcontroller)
-- [@video@How to Nav Bar Programmatically](https://www.youtube.com/watch?v=wcN3-E1_ZxU)
+- [@video@Como navegar na barra de navegação programaticamente](https://www.youtube.com/watch?v=wcN3-E1_ZxU)

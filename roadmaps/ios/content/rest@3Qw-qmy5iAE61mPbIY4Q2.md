@@ -1,8 +1,8 @@
 # REST
  
-REST (Representational State Transfer) is an architectural style for networked APIs that uses standard HTTP methods like GET, POST, PUT, PATCH, and DELETE. iOS apps consume REST APIs by making URLSession or Alamofire requests and decoding JSON responses using Codable. REST is the most common API style in iOS app development.
+REST (Representational State Transfer) é um estilo arquitetônico para APIs de rede que usa métodos HTTP padrão como GET, POST, PUT, PATCH e DELETE. Aplicativos iOS consomem APIs REST fazendo solicitações URLSession ou Alamofire e decodificando respostas JSON usando Codable. REST é o estilo API mais comum no desenvolvimento de aplicativos iOS.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@REST API Calls in Swift: iOS Networking Architecture](https://matteomanferdini.com/swift-rest-api/)
-- [@article@Sending and receiving Codable data with URLSession and SwiftUI](https://www.hackingwithswift.com/books/ios-swiftui/sending-and-receiving-codable-data-with-urlsession-and-swiftui)
+- [@article@Chamadas de API REST em Swift: Arquitetura de Rede do iOS](https://matteomanferdini.com/swift-rest-api/)
+- [@article@Enviando e recebendo dados Codable com URLSession e SwiftUI](https://www.hackingwithswift.com/books/ios-swiftui/sending-and-receiving-codable-data-with-urlsession-and-swiftui)

@@ -1,7 +1,7 @@
 # XCTest
  
-XCTest is Apple's framework for writing unit tests in Swift and Objective-C. Tests are organized into subclasses of XCTestCase, and individual test methods begin with "test". XCTest integrates with Xcode's Test Navigator for running tests, viewing results, and measuring code coverage against the app's source.
+XCTest é o framework da Apple para escrever testes unitários em Swift e Objective-C. Os testes são organizados em subclasses de XCTestCase, e os métodos de teste individuais começam com "test". O XCTest integra-se com o Navegador de Testes do Xcode para executar testes, visualizar resultados e medir a cobertura de código em relação ao código-fonte da aplicação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@XCTest](https://developer.apple.com/documentation/xctest)
+- [@oficial@XCTest](https://developer.apple.com/documentation/xctest)

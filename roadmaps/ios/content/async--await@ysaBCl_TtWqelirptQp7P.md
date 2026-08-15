@@ -1,9 +1,9 @@
 # Async / Await
- 
-Async/await is Swift's built-in structured concurrency model, introduced in Swift 5.5. Async functions can be suspended at await points without blocking a thread, allowing other work to proceed in the meantime. This makes asynchronous code significantly more readable and composable compared to callback and Combine-based approaches.
 
-Visit the following resources to learn more:
+Async/await é o modelo de concorrência estruturada incorporado ao Swift, introduzido no Swift 5.5. Funções async podem ser suspensoas em pontos await sem bloquear uma thread, permitindo que outras tarefas prosseguam enquanto isso. Isso torna o código assíncrono significativamente mais legível e composável em comparação com abordagens baseadas em callbacks e Combine.
 
-- [@article@Async await in Swift explained with code examples](https://www.avanderlee.com/swift/async-await/)
+Acesse os seguintes recursos para saber mais:
+
+- [@article@Async await no Swift explicado com exemplos de código](https://www.avanderlee.com/swift/async-await/)
 - [@article@Swift async await](https://www.hackingwithswift.com/swift/5.5/async-await)
-- [@video@Meet async/await in Swift](https://developer.apple.com/videos/play/wwdc2021/10132/)
+- [@video@Conheça async/await no Swift](https://developer.apple.com/videos/play/wwdc2021/10132/)

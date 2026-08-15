@@ -1,7 +1,7 @@
 # IBOutlets
 
-An outlet is a property of an object that references another object. The reference is archived through Interface Builder. The connections between the containing object and its outlets are reestablished every time the containing object is unarchived from its nib file. The containing object holds an outlet declared as a property with the type qualifier of IBOutlet and a weak option.
+Um outlet é uma propriedade de um objeto que referencia outro objeto. A referência é arquivada através do Interface Builder. As conexões entre o objeto contenedor e seus outlets são reestabelecidas toda vez que o objeto contenedor é desarquivado a partir do arquivo nib.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para saber mais:
 
 - [@official@Outlets](https://developer.apple.com/library/archive/documentation/General/Conceptual/CocoaEncyclopedia/Outlets/Outlets.html)

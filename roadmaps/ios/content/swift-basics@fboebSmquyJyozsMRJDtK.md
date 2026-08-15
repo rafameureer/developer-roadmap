@@ -1,8 +1,8 @@
-# Swift Basics
- 
-Swift basics cover the fundamental syntax and language features needed to write Swift programs. This includes variables, constants, data types, control flow, functions, closures, classes, structs, enums, and optionals. A solid understanding of these basics is required before working with iOS frameworks and APIs.
+# Básicos do Swift
 
-Visit the following resources to learn more:
+Os fundamentos do Swift cobrem a sintaxe e as características de linguagem essenciais necessárias para escrever programas em Swift. Isso inclui variáveis, constantes, tipos de dados, fluxo de controle, funções, fechamentos, classes, structs, enums e opcionais. Uma compreensão sólida desses fundamentos é necessária antes de trabalhar com frameworks e APIs do iOS.
 
-- [@roadmap@Visit the Dedicated Swift & Swift UI Roadmap](https://roadmap.sh/swift-ui)
+Acesse os seguintes recursos para saber mais:
+
+- [@roadmap@Visite o Caminho Dedidado do Swift & SwiftUI](https://roadmap.sh/swift-ui)
 - [@official@Tour of Swift](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour)

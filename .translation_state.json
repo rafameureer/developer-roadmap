@@ -3842,7 +3842,153 @@
     "roadmaps/html/content/video@mWc4HuNQACXGpJjEPa79j.md",
     "roadmaps/html/content/what-are-markup-languages@4gst44L8-ps9YFMHzucfN.md",
     "roadmaps/html/content/what-is-http@nXRjahYSDqfEqY26yfLEt.md",
-    "roadmaps/html/content/what-is-seo@6vGbvRsmQgOpRh8JJ3RF_.md"
+    "roadmaps/html/content/what-is-seo@6vGbvRsmQgOpRh8JJ3RF_.md",
+    "roadmaps/ios/content/accessibility-inspector@h34LaYQ3JYN2AZPMDqpmO.md",
+    "roadmaps/ios/content/accessibility@1DZYPqvgY6GtwMCS7N2y-.md",
+    "roadmaps/ios/content/alamofire@nJeBisdKtN43ntkXnPCVF.md",
+    "roadmaps/ios/content/app-store-distribution@iZAXQKLe2LaIIifVFtFOL.md",
+    "roadmaps/ios/content/arkit@k3uHcF0CsyHr6PK95UwR1.md",
+    "roadmaps/ios/content/async--await@ysaBCl_TtWqelirptQp7P.md",
+    "roadmaps/ios/content/auto-layout@j2BL0sf3WjnJZZWa7cCjy.md",
+    "roadmaps/ios/content/avfoundation@UKgiSQvR9cryQT50t7riZ.md",
+    "roadmaps/ios/content/azure-devops@r3fNx1Hk_TGlQSDtRnXqF.md",
+    "roadmaps/ios/content/basic-interfaces@0o3V_zveN1xCIt7rayrCF.md",
+    "roadmaps/ios/content/basics--creating-animations@w0i5Dxp40XS2HnF5nXeZI.md",
+    "roadmaps/ios/content/benefits-over-objective-c@ZkNulHQAqhiFTO3CRC_mW.md",
+    "roadmaps/ios/content/breakpoints@X0QavvwPVJU6sulafPVUK.md",
+    "roadmaps/ios/content/building-interfaces@YvuYJceeNNfLBpq2-3iiL.md",
+    "roadmaps/ios/content/callback-hell@WhOpzFvv21QQV3aS6XbXr.md",
+    "roadmaps/ios/content/callbacks@qJEd7KU52xL_GRG3IQqhM.md",
+    "roadmaps/ios/content/capturing-values--memory-mgmt@S-D-PnHA7COd2Dp6U2XO4.md",
+    "roadmaps/ios/content/carthage@tIHjjNTXJWcNgkO6TB9ea.md",
+    "roadmaps/ios/content/ci--cd@U4xE1enkZxUME0j0gutae.md",
+    "roadmaps/ios/content/circleci@tWxuFh0xDugdplnHt_G0e.md",
+    "roadmaps/ios/content/closures@M9UlalPL47GoqhcyGsAPV.md",
+    "roadmaps/ios/content/cocoa-touch@leozxW-5fAOfkKbQM4FD1.md",
+    "roadmaps/ios/content/cocoapods@epr1sOEZIAOwlgb8bre7r.md",
+    "roadmaps/ios/content/code-quality-tools@DVe8S6TjKcQ8LT5G-aMVa.md",
+    "roadmaps/ios/content/combine-and-mvvm@pY_zaMcFpeFDLgVk2W0Vy.md",
+    "roadmaps/ios/content/combine@UzpdLLPs226N00c6weWRv.md",
+    "roadmaps/ios/content/components@A1TFKVjGU5RbeTF_zxJlu.md",
+    "roadmaps/ios/content/components@xkH7Llut6uP2-8iTMw76F.md",
+    "roadmaps/ios/content/core-animation@KpcmuLWX0xAjz6ty4ebtB.md",
+    "roadmaps/ios/content/core-animation@_mRs6ctH0IsSSi-cwV2b8.md",
+    "roadmaps/ios/content/core-audio@4bAABCfTvxchS5C5NlAro.md",
+    "roadmaps/ios/content/core-data@H4-Dp2WTA6HAZiFRQdLjx.md",
+    "roadmaps/ios/content/core-graphics@kRE9xT3mT9Si4NwJr9yGi.md",
+    "roadmaps/ios/content/core-image@6zE_M0_oVpwW0B9qFSRgP.md",
+    "roadmaps/ios/content/core-ml@7s9Elv80TbZX_-NZpyutj.md",
+    "roadmaps/ios/content/core-os@IdGdLNgJI3WmONEFsMq-d.md",
+    "roadmaps/ios/content/core-programming-concepts@mk02yV7_XHkgp2xdNIxaU.md",
+    "roadmaps/ios/content/core-services@LHM7gNgTtfn_QDW-oQskD.md",
+    "roadmaps/ios/content/data-binding@yR94uHs0SiSScU4gPBzfr.md",
+    "roadmaps/ios/content/data-persistence@6gfqFy3H6SLt06oJ1kt5A.md",
+    "roadmaps/ios/content/debugging-techniques@OZZ3UnWN2gFflbM_WaJ8H.md",
+    "roadmaps/ios/content/delegate-pattern@BtPYKd7RedHOLRATDKkpg.md",
+    "roadmaps/ios/content/dependency-manager@Tv8-WUcKiZMLHuunQwise.md",
+    "roadmaps/ios/content/dynamic-library@Lrb4HZYrZU7SJlbedZp7U.md",
+    "roadmaps/ios/content/dynamic-type@0nei6iwP4Pgi_j4vVi_Qt.md",
+    "roadmaps/ios/content/editors@-4q7MFXaTmpR_39PTeWD8.md",
+    "roadmaps/ios/content/error-handling@N5ojp6bqgH074MPKYjCHV.md",
+    "roadmaps/ios/content/fastlane@_W3vb0b14FrWB2fH7DHC7.md",
+    "roadmaps/ios/content/file-system@_bkRbqVXKNCnRvEFCM6mN.md",
+    "roadmaps/ios/content/frameworks--library@pZVPsgvCpP3zUgBM4i0CF.md",
+    "roadmaps/ios/content/frameworks@PdzCQXZIivw3zCYPtokJV.md",
+    "roadmaps/ios/content/functional-programming@Pj-hqRZUmwx1WhmTbLoFD.md",
+    "roadmaps/ios/content/gamekit@H5F9P5xeQiHhWhS6jEzp5.md",
+    "roadmaps/ios/content/gcd@aROcI1RucAyu-gHn-tVnj.md",
+    "roadmaps/ios/content/git@QifWR7WSJJTcTK2IfczxG.md",
+    "roadmaps/ios/content/github-actions@LltERZaHsI-R_3O_3twpk.md",
+    "roadmaps/ios/content/github@U_xXGSFF5iibQ4VkzPAWf.md",
+    "roadmaps/ios/content/gitlab@VylaBSDAVFzveVfytI1Fz.md",
+    "roadmaps/ios/content/graphql@9o7d3aN0YFfNNUeVoJrhs.md",
+    "roadmaps/ios/content/groups@42sfiLKrVCcnMMjR7TFn1.md",
+    "roadmaps/ios/content/healthkit@Jsu5f6QASpuvpky_W5q-O.md",
+    "roadmaps/ios/content/hig@1I5eFKqFVBxWLAXfpgNXO.md",
+    "roadmaps/ios/content/history-and-why-swift@z4-1Gc95JKYAn2RPFc7hw.md",
+    "roadmaps/ios/content/http--https@GjY5qCU1rjB0D58qHQtAR.md",
+    "roadmaps/ios/content/ibactions@FspN4yiBF9aEN7_SlXUe1.md",
+    "roadmaps/ios/content/iboutlets@tuUuLInq0p-nhehe2AqPg.md",
+    "roadmaps/ios/content/implementing-delegates@z3AUN9u7EEqeKOqvLxf7D.md",
+    "roadmaps/ios/content/installing@R8LdFpfyS0MFYJuMLk8RG.md",
+    "roadmaps/ios/content/interface-builder@iMzYd8KUFnk6zqr4KecgX.md",
+    "roadmaps/ios/content/interface-overview@FwwqAchMC6qdnXbqg45he.md",
+    "roadmaps/ios/content/keeping-updated-with-wwdc@fOOQurIL1w3PwH5Mep9x1.md",
+    "roadmaps/ios/content/keychain@8v_eP0j85TnB33XyYAzrT.md",
+    "roadmaps/ios/content/latest-ios-sdk@SBlLNfyWzzhdFNtNtkLet.md",
+    "roadmaps/ios/content/latest-swift-version@e7qVpQeu2iQL0c9MOMCVe.md",
+    "roadmaps/ios/content/lottie@i-T6GTqS0FZ_Llt5v4SvR.md",
+    "roadmaps/ios/content/mapkit@XOXsjaQ-YyuAMpVCqH8KG.md",
+    "roadmaps/ios/content/mvc@a-QDI7Ei-B5BRHbicFcfG.md",
+    "roadmaps/ios/content/mvp@lVNrnUK6p4eifKRVSnOje.md",
+    "roadmaps/ios/content/mvvm-c@iLT2jAkQg-Ex0zSLquNfl.md",
+    "roadmaps/ios/content/mvvm@taTxZw2c3xS18JOwgkNHM.md",
+    "roadmaps/ios/content/navigation-controllers-segues@tUbMr1pGlw4JwMuW311JJ.md",
+    "roadmaps/ios/content/navigation-stacks@TLm70PlTI0K3Odn1iYxWX.md",
+    "roadmaps/ios/content/navigation-stacks@mUMDZsgzCB6cs_K6pfUY1.md",
+    "roadmaps/ios/content/navigation-view@IBr2P7dknWTnZ2a-fFCqN.md",
+    "roadmaps/ios/content/navigation@02VAK4GMkN6nDHf1zqwPA.md",
+    "roadmaps/ios/content/navigation@FXUrfyvuIIOH7VDnT_E0z.md",
+    "roadmaps/ios/content/navigationlink@my77jLU2qxU7bQ7_Fx2iH.md",
+    "roadmaps/ios/content/navigators@odKZx4SUULF1y4gmiJZdu.md",
+    "roadmaps/ios/content/networking@JoNoM-utp8MaL1H0oXDta.md",
+    "roadmaps/ios/content/new-feature-announcements@0dbdUmWvTIJ0fkUuLp9gR.md",
+    "roadmaps/ios/content/new-project@BJgoAgH85U6S3RtXq7hHV.md",
+    "roadmaps/ios/content/objective-c-basics@0BSX80W1TJ_Ia_Zh2zKyK.md",
+    "roadmaps/ios/content/objective-c@oOaMz9A5DZvrjxovMztXz.md",
+    "roadmaps/ios/content/observables--observers@k232wKg7XCb_ngjZ5Mwsy.md",
+    "roadmaps/ios/content/oop@FoqlB7xBIrV4yUp4ReBkw.md",
+    "roadmaps/ios/content/operation-queues@mdAV4JlF08q-ZQpb5C3q6.md",
+    "roadmaps/ios/content/operators--pipelines@GAn12SsVR_mPxOaOVckdz.md",
+    "roadmaps/ios/content/operators@t7IYTY8tVjC_xzM1n8wts.md",
+    "roadmaps/ios/content/parsing@UTVh1RHRWb5eA-S7ayLp8.md",
+    "roadmaps/ios/content/preferences@SeGfULWFR7ufdv4U9Db3F.md",
+    "roadmaps/ios/content/profiling-instruments@Y24WWPej0C7-FiBeXpvl3.md",
+    "roadmaps/ios/content/project-files@YytdlQl41yrHSwlV-G3Pd.md",
+    "roadmaps/ios/content/publishers--subscribers@noBaDV_PvCTzqPyw9eO4H.md",
+    "roadmaps/ios/content/pushing-presenting@gqd6zjxP_qFj4Ru-6LARo.md",
+    "roadmaps/ios/content/reactive-programming@28HMXXBJWd3n-ZPgeQRDa.md",
+    "roadmaps/ios/content/rest@3Qw-qmy5iAE61mPbIY4Q2.md",
+    "roadmaps/ios/content/rxswift-with-mvvm@g_1f5a6tIB5V_36NjgtL5.md",
+    "roadmaps/ios/content/rxswift@0xwoWj9jek36p1AwU3WkK.md",
+    "roadmaps/ios/content/schedulers@UqA01PT86_w_JzN6KZBku.md",
+    "roadmaps/ios/content/serializing@8rYjSCgRiJMHTNxOU6vgG.md",
+    "roadmaps/ios/content/simple-ui-building@INYUFVZ-_4htveLZ6EvRu.md",
+    "roadmaps/ios/content/sqlite@3qjQbrCUchJn1bJTBWrQF.md",
+    "roadmaps/ios/content/state-management@RvyOkQelc-GChQGJyEx72.md",
+    "roadmaps/ios/content/static-library@RuXuHQhMt2nywk43LgGeJ.md",
+    "roadmaps/ios/content/stepping@hUHxlNa6iJJbDGdFNhynB.md",
+    "roadmaps/ios/content/storyboards@a2CqrCJSxGfHq6_Y9f_re.md",
+    "roadmaps/ios/content/subjects@1xYZdnlI6JSJzNvmz4-0v.md",
+    "roadmaps/ios/content/swift-basics@fboebSmquyJyozsMRJDtK.md",
+    "roadmaps/ios/content/swift-package-manager@KFkX8_Hv9SCFeCtZMZIQM.md",
+    "roadmaps/ios/content/swift-recommended@KJ7fM-V0_azY_lzmhjJAN.md",
+    "roadmaps/ios/content/swiftformat@TMFvfwG45Z00PzrzZIVhT.md",
+    "roadmaps/ios/content/swiftlint@NnTC3R8goZQTXHmfHKHbM.md",
+    "roadmaps/ios/content/swiftui@PvFp6aY7EUrYHn87RZAGj.md",
+    "roadmaps/ios/content/swiftui@kAIKsDcDzwI1E0wSnC_uo.md",
+    "roadmaps/ios/content/testflight@KCJgCjMJGxIcf13XSEclO.md",
+    "roadmaps/ios/content/toolbar@AxQ5gCjk136kXsbBFTUNp.md",
+    "roadmaps/ios/content/ui-design@4fPgpGwNXmVoZoruBRb_B.md",
+    "roadmaps/ios/content/uikit@-7OW2IgiMk1eot1PaYd7m.md",
+    "roadmaps/ios/content/uikit@pNEE5C1E1wAjH_nTlzH6N.md",
+    "roadmaps/ios/content/understanding-and-using-closures@5V7nxQKmmHWSMSBCRxkaF.md",
+    "roadmaps/ios/content/unit--ui-testing@5589B1DKaCd-9l9DfKH3o.md",
+    "roadmaps/ios/content/urlsession@WPJACNeI6jX9GGB1roeTp.md",
+    "roadmaps/ios/content/user-defaults@ImS1FqVicQImMw-y1ze7y.md",
+    "roadmaps/ios/content/view-transitions@2tmR1yE5daz2HB4IV5qwI.md",
+    "roadmaps/ios/content/view-transitions@cwVcNDTBBulBY2m4Wzn4G.md",
+    "roadmaps/ios/content/viewcontroller-lifecycle@DZaY060-5D6PbfryOZH9H.md",
+    "roadmaps/ios/content/views-and-modifiers@mgUCYztUpKINqIZikT4Bh.md",
+    "roadmaps/ios/content/views-view-controllers@XX5rCd_yTHvOfYif4Kpbl.md",
+    "roadmaps/ios/content/views@se9w7mT1XJLGlmWUhH4Uv.md",
+    "roadmaps/ios/content/viper@mTdnDPGYSDupM9VBNdXRg.md",
+    "roadmaps/ios/content/voice-over@trAMZVA4tDB7b_qAgiWNW.md",
+    "roadmaps/ios/content/xcframework@MaHtZSIPxDzrnB33_9OdV.md",
+    "roadmaps/ios/content/xcode-debugger@WxshXCloVDkVkQV0JvI1w.md",
+    "roadmaps/ios/content/xcode@la5M4VoH79bhnN8qj5Izp.md",
+    "roadmaps/ios/content/xctest@xZmBJVq5FHNdm1BDuZbbS.md",
+    "roadmaps/ios/content/xcuitest@ZQSUKPbXZl5yKra2ap8JR.md"
   ],
   "completed_roadmaps": [
     "frontend-beginner",
@@ -3889,7 +4035,8 @@
     "git-github",
     "golang",
     "graphql",
-    "html"
+    "html",
+    "ios"
   ],
   "flagged_issues": [
     {
@@ -9216,8 +9363,128 @@
       "file": "roadmaps/html/content/whitespaces@IUsaaRxiuOn3y9uYbpsJ0.md",
       "reason": "Falha na tradução automática após tentativas no Ollama",
       "timestamp": "2026-08-15T08:06:59.873519"
+    },
+    {
+      "file": "roadmaps/ios/content/app-store-optimization-aso@jZpH-T2hW-XBdprVqemGi.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T08:07:37.840413"
+    },
+    {
+      "file": "roadmaps/ios/content/architectural-patterns@ajPGMwoaFb1UFWTtpi5kd.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T08:07:39.919135"
+    },
+    {
+      "file": "roadmaps/ios/content/concurrency-and-multithreading@fbloF-u4XwdHLmBS9flZm.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T08:09:23.119581"
+    },
+    {
+      "file": "roadmaps/ios/content/concurrency-gcd-asyncawait@aALIiAxKz4f7B_EYyhBCi.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T08:09:25.333657"
+    },
+    {
+      "file": "roadmaps/ios/content/concurrency@-aLGB3cDXZHIhVU3t-Ve4.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T08:09:29.519106"
+    },
+    {
+      "file": "roadmaps/ios/content/debug-navigator@VuWUsg05WmOoP_RJ5AXJO.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T08:10:32.799635"
+    },
+    {
+      "file": "roadmaps/ios/content/declarative-syntax@QVg4_8EXeQBJbleryy8c1.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T08:10:40.759650"
+    },
+    {
+      "file": "roadmaps/ios/content/interoperability-with-swift@IAPzuN51xvrZJ5TFB23Q9.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T08:12:36.024212"
+    },
+    {
+      "file": "roadmaps/ios/content/ios-architecture@IduGSdUa2Fi7VFMLKgmsS.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T08:12:55.030751"
+    },
+    {
+      "file": "roadmaps/ios/content/jenkins@TrblGyy81Oep2CBxoZkaf.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T08:12:58.844159"
+    },
+    {
+      "file": "roadmaps/ios/content/json--xml@WYV4YG_sLvC4S5ptFFdrF.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T08:13:00.825464"
+    },
+    {
+      "file": "roadmaps/ios/content/media@nGCG74_Xp_Ngt0u7PZnZl.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T08:13:39.072271"
+    },
+    {
+      "file": "roadmaps/ios/content/memory-management@tqbg8mBJfjuXacdMlIB_L.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T08:13:43.886263"
+    },
+    {
+      "file": "roadmaps/ios/content/metal@5VguZoP4h40rTWkxWxaxU.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T08:13:46.301424"
+    },
+    {
+      "file": "roadmaps/ios/content/modals-and-navigation@jb89kQxDhZND3vQo0EH7r.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T08:14:04.127199"
+    },
+    {
+      "file": "roadmaps/ios/content/pick-a-language@MrdIb9F-wSEbUz7KRnH3t.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T08:15:46.664864"
+    },
+    {
+      "file": "roadmaps/ios/content/presenting--dismissing-views@4pmjLa7WvwV7D3RZlM6Hp.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T08:15:56.289082"
+    },
+    {
+      "file": "roadmaps/ios/content/tailor@F5796wzm5Ar6sQt-1y8vH.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T08:17:51.017886"
+    },
+    {
+      "file": "roadmaps/ios/content/tca@NhC0SBZgUFGjMLNICvbTI.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T08:17:55.645353"
+    },
+    {
+      "file": "roadmaps/ios/content/test-plan--coverage@uczkyc30K_qqcarZCGTdF.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T08:17:58.091224"
+    },
+    {
+      "file": "roadmaps/ios/content/user-interactions@GKuxilB0AwjcTgCSk3FeU.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T08:18:48.379747"
+    },
+    {
+      "file": "roadmaps/ios/content/version-control@sGnDm2xuJxqfU3pwmlY7H.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T08:18:52.409969"
+    },
+    {
+      "file": "roadmaps/ios/content/view-controllers@mfWdkUm1RhjygtMyInXiD.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T08:18:55.358006"
+    },
+    {
+      "file": "roadmaps/ios/content/xibs@RwvC4Pi18_1phcrJL-9iu.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T08:20:10.524260"
     }
   ],
-  "last_updated": "2026-08-15T08:06:59.885152",
+  "last_updated": "2026-08-15T08:20:10.535417",
   "total_translated_count": 54
 }

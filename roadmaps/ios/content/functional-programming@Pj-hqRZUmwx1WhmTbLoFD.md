@@ -1,9 +1,9 @@
-# Functional Programming
+# Programação Funcional
 
-Functional programming is a style of programming where code is written using pure functions, avoiding changing state and mutable data. It emphasizes the use of mathematical functions to process data, which leads to more predictable and bug-resistant code. This approach helps in writing concise, readable, and testable code.
+A programação funcional é um estilo de programação onde o código é escrito usando funções puras, evitando mudanças no estado e dados mutáveis. Ela enfatiza o uso de funções matemáticas para processar dados, o que leva a código mais previsível e resistente a erros. Esse abordagem ajuda na escrita de código conciso, legível e testável.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@Functional programming - A general introduction](https://www.youtube.com/watch?v=8z_bUIl_uPo)
-- [@video@Intro to Swift for Functional Programmers](https://www.youtube.com/watch?v=rYC-TnKoi40)
-- [@feed@Explore top posts about Functional Programming](https://app.daily.dev/tags/functional-programming?ref=roadmapsh)
+- [@vídeo@Introdução à programação funcional](https://www.youtube.com/watch?v=8z_bUIl_uPo)
+- [@vídeo@Introdução ao Swift para programadores funcionais](https://www.youtube.com/watch?v=rYC-TnKoi40)
+- [@feed@Explore as melhores postagens sobre Programação Funcional](https://app.daily.dev/tags/functional-programming?ref=roadmapsh)

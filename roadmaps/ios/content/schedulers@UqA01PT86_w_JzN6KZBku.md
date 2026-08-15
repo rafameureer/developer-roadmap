@@ -1,9 +1,9 @@
 # Schedulers
  
-Schedulers in RxSwift control on which thread or queue Observable work executes. MainScheduler runs work on the main thread for UI updates, while ConcurrentDispatchQueueScheduler and SerialDispatchQueueScheduler run work on background queues. The observeOn and subscribeOn operators specify which scheduler handles observation and subscription respectively.
+Schedulers no RxSwift controlam em qual thread ou fila a trabalho dos Observables é executado. MainScheduler executa o trabalho na thread principal para atualizações de UI, enquanto ConcurrentDispatchQueueScheduler e SerialDispatchQueueScheduler executam o trabalho nas filas de fundo. Os operadores observeOn e subscribeOn especificam respectivamente quais schedulers lidam com a observação e a assinatura.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@ReactiveX Scheduler Documentation](https://reactivex.io/documentation/scheduler.html)
-- [@opensource@RxSwift Scheduler Documentation](https://github.com/ReactiveX/RxSwift/blob/main/Documentation/Schedulers.md)
-- [@article@RxSwift Schedulers](https://docs.rxswift.org/rxswift/schedulers)
+- [@official@Documentação Scheduler ReactiveX](https://reactivex.io/documentation/scheduler.html)
+- [@opensource@Documentação Scheduler RxSwift](https://github.com/ReactiveX/RxSwift/blob/main/Documentation/Schedulers.md)
+- [@article@Schedulers no RxSwift](https://docs.rxswift.org/rxswift/schedulers)

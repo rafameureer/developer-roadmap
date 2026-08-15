@@ -1,3 +1,3 @@
-# Debugging Techniques
- 
-Debugging in iOS involves identifying and resolving issues in app behavior, performance, and memory. Xcode provides a built-in debugger with breakpoints and variable inspection, and Instruments provides deep profiling for CPU, memory, energy, and network usage.
+# Técnicas de Depuração
+
+A depuração no iOS envolve identificar e resolver problemas no comportamento, desempenho e memória da aplicação. O Xcode oferece um depurador integrado com pontos de interrupção e inspeção de variáveis, enquanto as Ferramentas (Instruments) fornecem profissionais em profundidade para CPU, memória, energia e uso de rede.

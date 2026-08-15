@@ -1,8 +1,8 @@
-# Dynamic Library
+# Biblioteca Dinâmica
  
-A dynamic library is a compiled binary loaded into memory at runtime rather than being embedded in the app binary at link time. On iOS, third-party dynamic libraries must be bundled inside the app's framework folder. Dynamic frameworks allow code and resources to be shared between an app and its extensions.
+Uma biblioteca dinâmica é um binário compilado carregado em memória em tempo de execução, em vez de ser incorporada no binário da aplicação durante o link. No iOS, as bibliotecas dinâmicas de terceiros devem ser empacotadas dentro da pasta do framework da aplicação. Os frameworks dinâmicos permitem que código e recursos sejam compartilhados entre uma aplicação e suas extensões.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Overview of Dynamic Libraries](https://developer.apple.com/library/archive/documentation/DeveloperTools/Conceptual/DynamicLibraries/100-Articles/OverviewOfDynamicLibraries.html)
-- [@article@Static Library vs Dynamic Library in iOS](https://pratheeshbennet.medium.com/static-library-vs-dynamic-library-in-ios-55478ed53a03)
+- [@oficial@Visão Geral de Bibliotecas Dinâmicas](https://developer.apple.com/library/archive/documentation/DeveloperTools/Conceptual/DynamicLibraries/100-Articles/OverviewOfDynamicLibraries.html)
+- [@artigo@Biblioteca Estática vs Biblioteca Dinâmica no iOS](https://pratheeshbennet.medium.com/static-library-vs-dynamic-library-in-ios-55478ed53a03)

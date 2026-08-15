@@ -1,9 +1,9 @@
 # GitHub
 
-GitHub is a web-based platform that uses Git for version control and collaboration. It provides a centralized repository for hosting and managing Git repositories, allowing developers to share their code, collaborate on projects, and track issues.
+GitHub é uma plataforma baseada na web que usa Git para controle de versão e colaboração. Ele fornece um repositório centralizado para hospedar e gerenciar repositórios Git, permitindo que os desenvolvedores compartilhem seu código, colaborem em projetos e rastreiem problemas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@GitHub Docs](https://docs.github.com/en)
-- [@article@What is GitHub](https://blog.hubspot.com/website/what-is-github-used-for)
-- [@video@How to Use GitHub](https://www.youtube.com/watch?v=v_1iqtOnUMg)
+- [@official@Documentação do GitHub](https://docs.github.com/en)
+- [@article@O que é o GitHub](https://blog.hubspot.com/website/what-is-github-used-for)
+- [@video@Como usar o GitHub](https://www.youtube.com/watch?v=v_1iqtOnUMg)

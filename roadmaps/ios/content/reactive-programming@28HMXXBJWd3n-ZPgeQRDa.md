@@ -1,8 +1,8 @@
-# Reactive Programming
+# Programação Reativa
 
-Reactive Programming is a declarative programming paradigm focused on data streams and the propagation of change. It emphasizes the automatic distribution of changes through data flows. Key concepts include observable streams of data, operators to transform and combine streams, and subscribers that react to stream changes. This approach allows for handling asynchronous data flows, managing complex event sequences, and building responsive user interfaces. In iOS development, frameworks like Combine (Apple's native solution) and RxSwift implement reactive principles.
+A Programação Reativa é um paradigma de programação declarativa focado em fluxos de dados e a propagação de mudanças. Ela enfatiza a distribuição automática de mudanças através dos fluxos de dados. Conceitos-chave incluem fluxos observáveis de dados, operadores para transformar e combinar fluxos, e assinantes que reagem às mudanças nos fluxos. Este abordagem permite lidar com fluxos de dados assíncronos, gerenciar sequências complexas de eventos e construir interfaces do usuário respondentes. No desenvolvimento iOS, frameworks como Combine (a solução nativa da Apple) e RxSwift implementam princípios reativos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is reactive programming?](https://www.baeldung.com/cs/reactive-programming#:~:text=Reactive%20programming%20is%20a%20declarative,or%20reactive%20systems%20in%20general.)
-- [@video@What is reactive programming?](https://www.youtube.com/watch?v=X-DeG_uGFUU)
+- [@article@O que é programação reativa?](https://www.baeldung.com/cs/reactive-programming#:~:text=Reactive%20programming%20is%20a%20declarative,or%20reactive%20systems%20in%20general.)
+- [@video@O que é programação reativa?](https://www.youtube.com/watch?v=X-DeG_uGFUU)

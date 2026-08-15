@@ -1,9 +1,9 @@
 # VIPER
  
-VIPER is an architectural pattern that divides app code into five distinct components: View, Interactor, Presenter, Entity, and Router. Each component has a single, clearly defined responsibility, making the codebase highly modular and testable. VIPER is commonly used in large iOS projects where strict separation of concerns is a priority.
+O VIPER é um padrão arquitetônico que divide o código da aplicação em cinco componentes distintos: View, Interactor, Presenter, Entity e Router. Cada componente tem uma única e claramente definida responsabilidade, tornando a base de código altamente modular e testável. O VIPER é comumente usado em grandes projetos iOS onde uma separação estrita dos conceitos é prioridade.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@article@Understanding VIPER Architecture](https://medium.com/@pinarkocak/understanding-viper-pattern-619fa9a0b1f1)
-- [@article@Getting Started with the VIPER Architecture Pattern for iOS Application Development](https://dev.to/marwan8/getting-started-with-the-viper-architecture-pattern-for-ios-application-development-2oee)
-- [@video@Swift: VIPER Design Pattern](https://www.youtube.com/watch?v=hFLdbWEE3_Y)
+- [@article@Entendendo o Padrão VIPER](https://medium.com/@pinarkocak/understanding-viper-pattern-619fa9a0b1f1)
+- [@article@Começando com o Padrão VIPER para Desenvolvimento de Aplicativos iOS](https://dev.to/marwan8/getting-started-with-the-viper-architecture-pattern-for-ios-application-development-2oee)
+- [@video@Swift: Padrão VIPER Design](https://www.youtube.com/watch?v=hFLdbWEE3_Y)

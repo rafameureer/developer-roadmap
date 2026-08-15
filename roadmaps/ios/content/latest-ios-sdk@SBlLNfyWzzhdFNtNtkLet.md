@@ -1,7 +1,7 @@
-# Latest iOS SDK
- 
-The iOS SDK is updated each year with new APIs, deprecated frameworks, and changes to system behavior. New SDK features are announced at WWDC and documented in the release notes. Adopting the latest SDK allows apps to use new platform capabilities and ensures compliance with evolving App Store requirements.
+# Última Versão do SDK do iOS
 
-Visit the following resources to learn more:
+O SDK do iOS é atualizado anualmente com novas APIs, frameworks descontinuados e alterações no comportamento do sistema. Novos recursos do SDK são anunciados na WWDC e documentados nas notas de lançamento. Adotar a última versão do SDK permite que os aplicativos usem novas capacidades da plataforma e garanta conformidade com as exigências em evolução do App Store.
 
-- [@official@Apple Developer Website](https://developer.apple.com/develop/)
+Acesse os seguintes recursos para saber mais:
+
+- [@oficial@Site do Desenvolvedor da Apple](https://developer.apple.com/develop/)

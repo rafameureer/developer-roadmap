@@ -1,8 +1,8 @@
 # Core Audio
 
-Core Audio is a low-level framework in iOS designed for handling audio. It provides developers with advanced capabilities for recording, processing, playing back, and streaming audio. Core Audio supports various audio formats and offers precise control over audio data, enabling tasks such as real-time audio manipulation, audio mixing, and effects processing. With its high-performance and low-latency features, Core Audio is ideal for professional audio applications and complex audio signal processing tasks.
+Core Audio é um framework de nível baixo no iOS projetado para lidar com áudio. Ele fornece aos desenvolvedores capacidades avançadas para gravar, processar, reproduzir e transmitir áudio. O Core Audio suporta vários formatos de áudio e oferece controle preciso sobre os dados de áudio, permitindo tarefas como manipulação de áudio em tempo real, mistura de áudio e processamento de efeitos. Com suas características de alto desempenho e baixa latência, o Core Audio é ideal para aplicativos profissionais de áudio e tarefas complexas de processamento de sinais de áudio.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Core Audio Documentation](https://developer.apple.com/documentation/coreaudio)
-- [@article@Working with Core Audio](https://medium.com/@ios_guru/core-audio-for-working-with-audio-7c293382ffca)
+- [@official@Documentação do Core Audio](https://developer.apple.com/documentation/coreaudio)
+- [@article@Trabalhando com o Core Audio](https://medium.com/@ios_guru/core-audio-for-working-with-audio-7c293382ffca)

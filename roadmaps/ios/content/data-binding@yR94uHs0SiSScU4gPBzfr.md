@@ -1,10 +1,10 @@
-# Data binding
+# Ligação de Dados
 
-SwiftUI data binding is a mechanism that creates a two-way connection between a piece of data and a UI element. It uses the `@Binding` property wrapper to allow child views to share and modify data owned by parent views. Bindings ensure that changes in data are immediately reflected in the UI and vice versa. They are typically created using the `$` prefix on a `@State` property. This approach facilitates the flow of data through an app's view hierarchy, enabling reactive UI updates and maintaining a single source of truth.
+A ligação de dados do SwiftUI é um mecanismo que cria uma conexão bidirecional entre um pedaço de dados e um elemento da interface do usuário. Ele usa o wrapper de propriedade `@Binding` para permitir que as exibições filhas compartilhem e modifiquem dados proprietários das exibições pai. As vinculações garantem que alterações em dados sejam refletidas imediatamente na interface do usuário e vice-versa. Eles são geralmente criados usando o prefixo `$` em uma propriedade `@State`. Este abordagem facilita a circulação de dados através da hierarquia de exibições de um aplicativo, permitindo atualizações reativas da interface do usuário e mantendo uma única fonte de verdade.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Binding](https://developer.apple.com/documentation/swiftui/binding)
-- [@official@Apple Tutorials: Passing data with bindings](https://developer.apple.com/tutorials/app-dev-training/passing-data-with-bindings)
-- [@video@How to use @Binding property wrapper in SwiftUI](https://www.youtube.com/watch?v=btDMzB5x2Gs)
-- [@video@SwiftUI - @Binding Property Wrapper Explained](https://www.youtube.com/watch?v=lgtB3WLEOYg)
+- [@oficial@Ligação](https://developer.apple.com/documentation/swiftui/binding)
+- [@oficial@Tutoriais da Apple: Passando dados com vinculações](https://developer.apple.com/tutorials/app-dev-training/passing-data-with-bindings)
+- [@vídeo@Como usar o wrapper de propriedade @Binding no SwiftUI](https://www.youtube.com/watch?v=btDMzB5x2Gs)
+- [@vídeo@SwiftUI - Explicação do Wrapper de Propriedade @Binding](https://www.youtube.com/watch?v=lgtB3WLEOYg)

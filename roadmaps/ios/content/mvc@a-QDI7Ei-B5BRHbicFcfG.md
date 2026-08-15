@@ -1,9 +1,9 @@
 # MVC
  
-MVC (Model-View-Controller) is the architectural pattern used by UIKit and historically recommended by Apple for iOS apps. The Model holds data and business logic, the View displays content, and the Controller mediates between them. In practice, UIKit view controllers tend to accumulate too much responsibility, a problem known as Massive View Controller.
+MVC (Model-View-Controller) é o padrão arquitetônico usado por UIKit e historicamente recomendado pela Apple para aplicativos iOS. O Model armazena dados e lógica de negócios, a View exibe conteúdo, e o Controller mediate entre eles. Na prática, os controladores de visualização do UIKit tendem a acumular muito de responsabilidade, um problema conhecido como Controlador de Visualização Massiva.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Model-View-Controller](https://developer.apple.com/library/archive/documentation/General/Conceptual/DevPedia-CocoaCore/MVC.html)
-- [@article@Model-View-Controller](https://developer.apple.com/library/archive/documentation/General/Conceptual/CocoaEncyclopedia/Model-View-Controller/Model-View-Controller.html)
-- [@article@MVC in iOS – A Modern Approach](https://www.kodeco.com/1000705-model-view-controller-mvc-in-ios-a-modern-approach)
+- [@artigo@Model-View-Controller](https://developer.apple.com/library/archive/documentation/General/Conceptual/DevPedia-CocoaCore/MVC.html)
+- [@artigo@Model-View-Controller](https://developer.apple.com/library/archive/documentation/General/Conceptual/CocoaEncyclopedia/Model-View-Controller/Model-View-Controller.html)
+- [@artigo@MVC em iOS – Uma Abordagem Moderna](https://www.kodeco.com/1000705-model-view-controller-mvc-in-ios-a-modern-approach)

@@ -1,8 +1,8 @@
 # Core ML
 
-Use `Core ML` to integrate machine learning models into your app. Core ML provides a unified representation for all models. Your app uses Core ML APIs and user data to make predictions, and to train or fine-tune models, all on a person’s device.
+Use `Core ML` para integrar modelos de aprendizado de máquina em seu aplicativo. O Core ML fornece uma representação unificada para todos os modelos. Seu aplicativo usa APIs do Core ML e dados do usuário para fazer previsões, treinar ou ajustar modelos, tudo na própria dispositivo do usuário.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Core ML](https://developer.apple.com/documentation/coreml/)
-- [@official@Create machine learning models for use in your app.](https://developer.apple.com/machine-learning/create-ml/)
+- [@official@Criar modelos de aprendizado de máquina para uso em seu aplicativo.](https://developer.apple.com/machine-learning/create-ml/)

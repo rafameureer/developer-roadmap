@@ -1,8 +1,8 @@
 # Core Animation
 
-Core Animation is a robust animation framework in iOS that enables developers to create smooth and visually engaging animations. It provides a simple yet powerful API for animating views and other visual elements, allowing for complex motion effects with minimal code. Core Animation handles the rendering and compositing of animated content efficiently, ensuring high performance and fluid user experiences in applications.
+Core Animation é um robusto framework de animação no iOS que permite aos desenvolvedores criar animações suaves e visualmente envolventes. Ele fornece uma API simples mas poderosa para animar exibições e outros elementos visuais, permitindo efeitos de movimento complexos com pouco código. Core Animation lida eficientemente com o renderizado e composição do conteúdo animado, garantindo desempenho alto e experiências de usuário fluidas em aplicativos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Core Animation Documentation](https://developer.apple.com/documentation/quartzcore)
-- [@video@Introduction to Core Animation](https://www.youtube.com/watch?v=93bfh3GK79s)
+- [@official@Documentação do Core Animation](https://developer.apple.com/documentation/quartzcore)
+- [@video@Introdução ao Core Animation](https://www.youtube.com/watch?v=93bfh3GK79s)

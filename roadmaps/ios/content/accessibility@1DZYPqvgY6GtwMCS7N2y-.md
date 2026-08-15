@@ -1,7 +1,7 @@
-# Accessibility
+# Acessibilidade
 
-With built-in accessibility features, accessibility APIs, and developer tools, Apple operating systems provide extraordinary opportunities to deliver high-quality experiences to everyone, including people with disabilities. Take advantage of VoiceOver — the revolutionary screen reader for blind and low-vision users — Music Haptics, Switch Control, Guided Access, Text to Speech, closed‑captioned or audio‑described video, and more.
+Com recursos de acessibilidade embutidos, APIs de acessibilidade e ferramentas de desenvolvedor, os sistemas operacionais da Apple oferecem oportunidades excepcionais para entregar experiências de alta qualidade a todos, incluindo pessoas com deficiência. Explore VoiceOver — o leitor de tela revolucionário para usuários cegos e com visão reduzida — Haptics de Música, Controle de Troca, Acesso Guiado, Fala em Texto, vídeo legendado ou descrito por áudio, e muito mais.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Accessibility](https://developer.apple.com/accessibility/)
+- [@official@Acessibilidade](https://developer.apple.com/accessibility/)

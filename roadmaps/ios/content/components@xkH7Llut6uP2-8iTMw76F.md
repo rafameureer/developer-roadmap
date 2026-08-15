@@ -1,9 +1,9 @@
-# Components
+# Componentes
 
-Components are built by composing primitive views like Text, Image, and Button, along with container views such as VStack and HStack. They can accept parameters for customization and use `@State` and `@Binding` for internal state management and data flow. SwiftUI's modifiers allow for styling and behavior adjustments. Components can be extracted into separate files for reusability across the app. This approach encourages a modular design, improving code organization and maintainability.
+Os componentes são construídos compõendo exibições primitivas como Text, Image e Button, juntamente com exibições de contêiner como VStack e HStack. Eles podem aceitar parâmetros para personalização e usar `@State` e `@Binding` para gerenciamento interno do estado e fluxo de dados. Os modificadores do SwiftUI permitem ajustes de estilo e comportamento. Componentes podem ser extraídos em arquivos separados para reutilização em toda a aplicação. Esse abordagem encoraja um design modular, melhorando a organização e manutenção do código.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@Building Reusable SwiftUI Components](https://peterfriese.github.io/Building-SwiftUI-Components-Tutorial/tutorials/tutorial-table-of-contents/)
-- [@article@SwiftUI Components](https://designcode.io/swiftui-handbook-components)
-- [@video@Building SwiftUI Components](https://www.youtube.com/playlist?list=PLsnLd2esiGRTfzn8pq4ZMYyDsL8GEMZO8)
+- [@course@Construindo Componentes SwiftUI Reutilizáveis](https://peterfriese.github.io/Building-SwiftUI-Components-Tutorial/tutorials/tutorial-table-of-contents/)
+- [@article@Componentes SwiftUI](https://designcode.io/swiftui-handbook-components)
+- [@video@Construindo Componentes SwiftUI](https://www.youtube.com/playlist?list=PLsnLd2esiGRTfzn8pq4ZMYyDsL8GEMZO8)

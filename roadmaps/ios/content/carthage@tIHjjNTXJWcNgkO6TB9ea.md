@@ -1,8 +1,8 @@
 # Carthage
- 
-Carthage is a decentralized dependency manager for iOS and macOS that builds frameworks from source and links them manually into the project. Unlike CocoaPods, Carthage does not modify the Xcode project file, giving developers full control over integration. Carthage has become less common as Swift Package Manager has matured.
 
-Visit the following resources to learn more:
+Carthage é um gerenciador de dependências descentralizado para iOS e macOS que constrói frameworks a partir do código-fonte e os vincula manualmente ao projeto. Diferentemente dos CocoaPods, o Carthage não modifica o arquivo do projeto Xcode, dando aos desenvolvedores controle total sobre a integração. O Carthage tem se tornado menos comum à medida que o Swift Package Manager maturou.
 
-- [@course@Carthage - Getting Started](https://www.kodeco.com/7649117-carthage-tutorial-getting-started)
+Acesse os seguintes recursos para saber mais:
+
+- [@curso@Carthage - Introdução](https://www.kodeco.com/7649117-carthage-tutorial-getting-started)
 - [@opensource@carthage/carthage](https://github.com/Carthage/Carthage)

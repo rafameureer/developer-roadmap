@@ -1,9 +1,9 @@
-# Editors
- 
-Xcode provides different editor modes depending on the file being viewed. The standard editor shows a single file, the assistant editor displays two files side by side, and the version editor shows Git history for the current file. The editor area also hosts Interface Builder when a Storyboard or XIB file is open.
+# Editores
 
-Visit the following resources to learn more:
+O Xcode fornece diferentes modos de editor dependendo do arquivo sendo visualizado. O editor padrão exibe um único arquivo, o editor assistente exibe dois arquivos lado a lado e o editor de versões mostra o histórico Git para o arquivo atual. A área do editor também hospeda Interface Builder quando um arquivo Storyboard ou XIB está aberto.
 
-- [@official@Creating a source editor extension](https://developer.apple.com/documentation/xcodekit/creating-a-source-editor-extension)
-- [@official@Source Editor](https://developer.apple.com/documentation/xcode/source-editor)
-- [@official@Creating a Core Data Model](https://developer.apple.com/documentation/coredata/creating_a_core_data_model)
+Acesse os seguintes recursos para saber mais:
+
+- [@oficial@Criando uma extensão de editor de código-fonte](https://developer.apple.com/documentation/xcodekit/creating-a-source-editor-extension)
+- [@oficial@Editor de Código Fonte](https://developer.apple.com/documentation/xcode/source-editor)
+- [@oficial@Criando um Modelo Core Data](https://developer.apple.com/documentation/coredata/creating_a_core_data_model)

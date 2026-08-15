@@ -1,3 +1,3 @@
-# Interface overview
- 
-The Xcode interface is organized into a navigator panel on the left, an editor area in the center, an inspector panel on the right, and a debug area at the bottom. The toolbar at the top provides controls for running, stopping, and switching build schemes. Understanding the layout helps developers move efficiently across code, assets, and project settings.
+# Visão geral da interface
+
+A interface do Xcode é organizada em um painel de navegação à esquerda, uma área de edição no centro, um painel de inspetor à direita e uma área de depuração na parte inferior. A barra de ferramentas no topo fornece controles para executar, parar e alternar entre esquemas de construção. Entender a disposição ajuda os desenvolvedores a se mover eficientemente entre o código, ativos e configurações do projeto.

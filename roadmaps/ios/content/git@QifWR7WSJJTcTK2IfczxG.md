@@ -1,10 +1,10 @@
 # Git
 
-Git is a distributed version control system **(VCS)** used to track changes in source code during software development. It allows multiple developers to collaborate on a project by managing different versions of the code, enabling them to work on separate branches, merge changes, and keep a complete history of modifications.
+Git é um sistema de controle de versão distribuído **(VCS)** usado para rastrear alterações no código-fonte durante o desenvolvimento de software. Ele permite que múltiplos desenvolvedores colaborem em um projeto gerenciando diferentes versões do código, permitindo-lhes trabalhar em ramificações separadas, mesclar alterações e manter uma história completa das modificações.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit Dedicated Git & GitHub Roadmap](https://roadmap.sh/git-github)
-- [@course@Why use Git? (Interactive Lesson)](https://inter-git.com/lessons/introduction)
-- [@article@Git by Example - Learn Version Control with Bite-sized Lessons](https://antonz.org/git-by-example/)
-- [@video@Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=vA5TTz6BXhY)
+- [@roadmap@Visite a Roadmap dedicada a Git & GitHub](https://roadmap.sh/git-github)
+- [@course@Por que usar Git? (Aula Interativa)](https://inter-git.com/lessons/introduction)
+- [@article@Git by Example - Aprenda Controle de Versão com Lições em Portas](https://antonz.org/git-by-example/)
+- [@video@Crash Course em Git & GitHub para Iniciantes](https://www.youtube.com/watch?v=vA5TTz6BXhY)

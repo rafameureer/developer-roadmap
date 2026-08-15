@@ -1,7 +1,7 @@
-# Core Services
- 
-Core Services is the second layer of the iOS architecture and provides fundamental system capabilities that apps depend on. It includes frameworks for networking, file access, data management, location, and iCloud. Higher-level frameworks in Cocoa Touch build on Core Services internally.
+# Serviços de Núcleo
 
-Visit the following resources to learn more:
+Os Serviços de Núcleo é a segunda camada da arquitetura do iOS e fornece capacidades de sistema fundamentais que as aplicações dependem. Ele inclui frameworks para rede, acesso a arquivos, gerenciamento de dados, localização e iCloud. Frameworks de nível superior em Cocoa Touch construem sobre os Serviços de Núcleo internamente.
 
-- [@article@Core Services Layer Overview](https://developer.apple.com/documentation/coreservices)
+Acesse os seguintes recursos para saber mais:
+
+- [@artigo@Visão Geral da Camada de Serviços de Núcleo](https://developer.apple.com/documentation/coreservices)

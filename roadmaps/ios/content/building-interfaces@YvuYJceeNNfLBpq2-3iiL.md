@@ -1,9 +1,9 @@
-# Building Interfaces
+# Construindo Interfaces
  
-Building interfaces in SwiftUI involves composing views using container types. VStack arranges views vertically, HStack arranges them horizontally, and ZStack layers them. The declarative approach means the layout is described statically and SwiftUI handles rendering and updates as state changes.
+A construção de interfaces em SwiftUI envolve a composição de exibições usando tipos de contêiner. VStack organiza as exibições verticalmente, HStack horizontalmente e ZStack empilha-as. O abordagem declarativa significa que o layout é descrito estáticamente e SwiftUI lida com o renderizado e as atualizações conforme o estado muda.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@ZStack](https://developer.apple.com/documentation/swiftui/zstack)
-- [@official@VStack](https://developer.apple.com/documentation/swiftui/vstack)
-- [@official@HStack](https://developer.apple.com/documentation/swiftui/hstack)
+- [@oficial@ZStack](https://developer.apple.com/documentation/swiftui/zstack)
+- [@oficial@VStack](https://developer.apple.com/documentation/swiftui/vstack)
+- [@oficial@HStack](https://developer.apple.com/documentation/swiftui/hstack)

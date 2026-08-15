@@ -1,8 +1,8 @@
 # IBActions
- 
-IBActions connect UI controls in Interface Builder to methods in code that run when a user interacts with a control. Declaring a method with @IBAction allows it to be wired to a button, gesture recognizer, or other control in a Storyboard or XIB. When the user triggers the control, UIKit calls the connected method.
 
-Visit the following resources to learn more:
+IBActions conectam controles de interface no Interface Builder a métodos em código que são executados quando um usuário interage com um controle. Declarar um método com @IBAction permite que ele seja ligado a um botão, reconhecedor de gesto ou outro controle em um Storyboard ou XIB. Quando o usuário dispara o controle, UIKit chama o método conectado.
 
-- [@article@From outlets to actions: creating an IBAction](https://www.hackingwithswift.com/read/2/5/from-outlets-to-actions-creating-an-ibaction)
+Acesse os seguintes recursos para saber mais:
+
+- [@article@De outlets a actions: criando um IBAction](https://www.hackingwithswift.com/read/2/5/from-outlets-to-actions-creating-an-ibaction)
 - [@video@IBOutlet & IBAction](https://www.youtube.com/watch?v=ztPpThdBHT0)

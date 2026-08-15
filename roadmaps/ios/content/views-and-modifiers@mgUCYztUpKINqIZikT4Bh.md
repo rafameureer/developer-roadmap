@@ -1,10 +1,10 @@
-# Views and Modifiers
- 
-SwiftUI views are lightweight structs that describe a piece of UI. Modifiers are methods called on views that return a new, modified version, allowing chaining. Common modifiers include padding, frame, background, foregroundStyle, and font. Building layouts by composing views and chaining modifiers is the primary pattern in SwiftUI development.
+# Views e Modificadores
 
-Visit the following resources to learn more:
+As views em SwiftUI são estruturas leves que descrevem uma peça da interface do usuário. Os modificadores são métodos chamados em views que retornam uma nova versão modificada, permitindo encadeamento. Modificadores comuns incluem padding, frame, background, foregroundStyle e font. A construção de layouts por meio da composição de views e encadeamento de modificadores é o padrão principal na desenvolvimento de SwiftUI.
 
-- [@official@Views and modifiers: Documentation](https://developer.apple.com/documentation/swiftui/viewmodifier)
+Acesse os seguintes recursos para saber mais:
+
+- [@official@Views and modifiers: Documentação](https://developer.apple.com/documentation/swiftui/viewmodifier)
 - [@official@Apple Tutorials: Views - Using stacks to arrange views](https://developer.apple.com/tutorials/app-dev-training/using-stacks-to-arrange-views)
 - [@official@Apple Tutorials: Views - Creating a card view](https://developer.apple.com/tutorials/app-dev-training/creating-a-card-view)
-- [@article@Views and modifiers: Introduction](https://www.hackingwithswift.com/books/ios-swiftui/views-and-modifiers-introduction)
+- [@article@Views and modifiers: Introdução](https://www.hackingwithswift.com/books/ios-swiftui/views-and-modifiers-introduction)

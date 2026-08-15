@@ -1,10 +1,10 @@
-# State Management
- 
-State management in SwiftUI determines where data lives and how it flows through the view hierarchy. @State handles local view state, @StateObject owns an observable object, @ObservedObject observes an externally owned object, and @EnvironmentObject injects shared data across the hierarchy. Choosing the right property wrapper keeps the app's data flow predictable and organized.
+# Gerenciamento de Estado
 
-Visit the following resources to learn more:
+O gerenciamento de estado no SwiftUI determina onde os dados residem e como eles fluem pela hierarquia de exibição. @State lida com o estado local da exibição, @StateObject possui um objeto observável, @ObservedObject observa um objeto externamente proprietário e @EnvironmentObject injeta dados compartilhados na hierarquia. Escolher o wrapper de propriedade certo mantém a previsibilidade e organização do fluxo de dados da aplicação.
 
-- [@official@Managing user interface state](https://developer.apple.com/documentation/swiftui/managing-user-interface-state)
-- [@official@Apple Tutorials: State Management - Making classes observable](https://developer.apple.com/tutorials/app-dev-training/making-classes-observable)
-- [@official@Apple Tutorials: State Management - Responding to events](https://developer.apple.com/tutorials/app-dev-training/responding-to-events)
-- [@official@Apple Tutorials: State Management - Managing state and life cycle](https://developer.apple.com/tutorials/app-dev-training/managing-state-and-life-cycle)
+Acesse os seguintes recursos para saber mais:
+
+- [@official@Gerenciando o estado da interface do usuário](https://developer.apple.com/documentation/swiftui/managing-user-interface-state)
+- [@official@Tutoriais da Apple: Gerenciamento de Estado - Tornando as classes observáveis](https://developer.apple.com/tutorials/app-dev-training/making-classes-observable)
+- [@official@Tutoriais da Apple: Gerenciamento de Estado - Respondendo a eventos](https://developer.apple.com/tutorials/app-dev-training/responding-to-events)
+- [@official@Tutoriais da Apple: Gerenciamento de Estado - Gerenciando estado e ciclo de vida](https://developer.apple.com/tutorials/app-dev-training/managing-state-and-life-cycle)

@@ -1,8 +1,8 @@
-# View Transitions
+# Transições de Vista
  
-View transitions in SwiftUI animate changes in the view hierarchy when views appear or disappear. The transition modifier specifies how a view enters and exits the screen using effects like slide, opacity, scale, and move. Combined with animation, transitions make state changes and navigation feel smooth and polished.
+As transições de vista em SwiftUI animam as alterações na hierarquia de exibição quando as vistas aparecem ou desaparecem. O modificador de transição especifica como uma vista entra e sai da tela usando efeitos como slide, opacidade, escala e movimento. Combinado com a animação, as transições tornam as mudanças de estado e a navegação suaves e polidas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@Animating views and transitions](https://developer.apple.com/tutorials/swiftui/animating-views-and-transitions)
-- [@article@How to add and remove views with a transition](https://www.hackingwithswift.com/quick-start/swiftui/how-to-add-and-remove-views-with-a-transition)
+- [@curso@Animando vistas e transições](https://developer.apple.com/tutorials/swiftui/animating-views-and-transitions)
+- [@artigo@Como adicionar e remover vistas com uma transição](https://www.hackingwithswift.com/quick-start/swiftui/how-to-add-and-remove-views-with-a-transition)

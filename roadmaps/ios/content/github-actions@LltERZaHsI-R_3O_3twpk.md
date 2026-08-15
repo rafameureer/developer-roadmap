@@ -1,9 +1,9 @@
 # GitHub Actions
  
-GitHub Actions provides CI/CD automation directly within GitHub repositories. For iOS development, it uses macOS runners with Xcode installed to build apps, run tests, and trigger Fastlane workflows. Pipelines are defined in YAML workflow files and triggered by events like pull requests and pushes to main.
+GitHub Actions oferece automação de CI/CD diretamente dentro dos repositórios do GitHub. Para o desenvolvimento iOS, ele usa executores macOS com Xcode instalado para construir aplicativos, executar testes e disparar workflows do Fastlane. As pipelines são definidas em arquivos de fluxo de trabalho YAML e acionadas por eventos como solicitações de pull e pushes para main.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@GitHub Actions Documentation](https://docs.github.com/en/actions)
-- [@article@How to build an iOS app with GitHub Actions](https://www.andrewhoog.com/post/how-to-build-an-ios-app-with-github-actions-2023/)
-- [@video@How to build an iOS app with GitHub Actions](https://www.youtube.com/watch?v=Sd7YhlxZrJw)
+- [@official@Documentação GitHub Actions](https://docs.github.com/en/actions)
+- [@article@Como construir um aplicativo iOS com GitHub Actions](https://www.andrewhoog.com/post/how-to-build-an-ios-app-with-github-actions-2023/)
+- [@video@Como construir um aplicativo iOS com GitHub Actions](https://www.youtube.com/watch?v=Sd7YhlxZrJw)

@@ -1,7 +1,7 @@
 # HIG
 
-Human Interface Guidelines (HIG) by Apple are a set of recommendations and best practices for creating user interfaces on Apple devices. These guidelines help developers and designers create applications and interfaces that provide a high-quality experience and consistency with the Apple ecosystem.
+Diretrizes de Interface Humana (HIG) da Apple são um conjunto de recomendações e práticas recomendadas para criar interfaces do usuário em dispositivos Apple. Essas diretrizes ajudam os desenvolvedores e designers a criar aplicativos e interfaces que ofereçam uma experiência de alta qualidade e consistência com o ecossistema Apple.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines)
+- [@official@Diretrizes de Interface Humana](https://developer.apple.com/design/human-interface-guidelines)

@@ -1,3 +1,3 @@
-# Simple UI Building
- 
-Simple UI building in SwiftUI covers the fundamental skills for constructing working app screens. This includes composing layout containers, applying modifiers, connecting views to state, implementing navigation between screens, and adding animated transitions.
+# Construção Simples da Interface do Usuário
+
+A construção simples de interfaces do usuário em SwiftUI cobre as habilidades fundamentais para construir telas de aplicativos funcionais. Isso inclui compor contêineres de layout, aplicar modificadores, conectar exibições ao estado, implementar navegação entre telas e adicionar transições animadas.

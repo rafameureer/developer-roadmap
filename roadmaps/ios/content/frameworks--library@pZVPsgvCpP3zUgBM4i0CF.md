@@ -1,3 +1,3 @@
-# Frameworks & Library
+# Frameworks & Bibliotecas
  
-Frameworks and libraries are reusable packages of compiled code and resources that can be linked into iOS apps. Understanding the differences between XCFrameworks, static libraries, and dynamic libraries is important for packaging shared code, distributing SDKs, and managing binary dependencies.
+Frameworks e bibliotecas são pacotes reutilizáveis de código compilado e recursos que podem ser vinculados a aplicativos iOS. Entender as diferenças entre XCFrameworks, bibliotecas estáticas e bibliotecas dinâmicas é importante para empacotar código compartilhado, distribuir SDKs e gerenciar dependências binárias.

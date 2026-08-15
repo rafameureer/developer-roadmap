@@ -1,8 +1,8 @@
-# Capturing Values & Memory Mgmt.
- 
-Closures capture references to the variables and constants from their surrounding context. When a closure captures a class instance, it holds a strong reference by default, which can create retain cycles if the instance also holds the closure. Capture lists using [weak self] or [unowned self] break these cycles and are a required pattern in iOS Swift development.
+# Capturando Valores e Gestão de Memória
 
-Visit the following resources to learn more:
+As closures capturam referências às variáveis e constantes do contexto em torno delas. Quando uma closure captura uma instância de classe, ela mantém uma referência forte por padrão, o que pode criar ciclos de retenção se a instância também manter a closure. Listas de captura usando `[weak self]` ou `[unowned self]` quebram esses ciclos e são um padrão necessário no desenvolvimento iOS em Swift.
 
-- [@article@Capture lists in Swift](https://www.hackingwithswift.com/articles/179/capture-lists-in-swift-whats-the-difference-between-weak-strong-and-unowned-references)
-- [@article@Swift’s closure capturing mechanics](https://www.swiftbysundell.com/articles/swifts-closure-capturing-mechanics/)
+Acesse os seguintes recursos para saber mais:
+
+- [@artigo@Listas de Captura em Swift](https://www.hackingwithswift.com/articles/179/capture-lists-in-swift-whats-the-difference-between-weak-strong-and-unowned-references)
+- [@artigo@Mecanismos de Captura de Closures em Swift](https://www.swiftbysundell.com/articles/swifts-closure-capturing-mechanics/)

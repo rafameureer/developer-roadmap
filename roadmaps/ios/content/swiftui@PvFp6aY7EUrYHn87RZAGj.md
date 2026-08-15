@@ -1,7 +1,7 @@
 # SwiftUI
  
-SwiftUI is Apple's declarative UI framework for building apps across iOS, macOS, watchOS, and tvOS. Introduced in 2019, it replaces UIKit's imperative approach with composable views written entirely in Swift. SwiftUI automatically handles layout, animations, and UI updates when the underlying data changes.
+SwiftUI é o framework de interface do usuário declarativa da Apple para construir aplicativos em iOS, macOS, watchOS e tvOS. Lançado em 2019, ele substitui o abordagem imperativa do UIKit com visões compostas escritas inteiramente em Swift. O SwiftUI lida automaticamente com layout, animações e atualizações da interface do usuário quando os dados subjacentes mudam.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated Swift & Swift UI Roadmap](https://roadmap.sh/swift-ui)
+- [@roadmap@Visite o Caminho Dedidado de Swift & SwiftUI](https://roadmap.sh/swift-ui)

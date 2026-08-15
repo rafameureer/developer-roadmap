@@ -1,9 +1,9 @@
-# Callback Hell
+# Inferno de Callbacks
  
-Callback hell refers to deeply nested, hard-to-read code that results from chaining multiple asynchronous operations through callbacks. This pattern, sometimes called the pyramid of doom, was common in iOS development when completion handlers were the primary way to handle async work. Swift's async/await syntax resolves this by allowing sequential, readable async code.
+Inferno de callbacks refere-se a código profundamente aninhado e difícil de ler que resulta da cadeia de várias operações assíncronas através de callbacks. Este padrão, às vezes chamado de pirâmide do caos, era comum no desenvolvimento iOS quando os manipuladores de conclusão eram o método principal para lidar com trabalho assíncrono. A sintaxe async/await em Swift resolve isso permitindo código assíncrono sequencial e legível.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Avoiding callback hell in Swift](https://swiftrocks.com/avoiding-callback-hell-in-swift)
-- [@article@Say Goodbye to Callback Hell: A Beginner’s Guide to Async/Await in Swift](https://medium.com/@asumahbanda3/say-goodbye-to-callback-hell-a-beginners-guide-to-async-await-in-swift-4c3230183218)
-- [@video@What is JavaScript Callback Hell?](https://www.youtube.com/watch?v=NOlOw03qBfw)
+- [@artigo@Evitando inferno de callbacks em Swift](https://swiftrocks.com/avoiding-callback-hell-in-swift)
+- [@artigo@Diga adeus ao Inferno de Callbacks: Um Guia Iniciante para Async/Await em Swift](https://medium.com/@asumahbanda3/diga-adeus-ao-inferno-de-callbacks-um-guia-iniciante-para-async-await-em-swift-4c3230183218)
+- [@vídeo@O que é JavaScript Callback Hell?](https://www.youtube.com/watch?v=NOlOw03qBfw)

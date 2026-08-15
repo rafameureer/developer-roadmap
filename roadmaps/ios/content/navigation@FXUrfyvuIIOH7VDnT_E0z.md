@@ -1,7 +1,7 @@
-# Navigation
+# Navegação
 
-Navigation helps users easily find their way around an app and locate the information they need, minimizing confusion. Utilizing familiar navigation patterns can simplify complex interactions while preserving the app's unique character. Learn best practices and common pitfalls when working with tab bars, modals, and other navigation elements.
+A navegação ajuda os usuários a encontrar facilmente seu caminho em um aplicativo e localizar as informações que precisam, minimizando a confusão. Utilizar padrões de navegação familiares pode simplificar interações complexas enquanto preserva o caráter único do aplicativo. Aprenda práticas recomendadas e erros comuns ao trabalhar com barras de guias, modais e outros elementos de navegação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@WWDC2022: Explore navigation design for iOS](https://developer.apple.com/videos/play/wwdc2022/10001/)
+- [@official@WWDC2022: Explorando o design de navegação para iOS](https://developer.apple.com/videos/play/wwdc2022/10001/)

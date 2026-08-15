@@ -1,9 +1,9 @@
-# Parsing
- 
-Parsing JSON in Swift is done using Codable and JSONDecoder, which automatically decode JSON data into Swift structs and classes. XMLParser provides a SAX-style parser for processing XML documents event by event. Correct parsing handles optional fields, nested structures, and type mismatches cleanly.
+# Análise
 
-Visit the following resources to learn more:
+Analisar JSON em Swift é feito usando Codable e JSONDecoder, que automaticamente decodificam dados JSON em structs e classes Swift. XMLParser fornece um analisador SAX-styled para processar documentos XML evento por evento. A análise correta lida com campos opcionais, estruturas aninhadas e desvios de tipo de maneira limpa.
 
-- [@official@XMLParser](https://developer.apple.com/documentation/foundation/xmlparser)
-- [@article@JSON Parsing in Swift explained with code examples](https://www.avanderlee.com/swift/json-parsing-decoding/)
-- [@article@Parsing XML using Swift](https://medium.com/cracking-swift/parsing-remote-xml-using-swift-bfa9701fff84)
+Acesse os seguintes recursos para saber mais:
+
+- [@oficial@XMLParser](https://developer.apple.com/documentation/foundation/xmlparser)
+- [@artigo@Análise JSON em Swift explicada com exemplos de código](https://www.avanderlee.com/swift/json-parsing-decoding/)
+- [@artigo@Analisando XML usando Swift](https://medium.com/cracking-swift/parsing-remote-xml-using-swift-bfa9701fff84)

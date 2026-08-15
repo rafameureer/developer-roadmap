@@ -1,3 +1,3 @@
 # Cocoa Touch
  
-Cocoa Touch is the topmost layer of the iOS architecture and provides the frameworks developers interact with most directly, including UIKit, SwiftUI, MapKit, and GameKit. It handles touch input, notifications, multitasking, and high-level app structure. Most iOS app code is written against Cocoa Touch APIs.
+Cocoa Touch é a camada superior da arquitetura iOS e fornece os frameworks com os quais os desenvolvedores interagem diretamente, incluindo UIKit, SwiftUI, MapKit e GameKit. Ele lida com entrada de toque, notificações, multitarefa e estrutura de aplicativo de alto nível. A maioria do código de aplicativos iOS é escrito contra APIs do Cocoa Touch.

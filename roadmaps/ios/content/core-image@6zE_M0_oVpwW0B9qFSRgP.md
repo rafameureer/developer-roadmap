@@ -1,8 +1,8 @@
 # Core Image
 
-Core Image is a powerful framework in iOS for image processing and analysis. It provides a wide array of built-in filters for tasks such as enhancing photos, applying artistic effects, and performing face detection. Core Image leverages GPU acceleration to ensure high performance and real-time processing capabilities. With support for custom filters and flexible integration with other graphics technologies, Core Image enables developers to create complex visual effects and perform sophisticated image manipulations within their applications.
+O Core Image é um poderoso framework no iOS para processamento e análise de imagens. Ele fornece uma ampla gama de filtros embutidos para tarefas como melhorar fotos, aplicar efeitos artísticos e detectar rostos. O Core Image aproveita a aceleração GPU para garantir desempenho alto e capacidades de processamento em tempo real. Com suporte a filtros personalizados e integração flexível com outras tecnologias gráficas, o Core Image permite aos desenvolvedores criar efeitos visuais complexos e realizar manipulações avançadas de imagens dentro de suas aplicações.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@course@Core Image Tutorial](https://www.kodeco.com/30195423-core-image-tutorial-getting-started)
 - [@official@Core Image Documentation](https://developer.apple.com/documentation/coreimage)

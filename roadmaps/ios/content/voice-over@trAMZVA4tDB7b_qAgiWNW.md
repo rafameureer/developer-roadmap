@@ -1,8 +1,8 @@
 # Voice Over
  
-VoiceOver is iOS's built-in screen reader that allows users who are blind or have low vision to navigate and interact with apps using gestures and spoken audio feedback. Apps support VoiceOver by providing accessibility labels, traits, and hints on UI elements. Testing with VoiceOver enabled is essential for verifying an accessible user experience.
+O VoiceOver é o leitor de tela embutido do iOS que permite aos usuários cegos ou com visão reduzida navegar e interagir com aplicativos usando gestos e feedback auditivo falado. Os aplicativos suportam o VoiceOver fornecendo rótulos de acessibilidade, atributos e dicas em elementos da interface do usuário. A testagem com o VoiceOver ativado é essencial para verificar uma experiência de usuário acessível.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
 - [@official@VoiceOver](https://developer.apple.com/documentation/accessibility/voiceover/)
-- [@official@Supporting VoiceOver in your app](https://developer.apple.com/documentation/uikit/accessibility_for_uikit/supporting_voiceover_in_your_app)
+- [@official@Suporte ao VoiceOver em seu aplicativo](https://developer.apple.com/documentation/uikit/accessibility_for_uikit/supporting_voiceover_in_your_app)

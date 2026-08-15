@@ -1,8 +1,8 @@
-# Benefits over Objective-C
- 
-Swift offers several advantages over Objective-C including type safety with optionals, modern syntax that reduces boilerplate, cleaner closure support, and better performance in many scenarios. Swift code is generally easier to read, write, and maintain. The language also benefits from active development through the Swift Evolution open-source process.
+# Benefícios sobre Objective-C
 
-Visit the following resources to learn more:
+Swift oferece vários benefícios em relação a Objective-C, incluindo segurança de tipo com opcionais, sintaxe moderna que reduz o boilerplate, suporte limpo a fechaduras e melhor desempenho em muitos cenários. O código Swift geralmente é mais fácil de ler, escrever e manter. A linguagem também beneficia-se de um desenvolvimento ativo através do processo open-source Swift Evolution.
 
-- [@roadmap@Visit the Dedicated Swift & Swift UI Roadmap](https://roadmap.sh/swift-ui)
-- [@article@Swift vs Objective-C](https://www.waldo.com/blog/swift-vs-objective-c)
+Acesse os seguintes recursos para saber mais:
+
+- [@roadmap@Visite o Caminho Dedidado de Swift & Swift UI](https://roadmap.sh/swift-ui)
+- [@artigo@Swift vs Objective-C](https://www.waldo.com/blog/swift-vs-objective-c)

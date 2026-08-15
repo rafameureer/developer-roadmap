@@ -1,7 +1,7 @@
-# Groups
- 
-Groups in Xcode are virtual folders used to organize files within the Project Navigator without necessarily reflecting the file system directory structure. They keep large projects organized by feature or layer. Developers can create and rename groups and move files between them without affecting how Xcode locates or compiles those files.
+# Grupos
 
-Visit the following resources to learn more:
+Grupos no Xcode são pastas virtuais usadas para organizar arquivos dentro do Navegador de Projeto sem necessariamente refletir a estrutura de diretórios do sistema de arquivos. Eles mantêm grandes projetos organizados por funcionalidade ou camada. Desenvolvedores podem criar e renomear grupos e mover arquivos entre eles sem afetar como o Xcode localiza ou compila esses arquivos.
 
-- [@official@Managing files and folders in your Xcode project](https://developer.apple.com/documentation/xcode/managing-files-and-folders-in-your-xcode-project)
+Acesse os seguintes recursos para saber mais:
+
+- [@official@Gerenciando arquivos e pastas em seu projeto do Xcode](https://developer.apple.com/documentation/xcode/managing-files-and-folders-in-your-xcode-project)

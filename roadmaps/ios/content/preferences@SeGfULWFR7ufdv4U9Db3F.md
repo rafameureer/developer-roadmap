@@ -1,8 +1,8 @@
-# Preferences
+# Preferências
 
-Xcode preferences allow you to customize your development environment to suit your workflow. They offer various settings across multiple tabs, including General, Accounts, Behaviors, Text Editing, Key Bindings, and more. These preferences let you manage your Apple developer accounts, configure source control, adjust editor and theme settings, and set up custom key bindings, helping streamline your development process.
+As preferências do Xcode permitem que você personalize seu ambiente de desenvolvimento para se adequar ao seu fluxo de trabalho. Eles oferecem várias configurações em várias abas, incluindo Geral, Conta, Comportamentos, Edição de Texto, Atribuições de Chave e mais. Essas preferências permitem que você gerencie suas contas de desenvolvedor da Apple, configure o controle de versão do código-fonte, ajuste as configurações do editor e do tema, e configure atalhos de teclado personalizados, ajudando a otimizar seu processo de desenvolvimento.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Configuring Source Control Preferences](https://developer.apple.com/documentation/xcode/configuring-source-control-preferences-in-xcode)
-- [@article@Customize Xcode](https://help.apple.com/xcode/mac/current/#/dev9d00ebc70)
+- [@oficial@Configurando Preferências de Controle de Versão](https://developer.apple.com/documentation/xcode/configuring-source-control-preferences-in-xcode)
+- [@artigo@Personalize o Xcode](https://help.apple.com/xcode/mac/current/#/dev9d00ebc70)

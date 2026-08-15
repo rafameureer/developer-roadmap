@@ -1,8 +1,8 @@
-# Components
- 
-UIKit components are the built-in UI controls the framework provides, including UIButton, UILabel, UITextField, UISwitch, UISlider, UIImageView, and UITableView. Each component is a UIView subclass and can be customized through properties, subclassing, or delegation.
+# Componentes
 
-Visit the following resources to learn more:
+Os componentes do UIKit são os controles de interface do usuário embutidos que o framework fornece, incluindo UIButton, UILabel, UITextField, UISwitch, UISlider, UIImageView e UITableView. Cada componente é uma subclasse de UIView e pode ser personalizado através de propriedades, subclassificação ou delegação.
 
-- [@article@UIKit Component Styling](https://medium.com/@greenSyntax/uikit-component-styling-in-ios-ae218ae4823e)
-- [@article@Customizable UI Components on iOS Using UIKit](https://pspdfkit.com/blog/2023/customizable-ui-components/)
+Acesse os seguintes recursos para saber mais:
+
+- [@article@Estilizando Componentes do UIKit](https://medium.com/@greenSyntax/uikit-component-styling-in-ios-ae218ae4823e)
+- [@article@Componentes UI Personalizáveis no iOS Usando o UIKit](https://pspdfkit.com/blog/2023/customizable-ui-components/)

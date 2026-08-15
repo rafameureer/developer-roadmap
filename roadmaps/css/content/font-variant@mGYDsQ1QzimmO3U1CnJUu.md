@@ -1,8 +1,8 @@
-# Font Variant
+# Variante da Fonte
 
-Font variant in CSS allows you to control the display of different variations of a font, such as small caps, oldstyle numerals, and alternate glyphs. It provides a way to access OpenType features within a font, enabling richer typographic control beyond basic font styling like size and weight. This property offers a shorthand for setting several more specific font variant properties.
+A variante da fonte em CSS permite controlar a exibição de diferentes variações de uma fonte, como minúsculas em maiúsculas (small caps), algarismos decimais antigos e glifos alternativos. Fornece um meio de acessar recursos OpenType dentro de uma fonte, permitindo um controle tipográfico mais rico além da estilização básica da fonte como tamanho e peso. Essa propriedade oferece um atalho para definir várias propriedades específicas de variante da fonte.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Font variant](https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant)
-- [@article@CSS font-variant Property](https://www.w3schools.com/cssref/pr_font_font-variant.php)
+- [@artigo@variante-da-fonte](https://developer.mozilla.org/pt-BR/docs/Web/CSS/font-variant)
+- [@artigo@Propriedade CSS font-variant](https://www.w3schools.com/cssref/pr_font_font-variant.php)

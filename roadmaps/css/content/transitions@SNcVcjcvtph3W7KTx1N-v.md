@@ -1,9 +1,9 @@
-# Transitions
+# Transições
 
-Transitions in CSS allow you to smoothly change property values over a specified duration. Instead of an abrupt change, a transition creates a gradual effect when a CSS property changes, such as when hovering over an element or when a class is added or removed. This adds visual polish and improves the user experience by making interactions feel more fluid and responsive.
+As transições no CSS permitem alterar valores de propriedade de forma suave ao longo de uma duração especificada. Em vez de um mudança repentina, uma transição cria um efeito gradual quando uma propriedade CSS muda, como ao passar o mouse sobre um elemento ou ao adicionar ou remover uma classe. Isso adiciona acabamento visual e melhora a experiência do usuário ao tornar as interações mais fluidas e responsivas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@CSS transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_transitions)
-- [@article@Using CSS transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_transitions/Using_CSS_transitions)
-- [@video@Animating with CSS Transitions - A look at the transition properties](https://www.youtube.com/watch?v=Nloq6uzF8RQ)
+- [@artigo@Transições CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_transitions)
+- [@artigo@Usando transições CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_transitions/Using_CSS_transitions)
+- [@vídeo@Animando com Transições CSS - Uma olhada nas propriedades de transição](https://www.youtube.com/watch?v=Nloq6uzF8RQ)

@@ -1,7 +1,7 @@
-# Font Style
+# Estilo da Fonte
 
-Font style in CSS is used to select the appearance of a font, primarily to italicize or oblique text. It allows you to specify whether a font should be displayed in its normal, italic, or oblique version. This property is useful for emphasizing text or creating a visual distinction within a design.
+O estilo da fonte em CSS é usado para selecionar a aparência de uma fonte, principalmente para itálico ou oblicuar o texto. Permite especificar se uma fonte deve ser exibida na sua forma normal, itálica ou oblicua. Essa propriedade é útil para enfatizar texto ou criar uma distinção visual dentro de um design.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@font-style](https://developer.mozilla.org/en-US/docs/Web/CSS/font-style)
+- [@artigo@estilo-da-fonte](https://developer.mozilla.org/pt-BR/docs/Web/CSS/font-style)

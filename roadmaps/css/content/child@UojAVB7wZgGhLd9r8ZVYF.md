@@ -1,8 +1,8 @@
-# Child Combinator
+# Combinador Filho
 
-The child combinator selector in CSS allows you to target elements that are direct children of a specified parent element. It uses the `>` symbol to denote this direct parent-child relationship. This selector ensures that styles are only applied to elements that are immediately nested within the parent, ignoring any deeper descendants.
+O combinador de filhos do seletor em CSS permite que você selecione elementos que são filhos diretos de um elemento pai especificado. Ele usa o símbolo `>` para denotar essa relação pai-filho direta. Esse seletor garante que os estilos sejam aplicados apenas a elementos que estão imediatamente aninhados dentro do pai, ignorando qualquer descendente mais profundo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Child combinator](https://developer.mozilla.org/en-US/docs/Web/CSS/Child_combinator)
-- [@article@Child and Sibling Selectors](https://css-tricks.com/child-and-sibling-selectors/)
+- [@artigo@Combinador filho](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Combinadores/Filho)
+- [@artigo@Combinadores Filho e irmãos](https://css-tricks.com/child-and-sibling-selectors/)

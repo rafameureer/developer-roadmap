@@ -1,7 +1,7 @@
-# Inline CSS
+# CSS Inline
 
-Inline CSS involves directly embedding CSS styles within HTML elements using the `style` attribute. This method applies styles to individual elements, overriding external stylesheets or embedded styles. While offering quick and localized styling, it's generally discouraged for larger projects due to maintainability issues and separation of concerns.
+CSS Inline envolve incorporar estilos CSS diretamente em elementos HTML usando o atributo `style`. Esse método aplica estilos a elementos individuais, sobrescrevendo folhas de estilo externas ou estilos embutidos. Embora ofereça uma formatação rápida e localizada, geralmente é desencorajado para projetos maiores devido a problemas de manutenção e separação de preocupações.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Inline Style in HTML – CSS Inline Styles](https://www.freecodecamp.org/news/inline-style-in-html/)
+- [@artigo@Estilo Inline em HTML – Estilos CSS Inline](https://www.freecodecamp.org/news/inline-style-in-html/)

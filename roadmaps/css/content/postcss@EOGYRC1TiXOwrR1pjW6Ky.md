@@ -1,10 +1,10 @@
 # PostCSS
 
-PostCSS is a tool that uses JavaScript to transform CSS. It acts as a CSS parser and provides an API to analyze and modify the CSS code. It's often used with plugins to automate tasks like adding vendor prefixes, linting CSS, or supporting future CSS syntax.
+PostCSS é uma ferramenta que usa JavaScript para transformar CSS. Ele atua como um analisador de CSS e fornece uma API para analisar e modificar o código CSS. É frequentemente usado com plugins para automatizar tarefas como adicionar prefixos de fornecedor, linting de CSS ou suporte a sintaxe do CSS futuro.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@PostCSS](https://postcss.org/)
 - [@opensource@PostCSS](https://github.com/postcss/postcss)
-- [@article@What is PostCSS? How to Use Plugins to Automate CSS Tasks](https://www.freecodecamp.org/news/what-is-postcss/)
-- [@video@Learn PostCSS In 15 Minutes](https://www.youtube.com/watch?v=Kn2SKUOaoT4&t=573s)
+- [@article@O que é PostCSS? Como usar plugins para automatizar tarefas de CSS](https://www.freecodecamp.org/news/what-is-postcss/)
+- [@video@Aprenda PostCSS em 15 minutos](https://www.youtube.com/watch?v=Kn2SKUOaoT4&t=573s)

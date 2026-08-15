@@ -1,8 +1,8 @@
-# Named Colors
+# Cores Nomeadas
 
-Named colors in CSS are predefined color values represented by specific keywords. Instead of using hexadecimal codes or RGB values, you can use names like "red," "blue," "green," or "black" to style elements. These names are understood by browsers and directly translate to specific color values, offering a simple and readable way to apply basic colors to your web pages.
+As cores nomeadas no CSS são valores de cor pré-definidos representados por palavras-chave específicas. Em vez de usar códigos hexadecimais ou valores RGB, você pode usar nomes como "vermelho," "azul," "verde" ou "preto" para estilizar elementos. Esses nomes são entendidos pelos navegadores e traduzem diretamente em valores específicos de cor, oferecendo uma maneira simples e legível de aplicar cores básicas às suas páginas web.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Named colors](https://developer.mozilla.org/en-US/docs/Web/CSS/named-color)
-- [@video@CSS Colors Introduction - Color Names](https://www.youtube.com/shorts/lopsN9PCauk)
+- [@artigo@Cores Nomeadas](https://developer.mozilla.org/pt-BR/docs/Web/CSS/named-color)
+- [@vídeo@Introdução a Cores no CSS - Nomes de Cores](https://www.youtube.com/shorts/lopsN9PCauk)

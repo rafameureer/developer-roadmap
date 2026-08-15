@@ -1,8 +1,8 @@
-# CSS Units
+# Unidades CSS
 
-CSS units define the size of elements and properties in a webpage. They specify how measurements like width, height, font size, and margins are interpreted by the browser. These units can be absolute, like pixels (px) or centimeters (cm), or relative, like em, rem, or viewport units (vw, vh), allowing for flexible and responsive layouts that adapt to different screen sizes and resolutions.
+As unidades CSS definem o tamanho dos elementos e propriedades em uma página da web. Eles especificam como as medidas, como largura, altura, tamanho da fonte e margens, são interpretadas pelo navegador. Essas unidades podem ser absolutas, como pixels (px) ou centímetros (cm), ou relativas, como em, rem ou unidades de viewport (vw, vh), permitindo layouts flexíveis e responsivos que se adaptam a diferentes tamanhos de tela e resoluções.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@CSS Units](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Values_and_units)
-- [@video@Learn CSS Units In 8 Minutes](https://www.youtube.com/watch?v=-GR52czEd-0)
+- [@artigo@Unidades CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Unidades_e_valores)
+- [@vídeo@Aprenda Unidades CSS em 8 minutos](https://www.youtube.com/watch?v=-GR52czEd-0)

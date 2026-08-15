@@ -1,7 +1,7 @@
-# Block Display
+# Exibição do Bloco
 
-The `display: block;` property in CSS makes an element behave like a block-level element. This means it will take up the full width available to it, starting on a new line and pushing subsequent content to a new line as well. Block elements typically define the major structural components of a webpage.
+A propriedade `display: block;` no CSS faz com que um elemento se comporte como um elemento de nível de bloco. Isso significa que ele ocupará toda a largura disponível, começando em uma nova linha e empurrando o conteúdo subsequente para uma nova linha também. Elementos de bloco geralmente definem os componentes estruturais principais da página web.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@Block, Inline, and Inline-Block explained | CSS Tutorial](https://www.youtube.com/watch?v=x_i2gga-sYg)
+- [@vídeo@Bloco, Inline e Inline-Block explicados | Tutorial CSS](https://www.youtube.com/watch?v=x_i2gga-sYg)

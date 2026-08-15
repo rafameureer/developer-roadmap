@@ -4,7 +4,7 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 
 ---
 
-> ⚠️ **Total de itens sinalizados:** 456
+> ⚠️ **Total de itens sinalizados:** 465
 
 | Arquivo / Tópico | Motivo da Sinalização | Data/Hora |
 |---|---|---|
@@ -464,3 +464,12 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 | `roadmaps/cpp/content/references@uUzRKa9wGzdUwwmAg3FWr.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:58:02.028805 |
 | `roadmaps/cpp/content/reinterpret_cast@ZMyFDJrpCauGrY5NZkOwg.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:58:04.940190 |
 | `roadmaps/cpp/content/working-with-libraries@4kkX5g_-plX9zVqr0ZoiR.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:00:27.331071 |
+| `roadmaps/css/content/attribute-selectors@m6KQMN1XWo4uWqs2F3KXH.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:00:58.341897 |
+| `roadmaps/css/content/background-attachment@6i0Zl05VMzUsh47cuUH4-.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:01:01.683702 |
+| `roadmaps/css/content/background-color@ATd9RE303X79aAmqvwS08.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:01:05.688144 |
+| `roadmaps/css/content/declaration@GULUvSWLu8sPRuH0Xnbi5.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:03:00.557517 |
+| `roadmaps/css/content/descendant@HB0GXMRA87a-NWv6JXxWg.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:03:03.498503 |
+| `roadmaps/css/content/direction@ZyqKZMIkQ22ysFqmhL3ZN.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:03:08.962920 |
+| `roadmaps/css/content/tables@Q-6tdHPE-xpPGIG8J_Wz7.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:07:16.516096 |
+| `roadmaps/css/content/text-alignment@SABFbvM47j1cYCyeNfMZR.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:07:19.678844 |
+| `roadmaps/css/content/text-decoration@AUzbo8UwpL-XxvhMCvtoe.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:07:23.120510 |

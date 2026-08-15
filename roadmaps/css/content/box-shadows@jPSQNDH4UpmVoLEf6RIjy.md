@@ -1,8 +1,8 @@
-# Box Shadows
+# Sombras de Caixa
 
-Box shadows in CSS are visual effects that add depth and dimension to elements by creating a shadow around their frames. These shadows can be customized in terms of color, offset (horizontal and vertical distance), blur radius, and spread radius, allowing designers to simulate various lighting conditions and create visually appealing interfaces. Box shadows can be applied to almost any HTML element, enhancing the user experience by highlighting important elements or adding a subtle sense of realism.
+As sombras de caixa no CSS são efeitos visuais que adicionam profundidade e dimensão aos elementos criando uma sombra ao redor de seus quadros. Essas sombras podem ser personalizadas em termos de cor, deslocamento (distância horizontal e vertical), raio de borrada e raio de espalhamento, permitindo que os designers simulem várias condições de iluminação e criem interfaces visualmente atraentes. As sombras de caixa podem ser aplicadas a quase qualquer elemento HTML, melhorando a experiência do usuário ao destacar elementos importantes ou adicionando um sentido suave de realismo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Box Shadows](https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow)
-- [@video@CSS Box-Shadow tutorial: the basics](https://www.youtube.com/watch?v=-JNRQ5HjNeI)
+- [@artigo@Sombras de Caixa](https://developer.mozilla.org/pt-BR/docs/Web/CSS/box-shadow)
+- [@vídeo@Tutorial de Sombras de Caixa do CSS: os fundamentos](https://www.youtube.com/watch?v=-JNRQ5HjNeI)

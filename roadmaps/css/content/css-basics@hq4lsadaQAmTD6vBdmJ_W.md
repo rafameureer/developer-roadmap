@@ -1,3 +1,3 @@
-# CSS Basics
+# Básicos do CSS
 
-CSS Basics encompass the fundamental building blocks for styling web pages. This includes understanding selectors (how to target specific HTML elements), properties (the visual characteristics you want to change, like color or font size), and values (the specific settings for those properties, such as "red" or "16px"). Mastering these basics allows you to control the presentation of your website's content.
+Os Básicos do CSS englobam os blocos fundamentais de construção para estilizar páginas web. Isso inclui entender seletores (como alvo de elementos HTML específicos), propriedades (as características visuais que você deseja alterar, como cor ou tamanho da fonte) e valores (as configurações específicas para essas propriedades, como "vermelho" ou "16px"). Dominar esses fundamentos permite controlar a apresentação do conteúdo de seu site.

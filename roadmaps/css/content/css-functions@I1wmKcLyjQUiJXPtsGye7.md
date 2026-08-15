@@ -1,10 +1,10 @@
-# CSS Functions
+# Funções CSS
 
-CSS functions are pre-defined operations that perform specific tasks within your CSS code. They allow you to manipulate values, perform calculations, and generate dynamic results, making your stylesheets more flexible and powerful. These functions are used within CSS property values to modify or create those values based on certain inputs.
+As funções CSS são operações pré-definidas que realizam tarefas específicas em seu código CSS. Eles permitem manipular valores, realizar cálculos e gerar resultados dinâmicos, tornando seus folhos de estilo mais flexíveis e poderosos. Essas funções são usadas dentro dos valores das propriedades do CSS para modificar ou criar esses valores com base em certos inputs.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@CSS value functions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Values_and_Units/CSS_Value_Functions)
-- [@article@Functions](https://web.dev/learn/css/functions)
-- [@article@Functions in CSS?!](https://css-tricks.com/functions-in-css/)
-- [@video@First look at FUNCTIONS in CSS!!!](https://www.youtube.com/watch?v=fhuYPNlBkyw)
+- [@artigo@Funções de valor CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Values_and_Units/CSS_Value_Functions)
+- [@artigo@Funções](https://web.dev/learn/css/functions)
+- [@artigo@Funções no CSS?!](https://css-tricks.com/functions-in-css/)
+- [@vídeo@Primeira visão das FUNÇÕES no CSS!!!](https://www.youtube.com/watch?v=fhuYPNlBkyw)

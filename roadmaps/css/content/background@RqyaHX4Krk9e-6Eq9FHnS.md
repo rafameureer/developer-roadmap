@@ -1,7 +1,7 @@
-# Background
+# Fundo
 
-In CSS, the term "background" refers to the properties that control the visual appearance of an element's background. This includes aspects like the background color, image, its positioning, whether it repeats, and its size. These properties allow you to add visual interest and customize the look of your web pages.
+No CSS, o termo "fundo" refere-se às propriedades que controlam a aparência visual de um elemento de fundo. Isso inclui aspectos como a cor de fundo, a imagem, sua posição, se ela se repete e seu tamanho. Essas propriedades permitem adicionar interesse visual e personalizar o visual das suas páginas web.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@Learn CSS background in 3 minutes](https://www.youtube.com/watch?v=YA8ZciJa64k)
+- [@vídeo@Aprenda CSS background em 3 minutos](https://www.youtube.com/watch?v=YA8ZciJa64k)

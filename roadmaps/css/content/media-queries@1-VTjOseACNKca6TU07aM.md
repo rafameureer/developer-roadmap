@@ -1,9 +1,9 @@
-# Media Queries
+# Consultas de Mídia
 
-Media Queries are a powerful feature that allows you to apply different CSS styles based on characteristics of the device or screen being used to view a webpage. This enables you to create responsive designs that adapt to various screen sizes, resolutions, and orientations, ensuring an optimal viewing experience across a wide range of devices, from desktops to smartphones.
+As Consultas de Mídia são uma funcionalidade poderosa que permite aplicar estilos CSS diferentes com base em características do dispositivo ou tela sendo usada para visualizar uma página web. Isso habilita você a criar designs responsivos que se adaptam a vários tamanhos de tela, resoluções e orientações, garantindo uma experiência de visualização ótima em uma ampla gama de dispositivos, desde computadores até smartphones.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@CSS media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries)
-- [@article@CSS Media Queries Guide](https://css-tricks.com/a-complete-guide-to-css-media-queries/)
-- [@video@Learn CSS Media Query In 7 Minutes](https://www.youtube.com/watch?v=yU7jJ3NbPdA)
+- [@artigo@Consultas de Mídia CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_media_queries)
+- [@artigo@Guia Completo sobre Consultas de Mídia CSS](https://css-tricks.com/a-complete-guide-to-css-media-queries/)
+- [@vídeo@Aprenda Consulta de Mídia CSS em 7 Minutos](https://www.youtube.com/watch?v=yU7jJ3NbPdA)

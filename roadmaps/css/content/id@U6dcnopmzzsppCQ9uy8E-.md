@@ -1,7 +1,7 @@
-# ID Selectors
+# Seletores de ID
 
-ID selectors in CSS are used to style a single, unique element on a webpage. They target an HTML element based on the value of its `id` attribute. An ID selector is denoted by a hash symbol (`#`) followed by the ID value.
+Os seletores de ID em CSS são usados para estilizar um único, elemento único em uma página da web. Eles almejam um elemento HTML com base no valor de seu atributo `id`. Um seletor de ID é denotado por um símbolo de hash (`#`) seguido pelo valor do ID.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@ID Selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/ID_selectors)
+- [@artigo@Seletores de ID](https://developer.mozilla.org/pt-BR/docs/Web/CSS/ID_selectors)

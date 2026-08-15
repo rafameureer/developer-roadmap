@@ -1,9 +1,9 @@
-# Container Queries
+# Consultas de Contêiner
 
-Container Queries are a CSS feature that allows styles to be applied to an element based on the size or other characteristics of its containing element, rather than the viewport. This enables more granular and context-aware styling, where components can adapt their appearance based on the space available within their parent container, leading to more flexible and reusable designs.
+As Consultas de Contêiner são uma funcionalidade do CSS que permite aplicar estilos a um elemento com base no tamanho ou outras características de seu contêiner, em vez da viewport. Isso habilita uma estilização mais granular e contextualmente consciente, onde os componentes podem adaptar sua aparência com base no espaço disponível dentro de seu contêiner pai, resultando em designs mais flexíveis e reutilizáveis.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@CSS container queries](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_containment/Container_queries)
-- [@article@CSS Container Queries Guide](https://css-tricks.com/css-container-queries/)
-- [@video@Master CSS container queries and boost your web design skills!](https://www.youtube.com/watch?v=8x8lxX5IGHY)
+- [@artigo@Consultas de Contêiner CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_containment/Container_queries)
+- [@artigo@Guia de Consultas de Contêiner CSS](https://css-tricks.com/css-container-queries/)
+- [@vídeo@Domine as Consultas de Contêiner CSS e melhore suas habilidades em design web!](https://www.youtube.com/watch?v=8x8lxX5IGHY)

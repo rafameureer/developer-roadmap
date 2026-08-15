@@ -1,8 +1,8 @@
-# Line Height
+# Espaçamento de Linha
 
-Line height in CSS controls the vertical space between lines of text within an element. It essentially defines the distance from the top of one line of text to the top of the next line. A larger line height creates more space, improving readability, while a smaller line height can make text appear cramped.
+O espaçamento de linha em CSS controla o espaço vertical entre as linhas de texto dentro de um elemento. Ele define essencialmente a distância do topo de uma linha de texto até o topo da próxima linha. Um maior espaçamento de linha cria mais espaço, melhorando a legibilidade, enquanto um menor espaçamento de linha pode fazer com que o texto pareça apertado.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@line-height](https://developer.mozilla.org/en-US/docs/Web/CSS/line-height)
-- [@video@HTML & CSS for Absolute Beginners: Line height and spacing](https://www.youtube.com/watch?v=HaTxxAj3cBo)
+- [@article@Espaçamento de Linha](https://developer.mozilla.org/en-US/docs/Web/CSS/line-height)
+- [@video@HTML & CSS para Iniciantes: Espaçamento de linha e espaçamento](https://www.youtube.com/watch?v=HaTxxAj3cBo)

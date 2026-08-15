@@ -1,8 +1,8 @@
-# Z-Index and Stacking Context
+# Índice Z e Contexto de Empilhamento
 
-Z-index in CSS controls the vertical stacking order of elements that overlap. Elements with a higher z-index value will appear in front of elements with a lower z-index value. Stacking context is a three-dimensional conceptualization of HTML elements along an imaginary z-axis relative to the viewer, which determines the order in which elements appear in front of or behind each other.
+O índice z em CSS controla a ordem vertical de empilhamento dos elementos que se sobrepõem. Elementos com um valor mais alto de índice z aparecerão na frente de elementos com um valor de índice z mais baixo. O contexto de empilhamento é uma conceitualização tridimensional dos elementos HTML ao longo de um eixo z imaginário em relação ao observador, determinando a ordem em que os elementos aparecem na frente ou atrás uns dos outros.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@z-index](https://developer.mozilla.org/en-US/docs/Web/CSS/z-index)
-- [@video@CSS Z Index Property: What is CSS Z-Index, Stacking Order, and Why Your Z-Index Is Not Working?](https://www.youtube.com/watch?v=vo1JBj-OAa8)
+- [@artigo@Índice Z](https://developer.mozilla.org/en-US/docs/Web/CSS/z-index)
+- [@vídeo@Propriedade de Índice Z em CSS: O que é o Índice Z, a Ordem de Empilhamento e Por Que Seu Índice Z Não Está Funcionando?](https://www.youtube.com/watch?v=vo1JBj-OAa8)

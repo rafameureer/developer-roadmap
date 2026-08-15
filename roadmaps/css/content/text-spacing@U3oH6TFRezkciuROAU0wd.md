@@ -1,10 +1,10 @@
-# Text Spacing
+# Espaçamento de Texto
 
-Text spacing in CSS involves adjusting the space between characters, words, and lines of text. This control allows for improved readability and visual appeal by fine-tuning the horizontal and vertical spacing within text elements. Properties like `letter-spacing`, `word-spacing`, and `line-height` are used to manipulate these spaces.
+O espaçamento de texto em CSS envolve ajustar o espaço entre caracteres, palavras e linhas de texto. Este controle permite uma melhor legibilidade e aparência visual ajustando a espacatura horizontal e vertical dentro dos elementos de texto. Propriedades como `letter-spacing`, `word-spacing` e `line-height` são usadas para manipular esses espaços.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@letter-spacing](https://developer.mozilla.org/en-US/docs/Web/CSS/letter-spacing)
-- [@article@word-spacing](https://developer.mozilla.org/en-US/docs/Web/CSS/word-spacing)
-- [@article@CSS Text Spacing](https://www.codeguage.com/v1/courses/css/text-spacing)
-- [@video@HTML & CSS for Absolute Beginners: Line height and spacing](https://www.youtube.com/watch?v=HaTxxAj3cBo)
+- [@artigo@Espaçamento entre Letras](https://developer.mozilla.org/pt-BR/docs/Web/CSS/letter-spacing)
+- [@artigo@Espaçamento entre Palavras](https://developer.mozilla.org/pt-BR/docs/Web/CSS/word-spacing)
+- [@artigo@Espaçamento de Texto em CSS](https://www.codeguage.com/v1/courses/css/text-spacing)
+- [@vídeo@HTML & CSS para Iniciantes: Altura da Linha e Espaçamento](https://www.youtube.com/watch?v=HaTxxAj3cBo)

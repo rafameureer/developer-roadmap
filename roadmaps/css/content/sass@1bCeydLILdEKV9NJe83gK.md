@@ -1,8 +1,8 @@
 # Sass
 
-Sass (Syntactically Awesome Style Sheets) is a preprocessor scripting language that is compiled into CSS. It extends the capabilities of basic CSS by allowing you to use features like variables, nesting, mixins, functions, and inheritance. This makes CSS more maintainable, organized, and efficient to write.
+Sass (Syntactically Awesome Style Sheets) é um linguagem de script pré-processadora que é compilada em CSS. Ele estende as capacidades do CSS básico permitindo o uso de recursos como variáveis, aninhamento, mixins, funções e herança. Isso torna o CSS mais manterável, organizado e eficiente para escrever.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Sass](https://sass-lang.com/)
 - [@official@Sass Basics](https://sass-lang.com/guide/)

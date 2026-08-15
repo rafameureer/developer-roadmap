@@ -1,7 +1,7 @@
-# Relative Positioning
+# Posicionamento Relativo
 
-Relative positioning in CSS allows you to shift an element from its normal position in the document flow. Instead of being fixed in place, the element is moved relative to where it _would_ have been if it were statically positioned. This movement doesn't affect the positioning of other elements around it; they behave as if the element were still in its original location. You specify the amount of movement using the `top`, `right`, `bottom`, and `left` properties.
+O posicionamento relativo em CSS permite que você desloque um elemento de sua posição normal no fluxo do documento. Em vez de estar fixo, o elemento é movido em relação à posição onde ele _teria_ sido se estivesse posicionado estáticamente. Esse movimento não afeta a posição dos outros elementos ao seu redor; eles se comportam como se o elemento ainda estivesse na sua localização original. Você especifica a quantidade de movimento usando as propriedades `top`, `right`, `bottom` e `left`.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@CSS position deep dive](https://www.youtube.com/watch?v=fF_NVrd1s14)
+- [@vídeo@Profundidade em posicionamento CSS](https://www.youtube.com/watch?v=fF_NVrd1s14)

@@ -1,8 +1,8 @@
-# Internal CSS
+# CSS Interno
 
-Internal CSS involves embedding CSS rules directly within an HTML document. This is achieved by using the `<style>` tag, typically placed inside the `<head>` section of the HTML file. The CSS rules defined within the `<style>` tag will then be applied to the elements within that specific HTML document.
+O CSS interno envolve incorporar regras de CSS diretamente em um documento HTML. Isso é feito usando a tag `<style>`, geralmente colocada dentro da seção `<head>` do arquivo HTML. As regras de CSS definidas dentro da tag `<style>` serão então aplicadas aos elementos dentro desse documento HTML específico.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Internal CSS](https://codeinstitute.net/global/blog/internal-css/)
-- [@video@How to Use Internal CSS [CSS Tutorials for Beginners]](https://www.youtube.com/watch?v=o2hQUHGueXY)
+- [@artigo@CSS Interno](https://codeinstitute.net/global/blog/internal-css/)
+- [@vídeo@Como usar CSS Interno [Tutoriais de CSS para iniciantes]](https://www.youtube.com/watch?v=o2hQUHGueXY)

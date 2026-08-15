@@ -1,8 +1,8 @@
-# rgba and hsla Colors
+# Cores rgba e hsla
 
-`rgba` and `hsla` are color models used in CSS to define colors with added transparency. `rgba` represents colors using Red, Green, Blue, and Alpha (transparency) values, while `hsla` uses Hue, Saturation, Lightness, and Alpha values. The alpha value ranges from 0 (fully transparent) to 1 (fully opaque), allowing for semi-transparent colors.
+`rgba` e `hsla` são modelos de cor usados em CSS para definir cores com transparência adicional. O `rgba` representa as cores usando valores de Vermelho, Verde, Azul e Alfa (transparência), enquanto o `hsla` usa valores de Tom, Saturação, Brilho e Alfa. O valor alfa varia de 0 (totalmente transparente) a 1 (totalmente opaco), permitindo cores semi-transparentes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@rgb](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value/rgb)
-- [@article@hsl](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value/hsl)
+- [@artigo@rgb](https://developer.mozilla.org/pt-BR/docs/Web/CSS/color_value/rgb)
+- [@artigo@hsl](https://developer.mozilla.org/pt-BR/docs/Web/CSS/color_value/hsl)

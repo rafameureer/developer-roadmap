@@ -1,10 +1,10 @@
-# Flow Layout
+# Layout de Fluxo
 
-Flow layout is the default way elements are positioned on a webpage. Elements are displayed one after another, like words in a sentence, following the natural flow of the HTML. Block-level elements take up the full width available and start on a new line, while inline elements flow within the content, only taking up the space they need.
+O layout de fluxo é a maneira padrão em que os elementos são posicionados em uma página da web. Os elementos são exibidos um após o outro, como palavras em uma frase, seguindo o fluxo natural do HTML. Os elementos de nível de bloco ocupam toda a largura disponível e começam em uma nova linha, enquanto os elementos embutidos flutuam dentro do conteúdo, ocupando apenas o espaço necessário.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@CSS flow layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_display/Flow_layout)
-- [@article@Block and inline layout in normal flow](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_display/Block_and_inline_layout_in_normal_flow)
-- [@article@Flow layout and writing modes](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_display/Flow_layout_and_writing_modes)
-- [@video@CSS website layout in 9 minutes! 🗺️](https://www.youtube.com/watch?v=Hsu8uqQTSV8)
+- [@artigo@Layout de fluxo CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_display/Flow_layout)
+- [@artigo@Layout de bloco e embutido na fluxo normal](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_display/Block_and_inline_layout_in_normal_flow)
+- [@artigo@Layout de fluxo e modos de escrita](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_display/Flow_layout_and_writing_modes)
+- [@vídeo@Layout de site CSS em 9 minutos! 🗺️](https://www.youtube.com/watch?v=Hsu8uqQTSV8)

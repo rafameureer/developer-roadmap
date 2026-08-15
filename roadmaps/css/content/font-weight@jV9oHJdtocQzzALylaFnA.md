@@ -1,10 +1,10 @@
-# Font Weight
+# Peso da Fonte
 
-Font weight refers to the thickness or boldness of characters in a typeface. In CSS, it's a property that allows you to specify how heavy or light the font should appear. Values can be numeric (like 100, 400, 700) or descriptive (like `normal`, `bold`, `lighter`, `bolder`), offering control over the visual emphasis of text.
+O peso da fonte refere-se à espessura ou negrito de caracteres em uma tipografia. No CSS, é uma propriedade que permite especificar como pesada ou leve a fonte deve aparecer. Os valores podem ser numéricos (como 100, 400, 700) ou descritivos (como `normal`, `bold`, `lighter`, `bolder`), oferecendo controle sobre o ênfase visual do texto.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Font Weight](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/font-weight)
-- [@article@An Introduction to HTML/CSS Font Weight](https://www.udacity.com/blog/2021/01/html-css-font-weight.html)
-- [@article@CSS font-weight Property](https://www.w3schools.com/cssref/pr_font_weight.php)
-- [@video@CSS Tutorial For Beginners 30 - Font Weight](https://www.youtube.com/watch?v=qeh4UeaGTnc)
+- [@artigo@Peso da Fonte](https://developer.mozilla.org/pt-BR/docs/Web/CSS/font-weight)
+- [@artigo@Introdução ao Peso da Fonte em HTML/CSS](https://www.udacity.com/blog/2021/01/html-css-font-weight.html)
+- [@artigo@Propriedade CSS font-weight](https://www.w3schools.com/cssref/pr_font_weight.php)
+- [@vídeo@Tutorial CSS para Iniciantes 30 - Peso da Fonte](https://www.youtube.com/watch?v=qeh4UeaGTnc)

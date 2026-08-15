@@ -1,8 +1,8 @@
-# Element Selectors
+# Seletores de Elementos
 
-Element selectors in CSS target HTML elements directly by their tag name. They allow you to apply styles to all occurrences of a specific element, such as all `<p>` (paragraph) or `<h1>` (heading) tags on a webpage. This is the most basic type of selector and provides a straightforward way to style common HTML elements.
+Os seletores de elementos no CSS alvo diretamente os elementos HTML por seu nome de tag. Eles permitem que você aplique estilos a todas as ocorrências de um elemento específico, como todos os `<p>` (parágrafos) ou `<h1>` (títulos) em uma página da web. Este é o tipo básico de seletor e fornece uma maneira direta de estilizar elementos HTML comuns.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@CSS selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_selectors)
-- [@article@CSS Selectors Cheat Sheet](https://www.sitepoint.com/css-selectors/)
+- [@artigo@Seletores CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_selectors)
+- [@artigo@Folha de Estilos CSS: Guia Rápido](https://www.sitepoint.com/css-selectors/)

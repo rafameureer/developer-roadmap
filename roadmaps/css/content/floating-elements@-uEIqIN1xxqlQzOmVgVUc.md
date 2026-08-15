@@ -1,8 +1,8 @@
-# Floating Elements
+# Elementos Flutuantes
 
-Floating elements in CSS allow you to take an element out of the normal document flow and position it to the left or right of its containing element. Other content will then flow around the floated element. This technique is commonly used to create layouts where text wraps around images or to position elements side-by-side.
+Elementos flutuantes em CSS permitem que você tire um elemento da fluxo normal do documento e o coloque à esquerda ou à direita de seu contêiner. Outro conteúdo então fluirá ao redor do elemento flutuante. Este método é comumente usado para criar layouts onde o texto envolve imagens ou para posicionar elementos lado a lado.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Floating elements](https://developer.mozilla.org/en-US/docs/Web/CSS/float)
-- [@video@Learn CSS float in 4 minutes! 🎈](https://www.youtube.com/watch?v=oJe8G5XT_v4)
+- [@artigo@Elementos flutuantes](https://developer.mozilla.org/en-US/docs/Web/CSS/float)
+- [@vídeo@Aprenda CSS float em 4 minutos! 🎈](https://www.youtube.com/watch?v=oJe8G5XT_v4)

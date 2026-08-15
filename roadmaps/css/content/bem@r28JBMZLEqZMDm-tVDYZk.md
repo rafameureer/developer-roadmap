@@ -1,9 +1,9 @@
 # BEM
 
-BEM (Block, Element, Modifier) is a CSS naming convention that helps developers create more modular, reusable, and maintainable code. It structures class names to reflect the relationships between different parts of a user interface. This approach makes it easier to understand the purpose of each CSS rule and how it relates to the HTML structure, leading to more organized and scalable stylesheets.
+BEM (Bloco, Elemento, Modificador) é uma convenção de nomenclatura CSS que ajuda os desenvolvedores a criar código mais modular, reutilizável e mantém. Ele estrutura nomes de classe para refletir as relações entre diferentes partes da interface do usuário. Esse abordagem torna mais fácil entender o propósito de cada regra CSS e como ela se relaciona com a estrutura HTML, levando a estilosheets organizados e escaláveis.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@BEM](https://getbem.com/)
-- [@article@BEM 101](https://css-tricks.com/bem-101/)
-- [@video@Why I use the BEM naming convention for my CSS](https://www.youtube.com/watch?v=SLjHSVwXYq4)
+- [@oficial@BEM](https://getbem.com/)
+- [@artigo@BEM 101](https://css-tricks.com/bem-101/)
+- [@vídeo@Por que eu uso a convenção de nomenclatura BEM para meu CSS](https://www.youtube.com/watch?v=SLjHSVwXYq4)

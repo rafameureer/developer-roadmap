@@ -1,8 +1,8 @@
 # CSS Modules
 
-CSS Modules are a system where CSS class names and animation names are scoped locally by default. This means that the class names you define in your CSS files are automatically transformed to be unique, preventing naming collisions and making it easier to manage styles in large projects. They offer a way to write modular and reusable CSS, ensuring that styles are applied only to the intended components.
+CSS Modules é um sistema onde os nomes de classes CSS e animações são escopados localmente por padrão. Isso significa que os nomes de classes que você define em seus arquivos CSS são automaticamente transformados para serem únicos, previnindo colisões de nomeação e tornando mais fácil gerenciar estilos em projetos grandes. Eles oferecem uma maneira de escrever CSS modular e reutilizável, garantindo que os estilos sejam aplicados apenas aos componentes intencionais.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What are CSS Modules and why do we need them?](https://css-tricks.com/css-modules-part-1-need/)
-- [@video@CSS Modules: Why are they great?](https://www.youtube.com/watch?v=pKMWU9OrA2s)
+- [@article@O que são CSS Modules e por que precisamos deles?](https://css-tricks.com/css-modules-part-1-need/)
+- [@video@CSS Modules: Por que eles são incríveis?](https://www.youtube.com/watch?v=pKMWU9OrA2s)

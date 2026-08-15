@@ -1,8 +1,8 @@
 # Inline-Block
 
-`inline-block` is a value for the CSS `display` property. It allows an element to flow like an inline element (sitting on the same line as other content) but also allows you to set its width and height, similar to a block-level element. This combines the benefits of both `inline` and `block` elements.
+`inline-block` é um valor para a propriedade CSS `display`. Permite que um elemento flua como um elemento em linha (ficando na mesma linha do conteúdo) mas também permite definir seu tamanho e altura, similar a um elemento de nível de bloco. Isso combina os benefícios tanto dos elementos `inline` quanto dos elementos `block`.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@CSS display: inline-block](https://www.w3schools.com/css/css_inline-block.asp)
-- [@video@Block, Inline, and Inline-Block explained | CSS Tutorial](https://www.youtube.com/watch?v=x_i2gga-sYg)
+- [@artigo@CSS display: inline-block](https://www.w3schools.com/css/css_inline-block.asp)
+- [@vídeo@Bloco, Em linha e Inline-Block explicados | Tutorial de CSS](https://www.youtube.com/watch?v=x_i2gga-sYg)

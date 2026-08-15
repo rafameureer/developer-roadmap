@@ -1,7 +1,7 @@
-# Subsequent Sibling Combinator
+# Combinador de irmãos subsequentes
 
-The subsequent-sibling combinator in CSS is a way to select elements that are siblings (elements sharing the same parent) and appear directly after a specified element. It uses the tilde (~) symbol to denote this relationship. This selector targets all following siblings, not just the immediately adjacent one.
+O combinador de irmãos subsequentes em CSS é uma maneira de selecionar elementos que são irmãos (elementos compartilhando o mesmo pai) e aparecem diretamente após um elemento especificado. Ele usa o símbolo til (~) para denotar essa relação. Esse seletor alvo todos os irmãos subsequentes, não apenas o imediatamente adjacente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Subsequent-sibling combinator](https://developer.mozilla.org/en-US/docs/Web/CSS/Subsequent-sibling_combinator)
+- [@artigo@Combinador de irmãos subsequentes](https://developer.mozilla.org/en-US/docs/Web/CSS/Subsequent-sibling_combinator)

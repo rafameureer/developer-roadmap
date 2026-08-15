@@ -1,7 +1,7 @@
-# Fixed Positioning
+# Posicionamento Fixo
 
-Fixed positioning in CSS allows an element to be locked in place relative to the browser window. This means that even when the user scrolls the page, the element remains visible in the same location on the screen. It's often used for navigation bars, footers, or other elements that need to stay persistent.
+O posicionamento fixo em CSS permite que um elemento seja bloqueado em um lugar relativo à janela do navegador. Isso significa que, mesmo quando o usuário desloca a página, o elemento permanece visível na mesma localização na tela. Ele é frequentemente usado para barras de navegação, rodapés ou outros elementos que precisam permanecer persistentes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@CSS position deep dive](https://www.youtube.com/watch?v=fF_NVrd1s14)
+- [@artigo@Profundidade em CSS position](https://www.youtube.com/watch?v=fF_NVrd1s14)

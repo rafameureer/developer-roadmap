@@ -1,8 +1,8 @@
-# Simple Selectors
+# Seletores Simples
 
-Simple selectors in CSS are the basic building blocks for targeting HTML elements you want to style. They directly select elements based on their name (like `p` for paragraphs), ID (using `#`), or class (using `.`). These selectors are straightforward and provide a fundamental way to apply styles to specific parts of your webpage.
+Os seletores simples em CSS são os blocos de construção básicos para alvo de elementos HTML que você deseja estilizar. Eles selecionam diretamente elementos com base no seu nome (como `p` para parágrafos), ID (usando `#`) ou classe (usando `.`). Esses seletores são diretos e fornecem uma maneira fundamental de aplicar estilos a partes específicas da sua página web.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@article@Basic CSS selectors](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Basic_selectors)
 - [@video@CSS - Simple Selectors | W3Schools](https://www.youtube.com/watch?v=ZNskBxLVOfs)

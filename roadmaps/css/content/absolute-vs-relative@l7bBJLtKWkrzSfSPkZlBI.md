@@ -1,7 +1,7 @@
-# Absolute vs. Relative Units
+# Unidades Absolutas vs. Relativas em CSS
 
-Absolute units in CSS represent fixed measurements, like pixels (px) or inches (in), and will always render at the same size regardless of screen size or other factors. Relative units, on the other hand, are based on other values, such as the font size of the parent element (em), the viewport width (vw), or the root element's font size (rem), allowing for more flexible and responsive layouts.
+As unidades absolutas em CSS representam medidas fixas, como pixels (px) ou polegadas (in), e sempre serão renderizadas na mesma tamanho independentemente do tamanho da tela ou de outros fatores. As unidades relativas, por outro lado, são baseadas em outros valores, como o tamanho da fonte do elemento pai (em), a largura da viewport (vw) ou o tamanho da fonte do elemento raiz (rem), permitindo layouts mais flexíveis e responsivos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What are Absolute and Relative Units in CSS? Explained with Examples](https://www.freecodecamp.org/news/absolute-and-relative-css-units)
+- [@artigo@O que são Unidades Absolutas e Relativas em CSS? Explicado com Exemplos](https://www.freecodecamp.org/news/absolute-and-relative-css-units)

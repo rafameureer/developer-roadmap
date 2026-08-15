@@ -1,8 +1,8 @@
-# Comments
+# Comentários
 
-Comments in CSS are notes that you add to your code to explain what it does, or to temporarily disable parts of your code. Browsers ignore these comments, so they don't affect how your website looks. You create a CSS comment by starting with `/*` and ending with `*/`.
+Os comentários em CSS são anotações que você adiciona ao seu código para explicar o que ele faz, ou para temporariamente desabilitar partes do seu código. Os navegadores ignoram esses comentários, então eles não afetam como seu site aparece. Você cria um comentário em CSS iniciando com `/*` e terminando com `*/`.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@article@CSS Comments](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_syntax/Comments)
-- [@video@HTML & CSS for Absolute Beginners: HTML Comments](https://www.youtube.com/watch?v=NTlhOJIy8HY)
+- [@artigo@Comentários em CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Sintaxe_CSS/Comentários)
+- [@vídeo@HTML & CSS para iniciantes: Comentários HTML](https://www.youtube.com/watch?v=NTlhOJIy8HY)

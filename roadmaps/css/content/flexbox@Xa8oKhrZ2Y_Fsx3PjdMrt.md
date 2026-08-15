@@ -1,9 +1,9 @@
 # Flexbox
 
-Flexbox is a CSS layout model that provides an efficient way to arrange, align, and distribute space among items in a container, even when their size is unknown or dynamic. It simplifies the creation of complex layouts by offering powerful tools for controlling the direction, order, size, and alignment of elements within a container. Flexbox is particularly useful for designing responsive and adaptable user interfaces.
+O Flexbox é um modelo de layout CSS que oferece uma maneira eficiente de organizar, alinhar e distribuir espaço entre os itens em um contêiner, mesmo quando seus tamanhos são desconhecidos ou dinâmicos. Ele simplifica a criação de layouts complexos oferecendo ferramentas poderosas para controlar a direção, ordem, tamanho e alinhamento dos elementos dentro de um contêiner. O Flexbox é particularmente útil para design de interfaces do usuário responsivas e adaptáveis.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Flexbox](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Flexbox)
-- [@article@CSS Flexbox Layout Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [@video@Learn CSS Flexbox in 20 Minutes (Course)](https://www.youtube.com/watch?v=wsTv9y931o8)
+- [@artigo@Flexbox](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Flexbox)
+- [@artigo@Guia de layout CSS Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [@vídeo@Aprenda CSS Flexbox em 20 minutos (Curso)](https://www.youtube.com/watch?v=wsTv9y931o8)

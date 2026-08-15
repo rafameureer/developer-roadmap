@@ -1,8 +1,8 @@
-# Margin
+# Margem
 
-Margin in CSS defines the space around an HTML element's border. It creates a gap between the element and surrounding elements, controlling the spacing and layout of content on a webpage. Margins can be set on all four sides of an element (top, right, bottom, left) and can have positive or negative values.
+A margem em CSS define o espaço ao redor da borda de um elemento HTML. Cria uma lacuna entre o elemento e os elementos circundantes, controlando o espaçamento e o layout do conteúdo na página web. As margens podem ser definidas em todas as quatro lados de um elemento (cima, direita, baixo, esquerda) e podem ter valores positivos ou negativos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Margin](https://developer.mozilla.org/en-US/docs/Web/CSS/margin)
-- [@video@How CSS Padding and Margin Works](https://www.youtube.com/watch?v=NZEz4yNITd8)
+- [@artigo@Margem](https://developer.mozilla.org/pt-BR/docs/Web/CSS/margin)
+- [@vídeo@Como Funcionam o CSS Padding e Margin](https://www.youtube.com/watch?v=NZEz4yNITd8)

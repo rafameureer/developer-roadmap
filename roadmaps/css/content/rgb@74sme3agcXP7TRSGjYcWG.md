@@ -1,10 +1,10 @@
-# RGB Colors in CSS
+# Cores RGB em CSS
 
-RGB in CSS allows you to define colors using the Red, Green, and Blue color model. You specify the intensity of each color component (Red, Green, and Blue) as a value between 0 and 255, or as a percentage from 0% to 100%. By combining different amounts of red, green, and blue, you can create a wide range of colors. For example, `rgb(255, 0, 0)` represents pure red, `rgb(0, 255, 0)` represents pure green, and `rgb(0, 0, 255)` represents pure blue.
+O RGB em CSS permite definir cores usando o modelo de cor Vermelho, Verde e Azul. Você especifica a intensidade de cada componente de cor (Vermelho, Verde e Azul) como um valor entre 0 e 255, ou como um percentual de 0% a 100%. Combinando diferentes quantidades de vermelho, verde e azul, você pode criar uma ampla gama de cores. Por exemplo, `rgb(255, 0, 0)` representa o vermelho puro, `rgb(0, 255, 0)` representa o verde puro e `rgb(0, 0, 255)` representa o azul puro.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Color](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value)
-- [@article@rgb function](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value/rgb)
-- [@article@CSS RGB Colors](https://www.w3schools.com/css/css_colors_rgb.asp)
-- [@video@CSS - Colors RGB & RGBA - W3Schools.com](https://www.youtube.com/watch?v=6tbUo6PXc88)
+- [@artigo@Cores](https://developer.mozilla.org/pt-BR/docs/Web/CSS/color_value)
+- [@artigo@Função rgb](https://developer.mozilla.org/pt-BR/docs/Web/CSS/color_value/rgb)
+- [@artigo@Cores RGB em CSS](https://www.w3schools.com/css/css_colors_rgb.asp)
+- [@vídeo@CSS - Cores RGB & RGBA - W3Schools.com](https://www.youtube.com/watch?v=6tbUo6PXc88)

@@ -1,9 +1,9 @@
-# Responsive Typography
+# Tipografia Responsiva
 
-Responsive typography is about making the text on a webpage look good and be easily readable on different screen sizes and devices. It involves adjusting font sizes, line heights, letter spacing, and other text properties to ensure optimal readability, whether someone is viewing the site on a large desktop monitor or a small mobile phone. The goal is to create a consistent and pleasant reading experience across all platforms.
+A tipografia responsiva é sobre fazer o texto em uma página web parecer bonito e fácil de ler em diferentes tamanhos de tela e dispositivos. Envolve ajustar tamanhos de fonte, alturas de linha, espaçamento entre letras e outras propriedades de texto para garantir a leitura ótima, independentemente da pessoa estar visualizando o site em um monitor de desktop grande ou um telefone móvel pequeno. O objetivo é criar uma experiência de leitura consistente e agradável em todas as plataformas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@How To Create a Responsive Text](https://www.w3schools.com/howto/howto_css_responsive_text.asp)
-- [@article@The elements of responsive typography](https://blog.logrocket.com/elements-responsive-typography/)
-- [@video@Responsive Typography with CSS Clamp](https://www.youtube.com/watch?v=erqRw3E-vn4)
+- [@artigo@Como Criar Texto Responsivo](https://www.w3schools.com/howto/howto_css_responsive_text.asp)
+- [@artigo@Os elementos da tipografia responsiva](https://blog.logrocket.com/elements-responsive-typography/)
+- [@vídeo@Tipografia Responsiva com CSS Clamp](https://www.youtube.com/watch?v=erqRw3E-vn4)

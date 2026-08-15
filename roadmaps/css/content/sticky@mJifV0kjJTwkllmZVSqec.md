@@ -1,9 +1,9 @@
-# Sticky Positioning
+# Posicionamento Fixo
 
-Sticky positioning in CSS is a hybrid of relative and fixed positioning. An element with `position: sticky;` is initially positioned relatively, but when the user scrolls to a point where the element would normally scroll off-screen, it becomes fixed, sticking to the specified offset (e.g., `top: 0;`) until the containing block's boundary is reached.
+O posicionamento fixo em CSS é uma mistura de posicionamentos relativo e fixo. Um elemento com `position: sticky;` é inicialmente posicionado relativa, mas quando o usuário rola até um ponto onde o elemento normalmente sairia da tela, ele se torna fixo, aderindo ao deslocamento especificado (por exemplo, `top: 0;`) até que a fronteira do bloco contêiner seja atingida.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@CSS Position Sticky - How It Really Works!](https://elad.medium.com/css-position-sticky-how-it-really-works-54cd01dc2d46)
-- [@video@A couple of cool things you can do with CSS position sticky](https://www.youtube.com/watch?v=8TyoihVGErI)
-- [@video@CSS position deep dive](https://www.youtube.com/watch?v=fF_NVrd1s14)
+- [@artigo@CSS Position Sticky - Como Ele Funciona Realmente!](https://elad.medium.com/css-position-sticky-how-it-really-works-54cd01dc2d46)
+- [@vídeo@Algumas coisas legais que você pode fazer com CSS position sticky](https://www.youtube.com/watch?v=8TyoihVGErI)
+- [@vídeo@Profundidade de CSS position](https://www.youtube.com/watch?v=fF_NVrd1s14)

@@ -1,8 +1,8 @@
-# Font Families
+# Famílias de Fontes
 
-Font families in CSS are a way to specify the typeface used to display text on a webpage. They allow you to define a prioritized list of fonts, so if the user's computer doesn't have the first font available, the browser will try the next one in the list, and so on. This ensures that text is always displayed in a readable font, even if the preferred font isn't available.
+As famílias de fontes em CSS são uma maneira de especificar a tipografia usada para exibir texto em uma página da web. Elas permitem definir uma lista priorizada de fontes, então se o computador do usuário não tiver a primeira fonte disponível, o navegador tentará a próxima na lista, e assim por diante. Isso garante que o texto sempre seja exibido em uma fonte legível, mesmo se a fonte preferida não estiver disponível.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Font Families](https://developer.mozilla.org/en-US/docs/Web/CSS/font-family)
-- [@article@CSS Fonts](https://www.w3schools.com/css/css_font.asp)
+- [@artigo@Famílias de Fontes](https://developer.mozilla.org/pt-BR/docs/Web/CSS/font-family)
+- [@artigo@Fontes CSS](https://www.w3schools.com/css/css_font.asp)

@@ -1,7 +1,7 @@
-# Units with Functions
+# Unidades com Funções
 
-Units with functions in CSS allow you to dynamically calculate values for properties using functions like `calc()`, `min()`, `max()`, and `clamp()`. These functions enable you to perform mathematical operations and comparisons directly within your CSS, making your designs more flexible and responsive by adapting to different screen sizes and contexts. This helps in creating more dynamic and adaptable layouts.
+As unidades com funções em CSS permitem calcular dinamicamente valores para propriedades usando funções como `calc()`, `min()`, `max()` e `clamp()`. Essas funções permitem realizar operações matemáticas e comparações diretamente dentro do seu CSS, tornando seus designs mais flexíveis e responsivos ao se adaptar a diferentes tamanhos de tela e contextos. Isso ajuda na criação de layouts mais dinâmicos e adaptáveis.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@A CSS Unit Deep Dive - Learn CSS Units & When To Use Them](https://www.youtube.com/watch?v=fzZTvLmmTzM)
+- [@vídeo@Um Aprofundamento nas Unidades CSS - Aprenda sobre as Unidades CSS e Quando Usá-las](https://www.youtube.com/watch?v=fzZTvLmmTzM)

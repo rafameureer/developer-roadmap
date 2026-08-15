@@ -1,8 +1,8 @@
-# Cascading Order
+# Ordem Cascata
 
-Cascading order in CSS determines which styles are applied to an element when multiple conflicting rules target the same element. It's a set of rules that browsers follow to resolve these conflicts, prioritizing styles based on factors like importance, specificity, and source order. Understanding the cascading order is crucial for predicting and controlling how styles are applied to your web pages.
+A ordem cascata em CSS determina quais estilos são aplicados a um elemento quando várias regras conflitantes alvo o mesmo elemento. É um conjunto de regras que os navegadores seguem para resolver esses conflitos, priorizando estilos com base em fatores como importância, especificidade e ordem de origem. Entender a ordem cascata é crucial para prever e controlar como os estilos são aplicados às suas páginas web.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Introduction to the CSS cascade](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_cascade/Cascade)
-- [@article@Handling conflicts](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Handling_conflicts)
+- [@artigo@Introdução à Cascata CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Cascading_and_inheritance)
+- [@artigo@Lidando com conflitos](https://developer.mozilla.org/pt-BR/docs/Aprender/Desenvolvimento_web/Básico/Estilização_básica/Lidando_com_conflitos)

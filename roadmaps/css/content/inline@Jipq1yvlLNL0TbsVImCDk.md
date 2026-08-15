@@ -1,8 +1,8 @@
-# Inline Display
+# Exibição Inline
 
-The `display: inline` property in CSS is used to specify that an element should be displayed as an inline element. Inline elements flow along with the surrounding content, similar to how text flows within a paragraph. They only take up as much width as necessary to contain their content, and the width and height properties do not affect them.
+A propriedade `display: inline` no CSS é usada para especificar que um elemento deve ser exibido como um elemento de linha. Elementos de linha se fluem junto com o conteúdo circundante, da mesma forma como o texto flui dentro de um parágrafo. Eles ocupam apenas o espaço necessário para conter seu conteúdo, e as propriedades de largura e altura não afetam eles.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Block and inline layout in normal flow](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_display/Block_and_inline_layout_in_normal_flow)
-- [@video@Block, Inline, and Inline-Block explained | CSS Tutorial](https://www.youtube.com/watch?v=x_i2gga-sYg)
+- [@artigo@Layout de bloco e inline no fluxo normal](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_display/Layout_de_bloco_e_inline_no_fluxo_normal)
+- [@vídeo@Explicando Block, Inline e Inline-Block | Tutorial CSS](https://www.youtube.com/watch?v=x_i2gga-sYg)

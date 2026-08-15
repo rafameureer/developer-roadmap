@@ -1,8 +1,8 @@
-# Lists
+# Listas
 
-Lists in CSS are used to style HTML list elements, such as `<ul>` (unordered list), `<ol>` (ordered list), and `<dl>` (definition list). CSS provides properties to control the appearance of list markers (bullets or numbers), their position, and the overall styling of the list items. This allows you to customize the visual presentation of lists beyond the default browser styles.
+As listas em CSS são usadas para estilizar elementos de lista HTML, como `<ul>` (lista não ordenada), `<ol>` (lista ordenada) e `<dl>` (lista de definição). O CSS fornece propriedades para controlar a aparência dos marcadores da lista (bolhas ou números), sua posição e o estilo geral dos itens da lista. Isso permite personalizar a apresentação visual das listas além dos estilos padrão do navegador.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@CSS lists and counters](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_lists)
-- [@video@CSS List Styles Tutorial for Beginners](https://www.youtube.com/watch?v=jcThx0U066w)
+- [@artigo@Listas CSS e contadores](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_lists)
+- [@vídeo@Tutorial de Estilos de Lista CSS para Iniciantes](https://www.youtube.com/watch?v=jcThx0U066w)

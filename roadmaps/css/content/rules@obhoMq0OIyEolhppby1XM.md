@@ -1,7 +1,7 @@
-# CSS Rules
+# Regras CSS
 
-CSS rules are the fundamental building blocks of CSS stylesheets. Each rule specifies how particular HTML elements should be styled. A rule consists of a selector, which identifies the element(s) to be styled, and a declaration block, which contains one or more property-value pairs that define the styles to be applied. These property-value pairs are separated by semicolons and define the visual presentation of the selected elements.
+As regras CSS são os blocos fundamentais de estilos de folhas de estilo CSS. Cada regra especifica como certos elementos HTML devem ser estilizados. Uma regra consiste em um seletor, que identifica o(s) elemento(s) a serem estilizados, e um bloco de declaração, que contém uma ou mais pares de propriedade-valor que definem os estilos a serem aplicados. Esses pares de propriedade-valor são separados por ponto-e-vírgula e definem a apresentação visual dos elementos selecionados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Introduction to CSS syntax: declarations, rulesets, and statements](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_syntax/Syntax)
+- [@artigo@Introdução à sintaxe CSS: declarações, regras e instruções](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_syntax/Syntax)

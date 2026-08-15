@@ -1,8 +1,8 @@
-# Grouping Selectors
+# Agrupamento de Seletores
 
-Grouping selectors in CSS allows you to apply the same styles to multiple HTML elements simultaneously. Instead of writing the same CSS rules for each element individually, you can list the selectors separated by commas. This makes your CSS code more concise and easier to maintain, as you only need to define the styles once for all the grouped elements.
+O agrupamento de seletores em CSS permite aplicar os mesmos estilos a vários elementos HTML simultaneamente. Em vez de escrever as mesmas regras CSS para cada elemento individualmente, você pode listar os seletores separados por vírgulas. Isso torna seu código CSS mais conciso e mais fácil de manter, pois você só precisa definir os estilos uma vez para todos os elementos agrupados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Grouping Multiple CSS Selectors](https://www.thoughtco.com/grouping-multiple-css-selectors-3467065)
-- [@article@Grouping Selectors in CSS](https://www.tutorialspoint.com/grouping-selectors-in-css)
+- [@article@Agrupando Múltiplos Seletores CSS](https://www.thoughtco.com/grouping-multiple-css-selectors-3467065)
+- [@article@Agrupamento de Seletores em CSS](https://www.tutorialspoint.com/css/grouping-selectors-in-css)

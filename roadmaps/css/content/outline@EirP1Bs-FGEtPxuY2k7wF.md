@@ -1,8 +1,8 @@
 # Outline
 
-In CSS, the `outline` property draws a line around an element, outside the border. Unlike borders, outlines don't affect the element's dimensions or position in the layout. They are primarily used for highlighting elements, often for accessibility purposes like indicating focus. You can control the style, color, and width of the outline.
+No CSS, a propriedade `outline` desenha uma linha em torno de um elemento, fora da borda. Diferentemente das bordas, as outlines não afetam as dimensões ou a posição do elemento no layout. Elas são principalmente usadas para destacar elementos, muitas vezes por razões de acessibilidade como indicar foco. Você pode controlar o estilo, cor e largura da outline.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@article@Outline](https://developer.mozilla.org/en-US/docs/Web/CSS/outline)
-- [@video@CSS Outline vs Border - differences, advantages, and disadvantages](https://www.youtube.com/watch?v=xx_pJ2ouGnc)
+- [@video@Diferenças, vantagens e desvantagens entre CSS Outline e Border](https://www.youtube.com/watch?v=xx_pJ2ouGnc)

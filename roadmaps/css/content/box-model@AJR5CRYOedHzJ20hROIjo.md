@@ -1,8 +1,8 @@
-# Box Model
+# Modelo de Caixa
 
-The CSS box model describes how elements on a webpage are structured as rectangular boxes. Each box consists of content (text, images, etc.), padding (space around the content), a border (a line around the padding and content), and a margin (space around the border). Understanding the box model is crucial for controlling the size and spacing of elements on a webpage.
+O modelo de caixa do CSS descreve como os elementos em uma página web são estruturados como caixas retangulares. Cada caixa consiste no conteúdo (texto, imagens, etc.), preenchimento (espaço ao redor do conteúdo), borda (uma linha ao redor do preenchimento e do conteúdo) e margem (espaço ao redor da borda). Entender o modelo de caixa é crucial para controlar o tamanho e o espaçamento dos elementos em uma página web.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@The box model](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Box_model)
-- [@video@Learn CSS Box Model In 8 Minutes](https://www.youtube.com/watch?v=rIO5326FgPE)
+- [@artigo@O Modelo de Caixa](https://developer.mozilla.org/pt-BR/docs/Learn_web_development/Core/Styling_basics/Box_model)
+- [@vídeo@Aprenda sobre o Modelo de Caixa do CSS em 8 minutos](https://www.youtube.com/watch?v=rIO5326FgPE)

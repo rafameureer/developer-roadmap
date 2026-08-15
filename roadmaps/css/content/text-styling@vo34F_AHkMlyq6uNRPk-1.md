@@ -1,9 +1,9 @@
-# Text Styling
+# Estilização de Texto
 
-Text styling in CSS involves controlling the visual appearance of text elements on a webpage. This includes properties that affect the font family, size, weight, color, and style of the text. Additionally, it encompasses properties for text alignment, decoration (like underlines), letter spacing, line height, and text transformations (such as capitalization).
+A estilização de texto em CSS envolve controlar a aparência visual dos elementos de texto em uma página da web. Isso inclui propriedades que afetam a família de fontes, tamanho, peso, cor e estilo do texto. Além disso, abrange propriedades para alinhamento de texto, decoração (como sublinhados), espaçamento entre letras, altura da linha e transformações de texto (como capitalização).
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Fundamental text and font styling](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Text_styling/Fundamentals)
-- [@article@Styling Text in CSS](https://pieces.app/blog/styling-text-in-css)
-- [@video@Beginner’s guide to styling text with CSS](https://www.youtube.com/watch?v=Y5TYDo9Qcv4)
+- [@artigo@Fundamentos de Estilização de Texto e Fontes](https://developer.mozilla.org/pt-BR/docs/Aprender/Desenvolvimento_web_básico/CSS/Fundamentos_de_estilização_de_texto_e_fontes)
+- [@artigo@Estilizando Texto em CSS](https://pieces.app/blog/styling-text-in-css)
+- [@vídeo@Guia Iniciante para Estilizar Texto com CSS](https://www.youtube.com/watch?v=Y5TYDo9Qcv4)

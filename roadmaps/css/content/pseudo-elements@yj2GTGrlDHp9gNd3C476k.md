@@ -1,9 +1,9 @@
-# Pseudo-Elements
+# Pseudo-Elementos
 
-Pseudo-elements in CSS let you style specific parts of an element. They allow you to add styles to elements that don't actually exist in the HTML structure, like the first line of a paragraph or content before or after an element. This is done using double colons (::) followed by the pseudo-element name.
+Os pseudo-elementos em CSS permitem estilizar partes específicas de um elemento. Eles permitem adicionar estilos a elementos que na verdade não existem na estrutura HTML, como a primeira linha de um parágrafo ou conteúdo antes ou depois de um elemento. Isso é feito usando dois pontos (::) seguidos pelo nome do pseudo-elemento.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Pseudo-elements](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements)
-- [@article@CSS Pseudo-elements](https://www.w3schools.com/css/css_pseudo_elements.asp)
-- [@video@Learn CSS pseudo-elements in 5 minutes!](https://www.youtube.com/watch?v=_LxYNxeWpBo)
+- [@artigo@Pseudo-elementos](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Pseudo-elements)
+- [@artigo@CSS Pseudo-elementos](https://www.w3schools.com/css/css_pseudo_elements.asp)
+- [@vídeo@Aprenda pseudo-elementos CSS em 5 minutos!](https://www.youtube.com/watch?v=_LxYNxeWpBo)

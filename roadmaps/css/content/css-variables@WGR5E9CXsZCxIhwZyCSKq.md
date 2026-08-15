@@ -1,9 +1,9 @@
-# CSS Variables
+# Variáveis CSS
 
-CSS Variables, also known as custom properties, are entities defined by CSS authors that contain specific values to be reused throughout a stylesheet. They allow you to store a value in one place and then reference it in multiple other places, making it easier to maintain and update your CSS code. This promotes consistency and reduces repetition, leading to more efficient and manageable stylesheets.
+As variáveis CSS, também conhecidas como propriedades personalizadas, são entidades definidas por autores de CSS que contêm valores específicos a serem reutilizados em todo um folha de estilos. Elas permitem armazenar um valor em um lugar e depois referenciar em vários outros lugares, tornando mais fácil manter e atualizar o código CSS. Isso promove consistência e reduz a repetição, levando a folhas de estilo mais eficientes e gerenciáveis.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Using CSS custom properties (variables)](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_cascading_variables/Using_CSS_custom_properties)
-- [@article@How to use CSS variables like a pro](https://blog.logrocket.com/how-to-use-css-variables/)
-- [@video@Learn CSS Variables In 7 Minutes](https://www.youtube.com/watch?v=5wLrz_zUwoU)
+- [@artigo@Usando propriedades personalizadas do CSS (variáveis)](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Propriedades_personalizadas)
+- [@artigo@Como usar variáveis CSS como um profissional](https://blog.logrocket.com/how-to-use-css-variables/)
+- [@vídeo@Aprenda Variáveis CSS em 7 minutos](https://www.youtube.com/watch?v=5wLrz_zUwoU)

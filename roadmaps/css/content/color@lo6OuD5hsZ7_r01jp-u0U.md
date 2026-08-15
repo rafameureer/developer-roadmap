@@ -1,8 +1,8 @@
-# Color
+# Cor
 
-Color in CSS is used to specify the foreground color of text and other elements. It can be defined using various methods, including named colors (like "red" or "blue"), hexadecimal values (like "#FF0000"), RGB values (like "rgb(255, 0, 0)"), RGBA values (which include an alpha channel for transparency), HSL values (hue, saturation, lightness), and HSLA values (which include an alpha channel for HSL).
+A cor em CSS é usada para especificar a cor de primeiro plano do texto e outros elementos. Ela pode ser definida usando vários métodos, incluindo cores nomeadas (como "vermelho" ou "azul"), valores hexadecimais (como "#FF0000"), valores RGB (como "rgb(255, 0, 0)"), valores RGBA (que incluem um canal alfa para transparência), valores HSL (tonalidade, saturação, luminosidade) e valores HSLA (que incluem um canal alfa para HSL).
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@article@Text color](https://developer.mozilla.org/en-US/docs/Web/CSS/color)
-- [@article@CSS Font Color – How to Style Text in HTML](https://www.freecodecamp.org/news/css-font-color-how-to-style-text-in-html/)
+- [@artigo@Cor de texto](https://developer.mozilla.org/pt-BR/docs/Web/CSS/color)
+- [@artigo@CSS Cor da Fonte – Como Estilizar Texto em HTML](https://www.freecodecamp.org/news/css-cor-da-fonte-como-estilizar-texto-em-html/)

@@ -1,8 +1,8 @@
-# Position
+# Posição
 
-Position in CSS controls how an element is placed within its containing element or the document itself. It allows you to precisely define where an element appears on the page, influencing its relationship with other elements and the overall layout. Different position values offer varying levels of control, from static placement within the normal document flow to fixed positions that remain in place even when the user scrolls.
+A posição no CSS controla como um elemento é posicionado dentro de seu elemento contenedor ou o documento em si. Ele permite que você defina com precisão onde um elemento aparece na página, influenciando sua relação com outros elementos e o layout geral. Valores diferentes de posição oferecem níveis variados de controle, desde a colocação estática dentro do fluxo normal do documento até posições fixas que permanecem em lugar mesmo quando o usuário rola.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Position](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
-- [@video@Learn CSS Positions in 4 minutes](https://www.youtube.com/watch?v=YEmdHbQBCSQ)
+- [@artigo@Posição](https://developer.mozilla.org/pt-BR/docs/Web/CSS/position)
+- [@vídeo@Aprenda Posições CSS em 4 minutos](https://www.youtube.com/watch?v=YEmdHbQBCSQ)

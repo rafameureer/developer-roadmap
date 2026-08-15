@@ -1,8 +1,8 @@
-# Class Selectors
+# Seletores de Classe
 
-Class selectors in CSS are used to select HTML elements based on the `class` attribute. They allow you to apply specific styles to elements that share a common class name. You define a class selector by using a period (`.`) followed by the class name.
+Os seletores de classe em CSS são usados para selecionar elementos HTML com base no atributo `class`. Eles permitem que você aplique estilos específicos a elementos que compartilham um nome de classe comum. Você define um seletor de classe usando um ponto (`.`) seguido pelo nome da classe.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Class selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/Class_selectors)
-- [@article@The Beginner's Guide to CSS Classes & .class Selectors](https://blog.hubspot.com/website/what-is-css-class)
+- [@artigo@Seletores de Classe](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Seletores_de_classe)
+- [@artigo@Guia Iniciante sobre Classes CSS e Seletores .class](https://blog.hubspot.com/website/o-que-sao-css-classes-e-seletores-class)

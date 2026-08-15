@@ -1,8 +1,8 @@
-# Next Sibling Combinator
+# Combinador Próximo irmão
 
-The next-sibling combinator in CSS (represented by the `+` symbol) selects an element that immediately follows another specific element in the HTML structure. It targets the element that is the very next sibling, meaning it shares the same parent and appears directly after the first element in the source code. This allows you to style elements based on their immediate preceding sibling.
+O combinador próximo irmão no CSS (representado pelo símbolo `+`) seleciona um elemento que imediatamente segue outro elemento específico na estrutura HTML. Ele alvo o elemento que é o próximo irmão, o que significa que ele compartilha o mesmo pai e aparece diretamente após o primeiro elemento no código-fonte. Isso permite estilizar elementos com base em seu irmão imediato anterior.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Next-sibling combinator](https://developer.mozilla.org/en-US/docs/Web/CSS/Next-sibling_combinator)
-- [@article@https://css-tricks.com/child-and-sibling-selectors/](https://css-tricks.com/child-and-sibling-selectors/)
+- [@artigo@Combinador Próximo irmão](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Next-sibling_combinator)
+- [@artigo@Seletores de Filho e Irmãos](https://css-tricks.com/child-and-sibling-selectors/)

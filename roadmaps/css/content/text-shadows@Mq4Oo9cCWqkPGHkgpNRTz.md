@@ -1,8 +1,8 @@
-# Text Shadows
+# Sombras de Texto
 
-Text shadows in CSS add depth and visual interest to text by creating a blurred, offset copy of the text behind it. This effect is achieved using the `text-shadow` property, which allows you to specify the shadow's horizontal offset, vertical offset, blur radius, and color. Multiple shadows can be applied to a single text element, creating complex and layered effects.
+As sombras de texto em CSS adicionam profundidade e interesse visual ao texto criando uma cópia borrada e deslocada do texto por trás dele. Esse efeito é alcançado usando a propriedade `text-shadow`, que permite especificar o deslocamento horizontal, vertical, raio de borragem e cor da sombra. Múltiplas sombras podem ser aplicadas a um único elemento de texto, criando efeitos complexos e camadas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@text-shadow](https://developer.mozilla.org/en-US/docs/Web/CSS/text-shadow)
-- [@video@Learn CSS shadows in 3 minutes!](https://www.youtube.com/watch?v=Yqs_61ub1Ng)
+- [@artigo@Sombras de Texto](https://developer.mozilla.org/pt-BR/docs/Web/CSS/text-shadow)
+- [@vídeo@Aprenda sobre sombras de CSS em 3 minutos!](https://www.youtube.com/watch?v=Yqs_61ub1Ng)

@@ -1,8 +1,8 @@
-# Width and Height
+# Largura e Altura
 
-Width and height in CSS define the size of an element's content area. The `width` property sets the horizontal space an element occupies, while the `height` property sets the vertical space. These properties can be specified using various units like pixels, percentages, or keywords like `auto`.
+A largura e altura em CSS definem o tamanho da área de conteúdo de um elemento. A propriedade `width` define o espaço horizontal que um elemento ocupa, enquanto a propriedade `height` define o espaço vertical. Essas propriedades podem ser especificadas usando várias unidades como pixels, porcentagens ou palavras-chave como `auto`.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@CSS Width / Height Properties](https://www.programiz.com/css/width-height)
-- [@video@Learn CSS height and width in 6 minutes!](https://www.youtube.com/watch?v=QctF-i4-GuM)
+- [@artigo@Propriedades de Largura e Altura em CSS](https://www.programiz.com/css/width-height)
+- [@vídeo@Aprenda sobre largura e altura em CSS em 6 minutos!](https://www.youtube.com/watch?v=QctF-i4-GuM)

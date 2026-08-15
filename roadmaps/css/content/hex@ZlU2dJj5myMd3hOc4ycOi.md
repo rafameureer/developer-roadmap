@@ -1,8 +1,8 @@
-# Hex Colors
+# Cores Hexadecimais
 
-Hex colors in CSS are a way to specify colors using hexadecimal values. They use a six-digit code, prefixed with a hash symbol (#), to represent the red, green, and blue components of a color. Each pair of digits represents the intensity of one of these primary colors, ranging from 00 (lowest intensity) to FF (highest intensity). For example, #FF0000 is red, #00FF00 is green, and #0000FF is blue.
+As cores hexadecimais em CSS são uma maneira de especificar cores usando valores hexadecimais. Elas usam um código de seis dígitos, prefixado com um símbolo de cerquilha (#), para representar os componentes vermelho, verde e azul de uma cor. Cada par de dígitos representa a intensidade de um desses primários, variando de 00 (menor intensidade) a FF (maior intensidade). Por exemplo, #FF0000 é vermelho, #00FF00 é verde e #0000FF é azul.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@hex color](https://developer.mozilla.org/en-US/docs/Web/CSS/hex-color)
-- [@video@CSS - Colors Hex - W3Schools.com](https://www.youtube.com/watch?v=LLmCr_201GU)
+- [@article@Cor hexadecimal](https://developer.mozilla.org/pt-BR/docs/Web/CSS/hex-color)
+- [@video@CSS - Cores Hexadecimais - W3Schools.com](https://www.youtube.com/watch?v=LLmCr_201GU)

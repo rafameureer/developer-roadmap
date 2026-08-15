@@ -1,7 +1,7 @@
-# Static Positioning
+# Posicionamento Estático
 
-Static positioning is the default way elements are placed on a webpage. Elements with static positioning are rendered in the order they appear in the HTML, following the normal document flow. You can't move them using the `top`, `right`, `bottom`, or `left` properties.
+O posicionamento estático é a maneira padrão em que os elementos são colocados na página web. Elementos com posicionamento estático são renderizados na ordem em que aparecem no HTML, seguindo o fluxo normal do documento. Você não pode movê-los usando as propriedades `top`, `right`, `bottom` ou `left`.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@CSS position deep dive](https://www.youtube.com/watch?v=fF_NVrd1s14)
+- [@artigo@Profundidade de CSS position](https://www.youtube.com/watch?v=fF_NVrd1s14)

@@ -1,8 +1,8 @@
-# Text Transform
+# Transformação de Texto
 
-Text transform in CSS controls the capitalization of text. It allows you to change the case of letters within an element, regardless of how the text is originally written in the HTML. You can transform text to uppercase, lowercase, capitalize (first letter of each word), or keep the original case.
+A transformação de texto no CSS controla a capitalização do texto. Permite alterar o caso das letras dentro de um elemento, independentemente da forma como o texto é originalmente escrito em HTML. Você pode transformar o texto para maiúsculas, minúsculas, capitalizar (primeira letra de cada palavra) ou manter o caso original.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@text-transform](https://developer.mozilla.org/en-US/docs/Web/CSS/text-transform)
-- [@video@CSS Tutorial For Beginners - Text Transform](https://www.youtube.com/watch?v=j0FS2hCoIjs)
+- [@artigo@Transformação de Texto](https://developer.mozilla.org/pt-BR/docs/Web/CSS/text-transform)
+- [@vídeo@Tutorial CSS para Iniciantes - Transformação de Texto](https://www.youtube.com/watch?v=j0FS2hCoIjs)

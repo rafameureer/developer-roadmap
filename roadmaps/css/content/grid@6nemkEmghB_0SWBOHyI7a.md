@@ -1,9 +1,9 @@
-# Grid Layout
+# Layout de Grade
 
-Grid Layout is a two-dimensional layout system for CSS, enabling you to control the placement and sizing of elements within a grid container. It divides a webpage into rows and columns, allowing precise positioning of content and creating complex layouts with ease. This method offers flexibility and control over element arrangement, surpassing traditional methods like floats or positioning.
+O Layout de Grade é um sistema de layout bidimensional para CSS, que permite controlar a disposição e o tamanho dos elementos dentro de um contêiner de grade. Ele divide uma página da web em linhas e colunas, permitindo a posicionamento preciso do conteúdo e criando layouts complexos com facilidade. Esse método oferece flexibilidade e controle sobre a disposição dos elementos, superando métodos tradicionais como floats ou posicionamento.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout)
-- [@article@CSS Grid Layout Guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
-- [@video@CSS Grid Intro and Basic Layout Tutorial for Beginners](https://www.youtube.com/watch?v=EaWj2AWI5Es)
+- [@article@Layout de Grade CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_grid_layout)
+- [@article@Guia do Layout de Grade CSS](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [@video@Introdução ao Layout de Grade CSS e Tutorial Básico para Iniciantes](https://www.youtube.com/watch?v=EaWj2AWI5Es)

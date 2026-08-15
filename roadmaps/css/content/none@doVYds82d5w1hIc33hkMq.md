@@ -1,8 +1,8 @@
 # Display: None
 
-`display: none` is a CSS property value that completely removes an element from the document flow. When applied, the element will not take up any space on the page, and it will not be rendered at all. It's as if the element doesn't exist in the HTML structure for visual purposes.
+O valor `display: none` em CSS remove completamente um elemento do fluxo do documento. Quando aplicado, o elemento não ocupará espaço na página e não será renderizado de forma alguma. É como se o elemento não existisse na estrutura HTML para fins visuais.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@CSS display:none and visibility:hidden – What's the Difference?](https://www.freecodecamp.org/news/css-display-none-and-visibility-hidden-the-difference/)
-- [@video@We can now transition to and from display: none](https://www.youtube.com/watch?v=vmDEHAzj2XE)
+- [@article@Diferença entre CSS display:none e visibility:hidden](https://www.freecodecamp.org/news/css-display-none-and-visibility-hidden-the-difference/)
+- [@video@Transição para e de display: none](https://www.youtube.com/watch?v=vmDEHAzj2XE)

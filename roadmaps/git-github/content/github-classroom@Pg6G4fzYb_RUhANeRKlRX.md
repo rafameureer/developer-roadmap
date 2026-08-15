@@ -1,8 +1,8 @@
 # GitHub Classroom
 
-GitHub Classroom is an integrated feature within GitHub that allows educators to create and assign homework assignments, projects, or quizzes directly to students. This feature streamlines the process of teaching and learning by making it easy for instructors to share code, provide feedback, and track student progress all in one place. By using GitHub Classroom, teachers can focus on high-level instruction and student engagement, while also promoting collaboration and hands-on learning experiences.
+GitHub Classroom é uma funcionalidade integrada no GitHub que permite educadores criar e atribuir tarefas de trabalho, projetos ou questionários diretamente aos alunos. Esta funcionalidade simplifica o processo de ensino e aprendizagem ao tornar fácil para os professores compartilhar código, fornecer feedback e rastrear o progresso dos alunos em um único lugar. Ao usar GitHub Classroom, professores podem se concentrar na instrução de alto nível e na participação dos alunos, enquanto também promovem a colaboração e experiências de aprendizagem práticas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@About GitHub Classroom](https://docs.github.com/en/education/manage-coursework-with-github-classroom/get-started-with-github-classroom/about-github-classroom)
-- [@video@GitHub Classroom - Getting Started Guide](https://www.youtube.com/watch?v=xVVeqIDgCvM&list=PLIRjfNq867bewk3ZGV6Z7a16YDNRCpK3u)
+- [@official@Sobre o GitHub Classroom](https://docs.github.com/pt-br/education/manage-coursework-with-github-classroom/get-started-with-github-classroom/about-github-classroom)
+- [@video@Guia de introdução ao GitHub Classroom](https://www.youtube.com/watch?v=xVVeqIDgCvM&list=PLIRjfNq867bewk3ZGV6Z7a16YDNRCpK3u)

@@ -1,8 +1,8 @@
-# Usecases
- 
-Common use cases for GitHub Actions include running automated tests on every pull request, building and deploying applications, publishing packages, and sending notifications. It can also automate repository maintenance tasks, like labeling issues or closing stale pull requests. Because workflows can be triggered by nearly any GitHub event, teams use Actions to automate a wide range of development and operations tasks.
+# Casos de Uso
 
-Visit the following resources to learn more:
+Casos comuns de uso do GitHub Actions incluem executar testes automatizados em cada solicitação de pull, construir e implantar aplicativos, publicar pacotes e enviar notificações. Também pode automatizar tarefas de manutenção de repositórios, como rotular problemas ou fechar solicitações de pull inativas. Como os fluxos de trabalho podem ser disparados por quase qualquer evento do GitHub, as equipes usam Actions para automatizar uma ampla gama de tarefas de desenvolvimento e operações.
 
-- [@official@GitHub Actions Documentation](https://docs.github.com/en/actions)
-- [@article@How GitHub Actions 10x my productivity](https://www.youtube.com/watch?v=yfBtjLxn_6k)
+Acesse os seguintes recursos para saber mais:
+
+- [@oficial@Documentação do GitHub Actions](https://docs.github.com/en/actions)
+- [@artigo@Como GitHub Actions aumentou 10x minha produtividade](https://www.youtube.com/watch?v=yfBtjLxn_6k)

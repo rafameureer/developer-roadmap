@@ -1,8 +1,8 @@
-# Adding / Updating
+# Adicionar / Atualizar
 
-To add a submodule to a repository, use `git submodule add https://github.com/user/submodule-repo.git`, which is the typical format for specifying the URL of the submodule repository. This creates a new folder for the submodule and checks it out at the specified revision. To update an existing submodule to its latest commit, run `git submodule update`. If you want to pull in changes from upstream while keeping your submodule's history intact, use `git submodule sync` followed by `git submodule update`.
+Para adicionar um submódulo a um repositório, use `git submodule add https://github.com/user/submodule-repo.git`, que é o formato típico para especificar a URL do repositório de submódulo. Isso cria uma nova pasta para o submódulo e o verifica na revisão especificada. Para atualizar um submódulo existente para seu último commit, execute `git submodule update`. Se você quiser puxar alterações da origem enquanto mantém a história do submódulo intacta, use `git submodule sync` seguido por `git submodule update`.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Git submodules](https://www.atlassian.com/git/tutorials/git-submodule)
-- [@article@Working with submodules](https://github.blog/open-source/git/working-with-submodules/)
+- [@artigo@Submódulos do Git](https://www.atlassian.com/git/tutorials/git-submodule)
+- [@artigo@Trabalhando com submódulos](https://github.blog/open-source/git/working-with-submodules/)

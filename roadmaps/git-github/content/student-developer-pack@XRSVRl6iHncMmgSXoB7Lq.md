@@ -1,7 +1,7 @@
-# Student Developer Pack
+# Pacote de Desenvolvedor Estudante
 
-The GitHub Student Developer Pack is a collection of developer tools and resources that are offered free or at a discounted price to students through the GitHub Education program. This pack includes access to GitHub, GitHub Desktop, GitHub Classroom, GitHub Student Developer Kit, and other benefits. By using the Student Developer Pack, students can gain hands-on experience with professional developer tools, while also getting access to a wide range of educational resources.
+O GitHub Student Developer Pack é uma coleção de ferramentas e recursos de desenvolvedor oferecidos gratuitamente ou com desconto para estudantes através do programa GitHub Education. Este pacote inclui acesso ao GitHub, GitHub Desktop, GitHub Classroom, GitHub Student Developer Kit e outros benefícios. Ao usar o Pacote de Desenvolvedor Estudante, os estudantes podem obter experiência prática com ferramentas profissionais de desenvolvedor, enquanto também têm acesso a uma ampla gama de recursos educacionais.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Apply to GitHub Education as a student](https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/github-education-for-students/apply-to-github-education-as-a-student)
+- [@oficial@Aplicar ao GitHub Education como estudante](https://docs.github.com/pt-br/education/explore-the-benefits-of-teaching-and-learning-with-github-education/github-education-for-students/aplicar-se-ao-programa-educação-do-github-como-estudante)

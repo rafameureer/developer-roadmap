@@ -1,8 +1,8 @@
-# Saved Replies
+# Respostas Salvas
  
-Saved replies let users store commonly used comment templates that can be inserted into issues or pull requests with a click. This is useful for repetitive responses, like closing an issue with a standard message or thanking a contributor for their submission. GitHub provides some default saved replies, and users can add their own from the settings page.
+As respostas salvas permitem que usuários armazenem modelos de comentários comuns que podem ser inseridos em problemas ou solicitações de pull com um clique. Isso é útil para respostas repetitivas, como fechar um problema com uma mensagem padrão ou agradecer um contribuidor por sua submissão. O GitHub fornece algumas respostas salvas padrão e os usuários podem adicionar suas próprias no painel de configurações.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Using saved replies](https://docs.github.com/en/get-started/writing-on-github/working-with-saved-replies/using-saved-replies)
-- [@article@Walkthrough: Using GitHub’s “Saved Replies” to make life consistent and easy](https://prowe214.medium.com/walkthrough-using-githubs-saved-replies-to-make-life-consistent-and-easy-80f23efe6a0)
+- [@oficial@Usando respostas salvas](https://docs.github.com/en/get-started/writing-on-github/working-with-saved-replies/using-saved-replies)
+- [@artigo@Passo a Passo: Usando as "Respostas Salvas" do GitHub para tornar a vida consistente e fácil](https://prowe214.medium.com/walkthrough-using-githubs-saved-replies-to-make-life-consistent-and-easy-80f23efe6a0)

@@ -1,8 +1,8 @@
-# Project Readme
+# README do Projeto
  
-A README is the first file most people see when visiting a repository, typically explaining what the project does, how to install it, and how to use it. It's written in Markdown and rendered automatically on the repository's main page. A good README often includes usage examples, setup instructions, and links to further documentation or contribution guidelines.
+O README é o primeiro arquivo que a maioria das pessoas vê quando visitam um repositório, geralmente explicando o que o projeto faz, como instalá-lo e como usá-lo. Ele é escrito em Markdown e renderizado automaticamente na página principal do repositório. Um bom README frequentemente inclui exemplos de uso, instruções de configuração e links para documentação adicional ou diretrizes de contribuição.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@About READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
-- [@article@How to write a good README](https://bulldogjob.com/readme/how-to-write-a-good-readme-for-your-github-project)
+- [@oficial@Sobre READMEs](https://docs.github.com/pt-br/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
+- [@artigo@Como escrever um bom README](https://bulldogjob.com/readme/how-to-write-a-good-readme-for-your-github-project)

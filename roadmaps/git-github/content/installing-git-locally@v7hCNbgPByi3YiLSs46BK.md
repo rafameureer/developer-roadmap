@@ -1,8 +1,8 @@
-# Installing Git Locally
+# Instalando Git Localmente
  
-Installing Git locally means setting up the Git command-line tool on a personal machine so it can track and manage code changes. The installation process differs by operating system: Windows users typically download an installer from the official Git website, macOS users can install it through Homebrew or Xcode command line tools, and Linux users install it through their package manager. Once installed, running `git --version` in a terminal confirms the setup worked.
+A instalação do Git localmente significa configurar a ferramenta de linha de comando do Git em uma máquina pessoal para que ela possa rastrear e gerenciar alterações de código. O processo de instalação varia por sistema operacional: usuários do Windows geralmente baixam um instalador do site oficial do Git, os usuários do macOS podem instalá-lo através do Homebrew ou das ferramentas de linha de comando do Xcode, e os usuários do Linux instalam através do gerenciador de pacotes. Uma vez instalado, executar `git --version` em um terminal confirma que a configuração foi bem-sucedida.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Git - Downloads](https://git-scm.com/downloads)
-- [@article@Install Git](https://github.com/git-guides/install-git)
+- [@oficial@Git - Downloads](https://git-scm.com/downloads)
+- [@artigo@Instalar Git](https://github.com/git-guides/install-git)

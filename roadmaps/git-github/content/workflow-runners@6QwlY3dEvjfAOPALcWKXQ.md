@@ -1,8 +1,8 @@
-# Workflow Runners
+# Executores de Fluxo de Trabalho
 
-Workflow runners are the environments where GitHub Actions workflows are executed. They are hosted on GitHub-hosted virtual machines (GHVMs) or self-hosted runners. Each runner has a specific configuration and capabilities, depending on its type.
+Os executores de fluxo de trabalho são os ambientes onde os fluxos de trabalho do GitHub Actions são executados. Eles estão hospedados em máquinas virtuais virtuais (GHVMs) hospedadas pelo GitHub ou em executores auto-hospedados. Cada executor tem uma configuração e capacidades específicas, dependendo de seu tipo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@GitHub Actions Runners](https://docs.github.com/en/actions/hosting-your-own-runners/about-self-hosted-runners)
-- [@video@GitHub Actions Self-hosted runners](https://www.youtube.com/watch?v=aLHyPZO0Fy0)
+- [@oficial@Executores no GitHub Actions](https://docs.github.com/en/actions/hosting-your-own-runners/about-self-hosted-runners)
+- [@vídeo@Executores auto-hospedados no GitHub Actions](https://www.youtube.com/watch?v=aLHyPZO0Fy0)

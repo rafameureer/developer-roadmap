@@ -1,8 +1,8 @@
-# PR Guidelines
- 
-Pull request guidelines are the conventions a project sets for how contributions should be submitted, often documented in a `CONTRIBUTING.md` file. They typically cover expectations like keeping pull requests focused on a single change, writing a clear description, and linking related issues. Following these guidelines makes it easier for maintainers to review and merge contributions quickly.
+# Diretrizes para Solicitações de Pull Request (PR)
 
-Visit the following resources to learn more:
+As diretrizes para solicitações de pull request são as convenções que um projeto estabelece sobre como as contribuições devem ser submetidas, geralmente documentadas em um arquivo `CONTRIBUTING.md`. Eles normalmente cobrem expectativas como manter as solicitações de pull request focadas em uma única alteração, escrever uma descrição clara e vincular problemas relacionados. Seguir essas diretrizes facilita para os mantenedores revisar e mesclar contribuições rapidamente.
 
-- [@official@Best Practices for Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/getting-started/best-practices-for-pull-requests)
-- [@article@Pull Request Guidelines](https://opensource.creativecommons.org/contributing-code/pr-guidelines/)
+Acesse os seguintes recursos para saber mais:
+
+- [@official@Melhores Práticas para Solicitações de Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/getting-started/best-practices-for-pull-requests)
+- [@article@Diretrizes para Solicitações de Pull Request](https://opensource.creativecommons.org/contributing-code/pr-guidelines/)

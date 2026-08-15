@@ -1,8 +1,8 @@
-# GitHub Interface
+# Interface do GitHub
  
-The GitHub interface is the web-based dashboard used to navigate repositories, pull requests, issues, and account settings. It includes a repository view showing files and commit history, a notifications tab, and organization or team pages for shared projects. Learning the layout helps developers find their way around features like code review, project boards, and settings without confusion.
+A interface do GitHub é o painel baseado em web usado para navegar por repositórios, solicitações de pull, problemas e configurações da conta. Ela inclui uma visualização de repositório mostrando arquivos e histórico de commits, uma guia de notificações e páginas de organização ou equipe para projetos compartilhados. Aprender a disposição ajuda os desenvolvedores a encontrar seus caminhos em torno de recursos como revisão de código, quadros de projeto e configurações sem confusão.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@GitHub Desktop App](https://github.com/apps/desktop)
-- [@article@Getting Started with GitHub](https://digital.gov/resources/an-introduction-github/)
+- [@oficial@Aplicativo GitHub Desktop](https://github.com/apps/desktop)
+- [@artigo@Começando com o GitHub](https://digital.gov/pt-br/resources/an-introduction-github/)

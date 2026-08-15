@@ -1,8 +1,8 @@
-# Branch Naming
- 
-Branch naming conventions give structure to how branches are labeled, often including a prefix like `feature/`, `bugfix/`, or `hotfix/` followed by a short description. Consistent naming makes it easy to identify a branch's purpose at a glance and helps automate workflows that trigger based on branch name patterns. Teams often document their convention in a contributing guide so everyone follows the same format.
+# Nomenclatura de Branches
 
-Visit the following resources to learn more:
+As convenções de nomenclatura de branches dão estrutura à forma como as branches são rótuladas, geralmente incluindo um prefixo como `feature/`, `bugfix/` ou `hotfix/` seguido por uma descrição curta. A nomenclatura consistente torna fácil identificar o propósito de uma branch em um olhar e ajuda a automatizar workflows que são acionados com base em padrões de nomeação de branch. Equipes muitas vezes documentam sua convenção em um guia de contribuição para que todos sigam o mesmo formato.
 
-- [@article@Naming conventions for Git Branches — a Cheatsheet](https://medium.com/@abhay.pixolo/naming-conventions-for-git-branches-a-cheatsheet-8549feca2534)
-- [@article@Git Branching Naming Convention: Best Practices to Follow](https://phoenixnap.com/kb/git-branch-name-convention)
+Acesse os seguintes recursos para saber mais:
+
+- [@artigo@Convenções de nomenclatura para branches do Git — um Guia Rápido](https://medium.com/@abhay.pixolo/naming-conventions-for-git-branches-a-cheatsheet-8549feca2534)
+- [@artigo@Convenção de Nomenclatura de Branches do Git: Melhores Práticas para Seguir](https://phoenixnap.com/kb/git-branch-name-convention)

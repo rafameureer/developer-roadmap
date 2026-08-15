@@ -1,8 +1,8 @@
-# Deleting Branch
+# Excluindo uma Branch
 
-Deleting a Git branch means removing a line of development from your Git repository. A branch in Git is essentially a pointer to a specific commit, representing an independent line of development. When you delete a branch, you’re removing this pointer, making that line of development no longer accessible through the branch name.
+Excluir uma branch do Git significa remover uma linha de desenvolvimento do seu repositório Git. Uma branch no Git é essencialmente um ponteiro para um commit específico, representando uma linha de desenvolvimento independente. Quando você exclui uma branch, você está removendo este ponteiro, tornando essa linha de desenvolvimento inacessível através do nome da branch.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Creating and deleting branches within your repository](https://docs.github.com/articles/creating-and-deleting-branches-within-your-repository)
-- [@article@How to Delete a Git Branch Both Locally and Remotely](https://www.freecodecamp.org/news/how-to-delete-a-git-branch-both-locally-and-remotely/)
+- [@official@Criando e Excluindo Branches no Seu Repositório](https://docs.github.com/articles/creating-and-deleting-branches-within-your-repository)
+- [@article@Como Excluir uma Branch Git Local e Remotamente](https://www.freecodecamp.org/news/how-to-delete-a-git-branch-both-locally-and-remotely/)

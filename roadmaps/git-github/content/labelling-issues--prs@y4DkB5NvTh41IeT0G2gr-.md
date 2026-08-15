@@ -1,7 +1,7 @@
-# Labelling Issues / PRs
- 
-Labels are colored tags applied to issues and pull requests to categorize them by type, priority, or status. Common examples include "bug," "enhancement," or "help wanted," and repositories can define custom labels to match their workflow. Labels make it easier to filter and search through large numbers of issues or pull requests at a glance.
+# Rótulando Problemas / PRs
 
-Visit the following resources to learn more:
+Os rótulos são tags coloridas aplicadas a problemas e solicitações de pull request para categorizá-los por tipo, prioridade ou status. Exemplos comuns incluem "bug", "melhoria" ou "ajuda desejada", e repositórios podem definir rótulos personalizados para corresponderem ao seu fluxo de trabalho. Os rótulos facilitam a filtragem e busca por grandes números de problemas ou solicitações de pull request a primeira vista.
 
-- [@official@Managing labels](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/managing-labels)
+Acesse os seguintes recursos para saber mais:
+
+- [@oficial@Gerenciando rótulos](https://docs.github.com/pt-br/issues/using-labels-and-milestones-to-track-work/managing-labels)

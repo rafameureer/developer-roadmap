@@ -1,8 +1,8 @@
-# GitHub Essentials
- 
-GitHub Essentials covers the core features needed to start using GitHub as a collaboration platform on top of Git. This includes creating an account, understanding the interface, setting up a profile, and creating repositories. These basics form the starting point for hosting projects online and working with other developers.
+# Fundamentos do GitHub
 
-Visit the following resources to learn more:
+Fundamentos do GitHub cobrem as funcionalidades básicas necessárias para começar a usar o GitHub como plataforma de colaboração em cima do Git. Isso inclui criar uma conta, entender a interface, configurar um perfil e criar repositórios. Essas noções formam o ponto de partida para hospedar projetos online e trabalhar com outros desenvolvedores.
 
-- [@official@GitHub Essentials - Microsoft](https://learn.microsoft.com/en-us/contribute/content/git-github-fundamentals)
-- [@official@Hello World](https://docs.github.com/en/get-started/start-your-journey/hello-world)
+Acesse os seguintes recursos para saber mais:
+
+- [@oficial@Fundamentos do GitHub - Microsoft](https://learn.microsoft.com/en-us/contribute/content/git-github-fundamentals)
+- [@oficial@Olá Mundo](https://docs.github.com/pt-br/get-started/start-your-journey/hello-world)

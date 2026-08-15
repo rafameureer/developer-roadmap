@@ -1,8 +1,8 @@
-# Between Commits
+# Comparação entre Commits
 
-To compare two specific commits in your Git history, use git diff followed by the hashes of the commits. This will show you the changes made between those two points, including added, modified, and deleted lines.
+Para comparar duas revisões específicas em seu histórico Git, use `git diff` seguido pelos hashes dos commits. Isso mostrará as alterações feitas entre esses dois pontos, incluindo linhas adicionadas, modificadas e excluídas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Comparing changes with Git diff](https://refine.dev/blog/git-diff-command/)
-- [@video@Git Diff 2 Different Commits, Tags or Branches](https://www.youtube.com/watch?v=uq5VWPDCtFo)
+- [@artigo@Comparando mudanças com o comando Git diff](https://refine.dev/blog/git-diff-command/)
+- [@vídeo@Git Diff 2 Revisões Diferentes, Marcadores ou Branches](https://www.youtube.com/watch?v=uq5VWPDCtFo)

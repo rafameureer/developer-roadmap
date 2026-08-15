@@ -1,7 +1,7 @@
-# Private vs Public
- 
-A public repository is visible to anyone on GitHub and can be cloned or viewed by other users, while a private repository restricts access to the owner and any collaborators explicitly invited. Public repositories are common for open source projects that want community contributions, while private repositories suit proprietary code or work in progress. Repository visibility can be changed later in the settings, though switching a private repo to public exposes its entire history.
+# Privado vs Público
 
-Visit the following resources to learn more:
+Um repositório público é visível para qualquer pessoa no GitHub e pode ser clonado ou visualizado por outros usuários, enquanto um repositório privado restringe o acesso ao proprietário e a quaisquer colaboradores explicitamente convidados. Repositórios públicos são comuns para projetos de código aberto que desejam contribuições da comunidade, enquanto repositórios privados se adequam a código proprietário ou trabalho em andamento. A visibilidade do repositório pode ser alterada mais tarde nas configurações, embora mudar um repositório privado para público expome toda sua história.
 
-- [@official@About project visibility](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories#about-repository-visibility)
+Acesse os seguintes recursos para saber mais:
+
+- [@official@Sobre a visibilidade do projeto](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories#about-repository-visibility)

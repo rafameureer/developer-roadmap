@@ -1,7 +1,7 @@
 # post-checkout
 
-Git post-checkout hooks are scripts that run automatically after a successful `git checkout` operation. These hooks provide a way to customize Git's behavior and perform specific actions when switching branches or updating the working directory. Post-checkout hooks can be used for tasks such as updating dependencies, regenerating files, or adjusting project settings based on the newly checked-out branch. They offer developers a powerful tool to automate workflows and maintain consistency across different branches in a Git repository.
+Os hooks de post-checkout no Git são scripts que são executados automaticamente após uma operação `git checkout` bem-sucedida. Esses hooks fornecem uma maneira de personalizar o comportamento do Git e realizar ações específicas ao alternar branches ou atualizar o diretório de trabalho. Os hooks de post-checkout podem ser usados para tarefas como atualizar dependências, regenerar arquivos ou ajustar as configurações do projeto com base na branch recém-sincronizada. Eles oferecem aos desenvolvedores uma ferramenta poderosa para automatizar workflows e manter consistência em diferentes branches de um repositório Git.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Post-checkout hooks](https://git-scm.com/docs/githooks#_post_checkout)
+- [@oficial@Hooks de post-checkout](https://git-scm.com/docs/githooks#_post_checkout)

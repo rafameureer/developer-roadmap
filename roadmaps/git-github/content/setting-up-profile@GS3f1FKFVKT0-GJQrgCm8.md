@@ -1,8 +1,8 @@
-# Setting up Profile
+# Configurando Perfil
  
-Setting up a GitHub profile involves adding a profile picture, bio, location, and links to personal or professional sites. A well-configured profile helps other developers and potential employers understand who is behind the code. GitHub also lets users pin favorite repositories to the profile page to highlight specific projects.
+A configuração de um perfil do GitHub envolve adicionar uma foto de perfil, biografia, localização e links para sites pessoais ou profissionais. Um perfil bem configurado ajuda outros desenvolvedores e potenciais empregadores a entender quem está por trás do código. O GitHub também permite que os usuários anfixem repositórios favoritos à página do perfil para destacar projetos específicos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Setting up your profile](https://docs.github.com/en/get-started/start-your-journey/setting-up-your-profile)
+- [@official@Configurando seu perfil](https://docs.github.com/pt-br/get-started/start-your-journey/setting-up-your-profile)
 - [@video@GitHub Profile Readme](https://www.youtube.com/watch?v=KhGWbt1dAKQ)

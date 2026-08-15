@@ -1,7 +1,7 @@
-# Campus Program
+# Programa Campus
 
-The GitHub Campus Program offers GitHub Enterprise Cloud and GitHub Enterprise Server free-of-charge for schools that want to make the most of GitHub for their community. This program provides access to a comprehensive set of developer tools, as well as resources and support to help students and educators build projects, collaborate, and develop skills in software development.
+O GitHub Campus Program oferece o GitHub Enterprise Cloud e o GitHub Enterprise Server gratuitos para escolas que quiserem aproveitar ao máximo o GitHub para sua comunidade. Esse programa fornece acesso a um conjunto completo de ferramentas de desenvolvedor, bem como recursos e suporte para ajudar estudantes e educadores a construir projetos, colaborar e desenvolver habilidades em desenvolvimento de software.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@About GitHub Campus Program](https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/use-github-at-your-educational-institution/about-github-campus-program)

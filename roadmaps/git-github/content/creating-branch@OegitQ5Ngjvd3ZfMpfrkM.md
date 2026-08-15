@@ -1,8 +1,8 @@
-# Creating Branch
+# Criando Branch
 
-Creating a branch in Git is a fundamental part of working with version control, allowing you to work on different features or fixes without affecting the main codebase. You can create branches either through the terminal or github interface
+Criar um branch no Git é uma parte fundamental do trabalho com controle de versão, permitindo que você trabalhe em diferentes recursos ou correções sem afetar o código-fonte principal. Você pode criar branches tanto pelo terminal quanto pela interface do GitHub.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Git branch documentation](https://git-scm.com/docs/git-branch)
-- [@article@Git branch](https://www.atlassian.com/git/tutorials/using-branches)
+- [@oficial@Documentação Git branch](https://git-scm.com/docs/git-branch)
+- [@artigo@Git branch](https://www.atlassian.com/pt-br/git/tutorials/using-branches)

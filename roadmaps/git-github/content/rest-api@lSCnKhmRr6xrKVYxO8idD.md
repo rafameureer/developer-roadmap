@@ -1,9 +1,9 @@
-# REST API
+# API REST
 
-The GitHub REST API is a set of APIs that provide access to various GitHub features, such as user data, repository information, and commit history. It allows developers to interact with the GitHub platform programmatically.
+A API REST do GitHub é um conjunto de APIs que fornecem acesso a várias funcionalidades do GitHub, como dados de usuário, informações de repositório e histórico de commits. Ela permite que os desenvolvedores interajam com o plataforma GitHub de forma programática.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@GitHub REST API documentation](https://docs.github.com/en/rest?apiVersion=2022-11-28)
-- [@official@Quickstart for GitHub REST API](https://docs.github.com/en/rest/quickstart?apiVersion=2022-11-28)
-- [@video@\[Tutorial\] - How to use GitHub REST API for Beginners](https://www.youtube.com/watch?v=OvfLavRD1Os)
+- [@oficial@Documentação da API REST do GitHub](https://docs.github.com/en/rest?apiVersion=2022-11-28)
+- [@oficial@Guia Rápido para a API REST do GitHub](https://docs.github.com/en/rest/quickstart?apiVersion=2022-11-28)
+- [@vídeo@\[Tutorial\] - Como Usar a API REST do GitHub para Iniciantes](https://www.youtube.com/watch?v=OvfLavRD1Os)

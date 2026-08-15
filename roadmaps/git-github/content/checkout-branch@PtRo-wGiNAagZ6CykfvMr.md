@@ -1,8 +1,8 @@
 # Checkout Branch
 
-In Git, to "checkout" from a branch means to switch your working directory to that branch, making it the active branch. This updates your files to match the state of that branch and allows you to work on it.
+No Git, "checkout" de uma branch significa alternar seu diretório de trabalho para essa branch, tornando-a a branch ativa. Isso atualiza seus arquivos para corresponder ao estado dessa branch e permite que você trabalhe nela.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@git-checkout](https://git-scm.com/docs/git-checkout)
 - [@article@git-commands-checkout](https://www.git-tower.com/learn/git/commands/git-checkout)

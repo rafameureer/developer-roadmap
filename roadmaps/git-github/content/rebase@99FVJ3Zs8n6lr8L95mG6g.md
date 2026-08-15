@@ -1,7 +1,7 @@
 # Rebase
 
-Rebasing in Git is a powerful and potentially complex feature used to reorganize or modify a series of commits. The primary purpose of rebasing is to create a cleaner, more linear project history by moving or combining changes from one branch into another.
+Rebasing no Git é uma funcionalidade poderosa e potencialmente complexa usada para reorganizar ou modificar uma série de commits. O principal propósito do rebasing é criar uma história de projeto mais limpa e linear movendo ou combinando alterações de um ramo em outro.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Rebasing](https://git-scm.com/book/en/v2/Git-Branching-Rebasing)
+- [@oficial@Rebasing](https://git-scm.com/book/en/v2/Git-Branching-Rebasing)

@@ -1,8 +1,8 @@
 # git reset
 
-Git reset is a command that allows you to "undo" or reset your current branch to a previous state by moving its HEAD pointer, effectively discarding changes made since then. When using git reset, it's essential to specify one of the three modes: soft, hard, or mixed. The mode you choose will determine how Git interacts with files in your working directory and staging area.
+O comando `git reset` permite que você "desfaça" ou redefina sua branch atual para um estado anterior movendo seu ponteiro HEAD, descartando assim as alterações feitas desde então. Ao usar `git reset`, é essencial especificar um dos três modos: soft, hard ou mixed. O modo que você escolhe determinará como o Git interage com os arquivos em seu diretório de trabalho e área de staging.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@article@git reset](https://www.atlassian.com/git/tutorials/undoing-changes/git-reset)
-- [@video@Git Reset | How to Use Git Reset | Learn Git](https://www.youtube.com/watch?v=s1idhUiCk38)
+- [@artigo@git reset](https://www.atlassian.com/git/tutorials/undoing-changes/git-reset)
+- [@vídeo@Git Reset | Como Usar Git Reset | Aprenda Git](https://www.youtube.com/watch?v=s1idhUiCk38)

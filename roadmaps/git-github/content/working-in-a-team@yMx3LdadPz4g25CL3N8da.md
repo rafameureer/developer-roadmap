@@ -1,8 +1,8 @@
-# Working in a Team
- 
-Working in a team on GitHub involves managing shared access, roles, and communication across multiple contributors on the same project. This includes adding collaborators or members, organizing people into GitHub organizations, and structuring them into teams with specific permissions. These features scale collaboration beyond a single developer to groups working together on shared codebases.
+# Trabalhando em Equipe
 
-Visit the following resources to learn more:
+Trabalhar em equipe no GitHub envolve gerenciar o acesso compartilhado, papéis e comunicação entre vários contribuidores no mesmo projeto. Isso inclui adicionar colaboradores ou membros, organizar pessoas em organizações do GitHub e estruturar-as em equipes com permissões específicas. Essas funcionalidades escalam a colaboração além de um único desenvolvedor para grupos trabalhando juntos em códigos compartilhados.
 
-- [@official@Getting Started with Teams](https://docs.github.com/en/get-started/onboarding/getting-started-with-github-team)
-- [@official@GitHub Team Docs](https://docs.github.com/organizations/organizing-members-into-teams/about-teams)
+Acesse os seguintes recursos para saber mais:
+
+- [@oficial@Começando com Equipes](https://docs.github.com/pt-br/get-started/onboarding/getting-started-with-github-team)
+- [@oficial@Documentação de Equipes do GitHub](https://docs.github.com/organizations/organizing-members-into-teams/about-teams)

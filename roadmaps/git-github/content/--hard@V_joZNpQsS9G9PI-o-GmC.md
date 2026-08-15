@@ -1,7 +1,7 @@
 # --hard
- 
-`git reset --hard` moves the branch pointer to a specified commit and resets both the staging area and working directory to match it exactly. Any changes in commits after that point, as well as any uncommitted work, get permanently discarded. This is one of the more destructive Git commands, so it should be used carefully since undone changes can be difficult to recover.
 
-Visit the following resources to learn more:
+O comando `git reset --hard` move o ponteiro da branch para um commit especificado e redefine tanto a área de staging quanto o diretório de trabalho para corresponder exatamente a ele. Qualquer alteração nos commits após esse ponto, assim como qualquer trabalho não confirmado, é descartado permanentemente. Este é um dos comandos mais destrutivos do Git, então deve ser usado com cuidado, pois mudanças não revertidas podem ser difíceis de recuperar.
 
-- [@official@--hard documentation](https://git-scm.com/docs/git-reset#Documentation/git-reset.txt---hard)
+Acesse os seguintes recursos para saber mais:
+
+- [@official@documentação --hard](https://git-scm.com/docs/git-reset#Documentation/git-reset.txt---hard)

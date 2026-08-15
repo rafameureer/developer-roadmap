@@ -1,7 +1,7 @@
-# Tagging
+# Marcadores
  
-Tagging marks a specific commit as significant, typically used to denote release versions like `v1.0.0`. Unlike branches, tags don't move as new commits are added, so they act as a fixed reference point in history. Tags can be lightweight, just a name pointing to a commit, or annotated, storing extra metadata like the tagger's name and a message.
+Marcadores marcam um commit específico como significativo, geralmente usado para denotar versões de lançamento como `v1.0.0`. Diferentemente das ramificações, os marcadores não se movem com a adição de novos commits, então eles atuam como um ponto de referência fixo na história. Marcadores podem ser leves, apenas um nome apontando para um commit, ou anotados, armazenando metadados extras como o nome do marcador e uma mensagem.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Git Basics - Tagging](https://git-scm.com/book/en/v2/Git-Basics-Tagging)
+- [@official@Git Básico - Marcadores](https://git-scm.com/book/en/v2/Git-Basics-Tagging)

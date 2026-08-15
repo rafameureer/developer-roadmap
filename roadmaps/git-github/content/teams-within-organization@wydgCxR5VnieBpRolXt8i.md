@@ -1,8 +1,8 @@
-# Teams within Organization
+# Equipes dentro da Organização
  
-Teams within a GitHub organization group members together to manage permissions more efficiently across multiple repositories. Instead of granting access to each person individually, an admin assigns access to a team, and every member inherits those permissions. This structure is useful for larger organizations where different teams, like frontend or backend developers, need different levels of access to specific repositories.
+Equipes dentro de uma organização do GitHub agrupam membros juntos para gerenciar permissões mais eficientemente em vários repositórios. Em vez de conceder acesso a cada pessoa individualmente, um administrador atribui acesso a uma equipe, e todos os membros herdam essas permissões. Esta estrutura é útil para organizações maiores onde diferentes equipes, como desenvolvedores frontend ou backend, precisam de níveis diferentes de acesso a repositórios específicos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Organizing Members into Teams](https://docs.github.com/en/organizations/organizing-members-into-teams)
-- [@article@Best Practices for Organizations and Teams using GitHub Enterprise Cloud](https://github.blog/enterprise-software/devops/best-practices-for-organizations-and-teams-using-github-enterprise-cloud/)
+- [@official@Organizando Membros em Equipes](https://docs.github.com/en/organizations/organizing-members-into-teams)
+- [@article@Melhores Práticas para Organizações e Equipes usando o GitHub Enterprise Cloud](https://github.blog/enterprise-software/devops/best-practices-for-organizations-and-teams-using-github-enterprise-cloud/)

@@ -1,7 +1,7 @@
 # --mixed
 
-When using mixed mode, the HEAD pointer is moved to the specified commit. However, files in your working directory remain as they were before the reset. The staging area (index) is updated to match the specified commit.
+Quando usar o modo misto, o ponteiro HEAD é movido para o commit especificado. No entanto, os arquivos no diretório de trabalho permanecem como estavam antes do reset. A área de staging (índice) é atualizada para corresponder ao commit especificado.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@--mixed documentation](https://git-scm.com/docs/git-reset#Documentation/git-reset.txt---mixed)
+- [@official@documentação --mixed](https://git-scm.com/docs/git-reset#Documentation/git-reset.txt---mixed)

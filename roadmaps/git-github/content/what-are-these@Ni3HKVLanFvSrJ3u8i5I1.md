@@ -1,8 +1,8 @@
-# What are these?
- 
-GitHub Actions lets developers automate tasks that happen in response to events in a repository, such as pushing code or opening a pull request. Instead of manually running tests or deployments, a workflow file defines what should happen automatically when a specific trigger occurs. This removes repetitive manual steps from a development process and ensures checks run consistently every time.
+# O que são esses?
 
-Visit the following resources to learn more:
+GitHub Actions permite aos desenvolvedores automatizar tarefas que ocorrem em resposta a eventos em um repositório, como empurrar código ou abrir uma solicitação de pull. Em vez de executar manualmente testes ou implantações, um arquivo de fluxo define o que deve acontecer automaticamente quando um gatilho específico ocorrer. Isso remove etapas manuais repetitivas do processo de desenvolvimento e garante que verificadores sejam executados consistentemente sempre.
 
-- [@article@Understanding GitHub Actions](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions)
-- [@video@GitHub Actions Tutorial - Basic Concepts and CI/CD Pipeline with Docker](https://www.youtube.com/watch?v=R8_veQiYBjI)
+Acesse os seguintes recursos para saber mais:
+
+- [@artigo@Entendendo GitHub Actions](https://docs.github.com/pt-br/actions/learn-github-actions/entendendo-github-actions)
+- [@vídeo@Tutorial de GitHub Actions - Conceitos Básicos e Pipeline CI/CD com Docker](https://www.youtube.com/watch?v=R8_veQiYBjI)

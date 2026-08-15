@@ -1,8 +1,8 @@
-# Workflow Triggers
+# Gatilhos do Workflow
 
-Workflow triggers are events that initiate a GitHub Actions workflow. They can be scheduled, triggered by code changes, or manually initiated. This allows for automation of tasks based on specific conditions.
+Gatilhos de workflow são eventos que iniciam um fluxo de trabalho do GitHub Actions. Eles podem ser agendados, disparados por alterações no código ou iniciados manualmente. Isso permite a automação de tarefas com base em condições específicas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@GitHub Actions Documentation](https://docs.github.com/en/actions)
-- [@official@GitHub Actions Triggers](https://docs.github.com/en/actions/reference/events-that-trigger-workflows)
+- [@oficial@Documentação do GitHub Actions](https://docs.github.com/pt-br/actions)
+- [@oficial@Gatilhos do GitHub Actions](https://docs.github.com/pt-br/actions/reference/events-that-trigger-workflows)

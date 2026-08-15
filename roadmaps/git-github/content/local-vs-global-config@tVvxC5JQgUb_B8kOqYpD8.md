@@ -1,8 +1,8 @@
 # Local vs Global Config
  
-Git configuration can be set at the local level, which applies only to the current repository, or at the global level, which applies to every repository for that user. Local settings are stored inside a repository's `.git/config` file and override global ones when both exist. Global settings live in a file in the user's home directory, and developers typically use them to set default identity information like name and email across all their projects.
+A configuração do Git pode ser definida no nível local, que se aplica apenas ao repositório atual, ou no nível global, que se aplica a todos os repositórios para aquele usuário. As configurações locais são armazenadas dentro do arquivo `.git/config` de um repositório e sobrepõem as globais quando ambos existem. As configurações globais vivem em um arquivo na pasta home do usuário, e os desenvolvedores geralmente usam elas para definir informações de identidade padrão como nome e e-mail em todos seus projetos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Customizing Git - Git Configuration](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration)
-- [@article@A step-by-step guide to setting up global Git config properties](https://medium.com/geekculture/a-step-by-step-guide-to-setting-up-git-config-global-properties-db6dbce30fa8)
+- [@oficial@Personalizando Git - Configuração do Git](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration)
+- [@artigo@Um guia passo a passo para configurar propriedades globais do Git](https://medium.com/geekculture/a-step-by-step-guide-to-setting-up-git-config-global-properties-db6dbce30fa8)

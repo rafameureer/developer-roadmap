@@ -1,8 +1,8 @@
 # GitHub Gists
 
-A GitHub Gist is a small code or text snippet that can be shared with others. It is a simple way to share code, configuration files, or other snippets of text without creating a full-fledged repository. Gists are useful for sharing examples, demos, or tutorials, and they can also serve as a starting point for larger projects. Each gist has a unique URL that can be shared with others, allowing them to view and edit the content. Gists support various file types, including code files, text files, and even images. They also provide features like syntax highlighting, line numbers, and commit history.
+Um GitHub Gist é um pequeno trecho de código ou texto que pode ser compartilhado com outros. É uma maneira simples de compartilhar código, arquivos de configuração ou outros trechos de texto sem criar um repositório completo. Gists são úteis para compartilhar exemplos, demonstrações ou tutoriais, e também podem servir como ponto de partida para projetos maiores. Cada gist tem uma URL única que pode ser compartilhada com os outros, permitindo-lhes visualizar e editar o conteúdo. Os gists suportam vários tipos de arquivos, incluindo arquivos de código, arquivos de texto e até mesmo imagens. Eles também fornecem recursos como destacamento de sintaxe, números de linha e histórico de commits.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Creating Gists](https://docs.github.com/en/get-started/writing-on-github/editing-and-sharing-content-with-gists/creating-gists)
-- [@official@REST API endpoints for Gists](https://docs.github.com/en/rest/gists/gists?apiVersion=2022-11-28)
+- [@oficial@Criando Gists](https://docs.github.com/pt-br/get-started/writing-on-github/editing-and-sharing-content-with-gists/creating-gists)
+- [@oficial@Pontos finais da API REST para Gists](https://docs.github.com/pt-br/rest/gists/gists?apiVersion=2022-11-28)

@@ -1,9 +1,9 @@
-# Secrets and Env Vars
+# Segredos e Variáveis de Ambiente
  
-Secrets store sensitive values like API keys or passwords securely, configured in a repository's settings and referenced in workflows without exposing their actual values in logs. Environment variables, defined with the `env` key, hold configuration values that steps in a workflow can access during execution. Both are commonly used together, keeping sensitive data out of the workflow file itself while still making it available where needed.
+Segredos armazenam valores sensíveis como chaves API ou senhas com segurança, configurados nas configurações do repositório e referenciados em fluxos sem expor seus valores reais nos logs. As variáveis de ambiente, definidas com a chave `env`, seguem valores de configuração que os passos em um fluxo podem acessar durante a execução. Ambas são usadas com frequência juntas, mantendo dados sensíveis fora do próprio arquivo de fluxo, mas ainda disponíveis onde necessário.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Using secrets in GitHub Actions](https://docs.github.com/en/actions/security-for-github-actions/security-guides/using-secrets-in-github-actions)
-- [@official@Store information in variables](https://docs.github.com/en/actions/writing-workflows/choosing-what-your-workflow-does/store-information-in-variables)
-- [@video@Secrets and Environment Variables in your GitHub Action](https://www.youtube.com/watch?v=dPLPSaFqJmY)
+- [@official@Usando segredos no GitHub Actions](https://docs.github.com/pt-br/actions/security-guides/using-secrets-in-github-actions)
+- [@official@Armazenar informações em variáveis](https://docs.github.com/pt-br/actions/using-workflows/choosing-what-your-workflow-does/store-information-in-variables)
+- [@video@Segredos e Variáveis de Ambiente no seu GitHub Action](https://www.youtube.com/watch?v=dPLPSaFqJmY)

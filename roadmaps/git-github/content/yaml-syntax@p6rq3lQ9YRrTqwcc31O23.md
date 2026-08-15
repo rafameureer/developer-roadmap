@@ -1,10 +1,10 @@
-# YAML Syntax
- 
-GitHub Actions workflows are written in YAML, a human-readable format that uses indentation to represent structure instead of brackets or tags. A workflow file defines keys like `on` for triggers, `jobs` for the tasks to run, and `steps` for individual commands within each job. Getting the indentation right is important, since YAML is sensitive to spacing and incorrect indentation can break the entire workflow.
+# Sintaxe YAML
 
-Visit the following resources to learn more:
+Fluxos de trabalho do GitHub Actions são escritos em YAML, um formato legível por humanos que usa indentação para representar a estrutura em vez de chaves ou tags. Um arquivo de fluxo de trabalho define chaves como `on` para gatilhos, `jobs` para as tarefas a serem executadas e `steps` para comandos individuais dentro de cada job. É importante ter a indentação correta, pois YAML é sensível ao espaço e uma indentação incorreta pode quebrar todo o fluxo de trabalho.
 
-- [@official@YAML](https://yaml.org/)
-- [@article@YAML Cheatsheet](https://cheatsheets.zip/yaml)
-- [@article@What is YAML?](https://circleci.com/blog/what-is-yaml-a-beginner-s-guide/)
-- [@article@YAML Tutorial : A Complete Language Guide with Examples](https://spacelift.io/blog/yaml)
+Acesse os seguintes recursos para saber mais:
+
+- [@oficial@YAML](https://yaml.org/)
+- [@artigo@Folha de Recursos YAML](https://cheatsheets.zip/yaml)
+- [@artigo@O que é YAML?](https://circleci.com/blog/what-is-yaml-a-beginner-s-guide/)
+- [@artigo@Tutorial YAML: Um Guia Completo com Exemplos](https://spacelift.io/blog/yaml)

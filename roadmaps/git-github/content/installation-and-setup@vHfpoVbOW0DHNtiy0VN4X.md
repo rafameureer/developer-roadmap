@@ -1,9 +1,9 @@
-# Installation and Setup
+# Instalação e Configuração
  
-Installing GitHub CLI involves downloading the `gh` tool through a package manager like Homebrew, apt, or winget, depending on the operating system. After installation, running `gh auth login` connects the tool to a GitHub account through browser or token-based authentication. Once authenticated, `gh` commands can be run from any repository to interact with GitHub directly.
+A instalação do GitHub CLI envolve baixar a ferramenta `gh` através de um gerenciador de pacotes como Homebrew, apt ou winget, dependendo do sistema operacional. Após a instalação, executar `gh auth login` conecta a ferramenta à uma conta do GitHub por meio de autenticação baseada em navegador ou token. Uma vez autenticado, os comandos `gh` podem ser executados em qualquer repositório para interagir diretamente com o GitHub.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@GitHub CLI - Installation](https://github.com/cli/cli?tab=readme-ov-file#installation)
-- [@official@GitHub CLI - Release](https://github.com/cli/cli/releases/)
-- [@official@GitHub CLI Quickstart](https://docs.github.com/en/github-cli/github-cli/quickstart)
+- [@oficial@GitHub CLI - Instalação](https://github.com/cli/cli?tab=readme-ov-file#installation)
+- [@oficial@GitHub CLI - Lançamentos](https://github.com/cli/cli/releases/)
+- [@oficial@GitHub CLI Início Rápido](https://docs.github.com/en/github-cli/github-cli/quickstart)

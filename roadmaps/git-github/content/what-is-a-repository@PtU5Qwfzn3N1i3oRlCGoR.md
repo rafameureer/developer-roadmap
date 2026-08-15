@@ -1,9 +1,9 @@
-# What is a Repository
+# O que é um Repositório
 
-A repository is a storage location for your project's code, documentation, and other files. It serves as a central hub for collaboration, version control, and code management. It allows multiple people to work on the same project without overwriting each other's work.
+Um repositório é uma localização de armazenamento para o código, a documentação e outros arquivos do seu projeto. Ele atua como um centro de colaboração, controle de versão e gerenciamento de código. Permite que várias pessoas trabalhem no mesmo projeto sem sobrescrever o trabalho umas das outras.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@What is a repository? (Interactive Lesson)](https://inter-git.com/lessons/creating-repository)
-- [@article@About repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)
-- [@article@What is a repository?](https://www.gitkraken.com/learn/git/tutorials/what-is-a-git-repository)
+- [@curso@O que é um repositório? (Aula Interativa)](https://inter-git.com/lessons/criando-repository)
+- [@artigo@Sobre repositórios](https://docs.github.com/pt-br/repositories/creating-and-managing-repositories/sobre-repositórios)
+- [@artigo@O que é um repositório?](https://www.gitkraken.com/learn/git/tutorials/o-que-e-um-git-repository)

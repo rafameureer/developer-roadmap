@@ -1,8 +1,8 @@
 # pre-push
- 
-The `pre-push` hook runs before commits are pushed to a remote repository, allowing checks to run on the commits about to be shared. It's often used to run a test suite or verify that the branch is up to date before allowing the push to proceed. If the script exits with a non-zero status, the push is cancelled.
 
-Visit the following resources to learn more:
+O gatilho `pre-push` é executado antes de commits serem empurrados para um repositório remoto, permitindo que verifiquem os commits que estão prestes a ser compartilhados. Ele é frequentemente usado para rodar uma suite de testes ou verificar se a branch está atualizada antes de permitir o envio do push. Se o script sair com um status não-zero, o push será cancelado.
 
-- [@article@pre-push hooks](https://dev.to/jameson/pre-push-hooks-42g5)
-- [@video@Detect secrets with a pre-commit git hook](https://www.youtube.com/watch?v=8bDKn3y7Br4)
+Acesse os seguintes recursos para saber mais:
+
+- [@article@Gatilhos pre-push](https://dev.to/jameson/pre-push-hooks-42g5)
+- [@video@Detectando segredos com um gatilho git pre-commit](https://www.youtube.com/watch?v=8bDKn3y7Br4)

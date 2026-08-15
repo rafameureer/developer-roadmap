@@ -1,8 +1,8 @@
-# Between Branches
+# Entre Branches
 
-When comparing the differences between two branches, such as a feature branch and its upstream parent branch, use `git diff <branch1>..<branch2>`. This command displays the changes made on the feature branch relative to the parent branch. It's useful for reviewing the impact of new features or changes before merging them into your mainline.
+Quando comparar as diferenças entre duas branches, como uma branch de recurso e seu parente upstream, use `git diff <branch1>..<branch2>`. Este comando exibe as alterações feitas na branch de recurso em relação ao parente. É útil para revisar o impacto de novos recursos ou alterações antes de mesclá-las em sua linha principal.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@How to compare branches in Git diff](https://scribehow.com/shared/How_to_Compare_Branches_in_GitHub__xsotezV-S1O-GL0PquqJwQ)
-- [@article@How can I see the differences between two branches?](https://stackoverflow.com/questions/9834689/how-can-i-see-the-differences-between-two-branches)
+- [@artigo@Como comparar branches no Git diff](https://scribehow.com/shared/How_to_Compare_Branches_in_GitHub__xsotezV-S1O-GL0PquqJwQ)
+- [@artigo@Como ver as diferenças entre duas branches?](https://stackoverflow.com/questions/9834689/how-can-i-see-the-differences-between-two-branches)

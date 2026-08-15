@@ -1,8 +1,8 @@
-# Static Site Generators
+# Geradores de Sites Estáticos
 
-GitHub offers a set of static site generators (SSGs) that allow users to create and deploy websites directly from their GitHub repositories. These SSGs include `Jekyll`, `Hugo`, and `Middleman`, among others. They provide a simple way to build websites without the need for manual configuration or maintenance.
+O GitHub oferece um conjunto de geradores de sites estáticos (SSGs) que permitem aos usuários criar e implantar websites diretamente a partir dos seus repositórios do GitHub. Esses SSGs incluem `Jekyll`, `Hugo` e `Middleman`, entre outros. Eles fornecem uma maneira simples de construir sites sem a necessidade de configuração ou manutenção manual.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Static Site Generators](https://github.com/collections/static-site-generators)
-- [@official@About GitHub Pages and Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)
+- [@oficial@Geradores de Sites Estáticos](https://github.com/collections/static-site-generators)
+- [@oficial@Sobre GitHub Pages e Jekyll](https://docs.github.com/pt-br/pages/configurando-sites-github/configurar-um-site-github-pages-com-jekyll/sobre-github-pages-e-jekyll)

@@ -1,8 +1,8 @@
-# Submodules
+# Submódulos
  
-A submodule is a Git repository embedded inside another repository as a subdirectory, keeping its own separate history. It allows a project to include and track a specific version of another project without merging their codebases together. Submodules are commonly used for shared libraries or dependencies that are maintained in their own repository.
+Um submódulo é um repositório Git incorporado dentro de outro repositório como uma subdiretório, mantendo sua própria história separada. Ele permite que um projeto inclua e rastreie uma versão específica de outro projeto sem mesclar seus códigos juntos. Submódulos são comumente usados para bibliotecas ou dependências compartilhadas que são mantidas em seu próprio repositório.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Git Submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules)
-- [@article@Git Submodules Tutorial](https://www.atlassian.com/git/tutorials/git-submodule)
+- [@official@Submódulos do Git](https://git-scm.com/book/en/v2/Git-Tools-Submodules)
+- [@article@Tutorial de Submódulos do Git](https://www.atlassian.com/git/tutorials/git-submodule)

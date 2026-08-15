@@ -1,8 +1,8 @@
-# Automations
+# Automações
 
-To add automation to your GitHub project, use built-in workflows that can trigger actions such as setting fields on item changes or archiving items meeting specific criteria, and also configure automatic item addition from repositories based on matching criteria.
+Para adicionar automação ao seu projeto do GitHub, use fluxos de trabalho integrados que podem acionar ações como definir campos em alterações de itens ou arquivar itens que atendam a critérios específicos, e também configure a adição automática de itens a partir de repositórios com base em critérios de correspondência.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Automating your project](https://docs.github.com/en/issues/planning-and-tracking-with-projects/automating-your-project)
-- [@video@GitHub Project Management - Create GitHub Project Board & Automations](https://www.youtube.com/watch?v=oPQgFxHcjAw&t=600s)
+- [@oficial@Automatizando seu projeto](https://docs.github.com/en/issues/planning-and-tracking-with-projects/automating-your-project)
+- [@vídeo@Gerenciamento de projetos do GitHub - Crie um quadro de projeto do GitHub e automações](https://www.youtube.com/watch?v=oPQgFxHcjAw&t=600s)

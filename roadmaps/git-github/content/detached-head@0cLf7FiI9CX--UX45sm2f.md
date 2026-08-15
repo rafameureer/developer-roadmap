@@ -1,8 +1,8 @@
 # Detached HEAD
- 
-A detached HEAD state occurs when HEAD points directly to a specific commit instead of a branch, typically after checking out a commit hash or tag. Any new commits made in this state aren't attached to a branch, so they can be lost once another branch is checked out unless a new branch is created to save them. This state is often used to inspect old commits without affecting the current branch.
 
-Visit the following resources to learn more:
+O estado de HEAD desanexado ocorre quando o HEAD aponta diretamente para um commit específico em vez de uma branch, geralmente após verificar out a hash do commit ou a tag. Qualquer novo commit feito nesse estado não está anexado a uma branch, então pode ser perdido uma vez que outra branch for verificada, a menos que uma nova branch seja criada para salvá-los. Esse estado é frequentemente usado para inspecionar commits antigos sem afetar a branch atual.
 
-- [@article@How to resolve detached HEAD state in Git](https://graphite.dev/guides/how-to-resolve-detached-head-state-in-git)
-- [@video@Head & Detached Head](https://www.youtube.com/watch?v=HvDjbAa9ZsY)
+Acesse os seguintes recursos para saber mais:
+
+- [@artigo@Como resolver o estado de HEAD desanexado no Git](https://graphite.dev/guides/how-to-resolve-detached-head-state-in-git)
+- [@vídeo@HEAD & Detached Head](https://www.youtube.com/watch?v=HvDjbAa9ZsY)

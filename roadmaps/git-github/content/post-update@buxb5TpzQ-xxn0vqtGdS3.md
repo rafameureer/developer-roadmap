@@ -1,7 +1,7 @@
 # post-update
 
-Git post-update hooks are scripts that run automatically after a successful push to a repository. These hooks are executed on the remote repository and are typically used for server-side tasks such as updating other services, triggering continuous integration processes, or notifying team members about changes. Post-update hooks provide a powerful mechanism for automating workflows and maintaining consistency across different parts of a project's infrastructure, making them an essential tool for streamlining development processes and enhancing collaboration in Git-based projects.
+Os hooks de post-update do Git são scripts que são executados automaticamente após um push bem-sucedido para um repositório. Esses hooks são executados no repositório remoto e geralmente são usados para tarefas do lado do servidor, como atualizar outros serviços, disparar processos de integração contínua ou notificar membros da equipe sobre alterações. Os hooks de post-update fornecem um mecanismo poderoso para automatizar fluxos de trabalho e manter consistência em diferentes partes da infraestrutura de um projeto, tornando-os uma ferramenta essencial para otimizar processos de desenvolvimento e melhorar a colaboração em projetos baseados no Git.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Post-update hooks](https://git-scm.com/docs/githooks#post-update)
+- [@official@Hooks de post-update](https://git-scm.com/docs/githooks#post-update)

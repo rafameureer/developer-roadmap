@@ -1,10 +1,10 @@
-# Forking vs Cloning
- 
-Forking creates a personal copy of someone else's repository under the user's own GitHub account, allowing changes without affecting the original project. Cloning downloads a copy of a repository, whether it's the original or a fork, to a local machine for editing. Contributors typically fork a repository first, then clone their fork locally, so changes can eventually be proposed back to the original project through a pull request.
+# Fork vs Clonar
 
-Visit the following resources to learn more:
+O fork cria uma cópia pessoal de um repositório de outra pessoa sob a conta do próprio GitHub, permitindo alterações sem afetar o projeto original. O clone baixa uma cópia de um repositório, seja o original ou um fork, para uma máquina local para edição. Os contribuidores geralmente primeiro forkam um repositório, depois clonam seu fork localmente, para que as mudanças possam eventualmente ser propostas de volta ao projeto original através de uma solicitação de pull.
 
-- [@official@The difference between forking and cloning a repository](https://github.com/orgs/community/discussions/35849)
-- [@article@Git fork vs. clone: What's the difference?](https://www.theserverside.com/answer/Git-fork-vs-clone-Whats-the-difference)
-- [@video@Git Fork vs. Git Clone: What's the Difference?](https://youtu.be/6YQxkxw8nhE?si=mJNvcaB4lQccsU57)
-- [@video@GitHub Forking vs Cloning: Key Differences Explained](https://youtu.be/yQSjqYs2UBE?si=3BKYtWmkLIMWvA6G)
+Acesse os seguintes recursos para saber mais:
+
+- [@official@A diferença entre forkar e clonar um repositório](https://github.com/orgs/community/discussions/35849)
+- [@article@Git fork vs. clone: O que é a diferença?](https://www.theserverside.com/answer/Git-fork-vs-clone-Whats-the-difference)
+- [@video@Git Fork vs. Git Clone: O que é a Diferença?](https://youtu.be/6YQxkxw8nhE?si=mJNvcaB4lQccsU57)
+- [@video@GitHub Forking vs Cloning: Diferenças Chave Explained](https://youtu.be/yQSjqYs2UBE?si=3BKYtWmkLIMWvA6G)

@@ -1,8 +1,8 @@
-# Clean Git History
- 
-A clean Git history means commits are logically organized, well described, and free of unnecessary noise like "fix typo" or "WIP" messages. Techniques like squashing commits, rebasing, and writing clear commit messages all contribute to keeping history readable. A clean history makes it easier to trace when and why a specific change was introduced.
+# História Git Limpa
 
-Visit the following resources to learn more:
+Uma história Git limpa significa que os commits estão organizados logicamente, bem descritos e livres de ruído desnecessário como "correção de erro tipográfico" ou mensagens "WIP". Técnicas como compactar commits, rebase e escrever mensagens de commit claras contribuem para manter a história legível. Uma história limpa facilita o rastreamento quando e por que uma mudança específica foi introduzida.
 
-- [@article@Clean GIT history — a Step by Step Guide](https://medium.com/@catalinaturlea/clean-git-history-a-step-by-step-guide-eefc0ad8696d)
-- [@video@Git Best Practice Tip: Clean Commit History](https://youtu.be/bZpiVijzd2g?si=8lJTlR3LfY9ZUd77)
+Acesse os seguintes recursos para saber mais:
+
+- [@artigo@Limpeza da História Git — Um Guia Passo a Passo](https://medium.com/@catalinaturlea/clean-git-history-a-step-by-step-guide-eefc0ad8696d)
+- [@vídeo@Dica de Boas Práticas do Git: Limpeza da História de Commits](https://youtu.be/bZpiVijzd2g?si=8lJTlR3LfY9ZUd77)

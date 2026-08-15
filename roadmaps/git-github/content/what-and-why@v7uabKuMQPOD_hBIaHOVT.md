@@ -1,8 +1,8 @@
-# What and Why?
- 
-Git hooks let developers automate tasks or enforce rules at key points in the Git workflow, such as validating a commit message or running a linter before code gets committed. They exist because manually remembering to run checks before every commit or push is error-prone and easy to skip. By automating these checks, hooks help maintain consistency and catch problems earlier in the development process.
+# O que e Por que?
 
-Visit the following resources to learn more:
+Os hooks do Git permitem aos desenvolvedores automatizar tarefas ou impor regras em pontos-chave no fluxo de trabalho do Git, como validar uma mensagem de commit ou executar um linter antes que o código seja confirmado. Eles existem porque lembrar manualmente de executar verificações antes de cada commit ou push é propenso a erros e fácil de ignorar. Ao automatizar essas verificações, os hooks ajudam a manter consistência e detectar problemas mais cedo no processo de desenvolvimento.
+
+Acesse os seguintes recursos para saber mais:
 
 - [@article@Git Hooks](https://www.atlassian.com/git/tutorials/git-hooks)
-- [@video@What are Git Hooks?](https://www.youtube.com/watch?v=1OFiiPretCM)
+- [@video@O que são Git Hooks?](https://www.youtube.com/watch?v=1OFiiPretCM)

@@ -1,8 +1,8 @@
 # GitHub Projects
  
-GitHub Projects is a built-in project management tool that lets teams organize issues and pull requests into boards, tables, or timelines. It supports custom fields, automation rules, and different views to track work across one or multiple repositories. Teams use it to plan sprints, track progress, and visualize the status of ongoing work without leaving GitHub.
+GitHub Projects é uma ferramenta de gerenciamento de projetos integrada que permite às equipes organizar problemas e solicitações de pull em quadros, tabelas ou linhas do tempo. Ele suporta campos personalizados, regras de automação e diferentes visualizações para rastrear o trabalho em um ou vários repositórios. Equipes usam-o para planejar sprints, acompanhar o progresso e visualizar o status do trabalho em andamento sem sair do GitHub.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@About Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)
-- [@video@How to use Projects Roadmap](https://www.youtube.com/watch?v=D80u__nYYWw)
+- [@official@Sobre Projetos](https://docs.github.com/pt-br/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)
+- [@video@Como usar o Roadmap de Projetos](https://www.youtube.com/watch?v=D80u__nYYWw)

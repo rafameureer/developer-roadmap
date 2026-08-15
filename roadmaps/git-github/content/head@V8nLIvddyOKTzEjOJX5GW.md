@@ -1,8 +1,8 @@
 # HEAD
 
-The `HEAD` file is at the core of how Git knows the SHA-1 of the last commit when running commands like `git branch <branch>`. It serves as a symbolic reference, pointing to the current branch. However, in rare cases, HEAD can contain the actual SHA-1 value of a Git object, such as when checking out a tag, commit, or remote branch, which puts your repository in a "detached HEAD" state.
+O arquivo `HEAD` é o coração de como o Git sabe a SHA-1 da última confirmação quando executa comandos como `git branch <branch>`. Ele atua como uma referência simbólica, apontando para a ramificação atual. No entanto, em casos raros, HEAD pode conter o valor SHA-1 real de um objeto Git, como ao verificar out uma tag, confirmação ou ramificação remota, o que coloca seu repositório em um estado "HEAD desanexado".
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Git Internals - Git References - The HEAD](https://git-scm.com/book/en/v2/Git-Internals-Git-References#:~:text=want%20to%20create.-,The%20HEAD,-The%20question%20now)
-- [@video@Learn Git Essentials: Head & Detached Head](https://www.youtube.com/watch?v=HvDjbAa9ZsY)
+- [@oficial@Git Internals - Git References - The HEAD](https://git-scm.com/book/pt-br/v2/Git-Internais-Git-References#:~:text=want%20to%20create.-,The%20HEAD,-The%20question%20now)
+- [@vídeo@Aprenda os Conceitos Essenciais do Git: HEAD e Detached HEAD](https://www.youtube.com/watch?v=HvDjbAa9ZsY)

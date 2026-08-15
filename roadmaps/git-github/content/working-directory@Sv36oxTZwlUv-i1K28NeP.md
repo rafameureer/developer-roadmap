@@ -1,8 +1,8 @@
-# Working Directory
- 
-The working directory is the actual folder on disk where a developer edits files. It reflects the current state of the project, including any changes that have not yet been staged or committed. Git compares the working directory against the staging area and the last commit to determine what has changed.
+# Diretório de Trabalho
 
-Visit the following resources to learn more:
+O diretório de trabalho é a pasta real no disco onde um desenvolvedor edita arquivos. Ele reflete o estado atual do projeto, incluindo quaisquer alterações que ainda não foram indexadas ou confirmadas. O Git compara o diretório de trabalho com a área de staging e o último commit para determinar o que foi modificado.
 
-- [@article@Git vs Working Directory](https://codesweetly.com/git-vs-working-directory/)
-- [@article@Your Working Directory (Interactive Lesson)](https://inter-git.com/lessons/creating-repository)
+Acesse os seguintes recursos para saber mais:
+
+- [@artigo@Git vs Diretório de Trabalho](https://codesweetly.com/git-vs-working-directory/)
+- [@artigo@Seu Diretório de Trabalho (Aula Interativa)](https://inter-git.com/lessons/creating-repository)

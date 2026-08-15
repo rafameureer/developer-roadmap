@@ -1,10 +1,10 @@
-# Cloning Repositories
+# Clonando Repositórios
 
-Cloning a repository in Git and GitHub involves creating a local copy of a remote repository on your computer. This allows you to work on the project locally, commit changes, and later push those changes back to the remote repository.
+Clonar um repositório no Git e GitHub envolve criar uma cópia local de um repositório remoto em seu computador. Isso permite que você trabalhe no projeto localmente, comite alterações e posteriormente empurre essas alterações de volta para o repositório remoto.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@git clone](https://git-scm.com/docs/git-clone)
-- [@official@Cloning a Repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
-- [@article@Clone a Git Repository](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-clone)
-- [@video@Cloning Remote Repository into local machine](https://youtu.be/xeQih8LVtZM?si=djlyTDpLNS0oyqQH)
+- [@oficial@git clone](https://git-scm.com/docs/git-clone)
+- [@oficial@Clonando um Repositório](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
+- [@artigo@Clone a Git Repository](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-clone)
+- [@vídeo@Clonando um Repositório Remoto para Máquina Local](https://youtu.be/xeQih8LVtZM?si=djlyTDpLNS0oyqQH)

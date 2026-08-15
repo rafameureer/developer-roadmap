@@ -1,8 +1,8 @@
-# Project Planning
+# Planejamento de Projeto
  
-Project planning in GitHub Projects involves setting up boards, defining custom fields, and organizing tasks into a workflow that reflects how a team operates. This can include setting milestones, prioritizing issues, and assigning work to specific people or iterations. Planning ahead of time in a project board helps teams track progress and spot bottlenecks before deadlines.
+O planejamento de projetos no GitHub Projects envolve configurar quadros, definir campos personalizados e organizar tarefas em um fluxo de trabalho que reflete como uma equipe opera. Isso pode incluir definição de prazos, priorização de problemas e atribuição de trabalho a pessoas específicas ou iterações. Planejar antecipadamente em um quadro de projeto ajuda as equipes a rastrear o progresso e identificar gargalos antes dos prazos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Project planning for developers](https://github.com/features/issues)
-- [@video@GitHub Project Management](https://www.youtube.com/watch?v=oPQgFxHcjAw)
+- [@oficial@Planejamento de projetos para desenvolvedores](https://github.com/features/issues)
+- [@vídeo@Gerenciamento de Projetos no GitHub](https://www.youtube.com/watch?v=oPQgFxHcjAw)

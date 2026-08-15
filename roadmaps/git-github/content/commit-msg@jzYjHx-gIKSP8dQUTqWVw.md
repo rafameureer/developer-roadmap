@@ -1,8 +1,8 @@
 # commit-msg
 
-The commit-msg hook is a client-side hook that runs after you enter a commit message, but before the commit is finalized in your repository. It's typically used to validate or modify the commit message before it's recorded in the Git history.
+O hook de commit-msg é um hook do lado do cliente que é executado após você inserir uma mensagem de commit, mas antes que o commit seja finalizado em seu repositório. Ele é tipicamente usado para validar ou modificar a mensagem de commit antes de ela ser registrada na história do Git.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@A Git-Hook for Commit Messages Validation - No Husky, Just JS](https://dev.to/mbarzeev/a-git-hook-for-commit-messages-validation-no-husky-just-js-1hni)
-- [@video@Git Hooks Made Easy: Create a Custom 'commit-msg' Hook Script](https://www.youtube.com/watch?v=yH1lBm5t97s)
+- [@artigo@Um hook do Git para validação de mensagens de commit - Sem Husky, apenas JS](https://dev.to/mbarzeev/a-git-hook-for-commit-messages-validation-no-husky-just-js-1hni)
+- [@vídeo@Hooks do Git simplificados: Criando um script personalizado 'commit-msg' Hook](https://www.youtube.com/watch?v=yH1lBm5t97s)

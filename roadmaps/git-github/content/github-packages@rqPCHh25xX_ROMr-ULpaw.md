@@ -1,8 +1,8 @@
 # GitHub Packages
  
-GitHub Packages is a package hosting service that lets developers publish and manage packages, like npm, Docker, or Maven artifacts, directly within GitHub. It integrates with existing repository permissions, so access to a package can follow the same rules as the repository it's tied to. Teams use it to keep both their code and its published packages within the same platform and permission system.
+GitHub Packages é um serviço de hospedagem de pacotes que permite aos desenvolvedores publicar e gerenciar pacotes, como npm, Docker ou artefatos Maven, diretamente no GitHub. Ele integra com as permissões de repositório existentes, então o acesso a um pacote pode seguir as mesmas regras das repositórios às quais ele está ligado. Equipes usam-o para manter tanto seu código quanto seus pacotes publicados na mesma plataforma e sistema de permissões.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Introduction to GitHub Packages](https://docs.github.com/en/packages/learn-github-packages/introduction-to-github-packages)
-- [@official@GitHub Packages documentation](https://docs.github.com/en/packages)
+- [@official@Introdução ao GitHub Packages](https://docs.github.com/pt-br/packages/learn-github-packages/introduction-to-github-packages)
+- [@official@Documentação do GitHub Packages](https://docs.github.com/pt-br/packages)

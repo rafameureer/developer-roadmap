@@ -1,8 +1,8 @@
-# PR from a Fork
- 
-A pull request from a fork lets a contributor propose changes to a repository they don't have write access to. The contributor forks the repository, makes changes on their own copy, and opens a pull request comparing their fork's branch against the original repository. This workflow is the standard way open source contributions happen, since it doesn't require granting outside contributors direct write access.
+# Solicitação de Pull Request (PR) a partir de um Fork
 
-Visit the following resources to learn more:
+Uma solicitação de pull request (PR) a partir de um fork permite que um contribuidor proporcione alterações em um repositório para o qual não têm acesso de escrita. O contribuidor bifurca o repositório, faz as alterações em sua própria cópia e abre uma solicitação de pull request comparando a branch do fork com o repositório original. Este fluxo de trabalho é a maneira padrão como as contribuições de código aberto acontecem, pois não requer conceder acesso direto de escrita a contribuidores externos.
 
-- [@official@Creating a pull request from a fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)
-- [@video@How to Create a Pull Request from a Fork on GitHub](https://www.youtube.com/watch?v=a_FLqX3vGR4)
+Acesse os seguintes recursos para saber mais:
+
+- [@official@Criando uma solicitação de pull request a partir de um fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)
+- [@video@Como Criar uma Solicitação de Pull Request a partir de um Fork no GitHub](https://www.youtube.com/watch?v=a_FLqX3vGR4)

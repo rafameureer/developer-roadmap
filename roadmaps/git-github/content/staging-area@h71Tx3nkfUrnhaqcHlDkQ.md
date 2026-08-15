@@ -1,9 +1,9 @@
-# Staging Area
- 
-The staging area, also called the index, is where changes are prepared before being committed. Running `git add` moves specific changes from the working directory into the staging area, letting developers choose exactly what to include in the next commit. This separation gives control over grouping related changes together instead of committing every modified file at once.
+# Área de Staging
 
-Visit the following resources to learn more:
+A área de staging, também chamada de índice, é onde as mudanças são preparadas antes de serem confirmadas. Executar `git add` move as mudanças específicas do diretório de trabalho para a área de staging, permitindo aos desenvolvedores escolher exatamente o que incluir no próximo commit. Esta separação dá controle sobre agrupar mudanças relacionadas juntas em vez de confirmar todos os arquivos modificados de uma só vez.
 
-- [@course@Staging Area (Interactive Lesson)](https://inter-git.com/lessons/adding-files-to-index)
-- [@official@Getting Started - What is Git? - Staging Area](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F#:~:text=The%20staging%20area%20is%20a,area%E2%80%9D%20works%20just%20as%20well.)
-- [@video@What are Staged Changes in Git?](https://www.youtube.com/watch?v=HyeNfWZBut8)
+Visite os seguintes recursos para aprender mais:
+
+- [@curso@Área de Staging (Aula Interativa)](https://inter-git.com/lessons/adding-files-to-index)
+- [@oficial@Começando - O que é Git? - Área de Staging](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F#:~:text=The%20staging%20area%20is%20a,area%E2%80%9D%20works%20just%20as%20well.)
+- [@vídeo@O que são Mudanças em Staging no Git?](https://www.youtube.com/watch?v=HyeNfWZBut8)

@@ -1,8 +1,8 @@
-# Git Stash Basics
- 
-Git stash temporarily saves uncommitted changes so the working directory can be cleaned without committing incomplete work. The command `git stash` saves the current changes and reverts the working directory to match the last commit, while `git stash pop` restores them later. This is useful when a developer needs to quickly switch branches or pull updates without losing in-progress work.
+# Git Stash Básico
 
-Visit the following resources to learn more:
+O Git stash temporariamente salva as alterações não confirmadas para que o diretório de trabalho possa ser limpo sem cometer trabalho incompleto. O comando `git stash` salva as alterações atuais e reverter o diretório de trabalho para corresponder ao último commit, enquanto `git stash pop` restaura-as mais tarde. Isso é útil quando um desenvolvedor precisa alternar rapidamente entre branches ou buscar atualizações sem perder o trabalho em andamento.
 
-- [@article@Git stash](https://www.atlassian.com/git/tutorials/saving-changes/git-stash)
-- [@article@A practical guide to using the git stash command](https://opensource.com/article/21/4/git-stash)
+Acesse os seguintes recursos para saber mais:
+
+- [@artigo@Git stash](https://www.atlassian.com/git/tutorials/saving-changes/git-stash)
+- [@artigo@Um guia prático sobre como usar o comando git stash](https://opensource.com/article/21/4/git-stash)

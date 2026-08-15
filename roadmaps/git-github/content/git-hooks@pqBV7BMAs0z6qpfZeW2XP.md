@@ -1,9 +1,9 @@
 # Git hooks
- 
-Git hooks are scripts that run automatically at specific points in the Git workflow, such as before a commit or after a push. They live in the `.git/hooks` directory and can be written in any scripting language the system supports. Hooks are commonly used to enforce rules, like running tests before allowing a commit, or triggering actions like deployments after a push.
 
-Visit the following resources to learn more:
+Os hooks do Git são scripts que executam automaticamente em pontos específicos no fluxo de trabalho do Git, como antes de um commit ou depois de um push. Eles estão localizados na pasta `.git/hooks` e podem ser escritos em qualquer linguagem de script suportada pelo sistema. Os hooks são comumente usados para impor regras, como executar testes antes de permitir um commit ou acionar ações como implantações após um push.
 
-- [@official@Customizing Git - Git Hooks](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks)
+Acesse os seguintes recursos para saber mais:
+
+- [@official@Customizando Git - Git Hooks](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks)
 - [@article@Git hooks](https://www.atlassian.com/git/tutorials/git-hooks)
-- [@video@What are GitHooks? Explained in 5 minutes](https://www.youtube.com/watch?v=1OFiiPretCM)
+- [@video@O que são GitHooks? Explicado em 5 minutos](https://www.youtube.com/watch?v=1OFiiPretCM)

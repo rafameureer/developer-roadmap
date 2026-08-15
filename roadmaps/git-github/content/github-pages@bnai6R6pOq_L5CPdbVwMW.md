@@ -1,9 +1,9 @@
 # GitHub Pages
 
-GitHub Pages is a feature that allows users to host and publish web content directly from their GitHub repositories. It provides a simple way to create and deploy websites, blogs, or projects without the need for manual configuration or maintenance. Users can upload custom themes, add plugins, and use various tools to customize their pages.
+GitHub Pages é uma funcionalidade que permite aos usuários hospedar e publicar conteúdo da web diretamente de seus repositórios do GitHub. Ele fornece uma maneira simples de criar e implantar sites, blogs ou projetos sem a necessidade de configuração ou manutenção manual. Usuários podem carregar temas personalizados, adicionar plugins e usar várias ferramentas para personalizar suas páginas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@About GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages)
-- [@official@Creating a GitHub Pages site](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
-- [@official@GitHub Pages examples](https://github.com/collections/github-pages-examples)
+- [@official@Sobre GitHub Pages](https://docs.github.com/pt-br/pages/getting-started-with-github-pages/about-github-pages)
+- [@official@Criando um site do GitHub Pages](https://docs.github.com/pt-br/pages/getting-started-with-github-pages/creating-a-github-pages-site)
+- [@official@Exemplos do GitHub Pages](https://github.com/collections/github-pages-examples)

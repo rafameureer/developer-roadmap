@@ -1,7 +1,7 @@
-# History
+# História
 
-The history of a Git repository is a record of all commits made over time, including changes to files, commit messages, and metadata. This history is stored as a series of snapshots, with each commit representing a new version of the codebase.
+A história de um repositório Git é um registro de todas as confirmações feitas ao longo do tempo, incluindo alterações em arquivos, mensagens de confirmação e metadados. Esta história é armazenada como uma série de instantâneos, com cada confirmação representando uma nova versão do código-fonte.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Git Basics - Viewing the Commit History](https://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History)
+- [@oficial@Git Basics - Exibindo o Histórico de Confirmações](https://git-scm.com/book/pt-br/v2/Git-Basics-Viewing-the-Commit-History)

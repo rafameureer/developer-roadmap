@@ -1,7 +1,7 @@
-# Managing Remotes
- 
-Managing remotes involves adding, renaming, or removing the remote repositories a local project is connected to. The command `git remote add <name> <url>` links a new remote, `git remote rename` changes its label, and `git remote remove` deletes the connection entirely. Running `git remote -v` lists all configured remotes along with their URLs.
+# Gerenciando Repositórios Remotos
 
-Visit the following resources to learn more:
+Gerenciar repositórios remotos envolve adicionar, renomear ou remover os repositórios remotos aos quais um projeto local está conectado. O comando `git remote add <nome> <url>` vincula um novo repositório remoto, `git remote rename` altera seu rótulo e `git remote remove` exclui a conexão completamente. Executar `git remote -v` lista todos os repositórios remotos configurados junto com suas URLs.
 
-- [@official@Managing remote repositories](https://docs.github.com/en/get-started/getting-started-with-git/managing-remote-repositories)
+Acesse os seguintes recursos para saber mais:
+
+- [@oficial@Gerenciamento de repositórios remotos](https://docs.github.com/en/get-started/getting-started-with-git/managing-remote-repositories)

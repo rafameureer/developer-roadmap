@@ -1,10 +1,10 @@
 # git rebase
 
-Git rebase is a powerful command in Git that allows you to integrate changes from one branch into another. Unlike git merge, which creates a new commit to combine the histories of two branches, git rebase moves or applies commits from one branch on top of another, effectively re-writing the commit history.
+Git rebase é um comando poderoso no Git que permite integrar as alterações de uma branch em outra. Diferentemente do `git merge`, que cria um novo commit para combinar os históricos de duas branches, o `git rebase` move ou aplica commits de uma branch sobre a outra, efetivamente reescrevendo o histórico dos commits.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Git - git-rebase Documentation](https://git-scm.com/docs/git-rebase)
-- [@article@git rebase](https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase)
-- [@video@git rebase - Why, When & How to fix conflicts](https://youtu.be/DkWDHzmMvyg?si=59jauQgkL-sMewzo)
-- [@video@Git Rebase --interactive: EXPLAINED](https://youtu.be/H7RFt0Pxxp8?si=gLhfkVW_PmWHBQSs)
+- [@oficial@Git - git-rebase Documentação](https://git-scm.com/docs/git-rebase)
+- [@artigo@git rebase](https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase)
+- [@vídeo@git rebase - Por que, Quando e Como Corrigir Conflitos](https://youtu.be/DkWDHzmMvyg?si=59jauQgkL-sMewzo)
+- [@vídeo@Git Rebase --interactive: EXPLAINED](https://youtu.be/H7RFt0Pxxp8?si=gLhfkVW_PmWHBQSs)

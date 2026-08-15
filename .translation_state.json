@@ -3407,7 +3407,143 @@
     "roadmaps/game-developer/content/visual-perception@1S1qPogijW2SQCiF7KLZe.md",
     "roadmaps/game-developer/content/vulkan-ray-tracing@tDGnV8dGIFr_diz4HcEjr.md",
     "roadmaps/game-developer/content/vulkan@yPfhJSTFS7a72UcqF1ROK.md",
-    "roadmaps/game-developer/content/webgl@CeydBMwckqKll-2AgOlyd.md"
+    "roadmaps/game-developer/content/webgl@CeydBMwckqKll-2AgOlyd.md",
+    "roadmaps/git-github/content/--hard@V_joZNpQsS9G9PI-o-GmC.md",
+    "roadmaps/git-github/content/--mixed@qis7Z5VRxMcOmbesQlegZ.md",
+    "roadmaps/git-github/content/--soft@Uc7FyfAKpDFRGRNHwztFo.md",
+    "roadmaps/git-github/content/adding--updating@x4bnsPVTiX2xOCSyrgWpF.md",
+    "roadmaps/git-github/content/automations@TNBz5755PhI6iKxTQTqcS.md",
+    "roadmaps/git-github/content/between-branches@O-zoAWkDvyn7B8_TmY257.md",
+    "roadmaps/git-github/content/between-commits@Rwpeltygwzcf6hnuZNURE.md",
+    "roadmaps/git-github/content/branch-naming@ks1Pip-RM-UWD6zuF2j4n.md",
+    "roadmaps/git-github/content/branching-basics@bXfCUG3h1TIFPgD4WUDph.md",
+    "roadmaps/git-github/content/caching-dependencies@HMNhzzV6ApTKj4I_FOmUB.md",
+    "roadmaps/git-github/content/campus-program@B1KiSOt2b8t8FYD7Jxw2A.md",
+    "roadmaps/git-github/content/checkout-branch@PtRo-wGiNAagZ6CykfvMr.md",
+    "roadmaps/git-github/content/clean-git-history@i3AbARgzQtxtlB-1AS8zv.md",
+    "roadmaps/git-github/content/client-vs-server-hooks@zsU6R2zvJKnYNU2ac4o4p.md",
+    "roadmaps/git-github/content/cloning-repositories@1Koej79yTv-OAswVZwgGq.md",
+    "roadmaps/git-github/content/code-reviews@xLB2fhsOm0Vu3xg_PusJB.md",
+    "roadmaps/git-github/content/collaboration-on-github@d_GNnB6PBINz1jxGNWAE-.md",
+    "roadmaps/git-github/content/collaborators--members@_ft-uvXt6s_xrcMT3fbSF.md",
+    "roadmaps/git-github/content/commit-messages@7lRUYWNSpHvJ-QyIE8RMa.md",
+    "roadmaps/git-github/content/commit-msg@jzYjHx-gIKSP8dQUTqWVw.md",
+    "roadmaps/git-github/content/committing-changes@2_z3R7seCvQVj-Na4H1SV.md",
+    "roadmaps/git-github/content/contribution-guidelines@pJ-najh7dXhhYA_0bDiR5.md",
+    "roadmaps/git-github/content/creating-account@i7fIIHcBEk473te8bniJ5.md",
+    "roadmaps/git-github/content/creating-apps@5Oax1p7zIZ9HD2hmENPof.md",
+    "roadmaps/git-github/content/creating-branch@OegitQ5Ngjvd3ZfMpfrkM.md",
+    "roadmaps/git-github/content/creating-repositories@c_FO6xMixrrMo6iisfsvl.md",
+    "roadmaps/git-github/content/custom-domains@VdoxEWaU56-QCbHFRw649.md",
+    "roadmaps/git-github/content/deleting-branch@1uDenoQ6zu7CT69FR2iQB.md",
+    "roadmaps/git-github/content/deploying-static-websites@ZHplGidvhxEIC3HN8KqRa.md",
+    "roadmaps/git-github/content/detached-head@0cLf7FiI9CX--UX45sm2f.md",
+    "roadmaps/git-github/content/documentation@D2WIExwfSnkAPIa5O-Hp5.md",
+    "roadmaps/git-github/content/fast-forward-vs-non-ff@agtPWS8j6i6wQPk10cy8E.md",
+    "roadmaps/git-github/content/fetch-without-merge@Gybnekbd1rJKTOf4hJ4Sh.md",
+    "roadmaps/git-github/content/forking-vs-cloning@l1Wf7Pe_ah8ycCgslfSK4.md",
+    "roadmaps/git-github/content/git-attributes@CGj_UX5JMOOCKinedsNRc.md",
+    "roadmaps/git-github/content/git-bisect@ExXuwTQSI_lg4SRGW3Iu1.md",
+    "roadmaps/git-github/content/git-commit---amend@NjPnEXLf1Lt9qzgxccogv.md",
+    "roadmaps/git-github/content/git-config@NMCWgzhhfUvFOMO5GbF_u.md",
+    "roadmaps/git-github/content/git-filter-branch@BKVA6Q7DXemAYjyQOA0nh.md",
+    "roadmaps/git-github/content/git-hooks@pqBV7BMAs0z6qpfZeW2XP.md",
+    "roadmaps/git-github/content/git-init@1iOkbO5juk2LO-WZHx_W6.md",
+    "roadmaps/git-github/content/git-push---force@OQOmxg9mCfcjt80hpvXkA.md",
+    "roadmaps/git-github/content/git-rebase@HMEfUFNu_Wp_Pac7VWHr-.md",
+    "roadmaps/git-github/content/git-reflog@hru0sL1-D4bJSQI1efEyU.md",
+    "roadmaps/git-github/content/git-remotes@aWx9WHUrgofcTr8B-fQYe.md",
+    "roadmaps/git-github/content/git-reset@igrR7LguU1jemg_mf_AD6.md",
+    "roadmaps/git-github/content/git-revert@dLr55Om7IOvI53c1DgTKc.md",
+    "roadmaps/git-github/content/git-stash-basics@X9K3PBpGsMoXkJsKdJPI7.md",
+    "roadmaps/git-github/content/git-vs-other-vcs@_jSTrYN9G8EsGHkbusKPU.md",
+    "roadmaps/git-github/content/git-worktree@4dxVN81rXWn6VZqK99yq0.md",
+    "roadmaps/git-github/content/github-classroom@Pg6G4fzYb_RUhANeRKlRX.md",
+    "roadmaps/git-github/content/github-cli@h9cf_dh_pwjialOXOlNW-.md",
+    "roadmaps/git-github/content/github-codespaces@NdfwgwMOewiyEAFyC2l7U.md",
+    "roadmaps/git-github/content/github-copilot@iWn3zDMOfLLjSp6f1jQoE.md",
+    "roadmaps/git-github/content/github-discussions@snWQHCQECZyUXHdn6ppIk.md",
+    "roadmaps/git-github/content/github-education@pFyMiyNQ16-kP7jKaKKEU.md",
+    "roadmaps/git-github/content/github-essentials@NeSvgS2yA5x8qbcJHrV__.md",
+    "roadmaps/git-github/content/github-gists@M2_hBvXou7cCNqsMnexCt.md",
+    "roadmaps/git-github/content/github-interface@qZFtRABvlBbVvsy6T00J2.md",
+    "roadmaps/git-github/content/github-marketplace@R20LXLLEzNn-SpyFDMRXj.md",
+    "roadmaps/git-github/content/github-models@4slyjdk2Eeg5VYY6gCDG6.md",
+    "roadmaps/git-github/content/github-organizations@RMrxQLhrINO5g4Mhxh5qS.md",
+    "roadmaps/git-github/content/github-packages@rqPCHh25xX_ROMr-ULpaw.md",
+    "roadmaps/git-github/content/github-pages@bnai6R6pOq_L5CPdbVwMW.md",
+    "roadmaps/git-github/content/github-projects@DzFJDdqnSy5GeGHWOpcVo.md",
+    "roadmaps/git-github/content/github-releases@YmnTrjJtqHPXbEVrP8vd7.md",
+    "roadmaps/git-github/content/github-security@f2PG4t6iVtfIH8BVe5H7f.md",
+    "roadmaps/git-github/content/github-sponsors@vhdGUhMAyre_Xya6IxZ-t.md",
+    "roadmaps/git-github/content/handling-conflicts@9Dt4Gyiiq5jteWSKxsRMK.md",
+    "roadmaps/git-github/content/head@V8nLIvddyOKTzEjOJX5GW.md",
+    "roadmaps/git-github/content/history@zen3RRdK9_nPAYgicRoHk.md",
+    "roadmaps/git-github/content/installation-and-setup@vHfpoVbOW0DHNtiy0VN4X.md",
+    "roadmaps/git-github/content/installing-git-locally@v7hCNbgPByi3YiLSs46BK.md",
+    "roadmaps/git-github/content/issue-management@kGnZifvXbHBf5zXIsfAQw.md",
+    "roadmaps/git-github/content/issues@crdllx5cH_seIpgVPvHg_.md",
+    "roadmaps/git-github/content/kanban-boards@RFJgfuxoVxt22QlwLI5mW.md",
+    "roadmaps/git-github/content/labelling-issues--prs@y4DkB5NvTh41IeT0G2gr-.md",
+    "roadmaps/git-github/content/learn-the-basics@HlUUGj3dOZ68t4gIjerXh.md",
+    "roadmaps/git-github/content/linear-vs-non-linear@lXC07j6dOa3rQixY1P-Ob.md",
+    "roadmaps/git-github/content/local-vs-global-config@tVvxC5JQgUb_B8kOqYpD8.md",
+    "roadmaps/git-github/content/managing-remotes@sBQOInoFBU9XfkPZ-JlyT.md",
+    "roadmaps/git-github/content/managing-tags@NeU38WPbEphJuJ_AMkH82.md",
+    "roadmaps/git-github/content/markdown@1Ulxl4VUvRSfyCPpi-iv8.md",
+    "roadmaps/git-github/content/merging-basics@sNuy6NMjLOEkJlqdEjFPq.md",
+    "roadmaps/git-github/content/oauth-apps@qrdOARfqGPF9xhF6snbAn.md",
+    "roadmaps/git-github/content/post-checkout@SANEQI2rgOtsMQyn4qUCq.md",
+    "roadmaps/git-github/content/post-update@buxb5TpzQ-xxn0vqtGdS3.md",
+    "roadmaps/git-github/content/pr-from-a-fork@8lXXVFkgK6n5IHaYkYe3l.md",
+    "roadmaps/git-github/content/pr-guidelines@GwDNk2HBjASr_NWIL4G3-.md",
+    "roadmaps/git-github/content/pre-commit@HhpAIzYMlMiQ9msrYZyDB.md",
+    "roadmaps/git-github/content/pre-push@j5kWEUKwBFg5EMm8-61K9.md",
+    "roadmaps/git-github/content/private-vs-public@HEqBbw_A4ZbJI5zEy8ViN.md",
+    "roadmaps/git-github/content/profile-readme@KbVvFVQ4k77R2_ddsc7WT.md",
+    "roadmaps/git-github/content/project-planning@q0zy_hXav5iXw8LpGVJVd.md",
+    "roadmaps/git-github/content/project-readme@WIVr7JxO1AJTNObW8mtY3.md",
+    "roadmaps/git-github/content/pushing-tags@E3HAGNM-kXLL4Oci5JzpQ.md",
+    "roadmaps/git-github/content/reactions@XstmIysIi_lWo6RzszLBt.md",
+    "roadmaps/git-github/content/rebase@99FVJ3Zs8n6lr8L95mG6g.md",
+    "roadmaps/git-github/content/renaming-branch@_dPOVUbxApx0pfKPH8fgr.md",
+    "roadmaps/git-github/content/repository-management@lw4zHuhtxIO4kDvbyiVfq.md",
+    "roadmaps/git-github/content/rest-api@lSCnKhmRr6xrKVYxO8idD.md",
+    "roadmaps/git-github/content/rewriting-history@sOoC-XxEoIvwKct00oKlX.md",
+    "roadmaps/git-github/content/roadmaps@sxvT2hGko2PDRBoBrCGWD.md",
+    "roadmaps/git-github/content/saved-replies@dQS1V0zZxeKhHhUo3STBK.md",
+    "roadmaps/git-github/content/scheduled-worfklows@uS1H9KoKGNONvETCuFBbz.md",
+    "roadmaps/git-github/content/secrets-and-env-vars@aflP7oWsQzAr4YPo2LLiQ.md",
+    "roadmaps/git-github/content/setting-up-profile@GS3f1FKFVKT0-GJQrgCm8.md",
+    "roadmaps/git-github/content/squash@Z-srOhYFGVEKDexlJ6cjt.md",
+    "roadmaps/git-github/content/staged-changes@mzjtCdpke1ayHcEuS-YUS.md",
+    "roadmaps/git-github/content/staging-area@h71Tx3nkfUrnhaqcHlDkQ.md",
+    "roadmaps/git-github/content/static-site-generators@iwfNYDlAgbA_rpWYcoHCC.md",
+    "roadmaps/git-github/content/storing-artifacts@alysXC4b1hGi9ZdQ5-40y.md",
+    "roadmaps/git-github/content/student-developer-pack@XRSVRl6iHncMmgSXoB7Lq.md",
+    "roadmaps/git-github/content/submodules@fjAFNjNNbPOzme9Uk_fDV.md",
+    "roadmaps/git-github/content/tagging@iFJBF-EEnLjQVsFSXjo_i.md",
+    "roadmaps/git-github/content/teams-within-organization@wydgCxR5VnieBpRolXt8i.md",
+    "roadmaps/git-github/content/undoing-changes@0Yi4cryT2v2SGBjouOas3.md",
+    "roadmaps/git-github/content/unstaged-changes@uxqJzQFRcALqatNRIWR0w.md",
+    "roadmaps/git-github/content/use-in-automation@Y0EWgPsS4kZxH3y53jNxY.md",
+    "roadmaps/git-github/content/usecases@PUnYNBrAZWoZiopjtNgnA.md",
+    "roadmaps/git-github/content/viewing-commit-history@IfUm5D_zNaUKMd4HX4Fi4.md",
+    "roadmaps/git-github/content/viewing-diffs@-0zQvCHG8jS_ghSjmTeIx.md",
+    "roadmaps/git-github/content/webhooks@MoG7D9kqPuA6o52-z_WDN.md",
+    "roadmaps/git-github/content/what-and-why-use@d0-u_-_vtPK8tnUpnj_NB.md",
+    "roadmaps/git-github/content/what-and-why@v7uabKuMQPOD_hBIaHOVT.md",
+    "roadmaps/git-github/content/what-are-these@Ni3HKVLanFvSrJ3u8i5I1.md",
+    "roadmaps/git-github/content/what-is-a-repository@PtU5Qwfzn3N1i3oRlCGoR.md",
+    "roadmaps/git-github/content/what-is-version-control@bY6b1GV2XQQ52NOx8gWFj.md",
+    "roadmaps/git-github/content/why-use-version-control@dhIx1GnynvbSUriqYLUt0.md",
+    "roadmaps/git-github/content/workflow-context@BnPiTu1Jw2kIW560a2A5T.md",
+    "roadmaps/git-github/content/workflow-runners@6QwlY3dEvjfAOPALcWKXQ.md",
+    "roadmaps/git-github/content/workflow-status@jc4R1zhd1YeCEbVuxwJWy.md",
+    "roadmaps/git-github/content/workflow-triggers@55uHPFNwYPVZx8Cy3c985.md",
+    "roadmaps/git-github/content/working-directory@Sv36oxTZwlUv-i1K28NeP.md",
+    "roadmaps/git-github/content/working-in-a-team@yMx3LdadPz4g25CL3N8da.md",
+    "roadmaps/git-github/content/yaml-syntax@p6rq3lQ9YRrTqwcc31O23.md"
   ],
   "completed_roadmaps": [
     "frontend-beginner",
@@ -3450,7 +3586,8 @@
     "forward-deployed-engineer",
     "frontend",
     "full-stack",
-    "game-developer"
+    "game-developer",
+    "git-github"
   ],
   "flagged_issues": [
     {
@@ -8552,8 +8689,103 @@
       "file": "roadmaps/game-developer/content/unreal-engine@a6H-cZtp3A_fB8jnfMxBR.md",
       "reason": "Falha na tradução automática após tentativas no Ollama",
       "timestamp": "2026-08-15T07:31:46.530824"
+    },
+    {
+      "file": "roadmaps/git-github/content/checkout-tags@62E1tDMXB6K74OEN0WsS0.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:33:22.828229"
+    },
+    {
+      "file": "roadmaps/git-github/content/cherry-picking-commits@eFf2fesrs-1aVM5tH3ORQ.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:33:26.228609"
+    },
+    {
+      "file": "roadmaps/git-github/content/citation-files@Ddkss13_qDJTquDHbVTVs.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:33:28.616368"
+    },
+    {
+      "file": "roadmaps/git-github/content/collaborators@r-u1vTpUyuvsB0revOU0C.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:34:20.131835"
+    },
+    {
+      "file": "roadmaps/git-github/content/git-lfs@zdunaucVe8J1tKf_z-NQo.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:36:10.804472"
+    },
+    {
+      "file": "roadmaps/git-github/content/git-log-options@qFEonbCMLri8iA0yONwuf.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:36:13.999179"
+    },
+    {
+      "file": "roadmaps/git-github/content/git-patch@sFf1PdFfmEdQxsEntfeFq.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:36:17.602567"
+    },
+    {
+      "file": "roadmaps/git-github/content/github-actions@AmetdCURXXob5TUsikAab.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:37:16.090347"
+    },
+    {
+      "file": "roadmaps/git-github/content/github-api@NV2HAXLEN7tskfgyFrbaf.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:37:20.350891"
+    },
+    {
+      "file": "roadmaps/git-github/content/github-apps@560GJXFTt7DPdJjKtSDOo.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:37:22.673609"
+    },
+    {
+      "file": "roadmaps/git-github/content/github-wikis@lONqOqD-4slxa9B5i9ADX.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:38:55.057859"
+    },
+    {
+      "file": "roadmaps/git-github/content/gitignore@oz2oRAhaEQb0Fm3aRJQG8.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:38:59.693306"
+    },
+    {
+      "file": "roadmaps/git-github/content/graphql-api@KlXPt-K6br8PtpLgELaCj.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:39:02.967658"
+    },
+    {
+      "file": "roadmaps/git-github/content/marketplace-actions@SsogoCgJIbeTD6tk8UhTe.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:40:23.355642"
+    },
+    {
+      "file": "roadmaps/git-github/content/mentions@oWMaOWU06juoIuzXNe-wt.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:40:27.039026"
+    },
+    {
+      "file": "roadmaps/git-github/content/merge-strategies@0rHDUbAdXqH9zQW2VfJ8v.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:40:30.461004"
+    },
+    {
+      "file": "roadmaps/git-github/content/pull-requests@s3MzDYFPMASqiS8UnvWzW.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:41:39.190765"
+    },
+    {
+      "file": "roadmaps/git-github/content/pull-requests@x6eILrLCQrVpz4j8uOuy6.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:41:44.509433"
+    },
+    {
+      "file": "roadmaps/git-github/content/pushing--pulling-changes@ZVMCh9om37ee1qsecFa-N.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T07:41:48.836749"
     }
   ],
-  "last_updated": "2026-08-15T07:32:20.076675",
+  "last_updated": "2026-08-15T07:44:38.169791",
   "total_translated_count": 54
 }

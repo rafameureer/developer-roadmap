@@ -1,7 +1,7 @@
 # --soft
  
-`git reset --soft` moves the branch pointer to a specified commit while leaving the staging area and working directory untouched. This means all changes from the undone commits remain staged, ready to be recommitted differently. It's useful for combining multiple commits into one without losing any changes.
+O comando `git reset --soft` move o ponteiro da branch para um commit especificado, deixando a área de staging e o diretório de trabalho inalterados. Isso significa que todas as alterações dos commits não revertidos permanecem na staging area, prontas para serem reconfirmadas de maneira diferente. É útil para combinar vários commits em um sem perder nenhuma alteração.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@--soft documentation](https://git-scm.com/docs/git-reset#Documentation/git-reset.txt---soft)
+- [@official@documentação --soft](https://git-scm.com/docs/git-reset#Documentation/git-reset.txt---soft)

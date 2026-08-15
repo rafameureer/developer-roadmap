@@ -1,9 +1,9 @@
-# Pushing Tags
+# Empurrando Marcadores
 
-Pushing tags in Git is the process of sharing your local tags with a remote repository. Tags in Git are used to mark specific points in the repository's history, typically to signify a release or a milestone.
+Empurrar marcadores no Git é o processo de compartilhar seus marcadores locais com um repositório remoto. Os marcadores no Git são usados para marcar pontos específicos na história do repositório, geralmente para indicar uma versão lançada ou um marco.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Tagging in git](https://git-scm.com/book/en/Git-Basics-Tagging)
-- [@article@How to Push Git Tags to Remote](https://kodekloud.com/blog/how-to-push-git-tags-to-remote/)
-- [@article@Git Push Tag to Remote Guide](https://phoenixnap.com/kb/git-push-tag)
+- [@artigo@Marcando em git](https://git-scm.com/book/en/Git-Basics-Tagging)
+- [@artigo@Como Empurrar Marcadores Git para o Remoto](https://kodekloud.com/blog/how-to-push-git-tags-to-remote/)
+- [@guia@Guia de Como Empurrar Marcador Git para o Remoto](https://phoenixnap.com/kb/git-push-tag)

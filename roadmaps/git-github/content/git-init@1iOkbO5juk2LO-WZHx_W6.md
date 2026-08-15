@@ -1,9 +1,9 @@
 # git init
 
-The `git init` command creates a new Git repository. It can be used to convert an existing, unversioned project to a Git repository or initialize a new, empty repository. Most other Git commands are not available outside of an initialized repository, so this is usually the first command you'll run in a new project.
+O comando `git init` cria um novo repositório Git. Ele pode ser usado para converter um projeto existente, não versionado, em um repositório Git ou inicializar um novo repositório vazio. A maioria dos outros comandos do Git não está disponível fora de um repositório inicializado, então isso geralmente é o primeiro comando que você executará em um novo projeto.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@Creating Repository (Interactive Lesson)](https://inter-git.com/lessons/creating-repository)
-- [@official@Git - git-init Documentation](https://git-scm.com/docs/git-init)
-- [@article@git init | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-init#:~:text=The%20git%20init%20command%20creates,run%20in%20a%20new%20project.)
+- [@course@Criando Repositório (Aula Interativa)](https://inter-git.com/lessons/creating-repository)
+- [@official@Git - git-init Documentação](https://git-scm.com/docs/git-init)
+- [@article@git init | Tutorial do Git da Atlassian](https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-init#:~:text=O%20comando%20git%20init%20cria,executar%20em%20um%20novo%20projeto.)

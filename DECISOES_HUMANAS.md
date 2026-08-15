@@ -4,7 +4,7 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 
 ---
 
-> ⚠️ **Total de itens sinalizados:** 1020
+> ⚠️ **Total de itens sinalizados:** 1039
 
 | Arquivo / Tópico | Motivo da Sinalização | Data/Hora |
 |---|---|---|
@@ -1028,3 +1028,22 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 | `roadmaps/game-developer/content/translucency--transparency@PuhXaRZ-Ql5PCqzMyz3en.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:31:34.936253 |
 | `roadmaps/game-developer/content/unity-3d@rNeOti8DDyWTMP9FB9kJ_.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:31:40.501104 |
 | `roadmaps/game-developer/content/unreal-engine@a6H-cZtp3A_fB8jnfMxBR.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:31:46.530824 |
+| `roadmaps/git-github/content/checkout-tags@62E1tDMXB6K74OEN0WsS0.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:33:22.828229 |
+| `roadmaps/git-github/content/cherry-picking-commits@eFf2fesrs-1aVM5tH3ORQ.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:33:26.228609 |
+| `roadmaps/git-github/content/citation-files@Ddkss13_qDJTquDHbVTVs.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:33:28.616368 |
+| `roadmaps/git-github/content/collaborators@r-u1vTpUyuvsB0revOU0C.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:34:20.131835 |
+| `roadmaps/git-github/content/git-lfs@zdunaucVe8J1tKf_z-NQo.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:36:10.804472 |
+| `roadmaps/git-github/content/git-log-options@qFEonbCMLri8iA0yONwuf.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:36:13.999179 |
+| `roadmaps/git-github/content/git-patch@sFf1PdFfmEdQxsEntfeFq.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:36:17.602567 |
+| `roadmaps/git-github/content/github-actions@AmetdCURXXob5TUsikAab.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:37:16.090347 |
+| `roadmaps/git-github/content/github-api@NV2HAXLEN7tskfgyFrbaf.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:37:20.350891 |
+| `roadmaps/git-github/content/github-apps@560GJXFTt7DPdJjKtSDOo.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:37:22.673609 |
+| `roadmaps/git-github/content/github-wikis@lONqOqD-4slxa9B5i9ADX.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:38:55.057859 |
+| `roadmaps/git-github/content/gitignore@oz2oRAhaEQb0Fm3aRJQG8.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:38:59.693306 |
+| `roadmaps/git-github/content/graphql-api@KlXPt-K6br8PtpLgELaCj.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:39:02.967658 |
+| `roadmaps/git-github/content/marketplace-actions@SsogoCgJIbeTD6tk8UhTe.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:40:23.355642 |
+| `roadmaps/git-github/content/mentions@oWMaOWU06juoIuzXNe-wt.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:40:27.039026 |
+| `roadmaps/git-github/content/merge-strategies@0rHDUbAdXqH9zQW2VfJ8v.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:40:30.461004 |
+| `roadmaps/git-github/content/pull-requests@s3MzDYFPMASqiS8UnvWzW.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:41:39.190765 |
+| `roadmaps/git-github/content/pull-requests@x6eILrLCQrVpz4j8uOuy6.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:41:44.509433 |
+| `roadmaps/git-github/content/pushing--pulling-changes@ZVMCh9om37ee1qsecFa-N.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:41:48.836749 |

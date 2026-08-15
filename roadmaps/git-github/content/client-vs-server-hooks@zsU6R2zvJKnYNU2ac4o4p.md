@@ -1,9 +1,9 @@
 # Client vs Server Hooks
 
-Like many other Version Control Systems, Git has a way to fire off custom scripts when certain important actions occur. There are two groups of these hooks: client-side and server-side. Client-side hooks are triggered by operations such as committing and merging, while server-side hooks run on network operations such as receiving pushed commits.
+Como muitos outros Sistemas de Controle de Versão, o Git tem uma maneira de disparar scripts personalizados quando certas ações importantes ocorrem. Existem dois grupos desses hooks: client-side e server-side. Os hooks do cliente são acionados por operações como commit e merge, enquanto os hooks do servidor executam em operações de rede como receber commits empurrados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Git Hooks](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks#:~:text=There%20are%20two%20groups%20of,for%20all%20sorts%20of%20reasons.)
-- [@article@Git Hooks: The Powerful Tool You're Probably Not Using](https://dev.to/algodame/git-hooks-the-powerful-tool-youre-probably-not-using-but-should-be-1lec)
-- [@video@Client vs Server Hooks](https://youtu.be/egfuwOe8nXc?si=IkbLCr-3eGE9x6cY)
+- [@oficial@Hooks do Git](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks#:~:text=Existem%20dois%20grupos%20de,para%20todos%20os%20tipos%20de%20motivos.)
+- [@artigo@Hooks do Git: A Ferramenta Potente que Você Provavelmente Não Está Usando](https://dev.to/algodame/git-hooks-the-powerful-tool-youre-probably-not-using-but-should-be-1lec)
+- [@vídeo@Client vs Server Hooks](https://youtu.be/egfuwOe8nXc?si=IkbLCr-3eGE9x6cY)

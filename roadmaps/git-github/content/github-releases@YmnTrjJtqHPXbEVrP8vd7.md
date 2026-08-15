@@ -1,8 +1,8 @@
-# GitHub Releases
- 
-A GitHub release packages a specific tag along with release notes, binaries, or other downloadable assets. It gives users a clear, versioned snapshot of the project they can download without cloning the entire repository. Releases are commonly used to distribute compiled software, mark milestones, and document what changed between versions.
+# Lançamentos do GitHub
 
-Visit the following resources to learn more:
+Os lançamentos do GitHub empacotam uma tag específica, notas de lançamento, binários ou outros ativos baixáveis. Eles fornecem aos usuários um instantâneo versado do projeto que eles podem baixar sem clonar o repositório inteiro. Os lançamentos são comumente usados para distribuir software compilado, marcar marcos e documentar as alterações entre versões.
 
-- [@official@About Releases](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases)
-- [@article@REST API endpoints for releases](https://docs.github.com/en/rest/releases/releases?apiVersion=2022-11-28)
+Acesse os seguintes recursos para saber mais:
+
+- [@oficial@Sobre Lançamentos](https://docs.github.com/pt-br/repositories/releasing-projects-on-github/about-releases)
+- [@artigo@Pontos finais da API REST para lançamentos](https://docs.github.com/pt-br/rest/releases/releases?apiVersion=2022-11-28)

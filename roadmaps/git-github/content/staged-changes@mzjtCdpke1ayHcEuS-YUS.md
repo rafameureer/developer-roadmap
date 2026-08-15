@@ -1,8 +1,8 @@
-# Staged Changes
+# Mudanças em Staging
 
-To view the changes you've staged with `git add`, but not yet committed, use `git diff --cached`. This command compares the staged files against their original versions in the repository. It's a quick way to review what you're about to commit before finalizing it.
+Para visualizar as mudanças que você adicionou com `git add`, mas ainda não confirmou, use `git diff --cached`. Este comando compara os arquivos em staging contra suas versões originais no repositório. É uma maneira rápida de revisar o que você está prestes a confirmar antes de finalizá-lo.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@article@What does Staged Changes mean in Git?](https://dillionmegida.com/p/staged-changes-in-git/)
-- [@video@What are Staged Changes in Git?](https://www.youtube.com/watch?v=HyeNfWZBut8)
+- [@artigo@O que significa Mudanças em Staging no Git?](https://dillionmegida.com/p/staged-changes-in-git/)
+- [@vídeo@O que são Mudanças em Staging no Git?](https://www.youtube.com/watch?v=HyeNfWZBut8)

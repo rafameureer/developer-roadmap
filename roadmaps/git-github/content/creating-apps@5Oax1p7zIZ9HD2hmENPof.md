@@ -1,7 +1,7 @@
-# Creating Apps
+# Criando Aplicativos
 
-GitHub Apps are a way to integrate with the GitHub platform programmatically, using either the REST API or GraphQL API. They allow developers to create custom integrations that can automate tasks, provide real-time notifications, and build custom workflows.
+Os aplicativos GitHub são uma maneira de integrar com a plataforma GitHub de forma programática, usando either a API REST ou a API GraphQL. Eles permitem aos desenvolvedores criar integrações personalizadas que podem automatizar tarefas, fornecer notificações em tempo real e construir fluxos de trabalho personalizados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Creating GitHub Apps](https://docs.github.com/en/apps/creating-github-apps)
+- [@oficial@Criando Aplicativos GitHub](https://docs.github.com/pt-br/apps/creating-github-apps)

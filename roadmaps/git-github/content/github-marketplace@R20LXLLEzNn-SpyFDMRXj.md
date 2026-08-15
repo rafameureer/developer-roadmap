@@ -1,8 +1,8 @@
-# GitHub Marketplace
+# Mercado do GitHub
 
-GitHub Marketplace is a platform that allows developers to discover, install, and manage third-party tools and services directly within their GitHub environment. These tools can provide a range of features, such as code analysis, project management, or collaboration, making it easier for developers to work efficiently and effectively. By using the GitHub Marketplace, developers can streamline their workflow, reduce friction, and focus on writing code.
+O Mercado do GitHub é uma plataforma que permite aos desenvolvedores descobrir, instalar e gerenciar ferramentas e serviços de terceiros diretamente dentro do seu ambiente do GitHub. Essas ferramentas podem fornecer uma variedade de recursos, como análise de código, gerenciamento de projetos ou colaboração, tornando mais fácil para os desenvolvedores trabalharem eficientemente e efetivamente. Ao usar o Mercado do GitHub, os desenvolvedores podem otimizar seu fluxo de trabalho, reduzir a fricção e focar na escrita de código.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@GitHub Marketplace](https://github.com/marketplace)
-- [@official@About GitHub Marketplace for apps](https://docs.github.com/en/apps/github-marketplace/github-marketplace-overview/about-github-marketplace-for-apps)
+- [@oficial@Mercado do GitHub](https://github.com/marketplace)
+- [@oficial@Sobre o Mercado do GitHub para aplicativos](https://docs.github.com/en/apps/github-marketplace/github-marketplace-overview/about-github-marketplace-for-apps)

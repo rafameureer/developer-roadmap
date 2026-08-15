@@ -1,8 +1,8 @@
-# Custom Domains
+# Domínios Personalizados
 
-On GitHub Pages, users can customize their site's URL by connecting a custom domain to their repository. This feature allows users to use their own domain name instead of the default [GitHub.io](http://GitHub.io) subdomain, giving their site a more professional and personalized look.
+No GitHub Pages, os usuários podem personalizar a URL do seu site conectando um domínio personalizado ao repositório. Esta funcionalidade permite que os usuários usem o próprio nome de domínio em vez do subdomínio padrão [GitHub.io](http://GitHub.io), dando ao seu site uma aparência mais profissional e personalizada.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Configuring a Custom Domain for Your GitHub Pages Site](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site)
-- [@video@How to Host a Website on GitHub Pages Free (Custom Domain Setup Included)](https://www.youtube.com/watch?v=e5AwNU3Y2es&t=156s)
+- [@official@Configurando um Domínio Personalizado para Seu Site GitHub Pages](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site)
+- [@video@Como Hospedar um Site no GitHub Pages Grátis (Configuração de Domínio Incluída)](https://www.youtube.com/watch?v=e5AwNU3Y2es&t=156s)

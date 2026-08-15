@@ -1,9 +1,9 @@
-# Branching Basics
+# Conceitos Básicos de Branching
 
-Branches in Git serve as separate lines of development that allow multiple features or changes to be worked on simultaneously without affecting the main codebase. With branches, you can create isolated environments for different tasks, collaborate with others, and manage complex workflows.
+As branches no Git servem como linhas de desenvolvimento separadas que permitem trabalhar em múltiplos recursos ou alterações simultaneamente, sem afetar o código base principal. Com branches, você pode criar ambientes isolados para diferentes tarefas, colaborar com outros e gerenciar workflows complexos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Git Branching - Basic Branching and Merging](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
-- [@article@Learn Git Branching](https://learngitbranching.js.org/)
-- [@video@Git Branches Tutorial](https://www.youtube.com/watch?v=e2IbNHi4uCI)
+- [@oficial@Git Branching - Basic Branching and Merging](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
+- [@artigo@Aprenda Git Branching](https://learngitbranching.js.org/)
+- [@vídeo@Tutorial de Branches do Git](https://www.youtube.com/watch?v=e2IbNHi4uCI)

@@ -1,8 +1,8 @@
-# Scheduled Workflows
+# Fluxos Agendados
  
-Scheduled workflows run automatically at specified times using cron syntax under the `schedule` trigger in a workflow file. This is useful for recurring tasks like nightly builds, periodic cleanup jobs, or fetching data on a regular interval. GitHub runs scheduled workflows based on UTC time, and there can be a slight delay depending on runner availability.
+Fluxos agendados são executados automaticamente em horários específicos usando a sintaxe cron no gatilho `schedule` de um arquivo de fluxo. Isso é útil para tarefas recorrentes como builds noturnos, limpeza periódica ou obtenção de dados em intervalos regulares. O GitHub executa fluxos agendados com base no tempo UTC e pode haver uma pequenatrasão dependendo da disponibilidade dos executadores.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Events that trigger workflows - Schedule](https://docs.github.com/en/actions/writing-workflows/choosing-when-your-workflow-runs/events-that-trigger-workflows#schedule)
-- [@video@GitHub Actions - How to Schedule workflows in GitHub](https://www.youtube.com/watch?v=StipNrK__Gk)
+- [@official@Eventos que acionam fluxos - Agendar](https://docs.github.com/pt-br/actions/using-workflows/events-that-trigger-workflows#schedule)
+- [@video@GitHub Actions - Como agendar fluxos no GitHub](https://www.youtube.com/watch?v=StipNrK__Gk)

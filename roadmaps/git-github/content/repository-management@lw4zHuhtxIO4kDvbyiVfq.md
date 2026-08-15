@@ -1,9 +1,9 @@
-# Repository management
- 
-GitHub CLI supports repository management commands like `gh repo create`, `gh repo clone`, and `gh repo view`, letting developers manage repositories without leaving the terminal. These commands mirror actions normally done through the GitHub website, such as creating a new repo or checking its details. This is especially useful for developers who prefer staying in the command line during their workflow.
+# Gestão de Repositórios
 
-Visit the following resources to learn more:
+O GitHub CLI suporta comandos de gestão de repositórios como `gh repo create`, `gh repo clone` e `gh repo view`, permitindo que os desenvolvedores gerenciem repositórios sem sair do terminal. Esses comandos refletem ações normalmente realizadas através do site do GitHub, como criar um novo repositório ou verificar seus detalhes. Isso é especialmente útil para desenvolvedores que preferem permanecer no modo de linha de comando durante seu fluxo de trabalho.
 
-- [@official@gh repo](https://cli.github.com/manual/gh_repo)
-- [@article@Efficient GitHub Operations: Simplifying Repository Management using GitHub CLI](https://dev.to/yutee_okon/efficient-github-operations-simplifying-repository-management-using-github-cli-190l)
-- [@video@GitHub CLI (gh) - How to manage repositories more efficiently](https://www.youtube.com/watch?v=BII6ZY2Rnlc)
+Acesse os seguintes recursos para saber mais:
+
+- [@oficial@gh repo](https://cli.github.com/manual/gh_repo)
+- [@artigo@Operações Eficientes do GitHub: Simplificando a Gestão de Repositórios usando o GitHub CLI](https://dev.to/yutee_okon/efficient-github-operations-simplifying-repository-management-using-github-cli-190l)
+- [@vídeo@GitHub CLI (gh) - Como Gerenciar Repositórios de maneira mais eficiente](https://www.youtube.com/watch?v=BII6ZY2Rnlc)

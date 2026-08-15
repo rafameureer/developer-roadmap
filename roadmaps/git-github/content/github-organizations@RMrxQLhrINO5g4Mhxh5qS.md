@@ -1,8 +1,8 @@
-# GitHub Organizations
- 
-A GitHub organization is a shared account used by companies or groups to manage multiple repositories, members, and teams under one umbrella. It allows centralized billing, permission management, and visibility settings across all repositories owned by the organization. Organizations are commonly used instead of personal accounts when multiple people need structured, ongoing access to a set of projects.
+# Organizações do GitHub
 
-Visit the following resources to learn more:
+Uma organização do GitHub é uma conta compartilhada usada por empresas ou grupos para gerenciar vários repositórios, membros e equipes sob um único teto. Ela permite a gestão centralizada de cobrança, permissões e configurações de visibilidade em todos os repositórios pertencentes à organização. As organizações são comumente usadas em vez de contas pessoais quando múltiplos usuários precisam de acesso estruturado e contínuo a um conjunto de projetos.
 
-- [@official@About Organizations](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/about-organizations)
-- [@video@Set up a GitHub Organization](https://www.youtube.com/watch?v=XowSSIhJFuk)
+Acesse os seguintes recursos para saber mais:
+
+- [@oficial@Sobre Organizações](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/about-organizations)
+- [@vídeo@Configurar uma Organização do GitHub](https://www.youtube.com/watch?v=XowSSIhJFuk)

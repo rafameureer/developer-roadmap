@@ -1,8 +1,8 @@
-# Code Reviews
- 
-A code review is the process of examining proposed changes in a pull request before they get merged, checking for bugs, style issues, or design concerns. Reviewers can leave comments on specific lines, approve the changes, or request modifications before approval. Code reviews help catch problems early and share knowledge of the codebase across a team.
+# Revisão de Código
 
-Visit the following resources to learn more:
+A revisão de código é o processo de examinar as alterações propostas em uma solicitação de pull antes de serem mescladas, verificando por bugs, problemas de estilo ou preocupações de design. Os revisores podem deixar comentários em linhas específicas, aprovar as alterações ou solicitar modificações antes da aprovação. As revisões de código ajudam a detectar problemas cedo e compartilhar o conhecimento do repositório de código entre uma equipe.
 
-- [@article@A practical guide for better, faster code reviews](https://github.com/mawrkus/pull-request-review-guide)
-- [@article@How to improve code with code reviews](https://github.com/resources/articles/software-development/how-to-improve-code-with-code-reviews)
+Acesse os seguintes recursos para saber mais:
+
+- [@artigo@Um guia prático para melhores e mais rápidos reviews de código](https://github.com/mawrkus/pull-request-review-guide)
+- [@artigo@Como melhorar o código com revisões de código](https://github.com/resources/articles/software-development/how-to-improve-code-with-code-reviews)

@@ -1,8 +1,8 @@
 # GitHub Discussions
  
-GitHub Discussions is a forum-style feature for conversations that don't fit the structure of an issue, such as general questions, ideas, or announcements. Unlike issues, discussions aren't meant to track specific tasks and can be organized into categories like Q&A or ideas. Maintainers often enable discussions to separate open-ended community conversation from actionable bug reports.
+O GitHub Discussions é uma funcionalidade de fórum para conversas que não se encaixam na estrutura de um problema, como perguntas gerais, ideias ou anúncios. Diferentemente dos problemas, as discussões não são projetadas para rastrear tarefas específicas e podem ser organizadas em categorias como Q&A ou ideias. Os mantenedores frequentemente habilitam as discussões para separar a conversação aberta da comunidade de relatórios de bugs ação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@GitHub Discussions Docs](https://docs.github.com/en/discussions)
-- [@video@What is GitHub Discussions?](https://www.youtube.com/watch?v=bErGYN3Ljz8)
+- [@official@Documentação do GitHub Discussions](https://docs.github.com/en/discussions)
+- [@video@O que é o GitHub Discussions?](https://www.youtube.com/watch?v=bErGYN3Ljz8)

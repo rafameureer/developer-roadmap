@@ -1,10 +1,10 @@
-# Committing Changes
- 
-Committing saves a snapshot of the staged changes to the repository's history, along with a message describing what was changed and why. Each commit gets a unique hash that identifies it and allows Git to track the exact state of the project at that point. Commits build the timeline that developers can browse, compare, or revert to later.
+# Commitindo Mudanças
 
-Visit the following resources to learn more:
+O commit salva um instantâneo das mudanças em staging no histórico do repositório, junto com uma mensagem descrevendo o que foi alterado e por quê. Cada commit recebe um hash único que o identifica e permite que o Git rastreie o estado exato do projeto nesse ponto. Os commits construem a linha do tempo que os desenvolvedores podem navegar, comparar ou reverter mais tarde.
 
-- [@course@Staging Area (Interactive Lesson)](https://inter-git.com/lessons/adding-files-to-index)
-- [@course@Making a Commit (Interactive Lesson)](https://inter-git.com/lessons/making-a-commit)
-- [@official@How git commit works](https://github.com/git-guides/git-commit)
-- [@article@Git commit](https://www.atlassian.com/git/tutorials/saving-changes/git-commit)
+Acesse os seguintes recursos para saber mais:
+
+- [@curso@Área de Staging (Aula Interativa)](https://inter-git.com/lessons/adding-files-to-index)
+- [@curso@Fazendo um Commit (Aula Interativa)](https://inter-git.com/lessons/making-a-commit)
+- [@oficial@Como funciona o git commit](https://github.com/git-guides/git-commit)
+- [@artigo@Git commit](https://www.atlassian.com/git/tutorials/saving-changes/git-commit)

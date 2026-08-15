@@ -1,10 +1,10 @@
-# Commit Messages
+# Mensagens de Commit
 
-A Git commit message is a brief explanation of the changes introduced in a particular commit. It helps others (and your future self) understand the purpose of the changes and the context behind them. Writing clear and informative commit messages is an important practice for maintaining a well-organized and easily navigable project history.
+Uma mensagem de commit do Git é uma breve explicação das alterações introduzidas em um determinado commit. Ela ajuda outras pessoas (e seu futuro eu) a entender o propósito das alterações e o contexto por trás delas. Escrever mensagens de commit claras e informativas é uma prática importante para manter um histórico de projeto bem organizado e facilmente navegável.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@How to Write Better Git Commit Messages](https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/)
-- [@article@Writing good commit messages](https://www.theodinproject.com/lessons/foundations-commit-messages)
-- [@video@Write git commit messages like a PRO with Conventional Commits](https://youtu.be/OJqUWvmf4gg?si=Fgl3isZpP13jYXHP)
-- [@video@How to Make Actually Good Commits in Git](https://youtu.be/Dy5t_H2PRrk?si=0V-JEbqphpJX5OLl)
+- [@artigo@Como escrever melhores mensagens de commit do Git](https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/)
+- [@artigo@Escrevendo boas mensagens de commit](https://www.theodinproject.com/lessons/foundations-commit-messages)
+- [@vídeo@Como escrever mensagens de commit do Git como um PRO com Conventional Commits](https://youtu.be/OJqUWvmf4gg?si=Fgl3isZpP13jYXHP)
+- [@vídeo@Como fazer commits realmente bons no Git](https://youtu.be/Dy5t_H2PRrk?si=0V-JEbqphpJX5OLl)

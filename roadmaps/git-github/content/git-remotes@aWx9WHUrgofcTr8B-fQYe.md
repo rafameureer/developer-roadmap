@@ -1,8 +1,8 @@
-# Git Remotes
- 
-A remote is a version of a repository hosted somewhere other than the local machine, such as on GitHub. Remotes let developers push their local commits to a shared location and pull down changes made by others. A repository can have multiple remotes, though most projects use a single one, conventionally named `origin`.
+# Git Remotos
 
-Visit the following resources to learn more:
+Um remoto é uma versão de um repositório hospedada em algum lugar diferente da máquina local, como no GitHub. Os remotos permitem que os desenvolvedores empurrem seus commits locais para um local compartilhado e baixem as alterações feitas por outros. Um repositório pode ter vários remotos, embora a maioria dos projetos use apenas um, convencionalmente nomeado `origin`.
 
-- [@official@About Remote Repositories](https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories)
-- [@video@What is a Remote Repository? \[Beginner Git Tutorial\]](https://www.youtube.com/watch?v=Lb4yvfrX_7I)
+Visite os seguintes recursos para aprender mais:
+
+- [@oficial@Sobre Repositórios Remotos](https://docs.github.com/pt-br/get-started/getting-started-with-git/about-remote-repositories)
+- [@vídeo@O que é um Repositório Remoto? [Tutorial Git Iniciante]](https://www.youtube.com/watch?v=Lb4yvfrX_7I)

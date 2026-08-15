@@ -1,8 +1,8 @@
 # Git Worktree
- 
-Git worktree allows multiple branches to be checked out simultaneously in separate directories, all linked to the same repository. Running `git worktree add <path> <branch>` creates a new working directory for a specific branch without needing to clone the repository again. This is useful when a developer needs to work on two branches at once, like testing a hotfix while a feature branch remains checked out elsewhere.
 
-Visit the following resources to learn more:
+O Git worktree permite que múltiplas branches sejam checadas simultaneamente em diretórios separados, todos vinculados ao mesmo repositório. Executar `git worktree add <caminho> <branch>` cria um novo diretório de trabalho para uma branch específica sem precisar clonar o repositório novamente. Isso é útil quando um desenvolvedor precisa trabalhar em duas branches simultaneamente, como testar um hotfix enquanto uma branch de recurso permanece checada em outro lugar.
 
-- [@article@Git Worktree](https://www.gitkraken.com/learn/git/git-worktree)
-- [@video@Manage Branches easily using Git Worktree](https://www.youtube.com/watch?v=cRunWRC8ye0)
+Acesse os seguintes recursos para saber mais:
+
+- [@artigo@Git Worktree](https://www.gitkraken.com/learn/git/git-worktree)
+- [@vídeo@Gerencie branches facilmente usando Git Worktree](https://www.youtube.com/watch?v=cRunWRC8ye0)

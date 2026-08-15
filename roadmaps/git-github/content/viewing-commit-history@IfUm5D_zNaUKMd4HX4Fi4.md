@@ -1,8 +1,8 @@
-# Viewing Commit History
- 
-Viewing commit history shows the sequence of commits made to a repository, typically through the `git log` command. Each entry includes the commit hash, author, date, and message, giving a record of how the project evolved. Developers use this history to understand past changes, find when a bug was introduced, or review someone else's work.
+# Exibindo Histórico de Commits
 
-Visit the following resources to learn more:
+Exibir o histórico de commits mostra a sequência de commits feitos em um repositório, geralmente através do comando `git log`. Cada entrada inclui o hash do commit, autor, data e mensagem, fornecendo um registro de como o projeto evoluiu. Desenvolvedores usam essa história para entender mudanças passadas, encontrar quando um bug foi introduzido ou revisar o trabalho de outra pessoa.
 
-- [@official@Git Basics - Viewing the Commit History](https://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History)
-- [@article@How to Use Git Log to View Commit History](https://www.freecodecamp.org/news/git-log-command/)
+Acesse os seguintes recursos para saber mais:
+
+- [@oficial@Git Básico - Exibindo o Histórico de Commits](https://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History)
+- [@artigo@Como usar git log para exibir histórico de commits](https://www.freecodecamp.org/news/git-log-command/)

@@ -1,8 +1,8 @@
 # GitHub Codespaces
  
-GitHub Codespaces provides a cloud-based development environment that can be launched directly from a repository, complete with a configured editor and terminal. It uses a configuration file, typically a `devcontainer.json`, to define the environment's tools, extensions, and dependencies. This lets developers start coding immediately in a consistent setup without needing to install anything locally.
+GitHub Codespaces oferece um ambiente de desenvolvimento baseado em nuvem que pode ser iniciado diretamente a partir de um repositório, completo com um editor configurado e terminal. Ele usa um arquivo de configuração, geralmente `devcontainer.json`, para definir as ferramentas, extensões e dependências do ambiente. Isso permite aos desenvolvedores começar a codificar imediatamente em uma configuração consistente sem precisar instalar nada localmente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@GitHub Codespaces Overview](https://docs.github.com/en/codespaces/overview)
-- [@video@How to Deploy a GitHub Codespace](https://www.youtube.com/watch?v=_01iCF9sO1c)
+- [@official@Visão geral dos GitHub Codespaces](https://docs.github.com/pt-br/codespaces/overview)
+- [@video@Como implantar um GitHub Codespace](https://www.youtube.com/watch?v=_01iCF9sO1c)

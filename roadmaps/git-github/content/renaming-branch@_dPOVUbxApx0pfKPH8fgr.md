@@ -1,8 +1,8 @@
-# Renaming Branch
+# Renomeando Ramo
 
-Renaming a branch in Git means changing the name of a branch to something different while preserving its history and the commits it contains. The branch itself remains the same in terms of the code and history it tracks, but the reference (the name by which you refer to it) is updated
+Renomear um ramo no Git significa alterar o nome de um ramo para algo diferente, preservando sua história e os commits que contém. O próprio ramo permanece o mesmo em termos do código e da história que ele rastreia, mas a referência (o nome pelo qual você se refere a ele) é atualizada.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Renaming a Branch - GitHub Docs](https://docs.github.com/github/administering-a-repository/renaming-a-branch)
-- [@article@Git Rename Branch – How to Change a Local Branch Name](https://www.freecodecamp.org/news/git-rename-branch-how-to-change-a-local-branch-name/)
+- [@oficial@Renomeando um Ramo - Documentação GitHub](https://docs.github.com/github/administering-a-repository/renaming-a-branch)
+- [@artigo@Git Renomear Ramo – Como Mudar o Nome de um Ramo Local](https://www.freecodecamp.org/news/git-rename-branch-how-to-change-a-local-branch-name/)

@@ -1,8 +1,8 @@
-# Linear vs Non-Linear
+# Linear vs Não-Linear
  
-A linear history means commits follow a single, straight sequence with no branching or merging, often achieved through rebasing instead of merging. A non-linear history includes branches that diverge and later merge back together, creating a more complex graph of commits. Teams choose between the two based on whether they prioritize a simple, readable log or a history that reflects exactly how work happened in parallel.
+Uma história linear significa que os commits seguem uma única sequência reta, sem ramificações ou fusões, geralmente alcançada através de rebase em vez de fusão. Uma história não-linear inclui ramos que divergem e mais tarde se mesclam novamente, criando um gráfico de commits mais complexo. Equipes escolhem entre os dois com base em priorizar um log simples e legível ou uma história que reflete exatamente como o trabalho aconteceu em paralelo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Linear vs Non-Linear History](https://idiv-biodiversity.github.io/git-knowledge-base/linear-vs-nonlinear.html)
-- [@article@Linear git history - Part I](https://jun-sheng.medium.com/linear-git-history-part-i-b97184dde252#:~:text=The%20benefit%20of%20having%20a%20linear%20git%20history&text=It%20is%20easier%20to%20understand,bisect%20to%20track%20a%20bug.)
+- [@artigo@Linear vs Não-linear History](https://idiv-biodiversity.github.io/git-knowledge-base/linear-vs-nonlinear.html)
+- [@artigo@Linear git history - Part I](https://jun-sheng.medium.com/linear-git-history-part-i-b97184dde252#:~:text=O%20benefício%20de%20ter%20uma%20história%20git%20linear&text=É%20mais%20fácil%20entender,bisect%20para%20rastrear%20um%20bug.)

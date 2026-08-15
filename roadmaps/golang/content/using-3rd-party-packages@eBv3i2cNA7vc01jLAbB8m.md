@@ -1,8 +1,8 @@
-# Using 3rd Party Packages
+# Usando Pacotes de Terceiros
 
-Import external libraries using `go get package-url` which updates `go.mod`. Consider maintenance status, documentation, license, and security when choosing packages. Go modules handle version management and ensure reproducible builds.
+Importe bibliotecas externas usando `go get package-url`, que atualiza `go.mod`. Considere o status de manutenção, a documentação, a licença e a segurança ao escolher pacotes. Go modules lidam com a gestão de versões e garantem builds reproduzíveis.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Import and Use a Third-Party Package in Golang](https://thenewstack.io/import-and-use-a-third-party-package-in-golang/)
-- [@article@Using Third-Party Packages and Libraries in Golang](https://medium.com/@bramahendramahendra1/using-third-party-packages-and-libraries-in-golang-efbf0046f574)
+- [@article@Importando e Usando um Pacote de Terceiros em Golang](https://thenewstack.io/import-and-use-a-third-party-package-in-golang/)
+- [@article@Usando Pacotes e Bibliotecas de Terceiros em Golang](https://medium.com/@bramahendramahendra1/using-third-party-packages-and-libraries-in-golang-efbf0046f574)

@@ -4,7 +4,7 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 
 ---
 
-> ⚠️ **Total de itens sinalizados:** 1039
+> ⚠️ **Total de itens sinalizados:** 1055
 
 | Arquivo / Tópico | Motivo da Sinalização | Data/Hora |
 |---|---|---|
@@ -1047,3 +1047,19 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 | `roadmaps/git-github/content/pull-requests@s3MzDYFPMASqiS8UnvWzW.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:41:39.190765 |
 | `roadmaps/git-github/content/pull-requests@x6eILrLCQrVpz4j8uOuy6.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:41:44.509433 |
 | `roadmaps/git-github/content/pushing--pulling-changes@ZVMCh9om37ee1qsecFa-N.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:41:48.836749 |
+| `roadmaps/golang/content/beego@p7yeYkbQKAjr2aA_eUno4.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:45:06.522912 |
+| `roadmaps/golang/content/benchmarks@t9xOuLBrAzEvv2-bOU2hF.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:45:10.191681 |
+| `roadmaps/golang/content/boolean@PRTou83_rD0u7p2elGG4s.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:45:13.058476 |
+| `roadmaps/golang/content/conditionals@C7wzT161ytHsCpO2zfmXo.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:46:58.231544 |
+| `roadmaps/golang/content/const-and-iota@-M-qrXwVt7HfJv0CSRNGS.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:47:00.638019 |
+| `roadmaps/golang/content/embedding-interfaces@wK7GNTbOsMNs0N_1N4-dU.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:47:38.179377 |
+| `roadmaps/golang/content/embedding-structs@XLj16RmCe4-nKHW52Ebhf.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:47:41.212995 |
+| `roadmaps/golang/content/encodingjson@uB1fE15OprBcwN7p7ffJF.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:48:02.740498 |
+| `roadmaps/golang/content/error-interface@0mMP6QR0V-Zi25njD1TFT.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:48:11.656093 |
+| `roadmaps/golang/content/errorsnew@dHk6Y0zFqxtCuDiQcHQsi.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:48:27.965903 |
+| `roadmaps/golang/content/escape-analysis@ixoXVtRlrvTittqQq-Bgo.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:48:32.015641 |
+| `roadmaps/golang/content/fan-in@8BrnnM7HM-bijbUDgnW49.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:48:35.195931 |
+| `roadmaps/golang/content/revive@ksimJz7uvSh80ZIekSn_-.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:54:28.564386 |
+| `roadmaps/golang/content/runes@IAXI7OAAAG4fU6JvVNSZI.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:54:31.926691 |
+| `roadmaps/golang/content/scope-and-shadowing@xUKsD2eTP9-RszHvKYp9Y.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:54:35.281241 |
+| `roadmaps/golang/content/zerolog@TR7N68_evDMu3qWHbGJcz.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T07:57:20.616427 |

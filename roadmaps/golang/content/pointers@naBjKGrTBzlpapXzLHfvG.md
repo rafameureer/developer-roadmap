@@ -1,8 +1,8 @@
-# Pointers
+# Ponteiros
 
-Variables storing memory addresses of other variables. Enable efficient memory usage and allow functions to modify values. Declared with `*Type`, address obtained with `&`. No pointer arithmetic for safety. Essential for performance and building data structures.
+Variáveis que armazenam endereços de memória de outras variáveis. Habilitam o uso eficiente da memória e permitem que as funções modifiquem valores. Declarados com `*Tipo`, endereço obtido com `&`. Sem aritmética de ponteiros para segurança. Essenciais para o desempenho e a construção de estruturas de dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Pointers](https://go.dev/tour/moretypes/1)
-- [@article@Understanding Value and Pointer Receivers in Golang](https://medium.com/the-bug-shots/understanding-value-and-pointer-receivers-in-golang-82dd73a3eef9)
+- [@official@Ponteiros](https://go.dev/tour/moretypes/1)
+- [@article@Compreendendo Receivers de Valor e Ponteiro em Golang](https://medium.com/the-bug-shots/understanding-value-and-pointer-receivers-in-golang-82dd73a3eef9)

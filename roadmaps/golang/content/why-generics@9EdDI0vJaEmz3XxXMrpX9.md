@@ -1,9 +1,9 @@
-# Why Generics?
+# Por que Generics?
 
-Introduced in Go 1.18 to solve code duplication when working with multiple types. Before generics: separate functions per type, empty interfaces (losing type safety), or code generation. Enable type-safe, reusable code maintaining compile-time checking.
+Introduzidos em Go 1.18 para resolver a duplicação de código ao trabalhar com múltiplos tipos. Antes dos generics: funções separadas por tipo, interfaces vazias (perdendo segurança de tipo) ou geração de código. Habilitam código seguro e reutilizável mantendo verificação em tempo de compilação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Generics](https://go.dev/doc/tutorial/generics)
-- [@article@A walkthrough of type constraints in Go](https://simonklee.dk/type-constraints)
-- [@article@Mastering Type Assertion in Go](https://medium.com/@jamal.kaksouri/mastering-type-assertion-in-go-a-comprehensive-guide-216864b4ea4d)
+- [@oficial@Generics](https://go.dev/doc/tutorial/generics)
+- [@artigo@Uma passagem pelo tipo constraints em Go](https://simonklee.dk/type-constraints)
+- [@artigo@Dominando a Aserção de Tipo em Go](https://medium.com/@jamal.kaksouri/mastering-type-assertion-in-go-a-comprehensive-guide-216864b4ea4d)

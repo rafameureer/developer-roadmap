@@ -1,8 +1,8 @@
-# Array to Slice Conversion
+# Conversão de Array para Slice
 
-Convert arrays to slices using expressions like `array[:]` or `array[start:end]`. Creates slice header pointing to array memory - no data copying. Modifications through slice affect original array. Efficient way to use arrays with slice-based APIs.
+Converte arrays em slices usando expressões como `array[:]` ou `array[start:end]`. Cria um cabeçalho de slice apontando para a memória do array - sem cópia de dados. Modificações através do slice afetam o array original. Forma eficiente de usar arrays com APIs baseadas em slices.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Slice Arrays Correctly](https://labex.io/tutorials/go-how-to-slice-arrays-correctly-418936)
-- [@article@Go - Create Slice From Array - 3 Examples](https://www.tutorialkart.com/golang-tutorial/golang-create-slice-from-array/)
+- [@artigo@Fatiamento de Arrays Corretamente](https://labex.io/tutorials/go-how-to-slice-arrays-correctly-418936)
+- [@artigo@Go - Criar Slice a partir de Array - 3 Exemplos](https://www.tutorialkart.com/golang-tutorial/golang-create-slice-from-array/)

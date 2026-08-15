@@ -1,8 +1,8 @@
-# Interpreted String Literals
+# Literais de String Interpretados
 
-Enclosed in double quotes (`"`) and process escape sequences like `\n`, `\t`, `\"`. Support Unicode characters and formatting. Most common string type, ideal for text needing control characters but requiring escaping of special characters.
+Encolhidos entre aspas duplas (`"`) e processam sequências de escape como `\n`, `\t`, `\"`. Suportam caracteres Unicode e formatação. O tipo de string mais comum, ideal para texto que precisa de caracteres de controle, mas requer a escapação de caracteres especiais.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@How to handle string literal syntax](https://www.digitalocean.com/community/tutorials/an-introduction-to-working-with-strings-in-go)
-- [@article@Lexical elements: Interpreted string literals](https://boldlygo.tech/archive/2023-01-30-lexical-elements-interpreted-string-literals/)
+- [@artigo@Como lidar com a sintaxe de literais de string](https://www.digitalocean.com/community/tutorials/an-introduction-to-working-with-strings-in-go)
+- [@artigo@Elementos léxicos: Literais de string interpretados](https://boldlygo.tech/archive/2023-01-30-lexical-elements-interpreted-string-literals/)

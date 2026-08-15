@@ -1,7 +1,7 @@
-# Pointer Basics
+# Básicos de Ponteiros
 
-Variables storing memory addresses of other variables. Declared with `*Type`, dereferenced with `*ptr`, address obtained with `&var`. Enable efficient memory usage and allow functions to modify caller's data. Essential for performance and reference semantics.
+Variáveis que armazenam endereços de memória de outras variáveis. Declaradas com `*Tipo`, desreferenciadas com `*ptr`, e o endereço obtido com `&var`. Habilitam um uso eficiente da memória e permitem que as funções modifiquem os dados do chamador. Essenciais para o desempenho e semântica de referência.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Pointers](https://go.dev/tour/moretypes/1)
+- [@oficial@Ponteiros](https://go.dev/tour/moretypes/1)

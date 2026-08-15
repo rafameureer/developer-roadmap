@@ -1,8 +1,8 @@
 # go mod init
 
-Initializes new Go module by creating `go.mod` file with specified module path (typically repository URL). Marks directory as module root and enables module-based dependency management. First step for any new Go project.
+Inicializa um novo módulo Go criando o arquivo `go.mod` com o caminho do módulo especificado (geralmente a URL do repositório). Marca o diretório como raiz do módulo e habilita a gestão de dependências baseada em módulos. É o primeiro passo para qualquer novo projeto Go.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@go mod](https://go.dev/doc/tutorial/create-module)
 - [@official@go mod reference](https://go.dev/ref/mod)

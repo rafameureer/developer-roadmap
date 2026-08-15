@@ -1,9 +1,9 @@
-# Race Detector
+# Detecção de Conflitos de Conta
 
-Runtime tool detecting data races in concurrent programs using the `-race` flag. Tracks memory accesses and reports conflicts with detailed information including stack traces. Essential for finding concurrency bugs during development and testing.
+Ferramenta de tempo de execução para detectar conflitos de dados em programas concorrentes usando a bandeira `-race`. Monitora acessos à memória e relata conflitos com informações detalhadas, incluindo rastreamentos de pilha. Essencial para encontrar bugs de concorrência durante o desenvolvimento e os testes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Race Detection](https://go.dev/doc/articles/race_detector)
-- [@article@Go: Race Detector with ThreadSanitizer](https://medium.com/a-journey-with-go/go-race-detector-with-threadsanitizer-8e497f9e42db)
-- [@article@Data Race Detection and Data Race Patterns in Golang](https://www.sobyte.net/post/2022-06/go-data-race/)
+- [@oficial@Detecção de Conflitos de Conta](https://go.dev/doc/articles/race_detector)
+- [@artigo@Go: Detecção de Conflitos de Conta com ThreadSanitizer](https://medium.com/a-journey-with-go/go-race-detector-with-threadsanitizer-8e497f9e42db)
+- [@artigo@Detecção de Conflitos de Dados e Padrões de Conflito de Dados em Golang](https://www.sobyte.net/post/2022-06/go-data-race/)

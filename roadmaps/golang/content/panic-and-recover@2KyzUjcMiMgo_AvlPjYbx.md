@@ -1,8 +1,8 @@
-# panic and recover
+# Pânico e Recuperação
 
-`panic()` stops execution and unwinds stack, `recover()` catches panics in deferred functions. Use sparingly for unrecoverable errors. While Go emphasizes explicit errors, panic/recover serve as safety net for exceptional situations.
+A função `panic()` para a execução e desfaz a pilha, enquanto a função `recover()` captura pânicos em funções diferidas. Use com moderação para erros irrecoveráveis. Embora o Go enfatize erros explícitos, panic/recover servem como uma rede de segurança para situações excepcionais.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Defer, Panic, and Recover](https://go.dev/blog/defer-panic-and-recover)
-- [@article@Handling Panics in Go](https://www.digitalocean.com/community/tutorials/handling-panics-in-go)
+- [@oficial@Defer, Panic e Recuperação](https://go.dev/blog/defer-panic-and-recover)
+- [@artigo@Lidando com Pânicos em Go](https://www.digitalocean.com/community/tutorials/handling-panics-in-go)

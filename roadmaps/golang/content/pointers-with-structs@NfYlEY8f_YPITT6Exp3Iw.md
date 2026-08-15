@@ -1,8 +1,8 @@
-# Pointers with Structs
+# Ponteiros com Estruturas
 
-Pointers to structs enable efficient passing of large structures and allow modification of struct fields. Access fields with `(*ptr).field` or shorthand `ptr.field`. Common for method receivers and when structs need to be modified by functions. Essential for memory efficiency.
+Ponteiros para estruturas permitem um passagem eficiente de grandes estruturas e permitem a modificação dos campos da estrutura. Acesse os campos com `(*ptr).campo` ou o atalho `ptr.campo`. Comuns como receitores de métodos e quando as estruturas precisam ser modificadas por funções. Essenciais para eficiência na memória.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Pointers to structs](https://go.dev/tour/moretypes/4)
-- [@article@When should I use pointer and struct in golang?](https://medium.com/@wasiualhasib/working-with-structs-and-pointers-in-go-32a00a460cea)
+- [@oficial@Ponteiros para Estruturas](https://go.dev/tour/moretypes/4)
+- [@artigo@Quando devo usar ponteiros e estruturas em GoLang?](https://medium.com/@wasiualhasib/working-with-structs-and-pointers-in-go-32a00a460cea)

@@ -1,8 +1,8 @@
-# Realtime Communication
+# Comunicação em Tempo Real
 
-Realtime communication in Go enables instant bidirectional updates using WebSockets, Server-Sent Events, and messaging patterns. Go's concurrency makes it ideal for handling multiple connections. Essential for chat apps, live dashboards, and interactive applications requiring immediate synchronization.
+A comunicação em tempo real em Go permite atualizações bidirecionais instantâneas usando WebSockets, Eventos Enviados pelo Servidor e padrões de mensageria. A concorrência do Go a torna ideal para lidar com várias conexões. Essencial para aplicativos de chat, painéis em tempo real e aplicativos interativos que requerem sincronização imediata.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@http package](https://pkg.go.dev/net/http)
-- [@article@Implementing WebSockets in Golang](https://medium.com/wisemonks/implementing-websockets-in-golang-d3e8e219733b)
+- [@oficial@pacote http](https://pkg.go.dev/net/http)
+- [@artigo@Implementando WebSockets em Golang](https://medium.com/wisemonks/implementing-websockets-in-golang-d3e8e219733b)

@@ -1,9 +1,9 @@
-# Methods vs Functions
+# Métodos vs Funções
 
-Methods are functions with receiver arguments, defined outside type declaration. Enable object-like behavior on types. Functions are standalone, methods belong to specific types. Methods can have value or pointer receivers. Both can accept parameters and return values.
+Métodos são funções com argumentos de receptor, definidas fora da declaração do tipo. Habilitam o comportamento de objeto em tipos. As funções são independentes, os métodos pertencem a tipos específicos. Os métodos podem ter receptores de valor ou ponteiro. Ambos podem aceitar parâmetros e retornar valores.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Methods](https://go.dev/tour/methods/1)
-- [@article@Golang Methods Tutorial [Practical Examples]](https://www.golinuxcloud.com/golang-methods/)
-- [@article@Golang Functions vs Methods, why and when to use them](https://medium.com/@yuseferi/golang-functions-vs-methods-why-and-when-to-use-them-5b63fa1dc7f3)
+- [@oficial@Métodos](https://go.dev/tour/methods/1)
+- [@artigo@Tutorial de Métodos em Golang [Exemplos Práticos]](https://www.golinuxcloud.com/golang-methods/)
+- [@artigo@Funções vs Métodos em Golang, por que e quando usar](https://medium.com/@yuseferi/golang-functions-vs-methods-why-and-when-to-use-them-5b63fa1dc7f3)

@@ -1,8 +1,8 @@
 # for-range
 
-Special form of for loop for iterating over arrays, slices, maps, strings, and channels. Returns index/key and value. For strings, returns rune index and rune value. For channels, returns only values. Use blank identifier `_` to ignore unwanted return values.
+Forma especial de loop `for` para iterar sobre arrays, slices, maps, strings e canais. Retorna índice/chave e valor. Para strings, retorna índice de rune e valor de rune. Para canais, retorna apenas valores. Use o identificador em branco `_` para ignorar valores retornados não desejados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Range](https://go.dev/wiki/Range)
 - [@official@for](https://go.dev/tour/flowcontrol/1)

@@ -1,8 +1,8 @@
-# Cross-compilation
+# Cross-compilação
 
-Build executables for different OS and architectures using `GOOS` and `GOARCH` environment variables. Example: `GOOS=linux GOARCH=amd64 go build` creates Linux binaries. Enables multi-platform development without separate build environments.
+Crie executáveis para diferentes sistemas operacionais e arquiteturas usando as variáveis de ambiente `GOOS` e `GOARCH`. Exemplo: `GOOS=linux GOARCH=amd64 go build` cria binários Linux. Permite o desenvolvimento multi-plataforma sem ambientes de construção separados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@GccgoCrossCompilation](https://go.dev/wiki/GccgoCrossCompilation)
-- [@article@Cross-compiling made easy with Golang](https://medium.com/@keployio/understanding-go-coverage-a-guide-to-test-coverage-in-go-0c6e5ac8ba81)
+- [@oficial@GccgoCrossCompilation](https://go.dev/wiki/GccgoCrossCompilation)
+- [@artigo@Cross-compiling made easy with Golang](https://medium.com/@keployio/understanding-go-coverage-a-guide-to-test-coverage-in-go-0c6e5ac8ba81)

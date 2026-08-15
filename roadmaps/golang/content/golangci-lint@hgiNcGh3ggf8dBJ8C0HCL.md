@@ -1,8 +1,8 @@
 # golangci-lint
 
-Fast, parallel runner for multiple Go linters including staticcheck, go vet, and revive. Provides unified configuration, output formatting, and performance optimization. Streamlines code quality workflows through a single comprehensive tool.
+Executador rápido e paralelo para múltiplos verificadores de código Go, incluindo staticcheck, go vet e revive. Fornece configuração unificada, formatação de saída e otimização de desempenho. Simplifica os fluxos de trabalho de qualidade do código através de uma única ferramenta abrangente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@golangci-lint](https://golangci-lint.run/)
 - [@official@golangci-linters](https://golangci-lint.run/usage/linters/)

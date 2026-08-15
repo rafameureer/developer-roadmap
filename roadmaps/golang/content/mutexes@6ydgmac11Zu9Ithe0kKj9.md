@@ -1,8 +1,8 @@
 # Mutexes
 
-Mutual exclusion locks from sync package ensuring only one goroutine accesses shared resource at a time. Use `Lock()` before and `Unlock()` after critical section. RWMutex allows multiple readers or single writer. Essential for protecting shared data from race conditions.
+Barramentos de exclusão mútua do pacote sync garantindo que apenas uma goroutine acesse um recurso compartilhado por vez. Use `Lock()` antes e `Unlock()` após a seção crítica. RWMutex permite múltiplos leitores ou um único escritor. Essencial para proteger dados compartilhados de condições de corrida.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Mutex and How to Use it in Golang?](https://dev.to/lincemathew/what-is-mutex-and-how-to-use-it-in-golang-1m1i)
-- [@article@Understanding Mutex in Go Introduction](https://kamnagarg-10157.medium.com/understanding-mutex-in-go-5f41199085b9)
+- [@artigo@O que é Mutex e como usá-lo em Go?](https://dev.to/lincemathew/what-is-mutex-and-how-to-use-it-in-golang-1m1i)
+- [@artigo@Entendendo Mutex em Go Introdução](https://kamnagarg-10157.medium.com/understanding-mutex-in-go-5f41199085b9)

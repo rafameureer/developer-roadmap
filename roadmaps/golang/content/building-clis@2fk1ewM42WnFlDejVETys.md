@@ -1,9 +1,9 @@
-# Building CLIs
+# Desenvolvendo CLIs
 
-Go excels at CLI development due to fast compilation, single binary distribution, and rich ecosystem. Use standard `flag` package or frameworks like Cobra, urfave/cli, Bubble Tea. Cross-compilation support for multiple platforms. Great for learning Go while building useful tools.
+Go é excelente para o desenvolvimento de CLIs devido à compilação rápida, distribuição binária única e ecossistema rico. Use o pacote padrão `flag` ou frameworks como Cobra, urfave/cli, Bubble Tea. Suporte a compilação cruzada para múltiplos sistemas operacionais. Ótimo para aprender Go enquanto cria ferramentas úteis.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Command-line Interfaces (CLIs)](https://go.dev/solutions/clis)
-- [@article@Building a Command Line Interface (CLI) tool in Golang](https://medium.com/@mgm06bm/building-a-command-line-interface-cli-tool-in-golang-a-step-by-step-guide-44a7aad488e4)
-- [@article@Building a feature rich Command Line Interface (CLI) in GO](https://blog.stackademic.com/building-a-feature-rich-command-line-interface-cli-in-go-42a127b090c8)
+- [@oficial@Interfaces de Linha de Comando (CLIs)](https://go.dev/solutions/clis)
+- [@artigo@Criando uma Ferramenta de Linha de Comando (CLI) em Go](https://medium.com/@mgm06bm/building-a-command-line-interface-cli-tool-in-golang-a-step-by-step-guide-44a7aad488e4)
+- [@artigo@Criando uma CLI Rica em Funcionalidades em GO](https://blog.stackademic.com/building-a-feature-rich-command-line-interface-cli-in-go-42a127b090c8)

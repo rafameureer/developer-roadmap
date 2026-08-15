@@ -1,8 +1,8 @@
 # bufio
 
-Provides buffered I/O operations wrapping io.Reader/Writer interfaces for better performance. Reduces system calls by reading/writing larger chunks. Includes Scanner for line reading, Reader for buffered reading, Writer for buffered writing. Essential for efficient large file/network operations.
+Fornece operações de E/S bufferizadas que envolvem as interfaces `io.Reader/Writer` para melhorar o desempenho. Reduz chamadas ao sistema lendo/escrevendo em blocos maiores. Inclui um `Scanner` para leitura de linhas, um `Reader` para leitura bufferizada e um `Writer` para escrita bufferizada. Essencial para operações eficientes com arquivos/grafos de rede grandes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Bufio](https://go.dev/src/bufio/bufio.go)
 - [@official@Bufio Package](https://pkg.go.dev/bufio)

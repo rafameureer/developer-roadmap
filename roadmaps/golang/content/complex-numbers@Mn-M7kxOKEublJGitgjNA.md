@@ -1,9 +1,9 @@
-# Complex Numbers
+# Números Complexos
 
-Built-in support with `complex64` and `complex128` types. Create using `complex()` function or literals like `3+4i`. Provides `real()`, `imag()`, `abs()` functions. Useful for mathematical computations, signal processing, and scientific applications.
+Suporte embutido com os tipos `complex64` e `complex128`. Crie usando a função `complex()` ou literais como `3+4i`. Fornece funções `real()`, `imag()`, `abs()`. Útil para cálculos matemáticos, processamento de sinais e aplicações científicas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Complex Numbers](https://go.dev/ref/spec)
-- [@article@Complex Numbers in Golang](https://golangdocs.com/complex-numbers-in-golang)
-- [@article@Complex Data Types in Golang](https://dev.to/diwakarkashyap/complex-data-types-in-golang-go-328l)
+- [@official@Números Complexos](https://go.dev/ref/spec)
+- [@article@Números Complexos em Golang](https://golangdocs.com/complex-numbers-in-golang)
+- [@article@Tipos de Dados Complexos em Golang](https://dev.to/diwakarkashyap/complex-data-types-in-golang-go-328l)

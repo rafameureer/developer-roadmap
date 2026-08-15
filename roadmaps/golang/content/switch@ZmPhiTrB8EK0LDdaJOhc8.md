@@ -1,8 +1,8 @@
 # switch
 
-Clean way to compare variable against multiple values and execute corresponding code blocks. No break statements needed (no fall-through by default). Works with any comparable type, supports multiple values per case, expression/type switches. More readable than if-else chains.
+Uma maneira limpa de comparar uma variável contra múltiplos valores e executar os blocos de código correspondentes. Não é necessário usar declarações de quebra (não há "fall-through" por padrão). Funciona com qualquer tipo comparável, suporta múltiplos valores por caso, switches de expressão/tipo. Mais legível do que cadeias de if-else.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Switch](https://go.dev/wiki/Switch)
 - [@article@Go by Example: Switch](https://gobyexample.com/switch)

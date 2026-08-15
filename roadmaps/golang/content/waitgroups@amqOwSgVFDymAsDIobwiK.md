@@ -1,8 +1,8 @@
 # WaitGroups
 
-Synchronization primitive from sync package for waiting on multiple goroutines to complete. Use `Add()` to increment counter, `Done()` when goroutine finishes, `Wait()` to block until counter reaches zero. Essential for coordinating goroutine completion in concurrent programs.
+Primitiva de sincronização do pacote sync para esperar múltiplas goroutines terminarem. Use `Add()` para incrementar o contador, `Done()` quando a goroutine termina, e `Wait()` para bloquear até que o contador atinja zero. Essencial para coordenar a conclusão das goroutines em programas concorrentes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@WaitGroup in Go - How and when to use WaitGroup](https://medium.com/@dmytro.misik/waitgroup-in-go-df8f068e646f)
-- [@article@Mastering Concurrency in Golang](https://thelinuxcode.com/mastering-concurrency-in-golang-a-deep-dive-into-the-waitgroup/)
+- [@artigo@WaitGroup em Go - Como e quando usar WaitGroup](https://medium.com/@dmytro.misik/waitgroup-in-go-df8f068e646f)
+- [@artigo@Dominando a Concorrência em Golang](https://thelinuxcode.com/mastering-concurrency-in-golang-a-deep-dive-into-the-waitgroup/)

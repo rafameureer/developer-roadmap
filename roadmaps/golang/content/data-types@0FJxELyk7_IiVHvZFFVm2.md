@@ -1,9 +1,9 @@
-# Data Types
+# Tipos de Dados
 
-Rich set of built-in types: integers (int8-64), unsigned integers (uint8-64), floats (float32/64), complex numbers, booleans, strings, runes. Statically typed - types determined at compile time for early error detection and performance. Crucial for efficient, reliable programs.
+Conjunto rica de tipos embutidos: inteiros (int8-64), sem sinal (uint8-64), floats (float32/64), números complexos, booleanos, strings e runes. Tipagem estática - tipos determinados em tempo de compilação para detecção de erros cedo e melhor desempenho. Crucial para programas eficientes e confiáveis.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Go Basics](https://go.dev/tour/basics/11)
-- [@article@Basic Data Types in Go](https://golangbot.com/types/)
-- [@article@Understanding Data Types in Go](https://www.digitalocean.com/community/tutorials/understanding-data-types-in-go)
+- [@oficial@Básico do Go](https://go.dev/tour/basics/11)
+- [@artigo@Tipos de Dados Básicos em Go](https://golangbot.com/types/)
+- [@artigo@Compreendendo Tipos de Dados em Go](https://www.digitalocean.com/community/tutorials/understanding-data-types-in-go)

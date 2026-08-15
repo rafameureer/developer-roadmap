@@ -1,8 +1,8 @@
 # go mod tidy
 
-Ensures `go.mod` matches source code by adding missing requirements and removing unused dependencies. Updates `go.sum` with checksums. Essential for maintaining clean dependency management and ensuring reproducible builds before production deployment.
+Garante que o `go.mod` corresponda ao código-fonte, adicionando requisitos faltantes e removendo dependências não utilizadas. Atualiza o `go.sum` com os códigos de verificação. Essencial para manter uma gestão limpa das dependências e garantir builds reproduzíveis antes da implantação em produção.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@go mod create](https://go.dev/doc/tutorial/create-module)
 - [@official@go mod reference](https://go.dev/ref/mod)

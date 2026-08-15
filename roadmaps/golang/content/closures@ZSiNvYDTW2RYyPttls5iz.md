@@ -1,8 +1,8 @@
-# Closures
+# Fechamentos (Closures)
 
-Functions capturing variables from surrounding scope, accessible even after outer function returns. "Close over" external variables for specialized functions, callbacks, state maintenance. Useful for event handling, iterators, functional programming. Important for flexible, reusable code.
+Funções que capturam variáveis do escopo circundante, acessíveis mesmo após a função externa retornar. "Feche sobre" variáveis externas para funções especializadas, callbacks e manutenção de estado. Úteis para manipulação de eventos, iteradores e programação funcional. Importantes para código flexível e reutilizável.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Closures in Golang](https://go.dev/tour/moretypes/25)
-- [@article@Understanding Closures in Go](https://code101.medium.com/understanding-closures-in-go-encapsulating-state-and-behaviour-558ac3617671)
+- [@oficial@Fechamentos em Golang](https://go.dev/tour/moretypes/25)
+- [@artigo@Entendendo Fechamentos em Go](https://code101.medium.com/understanding-closures-in-go-encapsulating-state-and-behaviour-558ac3617671)

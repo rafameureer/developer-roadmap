@@ -1,9 +1,9 @@
-# Pointers with Maps & Slices
+# Ponteiros com Maps & Slices
 
-Maps and slices are reference types - passing them to functions doesn't copy underlying data. Modifications inside functions affect original. No need for explicit pointers. However, reassigning the slice/map variable itself won't affect caller unless using pointer.
+Maps e slices são tipos de referência - passá-los para funções não copia os dados subjacentes. Modificações dentro das funções afetam o original. Não há necessidade de ponteiros explícitos. No entanto, reatribuir a variável do slice/map por si só não afetará o chamador a menos que esteja usando um ponteiro.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Maps](https://go.dev/blog/maps)
-- [@official@Pointers](https://go.dev/tour/moretypes/1)
-- [@article@Slice Arrays Correctly](https://labex.io/tutorials/go-how-to-slice-arrays-correctly-418936)
+- [@official@Ponteiros](https://go.dev/tour/moretypes/1)
+- [@article@Slice Arrays Corretamente](https://labex.io/tutorials/go-how-to-slice-arrays-correctly-418936)

@@ -1,8 +1,8 @@
-# Build Constraints & Tags
+# Restrições de Construção & Marcadores
 
-Special comments controlling which files are included when building. Use `//go:build` directive for platform-specific code, environment builds, or feature toggles. Common for different OS/architectures or debug vs production builds. Essential for portable Go applications.
+Comentários especiais que controlam quais arquivos são incluídos durante a construção. Use a diretiva `//go:build` para código específico à plataforma, construções de ambiente ou alternativas de recurso. Comum para diferentes sistemas operacionais/arquiteturas ou builds de depuração vs produção. Essencial para aplicativos Go portáteis.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Build Package](https://pkg.go.dev/go/build)
 - [@article@Advanced Go Build Techniques](https://dev.to/jacktt/go-build-in-advance-4o8n)

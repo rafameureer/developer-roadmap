@@ -1,9 +1,9 @@
-# Package Import Rules
+# Regras de Importação de Pacotes
 
-Key rules: no circular imports, main package for executables, lowercase package names, exported identifiers start with capitals. Import paths are unique identifiers. Understanding ensures proper structure and follows Go conventions.
+Regras-chave: sem importações circulares, pacote principal para executáveis, nomes de pacote em minúsculas, identificadores exportados começam com letras maiúsculas. Caminhos de importação são identificadores únicos. A compreensão garante uma estrutura adequada e segue as convenções do Go.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@os package](https://pkg.go.dev/os)
-- [@article@Importing Packages in Go](https://www.digitalocean.com/community/tutorials/importing-packages-in-go)
-- [@article@A Comprehensive Guide to Importing and Using Packages](https://learnscripting.org/a-comprehensive-guide-to-importing-and-using-packages-in-go/)
+- [@oficial@pacote os](https://pkg.go.dev/os)
+- [@artigo@Importando Pacotes em Go](https://www.digitalocean.com/community/tutorials/importing-packages-in-go)
+- [@artigo@Guia Completo sobre Importação e Uso de Pacotes](https://learnscripting.org/a-comprehensive-guide-to-importing-and-using-packages-in-go/)

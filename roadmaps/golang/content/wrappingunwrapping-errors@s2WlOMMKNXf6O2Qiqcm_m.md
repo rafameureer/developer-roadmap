@@ -1,8 +1,8 @@
 # Wrapping/Unwrapping Errors
 
-Create error chains preserving original errors while adding context using `fmt.Errorf()` with `%w` verb. Use `errors.Unwrap()`, `errors.Is()`, and `errors.As()` to work with wrapped errors. Enables rich error contexts for easier debugging.
+Crie cadeias de erros preservando os erros originais ao adicionar contexto usando `fmt.Errorf()` com o verbo `%w`. Use `errors.Unwrap()`, `errors.Is()` e `errors.As()` para trabalhar com erros embrulhados. Permite contextos de erro ricos para facilitar a depuração.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Golang: error wrapping / unwrapping](https://medium.com/@vajahatkareem/golang-error-wrapping-multierror-759d04bdbfaf)
-- [@article@Error Wrapping in Go - Go Error Handling Example](https://go-cookbook.com/snippets/error-handling/error-wrapping)
+- [@article@Golang: embrulhamento / desembrulhamento de erros](https://medium.com/@vajahatkareem/golang-error-wrapping-multierror-759d04bdbfaf)
+- [@article@Embrulhamento de Erros em Go - Exemplo de Tratamento de Erros em Go](https://go-cookbook.com/snippets/error-handling/error-wrapping)

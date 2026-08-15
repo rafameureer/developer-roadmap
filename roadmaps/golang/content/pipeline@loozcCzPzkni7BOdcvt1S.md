@@ -1,9 +1,9 @@
 # Pipeline
 
-Concurrency pattern chaining processing stages where output of one stage becomes input of next. Each stage runs concurrently using goroutines and channels. Enables parallel processing and separation of concerns. Common in data processing, transformation workflows, and streaming applications.
+O padrão de concorrência encadeia etapas de processamento onde a saída de uma etapa se torna a entrada da próxima. Cada etapa é executada simultaneamente usando goroutines e canais, permitindo o processamento em paralelo e a separação de preocupações. Comum em processamento de dados, fluxos de transformação e aplicações de streaming.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Concurrency Pipelines](https://go.dev/blog/pipelines)
-- [@article@Pipeline Pattern in Go: A Practical Guide](https://dev.to/leapcell/pipeline-pattern-in-go-a-practical-guide-5dmm)
-- [@article@Applying Modern Go Concurrency Patterns to Data Pipelines](https://medium.com/amboss/applying-modern-go-concurrency-patterns-to-data-pipelines-b3b5327908d4)
+- [@official@Concorrência Pipelines](https://go.dev/blog/pipelines)
+- [@article@Padrão Pipeline em Go: Um Guia Prático](https://dev.to/leapcell/pipeline-pattern-in-go-a-practical-guide-5dmm)
+- [@article@Aplicando Padrões de Concorrência Modernos em Fluxos de Dados](https://medium.com/amboss/applying-modern-go-concurrency-patterns-to-data-pipelines-b3b5327908d4)

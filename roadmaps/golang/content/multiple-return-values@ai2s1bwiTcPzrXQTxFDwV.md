@@ -1,7 +1,7 @@
-# Multiple Return Values
+# Valores de Retorno Múltiplos
 
-Go functions can return multiple values, commonly used for returning result and error. Syntax: `func name() (Type1, Type2)`. Caller receives all returned values or uses blank identifier `_` to ignore unwanted values. Idiomatic for error handling pattern.
+As funções em Go podem retornar múltiplos valores, comumente usados para retornar resultados e erros. Sintaxe: `func nome() (Tipo1, Tipo2)`. O chamador recebe todos os valores retornados ou usa o identificador em branco `_` para ignorar valores não desejados. Idiomático para o padrão de tratamento de erros.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@How to manage Go function multiple returns](https://labex.io/tutorials/go-how-to-manage-go-function-multiple-returns-419825)
+- [@artigo@Como gerenciar múltiplos retornos de funções Go](https://labex.io/tutorials/go-how-to-manage-go-function-multiple-returns-419825)

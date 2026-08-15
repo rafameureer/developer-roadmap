@@ -1,8 +1,8 @@
-# Build Tags
+# Marcadores de Construção
 
-Build tags control file inclusion using `//go:build` directives based on conditions like OS, architecture, or custom tags. Enable conditional compilation for platform-specific code, feature flags, and environment-specific builds without runtime overhead.
+Os marcadores de construção controlam a inclusão de arquivos usando diretivas `//go:build` com base em condições como sistema operacional, arquitetura ou marcas personalizadas. Habilita a compilação condicional para código específico à plataforma, alternativas de recurso e builds específicos do ambiente sem sobrecarga de tempo de execução.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Build Package](https://pkg.go.dev/go/build)
 - [@article@Advanced Go Build Techniques](https://dev.to/jacktt/go-build-in-advance-4o8n)

@@ -1,8 +1,8 @@
-# Common Usecases
+# Casos Comuns de Uso
 
-Context package common uses: HTTP timeouts, database deadlines, goroutine cancellation coordination, and request-scoped values. Essential for web servers, microservices, circuit breakers, and building responsive APIs that handle cancellation gracefully.
+O pacote `context` é comumente usado para: timeouts de HTTP, prazos para bancos de dados, coordenação de cancelamento de goroutines e valores específicos ao escopo da solicitação. Essencial para servidores web, microservices, circuit breakers e construção de APIs respondentes que lidam com o cancelamento de maneira graciosa.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Use Cases](https://go.dev/solutions/use-cases)
-- [@article@The Versatility of Go: Ideal Use Cases for the Golang Programming](https://dev.to/adityabhuyan/the-versatility-of-go-ideal-use-cases-for-the-golang-programming-language-7co)
+- [@oficial@Casos de Uso](https://go.dev/solutions/use-cases)
+- [@artigo@A Versatilidade do Go: Casos Ideais de Uso para o Linguagem Golang](https://dev.to/adityabhuyan/the-versatility-of-go-ideal-use-cases-for-the-golang-programming-language-7co)

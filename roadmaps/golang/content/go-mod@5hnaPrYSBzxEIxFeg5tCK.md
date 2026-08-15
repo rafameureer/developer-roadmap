@@ -1,9 +1,9 @@
 # go mod
 
-Command-line tool for module management. `go mod init` creates module, `go mod tidy` cleans dependencies, `go mod download` fetches modules. Manages go.mod and go.sum files. Essential commands for dependency management and version control.
+Ferramenta de linha de comando para gerenciamento de módulos. `go mod init` cria um módulo, `go mod tidy` limpa as dependências, `go mod download` baixa os módulos. Gerencia os arquivos go.mod e go.sum. Comandos essenciais para o gerenciamento de dependências e controle de versão.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@go mod](https://go.dev/doc/tutorial/create-module)
-- [@article@go mod commands](https://blog.devtrovert.com/p/go-get-go-mod-tidy-commands)
-- [@article@What does go mod tidy do?](https://golangbyexamples.com/go-mod-tidy/)
+- [@article@comandos do go mod](https://blog.devtrovert.com/p/go-get-go-mod-tidy-commands)
+- [@article@O que o go mod tidy faz?](https://golangbyexamples.com/go-mod-tidy/)

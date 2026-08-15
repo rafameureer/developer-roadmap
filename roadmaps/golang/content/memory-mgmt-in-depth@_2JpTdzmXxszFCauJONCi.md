@@ -1,8 +1,8 @@
-# Memory Management in Depth
+# Gerenciamento de Memória em Profundidade
 
-Deep memory management involves understanding garbage collection, escape analysis, allocation patterns, and optimization techniques. Covers stack vs heap allocation, memory pooling, reducing allocations, and GC interaction for high-performance applications.
+O gerenciamento de memória profundo envolve entender a coleta de lixo, análise de escape, padrões de alocação e técnicas de otimização. Cobre alocação na pilha vs heap, pooling de memória, redução de alocações e interação com o GC para aplicativos de alto desempenho.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@The Go Memory Model](https://go.dev/ref/mem)
 - [@article@A Deep Dive into Golang Memory](https://mtardy.com/posts/memory-golang/)

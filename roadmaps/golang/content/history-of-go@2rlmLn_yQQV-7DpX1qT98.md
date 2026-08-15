@@ -1,9 +1,9 @@
-# History of Go
+# História do Go
 
-Created at Google in 2007 by Griesemer, Pike, and Thompson. Announced publicly in 2009, version 1.0 in 2012. Key milestones include modules (Go 1.11) and generics (Go 1.18). Designed for large-scale software development combining efficiency and simplicity.
+Criado em 2007 pela Google por Griesemer, Pike e Thompson. Anunciado publicamente em 2009, versão 1.0 em 2012. Pontos importantes incluem módulos (Go 1.11) e generics (Go 1.18). Projetado para o desenvolvimento de software a escala combinando eficiência e simplicidade.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Go Documentation](https://go.dev/doc/)
-- [@article@Go — How It All Began. A look back at the beginning of Go](https://medium.com/geekculture/learn-go-part-1-the-beginning-723746f2e8b0)
-- [@article@Understanding Golang: A Comprehensive Guide](https://www.learn-golang.org/en/Hello%2C_World%21)
+- [@official@Documentação do Go](https://go.dev/doc/)
+- [@article@Go — Como tudo começou. Um olhar para trás no início do Go](https://medium.com/geekculture/learn-go-part-1-the-beginning-723746f2e8b0)
+- [@article@Entendendo Golang: Um Guia Completo](https://www.learn-golang.org/en/Hello%2C_World%21)

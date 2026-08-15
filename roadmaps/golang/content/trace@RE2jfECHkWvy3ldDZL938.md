@@ -1,9 +1,9 @@
 # trace
 
-The Go trace tool captures execution traces showing goroutine execution, system calls, GC, and scheduling. Generate traces with `runtime/trace` package, analyze with `go tool trace`. Provides web interface for diagnosing concurrency issues and performance bottlenecks.
+A ferramenta Go trace captura rastreamentos de execução mostrando a execução de goroutines, chamadas do sistema, GC e escalonamento. Gere rastreamentos com o pacote `runtime/trace`, analise com `go tool trace`. Fornece interface web para diagnosticar problemas de concorrência e gargalos de desempenho.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Execution Traces](https://go.dev/blog/execution-traces-2024)
-- [@article@Introduction to Tracing in Go with Jaeger & OpenTelemetry](https://medium.com/@nairouasalaton/introduction-to-tracing-in-go-with-jaeger-opentelemetry-71955c2afa39)
-- [@article@Go: Discovery of the Trace Package](https://medium.com/a-journey-with-go/go-discovery-of-the-trace-package-e5a821743c3c)
+- [@oficial@Rastreamentos de Execução](https://go.dev/blog/execution-traces-2024)
+- [@artigo@Introdução ao Rastreamento em Go com Jaeger & OpenTelemetry](https://medium.com/@nairouasalaton/introduction-to-tracing-in-go-with-jaeger-opentelemetry-71955c2afa39)
+- [@artigo@Go: Descoberta do Pacote Trace](https://medium.com/a-journey-with-go/go-discovery-of-the-trace-package-e5a821743c3c)

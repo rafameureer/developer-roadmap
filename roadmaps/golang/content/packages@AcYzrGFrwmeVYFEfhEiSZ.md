@@ -1,9 +1,9 @@
-# Packages
+# Pacotes
 
-Fundamental unit of code organization in Go. Group related functions, types, and variables. Defined by package declaration at file top. Exported names start with capital letters. Import with `import` statement. Enable modularity, reusability, and namespace management.
+Unidade fundamental da organização de código em Go. Agrupa funções, tipos e variáveis relacionadas. Definidos pela declaração de pacote no topo do arquivo. Nomes exportados começam com letras maiúsculas. Importados com a declaração `import`. Habilita modularidade, reutilização e gerenciamento de namespaces.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@os package](https://pkg.go.dev/os)
-- [@article@Importing Packages in Go](https://www.digitalocean.com/community/tutorials/importing-packages-in-go)
-- [@article@A Comprehensive Guide to Importing and Using Packages](https://learnscripting.org/a-comprehensive-guide-to-importing-and-using-packages-in-go/)
+- [@oficial@pacote os](https://pkg.go.dev/os)
+- [@artigo@Importando Pacotes em Go](https://www.digitalocean.com/community/tutorials/importing-packages-in-go)
+- [@artigo@Guia Completo sobre Importação e Uso de Pacotes](https://learnscripting.org/a-comprehensive-guide-to-importing-and-using-packages-in-go/)

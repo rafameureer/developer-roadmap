@@ -1,9 +1,9 @@
 # slog
 
-Structured logging package introduced in Go 1.21. Provides leveled, structured logging with JSON output support. Better than basic log package for production use. Supports custom handlers, context integration, and performance optimization. Modern replacement for traditional logging.
+Pacote de registro estruturado introduzido no Go 1.21. Fornece registro nivelado e estruturado com suporte a saída em formato JSON. Melhor que o pacote básico de log para uso em produção. Suporta manipuladores personalizados, integração com contexto e otimização de desempenho. Substituição moderna para o registro tradicional.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Structured Logging with slog](https://go.dev/blog/slog)
-- [@article@Logging in Go with Slog: The Ultimate Guide](https://betterstack.com/community/guides/logging/logging-in-go/)
-- [@article@Effective Logging in Go: Best Practices and Implementation](https://dev.to/fazal_mansuri_/effective-logging-in-go-best-practices-and-implementation-guide-23hp)
+- [@oficial@Registro Estruturado com slog](https://go.dev/blog/slog)
+- [@artigo@Registro em Go com Slog: Guia Definitivo](https://betterstack.com/community/guides/logging/logging-in-go/)
+- [@artigo@Práticas Eficazes de Registro em Go: Melhores Práticas e Implementação](https://dev.to/fazal_mansuri_/effective-logging-in-go-best-practices-and-implementation-guide-23hp)

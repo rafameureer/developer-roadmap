@@ -1,9 +1,9 @@
-# go version
+# Versão do Go
 
-Displays the currently installed Go version, target OS, and architecture. Essential for verifying installation, troubleshooting environment issues, and ensuring compatibility across different development environments and teams.
+Exibe a versão do Go instalada atualmente, o sistema operacional de destino e a arquitetura. Essencial para verificar a instalação, resolver problemas de ambiente e garantir a compatibilidade em diferentes ambientes de desenvolvimento e equipes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Go Versions](https://go.dev/dl/)
-- [@article@Updating Go Version](https://www.golang101.com/questions/how-to-update-golang-version/)
-- [@article@How to Check My Golang Version (Win, MacOS, Linux)](https://blog.finxter.com/how-to-check-my-golang-version-win-macos-linux/)
+- [@oficial@Versões do Go](https://go.dev/dl/)
+- [@artigo@Como Atualizar a Versão do Go](https://www.golang101.com/questions/how-to-update-golang-version/)
+- [@artigo@Como Verificar Minha Versão do Go (Windows, MacOS, Linux)](https://blog.finxter.com/how-to-check-my-golang-version-win-macos-linux/)

@@ -1,8 +1,8 @@
-# Iterating Maps
+# Iteração em Mapas
 
-Use `for range` to iterate over maps, returns key and value pairs. Iteration order is random for security reasons. Use blank identifier `_` to ignore key or value. Cannot modify map during iteration unless creating new map. Safe to delete during iteration.
+Use `for range` para iterar sobre mapas, retornando pares de chave e valor. A ordem da iteração é aleatória por razões de segurança. Use o identificador em branco `_` para ignorar a chave ou o valor. Não pode modificar um mapa durante a iteração, a menos que você esteja criando um novo mapa. É seguro excluir itens durante a iteração.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Iterating Over Maps in Go: Methods, Order, and Best Practices](https://leapcell.io/blog/iterating-over-maps-in-go-methods-order-and-best-practices)
-- [@article@How to iterate over and order a map in Go](https://freshman.tech/snippets/go/iterate-over-map/)
+- [@artigo@Iteração sobre Mapas em Go: Métodos, Ordem e Melhores Práticas](https://leapcell.io/blog/iterating-over-maps-in-go-methods-order-and-best-practices)
+- [@artigo@Como iterar e ordenar um mapa em Go](https://freshman.tech/snippets/go/iterate-over-map/)

@@ -1,10 +1,10 @@
 # fmt.Errorf
 
-Creates formatted error messages using printf-style verbs. Supports `%w` verb for error wrapping (Go 1.13+) to create error chains preserving original errors while adding context. Essential for descriptive errors with dynamic values and debugging information.
+Cria mensagens de erro formatadas usando verbos do estilo printf. Suporta o verbo `%w` para envolvimento de erros (Go 1.13+) para criar cadeias de erros preservando os erros originais enquanto adiciona contexto. Essencial para erros descritivos com valores dinâmicos e informações de depuração.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@fmt](https://pkg.go.dev/fmt)
-- [@official@Error Handling and Go](https://go.dev/blog/error-handling-and-go)
-- [@article@Mastering Error Handling in Golang: The Power of fmt.Errorf ()](https://thelinuxcode.com/mastering-error-handling-in-golang-the-power-of-fmt-errorf/)
-- [@article@Understanding the fmt.Errorf Function in Golang](https://www.zetcode.com/golang/fmt-errorf/)
+- [@official@Manipulação de Erros no Go](https://go.dev/blog/error-handling-and-go)
+- [@article@Dominando a Manipulação de Erros em Golang: A Potência do fmt.Errorf ()](https://thelinuxcode.com/mastering-error-handling-in-golang-the-power-of-fmt-errorf/)
+- [@article@Entendendo a Função fmt.Errorf no Go](https://www.zetcode.com/golang/fmt-errorf/)

@@ -1,8 +1,8 @@
 # Generics
 
-Introduced in Go 1.18, allow functions and types to work with different data types while maintaining type safety. Enable reusable code without sacrificing performance. Use type parameters (square brackets) and constraints. Reduce code duplication while preserving strong typing.
+Introduzidos no Go 1.18, os generics permitem que funções e tipos trabalhem com diferentes tipos de dados enquanto mantêm a segurança do tipo. Habilitam o código reutilizável sem sacrificar desempenho. Utilize parâmetros de tipo (colchetes quadrados) e restrições. Reduza a duplicação de código enquanto preserva o tipagem forte.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Generic Functions](https://go.dev/doc/tutorial/generics)
-- [@article@Understanding Generics](https://blog.logrocket.com/understanding-generics-go-1-18/)
+- [@official@Funções Genéricas](https://go.dev/doc/tutorial/generics)
+- [@article@Compreendendo Generics](https://blog.logrocket.com/understanding-generics-go-1-18/)

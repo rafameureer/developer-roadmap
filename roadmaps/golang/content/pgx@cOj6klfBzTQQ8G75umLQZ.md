@@ -1,8 +1,8 @@
 # pgx
 
-pgx is a pure Go PostgreSQL driver providing both database/sql compatibility and native PostgreSQL features. Offers better performance than lib/pq, includes arrays, JSON support, connection pooling, and PostgreSQL-specific features like LISTEN/NOTIFY.
+pgx é um driver Go puro para PostgreSQL que oferece compatibilidade com o banco de dados/sql e recursos nativos do PostgreSQL. Oferece melhor desempenho em comparação com lib/pq, inclui arrays, suporte a JSON, pooling de conexões e recursos específicos do PostgreSQL como LISTEN/NOTIFY.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@pgx package](https://pkg.go.dev/github.com/jackc/pgx)
-- [@article@Getting Started with PostgreSQL in Go using PGX](https://betterstack.com/community/guides/scaling-go/postgresql-pgx-golang/)
+- [@official@pacote pgx](https://pkg.go.dev/github.com/jackc/pgx)
+- [@article@Introdução ao PostgreSQL em Go usando PGX](https://betterstack.com/community/guides/scaling-go/postgresql-pgx-golang/)

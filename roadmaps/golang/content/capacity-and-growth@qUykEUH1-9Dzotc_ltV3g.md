@@ -1,9 +1,9 @@
-# Capacity and Growth
+# Capacidade e Crescimento
 
-Slice capacity determines when reallocation occurs during append operations. Go typically doubles capacity for smaller slices. Pre-allocate with `make([]T, length, capacity)` to optimize memory usage and minimize allocations in performance-critical code.
+A capacidade de um slice determina quando ocorre a realocação durante operações de adição. Go geralmente duplica a capacidade para slices menores. Pré-aloque com `make([]T, comprimento, capacidade)` para otimizar o uso de memória e minimizar as alocações em código crítico de desempenho.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Understanding Go's Slice Data Structure and Its Growth Pattern](https://medium.com/@arjun.devb25/understanding-gos-slice-data-structure-and-its-growth-pattern-48fe6dd914b4)
-- [@article@How to Increase Slice Capacity in Go](https://thekoreanguy.medium.com/how-does-the-capacity-change-when-you-append-to-a-slice-in-go-46289dad4730)
-- [@article@How to Manage Slice Length and Capacity](https://labex.io/tutorials/go-how-to-manage-slice-length-and-capacity-418932)
+- [@artigo@Entendendo a Estrutura de Dados Slice do Go e Seu Padrão de Crescimento](https://medium.com/@arjun.devb25/understanding-gos-slice-data-structure-and-its-growth-pattern-48fe6dd914b4)
+- [@artigo@Como Aumentar a Capacidade de um Slice no Go](https://thekoreanguy.medium.com/how-does-the-capacity-change-when-you-append-to-a-slice-in-go-46289dad4730)
+- [@artigo@Como Gerenciar Comprimento e Capacidade de um Slice](https://labex.io/tutorials/go-how-to-manage-slice-length-and-capacity-418932)

@@ -1,10 +1,10 @@
-# Modules & Dependencies
+# Módulos & Dependências
 
-Go modules are the dependency management system introduced in Go 1.11. Define module with `go.mod` file containing module path and dependencies. Use `go get` to add dependencies, `go mod tidy` to clean up. Supports semantic versioning and replacement directives. Essential for modern Go development.
+Os módulos do Go são o sistema de gerenciamento de dependências introduzido no Go 1.11. Defina um módulo com o arquivo `go.mod` contendo o caminho do módulo e as dependências. Use `go get` para adicionar dependências, `go mod tidy` para limpar. Suporta versão semântica e diretivas de substituição. Essenciais para o desenvolvimento moderno em Go.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@go mod](https://go.dev/doc/tutorial/create-module)
-- [@official@go mod reference](https://go.dev/ref/mod)
-- [@article@go mod commands](https://blog.devtrovert.com/p/go-get-go-mod-tidy-commands)
-- [@article@What does go mod tidy do?](https://golangbyexamples.com/go-mod-tidy/)
+- [@oficial@go mod](https://go.dev/doc/tutorial/create-module)
+- [@oficial@referência do go mod](https://go.dev/ref/mod)
+- [@artigo@comandos do go mod](https://blog.devtrovert.com/p/go-get-go-mod-tidy-commands)
+- [@artigo@O que o comando go mod tidy faz?](https://golangbyexamples.com/go-mod-tidy/)

@@ -1,9 +1,9 @@
-# Type Inference
+# Inferência de Tipo
 
-Allows compiler to automatically determine generic type arguments based on function arguments or context. Reduces need for explicit type specification while maintaining type safety. Makes generic functions cleaner and more readable by eliminating redundant type specifications.
+Permite que o compilador determine automaticamente os argumentos de tipo genérico com base nos argumentos da função ou no contexto. Reduz a necessidade de especificação explícita de tipos, mantendo a segurança do tipo. Torna as funções genéricas mais limpas e fáceis de ler eliminando especificações de tipo redundantes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Type Inference](https://go.dev/blog/type-inference)
-- [@article@What Is Type Inference? What It Is and How It Work](https://hackernoon.com/what-is-type-inference-what-it-is-and-how-it-works)
-- [@article@Chapter 4: Interface and Type Systems in Go](https://medium.com/@omidahn/chapter-4-interface-and-type-systems-in-go-75b52392cc38)
+- [@official@Inferência de Tipo](https://go.dev/blog/type-inference)
+- [@article@O que é Inferência de Tipo? O Que É e Como Funciona](https://hackernoon.com/what-is-type-inference-what-it-is-and-how-it-works)
+- [@article@Capítulo 4: Interfaces e Sistemas de Tipos em Go](https://medium.com/@omidahn/chapter-4-interface-and-type-systems-in-go-75b52392cc38)

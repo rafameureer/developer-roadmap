@@ -1,9 +1,9 @@
-# go:embed for embedding
+# go:embed para Inclusão
 
-The `go:embed` directive embeds files and directories into Go binaries at compile time using `//go:embed` comments. Useful for including static assets, configs, and templates directly in executables, creating self-contained binaries that don't require external files.
+A diretiva `go:embed` incorpora arquivos e diretórios em binários Go no momento da compilação usando comentários `//go:embed`. Útil para incluir ativos estáticos, configurações e modelos diretamente nos executáveis, criando binários autônomos que não requerem arquivos externos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@go embed](https://pkg.go.dev/embed)
-- [@article@A Guide to Embedding Static Files in Go](https://www.iamyadav.com/blogs/a-guide-to-embedding-static-files-in-go)
-- [@article@How to Use go:embed in Go?](https://www.scaler.com/topics/golang/golang-embed/)
+- [@oficial@go embed](https://pkg.go.dev/embed)
+- [@artigo@Um Guia sobre a Inclusão de Arquivos Estáticos em Go](https://www.iamyadav.com/blogs/a-guide-to-embedding-static-files-in-go)
+- [@artigo@Como Usar go:embed em Go?](https://www.scaler.com/topics/golang/golang-embed/)

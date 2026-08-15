@@ -1,9 +1,9 @@
-# flag
+# Flag
 
-Standard library package for parsing command-line flags. Supports string, int, bool, duration flags with default values and descriptions. Automatically generates help text. Simple API for basic CLI argument parsing before using frameworks like Cobra.
+Pacote padrão da biblioteca para análise de bandeiras de linha de comando. Suporta bandeiras de string, int, bool e duração com valores padrão e descrições. Gera automaticamente texto de ajuda. API simples para o básico do parsing de argumentos CLI antes de usar frameworks como Cobra.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Flag](https://go-language.org/go-docs/flag/)
-- [@article@How To Use the Flag Package](https://www.digitalocean.com/community/tutorials/how-to-use-the-flag-package-in-go)
-- [@article@Advanced Golang Flag Techniques](https://www.golinuxcloud.com/golang-flags-examples/)
+- [@oficial@Flag](https://go-language.org/go-docs/flag/)
+- [@artigo@Como Usar o Pacote Flag](https://www.digitalocean.com/community/tutorials/how-to-use-the-flag-package-in-go)
+- [@artigo@Técnicas Avançadas de Flag em Go](https://www.golinuxcloud.com/golang-flags-examples/)

@@ -1,12 +1,12 @@
 # var vs :=
 
-Go provides two main ways to declare variables: using `var` and using the short declaration operator `:=`.
+O Go fornece duas maneiras principais de declarar variáveis: usando `var` e usando o operador de declaração curta `:=`.
 
-The `var` keyword is used for explicit variable declarations. You can use it to define a variable with or without assigning a value. If no value is provided, Go assigns a default _zero value_ based on the variable type. `var` can be used both inside and outside functions.
+A palavra-chave `var` é usada para declarações explícitas de variáveis. Você pode usá-la para definir uma variável com ou sem atribuir um valor. Se nenhum valor for fornecido, Go atribui um valor padrão _zero value_ baseado no tipo da variável. `var` pode ser usado tanto dentro quanto fora das funções.
 
-The `:=` syntax is a shorthand for declaring and initializing a variable. It infers the type from the value and can only be used **inside functions**. This is a quick and convenient way to create variables without explicitly mentioning their types.
+A sintaxe `:=` é um atalho para declarar e inicializar uma variável. Ele infere o tipo a partir do valor e só pode ser usado **dentro de funções**. É uma maneira rápida e conveniente de criar variáveis sem mencionar explicitamente seus tipos.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@official@Go Tour: Short variable declarations](https://go.dev/tour/basics/10)
-- [@official@Go Specification: Short Variable Declarations](https://go.dev/ref/spec#Short_variable_declarations)
+- [@official@Tour Go: Declaração de Variável Curta](https://go.dev/tour/basics/10)
+- [@official@Especificação Go: Declaração de Variável Curta](https://go.dev/ref/spec#Short_variable_declarations)

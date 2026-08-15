@@ -1,8 +1,8 @@
-# Variadic Functions
+# Funções Variádicas
 
-Functions accepting variable number of arguments of same type. Syntax: `func name(args ...Type)`. Arguments treated as slice inside function. Call with multiple args or slice with `...` operator. Common in functions like `fmt.Printf()` and `append()`.
+Funções que aceitam um número variável de argumentos do mesmo tipo. Sintaxe: `func nome(args ...Tipo)`. Os argumentos são tratados como uma fatia dentro da função. Chame com múltiplos argumentos ou uma fatia usando o operador `...`. Comuns em funções como `fmt.Printf()` e `append()`.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@article@Unpacking Go Variadic Functions: Clever Ways to Use Them](https://dev.to/shrsv/unpacking-go-variadic-functions-clever-ways-to-use-them-4p25)
-- [@article@How To Use Variadic Functions in Go -](https://www.digitalocean.com/community/tutorials/how-to-use-variadic-functions-in-go)
+- [@article@Desempacotando Funções Variádicas do Go: Maneiras Criativas de Usar](https://dev.to/shrsv/unpacking-go-variadic-functions-clever-ways-to-use-them-4p25)
+- [@article@Como Usar Funções Variádicas em Go -](https://www.digitalocean.com/community/tutorials/how-to-use-variadic-functions-in-go)

@@ -1,9 +1,9 @@
-# Why use Go
+# Por que usar Go
 
-Go offers exceptional performance with single binary deployment, built-in concurrency, fast compilation, and comprehensive standard library. Simple language that's easy to learn and maintain. Excels at web services, microservices, CLI tools, and system software.
+Go oferece desempenho excepcional com a implantação de um único binário, suporte à concorrência interna, compilação rápida e uma biblioteca padrão abrangente. Linguagem simples que é fácil de aprender e manter. Excelencia em serviços web, microservices, ferramentas CLI e software de sistema.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Why Go - The Go Programming Language](https://go.dev/solutions/)
-- [@article@Why Go: The benefits of Golang](https://medium.com/@julienetienne/why-go-the-benefits-of-golang-6c39ea6cff7e)
-- [@article@What Is Golang Used For? 7 Examples of Go Applications](https://trio.dev/what-is-golang-used-for/)
+- [@official@Por que Go - A Linguagem de Programação Go](https://go.dev/solutions/)
+- [@article@Por que Go: Os benefícios do Golang](https://medium.com/@julienetienne/why-go-the-benefits-of-golang-6c39ea6cff7e)
+- [@article@O que é o Golang? 7 Exemplos de Aplicações em Go](https://trio.dev/what-is-golang-used-for/)

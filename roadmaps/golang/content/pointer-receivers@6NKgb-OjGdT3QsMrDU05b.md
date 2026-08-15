@@ -1,9 +1,9 @@
-# Pointer Receivers
+# Ponteiros como Receitores
 
-Methods receive pointer to struct rather than copy using `func (p *Type) methodName()` syntax. Necessary when method modifies receiver state or struct is large. Go automatically handles value/pointer conversion when calling methods.
+Os métodos recebem um ponteiro para uma estrutura em vez de uma cópia usando a sintaxe `func (p *Tipo) nomeDoMétodo()`. É necessário quando o método modifica o estado do receptor ou a estrutura é grande. O Go lida automaticamente com a conversão entre valor e ponteiro ao chamar métodos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Pointer Receivers](https://go.dev/tour/methods/4)
-- [@article@Understanding Value and Pointer Receivers in Golang](https://medium.com/the-bug-shots/understanding-value-and-pointer-receivers-in-golang-82dd73a3eef9)
-- [@article@How to define methods with pointer receivers](https://labex.io/tutorials/go-how-to-define-methods-with-pointer-receivers-437937)
+- [@oficial@Ponteiros como Receitores](https://go.dev/tour/methods/4)
+- [@artigo@Compreendendo Ponteiros e Valores em GoLang](https://medium.com/the-bug-shots/understanding-value-and-pointer-receivers-in-golang-82dd73a3eef9)
+- [@artigo@Como definir métodos com ponteiros como receitores](https://labex.io/tutorials/go-how-to-define-methods-with-pointer-receivers-437937)

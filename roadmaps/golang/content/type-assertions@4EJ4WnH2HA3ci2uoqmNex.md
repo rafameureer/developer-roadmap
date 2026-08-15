@@ -1,9 +1,9 @@
-# Type Assertions
+# Aserções de Tipo
 
-Extract underlying concrete value from interface. Syntax: `value.(Type)` or `value, ok := value.(Type)` for safe assertion. Panics if type assertion fails without ok form. Essential for working with interfaces and empty interfaces.
+Extraia o valor concreto subjacente de uma interface. Sintaxe: `valor.(Tipo)` ou `valor, ok := valor.(Tipo)` para asserção segura. Gera um pânico se a asserção de tipo falhar sem o formato ok. Essencial para trabalhar com interfaces e interfaces vazias.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Type Assertions](https://go.dev/tour/methods/15)
-- [@article@Type assertions and type switches in Golang](https://www.educative.io/answers/type-assertions-and-type-switches-in-golang)
-- [@article@Mastering Type Assertion in Go](https://medium.com/@jamal.kaksouri/mastering-type-assertion-in-go-a-comprehensive-guide-216864b4ea4d)
+- [@oficial@Aserções de Tipo](https://go.dev/tour/methods/15)
+- [@artigo@Aserções de Tipo e Switches de Tipo em Golang](https://www.educative.io/answers/type-assertions-and-type-switches-in-golang)
+- [@artigo@Dominando Aserção de Tipo em Go](https://medium.com/@jamal.kaksouri/mastering-type-assertion-in-go-a-comprehensive-guide-216864b4ea4d)

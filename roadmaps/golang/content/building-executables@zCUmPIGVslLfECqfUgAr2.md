@@ -1,11 +1,11 @@
-# Building Executables
+# Criando Executáveis
 
-The `go build` command compiles source code into standalone native executables with static linking. Creates self-contained binaries including all dependencies, requiring no Go installation on target systems. Control builds with various optimization flags.
+O comando `go build` compila o código-fonte em executáveis nativos autônomos com vinculação estática. Cria binários independentes que incluem todas as dependências, exigindo nenhuma instalação do Go nos sistemas-alvo. Controle os builds com várias flags de otimização.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Build Package](https://pkg.go.dev/go/build)
-- [@official@Compile and Install Application](https://go.dev/doc/tutorial/compile-install)
-- [@article@Advanced Go Build Techniques](https://dev.to/jacktt/go-build-in-advance-4o8n)
-- [@article@Customizing Go Binaries with Build Tags](https://www.digitalocean.com/community/tutorials/customizing-go-binaries-with-build-tags)
-- [@article@How To Build and Install Go Programs](https://www.digitalocean.com/community/tutorials/how-to-build-and-install-go-programs)
+- [@oficial@Construir Pacote](https://pkg.go.dev/go/build)
+- [@oficial@Compilar e Instalar Aplicativo](https://go.dev/doc/tutorial/compile-install)
+- [@artigo@Técnicas Avançadas de Compilação em Go](https://dev.to/jacktt/go-build-in-advance-4o8n)
+- [@artigo@Personalizando Binários do Go com Tags de Construção](https://www.digitalocean.com/community/tutorials/customizing-go-binaries-with-build-tags)
+- [@artigo@Como Compilar e Instalar Programas em Go](https://www.digitalocean.com/community/tutorials/how-to-build-and-install-go-programs)

@@ -1,8 +1,8 @@
-# Functions
+# Funções
 
-First-class citizens in Go. Declared with `func` keyword, support parameters and return values. Can be assigned to variables, passed as arguments, returned from other functions. Support multiple return values, named returns, and variadic parameters. Building blocks of modular code.
+Cidadãos de primeira classe em Go. Declaradas com a palavra-chave `func`, suportam parâmetros e valores de retorno. Podem ser atribuídas a variáveis, passadas como argumentos e retornadas por outras funções. Suportam múltiplos retornos, retornos nomeados e parâmetros variádicos. Blocos fundamentais para o código modular.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Functions](https://go.dev/tour/basics/4)
 - [@article@Functions in Golang: Complete Guide with Examples](https://medium.com/backend-forge/functions-in-golang-complete-guide-with-examples-2025-e07db0f98fd3)

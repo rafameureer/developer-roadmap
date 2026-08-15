@@ -1,7 +1,7 @@
-# Commands & Docs
+# Comandos & Documentação
 
-Go provides built-in documentation tools including `go doc` for terminal documentation and `godoc` for web interface. Documentation uses special comments. `go help` provides command information. Essential for exploring standard library and writing well-documented code.
+Go fornece ferramentas de documentação integradas, incluindo `go doc` para documentação no terminal e `godoc` para uma interface web. A documentação usa comentários especiais. `go help` fornece informações sobre comandos. Essencial para explorar a biblioteca padrão e escrever código bem-documentado.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@A Guide to Effective Go Documentation](https://nirdoshgautam.medium.com/a-guide-to-effective-go-documentation-952f346d073f)
+- [@artigo@Um Guia para Documentação Eficaz em Go](https://nirdoshgautam.medium.com/a-guide-to-effective-go-documentation-952f346d073f)

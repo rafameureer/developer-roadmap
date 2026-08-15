@@ -1,9 +1,9 @@
 # go run
 
-Compiles and executes Go programs in one step without creating executable files. Useful for testing, development, and running scripts. Takes Go source files as arguments. Convenient for quick execution during development without build artifacts.
+Compila e executa programas Go em um único passo sem criar arquivos executáveis. Útil para testes, desenvolvimento e execução de scripts. Recebe arquivos-fonte Go como argumentos. Conveniente para a execução rápida durante o desenvolvimento sem artefatos de construção.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@go run](https://go.dev/doc/tutorial/getting-started)
-- [@article@How to Build and Run Go Programs](https://go-tutorial.com/build-and-run)
-- [@article@How To Build and Install Go Programs](https://www.digitalocean.com/community/tutorials/how-to-build-and-install-go-programs)
+- [@article@Como construir e executar programas Go](https://go-tutorial.com/build-and-run)
+- [@article@Como construir e instalar programas Go](https://www.digitalocean.com/community/tutorials/how-to-build-and-install-go-programs)

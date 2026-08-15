@@ -1,8 +1,8 @@
-# Raw String Literals
+# Literais de String Bruta
 
-Enclosed in backticks (\`) and interpret characters literally without escape sequences. Preserve formatting including newlines. Ideal for regex, file paths, SQL queries, JSON templates, and multi-line text where escaping would be extensive.
+Encapsulados em crases (`) e interpretam caracteres literalmente sem sequências de escape. Preservam o formato, incluindo novas linhas. Ótimo para regex, caminhos de arquivo, consultas SQL, modelos JSON e texto multilinha onde a escaparização seria extensa.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Strings in Go](https://go.dev/blog/strings#what-is-a-string)
-- [@article@Golang Quick Reference: Strings. Introduction](https://medium.com/@golangda/golang-quick-reference-strings-0d68bb036c29)
+- [@oficial@Strings em Go](https://go.dev/blog/strings#o-que-e-uma-string)
+- [@artigo@Guia Rápido de Golang: Strings. Introdução](https://medium.com/@golangda/golang-quick-reference-strings-0d68bb036c29)

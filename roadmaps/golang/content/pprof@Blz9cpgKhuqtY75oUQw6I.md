@@ -1,8 +1,8 @@
 # pprof
 
-Built-in profiling tool for analyzing program performance. Profiles CPU usage, memory allocation, goroutines, blocking operations. Import `net/http/pprof` for web interface or use `go tool pprof` for analysis. Essential for performance optimization and bottleneck identification.
+Ferramenta de perfilamento embutida para analisar o desempenho do programa. Perfilagem de uso de CPU, alocação de memória, goroutines e operações bloqueantes. Importe `net/http/pprof` para interface web ou use `go tool pprof` para análise. Essenciais para otimização de desempenho e identificação de gargalos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@pprof package](https://pkg.go.dev/runtime/pprof)
-- [@article@Go Profiling with pprof: A Step-by-Step Guide](https://medium.com/@jhathnagoda/go-profiling-with-pprof-a-step-by-step-guide-a62323915cb0)
+- [@official@pacote pprof](https://pkg.go.dev/runtime/pprof)
+- [@article@Profilagem em Go com pprof: Um Guia Passo a Passo](https://medium.com/@jhathnagoda/go-profiling-with-pprof-a-step-by-step-guide-a62323915cb0)

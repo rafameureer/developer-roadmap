@@ -1,9 +1,9 @@
-# Channels
+# Canais
 
-Primary mechanism for goroutine communication following "share memory by communicating" principle. Typed conduits created with `make()`. Come in buffered and unbuffered varieties. Used for synchronization, data passing, and coordinating concurrent operations. Essential for concurrent programming.
+Mecanismo primário para a comunicação entre goroutines, seguindo o princípio "compartilhe memória através da comunicação". Conduzos tipados criados com `make()`. Vêm em versões bufferizadas e não-bufferizadas. Usados para sincronização, passagem de dados e coordenação de operações concorrentes. Essenciais para programação concorrente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Channels in Golang](https://golangdocs.com/channels-in-golang)
-- [@article@Concurrency in Go: Channels and WaitGroups](https://medium.com/goturkiye/concurrency-in-go-channels-and-waitgroups-25dd43064d1)
-- [@article@Go Channels Explained: More than Just a Beginner's Guide](https://blog.devtrovert.com/p/go-channels-explained-more-than-just)
+- [@oficial@Canais em Golang](https://golangdocs.com/channels-in-golang)
+- [@artigo@Concorrência em Go: Canais e WaitGroups](https://medium.com/goturkiye/concurrency-in-go-channels-and-waitgroups-25dd43064d1)
+- [@artigo@Canais em Go Explicados: Mais do que apenas um guia para iniciantes](https://blog.devtrovert.com/p/go-channels-explained-more-than-just)

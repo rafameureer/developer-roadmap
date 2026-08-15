@@ -1,8 +1,8 @@
 # Melody
 
-Melody is a minimalist WebSocket framework for Go providing simple session management, message broadcasting, and connection handling. Features include rooms, automatic ping/pong, message limits, and clean integration with existing web frameworks for real-time apps.
+Melody é um framework minimalista de WebSocket para Go que oferece gerenciamento simples de sessão, transmissão de mensagens em massa e manipulação de conexões. Características incluem salas, ping/pong automático, limites de mensagem e integração limpa com frameworks web existentes para aplicativos em tempo real.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Melody Package](https://pkg.go.dev/github.com/olahol/melody)
 - [@opensource@olahol/melody: Minimalist websocket framework](https://github.com/olahol/melody)

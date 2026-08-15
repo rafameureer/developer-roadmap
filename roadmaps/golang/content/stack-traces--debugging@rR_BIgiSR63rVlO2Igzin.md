@@ -1,9 +1,9 @@
 # Stack Traces & Debugging
 
-Go automatically prints stack traces on panic showing call chain. Tools include Delve debugger, pprof profiling, and race detection. Stack traces show function calls, file locations, and line numbers for effective troubleshooting.
+Go imprime automaticamente rastreamentos de pilha em caso de pânico, mostrando a cadeia de chamadas. Ferramentas incluem o depurador Delve, o profiler pprof e a detecção de corrida. Os rastreamentos de pilha mostram chamadas de função, locais de arquivo e números de linha para um troubleshooting eficaz.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Diagnostics](https://go.dev/doc/diagnostics)
-- [@article@A Comprehensive Guide to Debugging Go Code for Developers](https://dev.to/adityabhuyan/a-comprehensive-guide-to-debugging-go-code-for-developers-h9d)
-- [@article@Reading Go Stack Traces - Go Debugging Example](https://go-cookbook.com/snippets/debugging/reading-go-stack-traces)
+- [@official@Diagnósticos](https://go.dev/doc/diagnostics)
+- [@article@Guia Completo para Depuração de Código Go para Desenvolvedores](https://dev.to/adityabhuyan/a-comprehensive-guide-to-debugging-go-code-for-developers-h9d)
+- [@article@Lendo Rastreamentos de Pilha em Go - Exemplo de Depuração em Go](https://go-cookbook.com/snippets/debugging/reading-go-stack-traces)

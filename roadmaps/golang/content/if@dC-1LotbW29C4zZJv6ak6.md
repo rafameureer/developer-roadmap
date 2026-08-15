@@ -1,9 +1,9 @@
 # if
 
-Basic conditional statement for executing code based on boolean conditions. Supports optional initialization statement before condition check. No parentheses required around condition but braces mandatory. Can be chained with else if for multiple conditions. Foundation of control flow.
+Estatuto condicional básico para executar código com base em condições booleanas. Suporta uma declaração de inicialização opcional antes da verificação da condição. Não são necessários parênteses ao redor da condição, mas as chaves são obrigatórias. Pode ser encadeado com `else if` para múltiplas condições. Fundamento do fluxo de controle.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@if else](https://go.dev/tour/flowcontrol/7)
 - [@article@If-else: Gobyexample](https://gobyexample.com/if-else)
-- [@article@Understanding the If Statement in Golang](https://www.zetcode.com/golang/if-else-keywords/)
+- [@article@Entendendo a Declaração If em Golang](https://www.zetcode.com/golang/if-else-keywords/)

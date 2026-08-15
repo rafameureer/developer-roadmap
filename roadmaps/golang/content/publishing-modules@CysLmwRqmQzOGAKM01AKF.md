@@ -1,8 +1,8 @@
-# Publishing Modules
+# Publicação de Módulos
 
-Share Go code through version control systems using semantic versioning tags. Go proxy system automatically discovers and serves modules. Follow Go conventions, maintain documentation, and ensure backward compatibility to contribute to the ecosystem.
+Compartilhe código Go através de sistemas de controle de versão usando tags de versão semântica. O sistema de proxy do Go descobre e serve automaticamente módulos. Siga as convenções do Go, mantenha a documentação e garanta a compatibilidade para trás para contribuir para o ecossistema.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Publishing Modules](https://go.dev/doc/modules/publishing)
-- [@article@How To Create & Publish a Go Public Package](https://medium.com/the-godev-corner/how-to-create-publish-a-go-public-package-9034e6bfe4a9)
+- [@official@Publicação de Módulos](https://go.dev/doc/modules/publishing)
+- [@article@Como Criar e Publicar um Pacote Público Go](https://medium.com/the-godev-corner/how-to-create-publish-a-go-public-package-9034e6bfe4a9)

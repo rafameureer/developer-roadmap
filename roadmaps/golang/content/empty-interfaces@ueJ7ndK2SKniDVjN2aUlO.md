@@ -1,8 +1,8 @@
-# Empty Interface
+# Interface Vazia
 
-The empty interface `interface{}` can hold values of any type since every type implements at least zero methods. Used for generic programming before Go 1.18 generics. Requires type assertions or type switches to access underlying values. Common in APIs handling unknown data types.
+A interface vazia `interface{}` pode armazenar valores de qualquer tipo, pois todos os tipos implementam pelo menos zero métodos. Usada para programação genérica antes dos generics do Go 1.18. Requer declarações de tipo ou switches de tipo para acessar os valores subjacentes. Comum em APIs que lidam com tipos de dados desconhecidos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Empty Interface](https://go.dev/tour/methods/14)
-- [@article@Understanding the empty interface in Go](https://dev.to/flrnd/understanding-the-empty-interface-in-go-4652)
+- [@artigo@Interface Vazia](https://go.dev/tour/methods/14)
+- [@artigo@Compreendendo a interface vazia no Go](https://dev.to/flrnd/understanding-the-empty-interface-in-go-4652)

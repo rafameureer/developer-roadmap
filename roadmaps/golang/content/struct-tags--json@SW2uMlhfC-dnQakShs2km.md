@@ -1,8 +1,8 @@
 # Struct Tags & JSON
 
-Struct tags provide metadata about fields using backticks with key-value pairs. JSON tags control field names, omit empty fields, or skip fields. Example: `json:"name,omitempty"`. Essential for APIs and data serialization formats.
+Os struct tags fornecem metadados sobre os campos usando aspas invertidas com pares de chave-valor. Os tags JSON controlam nomes de campo, omitindo campos vazios ou pulando campos. Exemplo: `json:"name,omitempty"`. Essenciais para APIs e formatos de serialização de dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Well known struct tags](https://go.dev/wiki/Well-known-struct-tags)
 - [@article@Working with JSON and Struct Tags](https://medium.com/@sanyamdubey28/working-with-json-and-struct-tags-in-go-0e6a7c4fc6b0)

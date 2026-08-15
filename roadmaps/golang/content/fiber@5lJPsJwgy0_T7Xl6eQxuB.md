@@ -1,11 +1,11 @@
-# fiber
+# Fiber
 
-Fiber is an Express-inspired web framework built on fasthttp for exceptional performance. Provides familiar API with middleware, routing, templates, and WebSocket support. Popular for high-performance REST APIs and microservices requiring speed and simplicity.
+Fiber é um framework web inspirado no Express, construído em cima do fasthttp para desempenho excepcional. Fornece uma API familiar com middleware, roteamento, modelos e suporte a WebSocket. Popular para APIs REST de alto desempenho e microservices que exigem velocidade e simplicidade.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Fiber](https://gofiber.io/)
-- [@official@Fiber Documentation](https://docs.gofiber.io/)
+- [@oficial@Fiber](https://gofiber.io/)
+- [@oficial@Documentação do Fiber](https://docs.gofiber.io/)
 - [@opensource@gofiber/fiber](https://github.com/gofiber/fiber)
-- [@article@Fiber Framework in Golang](https://medium.com/@uzairahmed01/fiber-framework-in-golang-b5158499c9ad)
-- [@article@Go Fiber: Start Building RESTful APIs on Golang](https://dev.to/percoguru/getting-started-with-apis-in-golang-feat-fiber-and-gorm-2n34)
+- [@artigo@Framework Fiber em Go](https://medium.com/@uzairahmed01/fiber-framework-in-golang-b5158499c9ad)
+- [@artigo@Começando a Construir APIs RESTful em Go com Fiber e Gorm](https://dev.to/percoguru/getting-started-with-apis-in-golang-feat-fiber-and-gorm-2n34)

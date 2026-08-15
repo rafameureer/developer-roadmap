@@ -1,9 +1,9 @@
-# Comma-Ok Idiom
+# Idioma Comma-Ok
 
-Pattern for safely testing map key existence or type assertion success using `value, ok := map[key]` or `value, ok := interface.(Type)`. Returns both value and boolean status, preventing panics and distinguishing zero values from missing keys.
+Padrão para testar a existência de uma chave em um mapa ou a sucesso de uma declaração de tipo usando `value, ok := map[key]` ou `value, ok := interface.(Type)`. Retorna tanto o valor quanto o status booleano, evitando panics e distinguindo valores zero de chaves ausentes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@The Comma Ok Idiom](https://dev.to/saurabh975/comma-ok-in-go-l4f)
-- [@article@How the Comma Ok Idiom and Package System Work in Go](https://www.freecodecamp.org/news/how-the-comma-ok-idiom-and-package-system-work-in-go/)
-- [@article@Statement Idioms in Go](https://medium.com/@nateogbonna/statement-idioms-in-go-writing-clean-idiomatic-go-code-6fe92e6e8ab4)
+- [@artigo@O Idioma Comma Ok](https://dev.to/saurabh975/comma-ok-in-go-l4f)
+- [@artigo@Como o Idioma Comma Ok e o Sistema de Pacotes Funcionam em Go](https://www.freecodecamp.org/news/how-the-comma-ok-idiom-and-package-system-work-in-go/)
+- [@artigo@Idiomas de Declaração em Go](https://medium.com/@nateogbonna/statement-idioms-in-go-writing-clean-idiomatic-go-code-6fe92e6e8ab4)

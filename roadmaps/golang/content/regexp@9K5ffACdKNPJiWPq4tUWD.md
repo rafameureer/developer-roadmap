@@ -1,9 +1,9 @@
 # regexp
 
-Standard library package for regular expression functionality. Implements RE2 syntax for safe, efficient pattern matching. Provides functions for matching, finding, replacing text patterns. Supports compiled expressions for performance. Essential for text processing, validation, parsing.
+Pacote padrão da biblioteca estándar para funcionalidades de expressões regulares. Implementa a sintaxe RE2 para correspondência segura e eficiente de padrões. Fornece funções para correspondência, busca e substituição de padrões de texto. Suporta expressões compiladas para melhor desempenho. Essencial para processamento de texto, validação e análise.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@regexp package](https://pkg.go.dev/regexp)
-- [@article@Mastering Regular Expressions in Golang](https://labex.io/tutorials/go-golang-regular-expression-tutorial-15502)
-- [@article@A deep dive into regular expressions with Golang](https://blog.logrocket.com/deep-dive-regular-expressions-golang/)
+- [@oficial@pacote regexp](https://pkg.go.dev/regexp)
+- [@artigo@Dominando Expressões Regulares em Golang](https://labex.io/tutorials/go-golang-regular-expression-tutorial-15502)
+- [@artigo@Uma exploração profunda de expressões regulares com Golang](https://blog.logrocket.com/deep-dive-regular-expressions-golang/)

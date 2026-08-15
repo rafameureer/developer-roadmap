@@ -1,8 +1,8 @@
-# Coverage
+# Cobertura
 
-Test coverage measures code execution during testing using `go test -cover` and `-coverprofile`. Visualize with `go tool cover -html` to identify untested code paths. Helps maintain quality standards and guide testing efforts for more reliable applications.
+A cobertura de testes mede a execução do código durante os testes usando `go test -cover` e `-coverprofile`. Visualize com `go tool cover -html` para identificar caminhos de código não testados. Ajuda a manter padrões de qualidade e guiar esforços de teste para aplicativos mais confiáveis.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Coverage Profiling](https://go.dev/doc/build-cover)
-- [@article@A Beginner's Guide to Code Coverage for Go Integration Tests](https://hackernoon.com/a-beginners-guide-to-code-coverage-for-go-integration-tests)
+- [@oficial@Cobertura de Profiling](https://go.dev/doc/build-cover)
+- [@artigo@Guia iniciante para cobertura de código para testes de integração em Go](https://hackernoon.com/a-beginners-guide-to-code-coverage-for-go-integration-tests)

@@ -1,9 +1,9 @@
-# Logging
+# Registro
 
-Essential for monitoring, debugging, maintaining production applications. Standard `log` package and `slog` (Go 1.21+) for structured logging. Popular libraries: Zap (high-performance), Zerolog (zero-allocation), Logrus (feature-rich). Use appropriate log levels and structured messages.
+Essencial para monitoramento, depuração e manutenção de aplicativos em produção. O pacote padrão `log` e o `slog` (Go 1.21+) para registro estruturado. Bibliotecas populares: Zap (desempenho alto), Zerolog (sem alocação zero), Logrus (ricco em recursos). Use níveis de log apropriados e mensagens estruturadas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Structured Logging with slog](https://go.dev/blog/slog)
-- [@article@Logging in Go with Slog: The Ultimate Guide](https://betterstack.com/community/guides/logging/logging-in-go/)
-- [@article@Effective Logging in Go: Best Practices and Implementation](https://dev.to/fazal_mansuri_/effective-logging-in-go-best-practices-and-implementation-guide-23hp)
+- [@oficial@Registro Estruturado com slog](https://go.dev/blog/slog)
+- [@artigo@Registro em Go com Slog: Guia Completo](https://betterstack.com/community/guides/logging/logging-in-go/)
+- [@artigo@Práticas Eficazes de Registro em Go: Melhores Práticas e Implementação](https://dev.to/fazal_mansuri_/effective-logging-in-go-best-practices-and-implementation-guide-23hp)

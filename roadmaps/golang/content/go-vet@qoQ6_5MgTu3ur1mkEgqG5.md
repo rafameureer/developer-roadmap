@@ -1,9 +1,9 @@
 # go vet
 
-Built-in tool analyzing Go source code for suspicious constructs likely to be bugs. Checks for unreachable code, incorrect printf formats, struct tag mistakes, and potential nil pointer dereferences. Automatically run by `go test`.
+Ferramenta interna que analisa o código-fonte do Go em busca de construções suspeitas provavelmente serem bugs. Verifica códigos não alcançáveis, formatos incorretos de printf, erros de marcação de estruturas e referências a ponteiros nulos potenciais. Executado automaticamente pelo `go test`.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@go vet](https://pkg.go.dev/cmd/vet)
-- [@article@Go: Vet Command Is More Powerful Than You Think](https://medium.com/a-journey-with-go/go-vet-command-is-more-powerful-than-you-think-563e9fdec2f5)
-- [@article@Using go vet for Code Analysis](https://medium.com/a-journey-with-go/go-vet-command-is-more-powerful-than-you-think-563e9fdec2f5)
+- [@oficial@go vet](https://pkg.go.dev/cmd/vet)
+- [@artigo@O Comando Go: Vet é Mais Potente do Que Você Acha](https://medium.com/a-journey-with-go/go-vet-command-is-more-powerful-than-you-think-563e9fdec2f5)
+- [@artigo@Usando go vet para Análise de Código](https://medium.com/a-journey-with-go/go-vet-command-is-more-powerful-than-you-think-563e9fdec2f5)

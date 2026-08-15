@@ -1,9 +1,9 @@
 # go test
 
-Command for running tests in Go packages. Automatically finds and executes functions starting with `Test`. Supports benchmarks (`Benchmark`), examples (`Example`), and sub-tests. Includes coverage analysis, parallel execution, and various output formats. Essential for TDD and quality assurance.
+Comando para executar testes em pacotes Go. Encontra e executa automaticamente funções que começam com `Test`. Suporta benchmarks (`Benchmark`), exemplos (`Example`) e sub-testes. Inclui análise de cobertura, execução paralela e vários formatos de saída. Essencial para TDD e garantia de qualidade.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@go test](https://go.dev/doc/tutorial/add-a-test)
-- [@article@How To Write Unit Tests in Go](https://www.digitalocean.com/community/tutorials/how-to-write-unit-tests-in-go-using-go-test-and-the-testing-package)
-- [@article@Testing and Benchmarking in Go](https://medium.com/hyperskill/testing-and-benchmarking-in-go-e33a54b413e)
+- [@article@Como escrever testes unitários em Go](https://www.digitalocean.com/community/tutorials/how-to-write-unit-tests-in-go-using-go-test-and-the-testing-package)
+- [@article@Testando e benchmarking em Go](https://medium.com/hyperskill/testing-and-benchmarking-in-go-e33a54b413e)

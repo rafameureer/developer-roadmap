@@ -1,8 +1,8 @@
-# Anonymous Functions
+# Funções Anônimas
 
-Functions declared without names, also called function literals or lambdas. Can be assigned to variables, passed as arguments, or executed immediately. Useful for short operations, callbacks, goroutines, and closures. Access enclosing scope variables. Common in event handlers and functional patterns.
+Funções declaradas sem nomes, também chamadas de literais de função ou lambdas. Pode ser atribuída a variáveis, passada como argumentos ou executada imediatamente. Útil para operações curtas, callbacks, goroutines e closures. Acessa variáveis do escopo externo. Comum em manipuladores de eventos e padrões funcionais.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Anonymous Functions](https://golangdocs.com/anonymous-functions-in-golang)
-- [@article@Understanding Anonymous Functions in Go: A Practical Guide](https://dev.to/abstractmusa/understanding-anonymous-functions-in-go-a-practical-guide-57hd)
+- [@artigo@Funções Anônimas](https://golangdocs.com/anonymous-functions-in-golang)
+- [@artigo@Compreendendo Funções Anônimas em Go: Um Guia Prático](https://dev.to/abstractmusa/understanding-anonymous-functions-in-go-a-practical-guide-57hd)

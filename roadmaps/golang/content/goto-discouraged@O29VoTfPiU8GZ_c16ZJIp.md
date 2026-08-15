@@ -1,11 +1,11 @@
-# goto (discouraged)
+# goto (discorregado)
 
-Go includes `goto` statement but discourages its use. Can only jump to labels within same function. Creates unstructured code flow making programs hard to read, debug, and maintain. Use structured control flow (loops, functions, conditionals) instead. Rarely needed in modern Go programming.
+Go inclui a declaração `goto`, mas desencoraja seu uso. Pode saltar apenas para rótulos dentro da mesma função. Cria fluxos de código não estruturados, tornando os programas difíceis de ler, depurar e manter. Use fluxo de controle estruturado (laços, funções, condicionais) em vez disso. Raramente necessário em programação Go moderna.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Label scopes](https://go.dev/ref/spec#Label_scopes)
-- [@official@Goto statements](https://go.dev/ref/spec#Goto_statements)
-- [@article@Goto Statement Usage](https://labex.io/tutorials/go-goto-statement-usage-149074)
-- [@article@GoLang — Jumping in the code using goto](https://medium.com/@rajasoni1995/golang-jumping-in-the-code-using-goto-a36116831396)
-- [@article@Goto Hell With Labels in Golang](https://programmingpercy.tech/blog/goto-hell-with-labels-in-golang/)
+- [@official@Escopos de rótulos](https://go.dev/ref/spec#Label_scopes)
+- [@official@Declaração goto](https://go.dev/ref/spec#Goto_statements)
+- [@article@Uso da declaração goto](https://labex.io/tutorials/go-goto-statement-usage-149074)
+- [@article@GoLang — Saltando no código usando goto](https://medium.com/@rajasoni1995/golang-jumping-in-the-code-using-goto-a36116831396)
+- [@article@Inferno com rótulos em Golang](https://programmingpercy.tech/blog/goto-hell-with-labels-in-golang/)

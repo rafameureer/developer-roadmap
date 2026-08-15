@@ -1,9 +1,9 @@
-# echo
+# Echo
 
-High-performance, minimalist web framework focusing on ease and speed. Provides routing, middleware, data binding, validation, rendering. Features automatic TLS, HTTP/2, WebSocket support. Built-in middleware for CORS, JWT, logging, compression. Popular for RESTful APIs and microservices.
+Framework web de alto desempenho, minimalista e focado em facilidade e velocidade. Fornece roteamento, middleware, vinculação de dados, validação, renderização. Características de TLS automática, suporte a HTTP/2 e WebSocket. Middleware embutido para CORS, JWT, loggin e compressão. Popular para APIs RESTful e microservices.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@High Performance, Extensible, Minimalist Go Web framework](https://echo.labstack.com/)
-- [@official@Echo Documentation](https://echo.labstack.com/docs)
-- [@article@Best Practices for Structuring Scalable Golang APIs with Echo](https://medium.com/@OTS415/structuring-golang-echo-apis-8d657de5dc7c)
+- [@oficial@Framework Web de Alto Desempenho, Minimalista e Focado em Facilidade e Velocidade](https://echo.labstack.com/)
+- [@oficial@Documentação do Echo](https://echo.labstack.com/docs)
+- [@artigo@Melhores Práticas para Estruturar APIs Golang Escaláveis com o Echo](https://medium.com/@OTS415/structuring-golang-echo-apis-8d657de5dc7c)

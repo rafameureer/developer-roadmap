@@ -1,9 +1,9 @@
-# Type Conversion
+# Conversão de Tipo
 
-Convert values between different types using `Type(value)` syntax. Go requires explicit conversion even between related types like `int` and `int64`. Essential for working with different data types and ensuring type compatibility in programs.
+Converta valores entre diferentes tipos usando a sintaxe `Tipo(valor)`. Go requer conversão explícita mesmo entre tipos relacionados como `int` e `int64`. Essencial para trabalhar com diferentes tipos de dados e garantir a compatibilidade de tipo em programas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Type Conversion](https://go.dev/tour/basics/13)
-- [@article@A Comprehensive Guide to Type Casting and Conversions in Go](https://dev.to/zakariachahboun/a-comprehensive-guide-to-type-casting-and-conversions-in-go-26di)
-- [@article@Safe Go Type Conversions: Comprehensive Guide](https://medium.com/lyonas/go-type-casting-starter-guide-a9c1811670c5)
+- [@oficial@Conversão de Tipo](https://go.dev/tour/basics/13)
+- [@artigo@Um Guia Compreensivo sobre Casting e Conversões em Go](https://dev.to/zakariachahboun/a-comprehensive-guide-to-type-casting-and-conversions-in-go-26di)
+- [@artigo@Conversões de Tipo Seguras em Go: Um Guia Completo](https://medium.com/lyonas/go-type-casting-starter-guide-a9c1811670c5)

@@ -1,9 +1,9 @@
-# Reflection
+# Reflexão
 
-Reflection allows runtime inspection and manipulation of types and values using the `reflect` package. Enables dynamic method calls and type examination but has performance overhead. Used in JSON marshaling, ORMs, and frameworks.
+A reflexão permite a inspeção e manipulação de tipos e valores em tempo de execução usando o pacote `reflect`. Permite chamadas dinâmicas de métodos e examinamento de tipos, mas tem sobreposição de desempenho. Usado em marshaling JSON, ORMs e frameworks.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@reflect package](https://pkg.go.dev/reflect)
-- [@official@The Laws of Reflection](https://go.dev/blog/laws-of-reflection)
-- [@article@Reflection in Go: Use cases and tutorial](https://blog.logrocket.com/reflection-go-use-cases-tutorial/)
+- [@oficial@pacote reflect](https://pkg.go.dev/reflect)
+- [@oficial@As Leis da Reflexão](https://go.dev/blog/laws-of-reflection)
+- [@artigo@Reflexão em Go: Casos de uso e tutorial](https://blog.logrocket.com/reflection-go-use-cases-tutorial/)

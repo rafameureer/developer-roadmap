@@ -1,9 +1,9 @@
 # Cobra
 
-Powerful library for modern CLI applications. Used by kubectl, Hugo, GitHub CLI. Provides nested subcommands, flags, intelligent suggestions, auto help generation, shell completion. Follows POSIX standards with clean API. Includes command generator for quick bootstrapping.
+Biblioteca poderosa para aplicativos de linha de comando modernos. Usada por kubectl, Hugo e GitHub CLI. Fornece subcomandos aninhados, flags, sugestões inteligentes, geração automática de ajuda e conclusão de shell. Segue os padrões POSIX com uma API limpa. Inclui um gerador de comando para bootstrapping rápido.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Cobra](https://cobra.dev/)
-- [@article@How To Use the Cobra Package in Go](https://www.digitalocean.com/community/tutorials/how-to-use-the-cobra-package-in-go)
-- [@article@Getting Started with Cobra](https://dev.to/frasnym/getting-started-with-cobra-creating-multi-level-command-line-interfaces-in-golang-2j3k)
+- [@oficial@Cobra](https://cobra.dev/)
+- [@artigo@Como Usar o Pacote Cobra em Go](https://www.digitalocean.com/community/tutorials/how-to-use-the-cobra-package-in-go)
+- [@artigo@Começando com Cobra](https://dev.to/frasnym/getting-started-with-cobra-creating-multi-level-command-line-interfaces-in-golang-2j3k)

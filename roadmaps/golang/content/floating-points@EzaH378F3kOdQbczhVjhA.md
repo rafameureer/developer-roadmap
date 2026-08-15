@@ -1,8 +1,8 @@
-# Floating Points
+# Ponto Flutuante
 
-Two types: `float32` (single precision) and `float64` (double precision, default). Represent real numbers using IEEE 754 standard. Can introduce precision errors, not suitable for exact financial calculations. Essential for scientific computing and graphics.
+Dois tipos: `float32` (precisão simples) e `float64` (precisão dupla, padrão). Representam números reais usando o padrão IEEE 754. Podem introduzir erros de precisão, não adequados para cálculos financeiros exatos. Essencial para computação científica e gráficos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Floating Points](https://golangdocs.com/floating-point-numbers-in-golang)
-- [@article@How to Perform Float Point Calculations](https://labex.io/tutorials/go-how-to-perform-float-point-calculations-419745)
+- [@official@Pontos Flutuantes](https://golangdocs.com/floating-point-numbers-in-golang)
+- [@article@Como Realizar Cálculos de Ponto Flutuante](https://labex.io/tutorials/go-how-to-perform-float-point-calculations-419745)

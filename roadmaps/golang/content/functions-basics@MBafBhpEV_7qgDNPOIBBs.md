@@ -1,8 +1,8 @@
-# Function Basics
+# Funções Básicas
 
-Reusable code blocks declared with `func` keyword. Support parameters, return values, multiple returns. First-class citizens - can be assigned to variables, passed as arguments. Fundamental building blocks for organizing code logic.
+Blocos de código reutilizáveis declarados com a palavra-chave `func`. Suportam parâmetros, valores de retorno, múltiplos retornos. Cidadãos de primeira classe - podem ser atribuídos a variáveis, passados como argumentos. Blocos fundamentais para organizar a lógica do código.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Functions](https://go.dev/tour/basics/4)
 - [@article@Functions in Golang: Complete Guide with Examples](https://medium.com/backend-forge/functions-in-golang-complete-guide-with-examples-2025-e07db0f98fd3)

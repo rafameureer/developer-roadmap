@@ -1,9 +1,9 @@
-# Iterating Strings
+# Iteração em Strings
 
-Iterate over strings with `for range` to get runes (Unicode code points) not bytes. Returns index and rune value. Direct indexing `str[i]` gives bytes. Use `[]rune(str)` to convert to rune slice for random access. Important for Unicode handling.
+Itere sobre strings com `for range` para obter runes (pontos de código Unicode) e não bytes. Retorna o índice e o valor do rune. O acesso direto `str[i]` dá bytes. Use `[]rune(str)` para converter a string em um slice de runes para acesso aleatório. Importante para o tratamento de caracteres Unicode.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Iterators in GoLang](https://blog.alexoglou.com/posts/iterators-golang/)
-- [@article@How to iterate string in Go](https://labex.io/tutorials/go-how-to-iterate-string-in-go-446115)
-- [@article@Mastering Golang String Manipulation: Functions and Examples](https://learngolanguage.com/mastering-golang-string-manipulation-essential-functions-and-techniques-for-2024/)
+- [@artigo@Iteradores em GoLang](https://blog.alexoglou.com/posts/iterators-golang/)
+- [@artigo@Como iterar uma string em Go](https://labex.io/tutorials/go-how-to-iterate-string-in-go-446115)
+- [@artigo@Dominando a Manipulação de Strings em Go: Funções e Exemplos Essenciais para 2024](https://learngolanguage.com/mastering-golang-string-manipulation-essential-functions-and-techniques-for-2024/)

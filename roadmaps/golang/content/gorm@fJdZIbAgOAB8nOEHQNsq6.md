@@ -1,9 +1,9 @@
 # GORM
 
-Popular Object-Relational Mapping library for Go. Provides database abstraction with struct-based models, automatic migrations, associations, and query building. Supports multiple databases (MySQL, PostgreSQL, SQLite, SQL Server). Features hooks, transactions, and connection pooling.
+Biblioteca popular de mapeamento relacional orientado a objetos para Go. Fornece abstração de banco de dados com modelos baseados em struct, migrações automáticas, associações e construção de consultas. Suporta múltiplos bancos de dados (MySQL, PostgreSQL, SQLite, SQL Server). Características como hooks, transações e pooling de conexões.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@GORM - The fantastic ORM library for Golang](https://gorm.io/)
+- [@official@GORM - A fantástica biblioteca ORM para Go](https://gorm.io/)
 - [@official@gorm package](https://pkg.go.dev/gorm.io/gorm)
-- [@article@Getting Started on Golang Gorm](https://medium.com/@itskenzylimon/getting-started-on-golang-gorm-af49381caf3f)
+- [@article@Introdução ao Golang Gorm](https://medium.com/@itskenzylimon/getting-started-on-golang-gorm-af49381caf3f)

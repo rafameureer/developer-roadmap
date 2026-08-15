@@ -1,9 +1,9 @@
 # Centrifugo
 
-Centrifugo is a real-time messaging server providing WebSocket services for Go applications. It offers channels, presence info, message history, and Redis scalability. Supports WebSocket, Server-Sent Events, and HTTP streaming while handling complex real-time patterns.
+Centrifugo é um servidor de mensagens em tempo real que fornece serviços WebSocket para aplicativos Go. Ele oferece canais, informações de presença, histórico de mensagens e escalabilidade do Redis. Suporta WebSocket, Server-Sent Events e HTTP streaming enquanto lida com padrões complexos de tempo real.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Centrifugo](https://centrifugal.dev/)
-- [@official@Getting Started with Centrifugo](https://centrifugal.dev/docs/getting-started/introduction)
+- [@oficial@Centrifugo](https://centrifugal.dev/)
+- [@oficial@Começando com Centrifugo](https://centrifugal.dev/docs/getting-started/introduction)
 - [@opensource@centrifugal/centrifuge](https://github.com/centrifugal/centrifuge)

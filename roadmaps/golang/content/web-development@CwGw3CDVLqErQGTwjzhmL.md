@@ -1,9 +1,9 @@
-# Web Development
+# Desenvolvimento Web
 
-Excellent for web development with built-in HTTP server support, efficient concurrency, rich ecosystem. Standard `net/http` package provides powerful tools for servers, requests/responses, RESTful APIs. Performance, simple deployment (single binary), and concurrency make it ideal for scalable web apps.
+Excelente para desenvolvimento web com suporte interno ao servidor HTTP, concorrência eficiente e ecossistema rico. O pacote padrão `net/http` fornece ferramentas poderosas para servidores, solicitações/respostas e APIs RESTful. A performance, a implantação simples (um único binário) e a concorrência o tornam ideal para aplicativos web escaláveis.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@http package](https://pkg.go.dev/net/http)
-- [@article@net/http package in Go](https://medium.com/@emonemrulhasan35/net-http-package-in-go-e178c67d87f1)
-- [@article@Mastering Concurrency in Golang](https://thelinuxcode.com/mastering-concurrency-in-golang-a-deep-dive-into-the-waitgroup/)
+- [@oficial@pacote http](https://pkg.go.dev/net/http)
+- [@artigo@pacote net/http em Go](https://medium.com/@emonemrulhasan35/net-http-package-in-go-e178c67d87f1)
+- [@artigo@Dominando a Concorrência em Golang](https://thelinuxcode.com/mastering-concurrency-in-golang-a-deep-dive-into-the-waitgroup/)

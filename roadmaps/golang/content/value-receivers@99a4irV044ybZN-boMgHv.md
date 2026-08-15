@@ -1,9 +1,9 @@
-# Value Receivers
+# Receivers de Valor
 
-Methods receive copy of struct rather than pointer. Use `func (v Type) methodName()` syntax. Appropriate when method doesn't modify receiver or struct is small. Can be called on both values and pointers with Go automatically dereferencing.
+Os métodos recebem uma cópia da estrutura em vez de um ponteiro. Use a sintaxe `func (v Tipo) methodName()`. Apropriado quando o método não modifica o receptor ou a estrutura é pequena. Pode ser chamado tanto por valores quanto por ponteiros, com Go automaticamente desreferenciando.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Value Receivers](https://go.dev/tour/methods/8)
-- [@article@Understanding Value and Pointer Receivers in Go Interfaces](https://afdz.medium.com/understanding-value-and-pointer-receivers-in-go-interfaces-e97a824fdded)
-- [@article@Go Method Receivers: Understanding Value vs. Pointer and When to Use](https://blog.stackademic.com/go-method-receivers-understanding-value-vs-pointer-and-when-to-use-each-74ef82d66a5c)
+- [@official@Receivers de Valor](https://go.dev/tour/methods/8)
+- [@article@Compreendendo Receivers de Valor e Ponteiro em Interfaces do Go](https://afdz.medium.com/understanding-value-and-pointer-receivers-in-go-interfaces-e97a824fdded)
+- [@article@Receptores de Método em Go: Compreendendo Valor vs. Ponteiro e Quando Usar Cada Um](https://blog.stackademic.com/go-method-receivers-understanding-value-vs-pointer-and-when-to-use-each-74ef82d66a5c)

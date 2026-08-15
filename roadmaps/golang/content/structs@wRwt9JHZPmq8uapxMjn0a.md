@@ -1,8 +1,8 @@
 # Structs
 
-Custom data types grouping related fields under single name. Similar to classes but methods defined separately. Create complex data models, organize information, define application data structure. Access fields with dot notation, pass to functions. Fundamental for object-oriented designs.
+Tipos de dados personalizados agrupando campos relacionados sob um único nome. Semelhantes às classes, mas métodos definidos separadamente. Crie modelos de dados complexos, organize informações e defina a estrutura de dados do aplicativo. Acesse campos com notação de ponto, passe para funções. Fundamental para designs orientados a objetos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Structs](https://go.dev/tour/moretypes/2)
 - [@article@Go Struct: A Deep Dive](https://leapcell.medium.com/deep-dive-into-go-struct-103961431c64)

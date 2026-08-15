@@ -1,8 +1,8 @@
-# sync Package
+# Pacote sync
 
-Provides synchronization primitives for coordinating goroutines and safe concurrent access. Includes Mutex (mutual exclusion), RWMutex (reader-writer locks), WaitGroup (waiting on goroutines), Once (one-time init). Essential for avoiding race conditions.
+Fornece primitivas de sincronização para coordenar goroutines e acesso seguro a dados concorrentes. Inclui Mutex (exclusão mútua), RWMutex (bloqueios leitura/escrita), WaitGroup (esperando por goroutines) e Once (inicialização única). Essencial para evitar condições de corrida.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@sync package](https://pkg.go.dev/sync)
 - [@article@Golang Sync Package](https://medium.com/@asgrr/golang-sync-4787b18fee41)

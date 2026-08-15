@@ -1,9 +1,9 @@
-# Interfaces Basics
+# Básicos de Interfaces
 
-Define contracts through method signatures. Types automatically satisfy interfaces by implementing required methods. Declared with `type InterfaceName interface{}` syntax. Enable polymorphism and flexible, testable code depending on behavior rather than concrete types.
+Defina contratos através das assinaturas dos métodos. Os tipos satisfazem automaticamente as interfaces implementando os métodos necessários. Declarados com a sintaxe `type NomeDaInterface interface{}`. Habilita o polimorfismo e código flexível e testável dependendo do comportamento em vez de tipos concretos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Understanding Interfaces in Go](https://golang.ntxm.org/docs/structs-and-interfaces/understanding-interfaces-in-go/)
-- [@article@Interfaces - Go by Example](https://gobyexample.com/interfaces)
-- [@article@Mastering Go Interfaces: From Basics to Best Practices](https://abubakardev0.medium.com/mastering-go-interfaces-from-basics-to-best-practices-36912b65aa3d)
+- [@artigo@Compreendendo Interfaces em Go](https://golang.ntxm.org/docs/structs-and-interfaces/understanding-interfaces-in-go/)
+- [@artigo@Interfaces - Exemplo do Go](https://gobyexample.com/interfaces)
+- [@artigo@Dominando as Interfaces em Go: De Básicos a Práticas Avançadas](https://abubakardev0.medium.com/mastering-go-interfaces-from-basics-to-best-practices-36912b65aa3d)

@@ -1,8 +1,8 @@
-# Slice to Array Conversion
+# Conversão de Slice para Array
 
-Convert slice to array using `[N]T(slice)` (Go 1.17+). Copies data from slice to fixed-size array. Panics if slice has fewer than N elements. Useful when array semantics or specific size guarantees are needed.
+Converta um slice em um array usando `[N]T(slice)` (Go 1.17+). Copia os dados do slice para um array de tamanho fixo. Panic se o slice tiver menos de N elementos. Útil quando são necessas as semânticas de array ou garantias específicas de tamanho.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Slice Arrays Correctly](https://labex.io/tutorials/go-how-to-slice-arrays-correctly-418936)
-- [@article@Go - Create Slice From Array - 3 Examples](https://www.tutorialkart.com/golang-tutorial/golang-create-slice-from-array/)
+- [@artigo@Manipulando Arrays Corretamente](https://labex.io/tutorials/go-how-to-slice-arrays-correctly-418936)
+- [@artigo@Go - Criar Slice a partir de Array - 3 Exemplos](https://www.tutorialkart.com/golang-tutorial/golang-create-slice-from-array/)

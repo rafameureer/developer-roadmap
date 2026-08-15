@@ -1,10 +1,10 @@
 # go command
 
-Primary tool for managing Go source code with unified interface for compiling, testing, formatting, and managing dependencies. Includes subcommands like `build`, `run`, `test`, `fmt`, `mod`. Handles the entire development workflow automatically.
+Ferramenta principal para gerenciar código-fonte Go com uma interface unificada para compilar, testar, formatar e gerenciar dependências. Inclui subcomandos como `build`, `run`, `test`, `fmt`, `mod`. Manipula automaticamente o fluxo de trabalho completo de desenvolvimento.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Command Documentation](https://go.dev/doc/cmd)
-- [@official@Go Package](https://pkg.go.dev/cmd/go)
-- [@official@Go Test](https://go.dev/doc/tutorial/add-a-test)
-- [@official@Compile and Install Application](https://go.dev/doc/tutorial/compile-install)
+- [@official@Documentação do Comando](https://go.dev/doc/cmd)
+- [@official@Pacote Go](https://pkg.go.dev/cmd/go)
+- [@official@Teste Go](https://go.dev/doc/tutorial/add-a-test)
+- [@official@Compilar e Instalar Aplicativo](https://go.dev/doc/tutorial/compile-install)

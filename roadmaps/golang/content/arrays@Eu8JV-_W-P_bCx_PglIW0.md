@@ -1,8 +1,8 @@
 # Arrays
 
-Fixed-size sequences of same-type elements. Size is part of the type, so different sizes are different types. Declared with specific length, initialized to zero values. Value types (copied when assigned/passed). Slices are more commonly used due to flexibility. Foundation for understanding Go's type system.
+Sequências fixas de elementos do mesmo tipo. O tamanho é parte do tipo, então tamanhos diferentes são tipos diferentes. Declarados com comprimento específico, inicializados com valores zero. Tipos de valor (copiados quando atribuídos/passados). Slices são mais comumente usados devido à flexibilidade. Fundamento para entender o sistema de tipos em Go.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Arrays](https://go.dev/tour/moretypes/6)
-- [@article@A Complete Guide to Arrays in Golang](https://www.kelche.co/blog/go/golang-arrays/)
+- [@oficial@Arrays](https://go.dev/tour/moretypes/6)
+- [@artigo@Um Guia Completo sobre Arrays em Golang](https://www.kelche.co/blog/go/golang-arrays/)

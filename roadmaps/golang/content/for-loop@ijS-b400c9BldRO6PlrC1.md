@@ -1,8 +1,8 @@
-# for loop
+# Laço for
 
-Go's only looping construct, incredibly flexible for all iteration needs. Classic form: initialization, condition, post statements. Omit components for different behaviors (infinite, while-like). Use with `break`, `continue`, labels for nested loops. `for range` for convenient collection iteration.
+A única construção de loop do Go, incrivelmente flexível para todos os tipos de iteração. Forma clássica: inicialização, condição, declarações pós. Omitir componentes para diferentes comportamentos (infinito, semelhante ao while). Use com `break`, `continue`, rótulos para loops aninhados. `for range` para iteração conveniente em coleções.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@for](https://go.dev/tour/flowcontrol/1)
-- [@article@Learn for loops in Go with Examples](https://golangbot.com/loops/)
+- [@article@Aprenda Laços for no Go com Exemplos](https://golangbot.com/loops/)

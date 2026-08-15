@@ -1,9 +1,9 @@
-# Race Detection
+# Detecção de Conflitos de Conta
 
-Built-in tool for detecting race conditions in concurrent programs. Enabled with `-race` flag during build/test/run. Detects unsynchronized access to shared variables from multiple goroutines. Performance overhead in race mode. Essential for debugging concurrent code safety.
+Ferramenta interna para detectar conflitos de conta em programas concorrentes. Ativada com a bandeira `-race` durante a construção/teste/execução. Detecta acesso não sincronizado a variáveis compartilhadas por várias goroutines. Sobrecarga de desempenho no modo de detecção de conflito. Essencial para depurar a segurança do código concorrente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Race Detection](https://go.dev/doc/articles/race_detector)
-- [@article@Go: Race Detector with ThreadSanitizer](https://medium.com/a-journey-with-go/go-race-detector-with-threadsanitizer-8e497f9e42db)
-- [@article@Data Race Detection and Data Race Patterns in Golang](https://www.sobyte.net/post/2022-06/go-data-race/)
+- [@oficial@Detecção de Conflitos de Conta](https://go.dev/doc/articles/race_detector)
+- [@artigo@Go: Detecção de Conflitos de Conta com ThreadSanitizer](https://medium.com/a-journey-with-go/go-race-detector-with-threadsanitizer-8e497f9e42db)
+- [@artigo@Detecção de Conflitos de Dados e Padrões de Conflito de Dados em Golang](https://www.sobyte.net/post/2022-06/go-data-race/)

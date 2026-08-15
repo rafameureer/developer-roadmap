@@ -1,8 +1,8 @@
 # Buffered vs Unbuffered
 
-Unbuffered channels provide synchronous communication - sender blocks until receiver ready. Buffered channels allow asynchronous communication up to capacity. Unbuffered for coordination/sequencing, buffered for performance/decoupling. Critical distinction for concurrent system design.
+Canais não bufferizados fornecem comunicação síncrona - o remetente bloqueia até que o receptor esteja pronto. Canais bufferizados permitem comunicação assíncrona até a capacidade. Não bufferizados para coordenação/sequenciamento, bufferizados para desempenho/desacoplamento. Distinção crítica para o design de sistemas concorrentes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Advanced Insights into Go Channels](https://medium.com/@aditimishra_541/advanced-insights-into-go-channels-unbuffered-and-buffered-channels-d76d705bcc24)
-- [@article@Buffered vs Unbuffered Channels in Golang](https://dev.to/akshitzatakia/buffered-vs-unbuffered-channels-in-golang-a-developers-guide-to-concurrency-3m75)
+- [@artigo@Dicas avançadas sobre canais em Go](https://medium.com/@aditimishra_541/advanced-insights-into-go-channels-unbuffered-and-buffered-channels-d76d705bcc24)
+- [@artigo@Canais bufferizados vs não bufferizados em GoLang](https://dev.to/akshitzatakia/buffered-vs-unbuffered-channels-in-golang-a-developers-guide-to-concurrency-3m75)

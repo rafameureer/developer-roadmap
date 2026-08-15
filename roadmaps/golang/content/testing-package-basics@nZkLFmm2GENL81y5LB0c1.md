@@ -1,9 +1,9 @@
-# Testing Package Basics
+# Básicos do Pacote de Testes
 
-Standard library package for writing tests. Test functions start with `Test` and take `*testing.T` parameter. Use `t.Error()`, `t.Fatal()` for failures. Test files end with `_test.go`. Run with `go test`. Supports benchmarks and examples.
+Pacote padrão da biblioteca para escrever testes. Funções de teste começam com `Test` e recebem um parâmetro `*testing.T`. Use `t.Error()`, `t.Fatal()` para falhas. Arquivos de teste terminam com `_test.go`. Execute com `go test`. Suporta benchmarks e exemplos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@testing package](https://pkg.go.dev/testing)
-- [@article@How to manage testing package setup](https://labex.io/tutorials/go-how-to-manage-testing-package-setup-451557)
-- [@article@Go Unit Testing: A Practical Guide for Writing Reliable Tests](https://www.ceos3c.com/golang/go-unit-testing-a-practical-guide-for-writing-reliable-tests/)
+- [@oficial@pacote de teste](https://pkg.go.dev/testing)
+- [@artigo@Como gerenciar a configuração do pacote de teste](https://labex.io/tutorials/go-how-to-manage-testing-package-setup-451557)
+- [@artigo@Testes Unitários em Go: Um Guia Prático para Escrever Testes Reliáveis](https://www.ceos3c.com/golang/go-unit-testing-a-practical-guide-for-writing-reliable-tests/)

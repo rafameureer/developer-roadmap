@@ -1,9 +1,9 @@
-# Standard Library
+# Biblioteca Padrão
 
-Comprehensive collection of packages providing core functionality. Includes I/O, networking, text processing, cryptography, testing, JSON handling, HTTP client/server. Rich ecosystem reducing need for external dependencies. Well-documented, tested, and performance-optimized packages.
+Coleção abrangente de pacotes que fornecem funcionalidades básicas. Inclui I/O, rede, processamento de texto, criptografia, teste, manipulação de JSON e cliente/servidor HTTP. Um rico ecossistema reduz a necessidade de dependências externas. Pacotes bem documentados, testados e otimizados em termos de desempenho.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@std package](https://pkg.go.dev/stds)
-- [@article@Building Robust APIs with Go's Standard Library](https://dev.to/aaravjoshi/building-robust-apis-with-gos-standard-library-a-comprehensive-guide-3036)
-- [@article@How to use standard library packages in Golang](https://labex.io/tutorials/go-how-to-use-standard-library-packages-in-golang-446140)
+- [@official@pacote std](https://pkg.go.dev/stds)
+- [@article@Construindo APIs Robustas com a Biblioteca Padrão do Go](https://dev.to/aaravjoshi/building-robust-apis-with-gos-standard-library-a-comprehensive-guide-3036)
+- [@article@Como usar pacotes da biblioteca padrão em Golang](https://labex.io/tutorials/go-how-to-use-standard-library-packages-in-golang-446140)

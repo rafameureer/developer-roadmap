@@ -1,8 +1,8 @@
-# Fan-out
+# Distribuição de Fio
 
-Concurrency pattern distributing work from single source to multiple workers. Typically uses one input channel feeding multiple goroutines. Each worker processes items independently. Useful for parallelizing CPU-intensive tasks and increasing throughput through parallel processing.
+Padrão de concorrência que distribui trabalho de uma única fonte para múltiplos trabalhadores. Geralmente usa um canal de entrada alimentando várias goroutines. Cada trabalhador processa itens independentemente. Útil para paralelizar tarefas intensivas em CPU e aumentar a taxa de transferência através do processamento em paralelo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Fan Out Fan In Concurrency Pattern Explained](https://www.golinuxcloud.com/go-fan-out-fan-in/)
-- [@article@Golang Concurrency Patterns: Fan in, Fan out](https://medium.com/geekculture/golang-concurrency-patterns-fan-in-fan-out-1ee43c6830c4)
+- [@artigo@Distribuição de Fio e Retorno de Fio: Um Padrão de Concorrência Explorado](https://www.golinuxcloud.com/go-fan-out-fan-in/)
+- [@artigo@Padrões de Concorrência em Go: Distribuição de Fio, Retorno de Fio](https://medium.com/geekculture/golang-concurrency-patterns-fan-in-fan-out-1ee43c6830c4)

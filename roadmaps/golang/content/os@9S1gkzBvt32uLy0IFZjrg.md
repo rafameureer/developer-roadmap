@@ -1,8 +1,8 @@
 # os
 
-Standard library package providing operating system interface. Handles file operations, environment variables, process management, and system information. Includes functions for file I/O, directory operations, process control, and cross-platform OS interactions. Essential for system programming.
+Pacote de biblioteca padrão fornecendo uma interface com o sistema operacional. Manipula operações de arquivo, variáveis de ambiente, gerenciamento de processos e informações do sistema. Inclui funções para I/O de arquivo, operações de diretório, controle de processos e interações de SO cross-platform. Essencial para programação em sistemas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@os package](https://pkg.go.dev/os)
-- [@article@An Overview of Go's os and io Packages](https://reintech.io/blog/an-overview-of-gos-os-and-io-packages)
+- [@official@pacote os](https://pkg.go.dev/os)
+- [@article@Uma Visão Geral dos Pacotes Go's os e io](https://reintech.io/blog/an-overview-of-gos-os-and-io-packages)

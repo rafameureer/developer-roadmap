@@ -1,9 +1,9 @@
 # Zap
 
-Zap is a high-performance structured logging library by Uber offering both structured and printf-style APIs. Features include JSON/console formats, configurable levels, sampling, and production-optimized performance through careful memory management.
+Zap é uma biblioteca de registro estruturado de alto desempenho oferecida pela Uber, que suporta tanto APIs estruturadas quanto estilo `printf`. Características incluem formatos JSON/console, níveis configuráveis, amostragem e desempenho otimizado para produção através da gestão cuidadosa da memória.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@zap package - go.uber.org/zap](https://pkg.go.dev/go.uber.org/zap)
-- [@article@A Comprehensive Guide to Zap Logging in Go](https://betterstack.com/community/guides/logging/go/zap/)
-- [@article@Structured Logging in Golang with Zap](https://codewithmukesh.com/blog/structured-logging-in-golang-with-zap/)
+- [@official@pacote zap - go.uber.org/zap](https://pkg.go.dev/go.uber.org/zap)
+- [@article@Guia Completo sobre o Registro Zap em Go](https://betterstack.com/community/guides/logging/go/zap/)
+- [@article@Registro Estruturado em Golang com Zap](https://codewithmukesh.com/blog/structured-logging-in-golang-with-zap/)

@@ -1,8 +1,8 @@
-# Generic Functions
+# Funções Genéricas
 
-Write functions working with multiple types using type parameters in square brackets like `func FunctionName[T any](param T) T`. Enable reusable algorithms maintaining type safety. Particularly useful for utility functions and data processing that don't depend on specific types.
+Escreva funções que funcionam com múltiplos tipos usando parâmetros de tipo em colchetes como `func NomeDaFunção[T any](parâmetro T) T`. Permita algoritmos reutilizáveis mantendo a segurança do tipo. Útil para funções utilitárias e processamento de dados que não dependem de tipos específicos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Generic Functions](https://go.dev/doc/tutorial/generics)
-- [@article@Generic Functions Comprehensive Guide](https://www.ardanlabs.com/blog/2018/12/garbage-collection-in-go-part1-semantics.html)
+- [@official@Funções Genéricas](https://go.dev/doc/tutorial/generics)
+- [@article@Guia Completo sobre Funções Genéricas](https://www.ardanlabs.com/blog/2018/12/garbage-collection-in-go-part1-semantics.html)

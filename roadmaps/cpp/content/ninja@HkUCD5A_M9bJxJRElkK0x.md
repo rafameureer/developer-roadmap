@@ -1,8 +1,8 @@
 # Ninja
 
-Ninja is a small, fast build system designed for speed and efficiency. Instead of directly interpreting project structure, it executes pre-generated build plans. This allows it to build only what's necessary, leading to significantly faster build times, particularly in large projects. It's commonly used with meta-build systems like CMake, which generate the `build.ninja` files that Ninja then uses to perform the actual build process.
+Ninja é um sistema de construção pequeno e rápido, projetado para velocidade e eficiência. Em vez de interpretar diretamente a estrutura do projeto, ele executa planos de construção pré-generados. Isso o permite construir apenas o que é necessário, resultando em tempos de compilação significativamente mais rápidos, especialmente em projetos grandes. Ele é comumente usado junto com sistemas meta-build como CMake, que geram os arquivos `build.ninja` que o Ninja usa para realizar o processo de construção real.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Ninja](https://ninja-build.org/manual.html)
-- [@video@CMake vs Ninja - a real-life comparison with actual code](https://www.youtube.com/watch?v=AkGt0fsQ17o)
+- [@oficial@Ninja](https://ninja-build.org/manual.html)
+- [@vídeo@CMake vs Ninja - uma comparação na vida real com código real](https://www.youtube.com/watch?v=AkGt0fsQ17o)

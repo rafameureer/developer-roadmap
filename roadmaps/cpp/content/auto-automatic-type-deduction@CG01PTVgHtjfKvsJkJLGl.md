@@ -1,8 +1,8 @@
-# Auto Type Deduction
+# Dedução Automática de Tipos
 
-`auto` is a keyword in C++ introduced in C++11 that enables automatic type deduction. It allows the compiler to infer the data type of a variable from its initialization expression at compile time. This simplifies code by reducing the need to explicitly declare types, particularly when dealing with complex or less predictable types, leading to cleaner and more maintainable code. In C++14, `auto` can also be used to deduce function return types based on the return expression.
+`auto` é uma palavra-chave em C++ introduzida no C++11 que habilita a dedução automática de tipos. Ele permite que o compilador inferir o tipo de dados de uma variável a partir da expressão de inicialização dela em tempo de compilação. Isso simplifica o código reduzindo a necessidade de declarar explicitamente os tipos, especialmente quando lidando com tipos complexos ou menos previsíveis, resultando em código mais limpo e manterável. No C++14, `auto` também pode ser usado para deduzir os tipos de retorno das funções com base na expressão de retorno.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Automatic Type Deduction: auto](https://www.educative.io/courses/cpp-fundamentals-for-professionals/automatic-type-deduction-auto)
-- [@video@The "auto" keyword in C++](https://www.youtube.com/watch?v=2vOPEuiGXVo)
+- [@article@Dedução Automática de Tipos: auto](https://www.educative.io/courses/cpp-fundamentals-for-professionals/automatic-type-deduction-auto)
+- [@video@A palavra-chave "auto" em C++](https://www.youtube.com/watch?v=2vOPEuiGXVo)

@@ -1,8 +1,8 @@
 # PyTorch C++
 
-PyTorch C++ provides a front-end for the PyTorch machine learning framework, allowing you to build and deploy models using C++ instead of Python. This enables you to leverage the performance and control of C++ for computationally intensive tasks, especially in production environments where low latency and resource efficiency are critical. It involves using a C++ API to define and execute PyTorch operations.
+PyTorch C++ oferece uma interface para o framework de aprendizado de máquina PyTorch, permitindo que você construa e implante modelos usando C++ em vez de Python. Isso habilita você a aproveitar o desempenho e controle do C++ para tarefas intensivas computacionalmente, especialmente em ambientes de produção onde baixa latência e eficiência de recursos são cruciais. Envolve usar uma API C++ para definir e executar operações PyTorch.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@PyTorch C++ API](https://docs.pytorch.org/cppdocs/)
-- [@article@LibTorch: The C++ Powerhouse Driving PyTorch](https://medium.com/@pouyahallaj/libtorch-the-c-powerhouse-driving-pytorch-ee0d4f7b8743)
+- [@official@API C++ do PyTorch](https://docs.pytorch.org/cppdocs/)
+- [@article@LibTorch: A Potência em C++ que Está Dirigindo o PyTorch](https://medium.com/@pouyahallaj/libtorch-a-powerhouse-in-c-driving-pytorch-ee0d4f7b8743)

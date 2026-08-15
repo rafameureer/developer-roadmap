@@ -1,8 +1,8 @@
 # Protobuf
 
-Protobuf (Protocol Buffers) is a language-neutral, platform-neutral, extensible mechanism for serializing structured data. You define how you want your data to be structured once, then you can use special generated source code to easily write and read your structured data to and from a variety of data streams, using a variety of languages. Think of it as a more efficient and flexible alternative to XML or JSON.
+Protobuf (Protocol Buffers) é um mecanismo neutral em linguagem e plataforma para serializar dados estruturados. Você define como deseja que seus dados estejam estruturados uma única vez, então pode usar código-fonte gerado especial para escrever e ler facilmente seus dados estruturados de e para várias streams de dados usando vários idiomas. Pense nele como uma alternativa mais eficiente e flexível a XML ou JSON.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@opensource@protobuf](https://github.com/protocolbuffers/protobuf)
-- [@article@Protocol Buffer Basics: C++](https://protobuf.dev/getting-started/cpptutorial/)
+- [@article@Básico do Protocol Buffer: C++](https://protobuf.dev/getting-started/cpptutorial/)

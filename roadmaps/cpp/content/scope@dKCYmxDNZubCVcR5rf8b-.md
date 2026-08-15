@@ -1,7 +1,7 @@
-# Scope
+# Escopo
 
-Scope in C++ defines the visibility and lifetime of variables, functions, and other identifiers within a program. It dictates where these entities can be accessed and how long they persist in memory. C++ employs several types of scope, including global scope (accessible program-wide), local scope (confined to a function or block), namespace scope (organized within named groups), and class scope (specific to class members). Understanding scope is vital for preventing naming conflicts and managing the lifespan of objects, thus contributing to cleaner and more maintainable code.
+O escopo em C++ define a visibilidade e a duração de variáveis, funções e outros identificadores dentro de um programa. Ele determina onde esses entidades podem ser acessadas e por quanto tempo elas persistem na memória. O C++ utiliza vários tipos de escopo, incluindo o escopo global (acessível em todo o programa), o escopo local (limitado a uma função ou bloco), o escopo de namespace (organizado em grupos nomeados) e o escopo de classe (específico para membros da classe). Compreender o escopo é crucial para evitar conflitos de nomenclatura e gerenciar a vida útil dos objetos, contribuindo assim para código mais limpo e manterável.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@C++ Variable Scope](https://www.w3schools.com/cpp/cpp_scope.asp)
+- [@artigo@Escopo das Variáveis em C++](https://www.w3schools.com/cpp/cpp_scope.asp)

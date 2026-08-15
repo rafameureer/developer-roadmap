@@ -1,9 +1,9 @@
-# Functions
+# Funções
 
-Functions in C++ are self-contained blocks of code designed to perform specific tasks, promoting code reusability and modularity. They come in two main types: standard library functions (pre-built functions like `sort()` and `sqrt()`) and user-defined functions (created by the programmer). Defining a function involves specifying its return type, name, and a list of parameters it accepts. To use a function before its definition, a function prototype can be declared, informing the compiler about the function's signature.
+As funções em C++ são blocos de código autônomos projetados para realizar tarefas específicas, promovendo a reutilização e modularidade do código. Elas podem ser classificadas em dois tipos principais: funções da biblioteca padrão (funções pré-construídas como `sort()` e `sqrt()`) e funções definidas pelo usuário (criadas pelo programador). Definir uma função envolve especificar seu tipo de retorno, nome e uma lista de parâmetros que ela aceita. Para usar uma função antes de sua definição, um protótipo de função pode ser declarado, informando ao compilador sobre a assinatura da função.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@C++ Functions](https://www.w3schools.com/cpp/cpp_functions.asp)
-- [@article@introduction to functions in c++](https://www.learncpp.com/cpp-tutorial/introduction-to-functions/)
-- [@video@Learn C++ With Me #20 - Functions](https://www.youtube.com/watch?v=C83tPpvxIJA)
+- [@artigo@Funções em C++](https://www.w3schools.com/cpp/cpp_functions.asp)
+- [@artigo@Introdução às funções em C++](https://www.learncpp.com/cpp-tutorial/introduction-to-functions/)
+- [@vídeo@Aprenda C++ comigo #20 - Funções](https://www.youtube.com/watch?v=C83tPpvxIJA)

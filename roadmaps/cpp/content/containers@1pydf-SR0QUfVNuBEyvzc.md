@@ -1,13 +1,13 @@
-# C++ Containers
+# Contêineres em C++
 
-C++ Containers are a part of the Standard Template Library (STL) that provide data structures to store and organize data. There are several types of containers, each with its own characteristics and use cases. Here, we discuss some of the commonly used containers:
+Os Contêineres em C++ são parte da Biblioteca Padrão de Modelos (STL) que fornecem estruturas de dados para armazenar e organizar dados. Existem vários tipos de contêineres, cada um com suas próprias características e casos de uso. Aqui, discutimos alguns dos contêineres mais comumente usados:
 
 1\. Vector
 ----------
 
-Vectors are dynamic arrays that can resize themselves as needed. They store elements in a contiguous memory location, allowing fast random access using indices.
+Os vetores são arrays dinâmicos que podem redimensionar-se conforme necessário. Eles armazenam elementos em uma localização de memória contígua, permitindo acesso rápido a elementos usando índices.
 
-Example
+Exemplo
 -------
 
     #include <iostream>
@@ -16,9 +16,9 @@ Example
     int main() {
         std::vector<int> vec = {1, 2, 3, 4, 5};
     
-        vec.push_back(6); // Add an element to the end
+        vec.push_back(6); // Adiciona um elemento no final
     
-        std::cout << "Vector contains:";
+        std::cout << "O vetor contém:";
         for (int x : vec) {
             std::cout << ' ' << x;
         }
@@ -29,9 +29,9 @@ Example
 2\. List
 --------
 
-A list is a doubly-linked list that allows elements to be inserted or removed from any position in constant time. It does not support random access. Lists are better than vectors for scenarios where you need to insert or remove elements in the middle frequently.
+Uma lista é uma lista duplamente encadeada que permite inserir ou remover elementos em qualquer posição em tempo constante. Ela não suporta acesso aleatório. As listas são melhores do que vetores para cenários onde você precisa inserir ou remover elementos no meio com frequência.
 
-Example
+Exemplo
 -------
 
     #include <iostream>
@@ -40,9 +40,9 @@ Example
     int main() {
         std::list<int> lst = {1, 2, 3, 4, 5};
     
-        lst.push_back(6); // Add an element to the end
+        lst.push_back(6); // Adiciona um elemento no final
         
-        std::cout << "List contains:";
+        std::cout << "A lista contém:";
         for (int x : lst) {
             std::cout << ' ' << x;
         }
@@ -53,9 +53,9 @@ Example
 3\. Map
 -------
 
-A map is an associative container that stores key-value pairs. It supports the retrieval of values based on their keys. The keys are sorted in ascending order by default.
+Um map é um contêiner associativo que armazena pares chave-valor. Ele suporta a recuperação de valores com base em suas chaves. As chaves são ordenadas por padrão em ordem crescente.
 
-Example
+Exemplo
 -------
 
     #include <iostream>
@@ -67,7 +67,7 @@ Example
         m["one"] = 1;
         m["two"] = 2;
     
-        std::cout << "Map contains:\n";
+        std::cout << "O map contém:\n";
         for (const auto &pair : m) {
             std::cout << pair.first << ": " << pair.second << '\n';
         }
@@ -77,9 +77,9 @@ Example
 4\. Unordered\_map
 ------------------
 
-Similar to a map, an unordered map stores key-value pairs, but it is implemented using a hash table. This means unordered\_map has faster average-case performance compared to map, since it does not maintain sorted order. However, worst-case performance can be worse than map.
+Semelhante a um map, um unordered map armazena pares chave-valor, mas é implementado usando uma tabela de dispersão. Isso significa que o unordered\_map tem desempenho médio mais rápido em comparação com o map, já que ele não mantém ordem ordenada. No entanto, o desempenho pior pode ser pior do que o map.
 
-Example
+Exemplo
 -------
 
     #include <iostream>
@@ -91,11 +91,11 @@ Example
         um["one"] = 1;
         um["two"] = 2;
     
-        std::cout << "Unordered map contains:\n";
+        std::cout << "O unordered map contém:\n";
         for (const auto &pair : um) {
             std::cout << pair.first << ": " << pair.second << '\n';
         }
     }
     
 
-These are just a few examples of C++ containers. There are other container types, such as `set`, `multiset`, `deque`, `stack`, `queue`, and `priority_queue`. Each container has its own use cases and unique characteristics. Learning about these containers and when to use them can greatly improve your efficiency and effectiveness in using C++.
+Estes são apenas alguns exemplos de contêineres em C++. Existem outros tipos de contêineres, como `set`, `multiset`, `deque`, `stack`, `queue` e `priority_queue`. Cada contêiner tem seus próprios casos de uso e características únicas. Aprender sobre esses contêineres e quando usá-los pode aumentar significativamente sua eficiência e eficácia no uso do C++.

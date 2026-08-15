@@ -1650,7 +1650,103 @@
     "roadmaps/computer-science/content/unicode@04hpfxI2x958tQI-0clsp.md",
     "roadmaps/computer-science/content/usecase-diagrams@dVvYbrcaxHLpvtX6HbS7g.md",
     "roadmaps/computer-science/content/views@lOj_ReWI1kQ3WajJZYOWU.md",
-    "roadmaps/computer-science/content/web-sockets@bVjI14VismTHNCyA0mEBP.md"
+    "roadmaps/computer-science/content/web-sockets@bVjI14VismTHNCyA0mEBP.md",
+    "roadmaps/cpp/content/arithmetic-operators@8aOSpZLWwZv_BEYiurhyR.md",
+    "roadmaps/cpp/content/auto-automatic-type-deduction@CG01PTVgHtjfKvsJkJLGl.md",
+    "roadmaps/cpp/content/basic-operations@kl2JI_Wl47c5r8SYzxvCq.md",
+    "roadmaps/cpp/content/catch2@s13jQuaC6gw0Lab3Cbyy6.md",
+    "roadmaps/cpp/content/cmake@ysnXvSHGBMMozBJyXpHl5.md",
+    "roadmaps/cpp/content/code-editors--ides@ew0AfyadpXPRO0ZY3Z19k.md",
+    "roadmaps/cpp/content/compiler-stages@DVckzBUMgk_lWThVkLyAT.md",
+    "roadmaps/cpp/content/compilers-and-features@hSG6Aux39X0cXi6ADy2al.md",
+    "roadmaps/cpp/content/compilers@FTMHsUiE8isD_OVZr62Xc.md",
+    "roadmaps/cpp/content/conan@ky_UqizToTZHC_b77qFi2.md",
+    "roadmaps/cpp/content/const_cast@5g22glc97siQOcTkHbwan.md",
+    "roadmaps/cpp/content/containers@1pydf-SR0QUfVNuBEyvzc.md",
+    "roadmaps/cpp/content/crtp@ttt-yeIi4BPWrgvW324W7.md",
+    "roadmaps/cpp/content/data-types@MwznA4qfpNlv6sqSNjPZi.md",
+    "roadmaps/cpp/content/date--time@yGvE6eHKlPMBB6rde0llR.md",
+    "roadmaps/cpp/content/debuggers@qmHs6_BzND_xpMmls5YUH.md",
+    "roadmaps/cpp/content/debugging-symbols@sR_FxGZHoMCV9Iv7z2_SX.md",
+    "roadmaps/cpp/content/diamond-inheritance@ofwdZm05AUqCIWmfgGHk8.md",
+    "roadmaps/cpp/content/dynamic-polymorphism@7h1VivjCPDwriL7FirtFv.md",
+    "roadmaps/cpp/content/dynamic-typing@i0EAFEUB-F0wBJWOtrl1A.md",
+    "roadmaps/cpp/content/dynamic_cast@4BdFcuQ5KNW94cu2jz-vE.md",
+    "roadmaps/cpp/content/erase-remove@YvmjrZSAOmjhVPo05MJqN.md",
+    "roadmaps/cpp/content/exception-handling@B2SGBENzUMl0SAjG4j91V.md",
+    "roadmaps/cpp/content/exceptions@NJud5SXBAUZ6Sr78kZ7jx.md",
+    "roadmaps/cpp/content/exit-codes@oWygnpwHq2poXQMTTSCpl.md",
+    "roadmaps/cpp/content/fmt@1CqQgmHDeo1HlPdpUJS7H.md",
+    "roadmaps/cpp/content/for--while--do-while-loops@_IP_e1K9LhNHilYTDh7L5.md",
+    "roadmaps/cpp/content/forward-declaration@ZHjU60uzJTezADRhDTESG.md",
+    "roadmaps/cpp/content/full-template-specialization@6hTcmJwNnQstbWWzNCfTe.md",
+    "roadmaps/cpp/content/function-overloading@sgfqb22sdN4VRJYkhAVaf.md",
+    "roadmaps/cpp/content/functions@oYi3YOc1GC2Nfp71VOkJt.md",
+    "roadmaps/cpp/content/gdb@BmWsoL9c_Aag5nVlMsKm2.md",
+    "roadmaps/cpp/content/grpc@621J9W4xCofumNZGo4TZT.md",
+    "roadmaps/cpp/content/gtest--gmock@MrAM-viRaF8DSxB6sVdD9.md",
+    "roadmaps/cpp/content/headers--cpp-files@CK7yf8Bo7kfbV6x2tZTrh.md",
+    "roadmaps/cpp/content/idioms@fb3bnfKXjSIjPAk4b95lg.md",
+    "roadmaps/cpp/content/if-else--switch--goto@bjpFWxiCKGz28E-ukhZBp.md",
+    "roadmaps/cpp/content/installing-c@0J_ltQEJh2g28OE2ZEYJj.md",
+    "roadmaps/cpp/content/introduction-to-language@NvODRFR0DLINB0RlPSsvt.md",
+    "roadmaps/cpp/content/lifetime-of-objects@9aA_-IfQ9WmbPgwic0mFN.md",
+    "roadmaps/cpp/content/logical-operators@Y9gq8WkDA_XGe68JkY2UZ.md",
+    "roadmaps/cpp/content/macros@zKdlfZTRHwjtmRUGW9z9-.md",
+    "roadmaps/cpp/content/multiple-inheritance@WjHpueZDK-d3oDNMVZi9w.md",
+    "roadmaps/cpp/content/multithreading@OXQUPqxzs1-giAACwl3X1.md",
+    "roadmaps/cpp/content/name-mangling@Lt7ss59KZw9Jwqj234jm2.md",
+    "roadmaps/cpp/content/namespaces@iIdC7V8sojwyEqK1xMuHn.md",
+    "roadmaps/cpp/content/newdelete-operators@Gld0nRs0sM8kRe8XmYolu.md",
+    "roadmaps/cpp/content/ninja@HkUCD5A_M9bJxJRElkK0x.md",
+    "roadmaps/cpp/content/non-copyable--non-moveable@xjUaIp8gGxkN-cp8emJ2M.md",
+    "roadmaps/cpp/content/nuget@g0s0F4mLV16eNvMBflN2e.md",
+    "roadmaps/cpp/content/object-oriented-programming@b3-QYKNcW3LYCNOza3Olf.md",
+    "roadmaps/cpp/content/orbit-profiler@O0lVEMTAV1pq9sYCKQvh_.md",
+    "roadmaps/cpp/content/package-managers@h29eJG1hWHa7vMhSqtfV2.md",
+    "roadmaps/cpp/content/partial-template-specialization@1NYJtbdcdOB4-vIrnq4yX.md",
+    "roadmaps/cpp/content/pimpl@MEoWt8NKjPLVTeGgYf3cR.md",
+    "roadmaps/cpp/content/poco@nOkniNXfXwPPlOEJHJoGl.md",
+    "roadmaps/cpp/content/pointers-and-references@DWw8NxkLpIpiOSUaZZ1oA.md",
+    "roadmaps/cpp/content/protobuf@jpMCIWQko7p3ndezYHL4D.md",
+    "roadmaps/cpp/content/pybind11@tEkvlJPAkD5fji-MMODL7.md",
+    "roadmaps/cpp/content/pytorch-c@88pr5aN7cctZfDVVo-2ns.md",
+    "roadmaps/cpp/content/qt@gAZ9Dqgj1_UkaLzVgzx1t.md",
+    "roadmaps/cpp/content/raii@OmHDlLxCnH8RDdu5vx9fl.md",
+    "roadmaps/cpp/content/ranges_v3@et-dXKPYuyVW6eV2K3CM8.md",
+    "roadmaps/cpp/content/rtti@r0yD1gfn03wTpEBi6zNsu.md",
+    "roadmaps/cpp/content/rule-of-zero-five-three@7sdEzZCIoarzznwO4XcCv.md",
+    "roadmaps/cpp/content/running-your-first-program@SEq0D2Zg5WTsIDtd1hW9f.md",
+    "roadmaps/cpp/content/scope@dKCYmxDNZubCVcR5rf8b-.md",
+    "roadmaps/cpp/content/setting-up-your-environment@Zc_TTzmM36yWsu3GvOy9x.md",
+    "roadmaps/cpp/content/sfinae@3C5UfejDX-1Z8ZF6C53xD.md",
+    "roadmaps/cpp/content/shared_ptr@b5jZIZD_U_CPg-_bdndjz.md",
+    "roadmaps/cpp/content/smart-pointers@ulvwm4rRPgkpgaqGgyH5a.md",
+    "roadmaps/cpp/content/spack@3ehBc2sKVlPj7dn4RVZCH.md",
+    "roadmaps/cpp/content/spdlog@q64qFxoCrR38RPsN2lC8x.md",
+    "roadmaps/cpp/content/standard-library--stl@DHdNBP7_ixjr6h-dIQ7g6.md",
+    "roadmaps/cpp/content/standards@vvE1aUsWbF1OFcmMUHbJa.md",
+    "roadmaps/cpp/content/static-polymorphism@obZIxRp0eMWdG7gplNIBc.md",
+    "roadmaps/cpp/content/static-typing@f1djN0GxoeVPr_0cl6vMq.md",
+    "roadmaps/cpp/content/static_cast@_XB2Imyf23-6AOeoNLhYQ.md",
+    "roadmaps/cpp/content/structures-and-classes@CMlWNQwpywNhO9B6Yj6Me.md",
+    "roadmaps/cpp/content/structuring-codebase@Zw2AOTK5uc9BoKEpY7W1C.md",
+    "roadmaps/cpp/content/template-specialization@sObOuccY0PDeGG-9GrFDF.md",
+    "roadmaps/cpp/content/templates@-6AOrbuOE7DJCmxlcgCay.md",
+    "roadmaps/cpp/content/tensorflow@j_eNHhs0J08Dt7HVbo4Q2.md",
+    "roadmaps/cpp/content/type-casting@PiMhw1oP9-NZEa6I9u4lX.md",
+    "roadmaps/cpp/content/type-traits@WptReUOwVth3C9-AVmMHF.md",
+    "roadmaps/cpp/content/undefined-behavior-ub@IDOlquv6jlfecwQoBwkGZ.md",
+    "roadmaps/cpp/content/understanding-debugger-messages@VtPb8-AJKzhTB0QbMtoU4.md",
+    "roadmaps/cpp/content/unique_ptr@k9c5seRkhgm_yHPpiz2X0.md",
+    "roadmaps/cpp/content/variadic-templates@w4EIf58KP-Pq-yc0HlGxc.md",
+    "roadmaps/cpp/content/vcpkg@PKG5pACLfRS2ogfzBX47_.md",
+    "roadmaps/cpp/content/virtual-methods@hNBErGNiegLsUJn_vgcOR.md",
+    "roadmaps/cpp/content/virtual-tables@s99ImazcwCgAESxZd8ksa.md",
+    "roadmaps/cpp/content/weak_ptr@vUwSS-uX36OWZouO0wOcy.md",
+    "roadmaps/cpp/content/what-is-c@x_28LiDVshqWns_aIBsdx.md",
+    "roadmaps/cpp/content/why-use-c@tl6VCQ5IEGDVyFcgj7jDm.md",
+    "roadmaps/cpp/content/windbg@y8VCbGDUco9bzGRfIBD8R.md"
   ],
   "completed_roadmaps": [
     "frontend-beginner",
@@ -1674,7 +1770,8 @@
     "claude-code",
     "cloudflare",
     "code-review",
-    "computer-science"
+    "computer-science",
+    "cpp"
   ],
   "flagged_issues": [
     {
@@ -3801,8 +3898,163 @@
       "file": "roadmaps/computer-science/content/tail-recursion@0_qNhprnXU3i8koW3XTdD.md",
       "reason": "Falha na tradução automática após tentativas no Ollama",
       "timestamp": "2026-08-15T03:48:49.746238"
+    },
+    {
+      "file": "roadmaps/cpp/content/access-violations@y4-P4UNC--rE1vni8HdTn.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:50:05.912146"
+    },
+    {
+      "file": "roadmaps/cpp/content/algorithms@whyj6Z4RXFsVQYRfYYn7B.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:50:08.425868"
+    },
+    {
+      "file": "roadmaps/cpp/content/argument-dependent-lookup-adl@YSWN7nS8vA9nMldSUrZRT.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:50:12.483174"
+    },
+    {
+      "file": "roadmaps/cpp/content/bitwise-operators@zE4iPSq2KsrDSByQ0sGK_.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:50:41.386242"
+    },
+    {
+      "file": "roadmaps/cpp/content/boost@1d7h5P1Q0RVHryKPVogQy.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:50:44.427783"
+    },
+    {
+      "file": "roadmaps/cpp/content/build-systems@jVXFCo6puMxJ_ifn_uwim.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:50:47.980803"
+    },
+    {
+      "file": "roadmaps/cpp/content/c-0x@PPg0V5EzGBeJsysg1215V.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:51:04.186608"
+    },
+    {
+      "file": "roadmaps/cpp/content/c-11--14@T6rCTv9Dxkm-tEA-l9XEv.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:51:07.867542"
+    },
+    {
+      "file": "roadmaps/cpp/content/c-17@R2-qWGUxsTOeSHRuUzhd2.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:51:11.479044"
+    },
+    {
+      "file": "roadmaps/cpp/content/c-20@o3no4a5_iMFzEAGs56-BJ.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:51:26.520223"
+    },
+    {
+      "file": "roadmaps/cpp/content/c-23@sxbbKtg7kMNbkx7fXhjR9.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:51:31.843412"
+    },
+    {
+      "file": "roadmaps/cpp/content/c-vs-c@2Ag0t3LPryTF8khHLRfy-.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:51:35.248605"
+    },
+    {
+      "file": "roadmaps/cpp/content/control-flow--statements@s5Gs4yF9TPh-psYmtPzks.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:52:37.634144"
+    },
+    {
+      "file": "roadmaps/cpp/content/copy-and-swap@lxAzI42jQdaofzQ5MXebG.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:52:41.430377"
+    },
+    {
+      "file": "roadmaps/cpp/content/copy-on-write@O2Du5gHHxFxAI2u5uO8wu.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:52:44.178751"
+    },
+    {
+      "file": "roadmaps/cpp/content/iostream@VeVxZ230xkesQsIDig8zQ.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:54:51.688565"
+    },
+    {
+      "file": "roadmaps/cpp/content/iterators@Ebu8gzbyyXEeJryeE0SpG.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:54:55.599561"
+    },
+    {
+      "file": "roadmaps/cpp/content/lambdas@xjiFBVe-VGqCqWfkPVGKf.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:54:59.799526"
+    },
+    {
+      "file": "roadmaps/cpp/content/language-concepts@-6fwJQOfsorgHkoQGp4T3.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:55:15.942766"
+    },
+    {
+      "file": "roadmaps/cpp/content/library-inclusion@5mNqH_AEiLxUmgurNW1Fq.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:55:19.575379"
+    },
+    {
+      "file": "roadmaps/cpp/content/licensing@sLVs95EOeHZldoKY0L_dH.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:55:22.941231"
+    },
+    {
+      "file": "roadmaps/cpp/content/makefile@t6rZLH7l8JQm99ax_fEJ9.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:55:49.260685"
+    },
+    {
+      "file": "roadmaps/cpp/content/memory-leakage@6w0WExQ4lGIGgok6Thq0s.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:55:51.396651"
+    },
+    {
+      "file": "roadmaps/cpp/content/memory-model@mSFwsTYvmg-GwG4_DEIEf.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:55:54.890798"
+    },
+    {
+      "file": "roadmaps/cpp/content/opencl@GGZJaYpRENaqloJzt0VtY.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:56:51.192210"
+    },
+    {
+      "file": "roadmaps/cpp/content/opencv@Eq3TKSFJ2F2mrTHAaU2J4.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:56:54.310685"
+    },
+    {
+      "file": "roadmaps/cpp/content/operator-overloading@llCBeut_uc9IAe2oi4KZ9.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:56:57.233376"
+    },
+    {
+      "file": "roadmaps/cpp/content/raw-pointers@uEGEmbxegATIrvGfobJb9.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:57:58.034432"
+    },
+    {
+      "file": "roadmaps/cpp/content/references@uUzRKa9wGzdUwwmAg3FWr.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:58:02.028805"
+    },
+    {
+      "file": "roadmaps/cpp/content/reinterpret_cast@ZMyFDJrpCauGrY5NZkOwg.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:58:04.940190"
+    },
+    {
+      "file": "roadmaps/cpp/content/working-with-libraries@4kkX5g_-plX9zVqr0ZoiR.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T04:00:27.331071"
     }
   ],
-  "last_updated": "2026-08-15T03:49:50.804607",
+  "last_updated": "2026-08-15T04:00:27.337186",
   "total_translated_count": 54
 }

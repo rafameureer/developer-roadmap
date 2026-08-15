@@ -1,3 +1,3 @@
-# Why Use C++
+# Por que Usar C++
 
-C++ is a powerful, general-purpose programming language known for its performance and control over system resources. It combines high-level and low-level features, allowing developers to write efficient code for a wide range of applications. This includes operating systems, game development, embedded systems, high-performance computing, and more.
+C++ é uma linguagem de programação de propósito geral poderosa, conhecida por sua performance e controle sobre os recursos do sistema. Combina características de alto nível e baixo nível, permitindo aos desenvolvedores escrever código eficiente para uma ampla gama de aplicações. Isso inclui sistemas operacionais, desenvolvimento de jogos, sistemas embarcados, computação de alto desempenho e muito mais.

@@ -1,8 +1,8 @@
-# C++ Standard Library and STL
+# Biblioteca Padrão em C++ e STL
 
-The C++ Standard Library is a comprehensive collection of classes and functions, extending the core language with ready-to-use tools for common programming tasks. A crucial part of the Standard Library is the Standard Template Library (STL), which offers pre-built, templatized components like containers (vectors, lists, maps), algorithms (sorting, searching), and iterators to work with those containers. The STL promotes code reuse and efficiency by providing generic implementations that can work with various data types, saving developers significant time and effort.
+A Biblioteca Padrão em C++ é uma coleção abrangente de classes e funções, estendendo o idioma básico com ferramentas prontas para uso em tarefas de programação comuns. Uma parte crucial da Biblioteca Padrão é a Standard Template Library (STL), que oferece componentes pré-construídos e templatizados como contêineres (vetores, listas, mapas), algoritmos (ordenamento, busca) e iteradores para trabalhar com esses contêineres. A STL promove o reuso de código e a eficiência fornecendo implementações genéricas que podem funcionar com vários tipos de dados, economizando aos desenvolvedores significativa tempo e esforço.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@book@Mastering STL in C++23: New Features, Updates, and Best Practices](https://simplifycpp.org/books/Mastering_STL.pdf)
-- [@video@C++ Standard Template Library (STL) Short Overview](https://www.youtube.com/watch?v=Id6ZEb_Lg58)
+- [@book@Dominando STL em C++23: Novos Recursos, Atualizações e Melhores Práticas](https://simplifycpp.org/books/Mastering_STL.pdf)
+- [@video@Visão Geral Rápida da Biblioteca Padrão de C++ (STL)](https://www.youtube.com/watch?v=Id6ZEb_Lg58)

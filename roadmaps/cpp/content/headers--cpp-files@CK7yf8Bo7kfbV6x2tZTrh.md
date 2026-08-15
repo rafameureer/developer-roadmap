@@ -1,8 +1,8 @@
-# Headers / CPP Files
+# Headers / Arquivos CPP
 
-In C++, organizing code effectively involves splitting programs into header and source files. Header files (with extensions like `.h` or `.hpp`) declare interfaces such as classes, functions, and variables, acting as blueprints for other parts of the code. Source files (with the `.cpp` extension) then implement the functionality declared in the headers. This separation supports modularity, reduces compilation times through separate compilation, and enhances code readability and maintainability by clearly defining interfaces and implementations.
+No C++, organizar o código de forma eficaz envolve dividir os programas em arquivos de cabeçalho e fonte. Os arquivos de cabeçalho (com extensões como `.h` ou `.hpp`) declaram interfaces como classes, funções e variáveis, atuando como modelos para outras partes do código. Os arquivos de fonte (com a extensão `.cpp`) então implementam a funcionalidade declarada nos cabeçalhos. Esta separação suporta modularidade, reduz o tempo de compilação através da compilação separada e melhora a legibilidade e manutenabilidade do código ao definir claramente interfaces e implementações.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Header files (C++)](https://learn.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-170)
-- [@video@What are header files in C++ ( PROGRAMMING TUTORIAL for beginners)](https://www.youtube.com/watch?v=qaGzc56Rekg)
+- [@article@Arquivos de cabeçalho (C++)](https://learn.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-170)
+- [@video@O que são arquivos de cabeçalho em C++ (TUTORIAL DE PROGRAMAÇÃO para iniciantes)](https://www.youtube.com/watch?v=qaGzc56Rekg)

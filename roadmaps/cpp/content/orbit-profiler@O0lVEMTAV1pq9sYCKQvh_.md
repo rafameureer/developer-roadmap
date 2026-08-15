@@ -1,7 +1,7 @@
-# Orbit Profiler
+# Analisador de Desempenho Orbit
 
-Orbit Profiler is a performance analysis tool designed to help developers identify bottlenecks and optimize the performance of their applications. It provides detailed insights into CPU usage, memory allocation, and other performance metrics through sampling and tracing. This helps pinpoint areas where code can be made more efficient.
+O Orbit Profiler é uma ferramenta de análise de desempenho projetada para ajudar os desenvolvedores a identificar gargalos e otimizar o desempenho das suas aplicações. Ele fornece detalhadas informações sobre o uso do CPU, alocação de memória e outras métricas de desempenho através da amostragem e rastreamento. Isso ajuda a identificar áreas onde o código pode ser otimizado para maior eficiência.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@ORBIT PROFILER](https://orbitprofiler.com/)
+- [@oficial@ORBIT PROFILER](https://orbitprofiler.com/)

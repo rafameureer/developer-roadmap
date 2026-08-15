@@ -1,8 +1,8 @@
-# Exception Handling
+# Tratamento de Exceções
 
-Exception handling in C++ is a mechanism for managing runtime errors and unexpected events, preventing abrupt program termination. It uses `try`, `catch`, and `throw` keywords to monitor code blocks for exceptions, handle specific exception types, and signal error conditions, respectively. The `noexcept` specifier ensures a function doesn't throw exceptions. Standard exception classes in `<stdexcept>`, like `std::exception`, `std::logic_error`, and `std::runtime_error`, offer a structured approach to representing and handling various error types.
+O tratamento de exceções em C++ é um mecanismo para gerenciar erros de tempo de execução e eventos inesperados, evitando a terminação abrupta do programa. Ele usa as palavras-chave `try`, `catch` e `throw` para monitorar blocos de código por exceções, lidar com tipos específicos de exceções e sinalizar condições de erro, respectivamente. O especificador `noexcept` garante que uma função não lance exceções. As classes de exceção padrão em `<stdexcept>`, como `std::exception`, `std::logic_error` e `std::runtime_error`, oferecem uma abordagem estruturada para representar e lidar com vários tipos de erros.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Exception Handling](https://www.w3schools.com/cpp/cpp_exceptions.asp)
-- [@video@Exception handling in C++ (How to handle errors in your program?)](https://www.youtube.com/watch?v=kjEhqgmEiWY)
+- [@article@Tratamento de Exceções](https://www.w3schools.com/cpp/cpp_exceptions.asp)
+- [@video@Tratamento de exceções em C++ (Como lidar com erros em seu programa?)](https://www.youtube.com/watch?v=kjEhqgmEiWY)

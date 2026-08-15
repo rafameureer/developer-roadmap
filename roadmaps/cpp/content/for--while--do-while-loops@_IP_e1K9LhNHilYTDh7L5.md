@@ -1,9 +1,9 @@
-# Loops
+# Laços
 
-Loops are fundamental control flow structures that enable the repetition of code blocks based on a condition. C++ provides three primary loop types: `for`, `while`, and `do-while`. The `for` loop is ideal when the number of iterations is known beforehand, while the `while` loop continues execution as long as a specified condition remains true. The `do-while` loop is similar to the `while` loop, but guarantees at least one execution of the code block, as the condition is checked at the end of the loop.
+Os laços são estruturas de controle fundamentais que permitem a repetição de blocos de código com base em uma condição. O C++ fornece três tipos principais de laços: `for`, `while` e `do-while`. O laço `for` é ideal quando o número de iterações é conhecido antecipadamente, enquanto o laço `while` continua a execução desde que uma condição especificada permaneça verdadeira. O laço `do-while` é semelhante ao laço `while`, mas garante pelo menos uma execução do bloco de código, pois a condição é verificada no final do laço.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@C++ For Loop](https://www.w3schools.com/cpp/cpp_for_loop.asp)
-- [@article@C++ While Loop](http://w3schools.com/cpp/cpp_while_loop.asp)
-- [@article@C++ Do While Loop](https://www.w3schools.com/cpp/cpp_do_while_loop.asp)
+- [@artigo@Laço For em C++](https://www.w3schools.com/cpp/cpp_for_loop.asp)
+- [@artigo@Laço While em C++](http://w3schools.com/cpp/cpp_while_loop.asp)
+- [@artigo@Laço Do While em C++](https://www.w3schools.com/cpp/cpp_do_while_loop.asp)

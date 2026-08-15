@@ -1,7 +1,7 @@
 # WinDbg
 
-WinDbg, a debugger included in the Microsoft Windows SDK, is a powerful tool for analyzing and debugging Windows applications, both in user mode and kernel mode. It offers a graphical interface and a comprehensive set of features for tasks like analyzing crash dumps, setting breakpoints, and stepping through code execution to identify and resolve issues in your C++ programs. Familiarity with WinDbg enables developers to delve deep into the runtime behavior of their applications and pinpoint the root cause of bugs.
+WinDbg, um depurador incluído no Microsoft Windows SDK, é uma ferramenta poderosa para analisar e depurar aplicativos do Windows, tanto no modo de usuário quanto no modo de kernel. Oferece uma interface gráfica e um conjunto completo de recursos para tarefas como análise de dumps de falha, definição de pontos de interrupção e passagem por código de execução para identificar e resolver problemas em seus programas C++. A familiaridade com o WinDbg permite aos desenvolvedores mergulhar profundamente no comportamento de tempo de execução de seus aplicativos e identificar a causa raiz dos bugs.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@Debugging C/C++ Programs from Scratch with WinDbg: A Beginner's Guide](https://www.youtube.com/watch?v=AgtgZDsADUI)
+- [@vídeo@Depurando Programas em C/C++ do Zero com WinDbg: Um Guia Iniciante](https://www.youtube.com/watch?v=AgtgZDsADUI)

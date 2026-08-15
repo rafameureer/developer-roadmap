@@ -1,3 +1,3 @@
-# Forward Declaration
+# Declaração Antecipada
 
-Forward declaration is declaring an identifier (like a class, function, or variable) to the compiler before its full definition is provided. This informs the compiler about the existence and type of the identifier, allowing it to be used in limited contexts, such as pointer or reference usage, without requiring the full definition to be immediately available. This technique helps to manage dependencies, reduce compilation times, and resolve circular dependencies between different parts of a codebase.
+A declaração antecipada é declarar um identificador (como uma classe, função ou variável) para o compilador antes de sua definição completa ser fornecida. Isso informa ao compilador sobre a existência e o tipo do identificador, permitindo seu uso em contextos limitados, como o uso de ponteiros ou referências, sem exigir que a definição completa esteja disponível imediatamente. Esse método ajuda a gerenciar dependências, reduzir tempos de compilação e resolver dependências circulares entre diferentes partes de um código.

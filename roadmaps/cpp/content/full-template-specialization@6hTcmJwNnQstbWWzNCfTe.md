@@ -1,3 +1,3 @@
-# Full Template Specialization
+# Especialização Completa de Template
 
-Full template specialization in C++ provides a way to define specific implementations of a template (class or function) for particular types. This allows you to customize the behavior of a template when it's instantiated with a specific set of template arguments, enabling optimized code or special handling for certain types while the generic template handles other cases. This involves creating a specialized version of the template for a specific type or set of types.
+A especialização completa de template em C++ fornece uma maneira de definir implementações específicas de um template (classe ou função) para tipos particulares. Isso permite personalizar o comportamento de um template quando ele é instanciado com um conjunto específico de argumentos de template, permitindo código otimizado ou tratamento especial para certos tipos enquanto o template genérico lida com outros casos. Isso envolve a criação de uma versão especializada do template para um tipo específico ou conjunto de tipos.

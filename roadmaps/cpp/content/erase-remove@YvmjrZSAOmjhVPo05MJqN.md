@@ -1,8 +1,8 @@
 # Erase-Remove
 
-The Erase-Remove idiom is a common C++ technique used to efficiently remove elements from a container (like `std::vector`, `std::list`, etc.). It involves using `std::remove` (or `std::remove_if`) to move the elements to be removed to the end of the container, followed by using the container's `erase()` method to actually remove those elements, effectively shrinking the container.
+O idiom Erase-Remove é uma técnica comum em C++ usada para remover eficientemente elementos de um contêiner (como `std::vector`, `std::list`, etc.). Involves usar `std::remove` (ou `std::remove_if`) para mover os elementos a serem removidos para o final do contêiner, seguido pelo uso do método `erase()` do contêiner para remover efetivamente esses elementos, reduzindo assim o tamanho do contêiner.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@article@std::remove, std::remove_if](https://en.cppreference.com/w/cpp/algorithm/remove.html)
 - [@video@C++ STL algorithm - erase-remove idiom -- std::remove(_if, _copy_if) | Modern Cpp Series Ep. 154](https://www.youtube.com/watch?v=btyuTSb_238)

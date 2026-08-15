@@ -1,3 +1,3 @@
-# Basic Operations
+# Operações Básicas
 
-Understanding fundamental operations is crucial for any C++ developer. This foundational knowledge includes arithmetic operations such as addition, subtraction, multiplication, and division, as well as comparison operations (e.g., equal to, not equal to, greater than) used in conditional logic. Mastering these operations forms the bedrock upon which more complex algorithms and data structures are built.
+Entender as operações fundamentais é crucial para qualquer desenvolvedor em C++. Esse conhecimento básico inclui operações aritméticas como adição, subtração, multiplicação e divisão, bem como operações de comparação (por exemplo, igual a, diferente de, maior que) usadas na lógica condicional. Dominar essas operações forma a base sobre a qual mais algoritmos complexos e estruturas de dados são construídos.

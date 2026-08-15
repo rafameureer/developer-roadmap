@@ -1,8 +1,8 @@
-# Lifetime of Objects
+# Vida Útil dos Objetos
 
-Object lifetime in C++ dictates when an object comes into existence and when it ceases to exist. This crucial concept influences memory management and program correctness. C++ defines four storage durations: static (exists for the program's duration), thread (exists for a thread's duration), automatic (exists within a scope), and dynamic (controlled by `new` and `delete`). Managing object lifetimes effectively, especially dynamic objects, is essential for preventing memory leaks and ensuring stable application behavior.
+A vida útil de um objeto em C++ determina quando o objeto é criado e quando ele para de existir. Este conceito crucial afeta a gestão de memória e a corretude do programa. O C++ define quatro durações de armazenamento: estático (existe durante toda a duração do programa), thread (existe durante a duração da thread), automático (existe dentro de um escopo) e dinâmico (controlado por `new` e `delete`). Gerenciar efetivamente as vidas úteis dos objetos, especialmente os objetos dinâmicos, é essencial para prevenir vazamentos de memória e garantir o comportamento da aplicação estável.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Lifetime](https://en.cppreference.com/w/cpp/language/lifetime.html)
-- [@article@Object Lifetime in C++ (Stack/Scope Lifetimes)](http://youtube.com/watch?v=iNuTwvD6ciI)
+- [@artigo@Vida Útil](https://en.cppreference.com/w/cpp/language/lifetime.html)
+- [@vídeo@Vida Útil dos Objetos em C++ (Escopos de Vida)](http://youtube.com/watch?v=iNuTwvD6ciI)

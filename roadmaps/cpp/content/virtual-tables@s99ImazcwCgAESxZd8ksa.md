@@ -1,8 +1,8 @@
-# Virtual Tables
+# Tabelas Virtuais
 
-Virtual tables (vtables) are compiler-generated lookup tables used in C++ to implement dynamic polymorphism, especially with virtual functions. Each class that declares or inherits virtual functions has a vtable, which contains pointers to the most derived versions of those virtual functions for that class. When a virtual function is called through a pointer or reference to a base class, the vtable is consulted at runtime to determine the actual function to execute based on the object's dynamic type.
+Tabelas virtuais (vtables) são tabelas de pesquisa geradas pelo compilador em C++ para implementar o polimorfismo dinâmico, especialmente com funções virtuais. Cada classe que declara ou herda funções virtuais tem uma vtable, que contém ponteiros para as versões mais derivadas dessas funções virtuais para aquela classe. Quando uma função virtual é chamada através de um ponteiro ou referência a uma classe base, a vtable é consultada em tempo de execução para determinar a função real a ser executada com base no tipo dinâmico do objeto.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Understanding Virtual Tables in C++](https://pabloariasal.github.io/2017/06/10/understanding-virtual-tables/)
-- [@video@Classes part 18 - Understanding the vtable (Popular interview question) | Modern Cpp Series Ep. 54](https://www.youtube.com/watch?v=hS7kPtVB1vI)
+- [@article@Entendendo Tabelas Virtuais em C++](https://pabloariasal.github.io/2017/06/10/understanding-virtual-tables/)
+- [@video@Classes part 18 - Entendendo a vtable (Pergunta de entrevista popular) | Série Modern Cpp Ep. 54](https://www.youtube.com/watch?v=hS7kPtVB1vI)

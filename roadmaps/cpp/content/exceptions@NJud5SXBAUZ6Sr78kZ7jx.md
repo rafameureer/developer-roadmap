@@ -1,3 +1,3 @@
-# Exceptions
+# Exceções
 
-Exception handling in C++ provides a mechanism to manage runtime errors, ensuring program stability. This is achieved using `try`, `catch`, and `throw` blocks. The `try` block encloses code that might generate an exception. If an error occurs, a `throw` statement creates an exception object, which is then caught and handled by an appropriate `catch` block designed to deal with that specific exception type, thus preventing program termination.
+O tratamento de exceções em C++ fornece um mecanismo para gerenciar erros de tempo de execução, garantindo a estabilidade do programa. Isso é feito usando blocos `try`, `catch` e `throw`. O bloco `try` envolve o código que pode gerar uma exceção. Se ocorrer um erro, uma declaração `throw` cria um objeto de exceção, que é então capturado e lidado por um bloco `catch` apropriado projetado para tratar esse tipo específico de exceção, evitando assim a terminação do programa.

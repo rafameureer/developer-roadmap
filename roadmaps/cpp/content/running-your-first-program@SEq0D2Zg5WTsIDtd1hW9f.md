@@ -1,7 +1,7 @@
-# Running Your First Program
+# Executando Seu Primeiro Programa
 
-This involves configuring your system to compile and execute C++ code. You'll need a compiler (like GCC or Clang), an IDE or text editor for writing code, and potentially a build system to manage the compilation process. A basic "Hello, World!" program is typically used to verify the setup and demonstrate the fundamental syntax.
+Isso envolve configurar seu sistema para compilar e executar código C++. Você precisará de um compilador (como GCC ou Clang), um IDE ou editor de texto para escrever o código, e possivelmente um sistema de construção para gerenciar o processo de compilação. Um programa básico "Hello, World!" é geralmente usado para verificar a configuração e demonstrar a sintaxe fundamental.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Get Started With C++](https://www.w3schools.com/cpp/cpp_getstarted.asp)
+- [@artigo@Comece com C++](https://www.w3schools.com/cpp/cpp_getstarted.asp)

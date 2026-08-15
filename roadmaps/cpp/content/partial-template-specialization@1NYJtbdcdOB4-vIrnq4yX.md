@@ -1,3 +1,3 @@
-# Partial Template Specialization
+# Especialização Parcial de Templates
 
-Partial template specialization in C++ allows you to create specialized versions of a template for specific subsets of types. This is achieved by providing a new template definition that is selected by the compiler when the template arguments match the specified criteria. It offers a way to customize template behavior for certain type categories, like pointers or specific data types, without needing complete specializations for every possible type.
+A especialização parcial de templates em C++ permite criar versões especializadas de um template para subconjuntos específicos de tipos. Isso é feito fornecendo uma nova definição de template que é selecionada pelo compilador quando os argumentos do template correspondem aos critérios especificados. Oferece uma maneira de personalizar o comportamento do template para certas categorias de tipos, como ponteiros ou tipos de dados específicos, sem a necessidade de especializações completas para todos os possíveis tipos.

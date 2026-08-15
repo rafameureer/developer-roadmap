@@ -1,9 +1,9 @@
 # gRPC
 
-gRPC is a high-performance, open-source framework developed by Google for building remote procedure calls (RPCs). It uses Protocol Buffers as its Interface Definition Language (IDL) and relies on HTTP/2 for transport. gRPC enables client applications to directly call methods on a server application on a different machine as if it were a local object, making it easier to create distributed applications and microservices.
+gRPC é um framework de alto desempenho e código aberto desenvolvido pela Google para construir chamadas de procedimento remoto (RPCs). Ele usa Protocol Buffers como seu Idioma de Definição da Interface (IDL) e depende do HTTP/2 para transporte. gRPC permite que aplicativos cliente chame diretamente métodos em um aplicativo servidor em uma máquina diferente como se fosse um objeto local, tornando mais fácil criar aplicativos distribuídos e microserviços.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Quick start](https://grpc.io/docs/languages/cpp/quickstart/)
-- [@official@Basic Tutorial](https://grpc.io/docs/languages/cpp/basics/)
-- [@opensource@grpc](https://github.com/grpc/grpc)
+- [@oficial@Guia Rápido](https://grpc.io/docs/languages/cpp/quickstart/)
+- [@oficial@Tutoriais Básicos](https://grpc.io/docs/languages/cpp/basics/)
+- [@opensource@gRPC](https://github.com/grpc/grpc)

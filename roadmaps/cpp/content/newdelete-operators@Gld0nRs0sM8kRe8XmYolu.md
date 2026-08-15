@@ -1,3 +1,3 @@
-# New/Delete Operators
+# Operadores New/Delete
 
-The `new` and `delete` operators in C++ are used for dynamic memory allocation and deallocation. `new` allocates a block of memory on the heap and returns a pointer to the beginning of that block. `delete` then releases the memory block previously allocated by `new`, making it available for other uses. Proper use of `new` and `delete` is crucial to prevent memory leaks.
+Os operadores `new` e `delete` em C++ são usados para alocação dinâmica de memória e desalocação. O `new` aloca um bloco de memória na pilha e retorna um ponteiro para o início desse bloco. O `delete`, por sua vez, libera o bloco de memória anteriormente alocado pelo `new`, tornando-o disponível para outros usos. A utilização adequada dos operadores `new` e `delete` é crucial para evitar vazamentos de memória.

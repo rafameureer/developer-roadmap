@@ -1,8 +1,8 @@
-# Dynamic Polymorphism
+# Polimorfismo Dinâmico
 
-Dynamic polymorphism is a feature in C++ that allows objects of different classes to be treated as objects of a common type. This is achieved through virtual functions, where a derived class can override a function defined in its base class. When a virtual function is called through a base class pointer or reference, the correct function implementation for the derived class object is executed at runtime, enabling flexible and extensible code.
+O polimorfismo dinâmico é uma característica do C++ que permite tratar objetos de diferentes classes como objetos de um tipo comum. Isso é alcançado através de funções virtuais, onde uma classe derivada pode substituir uma função definida em sua classe base. Quando uma função virtual é chamada por meio de um ponteiro ou referência da classe base, a implementação correta da função para o objeto da classe derivada é executada em tempo de execução, permitindo código flexível e extensível.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Understanding Dynamic Polymorphism in C++](https://hackernoon.com/understanding-dynamic-polymorphism-in-c)
-- [@video@Dynamic Binding (Polymorphism) With The Virtual Keyword | C++ Tutorial](https://www.youtube.com/watch?v=-FUhG98hdLI)
+- [@artigo@Entendendo Polimorfismo Dinâmico no C++](https://hackernoon.com/understanding-dynamic-polymorphism-in-c)
+- [@vídeo@Vinculação Dinâmica (Polimorfismo) com a Palavra-chave Virtual | Tutorial de C++](https://www.youtube.com/watch?v=-FUhG98hdLI)

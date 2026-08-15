@@ -1,8 +1,8 @@
-# Type Casting
+# Casting de Tipos
 
-Type casting in C++ involves converting a variable's data type to another. C++ provides several casting methods: C-style casting (inherited from C), `static_cast` (for explicit conversions at compile time), `dynamic_cast` (for safe downcasting in class hierarchies), `reinterpret_cast` (for low-level bitwise reinterpretation), and `const_cast` (to modify the constness of variables). Choosing the appropriate cast is crucial for safe and efficient code execution.
+O casting de tipos em C++ envolve converter o tipo de dados de uma variável para outro. O C++ oferece vários métodos de casting: casting estilo C (herdado do C), `static_cast` (para conversões explícitas no tempo de compilação), `dynamic_cast` (para descer com segurança em hierarquias de classes), `reinterpret_cast` (para reinterpretação bit a bit de nível baixo) e `const_cast` (para modificar a constância das variáveis). Escolher o casting adequado é crucial para a execução segura e eficiente do código.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Type Casting](https://www.w3schools.com/cpp//cpp_type_casting.asp)
-- [@video@Casting in C++](https://youtu.be/pWZS1MtxI-A)
+- [@artigo@Casting de Tipos](https://www.w3schools.com/cpp//cpp_type_casting.asp)
+- [@vídeo@Casting em C++](https://youtu.be/pWZS1MtxI-A)

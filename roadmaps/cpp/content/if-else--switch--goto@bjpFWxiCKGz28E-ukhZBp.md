@@ -1,9 +1,9 @@
-# Conditional Statements and Unconditional Jump
+# Estruturas Condicionais e Pulo Incondicional
 
-`if-else`, `switch`, and `goto` are fundamental control flow mechanisms in C++. `if-else` constructs enable programs to execute different code blocks based on boolean conditions. The `switch` statement provides a way to efficiently handle multiple possible values of a single variable. The `goto` statement allows for an unconditional jump to a labeled point in the code, but its use is generally discouraged due to potential impacts on code readability and maintainability.
+`if-else`, `switch` e `goto` são mecanismos fundamentais de fluxo de controle em C++. As construções `if-else` permitem que os programas executem diferentes blocos de código com base em condições booleanas. A declaração `switch` fornece uma maneira eficiente de lidar com múltiplos valores possíveis de uma única variável. A declaração `goto` permite um salto incondicional para um ponto rotulado no código, mas seu uso geralmente é desencorajado devido aos potenciais impactos na legibilidade e manutenabilidade do código.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@The 'if-else' Statement in C++](https://www.youtube.com/watch?v=9-BjXs1vMSc)
-- [@video@Learn C++ With Me - Switch Statement](https://www.youtube.com/watch?v=uOlLs1OYSSI)
-- [@video@Why is it illegal to use "goto"?](https://youtu.be/AKJhThyTmQw?si=gjEqAsDZVMDGVAT2)
+- [@video@A declaração 'if-else' em C++](https://www.youtube.com/watch?v=9-BjXs1vMSc)
+- [@video@Aprenda C++ comigo - Declaração Switch](https://www.youtube.com/watch?v=uOlLs1OYSSI)
+- [@video@Por que usar 'goto' é ilegal?](https://youtu.be/AKJhThyTmQw?si=gjEqAsDZVMDGVAT2)

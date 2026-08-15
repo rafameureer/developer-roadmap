@@ -4,7 +4,7 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 
 ---
 
-> ⚠️ **Total de itens sinalizados:** 425
+> ⚠️ **Total de itens sinalizados:** 456
 
 | Arquivo / Tópico | Motivo da Sinalização | Data/Hora |
 |---|---|---|
@@ -433,3 +433,34 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 | `roadmaps/computer-science/content/suffix-arrays@Ld1TUNS8713coMNvwhNIJ.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:48:41.514352 |
 | `roadmaps/computer-science/content/system-design@w-fvEiSJysywR3AOAB0ve.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:48:46.460449 |
 | `roadmaps/computer-science/content/tail-recursion@0_qNhprnXU3i8koW3XTdD.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:48:49.746238 |
+| `roadmaps/cpp/content/access-violations@y4-P4UNC--rE1vni8HdTn.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:50:05.912146 |
+| `roadmaps/cpp/content/algorithms@whyj6Z4RXFsVQYRfYYn7B.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:50:08.425868 |
+| `roadmaps/cpp/content/argument-dependent-lookup-adl@YSWN7nS8vA9nMldSUrZRT.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:50:12.483174 |
+| `roadmaps/cpp/content/bitwise-operators@zE4iPSq2KsrDSByQ0sGK_.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:50:41.386242 |
+| `roadmaps/cpp/content/boost@1d7h5P1Q0RVHryKPVogQy.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:50:44.427783 |
+| `roadmaps/cpp/content/build-systems@jVXFCo6puMxJ_ifn_uwim.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:50:47.980803 |
+| `roadmaps/cpp/content/c-0x@PPg0V5EzGBeJsysg1215V.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:51:04.186608 |
+| `roadmaps/cpp/content/c-11--14@T6rCTv9Dxkm-tEA-l9XEv.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:51:07.867542 |
+| `roadmaps/cpp/content/c-17@R2-qWGUxsTOeSHRuUzhd2.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:51:11.479044 |
+| `roadmaps/cpp/content/c-20@o3no4a5_iMFzEAGs56-BJ.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:51:26.520223 |
+| `roadmaps/cpp/content/c-23@sxbbKtg7kMNbkx7fXhjR9.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:51:31.843412 |
+| `roadmaps/cpp/content/c-vs-c@2Ag0t3LPryTF8khHLRfy-.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:51:35.248605 |
+| `roadmaps/cpp/content/control-flow--statements@s5Gs4yF9TPh-psYmtPzks.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:52:37.634144 |
+| `roadmaps/cpp/content/copy-and-swap@lxAzI42jQdaofzQ5MXebG.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:52:41.430377 |
+| `roadmaps/cpp/content/copy-on-write@O2Du5gHHxFxAI2u5uO8wu.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:52:44.178751 |
+| `roadmaps/cpp/content/iostream@VeVxZ230xkesQsIDig8zQ.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:54:51.688565 |
+| `roadmaps/cpp/content/iterators@Ebu8gzbyyXEeJryeE0SpG.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:54:55.599561 |
+| `roadmaps/cpp/content/lambdas@xjiFBVe-VGqCqWfkPVGKf.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:54:59.799526 |
+| `roadmaps/cpp/content/language-concepts@-6fwJQOfsorgHkoQGp4T3.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:55:15.942766 |
+| `roadmaps/cpp/content/library-inclusion@5mNqH_AEiLxUmgurNW1Fq.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:55:19.575379 |
+| `roadmaps/cpp/content/licensing@sLVs95EOeHZldoKY0L_dH.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:55:22.941231 |
+| `roadmaps/cpp/content/makefile@t6rZLH7l8JQm99ax_fEJ9.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:55:49.260685 |
+| `roadmaps/cpp/content/memory-leakage@6w0WExQ4lGIGgok6Thq0s.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:55:51.396651 |
+| `roadmaps/cpp/content/memory-model@mSFwsTYvmg-GwG4_DEIEf.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:55:54.890798 |
+| `roadmaps/cpp/content/opencl@GGZJaYpRENaqloJzt0VtY.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:56:51.192210 |
+| `roadmaps/cpp/content/opencv@Eq3TKSFJ2F2mrTHAaU2J4.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:56:54.310685 |
+| `roadmaps/cpp/content/operator-overloading@llCBeut_uc9IAe2oi4KZ9.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:56:57.233376 |
+| `roadmaps/cpp/content/raw-pointers@uEGEmbxegATIrvGfobJb9.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:57:58.034432 |
+| `roadmaps/cpp/content/references@uUzRKa9wGzdUwwmAg3FWr.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:58:02.028805 |
+| `roadmaps/cpp/content/reinterpret_cast@ZMyFDJrpCauGrY5NZkOwg.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:58:04.940190 |
+| `roadmaps/cpp/content/working-with-libraries@4kkX5g_-plX9zVqr0ZoiR.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T04:00:27.331071 |

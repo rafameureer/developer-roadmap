@@ -1,9 +1,9 @@
-# C++ Templates
+# Templates em C++
 
-C++ Templates provide a way to write generic code by allowing functions and classes to operate with different data types without being rewritten for each type. This is achieved by using type parameters or placeholders that are later replaced with actual data types when the template is instantiated, promoting code reuse and flexibility. Templates can be specialized to provide custom behavior for specific data types.
+Os Templates em C++ oferecem uma maneira de escrever código genérico permitindo que funções e classes operem com diferentes tipos de dados sem precisar ser reescrita para cada tipo. Isso é feito usando parâmetros ou placeholders que são substituídos por tipos de dados reais quando o template é instanciado, promovendo a reutilização do código e flexibilidade. Os templates podem ser especializados para fornecer comportamento personalizado para tipos de dados específicos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Templates](https://en.cppreference.com/w/cpp/language/templates.html)
-- [@article@C++ Templates](https://www.w3schools.com/cpp/cpp_templates.asp)
-- [@video@Templates in C++](https://www.youtube.com/watch?v=I-hZkUa9mIs)
+- [@artigo@Templates](https://en.cppreference.com/w/cpp/language/templates.html)
+- [@artigo@Templates em C++](https://www.w3schools.com/cpp/cpp_templates.asp)
+- [@vídeo@Templates em C++](https://www.youtube.com/watch?v=I-hZkUa9mIs)

@@ -1,3 +1,3 @@
-# Installing C++
+# Instalação do C++
 
-To use C++, you need to set up the necessary tools on your system to compile and run C++ code. This typically includes a compiler (like GCC or Clang), a build system (like Make or CMake), and an Integrated Development Environment (IDE) or text editor for writing code. The specific steps vary depending on your operating system (Windows, macOS, or Linux).
+Para usar o C++, você precisa configurar as ferramentas necessárias em seu sistema para compilar e executar código C++. Isso geralmente inclui um compilador (como GCC ou Clang), um sistema de construção (como Make ou CMake) e um Ambiente de Desenvolvimento Integrado (IDE) ou editor de texto para escrever o código. Os passos específicos variam dependendo do seu sistema operacional (Windows, macOS ou Linux).

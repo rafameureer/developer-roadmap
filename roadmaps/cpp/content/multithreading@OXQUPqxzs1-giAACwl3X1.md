@@ -1,7 +1,7 @@
 # Multithreading
 
-Multithreading allows concurrent execution of multiple threads within a single process, enhancing application performance by enabling parallel task execution. C++ provides multithreading support through the `<thread>` library (introduced in C++11), enabling thread creation, argument passing, and synchronization mechanisms like mutexes and locks to manage shared resource access and prevent data races. This introduction covers basic thread creation, passing arguments to threads, and using mutexes for thread synchronization; more advanced topics such as thread pools, condition variables, and atomic operations, exist for advanced synchronization and performance tuning.
+Multithreading permite a execução concorrente de várias threads dentro de um único processo, melhorando o desempenho da aplicação ao permitir a execução paralela de tarefas. O C++ oferece suporte a multithreading através da biblioteca `<thread>` (introduzida no C++11), permitindo a criação de threads, passagem de argumentos e mecanismos de sincronização como mutexes e locks para gerenciar o acesso a recursos compartilhados e prevenir corridas de dados. Esta introdução cobre a criação básica de threads, passagem de argumentos para threads e uso de mutexes para sincronização de threads; tópicos avançados como pools de threads, variáveis de condição e operações atômicas existem para sincronização avançada e otimização de desempenho.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@Build your first multithreaded application - Introduction to multithreading in modern C++](https://www.youtube.com/watch?v=xPqnoB2hjjA)
+- [@vídeo@Construa sua primeira aplicação multithread - Introdução à multithreading em C++ moderno](https://www.youtube.com/watch?v=xPqnoB2hjjA)

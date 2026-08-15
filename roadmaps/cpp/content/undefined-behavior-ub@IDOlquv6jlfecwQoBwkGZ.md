@@ -1,7 +1,7 @@
-# Undefined Behavior (UB)
+# Comportamento Indefinido (UB)
 
-Undefined behavior in C++ arises when a program violates the rules defined by the C++ standard, leading to unpredictable and unspecified outcomes. This can stem from actions such as accessing uninitialized variables, dereferencing null pointers, performing out-of-bounds memory access, or dividing by zero. The compiler is free to interpret such situations in any manner, potentially resulting in crashes, incorrect results, or even security vulnerabilities, making its avoidance a critical aspect of writing robust and reliable C++ code.
+O comportamento indefinido em C++ ocorre quando um programa viola as regras definidas pelo padrão C++, resultando em resultados imprevisíveis e não especificados. Isso pode decorrer de ações como acessar variáveis não inicializadas, desreferenciar ponteiros nulos, realizar acesso à memória fora dos limites ou dividir por zero. O compilador é livre para interpretar tais situações de qualquer maneira, potencialmente resultando em falhas, resultados incorretos ou até mesmo vulnerabilidades de segurança, tornando sua evitação um aspecto crítico da escrita de código C++ robusto e confiável.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Undefined Behavior (UB)](https://en.cppreference.com/w/cpp/language/ub.html)
+- [@artigo@Comportamento Indefinido (UB)](https://en.cppreference.com/w/cpp/language/ub.html)

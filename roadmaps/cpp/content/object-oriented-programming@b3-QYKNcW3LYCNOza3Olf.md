@@ -1,8 +1,8 @@
-# Object-Oriented Programming (OOP)
+# Programação Orientada a Objetos (OOP)
 
-Object-oriented programming is a style of programming centered around "objects," which combine data (attributes) and functions (methods) that operate on that data. OOP enables you to create modular, reusable, and maintainable code by organizing your programs around these objects and their interactions. Key concepts in OOP include classes (blueprints for objects), encapsulation (bundling data and methods), inheritance (creating new classes from existing ones), and polymorphism (using a single interface for different types).
+A programação orientada a objetos é um estilo de programação centrado em "objetos", que combinam dados (atributos) e funções (métodos) que operam nesses dados. OOP permite criar código modular, reutilizável e manterável organizando seus programas em torno desses objetos e suas interações. Conceitos-chave na OOP incluem classes (modelos para objetos), encapsulamento (empacotar dados e métodos), herança (criar novas classes a partir de existentes) e polimorfismo (usar uma única interface para diferentes tipos).
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@C++ OOP](https://www.w3schools.com/cpp/cpp_oop.asp)
-- [@video@Object Oriented Programming (OOP) in C++ Course](https://www.youtube.com/watch?v=wN0x9eZLix4)
+- [@artigo@C++ OOP](https://www.w3schools.com/cpp/cpp_oop.asp)
+- [@vídeo@Curso de Programação Orientada a Objetos (OOP) em C++](https://www.youtube.com/watch?v=wN0x9eZLix4)

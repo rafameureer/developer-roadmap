@@ -1,3 +1,3 @@
-# Debuggers
+# Depuradores
 
-Debuggers are indispensable tools in C++ development, enabling developers to identify, analyze, and resolve defects within their code. These tools allow you to step through your code, inspect variables, and understand the program's execution flow, ultimately leading to more robust and reliable software. Several options are available, including GDB (GNU Debugger), LLDB, Microsoft Visual Studio Debugger, Intel Debugger (IDB), and TotalView Debugger, each offering unique features and catering to different development environments and application types.
+Depuradores são ferramentas indispensáveis no desenvolvimento em C++, permitindo aos desenvolvedores identificar, analisar e resolver defeitos em seu código. Essas ferramentas permitem que você passe por seu código, inspecione variáveis e entenda o fluxo de execução do programa, levando a um software mais robusto e confiável. Várias opções estão disponíveis, incluindo GDB (GNU Debugger), LLDB, Microsoft Visual Studio Debugger, Intel Debugger (IDB) e TotalView Debugger, cada uma oferecendo recursos únicos e adaptada a diferentes ambientes de desenvolvimento e tipos de aplicativos.

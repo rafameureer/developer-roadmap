@@ -1,8 +1,8 @@
-# Name Mangling
+# Mangling de Nomes
 
-Name mangling, also known as name decoration, is a technique compilers use to encode extra information like scope, type, and linkage into identifier names (like function and variable names). This allows C++ to support function overloading, where multiple functions can share the same name but have different parameters. The compiler generates a mangled name based on these details, though the exact mangling rules vary between compilers and platforms. Tools like `c++filt` can demangle these names back to their original form, which is useful for debugging. While you usually don't need to understand the details of name mangling, it can be important when working with external libraries or linking object files from different compilers.
+O mangling de nomes, também conhecido como decoração de nome, é uma técnica usada pelos compiladores para codificar informações extras como escopo, tipo e vinculação em nomes de identificadores (como nomes de funções e variáveis). Isso permite que o C++ suporte sobrecarga de função, onde várias funções podem compartilhar o mesmo nome mas terem parâmetros diferentes. O compilador gera um nome mangulado com base nessas detalhes, embora as regras exatas de mangling varie entre compiladores e plataformas. Ferramentas como `c++filt` podem desmangar esses nomes de volta para sua forma original, o que é útil para depuração. Embora você geralmente não precise entender os detalhes do mangling de nomes, ele pode ser importante quando trabalhar com bibliotecas externas ou vincular arquivos objeto de diferentes compiladores.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@C++ Name Mangling](https://medium.com/@abhishek.ec/c-name-mangling-ce3d0fedf88d)
-- [@video@Name Mangling In C++](https://www.youtube.com/watch?v=FUIle4Ghasw)
+- [@artigo@Mangling de Nomes em C++](https://medium.com/@abhishek.ec/c-name-mangling-ce3d0fedf88d)
+- [@vídeo@Mangling de Nomes em C++](https://www.youtube.com/watch?v=FUIle4Ghasw)

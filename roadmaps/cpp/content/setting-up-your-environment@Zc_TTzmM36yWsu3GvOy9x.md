@@ -1,8 +1,8 @@
-# Setting up your Environment
+# Configurando seu Ambiente
 
-Setting up your environment in C++ involves configuring your computer with the necessary tools and software to write, compile, and run C++ programs. This typically includes installing a C++ compiler (like GCC or Clang), an integrated development environment (IDE) or text editor, and potentially a build system for managing larger projects. Proper setup is key to a smooth and efficient development workflow.
+Configurar seu ambiente em C++ envolve configurar o computador com as ferramentas e software necessários para escrever, compilar e executar programas em C++. Isso geralmente inclui a instalação de um compilador de C++ (como GCC ou Clang), um ambiente de desenvolvimento integrado (IDE) ou editor de texto, e possivelmente um sistema de construção para gerenciar projetos maiores. A configuração adequada é crucial para um fluxo de trabalho de desenvolvimento suave e eficiente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@C++ Getting Started](https://www.w3schools.com/cpp/cpp_getstarted.asp)
-- [@video@How to set up C++ in Visual Studio Code](https://www.youtube.com/watch?v=DMWD7wfhgNY)
+- [@artigo@Introdução ao C++](https://www.w3schools.com/cpp/cpp_getstarted.asp)
+- [@vídeo@Como configurar o C++ no Visual Studio Code](https://www.youtube.com/watch?v=DMWD7wfhgNY)

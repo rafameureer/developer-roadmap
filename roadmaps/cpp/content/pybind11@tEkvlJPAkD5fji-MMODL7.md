@@ -1,8 +1,8 @@
 # pybind11
 
-pybind11 is a lightweight header-only library that allows you to create Python bindings for your existing C++ code. It essentially lets you expose C++ functions, classes, and data structures to Python, enabling seamless interoperability between the two languages. This allows you to leverage the performance of C++ while utilizing the flexibility and ease of use of Python.
+pybind11 é uma biblioteca de cabeçalho leve que permite criar ligações Python para seu código C++ existente. Ela essencialmente permite expor funções, classes e estruturas de dados do C++ ao Python, habilitando a interoperabilidade suave entre as duas linguagens. Isso permite que você aproveite o desempenho do C++ enquanto utiliza a flexibilidade e facilidade de uso do Python.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@opensource@pybind11](https://github.com/pybind/pybind11)
-- [@article@Pybind11 Tutorial: Binding C++ Code to Python](https://medium.com/@ahmedfgad/pybind11-tutorial-binding-c-code-to-python-337da23685dc)
+- [@article@Tutorial do pybind11: Ligando Código C++ ao Python](https://medium.com/@ahmedfgad/pybind11-tutorial-binding-c-code-to-python-337da23685dc)

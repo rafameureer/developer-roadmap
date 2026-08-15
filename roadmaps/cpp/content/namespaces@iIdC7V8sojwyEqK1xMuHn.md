@@ -1,8 +1,8 @@
 # Namespaces
 
-Namespaces in C++ provide a way to organize code into logical groups, preventing naming conflicts when using code from different libraries or parts of a large project. They act as containers for variables, functions, classes, and even other namespaces. You can access elements within a namespace using the scope resolution operator `::`, nest namespaces for further organization, and selectively import elements or entire namespaces into the current scope using the `using` keyword to simplify code while being mindful of potential name collisions.
+Os namespaces em C++ fornecem uma maneira de organizar o código em grupos lógicos, evitando conflitos de nomeação ao usar código de diferentes bibliotecas ou partes de um projeto grande. Eles atuam como contêineres para variáveis, funções, classes e até mesmo outros namespaces. Você pode acessar elementos dentro de um namespace usando o operador de resolução de escopo `::`, aninhar namespaces para uma organização mais detalhada e importar elementos ou namespaces inteiros selecionadamente no escopo atual usando a palavra-chave `using` para simplificar o código, sendo consciente de possíveis colisões de nome.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Namespaces](https://learn.microsoft.com/en-us/cpp/cpp/namespaces-cpp?view=msvc-170)
-- [@video@What are C++ namespaces? 📛](https://www.youtube.com/watch?v=2lcIKzFHjSM)
+- [@artigo@Namespaces](https://learn.microsoft.com/en-us/cpp/cpp/namespaces-cpp?view=msvc-170)
+- [@vídeo@O que são namespaces em C++ 📛](https://www.youtube.com/watch?v=2lcIKzFHjSM)

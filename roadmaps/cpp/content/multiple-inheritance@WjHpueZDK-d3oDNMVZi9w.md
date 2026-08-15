@@ -1,8 +1,8 @@
-# Multiple Inheritance
+# Herança Múltipla
 
-Multiple inheritance in C++ allows a class to inherit from multiple base classes, combining their properties and behaviors into a single derived class. This means a class can inherit data members and member functions from several parent classes, offering a way to create more complex and specialized classes. However, it's essential to use multiple inheritance carefully, as it can introduce complexities like ambiguity and the diamond problem, requiring a good understanding of class hierarchies and potential conflict resolution.
+A herança múltipla em C++ permite que uma classe herde de várias classes base, combinando suas propriedades e comportamentos em uma única classe derivada. Isso significa que uma classe pode herdar membros de dados e funções-membro de várias classes pai, oferecendo uma maneira de criar classes mais complexas e especializadas. No entanto, é essencial usar a herança múltipla com cuidado, pois ela pode introduzir complexidades como ambiguidade e o problema do diamante, exigindo um bom entendimento das hierarquias de classe e resolução potencial de conflitos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Multiple Inheritance](https://www.w3schools.com/cpp/cpp_inheritance_multiple.asp)
-- [@video@Multiple Inheritance Deep Dive | C++ Tutorial](https://www.youtube.com/watch?v=sswTE0u0r7g)
+- [@artigo@Herança Múltipla](https://www.w3schools.com/cpp/cpp_inheritance_multiple.asp)
+- [@vídeo@Profundidade na Herança Múltipla | Tutorial em C++](https://www.youtube.com/watch?v=sswTE0u0r7g)

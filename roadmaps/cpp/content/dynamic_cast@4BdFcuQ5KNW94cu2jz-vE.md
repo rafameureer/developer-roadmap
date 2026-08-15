@@ -1,3 +1,3 @@
-# Dynamic Cast
+# Cast Dinâmico
 
-`dynamic_cast` is a C++ casting operator primarily used within polymorphic class hierarchies to safely convert pointers or references from a base class to a derived class. Unlike static casts, it performs a runtime check to ensure the validity of the conversion. If the object being cast is not actually an instance of the target derived class, `dynamic_cast` returns a null pointer (for pointer casts) or throws a `std::bad_cast` exception (for reference casts), preventing undefined behavior and enabling safer downcasting.
+`dynamic_cast` é um operador de casting do C++ principalmente usado em hierarquias de classes polimórficas para converter seguramente ponteiros ou referências de uma classe base para uma classe derivada. Diferentemente dos casts estáticos, ele realiza uma verificação em tempo de execução para garantir a validade da conversão. Se o objeto sendo convertido não for na verdade uma instância da classe derivada alvo, `dynamic_cast` retorna um ponteiro nulo (para cast de ponteiros) ou lança uma exceção `std::bad_cast` (para casts de referências), previnindo comportamento indefinido e permitindo descer com segurança.

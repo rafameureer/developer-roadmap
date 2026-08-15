@@ -1,7 +1,7 @@
-# Logical Operators
+# Operadores Lógicos
 
-Logical operators in C++ allow you to combine or modify boolean expressions, resulting in a final boolean value of either true (1) or false (0). These operators are crucial for controlling the flow of your program based on multiple conditions. C++ provides three main logical operators: AND (`&&`), which returns true only if both operands are true; OR (`||`), which returns true if at least one operand is true; and NOT (`!`), which reverses the boolean value of its operand. They enable you to create complex conditional statements.
+Os operadores lógicos em C++ permitem combinar ou modificar expressões booleanas, resultando em um valor booleano final de verdadeiro (1) ou falso (0). Esses operadores são cruciais para controlar o fluxo do seu programa com base em múltiplas condições. O C++ fornece três principais operadores lógicos: E (`&&`), que retorna verdadeiro apenas se ambos os operandos forem verdadeiros; OU (`||`), que retorna verdadeiro se pelo menos um dos operandos for verdadeiro; e NÃO (`!`), que inverte o valor booleano de seu operando. Eles permitem criar declarações condicionais complexas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Logical Operators](https://www.w3schools.com/cpp/cpp_operators_logical.asp)
+- [@artigo@Operadores Lógicos](https://www.w3schools.com/cpp/cpp_operators_logical.asp)

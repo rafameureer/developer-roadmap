@@ -1,7 +1,7 @@
 # GDB: GNU Debugger
 
-GDB, the GNU Project Debugger, is a command-line tool essential for debugging C and C++ programs. It allows developers to examine a program's execution, set breakpoints, step through code, inspect variables, and analyze call stacks to identify and fix bugs. By using GDB, developers gain deep insight into the runtime behavior of their programs, making it an indispensable part of the C++ development workflow.
+GDB, o Debugger do Projeto GNU, é uma ferramenta de linha de comando essencial para depurar programas em C e C++. Ele permite aos desenvolvedores examinar a execução de um programa, definir pontos de interrupção, passar por código, inspecionar variáveis e analisar pilhas de chamadas para identificar e corrigir bugs. Ao usar GDB, os desenvolvedores ganham uma visão profunda do comportamento em tempo de execução dos seus programas, tornando-o um elemento indispensável do fluxo de trabalho de desenvolvimento C++.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@GDB is REALLY easy! Find Bugs in Your Code with Only A Few Commands](https://www.youtube.com/watch?v=Dq8l1_-QgAc)
+- [@vídeo@GDB é realmente fácil! Encontre bugs no seu código com apenas alguns comandos](https://www.youtube.com/watch?v=Dq8l1_-QgAc)

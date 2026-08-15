@@ -1,3 +1,3 @@
-# Compilers
+# Compiladores
 
-A compiler is a program that translates source code from one programming language into another, often machine code, enabling a computer to execute the instructions. In C++, compilers take your human-readable code and convert it into an executable program. Popular options include GCC, Clang, MSVC, and ICC, each with its own strengths in terms of platform support, optimization, and diagnostics. Compilers work with linkers and standard libraries to produce the final executable, combining compiled code and providing common functionalities.
+Um compilador é um programa que traduz o código-fonte de uma linguagem de programação para outra, geralmente código máquina, permitindo que uma computadora execute as instruções. Em C++, os compiladores recebem seu código legível por humanos e o convertem em um programa executável. Opções populares incluem GCC, Clang, MSVC e ICC, cada uma com suas próprias forças em termos de suporte à plataforma, otimização e diagnósticos. Os compiladores trabalham com vinculadores e bibliotecas padrão para produzir o programa executável final, combinando código compilado e fornecendo funcionalidades comuns.

@@ -1,3 +1,3 @@
-# Type Traits
+# Traits de Tipo
 
-Type traits in C++ are a powerful set of tools, implemented as template classes, found in the `<type_traits>` header. They provide a mechanism to inspect and query the properties of types at compile time, such as whether a type is a pointer, arithmetic type, or function. This allows you to write generic code that adapts its behavior based on the characteristics of the types it's working with, enabling compile-time branching and more robust template metaprogramming.
+Os traits de tipo em C++ são uma poderosa coleção de ferramentas, implementadas como classes de modelo, encontradas no cabeçalho `<type_traits>`. Eles fornecem um mecanismo para inspecionar e consultar as propriedades dos tipos em tempo de compilação, como se um tipo é um ponteiro, um tipo aritmético ou uma função. Isso permite que você escreva código genérico que adapta seu comportamento com base nas características dos tipos com os quais está trabalhando, habilitando a ramificação em tempo de compilação e metaprogramação de modelos mais robustos.

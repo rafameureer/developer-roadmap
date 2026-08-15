@@ -1,8 +1,8 @@
 # CMake
 
-CMake is a cross-platform build system generator. It uses configuration files (CMakeLists.txt) to describe the build process and generates native build files like Makefiles or project files for IDEs like Visual Studio. CMake simplifies the build process, especially for complex projects, by abstracting the underlying build tools and providing a consistent interface across different platforms and compilers. It manages dependencies, specifies compiler flags, and handles the overall structure of your project's build process without actually building the project itself.
+CMake é um gerador de sistema de construção cross-platform. Ele usa arquivos de configuração (CMakeLists.txt) para descrever o processo de construção e gera arquivos de construção nativos como Makefiles ou arquivos de projeto para IDEs como Visual Studio. O CMake simplifica o processo de construção, especialmente para projetos complexos, abstraindo as ferramentas de construção subjacentes e fornecendo uma interface consistente em diferentes plataformas e compiladores. Ele gerencia dependências, especifica flags do compilador e lida com a estrutura geral do processo de construção do seu projeto sem realmente construir o projeto.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@CMAKE Tutorial](https://cmake.org/cmake/help/latest/guide/tutorial/index.html)
-- [@video@CMake, How it Works (At Three Different Levels)](https://www.youtube.com/watch?v=SDX0oYqdv_g)
+- [@artigo@Tutorial do CMAKE](https://cmake.org/cmake/help/latest/guide/tutorial/index.html)
+- [@vídeo@CMake, Como Funciona (Em Três Níveis Diferentes)](https://www.youtube.com/watch?v=SDX0oYqdv_g)

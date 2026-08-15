@@ -1,8 +1,8 @@
-# Static Typing
+# Tipagem Estática
 
-Static typing, as implemented in C++, is a system where the data type of a variable is known and checked at compile time, before the program runs. This means each variable is declared with a specific type (like `int`, `double`, or `char`), and the compiler enforces that only values of that type are assigned to it. While C++ allows for type conversion, attempting to assign an incompatible type will result in either an implicit conversion (if possible) or a compilation error, ensuring type safety and helping catch errors early in the development process.
+A tipagem estática, como implementada em C++, é um sistema onde o tipo de dados de uma variável é conhecido e verificado em tempo de compilação, antes do programa ser executado. Isso significa que cada variável é declarada com um tipo específico (como `int`, `double` ou `char`), e o compilador impõe que apenas valores desse tipo sejam atribuídos a ela. Embora C++ permita conversão de tipos, tentar atribuir um tipo incompatível resultará em uma conversão implícita (se possível) ou em um erro de compilação, garantindo segurança de tipos e ajudando a capturar erros cedo no processo de desenvolvimento.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Type-Coversion](https://www.programiz.com/cpp-programming/type-conversion)
-- [@article@Static Vs Dynamic](https://www.techtarget.com/searchapparchitecture/tip/Static-vs-dynamic-typing-The-details-and-differences)
+- [@artigo@Conversão de Tipos](https://www.programiz.com/cpp-programming/type-conversion)
+- [@artigo@Tipagem Estática vs Dinâmica](https://www.techtarget.com/searchapparchitecture/tip/Static-vs-dynamic-typing-The-details-and-differences)

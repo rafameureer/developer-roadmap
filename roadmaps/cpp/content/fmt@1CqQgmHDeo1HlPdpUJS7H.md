@@ -1,8 +1,8 @@
 # fmt
 
-`fmt` is a modern formatting library for C++. It provides a simple and efficient way to format text, similar to Python's `str.format()` or C#'s `string.Format()`. It offers compile-time checks for format string correctness and generally results in faster and safer string formatting compared to traditional methods like `printf`.
+`fmt` é uma biblioteca de formatação moderna para C++. Ela oferece um modo simples e eficiente de formatar texto, similar ao `str.format()` do Python ou à `string.Format()` do C#. Oferece verificações em tempo de compilação para a corretude da string de formato e geralmente resulta em formatação de strings mais rápida e segura em comparação com métodos tradicionais como `printf`.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@fmt](https://fmt.dev/12.0/)
+- [@oficial@fmt](https://fmt.dev/12.0/)
 - [@opensource@fmt](https://github.com/fmtlib/fmt)

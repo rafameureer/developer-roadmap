@@ -1,7 +1,7 @@
 # Qt
 
-Qt is a cross-platform application development framework widely used for creating graphical user interfaces (GUIs) and applications that run on various operating systems, such as Windows, macOS, Linux, and embedded systems. It provides a set of tools and libraries that simplify the development process, offering features like widgets, networking, database access, and multimedia support. Qt uses C++ as its primary programming language, extending it with its own meta-object compiler (moc) and signal/slot mechanism for event handling.
+Qt é um framework de desenvolvimento de aplicativos multiplataforma amplamente utilizado para criar interfaces gráficas do usuário (GUIs) e aplicações que funcionam em vários sistemas operacionais, como Windows, macOS, Linux e sistemas embarcados. Ele fornece um conjunto de ferramentas e bibliotecas que simplificam o processo de desenvolvimento, oferecendo recursos como widgets, rede, acesso a banco de dados e suporte a mídia.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Qt for Beginners](https://wiki.qt.io/Qt_for_Beginners)
+- [@official@Qt para iniciantes](https://wiki.qt.io/Qt_for_Beginners)

@@ -1,7 +1,7 @@
-# Arithmetic Operators
+# Operadores Aritméticos
 
-Arithmetic operators are fundamental building blocks in C++ programming, allowing you to perform mathematical calculations directly within your code. These operators work on numeric data types such as integers and floating-point numbers, enabling addition (+), subtraction (-), multiplication (\*), division (/), and modulus (%) operations. Furthermore, increment (++) and decrement (--) operators provide concise ways to increase or decrease variable values by one.
+Os operadores aritméticos são blocos de construção fundamentais em programação C++, permitindo que você execute cálculos matemáticos diretamente dentro do seu código. Esses operadores funcionam com tipos de dados numéricos como inteiros e números de ponto flutuante, habilitando operações de adição (+), subtração (-), multiplicação (\*), divisão (/) e módulo (%) . Além disso, os operadores de incremento (++) e decremento (--) fornecem maneiras concisas de aumentar ou diminuir valores de variáveis em um.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Arithmetic Operators](https://www.w3schools.com/cpp/cpp_operators_arithmetic.asp)
+- [@article@Operadores Aritméticos](https://www.w3schools.com/cpp/cpp_operators_arithmetic.asp)

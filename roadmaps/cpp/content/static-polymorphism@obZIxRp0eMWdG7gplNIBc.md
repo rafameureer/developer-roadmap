@@ -1,8 +1,8 @@
-# Static Polymorphism
+# Polimorfismo Estático
 
-Static polymorphism, also known as compile-time polymorphism, enables the execution of different code depending on the type of data it's handling, but this determination happens at compile time. In C++, static polymorphism is primarily achieved through function overloading, which allows defining multiple functions with the same name but different parameter lists, and templates, which facilitate writing generic functions and classes that operate on various data types without runtime overhead.
+O polimorfismo estático, também conhecido como polimorfismo de tempo de compilação, permite a execução de diferentes códigos dependendo do tipo de dados que ele está manipulando, mas essa determinação ocorre em tempo de compilação. No C++, o polimorfismo estático é principalmente alcançado através da sobrecarga de funções, que permite definir várias funções com o mesmo nome mas listas de parâmetros diferentes, e templates, que facilitam a escrita de funções e classes genéricas que operam em vários tipos de dados sem sobreposição de tempo de execução.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Static Polymorphism in C++](https://medium.com/@kateolenya/static-polymorphism-in-c-9e1ae27a945b)
-- [@video@Advanced C++: Static Polymorphism](https://www.youtube.com/watch?v=-WV9vWjhI3g)
+- [@artigo@Polimorfismo Estático em C++](https://medium.com/@kateolenya/static-polymorphism-in-c-9e1ae27a945b)
+- [@vídeo@Avançado em C++: Polimorfismo Estático](https://www.youtube.com/watch?v=-WV9vWjhI3g)

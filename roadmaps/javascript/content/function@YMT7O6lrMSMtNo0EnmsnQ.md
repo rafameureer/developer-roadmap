@@ -1,7 +1,7 @@
-# Function
+# Função
  
-Function scope means a variable declared inside a function is only accessible within that function. Variables declared with `var` are function-scoped. Each function call creates a new scope, so variables inside a function do not conflict with variables of the same name in other functions.
+O escopo de função significa que uma variável declarada dentro de uma função é acessível apenas dentro dessa função. Variáveis declaradas com `var` são de escopo de função. Cada chamada de função cria um novo escopo, então as variáveis dentro de uma função não conflitam com as variáveis do mesmo nome em outras funções.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Function Scope & Block Scope in JS](https://medium.com/nerd-for-tech/function-scope-block-scope-in-js-d29c8e7cd216)
+- [@artigo@Escopo de Função e Escopo de Bloco em JS](https://medium.com/nerd-for-tech/function-scope-block-scope-in-js-d29c8e7cd216)

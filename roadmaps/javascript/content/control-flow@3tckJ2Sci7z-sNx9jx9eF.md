@@ -1,7 +1,7 @@
-# Control Flow
- 
-Control flow refers to the order in which statements are executed in a program. JavaScript provides conditional statements (`if...else`, `switch`) to branch logic, and exception handling (`try/catch/finally`, `throw`) to manage errors. Writing clear control flow makes code easier to follow and debug.
+# Controle de Fluxo
 
-Visit the following resources to learn more:
+O controle de fluxo refere-se à ordem em que as instruções são executadas em um programa. JavaScript fornece instruções condicionais (`if...else`, `switch`) para ramificar a lógica e o tratamento de erros (`try/catch/finally`, `throw`). Escrever controle de fluxo claro torna o código mais fácil de seguir e depurar.
 
-- [@article@Control Flow - MDN](https://developer.mozilla.org/en-US/docs/Glossary/Control_flow)
+Acesse os seguintes recursos para saber mais:
+
+- [@artigo@Controle de Fluxo - MDN](https://developer.mozilla.org/pt-BR/Glossário/Controle_flow)

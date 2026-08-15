@@ -1,7 +1,7 @@
-# Debugging performance
+# Depuração de desempenho
 
-Enter the dev tools and check out the Lighthouse tab. This is essentially a series of tests that analyses the currently open website on a bunch of metrics related to performance, page speed, accessibility, etc. Feel free to run the tests by clicking the **Analyze Page Load** button (you might want to do this in an incognito tab to avoid errors arising from extensions you're using). Once you have the results, take your time and read through them (and do click through to the reference pages mentioned alongside each test result to know more about it!)
+Entre nos ferramentas de desenvolvedor e verifique a guia Lighthouse. Isso é essencialmente uma série de testes que analisam o site atualmente aberto em vários métricos relacionados ao desempenho, velocidade da página, acessibilidade, etc. Sinta-se à vontade para executar os testes clicando no botão **Analisar Carregamento da Página** (você pode querer fazer isso em uma aba em modo incôgnito para evitar erros decorrentes de extensões que você está usando). Uma vez que tiver os resultados, leia-os com calma e pesquise sobre eles (e clique nas páginas de referência mencionadas ao lado de cada resultado de teste para saber mais!)
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para aprender mais:
 
-- [@article@Analyze runtime performance](https://developer.chrome.com/docs/devtools/performance)
+- [@article@Análise de desempenho em tempo de execução](https://developer.chrome.com/docs/devtools/performance)

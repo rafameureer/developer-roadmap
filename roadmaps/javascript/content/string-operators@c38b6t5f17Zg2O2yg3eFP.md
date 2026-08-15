@@ -1,8 +1,8 @@
-# String Operators
+# Operadores de String
 
-In addition to the comparison operators, which can be used on string values, the concatenation operator (`+`) concatenates two string values together, returning another string that is the union of the two operand strings. The shorthand assignment operator `+=` can also be used to concatenate strings.
+Além dos operadores de comparação, que podem ser usados em valores de string, o operador de concatenação (`+`) concatena duas strings juntas, retornando outra string que é a união das duas strings operandas. O operador de atribuição curta `+=` também pode ser usado para concatenar strings.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@JavaScript MDN Tutorials](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#string_operators)
-- [@article@String Concatenation - JavaScript.info](https://javascript.info/operators#string-concatenation-with-binary)
+- [@artigo@Tutoriais do MDN em JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Expressions_and_Operators#operadores_de_string)
+- [@artigo@Concatenação de String - JavaScript.info](https://javascript.info/operators#concatenacao-de-string-binaria)

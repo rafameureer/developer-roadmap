@@ -1,8 +1,8 @@
-# Exception Handling
+# Tratamento de Exceções
 
-In JavaScript, all exceptions are simply objects. While the majority of exceptions are implementations of the global Error class, any old object can be thrown. With this in mind, there are two ways to throw an exception: directly via an Error object, and through a custom object. (excerpt from Rollbar)
+No JavaScript, todas as exceções são simplesmente objetos. Embora a maioria das exceções seja uma implementação da classe global Error, qualquer objeto antigo pode ser lançado. Com isso em mente, há duas maneiras de lançar uma exceção: diretamente através de um objeto Error e através de um objeto personalizado. (excerto do Rollbar)
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Throwing Exceptions in JavaScript](https://rollbar.com/guides/javascript/how-to-throw-exceptions-in-javascript)
-- [@video@try, catch, finally, throw (video)](https://youtu.be/cFTFtuEQ-10)
+- [@artigo@Lancando Exceções no JavaScript](https://rollbar.com/guides/javascript/how-to-throw-exceptions-in-javascript)
+- [@vídeo@try, catch, finally, throw (vídeo)](https://youtu.be/cFTFtuEQ-10)

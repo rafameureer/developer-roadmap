@@ -1,8 +1,8 @@
 # String
 
-String is a primitive type that holds a sequence of characters. String in Javascript is written within a pair of single quotation marks `''`, double quotation marks `""`, or backticks ` `` ` (template literals). All types of quotes can be used to contain a string but only if the starting quote is the same as the end quote.
+A string é um tipo primitivo que armazena uma sequência de caracteres. A string em JavaScript é escrita entre um par de aspas simples `''`, aspas duplas `""` ou crases `` ` `` (literais de template). Todos os tipos de aspas podem ser usados para conter uma string, mas apenas se a aspa inicial for a mesma que a aspa final.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@String](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
-- [@article@JavaScript Strings](https://javascript.info/string)
+- [@artigo@String](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/String)
+- [@artigo@Strings em JavaScript](https://javascript.info/string)

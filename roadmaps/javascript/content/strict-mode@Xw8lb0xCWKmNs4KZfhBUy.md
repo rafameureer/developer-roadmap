@@ -1,8 +1,8 @@
-# Strict Mode
- 
-Strict mode is an opt-in variant of JavaScript that enforces stricter parsing and error handling. It is enabled by adding `"use strict"` at the top of a file or function. Strict mode prevents the use of undeclared variables, disallows duplicate parameter names, and makes `this` undefined in functions called without a context, among other restrictions.
+# Modo Estrito
 
-Visit the following resources to learn more:
+O modo estrito é uma versão opcional do JavaScript que impõe uma análise mais rigorosa e um tratamento mais estrito dos erros. Ele é ativado adicionando `"use strict"` no topo de um arquivo ou função. O modo estrito proíbe o uso de variáveis não declaradas, desabilita nomes de parâmetros duplicados e torna `this` indefinido em funções chamadas sem contexto, entre outras restrições.
 
-- [@article@Strict mode](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode)
-- [@article@Strict mode in JavaScript](https://javascript.info/strict-mode)
+Acesse os seguintes recursos para saber mais:
+
+- [@artigo@Modo estrito](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Strict_mode)
+- [@artigo@Modo estrito no JavaScript](https://javascript.info/strict-mode)

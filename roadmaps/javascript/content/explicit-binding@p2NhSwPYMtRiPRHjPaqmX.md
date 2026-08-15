@@ -1,8 +1,8 @@
-# Explicit binding
+# Ligação Explícita
 
-Explicit binding is when you use the `call` or `apply` methods to explicitly set the value of `this` in a function. Explicit Binding can be applied using `call()`, `apply()`, and `bind()`.
+A ligação explícita ocorre quando você usa os métodos `call` ou `apply` para definir explicitamente o valor de `this` em uma função. A ligação explícita pode ser aplicada usando `call()`, `apply()` e `bind()`.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@article@Explicit Binding](https://medium.com/swlh/javascript-this-ac28f8e0f65d)
-- [@article@Explicit Binding rule for this keyword](https://medium.com/@msinha2801/explicit-binding-rule-for-this-keyword-in-js-712405b0a11)
+- [@artigo@Ligação Explícita](https://medium.com/swlh/javascript-this-ac28f8e0f65d)
+- [@artigo@Regra de Ligação Explícita para a palavra-chave this](https://medium.com/@msinha2801/explicit-binding-rule-for-this-keyword-in-js-712405b0a11)

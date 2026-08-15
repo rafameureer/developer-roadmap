@@ -1,9 +1,9 @@
-# Data Structures
+# Estruturas de Dados
 
-A Data structure is a format to organize, manage and store data in a way that allows efficient access and modification. JavaScript has primitive (built-in) and non-primitive (not built-in) data structures. Primitive data structures come by default with the programming language and you can implement them out of the box (like arrays and objects). Non-primitive data structures don't come by default and you have to code them up if you want to use them.
+Uma estrutura de dados é um formato para organizar, gerenciar e armazenar dados de uma maneira que permita o acesso e a modificação eficientes. JavaScript tem estruturas de dados primitivas (integradas) e não-primitivas (não integradas). As estruturas de dados primitivas vêm por padrão com o idioma de programação e você pode implementá-las diretamente (como arrays e objetos). As estruturas de dados não primitivas não vêm por padrão e você precisa codificá-las se quiser usá-las.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@video@Introduction to the Stack Data Structure](https://youtu.be/4F-BnR2XwqU)
-- [@video@Intro to Recursion: Anatomy of a Recursive Solution](https://youtu.be/yBWlPte6FhA)
-- [@video@Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges](https://youtu.be/oBt53YbR9Kk)
+- [@vídeo@Introdução à Estrutura de Dados Stack](https://youtu.be/4F-BnR2XwqU)
+- [@vídeo@Introdução à Recursão: Anatomia de uma Solução Recursiva](https://youtu.be/yBWlPte6FhA)
+- [@vídeo@Programação Dinâmica - Aprenda a Resolver Problemas Algorítmicos e Desafios de Codificação](https://youtu.be/oBt53YbR9Kk)

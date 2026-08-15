@@ -1,8 +1,8 @@
-# Scope & Function Stack
+# Escopo & Pilha de Funções
  
-The function stack (call stack) is the mechanism that tracks the execution of function calls. Each time a function is called, a new frame is pushed onto the stack; when it returns, the frame is popped. Scope determines which variables are accessible at each point in the call stack, and closures preserve access to variables from outer scopes.
+A pilha de funções (call stack) é o mecanismo que rastreia a execução das chamadas de função. Cada vez que uma função é chamada, um novo quadro é empurrado para a pilha; quando ela retorna, o quadro é removido. O escopo determina quais variáveis estão acessíveis em cada ponto da pilha de chamadas e as fechaduras preservam acesso às variáveis do escopo externo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Function stack (call stack) - MDN](https://developer.mozilla.org/en-US/docs/Glossary/Call_stack)
-- [@article@Kinds of Scope - MDN](https://developer.mozilla.org/en-US/docs/Glossary/Scope)
+- [@article@Pilha de funções (call stack) - MDN](https://developer.mozilla.org/pt-BR/glossario/call_stack)
+- [@article@Tipos de Escopo - MDN](https://developer.mozilla.org/pt-BR/glossario/Scope)

@@ -1,10 +1,10 @@
-# Working with APIs
+# Trabalhando com APIs
 
-When working with remote APIs, you need a way to interact with those APIs. Modern JavaScript provides two native ways to send HTTP requests to remote servers, `XMLHttpRequest` and `Fetch`.
+Quando trabalhando com APIs remotas, você precisa de uma maneira de interagir com essas APIs. O JavaScript moderno fornece duas formas nativas de enviar solicitações HTTP para servidores remotos, `XMLHttpRequest` e `Fetch`.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated API Design Roadmap](https://roadmap.sh/api-design)
-- [@article@Fetching data from the server](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Fetching_data)
-- [@article@XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest)
-- [@article@Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+- [@roadmap@Visite o Caminho Dedidado de Design de API](https://roadmap.sh/api-design)
+- [@article@Obtendo dados do servidor](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Client-side_web_APIs/Fetching_data)
+- [@article@XMLHttpRequest](https://developer.mozilla.org/pt-BR/docs/Web/API/XMLHttpRequest)
+- [@article@API Fetch](https://developer.mozilla.org/pt-BR/docs/Web/API/Fetch_API)

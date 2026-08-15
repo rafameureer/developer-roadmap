@@ -1,7 +1,7 @@
 # Global
- 
-Global scope refers to variables declared outside any function or block, making them accessible from anywhere in the program. In browsers, global variables become properties of the `window` object. Overusing global variables is discouraged because it increases the risk of naming conflicts and makes code harder to maintain.
 
-Visit the following resources to learn more:
+O escopo global refere-se a variáveis declaradas fora de qualquer função ou bloco, tornando-as acessíveis em qualquer lugar do programa. No navegador, as variáveis globais se tornam propriedades do objeto `window`. O uso excessivo de variáveis globais é desencorajado porque aumenta o risco de conflitos de nomeação e torna o código mais difícil de manter.
 
-- [@article@Scope in JavaScript – Global vs Local vs Block Scope Explained](https://www.freecodecamp.org/news/scope-in-javascript-global-vs-local-vs-block-scope/)
+Acesse os seguintes recursos para saber mais:
+
+- [@article@Escopo em JavaScript – Global vs Local vs Escopo de Bloco Explicado](https://www.freecodecamp.org/news/scope-in-javascript-global-vs-local-vs-block-scope/)

@@ -1,9 +1,9 @@
-# Built in functions
+# Funções Integradas
 
-JavaScript offers a variety of built-in functions that simplify common tasks, available globally or within specific objects without requiring explicit definition. Functions like parseInt(), setTimeout(), and Math.random() can be used directly, while objects like Array, String, and Date include built-in methods for efficient data manipulation. Understanding these functions enhances development by leveraging JavaScript’s core features without reinventing the wheel.
+O JavaScript oferece uma variedade de funções integradas que simplificam tarefas comuns, disponíveis globalmente ou dentro de objetos específicos sem a necessidade de definição explícita. Funções como `parseInt()`, `setTimeout()` e `Math.random()` podem ser usadas diretamente, enquanto objetos como `Array`, `String` e `Date` incluem métodos integrados para manipulação eficiente de dados. Entender essas funções melhora o desenvolvimento ao aproveitar as características fundamentais do JavaScript sem reinventar a roda.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@JavaScript Built-in Functions](https://www.tutorialspoint.com/javascript/javascript_builtin_functions.htm)
-- [@article@Built-in Methods in Javascript](https://dev.to/elpepebenitez/built-in-methods-in-javascript-4bll)
-- [@article@Built-in Functions:](https://www.tutorialride.com/javascript/javascript-built-in-functions.htm)
+- [@artigo@Funções Integradas em JavaScript](https://www.tutorialspoint.com/javascript/javascript_builtin_functions.htm)
+- [@artigo@Métodos Integrados em JavaScript](https://dev.to/elpepebenitez/built-in-methods-in-javascript-4bll)
+- [@artigo@Funções Integradas:](https://www.tutorialride.com/javascript/javascript-built-in-functions.htm)

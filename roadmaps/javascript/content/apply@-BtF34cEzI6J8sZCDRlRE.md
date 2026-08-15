@@ -1,7 +1,7 @@
 # apply
 
-The apply() method of Function instances calls this function with a given this value, and arguments provided as an array (or an array-like object).
+O método `apply()` das instâncias de Função chama essa função com um determinado valor `this`, e argumentos fornecidos como um array (ou um objeto semelhante a um array).
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@article@apply() - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/apply)

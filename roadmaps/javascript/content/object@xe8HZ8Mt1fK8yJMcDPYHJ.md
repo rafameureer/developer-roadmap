@@ -1,9 +1,9 @@
-# Object
+# Objeto
 
-JavaScript object is a data structure that allows us to have key-value pairs; so we can have distinct keys and each key is mapped to a value that can be of any JavaScript data type. Comparing it to a real-world object, a pen is an object with several properties such as color, design, the material it is made of, etc. In the same way, JavaScript objects can have properties that define their characteristics.
+O objeto JavaScript é uma estrutura de dados que nos permite ter pares chave-valor; assim, podemos ter chaves distintas e cada chave está mapeada para um valor que pode ser de qualquer tipo de dado do JavaScript. Comparando com um objeto real, uma caneta é um objeto com várias propriedades como cor, design, o material de que ela é feita, etc. Da mesma forma, os objetos JavaScript podem ter propriedades que definem suas características.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Objects](https://javascript.info/object)
-- [@article@Working with Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
-- [@article@Destructuring Objects](https://javascript.info/destructuring-assignment)
+- [@artigo@Objetos](https://javascript.info/object)
+- [@artigo@Trabalhando com Objetos](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Trabalhando_com_Objetos)
+- [@artigo@Desestruturando Objetos](https://javascript.info/destructuring-assignment)

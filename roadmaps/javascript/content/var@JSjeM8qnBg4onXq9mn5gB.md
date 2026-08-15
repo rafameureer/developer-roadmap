@@ -1,9 +1,9 @@
-# [var] keyword
+# Palavra-chave [var]
 
-The var statement declares a function-scoped or globally-scoped variable, optionally initializing it to a value.
+A declaração `var` declara uma variável de escopo de função ou global, opcionalmente inicializando-a com um valor.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para saber mais:
 
-- [@article@var keyword - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var)
-- [@article@JavaScript Variables](https://javascript.info/variables)
-- [@video@Declaring Variables without Var, Let, Const - What Would Happen?](https://www.youtube.com/watch?v=6UAKBYpUC-Y)
+- [@artigo@Palavra-chave var - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var)
+- [@artigo@Variáveis JavaScript](https://javascript.info/variables)
+- [@vídeo@Declarando Variáveis sem Var, Let, Const - O que aconteceria?](https://www.youtube.com/watch?v=6UAKBYpUC-Y)

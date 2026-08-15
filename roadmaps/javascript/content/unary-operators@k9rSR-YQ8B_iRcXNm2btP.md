@@ -1,8 +1,8 @@
-# Unary Operators
+# Operadores Unários
 
-JavaScript Unary Operators are the special operators that consider a single operand and perform all the types of operations on that single operand. These operators include unary plus, unary minus, prefix increments, postfix increments, prefix decrements, and postfix decrements.
+Os Operadores Unários em JavaScript são os operadores especiais que consideram um único operando e realizam todas as tipos de operações nesse único operando. Esses operadores incluem o operador unário de adição, o operador unário de subtração, incrementos pré-fixados, incrementos pós-fixados, decrementos pré-fixados e decrementos pós-fixados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Unary Operators in JavaScript](https://www.educba.com/unary-operators-in-javascript/)
-- [@article@Unary Operators - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators#unary_operators)
+- [@artigo@Operadores Unários em JavaScript](https://www.educba.com/unary-operators-in-javascript/)
+- [@artigo@Operadores Unários - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators#unary_operators)

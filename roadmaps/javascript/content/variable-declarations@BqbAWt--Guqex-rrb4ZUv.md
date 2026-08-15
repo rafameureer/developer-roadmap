@@ -1,8 +1,8 @@
-# Variable Declarations
- 
-Variable declarations introduce a variable name into the current scope. JavaScript provides three ways to declare variables: `var`, `let`, and `const`. The choice between them affects scope, hoisting behavior, and whether the variable can be reassigned.
+# Declarações de Variáveis
 
-Visit the following resources to learn more:
+As declarações de variáveis introduzem um nome de variável no escopo atual. JavaScript fornece três maneiras de declarar variáveis: `var`, `let` e `const`. A escolha entre elas afeta o escopo, o comportamento de elevação e se a variável pode ser reatribuída.
 
-- [@article@Storing the information you need — Variables](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables)
-- [@article@JavaScript Variables - CodeGuage](https://www.codeguage.com/courses/js/variables)
+Acesse os seguintes recursos para saber mais:
+
+- [@artigo@Armazenando as informações que você precisa — Variáveis](https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript/Primeiros_passos/Vari%C3%A1veis)
+- [@artigo@Variáveis em JavaScript - CodeGuage](https://www.codeguage.com/courses/js/variables)

@@ -1,10 +1,10 @@
-# ESModules
+# Módulos ES
 
-ESModules is a standard that was introduced with ES6 (2015). The idea was to standardize how JS modules work and implement these features in browsers. This standard is widely used with frontend frameworks such as react and can also be used in the backend with Node.js. Sometimes these modules will be written with a .mjs extension.
+ESModules é um padrão que foi introduzido com o ES6 (2015). A ideia era padronizar como os módulos JS funcionam e implementar essas funcionalidades nos navegadores. Este padrão é amplamente usado com frameworks frontend como React, e também pode ser usado no backend com Node.js. Às vezes, esses módulos serão escritos com a extensão .mjs.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Full ESM module overview from MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
-- [@article@Full ESM module overview from js.info](https://javascript.info/modules)
-- [@article@Node.js documentation for ESModules](https://nodejs.org/api/esm.html)
-- [@video@JavaScript ES6 Modules Simplified](https://www.youtube.com/watch?v=cRHQNNcYf6s)
+- [@artigo@Visão geral completa dos módulos ES de MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Modules)
+- [@artigo@Visão geral completa dos módulos ES de js.info](https://javascript.info/modules)
+- [@documentação@Documentação do Node.js sobre Módulos ES](https://nodejs.org/api/esm.html)
+- [@vídeo@Módulos ES6 simplificados em JavaScript](https://www.youtube.com/watch?v=cRHQNNcYf6s)

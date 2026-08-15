@@ -1,7 +1,7 @@
-# Callback Hell
+# Inferno de Callbacks
 
-The callback hell is when we try to write asynchronous JavaScript in a way where execution happens visually from top to bottom, creating a code that has a pyramid shape with many **})** at the end.
+O inferno de callbacks ocorre quando tentamos escrever JavaScript assíncrono de uma maneira em que a execução acontece visualmente da cima para baixo, criando um código com forma pirâmide com muitos **})** no final.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Callbacks in Callbacks - Pyramid of Doom](https://javascript.info/callbacks#pyramid-of-doom)
+- [@artigo@Callbacks em Callbacks - Pirâmide do Desespero](https://javascript.info/callbacks#pyramid-of-doom)

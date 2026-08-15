@@ -1,7 +1,7 @@
-# this in a method
+# this em um método
 
-Methods are properties of an object which are functions. The value of this inside a method is equal to the calling object. In simple words, this value is the object “before dot”, the one used to call the method.
+Os métodos são propriedades de um objeto que são funções. O valor de `this` dentro de um método é igual ao objeto chamante. Em palavras simples, esse valor é o objeto "antes do ponto", o usado para chamar o método.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@article@this in methods](https://javascript.info/object-methods#this-in-methods)
+- [@artigo@this em métodos](https://javascript.info/object-methods#this-in-methods)

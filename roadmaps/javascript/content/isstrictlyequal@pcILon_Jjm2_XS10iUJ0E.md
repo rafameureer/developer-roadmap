@@ -1,8 +1,8 @@
 # isStrictlyEqual
- 
-The strict equality comparison is the algorithm behind the `===` operator. It returns `false` if the types differ, without any coercion. For the same type, it compares values directly, with the exception that `NaN === NaN` is `false`.
 
-Visit the following resources to learn more:
+A comparação de igualdade estrita é o algoritmo por trás do operador `===`. Ele retorna `false` se os tipos diferirem, sem qualquer coerção. Para os mesmos tipos, ele compara valores diretamente, com a exceção de que `NaN === NaN` é `false`.
 
-- [@article@Strictly Equality (===) Operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Strict_equality)
-- [@article@Comparison - javascript.info](https://javascript.info/comparison)
+Acesse os seguintes recursos para saber mais:
+
+- [@article@Operador de Igualdade Estrita (===)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Strict_equality)
+- [@article@Comparação - javascript.info](https://javascript.info/comparison)

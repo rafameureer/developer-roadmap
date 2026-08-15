@@ -1,9 +1,9 @@
-# Modules
+# Módulos
 
-Modules encapsulate all sorts of code like functions and variables and expose all this to other files. Generally, we use it to break our code into separate files to make it more maintainable. They were introduced into JavaScript with ECMAScript 6.
+Os módulos encapsulam todos os tipos de código como funções e variáveis e expõem tudo isso a outros arquivos. Geralmente, usamos isso para dividir nosso código em arquivos separados para torná-lo mais manterável. Eles foram introduzidos no JavaScript com ECMAScript 6.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Modules, introduction](https://javascript.info/modules-intro)
-- [@article@Export and Import](https://javascript.info/import-export)
-- [@article@Dynamic imports](https://javascript.info/modules-dynamic-imports)
+- [@artigo@Introdução a Módulos](https://javascript.info/modules-intro)
+- [@artigo@Exportar e Importar](https://javascript.info/import-export)
+- [@artigo@Importações Dinâmicas](https://javascript.info/modules-dynamic-imports)

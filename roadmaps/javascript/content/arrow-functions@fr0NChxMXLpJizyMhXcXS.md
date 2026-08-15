@@ -1,7 +1,7 @@
-# Arrow Functions
- 
-Arrow functions are a concise syntax for writing function expressions introduced in ES6. They use `=>` instead of the `function` keyword and do not have their own `this`, `arguments`, or `super` bindings. They are commonly used for callbacks and short expressions, but are not suitable as object methods or constructors.
+# Funções de Seta
 
-Visit the following resources to learn more:
+As funções de seta são uma sintaxe concisa para escrever expressões de função introduzida no ES6. Elas usam `=>` em vez da palavra-chave `function` e não têm suas próprias associações com `this`, `arguments` ou `super`. São comumente usadas como callbacks e expressões curtas, mas não são adequadas como métodos de objetos ou construtores.
 
-- [@article@MDN - Arrow Function Expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
+Acesse os seguintes recursos para saber mais:
+
+- [@artigo@MDN - Expressões de Função de Seta](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Functions/Arrow_functions)

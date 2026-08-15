@@ -1,9 +1,9 @@
-# Keyed Collections
- 
-Keyed collections are data structures that store values indexed by keys. In JavaScript, `Map` and `WeakMap` are keyed collections that allow any value, including objects and functions, to be used as a key. Unlike plain objects, Maps maintain insertion order and provide methods like `get()`, `set()`, and `has()`.
+# Coleções Indexadas
 
-Visit the following resources to learn more:
+Coleções indexadas são estruturas de dados que armazenam valores indexados por chaves. No JavaScript, `Map` e `WeakMap` são coleções indexadas que permitem qualquer valor, incluindo objetos e funções, ser usado como uma chave. Diferentemente dos objetos simples, Maps mantêm a ordem de inserção e fornecem métodos como `get()`, `set()` e `has()`.
 
-- [@article@Keyed collections](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Keyed_collections)
-- [@article@ES6 keyed collections- Maps and sets](https://blog.logrocket.com/es6-keyed-collections-maps-and-sets/)
-- [@video@Creating keyed collection](https://youtu.be/4UqSqF4foy4)
+Acesse os seguintes recursos para saber mais:
+
+- [@artigo@Coleções indexadas](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Cole%C3%A7%C3%B5es_indexadas)
+- [@artigo@Coleções indexadas ES6 - Maps e Sets](https://blog.logrocket.com/collections-indexadas-es6-maps-e-sets/)
+- [@vídeo@Criando coleção indexada](https://youtu.be/4UqSqF4foy4)

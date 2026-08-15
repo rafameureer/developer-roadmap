@@ -1,7 +1,7 @@
-# Default Parameters
+# Parâmetros Padrão
 
-Default function parameters allow named parameters to be initialized with default values if no value or `undefined` is passed.
+Os parâmetros padrão de função permitem que parâmetros nomeados sejam inicializados com valores padrão se nenhum valor ou `undefined` for passado.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para aprender mais:
 
-- [@article@Default Parameters - MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters)
+- [@article@Parâmetros Padrão - MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters)

@@ -1,10 +1,10 @@
-# Prototypes
+# Protótipos
 
-JavaScript is an object-oriented language built around a prototype model. In JavaScript, every object inherits properties from its prototype, if there are any. A prototype is simply an object from which another object inherits properties. To create complex programs using JavaScript, one has to be proficient in working with prototypes — they form the very core of OOP in the language.
+JavaScript é uma linguagem orientada a objetos baseada em um modelo de protótipo. Em JavaScript, cada objeto herda propriedades de seu protótipo, se houver algum. Um protótipo é simplesmente um objeto do qual outro objeto herda propriedades. Para criar programas complexos usando JavaScript, é necessário ser proficiente em trabalhar com protótipos — eles formam o núcleo da programação orientada a objetos na linguagem.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Prototypes in JavaScript - A Comprehensive Guide](https://www.codeguage.com/courses/js/objects-prototypes)
-- [@article@Prototypes, Inheritance](https://javascript.info/prototypes)
-- [@article@Object prototypes - MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes)
-- [@video@Prototype in Javascript - Object Prototype](https://www.youtube.com/watch?v=583MGxjypgU)
+- [@article@Protótipos em JavaScript - Um Guia Completo](https://www.codeguage.com/courses/js/objects-prototypes)
+- [@article@Protótipos, Herança](https://javascript.info/prototypes)
+- [@article@Protótipos de objeto - MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes)
+- [@video@Protótipo em JavaScript - Protótipo do Objeto](https://www.youtube.com/watch?v=583MGxjypgU)

@@ -1,8 +1,8 @@
-# Assignment Operators
+# Operadores de Atribuição
 
-An assignment operator assigns a value to its left operand based on the value of its right operand. The simple assignment operator is equal (`=`), which assigns the value of its right operand to its left operand. That is, `x = f()` is an assignment expression that assigns the value of `f()` to `x`.
+Um operador de atribuição atribui um valor ao seu operando esquerdo com base no valor do seu operando direito. O operador de atribuição simples é igual (`=`), que atribui o valor do seu operando direito ao seu operando esquerdo. Isso significa que `x = f()` é uma expressão de atribuição que atribui o valor de `f()` a `x`.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Assignment Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#assignment_operators)
-- [@article@Basic Operators](https://javascript.info/operators#assignment)
+- [@artigo@Operadores de Atribuição](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Expressions_and_Operators#operadores_de_atribuição)
+- [@artigo@Operadores Básicos](https://javascript.info/operators#atribuição)

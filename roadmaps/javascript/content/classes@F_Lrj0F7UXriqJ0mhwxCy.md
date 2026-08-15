@@ -1,8 +1,8 @@
 # Classes
 
-Classes are a template for creating objects. They encapsulate data with code to work on that data. Classes in JS are built on prototypes but have some syntax and semantics that are not shared with ES5 class-like semantics.
+As classes são um modelo para criar objetos. Eles encapsulam dados com código para trabalhar nesses dados. As classes em JS são baseadas em protótipos, mas têm uma sintaxe e semântica que não são compartilhados com as semânticas de classe-like do ES5.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Classes in JavaScript](https://javascript.info/classes)
-- [@article@JavaScript Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
+- [@artigo@Classes em JavaScript](https://javascript.info/classes)
+- [@artigo@Classes em JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Classes)

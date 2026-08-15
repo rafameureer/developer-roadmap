@@ -1,8 +1,8 @@
-# Function Parameters
+# Parâmetros de Função
 
-The parameter is the name given to the variable declared inside the definition of a function. There are two special kinds of syntax: default and rest parameters.
+O parâmetro é o nome dado à variável declarada dentro da definição de uma função. Existem dois tipos especiais de sintaxe: parâmetros padrão e parâmetros rest.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Function Parameters](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions#function_parameters)
-- [@article@Unlimited function parameters using Rest](https://www.amitmerchant.com/unlimited-function-parameters-with-using-rest-in-java-script/)
+- [@artigo@Parâmetros de Função](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guia/Funções#parâmetros_de_função)
+- [@artigo@Parâmetros de função ilimitados usando Rest](https://www.amitmerchant.com/parâmetros-de-função-ilimitados-com-uso-rest-em-javascript/)

@@ -1,8 +1,8 @@
-# Typed Arrays
- 
-Typed Arrays are array-like objects for working with raw binary data of a specific numeric type. Types include `Int8Array`, `Uint8Array`, `Float32Array`, and others, each representing a different size and format. They are used in performance-sensitive contexts such as audio processing, WebGL, and network protocols.
+# Arrays Tipados
 
-Visit the following resources to learn more:
+Arrays Tipados são objetos semelhantes a arrays para trabalhar com dados binários brutos de um tipo numérico específico. Os tipos incluem `Int8Array`, `Uint8Array`, `Float32Array` e outros, cada um representando um tamanho e formato diferentes. Eles são usados em contextos que exigem alta performance, como processamento de áudio, WebGL e protocolos de rede.
 
-- [@article@JavaScript typed arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Typed_arrays)
-- [@video@Intro to Typed Arrays in JavaScript](https://www.youtube.com/watch?v=UYkJaW3pmj0)
+Acesse os seguintes recursos para saber mais:
+
+- [@artigo@Arrays tipados em JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Typed_arrays)
+- [@vídeo@Introdução a Arrays Tipados em JavaScript](https://www.youtube.com/watch?v=UYkJaW3pmj0)

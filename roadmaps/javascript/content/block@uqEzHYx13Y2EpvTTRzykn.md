@@ -1,7 +1,7 @@
-# Block
- 
-Block scope limits a variable's visibility to the block of code enclosed in curly braces `{}` where it is declared. Variables declared with `let` and `const` are block-scoped. A variable inside an `if` statement or `for` loop with block scope is not accessible outside that block.
+# Bloco
 
-Visit the following resources to learn more:
+O escopo de bloco limita a visibilidade de uma variável ao bloco de código delimitado por chaves `{}` onde ela é declarada. Variáveis declaradas com `let` e `const` têm escopo de bloco. Uma variável dentro de um `if` statement ou `for` loop com escopo de bloco não é acessível fora desse bloco.
 
-- [@article@JavaScript Scope](https://www.w3schools.com/js/js_scope.asp)
+Acesse os seguintes recursos para saber mais:
+
+- [@artigo@Escopo em JavaScript](https://www.w3schools.com/js/js_scope.asp)

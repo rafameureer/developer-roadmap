@@ -1,8 +1,8 @@
-# Using Browser DevTools
+# Usando DevTools do Navegador
  
-Browser DevTools are the built-in developer tools available in browsers like Chrome and Firefox. They provide tools for inspecting HTML and CSS, debugging JavaScript, analyzing network requests, profiling performance, and detecting memory leaks. DevTools are the primary environment for diagnosing and fixing issues in web applications.
+Os DevTools do Navegador são as ferramentas de desenvolvedor embutidas disponíveis em navegadores como Chrome e Firefox. Eles fornecem ferramentas para inspecionar HTML e CSS, depurar JavaScript, analisar solicitações de rede, perfilar desempenho e detectar vazamentos de memória. Os DevTools são o ambiente principal para diagnosticar e corrigir problemas em aplicativos web.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Official Docs](https://developer.chrome.com/docs/devtools/)
-- [@official@Debug JavaScript with Chrome Dev Tools](https://developer.chrome.com/docs/devtools/javascript/)
+- [@oficial@Documentação Oficial](https://developer.chrome.com/docs/devtools/)
+- [@oficial@Depurar JavaScript com DevTools do Chrome](https://developer.chrome.com/docs/devtools/javascript/)

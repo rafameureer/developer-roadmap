@@ -1,3 +1,3 @@
-# in a method
- 
-When a function is called as a method of an object, `this` refers to the object before the dot. For example, in `user.greet()`, `this` inside `greet` refers to `user`. This is the most intuitive use of `this`.
+# Em um método
+
+Quando uma função é chamada como um método de um objeto, `this` se refere ao objeto antes do ponto. Por exemplo, em `user.greet()`, `this` dentro de `greet` se refere a `user`. Isso é o uso mais intuitivo de `this`.

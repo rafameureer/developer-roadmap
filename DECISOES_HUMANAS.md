@@ -4,7 +4,7 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 
 ---
 
-> ⚠️ **Total de itens sinalizados:** 1092
+> ⚠️ **Total de itens sinalizados:** 1103
 
 | Arquivo / Tópico | Motivo da Sinalização | Data/Hora |
 |---|---|---|
@@ -1100,3 +1100,14 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 | `roadmaps/java/content/build-tools@81N1cZLue_Ii0uD5CV6kZ.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:20:56.829233 |
 | `roadmaps/java/content/classes-and-objects@LenPrQwxFsE1UVbXO_dE7.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:20:59.524849 |
 | `roadmaps/java/content/concurrency@shqS9-hg__mkOtnnl_I4l.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:21:03.547391 |
+| `roadmaps/javascript/content/arrays@NZedBxG9B9TRVOf2QE2yL.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:26:26.505689 |
+| `roadmaps/javascript/content/data-types@-jbPPuEXacBR0d0CWPHgd.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:28:13.203470 |
+| `roadmaps/javascript/content/debugging-memory-leaks@BA_ArmZMnVMaL_zl3W3Pt.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:28:21.119146 |
+| `roadmaps/javascript/content/how-to-run-javascript@uXsWIUUxtc4H_iRx3uZv0.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:30:02.351541 |
+| `roadmaps/javascript/content/ifelse@ndbDXAx6bL4lZmpXv16Y_.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:30:05.062488 |
+| `roadmaps/javascript/content/iifes@YZlCoPvZuX5MmpLOTj5d4.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:30:08.622708 |
+| `roadmaps/javascript/content/iterators-and-generators@TZ8XGdykSJjKBjX6Nivwo.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:30:51.994960 |
+| `roadmaps/javascript/content/javascript-versions@SFPsWnVpZBAw3_re7op4h.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:30:55.716708 |
+| `roadmaps/javascript/content/json@bFNvtHp97OzKnPJgr7WaH.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:30:58.820688 |
+| `roadmaps/javascript/content/logical-operators@bo4SvzU4BrPl3c99zW7Y5.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:31:23.253028 |
+| `roadmaps/javascript/content/loops-and-iterations@YD-2l_amfqqqCdtc_Zdzo.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T08:31:25.945773 |

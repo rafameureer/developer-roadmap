@@ -1,8 +1,8 @@
-# bigint
+# BigInt
  
-`BigInt` is a primitive type for representing integers of arbitrary size, beyond the safe integer limit of the `number` type. A BigInt is created by appending `n` to an integer literal or using the `BigInt()` function. It is used when precise integer arithmetic is needed for very large numbers, such as in cryptography or financial calculations.
+`BigInt` é um tipo primitivo para representar inteiros de tamanho arbitrário, além do limite seguro de inteiro do tipo `number`. Um BigInt é criado anexando `n` a uma literal numérica ou usando a função `BigInt()`. É usado quando é necessário cálculo aritmético preciso com números muito grandes, como em criptografia ou cálculos financeiros.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@BigInt](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt)
-- [@video@The Whys and Hows Of BigInt](https://youtu.be/6I650PQfhMg?si=XyVGrmp4KWLRcHVj)
+- [@article@BigInt](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/BigInt)
+- [@video@As razões e o funcionamento do BigInt](https://youtu.be/6I650PQfhMg?si=XyVGrmp4KWLRcHVj)

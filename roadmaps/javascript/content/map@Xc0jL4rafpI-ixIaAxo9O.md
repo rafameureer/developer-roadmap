@@ -1,8 +1,8 @@
 # Map
- 
-A `Map` is a keyed collection that stores key-value pairs and remembers insertion order. Unlike plain objects, Map keys can be of any type, including objects and functions. Maps are preferred over plain objects when keys are dynamic or when the order of entries matters.
 
-Visit the following resources to learn more:
+A `Map` é uma coleção indexada que armazena pares de chave-valor e lembra a ordem de inserção. Diferentemente dos objetos simples, as chaves do `Map` podem ser de qualquer tipo, incluindo objetos e funções. Os `Map` são preferidos sobre os objetos simples quando as chaves são dinâmicas ou quando a ordem dos itens importa.
 
-- [@article@Map - Keyed Collections](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map)
-- [@article@Map Data Type](https://javascript.info/map-set#map)
+Acesse os seguintes recursos para saber mais:
+
+- [@article@Map - Coleções Indexadas](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guia/Cole%C3%A7ões_indexadas)
+- [@article@Tipo de Dados Map](https://javascript.info/map-set#map)

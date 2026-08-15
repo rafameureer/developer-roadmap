@@ -1,8 +1,8 @@
-# Implicit Type Casting
+# Conversão de Tipo Implícita
 
-Implicit type conversion happens when the compiler or runtime automatically converts data types. JavaScript is loosely typed language and most of the time operators automatically convert a value to the right type.
+A conversão de tipo implícita ocorre quando o compilador ou tempo de execução convertem automaticamente os tipos de dados. JavaScript é um idioma tipicamente não tipado, e muitas vezes os operadores convertem automaticamente um valor para o tipo correto.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@article@TutorialsPoint - JavaScript Tutorials](https://www.tutorialspoint.com/explain-typecasting-in-javascript)
-- [@article@What you need to know about JavaScript Implicit Coercion](https://dev.to/promisetochi/what-you-need-to-know-about-javascripts-implicit-coercion-e23)
+- [@artigo@TutorialsPoint - Tutoriais de JavaScript](https://www.tutorialspoint.com/explain-typecasting-in-javascript)
+- [@artigo@O que você precisa saber sobre a Coerção Implícita em JavaScript](https://dev.to/promisetochi/what-you-need-to-know-about-javascripts-implicit-coercion-e23)

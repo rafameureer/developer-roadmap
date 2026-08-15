@@ -1,8 +1,8 @@
 # while
- 
-The `while` loop executes a block of code as long as a specified condition is true. The condition is evaluated before each iteration, so if it is false from the start, the body never runs. It is used when the number of iterations is not known in advance.
 
-Visit the following resources to learn more:
+O loop `while` executa um bloco de código enquanto uma condição especificada for verdadeira. A condição é avaliada antes de cada iteração, então se ela for falsa desde o início, o corpo nunca será executado. É usado quando o número de iterações não é conhecido em antecedência.
 
-- [@article@While Statement - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while)
-- [@article@The while Loop - CodeGuage](https://www.codeguage.com/courses/js/loops-while-loop)
+Acesse os seguintes recursos para saber mais:
+
+- [@article@Declaração while - MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/while)
+- [@article@O loop while - CodeGuage](https://www.codeguage.com/courses/js/loops-while-loop)

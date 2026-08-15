@@ -1,8 +1,8 @@
-# Function Borrowing
+# Empréstimo de Função
 
-Function borrowing allows us to use the methods of one object on a different object without having to make a copy of that method and maintain it in two separate places. It is accomplished through the use of `.call()`, `.apply()`, or `.bind()`, all of which exist to explicitly set this on the method we are borrowing.
+O empréstimo de função nos permite usar os métodos de um objeto em um objeto diferente sem ter que fazer uma cópia desse método e mantê-lo em dois lugares separados. Isso é feito através do uso de `.call()`, `.apply()` ou `.bind()`, todos os quais existem para explicitamente definir this no método que estamos emprestando.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Function borrowing](https://medium.com/@ensallee/function-borrowing-in-javascript-4bd671e9d7b4)
-- [@article@When would I use function borrowing](https://stackoverflow.com/questions/69892281/when-would-i-use-function-borrowing)
+- [@artigo@Empréstimo de Função](https://medium.com/@ensallee/empréstimo-de-função-em-javascript-4bd671e9d7b4)
+- [@artigo@Quando eu usaria empréstimo de função](https://stackoverflow.com/questions/69892281/quando-eu-usaria-empréstimo-de-função)

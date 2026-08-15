@@ -1,7 +1,7 @@
-# BigInt Operators
+# Operadores BigInt
 
-Most operators that can be used with the `Number` data type will also work with `BigInt` values (e.g. arithmetic, comparison, etc.). However, the unsigned right shift `>>>` operator is an exception and is not supported. Similarly, some operators may have slight differences in behaviour (for example, division with `BigInt` will round towards zero).
+A maioria dos operadores que podem ser usados com o tipo de dados `Number` também funcionará com valores `BigInt` (por exemplo, aritmética, comparação, etc.). No entanto, o operador de deslocamento à direita sem sinal `>>>` é uma exceção e não é suportado. Da mesma forma, alguns operadores podem ter pequenas diferenças no comportamento (por exemplo, divisão com `BigInt` arredondará para zero).
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@BigInt Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#bigint_operators)
+- [@artigo@Operadores BigInt](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#bigint_operators)

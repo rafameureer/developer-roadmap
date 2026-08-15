@@ -1,7 +1,7 @@
 # Rest
  
-The rest parameter syntax allows a function to accept an indefinite number of arguments as an array. It is defined by prefixing the last parameter with `...`, such as `function sum(...numbers)`. Unlike the `arguments` object, rest parameters are a true array and work with arrow functions.
+A sintaxe de parâmetro rest permite que uma função aceite um número indefinido de argumentos como um array. É definida prefixando o último parâmetro com `...`, como `function sum(...numbers)`. Diferentemente do objeto `arguments`, os parâmetros rest são um verdadeiro array e funcionam com funções de seta.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Rest Parameters - MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters)
+- [@artigo@Parâmetros Rest - Documentação MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Referência/Functions/rest_parameters)

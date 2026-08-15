@@ -1,9 +1,9 @@
-# Throw Statement
+# Lançamento de Exceção
 
-The throw statement throws a user-defined exception. Execution of the current function will stop (the statements after throw won't be executed), and control will be passed to the first catch block in the call stack. If no catch block exists among caller functions, the program will terminate. (excerpt from MDN)
+A declaração `throw` lança uma exceção definida pelo usuário. A execução da função atual será interrompida (as instruções após o `throw` não serão executadas), e o controle será passado para o primeiro bloco `catch` na pilha de chamadas. Se nenhuma bloco `catch` existir entre as funções chamadoras, o programa terminará. (excerto do MDN)
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@JavaScript MDN Docs](https://developer.mozilla.org/en-us/docs/web/javascript/reference/statements/throw)
-- [@article@Error Handling](https://javascript.info/error-handling)
-- [@article@"Throw" operator](https://javascript.info/try-catch#throw-operator)
+- [@artigo@Documentação MDN sobre JavaScript](https://developer.mozilla.org/pt-br/docs/Web/JavaScript/Glossario/Lançar)
+- [@artigo@Manipulação de Erros em JavaScript](https://javascript.info/error-handling)
+- [@artigo@"Lancamento" operador](https://javascript.info/try-catch#lançamento-operador)

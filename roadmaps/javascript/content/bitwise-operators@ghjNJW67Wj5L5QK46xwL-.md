@@ -1,8 +1,8 @@
-# Bitwise Operators
+# Operadores Bitwise
  
-Bitwise operators treat their operands as 32-bit integers and perform operations at the bit level. They include `&` (AND), `|` (OR), `^` (XOR), `~` (NOT), `<<` (left shift), `>>` (right shift), and `>>>` (unsigned right shift). They are used in low-level programming, flag manipulation, and performance-critical code.
+Os operadores bitwise tratam seus operandos como inteiros de 32 bits e realizam operações no nível do bit. Eles incluem `&` (AND), `|` (OR), `^` (XOR), `~` (NOT), `<<` (deslocamento à esquerda), `>>` (deslocamento à direita) e `>>>` (deslocamento à direita sem sinal). Eles são usados em programação de nível baixo, manipulação de flags e código crítico em termos de desempenho.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Bitwise Operators - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#bitwise_operators)
-- [@article@Bitwise Operators - JavaScript.info](https://javascript.info/operators#bitwise-operators)
+- [@article@Operadores Bitwise - MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Expressions_and_Operators#operadores_bitwise)
+- [@article@Operadores Bitwise - JavaScript.info](https://javascript.info/operators#bitwise-operators)

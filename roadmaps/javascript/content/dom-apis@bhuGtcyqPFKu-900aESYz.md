@@ -1,7 +1,7 @@
-# DOM APIs
+# APIs do DOM
 
-With HTML DOM, JavaScript can access and change all the elements of an HTML document such as its attributes, CSS styles, remove elements, add and create new elements on the page. Web API means application programming interface for the web. All browsers have a set of built-in Web APIs to support complex operations, and to help accessing data. Like Geo-location API, Web Storage, Web History and others.
+Com HTML DOM, JavaScript pode acessar e alterar todos os elementos de um documento HTML, como seus atributos, estilos CSS, remover elementos, adicionar e criar novos elementos na página. A API Web significa interface de programação de aplicativos para a web. Todos os navegadores têm um conjunto de APIs Web embutidas para suportar operações complexas e ajudar a acessar dados. Como Geolocalização API, Armazenamento Web, Histórico da Web e outros.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para aprender mais:
 
-- [@article@DOM- MDN Docs](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
+- [@article@DOM - MDN Docs](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)

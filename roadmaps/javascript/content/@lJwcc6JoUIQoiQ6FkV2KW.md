@@ -1,7 +1,7 @@
 # ===
  
-The `===` operator compares two values for equality without type coercion. Both the value and the type must match for the comparison to return `true`. It is the recommended equality operator for most cases because it produces predictable results.
+O operador `===` compara dois valores para igualdade sem coerção de tipo. Ambos o valor e o tipo devem corresponder para a comparação retornar `true`. É o operador de igualdade recomendado para a maioria dos casos porque produz resultados previsíveis.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Strict equality - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Strict_equality)
+- [@article@Igualdade estrita - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Strict_equality)

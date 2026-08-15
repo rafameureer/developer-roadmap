@@ -1,8 +1,8 @@
-# Type Casting
+# Casting de Tipo
 
-Type conversion (or typecasting) means the transfer of data from one data type to another. Implicit conversion happens when the compiler (for compiled languages) or runtime (for script languages like [JavaScript](https://developer.mozilla.org/en-US/docs/Glossary/JavaScript)) automatically converts data types. The source code can also explicitly require a conversion to take place.
+A conversão de tipo (ou casting) significa a transferência de dados de um tipo de dado para outro. A conversão implícita ocorre quando o compilador (para linguagens compiladas) ou o tempo de execução (para linguagens interpretadas como [JavaScript](https://developer.mozilla.org/pt-br/docs/Glossario/JavaScript)) converte automaticamente os tipos de dados. O código-fonte também pode exigir explicitamente uma conversão.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Type Conversions](https://javascript.info/type-conversions)
-- [@article@Type Casting in JavaScript](https://www.tutorialspoint.com/type-casting-in-javascript)
+- [@artigo@Conversões de Tipo](https://javascript.info/type-conversions)
+- [@artigo@Casting de Tipo em JavaScript](https://www.tutorialspoint.com/casting-in-javascript)

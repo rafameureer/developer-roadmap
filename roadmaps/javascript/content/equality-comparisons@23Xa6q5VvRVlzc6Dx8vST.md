@@ -1,7 +1,7 @@
-# Equality Comparisons
+# Comparação de Igualdade
 
-Comparison operators are used in logical statements to determine equality or difference between variables or values. Comparison operators can be used in conditional statements to compare values and take action depending on the result.
+Os operadores de comparação são usados em declarações lógicas para determinar a igualdade ou diferença entre variáveis ou valores. Os operadores de comparação podem ser usados em instruções condicionais para comparar valores e tomar ação dependendo do resultado.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para saber mais:
 
-- [@article@JavaScript Equality Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators#equality_operators)
+- [@article@Operadores de Igualdade em JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators#equality_operators)

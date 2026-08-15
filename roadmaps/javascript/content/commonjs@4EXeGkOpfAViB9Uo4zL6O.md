@@ -1,8 +1,8 @@
 # CommonJS
 
-CommonJS modules are the original way to package JavaScript code for Node.js. Node.js also supports the ESModules standard used by browsers and other JavaScript run-times, but CJS is still widely used in backend Node.js applications. Sometimes these modules will be written with a .cjs extension.
+Os módulos CommonJS são a maneira original de pacote o código JavaScript para o Node.js. O Node.js também suporta o padrão ESModules usado pelos navegadores e outros ambientes de execução JavaScript, mas CJS ainda é amplamente utilizado em aplicações backend do Node.js. Às vezes esses módulos serão escritos com a extensão .cjs.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@How the CJS Module System Works](https://blog.risingstack.com/node-js-at-scale-module-system-commonjs-require/)
-- [@video@How to Import and Export Modules in CJS](https://www.youtube.com/watch?v=XTND4rjATXA)
+- [@artigo@Como o Sistema de Módulo CJS Funciona](https://blog.risingstack.com/node-js-at-scale-module-system-commonjs-require/)
+- [@vídeo@Como Importar e Exportar Módulos em CJS](https://www.youtube.com/watch?v=XTND4rjATXA)

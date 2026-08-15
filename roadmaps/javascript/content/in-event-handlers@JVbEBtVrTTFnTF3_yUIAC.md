@@ -1,3 +1,3 @@
-# in event handlers
- 
-In an event handler attached to a DOM element, `this` refers to the element that received the event. For example, in a click handler, `this` is the button or element that was clicked. Arrow functions do not have their own `this`, so they inherit it from the surrounding scope instead.
+# Em manipuladores de eventos
+
+Em um manipulador de evento anexado a um elemento DOM, `this` se refere ao elemento que recebeu o evento. Por exemplo, em um manipulador de clique, `this` é o botão ou elemento que foi clicado. As funções de seta não têm seu próprio `this`, então elas o herdam do escopo circundante.

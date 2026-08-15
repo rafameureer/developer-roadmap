@@ -1,7 +1,7 @@
-# Structured Data
- 
-Structured data refers to data organized in a defined, parseable format. In JavaScript, JSON (JavaScript Object Notation) is the primary format for structured data exchange. It represents data as key-value pairs and arrays and is widely used for API communication and configuration files.
+# Dados Estruturados
 
-Visit the following resources to learn more:
+Dados estruturados se referem a dados organizados em um formato definido e analisável. Em JavaScript, JSON (JavaScript Object Notation) é o formato principal para a troca de dados estruturados. Ele representa dados como pares chave-valor e arrays e é amplamente usado para comunicação de API e arquivos de configuração.
 
-- [@article@Google Developers docs](https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data)
+Acesse os seguintes recursos para saber mais:
+
+- [@artigo@Documentação dos Desenvolvedores do Google](https://developers.google.com/search/docs/appearance/structured-data/intro-structured-data)

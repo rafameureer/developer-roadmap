@@ -1,9 +1,9 @@
-# Asynchronous JavaScript
+# JavaScript Assíncrono
  
-Asynchronous JavaScript allows code to start long-running operations, like network requests or timers, and continue executing other code while waiting for them to complete. JavaScript is single-threaded, so asynchronous patterns prevent the main thread from blocking. The main mechanisms are callbacks, Promises, and async/await.
+O JavaScript assíncrono permite que o código inicie operações de longa duração, como solicitações de rede ou temporizadores, e continue executando outros códigos enquanto espera por elas serem concluídas. O JavaScript é single-threaded, então os padrões assíncronos impedem que a thread principal bloqueie. As principais mecanismos são callbacks, Promises e async/await.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Asynchronous JavaScript - MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Introducing)
-- [@video@What The Hack is Event Loop and Asynchronous JavaScript - JSConf](https://youtu.be/8aGhZQkoFbQ)
-- [@video@Asynchronous JavaScript - JavaScript Visualized](https://youtu.be/eiC58R16hb8)
+- [@artigo@JavaScript Assíncrono - MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Introducing)
+- [@vídeo@O que é Event Loop e JavaScript Assíncrono - JSConf](https://youtu.be/8aGhZQkoFbQ)
+- [@vídeo@JavaScript Assíncrono - JavaScript Visualizado](https://youtu.be/eiC58R16hb8)

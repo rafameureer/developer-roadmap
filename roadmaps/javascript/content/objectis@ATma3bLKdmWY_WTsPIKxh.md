@@ -1,7 +1,7 @@
 # Object.is
  
-`Object.is()` is a method for comparing two values with stricter behavior than `===`. It handles two edge cases differently: `Object.is(NaN, NaN)` returns `true` (while `NaN === NaN` is `false`), and `Object.is(+0, -0)` returns `false` (while `+0 === -0` is `true`). It is useful when exact value identity is needed.
+`Object.is()` é um método para comparar dois valores com um comportamento mais estrito do que `===`. Ele lida com duas casos de borda de maneira diferente: `Object.is(NaN, NaN)` retorna `true` (enquanto `NaN === NaN` é `false`), e `Object.is(+0, -0)` retorna `false` (enquanto `+0 === -0` é `true`). É útil quando a identidade de valor exato é necessária.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Object.is() - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/is)
+- [@artigo@Object.is() - MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Object/is)

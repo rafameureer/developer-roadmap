@@ -1,7 +1,7 @@
-# typeof operator
- 
-The `typeof` operator returns a string indicating the type of an operand. It works with primitives and functions but has some quirks, such as returning `"object"` for `null`. It is commonly used to check whether a variable is defined or to guard against unexpected types in a function.
+# Operador typeof
 
-Visit the following resources to learn more:
+O operador `typeof` retorna uma string indicando o tipo de um operando. Ele funciona com primitivos e funções, mas tem algumas peculiaridades, como retornar `"object"` para `null`. É comumente usado para verificar se uma variável está definida ou para evitar tipos inesperados em uma função.
 
-- [@article@typeof Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof)
+Acesse os seguintes recursos para saber mais:
+
+- [@artigo@Referência de typeof](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof)

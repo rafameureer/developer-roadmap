@@ -1,8 +1,8 @@
 # undefined
  
-`undefined` is the default value of a variable that has been declared but not assigned a value. It is also the return value of functions that do not explicitly return anything. Unlike `null`, which is intentionally empty, `undefined` typically indicates something has not been set.
+`undefined` é o valor padrão de uma variável que foi declarada mas não atribuída um valor. Também é o valor de retorno de funções que não retornam explicitamente nada. Diferentemente de `null`, que é intencionalmente vazio, `undefined` geralmente indica que algo não foi definido.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@undefined - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined)
-- [@video@undefined in JS](https://www.youtube.com/watch?v=B7iF6G3EyIk&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP&index=8)
+- [@artigo@undefined - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined)
+- [@vídeo@undefined em JS](https://www.youtube.com/watch?v=B7iF6G3EyIk&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP&index=8)

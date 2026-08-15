@@ -1,7 +1,7 @@
-# Using (this) keyword
- 
-The `this` keyword refers to the object that is currently executing the code. Its value depends on how and where a function is called, not where it is defined (except in arrow functions). Understanding `this` is one of the more complex aspects of JavaScript.
+# Usando a palavra-chave (this)
 
-Visit the following resources to learn more:
+A palavra-chave `this` se refere ao objeto que está executando o código. Seu valor depende de como e onde uma função é chamada, não onde ela é definida (exceto em funções flecha). Entender `this` é um dos aspectos mais complexos do JavaScript.
 
-- [@article@This Keyword](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)
+Visite os seguintes recursos para saber mais:
+
+- [@artigo@Palavra-chave this](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)

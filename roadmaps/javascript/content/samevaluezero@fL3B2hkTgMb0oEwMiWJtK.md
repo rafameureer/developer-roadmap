@@ -1,7 +1,7 @@
 # SameValueZero
  
-SameValueZero is an equality algorithm used internally by JavaScript in methods like `Array.prototype.includes()` and `Map` key comparison. It behaves like `===` but treats `NaN` as equal to itself. Unlike `SameValue`, it considers `+0` and `-0` as equal.
+SameValueZero é um algoritmo de igualdade usado internamente pelo JavaScript em métodos como `Array.prototype.includes()` e comparação de chaves em `Map`. Ele se comporta como `===` mas trata `NaN` como igual a si mesmo. Diferentemente do `SameValue`, ele considera `+0` e `-0` como iguais.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Same-value-zero equality](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness#same-value-zero_equality)
+- [@article@Igualdade de mesmo valor zero](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Comparação_de_valores_e_igualdade#igualdade_de_mesmo_valor_zero)

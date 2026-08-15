@@ -1,7 +1,7 @@
-# Comma operators
+# Operadores de vírgula
 
-The comma operator (`,`) evaluates each of its operands (from left to right) and returns the value of the last operand. This lets you create a compound expression in which multiple expressions are evaluated, with the compound expression's final value being the value of the rightmost of its member expressions. This is commonly used to provide multiple parameters to a `for` loop.
+O operador de vírgula (`,`) avalia cada um dos seus operandos (da esquerda para a direita) e retorna o valor do último operando. Isso permite criar uma expressão composta em que múltiplas expressões são avaliadas, com o valor final da expressão composta sendo o valor da expressão membro mais à direita. Isso é comumente usado para fornecer vários parâmetros a um loop `for`.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Comma operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Comma_Operator)
+- [@artigo@Operador de vírgula](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Comma_Operator)

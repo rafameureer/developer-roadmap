@@ -1,10 +1,10 @@
-# Variable Scopes
- 
-Scope determines where in a program a variable is accessible. JavaScript has three main scope levels: global, function, and block. Understanding scope is important for avoiding naming conflicts and unintended variable access.
+# Escopos das Variáveis
 
-Visit the following resources to learn more:
+O escopo determina onde em um programa uma variável é acessível. JavaScript tem três níveis principais de escopo: global, função e bloco. Entender o escopo é importante para evitar conflitos de nomeação e acesso a variáveis não intencional.
 
-- [@article@Scope](https://developer.mozilla.org/en-US/docs/Glossary/Scope)
-- [@article@Deep dive into Scope Chains and Closures](https://www.freecodecamp.org/news/deep-dive-into-scope-chains-and-closures-21ee18b71dd9/)
-- [@article@JavaScript Scope](https://www.w3schools.com/js/js_scope.asp)
-- [@video@Understanding Global Local Function Block Scope](https://www.youtube.com/watch?v=_E96W6ivHng)
+Acesse os seguintes recursos para saber mais:
+
+- [@artigo@Escopo](https://developer.mozilla.org/pt-BR/glossario/Escopo)
+- [@artigo@Profundidade na cadeia de escopos e fechamentos](https://www.freecodecamp.org/news/deep-dive-into-scope-chains-and-closures-21ee18b71dd9/)
+- [@artigo@Escopo em JavaScript](https://www.w3schools.com/js/js_scope.asp)
+- [@vídeo@Entendendo Escopos Globais, Locais, de Função e de Bloco](https://www.youtube.com/watch?v=_E96W6ivHng)

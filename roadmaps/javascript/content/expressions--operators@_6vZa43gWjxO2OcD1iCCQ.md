@@ -1,7 +1,7 @@
-# Expressions & Operators
+# Expressões & Operadores
  
-Expressions are combinations of values, variables, and operators that evaluate to a value. Operators perform operations on values and include arithmetic, comparison, logical, assignment, and bitwise operators. Understanding operator precedence and behavior is necessary for writing correct expressions.
+As expressões são combinações de valores, variáveis e operadores que avaliam a um valor. Os operadores realizam operações em valores e incluem operadores aritméticos, de comparação, lógicos, de atribuição e bit a bit. Entender a precedência e o comportamento dos operadores é necessário para escrever expressões corretas.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@article@Expressions and operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
+- [@artigo@Expressões e Operadores](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)

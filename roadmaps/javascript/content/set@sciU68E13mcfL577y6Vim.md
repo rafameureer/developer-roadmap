@@ -1,7 +1,7 @@
-# Set
- 
-A `Set` is a collection of unique values with no duplicates. Values in a Set can be of any type, and the Set maintains insertion order. Sets are useful for deduplicating arrays and checking membership efficiently.
+# Conjunto (Set)
 
-Visit the following resources to learn more:
+Um `Conjunto` é uma coleção de valores únicos sem duplicatas. Os valores em um Conjunto podem ser de qualquer tipo, e o Conjunto mantém a ordem de inserção. Conjuntos são úteis para deduplicar arrays e verificar a pertencência de forma eficiente.
 
-- [@article@Set - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set)
+Acesse os seguintes recursos para saber mais:
+
+- [@artigo@Conjunto - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set)

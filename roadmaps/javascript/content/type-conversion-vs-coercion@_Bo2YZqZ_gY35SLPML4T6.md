@@ -1,9 +1,9 @@
-# Type Conversion/Coercion
+# Conversão de Tipo / Coerção
 
-Type coercion is the automatic or implicit conversion of values from one data type to another (such as strings to numbers). Type conversion is similar to type coercion because they convert values from one data type to another with one key difference — type coercion is implicit. In contrast, type conversion can be either implicit or explicit.
+A coerção de tipo é a conversão automática ou implícita de valores de um tipo de dado para outro (como strings para números). A conversão de tipo é semelhante à coerção de tipo porque ambas convertem valores de um tipo de dado para outro, com uma única diferença-chave — a coerção de tipo é implícita. Em contraste, a conversão de tipo pode ser implícita ou explícita.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Type Conversion - MDN](https://developer.mozilla.org/en-US/docs/Glossary/Type_Conversion)
-- [@article@Type Coercion - MDN](https://developer.mozilla.org/en-US/docs/Glossary/Type_coercion)
-- [@video@Type Conversion and Coercion video](https://www.youtube.com/watch?v=jfQyMPzPTjY)
+- [@artigo@Conversão de Tipo - MDN](https://developer.mozilla.org/en-US/docs/Glossary/Type_Conversion)
+- [@artigo@Coerção de Tipo - MDN](https://developer.mozilla.org/en-US/docs/Glossary/Type_coercion)
+- [@vídeo@Vídeo sobre Conversão de Tipo e Coerção](https://www.youtube.com/watch?v=jfQyMPzPTjY)

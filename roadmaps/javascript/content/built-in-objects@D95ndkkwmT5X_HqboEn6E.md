@@ -1,8 +1,8 @@
-# Built-in Objects
- 
-JavaScript provides a set of built-in objects that are available without any imports. These include `Math`, `Date`, `JSON`, `Array`, `RegExp`, `Promise`, and others. They provide standard functionality for common tasks like math operations, date manipulation, and data serialization.
+# Objetos Integrados
 
-Visit the following resources to learn more:
+O JavaScript fornece um conjunto de objetos integrados disponíveis sem qualquer importação. Incluem `Math`, `Date`, `JSON`, `Array`, `RegExp`, `Promise` e outros. Eles fornecem funcionalidade padrão para tarefas comuns como operações matemáticas, manipulação de datas e serialização de dados.
 
-- [@article@Standard built-in objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects)
-- [@article@JavaScript Built-in Objects](https://www.tutorialride.com/javascript/javascript-built-in-objects.htm)
+Acesse os seguintes recursos para saber mais:
+
+- [@artigo@Objetos Integrados Padrão](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects)
+- [@artigo@Funções Integradas em JavaScript](https://www.tutorialride.com/javascript/javascript-built-in-objects.htm)

@@ -1,7 +1,7 @@
-# for...of statement
+# Declaração for...of
 
-The for...of statement executes a loop that operates on a sequence of values sourced from an iterable object. Iterable objects include instances of built-ins such as Array, String, TypedArray, Map, Set, NodeList (and other DOM collections), and the arguments object, generators produced by generator functions, and user-defined iterables.
+A declaração for...of executa um loop que opera em uma sequência de valores provenientes de um objeto iterável. Objetos iteráveis incluem instâncias de construtores como Array, String, TypedArray, Map, Set, NodeList (e outras coleções DOM), e o objeto arguments, geradores produzidos por funções geradoras e iteráveis definidos pelo usuário.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@for...of statement - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of)
+- [@artigo@Declaração for...of - MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Referência/Instruções/for...of)

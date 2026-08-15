@@ -1,9 +1,9 @@
-# Naming Rules
+# Regras de Nomenclatura
 
-A variable name should accurately identify your variable. When you create good variable names, your JavaScript code becomes easier to understand and easier to work with. Properly naming variables is really important. JavaScript also has some rules when it comes to naming variables; read about these rules through the links below.
+O nome da variável deve identificar adequadamente a sua variável. Quando você cria bons nomes de variáveis, o seu código JavaScript se torna mais fácil de entender e trabalhar. Nomear variáveis corretamente é realmente importante. JavaScript também tem algumas regras quando se trata de nomear variáveis; leia sobre essas regras através dos links abaixo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@JavaScript Variable Naming Tips - CodeGuage](https://www.codeguage.com/courses/js/variables#Tips_for_naming_variables)
-- [@article@Naming JavaScript Variables](https://www.dummies.com/article/technology/programming-web-design/javascript/naming-javascript-variables-142522/)
-- [@article@Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
+- [@artigo@Dicas de Nomenclatura de Variáveis em JavaScript - CodeGuage](https://www.codeguage.com/courses/js/variables#Tips_for_naming_variables)
+- [@artigo@Nomeando Variáveis em JavaScript](https://www.dummies.com/article/technology/programming-web-design/javascript/naming-javascript-variables-142522/)
+- [@artigo@Guia de Estilo do Google para JavaScript](https://google.github.io/styleguide/jsguide.html)

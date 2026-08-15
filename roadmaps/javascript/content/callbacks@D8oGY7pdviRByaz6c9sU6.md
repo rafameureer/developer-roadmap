@@ -1,8 +1,8 @@
 # Callbacks
 
-A callback function is a function passed into another function as an argument, which is then invoked inside the outer function to complete some kind of routine or action.
+Uma função de callback é uma função passada para outra função como argumento, que é então invocada dentro da função externa para completar algum tipo de rotina ou ação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Callbacks in JavaScript](https://javascript.info/callbacks)
-- [@article@Callback Functions](https://developer.mozilla.org/en-US/docs/Glossary/Callback_function)
+- [@artigo@Callbacks em JavaScript](https://javascript.info/callbacks)
+- [@artigo@Funções de Callback](https://developer.mozilla.org/pt-BR/docs/Glossário/Função_de_Callback)

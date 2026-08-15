@@ -1,8 +1,8 @@
-# Functions
+# Funções
 
-Functions exist so we can reuse code. They are blocks of code that execute whenever they are invoked. Each function is typically written to perform a particular task, like an addition function used to find the sum of two or more numbers. When numbers need to be added anywhere within your code, the addition function can be invoked as many times as necessary.
+As funções existem para que possamos reutilizar código. Eles são blocos de código que executam sempre que são invocados. Cada função é geralmente escrita para realizar uma tarefa específica, como uma função de adição usada para encontrar a soma de dois ou mais números. Quando números precisam ser adicionados em qualquer lugar no seu código, a função de adição pode ser invocada quantas vezes forem necessárias.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Functions - MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
-- [@article@JavaScript Functions in Detail - CodeGuage](https://www.codeguage.com/courses/js/functions-basics)
+- [@artigo@Funções - MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
+- [@artigo@Funções em JavaScript em Detalhes - CodeGuage](https://www.codeguage.com/courses/js/functions-basics)

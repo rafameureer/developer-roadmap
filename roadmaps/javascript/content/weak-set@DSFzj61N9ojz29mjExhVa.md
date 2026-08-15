@@ -1,8 +1,8 @@
 # Weak Set
- 
-A `WeakSet` is a collection of objects held with weak references. Unlike a regular Set, it only accepts objects (not primitives), and entries are automatically removed when the object is garbage collected. WeakSet is used when tracking object references without preventing them from being garbage collected.
 
-Visit the following resources to learn more:
+A `WeakSet` é uma coleção de objetos mantidos com referências frágeis. Diferentemente de um conjunto regular, ela aceita apenas objetos (não primitivos), e as entradas são removidas automaticamente quando o objeto é coletado pelo garbage collector. O `WeakSet` é usado para rastrear referências a objetos sem prevenir que eles sejam coletados pelo garbage collector.
 
-- [@article@WeakSet](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet)
-- [@article@WeakMap and WeakSet](https://javascript.info/weakmap-weakset)
+Acesse os seguintes recursos para saber mais:
+
+- [@artigo@WeakSet](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/WeakSet)
+- [@artigo@WeakMap e WeakSet](https://javascript.info/weakmap-weakset)

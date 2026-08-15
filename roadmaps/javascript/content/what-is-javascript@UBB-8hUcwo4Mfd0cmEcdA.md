@@ -1,10 +1,10 @@
-# What is JavaScript
- 
-JavaScript is a scripting language used to create dynamic behavior in web applications. It can manipulate HTML and CSS, respond to user events, communicate with servers, and update content without reloading the page. It follows the ECMAScript specification, which defines the language standard.
+# O que é JavaScript
 
-Visit the following resources to learn more:
+JavaScript é um idioma de script usado para criar comportamentos dinâmicos em aplicativos web. Ele pode manipular HTML e CSS, responder a eventos do usuário, comunicar-se com servidores e atualizar conteúdo sem recarregar a página. Ele segue a especificação ECMAScript, que define o padrão da linguagem.
 
-- [@article@The Modern JavaScript Tutorial](https://javascript.info/)
-- [@article@A Comprehensive Course on JavaScript with Quizzes and Exercises - CodeGuage](https://www.codeguage.com/courses/js/)
-- [@article@Exploring JS: JavaScript books for programmers](https://exploringjs.com/)
-- [@video@Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg)
+Acesse os seguintes recursos para saber mais:
+
+- [@artigo@O Tutorial Moderno de JavaScript](https://javascript.info/)
+- [@artigo@Um Curso Completo em JavaScript com Quiz e Exercícios - CodeGuage](https://www.codeguage.com/courses/js/)
+- [@artigo@Explorando JS: Livros de JavaScript para programadores](https://exploringjs.com/)
+- [@vídeo@Aprenda JavaScript - Curso completo para iniciantes](https://www.youtube.com/watch?v=PkZNo7MFNFg)

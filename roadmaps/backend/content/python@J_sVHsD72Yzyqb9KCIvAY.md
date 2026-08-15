@@ -1,10 +1,10 @@
 # Python
 
-Python is a high-level, interpreted language known for readability, simplicity, and versatility. Supports multiple paradigms with rich ecosystem including Django/Flask (web), Pandas/NumPy (data), TensorFlow/PyTorch (ML). Used for web development, data science, automation, and scripting.
+Python é um idioma de alto nível, interpretado conhecido por sua legibilidade, simplicidade e versatilidade. Suporta múltiplos paradigmas com um ecossistema rico incluindo Django/Flask (web), Pandas/NumPy (dados), TensorFlow/PyTorch (ML). Usado para desenvolvimento web, ciência de dados, automação e scripting.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit Dedicated Python Roadmap](https://roadmap.sh/python)
-- [@course@Python Full Course for free](https://www.youtube.com/watch?v=ix9cRaBkVe0)
-- [@official@Python Website](https://www.python.org/)
-- [@article@Automate the Boring Stuff](https://automatetheboringstuff.com/)
+- [@roadmap@Visite o Caminho Dedidado de Python](https://roadmap.sh/python)
+- [@course@Curso completo gratuito em Python](https://www.youtube.com/watch?v=ix9cRaBkVe0)
+- [@official@Site oficial do Python](https://www.python.org/)
+- [@article@Automatize o Boring Stuff](https://automatetheboringstuff.com/)

@@ -1,10 +1,10 @@
 # MS SQL
 
-Microsoft SQL Server is a relational database management system for structured data management. Supports querying, transactions, data warehousing with T-SQL, SSIS integration, SSAS analytics, and SSRS reporting. Used in enterprise environments for reliable storage and processing.
+O Microsoft SQL Server é um sistema de gerenciamento de banco de dados relacional para o gerenciamento de dados estruturados. Suporta consultas, transações, armazenamento de dados em massa com T-SQL, integração com SSIS, análise com SSAS e relatórios com SSRS. Usado em ambientes empresariais para armazenamento e processamento confiáveis.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit Dedicated SQL Roadmap](https://roadmap.sh/sql)
-- [@official@MS SQL](https://www.microsoft.com/en-ca/sql-server/)
-- [@article@Tutorials for SQL Server](https://docs.microsoft.com/en-us/sql/sql-server/tutorials-for-sql-server-2016?view=sql-server-ver15)
-- [@video@SQL Server tutorial for beginners](https://www.youtube.com/watch?v=-EPMOaV7h_Q)
+- [@roadmap@Visite o Caminho Dedidado ao SQL](https://roadmap.sh/sql)
+- [@oficial@MS SQL](https://www.microsoft.com/en-ca/sql-server/)
+- [@artigo@Tutoriais para SQL Server](https://docs.microsoft.com/en-us/sql/sql-server/tutorials-for-sql-server-2016?view=sql-server-ver15)
+- [@vídeo@Tutorial do SQL Server para iniciantes](https://www.youtube.com/watch?v=-EPMOaV7h_Q)

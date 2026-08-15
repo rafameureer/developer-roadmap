@@ -1,9 +1,9 @@
 # MS IIS
 
-Microsoft IIS is a flexible, secure web server for hosting web applications on Windows Server. Supports [ASP.NET](http://ASP.NET), PHP, static content with features like authentication, SSL/TLS, URL rewriting. Offers GUI and command-line management tools for enterprise Windows-based deployments.
+O Microsoft Internet Information Services (IIS) é um servidor web flexível e seguro para hospedar aplicativos web no Windows Server. Suporta [ASP.NET](http://ASP.NET), PHP, conteúdo estático com recursos como autenticação, SSL/TLS, reescrita de URL. Oferece ferramentas de gerenciamento baseadas em GUI e linha de comando para implantações empresariais do Windows.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Microsoft -IIS](https://www.iis.net/)
-- [@video@Learn Windows Web Server IIS](https://www.youtube.com/watch?v=1VdxPWwtISA)
-- [@video@What is IIS?](https://www.youtube.com/watch?v=hPWSqEXOjQY)
+- [@oficial@Microsoft -IIS](https://www.iis.net/)
+- [@vídeo@Learn Windows Web Server IIS](https://www.youtube.com/watch?v=1VdxPWwtISA)
+- [@vídeo@O que é IIS?](https://www.youtube.com/watch?v=hPWSqEXOjQY)

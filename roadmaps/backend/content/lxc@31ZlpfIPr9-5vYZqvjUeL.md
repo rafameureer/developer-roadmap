@@ -1,10 +1,10 @@
 # LXC
 
-LXC (Linux Containers) runs multiple Linux systems virtually on a single Linux kernel. Provides userspace interface for kernel containment features with powerful API and simple tools for creating and managing system or application containers.
+O LXC (Linux Containers) executa múltiplos sistemas Linux virtualmente em um único núcleo Linux. Fornece uma interface de espaço de usuário para recursos de contenção do kernel com uma API poderosa e ferramentas simples para criar e gerenciar contêineres de sistema ou aplicativos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@LXC Documentation](https://linuxcontainers.org/lxc/documentation/)
-- [@article@What is LXC?](https://linuxcontainers.org/lxc/introduction/)
-- [@video@Getting Started with LXD Containerization](https://www.youtube.com/watch?v=aIwgPKkVj8s)
-- [@video@Getting Started with LXC containers](https://youtu.be/CWmkSj_B-wo)
+- [@official@Documentação LXC](https://linuxcontainers.org/lxc/documentation/)
+- [@article@O que é LXC?](https://linuxcontainers.org/lxc/introduction/)
+- [@video@Introdução ao Containerização com LXD](https://www.youtube.com/watch?v=aIwgPKkVj8s)
+- [@video@Introdução aos Contêineres LXC](https://youtu.be/CWmkSj_B-wo)

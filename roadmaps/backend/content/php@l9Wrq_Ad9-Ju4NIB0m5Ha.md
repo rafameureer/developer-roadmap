@@ -1,10 +1,10 @@
 # PHP
 
-PHP (Hypertext Preprocessor) is an open-source scripting language for web development embedded in HTML to create dynamic pages. Known for simplicity and database integration, particularly MySQL. Powers major platforms like WordPress, Joomla, and Drupal with server-side scripting capabilities.
+PHP (Hypertext Preprocessor) é um linguagem de script aberta para desenvolvimento web incorporada em HTML para criar páginas dinâmicas. Conhecido por sua simplicidade e integração com bancos de dados, especialmente MySQL. Pode ser usado para alimentar grandes plataformas como WordPress, Joomla e Drupal com capacidades de scripting do lado do servidor.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Visit Dedicated PHP Roadmap](https://roadmap.sh/php)
+- [@official@Visite a Roadmap dedicada ao PHP](https://roadmap.sh/php)
 - [@official@PHP](https://php.net/)
 - [@article@PHP - The Right Way](https://phptherightway.com/)
-- [@video@PHP for Beginners](https://www.youtube.com/watch?v=zZ6vybT1HQs)
+- [@video@PHP para iniciantes](https://www.youtube.com/watch?v=zZ6vybT1HQs)

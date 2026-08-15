@@ -1,9 +1,9 @@
 # SOA
 
-SOA (Service-Oriented Architecture) uses reusable, loosely coupled services that interact over networks through standardized protocols like HTTP and XML. Each service performs specific business functions independently. Enables scalable, flexible, interoperable systems with modular development and easier integration.
+SOA (Arquitetura Orientada a Serviços) usa serviços reutilizáveis e desacoplados que se comunicam por redes através de protocolos padronizados como HTTP e XML. Cada serviço executa funções de negócios específicas independentemente. Permite sistemas escaláveis, flexíveis e interopéraveis com desenvolvimento modular e integração mais fácil.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is SOA?](https://aws.amazon.com/what-is/service-oriented-architecture/)
-- [@article@Reference Architecture Foundation for Service Oriented Architecture](http://docs.oasis-open.org/soa-rm/soa-ra/v1.0/soa-ra.html)
-- [@video@Service Oriented Architecture (SOA) Simplified](https://www.youtube.com/watch?v=PA9RjHI463g)
+- [@artigo@O que é SOA?](https://aws.amazon.com/what-is/service-oriented-architecture/)
+- [@artigo@Fundação da Arquitetura de Referência para a Arquitetura Orientada a Serviços](http://docs.oasis-open.org/soa-rm/soa-ra/v1.0/soa-ra.html)
+- [@vídeo@Arquitetura Orientada a Serviços (SOA) Simplificada](https://www.youtube.com/watch?v=PA9RjHI463g)

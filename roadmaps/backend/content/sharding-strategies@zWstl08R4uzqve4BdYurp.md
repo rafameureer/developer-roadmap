@@ -1,9 +1,9 @@
-# Sharding strategies
+# Estratégias de Sharding
 
-Sharding splits large datasets into smaller chunks (logical shards) distributed across different machines/database nodes to distribute traffic load. Improves application scalability. Supported by many but not all databases.
+O sharding divide grandes conjuntos de dados em partes menores (fragmentos lógicos de sharding) distribuídos em diferentes máquinas/nós de banco de dados para distribuir a carga de tráfego. Melhora a escabilidade da aplicação. Suportado por muitos, mas não por todos os bancos de dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Wikipedia - Sharding in Database Architectures](https://en.wikipedia.org/wiki/Shard_(database_architecture))
-- [@article@How sharding a database can make it faster](https://stackoverflow.blog/2022/03/14/how-sharding-a-database-can-make-it-faster/)
-- [@video@What is Database Sharding?](https://www.youtube.com/watch?v=XP98YCr-iXQ)
+- [@artigo@Wikipedia - Sharding em Arquiteturas de Banco de Dados](https://en.wikipedia.org/wiki/Shard_(database_architecture))
+- [@artigo@Como o sharding de um banco de dados pode torná-lo mais rápido](https://stackoverflow.blog/2022/03/14/how-sharding-a-database-can-make-it-faster/)
+- [@vídeo@O que é Sharding de Banco de Dados?](https://www.youtube.com/watch?v=XP98YCr-iXQ)

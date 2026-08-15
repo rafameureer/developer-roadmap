@@ -1,10 +1,10 @@
 # Elasticsearch
 
-Elasticsearch is a document-oriented search engine and database supporting INSERT, DELETE, RETRIEVE operations and analytics. Unlike general databases, it's optimized for search with powerful features for fast data retrieval based on search criteria.
+O Elasticsearch é um mecanismo de busca e banco de dados orientado a documentos que suporta operações de INSERIR, DELETAR e RECUPERAR, além de análises. Diferentemente dos bancos de dados gerais, ele está otimizado para buscas com recursos poderosos para uma recuperação rápida de dados com base em critérios de busca.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@roadmap@Visit the Dedicated Elasticsearch Roadmap](https://roadmap.sh/elasticsearch)
-- [@official@Elasticsearch Website](https://www.elastic.co/elasticsearch/)
-- [@official@Elasticsearch Documentation](https://www.elastic.co/guide/index.html)
-- [@video@What is Elasticsearch](https://www.youtube.com/watch?v=ZP0NmfyfsoM)
+- [@roadmap@Visite o Caminho Dedidado do Elasticsearch](https://roadmap.sh/elasticsearch)
+- [@official@Site oficial do Elasticsearch](https://www.elastic.co/elasticsearch/)
+- [@official@Documentação oficial do Elasticsearch](https://www.elastic.co/guide/index.html)
+- [@video@O que é o Elasticsearch](https://www.youtube.com/watch?v=ZP0NmfyfsoM)

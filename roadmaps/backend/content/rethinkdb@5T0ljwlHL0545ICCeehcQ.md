@@ -1,9 +1,9 @@
 # RethinkDB
 
-RethinkDB is an open-source, distributed NoSQL database for real-time applications. Features changefeed for automatic data update notifications, JSON document model, rich queries with joins and aggregations. Supports horizontal scaling through sharding and replication. After the original company shut down in 2016, the project was open-sourced and is now maintained by the community, with releases continuing as recently as 2023.
+RethinkDB é um banco de dados não relacional distribuído e de código aberto para aplicações em tempo real. Características como changefeed para notificações automáticas de atualização de dados, modelo de documento JSON, consultas ricas com junções e agregações. Suporta escalabilidade horizontal através de sharding e replicação. Após a fechamento da empresa original em 2016, o projeto foi open-sourced e agora é mantido pela comunidade, com lançamentos continuos até 2023.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@RethinkDB Crash Course](https://www.youtube.com/watch?v=pW3PFtchHDc)
-- [@official@RethinkDB Website](https://rethinkdb.com/)
-- [@official@Ten-minute Guide with RethinkDB](https://rethinkdb.com/docs/guide/)
+- [@curso@Curso RethinkDB Crash Course](https://www.youtube.com/watch?v=pW3PFtchHDc)
+- [@oficial@Site oficial do RethinkDB](https://rethinkdb.com/)
+- [@oficial@Guia de 10 minutos com o RethinkDB](https://rethinkdb.com/docs/guide/)

@@ -1,10 +1,10 @@
 # Redis
 
-Redis is an open-source, in-memory data structure store supporting strings, lists, sets, hashes, and sorted sets. Used for caching, session management, real-time analytics, and message brokering. Offers persistence, replication, clustering, and low-latency high-throughput performance.
+Redis é um armazenamento de estruturas de dados em memória de código-fonte aberto que suporta strings, listas, conjuntos, hashes e conjuntos ordenados. Usado para caching, gerenciamento de sessão, análise em tempo real e mensageria. Oferece persistência, replicação, clustering e desempenho de alta taxa de transferência com baixa latência.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit Dedicated Redis Roadmap](https://roadmap.sh/redis)
-- [@course@Redis Crash Course](https://www.youtube.com/watch?v=XCsS_NVAa1g)
-- [@official@Redis Documentation](https://redis.io/docs/latest/)
-- [@video@Redis Tutorial for Beginners](https://www.youtube.com/watch?v=jgpVdJB2sKQ)
+- [@roadmap@Visite o Caminho Dedidado do Redis](https://roadmap.sh/redis)
+- [@course@Curso de Crash do Redis](https://www.youtube.com/watch?v=XCsS_NVAa1g)
+- [@official@Documentação oficial do Redis](https://redis.io/docs/latest/)
+- [@video@Tutorial do Redis para Iniciantes](https://www.youtube.com/watch?v=jgpVdJB2sKQ)

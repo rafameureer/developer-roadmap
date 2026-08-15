@@ -1,9 +1,9 @@
 # Nginx
 
-Nginx is a high-performance web server and reverse proxy known for efficiency and low resource consumption. Also used as load balancer, HTTP cache, and mail proxy. Excels at concurrent connections via asynchronous, event-driven architecture. Popular for modern web infrastructures.
+Nginx é um servidor web e proxy reverso de alto desempenho, conhecido por sua eficiência e baixo consumo de recursos. Também usado como balanceador de carga, cache HTTP e proxy de email. Excela em conexões simultâneas através de uma arquitetura assíncrona e baseada em eventos. Popular para infraestruturas web modernas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Nginx Website](https://nginx.org/)
-- [@video@NGINX Explained in 100 Seconds](https://www.youtube.com/watch?v=JKxlsvZXG7c)
-- [@video@NGINX Tutorial for Beginners](https://www.youtube.com/watch?v=9t9Mp0BGnyI)
+- [@official@Site oficial do Nginx](https://nginx.org/)
+- [@video@Nginx explicado em 100 segundos](https://www.youtube.com/watch?v=JKxlsvZXG7c)
+- [@video@Tutorial de introdução ao Nginx](https://www.youtube.com/watch?v=9t9Mp0BGnyI)

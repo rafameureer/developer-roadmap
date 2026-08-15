@@ -1,8 +1,8 @@
 # Security Assertion Markup Language (SAML)
 
-SAML (Security Assertion Markup Language) is an XML-based framework for single sign-on (SSO) and identity federation. Enables authentication exchange between identity providers (IdP) and service providers (SP) through XML assertions containing user identity and permissions. Streamlines user management and centralized authentication.
+SAML (Security Assertion Markup Language) é um quadro baseado em XML para o Single Sign-On (SSO) e a federação de identidade. Habilita a troca de autenticação entre provedores de identidade (IdP) e provedores de serviço (SP) através de declarações XML contendo a identidade do usuário e permissões. Simplifica a gestão de usuários e a autenticação centralizada.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@SAML Explained in Plain English](https://www.onelogin.com/learn/saml)
-- [@video@How SAML Authentication Works](https://www.youtube.com/watch?v=VzRnb9u8T1A)
+- [@article@SAML Explicado em Linguagem Simples](https://www.onelogin.com/learn/saml)
+- [@video@Como Funciona a Autenticação SAML](https://www.youtube.com/watch?v=VzRnb9u8T1A)

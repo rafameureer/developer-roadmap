@@ -1,10 +1,10 @@
 # Ruby
 
-Ruby is a high-level, object-oriented language known for simplicity, productivity, and elegant syntax. Emphasizes developer happiness and supports multiple paradigms. Famous for the Ruby on Rails framework, enabling rapid web application development. Popular for web development, scripting, and prototyping.
+Ruby é um idioma de alto nível e orientado a objetos conhecido por sua simplicidade, produtividade e sintaxe elegante. Destaca a felicidade do desenvolvedor e suporta múltiplos paradigmas. Famoso pelo framework Ruby on Rails, que habilita o desenvolvimento rápido de aplicativos web. Popular para desenvolvimento web, scripting e prototipagem.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated Ruby Roadmap](https://roadmap.sh/ruby)
-- [@article@Learn Ruby in 20 minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
-- [@article@Ruby, An Introduction to a Programmer’s Best Friend](https://thenewstack.io/ruby-a-programmers-best-friend/)
-- [@video@Ruby Comprehensive courses](https://www.youtube.com/playlist?list=PL_EzhIKp343lBMH4UuklrMRL_WkilGoXe)
+- [@roadmap@Visite a Rota Mapeada do Ruby](https://roadmap.sh/ruby)
+- [@article@Aprenda Ruby em 20 minutos](https://www.ruby-lang.org/en/documentation/quickstart/)
+- [@article@Ruby, uma Introdução ao Melhor Amigo de um Programador](https://thenewstack.io/ruby-a-programmers-best-friend/)
+- [@video@Cursos Completos sobre Ruby](https://www.youtube.com/playlist?list=PL_EzhIKp343lBMH4UuklrMRL_WkilGoXe)

@@ -1,10 +1,10 @@
-# Database Indexes
+# Índices de Banco de Dados
 
-Database indexes are data structures that speed up data retrieval by creating references to table data without full table scans. Include B-tree, bitmap, and hash types. Enhance query performance but increase storage requirements and slow down writes due to index maintenance.
+Os índices de banco de dados são estruturas de dados que aceleram a recuperação de dados criando referências aos dados da tabela sem necessidade de varredura completa da tabela. Incluem tipos B-tree, bitmap e hash. Aumentam o desempenho das consultas, mas aumentam as exigências de armazenamento e retardam as gravações devido à manutenção dos índices.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@PostgreSQL - Indexes](https://www.postgresql.org/docs/current/indexes.html)
-- [@article@What is a Database Index?](https://www.codecademy.com/article/sql-indexes)
-- [@article@Use the Index, Luke! - A Guide to Database Performance for Developers](https://use-the-index-luke.com/)
-- [@video@Database Indexing Explained](https://www.youtube.com/watch?v=-qNSXK7s7_w)
+- [@oficial@PostgreSQL - Índices](https://www.postgresql.org/docs/current/indexes.html)
+- [@artigo@O que é um Índice de Banco de Dados?](https://www.codecademy.com/article/sql-indexes)
+- [@artigo@Use o Índice, Luke! - Um Guia para a Performance do Banco de Dados para Desenvolvedores](https://use-the-index-luke.com/)
+- [@vídeo@Explicação sobre Índices de Banco de Dados](https://www.youtube.com/watch?v=-qNSXK7s7_w)

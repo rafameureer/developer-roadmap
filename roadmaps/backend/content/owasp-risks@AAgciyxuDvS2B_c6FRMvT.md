@@ -1,10 +1,10 @@
-# OWASP Security Risks
+# OWASP Segurança de Riscos
 
-OWASP (Open Web Application Security Project) is an online community producing freely-available articles, methodologies, documentation, tools, and technologies for web application security.
+OWASP (Open Web Application Security Project) é uma comunidade online produzindo artigos, metodologias, documentação, ferramentas e tecnologias gratuitamente disponíveis para segurança de aplicativos web.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@OWASP Website](https://owasp.org/)
+- [@official@Site oficial do OWASP](https://owasp.org/)
 - [@opensource@OWASP Application Security Verification Standard](https://github.com/OWASP/ASVS)
-- [@article@OWASP Top 10 Security Risks](https://cheatsheetseries.owasp.org/IndexTopTen.html)
-- [@article@OWASP Cheatsheets](https://cheatsheetseries.owasp.org/cheatsheets/AJAX_Security_Cheat_Sheet.html)
+- [@article@Top 10 Riscos de Segurança da OWASP](https://cheatsheetseries.owasp.org/IndexTopTen.html)
+- [@article@Cheatsheets da OWASP](https://cheatsheetseries.owasp.org/cheatsheets/AJAX_Security_Cheat_Sheet.html)

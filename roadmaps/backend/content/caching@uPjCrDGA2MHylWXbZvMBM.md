@@ -1,9 +1,9 @@
-# Caching
+# Cache
 
-Caching is a technique used to store copies of data in a temporary storage location so that future requests for that data can be served faster. This temporary storage, known as a cache, can be located closer to the request source than the original data source, reducing latency and improving application performance. By retrieving data from the cache instead of the original source, applications can respond more quickly and efficiently.
+O cache é uma técnica usada para armazenar cópias de dados em um local de armazenamento temporário, de modo que solicitações futuras desses dados possam ser atendidas mais rapidamente. Este armazenamento temporário, conhecido como cache, pode estar localizado mais próximo da fonte da solicitação do que a fonte original dos dados, reduzindo a latência e melhorando o desempenho da aplicação. Ao recuperar dados do cache em vez da fonte original, as aplicações podem responder mais rapidamente e eficientemente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is caching?](https://www.cloudflare.com/en-gb/learning/cdn/what-is-caching/)
-- [@article@Top Caching Strategies Explained](https://blog.bytebytego.com/p/top-caching-strategies)
-- [@video@Caching Complete Tutorial for Beginners](https://www.youtube.com/watch?v=1XJG34mewts)
+- [@artigo@O que é cache?](https://www.cloudflare.com/en-gb/learning/cdn/what-is-caching/)
+- [@artigo@As Melhores Estratégias de Cache Explícitas](https://blog.bytebytego.com/p/top-caching-strategies)
+- [@vídeo@Tutorial Completo de Cache para Iniciantes](https://www.youtube.com/watch?v=1XJG34mewts)

@@ -1,10 +1,10 @@
-# Relational Databases
+# Bancos de Dados Relacionais
 
-Relational databases organize data into structured tables with rows and columns, using SQL for querying. Enforce data integrity through keys and constraints, handle complex queries and transactions efficiently. Examples: MySQL, PostgreSQL, Oracle. Used for structured data storage and strong consistency.
+Os bancos de dados relacionais organizam os dados em tabelas estruturadas com linhas e colunas, usando SQL para consultas. Impõem a integridade dos dados através de chaves e restrições, lidando eficientemente com consultas complexas e transações. Exemplos: MySQL, PostgreSQL, Oracle. Usados para armazenamento de dados estruturados e consistência forte.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@Databases and SQL](https://www.edx.org/course/databases-5-sql)
-- [@article@Relational Databases](https://www.ibm.com/cloud/learn/relational-databases)
-- [@article@Intro To Relational Databases](https://www.udacity.com/course/intro-to-relational-databases--ud197)
-- [@video@What is Relational Database](https://youtu.be/OqjJjpjDRLc)
+- [@course@Bancos de Dados e SQL](https://www.edx.org/course/databases-5-sql)
+- [@article@Bancos de Dados Relacionais](https://www.ibm.com/cloud/learn/relational-databases)
+- [@article@Introdução aos Bancos de Dados Relacionais](https://www.udacity.com/course/intro-to-relational-databases--ud197)
+- [@video@O que é Banco de Dados Relacional](https://youtu.be/OqjJjpjDRLc)

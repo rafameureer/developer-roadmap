@@ -1,10 +1,10 @@
-# Functional Testing
+# Teste Funcional
 
-Functional testing ensures software meets functional requirements through black box testing. Testers provide input and compare expected vs actual output without understanding source code. Contrasts with non-functional testing (performance, load, scalability).
+O teste funcional garante que o software atenda aos requisitos funcionais através de testes de caixa preta. Os testadores fornecem entrada e compparam a saída esperada com a saída real, sem entender o código-fonte. Contraste com o teste não-funcional (desempenho, carga, escalabilidade).
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Playwright - End-to-End Testing Documentation](https://playwright.dev/docs/intro)
-- [@article@What is Functional Testing?](https://www.guru99.com/functional-testing.html)
-- [@article@Functional Testing: What It Is and How to Do It Right](https://www.atlassian.com/continuous-delivery/software-testing/functional-testing)
-- [@video@Functional Testing vs Non-Functional Testing](https://www.youtube.com/watch?v=NgQT7miTP9M)
+- [@official@Playwright - Documentação de Testes End-to-End](https://playwright.dev/docs/intro)
+- [@article@O que é Teste Funcional?](https://www.guru99.com/functional-testing.html)
+- [@article@Teste Funcional: O Que É e Como Fazer Corretamente](https://www.atlassian.com/continuous-delivery/software-testing/functional-testing)
+- [@video@Teste Funcional vs Não-Funcional](https://www.youtube.com/watch?v=NgQT7miTP9M)

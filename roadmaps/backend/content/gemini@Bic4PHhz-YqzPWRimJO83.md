@@ -1,9 +1,9 @@
 # Gemini
 
-Gemini is a family of multimodal large language models (LLMs) developed by Google. These models are designed to handle and understand different types of data, including text, code, images, audio, and video. They are used to build AI-powered features by providing capabilities such as natural language understanding, content generation, and complex reasoning.
+Gemini é uma família de modelos de linguagem de grande escala multimodal (LLMs) desenvolvidos pela Google. Esses modelos são projetados para lidar e entender diferentes tipos de dados, incluindo texto, código, imagens, áudio e vídeo. Eles são usados para construir recursos baseados em IA fornecendo capacidades como compreensão de linguagem natural, geração de conteúdo e raciocínio complexo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Google Gemini](https://gemini.google.com/)
-- [@official@Google's Gemini Documentation](https://workspace.google.com/solutions/ai/)
-- [@video@Welcome to the Gemini era](https://www.youtube.com/watch?v=_fuimO6ErKI)
+- [@official@Documentação do Google Gemini](https://workspace.google.com/solutions/ai/)
+- [@video@Bem-vindo à Era do Gemini](https://www.youtube.com/watch?v=_fuimO6ErKI)

@@ -1,9 +1,9 @@
-# Twelve-Factor Apps
+# Aplicativos de 12 Fatores
 
-Twelve-Factor App methodology provides principles for building scalable, maintainable cloud applications. Key factors: single codebase, explicit dependencies, environment config, stateless processes, port binding, dev/prod parity, log streams, and graceful shutdown for portability and deployment ease.
+A metodologia dos Aplicativos de 12 Fatores fornece princípios para a construção de aplicativos em nuvem escaláveis e manteráveis. Fatores-chave: código único, dependências explícitas, configuração do ambiente, processos sem estado, vinculação de portas, paridade dev/prod, fluxos de log e desligamento graciosamente para portabilidade e facilidade de implantação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@The Twelve-Factor App](https://12factor.net/)
-- [@article@An illustrated guide to 12 Factor Apps](https://www.redhat.com/architect/12-factor-app)
-- [@video@Every Developer NEEDS To Know 12-Factor App Principles](https://www.youtube.com/watch?v=FryJt0Tbt9Q)
+- [@artigo@Os Aplicativos de 12 Fatores](https://12factor.net/)
+- [@artigo@Guia ilustrado dos Aplicativos de 12 Fatores](https://www.redhat.com/architect/12-factor-app)
+- [@vídeo@Todos os desenvolvedores precisam saber sobre os princípios dos Aplicativos de 12 Fatores](https://www.youtube.com/watch?v=FryJt0Tbt9Q)

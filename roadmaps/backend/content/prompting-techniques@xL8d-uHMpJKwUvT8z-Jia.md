@@ -1,10 +1,10 @@
-# Prompt Engineering
+# Engenharia de Prompt
 
-Prompt engineering is the process of crafting effective inputs (prompts) to guide AI models to generate desired outputs. It involves strategically designing prompts to optimize the model’s performance by providing clear instructions, context, and examples. Effective prompt engineering can improve the quality, relevance, and accuracy of responses, making it essential for applications like chatbots, content generation, and automated support. By refining prompts, developers can better control the model’s behavior, reduce ambiguity, and achieve more consistent results, enhancing the overall effectiveness of AI-driven systems.
+A engenharia de prompt é o processo de criar entradas eficazes (prompts) para guiar modelos de IA em gerar saídas desejadas. Envolve o design estratégico de prompts para otimizar o desempenho do modelo, fornecendo instruções claras, contexto e exemplos. A engenharia de prompt eficaz pode melhorar a qualidade, relevância e precisão das respostas, tornando-se essencial para aplicações como chatbots, geração de conteúdo e suporte automatizado. Ao refinar prompts, os desenvolvedores podem ter mais controle sobre o comportamento do modelo, reduzir ambiguidade e obter resultados mais consistentes, melhorando a eficácia geral dos sistemas baseados em IA.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit Dedicated Prompt Engineering Roadmap](https://roadmap.sh/prompt-engineering)
-- [@course@Introduction to Prompt Engineering](https://learnprompting.org/courses/intro-to-prompt-engineering)
-- [@article@Prompt engineering techniques](https://www.ibm.com/think/topics/prompt-engineering-techniques)
-- [@video@What is Prompt Engineering?](https://www.youtube.com/watch?v=nf1e-55KKbg)
+- [@roadmap@Visite o Caminho Dedidado de Engenharia de Prompt](https://roadmap.sh/prompt-engineering)
+- [@course@Introdução à Engenharia de Prompt](https://learnprompting.org/courses/intro-to-prompt-engineering)
+- [@article@Técnicas de engenharia de prompt](https://www.ibm.com/think/topics/prompt-engineering-techniques)
+- [@video@O que é Engenharia de Prompt?](https://www.youtube.com/watch?v=nf1e-55KKbg)

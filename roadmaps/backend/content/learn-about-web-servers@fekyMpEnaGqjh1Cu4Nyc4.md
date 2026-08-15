@@ -1,9 +1,9 @@
-# Web Servers
+# Servidores Web
 
-Web servers handle client requests and serve web content like HTML pages and images. Process HTTP/HTTPS requests, interact with databases, and send responses. Popular servers include Apache, Nginx, and IIS. Essential for hosting websites, managing traffic, and providing SSL/TLS security.
+Servidores web lidam com solicitações de clientes e servem conteúdo da web como páginas HTML e imagens. Processam solicitações HTTP/HTTPS, interagem com bancos de dados e enviam respostas. Servidores populares incluem Apache, Nginx e IIS. Essenciais para hospedar sites, gerenciar tráfego e fornecer segurança SSL/TLS.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is a Web Server? - Mozilla](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server)
-- [@article@What is a Web Server?](https://www.hostinger.co.uk/tutorials/what-is-a-web-server)
-- [@video@Web Server Concepts and Examples](https://youtu.be/9J1nJOivdyw)
+- [@article@O que é um Servidor Web? - Mozilla](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server)
+- [@article@O que é um Servidor Web?](https://www.hostinger.co.uk/tutorials/what-is-a-web-server)
+- [@video Conceitos e Exemplos de Servidores Web](https://youtu.be/9J1nJOivdyw)

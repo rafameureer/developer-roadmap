@@ -1,10 +1,10 @@
-# Structured Outputs
+# Saídas Estruturadas
 
-Structured outputs involve prompting LLMs to return responses in specific formats like JSON, XML, or other organized structures rather than free-form text. This approach forces models to organize information systematically, reduces hallucinations by imposing format constraints, enables easy programmatic processing, and facilitates integration with applications. For example, requesting movie classification results as JSON with specified schema ensures consistent, parseable responses. Structured outputs are particularly valuable for data extraction, API integration, and applications requiring reliable data formatting.
+Saídas estruturadas envolvem encorajar os LLMs a retornar respostas em formatos específicos como JSON, XML ou outras estruturas organizadas em vez de texto livre-form. Esse abordagem obriga os modelos a organizar informações sistematicamente, reduzindo as ilusões ao impor restrições de formato e facilitando o processamento programático e a integração com aplicativos. Por exemplo, solicitar resultados de classificação de filmes como JSON com esquema especificado garante respostas consistentes e analisáveis. Saídas estruturadas são particularmente valiosas para extração de dados, integração de APIs e aplicativos que requerem formatação de dados confiável.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Diving Deeper with Structured Outputs](https://medium.com/data-science/diving-deeper-with-structured-outputs-b4a5d280c208)
-- [@article@Structured model outputs - OpenAI](https://platform.openai.com/docs/guides/structured-outputs)
-- [@article@Structured outputs - Claude](https://platform.claude.com/docs/en/build-with-claude/structured-outputs)
-- [@video@How to Measure LLM Confidence: Logprobs & Structured Output](https://www.youtube.com/watch?v=THsGizLHrTs)
+- [@article@Descubra Mais com Saídas Estruturadas](https://medium.com/data-science/diving-deeper-with-structured-outputs-b4a5d280c208)
+- [@article@Saídas de modelo estruturado - OpenAI](https://platform.openai.com/docs/guides/structured-outputs)
+- [@article@Saídas estruturadas - Claude](https://platform.claude.com/docs/en/build-with-claude/structured-outputs)
+- [@video@Como Medir a Confiança do LLM: Logprobs & Saída Estruturada](https://www.youtube.com/watch?v=THsGizLHrTs)

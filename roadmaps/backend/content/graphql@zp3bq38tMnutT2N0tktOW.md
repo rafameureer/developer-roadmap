@@ -1,9 +1,9 @@
 # GraphQL
 
-GraphQL is Facebook's query language for APIs, allowing clients to request exactly the data they need. Uses a single endpoint with schema-defined data structure, reducing over-fetching and under-fetching. More flexible than REST for complex applications with diverse platform needs.
+GraphQL é uma linguagem de consulta para APIs, criada pela Facebook. Permite que os clientes solicitem exatamente os dados que precisam. Usa um único endpoint com uma estrutura de dados definida pelo esquema, reduzindo o sobre-solicitação e a sub-solicitação. Mais flexível do que REST para aplicações complexas com diferentes necessidades de plataforma.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit Dedicated GraphQL Roadmap](https://roadmap.sh/graphql)
-- [@official@GraphQL](https://graphql.org/)
-- [@video@Tutorial - GraphQL Explained in 100 Seconds](https://www.youtube.com/watch?v=eIQh02xuVw4)
+- [@roadmap@Visite o Caminho Dedidado do GraphQL](https://roadmap.sh/graphql)
+- [@oficial@GraphQL](https://graphql.org/)
+- [@vídeo@Tutorial - GraphQL Explicado em 100 Segundos](https://www.youtube.com/watch?v=eIQh02xuVw4)

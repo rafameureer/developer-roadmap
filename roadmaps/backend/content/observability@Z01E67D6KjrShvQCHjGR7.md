@@ -1,10 +1,10 @@
-# Observability
+# Observabilidade
 
-Observability monitors system internal state through external outputs like metrics, logs, and traces. Involves collecting, analyzing, and visualizing data for performance insights, anomaly detection, and troubleshooting. Enables proactive management and rapid issue response.
+A observabilidade monitora o estado interno do sistema através de saídas externas como métricas, logs e rastreamentos. Envolve a coleta, análise e visualização de dados para insights de desempenho, detecção de anomalias e solução de problemas. Habilita um gerenciamento proativo e uma resposta rápida a problemas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@article@DataDog Docs](https://docs.datadoghq.com/)
 - [@article@Sentry Docs](https://docs.sentry.io/)
-- [@article@Observability and Instrumentation: What They Are and Why They Matter](https://newrelic.com/blog/best-practices/observability-instrumentation)
-- [@video@What is observability?](https://www.youtube.com/watch?v=--17See0KHs)
+- [@article@O que é Observabilidade e Instrumentação: O Que Eles São e Porque Importam](https://newrelic.com/blog/best-practices/observability-instrumentation)
+- [@video@O que é observabilidade?](https://www.youtube.com/watch?v=--17See0KHs)

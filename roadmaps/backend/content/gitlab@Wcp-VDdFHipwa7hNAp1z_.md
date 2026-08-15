@@ -1,9 +1,9 @@
 # GitLab
 
-GitLab is a comprehensive DevOps platform providing source code management, CI/CD, issue tracking, and more in one application. Features merge requests, built-in pipelines, container registry, and Kubernetes integration. Offers cloud-hosted and self-hosted options for complete development lifecycle management.
+GitLab é uma plataforma DevOps completa que oferece gerenciamento de código-fonte, CI/CD, controle de problemas e muito mais em um único aplicativo. Características incluem solicitações de fusão, pipelines integrados, registro de contêineres e integração com Kubernetes. Oferece opções para hospedagem em nuvem e auto-hospedagem para o gerenciamento completo do ciclo de vida da desenvolvedoria.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@GitLab](https://gitlab.com/)
-- [@official@GitLab Documentation](https://docs.gitlab.com/)
-- [@video@What is GitLab and Why Use It?](https://www.youtube.com/watch?v=bnF7f1zGpo4)
+- [@official@Documentação do GitLab](https://docs.gitlab.com/)
+- [@video@O que é GitLab e por que usá-lo?](https://www.youtube.com/watch?v=bnF7f1zGpo4)

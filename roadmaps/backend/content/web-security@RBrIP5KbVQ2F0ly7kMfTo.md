@@ -1,10 +1,10 @@
-# Web Security Knowledge
+# Conhecimento de Segurança da Web
 
-Web security protects applications from threats through strong authentication, encryption (SSL/TLS), input validation preventing SQL injection and XSS attacks, secure coding practices, session management, regular updates, and ongoing security testing including penetration testing.
+A segurança da web protege as aplicações de ameaças através de autenticação forte, criptografia (SSL/TLS), validação de entrada que previne injeção SQL e ataques XSS, práticas de codificação segura, gerenciamento de sessões, atualizações regulares e testes de segurança contínuos, incluindo testes de penetração.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated Cybersecurity Roadmap](https://roadmap.sh/cyber-security)
-- [@opensource@OWASP Web Application Security Testing Checklist](https://github.com/0xRadi/OWASP-Web-Checklist)
-- [@article@Why HTTPS Matters](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https)
-- [@video@7 Security Risks and Hacking Stories for Web Developers](https://www.youtube.com/watch?v=4YOpILi9Oxs)
+- [@roadmap@Visite o Caminho Dedidado de Segurança Cibernética](https://roadmap.sh/cyber-security)
+- [@opensource@Lista de Verificação de Teste de Segurança da Aplicação Web OWASP](https://github.com/0xRadi/OWASP-Web-Checklist)
+- [@article@Por que HTTPS importa](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https)
+- [@video@7 Riscos de Segurança e Histórias de Hacking para Desenvolvedores Web](https://www.youtube.com/watch?v=4YOpILi9Oxs)

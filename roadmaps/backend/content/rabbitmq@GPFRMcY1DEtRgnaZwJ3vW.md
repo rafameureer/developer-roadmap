@@ -1,9 +1,9 @@
 # RabbitMQ
 
-RabbitMQ is an open-source message broker using AMQP for asynchronous communication between distributed systems. Enables message queuing, routing, durability, and acknowledgments. Supports various messaging patterns (pub/sub, request/reply, point-to-point). Used for high-throughput enterprise messaging.
+RabbitMQ é um intermediário de mensagens de código aberto que usa AMQP para comunicação assíncrona entre sistemas distribuídos. Permite enfileiramento de mensagens, roteamento, durabilidade e confirmações. Suporta vários padrões de mensagem (pub/sub, request/reply, point-to-point). Usado para mensageria empresarial de alta taxa de transferência.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@RabbitMQ Tutorials](https://www.rabbitmq.com/getstarted.html)
-- [@video@RabbitMQ Tutorial - Message Queues and Distributed Systems](https://www.youtube.com/watch?v=nFxjaVmFj5E)
-- [@video@RabbitMQ in 100 Seconds](https://m.youtube.com/watch?v=NQ3fZtyXji0)
+- [@official@Tutoriais do RabbitMQ](https://www.rabbitmq.com/getstarted.html)
+- [@video@Tutorial do RabbitMQ - Enfileiramento de Mensagens e Sistemas Distribuídos](https://www.youtube.com/watch?v=nFxjaVmFj5E)
+- [@video@RabbitMQ em 100 Segundos](https://m.youtube.com/watch?v=NQ3fZtyXji0)

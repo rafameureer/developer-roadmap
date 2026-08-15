@@ -1,9 +1,9 @@
 # MariaDB
 
-MariaDB is a community-developed MySQL fork created by original MySQL team members. Designed as a feature-rich, stable, drop-in replacement for MySQL with better licensing. Works with external developers to deliver a comprehensive open-source SQL server.
+O MariaDB é uma versão modificada da comunidade MySQL criada por membros originais do time de desenvolvimento do MySQL. Projetado como um substituto drop-in rica em recursos, estável e com melhor licenciamento para o MySQL. Trabalha com desenvolvedores externos para entregar um servidor SQL open-source completo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@MariaDB](https://mariadb.org/)
 - [@article@MariaDB vs MySQL](https://www.guru99.com/mariadb-vs-mysql.html)
-- [@video@MariaDB Tutorial For Beginners in One Hour](https://www.youtube.com/watch?v=_AMj02sANpI)
+- [@video@Tutorial do MariaDB para iniciantes em uma hora](https://www.youtube.com/watch?v=_AMj02sANpI)

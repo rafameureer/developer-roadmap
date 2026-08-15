@@ -1,9 +1,9 @@
-# Graceful Degradation
+# Degradação Graceful
 
-Graceful degradation ensures systems continue functioning when components or features are unavailable. In web development, applications remain functional even if browsers don't support certain features. Alternative to progressive enhancement for maintaining system reliability.
+A degradação graceful garante que os sistemas continuem funcionando mesmo quando componentes ou recursos estão indisponíveis. No desenvolvimento web, as aplicações permanecem funcionais mesmo se os navegadores não suportarem certos recursos. É uma alternativa à melhoria progressiva para manter a confiabilidade do sistema.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Graceful Degradation & Why Does it Matter?](https://blog.hubspot.com/website/graceful-degradation)
-- [@article@Four Considerations When Designing Systems For Graceful Degradation](https://newrelic.com/blog/best-practices/design-software-for-graceful-degradation)
-- [@video@Graceful Degradation - Georgia Tech](https://www.youtube.com/watch?v=Tk7e0LMsAlI)
+- [@artigo@O que é Degradação Graceful e Por Que Importa?](https://blog.hubspot.com/website/graceful-degradation)
+- [@artigo@Quatro Considerações ao Designar Sistemas Para Degradação Graceful](https://newrelic.com/blog/best-practices/design-software-for-graceful-degradation)
+- [@vídeo@Degradação Graceful - Georgia Tech](https://www.youtube.com/watch?v=Tk7e0LMsAlI)

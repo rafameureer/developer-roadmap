@@ -1,9 +1,9 @@
 # Caddy
 
-Caddy is a modern Go-based web server known for simplicity and automatic HTTPS with Let's Encrypt certificates. Features zero-config static file serving, HTTP/2 support, and plugins for reverse proxying and load balancing. Ideal for small-to-medium projects requiring hassle-free setup.
+Caddy é um servidor web moderno baseado em Go conhecido por sua simplicidade e HTTPS automático com certificados de Let's Encrypt. Ele oferece suporte a configuração zero para arquivos estáticos, suporte a HTTP/2 e plugins para proxy reverso e balanceamento de carga. Ideal para projetos pequenos a médios que requerem uma instalação sem complicação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Caddy Server](https://caddyserver.com/)
-- [@opensource@caddyserver/caddy - Caddy on GitHub](https://github.com/caddyserver/caddy)
-- [@video@How to Make a Simple Caddy 2 Website](https://www.youtube.com/watch?v=WgUV_BlHvj0)
+- [@official@Servidor Caddy](https://caddyserver.com/)
+- [@opensource@caddyserver/caddy - Caddy no GitHub](https://github.com/caddyserver/caddy)
+- [@video@Como Criar um Site Simples com o Caddy 2](https://www.youtube.com/watch?v=WgUV_BlHvj0)

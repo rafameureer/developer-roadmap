@@ -1,10 +1,10 @@
-# Documentation Generation with AI
+# Geração de Documentação com IA
 
-AI-powered documentation generation leverages machine learning models to automatically create and maintain software documentation. These tools can analyze code, comments, and other project artifacts to produce API references, tutorials, and other types of documentation, reducing the manual effort required and ensuring accuracy and consistency. This helps developers by freeing them from manual tasks and ensuring that their APIs are well documented.
+A geração de documentação baseada em IA utiliza modelos de aprendizado de máquina para criar e manter automaticamente a documentação de software. Essas ferramentas podem analisar código, comentários e outros artefatos do projeto para produzir referências à API, tutoriais e outros tipos de documentação, reduzindo o esforço manual necessário e garantindo precisão e consistência. Isso ajuda os desenvolvedores a se livrar de tarefas manuais e garantindo que suas APIs estejam bem documentadas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@AI code documentation: Benefits and top tips](https://www.ibm.com/think/insights/ai-code-documentation-benefits-top-tips)
-- [@article@AI Code Documentation Generators: A Guide](https://overcast.blog/ai-code-documentation-generators-a-guide-b6cd72cd0ec4)
-- [@video@How I Built a Tool to Auto-Generate GitHub Documentation with LLMs](https://www.youtube.com/watch?v=QYchuz6nBR8)
-- [@video@How to Generate API Documentation Using AI](https://www.youtube.com/watch?v=1529XqH50Xs)
+- [@artigo@Documentação de código com IA: Benefícios e dicas top](https://www.ibm.com/think/insights/ai-code-documentation-benefits-top-tips)
+- [@artigo@Geradores de Documentação de Código com IA: Um Guia](https://overcast.blog/ai-code-documentation-generators-a-guide-b6cd72cd0ec4)
+- [@vídeo@Como eu construí uma ferramenta para gerar automaticamente a documentação do GitHub com LLMs](https://www.youtube.com/watch?v=QYchuz6nBR8)
+- [@vídeo@Como gerar documentação de API usando IA](https://www.youtube.com/watch?v=1529XqH50Xs)

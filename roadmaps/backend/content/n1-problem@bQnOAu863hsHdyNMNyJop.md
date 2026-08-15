@@ -1,9 +1,9 @@
-# N plus one problem
+# Problema N+1
 
-The N+1 problem occurs when an application retrieves a list then performs additional queries for each item's related data. Results in inefficient query multiplication (1 + N queries instead of optimized joins). Severely impacts performance with larger datasets. Solved through query optimization, joins, or batching techniques.
+O problema N+1 ocorre quando um aplicativo recupera uma lista e, em seguida, realiza consultas adicionais para os dados relacionados de cada item. Resulta na multiplicação ineficiente de consultas (1 + N consultas em vez de junções otimizadas). Impacta severamente o desempenho com grandes conjuntos de dados. É resolvido através de otimizações de consulta, junções ou técnicas de agrupamento.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@article@In Detail Explanation of N+1 Problem](https://medium.com/doctolib/understanding-and-fixing-n-1-query-30623109fe89)
-- [@article@What is the N+1 Problem](https://planetscale.com/blog/what-is-n-1-query-problem-and-how-to-solve-it)
-- [@video@SQLite and the N+1 (no) problem](https://www.youtube.com/watch?v=qPfAQY_RahA)
+- [@article@Explicação detalhada do Problema N+1](https://medium.com/doctolib/understanding-and-fixing-n-1-query-30623109fe89)
+- [@article@O que é o Problema N+1](https://planetscale.com/blog/what-is-n-1-query-problem-and-how-to-solve-it)
+- [@video@SQLite e o Problema N+1 (não)](https://www.youtube.com/watch?v=qPfAQY_RahA)

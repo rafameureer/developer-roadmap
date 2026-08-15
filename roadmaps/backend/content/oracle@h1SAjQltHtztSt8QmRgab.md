@@ -1,9 +1,9 @@
 # Oracle
 
-Oracle Database is an enterprise-grade RDBMS known for scalability, reliability, and comprehensive features. Supports complex data management, SQL querying, transaction management, clustering, and multiple data models (relational, spatial, graph). Used for large-scale, secure, high-performance applications.
+O Oracle Database é um RDBMS de nível empresarial conhecido por sua escalabilidade, confiabilidade e recursos abrangentes. Suporta a gestão complexa de dados, consultas SQL, gerenciamento de transações, clustering e múltiplos modelos de dados (relacional, espacial, gráfico). Usado para aplicativos de escala larga, seguros e de alto desempenho.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Oracle Website](https://www.oracle.com/database/)
-- [@official@Oracle Docs](https://docs.oracle.com/en/database/index.html)
-- [@video@Oracle SQL Tutorial for Beginners](https://www.youtube.com/watch?v=ObbNGhcxXJA)
+- [@official@Site oficial do Oracle](https://www.oracle.com/database/)
+- [@official@Documentação do Oracle](https://docs.oracle.com/en/database/index.html)
+- [@video@Tutorial de SQL do Oracle para iniciantes](https://www.youtube.com/watch?v=ObbNGhcxXJA)

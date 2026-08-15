@@ -1,9 +1,9 @@
-# Serverless
+# Computação Sem Servidor
 
-Serverless computing lets developers build applications without managing server infrastructure. Cloud providers handle scaling and maintenance while developers deploy event-triggered functions. Billing based on actual usage. Platforms: AWS Lambda, Google Cloud Functions, Azure Functions.
+A computação sem servidor permite que os desenvolvedores construam aplicativos sem gerenciar a infraestrutura de servidores. Os provedores de nuvem lidam com o escalonamento e a manutenção enquanto os desenvolvedores implantam funções acionadas por eventos. Cobrança baseada no uso real. Plataformas: AWS Lambda, Google Cloud Functions, Azure Functions.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Serverless](https://www.ibm.com/cloud/learn/serverless)
-- [@article@AWS Services](https://aws.amazon.com/serverless/)
-- [@video@Serverless Computing in 100 Seconds](https://www.youtube.com/watch?v=W_VV2Fx32_Y&ab_channel=Fireship)
+- [@artigo@Computação Sem Servidor](https://www.ibm.com/cloud/learn/serverless)
+- [@artigo@Serviços da AWS](https://aws.amazon.com/serverless/)
+- [@vídeo@Computação Sem Servidor em 100 Segundos](https://www.youtube.com/watch?v=W_VV2Fx32_Y&ab_channel=Fireship)

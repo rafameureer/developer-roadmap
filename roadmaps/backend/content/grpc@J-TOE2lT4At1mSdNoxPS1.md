@@ -1,9 +1,9 @@
 # gRPC
 
-gRPC is a high-performance, open-source RPC (Remote Procedure Call) framework. Allows programs to execute procedures on remote computers like local functions. Developers don't need to handle remote interaction details, and client/server can use different programming languages.
+gRPC é um framework de RPC (Chamada Remota de Procedimento) de alto desempenho e código aberto. Permite que programas executejam procedimentos em computadores remotos como funções locais. Os desenvolvedores não precisam lidar com detalhes de interação remota, e cliente/servidor podem usar diferentes linguagens de programação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@gRPC Website](https://grpc.io/)
-- [@article@What Is GRPC?](https://www.wallarm.com/what/the-concept-of-grpc)
-- [@video@What Is GRPC?](https://www.youtube.com/watch?v=hVrwuMnCtok)
+- [@oficial@Site oficial do gRPC](https://grpc.io/)
+- [@artigo@O que é GRPC?](https://www.wallarm.com/what/the-concept-of-grpc)
+- [@vídeo@O que é GRPC?](https://www.youtube.com/watch?v=hVrwuMnCtok)

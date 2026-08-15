@@ -1,10 +1,10 @@
 # HTML
 
-HTML (HyperText Markup Language) is the standard markup language for creating web pages. It provides the structure and content of a website by using elements, which are defined by tags, to organize text, images, and other multimedia. Browsers interpret HTML files to render the visual representation of a webpage that users see.
+HTML (HyperText Markup Language) é o padrão de linguagem de marcação para criar páginas da web. Ele fornece a estrutura e conteúdo do site usando elementos, que são definidos por tags, para organizar texto, imagens e outros tipos de mídia multimídia. Os navegadores interpretam arquivos HTML para renderizar a representação visual da página que os usuários veem.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the dedicated HTML roadmap](https://roadmap.sh/html)
-- [@article@Responsive Web Design Certification - Co-Learn HTML & CSS with guided projects](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
-- [@video@HTML Full Course for Beginners](https://www.youtube.com/watch?v=mJgBOIoGihA)
-- [@video@HTML Full Course - Build a Website Tutorial](https://www.youtube.com/watch?v=pQN-pnXPaVg)
+- [@roadmap@Visite o Caminho dedicado ao HTML](https://roadmap.sh/html)
+- [@artigo@Certificação em Design Responsivo Web - Aprenda HTML e CSS com projetos guiados](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+- [@vídeo@Curso Completo de HTML para Iniciantes](https://www.youtube.com/watch?v=mJgBOIoGihA)
+- [@vídeo@Curso Completo de HTML - Tutorial para Construir um Site](https://www.youtube.com/watch?v=pQN-pnXPaVg)

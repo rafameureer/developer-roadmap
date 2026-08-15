@@ -1,8 +1,8 @@
-# Building for Scale
+# Construindo para Escala
 
-Scalability is a system's ability to handle growing workload by adding resources. Scalable architecture supports higher workloads without fundamental changes. Two approaches: on-premises (requires planning) or cloud (flexible, easy upgrades). Cloud offers more flexibility than on-premises infrastructure.
+A escalabilidade é a capacidade de um sistema lidar com uma carga de trabalho crescente adicionando recursos. Arquiteturas escaláveis suportam cargas de trabalho mais altos sem alterações fundamentais. Duas abordagens: on-premises (requer planejamento) ou nuvem (flexível, atualizações fáceis). A nuvem oferece mais flexibilidade do que a infraestrutura on-premises.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Scalable Architecture: A Definition and How-To Guide](https://www.sentinelone.com/blog/scalable-architecture/)
-- [@video@Scaling Distributed Systems - Software Architecture Introduction](https://www.youtube.com/watch?v=gxfERVP18-g)
+- [@artigo@Arquitetura Escalável: Uma Definição e Guia Prático](https://www.sentinelone.com/blog/scalable-architecture/)
+- [@vídeo@Escalando Sistemas Distribuídos - Introdução à Arquitetura de Software](https://www.youtube.com/watch?v=gxfERVP18-g)

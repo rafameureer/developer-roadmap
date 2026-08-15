@@ -1,10 +1,10 @@
 # APIs
 
-API (Application Programming Interface) defines rules and protocols for software applications to communicate. Provides standardized access to functionalities without understanding internal workings. Includes endpoints, request methods (GET, POST, PUT), and data formats (JSON, XML).
+API (Interface de Programação de Aplicativos) define regras e protocolos para que aplicativos software possam se comunicar. Fornece acesso padrão às funcionalidades sem a necessidade de entender os detalhes internos. Inclui endpoints, métodos de solicitação (GET, POST, PUT) e formatos de dados (JSON, XML).
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated API Design Roadmap](https://roadmap.sh/api-design)
-- [@roadmap@Visit the Dedicated API Security Best Practices](https://roadmap.sh/api-security-best-practices)
-- [@article@What is an API?](https://aws.amazon.com/what-is/api/)
-- [@video@What is an API (in 5 minutes)](https://www.youtube.com/watch?v=ByGJQzlzxQg)
+- [@roadmap@Visite o Caminho Dedidado de Design de API](https://roadmap.sh/api-design)
+- [@roadmap@Visite as Melhores Práticas de Segurança de API Dedidadas](https://roadmap.sh/api-security-best-practices)
+- [@article@O que é uma API?](https://aws.amazon.com/what-is/api/)
+- [@video@O que é uma API (em 5 minutos)](https://www.youtube.com/watch?v=ByGJQzlzxQg)

@@ -1,10 +1,10 @@
 # MySQL
 
-MySQL is an open-source RDBMS known for speed, reliability, and ease of use. Supports SQL, transactions, indexing, and stored procedures. Widely used for web applications, integrates with many languages, and is part of the LAMP stack. Maintained by Oracle with large community support.
+O MySQL é um RDBMS de código aberto conhecido por sua velocidade, confiabilidade e facilidade de uso. Suporta SQL, transações, indexação e procedimentos armazenados. Amplamente utilizado em aplicações web, integra-se com muitas linguagens e faz parte do stack LAMP. Mantido pela Oracle com uma grande comunidade de suporte.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@official@MySQL Docs](https://dev.mysql.com/doc/)
-- [@article@MySQL for Developers](https://planetscale.com/courses/mysql-for-developers/introduction/course-introduction)
-- [@article@MySQL Tutorial](https://www.mysqltutorial.org/)
-- [@video@MySQL Complete Course](https://www.youtube.com/watch?v=5OdVJbNCSso)
+- [@official@Documentação oficial do MySQL](https://dev.mysql.com/doc/)
+- [@article@MySQL para Desenvolvedores](https://planetscale.com/courses/mysql-for-developers/introduction/course-introduction)
+- [@article@Tutorial do MySQL](https://www.mysqltutorial.org/)
+- [@video@Curso completo do MySQL](https://www.youtube.com/watch?v=5OdVJbNCSso)

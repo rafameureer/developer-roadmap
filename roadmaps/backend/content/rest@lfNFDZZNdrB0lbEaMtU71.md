@@ -1,10 +1,10 @@
 # REST
 
-REST API is an architectural style using standard HTTP methods (GET, POST, PUT, DELETE) to interact with URI-represented resources. It's stateless, requiring complete request information, uses HTTP status codes, and typically communicates via JSON/XML. Popular for simplicity and scalability.
+API REST é um estilo arquitetônico que usa métodos HTTP padrão (GET, POST, PUT, DELETE) para interagir com recursos representados por URI. É sem estado, requerendo informações de solicitação completas, usa códigos de status HTTP e geralmente comunica-se via JSON/XML. Popular por simplicidade e escalabilidade.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is a REST API?](https://www.redhat.com/en/topics/api/what-is-a-rest-api)
-- [@article@Best practices for RESTful web API design](https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design)
-- [@article@Learn REST: A RESTful Tutorial](https://restapitutorial.com/)
-- [@video@REST API Best Practices – REST Endpoint Design](https://www.youtube.com/watch?v=1Wl-rtew1_E)
+- [@artigo@O que é uma API REST?](https://www.redhat.com/en/topics/api/what-is-a-rest-api)
+- [@artigo@Melhores práticas para o design de APIs web RESTful](https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design)
+- [@artigo@Aprenda REST: Um Tutorial RESTful](https://restapitutorial.com/)
+- [@vídeo@Práticas Best Practices – Design de Endpoint REST API](https://www.youtube.com/watch?v=1Wl-rtew1_E)

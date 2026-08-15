@@ -1,9 +1,9 @@
 # CSS
 
-CSS (Cascading Style Sheets) is a stylesheet language used to describe the presentation of a document written in HTML or XML (including XML dialects such as SVG, MathML or XHTML). It controls the layout, colors, fonts, and other visual aspects of web pages, ensuring a consistent and visually appealing user experience. CSS allows developers to separate content from presentation, making websites easier to maintain and update.
+CSS (Cascading Style Sheets) é uma linguagem de folha de estilo usada para descrever a apresentação de um documento escrito em HTML ou XML (incluindo dialetos XML como SVG, MathML ou XHTML). Ele controla o layout, cores, fontes e outros aspectos visuais das páginas web, garantindo uma experiência do usuário consistente e visualmente agradável. O CSS permite aos desenvolvedores separar conteúdo da apresentação, tornando os sites mais fáceis de manter e atualizar.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated CSS Roadmap](https://roadmap.sh/css)
-- [@article@CSS MDN Docs](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/What_is_CSS)
-- [@video@CSS Tutorial – Full Course for Beginners](https://www.youtube.com/watch?v=OXGznpKZ_sA)
+- [@roadmap@Visite o Caminho Dedidado do CSS](https://roadmap.sh/css)
+- [@artigo@CSS MDN Docs](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/What_is_CSS)
+- [@vídeo@Tutorial de CSS – Curso Completo para Iniciantes](https://www.youtube.com/watch?v=OXGznpKZ_sA)

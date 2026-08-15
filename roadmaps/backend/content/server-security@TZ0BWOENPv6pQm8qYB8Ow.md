@@ -1,8 +1,8 @@
-# Server Security
+# Segurança do Servidor
 
-Server security protects servers from threats through patch management, access control, firewalls, encryption, security hardening, regular backups, and monitoring. Ensures confidentiality, integrity, and availability of data and services with continuous threat detection and response.
+A segurança do servidor protege servidores de ameaças através da gestão de patches, controle de acesso, firewalls, criptografia, endurecimento de segurança, backups regulares e monitoramento. Garante a confidencialidade, integridade e disponibilidade dos dados e serviços com detecção contínua de ameaças e resposta.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is a hardened server?](https://www.sophos.com/en-us/cybersecurity-explained/what-is-server-hardening)
-- [@video@10 Tips for Hardening your Linux Servers](https://www.youtube.com/watch?v=Jnxx_IAC0G4)
+- [@article@O que é um servidor endurecido?](https://www.sophos.com/en-us/cybersecurity-explained/what-is-server-hardening)
+- [@video@10 Dicas para Fortalecer seus Servidores Linux](https://www.youtube.com/watch?v=Jnxx_IAC0G4)

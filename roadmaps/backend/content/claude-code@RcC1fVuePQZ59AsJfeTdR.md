@@ -1,10 +1,10 @@
 # Claude Code
 
-Claude Code is a family of large language models designed for code generation and understanding. It excels at tasks like code completion, bug finding, documentation, and even translating code between different programming languages. Essentially, it's a tool that helps developers write, understand, and maintain code more efficiently by leveraging artificial intelligence.
+Claude Code é uma família de modelos de linguagem de grande escala projetados para a geração e compreensão de código. Ele excelle em tarefas como conclusão de código, detecção de bugs, documentação e até mesmo tradução de código entre diferentes linguagens de programação. Em essência, é uma ferramenta que ajuda os desenvolvedores a escrever, entender e manter código mais eficientemente usando inteligência artificial.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated Claude Code Roadmap](https://roadmap.sh/claude-code)
-- [@official@Claude Code Overview](https://code.claude.com/docs/en/overview)
-- [@article@Vibe coding tutorial: Build your first app with Claude Code](https://roadmap.sh/vibe-coding/tutorial)
-- [@video@Claude Code Tutorial for Beginners](https://www.youtube.com/watch?v=eMZmDH3T2bY)
+- [@roadmap@Visite o Caminho Dedidado do Claude Code](https://roadmap.sh/claude-code)
+- [@oficial@Visão Geral do Claude Code](https://code.claude.com/docs/en/overview)
+- [@artigo@Tutorial de Vibe: Construa seu primeiro aplicativo com o Claude Code](https://roadmap.sh/vibe-coding/tutorial)
+- [@vídeo@Tutorial Iniciante no Claude Code](https://www.youtube.com/watch?v=eMZmDH3T2bY)

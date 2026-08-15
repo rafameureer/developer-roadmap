@@ -1,10 +1,10 @@
 # Solr
 
-Solr is an open-source, scalable search platform built on Apache Lucene for full-text search, faceted search, and real-time indexing. Supports complex queries, distributed searching, text analysis, highlighting, and geographic search. Used for search engines and data retrieval systems.
+Solr é uma plataforma de busca aberta-fonte, escalável construída no Apache Lucene para pesquisa em texto completo, busca facética e indexação em tempo real. Suporta consultas complexas, busca distribuída, análise de texto, destacamento e busca geográfica. Usado em motores de busca e sistemas de recuperação de dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@opensource@Solr on GitHub](https://github.com/apache/solr)
-- [@article@Solr Website](https://solr.apache.org/)
-- [@article@Solr Documentation](https://solr.apache.org/resources.html#documentation)
-- [@video@Apache Solr vs Elasticsearch Differences](https://www.youtube.com/watch?v=MMWBdSdbu5k)
+- [@opensource@Solr no GitHub](https://github.com/apache/solr)
+- [@artigo@Site do Solr](https://solr.apache.org/)
+- [@artigo@Documentação do Solr](https://solr.apache.org/resources.html#documentation)
+- [@vídeo@Diferenças entre Apache Solr e Elasticsearch](https://www.youtube.com/watch?v=MMWBdSdbu5k)

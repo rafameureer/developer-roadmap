@@ -1,9 +1,9 @@
 # SSL/TLS
 
-SSL and TLS are cryptographic protocols providing internet communication security through data encryption. SSL is deprecated due to security flaws; modern browsers no longer support it. TLS remains secure and widely supported for encrypted data transmission.
+SSL e TLS são protocolos criptográficos que fornecem segurança na comunicação da internet através de encriptação de dados. SSL foi descontinuado devido a falhas de segurança; navegadores modernos já não suportam mais ele. TLS permanece seguro e amplamente suportado para transmissão de dados encriptados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@article@Wikipedia - SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security)
-- [@article@Cloudflare - What is SSL?](https://www.cloudflare.com/learning/ssl/what-is-ssl/)
-- [@video@SSL, TLS, HTTPS Explained](https://www.youtube.com/watch?v=j9QmMEWmcfo)
+- [@article@Cloudflare - O que é SSL?](https://www.cloudflare.com/learning/ssl/what-is-ssl/)
+- [@video@SSL, TLS, HTTPS Explicados](https://www.youtube.com/watch?v=j9QmMEWmcfo)

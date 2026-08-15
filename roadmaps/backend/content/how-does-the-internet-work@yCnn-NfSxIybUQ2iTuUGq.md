@@ -1,9 +1,9 @@
 # Internet
 
-The Internet is a global network of interconnected computers using TCP/IP protocols. Requests travel through ISPs to DNS servers for domain-to-IP translation, then are routed across networks via routers to destination servers. Enables dynamic, decentralized global communication.
+A Internet é uma rede global de computadores interconectados usando protocolos TCP/IP. As solicitações viajam por provedores de serviços de internet (ISPs) para servidores DNS para tradução de domínio para endereços IP, em seguida são roteadas em redes através de roteadores para servidores de destino. Permite comunicação global dinâmica e descentralizada.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@How does the Internet Work?](https://cs.fyi/guide/how-does-internet-work)
-- [@article@The Internet Explained](https://www.vox.com/2014/6/16/18076282/the-internet)
-- [@video@How does the internet work? (Full Course)](https://www.youtube.com/watch?v=zN8YNNHcaZc)
+- [@artigo@Como funciona a Internet?](https://cs.fyi/guide/how-does-internet-work)
+- [@artigo@Explicando a Internet](https://www.vox.com/2014/6/16/18076282/the-internet)
+- [@vídeo@Como funciona a internet? (Curso Completo)](https://www.youtube.com/watch?v=zN8YNNHcaZc)

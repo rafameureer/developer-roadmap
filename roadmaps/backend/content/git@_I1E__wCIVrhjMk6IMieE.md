@@ -1,10 +1,10 @@
 # Git
 
-Git is a distributed version control system created by Linus Torvalds in 2005. Tracks code changes, enables collaborative development, maintains complete history, and supports branching/merging. Each developer has full repository copy, allowing offline work and robust collaboration.
+Git é um sistema de controle de versão distribuído criado por Linus Torvalds em 2005. Ele rastreia alterações no código, habilita o desenvolvimento colaborativo, mantém uma história completa e suporta ramificação/união. Cada desenvolvedor tem uma cópia completa do repositório, permitindo trabalho offline e colaboração robusta.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit Dedicated Git & GitHub Roadmap](https://roadmap.sh/git-github)
-- [@course@Why use Git? (Interactive Lesson)](https://inter-git.com/lessons/introduction)
-- [@article@Tutorial: Git for Absolutely Everyone](https://thenewstack.io/tutorial-git-for-absolutely-everyone/)
-- [@video@Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+- [@roadmap@Visite o Caminho Dedidado de Git & GitHub](https://roadmap.sh/git-github)
+- [@course@Por que usar Git? (Aula Interativa)](https://inter-git.com/lessons/introduction)
+- [@article@Tutorial: Git para Todos](https://thenewstack.io/tutorial-git-for-absolutely-everyone/)
+- [@video@Curso de Crash Course em Git & GitHub Para Iniciantes](https://www.youtube.com/watch?v=SWYqp7iY_Tc)

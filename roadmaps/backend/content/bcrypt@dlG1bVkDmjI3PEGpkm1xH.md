@@ -1,9 +1,9 @@
 # Bcrypt
 
-Bcrypt is a secure password-hashing function based on Blowfish cipher with built-in salt protection. Features adaptive cost factor that increases difficulty over time to resist brute-force attacks. Produces 60-character hashes, widely used for secure password storage.
+O bcrypt é uma função de hash de senha segura baseada no algoritmo Blowfish com proteção integrada contra sal. Possui um fator de custo adaptável que aumenta a dificuldade ao longo do tempo para resistir a ataques de força bruta. Gera hashes de 60 caracteres, amplamente utilizados para armazenamento seguro de senhas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@opensource@bcrypt for Node.js](https://github.com/kelektiv/node.bcrypt.js)
-- [@article@Understanding bcrypt](https://auth0.com/blog/hashing-in-action-understanding-bcrypt/)
-- [@video@bcrypt explained](https://www.youtube.com/watch?v=AzA_LTDoFqY)
+- [@opensource@bcrypt para Node.js](https://github.com/kelektiv/node.bcrypt.js)
+- [@artigo@Compreendendo bcrypt](https://auth0.com/blog/hashing-in-action-understanding-bcrypt/)
+- [@vídeo@Explicação do bcrypt](https://www.youtube.com/watch?v=AzA_LTDoFqY)

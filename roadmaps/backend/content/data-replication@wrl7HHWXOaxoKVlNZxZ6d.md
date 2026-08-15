@@ -1,8 +1,8 @@
-# Data Replication
+# Replicação de Dados
 
-Data replication creates multiple copies of data across distributed system nodes for availability, reliability, and performance. Can be synchronous or asynchronous. Uses master-slave, multi-master, or peer-to-peer models. Improves fault tolerance but challenges data consistency.
+A replicação de dados cria várias cópias de dados em nós distribuídos do sistema para disponibilidade, confiabilidade e desempenho. Pode ser síncrona ou assíncrona. Usa modelos como master-slave, multi-master ou peer-to-peer. Melhora a tolerância a falhas, mas desafia a consistência dos dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Data Replication? - IBM](https://www.ibm.com/topics/data-replication)
-- [@video@What is Data Replication?](https://www.youtube.com/watch?v=iO8a1nMbL1o)
+- [@artigo@Replicação de Dados? - IBM](https://www.ibm.com/topics/data-replication)
+- [@vídeo@O que é Replicação de Dados?](https://www.youtube.com/watch?v=iO8a1nMbL1o)

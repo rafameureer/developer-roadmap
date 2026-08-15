@@ -1,9 +1,9 @@
-# Service Mesh
+# Malha de Serviços
 
-Service mesh enhances communication, security, and management between microservices using intelligent proxies. Provides load balancing, service discovery, observability, and traffic management. Uses sidecar pattern where each microservice pairs with a proxy for independent network functionality management.
+A malha de serviços melhora a comunicação, segurança e gerenciamento entre microserviços usando proxies inteligentes. Fornece balanceamento de carga, descoberta de serviço, observabilidade e gerenciamento de tráfego. Usa o padrão do ladocar, onde cada microserviço é parado com um proxy para a gestão independente da funcionalidade de rede.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is a Service Mesh (AWS blog)?](https://aws.amazon.com/what-is/service-mesh/)
-- [@article@What is a Service Mesh (RedHat blog)?](https://www.redhat.com/en/topics/microservices/what-is-a-service-mesh)
-- [@video@What is a Service Mesh?](https://www.youtube.com/watch?v=vh1YtWjfcyk)
+- [@artigo@O que é uma Malha de Serviços (blog da AWS)?](https://aws.amazon.com/what-is/service-mesh/)
+- [@artigo@O que é uma Malha de Serviços (blog da RedHat)?](https://www.redhat.com/en/topics/microservices/what-is-a-service-mesh)
+- [@vídeo@O que é uma Malha de Serviços?](https://www.youtube.com/watch?v=vh1YtWjfcyk)

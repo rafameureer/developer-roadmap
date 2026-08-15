@@ -1,10 +1,10 @@
 # Anthropic
 
-Anthropic is an AI safety and research company focused on developing reliable, interpretable, and steerable AI systems. They create AI models, like Claude, that are designed to be helpful, harmless, and honest, prioritizing safety through techniques like Constitutional AI, where the AI is guided by a set of principles during its training and operation. They can be integrated via APIs to add functionality to applications.
+Anthropic é uma empresa de segurança e pesquisa em IA focada no desenvolvimento de sistemas de IA confiáveis, interpretáveis e controláveis. Eles criam modelos de IA, como Claude, projetados para serem úteis, inofensivos e honestos, priorizando a segurança através de técnicas como o AI Constitucional, onde a IA é guiada por um conjunto de princípios durante seu treinamento e operação. Eles podem ser integrados via APIs para adicionar funcionalidades a aplicativos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated Claude Code Roamdap](https://roadmap.sh/claude-code)
+- [@roadmap@Visite o Roadmap Específico do Claude Code](https://roadmap.sh/claude-code)
 - [@official@Anthropic](https://www.anthropic.com/)
-- [@official@Claude Tutorials](https://claude.com/resources/tutorials)
-- [@article@Anthropic: What We Know About the Company Behind Claude AI](https://builtin.com/articles/anthropic)
+- [@official@Tutoriais do Claude](https://claude.com/resources/tutorials)
+- [@article@Anthropic: O que sabemos sobre a empresa por trás do Claude AI](https://builtin.com/articles/anthropic)

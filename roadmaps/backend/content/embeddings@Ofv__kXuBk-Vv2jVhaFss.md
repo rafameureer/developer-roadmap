@@ -1,10 +1,10 @@
 # Embeddings
 
-Embeddings are dense, continuous vector representations of data, such as words, sentences, or images, in a lower-dimensional space. They capture the semantic relationships and patterns in the data, where similar items are placed closer together in the vector space. In machine learning, embeddings are used to convert complex data into a numerical form that models can process more easily. For example, word embeddings represent words based on their meanings and contexts, allowing models to understand relationships like synonyms or analogies. Embeddings are widely used in tasks like natural language processing, recommendation systems, and image recognition to improve model performance and efficiency.
+Os embeddings são representações vetoriais contínuas e densoes de dados, como palavras, frases ou imagens, em um espaço dimensional reduzido. Eles capturam as relações semânticas e padrões nos dados, onde itens similares são colocados mais próximos no espaço vetorial. Em aprendizado de máquina, os embeddings são usados para converter dados complexos em uma forma numérica que modelos possam processar com mais facilidade. Por exemplo, os embeddings de palavras representam palavras com base em seus significados e contextos, permitindo que os modelos entenda relacionamentos como sinônimos ou analogias. Os embeddings são amplamente utilizados em tarefas como processamento de linguagem natural, sistemas de recomendação e reconhecimento de imagens para melhorar o desempenho e eficiência do modelo.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@article@What are Embeddings in Machine Learning?](https://www.cloudflare.com/en-gb/learning/ai/what-are-embeddings/)
-- [@article@What is Embedding?](https://www.ibm.com/topics/embedding)
-- [@article@Getting Started With Embeddings](https://huggingface.co/blog/getting-started-with-embeddings)
-- [@video@What are Word Embeddings?](https://www.youtube.com/watch?v=wgfSDrqYMJ4)
+- [@article@O que são Embeddings no Aprendizado de Máquina?](https://www.cloudflare.com/en-gb/learning/ai/what-are-embeddings/)
+- [@article@O que é um embedding?](https://www.ibm.com/topics/embedding)
+- [@article@Começando com os embeddings](https://huggingface.co/blog/getting-started-with-embeddings)
+- [@video@O que são os embeddings de palavras?](https://www.youtube.com/watch?v=wgfSDrqYMJ4)

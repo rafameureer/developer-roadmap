@@ -799,7 +799,119 @@
     "roadmaps/aws/content/versioning--aliases@75ZjuGozDfoZPLj32P2t2.md",
     "roadmaps/aws/content/vpc@Sv2aT8eI1RvJhvoKVYQEX.md",
     "roadmaps/aws/content/well-architected-framework@eKuC7VmkGVYFnbC2Rvn8D.md",
-    "roadmaps/aws/content/what-is-cloud-computing@74JxgfJ_1qmVNZ_QRp9Ne.md"
+    "roadmaps/aws/content/what-is-cloud-computing@74JxgfJ_1qmVNZ_QRp9Ne.md",
+    "roadmaps/backend/content/ai-vs-traditional-coding@IZKl6PxbvgNkryAkdy3-p.md",
+    "roadmaps/backend/content/anthropic@Lw2nR7x8PYgq1P5CxPAxi.md",
+    "roadmaps/backend/content/antigravity@E7-LveK7jO2npxVTLUDfw.md",
+    "roadmaps/backend/content/apache@jjjonHTHHo-NiAf6p9xPv.md",
+    "roadmaps/backend/content/applications@Nx7mjvYgqLpmJ0_iSx5of.md",
+    "roadmaps/backend/content/architectural-patterns@tHiUpG9LN35E5RaHddMv5.md",
+    "roadmaps/backend/content/authentication@PY9G7KQy8bF6eIdr1ydHf.md",
+    "roadmaps/backend/content/aws-neptune@5xy66yQrz1P1w7n6PcAFq.md",
+    "roadmaps/backend/content/backpressure@JansCqGDyXecQkD1K7E7e.md",
+    "roadmaps/backend/content/basic-authentication@yRiJgjjv2s1uV9vgo3n8m.md",
+    "roadmaps/backend/content/bcrypt@dlG1bVkDmjI3PEGpkm1xH.md",
+    "roadmaps/backend/content/browsers-and-how-they-work@P82WFaTPgQEPNp5IIuZ1Y.md",
+    "roadmaps/backend/content/building-for-scale@SHmbcMRsc3SygEDksJQBD.md",
+    "roadmaps/backend/content/c@rImbMHLLfJwjf3l25vBkc.md",
+    "roadmaps/backend/content/caching@uPjCrDGA2MHylWXbZvMBM.md",
+    "roadmaps/backend/content/caddy@Op-PSPNoyj6Ss9CS09AXh.md",
+    "roadmaps/backend/content/cap-theorem@LAdKDJ4LcMaDWqslMvE8X.md",
+    "roadmaps/backend/content/cassandra@zsiZLWJ2bMvrjuHch5fX_.md",
+    "roadmaps/backend/content/ci--cd@mGfD7HfuP184lFkXZzGjG.md",
+    "roadmaps/backend/content/circuit-breaker@spkiQTPvXY4qrhhVUkoPV.md",
+    "roadmaps/backend/content/claude-code@RcC1fVuePQZ59AsJfeTdR.md",
+    "roadmaps/backend/content/clickhouse@ZyGLSvx17p7QmYDy1LFbM.md",
+    "roadmaps/backend/content/code-reviews@0TMdly8yiqnNR8sx36iqc.md",
+    "roadmaps/backend/content/cookie-based-auth@ffzsh8_5yRq85trFt9Xhk.md",
+    "roadmaps/backend/content/copilot@HQrxxDxKN8gizvXRU5psW.md",
+    "roadmaps/backend/content/cors@LU6WUbkWKbPM1rb2_gEqa.md",
+    "roadmaps/backend/content/couchdb@qOlNzZ7U8LhIGukb67n7U.md",
+    "roadmaps/backend/content/csp@HgQBde1zLUFtlwB66PR6_.md",
+    "roadmaps/backend/content/css@utA1W2O6pzoV_LbtDE5DN.md",
+    "roadmaps/backend/content/cursor@CKlkVK_7GZ7xzIUHJqZr8.md",
+    "roadmaps/backend/content/data-replication@wrl7HHWXOaxoKVlNZxZ6d.md",
+    "roadmaps/backend/content/database-indexes@y-xkHFE9YzhNIX3EiWspL.md",
+    "roadmaps/backend/content/dgraph@GKrcTsUi5XWj_pP1TOK0S.md",
+    "roadmaps/backend/content/dns-and-how-it-works@hkxw9jPGYphmjhTjw8766.md",
+    "roadmaps/backend/content/documentation-generation@q7NpwqQXUp4wt2to-yFiP.md",
+    "roadmaps/backend/content/dynamodb@dwfEHInbX2eFiafM-nRMX.md",
+    "roadmaps/backend/content/elasticsearch@NulaE1isWqn-feYHg4YQT.md",
+    "roadmaps/backend/content/embeddings@Ofv__kXuBk-Vv2jVhaFss.md",
+    "roadmaps/backend/content/failure-modes@GwApfL4Yx-b5Y8dB9Vy__.md",
+    "roadmaps/backend/content/firebase@RyJFLLGieJ8Xjt-DlIayM.md",
+    "roadmaps/backend/content/frontend-basics@oyg5g4-cY5EBEUgVkjnL3.md",
+    "roadmaps/backend/content/function-calling@Uve-UObgOBfrd-cLayVWe.md",
+    "roadmaps/backend/content/functional-testing@NAGisfq2CgeK3SsuRjnMw.md",
+    "roadmaps/backend/content/gemini@Bic4PHhz-YqzPWRimJO83.md",
+    "roadmaps/backend/content/git@_I1E__wCIVrhjMk6IMieE.md",
+    "roadmaps/backend/content/gitlab@Wcp-VDdFHipwa7hNAp1z_.md",
+    "roadmaps/backend/content/graceful-degradation@G9AI_i3MkUE1BsO3_-PH7.md",
+    "roadmaps/backend/content/graphql@zp3bq38tMnutT2N0tktOW.md",
+    "roadmaps/backend/content/grpc@J-TOE2lT4At1mSdNoxPS1.md",
+    "roadmaps/backend/content/how-does-the-internet-work@yCnn-NfSxIybUQ2iTuUGq.md",
+    "roadmaps/backend/content/how-llms-work@tUNP5VRKvrPcufPDPPEo8.md",
+    "roadmaps/backend/content/html@9-pCsW650T1mfj5dmRB9L.md",
+    "roadmaps/backend/content/instrumentation@4X-sbqpP0NDhM99bKdqIa.md",
+    "roadmaps/backend/content/integration-patterns@iatQ3RCxESHt1CwN3PSfx.md",
+    "roadmaps/backend/content/integration-testing@381Kw1IMRv7CJp-Uf--qd.md",
+    "roadmaps/backend/content/introduction@SiYUdtYMDImRPmV2_XPkH.md",
+    "roadmaps/backend/content/kafka@VoYSis1F1ZfTxMlQlXQKB.md",
+    "roadmaps/backend/content/learn-about-apis@EwvLPSI6AlZ4TnNIJTZA4.md",
+    "roadmaps/backend/content/learn-about-web-servers@fekyMpEnaGqjh1Cu4Nyc4.md",
+    "roadmaps/backend/content/lxc@31ZlpfIPr9-5vYZqvjUeL.md",
+    "roadmaps/backend/content/mariadb@tD3i-8gBpMKCHB-ITyDiU.md",
+    "roadmaps/backend/content/mcp@mHnI19RgZ57XDEIDaHxD0.md",
+    "roadmaps/backend/content/memcached@xPvVwGQw28uMeLYIWn8yn.md",
+    "roadmaps/backend/content/more-about-databases@LJt27onEOeIBomiEMTyKd.md",
+    "roadmaps/backend/content/ms-iis@0NJDgfe6eMa7qPUOI6Eya.md",
+    "roadmaps/backend/content/ms-sql@dEsTje8kfHwWjCI3zcgLC.md",
+    "roadmaps/backend/content/mysql@VPxOdjJtKAqmM5V0LR5OC.md",
+    "roadmaps/backend/content/n1-problem@bQnOAu863hsHdyNMNyJop.md",
+    "roadmaps/backend/content/neo4j@BTNJfWemFKEeNeTyENXui.md",
+    "roadmaps/backend/content/nginx@z5AdThp9ByulmM9uekgm-.md",
+    "roadmaps/backend/content/normalization@Ge2SnKBrQQrU-oGLz6TmT.md",
+    "roadmaps/backend/content/nosql-databases@F8frGuv1dunOdcVJ_IiGs.md",
+    "roadmaps/backend/content/oauth@vp-muizdICcmU0gN8zmkS.md",
+    "roadmaps/backend/content/observability@Z01E67D6KjrShvQCHjGR7.md",
+    "roadmaps/backend/content/open-api-specs@9cD5ag1L0GqHx4_zxc5JX.md",
+    "roadmaps/backend/content/oracle@h1SAjQltHtztSt8QmRgab.md",
+    "roadmaps/backend/content/orms@Z7jp_Juj5PffSxV7UZcBb.md",
+    "roadmaps/backend/content/owasp-risks@AAgciyxuDvS2B_c6FRMvT.md",
+    "roadmaps/backend/content/php@l9Wrq_Ad9-Ju4NIB0m5Ha.md",
+    "roadmaps/backend/content/prompting-techniques@xL8d-uHMpJKwUvT8z-Jia.md",
+    "roadmaps/backend/content/python@J_sVHsD72Yzyqb9KCIvAY.md",
+    "roadmaps/backend/content/rabbitmq@GPFRMcY1DEtRgnaZwJ3vW.md",
+    "roadmaps/backend/content/redis@g8GjkJAhvnSxXTZks0V1g.md",
+    "roadmaps/backend/content/refactoring@EYT2rTLZ8tUW2u8DOnAWF.md",
+    "roadmaps/backend/content/relational-databases@r45b461NxLN6wBODJ5CNP.md",
+    "roadmaps/backend/content/repo-hosting-services@NvUcSDWBhzJZ31nzT4UlE.md",
+    "roadmaps/backend/content/rest@lfNFDZZNdrB0lbEaMtU71.md",
+    "roadmaps/backend/content/rethinkdb@5T0ljwlHL0545ICCeehcQ.md",
+    "roadmaps/backend/content/ruby@SlH0Rl07yURDko2nDPfFy.md",
+    "roadmaps/backend/content/rust@CWwh2abwqx4hAxpAGvhIx.md",
+    "roadmaps/backend/content/saml@UCHtaePVxS-0kpqlYxbfC.md",
+    "roadmaps/backend/content/search-engines@gKTSe9yQFVbPVlLzWB0hC.md",
+    "roadmaps/backend/content/server-security@TZ0BWOENPv6pQm8qYB8Ow.md",
+    "roadmaps/backend/content/server-sent-events@RUSdlokJUcEYbCvq5FJBJ.md",
+    "roadmaps/backend/content/serverless@nkmIv3dNwre4yrULMgTh3.md",
+    "roadmaps/backend/content/service-mesh@n14b7sfTOwsjKTpFC9EZ2.md",
+    "roadmaps/backend/content/sha@JVN38r5jENoteia3YeIQ3.md",
+    "roadmaps/backend/content/sharding-strategies@zWstl08R4uzqve4BdYurp.md",
+    "roadmaps/backend/content/skills@IWubGe3oquSj882QVnhLU.md",
+    "roadmaps/backend/content/soa@tObmzWpjsJtK4GWhx6pwB.md",
+    "roadmaps/backend/content/soap@sSNf93azjuyMzQqIHE0Rh.md",
+    "roadmaps/backend/content/solr@iN_1EuIwCx_7lRBw1Io4U.md",
+    "roadmaps/backend/content/sqlite@kdulE3Z_BdbtRmq6T2KmR.md",
+    "roadmaps/backend/content/ssltls@0v3OsaghJEGHeXX0c5kqn.md",
+    "roadmaps/backend/content/streaming@9f-aWi3_7USy4XpNzrTL6.md",
+    "roadmaps/backend/content/structured-outputs@GMxPmyatxYmIPRFHfRAnr.md",
+    "roadmaps/backend/content/twelve-factor-apps@8DmabQJXlrT__COZrDVTV.md",
+    "roadmaps/backend/content/unit-testing@3OYm6b9f6WOrKi4KTOZYK.md",
+    "roadmaps/backend/content/vectors@yKNdBbahm_h81xdMDT-qx.md",
+    "roadmaps/backend/content/version-control-systems@ezdqQW9wTUw93F6kjOzku.md",
+    "roadmaps/backend/content/web-security@RBrIP5KbVQ2F0ly7kMfTo.md",
+    "roadmaps/backend/content/websockets@sVuIdAe08IWJVqAt4z-ag.md"
   ],
   "completed_roadmaps": [
     "frontend-beginner",
@@ -815,7 +927,8 @@
     "angular",
     "api-design",
     "aspnet-core",
-    "aws"
+    "aws",
+    "backend"
   ],
   "flagged_issues": [
     {
@@ -2002,8 +2115,228 @@
       "file": "roadmaps/aws/content/storage-types@PJaAqax4fABnkObY5UwNp.md",
       "reason": "Falha na tradução automática após tentativas no Ollama",
       "timestamp": "2026-08-15T02:11:14.615500"
+    },
+    {
+      "file": "roadmaps/backend/content/acid@qSAdfaGUfn8mtmDjHJi3z.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:12:29.453459"
+    },
+    {
+      "file": "roadmaps/backend/content/agents@w1D3-bSg93ndKK9XJTu7z.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:12:34.683585"
+    },
+    {
+      "file": "roadmaps/backend/content/ai-assisted-coding@fA3yi9puMbTFmbPpo6OjN.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:12:40.296952"
+    },
+    {
+      "file": "roadmaps/backend/content/github@ptD8EVqwFUYr4W5A_tABY.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:16:25.116049"
+    },
+    {
+      "file": "roadmaps/backend/content/go@BdXbcz4-ar3XOX0wIKzBp.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:16:33.066277"
+    },
+    {
+      "file": "roadmaps/backend/content/http-caching@KWTbEVX_WxS8jmSaAX3Fe.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:17:16.230088"
+    },
+    {
+      "file": "roadmaps/backend/content/https@x-WBJjBd8u93ym5gtxGsR.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:17:20.203598"
+    },
+    {
+      "file": "roadmaps/backend/content/influx-db@XbM4TDImSH-56NsITjyHK.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:17:24.610683"
+    },
+    {
+      "file": "roadmaps/backend/content/java@ANeSwxJDJyQ-49pO2-CCI.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:18:00.430239"
+    },
+    {
+      "file": "roadmaps/backend/content/javascript@8-lO-v6jCYYoklEJXULxN.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:18:04.166774"
+    },
+    {
+      "file": "roadmaps/backend/content/javascript@An2lMuJEkkpL0cfw4RrSl.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:18:20.736312"
+    },
+    {
+      "file": "roadmaps/backend/content/json-apis@sNceS4MpSIjRkWhNDmrFg.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:18:24.622107"
+    },
+    {
+      "file": "roadmaps/backend/content/jwt@UxS_mzVUjLigEwKrXnEeB.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:18:28.361750"
+    },
+    {
+      "file": "roadmaps/backend/content/learn-the-basics@UTupdqjOyLh7-56_0SXJ8.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:18:56.874570"
+    },
+    {
+      "file": "roadmaps/backend/content/loadshifting@HoQdX7a4SnkFRU4RPQ-D5.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:19:00.313046"
+    },
+    {
+      "file": "roadmaps/backend/content/long--short-polling@osvajAJlwGI3XnX0fE-kA.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:19:03.200745"
+    },
+    {
+      "file": "roadmaps/backend/content/md5@jWwA6yX4Zjx-r_KpDaD3c.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:19:31.807044"
+    },
+    {
+      "file": "roadmaps/backend/content/message-brokers@nJ5FpFgGCRaALcWmAKBKT.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:19:39.497766"
+    },
+    {
+      "file": "roadmaps/backend/content/microservices@K55h3aqOGe6-hgVhiFisT.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:19:54.786303"
+    },
+    {
+      "file": "roadmaps/backend/content/migrations@MOLAXgs0CMCT7o84L0EaK.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:19:59.915407"
+    },
+    {
+      "file": "roadmaps/backend/content/migrations@MOLAXgs0CMCT7o84L0EaK.md.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:20:03.382758"
+    },
+    {
+      "file": "roadmaps/backend/content/mongodb@28U6q_X-NTYf7OSKHjoWH.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:20:19.181627"
+    },
+    {
+      "file": "roadmaps/backend/content/monitoring@QvMEEsXh0-rzn5hDGcmEv.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:20:23.580608"
+    },
+    {
+      "file": "roadmaps/backend/content/monolith@Ke522R-4k6TDeiDRyZbbU.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:20:27.881788"
+    },
+    {
+      "file": "roadmaps/backend/content/openai@-ye5ZtYFDoYGpj-UJaBP8.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:21:34.054130"
+    },
+    {
+      "file": "roadmaps/backend/content/openid@z3EJBpgGm0_Uj3ymhypbX.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:21:38.015489"
+    },
+    {
+      "file": "roadmaps/backend/content/pick-a-backend-language@2f0ZO6GJElfZ2Eis28Hzg.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:22:05.774949"
+    },
+    {
+      "file": "roadmaps/backend/content/postgresql@FihTrMO56kj9jT8O_pO2T.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:22:09.877331"
+    },
+    {
+      "file": "roadmaps/backend/content/profiling-performance@SYXJhanu0lFmGj2m2XXhS.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:22:13.119812"
+    },
+    {
+      "file": "roadmaps/backend/content/rags@6PCOCzCbx7jo9wO2Hl2gy.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:22:46.395002"
+    },
+    {
+      "file": "roadmaps/backend/content/real-time-data@5XGvep2qoti31bsyqNzrU.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:22:49.431191"
+    },
+    {
+      "file": "roadmaps/backend/content/redis@M0iaSSdVPWaCUpyTG50Vf.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:22:53.217150"
+    },
+    {
+      "file": "roadmaps/backend/content/scaling-databases@95d9itpUZ4s9roZN8kG9x.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:23:51.615841"
+    },
+    {
+      "file": "roadmaps/backend/content/scrypt@kGTALrvCpxyVCXHRmkI7s.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:23:54.687571"
+    },
+    {
+      "file": "roadmaps/backend/content/scylladb@aArZ3gKwObzafCkTOd-Hj.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:23:59.142613"
+    },
+    {
+      "file": "roadmaps/backend/content/telemetry@neVRtPjIHP_VG7lHwfah0.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:25:20.768844"
+    },
+    {
+      "file": "roadmaps/backend/content/testing@STQQbPa7PE3gbjMdL6P-t.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:25:24.359434"
+    },
+    {
+      "file": "roadmaps/backend/content/throttling@qAu-Y4KI2Z_y-EqiG86cR.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:25:27.869190"
+    },
+    {
+      "file": "roadmaps/backend/content/timescaledb@WiAK70I0z-_bzbWNwiHUd.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:25:43.767241"
+    },
+    {
+      "file": "roadmaps/backend/content/token-authentication@0rGj7FThLJZouSQUhnqGW.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:25:47.581803"
+    },
+    {
+      "file": "roadmaps/backend/content/transactions@rq_y_OBMD9AH_4aoecvAi.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:25:51.524800"
+    },
+    {
+      "file": "roadmaps/backend/content/what-is-domain-name@ZhSuu2VArnzPDp6dPQQSC.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:26:42.356508"
+    },
+    {
+      "file": "roadmaps/backend/content/what-is-hosting@aqMaEY8gkKMikiqleV5EP.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:26:47.752872"
+    },
+    {
+      "file": "roadmaps/backend/content/what-is-http@R12sArWVpbIs_PHxBqVaR.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T02:26:52.314743"
     }
   ],
-  "last_updated": "2026-08-15T02:12:05.275031",
+  "last_updated": "2026-08-15T02:26:52.317878",
   "total_translated_count": 54
 }

@@ -1,10 +1,10 @@
-# Version Control Systems
+# Sistemas de Controle de Versão
 
-Version Control Systems (VCS) manage and track code changes over time, enabling efficient collaboration. Record file changes, allow reverting to previous versions, and maintain modification history. Can be centralized (Subversion) or distributed (Git, Mercurial) for collaboration and code integrity.
+Os Sistemas de Controle de Versão (VCS) gerenciam e rastreiam alterações de código ao longo do tempo, facilitando a colaboração eficiente. Registram as mudanças nos arquivos, permitem reverter para versões anteriores e mantêm um histórico das modificações. Pode ser centralizado (Subversion) ou distribuído (Git, Mercurial) para colaboração e integridade do código.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit Dedicated Git & GitHub Roadmap](https://roadmap.sh/git-github)
-- [@course@Why version control? (Interactive Lesson)](https://inter-git.com/lessons/introduction)
-- [@article@What is version control?](https://www.atlassian.com/git/tutorials/what-is-version-control)
-- [@video@What is a Version Control System and why you should always use it](https://www.youtube.com/watch?v=IeXhYROClZk)
+- [@roadmap@Visite o Caminho Dedidado de Git & GitHub](https://roadmap.sh/git-github)
+- [@course@Por que usar controle de versão? (Aula Interativa)](https://inter-git.com/lessons/introduction)
+- [@article@O que é controle de versão?](https://www.atlassian.com/git/tutorials/what-is-version-control)
+- [@video@O que é um Sistema de Controle de Versão e por que você sempre deve usá-lo](https://www.youtube.com/watch?v=IeXhYROClZk)

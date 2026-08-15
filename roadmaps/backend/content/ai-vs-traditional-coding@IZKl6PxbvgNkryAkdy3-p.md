@@ -1,10 +1,10 @@
-# AI vs. Traditional Software Development
+# AI vs. Desenvolvimento de Software Tradicional
 
-Traditional software development relies on developers explicitly writing code to instruct computers on how to perform tasks. This involves defining every step and logic manually. AI-assisted coding, however, leverages machine learning models trained on vast amounts of code to automate parts of the development process. Instead of writing all the code from scratch, developers can use AI to generate code snippets, suggest improvements, and even debug errors, potentially leading to faster development cycles and reduced human error.
+O desenvolvimento de software tradicional depende dos desenvolvedores escrever explicitamente código para instruir computadores em como realizar tarefas. Isso envolve definir cada etapa e lógica manualmente. No entanto, o codificação com assistência por IA aproveita modelos de aprendizado de máquina treinados em grandes quantidades de código para automatizar partes do processo de desenvolvimento. Em vez de escrever todo o código do zero, os desenvolvedores podem usar IA para gerar snippets de código, sugerir melhorias e até mesmo depurar erros, potencialmente levando a ciclos de desenvolvimento mais rápidos e reduzindo erros humanos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated Vibe Coding Roamdap](https://roadmap.sh/vibe-coding)
-- [@article@What is vibe coding?](https://www.ibm.com/think/topics/vibe-coding)
-- [@article@How AI is transforming work at Anthropic](https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic)
-- [@video@AI Systems vs Traditional Coding](https://www.youtube.com/watch?v=P7lryCIvxgA)
+- [@roadmap@Visite o Roadmap Específico do Vibe Coding](https://roadmap.sh/vibe-coding)
+- [@article@O que é o Vibe Coding?](https://www.ibm.com/think/topics/vibe-coding)
+- [@article@Como a IA está transformando o trabalho na Anthropic](https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic)
+- [@video@Sistemas de IA vs. Codificação Tradicional](https://www.youtube.com/watch?v=P7lryCIvxgA)

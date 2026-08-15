@@ -1,8 +1,8 @@
-# Server Sent Events
+# Eventos Enviados pelo Servidor
 
-Server-Sent Events (SSE) sends real-time updates from server to client over persistent HTTP connection. Enables efficient server push with automatic reconnection. Ideal for one-way communication like live notifications using simple text-based format and EventSource API.
+Eventos Enviados pelo Servidor (SSE) enviam atualizações em tempo real do servidor para o cliente através de uma conexão HTTP persistente. Permite um push eficiente do servidor com reconexão automática. Ideal para comunicação unidirecional como notificações em tempo real usando um formato baseado em texto simples e a API EventSource.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Server Sent Events - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events)
-- [@video@Server-Sent Events | Postman Level Up](https://www.youtube.com/watch?v=KrE044J8jEQ&t=1s)
+- [@article@Eventos Enviados pelo Servidor - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events)
+- [@video@Eventos Enviados pelo Servidor | Aumente seu Nível no Postman](https://www.youtube.com/watch?v=KrE044J8jEQ&t=1s)

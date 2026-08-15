@@ -1,10 +1,10 @@
 # Apache
 
-Apache HTTP Server is a popular open-source web server known for flexibility and extensive features. It supports multiple OS platforms, offers virtual hosting, SSL/TLS, and modular architecture. Part of the LAMP stack, it remains widely used despite competition from Nginx due to stability and community support.
+O Apache HTTP Server é um popular servidor web de código aberto conhecido por sua flexibilidade e recursos extensos. Ele suporta múltiplas plataformas operacionais, oferece hospedagem virtual, SSL/TLS e arquitetura modular. Parte do pilar LAMP, continua sendo amplamente utilizado apesar da competição com Nginx devido à sua estabilidade e apoio da comunidade.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Apache Server](https://httpd.apache.org/)
-- [@official@Apache Server Documentation](https://httpd.apache.org/docs/2.4/)
-- [@video@What is Apache Web Server?](https://www.youtube.com/watch?v=kaaenHXO4t4)
+- [@official@Servidor Apache](https://httpd.apache.org/)
+- [@official@Documentação do Servidor Apache](https://httpd.apache.org/docs/2.4/)
+- [@video@O que é o Servidor Web Apache?](https://www.youtube.com/watch?v=kaaenHXO4t4)
 - [@video@Apache vs NGINX](https://www.youtube.com/watch?v=9nyiY-psbMs)

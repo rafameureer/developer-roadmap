@@ -1,9 +1,9 @@
 # Firebase
 
-Firebase is Google's comprehensive mobile and web development platform offering real-time database, authentication, cloud storage, hosting, and analytics. Features serverless architecture, real-time synchronization, multiple auth providers, and development tools for testing and monitoring.
+Firebase é a plataforma de desenvolvimento mobile e web completa da Google, oferecendo banco de dados em tempo real, autenticação, armazenamento em nuvem, hospedagem e análise. Oferece arquitetura sem servidor, sincronização em tempo real, vários provedores de autenticação e ferramentas de desenvolvimento para testes e monitoramento.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@The Ultimate Guide to Firebase](https://fireship.io/lessons/the-ultimate-beginners-guide-to-firebase/)
-- [@official@Firebase Documentation](https://firebase.google.com/docs)
-- [@video@Firebase in 100 seconds](https://www.youtube.com/watch?v=vAoB4VbhRzM)
+- [@curso@Guia Completo do Firebase](https://fireship.io/lessons/the-ultimate-beginners-guide-to-firebase/)
+- [@oficial@Documentação oficial do Firebase](https://firebase.google.com/docs)
+- [@vídeo@Firebase em 100 segundos](https://www.youtube.com/watch?v=vAoB4VbhRzM)

@@ -1,10 +1,10 @@
-# Unit Testing
+# Testes Unitários
 
-Unit testing tests individual components or units in isolation to ensure correct functionality. Focuses on smallest testable parts like functions with predefined inputs and expected outcomes. Automated tests written by developers during coding to catch bugs early and improve reliability.
+Os testes unitários testam componentes ou unidades isoladamente para garantir a funcionalidade correta. Focalizam-se nas partes menores testáveis, como funções com entradas e resultados esperados predefinidos. Os testes automatizados escritos pelos desenvolvedores durante o codificação para detectar erros cedo e melhorar a confiabilidade.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Jest - JavaScript Testing Framework](https://jestjs.io/docs/getting-started)
-- [@opensource@JavaScript Testing Best Practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
-- [@article@What is Unit Testing?](https://www.guru99.com/unit-testing-guide.html)
-- [@video@What is Unit Testing?](https://youtu.be/x95ez7_V7rA?si=JhCVhcEN7zZOkxdp)
+- [@oficial@Jest - Framework de Teste JavaScript](https://jestjs.io/docs/getting-started)
+- [@opensource@Melhores práticas de teste em JavaScript](https://github.com/goldbergyoni/javascript-testing-best-practices)
+- [@artigo@O que é o teste unitário?](https://www.guru99.com/unit-testing-guide.html)
+- [@vídeo@O que é o teste unitário?](https://youtu.be/x95ez7_V7rA?si=JhCVhcEN7zZOkxdp)

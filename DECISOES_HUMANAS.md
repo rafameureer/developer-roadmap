@@ -4,7 +4,7 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 
 ---
 
-> ⚠️ **Total de itens sinalizados:** 237
+> ⚠️ **Total de itens sinalizados:** 281
 
 | Arquivo / Tópico | Motivo da Sinalização | Data/Hora |
 |---|---|---|
@@ -245,3 +245,47 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 | `roadmaps/aws/content/standard@Ll5FPCtkpYq_niJd7WoTC.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:11:06.634061 |
 | `roadmaps/aws/content/storage--volumes@A0u7CJwj5ULAMiAm12vZI.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:11:10.803305 |
 | `roadmaps/aws/content/storage-types@PJaAqax4fABnkObY5UwNp.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:11:14.615500 |
+| `roadmaps/backend/content/acid@qSAdfaGUfn8mtmDjHJi3z.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:12:29.453459 |
+| `roadmaps/backend/content/agents@w1D3-bSg93ndKK9XJTu7z.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:12:34.683585 |
+| `roadmaps/backend/content/ai-assisted-coding@fA3yi9puMbTFmbPpo6OjN.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:12:40.296952 |
+| `roadmaps/backend/content/github@ptD8EVqwFUYr4W5A_tABY.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:16:25.116049 |
+| `roadmaps/backend/content/go@BdXbcz4-ar3XOX0wIKzBp.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:16:33.066277 |
+| `roadmaps/backend/content/http-caching@KWTbEVX_WxS8jmSaAX3Fe.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:17:16.230088 |
+| `roadmaps/backend/content/https@x-WBJjBd8u93ym5gtxGsR.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:17:20.203598 |
+| `roadmaps/backend/content/influx-db@XbM4TDImSH-56NsITjyHK.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:17:24.610683 |
+| `roadmaps/backend/content/java@ANeSwxJDJyQ-49pO2-CCI.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:18:00.430239 |
+| `roadmaps/backend/content/javascript@8-lO-v6jCYYoklEJXULxN.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:18:04.166774 |
+| `roadmaps/backend/content/javascript@An2lMuJEkkpL0cfw4RrSl.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:18:20.736312 |
+| `roadmaps/backend/content/json-apis@sNceS4MpSIjRkWhNDmrFg.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:18:24.622107 |
+| `roadmaps/backend/content/jwt@UxS_mzVUjLigEwKrXnEeB.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:18:28.361750 |
+| `roadmaps/backend/content/learn-the-basics@UTupdqjOyLh7-56_0SXJ8.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:18:56.874570 |
+| `roadmaps/backend/content/loadshifting@HoQdX7a4SnkFRU4RPQ-D5.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:19:00.313046 |
+| `roadmaps/backend/content/long--short-polling@osvajAJlwGI3XnX0fE-kA.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:19:03.200745 |
+| `roadmaps/backend/content/md5@jWwA6yX4Zjx-r_KpDaD3c.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:19:31.807044 |
+| `roadmaps/backend/content/message-brokers@nJ5FpFgGCRaALcWmAKBKT.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:19:39.497766 |
+| `roadmaps/backend/content/microservices@K55h3aqOGe6-hgVhiFisT.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:19:54.786303 |
+| `roadmaps/backend/content/migrations@MOLAXgs0CMCT7o84L0EaK.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:19:59.915407 |
+| `roadmaps/backend/content/migrations@MOLAXgs0CMCT7o84L0EaK.md.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:20:03.382758 |
+| `roadmaps/backend/content/mongodb@28U6q_X-NTYf7OSKHjoWH.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:20:19.181627 |
+| `roadmaps/backend/content/monitoring@QvMEEsXh0-rzn5hDGcmEv.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:20:23.580608 |
+| `roadmaps/backend/content/monolith@Ke522R-4k6TDeiDRyZbbU.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:20:27.881788 |
+| `roadmaps/backend/content/openai@-ye5ZtYFDoYGpj-UJaBP8.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:21:34.054130 |
+| `roadmaps/backend/content/openid@z3EJBpgGm0_Uj3ymhypbX.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:21:38.015489 |
+| `roadmaps/backend/content/pick-a-backend-language@2f0ZO6GJElfZ2Eis28Hzg.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:22:05.774949 |
+| `roadmaps/backend/content/postgresql@FihTrMO56kj9jT8O_pO2T.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:22:09.877331 |
+| `roadmaps/backend/content/profiling-performance@SYXJhanu0lFmGj2m2XXhS.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:22:13.119812 |
+| `roadmaps/backend/content/rags@6PCOCzCbx7jo9wO2Hl2gy.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:22:46.395002 |
+| `roadmaps/backend/content/real-time-data@5XGvep2qoti31bsyqNzrU.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:22:49.431191 |
+| `roadmaps/backend/content/redis@M0iaSSdVPWaCUpyTG50Vf.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:22:53.217150 |
+| `roadmaps/backend/content/scaling-databases@95d9itpUZ4s9roZN8kG9x.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:23:51.615841 |
+| `roadmaps/backend/content/scrypt@kGTALrvCpxyVCXHRmkI7s.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:23:54.687571 |
+| `roadmaps/backend/content/scylladb@aArZ3gKwObzafCkTOd-Hj.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:23:59.142613 |
+| `roadmaps/backend/content/telemetry@neVRtPjIHP_VG7lHwfah0.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:25:20.768844 |
+| `roadmaps/backend/content/testing@STQQbPa7PE3gbjMdL6P-t.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:25:24.359434 |
+| `roadmaps/backend/content/throttling@qAu-Y4KI2Z_y-EqiG86cR.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:25:27.869190 |
+| `roadmaps/backend/content/timescaledb@WiAK70I0z-_bzbWNwiHUd.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:25:43.767241 |
+| `roadmaps/backend/content/token-authentication@0rGj7FThLJZouSQUhnqGW.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:25:47.581803 |
+| `roadmaps/backend/content/transactions@rq_y_OBMD9AH_4aoecvAi.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:25:51.524800 |
+| `roadmaps/backend/content/what-is-domain-name@ZhSuu2VArnzPDp6dPQQSC.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:26:42.356508 |
+| `roadmaps/backend/content/what-is-hosting@aqMaEY8gkKMikiqleV5EP.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:26:47.752872 |
+| `roadmaps/backend/content/what-is-http@R12sArWVpbIs_PHxBqVaR.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T02:26:52.314743 |

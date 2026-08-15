@@ -1,10 +1,10 @@
-# Cookie-Based Authentication
+# Autenticação Baseada em Cookies
 
-Cookie-based authentication maintains user sessions by storing session IDs in browser cookies. Server stores session data and uses cookies as keys. Simple to implement and browser-native, but vulnerable to CSRF attacks and challenging for cross-origin requests.
+A autenticação baseada em cookies mantém as sessões dos usuários armazenando IDs de sessão nos cookies do navegador. O servidor armazena os dados da sessão e usa os cookies como chaves. Fácil de implementar e nativo ao navegador, mas vulnerável a ataques CSRF e desafiador para solicitações entre origens.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@HTTP Cookies - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
-- [@article@Session vs Token Authentication](https://www.section.io/engineering-education/token-based-vs-session-based-authentication/)
-- [@video@Session vs Token Authentication in 100 Seconds](https://www.youtube.com/watch?v=UBUNrFtufWo)
-- [@video@How do cookies work?](https://www.youtube.com/watch?v=rdVPflECed8)
+- [@official@Cookies HTTP - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
+- [@article@Autenticação de Sessão vs Autenticação por Token](https://www.section.io/engineering-education/token-based-vs-session-based-authentication/)
+- [@video@Autenticação de Sessão vs Autenticação por Token em 100 Segundos](https://www.youtube.com/watch?v=UBUNrFtufWo)
+- [@video@Como funcionam os cookies?](https://www.youtube.com/watch?v=rdVPflECed8)

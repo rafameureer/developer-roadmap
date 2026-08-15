@@ -1,10 +1,10 @@
-# Architectural Patterns
+# Padrões Arquitetônicos
 
-Architectural patterns are reusable solutions to common software architecture problems. They address issues like performance limitations, high availability, and business risk minimization, providing proven templates for system design and structure.
+Os padrões arquitetônicos são soluções reutilizáveis para problemas comuns de arquitetura de software. Eles abordam questões como limitações de desempenho, alta disponibilidade e minimização do risco de negócios, fornecendo modelos provados para o design e a estrutura dos sistemas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@14 Architectural Patterns to know - Red Hat](https://www.redhat.com/architect/14-software-architecture-patterns)
-- [@article@10 Common Software Architectural Patterns in a nutshell](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
-- [@article@Software Architecture Patterns - O'Reilly](https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/)
-- [@video@10 Architecture Patterns Used In Enterprise Software Development Today](https://www.youtube.com/watch?v=BrT3AO8bVQY)
+- [@article@14 Padrões Arquitetônicos que você precisa conhecer - Red Hat](https://www.redhat.com/architect/14-software-architecture-patterns)
+- [@article@10 Comuns Padrões de Arquitetura de Software em um resumo](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
+- [@article@Padrões de Arquitetura de Software - O'Reilly](https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/)
+- [@video@10 Padrões de Arquitetura Usados na Desenvolvimento de Software Corporativo Hoje](https://www.youtube.com/watch?v=BrT3AO8bVQY)

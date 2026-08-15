@@ -1,15 +1,15 @@
-# Elasticsearch Usecases
+# Casos de Uso do Elasticsearch
 
-Elastic use cases can be classified into three main categories:
+Os casos de uso do Elasticsearch podem ser classificados em três categorias principais:
 
-*   **Elasticsearch** is a distributed, open-source search and analytics engine for all types of data, including textual, numerical, geospatial, structured, and unstructured.
-*   **Elastic Observability** builds on this foundation to provide a unified view of logs, metrics, and traces, enabling users to monitor and troubleshoot their systems.
-*   **Elastic Security** leverages Elasticsearch's search and analytics capabilities to offer threat detection, prevention, and response, helping organizations protect themselves from cyber threats. Elasticsearch use cases are diverse, ranging from application search and website search to logging and log analytics, security analytics, and business analytics.
+*   **Elasticsearch** é um mecanismo distribuído, de código aberto, de busca e análise para todos os tipos de dados, incluindo textuais, numéricos, geoespaciais, estruturados e não estruturados.
+*   **Elastic Observabilidade** se baseia nesta fundação para fornecer uma visão unificada de logs, métricas e rastreamento, permitindo aos usuários monitorar e diagnosticar seus sistemas.
+*   **Elastic Security** aproveita as capacidades de busca e análise do Elasticsearch para oferecer detecção, prevenção e resposta a ameaças, ajudando organizações a proteger-se contra ameaças cibernéticas. Os casos de uso do Elasticsearch são diversos, variando desde busca em aplicativos e busca em sites até loggin e análise de logs, análise de segurança e análise empresarial.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Elasticsearch solution overview](https://www.elastic.co/docs/solutions/search)
-- [@official@Elastic Observability overview](https://www.elastic.co/docs/solutions/observability)
-- [@official@Elastic Security overview](https://www.elastic.co/docs/solutions/security)
-- [@video@Getting Started with Elastic Observability](https://www.youtube.com/watch?v=SWUgqOSAyqU)
-- [@video@Elastic Security Solutions Overview](https://www.youtube.com/watch?v=wzPMtmINEhU)
+- [@official@Visão geral da solução Elasticsearch](https://www.elastic.co/docs/solutions/search)
+- [@official@Visão geral da Observabilidade Elastic](https://www.elastic.co/docs/solutions/observability)
+- [@official@Visão geral da Segurança Elastic](https://www.elastic.co/docs/solutions/security)
+- [@video@Introdução à Observabilidade Elastic](https://www.youtube.com/watch?v=SWUgqOSAyqU)
+- [@video@Visão geral das Soluções de Segurança do Elastic](https://www.youtube.com/watch?v=wzPMtmINEhU)

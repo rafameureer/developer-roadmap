@@ -1,10 +1,10 @@
-# Bool Query Filter Context
+# Contexto de Filtro Booliano
 
-The `filter` context within a Bool query in Elasticsearch is used to narrow down the documents that match a query without affecting the relevance score. It's like a pre-filter that efficiently excludes documents that don't meet specific criteria before the scoring process even begins, making it ideal for exact matches, range queries, and other conditions where relevance isn't a factor.
+O contexto `filter` em uma consulta Booliana no Elasticsearch é usado para reduzir os documentos que correspondem a uma consulta sem afetar a pontuação de relevância. É como um pré-filtro que eficientemente exclui documentos que não atendem a critérios específicos antes do processo de pontuação começar, tornando-o ideal para correspondências exatas, consultas de intervalo e outras condições onde a relevância não é um fator.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Boolean query](https://www.elastic.co/docs/reference/query-languages/query-dsl/query-dsl-bool-query)
-- [@official@Lost in Translation: Boolean Operations and Filters in the Bool Query](https://www.elastic.co/blog/lost-in-translation-boolean-operations-and-filters-in-the-bool-query)
-- [@video@Elasticsearch Bool Query (Should & Filter Clauses) - S1E14: Mini Beginner's Crash Course](https://www.youtube.com/watch?v=Uh1F2lezIfY)
-- [@video@Boolean Query in Elasticsearch | Bool, Filter, Must, Must Not, Should, DSL | ES7 for Beginners #4.3](https://www.youtube.com/watch?v=ba2Qn3y486M)
+- [@official@Consulta Booliana](https://www.elastic.co/docs/reference/query-languages/query-dsl/query-dsl-bool-query)
+- [@official@Perdido na Tradução: Operações Booleanas e Filtros na Consulta Booliana](https://www.elastic.co/blog/lost-in-translation-boolean-operations-and-filters-in-the-bool-query)
+- [@video@Consulta Booliana no Elasticsearch (Should & Cláusulas Filter) - S1E14: Mini Aula Inicial Rápida](https://www.youtube.com/watch?v=Uh1F2lezIfY)
+- [@video@Consulta Booliana no Elasticsearch | Bool, Filter, Must, Must Not, Should, DSL | ES7 para Iniciantes #4.3](https://www.youtube.com/watch?v=ba2Qn3y486M)

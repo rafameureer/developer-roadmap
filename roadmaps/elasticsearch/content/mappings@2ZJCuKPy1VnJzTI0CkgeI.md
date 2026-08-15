@@ -1,11 +1,11 @@
-# Mappings
+# Mapeamentos
 
-Mappings are like schemas in relational databases; they define how a document and its fields are stored and indexed. They specify the data type of each field (like text, keyword, date, or number) and how Elasticsearch should handle that data for searching and analysis. Mappings are crucial for ensuring data is indexed correctly and that queries return accurate and relevant results.
+Os mapeamentos são como esquemas em bancos de dados relacionais; eles definem como um documento e seus campos são armazenados e indexados. Eles especificam o tipo de dado de cada campo (como texto, keyword, data ou número) e como o Elasticsearch deve lidar com esses dados para busca e análise. Os mapeamentos são cruciais para garantir que os dados sejam indexados corretamente e que as consultas retornem resultados precisos e relevantes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Mapping](https://www.elastic.co/docs/manage-data/data-store/mapping)
-- [@article@Elasticsearch Mapping](https://opster.com/guides/elasticsearch/glossary/elasticsearch-mapping/)
-- [@article@[Beginner's guide] Understanding mapping with Elasticsearch and Kibana](https://dev.to/lisahjung/beginner-s-guide-understanding-mapping-with-elasticsearch-and-kibana-3646)
-- [@video@What Are Mappings in Elasticsearch? (Explained Simply)](https://www.youtube.com/watch?v=ryXCer_rJcg)
-- [@video@Beginner’s Crash Course to Elastic Stack - Part 5: Mapping](https://www.youtube.com/watch?v=FQAHDrVwfok)
+- [@official@Mapeamento](https://www.elastic.co/docs/manage-data/data-store/mapping)
+- [@article@Mapeamento do Elasticsearch](https://opster.com/guides/elasticsearch/glossary/elasticsearch-mapping/)
+- [@article@[Guia Iniciante] Entendendo mapeamentos com o Elasticsearch e Kibana](https://dev.to/lisahjung/beginner-s-guide-understanding-mapping-with-elasticsearch-and-kibana-3646)
+- [@video@O que são Mapeamentos no Elasticsearch? (Explained Simply)](https://www.youtube.com/watch?v=ryXCer_rJcg)
+- [@video@Crash Course Inicial para o Elastic Stack - Parte 5: Mapeamento](https://www.youtube.com/watch?v=FQAHDrVwfok)

@@ -1,11 +1,11 @@
-# Index (Database)
+# Índice (Banco de Dados)
 
-An index is a collection of documents that have similar characteristics. Think of it as a database in a relational database system. It's where Elasticsearch stores and organizes data, allowing for efficient searching and retrieval. Each index is identified by a name, which is used when performing indexing, searching, updating, and deleting operations.
+Um índice é uma coleção de documentos que têm características semelhantes. Imagine-o como um banco de dados em um sistema de banco de dados relacional. É onde o Elasticsearch armazena e organiza os dados, permitindo uma busca e recuperação eficientes. Cada índice é identificado por um nome, que é usado quando se executa operações de indexação, busca, atualização e exclusão.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Index basics](https://www.elastic.co/docs/manage-data/data-store/index-basics)
-- [@official@What is an Elasticsearch index?](https://www.elastic.co/docs/manage-data/data-store/index-basics)
-- [@article@Elasticsearch Index – How to create, list, query and delete indices](https://opster.com/guides/elasticsearch/glossary/elasticsearch-index/)
-- [@video@How Elasticsearch Works: Documents, JSON & Index Explained](https://www.youtube.com/watch?v=wHZ3JsRzukI)
-- [@video@What's ElasticSearch Used For? | Search Indexes | Systems Design Interview 0 to 1 with Ex-Google SWE](https://www.youtube.com/watch?v=wmCWCVAl1Us)
+- [@oficial@Conceitos básicos do índice](https://www.elastic.co/docs/manage-data/data-store/index-basics)
+- [@oficial@O que é um índice do Elasticsearch?](https://www.elastic.co/docs/manage-data/data-store/index-basics)
+- [@artigo@Índice do Elasticsearch – Como criar, listar, consultar e excluir índices](https://opster.com/guides/elasticsearch/glossary/elasticsearch-index/)
+- [@vídeo@Como funciona o Elasticsearch: Documentos, JSON & Índice Explicados](https://www.youtube.com/watch?v=wHZ3JsRzukI)
+- [@vídeo@O que é o ElasticSearch? | Índices de Busca | Entrevista de Design de Sistemas 0 a 1 com Ex-Google SWE](https://www.youtube.com/watch?v=wmCWCVAl1Us)

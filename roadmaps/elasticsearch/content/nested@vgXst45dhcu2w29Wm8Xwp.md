@@ -1,9 +1,9 @@
-# Nested Data Type
+# Tipo de Dados Aninhado
 
-The nested data type is used to represent arrays of objects within a document. Each object in the array can be indexed as a separate document, allowing you to query and filter based on the properties of individual objects within the array, without affecting other objects in the same array. This is particularly useful when you need to perform complex queries on related objects stored within a single document.
+O tipo de dados aninhado é usado para representar arrays de objetos dentro de um documento. Cada objeto no array pode ser indexado como um documento separado, permitindo que você consulte e filtre com base nas propriedades dos objetos individuais dentro do array, sem afetar outros objetos no mesmo array. Isso é particularmente útil quando você precisa realizar consultas complexas em objetos relacionados armazenados em um único documento.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Nested field type](https://www.elastic.co/docs/reference/elasticsearch/mapping-reference/nested)
-- [@video@Nested vs object elasticsearch | How do I query nested objects in Elasticsearch?](https://www.youtube.com/watch?v=YIFDzfImSF8)
-- [@video@Querying Nested Objects in Elasticsearch](https://www.youtube.com/watch?v=UeAHBLJDFR8)
+- [@oficial@Tipo de campo aninhado](https://www.elastic.co/docs/reference/elasticsearch/mapping-reference/nested)
+- [@vídeo@Aninhado vs objeto no Elasticsearch | Como eu consulto objetos aninhados no Elasticsearch?](https://www.youtube.com/watch?v=YIFDzfImSF8)
+- [@vídeo@Consultando Objetos Aninhados no Elasticsearch](https://www.youtube.com/watch?v=UeAHBLJDFR8)

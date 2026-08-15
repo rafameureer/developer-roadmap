@@ -1,12 +1,12 @@
-# Range/Date Range Aggregations
+# Agregações de Intervalo/Intervalo de Data
 
-Range and Date Range aggregations are used to categorize documents into buckets based on numeric or date values falling within specified ranges. These aggregations allow you to define custom intervals for grouping data, providing flexibility in analyzing distributions and trends across your dataset. You can define specific start and end points for each range, enabling you to create meaningful segments for your analysis.
+As agregações de intervalo e intervalo de data são usadas para categorizar documentos em recipientes com base em valores numéricos ou de data que caem dentro de intervalos especificados. Essas agregações permitem definir intervalos personalizados para agrupar dados, fornecendo flexibilidade na análise das distribuições e tendências em seu conjunto de dados. Você pode definir pontos de início e fim específicos para cada intervalo, permitindo que você crie segmentos significativos para sua análise.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Range aggregation](https://www.elastic.co/docs/reference/aggregations/search-aggregations-bucket-range-aggregation)
-- [@official@Date range aggregation](https://www.elastic.co/docs/reference/aggregations/search-aggregations-bucket-daterange-aggregation)
-- [@article@Elasticsearch Range Aggregation - Syntax, Example, and Tips](https://pulse.support/kb/elasticsearch-range-aggregation)
-- [@article@Elasticsearch Date Range Aggregation - Syntax, Example, and Tips](https://pulse.support/kb/elasticsearch-date-range-aggregation)
-- [@video@Elasticsearch Bucket, Histogram, Range & Terms Aggregations - S1E17 Mini Beginner's Crash Course](https://www.youtube.com/watch?v=R114ib2D9mU)
-- [@video@Bucket Aggregations in Elasticsearch | ElasticSearch 7 for Beginners #5.2](https://www.youtube.com/watch?v=8QmBZLOl9Y8&t=277s)
+- [@oficial@Agregação de Intervalo](https://www.elastic.co/docs/reference/aggregations/search-aggregations-bucket-range-aggregation)
+- [@oficial@Agregação de Intervalo de Data](https://www.elastic.co/docs/reference/aggregations/search-aggregations-bucket-daterange-aggregation)
+- [@artigo@Agregação de Intervalo no Elasticsearch - Sintaxe, Exemplo e Dicas](https://pulse.support/kb/elasticsearch-range-aggregation)
+- [@artigo@Agregação de Intervalo de Data no Elasticsearch - Sintaxe, Exemplo e Dicas](https://pulse.support/kb/elasticsearch-date-range-aggregation)
+- [@vídeo@Elasticsearch Bucket, Histograma, Agregações de Intervalo & Termos - Mini Crash Course Iniciante S1E17](https://www.youtube.com/watch?v=R114ib2D9mU)
+- [@vídeo@Agregações de Bucket no Elasticsearch | ElasticSearch 7 para Iniciantes #5.2](https://www.youtube.com/watch?v=8QmBZLOl9Y8&t=277s)

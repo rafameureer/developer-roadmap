@@ -1,13 +1,13 @@
-# Terms Aggregation
+# Agregação de Termos
 
-The Terms aggregation is a multi-bucket aggregation that groups documents based on the terms found in a specific field. It analyzes the field's values and creates buckets for each unique term, counting the number of documents that contain that term. This allows you to identify the most frequent terms within your data and gain insights into the distribution of values in a field.
+A agregação de termos é uma agregação multi-bucket que agrupa documentos com base nos termos encontrados em um campo específico. Ela analisa os valores do campo e cria buckets para cada termo único, contando o número de documentos que contêm esse termo. Isso permite identificar os termos mais frequentes em seus dados e obter insights sobre a distribuição dos valores em um campo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Terms aggregation](https://www.elastic.co/docs/reference/aggregations/search-aggregations-bucket-terms-aggregation)
-- [@official@Multi Terms aggregation](https://www.elastic.co/docs/reference/aggregations/search-aggregations-bucket-multi-terms-aggregation)
-- [@official@Unveiling unique patterns: A guide to significant terms aggregation in Elasticsearch](https://www.elastic.co/search-labs/blog/significant-terms-aggregation-elasticsearch)
-- [@official@Bucket](https://www.elastic.co/docs/reference/aggregations/bucket)
-- [@article@Elasticsearch Terms Aggregation - Syntax, Example, and Tips](https://pulse.support/kb/elasticsearch-terms-aggregation)
-- [@article@Terms Aggregation on High-Cardinality Fields in Elasticsearch](https://opster.com/guides/elasticsearch/search-apis/terms-aggregation-on-high-cardinality-fields-in-elasticsearch/)
-- [@video@Elasticsearch Bucket, Histogram, Range & Terms Aggregations - S1E17 Mini Beginner's Crash Course](https://www.youtube.com/watch?v=R114ib2D9mU)
+- [@oficial@Agregação de termos](https://www.elastic.co/docs/reference/aggregations/search-aggregations-bucket-terms-aggregation)
+- [@oficial@Agregação Multi-Termos](https://www.elastic.co/docs/reference/aggregations/search-aggregations-bucket-multi-terms-aggregation)
+- [@oficial@Revelando padrões únicos: um guia para a agregação de termos significativos no Elasticsearch](https://www.elastic.co/search-labs/blog/significant-terms-aggregation-elasticsearch)
+- [@oficial@Bucket](https://www.elastic.co/docs/reference/aggregations/bucket)
+- [@artigo@Elasticsearch Agregação de Termos - Sintaxe, Exemplo e Dicas](https://pulse.support/kb/elasticsearch-terms-aggregation)
+- [@artigo@Agregação de termos em campos de alta cardinalidade no Elasticsearch](https://opster.com/guides/elasticsearch/search-apis/terms-aggregation-on-high-cardinality-fields-in-elasticsearch/)
+- [@vídeo@Elasticsearch Bucket, Histograma, Intervalo & Agregações de Termos - S1E17 Mini Curso Iniciante](https://www.youtube.com/watch?v=R114ib2D9mU)

@@ -1,9 +1,9 @@
-# Pivot Transformation
+# Transformação de Pivot
 
-The pivot transformation in Elasticsearch is a way to reshape your data by aggregating values from one or more fields into columns. It essentially rotates the data, turning unique values in a field into separate fields in the output. This allows you to analyze and visualize data in a different format, making it easier to identify trends and patterns that might be hidden in the original structure.
+A transformação de pivot no Elasticsearch é uma maneira de reformatar seus dados ao agrupar valores de um ou mais campos em colunas. Ela efetivamente gira os dados, convertendo valores únicos em um campo em campos separados na saída. Isso permite que você analise e visualize dados em um formato diferente, tornando mais fácil identificar tendências e padrões que podem estar ocultos na estrutura original.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Transforming data](https://www.elastic.co/docs/explore-analyze/transforms)
-- [@official@Pivot transforms](https://www.elastic.co/docs/explore-analyze/transforms/transform-overview#pivot-transform-overview)
-- [@official@Transforms examples](https://www.elastic.co/docs/explore-analyze/transforms/transform-examples)
+- [@oficial@Transformando dados](https://www.elastic.co/docs/explore-analyze/transforms)
+- [@oficial@Transformações de Pivot](https://www.elastic.co/docs/explore-analyze/transforms/transform-overview#pivot-transform-overview)
+- [@oficial@Exemplos de Transformações](https://www.elastic.co/docs/explore-analyze/transforms/transform-examples)

@@ -2882,7 +2882,101 @@
     "roadmaps/docker/content/volume-mounts@woemCQmWTR-hIoWAci3d5.md",
     "roadmaps/docker/content/volumes@eHtVLB6v3h7hatJb-9cZK.md",
     "roadmaps/docker/content/what-are-containers@74JxgfJ_1qmVNZ_QRp9Ne.md",
-    "roadmaps/docker/content/why-do-we-need-containers@i4ijY3T5gLgNz0XqRipXe.md"
+    "roadmaps/docker/content/why-do-we-need-containers@i4ijY3T5gLgNz0XqRipXe.md",
+    "roadmaps/elasticsearch/content/api-keys@6LJ8UCBA9jj4ENk1iLwC6.md",
+    "roadmaps/elasticsearch/content/authentication@b4PSjo2xVnkih7e9XlnQs.md",
+    "roadmaps/elasticsearch/content/autoscaling@pBQsOfU5JlCMTSdKVU0C2.md",
+    "roadmaps/elasticsearch/content/avg--sum--min--max@Avit-NGMkIA9JwJ7OUiNZ.md",
+    "roadmaps/elasticsearch/content/bm25-algorithm@MqoJJv_aZCdCLHLpebrPA.md",
+    "roadmaps/elasticsearch/content/boolean@8bNqL02B9VFraXaRDaxDq.md",
+    "roadmaps/elasticsearch/content/boosting-queries@ebU65cyHH2TVGrQOHjILk.md",
+    "roadmaps/elasticsearch/content/bulk-index@3VH_cfXDDZbYma-DL14Fe.md",
+    "roadmaps/elasticsearch/content/cardinality@vrj87U2jNHEQhUlUKvm0z.md",
+    "roadmaps/elasticsearch/content/cat-api@IbkvRfpVm1iNSU9jH0MLO.md",
+    "roadmaps/elasticsearch/content/cluster-monitoring@TqamknoJp5OQnvqpQpJHx.md",
+    "roadmaps/elasticsearch/content/cluster-system@UVFo66FzwLOPFjafCMQg2.md",
+    "roadmaps/elasticsearch/content/controlling-search-results@QzkAFCH4nGZbVudp_bSh_.md",
+    "roadmaps/elasticsearch/content/coordinating-nodes@eIGt2YQdHRssD_7TncWdf.md",
+    "roadmaps/elasticsearch/content/create-index@raYmik0mnI2_gu2dpWKzF.md",
+    "roadmaps/elasticsearch/content/data-nodes@0t2kxHBbL6kXn3C1sgGEE.md",
+    "roadmaps/elasticsearch/content/delete-by-query@FYdnnc9kgkWYQAtJjBgTC.md",
+    "roadmaps/elasticsearch/content/delete-documents@d5KjotJsfYrE5YH7a48XI.md",
+    "roadmaps/elasticsearch/content/delete-index@FGz2puNUy_cGRwE3Jfylq.md",
+    "roadmaps/elasticsearch/content/doc-values@rkL_k2nxymtgPW8xf_04k.md",
+    "roadmaps/elasticsearch/content/document-row@tX_HGYnsoeipj4xu04wnX.md",
+    "roadmaps/elasticsearch/content/dynamic@_SuYA1C-g5XOmhCAjXhXi.md",
+    "roadmaps/elasticsearch/content/elastic-cloud@TACmPj5o4tdyTkLXqSQFb.md",
+    "roadmaps/elasticsearch/content/elasticsearch-usecases@0-SJLGkO8Ek7hyC6wWHKv.md",
+    "roadmaps/elasticsearch/content/eql@R2G2jlvGl6rJkqphwHYGP.md",
+    "roadmaps/elasticsearch/content/esql@bw5Rt_AxLRVB6KnetVWU9.md",
+    "roadmaps/elasticsearch/content/exists-query@Eu76k_9GC5DNqWMKTogV4.md",
+    "roadmaps/elasticsearch/content/explicit@4f09QKfGI-GaxYw0ngdiS.md",
+    "roadmaps/elasticsearch/content/fielddata@bNnGloEN5OED8M-WyChK6.md",
+    "roadmaps/elasticsearch/content/filter-aggregations@BzIj7Cc9oC4WsUeU9b4Ae.md",
+    "roadmaps/elasticsearch/content/filter@Kzuy0BM4Dme2nFanEdWGC.md",
+    "roadmaps/elasticsearch/content/filter@irtX2t6kTUp5lDHd0AVUF.md",
+    "roadmaps/elasticsearch/content/flattened@MSHYpBQEgv-ukJvvuHE1B.md",
+    "roadmaps/elasticsearch/content/function-score-query@pzRBfcevVXXWf6QfvGIvs.md",
+    "roadmaps/elasticsearch/content/geo-points@d_VHRn6rWUEFfI6KVrcoS.md",
+    "roadmaps/elasticsearch/content/get-document@raSeqTXjH4aCFHuoqmrcJ.md",
+    "roadmaps/elasticsearch/content/highlighting@vaah2ESUA7oJW4-hHaWrm.md",
+    "roadmaps/elasticsearch/content/how-search-works@fuQ4okG1z02lMx8Gkw43M.md",
+    "roadmaps/elasticsearch/content/id-primary-key@1Qps2Z_Cp5ZrYkq5FXwDO.md",
+    "roadmaps/elasticsearch/content/id-query@SmaMEuknItGuLiBv9PwIk.md",
+    "roadmaps/elasticsearch/content/ilm@DMXH8GoYf2qVDbLg7b2hm.md",
+    "roadmaps/elasticsearch/content/index-database@ECrKSI6rUU_N5fd3NFgch.md",
+    "roadmaps/elasticsearch/content/index-document@amdn_KmQmPJgBf-kDzC3E.md",
+    "roadmaps/elasticsearch/content/introduction@rWriosjh7LzGZbj8k_wih.md",
+    "roadmaps/elasticsearch/content/kql@Ad5Ck2ZdLN3iphqRmFMIF.md",
+    "roadmaps/elasticsearch/content/latest@aX6S8p760HI7U9POwTJ1e.md",
+    "roadmaps/elasticsearch/content/leaf-vs-compound-queries@xpxl2b_9DUXCT4bpyGete.md",
+    "roadmaps/elasticsearch/content/lucene@jWST5oXpmJVhjXKucbUu5.md",
+    "roadmaps/elasticsearch/content/mapping-explosion@X_6Cyj7QIls5FK1gmvi4e.md",
+    "roadmaps/elasticsearch/content/mappings@2ZJCuKPy1VnJzTI0CkgeI.md",
+    "roadmaps/elasticsearch/content/master-elegible-nodes@Mc96iYA5dzWQJ0Kz8mgZC.md",
+    "roadmaps/elasticsearch/content/match-phrase-query@OBSm1fxTj1HhuqN2FACQb.md",
+    "roadmaps/elasticsearch/content/match-query@hwZQg4HXZeQRX5ty47U9h.md",
+    "roadmaps/elasticsearch/content/must@f63E0rn-Ayz_AAUQM-o-N.md",
+    "roadmaps/elasticsearch/content/must_not@gYMl1QixMYQ6-6zCNhyEG.md",
+    "roadmaps/elasticsearch/content/nested-aggregations@NRMC5M3ZFHwHZLpPPPo5v.md",
+    "roadmaps/elasticsearch/content/nested@vgXst45dhcu2w29Wm8Xwp.md",
+    "roadmaps/elasticsearch/content/node-instance@XjeQ-O1XA9q2wCIyzXLHg.md",
+    "roadmaps/elasticsearch/content/numeric@_L1JMJIEJQ3VzQc0LfhfF.md",
+    "roadmaps/elasticsearch/content/object@RHUajAEJqQy9lnKUv-yiF.md",
+    "roadmaps/elasticsearch/content/optimizing-bulk-indexing@Vv7YmE4OqTsn2WWHS6bQW.md",
+    "roadmaps/elasticsearch/content/pagination@-GcXnJzacIDHkoZFzmoq0.md",
+    "roadmaps/elasticsearch/content/pipeline-aggregations@ngYPDkTwj1e4HTFYJZ8ru.md",
+    "roadmaps/elasticsearch/content/pivot@MSPIbD2eaqpgjbdXRh3Tg.md",
+    "roadmaps/elasticsearch/content/prefix-query@dFKT1qTnnJwAreg9E0GsF.md",
+    "roadmaps/elasticsearch/content/range--date-range@yVjpNuTx5StM7g0Jojmc2.md",
+    "roadmaps/elasticsearch/content/range-query@h0u093c6Ccx9SllBehnYt.md",
+    "roadmaps/elasticsearch/content/reindex-api@s1Finic6tTeSbgXt1nz30.md",
+    "roadmaps/elasticsearch/content/replica-shards@ANeRCig1fihD5-4a7l9lz.md",
+    "roadmaps/elasticsearch/content/rest-api-basics@ciLSkWlj0_WzCUydb9Cdz.md",
+    "roadmaps/elasticsearch/content/roles--users@xv_a_A4QJuM3Af_My0VXj.md",
+    "roadmaps/elasticsearch/content/rollover-policies@-jlIcMsKptM9AoST6mCOh.md",
+    "roadmaps/elasticsearch/content/running-with-docker@hMmoVhZnoE0CdY-C135DW.md",
+    "roadmaps/elasticsearch/content/search-analyzer@txSx-r5A7erBVXOI18R4f.md",
+    "roadmaps/elasticsearch/content/should@QukRBV4aCfUtUE7L-qriv.md",
+    "roadmaps/elasticsearch/content/slm@ghPkYADvzyvPZbzt5Fnmz.md",
+    "roadmaps/elasticsearch/content/snapshots--restore@mw08QuJPgFHssk5Ur8PRY.md",
+    "roadmaps/elasticsearch/content/standard-analyzer@XDzjBGYxgiGOiNB_JBTRd.md",
+    "roadmaps/elasticsearch/content/stats--extended-stats@qCdD7orsutXfMeLSbyyWd.md",
+    "roadmaps/elasticsearch/content/synonyms-graph@8FtfvlvLXXlOX-D6EDvFj.md",
+    "roadmaps/elasticsearch/content/term-query@TIOwE5LY6D4y6DwYEsZXC.md",
+    "roadmaps/elasticsearch/content/terms@yx5BiPNalUkKBH7bhwbEi.md",
+    "roadmaps/elasticsearch/content/text@Fmxstc6ZjXnMLpnWkZGOA.md",
+    "roadmaps/elasticsearch/content/the-analyze-api@59-tr4ff4QmFFJCN_Vcfh.md",
+    "roadmaps/elasticsearch/content/the-elk-stack@lmc1Eu4oacxPT778aGya5.md",
+    "roadmaps/elasticsearch/content/the-inverted-index@jx0CS3mRr5MB95cTRQMtv.md",
+    "roadmaps/elasticsearch/content/the-split-brain-problem@Q6djSLPsTlIBfXFOsael7.md",
+    "roadmaps/elasticsearch/content/transform-api@C3JSN-6jRikQjxifLu9Vk.md",
+    "roadmaps/elasticsearch/content/understanding-similarity@c9rILhjxosufXg4-_ffVi.md",
+    "roadmaps/elasticsearch/content/update-by-query@q-u0rz7mc0ohFUYkXjeD6.md",
+    "roadmaps/elasticsearch/content/update-document@5HcPuuPpsNudiuzpAFU8z.md",
+    "roadmaps/elasticsearch/content/value-count@q8SWm-tJ9c7uIY6wxzQdI.md",
+    "roadmaps/elasticsearch/content/vector-search@MH1AKsuv654fdXX6hVhtv.md",
+    "roadmaps/elasticsearch/content/wildcard-query@KtRZM5xTa4rHE7JnTAwAD.md"
   ],
   "completed_roadmaps": [
     "frontend-beginner",
@@ -2918,7 +3012,8 @@
     "devrel",
     "devsecops",
     "django",
-    "docker"
+    "docker",
+    "elasticsearch"
   ],
   "flagged_issues": [
     {
@@ -6870,8 +6965,103 @@
       "file": "roadmaps/django/content/why-use-web-frameworks@xdxitF1Foo6W9Pj6-2Be1.md",
       "reason": "Falha na tradução automática após tentativas no Ollama",
       "timestamp": "2026-08-15T06:06:58.355561"
+    },
+    {
+      "file": "roadmaps/elasticsearch/content/cross-cluster-replication@NFUpYASxryl5ne1jHfj-E.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:13:14.142337"
+    },
+    {
+      "file": "roadmaps/elasticsearch/content/custom-analyzers@Y-4FlvsZPCP1WISOvcPMW.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:13:19.947830"
+    },
+    {
+      "file": "roadmaps/elasticsearch/content/data-tiers@e7jEDWLZ6q6S0csClOD27.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:13:47.223904"
+    },
+    {
+      "file": "roadmaps/elasticsearch/content/data-types@OfsRHpwJClzwPPRe9hai2.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:13:50.900501"
+    },
+    {
+      "file": "roadmaps/elasticsearch/content/dates@YHLYayCH8beVSkDF_U5_F.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:13:54.724238"
+    },
+    {
+      "file": "roadmaps/elasticsearch/content/histogram@RDygFr1w9yR6mU3hSG8Vj.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:15:59.667342"
+    },
+    {
+      "file": "roadmaps/elasticsearch/content/hybrid-search@cWzmbSIsiw7809rmFA4DV.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:16:10.117684"
+    },
+    {
+      "file": "roadmaps/elasticsearch/content/json@ppgShbqhYsD6maDw3Dgcx.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:17:00.244573"
+    },
+    {
+      "file": "roadmaps/elasticsearch/content/keyword@DZ_FX0ansCsXDN7J6u7_m.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:17:03.044473"
+    },
+    {
+      "file": "roadmaps/elasticsearch/content/kibana-console@ST0yxc527eb2vRrSvTWAd.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:17:06.983212"
+    },
+    {
+      "file": "roadmaps/elasticsearch/content/primary-shards@nkqoh4_V4VRyETqN0ci1R.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:19:14.145390"
+    },
+    {
+      "file": "roadmaps/elasticsearch/content/query-dsl@4-hkqr1z0p56K0HzbifEs.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:19:19.650001"
+    },
+    {
+      "file": "roadmaps/elasticsearch/content/query@GUxc44CiMH8DAaHEB8H1I.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:19:23.999461"
+    },
+    {
+      "file": "roadmaps/elasticsearch/content/search-engines-vs-relational-dbs@rWyeaFLWQdykUQMOn8t9k.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:20:44.485792"
+    },
+    {
+      "file": "roadmaps/elasticsearch/content/segment-merging@v2h-DzgtEFgE5Bu4dpOTE.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:20:48.758226"
+    },
+    {
+      "file": "roadmaps/elasticsearch/content/semantic-search@ZEM809HNlJtNQCfFmoFdi.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:20:56.946177"
+    },
+    {
+      "file": "roadmaps/elasticsearch/content/sorting@lSYyRKgtY7PEk4ESy3uRK.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:21:40.345822"
+    },
+    {
+      "file": "roadmaps/elasticsearch/content/source-filtering@b9XUvx-4qAMwghgy-LVat.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:21:44.716800"
+    },
+    {
+      "file": "roadmaps/elasticsearch/content/sql@Hg5LjcPxxBJyFcfhbrE_o.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T06:21:50.229779"
     }
   ],
-  "last_updated": "2026-08-15T06:11:22.702277",
+  "last_updated": "2026-08-15T06:23:31.576967",
   "total_translated_count": 54
 }

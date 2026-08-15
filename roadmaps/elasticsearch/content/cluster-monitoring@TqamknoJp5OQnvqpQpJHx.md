@@ -1,9 +1,9 @@
-# Cluster Monitoring
+# Monitoramento do Cluster
 
-Cluster monitoring involves continuously observing the health, performance, and resource utilization of an Elasticsearch cluster. This process helps identify potential issues, bottlenecks, and anomalies that could impact the cluster's stability and responsiveness. Effective monitoring allows administrators to proactively address problems, optimize resource allocation, and ensure the cluster operates efficiently.
+O monitoramento de cluster envolve observar continuamente a saúde, desempenho e utilização de recursos de um cluster Elasticsearch. Esse processo ajuda a identificar problemas potenciais, gargalos e anomalias que podem impactar a estabilidade e a resposta do cluster. Um monitoramento eficaz permite aos administradores abordar problemas proativamente, otimizar a alocação de recursos e garantir que o cluster funcione eficientemente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Monitoring](https://www.elastic.co/docs/deploy-manage/monitor)
-- [@official@Track what's happening in your Elastic Stack](https://www.elastic.co/elasticsearch/monitoring)
-- [@official@Stack monitoring](https://www.elastic.co/docs/deploy-manage/monitor/stack-monitoring)
+- [@oficial@Monitoramento](https://www.elastic.co/docs/deploy-manage/monitor)
+- [@oficial@Rastreie o que está acontecendo em seu Elastic Stack](https://www.elastic.co/elasticsearch/monitoring)
+- [@oficial@Monitoramento de pilha](https://www.elastic.co/docs/deploy-manage/monitor/stack-monitoring)

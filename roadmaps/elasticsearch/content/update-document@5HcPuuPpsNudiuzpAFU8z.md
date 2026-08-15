@@ -1,10 +1,10 @@
-# Update Document
+# Atualização de Documento
 
-Updating a document in Elasticsearch involves modifying an existing document's data. You can achieve this using the Update API, which allows you to change specific fields or the entire document. The API uses a script or a partial document to specify the changes. When using a script, you can perform complex updates based on the document's current state. Alternatively, providing a partial document will merge the provided fields with the existing document. Elasticsearch then reindexes the document with the updated information.
+Atualizar um documento no Elasticsearch envolve modificar os dados de um documento existente. Você pode fazer isso usando a API de Atualização, que permite alterar campos específicos ou o documento inteiro. A API usa um script ou um documento parcial para especificar as alterações. Quando usar um script, você pode realizar atualizações complexas com base no estado atual do documento. Alternativamente, fornecer um documento parcial mesclará os campos fornecidos com o documento existente. O Elasticsearch então reindexará o documento com as informações atualizadas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Update a document](https://www.elastic.co/docs/api/doc/elasticsearch/operation/operation-update)
-- [@official@Update a document](https://www.elastic.co/docs/reference/elasticsearch/rest-apis/update-document)
-- [@article@Elasticsearch Update Document Field](https://opster.com/guides/elasticsearch/operations/elasticsearch-update-document-field/)
-- [@video@How to Update a Document in Elasticsearch that Has Already Been Indexed](https://www.youtube.com/watch?v=Uo_Avtu_aY4v)
+- [@oficial@Atualizar um Documento](https://www.elastic.co/docs/api/doc/elasticsearch/operation/operation-update)
+- [@oficial@Atualizar um Documento](https://www.elastic.co/docs/reference/elasticsearch/rest-apis/update-document)
+- [@artigo@Atualização de Campo de Documento no Elasticsearch](https://opster.com/guides/elasticsearch/operations/elasticsearch-update-document-field/)
+- [@vídeo@Como Atualizar um Documento no Elasticsearch que Já Foi Indexado](https://www.youtube.com/watch?v=Uo_Avtu_aY4v)

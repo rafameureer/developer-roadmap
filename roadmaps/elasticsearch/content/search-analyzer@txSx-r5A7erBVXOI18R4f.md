@@ -1,12 +1,12 @@
-# Search Analyzer
+# Analisador de Busca
 
-A search analyzer in Elasticsearch is responsible for processing the query text provided by a user before it's used to search the index. It transforms the query text into a format that matches the indexed data, ensuring relevant results are retrieved. This process typically involves character filtering, tokenization, and token filtering, similar to the analysis process performed on documents during indexing, but tailored for search queries.
+Um analisador de busca no Elasticsearch é responsável por processar o texto da consulta fornecido pelo usuário antes de ser usado para pesquisar o índice. Ele transforma o texto da consulta em um formato que corresponde aos dados indexados, garantindo que resultados relevantes sejam recuperados. Esse processo geralmente envolve filtragem de caracteres, tokenização e filtragem de tokens, semelhante ao processo de análise realizado nos documentos durante o índice, mas adaptado para consultas de busca.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Anatomy of an analyzer](https://www.elastic.co/docs/manage-data/data-store/text-analysis/anatomy-of-an-analyzer)
-- [@official@Index and search analysis](https://www.elastic.co/docs/manage-data/data-store/text-analysis/index-search-analysis)
-- [@official@Specify an analyzer](https://www.elastic.co/docs/manage-data/data-store/text-analysis/specify-an-analyzer)
-- [@article@https://pulse.support/kb/what-is-elasticsearch-analyzer](https://pulse.supphttps//pulse.support/kb/what-is-elasticsearch-analyzerort/kb/what-is-elasticsearch-analyzer)
-- [@video@Elastic Search Analyzer explained in a easy way](https://www.youtube.com/watch?v=9VhTnWuely4)
-- [@video@Mapping and Analysers [ElasticSearch 7 for Beginners #3.2]](https://www.youtube.com/watch?v=_OjUoZ5NbYY)
+- [@oficial@Anatomia de um analisador](https://www.elastic.co/docs/manage-data/data-store/text-analysis/anatomy-of-an-analyzer)
+- [@oficial@Indexação e análise de pesquisa](https://www.elastic.co/docs/manage-data/data-store/text-analysis/index-search-analysis)
+- [@oficial@Especificar um analisador](https://www.elastic.co/docs/manage-data/data-store/text-analysis/specify-an-analyzer)
+- [@artigo@https://pulse.support/kb/what-is-elasticsearch-analyzer](https://pulse.supphttps//pulse.support/kb/what-is-elasticsearch-analyzerort/kb/what-is-elasticsearch-analyzer)
+- [@vídeo@Elastic Search Analyzer explicado de uma maneira fácil](https://www.youtube.com/watch?v=9VhTnWuely4)
+- [@vídeo@Mapping e Analisadores [ElasticSearch 7 para iniciantes #3.2]](https://www.youtube.com/watch?v=_OjUoZ5NbYY)

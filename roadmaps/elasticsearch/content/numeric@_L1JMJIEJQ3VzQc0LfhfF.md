@@ -1,7 +1,7 @@
-# Numeric Data Types
+# Tipos de Dados Numéricos
 
-Numeric data types in Elasticsearch are used to store numerical values, such as integers and floating-point numbers. These types allow you to efficiently store and query numerical data, enabling operations like range queries, aggregations, and sorting based on numerical values. Elasticsearch offers various numeric types to optimize storage and performance based on the expected range and precision of your data.
+Os tipos de dados numéricos no Elasticsearch são usados para armazenar valores numéricos, como inteiros e números de ponto flutuante. Esses tipos permitem que você armazene e consulte eficientemente dados numéricos, habilitando operações como consultas de intervalo, agregações e classificações com base em valores numéricos. O Elasticsearch oferece vários tipos numéricos para otimizar o armazenamento e o desempenho com base no intervalo esperado e na precisão dos seus dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Numeric field types](https://www.elastic.co/docs/reference/elasticsearch/mapping-reference/number)
+- [@oficial@Tipos de campo numéricos](https://www.elastic.co/docs/reference/elasticsearch/mapping-reference/number)

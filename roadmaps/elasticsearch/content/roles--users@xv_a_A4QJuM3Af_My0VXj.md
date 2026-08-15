@@ -1,11 +1,11 @@
-# Roles & Users
+# Papéis e Usuários
 
-Roles and users are fundamental components of security in Elasticsearch. Roles define a set of privileges, specifying what actions a user can perform on which resources (like indices or clusters). Users are then assigned one or more roles, granting them the combined permissions of those roles. This system allows administrators to control access to data and cluster operations, ensuring that only authorized individuals can perform specific tasks within the Elasticsearch environment.
+Papéis e usuários são componentes fundamentais da segurança no Elasticsearch. Os papéis definem um conjunto de privilégios, especificando quais ações um usuário pode realizar em quais recursos (como índices ou clusters). Em seguida, os usuários são atribuídos um ou mais papéis, concedendo-lhes as permissões combinadas desses papéis. Esse sistema permite que administradores controlem o acesso aos dados e operações de cluster, garantindo que apenas indivíduos autorizados possam realizar tarefas específicas no ambiente do Elasticsearch.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@User roles](https://www.elastic.co/docs/deploy-manage/users-roles/cluster-or-deployment-auth/user-roles)
-- [@official@Users and roles](https://www.elastic.co/docs/deploy-manage/users-roles)
-- [@official@User roles and privileges](https://www.elastic.co/docs/deploy-manage/users-roles/cloud-organization/user-roles)
-- [@official@Manage users and roles](https://www.elastic.co/docs/deploy-manage/users-roles/cloud-enterprise-orchestrator/manage-users-roles)
-- [@video@Managing Kibana Users, Roles & Permissions - Daily Elastic Byte S02E12](https://www.youtube.com/watch?v=mLRnNk1ZpTQ)
+- [@official@Papéis de usuário](https://www.elastic.co/docs/deploy-manage/users-roles/cluster-or-deployment-auth/user-roles)
+- [@official@Usuários e papéis](https://www.elastic.co/docs/deploy-manage/users-roles)
+- [@official@Papéis de usuário e privilégios](https://www.elastic.co/docs/deploy-manage/users-roles/cloud-organization/user-roles)
+- [@official@Gerencie usuários e papéis](https://www.elastic.co/docs/deploy-manage/users-roles/cloud-enterprise-orchestrator/manage-users-roles)
+- [@video@Gerenciando usuários, papéis e permissões do Kibana - Daily Elastic Byte S02E12](https://www.youtube.com/watch?v=mLRnNk1ZpTQ)

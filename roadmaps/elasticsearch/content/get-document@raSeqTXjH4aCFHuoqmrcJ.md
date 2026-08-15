@@ -1,9 +1,9 @@
-# Get Document
+# Obter Documento
 
-To retrieve a specific document from an Elasticsearch index, you need to know its unique identifier. You can then use the Get API, providing the index name and the document ID. Elasticsearch will then search for the document with that ID within the specified index and return it. The response will include the document's source data (the fields and their values), along with metadata like the index, ID, version, and whether the document was found.
+Para recuperar um documento específico de um índice do Elasticsearch, você precisa saber seu identificador único. Você pode então usar a API Get, fornecendo o nome do índice e o ID do documento. O Elasticsearch então buscará o documento com esse ID no índice especificado e retornará ele. A resposta incluirá os dados de origem do documento (os campos e seus valores), além de metadados como o índice, ID, versão e se o documento foi encontrado.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Get a document by its ID](https://www.elastic.co/docs/api/doc/elasticsearch/operation/operation-get)
-- [@article@Efficiently Searching by Document ID in Elasticsearch](https://opster.com/guides/elasticsearch/search-apis/efficiently-searching-by-document-id-elasticsearch/)
-- [@video@How to retrieve documents in Elasticsearch?](https://www.youtube.com/watch?v=QRtRsWSn3n4)
+- [@official@Obter um documento por seu ID](https://www.elastic.co/docs/api/doc/elasticsearch/operation/operation-get)
+- [@article@Buscando eficientemente por IDs de documentos no Elasticsearch](https://opster.com/guides/elasticsearch/search-apis/efficiently-searching-by-document-id-elasticsearch/)
+- [@video@Como recuperar documentos no Elasticsearch?](https://www.youtube.com/watch?v=QRtRsWSn3n4)

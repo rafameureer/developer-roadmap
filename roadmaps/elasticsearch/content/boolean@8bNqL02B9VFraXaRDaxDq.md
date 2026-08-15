@@ -1,7 +1,7 @@
-# Boolean Data Type
+# Tipo de Dados Booleano
 
-A boolean data type represents a logical value, which can be either true or false. It's used to store binary information, indicating whether a condition is met or not, or representing a simple yes/no state. This data type is fundamental for filtering, decision-making, and representing flags within a dataset.
+Um tipo de dados booleano representa um valor lógico, que pode ser verdadeiro ou falso. Ele é usado para armazenar informações binárias, indicando se uma condição foi atendida ou não, ou representando um estado simples sim/não. Esse tipo de dado é fundamental para filtragem, tomada de decisão e representação de sinalizadores em um conjunto de dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Boolean field type](https://www.elastic.co/docs/reference/elasticsearch/mapping-reference/boolean)
+- [@official@Tipo de campo booleano](https://www.elastic.co/docs/reference/elasticsearch/mapping-reference/boolean)

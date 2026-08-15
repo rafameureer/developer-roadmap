@@ -1,10 +1,10 @@
-# CAT API
+# API CAT
 
-The CAT API in Elasticsearch provides a simple, human-readable way to access cluster-level information using a command-line interface or a RESTful API. It returns data in a tabular format, making it easy to understand and interpret the status, health, and performance metrics of your Elasticsearch cluster. This API is primarily used for monitoring and troubleshooting purposes.
+A API CAT no Elasticsearch oferece uma maneira simples e legível de acessar informações de nível de cluster usando uma interface de linha de comando ou uma API RESTful. Ela retorna dados em formato tabular, tornando fácil entender e interpretar as métricas de status, saúde e desempenho do seu cluster Elasticsearch. Esta API é principalmente usada para fins de monitoramento e solução de problemas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Compact and aligned text (CAT)](https://www.elastic.co/docs/api/doc/elasticsearch/group/endpoint-cat)
-- [@official@Get the cluster health status](https://www.elastic.co/docs/api/doc/elasticsearch/operation/operation-cat-health)
-- [@article@Mastering the Elasticsearch Cat API for Efficient Cluster Management](https://opster.com/guides/elasticsearch/search-apis/elasticsearch-cat-api/)
-- [@article@Elasticsearch - Cat APIs](https://www.tutorialspoint.com/elasticsearch/elasticsearch_cat_apis.htm)
+- [@oficial@Texto compacto e alinhado (CAT)](https://www.elastic.co/docs/api/doc/elasticsearch/group/endpoint-cat)
+- [@oficial@Obtenha o status de saúde do cluster](https://www.elastic.co/docs/api/doc/elasticsearch/operation/operation-cat-health)
+- [@artigo@Dominando a API CAT do Elasticsearch para gerenciamento eficiente do cluster](https://opster.com/guides/elasticsearch/search-apis/elasticsearch-cat-api/)
+- [@artigo@Elasticsearch - APIs CAT](https://www.tutorialspoint.com/elasticsearch/elasticsearch_cat_apis.htm)

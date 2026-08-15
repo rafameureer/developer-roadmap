@@ -1,9 +1,9 @@
-# Transform API
+# API de Transformação
 
-The Transform API in Elasticsearch provides a way to summarize and transform data from one or more Elasticsearch indices into a new index. It essentially automates the process of creating aggregated views of your data, allowing you to perform tasks like data reduction, feature engineering, and creating summary indices for faster analysis and visualization. This API enables you to create new indices that contain pre-computed aggregations and transformations of your source data.
+A API de Transformação no Elasticsearch fornece uma maneira de resumir e transformar dados de um ou mais índices do Elasticsearch em um novo índice. Ela automatiza essencialmente o processo de criação de visualizações agregadas de seus dados, permitindo que você execute tarefas como redução de dados, engenharia de recursos e criação de índices de resumo para análise e visualização mais rápidas. Esta API permite que você crie novos índices que contenham agregações e transformações pré-computadas dos seus dados-fonte.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Create a transform](https://www.elastic.co/docs/api/doc/elasticsearch/operation/operation-transform-put-transform)
-- [@official@Get transforms](https://www.elastic.co/docs/api/doc/elasticsearch/operation/operation-transform-get-transform)
-- [@article@Elasticsearch Transform APIs](https://opster.com/guides/elasticsearch/data-architecture/transform-apis-in-elasticsearch/)
+- [@oficial@Criar uma transformação](https://www.elastic.co/docs/api/doc/elasticsearch/operation/operation-transform-put-transform)
+- [@oficial@Obter transformações](https://www.elastic.co/docs/api/doc/elasticsearch/operation/operation-transform-get-transform)
+- [@artigo@APIs de Transformação no Elasticsearch](https://opster.com/guides/elasticsearch/data-architecture/transform-apis-in-elasticsearch/)

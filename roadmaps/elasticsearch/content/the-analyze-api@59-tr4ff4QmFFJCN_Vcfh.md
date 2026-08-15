@@ -1,9 +1,9 @@
-# The Analyze API
+# A API de Análise
 
-The Analyze API in Elasticsearch allows you to break down a text string into its individual terms, which are the basic building blocks for searching and indexing. It simulates the analysis process that Elasticsearch performs when indexing or searching documents, letting you see how a specific analyzer would process a given piece of text. This is useful for testing and debugging your analysis configuration.
+A API de Análise no Elasticsearch permite que você descomponha uma string de texto em seus termos individuais, que são os blocos básicos para a busca e o indexação. Ela simula o processo de análise que o Elasticsearch realiza ao indexar ou buscar documentos, permitindo que você veja como um analisador específico processaria um determinado trecho de texto. Isso é útil para testar e depurar sua configuração de análise.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Get tokens from text analysis](https://www.elastic.co/docs/api/doc/elasticsearch/operation/operation-indices-analyze)
-- [@official@Test an analyzer](https://www.elastic.co/docs/manage-data/data-store/text-analysis/test-an-analyzer)
-- [@article@Leveraging the Elasticsearch Analyze API for Advanced Text Analysis](https://www.dhiwise.com/post/leveraging-the-elasticsearch-analyze-api-for-text-analysis)
+- [@oficial@Obtenha tokens da análise de texto](https://www.elastic.co/docs/api/doc/elasticsearch/operation/operation-indices-analyze)
+- [@oficial@Teste um analisador](https://www.elastic.co/docs/manage-data/data-store/text-analysis/test-an-analyzer)
+- [@artigo@Aproveitando a API de Análise do Elasticsearch para Análise Avançada de Texto](https://www.dhiwise.com/post/leveraging-the-elasticsearch-analyze-api-for-text-analysis)

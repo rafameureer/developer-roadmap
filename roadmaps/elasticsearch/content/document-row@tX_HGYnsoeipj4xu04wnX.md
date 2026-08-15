@@ -1,8 +1,8 @@
 # Document (Row)
 
-A document is a basic unit of information in Elasticsearch, analogous to a row in a relational database table. It's a JSON object containing a set of fields, each with a name and one or more values. These fields can hold various data types like text, numbers, dates, booleans, and even nested objects or arrays.
+Um documento é a unidade básica de informação no Elasticsearch, análogo a uma linha em uma tabela de banco de dados relacional. É um objeto JSON contendo um conjunto de campos, cada um com um nome e um ou mais valores. Esses campos podem conter vários tipos de dados como texto, números, datas, booleanos e até mesmo objetos ou arrays aninhados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Index basics](https://www.elastic.co/docs/manage-data/data-store/index-basics)
 - [@article@Elasticsearch Document](https://www.dremio.com/wiki/elasticsearch-document/)

@@ -1,10 +1,10 @@
-# ID Query
+# Consulta de ID
 
-An ID query retrieves documents from an index based on their unique identifier. It's a simple and efficient way to fetch specific documents when you already know their IDs. This query directly accesses the document using its `_id` field.
+Uma consulta de ID recupera documentos de um índice com base em seu identificador único. É uma maneira simples e eficiente de obter documentos específicos quando você já sabe seus IDs. Esta consulta acessa diretamente o documento usando o campo `_id`.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@IDs](https://www.elastic.co/docs/reference/query-languages/query-dsl/query-dsl-ids-query)
-- [@official@Get a document by its ID](https://www.elastic.co/docs/api/doc/elasticsearch/operation/operation-get)
-- [@article@Elasticsearch ids query](http://opster.com/guides/elasticsearch/search-apis/elasticsearch-ids-query/)
-- [@article@Stop using the _id field in Elasticsearch](https://luis-sena.medium.com/stop-using-the-id-field-in-elasticsearch-6fb650d1fbae)
+- [@oficial@IDs](https://www.elastic.co/docs/reference/query-languages/query-dsl/query-dsl-ids-query)
+- [@oficial@Obter um documento por seu ID](https://www.elastic.co/docs/api/doc/elasticsearch/operation/operation-get)
+- [@artigo@Consulta de IDs no Elasticsearch](http://opster.com/guides/elasticsearch/search-apis/elasticsearch-ids-query/)
+- [@artigo@Parar de usar o campo _id no Elasticsearch](https://luis-sena.medium.com/stop-using-the-id-field-in-elasticsearch-6fb650d1fbae)

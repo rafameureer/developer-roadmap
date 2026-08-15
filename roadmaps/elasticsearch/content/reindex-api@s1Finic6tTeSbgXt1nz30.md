@@ -1,10 +1,10 @@
-# Reindex API
+# API de Reindexação
 
-The Reindex API in Elasticsearch allows you to copy documents from one index to another. This is useful for a variety of tasks, including changing the mapping of an index, upgrading to a new Elasticsearch version, or splitting a large index into smaller ones. It essentially reads documents from a source index and writes them into a destination index, optionally applying transformations along the way.
+A API de Reindexação no Elasticsearch permite que você copie documentos de um índice para outro. Isso é útil para uma variedade de tarefas, incluindo alterar o mapeamento de um índice, atualizar para uma nova versão do Elasticsearch ou dividir um grande índice em índices menores. Ela efetivamente lê documentos de um índice de origem e os escreve em um índice de destino, opcionalmente aplicando transformações ao longo do caminho.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Reindex documents](https://www.elastic.co/docs/api/doc/elasticsearch/operation/operation-reindex)
-- [@article@Reindex indices examples](https://www.elastic.co/docs/reference/elasticsearch/rest-apis/reindex-indices)
-- [@article@Elasticsearch Reindexing: When to Reindex, Best Practices and Alternatives](https://medium.com/@jmills2010/elasticsearch-reindexing-when-to-reindex-best-practices-and-alternatives-7ebfa11667a0)
-- [@article@Elasticsearch Reindex API: A Guide to Data Management](https://last9.io/blog/elasticsearch-reindex-api/)
+- [@oficial@Reindexar Documentos](https://www.elastic.co/docs/api/doc/elasticsearch/operation/operation-reindex)
+- [@artigo@Exemplos de Reindexação de Índices](https://www.elastic.co/docs/reference/elasticsearch/rest-apis/reindex-indices)
+- [@artigo@Reindexação no Elasticsearch: Quando Reindexar, Melhores Práticas e Alternativas](https://medium.com/@jmills2010/elasticsearch-reindexing-when-to-reindex-best-practices-and-alternatives-7ebfa11667a0)
+- [@artigo@Guia da API de Reindexação do Elasticsearch: Gerenciamento de Dados](https://last9.io/blog/elasticsearch-reindex-api/)

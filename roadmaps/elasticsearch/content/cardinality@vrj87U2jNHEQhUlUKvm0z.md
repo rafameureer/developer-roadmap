@@ -1,10 +1,10 @@
-# Cardinality Aggregation
+# Agregação de Cardinalidade
 
-Cardinality aggregation is used to estimate the number of unique values in a field. It's particularly useful when you need to count distinct items but don't need the actual unique values themselves. This aggregation provides an approximate count, balancing accuracy with performance, especially when dealing with large datasets.
+A agregação de cardinalidade é usada para estimar o número de valores únicos em um campo. É particularmente útil quando você precisa contar itens distintos, mas não precisa dos valores únicos em si. Essa agregação fornece uma contagem aproximada, equilibrando a precisão com o desempenho, especialmente ao lidar com grandes conjuntos de dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Cardinality aggregation](https://www.elastic.co/docs/reference/aggregations/search-aggregations-metrics-cardinality-aggregation)
-- [@article@Elasticsearch Cardinality – Low + High Cardinality Fields](https://opster.com/guides/elasticsearch/data-architecture/elasticsearch-cardinality/)
-- [@article@Elasticsearch Cardinality Aggregation - Syntax, Example, and Tips](https://pulse.support/kb/elasticsearch-cardinality-aggregation)
-- [@video@Beginner’s Crash Course to Elastic Stack - Part 4: Aggregations](https://www.youtube.com/watch?v=iGKOdep1Iss&t=1184s)
+- [@oficial@Agregação de cardinalidade](https://www.elastic.co/docs/reference/aggregations/search-aggregations-metrics-cardinality-aggregation)
+- [@artigo@Cardinalidade no Elasticsearch - Campos de Baixa e Alta Cardinalidade](https://opster.com/guides/elasticsearch/data-architecture/elasticsearch-cardinality/)
+- [@artigo@Agregação de cardinalidade do Elasticsearch - Sintaxe, Exemplo e Dicas](https://pulse.support/kb/elasticsearch-cardinality-aggregation)
+- [@vídeo@Crash Course Inicial para a Pilha Elastic - Parte 4: Agregações](https://www.youtube.com/watch?v=iGKOdep1Iss&t=1184s)

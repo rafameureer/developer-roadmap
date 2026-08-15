@@ -1,7 +1,7 @@
-# Geo Points
+# Pontos Geográficos
 
-Geo points are a specific data type in Elasticsearch used to store and index latitude and longitude coordinates. They allow you to represent locations on Earth and perform geospatial queries, such as finding points within a certain distance of a location or identifying points within a defined area. These coordinates are typically stored as a pair of numbers, with latitude representing the north-south position and longitude representing the east-west position.
+Pontos geográficos são um tipo de dado específico no Elasticsearch usado para armazenar e indexar coordenadas de latitude e longitude. Eles permitem representar locações na Terra e realizar consultas espaciais, como encontrar pontos dentro de uma certa distância de uma localização ou identificar pontos em uma área definida. Essas coordenadas são geralmente armazenadas como um par de números, com a latitude representando a posição norte-sul e a longitude representando a posição leste-oeste.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Geopoint field type](https://www.elastic.co/docs/reference/elasticsearch/mapping-reference/geo-point)
+- [@official@Tipo de campo Geopoint](https://www.elastic.co/docs/reference/elasticsearch/mapping-reference/geo-point)

@@ -1,11 +1,11 @@
-# KQL
+# Linguagem de Consulta Kibana (KQL)
 
-Kibana Query Language (KQL) is a query language used within Kibana to search and filter data in Elasticsearch. It allows users to construct queries using a human-readable syntax, making it easier to find specific information within their Elasticsearch indices without needing to write complex JSON-based Elasticsearch queries. KQL supports features such as free-text search, field-based filtering, Boolean operators, and range queries.
+A Linguagem de Consulta Kibana (KQL) é um idioma de consulta usado dentro do Kibana para pesquisar e filtrar dados no Elasticsearch. Ela permite aos usuários construir consultas usando uma sintaxe legível pelo ser humano, tornando mais fácil encontrar informações específicas em seus índices do Elasticsearch sem precisar escrever consultas complexas baseadas em JSON. O KQL suporta recursos como pesquisa de texto livre, filtragem com base em campos, operadores booleanos e consultas de intervalo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@KQL](https://www.elastic.co/docs/explore-analyze/query-filter/languages/kql)
-- [@official@Kibana Query Language](https://www.elastic.co/docs/reference/query-languages/kql)
-- [@article@How to Query Elasticsearch in Kibana](https://dattell.com/data-architecture-blog/how-to-query-elasticsearch-in-kibana/)
-- [@video@Exploring and querying your data with Kibana](https://www.youtube.com/watch?v=t3cebUxRliA)
-- [@video@Understanding the Kibana Query Language (KQL)](https://www.youtube.com/watch?v=wfqItAlUy8g)
+- [@oficial@Linguagem de Consulta Kibana](https://www.elastic.co/docs/explore-analyze/query-filter/languages/kql)
+- [@oficial@Kibana Query Language](https://www.elastic.co/docs/reference/query-languages/kql)
+- [@artigo@Como consultar o Elasticsearch no Kibana](https://dattell.com/data-architecture-blog/how-to-query-elasticsearch-in-kibana/)
+- [@vídeo@Explorando e consultando seus dados com o Kibana](https://www.youtube.com/watch?v=t3cebUxRliA)
+- [@vídeo@Entendendo a Linguagem de Consulta Kibana (KQL)](https://www.youtube.com/watch?v=wfqItAlUy8g)

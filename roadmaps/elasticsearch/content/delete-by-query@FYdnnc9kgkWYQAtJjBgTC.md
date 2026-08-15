@@ -1,8 +1,8 @@
-# Delete by Query
+# Excluir por Consulta
 
-Delete by Query allows you to remove documents from an Elasticsearch index that match a specific query. Instead of deleting documents individually by their ID, you can define criteria based on field values or other search parameters. This is useful for removing outdated, irrelevant, or incorrect data from your index in bulk.
+Excluir por Consulta permite que você remova documentos de um índice do Elasticsearch que correspondam a uma consulta específica. Em vez de remover documentos individualmente por seu ID, você pode definir critérios com base em valores de campo ou outros parâmetros de pesquisa. Isso é útil para remover dados obsoletos, irrelevantes ou incorretos em massa de seu índice.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Delete documents](https://www.elastic.co/docs/api/doc/elasticsearch/operation/operation-delete-by-query)
-- [@article@Elasticsearch Delete By Query](https://opster.com/guides/elasticsearch/how-tos/elasticsearch-delete-by-query/)
+- [@oficial@Excluir documentos](https://www.elastic.co/docs/api/doc/elasticsearch/operation/operation-delete-by-query)
+- [@artigo@Elasticsearch Excluir por Consulta](https://opster.com/guides/elasticsearch/how-tos/elasticsearch-delete-by-query/)

@@ -1,11 +1,11 @@
-# The Inverted Index
+# O Índice Invertido
 
-The inverted index is a data structure that stores a mapping from content, such as words or numbers, to their locations in a document or a set of documents. Instead of listing documents and then the words they contain, an inverted index lists words and then the documents in which those words appear. This allows for very fast full-text searches.
+O índice invertido é uma estrutura de dados que armazena um mapeamento dos conteúdos, como palavras ou números, para suas localizações em um documento ou em um conjunto de documentos. Em vez de listar os documentos e depois as palavras que eles contêm, o índice invertido lista as palavras e depois os documentos nos quais essas palavras aparecem. Isso permite buscas de texto completo muito rápidas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Elasticsearch from the Bottom Up, Part 1](https://www.elastic.co/blog/found-elasticsearch-from-the-bottom-up)
-- [@article@What is the inverted index in elastic search?](https://medium.com/@sujathamudadla1213/what-is-the-inverted-index-in-elastic-search-f04df6f0c806)
-- [@article@Elasticsearch Inverted Index: The Key to Fast Data Retrieval](https://www.datasunrise.com/knowledge-center/elasticsearch-inverted-index/)
-- [@article@Indexing: Inverted Index](https://www.baeldung.com/cs/indexing-inverted-index)
-- [@video@Inverted Index - The Data Structure Behind Search Engines](https://www.youtube.com/watch?v=iHHqnyThrqE)
+- [@oficial@Elasticsearch do Fundo para Cima, Parte 1](https://www.elastic.co/blog/found-elasticsearch-from-the-bottom-up)
+- [@artigo@O que é o índice invertido no Elasticsearch?](https://medium.com/@sujathamudadla1213/what-is-the-inverted-index-in-elastic-search-f04df6f0c806)
+- [@artigo@Elasticsearch Inverted Index: A Chave para a Recuperação Rápida de Dados](https://www.datasunrise.com/knowledge-center/elasticsearch-inverted-index/)
+- [@artigo@Indexação: Índice Invertido](https://www.baeldung.com/cs/indexing-inverted-index)
+- [@vídeo@Índice Invertido - A Estrutura de Dados por Trás dos motores de busca](https://www.youtube.com/watch?v=iHHqnyThrqE)

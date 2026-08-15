@@ -1,8 +1,8 @@
-# Coordinating Nodes
+# Nós Coordenadores
 
-Coordinating nodes in Elasticsearch are like traffic controllers. They receive client requests, route them to the appropriate data nodes that hold the relevant data shards, and then consolidate the results before sending them back to the client. These nodes don't hold any data themselves, but they play a crucial role in distributing the workload and ensuring efficient query execution across the cluster.
+Nós coordenadores no Elasticsearch são como controladores de tráfego. Recebem solicitações do cliente, as roteia para os nós de dados apropriados que armazenam os shards relevantes dos dados e, em seguida, consolidam os resultados antes de enviá-los de volta ao cliente. Esses nós não armazenam nenhum dado por si mesmos, mas desempenham um papel crucial na distribuição do trabalho e garantindo a execução eficiente das consultas no cluster.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Coordinating node](https://www.elastic.co/docs/deploy-manage/distributed-architecture/clusters-nodes-shards/node-roles#coordinating-node)
-- [@official@Coordinating only node](https://www.elastic.co/docs/deploy-manage/distributed-architecture/clusters-nodes-shards/node-roles#coordinating-only-node-role)
+- [@oficial@Nó coordenador](https://www.elastic.co/docs/deploy-manage/distributed-architecture/clusters-nodes-shards/node-roles#coordinating-node)
+- [@oficial@Nó coordenador apenas](https://www.elastic.co/docs/deploy-manage/distributed-architecture/clusters-nodes-shards/node-roles#coordinating-only-node-role)

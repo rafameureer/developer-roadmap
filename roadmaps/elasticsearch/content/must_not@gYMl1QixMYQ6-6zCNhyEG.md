@@ -1,10 +1,10 @@
-# Must_Not Queries
+# Consultas Must_Not
 
-`must_not` is a clause within a `bool` query that filters out documents matching the specified query. It defines conditions that documents should _not_ satisfy to be included in the search results. Essentially, it excludes documents that would otherwise be considered relevant based on other clauses in the `bool` query.
+`must_not` é uma cláusula dentro de uma consulta `bool` que filtra os documentos que correspondem à consulta especificada. Ela define condições que os documentos devem _não_ atender para serem incluídos nos resultados da pesquisa. Basicamente, ela exclui documentos que, caso contrário, seriam considerados relevantes com base em outras cláusulas na consulta `bool`.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Boolean query](https://www.elastic.co/docs/reference/query-languages/query-dsl/query-dsl-bool-query)
-- [@article@Elasticsearch Bool Query - Syntax, Example, and Tips](https://pulse.support/kb/elasticsearch-bool-query)
-- [@video@Boolean Query in Elasticsearch | Bool, Filter, Must, Must Not, Should, DSL | ES7 for Beginners #4.3](https://www.youtube.com/watch?v=ba2Qn3y486M)
-- [@video@Elasticsearch Bool Query (Must & Must_not Clauses) - S1E13: Mini Beginner's Crash Course](https://www.youtube.com/watch?v=DhkTerHrXsM&t=12s)
+- [@oficial@Consulta Bool](https://www.elastic.co/docs/reference/query-languages/query-dsl/query-dsl-bool-query)
+- [@artigo@Elasticsearch Bool Query - Sintaxe, Exemplo e Dicas](https://pulse.support/kb/elasticsearch-bool-query)
+- [@vídeo@Boolean Query in Elasticsearch | Bool, Filter, Must, Must Not, Should, DSL | ES7 for Beginners #4.3](https://www.youtube.com/watch?v=ba2Qn3y486M)
+- [@vídeo@Elasticsearch Bool Query (Must & Must_not Clauses) - S1E13: Mini Beginner's Crash Course](https://www.youtube.com/watch?v=DhkTerHrXsM&t=12s)

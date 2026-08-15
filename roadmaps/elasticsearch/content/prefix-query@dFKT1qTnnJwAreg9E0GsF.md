@@ -1,11 +1,11 @@
-# Prefix Query
+# Consulta de Prefixo
 
-A prefix query finds documents that contain terms starting with a specific prefix. It operates at the term level, meaning it searches for the prefix directly within the indexed terms of a field. This query is useful for implementing features like autocompletion or searching for products based on the beginning of their names.
+Uma consulta de prefixo encontra documentos que contêm termos que começam com um determinado prefixo. Ela opera no nível dos termos, o que significa que ela procura pelo prefixo diretamente nos termos indexados de um campo. Esta consulta é útil para implementar funcionalidades como autocompletar ou procurar produtos com base na inicial de seus nomes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Prefix query](https://www.elastic.co/docs/reference/query-languages/query-dsl/query-dsl-prefix-query)
-- [@article@Elasticsearch Prefix Query](https://opster.com/guides/elasticsearch/how-tos/elasticsearch-prefix-query/)
-- [@article@Elasticsearch Prefix Query - Syntax, Example, and Tips](https://pulse.support/kb/elasticsearch-prefix-query)
-- [@article@Elasticsearch in Action: Prefix Queries](https://mkonda007.medium.com/elasticsearch-in-action-prefix-queries-f5891cdd2457)
-- [@video@Elasticsearch match phrase prefix query with definition and examples](https://www.youtube.com/watch?v=cP8fa3orte0)
+- [@oficial@Consulta de Prefixo](https://www.elastic.co/docs/reference/query-languages/query-dsl/query-dsl-prefix-query)
+- [@artigo@Consulta de Prefixo do Elasticsearch](https://opster.com/guides/elasticsearch/how-tos/elasticsearch-prefix-query/)
+- [@artigo@Sintaxe, Exemplo e Dicas da Consulta de Prefixo do Elasticsearch](https://pulse.support/kb/elasticsearch-prefix-query)
+- [@artigo@Elasticsearch em Ação: Consultas de Prefixo](https://mkonda007.medium.com/elasticsearch-in-action-prefix-queries-f5891cdd2457)
+- [@vídeo@Consulta de Frase com Prefixo no Elasticsearch com Definição e Exemplos](https://www.youtube.com/watch?v=cP8fa3orte0)

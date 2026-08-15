@@ -1,11 +1,11 @@
-# Value Count Aggregation
+# Agregação de Contagem de Valores
 
-Value Count is a type of metric aggregation that calculates the total number of values present in a specific field. It essentially counts how many documents have a value for the chosen field, including duplicates if they exist. This aggregation is useful for determining the overall occurrence or frequency of a particular field within your dataset.
+A Contagem de Valores é um tipo de agregação métrica que calcula o número total de valores presentes em um campo específico. Ela conta essencialmente quantos documentos têm um valor para o campo escolhido, incluindo duplicatas se elas existirem. Essa agregação é útil para determinar a ocorrência geral ou frequência de um campo particular em seu conjunto de dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Aggregations](https://www.elastic.co/docs/explore-analyze/query-filter/aggregations)
-- [@official@Count search results](https://www.elastic.co/docs/api/doc/elasticsearch/operation/operation-count)
-- [@official@Value count aggregation](https://www.elastic.co/docs/reference/aggregations/search-aggregations-metrics-valuecount-aggregation)
-- [@article@Elasticsearch Value Count Aggregation - Syntax, Example, and Tips](https://pulse.support/kb/elasticsearch-value-count-aggregation)
-- [@video@Elasticsearch Aggregations & go-elasticsearch - Elastic Meetup](https://www.youtube.com/watch?v=y5MUNPJzMsI)
+- [@oficial@Agregações](https://www.elastic.co/docs/explore-analyze/query-filter/aggregations)
+- [@oficial@Contagem de resultados da pesquisa](https://www.elastic.co/docs/api/doc/elasticsearch/operation/operation-count)
+- [@oficial@Agregação de Contagem de Valores](https://www.elastic.co/docs/reference/aggregations/search-aggregations-metrics-valuecount-aggregation)
+- [@artigo@Contagem de Valores no Elasticsearch - Sintaxe, Exemplo e Dicas](https://pulse.support/kb/elasticsearch-value-count-aggregation)
+- [@vídeo@Agregações do Elasticsearch & go-elasticsearch - Elastic Meetup](https://www.youtube.com/watch?v=y5MUNPJzMsI)

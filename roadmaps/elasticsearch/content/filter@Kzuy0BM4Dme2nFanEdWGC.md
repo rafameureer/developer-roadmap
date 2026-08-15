@@ -1,9 +1,9 @@
-# Filter
+# Filtro
 
-A filter in Elasticsearch is a query that returns documents matching specific criteria in a boolean (yes/no) manner. Unlike regular queries that calculate a relevance score, filters simply determine whether a document matches the condition or not. They are often used to narrow down the search results based on specific attributes or ranges, such as price, date, or category.
+Um filtro no Elasticsearch é uma consulta que retorna documentos correspondentes a critérios específicos de maneira booleana (sim/não). Diferentemente das consultas regulares, que calculam uma pontuação de relevância, os filtros simplesmente determinam se um documento corresponde à condição ou não. Eles são frequentemente usados para reduzir os resultados da pesquisa com base em atributos específicos ou intervalos, como preço, data ou categoria.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Query and filter context](https://www.elastic.co/docs/reference/query-languages/query-dsl/query-filter-context)
-- [@official@Query DSL](https://www.elastic.co/docs/explore-analyze/query-filter/languages/querydsl)
-- [@article@Deep Dive into Elastic Search Querying, Filter vs Query Context](https://mahajanjatin-14.medium.com/deep-dive-into-elastic-search-querying-filter-vs-query-context-920fdbfd31de)
+- [@oficial@Contexto de consulta e filtro](https://www.elastic.co/docs/reference/query-languages/query-dsl/query-filter-context)
+- [@oficial@DSL de Consulta](https://www.elastic.co/docs/explore-analyze/query-filter/languages/querydsl)
+- [@artigo@Profundidade na Consulta do Elasticsearch, Filtro vs Contexto de Consulta](https://mahajanjatin-14.medium.com/deep-dive-into-elastic-search-querying-filter-vs-query-context-920fdbfd31de)

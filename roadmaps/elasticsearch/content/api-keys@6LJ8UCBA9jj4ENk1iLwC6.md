@@ -1,9 +1,9 @@
-# API Keys
+# Chaves de API
 
-API keys in Elasticsearch provide a mechanism for authentication and authorization, allowing users or applications to securely access Elasticsearch APIs. They are a more granular alternative to using usernames and passwords, enabling you to restrict access to specific resources and actions. API keys can be configured with specific roles and privileges, limiting what a user or application can do within the Elasticsearch cluster.
+As chaves de API no Elasticsearch fornecem um mecanismo para autenticação e autorização, permitindo que usuários ou aplicativos acessem seguramente as APIs do Elasticsearch. São uma alternativa mais granular ao uso de nomes de usuário e senhas, permitindo que você restrinja o acesso a recursos específicos e ações. As chaves de API podem ser configuradas com papéis e privilégios específicos, limitando o que um usuário ou aplicativo pode fazer dentro do cluster Elasticsearch.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Elasticsearch API keys](https://www.elastic.co/docs/deploy-manage/api-keys/elasticsearch-api-keys)
-- [@official@Create an API key](https://www.elastic.co/docs/api/doc/elasticsearch/operation/operation-security-create-api-key)
-- [@article@Creating API Keys in Elasticsearch: An Advanced Guide](https://opster.com/guides/elasticsearch/security/api-keys-in-elasticsearch/)
+- [@oficial@Chaves de API do Elasticsearch](https://www.elastic.co/docs/deploy-manage/api-keys/elasticsearch-api-keys)
+- [@oficial@Criar uma chave de API](https://www.elastic.co/docs/api/doc/elasticsearch/operation/operation-security-create-api-key)
+- [@artigo@Criando Chaves de API no Elasticsearch: Um Guia Avançado](https://opster.com/guides/elasticsearch/security/api-keys-in-elasticsearch/)

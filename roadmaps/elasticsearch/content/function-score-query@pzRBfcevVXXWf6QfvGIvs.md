@@ -1,10 +1,10 @@
-# Function Score Query
+# Consulta de Pontuação Funcional
 
-The Function Score Query allows you to modify the score of documents retrieved by a query. It provides a way to apply a function to each document that matches the base query, influencing its final relevance score. This function can be based on factors like document fields, pre-defined weights, or even custom scripts, enabling fine-grained control over search results ranking.
+A Consulta de Pontuação Funcional permite que você modifique a pontuação dos documentos recuperados por uma consulta. Ela fornece um meio de aplicar uma função a cada documento que corresponde à consulta base, influenciando sua pontuação final de relevância. Esta função pode ser baseada em fatores como campos do documento, pesos pré-definidos ou até mesmo scripts personalizados, permitindo um controle finamente detalhado sobre o ranking dos resultados da pesquisa.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Function score query](https://www.elastic.co/docs/reference/query-languages/query-dsl/query-dsl-function-score-query)
-- [@official@A Gentle Intro to Function Scoring](https://www.elastic.co/blog/found-function-scoring)
-- [@article@Elasticsearch Function Score: Boosting Relevance with Custom Scoring](https://opster.com/guides/elasticsearch/search-apis/elasticsearch-function-score/)
-- [@article@Elasticsearch Function Score Query - Syntax, Example, and Tips](https://pulse.support/kb/elasticsearch-function-score-query)
+- [@official@Consulta de Pontuação Funcional](https://www.elastic.co/docs/reference/query-languages/query-dsl/query-dsl-function-score-query)
+- [@official@Introdução Agradável à Pontuação Funcional](https://www.elastic.co/blog/found-function-scoring)
+- [@article@Pontuação Funcional no Elasticsearch: Aumentando a Relevância com Pontuações Personalizadas](https://opster.com/guides/elasticsearch/search-apis/elasticsearch-function-score/)
+- [@article@Sintaxe, Exemplo e Dicas da Consulta de Pontuação Funcional do Elasticsearch](https://pulse.support/kb/elasticsearch-function-score-query)

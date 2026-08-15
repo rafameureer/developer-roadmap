@@ -1,10 +1,10 @@
-# Range Query
+# Consulta de Intervalo
 
-A range query allows you to find documents where the value of a specific field falls within a specified range. This range can be defined using upper and lower bounds, which can be inclusive or exclusive. It's useful for filtering data based on numerical values, dates, or even strings that can be lexicographically compared.
+Uma consulta de intervalo permite que você encontre documentos onde o valor de um campo específico caia dentro de um intervalo especificado. Esse intervalo pode ser definido usando limites superior e inferior, que podem ser inclusivos ou exclusivos. É útil para filtrar dados com base em valores numéricos, datas ou até mesmo strings que possam ser comparadas lexicograficamente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Range query](https://www.elastic.co/docs/reference/query-languages/query-dsl/query-dsl-range-query)
-- [@article@Elasticsearch Range Query: Advanced Usage and Optimization Techniques](https://opster.com/guides/elasticsearch/search-apis/elasticsearch-range-query/)
-- [@article@Elasticsearch Range Query - Syntax, Example, and Tips](https://pulse.support/kb/elasticsearch-range-query)
-- [@article@How to use range query - Spring Data Elasticsearch - Part 5](https://www.youtube.com/watch?v=KmDvh9OLt-Y)
+- [@artigo@Consulta de Intervalo](https://www.elastic.co/docs/reference/query-languages/query-dsl/query-dsl-range-query)
+- [@artigo@Uso Avançado e Técnicas de Otimização da Consulta de Intervalo no Elasticsearch](https://opster.com/guides/elasticsearch/search-apis/elasticsearch-range-query/)
+- [@artigo@Sintaxe, Exemplo e Dicas da Consulta de Intervalo no Elasticsearch](https://pulse.support/kb/elasticsearch-range-query)
+- [@vídeo@Como usar a Consulta de Intervalo - Spring Data Elasticsearch - Parte 5](https://www.youtube.com/watch?v=KmDvh9OLt-Y)

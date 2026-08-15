@@ -1,9 +1,9 @@
-# Highlighting
+# Destaque
 
-Highlighting in Elasticsearch helps users quickly identify the search terms within the returned documents. It works by surrounding the search keywords in the results with special tags, like `<em>` and `</em>`, making them visually distinct. This allows users to easily see why a particular document matched their query without having to read the entire document. You can customize the tags used for highlighting, the fields that are highlighted, and even the way the highlighting is performed to suit your specific needs.
+O destacamento no Elasticsearch ajuda os usuários a identificar rapidamente as palavras-chave de pesquisa dentro dos documentos retornados. Ele funciona colocando as palavras-chave de pesquisa nos resultados entre tags especiais, como `<em>` e `</em>`, tornando-as visivelmente distintas. Isso permite que os usuários vejam facilmente por que um documento específico correspondeu à sua consulta sem precisar ler o documento inteiro. Você pode personalizar as tags usadas para destacamento, os campos que são destacados e até mesmo a maneira como o destacamento é realizado para atender às suas necessidades específicas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Highlighting](https://www.elastic.co/docs/reference/elasticsearch/rest-apis/highlighting)
-- [@article@Semantic text in Elasticsearch: Simpler, better, leaner, stronger](https://www.elastic.co/search-labs/blog/elasticsearch-semantic-text-ga)
-- [@video@Elasticsearch Highlighting - Part 1 - Getting Started](https://www.youtube.com/watch?v=3F2qjKNO6S4)
+- [@official@Destaque](https://www.elastic.co/docs/reference/elasticsearch/rest-apis/highlighting)
+- [@article@Texto semântico no Elasticsearch: Simples, melhor, mais leve, mais forte](https://www.elastic.co/search-labs/blog/elasticsearch-semantic-text-ga)
+- [@video@Destaque do Elasticsearch - Parte 1 - Introdução](https://www.youtube.com/watch?v=3F2qjKNO6S4)

@@ -1,3 +1,3 @@
-# Match Phrase Query
+# Consulta de Frase Exata
 
-The Match Phrase query searches for documents that contain the exact phrase specified in the query. This means the terms must appear in the precise order and be adjacent to each other, as defined in the query string. It's a stricter form of matching compared to a standard match query, which only requires the terms to be present in the document, regardless of their order or proximity.
+A Consulta de Frase Exata procura documentos que contenham a frase exata especificada na consulta. Isso significa que os termos devem aparecer na ordem precisa e serem adjacentes um ao outro, conforme definido na string da consulta. É uma forma mais estrita de correspondência em comparação com uma consulta padrão de correspondência, que apenas requer que os termos estejam presentes no documento, independentemente de sua ordem ou proximidade.

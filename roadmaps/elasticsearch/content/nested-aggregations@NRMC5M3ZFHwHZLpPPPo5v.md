@@ -1,10 +1,10 @@
-# Nested Aggregations
+# Agregações Aninhadas
 
-Nested aggregations allow you to perform aggregations on nested objects within your documents. These nested objects are stored as separate documents internally by Elasticsearch, and nested aggregations provide a way to access and analyze the data within these nested structures as if they were part of the parent document. This is particularly useful when you have complex data structures where related information is embedded within a single document.
+As agregações aninhadas permitem que você realize agregações em objetos aninhados dentro dos seus documentos. Esses objetos aninhados são armazenados como documentos separados internamente pelo Elasticsearch, e as agregações aninhadas fornecem uma maneira de acessar e analisar os dados dentro dessas estruturas aninhadas como se fossem parte do documento pai. Isso é particularmente útil quando você tem estruturas de dados complexas onde informações relacionadas estão incorporadas em um único documento.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Nested aggregation](https://www.elastic.co/docs/reference/aggregations/search-aggregations-bucket-nested-aggregation)
-- [@article@Elasticsearch Nested Aggregation](https://opster.com/guides/elasticsearch/data-architecture/elasticsearch-nested-aggregation/)
-- [@article@How to Optimize Nested Aggregations in Elasticsearch](https://opster.com/guides/elasticsearch/search-apis/optimizing-nested-aggregations-elasticsearch/)
-- [@video@Nested Aggregations](https://www.youtube.com/watch?v=G1ExN9cBVCw)
+- [@oficial@Agregação Aninhada](https://www.elastic.co/docs/reference/aggregations/search-aggregations-bucket-nested-aggregation)
+- [@artigo@Elasticsearch Nested Aggregation](https://opster.com/guides/elasticsearch/data-architecture/elasticsearch-nested-aggregation/)
+- [@artigo@Como otimizar as agregações aninhadas no Elasticsearch](https://opster.com/guides/elasticsearch/search-apis/optimizing-nested-aggregations-elasticsearch/)
+- [@vídeo@Nested Aggregations](https://www.youtube.com/watch?v=G1ExN9cBVCw)

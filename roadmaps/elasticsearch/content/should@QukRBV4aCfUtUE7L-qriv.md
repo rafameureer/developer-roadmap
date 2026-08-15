@@ -1,11 +1,11 @@
-# Should Query
+# Deve Query
 
-The `should` query is a boolean query that returns documents matching one or more of its sub-queries. It increases the relevance score for each matching clause, but doesn't require any clauses to match for a document to be included in the results. If no other boolean queries like `must` or `filter` are present, at least one `should` clause must match.
+A `deve` query é uma consulta booleana que retorna documentos correspondentes a um ou mais de suas sub-consultas. Ela aumenta a pontuação de relevância para cada cláusula correspondente, mas não requer que qualquer cláusula corresponda para um documento ser incluído nos resultados. Se nenhuma outra consulta booleana como `deve` ou `filtrar` estiver presente, pelo menos uma cláusula `deve` deve corresponder.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Boolean query](https://www.elastic.co/docs/reference/query-languages/query-dsl/query-dsl-bool-query)
-- [@article@Elasticsearch Query Bool](https://opster.com/guides/elasticsearch/search-apis/elasticsearch-query-bool/)
-- [@article@Elasticsearch Bool Query - Syntax, Example, and Tips](https://pulse.support/kb/elasticsearch-bool-query)
-- [@video@Boolean Query in Elasticsearch | Bool, Filter, Must, Must Not, Should, DSL | ES7 for Beginners #4.3](https://www.youtube.com/watch?v=ba2Qn3y486M)
-- [@video@Elasticsearch Bool Query (Should & Filter Clauses) - S1E14: Mini Beginner's Crash Course](https://www.youtube.com/watch?v=Uh1F2lezIfY)
+- [@oficial@Consulta Booleana](https://www.elastic.co/docs/reference/query-languages/query-dsl/query-dsl-bool-query)
+- [@artigo@Elasticsearch Query Bool](https://opster.com/guides/elasticsearch/search-apis/elasticsearch-query-bool/)
+- [@artigo@Elasticsearch Bool Query - Sintaxe, Exemplo e Dicas](https://pulse.support/kb/elasticsearch-bool-query)
+- [@vídeo@Bool Query no Elasticsearch | Bool, Filter, Must, Must Not, Should, DSL | ES7 para Iniciantes #4.3](https://www.youtube.com/watch?v=ba2Qn3y486M)
+- [@vídeo@Elasticsearch Bool Query (Cláusulas Should & Filter) - S1E14: Mini Crash Course para Iniciantes](https://www.youtube.com/watch?v=Uh1F2lezIfY)

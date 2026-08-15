@@ -1,12 +1,12 @@
-# c
+# Gráfico de Sinônimos
 
-Synonyms Graph is a feature in Elasticsearch that allows you to expand your search queries by including words or phrases that have similar meanings. Instead of just searching for the exact terms entered by a user, Elasticsearch can also search for related terms defined as synonyms, improving the recall of search results. The "graph" aspect refers to how these synonyms are represented internally, allowing for more complex relationships between terms, including multi-word synonyms and different synonym types.
+O Gráfico de Sinônimos é uma funcionalidade no Elasticsearch que permite expandir suas consultas de pesquisa incluindo palavras ou frases com significados semelhantes. Em vez de apenas pesquisar os termos exatos inseridos pelo usuário, o Elasticsearch também pode pesquisar termos relacionados definidos como sinônimos, melhorando a recuperação dos resultados da pesquisa. A parte "gráfico" refere-se à representação interna desses sinônimos, permitindo relações mais complexas entre os termos, incluindo sinônimos de múltiplos palavras e diferentes tipos de sinônimos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Search with synonyms](https://www.elastic.co/docs/solutions/search/full-text/search-with-synonyms)
-- [@official@Update your synonyms in Elasticsearch: Introducing the synonyms Synonyms Guide](https://www.elastic.co/guide/en/app-search/current/synonyms-guide.html)
-- [@official@Multi-Token Synonyms and Graph Queries in Elasticsearch](https://www.elastic.co/blog/multitoken-synonyms-and-graph-queries-in-elasticsearch)
-- [@official@Update your synonyms in Elasticsearch: Introducing the synonyms API](https://www.elastic.co/search-labs/blog/update-synonyms-elasticsearch-introducing-synonyms-api)
-- [@video@How to use the Elasticsearch Synonym API to improve search accuracy](https://www.youtube.com/watch?v=lJaiVZbCpbY)
-- [@video@ElasticSearch in Python #25 - Synonyms API](https://www.youtube.com/watch?v=kOm8r7v0yu4)
+- [@oficial@Pesquisa com sinônimos](https://www.elastic.co/docs/solutions/search/full-text/search-with-synonyms)
+- [@oficial@Atualize seus sinônimos no Elasticsearch: Introduzindo o Guia de Sinônimos](https://www.elastic.co/guide/en/app-search/current/synonyms-guide.html)
+- [@oficial@Sinônimos Multitoken e Consultas Gráficas no Elasticsearch](https://www.elastic.co/blog/multitoken-synonyms-and-graph-queries-in-elasticsearch)
+- [@oficial@Atualize seus sinônimos no Elasticsearch: Introduzindo a API de Sinônimos](https://www.elastic.co/search-labs/blog/update-synonyms-elasticsearch-introducing-synonyms-api)
+- [@vídeo@Como usar a API de Sinônimos do Elasticsearch para melhorar a precisão da pesquisa](https://www.youtube.com/watch?v=lJaiVZbCpbY)
+- [@vídeo@ElasticSearch em Python #25 - API de Sinônimos](https://www.youtube.com/watch?v=kOm8r7v0yu4)

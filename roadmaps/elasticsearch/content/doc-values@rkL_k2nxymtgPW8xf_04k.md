@@ -1,8 +1,8 @@
 # Doc Values
 
-Doc values are a data structure in Elasticsearch that stores field values in a column-oriented fashion, optimized for aggregations, sorting, and scripting. Instead of storing the data alongside the inverted index, doc values are stored separately on disk, making them efficient for retrieving values for a large number of documents. This allows Elasticsearch to perform operations like sorting and aggregations much faster than if it had to retrieve the data from the inverted index.
+Doc values são uma estrutura de dados no Elasticsearch que armazena valores de campo em um formato orientado a colunas, otimizado para agregações, classificações e scripts. Em vez de armazenar os dados junto com o índice invertido, doc values são armazenados separadamente no disco, tornando-os eficientes para recuperar valores para um grande número de documentos. Isso permite que o Elasticsearch execute operações como classificação e agregação muito mais rápido do que se tivesse que recuperar os dados do índice invertido.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@doc_values](https://www.elastic.co/docs/reference/elasticsearch/mapping-reference/doc-values)
 - [@article@Elasticsearch doc-values-only Fields](https://opster.com/guides/elasticsearch/data-architecture/elasticsearch-doc-values-only-fields/)

@@ -1,8 +1,8 @@
-# Latest Transformation
+# Transformação Mais Recente
 
-The "latest" transformation in Elasticsearch is used to identify and extract the most recent document within a group of documents that share a common field value. It allows you to find the most up-to-date information for each unique entity based on a specified sorting criteria, such as a timestamp or version number. This is particularly useful when dealing with time-series data or scenarios where you need to retrieve the latest state of an object.
+A transformação "mais recente" no Elasticsearch é usada para identificar e extrair o documento mais recente em um grupo de documentos que compartilham um valor de campo comum. Ela permite encontrar a informação mais atualizada para cada entidade única com base em critérios de classificação especificados, como um timestamp ou número de versão. Isso é particularmente útil ao lidar com dados de séries temporais ou cenários onde você precisa recuperar o estado mais recente de um objeto.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Latest transforms](https://www.elastic.co/docs/explore-analyze/transforms/transform-overview#latest-transform-overview)
-- [@official@Transform and enrich data](https://www.elastic.co/docs/manage-data/ingest/transform-enrich)
+- [@oficial@Transformações Mais Recentes](https://www.elastic.co/docs/explore-analyze/transforms/transform-overview#latest-transform-overview)
+- [@oficial@Transformando e enriquecendo dados](https://www.elastic.co/docs/manage-data/ingest/transform-enrich)

@@ -1,11 +1,11 @@
-# REST API Basics
+# Básicos da API REST
 
-REST API (Representational State Transfer Application Programming Interface) is an architectural style for building networked applications. It relies on a stateless, client-server communication protocol, typically HTTP, to perform operations on resources. These operations, often referred to as CRUD (Create, Read, Update, Delete), are executed using standard HTTP methods like GET, POST, PUT, and DELETE, allowing different software systems to interact with each other over a network.
+A API REST (Representational State Transfer Application Programming Interface) é um estilo arquitetônico para construir aplicativos de rede. Ela depende de um protocolo de comunicação cliente-servidor sem estado, geralmente HTTP, para realizar operações em recursos. Essas operações, frequentemente referidas como CRUD (Criar, Ler, Atualizar, Excluir), são executadas usando métodos HTTP padrão como GET, POST, PUT e DELETE, permitindo que diferentes sistemas de software interajam entre si por uma rede.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit the Dedicated API Design Roadmap](https://roadmap.sh/api-design)
-- [@article@What is REST API?](http://cloud.google.com/discover/what-is-rest-api?hl=en)
-- [@article@What is REST API? - IBM](https://www.ibm.com/think/topics/rest-apis)
-- [@video@What Is REST API? Examples And How To Use It: Crash Course System Design #3](https://www.youtube.com/watch?v=-mN3VyJuCjM)
-- [@video@What is a REST API?](https://www.youtube.com/watch?v=lsMQRaeKNDk)
+- [@roadmap@Visite o Caminho Dedidado de Design da API](https://roadmap.sh/api-design)
+- [@article@O que é API REST?](http://cloud.google.com/discover/what-is-rest-api?hl=en)
+- [@article@O que é API REST? - IBM](https://www.ibm.com/think/topics/rest-apis)
+- [@video@O que é API REST? Exemplos e como usá-la: Crash Course de Design de Sistema #3](https://www.youtube.com/watch?v=-mN3VyJuCjM)
+- [@video@O que é uma API REST?](https://www.youtube.com/watch?v=lsMQRaeKNDk)

@@ -1,11 +1,11 @@
-# BM25 Algorithm
+# Algoritmo BM25
 
-BM25 (Best Matching 25) is a ranking function used by search engines to estimate the relevance of documents to a given search query. It's a bag-of-words retrieval function that scores documents based on the query terms appearing in each document, taking into account term frequency and document length. The algorithm adjusts for document length, preventing longer documents from being unfairly favored, and also considers how frequently a term appears in the entire collection of documents.
+BM25 (Best Matching 25) é uma função de classificação usada por motores de busca para estimar a relevância dos documentos em relação a uma consulta específica. É uma função de recuperação de bolsa de palavras que pontua documentos com base nos termos da consulta que aparecem em cada documento, considerando a frequência do termo e o comprimento do documento. O algoritmo ajusta para o comprimento do documento, impedindo que documentos mais longos sejam favoritados injustamente, e também considera como frequentemente um termo aparece na coleção completa de documentos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Practical BM25 - Part 1: How Shards Affect Relevance Scoring in Elasticsearch](https://www.elastic.co/blog/practical-bm25-part-1-how-shards-affect-relevance-scoring-in-elasticsearch)
-- [@official@Practical BM25 — Part 2: The BM25 Algorithm and its variables](https://www.elastic.co/blog/practical-bm25-part-2-the-bm25-algorithm-and-its-variables)
-- [@official@Practical BM25 - Part 3: Considerations for Picking b and k1 in Elasticsearch](https://www.elastic.co/blog/practical-bm25-part-3-considerations-for-picking-b-and-k1-in-elasticsearch)
-- [@official@Improved Text Scoring with BM25](https://www.elastic.co/elasticon/conf/2016/sf/improved-text-scoring-with-bm25)
+- [@official@Prática BM25 - Parte 1: Como os shards afetam a pontuação de relevância no Elasticsearch](https://www.elastic.co/blog/practical-bm25-part-1-how-shards-affect-relevance-scoring-in-elasticsearch)
+- [@official@Prática BM25 — Parte 2: O Algoritmo BM25 e suas variáveis](https://www.elastic.co/blog/practical-bm25-part-2-the-bm25-algorithm-and-its-variables)
+- [@official@Prática BM25 - Parte 3: Considerações para escolher b e k1 no Elasticsearch](https://www.elastic.co/blog/practical-bm25-part-3-considerations-for-picking-b-and-k1-in-elasticsearch)
+- [@official@Melhorando a pontuação de texto com o BM25](https://www.elastic.co/elasticon/conf/2016/sf/improved-text-scoring-with-bm25)
 - [@article@Okapi BM25](https://en.wikipedia.org/wiki/Okapi_BM25)

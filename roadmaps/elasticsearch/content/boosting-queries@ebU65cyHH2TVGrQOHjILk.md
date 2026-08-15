@@ -1,10 +1,10 @@
-# Boosting Queries
+# Consultas de Boosting
 
-Boosting queries in Elasticsearch allows you to influence the relevance score of documents based on specific criteria. It works by increasing or decreasing the score of documents that match certain query clauses, effectively prioritizing some results over others. This helps to fine-tune search results to better align with user intent and improve the overall precision of your search.
+As consultas de boosting no Elasticsearch permitem influenciar a pontuação relevância dos documentos com base em critérios específicos. Ela funciona aumentando ou diminuindo a pontuação dos documentos que correspondem a certas cláusulas de consulta, efetivamente priorizando alguns resultados sobre outros. Isso ajuda a finotunear os resultados da pesquisa para se alinhar melhor com o intuito do usuário e melhorar a precisão geral da sua pesquisa.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Boosting query](https://www.elastic.co/docs/reference/query-languages/query-dsl/query-dsl-boosting-query)
-- [@official@Relevance Tuning Guide, Weights and Boosts](https://www.elastic.co/guide/en/app-search/current/relevance-tuning-guide.html)
-- [@article@Elasticsearch Boosting Query](https://opster.com/guides/elasticsearch/search-apis/boosting-query/)
-- [@article@Elasticsearch Boosting Query - Syntax, Example, and Tips](https://pulse.support/kb/elasticsearch-boosting-query)
+- [@oficial@Consulta de Boosting](https://www.elastic.co/docs/reference/query-languages/query-dsl/query-dsl-boosting-query)
+- [@oficial@Guia de Ajuste de Relevância, Pesos e Boosts](https://www.elastic.co/guide/en/app-search/current/relevance-tuning-guide.html)
+- [@artigo@Consulta de Boosting no Elasticsearch](https://opster.com/guides/elasticsearch/search-apis/boosting-query/)
+- [@artigo@Consulta de Boosting no Elasticsearch - Sintaxe, Exemplo e Dicas](https://pulse.support/kb/elasticsearch-boosting-query)

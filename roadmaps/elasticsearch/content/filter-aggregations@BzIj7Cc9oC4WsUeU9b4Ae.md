@@ -1,9 +1,9 @@
-# Filter Aggregations
+# Agregações de Filtro
 
-Filter aggregations narrow down the documents that are used to calculate metrics within an aggregation. They work by applying a filter to the documents before the aggregation is performed, effectively creating a subset of the data for analysis. This allows you to focus on specific segments of your data and gain insights into particular subsets of your documents.
+As agregações de filtro reduzem os documentos que são usados para calcular métricas dentro de uma agregação. Eles funcionam aplicando um filtro aos documentos antes da agregação ser realizada, criando efetivamente um subconjunto dos dados para análise. Isso permite focar em segmentos específicos dos seus dados e obter insights sobre conjuntos particulares de seus documentos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Filter aggregation](https://www.elastic.co/docs/reference/aggregations/search-aggregations-bucket-filter-aggregation)
-- [@official@Multi-bucket filters aggregation](https://www.elastic.co/docs/reference/aggregations/search-aggregations-bucket-filters-aggregation)
-- [@article@Elasticsearch Filter Aggregation: Advanced Usage and Optimization Techniques](https://opster.com/guides/elasticsearch/search-apis/elasticsearch-filter-aggregation/)
+- [@oficial@Agregação de filtro](https://www.elastic.co/docs/reference/aggregations/search-aggregations-bucket-filter-aggregation)
+- [@oficial@Filtro multibucket aggregation](https://www.elastic.co/docs/reference/aggregations/search-aggregations-bucket-filters-aggregation)
+- [@artigo@Agregação de filtro do Elasticsearch: Uso Avançado e Técnicas de Otimização](https://opster.com/guides/elasticsearch/search-apis/elasticsearch-filter-aggregation/)

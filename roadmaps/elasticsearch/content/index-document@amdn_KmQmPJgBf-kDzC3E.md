@@ -1,9 +1,9 @@
-# Index Document
+# Índice de Documento
 
-To add data to Elasticsearch, you use the Index API. This API lets you create a new document within a specific index. You need to specify the index name, a unique ID for the document (or let Elasticsearch generate one), and the document's content in JSON format. When you send this information to Elasticsearch via a PUT or POST request, it analyzes the data, indexes it, and makes it searchable.
+Para adicionar dados ao Elasticsearch, você usa a API de Indexação. Essa API permite criar um novo documento em um índice específico. Você precisa especificar o nome do índice, um ID único para o documento (ou deixar que o Elasticsearch gere um), e o conteúdo do documento em formato JSON. Quando você envia essas informações ao Elasticsearch por meio de uma solicitação PUT ou POST, ele analisa os dados, os indexa e os torna pesquisáveis.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Create a new document in the index](https://www.elastic.co/docs/api/doc/elasticsearch/operation/operation-create)
-- [@official@Create or update a document in an index](https://www.elastic.co/docs/api/doc/elasticsearch/operation/operation-index)
-- [@video@How to index a document inside Elastic Search](https://www.youtube.com/watch?v=ZdV45CLO0to)
+- [@oficial@Criar um novo documento no índice](https://www.elastic.co/docs/api/doc/elasticsearch/operation/operation-create)
+- [@oficial@Criar ou atualizar um documento em um índice](https://www.elastic.co/docs/api/doc/elasticsearch/operation/operation-index)
+- [@vídeo@Como indexar um documento dentro do Elasticsearch](https://www.youtube.com/watch?v=ZdV45CLO0to)

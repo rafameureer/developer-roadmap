@@ -1,8 +1,8 @@
-# How Search Works
+# Como Funciona a Busca
 
-Search, at its core, involves matching a user's query against the data stored in an index. This process typically begins with the user entering a search term, which is then analyzed and processed. The system then retrieves documents that contain terms matching the processed query, ranking them based on relevance to present the most suitable results to the user.
+A busca, no seu núcleo, envolve corresponder uma consulta do usuário aos dados armazenados em um índice. Esse processo geralmente começa com o usuário inserindo um termo de pesquisa, que é então analisado e processado. O sistema depois recupera documentos que contêm termos correspondentes à consulta processada, classificando-os com base na relevância para apresentar os resultados mais adequados ao usuário.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@What is a search engine?](https://www.elastic.co/what-is/search-engine)
-- [@article@Elasticsearch: An In-Depth Explanation](https://dev.to/kakarotdevv/elasticsearch-an-in-depth-explanation-2bpf)
+- [@oficial@O que é um mecanismo de busca?](https://www.elastic.co/what-is/search-engine)
+- [@artigo@Elasticsearch: Uma Explicação Profunda](https://dev.to/kakarotdevv/elasticsearch-an-in-depth-explanation-2bpf)

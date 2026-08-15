@@ -1,9 +1,9 @@
 # Fielddata
 
-Fielddata is an on-disk data structure used by Elasticsearch to enable aggregations, sorting, and scripting on text fields. Because text fields are analyzed (broken down into individual terms), Elasticsearch needs a way to quickly access all the terms for a specific document when performing these operations. Fielddata loads all the terms for a field into memory, allowing for fast access during these operations.
+Fielddata é uma estrutura de dados em disco usada pelo Elasticsearch para habilitar agregações, classificações e scripts em campos de texto. Como os campos de texto são analisados (quebrados em termos individuais), o Elasticsearch precisa de um modo de acessar rapidamente todos os termos para um documento específico durante essas operações. O Fielddata carrega todos os termos de um campo na memória, permitindo acesso rápido durante essas operações.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Elasticsearch Fielddata?](https://pulse.support/kb/what-is-elasticsearch-fielddata)
-- [@article@Elasticsearch Fielddata](https://opster.com/guides/elasticsearch/glossary/elasticsearch-fielddata/)
-- [@video@Field Data vs Doc Values | Understanding Elasticsearch Performance Issues](https://www.youtube.com/watch?v=l99lIuvQULk)
+- [@artigo@O que é o Fielddata do Elasticsearch?](https://pulse.support/kb/what-is-elasticsearch-fielddata)
+- [@artigo@Fielddata do Elasticsearch](https://opster.com/guides/elasticsearch/glossary/elasticsearch-fielddata/)
+- [@vídeo@Field Data vs Doc Values | Entendendo Problemas de Desempenho do Elasticsearch](https://www.youtube.com/watch?v=l99lIuvQULk)

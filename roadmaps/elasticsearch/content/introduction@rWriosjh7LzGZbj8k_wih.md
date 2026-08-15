@@ -1,13 +1,13 @@
 # Elasticsearch
 
-Elasticsearch is a distributed, open-source search and analytics engine for all types of data, including textual, numerical, geospatial, structured, and unstructured. It's built on Apache Lucene and provides a distributed, multitenant-capable full-text search engine with an HTTP web interface and schema-free JSON documents. Elasticsearch is commonly used for log analytics, full-text search, security intelligence, business analytics, and operational intelligence use cases.
+O Elasticsearch é um mecanismo de busca e análise distribuído, de código aberto, para todos os tipos de dados, incluindo textuais, numéricos, geoespaciais, estruturados e não estruturados. Ele é baseado em Apache Lucene e fornece um mecanismo de busca de texto completo distribuído e multitenante com uma interface web HTTP e documentos JSON sem esquema. O Elasticsearch é comumente usado para análise de logs, busca de texto completo, inteligência de segurança, análise empresarial e casos de uso de inteligência operacional.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@book@Elasticsearch The Definitive Guide](https://hlaszny.com/booksAndPapers/buckets/b8_IT/elasticsearch-the-definitive-guide.pdf)
-- [@official@Elasticsearch](https://www.elastic.co/elasticsearch)
-- [@official@Elasticsearch solution overview](https://www.elastic.co/docs/solutions/search)
-- [@official@Get started with Elasticsearch](https://www.elastic.co/docs/solutions/search/get-started)
-- [@official@Elasticsearch Labs Tutorial](https://www.elastic.co/search-labs/tutorials)
-- [@article@Elasticsearch Tutorial](https://www.tutorialspoint.com/elasticsearch/index.htm)
-- [@video@Elasticsearch Course for Beginners](https://www.youtube.com/watch?v=a4HBKEda_F8)
+- [@livro@Elasticsearch: A Guia Definitiva](https://hlaszny.com/booksAndPapers/buckets/b8_IT/elasticsearch-the-definitive-guide.pdf)
+- [@oficial@Elasticsearch](https://www.elastic.co/elasticsearch)
+- [@oficial@Visão geral da solução do Elasticsearch](https://www.elastic.co/docs/solutions/search)
+- [@oficial@Começando com o Elasticsearch](https://www.elastic.co/docs/solutions/search/get-started)
+- [@oficial@Tutorial de Laboratório do Elasticsearch](https://www.elastic.co/search-labs/tutorials)
+- [@artigo@Tutorial do Elasticsearch](https://www.tutorialspoint.com/elasticsearch/index.htm)
+- [@vídeo@Curso do Elasticsearch para Iniciantes](https://www.youtube.com/watch?v=a4HBKEda_F8)

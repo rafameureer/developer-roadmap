@@ -1,9 +1,9 @@
-# The "Split Brain" Problem
+# O Problema "Split Brain"
 
-The "split brain" problem occurs in distributed systems when a cluster of nodes becomes partitioned into two or more independent sub-clusters that are unable to communicate with each other. Each sub-cluster may then believe it is the primary cluster and start making independent decisions, potentially leading to data inconsistencies and conflicts as each sub-cluster operates as if it's the only authority. This situation can result in data loss or corruption when the partitions eventually rejoin.
+O problema "split brain" ocorre em sistemas distribuídos quando um cluster de nós se divide em duas ou mais sub-clusters independentes que não conseguem se comunicar entre si. Cada sub-cluster pode então acreditar que é o cluster principal e começar a tomar decisões independentes, potencialmente levando a inconsistências de dados e conflitos conforme cada sub-cluster opera como se fosse a única autoridade. Essa situação pode resultar em perda ou corrupção de dados quando as partições eventualmente reúnem-se.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Quorum-based decision making](https://www.elastic.co/docs/deploy-manage/distributed-architecture/discovery-cluster-formation/modules-discovery-quorums)
-- [@article@Avoiding the Elasticsearch split brain problem, and how to recover](https://bigdataboutique.com/blog/avoiding-the-elasticsearch-split-brain-problem-and-how-to-recover-f6451c)
-- [@article@Split-Brain in Distributed Systems](https://dzone.com/articles/split-brain-in-distributed-systems)
+- [@oficial@Decisão baseada em quórum](https://www.elastic.co/docs/deploy-manage/distributed-architecture/discovery-cluster-formation/modules-discovery-quorums)
+- [@artigo@Evitando o problema de split brain no Elasticsearch e como recuperar](https://bigdataboutique.com/blog/avoiding-the-elasticsearch-split-brain-problem-and-how-to-recover-f6451c)
+- [@artigo@Split-Brain em Sistemas Distribuídos](https://dzone.com/articles/split-brain-in-distributed-systems)

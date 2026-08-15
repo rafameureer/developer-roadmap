@@ -4,7 +4,7 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 
 ---
 
-> ⚠️ **Total de itens sinalizados:** 790
+> ⚠️ **Total de itens sinalizados:** 809
 
 | Arquivo / Tópico | Motivo da Sinalização | Data/Hora |
 |---|---|---|
@@ -798,3 +798,22 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 | `roadmaps/django/content/model-forms@HjcEX3u5iRSlq69U-pSEs.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:02:15.730422 |
 | `roadmaps/django/content/model-inheritance@SWNGsyrpP7XghRa_zKQbb.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:02:21.348397 |
 | `roadmaps/django/content/why-use-web-frameworks@xdxitF1Foo6W9Pj6-2Be1.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:06:58.355561 |
+| `roadmaps/elasticsearch/content/cross-cluster-replication@NFUpYASxryl5ne1jHfj-E.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:13:14.142337 |
+| `roadmaps/elasticsearch/content/custom-analyzers@Y-4FlvsZPCP1WISOvcPMW.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:13:19.947830 |
+| `roadmaps/elasticsearch/content/data-tiers@e7jEDWLZ6q6S0csClOD27.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:13:47.223904 |
+| `roadmaps/elasticsearch/content/data-types@OfsRHpwJClzwPPRe9hai2.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:13:50.900501 |
+| `roadmaps/elasticsearch/content/dates@YHLYayCH8beVSkDF_U5_F.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:13:54.724238 |
+| `roadmaps/elasticsearch/content/histogram@RDygFr1w9yR6mU3hSG8Vj.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:15:59.667342 |
+| `roadmaps/elasticsearch/content/hybrid-search@cWzmbSIsiw7809rmFA4DV.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:16:10.117684 |
+| `roadmaps/elasticsearch/content/json@ppgShbqhYsD6maDw3Dgcx.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:17:00.244573 |
+| `roadmaps/elasticsearch/content/keyword@DZ_FX0ansCsXDN7J6u7_m.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:17:03.044473 |
+| `roadmaps/elasticsearch/content/kibana-console@ST0yxc527eb2vRrSvTWAd.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:17:06.983212 |
+| `roadmaps/elasticsearch/content/primary-shards@nkqoh4_V4VRyETqN0ci1R.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:19:14.145390 |
+| `roadmaps/elasticsearch/content/query-dsl@4-hkqr1z0p56K0HzbifEs.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:19:19.650001 |
+| `roadmaps/elasticsearch/content/query@GUxc44CiMH8DAaHEB8H1I.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:19:23.999461 |
+| `roadmaps/elasticsearch/content/search-engines-vs-relational-dbs@rWyeaFLWQdykUQMOn8t9k.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:20:44.485792 |
+| `roadmaps/elasticsearch/content/segment-merging@v2h-DzgtEFgE5Bu4dpOTE.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:20:48.758226 |
+| `roadmaps/elasticsearch/content/semantic-search@ZEM809HNlJtNQCfFmoFdi.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:20:56.946177 |
+| `roadmaps/elasticsearch/content/sorting@lSYyRKgtY7PEk4ESy3uRK.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:21:40.345822 |
+| `roadmaps/elasticsearch/content/source-filtering@b9XUvx-4qAMwghgy-LVat.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:21:44.716800 |
+| `roadmaps/elasticsearch/content/sql@Hg5LjcPxxBJyFcfhbrE_o.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T06:21:50.229779 |

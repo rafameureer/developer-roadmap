@@ -1,9 +1,9 @@
-# ID (Primary Key)
+# ID (Chave Primária)
 
-An ID, or Primary Key, is a unique identifier for each document stored within an Elasticsearch index. It distinguishes one document from another, allowing for specific retrieval, updating, and deletion of individual data entries. This unique identifier is crucial for maintaining data integrity and enabling efficient data management within the Elasticsearch system.
+Um ID, ou Chave Primária, é um identificador único para cada documento armazenado em um índice do Elasticsearch. Ele distingue um documento de outro, permitindo a recuperação específica, atualização e exclusão de entradas de dados individuais. Este identificador único é crucial para manter a integridade dos dados e habilitar o gerenciamento eficiente dos dados no sistema do Elasticsearch.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@_id field](http://elastic.co/docs/reference/elasticsearch/mapping-reference/mapping-id-field)
-- [@official@Index basics](https://www.elastic.co/docs/manage-data/data-store/index-basics)
-- [@official@Get a document by its ID](https://www.elastic.co/docs/api/doc/elasticsearch/operation/operation-get)
+- [@oficial@campo _id](http://elastic.co/docs/reference/elasticsearch/mapping-reference/mapping-id-field)
+- [@oficial@Conceitos básicos de índice](https://www.elastic.co/docs/manage-data/data-store/index-basics)
+- [@oficial@Obter um documento por seu ID](https://www.elastic.co/docs/api/doc/elasticsearch/operation/operation-get)

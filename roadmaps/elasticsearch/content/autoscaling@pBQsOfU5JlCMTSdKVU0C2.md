@@ -1,11 +1,11 @@
-# Autoscaling
+# Autoescalação
 
-Autoscaling is the ability of a system to automatically adjust its resources (like compute, memory, or storage) based on the current demand. This means that the system can scale up (add more resources) when demand increases and scale down (remove resources) when demand decreases, all without manual intervention. This ensures optimal performance and cost efficiency by only using the resources that are actually needed.
+A autoescalação é a capacidade de um sistema ajustar automaticamente seus recursos (como computação, memória ou armazenamento) com base na demanda atual. Isso significa que o sistema pode escalar para cima (adicionar mais recursos) quando a demanda aumenta e escalar para baixo (remover recursos) quando a demanda diminui, tudo sem intervenção manual. Isso garante desempenho ótimo e eficiência de custo usando apenas os recursos que são realmente necessários.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Autoscaling](https://www.elastic.co/docs/deploy-manage/autoscaling)
-- [@official@Autoscaling example](https://www.elastic.co/guide/en/cloud-enterprise/3.7/ece-autoscaling-example.html)
-- [@article@Unlocking Elastic Scalability: A Comprehensive Guide to Enable Autoscaling in Elasticsearch](https://medium.com/@prosenjeet.saha88/unlocking-elastic-scalability-a-comprehensive-guide-to-enable-autoscaling-in-elasticsearch-ff6ab1000b65)
-- [@video@Autoscale your Elastic Cloud deployment](https://www.youtube.com/watch?v=kS-_uJMxotU&t=14s)
-- [@video@Autoscaling - Daily Elastic Byte S04E11](https://www.youtube.com/watch?v=g3_YddGpMrs&t=10s)
+- [@oficial@Autoescalação](https://www.elastic.co/docs/deploy-manage/autoscaling)
+- [@oficial@Exemplo de autoescalação](https://www.elastic.co/guide/en/cloud-enterprise/3.7/ece-autoscaling-example.html)
+- [@artigo@Desbloqueando a Escalabilidade Elástica: Um Guia Compreensivo para Habilitar Autoescalação no Elasticsearch](https://medium.com/@prosenjeet.saha88/unlocking-elastic-scalability-a-comprehensive-guide-to-enable-autoscaling-in-elasticsearch-ff6ab1000b65)
+- [@vídeo@Autoescalando sua implantação do Elastic Cloud](https://www.youtube.com/watch?v=kS-_uJMxotU&t=14s)
+- [@vídeo@Autoescalação - Diário do Byte Elástico S04E11](https://www.youtube.com/watch?v=g3_YddGpMrs&t=10s)

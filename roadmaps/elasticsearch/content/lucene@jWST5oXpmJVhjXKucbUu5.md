@@ -1,8 +1,8 @@
-# Lucene Query Syntax
+# Sintaxe de Consulta do Lucene
 
-Lucene is a powerful text search engine library. Its query syntax provides a way to specify search criteria using terms, phrases, wildcards, and boolean operators. This enables users to conduct complex searches within text-based data, surpassing simple keyword matching to define precise and nuanced search criteria.
+O Lucene é uma poderosa biblioteca de motor de busca de texto. Sua sintaxe de consulta fornece um modo de especificar critérios de pesquisa usando termos, frases, curingas e operadores booleanos. Isso permite que os usuários realizem pesquisas complexas em dados baseados em texto, ultrapassando a correspondência simples de palavras-chave para definir critérios de pesquisa precisos e refinados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Lucene query syntax](https://www.elastic.co/docs/explore-analyze/query-filter/languages/lucene-query-syntax)
+- [@official@Sintaxe de Consulta do Lucene](https://www.elastic.co/docs/explore-analyze/query-filter/languages/lucene-query-syntax)
 - [@article@Apache Lucene Core](https://lucene.apache.org/core/)

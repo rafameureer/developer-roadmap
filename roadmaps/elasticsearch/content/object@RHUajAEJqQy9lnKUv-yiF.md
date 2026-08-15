@@ -1,7 +1,7 @@
-# Object Data Type
+# Tipo de Dado Object
 
-An object is a data type that allows you to store nested JSON documents within a single document. This means you can represent complex, hierarchical data structures where a field can contain other fields and their corresponding values, similar to how objects are structured in programming languages. These nested objects can be indexed and searched, enabling you to query based on the properties within the nested structure.
+Um objeto é um tipo de dado que permite armazenar documentos JSON aninhados em um único documento. Isso significa que você pode representar estruturas de dados complexas e hierárquicas, onde um campo pode conter outros campos e seus valores correspondentes, semelhante à forma como os objetos são estruturados em linguagens de programação. Esses objetos aninhados podem ser indexados e pesquisados, permitindo que você consulte com base nas propriedades dentro da estrutura aninhada.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Object field type](https://www.elastic.co/docs/reference/elasticsearch/mapping-reference/object)
+- [@oficial@Tipo de campo Object](https://www.elastic.co/docs/reference/elasticsearch/mapping-reference/object)

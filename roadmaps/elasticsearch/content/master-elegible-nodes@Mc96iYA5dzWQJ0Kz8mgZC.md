@@ -1,9 +1,9 @@
-# Master-Eligible Nodes
+# Nós Eligíveis como Master
 
-Master-eligible nodes in Elasticsearch are the nodes that can be elected as the master node. The master node is responsible for cluster-wide management tasks, such as creating or deleting indices, tracking which nodes are part of the cluster, and deciding how to allocate shards across the cluster. These nodes participate in the master election process and have the potential to become the cluster's central controller.
+Nós elegíveis como master no Elasticsearch são os nós que podem ser eleitos como o nó master. O nó master é responsável por tarefas de gestão em escala do cluster, como criar ou deletar índices, rastrear quais nós fazem parte do cluster e decidir como distribuir shards pelo cluster. Esses nós participam do processo de eleição de master e têm a potencialidade de se tornar o controlador central do cluster.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Node roles](https://www.elastic.co/docs/deploy-manage/distributed-architecture/clusters-nodes-shards/node-roles)
-- [@article@Elasticsearch Nodes](https://opster.com/guides/elasticsearch/glossary/elasticsearch-node/)
-- [@video@Adding Nodes to an Elasticsearch Cluster](https://www.youtube.com/watch?v=XyQ4AN1Jn78)
+- [@official@Funções de Nós](https://www.elastic.co/docs/deploy-manage/distributed-architecture/clusters-nodes-shards/node-roles)
+- [@article@Nós Elasticsearch](https://opster.com/guides/elasticsearch/glossary/elasticsearch-node/)
+- [@video@Adicionando Nós a um Cluster Elasticsearch](https://www.youtube.com/watch?v=XyQ4AN1Jn78)

@@ -1,9 +1,9 @@
-# Match Query
+# Consulta de Correspondência
 
-The Match Query is a fundamental full-text search query in Elasticsearch. It allows you to search for documents that contain specific terms within a field. It analyzes the query string provided, breaking it down into individual terms based on the field's analyzer, and then searches for those terms in the specified field.
+A Consulta de Correspondência é uma consulta fundamental de busca em texto completo no Elasticsearch. Ela permite que você procure documentos que contenham termos específicos em um campo. Analisa a string de consulta fornecida, quebra-a em termos individuais com base no analisador do campo e, em seguida, procura esses termos no campo especificado.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Match query](https://www.elastic.co/docs/reference/query-languages/query-dsl/query-dsl-match-query)
-- [@article@Elasticsearch Match Query Usage and Examples](https://openobserve.ai/articles/elasticsearch-matching/)
-- [@video@Elasticsearch Match Query: Overview, Usage & Examples - S1E1 Query DSL Series](https://www.youtube.com/watch?v=ji8TJtLO6bI)
+- [@official@Consulta de Correspondência](https://www.elastic.co/docs/reference/query-languages/query-dsl/query-dsl-match-query)
+- [@article@Uso e Exemplos da Consulta de Correspondência do Elasticsearch](https://openobserve.ai/articles/elasticsearch-matching/)
+- [@video@Visão Geral, Uso e Exemplos da Consulta de Correspondência do Elasticsearch - S1E1 Séries DSL de Consultas](https://www.youtube.com/watch?v=ji8TJtLO6bI)

@@ -1,10 +1,10 @@
-# Delete Documents
+# Excluir Documentos
 
-Deleting a document in Elasticsearch involves sending a DELETE request to a specific index and document ID. This action permanently removes the document from the index. After a successful deletion, the document will no longer be searchable. The operation requires specifying the index name and the unique identifier of the document you wish to remove.
+Excluir um documento no Elasticsearch envolve enviar uma solicitação DELETE para um índice e ID de documento específico. Esta ação remove permanentemente o documento do índice. Após uma exclusão bem-sucedida, o documento não será mais pesquisável. A operação requer especificar o nome do índice e o identificador único do documento que você deseja remover.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Delete a document](https://www.elastic.co/docs/api/doc/elasticsearch/operation/operation-delete)
-- [@article@Elasticsearch Delete Document](https://opster.com/guides/elasticsearch/glossary/elasticsearch-delete-document/)
-- [@article@Ways to delete documents from elasticsearch](https://medium.com/@prashant.n.khunt/ways-to-delete-documents-from-elasticsearch-a490195f794)
-- [@article@Elasticsearch API | Index API, Update API, Get API, Delete API | Elasticsearch Tutorial | ELK Stack](https://www.youtube.com/watch?v=MPjily-rb1A)
+- [@oficial@Excluir um documento](https://www.elastic.co/docs/api/doc/elasticsearch/operation/operation-delete)
+- [@artigo@Elasticsearch Excluir Documento](https://opster.com/guides/elasticsearch/glossary/elasticsearch-delete-document/)
+- [@artigo@Maneiras de excluir documentos do Elasticsearch](https://medium.com/@prashant.n.khunt/ways-to-delete-documents-from-elasticsearch-a490195f794)
+- [@artigo@Elasticsearch API | Index API, Update API, Get API, Delete API | Tutorial Elasticsearch | ELK Stack](https://www.youtube.com/watch?v=MPjily-rb1A)

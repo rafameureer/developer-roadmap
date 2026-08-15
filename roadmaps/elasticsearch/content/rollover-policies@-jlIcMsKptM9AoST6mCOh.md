@@ -1,12 +1,12 @@
-# Rollover Policies
+# Políticas de Rollover
 
-Rollover policies in Elasticsearch automate the management of indices over time. They define conditions, such as index size, document count, or age, that trigger the creation of a new index and the transition of write operations to it. This process helps maintain manageable index sizes, optimize search performance, and simplify data retention strategies.
+As políticas de rollover no Elasticsearch automatizam a gestão dos índices ao longo do tempo. Eles definem condições, como tamanho do índice, contagem de documentos ou idade, que desencadeiam a criação de um novo índice e a transição das operações de escrita para ele. Esse processo ajuda a manter tamanhos de índice gerenciáveis, otimizar o desempenho da busca e simplificar as estratégias de retenção de dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@About rollover](https://www.elastic.co/docs/manage-data/lifecycle/index-lifecycle-management/rollover)
-- [@official@Rollover](https://www.elastic.co/docs/reference/elasticsearch/index-lifecycle-actions/ilm-rollover)
-- [@official@Roll over to a new index](https://www.elastic.co/docs/api/doc/elasticsearch/operation/operation-indices-rollover)
-- [@official@Configuring rollover](https://www.elastic.co/docs/manage-data/lifecycle/index-lifecycle-management/ilm-tutorials#configuring-rollover)
-- [@article@Elasticsearch Index Life cycle and Rollover Policy](https://www.elastic.co/docs/reference/elasticsearch/index-lifecycle-actions/ilm-rollover)
-- [@video@Optimizing Index Operations in Elasticsearch: Shrink & Rollover - Daily Elastic Byte S01E05](https://www.youtube.com/watch?v=9U9OBWfxC-M)
+- [@oficial@Sobre rollover](https://www.elastic.co/docs/manage-data/lifecycle/index-lifecycle-management/rollover)
+- [@oficial@Rollover](https://www.elastic.co/docs/reference/elasticsearch/index-lifecycle-actions/ilm-rollover)
+- [@oficial@Rolover para um novo índice](https://www.elastic.co/docs/api/doc/elasticsearch/operation/operation-indices-rollover)
+- [@oficial@Configurando rollover](https://www.elastic.co/docs/manage-data/lifecycle/index-lifecycle-management/ilm-tutorials#configuring-rollover)
+- [@artigo@Elasticsearch Index Life cycle e Rollover Policy](https://www.elastic.co/docs/reference/elasticsearch/index-lifecycle-actions/ilm-rollover)
+- [@vídeo@Optimizando Index Operations in Elasticsearch: Shrink & Rollover - Daily Elastic Byte S01E05](https://www.youtube.com/watch?v=9U9OBWfxC-M)

@@ -1,8 +1,8 @@
-# Dynamic Mappings
+# Mapeamento Dinâmico
 
-Dynamic mapping in Elasticsearch allows the index to automatically detect and add new fields to the mapping when new documents containing previously unseen fields are indexed. This means you don't have to predefine the schema for every field in your data; Elasticsearch infers the data type and adds the field to the index mapping on the fly. This is useful for quickly indexing data without upfront schema design.
+O mapeamento dinâmico no Elasticsearch permite que o índice detecte e adicione novos campos ao mapeamento quando novos documentos contendo campos não vistos anteriormente são indexados. Isso significa que você não precisa definir um esquema para cada campo em seus dados; o Elasticsearch infere o tipo de dado e adiciona o campo ao mapeamento do índice à medida que ele é criado. Isso é útil para indexar rapidamente dados sem design de esquema antecipado.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Dynamic mapping](https://www.elastic.co/docs/manage-data/data-store/mapping/dynamic-mapping)
 - [@official@Dynamic field mapping](https://www.elastic.co/docs/manage-data/data-store/mapping/dynamic-field-mapping)

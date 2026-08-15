@@ -1,9 +1,9 @@
-# Optimizing Bulk Indexing
+# Otimizando Indexação em Lote
 
-Bulk indexing in Elasticsearch is the process of sending multiple indexing, updating, or deleting operations in a single request. Optimizing this process involves tuning various parameters and strategies to maximize throughput and minimize resource consumption, ensuring data is efficiently loaded into Elasticsearch. This includes adjusting batch sizes, managing thread pools, and leveraging techniques like request routing and refresh interval adjustments.
+A indexação em lote no Elasticsearch é o processo de enviar várias operações de indexação, atualização ou exclusão em uma única solicitação. Otimizar esse processo envolve ajustar vários parâmetros e estratégias para maximizar a taxa de transferência e minimizar o consumo de recursos, garantindo que os dados sejam carregados eficientemente no Elasticsearch. Isso inclui ajustar tamanhos de lote, gerenciar pools de threads e aproveitar técnicas como roteamento de solicitações e ajustes do intervalo de refrescamento.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Tune for indexing speed](https://www.elastic.co/docs/deploy-manage/production-guidance/optimize-performance/indexing-speed)
-- [@article@Optimizing Elasticsearch Bulk Indexing for High Performance](https://opster.com/guides/elasticsearch/how-tos/optimizing-elasticsearch-bulk-indexing-high-performance/)
-- [@article@Tips and Tricks for Elasticsearch Indexing](https://medium.com/@nile.bits/tips-and-tricks-for-elasticsearch-indexing-ead3ddbc11de)
+- [@oficial@Ajuste para velocidade de indexação](https://www.elastic.co/docs/deploy-manage/production-guidance/optimize-performance/indexing-speed)
+- [@artigo@Otimizando a Indexação em Lote do Elasticsearch para Alto Desempenho](https://opster.com/guides/elasticsearch/how-tos/optimizing-elasticsearch-bulk-indexing-high-performance/)
+- [@artigo>Dicas e Truques para Indexação no Elasticsearch](https://medium.com/@nile.bits/tips-and-tricks-for-elasticsearch-indexing-ead3ddbc11de)

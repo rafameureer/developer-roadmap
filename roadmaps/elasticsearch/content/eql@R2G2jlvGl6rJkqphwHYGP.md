@@ -1,10 +1,10 @@
-# Event Query Language (EQL)
+# Linguagem de Consulta de Eventos (EQL)
 
-Event Query Language (EQL) is a powerful query language designed for security event analysis and threat hunting. It allows users to search for sequences of events that match specific patterns, enabling the detection of complex attack behaviors. EQL focuses on identifying relationships and dependencies between events over time, making it well-suited for uncovering malicious activities within large datasets.
+Linguagem de Consulta de Eventos (EQL) é um poderoso idioma de consulta projetado para análise de eventos de segurança e caça a ameaças. Ele permite que os usuários procurem sequências de eventos que correspondam a padrões específicos, habilitando a detecção de comportamentos de ataque complexos. O EQL se concentra em identificar relações e dependências entre eventos ao longo do tempo, tornando-o adequado para revelar atividades maliciosas dentro de grandes conjuntos de dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@EQL](https://www.elastic.co/docs/explore-analyze/query-filter/languages/eql)
-- [@official@Introducing Event Query Language](https://www.elastic.co/blog/introducing-event-query-language)
-- [@video@EQL Basics: Intro to Elastic's Event Query Language, Including Usage Example](https://www.youtube.com/watch?v=WbqYbzAkF94)
-- [@video@Event Query Language (EQL) - Overview, Usage, Importance & Modeling Detections](https://www.youtube.com/watch?v=C-Kxzj-Dw_U)
+- [@official@Introdução à Linguagem de Consulta de Eventos](https://www.elastic.co/blog/introducing-event-query-language)
+- [@video@Básico do EQL: Introdução ao Elastic's Event Query Language, Incluindo Exemplo de Uso](https://www.youtube.com/watch?v=WbqYbzAkF94)
+- [@video@Linguagem de Consulta de Eventos (EQL) - Visão Geral, Uso, Importância & Modelagem de Deteções](https://www.youtube.com/watch?v=C-Kxzj-Dw_U)

@@ -1,12 +1,12 @@
-# Snapshots and Restores
+# Snapshots e Restaurações
 
-Snapshots are backups of your Elasticsearch cluster's data and state, stored in a repository. Restoring from a snapshot allows you to recover data in case of failure, corruption, or accidental deletion. This mechanism provides a way to revert your cluster to a previous point in time, ensuring data safety and disaster recovery capabilities.
+Snapshots são backups dos dados e do estado de seu cluster Elasticsearch, armazenados em um repositório. A restauração a partir de um snapshot permite recuperar dados em caso de falha, corrupção ou exclusão acidental. Esse mecanismo fornece uma maneira de revertê-lo ao ponto anterior no tempo, garantindo segurança dos dados e capacidades de recuperação em caso de desastre.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Snapshot and restore docs](https://www.elastic.co/docs/deploy-manage/tools/snapshot-and-restore)
-- [@official@Restore from snapshot](https://www.elastic.co/docs/troubleshoot/elasticsearch/restore-from-snapshot)
-- [@official@Snapshot and Restore](https://www.elastic.co/blog/found-elasticsearch-snapshot-and-restore)
-- [@article@Elasticsearch Snapshot and Restore Feature](https://medium.com/orion-innovation-techclub/elasticsearch-snapshot-and-restore-feature-f7d52a9fd40)
-- [@video@Elasticsearch Snapshot & Restore: Managing Snapshots within Kibana - Daily Elastic Byte S02E14](https://www.youtube.com/watch?v=hc6V-1aR33E)
-- [@video@Backup Elasticsearch Data - Snapshot and Restore -Let's Deploy a Host Intrusion Detection System #15](https://www.youtube.com/watch?v=gIZNez_gmMQ)
+- [@oficial@Documentação de Snapshot e Restauração](https://www.elastic.co/docs/deploy-manage/tools/snapshot-and-restore)
+- [@oficial@Restaurar a partir de um snapshot](https://www.elastic.co/docs/troubleshoot/elasticsearch/restore-from-snapshot)
+- [@oficial@Snapshot e Restauração](https://www.elastic.co/blog/found-elasticsearch-snapshot-and-restore)
+- [@artigo@Funcionalidade Snapshot e Restauração do Elasticsearch](https://medium.com/orion-innovation-techclub/elasticsearch-snapshot-and-restore-feature-f7d52a9fd40)
+- [@vídeo@Elasticsearch Snapshot & Restore: Gerenciando Snapshots dentro do Kibana - Diário Elastic Byte S02E14](https://www.youtube.com/watch?v=hc6V-1aR33E)
+- [@vídeo@Backup de Dados Elasticsearch - Snapshot e Restauração - Vamos Implementar um Sistema de Detecção de Invasão no Host #15](https://www.youtube.com/watch?v=gIZNez_gmMQ)

@@ -1,14 +1,14 @@
-# External API Integration
+# Integração com APIs Externas
 
-Cloudflare Workers can integrate with external APIs to enrich functionality. You can use fetch() within a Worker to make requests to third-party services. This enables you to:
+Cloudflare Workers podem integrar-se com APIs externas para enriquecer a funcionalidade. Você pode usar fetch() dentro de um Worker para fazer solicitações a serviços terceiros. Isso permite que você:
 
-- Retrieve data from external sources.
-- Send data to external systems.
-- Authenticate with external services using API keys or tokens.
+- Recupere dados de fontes externas.
+- Envie dados para sistemas externos.
+- Autentique com serviços externos usando chaves de API ou tokens.
 
-Integrating with external APIs allows you to build powerful applications that leverage the capabilities of other platforms.
+Integrar-se com APIs externas permite que você crie aplicativos poderosos que aproveitem as capacidades de outras plataformas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@APIs · Cloudflare Workers](https://developers.cloudflare.com/workers/configuration/integrations/apis/)
-- [@official@External Services · Cloudflare Workers](https://developers.cloudflare.com/workers/configuration/integrations/external-services/)
+- [@oficial@APIs · Cloudflare Workers](https://developers.cloudflare.com/workers/configuration/integrations/apis/)
+- [@oficial@Serviços Externos · Cloudflare Workers](https://developers.cloudflare.com/workers/configuration/integrations/external-services/)

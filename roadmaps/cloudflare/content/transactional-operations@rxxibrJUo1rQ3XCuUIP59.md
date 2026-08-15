@@ -1,8 +1,8 @@
-# Transactional Operations
+# Operações Transacionais
 
-Durable Objects support transactional operations. You can perform multiple operations within a single transaction, ensuring that either all operations succeed or none of them do. This helps maintain data consistency and prevents partial updates. If an error occurs during a transaction, the Durable Object automatically rolls back all changes, leaving the data in a consistent state.
+Os Objetos Duráveis suportam operações transacionais. Você pode realizar várias operações em uma única transação, garantindo que todas as operações sejam bem-sucedidas ou nenhuma delas seja. Isso ajuda a manter a consistência dos dados e impede atualizações parciais. Se um erro ocorrer durante uma transação, o Objeto Durável automaticamente desfaz todas as alterações, deixando os dados em um estado consistente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Durable Object Storage · Cloudflare Durable Objects](https://developers.cloudflare.com/durable-objects/api/storage-api/)
-- [@official@Transactional Storage · Cloudflare Durable Objects](https://developers.cloudflare.com:2096/durable-objects/api/transactional-storage-api/)
+- [@oficial@Armazenamento de Objetos Duráveis · Cloudflare Durable Objects](https://developers.cloudflare.com/durable-objects/api/storage-api/)
+- [@oficial@Armazenamento Transacional · Cloudflare Durable Objects](https://developers.cloudflare.com:2096/durable-objects/api/transactional-storage-api/)

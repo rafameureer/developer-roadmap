@@ -1,8 +1,8 @@
-# Live streaming
+# Streaming em Tempo Real
 
-Cloudflare Stream supports live streaming. You can use tools like OBS Studio or Wirecast to stream video to Cloudflare, and Stream will handle the encoding, distribution, and playback. This allows you to easily broadcast live events to a global audience.
+O Cloudflare Stream suporta streaming em tempo real. Você pode usar ferramentas como o OBS Studio ou Wirecast para transmitir vídeo para a Cloudflare, e o Stream lidará com codificação, distribuição e reprodução. Isso permite que você facilmente transmite eventos ao vivo para um público global.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Cloudflare Stream](https://www.cloudflare.com/developer-platform/products/cloudflare-stream/)
-- [@official@Serverless Live Streaming with Cloudflare Stream](https://blog.cloudflare.com/stream-live/)
+- [@oficial@Cloudflare Stream](https://www.cloudflare.com/developer-platform/products/cloudflare-stream/)
+- [@oficial@Streaming em Tempo Real com Cloudflare Stream](https://blog.cloudflare.com/stream-live/)

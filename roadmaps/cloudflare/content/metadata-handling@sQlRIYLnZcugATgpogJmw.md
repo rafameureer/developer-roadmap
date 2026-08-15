@@ -1,8 +1,8 @@
-# Metadata Handling
+# Manipulação de Metadados
 
-Cloudflare Workers allow you to access metadata about the request, including the request method, URL, headers, and more. You can use this metadata to customize your application's behavior or to implement features like caching, authentication, or rate limiting. Metadata is available in both the `fetch` event and the `scheduled` event. It's a powerful tool for building dynamic and adaptive applications.
+Os Cloudflare Workers permitem que você acesse metadados sobre a solicitação, incluindo o método da solicitação, URL, cabeçalhos e mais. Você pode usar esses metadados para personalizar o comportamento da sua aplicação ou para implementar recursos como caching, autenticação ou limitação de taxa. Os metadados estão disponíveis tanto no evento `fetch` quanto no evento `scheduled`. É uma ferramenta poderosa para construir aplicações dinâmicas e adaptativas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Request and Response](https://developers.cloudflare.com/workers/runtime-apis/request)
-- [@official@Scheduled Event Handler](https://developers.cloudflare.com/workers/runtime-apis/scheduled-event)
+- [@oficial@Solicitação e Resposta](https://developers.cloudflare.com/workers/runtime-apis/request)
+- [@oficial@Manipulador de Evento Agendado](https://developers.cloudflare.com/workers/runtime-apis/scheduled-event)

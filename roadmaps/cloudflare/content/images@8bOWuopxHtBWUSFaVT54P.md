@@ -1,8 +1,8 @@
-# Images
+# Imagens
 
-Cloudflare Images provides comprehensive image optimization and delivery services. It automatically resizes, converts, and optimizes images for different devices and browsers, improving website performance and reducing bandwidth usage. You can also use Cloudflare Images to store and serve images directly, eliminating the need for a separate image hosting service.
+O Cloudflare Images oferece serviços de otimização e entrega de imagens completos. Ele redimensiona, converte e otimiza automaticamente imagens para diferentes dispositivos e navegadores, melhorando o desempenho do site e reduzindo o uso de largura de banda. Você também pode usar o Cloudflare Images para armazenar e servir imagens diretamente, eliminando a necessidade de um serviço de hospedagem de imagens separado.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Images · Cloudflare Docs](https://developers.cloudflare.com/images/)
-- [@official@Get Started with Cloudflare Images](https://developers.cloudflare.com/images/get-started/)
+- [@oficial@Imagens · Docs do Cloudflare](https://developers.cloudflare.com/images/)
+- [@oficial@Comece com o Cloudflare Images](https://developers.cloudflare.com/images/get-started/)

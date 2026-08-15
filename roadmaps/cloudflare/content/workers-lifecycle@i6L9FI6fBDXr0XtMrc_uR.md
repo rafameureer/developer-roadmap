@@ -1,9 +1,9 @@
-# Workers Lifecycle
+# Ciclo de Vida dos Trabalhadores
 
-A Cloudflare Worker's lifecycle is short and stateless. Each invocation starts when a request hits the Cloudflare edge. The Worker executes its code to handle the request. Once the response is sent (or an error occurs), the Worker instance terminates. There's no persistent state between requests unless you use services like KV or Durable Objects. This stateless nature ensures scalability and quick response times. Understanding this lifecycle is crucial for designing efficient Workers that can handle a high volume of requests.
+O ciclo de vida de um Trabalhador da Cloudflare é curto e sem estado. Cada invocação começa quando uma solicitação atinge a borda da rede da Cloudflare. O Trabalhador executa seu código para lidar com a solicitação. Uma vez que a resposta é enviada (ou ocorre um erro), a instância do Trabalhador termina. Não há estado persistente entre as solicitações, a menos que você use serviços como KV ou Objetos Duráveis. Esta natureza sem estado garante escalabilidade e tempos de resposta rápidos. Compreender este ciclo de vida é crucial para projetar Trabalhadores eficientes que possam lidar com altos volumes de solicitações.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Workers RPC - Lifecycle](https://developers.cloudflare.com/workers/runtime-apis/rpc/lifecycle/)
-- [@official@How Workers Works · Cloudflare](https://developers.cloudflare.com/workers/reference/how-workers-works/)
-- [@official@Introducing workerd: the Open Source Workers Runtime](https://blog.cloudflare.com/workerd-open-source-workers-runtime/)
+- [@oficial@RPC dos Trabalhadores - Ciclo de Vida](https://developers.cloudflare.com/workers/runtime-apis/rpc/lifecycle/)
+- [@oficial@Como funcionam os Trabalhadores · Cloudflare](https://developers.cloudflare.com/workers/reference/how-workers-works/)
+- [@oficial@Introduzindo workerd: o Runtime dos Trabalhadores Aberto Fonte](https://blog.cloudflare.com/workerd-open-source-workers-runtime/)

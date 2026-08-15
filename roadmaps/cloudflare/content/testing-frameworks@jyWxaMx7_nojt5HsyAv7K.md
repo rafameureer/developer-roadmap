@@ -1,9 +1,9 @@
-# Testing Frameworks
+# Estruturas de Teste
 
-Testing frameworks are crucial for ensuring Cloudflare Workers function correctly. Popular options include Jest, Mocha, and Chai. These frameworks allow you to write unit tests, integration tests, and end-to-end tests for your Workers. You can simulate Cloudflare's environment and test how your Worker responds to different requests and events. Thorough testing helps identify and fix bugs early in the development process, ensuring the reliability of your Workers.
+As estruturas de teste são cruciais para garantir que os Trabalhos da Cloudflare funcionem corretamente. Opções populares incluem Jest, Mocha e Chai. Essas estruturas permitem que você escreva testes unitários, de integração e de ponta a ponta para seus Trabalhos. Você pode simular o ambiente da Cloudflare e testar como seu Trabalho responde a diferentes solicitações e eventos. Testes abrangentes ajudam a identificar e corrigir bugs cedo no processo de desenvolvimento, garantindo a confiabilidade dos seus Trabalhos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Testing - Cloudflare Workers Docs](https://developers.cloudflare.com/workers/testing/)
-- [@article@Jest - Delightful JavaScript Testing](https://jestjs.io/)
-- [@article@Vitest - A Fast JavaScript Test Runner](https://vitest.dev/)
+- [@official@Testando - Documentação da Cloudflare Workers](https://developers.cloudflare.com/workers/testing/)
+- [@article@Jest - Teste Delicioso em JavaScript](https://jestjs.io/)
+- [@article@Vitest - Um Executor de Testes JavaScript Rápido](https://vitest.dev/)

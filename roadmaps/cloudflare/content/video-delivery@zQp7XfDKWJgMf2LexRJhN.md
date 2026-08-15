@@ -1,16 +1,16 @@
-# Video Delivery
+# Entrega de Vídeo
 
-Cloudflare Stream provides a comprehensive solution for video delivery:
+O Cloudflare Stream oferece uma solução abrangente para a entrega de vídeo:
 
-- **Encoding:** Automatically encodes videos for different devices and bandwidths.
-- **Storage:** Stores your videos securely.
-- **CDN:** Delivers videos globally via Cloudflare's CDN for fast playback.
-- **Player:** Provides a customizable video player.
+- **Codificação:** Codifica automaticamente vídeos para diferentes dispositivos e taxas de transmissão.
+- **Armazenamento:** Armazena seus vídeos com segurança.
+- **CDN:** Transmite vídeos globalmente através do CDN do Cloudflare para reprodução rápida.
+- **Player:** Fornece um player de vídeo personalizável.
 
-This simplifies the process of delivering high-quality video experiences.
+Isso simplifica o processo de entrega de experiências de vídeo de alta qualidade.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Delivering Videos with Cloudflare](https://developers.cloudflare.com/support/more-dashboard-apps/cloudflare-stream/delivering-videos-with-cloudflare/)
-- [@official@Stream Delivery - Cloudflare Stream](https://www.cloudflare.com/application-services/solutions/stream-delivery/)
+- [@official@Entregando Vídeos com a Cloudflare](https://developers.cloudflare.com/support/more-dashboard-apps/cloudflare-stream/delivering-videos-with-cloudflare/)
+- [@official@Entrega de Stream - Cloudflare Stream](https://www.cloudflare.com/application-services/solutions/stream-delivery/)
 - [@official@Cloudflare Stream - Cloudflare](https://www.cloudflare.com/developer-platform/products/cloudflare-stream/)

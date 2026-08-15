@@ -1,8 +1,8 @@
-# Logging and Monitoring
+# Registro e Monitoramento
 
-Effective logging and monitoring are crucial for understanding and debugging Cloudflare Workers. You can use `console.log` for basic logging during development. For production, consider using a dedicated logging service to collect and analyze logs from your Workers. Cloudflare provides metrics like request counts, CPU usage, and error rates that can be monitored in the Cloudflare dashboard. Setting up alerts based on these metrics helps you identify and address issues quickly.
+O registro eficaz e o monitoramento são cruciais para entender e depurar os Cloudflare Workers. Você pode usar `console.log` para registro básico durante o desenvolvimento. Para produção, considere usar um serviço de registro dedicado para coletar e analisar logs dos seus Workers. O Cloudflare oferece métricas como contagem de solicitações, uso do CPU e taxas de erro que podem ser monitoradas no painel do Cloudflare. Configurar alertas com base nessas métricas ajuda a identificar e resolver problemas rapidamente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Logging vs Monitoring: What's the Difference?](https://toxigon.com/logging-vs-monitoring-whats-the-difference)
-- [@official@Debugging and Logging · Cloudflare Pages](https://developers.cloudflare.com/pages/functions/debugging-and-logging/)
+- [@artigo@Registro vs Monitoramento: O Que é a Diferença?](https://toxigon.com/logging-vs-monitoring-whats-the-difference)
+- [@oficial@Depuração e Registro · Cloudflare Pages](https://developers.cloudflare.com/pages/functions/debugging-and-logging/)

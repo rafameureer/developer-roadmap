@@ -1,8 +1,8 @@
-# Text Generation
+# Geração de Texto
 
-Workers AI allows you to perform text generation tasks directly on Cloudflare's edge network. You can use pre-trained models or fine-tune your own models to generate text for various purposes, such as content creation, chatbot responses, or language translation. Running text generation at the edge reduces latency and improves the responsiveness of your AI-powered applications.
+Workers AI permite que você execute tarefas de geração de texto diretamente na rede do Cloudflare. Você pode usar modelos pré-treinados ou ajustar seus próprios modelos para gerar texto para diversos propósitos, como criação de conteúdo, respostas de chatbot ou tradução de idiomas. Executar a geração de texto na borda reduz a latência e melhora a resposta das suas aplicações baseadas em IA.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Choose the Right Text Generation Model](https://developers.cloudflare.com/workers-ai/tutorials/how-to-choose-the-right-text-generation-model/)
-- [@official@Prompting · Cloudflare Workers AI](https://developers.cloudflare.com/workers-ai/guides/prompting/)
+- [@oficial@Escolha o Modelo de Geração de Texto Apropriado](https://developers.cloudflare.com/workers-ai/tutorials/how-to-choose-the-right-text-generation-model/)
+- [@oficial@Prompting · Cloudflare Workers AI](https://developers.cloudflare.com/workers-ai/guides/prompting/)

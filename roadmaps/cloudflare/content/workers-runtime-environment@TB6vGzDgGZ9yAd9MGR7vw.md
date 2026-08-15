@@ -1,8 +1,8 @@
-# Workers Runtime Environment
+# Ambiente de Execução dos Trabalhadores
 
-The Workers runtime environment is a lightweight JavaScript execution environment running on Cloudflare's edge network. It's based on V8, the same engine that powers Chrome and Node.js, but optimized for speed and security. Workers have limited access to global variables and APIs compared to a traditional Node.js environment, focusing on handling HTTP requests and responses. It provides APIs for caching, KV storage, and accessing request information, enabling performant and globally distributed serverless functions.
+O ambiente de execução dos Trabalhadores é um ambiente de execução JavaScript leve que roda na rede da borda da Cloudflare. Está baseado no V8, o mesmo motor que impulsiona o Chrome e o Node.js, mas otimizado para velocidade e segurança. Os Trabalhadores têm acesso limitado a variáveis globais e APIs em comparação com um ambiente de Node.js tradicional, focando na manipulação de solicitações HTTP e respostas. Ele fornece APIs para caching, armazenamento KV e acesso à informação da solicitação, permitindo funções serverless performáticas e distribuídas globalmente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@How Workers Works · Cloudflare](https://developers.cloudflare.com/workers/reference/how-workers-works/)
-- [@official@Introducing workerd: the Open Source Workers Runtime](https://blog.cloudflare.com/workerd-open-source-workers-runtime/)
+- [@oficial@Como funcionam os Trabalhadores · Cloudflare](https://developers.cloudflare.com/workers/reference/how-workers-works/)
+- [@oficial@Introduzindo workerd: o Runtime dos Trabalhadores Aberto Fonte](https://blog.cloudflare.com/workerd-open-source-workers-runtime/)

@@ -1,8 +1,8 @@
-# Isolates Architecture
+# Arquitetura de Isolados
 
-Cloudflare's isolated architecture for Workers relies on lightweight V8 isolates. Each Worker runs in its own isolate, providing strong isolation from other Workers and the underlying infrastructure. Isolates start quickly and consume minimal resources, enabling rapid scaling. This architecture prevents code from one Worker from impacting others, enhancing security and stability. The isolation ensures that even if a Worker contains vulnerabilities, it cannot compromise the entire Cloudflare network or other customers' applications.
+A arquitetura isolada do Cloudflare para os Workers depende de isolados leves do V8. Cada Worker roda em seu próprio isolado, fornecendo uma forte isolamento dos outros Workers e da infraestrutura subjacente. Os isolados iniciam rapidamente e consomem recursos mínimos, permitindo escalonamento rápido. Essa arquitetura impede que o código de um Worker afete os outros, melhorando a segurança e a estabilidade. A isolação garante que, mesmo se um Worker contiver vulnerabilidades, ele não possa comprometer toda a rede do Cloudflare ou as aplicações dos outros clientes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Reference Architectures · Cloudflare Reference Architecture](https://developers.cloudflare.com/reference-architecture/)
-- [@official@Cloudflare Security Architecture](https://developers.cloudflare.com/reference-architecture/architectures/security/)
+- [@official@Referências Arquiteturas · Referência de Arquitetura do Cloudflare](https://developers.cloudflare.com/reference-architecture/)
+- [@official@Arquitetura de Segurança do Cloudflare](https://developers.cloudflare.com/reference-architecture/architectures/security/)

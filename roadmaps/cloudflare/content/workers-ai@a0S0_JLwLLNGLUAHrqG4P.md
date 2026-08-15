@@ -1,8 +1,8 @@
 # Workers AI
 
-Cloudflare Workers AI allows you to run AI inference directly on Cloudflare's global network, close to your users. This eliminates the need to send data to centralized AI servers, reducing latency and improving performance for AI-powered applications. You can use Workers AI to perform tasks like image recognition, natural language processing, and sentiment analysis at the edge.
+O Workers AI do Cloudflare permite executar a inferência de IA diretamente na rede global do Cloudflare, perto dos usuários. Isso elimina a necessidade de enviar dados para servidores de IA centralizados, reduzindo a latência e melhorando o desempenho das aplicações baseadas em IA. Você pode usar o Workers AI para realizar tarefas como reconhecimento de imagem, processamento natural de linguagem e análise de sentimentos no ponto final.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Workers AI - Cloudflare Docs](https://developers.cloudflare.com/workers-ai/)
-- [@official@Models · Cloudflare Workers AI](https://developers.cloudflare.com/workers-ai/models/)
+- [@official@Workers AI - Documentação do Cloudflare](https://developers.cloudflare.com/workers-ai/)
+- [@official@Modelos · Workers AI do Cloudflare](https://developers.cloudflare.com/workers-ai/models/)

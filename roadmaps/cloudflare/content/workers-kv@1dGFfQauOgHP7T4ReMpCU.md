@@ -1,8 +1,8 @@
-# Workers KV
+# Armazenamento KV dos Trabalhadores
 
-Workers KV is a data storage that allows you to store and retrieve data globally. With Workers KV, you can build dynamic and performant APIs and websites that support high read volumes with low latency.
+Armazenamento KV dos Trabalhadores é uma solução de armazenamento de dados que permite armazenar e recuperar dados globalmente. Com o Armazenamento KV dos Trabalhadores, você pode construir APIs e sites dinâmicos e performáticos que suportam altos volumes de leitura com baixa latência.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Cloudflare Workers KV Documentation](https://developers.cloudflare.com/kv/)
-- [@official@How to Use Cloudflare Workers and KV Storage](https://www.youtube.com/watch?v=NGk2HxV0Xkg)
+- [@oficial@Documentação do Armazenamento KV dos Trabalhadores da Cloudflare](https://developers.cloudflare.com/kv/)
+- [@oficial@Como usar os Trabalhadores da Cloudflare e o Armazenamento KV](https://www.youtube.com/watch?v=NGk2HxV0Xkg)

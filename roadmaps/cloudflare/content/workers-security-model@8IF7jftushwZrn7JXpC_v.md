@@ -1,8 +1,8 @@
-# Workers Security Model
+# Modelo de Segurança dos Workers
 
-Cloudflare Workers operate within a secure, isolated environment. The Workers runtime enforces strict security boundaries, preventing Workers from accessing sensitive data or interfering with other processes. Workers have limited access to the outside world and must explicitly request resources. Cloudflare's global network provides inherent DDoS protection and mitigates common web vulnerabilities. This secure execution environment ensures that Workers can safely process requests without compromising the overall security of the platform.
+Os Cloudflare Workers operam em um ambiente seguro e isolado. O runtime dos Workers impõe limites estritos de segurança, impedindo que os Workers acessem dados sensíveis ou interfiram em outros processos. Os Workers têm acesso limitado ao mundo exterior e devem solicitar explicitamente recursos. A rede global do Cloudflare fornece proteção intrínseca contra DDoS e mitiga vulnerabilidades comuns da web. Esse ambiente de execução seguro garante que os Workers possam processar solicitações de forma segura, sem comprometer a segurança geral da plataforma.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Security Model · Cloudflare](https://developers.cloudflare.com/workers/reference/security-model/)
-- [@official@Workers RPC — Visibility and Security Model - Cloudflare Docs](https://developers.cloudflare.com/workers/runtime-apis/rpc/visibility/)
+- [@official@Modelo de Segurança · Cloudflare](https://developers.cloudflare.com/workers/reference/security-model/)
+- [@official@Workers RPC — Modelo de Visibilidade e Segurança - Documentação do Cloudflare](https://developers.cloudflare.com/workers/runtime-apis/rpc/visibility/)

@@ -1,14 +1,14 @@
 # Edge SSL/TLS
 
-Cloudflare's Edge SSL/TLS terminates SSL/TLS connections at Cloudflare's edge network, close to the user. This reduces latency and improves performance compared to terminating connections at the origin server. Cloudflare offers various SSL/TLS options, including:
+O Edge SSL/TLS da Cloudflare termina as conexões SSL/TLS na rede global da Cloudflare, próxima ao usuário. Isso reduz a latência e melhora o desempenho em comparação com o término das conexões no servidor de origem. A Cloudflare oferece várias opções de SSL/TLS, incluindo:
 
-- **Universal SSL:** Free SSL certificates for all Cloudflare users.
-- **Dedicated SSL:** Custom SSL certificates for specific domains.
-- **Origin CA:** Free certificates for securing communication between Cloudflare and your origin.
+- **SSL Universal:** Certificados SSL gratuitos para todos os usuários da Cloudflare.
+- **SSL dedicado:** Certificados SSL personalizados para domínios específicos.
+- **Origin CA:** Certificados gratuitos para proteger a comunicação entre a Cloudflare e o seu servidor de origem.
 
-Edge SSL/TLS ensures secure communication between users and your website while optimizing performance.
+O Edge SSL/TLS garante uma comunicação segura entre os usuários e o seu site enquanto otimiza o desempenho.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Get Started with SSL/TLS - Cloudflare Docs](https://developers.cloudflare.com/ssl/get-started/)
-- [@official@Edge Certificates · Cloudflare SSL/TLS](https://developers.cloudflare.com/ssl/edge-certificates/)
+- [@oficial@Comece com SSL/TLS - Cloudflare Docs](https://developers.cloudflare.com/ssl/get-started/)
+- [@oficial@Certificados Edge · Cloudflare SSL/TLS](https://developers.cloudflare.com/ssl/edge-certificates/)

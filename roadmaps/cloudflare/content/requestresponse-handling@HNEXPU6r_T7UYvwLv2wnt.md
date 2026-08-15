@@ -1,8 +1,8 @@
-# Request/Response Handling
+# Tratamento de Solicitações/Respostas
 
-Cloudflare Workers excel at intercepting and modifying HTTP requests and responses. When a request hits Cloudflare, a Worker can inspect the request details (headers, URL, method) and take actions: rewrite the URL, modify headers, or even serve a completely different response. Similarly, Workers can intercept responses from the origin server, modifying the content, adding headers for caching, or even serving a cached version directly. This level of control allows for powerful customization and optimization of web traffic.
+Os Trabalhadores do Cloudflare são excelentes em interceptar e modificar solicitações e respostas HTTP. Quando uma solicitação atinge o Cloudflare, um Trabalhador pode inspecionar os detalhes da solicitação (cabeçalhos, URL, método) e tomar ações: reescrever a URL, modificar cabeçalhos ou até mesmo servir uma resposta completamente diferente. Da mesma forma, os Trabalhadores podem interceptar respostas do servidor de origem, modificando o conteúdo, adicionando cabeçalhos para cache ou até mesmo servindo uma versão em cache diretamente. Esse nível de controle permite a personalização e otimização poderosas do tráfego web.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Request and Response](https://developers.cloudflare.com/workers/runtime-apis/request)
-- [@article@Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+- [@oficial@Solicitação e Resposta](https://developers.cloudflare.com/workers/runtime-apis/request)
+- [@artigo@API Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)

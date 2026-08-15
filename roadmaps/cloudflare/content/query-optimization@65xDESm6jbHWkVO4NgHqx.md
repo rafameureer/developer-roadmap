@@ -1,13 +1,13 @@
-# Query Optimization
+# Otimização de Consultas
 
-Optimizing your SQL queries is crucial for achieving good performance with Cloudflare D1, especially as your database grows. D1 leverages SQLite's query optimizer, which automatically attempts to find the most efficient way to execute your queries. However, you can significantly improve performance by following best practices:
+Otimizar suas consultas SQL é crucial para obter bom desempenho com o Cloudflare D1, especialmente à medida que seu banco de dados cresce. O D1 utiliza o otimizador de consultas do SQLite, que tenta automaticamente encontrar a maneira mais eficiente de executar suas consultas. No entanto, você pode significativamente melhorar o desempenho seguindo práticas recomendadas:
 
-- **Use Indexes:** Indexes are essential for speeding up queries that filter or sort data. Create indexes on columns that are frequently used in `WHERE` clauses, `JOIN` conditions, and `ORDER BY` clauses.
-- **Avoid Full Table Scans:** Full table scans can be slow, especially on large tables. Ensure your queries are using indexes to narrow down the number of rows that need to be examined.
-- **Write Efficient SQL:** Use appropriate `JOIN` types, avoid using `SELECT *` (specify the columns you need), and use `WHERE` clauses to filter data as early as possible.
-- **Analyze Query Performance:** Use SQLite's `EXPLAIN QUERY PLAN` command to analyze how your queries are being executed. This can help you identify potential bottlenecks and areas for improvement.
-- **Consider Denormalization:** In some cases, denormalizing your database schema (adding redundant data to avoid joins) can improve query performance, but it comes at the cost of increased storage space and potential data inconsistencies. Weigh the trade-offs carefully.
+- **Use Índices:** Índices são essenciais para acelerar consultas que filtram ou ordenam dados. Crie índices em colunas que são frequentemente usadas em cláusulas `WHERE`, condições de `JOIN` e cláusulas `ORDER BY`.
+- **Evite Scans de Tabela Completa:** Os scans de tabela completa podem ser lentos, especialmente em tabelas grandes. Certifique-se de que suas consultas estejam usando índices para reduzir o número de linhas que precisam ser examinadas.
+- **Escreva Consultas SQL Eficientes:** Use tipos apropriados de `JOIN`, evite usar `SELECT *` (especifique as colunas necessárias) e use cláusulas `WHERE` para filtrar dados o mais cedo possível.
+- **Analise o Desempenho das Consultas:** Use o comando `EXPLAIN QUERY PLAN` do SQLite para analisar como suas consultas estão sendo executadas. Isso pode ajudar a identificar potenciais gargalos e áreas de melhoria.
+- **Considere a Desnormalização:** Em alguns casos, desnormalizar seu esquema de banco de dados (adicionando dados redundantes para evitar junções) pode melhorar o desempenho das consultas, mas vem com o custo de espaço em disco aumentado e potenciais inconsistências de dados. Avalie cuidadosamente as compensações.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Query Parameters and Cached Responses](https://developers.cloudflare.com/automatic-platform-optimization/reference/query-parameters/)
+- [@official@Parâmetros de Consulta e Respostas em Cache](https://developers.cloudflare.com/automatic-platform-optimization/reference/query-parameters/)

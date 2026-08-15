@@ -1,7 +1,7 @@
-# Speech Recognition
+# Reconhecimento de Voz
 
-You can use Workers AI to run speech-to-text models directly on Cloudflare's edge network, enabling real-time transcription of audio data. This can be useful for applications like voice search, voice commands, and live captioning.
+Você pode usar Workers AI para executar modelos de reconhecimento de fala diretamente na rede do Cloudflare, permitindo a transcrição em tempo real de dados de áudio. Isso pode ser útil para aplicativos como busca por voz, comandos de voz e legendas em tempo real.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Whisper - Cloudflare Workers AI](https://developers.cloudflare.com/workers-ai/models/whisper/)
+- [@official@Whisper - Workers AI do Cloudflare](https://developers.cloudflare.com/workers-ai/models/whisper/)

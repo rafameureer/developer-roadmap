@@ -1,8 +1,8 @@
-# Middleware Patterns
+# Padrões de Middleware
 
-Middleware patterns in Cloudflare Workers allow you to chain functions to process requests or responses in a modular way. Each middleware function performs a specific task (e.g., authentication, logging, header modification) before passing the request/response to the next function in the chain. This promotes code reusability, separation of concerns, and easier maintenance. By composing middleware, you can build complex request processing pipelines.
+Os padrões de middleware em Cloudflare Workers permitem encadear funções para processar solicitações ou respostas de uma maneira modular. Cada função de middleware executa uma tarefa específica (por exemplo, autenticação, registro, modificação de cabeçalhos) antes de passar a solicitação/resposta para a próxima função na cadeia. Isso promove a reutilização do código, a separação dos assuntos e facilita a manutenção. Com a composição de middleware, você pode construir pipelines complexos de processamento de solicitações.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Middleware · Cloudflare Pages](https://developers.cloudflare.com/pages/functions/middleware/)
-- [@article@A Middleware Architecture for Cloudflare Workers](https://boxesplusarrows.com/blog/a-middleware-architecture-for-cloudflare-workers/)
+- [@oficial@Middleware · Cloudflare Pages](https://developers.cloudflare.com/pages/functions/middleware/)
+- [@artigo@Uma Arquitetura de Middleware para Cloudflare Workers](https://boxesplusarrows.com/blog/a-middleware-architecture-for-cloudflare-workers/)

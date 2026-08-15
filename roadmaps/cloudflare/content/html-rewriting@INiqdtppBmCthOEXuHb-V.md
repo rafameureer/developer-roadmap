@@ -1,15 +1,15 @@
-# HTML Rewriting
+# Modificação de Conteúdo HTML
 
-HTML rewriting with Cloudflare Workers enables you to modify HTML content on the fly. You can use Workers to parse HTML, manipulate elements, and inject new content. Common use cases include:
+A modificação de conteúdo HTML com Cloudflare Workers permite que você altere dinamicamente o conteúdo HTML. Você pode usar Workers para analisar HTML, manipular elementos e injetar novo conteúdo. Casos de uso comuns incluem:
 
-- A/B testing: Dynamically changing content for different users.
-- Personalization: Tailoring the HTML based on user characteristics.
-- Content injection: Adding analytics scripts or ads.
-- Security enhancements: Removing potentially harmful code.
+- Testes A/B: Mudança dinâmica do conteúdo para diferentes usuários.
+- Personalização: Ajustar o HTML com base em características do usuário.
+- Injeção de conteúdo: Adicionar scripts de análise ou anúncios.
+- Melhorias de segurança: Remover código potencialmente perigoso.
 
-HTML rewriting allows you to customize the user experience and optimize your website without modifying the origin server.
+A modificação de conteúdo HTML permite que você personalize a experiência do usuário e otimize seu site sem modificar o servidor original.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@official@HTMLRewriter · Cloudflare Workers](https://developers.cloudflare.com/workers/runtime-apis/html-rewriter/)
-- [@official@Introducing the HTMLRewriter API to Cloudflare Workers](https://blog.cloudflare.com/introducing-htmlrewriter/)
+- [@oficial@HTMLRewriter · Cloudflare Workers](https://developers.cloudflare.com/workers/runtime-apis/html-rewriter/)
+- [@oficial@Introdução à API HTMLRewriter em Cloudflare Workers](https://blog.cloudflare.com/introducing-htmlrewriter/)

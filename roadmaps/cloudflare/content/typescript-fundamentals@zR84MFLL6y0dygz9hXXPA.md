@@ -1,9 +1,9 @@
-# TypeScript Fundamentals
+# Fundamentos do TypeScript
 
-TypeScript is a superset of JavaScript that adds static typing. It enhances code maintainability and reduces errors by catching type-related issues during development. For Cloudflare Workers, TypeScript can improve the development experience. You define types for variables, function parameters, and return values, making code more predictable. TypeScript code compiles to JavaScript before deployment to Cloudflare Workers. Using TypeScript allows for better tooling, autocompletion, and refactoring, leading to more robust and scalable serverless applications.
+O TypeScript é um superconjunto do JavaScript que adiciona tipagem estática. Ele melhora a manutenção do código e reduz erros ao detectar problemas relacionados a tipos durante o desenvolvimento. Para os Trabalhos do Cloudflare, o TypeScript pode melhorar a experiência de desenvolvimento. Você define tipos para variáveis, parâmetros de função e valores de retorno, tornando o código mais previsível. O código em TypeScript é compilado para JavaScript antes da implantação nos Trabalhos do Cloudflare. Usar TypeScript permite uma ferramentaria melhor, conclusão automática e refatoração, levando a aplicativos serverless mais robustos e escaláveis.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit Dedicated TypeScript Roadmap](https://roadmap.sh/typescript)
-- [@official@TypeScript Documentation](https://www.typescriptlang.org/docs/)
-- [@official@TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/)
+- [@roadmap@Visite o Caminho Dedidado do TypeScript](https://roadmap.sh/typescript)
+- [@official@Documentação oficial do TypeScript](https://www.typescriptlang.org/docs/)
+- [@official@Guia do TypeScript](https://www.typescriptlang.org/docs/handbook/)

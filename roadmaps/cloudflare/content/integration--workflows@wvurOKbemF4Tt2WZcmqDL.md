@@ -1,16 +1,16 @@
-# Integration & Workflows
+# Integração & Workflows
 
-Workflows refers to the automated processes you can create to manage and respond to various events or conditions. This often involves chaining together different Cloudflare features and potentially integrating with external services. Workflows enable you to automate tasks such as:
+Workflows refere-se a processos automatizados que você pode criar para gerenciar e responder a diversos eventos ou condições. Isso geralmente envolve encadear diferentes recursos do Cloudflare e potencialmente integrar com serviços externos. Os workflows permitem que você automatize tarefas como:
 
-- Responding to security threats
-- Optimizing website performance
-- Managing user access
-- Enforcing compliance policies
+- Respondendo a ameaças de segurança
+- Otimizando o desempenho do site
+- Gerenciando o acesso dos usuários
+- Aplicando políticas de conformidade
 
-Cloudflare's strength lies in its ability to integrate various services and create automated workflows. You can connect Cloudflare with external platforms using webhooks or APIs. Workflows can automate tasks like responding to security events, optimizing performance based on real-time data, or managing user access. By integrating different components, you can build complex and efficient systems that leverage Cloudflare's global network.
+A força do Cloudflare reside em sua capacidade de integrar diversos serviços e criar workflows automatizados. Você pode conectar o Cloudflare a plataformas externas usando webhooks ou APIs. Os workflows podem automatizar tarefas como responder a eventos de segurança, otimizar desempenho com base em dados em tempo real ou gerenciar o acesso dos usuários. Ao integrar diferentes componentes, você pode construir sistemas complexos e eficientes que aproveitem a rede global do Cloudflare.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@CI/CD · Cloudflare Workers](https://developers.cloudflare.com/workers/ci-cd/)
-- [@official@Cloudflare Workflows](https://developers.cloudflare.com/workflows/)
-- [@official@Workers Builds: Integrated CI/CD built on the Workers platform](https://blog.cloudflare.com/workers-builds-integrated-ci-cd-built-on-the-workers-platform/)
+- [@oficial@CI/CD · Workers do Cloudflare](https://developers.cloudflare.com/workers/ci-cd/)
+- [@oficial@Workflows do Cloudflare](https://developers.cloudflare.com/workflows/)
+- [@oficial@Workers Builds: CI/CD integrado construído na plataforma Workers](https://blog.cloudflare.com/workers-builds-integrated-ci-cd-built-on-the-workers-platform/)

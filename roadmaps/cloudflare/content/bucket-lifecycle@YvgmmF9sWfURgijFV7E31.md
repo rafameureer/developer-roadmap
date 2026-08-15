@@ -1,8 +1,8 @@
-# Bucket Lifecycle
+# Ciclo de Vida do Bucket
 
-The lifecycle of an R2 bucket involves creation, usage (storing and retrieving objects), and eventual deletion. You create a bucket to house your data. Objects are then uploaded, accessed, and managed within the bucket. Cloudflare doesn't have built-in lifecycle rules like some other storage providers, so object expiration typically requires custom logic via Workers. Finally, when the bucket is no longer needed, and after ensuring it's empty, you can delete it.
+O ciclo de vida de um bucket R2 envolve a criação, o uso (armazenamento e recuperação de objetos) e eventualmente a exclusão. Você cria um bucket para abrigar seus dados. Os objetos são então carregados, acessados e gerenciados dentro do bucket. O Cloudflare não possui regras de ciclo de vida embutidas como alguns outros provedores de armazenamento, então a expiração dos objetos geralmente requer lógica personalizada via Workers. Finalmente, quando o bucket não for mais necessário e após garantir que ele esteja vazio, você pode excluí-lo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Buckets · Cloudflare R2](https://developers.cloudflare.com/r2/buckets/)
-- [@official@Bucket Lifecycle · Cloudflare R2](https://developers.cloudflare.com/api/resources/r2/subresources/buckets/subresources/lifecycle/) 
+- [@oficial@Buckets · Cloudflare R2](https://developers.cloudflare.com/r2/buckets/)
+- [@oficial@Ciclo de Vida do Bucket · Cloudflare R2](https://developers.cloudflare.com/api/resources/r2/subresources/buckets/subresources/lifecycle/)

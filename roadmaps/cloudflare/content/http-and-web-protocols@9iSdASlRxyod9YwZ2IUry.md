@@ -1,8 +1,8 @@
-# HTTP and Web Protocols
+# HTTP e Protocolos da Web
 
-Understanding HTTP and web protocols is crucial for leveraging Cloudflare's features. HTTP methods (GET, POST), status codes, headers, and caching mechanisms directly influence how Cloudflare interacts with your application. Cloudflare supports modern protocols like HTTP/2 and HTTP/3, improving performance. Familiarity with TLS/SSL is vital for secure communication, and concepts like CORS (Cross-Origin Resource Sharing) are relevant when handling API requests. Cloudflare's features, like caching rules and page rules, operate based on these protocols.
+Entender HTTP e protocolos da web é crucial para aproveitar as funcionalidades do Cloudflare. Métodos HTTP (GET, POST), códigos de status, cabeçalhos e mecanismos de cache diretamente influenciam como o Cloudflare interage com sua aplicação. O Cloudflare suporta protocolos modernos como HTTP/2 e HTTP/3, melhorando a performance. Familiaridade com TLS/SSL é essencial para comunicação segura, e conceitos como CORS (Compartilhamento de Recursos entre Origens) são relevantes ao lidar com solicitações de API. As funcionalidades do Cloudflare, como regras de cache e regras de página, operam baseadas nesses protocolos.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@article@What is HTTP?](https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/)
-- [@article@Overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
+- [@artigo@O que é HTTP?](https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/)
+- [@artigo@Visão Geral do HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)

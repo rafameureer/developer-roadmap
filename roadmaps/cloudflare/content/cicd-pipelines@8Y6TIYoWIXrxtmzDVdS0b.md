@@ -1,10 +1,10 @@
-# CI/CD Pipelines
+# Pipelines CI/CD
 
-CI/CD (Continuous Integration/Continuous Deployment) pipelines automate the process of building, testing, and deploying Cloudflare Workers. Common CI/CD platforms like GitHub Actions, GitLab CI, and CircleCI can be used to create pipelines that automatically deploy Workers whenever code changes are pushed to a repository. These pipelines typically involve steps like linting, testing, building, and deploying using `wrangler`. Automating deployments ensures faster releases and reduces the risk of errors.
+CI/CD (Integração Contínua/Implantação Contínua) automatiza o processo de construção, teste e implantação dos Workers do Cloudflare. Plataformas comuns de CI/CD como GitHub Actions, GitLab CI e CircleCI podem ser usadas para criar pipelines que implantam automaticamente os Workers sempre que houver alterações no repositório. Esses pipelines geralmente envolvem etapas como linting, teste, construção e implantação usando `wrangler`. Automatizar as implantações garante lançamentos mais rápidos e reduz o risco de erros.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Automate your workflow - Github Actions](https://github.com/features/actions)
-- [@official@CI/CD Pipelines - GitLab](https://docs.gitlab.com/ee/ci/pipelines/)
-- [@official@Continuous Integration and Delivery - CircleCI](https://circleci.com/)
-- [@official@Simple, Flexible, Trustworthy CI/CD Tools - Travis CI](https://www.travis-ci.com/)
+- [@oficial@Automate your workflow - Github Actions](https://github.com/features/actions)
+- [@oficial@Pipelines CI/CD - GitLab](https://docs.gitlab.com/ee/ci/pipelines/)
+- [@oficial@Integração Contínua e Implantação - CircleCI](https://circleci.com/)
+- [@oficial@Ferramentas de CI/CD Simples, Flexíveis e Confiáveis - Travis CI](https://www.travis-ci.com/)

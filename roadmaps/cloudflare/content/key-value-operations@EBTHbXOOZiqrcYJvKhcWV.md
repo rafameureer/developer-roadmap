@@ -1,9 +1,9 @@
-# Key-value Operations
+# Operações de Key-Value
 
-Cloudflare Workers provide a simple API for reading and writing data to a Key-Value store. You can use the `put` method to store data, and the `get` method to retrieve it. The `delete` method allows you to remove data from the store. KV stores are ideal for storing configuration data, user sessions, and other data that needs to be accessed quickly.
+Os Workers da Cloudflare oferecem uma API simples para ler e escrever dados em um armazenamento de chave-valor. Você pode usar o método `put` para armazenar dados, e o método `get` para recuperá-los. O método `delete` permite remover dados do armazenamento. Os armazenamentos KV são ideais para armazenar dados de configuração, sessões de usuário e outros dados que precisam ser acessados rapidamente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Read Key Value Pairs](https://developers.cloudflare.com/kv/api/read-key-value-pairs/)
-- [@official@Cloudflare KV Binding API](https://developers.cloudflare.com/workers/runtime-apis/kv)
-- [@official@Cloudflare Workers KV — Cloudflare Docs](https://developers.cloudflare.com/workers/runtime-apis/kv/)
+- [@oficial@Leitura de Pares de Chave-Valor](https://developers.cloudflare.com/kv/api/read-key-value-pairs/)
+- [@oficial@API de Ligação KV dos Workers da Cloudflare](https://developers.cloudflare.com/workers/runtime-apis/kv)
+- [@oficial@Cloudflare Workers KV — Documentação da Cloudflare](https://developers.cloudflare.com/workers/runtime-apis/kv/)

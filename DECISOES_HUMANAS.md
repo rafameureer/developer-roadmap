@@ -4,7 +4,7 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 
 ---
 
-> ⚠️ **Total de itens sinalizados:** 381
+> ⚠️ **Total de itens sinalizados:** 400
 
 | Arquivo / Tópico | Motivo da Sinalização | Data/Hora |
 |---|---|---|
@@ -389,3 +389,22 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 | `roadmaps/claude-code/content/use-compact-and-clear@YjRDJcSK_h82DooDWY2k4.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:21:00.546771 |
 | `roadmaps/claude-code/content/what-is-agentic-loop@uOowDiCXVKyMFrZO1pnXv.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:21:49.042656 |
 | `roadmaps/claude-code/content/what-is-vibe-coding@SKkeuO_5B18AbxlNGeazN.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:21:54.308252 |
+| `roadmaps/cloudflare/content/any-frontend-framework@zSwio18XdBfqwSneAx_AP.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:22:27.455880 |
+| `roadmaps/cloudflare/content/asset-management@3jU5753Uza2aS-gZo7w4k.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:22:32.026404 |
+| `roadmaps/cloudflare/content/background-jobs@qgvDGyLjc6lMmVPjHozFM.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:22:35.714397 |
+| `roadmaps/cloudflare/content/basic-command-line-knowledge@q9oQTt_NqhdWvJfA5XH1V.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:22:54.401864 |
+| `roadmaps/cloudflare/content/bindings@9ef2VPCru8lCmRxxGe-Eo.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:22:59.927344 |
+| `roadmaps/cloudflare/content/bot-management@So-cKAVfbgsw2zzFREu7Q.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:23:04.233647 |
+| `roadmaps/cloudflare/content/debugging-techniques@TmQC7fTL6b9EsBDYibv4g.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:24:17.577049 |
+| `roadmaps/cloudflare/content/development-tools@gsCRhwwjXuyueaYHSPOVZ.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:24:23.752452 |
+| `roadmaps/cloudflare/content/devtools-integration@uoaOrypiMkyoikXvTHeVS.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:24:27.208326 |
+| `roadmaps/cloudflare/content/devtools@G6YQZUQh_x8Qxm1oBseLQ.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:24:44.364089 |
+| `roadmaps/cloudflare/content/drizzle@MpWO1sroeF106SEMU1V1a.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:24:48.416402 |
+| `roadmaps/cloudflare/content/durable-objects@G-xBbtaniYFRE9Dgs18px.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:24:51.460556 |
+| `roadmaps/cloudflare/content/filtering@kdIfqTCcOSvV4KDpjr7nu.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:25:43.561619 |
+| `roadmaps/cloudflare/content/git-basics@C08pIguX1N45Iw0kh0Fvu.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:25:49.965033 |
+| `roadmaps/cloudflare/content/hono@-8MsWNvuqwQCbLpOx_kov.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:25:55.980134 |
+| `roadmaps/cloudflare/content/miniflare@vZHBp4S6WaS5sa5rfUOk-.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:27:38.019793 |
+| `roadmaps/cloudflare/content/monitoring-tools@Cy2T8978yUAPGol-yzxv_.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:27:42.533150 |
+| `roadmaps/cloudflare/content/nodejs-and-npm@dSBYTGGkol3MAXyg7G7_J.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:27:48.732910 |
+| `roadmaps/cloudflare/content/wrangler@n0vIbHmUZHrF4WjEhYdb8.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T03:30:53.750370 |

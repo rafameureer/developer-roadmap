@@ -1,8 +1,8 @@
-# R2 Storage
+# Armazenamento R2
 
-Cloudflare R2 Storage is a distributed object storage service that offers fast, reliable, and affordable storage without egress fees. It's designed to compete with services like Amazon S3 and Google Cloud Storage. R2 allows you to store large amounts of unstructured data (images, videos, documents) and access it quickly from anywhere in the world via Cloudflare's global network. Its key advantage is the absence of egress bandwidth charges, making it cost-effective for applications with high data retrieval needs.
+O Cloudflare R2 Storage é um serviço de armazenamento de objetos distribuído que oferece armazenamento rápido, confiável e econômico sem taxas por saída. Ele está projetado para competir com serviços como o Amazon S3 e o Google Cloud Storage. O R2 permite que você armazene grandes quantidades de dados não estruturados (imagens, vídeos, documentos) e acesse-os rapidamente em qualquer parte do mundo através da rede global do Cloudflare. Seu principal benefício é a ausência de taxas por largura de banda de saída, tornando-o econômico para aplicativos com altas necessidades de recuperação de dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Cloudflare R2 | Zero Egress Fee Object Storage](https://www.cloudflare.com/developer-platform/products/r2/)
-- [@official@Cloudflare R2 Documentation](https://developers.cloudflare.com/r2/)
+- [@oficial@Cloudflare R2 | Armazenamento de Objetos com Taxa Zero de Saída](https://www.cloudflare.com/developer-platform/products/r2/)
+- [@oficial@Documentação do Cloudflare R2](https://developers.cloudflare.com/r2/)

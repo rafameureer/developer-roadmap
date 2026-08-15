@@ -1,15 +1,15 @@
-# Large File Handling
+# Manipulação de Arquivos Grandes
 
-Handling large files on Cloudflare requires strategies to avoid exceeding size limits and ensure efficient delivery. Techniques include:
+Manipular arquivos grandes na Cloudflare requer estratégias para evitar ultrapassar limites de tamanho e garantir a entrega eficiente. Técnicas incluem:
 
-- **Streaming:** Processing files in chunks to reduce memory usage.
-- **Range Requests:** Serving only the requested portion of a file.
-- **Cloudflare Stream:** Using Cloudflare's video streaming service for large video files.
-- **R2 integration:** Storing large files in R2 and serving them via Workers.
+- **Streaming:** Processamento de arquivos em partes para reduzir o uso de memória.
+- **Requisições de Intervalo:** Servindo apenas a parte solicitada de um arquivo.
+- **Cloudflare Stream:** Uso do serviço de streaming de vídeo da Cloudflare para arquivos de vídeo grandes.
+- **Integração com R2:** Armazenamento de arquivos grandes em R2 e serviço deles via Workers.
 
-These methods allow you to handle large files effectively while leveraging Cloudflare's global network.
+Esses métodos permitem lidar efetivamente com arquivos grandes, aproveitando a rede global da Cloudflare.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Resumable and Large Files · Cloudflare Stream](https://developers.cloudflare.com/stream/uploading-videos/resumable-uploads/)
-- [@official@Cloudflare R2 Limits](https://developers.cloudflare.com/r2/platform/limits/)
+- [@oficial@Uploads Interrompíveis e Arquivos Grandes · Cloudflare Stream](https://developers.cloudflare.com/stream/uploading-videos/resumable-uploads/)
+- [@oficial@Limites do R2](https://developers.cloudflare.com/r2/platform/limits/)

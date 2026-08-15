@@ -1,14 +1,14 @@
-# Caching Strategies
+# Estratégias de Cache
 
-Cloudflare Workers allow fine-grained control over caching. You can use the Cache API to store and retrieve responses directly within your Worker, bypassing the origin server. Strategies include:
+Os Workers do Cloudflare permitem um controle fino sobre o cache. Você pode usar a API de Cache para armazenar e recuperar respostas diretamente dentro do seu Worker, evitando o servidor de origem. As estratégias incluem:
 
-- **Cache-First:** Serve from cache if available, otherwise fetch from origin.
-- **Network-First:** Always fetch from origin, caching the response for subsequent requests.
-- **Stale-While-Revalidate:** Serve from cache immediately, then update the cache in the background.
+- **Cache-First:** Serve da cache se disponível, caso contrário, fetch do origin.
+- **Network-First:** Sempre fetch do origin, cacheando a resposta para solicitações subsequentes.
+- **Stale-While-Revalidate:** Serve da cache imediatamente, então atualiza a cache em segundo plano.
 
-You can also manipulate HTTP cache headers (Cache-Control, Expires) to control how Cloudflare's CDN caches content. Effective caching is critical for improving performance and reducing origin server load.
+Você também pode manipular os cabeçalhos de cache HTTP (Cache-Control, Expires) para controlar como o CDN do Cloudflare armazena conteúdo. A eficácia no cache é crucial para melhorar o desempenho e reduzir a carga no servidor de origem.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Cache · Cloudflare Workers](https://developers.cloudflare.com/workers/runtime-apis/cache/)
-- [@official@How the Cache Works · Cloudflare Workers ](https://developers.cloudflare.com/workers/reference/how-the-cache-works/)
+- [@oficial@Cache · Workers do Cloudflare](https://developers.cloudflare.com/workers/runtime-apis/cache/)
+- [@oficial@Como funciona o Cache · Workers do Cloudflare ](https://developers.cloudflare.com/workers/reference/how-the-cache-works/)

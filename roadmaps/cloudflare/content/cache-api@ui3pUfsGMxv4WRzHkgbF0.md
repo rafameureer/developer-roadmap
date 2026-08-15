@@ -1,7 +1,7 @@
-# Cache API
+# API de Cache
 
-Cloudflare's Cache API allows Workers to programmatically control caching behavior. You can store responses in Cloudflare's global cache and retrieve them later, reducing origin server load and improving performance. The Cache API offers fine-grained control over cache keys, expiration, and other parameters. This enables you to cache dynamic content, personalize responses, and optimize content delivery for specific users or devices. The Cache API is a powerful tool for building highly performant and scalable applications on Cloudflare.
+A API de Cache da Cloudflare permite que os Workers controlem o comportamento do cache de forma programática. Você pode armazenar respostas em um cache global da Cloudflare e recuperá-las mais tarde, reduzindo a carga no servidor de origem e melhorando o desempenho. A API de Cache oferece controle granular sobre chaves de cache, expiração e outros parâmetros. Isso permite que você cacheie conteúdo dinâmico, personalize respostas e otimize a entrega de conteúdo para usuários ou dispositivos específicos. A API de Cache é uma ferramenta poderosa para construir aplicativos altamente performáticos e escaláveis na Cloudflare.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Cloudflare API Cache · Cloudflare](https://developers.cloudflare.com/api-next/resources/cache//)
+- [@oficial@Cloudflare API Cache · Cloudflare](https://developers.cloudflare.com/api-next/resources/cache//)

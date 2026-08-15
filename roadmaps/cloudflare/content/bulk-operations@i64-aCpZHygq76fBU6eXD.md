@@ -1,8 +1,8 @@
-# Bulk Operations
+# Operações em Lote
 
-Cloudflare Workers allow you to perform bulk operations on KV stores. You can use the `batch` method to perform multiple operations in a single request. This is useful for tasks like importing data from an external source or updating multiple records at once. Bulk operations are efficient and scalable, allowing you to handle large amounts of data with ease.
+Os Workers da Cloudflare permitem que você execute operações em lote em armazenamentos KV. Você pode usar o método `batch` para executar várias operações em uma única solicitação. Isso é útil para tarefas como importar dados de uma fonte externa ou atualizar vários registros simultaneamente. As operações em lote são eficientes e escaláveis, permitindo que você lidará facilmente com grandes quantidades de dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Workers KV](https://blog.cloudflare.com/workers-kv-is-ga/)
-- [@official@Workers KV Runtime API](https://developers.cloudflare.com/workers/runtime-apis/kv)
+- [@oficial@Workers KV](https://blog.cloudflare.com/workers-kv-is-ga/)
+- [@oficial@API Runtime do Workers KV](https://developers.cloudflare.com/workers/runtime-apis/kv)

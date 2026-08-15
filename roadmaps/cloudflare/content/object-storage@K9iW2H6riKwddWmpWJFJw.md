@@ -1,8 +1,8 @@
-# Object Storage
+# Armazenamento de Objetos
 
-Cloudflare R2 is object storage that offers fast, reliable, and affordable storage without egress fees. It's designed to work seamlessly with Cloudflare Workers, allowing you to store and retrieve data close to your users. R2 is ideal for storing static assets, user-generated content, and other data that needs to be accessed quickly and frequently. Its lack of egress fees makes it a cost-effective alternative to traditional cloud storage providers.
+O Cloudflare R2 é um armazenamento de objetos que oferece armazenamento rápido, confiável e econômico sem taxas de saída. Ele foi projetado para funcionar perfeitamente com os Workers do Cloudflare, permitindo que você armazene e recupere dados perto dos seus usuários. O R2 é ideal para armazenar ativos estáticos, conteúdo gerado pelo usuário e outros dados que precisam ser acessados rapidamente e frequentemente. Sua falta de taxas de saída o torna uma alternativa econômica aos provedores de armazenamento em nuvem tradicionais.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@What is Object Storage?](https://www.cloudflare.com/learning/cloud/what-is-object-storage/)
-- [@official@Cloudflare R2 | Zero Egress Fee Object Storage](https://www.cloudflare.com/developer-platform/products/r2/)
+- [@oficial@O que é Armazenamento de Objetos?](https://www.cloudflare.com/learning/cloud/what-is-object-storage/)
+- [@oficial@Cloudflare R2 | Armazenamento de Objetos com Zero Taxa de Saída](https://www.cloudflare.com/developer-platform/products/r2/)

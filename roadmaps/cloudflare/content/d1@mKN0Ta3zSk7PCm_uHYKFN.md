@@ -1,8 +1,8 @@
 # D1
 
-Cloudflare D1 is a serverless SQL database designed to run on Cloudflare's edge network. It allows you to store and query data closer to your users, reducing latency and improving application performance. D1 is based on SQLite and is accessible directly from Cloudflare Workers, making it easy to build dynamic and data-driven applications without managing a traditional database server.
+O Cloudflare D1 é um banco de dados SQL sem servidor projetado para rodar na rede de borda do Cloudflare. Ele permite que você armazene e consulte dados mais perto dos seus usuários, reduzindo a latência e melhorando o desempenho da aplicação. O D1 está baseado no SQLite e é acessível diretamente dos Trabalhadores do Cloudflare, tornando-o fácil de construir aplicativos dinâmicos e orientados a dados sem gerenciar um servidor de banco de dados tradicional.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Cloudflare D1 Documentation](https://developers.cloudflare.com/d1/)
-- [@official@Getting Started with D1](https://developers.cloudflare.com/d1/get-started/)
+- [@oficial@Documentação do Cloudflare D1](https://developers.cloudflare.com/d1/)
+- [@oficial@Introdução ao D1](https://developers.cloudflare.com/d1/get-started/)

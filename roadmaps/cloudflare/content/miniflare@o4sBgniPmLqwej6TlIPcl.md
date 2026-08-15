@@ -1,8 +1,8 @@
 # Miniflare
 
-Miniflare is a local simulator for Cloudflare Workers. It mimics the Cloudflare Workers runtime environment on your local machine, allowing you to test your Workers without deploying them to Cloudflare. Miniflare supports features like KV storage, Durable Objects, and Service Bindings, making it a valuable tool for local development and debugging. It speeds up development cycles by providing a fast and reliable local testing environment.
+Miniflare é um simulador local para Cloudflare Workers. Ele simula o ambiente de tempo de execução do Cloudflare Workers em sua máquina local, permitindo que você teste seus Workers sem implantá-los no Cloudflare. O Miniflare suporta recursos como armazenamento KV, Objetos Duráveis e Vinculamentos de Serviço, tornando-se uma ferramenta valiosa para o desenvolvimento local e depuração. Ele acelera os ciclos de desenvolvimento fornecendo um ambiente de teste local rápido e confiável.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Miniflare - Cloudflare Workers](https://developers.cloudflare.com/workers/testing/miniflare/)
+- [@oficial@Miniflare - Cloudflare Workers](https://developers.cloudflare.com/workers/testing/miniflare/)
 - [@opensource@cloudflare/miniflare](https://github.com/cloudflare/miniflare)

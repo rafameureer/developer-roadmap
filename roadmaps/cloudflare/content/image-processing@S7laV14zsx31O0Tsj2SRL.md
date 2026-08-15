@@ -1,15 +1,15 @@
-# Image Processing
+# Processamento de Imagens
 
-Workers AI allows you to run AI models directly within Cloudflare Workers, enabling powerful image processing capabilities at the edge. You can use Workers AI to perform tasks such as:
+Workers AI permite que você execute modelos de IA diretamente dentro dos Cloudflare Workers, habilitando capacidades poderosas de processamento de imagens na borda. Você pode usar Workers AI para realizar tarefas como:
 
-- Image recognition
-- Object detection
-- Image classification
-- Image resizing and optimization
+- Reconhecimento de imagem
+- Detecção de objetos
+- Classificação de imagem
+- Redimensionamento e otimização de imagem
 
-This allows you to build intelligent applications that analyze and manipulate images in real-time, close to the user.
+Isso permite que você construa aplicativos inteligentes que analisem e manipulem imagens em tempo real, perto do usuário.
 
-Visit the following resources to learn more:
+Visite os seguintes recursos para aprender mais:
 
-- [@official@How to Build an Image Generator using Workers AI](https://developers.cloudflare.com/workers-ai/tutorials/image-generation-playground/)
-- [@official@Get Started with Cloudflare Images](https://developers.cloudflare.com/images/get-started/)
+- [@oficial@Como Construir um Gerador de Imagens usando Workers AI](https://developers.cloudflare.com/workers-ai/tutorials/image-generation-playground/)
+- [@oficial@Começando com as Imagens do Cloudflare](https://developers.cloudflare.com/images/get-started/)

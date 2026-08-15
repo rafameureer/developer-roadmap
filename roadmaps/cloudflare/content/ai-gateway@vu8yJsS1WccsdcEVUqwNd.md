@@ -1,8 +1,8 @@
-# AI Gateway
+# Gateway de IA
 
-Cloudflare's AI Gateway acts as a central point for managing and optimizing your AI workloads. It provides features like caching, rate limiting, and observability for AI requests, helping you improve performance, reduce costs, and gain insights into how your AI models are being used.
+O Gateway de IA da Cloudflare atua como um ponto central para gerenciar e otimizar seus cargas de trabalho de IA. Ele fornece recursos como cacheamento, limitação de taxa e observabilidade para solicitações de IA, ajudando você a melhorar o desempenho, reduzir custos e obter insights sobre como seus modelos de IA estão sendo usados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Cloudflare + AI](https://ai.cloudflare.com/)
-- [@official@Cloudflare AI Gateway](https://www.cloudflare.com/developer-platform/products/ai-gateway/)
+- [@oficial@Cloudflare + AI](https://ai.cloudflare.com/)
+- [@oficial@Gateway de IA da Cloudflare](https://www.cloudflare.com/developer-platform/products/ai-gateway/)

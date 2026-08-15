@@ -1,8 +1,8 @@
-# Schema Management
+# Gerenciamento de Esquema
 
-Managing the structure of your database in Cloudflare D1 involves defining tables, columns, data types, primary keys, foreign keys, and indexes using standard SQL Data Definition Language (DDL) statements. Since D1 is based on SQLite, you'll use SQLite-compatible syntax. Tools like `wrangler` provide commands to execute SQL scripts, allowing you to create and modify your database schema. You'll typically start by designing your schema based on your application's data requirements and then translate that design into SQL DDL statements. Careful consideration should be given to data types to ensure data integrity and efficiency.
+Gerenciar a estrutura do seu banco de dados no Cloudflare D1 envolve definir tabelas, colunas, tipos de dados, chaves primárias, chaves estrangeiras e índices usando instruções padrão SQL Data Definition Language (DDL). Como o D1 é baseado em SQLite, você usará a sintaxe compatível com SQLite. Ferramentas como `wrangler` fornecem comandos para executar scripts SQL, permitindo que você crie e modifique seu esquema de banco de dados. Geralmente, começará projetando o esquema com base nas necessidades de dados da sua aplicação e depois traduzirá esse projeto em instruções DDL SQL. É importante dar atenção aos tipos de dados para garantir a integridade dos dados e a eficiência.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Schema Validation · Cloudflare API Shield](https://developers.cloudflare.com/api-shield/security/schema-validation/)
-- [@official@Configure Schema Validation · Cloudflare API Shield](https://developers.cloudflare.com/api-shield/security/schema-validation/configure/)
+- [@oficial@Validação de Esquema · Cloudflare API Shield](https://developers.cloudflare.com/api-shield/security/schema-validation/)
+- [@oficial@Configurar Validação de Esquema · Cloudflare API Shield](https://developers.cloudflare.com/api-shield/security/schema-validation/configure/)

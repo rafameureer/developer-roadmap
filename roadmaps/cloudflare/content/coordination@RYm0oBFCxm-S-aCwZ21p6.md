@@ -1,8 +1,8 @@
-# Coordination
+# Coordenação
 
-Durable Objects facilitate coordination between different clients or Workers. Because each object has a single, consistent view of its state, it can act as a central point for coordinating actions. Multiple clients can interact with the same Durable Object, and the object can ensure that actions are performed in a consistent and predictable order. This is useful for building collaborative applications where multiple users need to work on the same data.
+Os Objetos Duráveis facilitam a coordenação entre diferentes clientes ou Trabalhadores. Porque cada objeto tem uma única e consistente visão de seu estado, ele pode atuar como um ponto central para coordenar ações. Vários clientes podem interagir com o mesmo Objeto Durável, e o objeto pode garantir que as ações sejam executadas em uma ordem consistente e previsível. Isso é útil para construir aplicativos colaborativos onde vários usuários precisam trabalhar nos mesmos dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Durable Objects](https://www.cloudflare.com/developer-platform/products/durable-objects/)
-- [@article@Durable Objects (DO)](https://www.lambrospetrou.com/articles/durable-objects-cloudflare/)
+- [@oficial@Objetos Duráveis](https://www.cloudflare.com/developer-platform/products/durable-objects/)
+- [@artigo@Objetos Duráveis (DO)](https://www.lambrospetrou.com/articles/durable-objects-cloudflare/)

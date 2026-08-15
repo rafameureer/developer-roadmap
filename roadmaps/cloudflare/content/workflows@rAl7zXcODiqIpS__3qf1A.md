@@ -1,8 +1,8 @@
 # Workflows
 
-Cloudflare Workflow allows you to automate tasks and orchestrate different Cloudflare services through a visual, no-code/low-code interface. You can create workflows that trigger based on various events (e.g., HTTP requests, scheduled triggers) and perform actions such as modifying HTTP headers, routing traffic, or integrating with external APIs. It's designed to simplify complex configurations and automate repetitive tasks without requiring extensive coding knowledge.
+O Cloudflare Workflow permite que você automatize tarefas e orquestre diferentes serviços do Cloudflare através de uma interface visual, sem código ou com pouco código. Você pode criar workflows que sejam disparados por vários eventos (por exemplo, solicitações HTTP, gatilhos agendados) e realizar ações como modificar cabeçalhos HTTP, rotear tráfego ou integrar com APIs externas. Ele foi projetado para simplificar configurações complexas e automatizar tarefas repetitivas sem exigir conhecimento extenso de codificação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Cloudflare Workflows · Cloudflare](https://developers.cloudflare.com/workflows/)
 - [@opensource@Cloudflare Workflows Starter](https://github.com/cloudflare/workflows-starter)

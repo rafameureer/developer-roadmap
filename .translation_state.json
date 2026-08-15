@@ -1404,7 +1404,85 @@
     "roadmaps/claude-code/content/userpromptsubmit@Zrqdx4Z8uAS5yhI65Xh6z.md",
     "roadmaps/claude-code/content/using-claude-code@29xiIXYlB0bjXKA794qap.md",
     "roadmaps/claude-code/content/ways-to-use-claude@thR8GUbuAkEL4sb4m3llJ.md",
-    "roadmaps/claude-code/content/what-is-a-coding-agent@LGxnQkrbwVu9z1PFB12P3.md"
+    "roadmaps/claude-code/content/what-is-a-coding-agent@LGxnQkrbwVu9z1PFB12P3.md",
+    "roadmaps/cloudflare/content/ai-gateway@vu8yJsS1WccsdcEVUqwNd.md",
+    "roadmaps/cloudflare/content/ai-model-integration@QxPoNHsL-Pj_z3aU6qEP4.md",
+    "roadmaps/cloudflare/content/ai-powered-search@Ep9_oV_YnkbH1gHM-n3gO.md",
+    "roadmaps/cloudflare/content/browser-rendering@qkFRW_tJB8_1IYpYskQ5M.md",
+    "roadmaps/cloudflare/content/bucket-lifecycle@YvgmmF9sWfURgijFV7E31.md",
+    "roadmaps/cloudflare/content/bucket-operations@UNE6XK4su5r2jcxhY7hOG.md",
+    "roadmaps/cloudflare/content/bulk-operations@i64-aCpZHygq76fBU6eXD.md",
+    "roadmaps/cloudflare/content/cache-api@ui3pUfsGMxv4WRzHkgbF0.md",
+    "roadmaps/cloudflare/content/caching-patterns@OgW-iIrJZ5-sOWKnFpIZd.md",
+    "roadmaps/cloudflare/content/caching-strategies@uBjcQ9PJUfwzu5N_2CNjN.md",
+    "roadmaps/cloudflare/content/calls@vHQdMgaL2EEr2o_eJmOuV.md",
+    "roadmaps/cloudflare/content/cicd-pipelines@8Y6TIYoWIXrxtmzDVdS0b.md",
+    "roadmaps/cloudflare/content/coordination@RYm0oBFCxm-S-aCwZ21p6.md",
+    "roadmaps/cloudflare/content/d1@mKN0Ta3zSk7PCm_uHYKFN.md",
+    "roadmaps/cloudflare/content/dead-letter-queues@Grl59SjY31Q3sgf9uX-xf.md",
+    "roadmaps/cloudflare/content/edge-computing-fundamentals@aGWLomYHGkIfn7GFc0_Yl.md",
+    "roadmaps/cloudflare/content/edge-ssltls@sXBxaQtwJ-luGVXdqVXk1.md",
+    "roadmaps/cloudflare/content/email-workers@z-1Ye5hcNdr9r6Gwdw7mv.md",
+    "roadmaps/cloudflare/content/event-driven-architectures@Z9Yywlf7rXFBtxTq5B2Y5.md",
+    "roadmaps/cloudflare/content/external-api-integration@4g5w6IAdzefdlRTxbRbdS.md",
+    "roadmaps/cloudflare/content/fetch-api-and-runtime-apis@_2UnRlbUplHvs5-Stj4O4.md",
+    "roadmaps/cloudflare/content/html-rewriting@INiqdtppBmCthOEXuHb-V.md",
+    "roadmaps/cloudflare/content/http-and-web-protocols@9iSdASlRxyod9YwZ2IUry.md",
+    "roadmaps/cloudflare/content/image-processing@S7laV14zsx31O0Tsj2SRL.md",
+    "roadmaps/cloudflare/content/images@8bOWuopxHtBWUSFaVT54P.md",
+    "roadmaps/cloudflare/content/integration--workflows@wvurOKbemF4Tt2WZcmqDL.md",
+    "roadmaps/cloudflare/content/inter-worker-communication@jYAUIKozuhsNK5LbkeAJ6.md",
+    "roadmaps/cloudflare/content/isolates-architecture@uNinrB9wm5ahjGXu5fc0g.md",
+    "roadmaps/cloudflare/content/itty-router@15jl6CSCkqnh_eFfysLDM.md",
+    "roadmaps/cloudflare/content/javascript-fundamentals@PcYnYAAkKMbzoiCnBfjqO.md",
+    "roadmaps/cloudflare/content/key-value-operations@EBTHbXOOZiqrcYJvKhcWV.md",
+    "roadmaps/cloudflare/content/large-file-handling@BPahk1qH9Hk11tsE2hw3A.md",
+    "roadmaps/cloudflare/content/live-streaming@RiQSPAV9uRFgwQFJckTFV.md",
+    "roadmaps/cloudflare/content/logging-and-monitoring@aKEH4ZxI6J1nwjp_AgH5r.md",
+    "roadmaps/cloudflare/content/message-processing@EFA8m0EdhygxcBWzwmbnT.md",
+    "roadmaps/cloudflare/content/metadata-handling@sQlRIYLnZcugATgpogJmw.md",
+    "roadmaps/cloudflare/content/middleware-patterns@aStbAF4zraqhJ-N3RH4ha.md",
+    "roadmaps/cloudflare/content/migrations@M8rSSVFUHixgWZRfaBPHb.md",
+    "roadmaps/cloudflare/content/miniflare@o4sBgniPmLqwej6TlIPcl.md",
+    "roadmaps/cloudflare/content/object-storage@K9iW2H6riKwddWmpWJFJw.md",
+    "roadmaps/cloudflare/content/pages-functions@SaHqm7T4FFVrsgyfImo66.md",
+    "roadmaps/cloudflare/content/persistence@36w4Q73XkCwo5Cva0XsF8.md",
+    "roadmaps/cloudflare/content/prisma@h3MHLZZwkYqqb5PSfMhpB.md",
+    "roadmaps/cloudflare/content/processing@6bNUqx5f_w5NuDL25BABN.md",
+    "roadmaps/cloudflare/content/query-optimization@65xDESm6jbHWkVO4NgHqx.md",
+    "roadmaps/cloudflare/content/queues@zyRgTtlng6idboSgL9YTt.md",
+    "roadmaps/cloudflare/content/r2-storage@gxLUlXGuaY5Q-0xmBgQwz.md",
+    "roadmaps/cloudflare/content/rate-limiting@JP5U6c2fZjtkU-Xzwtapx.md",
+    "roadmaps/cloudflare/content/rate-limiting@MInAsLLJtIq6WQDSj5yGH.md",
+    "roadmaps/cloudflare/content/requestresponse-handling@HNEXPU6r_T7UYvwLv2wnt.md",
+    "roadmaps/cloudflare/content/routing@-lsYPD6JueIV94RybGH_Y.md",
+    "roadmaps/cloudflare/content/schema-management@PnhP47woPJb_JnLpMMiTw.md",
+    "roadmaps/cloudflare/content/security--performance@76xovsBrKOnlRBVjsqNq1.md",
+    "roadmaps/cloudflare/content/service-bindings@JfpVexcbuWCx_R3EjFmbo.md",
+    "roadmaps/cloudflare/content/service-bindings@WZSi9inWPhqZQvDN-C8BV.md",
+    "roadmaps/cloudflare/content/similarity-search@pg3GtykCegK411DYDN8sN.md",
+    "roadmaps/cloudflare/content/speech-recognition@HJbJ8OxjJzznYwLlIOSO2.md",
+    "roadmaps/cloudflare/content/state-management@EQjhRlM7zpANNWkypScIl.md",
+    "roadmaps/cloudflare/content/stream@LoT3NtpNj9uAgQRV-MD_E.md",
+    "roadmaps/cloudflare/content/testing-frameworks@jyWxaMx7_nojt5HsyAv7K.md",
+    "roadmaps/cloudflare/content/text-generation@zMwmoCUp9429_aXU-Bz4H.md",
+    "roadmaps/cloudflare/content/transactional-operations@rxxibrJUo1rQ3XCuUIP59.md",
+    "roadmaps/cloudflare/content/tunnels@8WZpSKBHCeYfTEL9tBNKr.md",
+    "roadmaps/cloudflare/content/typescript-fundamentals@zR84MFLL6y0dygz9hXXPA.md",
+    "roadmaps/cloudflare/content/understand-serverless-architecture@Isl5anwDvb1MacA-JH4ej.md",
+    "roadmaps/cloudflare/content/vector-embeddings@UIWaR1ZdjSm0UAS69Kz_5.md",
+    "roadmaps/cloudflare/content/vectorize@NWGVtH1vxQuO4lly0Omuy.md",
+    "roadmaps/cloudflare/content/video-delivery@zQp7XfDKWJgMf2LexRJhN.md",
+    "roadmaps/cloudflare/content/video-processing@3B6Z7F0D3Sf8ZBlV3kkGx.md",
+    "roadmaps/cloudflare/content/web-security-headers@KWix4jeNUKJ07Iu95Mqj_.md",
+    "roadmaps/cloudflare/content/webhook-handling@uOUjI6CPrhZIlz6mRCtOW.md",
+    "roadmaps/cloudflare/content/workers-ai@a0S0_JLwLLNGLUAHrqG4P.md",
+    "roadmaps/cloudflare/content/workers-kv@1dGFfQauOgHP7T4ReMpCU.md",
+    "roadmaps/cloudflare/content/workers-lifecycle@i6L9FI6fBDXr0XtMrc_uR.md",
+    "roadmaps/cloudflare/content/workers-runtime-environment@TB6vGzDgGZ9yAd9MGR7vw.md",
+    "roadmaps/cloudflare/content/workers-security-model@8IF7jftushwZrn7JXpC_v.md",
+    "roadmaps/cloudflare/content/workflows@rAl7zXcODiqIpS__3qf1A.md",
+    "roadmaps/cloudflare/content/wrangler@Tzx93tvoGrc9_fKQqkorN.md"
   ],
   "completed_roadmaps": [
     "frontend-beginner",
@@ -1425,7 +1503,8 @@
     "bi-analyst",
     "blockchain",
     "c",
-    "claude-code"
+    "claude-code",
+    "cloudflare"
   ],
   "flagged_issues": [
     {
@@ -3332,8 +3411,103 @@
       "file": "roadmaps/claude-code/content/what-is-vibe-coding@SKkeuO_5B18AbxlNGeazN.md",
       "reason": "Falha na tradução automática após tentativas no Ollama",
       "timestamp": "2026-08-15T03:21:54.308252"
+    },
+    {
+      "file": "roadmaps/cloudflare/content/any-frontend-framework@zSwio18XdBfqwSneAx_AP.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:22:27.455880"
+    },
+    {
+      "file": "roadmaps/cloudflare/content/asset-management@3jU5753Uza2aS-gZo7w4k.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:22:32.026404"
+    },
+    {
+      "file": "roadmaps/cloudflare/content/background-jobs@qgvDGyLjc6lMmVPjHozFM.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:22:35.714397"
+    },
+    {
+      "file": "roadmaps/cloudflare/content/basic-command-line-knowledge@q9oQTt_NqhdWvJfA5XH1V.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:22:54.401864"
+    },
+    {
+      "file": "roadmaps/cloudflare/content/bindings@9ef2VPCru8lCmRxxGe-Eo.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:22:59.927344"
+    },
+    {
+      "file": "roadmaps/cloudflare/content/bot-management@So-cKAVfbgsw2zzFREu7Q.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:23:04.233647"
+    },
+    {
+      "file": "roadmaps/cloudflare/content/debugging-techniques@TmQC7fTL6b9EsBDYibv4g.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:24:17.577049"
+    },
+    {
+      "file": "roadmaps/cloudflare/content/development-tools@gsCRhwwjXuyueaYHSPOVZ.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:24:23.752452"
+    },
+    {
+      "file": "roadmaps/cloudflare/content/devtools-integration@uoaOrypiMkyoikXvTHeVS.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:24:27.208326"
+    },
+    {
+      "file": "roadmaps/cloudflare/content/devtools@G6YQZUQh_x8Qxm1oBseLQ.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:24:44.364089"
+    },
+    {
+      "file": "roadmaps/cloudflare/content/drizzle@MpWO1sroeF106SEMU1V1a.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:24:48.416402"
+    },
+    {
+      "file": "roadmaps/cloudflare/content/durable-objects@G-xBbtaniYFRE9Dgs18px.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:24:51.460556"
+    },
+    {
+      "file": "roadmaps/cloudflare/content/filtering@kdIfqTCcOSvV4KDpjr7nu.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:25:43.561619"
+    },
+    {
+      "file": "roadmaps/cloudflare/content/git-basics@C08pIguX1N45Iw0kh0Fvu.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:25:49.965033"
+    },
+    {
+      "file": "roadmaps/cloudflare/content/hono@-8MsWNvuqwQCbLpOx_kov.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:25:55.980134"
+    },
+    {
+      "file": "roadmaps/cloudflare/content/miniflare@vZHBp4S6WaS5sa5rfUOk-.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:27:38.019793"
+    },
+    {
+      "file": "roadmaps/cloudflare/content/monitoring-tools@Cy2T8978yUAPGol-yzxv_.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:27:42.533150"
+    },
+    {
+      "file": "roadmaps/cloudflare/content/nodejs-and-npm@dSBYTGGkol3MAXyg7G7_J.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:27:48.732910"
+    },
+    {
+      "file": "roadmaps/cloudflare/content/wrangler@n0vIbHmUZHrF4WjEhYdb8.md",
+      "reason": "Falha na tradução automática após tentativas no Ollama",
+      "timestamp": "2026-08-15T03:30:53.750370"
     }
   ],
-  "last_updated": "2026-08-15T03:21:54.311813",
+  "last_updated": "2026-08-15T03:30:53.753858",
   "total_translated_count": 54
 }

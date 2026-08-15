@@ -1,8 +1,8 @@
-# Calls
+# Chamadas
 
-Cloudflare Calls is a platform for building real-time audio and video applications directly on Cloudflare's edge network. It provides the infrastructure and APIs you need to create interactive experiences like video conferencing, live streaming, and voice chat, with low latency and global reach.
+Cloudflare Calls é uma plataforma para construir aplicativos de áudio e vídeo em tempo real diretamente na rede do Cloudflare. Ele fornece a infraestrutura e as APIs necessárias para criar experiências interativas como conferências de vídeo, transmissão ao vivo e chat de voz com baixa latência e alcance global.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Cloudflare Calls](https://developers.cloudflare.com/calls/)
-- [@official@Introduction · Cloudflare Calls](https://developers.cloudflare.com/calls/introduction/)
+- [@oficial@Cloudflare Calls](https://developers.cloudflare.com/calls/)
+- [@oficial@Introdução · Cloudflare Calls](https://developers.cloudflare.com/calls/introduction/)

@@ -1,8 +1,8 @@
-# Persistence
+# Persistência
 
-Durable Objects offer built-in persistence. Data stored within a Durable Object is automatically persisted to Cloudflare's storage infrastructure. You don't need to explicitly save or load data; the Durable Object handles persistence automatically. This simplifies development and ensures that your application's state is durable and reliable, even in the face of server failures.
+Os Objetos Duráveis oferecem persistência integrada. Os dados armazenados em um Objeto Durável são automaticamente persistidos na infraestrutura de armazenamento do Cloudflare. Você não precisa salvar ou carregar dados explicitamente; o Objeto Durável lida com a persistência automaticamente. Isso simplifica o desenvolvimento e garante que o estado da sua aplicação seja duradouro e confiável, mesmo no caso de falhas do servidor.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Access Durable Objects Storage - Cloudflare Docs](https://developers.cloudflare.com/durable-objects/best-practices/access-durable-objects-storage/)
-- [@official@In-memory State in a Durable Object](https://developers.cloudflare.com/durable-objects/reference/in-memory-state/)
+- [@oficial@Acessando Armazenamento de Objetos Duráveis - Documentação do Cloudflare](https://developers.cloudflare.com/durable-objects/best-practices/access-durable-objects-storage/)
+- [@oficial@Estado em Memória em um Objeto Durável](https://developers.cloudflare.com/durable-objects/reference/in-memory-state/)

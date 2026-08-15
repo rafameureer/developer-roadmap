@@ -1,15 +1,15 @@
-# Caching Patterns
+# Modelos de Caching
 
-Caching is a critical aspect of building performant and scalable applications. Cloudflare Workers provide several caching patterns that you can use to optimize your application's performance. These patterns include:
+O caching é um aspecto crucial na construção de aplicativos performáticos e escaláveis. Os Workers da Cloudflare oferecem vários modelos de caching que você pode usar para otimizar o desempenho do seu aplicativo. Esses padrões incluem:
 
-- **Cache-First:** Serve from cache if available, otherwise fetch from origin.
-- **Network-First:** Always fetch from origin, caching the response for subsequent requests.
-- **Stale-While-Revalidate:** Serve from cache immediately, then update the cache in the background.
+- **Cache-First:** Servir a partir do cache se disponível, caso contrário, buscar da origem.
+- **Network-First:** Sempre buscar da origem, armazenando a resposta no cache para solicitações subsequentes.
+- **Stale-While-Revalidate:** Servir imediatamente a partir do cache, depois atualizar o cache em segundo plano.
 
-You can also manipulate HTTP cache headers (Cache-Control, Expires) to control how Cloudflare's CDN caches content. Effective caching is crucial for improving performance and reducing origin server load.
+Você também pode manipular os cabeçalhos de cache HTTP (Cache-Control, Expires) para controlar como o CDN da Cloudflare armazena conteúdo. O caching eficaz é crucial para melhorar o desempenho e reduzir a carga no servidor de origem.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@How the Cache Works · Cloudflare Workers](https://developers.cloudflare.com/workers/reference/how-the-cache-works/)
-- [@article@Caching Strategies](https://docs.aws.amazon.com/whitepapers/latest/database-caching-strategies-using-redis/caching-patterns.html)
-- [@article@Caching Static and Dynamic Content](https://www.cloudflare.com/learning/cdn/caching-static-and-dynamic-content/)
+- [@oficial@Como funciona o Cache · Workers KV](https://developers.cloudflare.com/workers/reference/how-the-cache-works/)
+- [@artigo@Estratégias de Caching](https://docs.aws.amazon.com/whitepapers/latest/database-caching-strategies-using-redis/caching-patterns.html)
+- [@artigo@Caching Estático e Dinâmico](https://www.cloudflare.com/learning/cdn/caching-static-and-dynamic-content/)

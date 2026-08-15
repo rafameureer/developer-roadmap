@@ -1,9 +1,9 @@
-# Message Processing
+# Processamento de Mensagens
 
-With Cloudflare Queues, message processing involves sending messages to a queue from a producer (usually a Worker) and then consuming those messages from the queue by a consumer (another Worker or service). The consumer processes each message, performing tasks like data transformation, calling APIs, or updating databases. Queues guarantees at-least-once delivery, meaning a message will be delivered to a consumer at least once, even if there are failures. Consumers can acknowledge successful processing to remove messages from the queue.
+Com as Filas do Cloudflare, o processamento de mensagens envolve enviar mensagens para uma fila por um produtor (geralmente um Worker) e depois consumir essas mensagens da fila por um consumidor (outro Worker ou serviço). O consumidor processa cada mensagem, realizando tarefas como transformação de dados, chamada de APIs ou atualização de bancos de dados. As Filas garantem a entrega pelo menos uma vez, o que significa que uma mensagem será entregue a um consumidor pelo menos uma vez, mesmo em caso de falhas. Os consumidores podem confirmar o processamento bem-sucedido para remover as mensagens da fila.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Cloudflare Queues · Cloudflare Queues](https://developers.cloudflare.com/queues/)
-- [@official@How Does Queues Work?](https://developers.cloudflare.com/queues/reference/how-queues-works/)
-- [@article@Difference Between Stream Processing and Message Processing](https://stackoverflow.com/questions/41744506/difference-between-stream-processing-and-message-processing)
+- [@oficial@Filas do Cloudflare · Filas do Cloudflare](https://developers.cloudflare.com/queues/)
+- [@oficial@Como Funcionam as Filas?](https://developers.cloudflare.com/queues/reference/how-queues-works/)
+- [@artigo@Diferença entre Processamento de Fluxo e Processamento de Mensagens](https://stackoverflow.com/questions/41744506/difference-between-stream-processing-and-message-processing)

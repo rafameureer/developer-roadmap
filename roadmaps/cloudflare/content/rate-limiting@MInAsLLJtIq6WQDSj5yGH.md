@@ -1,8 +1,8 @@
-# Rate Limiting
+# Limitação de Taxa
 
-Cloudflare Queues can be used to implement rate limiting. Instead of directly processing every request, you can enqueue them. A consumer Worker then processes messages from the queue at a controlled rate. This prevents your backend systems from being overwhelmed by sudden spikes in traffic. You can adjust the consumer's processing rate to match the capacity of your backend services.
+As Filas do Cloudflare podem ser usadas para implementar a limitação de taxa. Em vez de processar diretamente todas as solicitações, você pode enfileirá-las. Um Trabalhador Consumidor então processará mensagens da fila em um ritmo controlado. Isso previne que seus sistemas de back-end sejam sobrecarregados por picos repentinos no tráfego. Você pode ajustar a taxa de processamento do consumidor para corresponder à capacidade dos seus serviços de back-end.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Cloudflare Queues - Queues & Rate Limits](https://developers.cloudflare.com/queues/tutorials/handle-rate-limits/)
-- [@official@Rate Limiting Best Practices - Cloudflare Docs](https://developers.cloudflare.com/waf/rate-limiting-rules/best-practices/)
+- [@oficial@Filas do Cloudflare - Filas e Limitações de Taxa](https://developers.cloudflare.com/queues/tutorials/handle-rate-limits/)
+- [@oficial@Melhores Práticas de Limitação de Taxa - Documentação do Cloudflare](https://developers.cloudflare.com/waf/rate-limiting-rules/best-practices/)

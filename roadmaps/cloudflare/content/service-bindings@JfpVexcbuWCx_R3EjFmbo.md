@@ -1,7 +1,7 @@
-# Service Bindings
+# Vinculamentos de Serviço
 
-Service Bindings allow Cloudflare Workers to seamlessly integrate with other Cloudflare services. They provide a secure and efficient way for a Worker to access resources like KV storage, Durable Objects, R2 storage, and other Workers. Instead of using API keys or direct network calls, Service Bindings create a direct connection between your Worker and the bound service, simplifying configuration and improving performance. They're essential for building complex applications that leverage the full power of the Cloudflare ecosystem.
+Os Vinculamentos de Serviço permitem que os Trabalhadores do Cloudflare integrem-se facilmente com outros serviços do Cloudflare. Eles oferecem uma maneira segura e eficiente para um Trabalho acessar recursos como armazenamento KV, Objetos Duráveis, armazenamento R2 e outros Trabalhos. Em vez de usar chaves de API ou chamadas de rede diretas, os Vinculamentos de Serviço criam uma conexão direta entre o seu Trabalho e o serviço vinculado, simplificando a configuração e melhorando o desempenho. Eles são essenciais para construir aplicativos complexos que explorem plenamente o poder do ecossistema Cloudflare.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Service Bindings · Cloudflare](https://developers.cloudflare.com/workers/platform/service-bindings/)
+- [@oficial@Vinculamentos de Serviço · Cloudflare](https://developers.cloudflare.com/workers/platform/service-bindings/)

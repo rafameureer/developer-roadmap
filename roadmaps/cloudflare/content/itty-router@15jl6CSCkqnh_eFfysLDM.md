@@ -1,8 +1,8 @@
 # Itty Router
 
-Itty Router is a lightweight router with the motto "less is more" that supports Cloudflare workers and pages. While other libraries may suffer from feature creep/bloat to please a wider audience, Itty Router painfully consider every single byte added to Itty. Our router options range from ~450 bytes to ~970 bytes for a batteries-included version with built-in defaults, error handling, formatting, etc. On top of that, the following concepts aim to keep YOUR code tiny (and readable) as well.
+Itty Router é um roteador leve com a moto "menos é mais" que suporta os Workers e as Páginas do Cloudflare. Enquanto outras bibliotecas podem sofrer de crescimento excessivo/bloat para satisfação de uma audiência mais ampla, Itty Router sofre em considerar cada byte adicionado ao Itty. Nossas opções de roteador variam de cerca de 450 bytes a cerca de 970 bytes para uma versão com baterias incluídas que possui configurações padrão, tratamento de erros, formatação, etc. Acima disso, os seguintes conceitos visam manter SEU código pequeno (e legível) também.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@ITTy Documentation](https://itty.dev/itty-router/)
-- [@official@Getting Started with Itty Router](https://itty.dev/itty-router/getting-started)
+- [@official@Documentação do ITTy](https://itty.dev/itty-router/)
+- [@official@Começando com o Itty Router](https://itty.dev/itty-router/getting-started)

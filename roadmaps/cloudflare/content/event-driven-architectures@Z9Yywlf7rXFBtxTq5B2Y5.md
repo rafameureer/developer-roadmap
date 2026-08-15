@@ -1,13 +1,13 @@
-# Event-driven Architectures
+# Arquiteturas Orientadas a Eventos
 
-Cloudflare Workers are well-suited for event-driven architectures. You can trigger Workers based on various events, such as:
+Cloudflare Workers são adequados para arquiteturas orientadas a eventos. Você pode acionar Workers com base em vários eventos, como:
 
-- Incoming HTTP requests
-- Scheduled tasks (using Cron Triggers)
-- Webhooks from external services
+- Solicitações HTTP de entrada
+- Tarefas programadas (usando Triggers Cron)
+- Webhooks de serviços externos
 
-This allows you to build reactive systems that respond to events in real-time. Workers can process events and trigger other actions, creating a chain reaction that automates complex tasks.
+Isso permite que você crie sistemas reativos que respondam a eventos em tempo real. Os Workers podem processar eventos e acionar outras ações, criando uma cadeia de reações que automatiza tarefas complexas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What Is Event-Driven Architecture? - IBM](https://www.ibm.com/think/topics/event-driven-architecture)
+- [@artigo@O que é Arquitetura Orientada a Eventos? - IBM](https://www.ibm.com/think/topics/event-driven-architecture)

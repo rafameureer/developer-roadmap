@@ -1,8 +1,8 @@
-# State Management
+# Gerenciamento de Estado
 
-Durable Objects excel at state management. Each Durable Object instance has its own persistent storage and can maintain state across multiple requests. You can store data within a Durable Object and access it consistently, regardless of which Cloudflare edge server handles the request. This eliminates the need for external databases or caching layers for managing application state.
+Os Objetos Duráveis são excelentes para o gerenciamento de estado. Cada instância do Objeto Durável tem seu próprio armazenamento persistente e pode manter o estado em várias solicitações. Você pode armazenar dados dentro de um Objeto Durável e acessá-los consistentemente, independentemente do qual servidor de borda da Cloudflare lidar com a solicitação. Isso elimina a necessidade de bancos de dados ou camadas de cache para gerenciar o estado da aplicação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@What are Durable Objects? - Cloudflare Documentation](https://developers.cloudflare.com/durable-objects/what-are-durable-objects/)
-- [@official@Durable Object State · Cloudflare Durable Objects](https://developers.cloudflare.com/durable-objects/api/state/)
+- [@official@O que são Objetos Duráveis? - Documentação da Cloudflare](https://developers.cloudflare.com/durable-objects/what-are-durable-objects/)
+- [@official@Estado do Objeto Durável · Cloudflare Durable Objects](https://developers.cloudflare.com/durable-objects/api/state/)

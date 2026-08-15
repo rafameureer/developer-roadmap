@@ -1,14 +1,14 @@
-# AI-powered Search
+# Pesquisa Baseada em IA
 
-You can build AI-powered search using Cloudflare Workers, Workers AI, and Vectorize.
+Você pode construir uma pesquisa baseada em IA usando Cloudflare Workers, Workers AI e Vectorize.
 
-1. **Embed Data:** Use Workers AI to create vector embeddings of your data (e.g., text, images).
-2. **Store Embeddings:** Store these embeddings in Vectorize.
-3. **Search:** When a user searches, embed the search query using Workers AI and then use Vectorize to find the most similar embeddings in your database.
-4. **Return Results:** Return the corresponding data items as search results.
+1. **Incorporar Dados:** Use Workers AI para criar embeddings vetoriais de seus dados (ex: texto, imagens).
+2. **Armazenar Embeddings:** Armazene esses embeddings no Vectorize.
+3. **Pesquisar:** Quando um usuário pesquisa, crie o embedding da consulta usando Workers AI e, em seguida, use o Vectorize para encontrar os embeddings mais semelhantes em seu banco de dados.
+4. **Retornar Resultados:** Retorne os itens de dados correspondentes como resultados de pesquisa.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Cloudflare + AI](https://ai.cloudflare.com/)
-- [@official@Cloudflare Agents](https://developers.cloudflare.com/agents/)
-- [@article@How to use Cloudflare Workers AI for building an AI-powered Search](https://dev.to/charlestehio/how-to-use-cloudflare-workers-ai-for-building-an-ai-powered-search-bar-51jn)
+- [@oficial@Cloudflare + AI](https://ai.cloudflare.com/)
+- [@oficial@Agentes da Cloudflare](https://developers.cloudflare.com/agents/)
+- [@artigo@Como usar Workers AI da Cloudflare para construir uma Pesquisa Baseada em IA](https://dev.to/charlestehio/how-to-use-cloudflare-workers-ai-for-building-an-ai-powered-search-bar-51jn)

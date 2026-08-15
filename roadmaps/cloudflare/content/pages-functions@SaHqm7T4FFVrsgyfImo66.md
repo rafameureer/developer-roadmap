@@ -1,7 +1,7 @@
-# Pages Functions
+# Funções das Páginas
 
-Pages Functions, (now part of Cloudflare Functions), allow you to run serverless code directly within your Cloudflare Pages projects. This lets you add dynamic functionality, like form handling or API endpoints, to your otherwise static sites. They're deployed alongside your static assets and execute on Cloudflare's edge network, ensuring low latency and high performance.
+As Funções das Páginas, agora parte dos Cloudflare Functions, permitem que você execute código sem servidor diretamente em seus projetos de Cloudflare Pages. Isso permite adicionar funcionalidade dinâmica, como o processamento de formulários ou endpoints de API, a seus sites estáticos. Eles são implantados junto com os seus ativos estáticos e executam na rede do Cloudflare Edge, garantindo baixa latência e alta performance.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Functions · Cloudflare Pages](https://developers.cloudflare.com/pages/functions/)
+- [@oficial@Funções · Cloudflare Pages](https://developers.cloudflare.com/pages/functions/)

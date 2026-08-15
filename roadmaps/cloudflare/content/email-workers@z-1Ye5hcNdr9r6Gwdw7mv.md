@@ -1,9 +1,9 @@
 # Email Workers
 
-Email Workers allow you to intercept and modify email traffic passing through Cloudflare's email routing service. You can use Email Workers to perform tasks like spam filtering, email authentication, and custom email processing logic, giving you greater control over your email flow.
+Os Email Workers permitem que você intercepte e modifique o tráfego de email passando pela roteira de email da Cloudflare. Você pode usar os Email Workers para realizar tarefas como filtragem de spam, autenticação de email e lógica personalizada de processamento de email, dando a você maior controle sobre seu fluxo de email.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Email Workers · Cloudflare Email Routing](https://developers.cloudflare.com/email-routing/email-workers/)
-- [@official@Route to Workers, Automate Your Email Processing](https://blog.cloudflare.com/announcing-route-to-workers/)
-- [@article@Implementing an Email Delivery Service with Cloudflare Workers](https://medium.com/@georgechmr/implementing-an-email-delivery-service-with-cloudflare-workers-c141422109d0)
+- [@oficial@Email Workers · Cloudflare Roteamento de Email](https://developers.cloudflare.com/email-routing/email-workers/)
+- [@oficial@Roteie para Workers, Automatize o Processamento do Seu Email](https://blog.cloudflare.com/announcing-route-to-workers/)
+- [@artigo@Implementando um Serviço de Entrega de Email com os Workers da Cloudflare](https://medium.com/@georgechmr/implementing-an-email-delivery-service-with-cloudflare-workers-c141422109d0)

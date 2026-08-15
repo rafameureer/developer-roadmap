@@ -1,8 +1,8 @@
-# Understand Serverless Architecture
+# Entenda a Arquitetura Serverless
 
-Serverless architecture allows you to run code without managing servers, and Cloudflare Workers is a key implementation of this. With Cloudflare Workers, you deploy JavaScript/TypeScript functions to Cloudflare's edge network, where they execute in response to HTTP requests. Serverless means you don't provision or maintain servers; Cloudflare handles scaling and infrastructure. This model enables faster deployments, pay-per-use pricing, and reduced operational overhead. You focus on code, while Cloudflare handles the underlying infrastructure, making it ideal for building performant and scalable applications.
+A arquitetura serverless permite executar código sem gerenciar servidores, e os Trabalhos do Cloudflare são uma implementação chave dessa abordagem. Com os Trabalhos do Cloudflare, você implanta funções JavaScript/TypeScript na rede de borda do Cloudflare, onde elas executam em resposta a solicitações HTTP. A serverless significa que você não provisiona ou mantém servidores; o Cloudflare lida com escalabilidade e infraestrutura. Esse modelo permite implantações mais rápidas, preços por uso e redução da sobrecarga operacional. Você se concentra no código, enquanto o Cloudflare lida com a infraestrutura subjacente, tornando-o ideal para construir aplicativos performáticos e escaláveis.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Serverless Architecture?](https://cloud.google.com/discover/what-is-serverless-architecture)
-- [@article@What is Serverless Computing? - Serverless Computing Explain@](https://aws.amazon.com/what-is/serverless-computing/)
+- [@article@O que é Arquitetura Serverless?](https://cloud.google.com/discover/what-is-serverless-architecture)
+- [@article@O que é Computação Serverless? - Explicação de Computação Serverless@](https://aws.amazon.com/what-is/serverless-computing/)

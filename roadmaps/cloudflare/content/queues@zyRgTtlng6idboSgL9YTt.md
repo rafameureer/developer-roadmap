@@ -1,8 +1,8 @@
-# Queues
+# Filas
 
-Cloudflare Queues is a message queuing service that allows you to decouple different parts of your application. It enables you to reliably send and receive messages between Workers or other services. This asynchronous communication is useful for tasks like background processing, handling spikes in traffic, and building resilient applications. Queues ensures messages are delivered, even if the receiving service is temporarily unavailable.
+O Cloudflare Queues é um serviço de filas de mensagens que permite desacoplar diferentes partes da sua aplicação. Ele habilita você a enviar e receber mensagens de forma confiável entre Workers ou outros serviços. Esta comunicação assíncrona é útil para tarefas como processamento em segundo plano, lidar com picos de tráfego e construir aplicações resilientes. As Filas garantem que as mensagens sejam entregues, mesmo se o serviço receptor estiver temporariamente indisponível.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Cloudflare Queues · Cloudflare Queues](https://developers.cloudflare.com/queues/)
-- [@official@How Does Queues Work?](https://developers.cloudflare.com/queues/reference/how-queues-works/)
+- [@oficial@Cloudflare Queues · Cloudflare Queues](https://developers.cloudflare.com/queues/)
+- [@oficial@Como Funcionam as Filas?](https://developers.cloudflare.com/queues/reference/how-queues-works/)

@@ -1,8 +1,8 @@
-# Vector Embeddings
+# Embeddings Vetoriais
 
-Cloudflare Vectorize allows you to store and query high-dimensional vectors, often used in machine learning for tasks like similarity search and recommendation engines. By using Vectorize with Workers AI, you can build applications that perform real-time AI-powered searches and recommendations directly on Cloudflare's edge network.
+O Cloudflare Vectorize permite armazenar e consultar vetores de alta dimensão, frequentemente usados em aprendizado de máquina para tarefas como busca por similaridade e motores de recomendação. Ao usar o Vectorize com Workers AI, você pode construir aplicativos que realizam buscas e recomendações baseadas em IA em tempo real diretamente na rede de borda do Cloudflare.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Vector Database - Cloudflare Docs](https://developers.cloudflare.com/vectorize/reference/what-is-a-vector-database/)
+- [@official@Banco de Dados Vetorial - Documentação oficial do Cloudflare](https://developers.cloudflare.com/vectorize/reference/what-is-a-vector-database/)
 - [@official@Cloudflare Vectorize](https://developers.cloudflare.com/vectorize/)

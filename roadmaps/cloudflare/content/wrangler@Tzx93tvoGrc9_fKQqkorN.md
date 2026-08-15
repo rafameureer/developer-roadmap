@@ -1,16 +1,16 @@
 # Wrangler
 
-`Wrangler` is the command-line interface (CLI) for Cloudflare Workers. It simplifies the process of developing, testing, and deploying Workers. With `wrangler`, you can:
+`Wrangler` é a interface de linha de comando (CLI) para os Cloudflare Workers. Ele simplifica o processo de desenvolvimento, teste e implantação dos Workers. Com `wrangler`, você pode:
 
-- Create new Worker projects.
-- Develop Workers locally.
-- Deploy Workers to Cloudflare.
-- Manage secrets and environment variables.
-- Configure bindings to other Cloudflare services.
+- Criar novos projetos de Worker.
+- Desenvolver Workers localmente.
+- Implantar Workers no Cloudflare.
+- Gerenciar segredos e variáveis de ambiente.
+- Configurar ligações a outros serviços do Cloudflare.
 
-`Wrangler` streamlines the entire Workers workflow, making it an essential tool for any Cloudflare Workers developer.
+`Wrangler` simplifica toda a workflow dos Workers, tornando-se uma ferramenta essencial para qualquer desenvolvedor de Cloudflare Workers.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Wrangler Documentation](https://developers.cloudflare.com/workers/wrangler/)
-- [@official@Wrangler Commands](https://developers.cloudflare.com/workers/wrangler/commands//)
+- [@official@Documentação do Wrangler](https://developers.cloudflare.com/workers/wrangler/)
+- [@official@Comandos do Wrangler](https://developers.cloudflare.com/workers/wrangler/commands//)

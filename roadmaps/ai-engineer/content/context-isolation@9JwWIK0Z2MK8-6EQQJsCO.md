@@ -1,8 +1,8 @@
-# Context Isolation
+# Isolamento de Contexto
 
-Context isolation is about keeping different tasks or areas of knowledge separate when working with large language models (LLMs). Think of it like giving each task its own dedicated space. Instead of one big LLM trying to handle everything at once, you use multiple, smaller "agents" that are each focused on a specific job and trained on their own specific data. This prevents unrelated information from interfering with each other, leading to more accurate and reliable results.
+O isolamento de contexto é sobre manter diferentes tarefas ou áreas do conhecimento separadas ao trabalhar com grandes modelos linguísticos (LLMs). Pense nele como dar a cada tarefa seu próprio espaço dedicado. Em vez de um grande LLM tentando lidar com tudo de uma só vez, você usa vários "agentes" menores, cada um focado em um trabalho específico e treinado em seus próprios dados específicos. Isso previne informações não relacionadas de interferir uns nos outros, levando a resultados mais precisos e confiáveis.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@4 context engineering strategies every AI engineer needs to know](https://newsletter.owainlewis.com/p/4-context-engineering-strategies)
-- [@article@Context Engineering](https://blog.langchain.com/context-engineering-for-agents/)
+- [@artigo@4 estratégias de engenharia de contexto que todos os engenheiros de IA precisam saber](https://newsletter.owainlewis.com/p/4-context-engineering-strategies)
+- [@artigo@Engenharia de Contexto](https://blog.langchain.com/context-engineering-for-agents/)

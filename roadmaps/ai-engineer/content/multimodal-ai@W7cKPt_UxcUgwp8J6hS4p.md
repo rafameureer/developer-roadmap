@@ -1,9 +1,9 @@
-# Multimodal AI
+# Inteligência Artificial Multimodal
 
-Multimodal AI is an approach that combines and processes data from multiple sources, such as text, images, audio, and video, to understand and generate responses. By integrating different data types, it enables more comprehensive and accurate AI systems, allowing for tasks like visual question answering, interactive virtual assistants, and enhanced content understanding. This capability helps create richer, more context-aware applications that can analyze and respond to complex, real-world scenarios.
+A Inteligência Artificial Multimodal é uma abordagem que combina e processa dados de várias fontes, como texto, imagens, áudio e vídeo, para entender e gerar respostas. Ao integrar diferentes tipos de dados, ela habilita sistemas AI mais completos e precisos, permitindo tarefas como responder a perguntas visuais, assistentes virtuais interativos e compreensão de conteúdo melhorada. Essa capacidade ajuda a criar aplicativos mais ricos e conscientes do contexto que podem analisar e responder a cenários complexos e reais.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@A Multimodal World - Hugging Face](https://huggingface.co/learn/computer-vision-course/en/unit4/multimodal-models/a_multimodal_world)
-- [@article@Multimodal AI - Google](https://cloud.google.com/use-cases/multimodal-ai?hl=en)
-- [@article@What Is Multimodal AI? A Complete Introduction](https://www.splunk.com/en_us/blog/learn/multimodal-ai.html)
+- [@artigo@Um Mundo Multimodal - Hugging Face](https://huggingface.co/learn/computer-vision-course/en/unit4/multimodal-models/a_multimodal_world)
+- [@artigo@Inteligência Artificial Multimodal - Google](https://cloud.google.com/use-cases/multimodal-ai?hl=en)
+- [@artigo@O que é Inteligência Artificial Multimodal? Uma Introdução Completa](https://www.splunk.com/en_us/blog/learn/multimodal-ai.html)

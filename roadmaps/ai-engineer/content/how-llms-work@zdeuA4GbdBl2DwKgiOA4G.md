@@ -1,9 +1,9 @@
-# How LLMs Work
+# Como Funcionam os LLMs
 
-Large Language Models (LLMs) are sophisticated AI systems trained on vast amounts of text data to understand, generate, and manipulate human language. They operate by learning statistical relationships between words and phrases, enabling them to predict the next word in a sequence or generate coherent text based on a given prompt. This is achieved through deep neural networks, primarily using a transformer architecture, which allows them to capture long-range dependencies in text and produce contextually relevant outputs.
+Os Modelos de Linguagem Grande (LLMs) são sistemas de IA sofisticados treinados em grandes quantidades de dados de texto para entender, gerar e manipular o idioma humano. Eles operam aprendendo relações estatísticas entre palavras e frases, permitindo que prevejam a próxima palavra em uma sequência ou gerem texto coerente com base em um determinado prompt. Isso é feito através de redes neurais profundas, principalmente usando uma arquitetura transformer, que permite capturar dependências de longo alcance no texto e produzir saídas relevantes ao contexto.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is a large language model (LLM)?](https://www.cloudflare.com/en-gb/learning/ai/what-is-large-language-model/)
-- [@article@New to LLMs? Start Here](https://towardsdatascience.com/new-to-llms-start-here/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)
-- [@video@How Large Language Models Work](https://www.youtube.com/watch?v=5sLYAQS9sWQ)
+- [@article@O que é um modelo de linguagem grande (LLM)?](https://www.cloudflare.com/en-gb/learning/ai/what-is-large-language-model/)
+- [@article@Novo em LLMs? Comece Aqui](https://towardsdatascience.com/new-to-llms-start-here/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)
+- [@video@Como Funcionam os Modelos de Linguagem Grande](https://www.youtube.com/watch?v=5sLYAQS9sWQ)

@@ -1,8 +1,8 @@
-# Embedding
+# Inserção
 
-In Retrieval-Augmented Generation (RAG), embeddings are essential for linking information retrieval with natural language generation. Embeddings represent both the user query and documents as dense vectors in a shared space, enabling the system to retrieve relevant information based on similarity. This retrieved information is then fed into a generative model, such as GPT, to produce contextually informed and accurate responses. By using embeddings, RAG enhances the model's ability to generate content grounded in external knowledge, making it effective for tasks like question answering and summarization.
+Na Recuperação-Aumentada na Geração (RAG), os embeddings são essenciais para vincular a recuperação de informações com a geração de linguagem natural. Os embeddings representam tanto a consulta do usuário quanto os documentos como vetores denso em um espaço compartilhado, permitindo que o sistema recupere informações relevantes com base na similaridade. Essa informação recuperada é então alimentada em um modelo gerador, como GPT, para produzir respostas contextualmente informadas e precisas. Ao usar embeddings, RAG melhora a capacidade do modelo de gerar conteúdo ancorado no conhecimento externo, tornando-o eficaz para tarefas como responder perguntas e resumir.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Understanding the role of embeddings in RAG LLMs](https://www.aporia.com/learn/understanding-the-role-of-embeddings-in-rag-llms/)
-- [@article@Mastering RAG: How to Select an Embedding Model](https://www.rungalileo.io/blog/mastering-rag-how-to-select-an-embedding-model)
+- [@artigo@Entendendo o papel dos embeddings em LLMs RAG](https://www.aporia.com/learn/understanding-the-role-of-embeddings-in-rag-llms/)
+- [@artigo@Dominando RAG: Como Selecionar um Modelo de Inserção](https://www.rungalileo.io/blog/mastering-rag-how-to-select-an-embedding-model)

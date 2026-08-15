@@ -1,7 +1,7 @@
-# Transport Layer in Model Context Protocol (MCP)
+# Camada de Transporte no Protocolo de Contexto do Modelo (MCP)
 
-The Transport Layer in the Model Context Protocol (MCP) is responsible for reliably and efficiently moving data between different components of an AI agent system. It defines how messages are packaged, addressed, and transmitted across a network or within a single machine, ensuring that information reaches its intended destination without errors or loss. This layer handles the underlying communication mechanisms, abstracting away the complexities of network protocols and hardware.
+A Camada de Transporte no Protocolo de Contexto do Modelo (MCP) é responsável por mover de forma confiável e eficiente dados entre diferentes componentes de um sistema de agente AI. Ela define como mensagens são pacotes, endereçadas e transmitidas em uma rede ou dentro de uma única máquina, garantindo que informações cheguem ao seu destino pretendido sem erros ou perdas. Esta camada lida com os mecanismos de comunicação subjacentes, abstratcizando as complexidades dos protocolos de rede e do hardware.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Layer](https://modelcontextprotocol.io/docs/learn/architecture#layers)

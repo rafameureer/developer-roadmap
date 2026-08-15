@@ -1,9 +1,9 @@
 # Pinecone
 
-Pinecone is a managed vector database designed for efficient similarity search and real-time retrieval of high-dimensional data, such as embeddings. It allows developers to store, index, and query vector representations, making it easy to build applications like recommendation systems, semantic search, and AI-driven content discovery. Pinecone is scalable, handles large datasets, and provides fast, low-latency searches using optimized indexing techniques.
+O Pinecone é um banco de dados vetorial gerenciado projetado para busca de similaridade eficiente e recuperação em tempo real de dados de alta dimensão, como representações vetoriais. Ele permite que os desenvolvedores armazenem, indexem e consultem representações vetoriais, tornando fácil a construção de aplicações como sistemas de recomendação, busca semântica e descoberta de conteúdo baseada em IA. O Pinecone é escalável, lida com grandes conjuntos de dados e fornece buscas rápidas e de baixa latência usando técnicas de indexação otimizadas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Pinecone](https://www.pinecone.io)
-- [@article@Everything you need to know about Pinecone](https://www.packtpub.com/article-hub/everything-you-need-to-know-about-pinecone-a-vector-database?srsltid=AfmBOorXsy9WImpULoLjd-42ERvTzj3pQb7C2EFgamWlRobyGJVZKKdz)
-- [@video@Introducing Pinecone Serverless](https://www.youtube.com/watch?v=iCuR6ihHQgc)
+- [@article@Tudo o que você precisa saber sobre o Pinecone](https://www.packtpub.com/article-hub/everything-you-need-to-know-about-pinecone-a-vector-database?srsltid=AfmBOorXsy9WImpULoLjd-42ERvTzj3pQb7C2EFgamWlRobyGJVZKKdz)
+- [@video@Introdução ao Pinecone Serverless](https://www.youtube.com/watch?v=iCuR6ihHQgc)

@@ -1,7 +1,7 @@
-# Production Monitoring
+# Monitoramento em Produção
 
-Production monitoring is the continuous observation of your AI system once it is live and handling real user traffic. Unlike testing in a controlled environment, production surfaces edge cases, unexpected inputs, and failure modes that never appeared during development. Monitoring in production means tracking quality metrics, error rates, and behavioral changes over time so that regressions and anomalies are caught before they affect a large number of users.
+O monitoramento em produção é a observação contínua do seu sistema de IA uma vez que ele está em funcionamento e lidando com o tráfego de usuários reais. Ao contrário da testagem em um ambiente controlado, o monitoramento em produção revela casos limites, entradas inesperadas e modos de falha que nunca apareceram durante a fase de desenvolvimento. O monitoramento em produção significa rastrear métricas de qualidade, taxas de erro e mudanças no comportamento ao longo do tempo para que regressões e anomalias sejam capturadas antes de afetar um grande número de usuários.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@LLM Observability: The Complete Guide to Monitoring LLMs in Production](https://www.swept.ai/post/llm-observability-complete-guide)
+- [@article@Observabilidade de LLMs: Guia Completo sobre Monitoramento de LLMs em Produção](https://www.swept.ai/post/llm-observability-complete-guide)

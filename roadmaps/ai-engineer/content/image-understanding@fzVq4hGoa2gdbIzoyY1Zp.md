@@ -1,7 +1,7 @@
-# Image Understanding
+# Compreensão de Imagens
 
-Multimodal AI enhances image understanding by integrating visual data with other types of information, such as text or audio. By combining these inputs, AI models can interpret images more comprehensively, recognizing objects, scenes, and actions, while also understanding context and related concepts. For example, an AI system could analyze an image and generate descriptive captions, or provide explanations based on both visual content and accompanying text.
+A IA multimodal melhora a compreensão de imagens integrando dados visuais com outros tipos de informações, como texto ou áudio. Ao combinar essas entradas, os modelos de IA podem interpretar as imagens de maneira mais abrangente, reconhecendo objetos, cenas e ações, enquanto também entendem o contexto e conceitos relacionados. Por exemplo, um sistema de IA pode analisar uma imagem e gerar legendas descritivas, ou fornecer explicações com base em ambos o conteúdo visual e o texto acompanhante.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Low or High Fidelity Image Understanding - OpenAI](https://platform.openai.com/docs/guides/images)
+- [@artigo@Baixa ou Alta Fidelidade Compreensão de Imagens - OpenAI](https://platform.openai.com/docs/guides/images)

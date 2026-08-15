@@ -1,9 +1,9 @@
 # OpenAI AgentKit
 
-OpenAI AgentKit is a framework designed to simplify the process of creating AI agents that can perform specific tasks by leveraging large language models (LLMs). It provides tools and abstractions for managing agent state, defining agent behavior, and connecting agents to various tools and resources, allowing developers to build more complex and capable AI systems without needing to manage all the low-level details.
+OpenAI AgentKit é um framework projetado para simplificar o processo de criar agentes AI que podem realizar tarefas específicas usando modelos linguísticos grandes (LLMs). Ele fornece ferramentas e abstrações para gerenciar o estado dos agentes, definir o comportamento dos agentes e conectar os agentes a várias ferramentas e recursos, permitindo aos desenvolvedores construir sistemas AI mais complexos e capazes sem precisar gerenciar todos os detalhes de nível baixo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Introducing AgentKit](https://openai.com/index/introducing-agentkit/)
-- [@official@Build every step of agents on one platform](https://openai.com/agent-platform/)
-- [@video@OpenAI Agents SDK Tutorial (FULL SERIES)](https://www.youtube.com/watch?v=gFcAfU3V1Zo)
+- [@oficial@Introdução ao AgentKit](https://openai.com/index/introducing-agentkit/)
+- [@oficial@Construa cada etapa dos agentes em uma plataforma única](https://openai.com/agent-platform/)
+- [@vídeo@Tutorial do SDK do OpenAI Agents (SERIE COMPLETA)](https://www.youtube.com/watch?v=gFcAfU3V1Zo)

@@ -1,8 +1,8 @@
-# Constraining outputs and inputs
+# Restringindo saídas e entradas
 
-Constraining outputs and inputs in AI models refers to implementing limits or rules that guide both the data the model processes (inputs) and the results it generates (outputs). Input constraints ensure that only valid, clean, and well-formed data enters the model, which helps to reduce errors and improve performance. This can include setting data type restrictions, value ranges, or specific formats. Output constraints, on the other hand, ensure that the model produces appropriate, safe, and relevant results, often by limiting output length, specifying answer formats, or applying filters to avoid harmful or biased responses. These constraints are crucial for improving model safety, alignment, and utility in practical applications.
+Restringir as saídas e entradas em modelos de IA refere-se a implementar limites ou regras que guiam tanto os dados processados pelo modelo (entradas) quanto os resultados gerados (saídas). As restrições de entrada garantem que apenas dados válidos, limpos e bem-formados entrem no modelo, o que ajuda a reduzir erros e melhorar o desempenho. Isso pode incluir restrições de tipo de dado, faixas de valores ou formatos específicos. As restrições de saída, por outro lado, garantem que o modelo produza resultados apropriados, seguros e relevantes, frequentemente limitando a comprimento da saída, especificando formatos de resposta ou aplicando filtros para evitar respostas prejudiciais ou viesas. Essas restrições são cruciais para melhorar a segurança, alinhamento e utilidade do modelo em aplicações práticas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Preventing Prompt Injection](https://learnprompting.org/docs/prompt_hacking/defensive_measures/introduction)
-- [@article@Introducing Structured Outputs in the API - OpenAI](https://openai.com/index/introducing-structured-outputs-in-the-api/)
+- [@artigo@Prevenção de Injeção de Prompt](https://learnprompting.org/docs/prompt_hacking/defensive_measures/introduction)
+- [@artigo@Introduzindo Saídas Estruturadas na API - OpenAI](https://openai.com/index/introducing-structured-outputs-in-the-api/)

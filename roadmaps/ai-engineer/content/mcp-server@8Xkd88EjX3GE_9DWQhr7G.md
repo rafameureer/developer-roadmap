@@ -1,10 +1,10 @@
-# MCP Server
+# Servidor MCP
 
-The MCP Server acts as a central hub for managing and serving contextual information to AI agents. It's responsible for receiving requests from agents, retrieving relevant context from various data sources, and delivering that context in a standardized format. This allows agents to make more informed decisions by leveraging external knowledge and data.
+O Servidor MCP atua como um hub central para gerenciar e servir informações contextuais aos agentes AI. Ele é responsável por receber solicitações dos agentes, recuperar contexto relevante de várias fontes de dados e entregá-lo em um formato padrão. Isso permite que os agentes tomem decisões mais informadas ao aproveitar conhecimento e dados externos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@Model Context Protocol (MCP) Course](https://huggingface.co/learn/mcp-course/en/unit0/introduction)
-- [@official@Understanding MCP Servers](https://modelcontextprotocol.io/docs/learn/server-concepts#understanding-mcp-servers)
-- [@article@Awesome MCP Servers](https://mcpservers.org/)
-- [@video@The Complete Guide to Building AI Agents for Beginners](https://youtu.be/MOyl58VF2ak?si=-QjRD_5y3iViprJX)
+- [@curso@Curso do Protocolo Contextual de Modelo (MCP)](https://huggingface.co/learn/mcp-course/en/unit0/introduction)
+- [@oficial@Compreendendo Servidores MCP](https://modelcontextprotocol.io/docs/learn/server-concepts#understanding-mcp-servers)
+- [@artigo@Melhores Servidores MCP](https://mcpservers.org/)
+- [@vídeo@Guia Completo para Construir Agentes AI Iniciantes](https://youtu.be/MOyl58VF2ak?si=-QjRD_5y3iViprJX)

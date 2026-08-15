@@ -1,10 +1,10 @@
-# Long-Context Processing
- 
-Long-context processing deals with feeding an AI model large amounts of text, such as entire codebases, long documents, or extended conversation histories, in a way that keeps the model accurate. Even when a model's context window is technically large enough, performance can degrade as the amount of content grows, a problem often called context rot. Techniques to manage this include chunking content, retrieving only the most relevant sections, and summarizing older material instead of passing it in full.
+# Processamento de Contexto Longo
 
-Visit the following resources to learn more:
+O processamento de contexto longo trata da alimentação de um modelo de IA com grandes quantidades de texto, como bases de código inteiras, documentos longos ou histórias de conversas estendidas, de uma maneira que mantenha o modelo preciso. Mesmo quando a janela de contexto de um modelo é tecnicamente grande o suficiente, o desempenho pode piorar à medida que o conteúdo aumenta, um problema frequentemente chamado de rotação de contexto. Técnicas para gerenciar isso incluem dividir o conteúdo em partes menores, recuperar apenas as seções mais relevantes e resumir matérias antigas em vez de passá-las inteiras.
 
-- [@article@Beyond the Window: The Complete Guide to Long Context Language Models (And Why They’re Changing AI)](https://towardsdev.com/beyond-the-window-the-complete-guide-to-long-context-language-models-and-why-theyre-changing-ai-ee28f6c2b428)
-- [@article@The Prompt: What is long context — and why does it matter for your AI?](https://cloud.google.com/transform/the-prompt-what-are-long-context-windows-and-why-do-they-matter)
-- [@article@Long-Context LLM Infrastructure: Building Systems for Million-Token Windows](https://introl.com/blog/long-context-llm-infrastructure-million-token-windows-guide)
-- [@video@Deep Dive into Long Context](https://www.youtube.com/watch?v=NHMJ9mqKeMQ)
+Acesse os seguintes recursos para saber mais:
+
+- [@article@ além da Janela: Guia Completo sobre Modelos de Linguagem de Contexto Longo (E por que Eles estão Mudando a IA)](https://towardsdev.com/beyond-the-window-the-complete-guide-to-long-context-language-models-and-why-theyre-changing-ai-ee28f6c2b428)
+- [@article@ O Prompt: O que é contexto longo — e por que isso importa para o seu IA?](https://cloud.google.com/transform/the-prompt-what-are-long-context-windows-and-why-do-they-matter)
+- [@article@ Infraestrutura de LLM de Contexto Longo: Construindo Sistemas para Janelas de Milhões de Tokens](https://introl.com/blog/long-context-llm-infrastructure-million-token-windows-guide)
+- [@video@ Profundidade no Contexto Longo](https://www.youtube.com/watch?v=NHMJ9mqKeMQ)

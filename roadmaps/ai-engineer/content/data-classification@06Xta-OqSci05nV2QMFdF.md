@@ -1,8 +1,8 @@
-# Data Classification
+# Classificação de Dados
 
-Once data is embedded, a classification algorithm, such as a neural network or a logistic regression model, can be trained on these embeddings to classify the data into different categories. The advantage of using embeddings is that they capture underlying relationships and similarities between data points, even if the raw data is complex or high-dimensional, improving classification accuracy in tasks like text classification, image categorization, and recommendation systems.
+Uma vez que os dados são incorporados, um algoritmo de classificação, como uma rede neural ou um modelo de regressão logística, pode ser treinado nesses embeddings para classificar os dados em diferentes categorias. A vantagem de usar embeddings é que eles capturam as relações subjacentes e similaridades entre pontos de dados, mesmo se os dados brutos forem complexos ou de alta dimensão, melhorando a precisão da classificação em tarefas como classificação de texto, categorização de imagens e sistemas de recomendação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What Is Data Classification?](https://www.paloaltonetworks.com/cyberpedia/data-classification)
-- [@video@Text Embeddings, Classification, and Semantic Search (w/ Python Code)](https://www.youtube.com/watch?v=sNa_uiqSlJo)
+- [@artigo@O que é Classificação de Dados?](https://www.paloaltonetworks.com/cyberpedia/data-classification)
+- [@vídeo@Embeddings de Texto, Classificação e Busca Semântica (com código em Python)](https://www.youtube.com/watch?v=sNa_uiqSlJo)

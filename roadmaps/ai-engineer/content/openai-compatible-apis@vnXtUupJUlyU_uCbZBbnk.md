@@ -1,8 +1,8 @@
-# OpenAI-compatible APIs
+# APIs Compatíveis com o OpenAI
 
-OpenAI-compatible APIs are interfaces that mimic the structure and functionality of OpenAI's API. These APIs allow developers to switch between different language models or providers with minimal code changes. This is particularly useful for testing different models, mitigating vendor lock-in, or building fallback mechanisms in case of service disruptions.
+APIs compatíveis com o OpenAI são interfaces que imitam a estrutura e a funcionalidade da API do OpenAI. Essas APIs permitem aos desenvolvedores alternar entre diferentes modelos de linguagem ou provedores com mínimas alterações de código. Isso é particularmente útil para testar diferentes modelos, mitigar o bloqueio de fornecedor ou construir mecanismos de fallback em caso de interrupções de serviço.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@OpenAI-compatible API](https://bentoml.com/llm/llm-inference-basics/openai-compatible-api)
-- [@article@OpenAI compatibility - Gemini](https://ai.google.dev/gemini-api/docs/openai)
+- [@artigo@API Compatível com o OpenAI](https://bentoml.com/llm/llm-inference-basics/openai-compatible-api)
+- [@artigo@Compatibilidade do OpenAI - Gemini](https://ai.google.dev/gemini-api/docs/openai)

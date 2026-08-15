@@ -1,7 +1,7 @@
-# External Memory
+# Memória Externa
 
-External memory, in the context of large language models (LLMs), refers to mechanisms that allow these models to access and utilize information stored outside of their internal parameters. This can involve retrieving relevant data from databases, knowledge graphs, or other external sources during the prompt processing or generation phases to augment the model's knowledge and improve its performance on specific tasks. This enhances the LLM's ability to handle complex queries and generate more accurate and contextually relevant responses.
+A memória externa, no contexto de grandes modelos linguísticos (LLMs), refere-se a mecanismos que permitem que esses modelos acessem e utilizem informações armazenadas fora dos seus parâmetros internos. Isso pode envolver recuperar dados relevantes de bancos de dados, grafos de conhecimento ou outras fontes externas durante as fases de processamento ou geração do prompt para aumentar o conhecimento do modelo e melhorar seu desempenho em tarefas específicas. Isso melhora a capacidade do LLM de lidar com consultas complexas e gerar respostas mais precisas e contextualmente relevantes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@How to Maximize Agentic Memory for Continual Learning](https://towardsdatascience.com/how-to-maximize-agentic-memory-for-continual-learning/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)
+- [@artigo@Como Maximizar a Memória Agente para o Aprendizado Contínuo](https://towardsdatascience.com/how-to-maximize-agentic-memory-for-continual-learning/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)

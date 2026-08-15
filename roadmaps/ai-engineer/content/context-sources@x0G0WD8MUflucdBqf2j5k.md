@@ -1,9 +1,9 @@
-# Context Sources
+# Fontes de Contexto
  
-Context sources are the places an AI system pulls information from to build what a model sees at inference time. Common sources include documents and knowledge bases, databases and data warehouses, code repositories, chat and support tools, and the outputs of other tool calls or agents. Each source has its own update frequency, access rules, and format, so combining them well requires normalizing and filtering before the data reaches the model. Choosing the right sources for a task matters as much as how much data is included.
+As fontes de contexto são os lugares em que um sistema de IA puxa informações para construir o que um modelo vê no momento da inferência. As fuentes comuns incluem documentos e bancos de conhecimento, bancos de dados e armazéns de dados, repositórios de código, ferramentas de chat e suporte, e os resultados de outras chamadas de ferramentas ou agentes. Cada fonte tem sua própria frequência de atualização, regras de acesso e formato, então combinar bem elas requer normalizar e filtrar antes que os dados cheguem ao modelo. Escolher as fontes certas para uma tarefa é tão importante quanto a quantidade de dados incluídos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@The Context Layer for AI: What Enterprises Get Wrong](https://datahub.com/blog/context-layer-for-ai/)
-- [@article@Context Engineering for AI Agents: The Complete Guide](https://medium.com/@khanzzirfan/context-engineering-for-ai-agents-the-complete-guide-5047f84595c7)
-- [@video@Most devs don’t understand how context windows work](https://www.youtube.com/watch?v=-uW5-TaVXu4)
+- [@artigo@A Camada de Contexto para IA: O Que Empresas Fazem Errado](https://datahub.com/blog/context-layer-for-ai/)
+- [@artigo@Engenharia de Contexto para Agentes de IA: Guia Completo](https://medium.com/@khanzzirfan/context-engineering-for-ai-agents-the-complete-guide-5047f84595c7)
+- [@vídeo@A maioria dos desenvolvedores não entende como funcionam as janelas de contexto](https://www.youtube.com/watch?v=-uW5-TaVXu4)

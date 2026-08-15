@@ -1,8 +1,8 @@
-# Input Format
+# Formato de Entrada
 
-Input format in prompt engineering deals with how you structure and present your prompt to a large language model (LLM). This includes the specific words used, the overall layout, and the inclusion of any examples or instructions. A well-defined input format guides the LLM towards generating the desired output, improving the relevance, accuracy, and consistency of its responses. Effective input formatting is key to unlocking the full potential of LLMs for specific tasks.
+O formato de entrada na engenharia de prompts trata da maneira como você estrutura e apresenta seu prompt a um grande modelo de linguagem (LLM). Isso inclui as palavras específicas usadas, o layout geral e a inclusão de qualquer exemplo ou instruções. Um formato de entrada bem definido orienta o LLM para gerar a saída desejada, melhorando a relevância, precisão e consistência de suas respostas. A formatação eficaz de prompts é crucial para liberar o potencial completo dos LLMs em tarefas específicas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Elements of a Prompt](https://www.promptingguide.ai/introduction/elements)
-- [@article@Does Prompt Formatting Have Any Impact on LLM Performance?](https://arxiv.org/html/2411.10541v1)
+- [@artigo@Elementos de um Prompt](https://www.promptingguide.ai/introduction/elements)
+- [@artigo@O Impacto da Formatação do Prompt no Desempenho do LLM?](https://arxiv.org/html/2411.10541v1)

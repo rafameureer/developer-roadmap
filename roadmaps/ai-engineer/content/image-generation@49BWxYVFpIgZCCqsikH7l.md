@@ -1,9 +1,9 @@
-# Image Generation
+# Geração de Imagens
 
-Image generation is a process in artificial intelligence where models create new images based on input prompts or existing data. It involves using generative models like GANs (Generative Adversarial Networks), VAEs (Variational Autoencoders), or more recently, transformer-based models like DALL-E and Stable Diffusion.
+A geração de imagens é um processo em inteligência artificial onde os modelos criam novas imagens com base em prompts de entrada ou dados existentes. Envolve o uso de modelos gerativos como GANs (Redes Adversárias Gerativas), VAEs (Autoencoders Variacionais) ou mais recentemente, modelos baseados em transformadores como DALL-E e Stable Diffusion.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@DALL-E](https://openai.com/index/dall-e-2/)
-- [@article@How DALL-E 2 Actually Works](https://www.assemblyai.com/blog/how-dall-e-2-actually-works/)
-- [@video@How AI Image Generators Work (Stable Diffusion / Dall-E)](https://www.youtube.com/watch?v=1CIpzeNxIhU)
+- [@oficial@DALL-E](https://openai.com/index/dall-e-2/)
+- [@artigo@Como funciona realmente o DALL-E 2](https://www.assemblyai.com/blog/how-dall-e-2-actually-works/)
+- [@vídeo@Como funcionam os geradores de imagens por IA (Stable Diffusion / Dall-E)](https://www.youtube.com/watch?v=1CIpzeNxIhU)

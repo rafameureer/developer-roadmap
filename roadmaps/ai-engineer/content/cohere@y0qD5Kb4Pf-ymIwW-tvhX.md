@@ -1,8 +1,8 @@
 # Cohere Embeddings
 
-Cohere offers powerful text embeddings, which are numerical representations of text data. These embeddings capture the semantic meaning of words, sentences, and documents, allowing AI models to understand relationships and perform tasks like similarity search, clustering, and information retrieval. Cohere's embedding models are designed for high accuracy and performance across various natural language processing applications.
+Cohere oferece embeddings de texto poderosos, que são representações numéricas de dados de texto. Esses embeddings capturam o significado semântico das palavras, frases e documentos, permitindo que os modelos de IA entenda relações e execute tarefas como busca por similaridade, agrupamento e recuperação de informações. Os modelos de embedding da Cohere são projetados para alta precisão e desempenho em várias aplicações de processamento de linguagem natural.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Introduction to Embeddings at Cohere](https://docs.cohere.com/docs/embeddings)
-- [@official@What are embedding models? Benefits and best practices](https://cohere.com/blog/embedding-models)
+- [@official@Introdução a Embeddings na Cohere](https://docs.cohere.com/docs/embeddings)
+- [@official@O que são modelos de embedding? Benefícios e práticas recomendadas](https://cohere.com/blog/embedding-models)

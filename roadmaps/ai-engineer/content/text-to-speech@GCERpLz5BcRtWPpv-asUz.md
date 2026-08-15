@@ -1,8 +1,8 @@
-# Text-to-Speech
+# Texto para Fala
 
-In the context of multimodal AI, text-to-speech (TTS) technology converts written text into natural-sounding spoken language, allowing AI systems to communicate verbally. When integrated with other modalities, such as visual or interactive elements, TTS can enhance user experiences in applications like virtual assistants, educational tools, and accessibility features. For example, a multimodal AI could read aloud text from an on-screen document while highlighting relevant sections, or narrate information about objects recognized in an image. By combining TTS with other forms of data processing, multimodal AI creates more engaging, accessible, and interactive systems for users.
+No contexto de IA multimodal, a tecnologia de texto para fala (TTS) converte o texto escrito em linguagem falada natural, permitindo que os sistemas AI comuniquem verbalmente. Quando integrada com outras modalidades, como elementos visuais ou interativos, a TTS pode melhorar as experiências do usuário em aplicativos como assistentes virtuais, ferramentas educacionais e recursos de acessibilidade. Por exemplo, uma IA multimodal poderia ler aloud o texto de um documento na tela enquanto destaca seções relevantes, ou narrar informações sobre os objetos reconhecidos em uma imagem. Ao combinar a TTS com outras formas de processamento de dados, a IA multimodal cria sistemas mais envolventes, acessíveis e interativos para os usuários.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Text-to-Speech?](https://aws.amazon.com/polly/what-is-text-to-speech/)
-- [@article@From Text to Speech: The Evolution of Synthetic Voices](https://ignitetech.ai/about/blogs/text-speech-evolution-synthetic-voices)
+- [@artigo@O que é Texto para Fala?](https://aws.amazon.com/polly/what-is-text-to-speech/)
+- [@artigo@De Texto a Fala: A Evolução das Vozes Sintéticas](https://ignitetech.ai/about/blogs/text-speech-evolution-synthetic-voices)

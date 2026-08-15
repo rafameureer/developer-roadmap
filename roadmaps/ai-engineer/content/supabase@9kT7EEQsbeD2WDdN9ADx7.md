@@ -1,8 +1,8 @@
 # Supabase
 
-Supabase Vector is an extension of the Supabase platform, specifically designed for AI and machine learning applications that require vector operations. It leverages PostgreSQL's pgvector extension to provide efficient vector storage and similarity search capabilities. This makes Supabase Vector particularly useful for applications involving embeddings, semantic search, and recommendation systems. With Supabase Vector, developers can store and query high-dimensional vector data alongside regular relational data, all within the same PostgreSQL database.
+Supabase Vector é uma extensão da plataforma Supabase, especificamente projetada para aplicações de IA e aprendizado de máquina que requerem operações vetoriais. Ele aproveita a extensão pgvector do PostgreSQL para fornecer capacidades eficientes de armazenamento e busca por similaridade vetorial. Isso torna o Supabase Vector particularmente útil para aplicativos envolvendo embeddings, busca semântica e sistemas de recomendação. Com o Supabase Vector, os desenvolvedores podem armazenar e consultar dados vetoriais de alta dimensão junto com dados relacionais regulares, tudo dentro da mesma base de dados PostgreSQL.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Supabase Vector](https://supabase.com/docs/guides/ai)
-- [@video@Supabase Vector: The Postgres Vector database](https://www.youtube.com/watch?v=MDxEXKkxf2Q)
+- [@oficial@Supabase Vector](https://supabase.com/docs/guides/ai)
+- [@vídeo@Supabase Vector: A Base de Dados Vetorial do Postgres](https://www.youtube.com/watch?v=MDxEXKkxf2Q)

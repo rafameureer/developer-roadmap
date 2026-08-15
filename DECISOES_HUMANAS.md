@@ -4,7 +4,7 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 
 ---
 
-> ⚠️ **Total de itens sinalizados:** 51
+> ⚠️ **Total de itens sinalizados:** 102
 
 | Arquivo / Tópico | Motivo da Sinalização | Data/Hora |
 |---|---|---|
@@ -59,3 +59,54 @@ Este arquivo lista automaticamente todos os tópicos ou arquivos que apresentara
 | `roadmaps/ai-data-scientist/content/exploratory-data-analysis@l1027SBZxTHKzqWw98Ee-.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T00:42:03.326490 |
 | `roadmaps/ai-data-scientist/content/machine-learning@kBdt_t2SvVsY3blfubWIz.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T00:42:06.237118 |
 | `roadmaps/ai-data-scientist/content/mathematics@aStaDENn5PhEa-cFvNzXa.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T00:42:09.465447 |
+| `roadmaps/ai-engineer/content/anomaly-detection@AglWJ7gb9rTT2rMkstxtk.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T00:43:24.811214 |
+| `roadmaps/ai-engineer/content/anthropic-claude@hy6EyKiNxk1x84J63dhez.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T00:43:28.875763 |
+| `roadmaps/ai-engineer/content/claude-agent-sdk@xXLyuUNrKEc32XLQxMjgT.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T00:44:37.859453 |
+| `roadmaps/ai-engineer/content/claude-code@wr5ddjutC-fX_ixysTHaT.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T00:44:42.284114 |
+| `roadmaps/ai-engineer/content/claude-messages-api@nxwMVla0-PNG8nlocKK5v.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T00:44:46.283887 |
+| `roadmaps/ai-engineer/content/closed-vs-open-source-models@RBwGsq9DngUsl8PrrCbqx.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T00:45:02.745651 |
+| `roadmaps/ai-engineer/content/codex@XY2l96sry3WyLzzo3KUeU.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T00:45:06.015281 |
+| `roadmaps/ai-engineer/content/cohere@a7qsvoauFe5u953I699ps.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T00:45:10.058885 |
+| `roadmaps/ai-engineer/content/context-engineering@kCiHNaZ9CgnS9uksIQ_SY.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T00:46:18.090481 |
+| `roadmaps/ai-engineer/content/context-engineering@ySIOjFFU4GZbP0gqyWwLL.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T00:46:23.322745 |
+| `roadmaps/ai-engineer/content/context-evaluation@SzW-BtzGsSfGGa5DbSlr4.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T00:46:28.266586 |
+| `roadmaps/ai-engineer/content/cot@nyBgEHvUhwF-NANMwkRJW.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T00:47:43.734341 |
+| `roadmaps/ai-engineer/content/cursor@MWhoqhNnBaoeCdN_8i15k.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T00:47:46.976422 |
+| `roadmaps/ai-engineer/content/dall-e-api@LKFwwjtcawJ4Z12X102Cb.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T00:47:51.020024 |
+| `roadmaps/ai-engineer/content/faiss@JurLbOO1Z8r6C3yUqRNwf.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T00:49:08.126666 |
+| `roadmaps/ai-engineer/content/few-shot@DZPM9zjCbYYWBPLmQImxQ.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T00:49:12.807431 |
+| `roadmaps/ai-engineer/content/fine-tuning@zTvsCNS3ucsZmvy1tHyeI.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T00:49:18.752206 |
+| `roadmaps/ai-engineer/content/jina@apVYIV4EyejPft25oAvdI.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T00:51:34.696058 |
+| `roadmaps/ai-engineer/content/know-your-customers--usecases@t1SObMWkDZ1cKqNNlcd9L.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T00:51:38.688610 |
+| `roadmaps/ai-engineer/content/lancedb@rjaCNT3Li45kwu2gXckke.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T00:51:43.554195 |
+| `roadmaps/ai-engineer/content/memory-systems@4HkJJigCBBO4eOef8qvhz.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T00:53:25.881272 |
+| `roadmaps/ai-engineer/content/meta-llama@OkYO-aSPiuVYuLXHswBCn.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T00:53:29.391906 |
+| `roadmaps/ai-engineer/content/multi-agent-context-sharing@wQfU09yhZ5sd-UPHkq2n0.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T00:54:26.844328 |
+| `roadmaps/ai-engineer/content/multi-agents@kG1bkF2oY21CJOm9zhdpn.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T00:54:32.242559 |
+| `roadmaps/ai-engineer/content/multimodal-ai-usecases@sGR9qcro68KrzM8qWxcH8.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T00:54:35.180698 |
+| `roadmaps/ai-engineer/content/qdrant@DwOAL5mOBgBiw-EQpAzQl.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T00:56:38.747776 |
+| `roadmaps/ai-engineer/content/qwen@c0RPhpD00VIUgF4HJgN2T.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T00:56:42.466748 |
+| `roadmaps/ai-engineer/content/rag--dynamic-filters@LnQ2AatMWpExUHcZhDIPd.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T00:56:47.696973 |
+| `roadmaps/ai-engineer/content/rag-and-dynamic-filters@LnQ2AatMWpExUHcZhDIPd.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T00:57:12.476121 |
+| `roadmaps/ai-engineer/content/rag-usecases@GCn4LGNEtPI0NWYAZCRE-.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T00:57:19.020407 |
+| `roadmaps/ai-engineer/content/rag-vs-fine-tuning@qlBEXrbV88e_wAGRwO9hW.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T00:57:25.849114 |
+| `roadmaps/ai-engineer/content/rag@IX1BJWGwGmB4L063g0Frf.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T00:57:46.017938 |
+| `roadmaps/ai-engineer/content/ragas@CZ_-PSDzzSrSon5XdzLen.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T00:57:50.520626 |
+| `roadmaps/ai-engineer/content/ragflow@d0ontCII8KI8wfP-8Y45R.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T00:57:53.886813 |
+| `roadmaps/ai-engineer/content/rags@IX1BJWGwGmB4L063g0Frf.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T00:58:14.237625 |
+| `roadmaps/ai-engineer/content/react-prompting@voDKcKvXtyLzeZdx2g3Qn.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T00:58:18.723496 |
+| `roadmaps/ai-engineer/content/react@Waox7xR_yUeSnOtQFzU4c.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T00:58:22.316941 |
+| `roadmaps/ai-engineer/content/recommendation-systems@HQe9GKy3p0kTUPxojIfSF.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T00:58:41.171192 |
+| `roadmaps/ai-engineer/content/regression-testing@Bkzi3QyzKyHxcHE7sodRZ.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T00:58:45.873331 |
+| `roadmaps/ai-engineer/content/repetition-penalties@0_pa739kMPWHfuSQV-VO7.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T00:58:50.308427 |
+| `roadmaps/ai-engineer/content/role--behavior@N3TzWYxU0jgv1l99Ts58n.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T00:59:24.307909 |
+| `roadmaps/ai-engineer/content/roles-and-responsiblities@K9EiuFgPBFgeRxY4wxAmb.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T00:59:30.140308 |
+| `roadmaps/ai-engineer/content/sampling-parameters@LbB2PeytxRSuU07Bk0KlJ.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T00:59:32.702707 |
+| `roadmaps/ai-engineer/content/sentence-transformers@ZV_V6sqOnRodgaw4mzokC.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:00:08.794054 |
+| `roadmaps/ai-engineer/content/speech-to-text@jQX10XKd_QM5wdQweEkVJ.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:00:13.550215 |
+| `roadmaps/ai-engineer/content/tokens@2WbVpRLqwi3Oeqk1JPui4.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:01:11.819845 |
+| `roadmaps/ai-engineer/content/tools--function-calling@eOqCBgBTKM8CmY3nsWjre.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:01:17.509499 |
+| `roadmaps/ai-engineer/content/top-k@qzvp6YxWDiGakA2mtspfh.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:01:21.931608 |
+| `roadmaps/ai-engineer/content/using-sdks-directly@WZVW8FQu6LyspSKm1C_sl.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:02:10.787613 |
+| `roadmaps/ai-engineer/content/vector-database@zZA1FBhf1y4kCoUZ-hM4H.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:02:16.249223 |
+| `roadmaps/ai-engineer/content/vector-databases@tt9u3oFlsjEMfPyojuqpc.md` | Falha na tradução automática após tentativas no Ollama | 2026-08-15T01:02:21.220948 |

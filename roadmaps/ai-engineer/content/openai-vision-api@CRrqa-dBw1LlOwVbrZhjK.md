@@ -1,8 +1,8 @@
-# OpenAI Vision API
+# API de Visão do OpenAI
 
-The OpenAI Vision API enables models to analyze and understand images, allowing them to identify objects, recognize text, and interpret visual content. It integrates image processing with natural language capabilities, enabling tasks like visual question answering, image captioning, and extracting information from photos. This API can be used for applications in accessibility, content moderation, and automation, providing a seamless way to combine visual understanding with text-based interactions.
+A API de Visão do OpenAI permite que os modelos analisem e entendam imagens, permitindo que eles identifiquem objetos, reconheçam texto e interpretem conteúdo visual. Ela integra o processamento de imagem com capacidades de linguagem natural, habilitando tarefas como resposta a perguntas visuais, legenda de imagens e extração de informações de fotos. Esta API pode ser usada para aplicações em acessibilidade, moderação de conteúdo e automação, fornecendo uma maneira suave de combinar a compreensão visual com interações baseadas em texto.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Vision](https://developers.openai.com/api/docs/guides/images-vision)
-- [@video@OpenAI Vision API Crash Course](https://www.youtube.com/watch?v=ZjkS11DSeEk)
+- [@oficial@Visão](https://developers.openai.com/api/docs/guides/images-vision)
+- [@vídeo@Crash Course da API de Visão do OpenAI](https://www.youtube.com/watch?v=ZjkS11DSeEk)

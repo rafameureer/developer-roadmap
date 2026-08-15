@@ -1,10 +1,10 @@
-# Prompt Engineering
+# Engenharia de Prompt
 
-Prompt engineering is the art and science of crafting effective prompts, which are the instructions or inputs given to a large language model (LLM). The goal is to design prompts that elicit the desired response from the LLM, guiding it to generate accurate, relevant, and creative outputs. This involves understanding the LLM's capabilities and limitations, and experimenting with different prompt structures, keywords, and contextual cues to achieve optimal results.
+A engenharia de prompt é a arte e ciência de criar prompts eficazes, que são as instruções ou entradas fornecidas a um modelo de linguagem grande (LLM). O objetivo é projetar prompts que elicitem a resposta desejada do LLM, guiando-o para gerar saídas precisas, relevantes e criativas. Isso envolve entender as capacidades e limitações do LLM, e experimentar diferentes estruturas de prompt, palavras-chave e sinais contextuais para obter os melhores resultados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@roadmap@Visit Dedicated Prompt Engineering Roadmap](https://roadmap.sh/prompt-engineering)
-- [@article@What is Prompt Engineering? - AI Prompt Engineering Explained - AWS](https://aws.amazon.com/what-is/prompt-engineering/)
-- [@article@Advanced Prompt Engineering for Data Science Projects](https://towardsdatascience.com/advanced-prompt-engineering-for-data-science-projects/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)
-- [@video@What is Prompt Engineering?](https://www.youtube.com/watch?v=nf1e-55KKbg)
+- [@roadmap@Visite o Caminho Dedidado de Engenharia de Prompt](https://roadmap.sh/prompt-engineering)
+- [@artigo@O que é Engenharia de Prompt? - Engenharia de Prompt com IA Explained - AWS](https://aws.amazon.com/what-is/prompt-engineering/)
+- [@artigo@Engenharia de Prompt Avançada para Projetos de Ciência de Dados](https://towardsdatascience.com/advanced-prompt-engineering-for-data-science-projects/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)
+- [@vídeo@O que é Engenharia de Prompt?](https://www.youtube.com/watch?v=nf1e-55KKbg)

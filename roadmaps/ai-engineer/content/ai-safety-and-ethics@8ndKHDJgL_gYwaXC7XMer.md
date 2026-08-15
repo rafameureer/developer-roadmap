@@ -1,9 +1,9 @@
-# AI Safety and Ethics
+# Segurança e Ética da IA
 
-AI safety and ethics involve establishing guidelines and best practices to ensure that artificial intelligence systems are developed, deployed, and used in a manner that prioritizes human well-being, fairness, and transparency. This includes addressing risks such as bias, privacy violations, unintended consequences, and ensuring that AI operates reliably and predictably, even in complex environments. Ethical considerations focus on promoting accountability, avoiding discrimination, and aligning AI systems with human values and societal norms. Frameworks like explainability, human-in-the-loop design, and robust monitoring are often used to build systems that not only achieve technical objectives but also uphold ethical standards and mitigate potential harms.
+A segurança e ética da IA envolvem estabelecer diretrizes e práticas de melhoramento para garantir que os sistemas de inteligência artificial sejam desenvolvidos, implantados e usados de uma maneira que priorize o bem-estar humano, a justiça e a transparência. Isso inclui lidar com riscos como viés, violações de privacidade, consequências indesejadas e garantir que a IA funcione de forma confiável e previsível, mesmo em ambientes complexos. As considerações éticas focam em promover a responsabilidade, evitar o preconceito e alinhar os sistemas de IA com valores humanos e normas sociais. Estruturas como explicabilidade, design com loop humano e monitoramento robusto são frequentemente usadas para construir sistemas que não apenas atingem objetivos técnicos, mas também mantêm padrões éticos e mitigam possíveis danos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Understanding Artificial Intelligence Ethics and Safety](https://www.turing.ac.uk/news/publications/understanding-artificial-intelligence-ethics-and-safety)
-- [@article@The Hidden Security Risks of LLMs](https://towardsdatascience.com/the-hidden-security-risks-of-llms/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)
-- [@video@What is AI Ethics?](https://www.youtube.com/watch?v=aGwYtUzMQUk)
+- [@artigo@Entendendo a Ética e Segurança da Inteligência Artificial](https://www.turing.ac.uk/news/publications/understanding-artificial-intelligence-ethics-and-safety)
+- [@artigo@Os Riscos Ocultos de LLMs](https://towardsdatascience.com/the-hidden-security-risks-of-llms/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)
+- [@vídeo@O que é Ética da IA?](https://www.youtube.com/watch?v=aGwYtUzMQUk)

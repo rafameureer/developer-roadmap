@@ -1,9 +1,9 @@
 # OpenRouter
 
-OpenRouter acts as a unified API, providing access to various large language models (LLMs) from different providers like OpenAI, Cohere, and Anthropic through a single platform. This allows developers to easily switch between models, compare their performance, and optimize their applications without needing to manage multiple API keys or integration processes. It essentially streamlines the process of experimenting with and deploying different AI models.
+O OpenRouter atua como uma API unificada, fornecendo acesso a vários modelos de linguagem grande (LLMs) de diferentes provedores, como o OpenAI, Cohere e Anthropic, através de uma única plataforma. Isso permite que os desenvolvedores alternem facilmente entre os modelos, comparem seu desempenho e otimizem suas aplicações sem precisar gerenciar várias chaves de API ou processos de integração. Ele essencialmente simplifica o processo de experimentação e implantação de diferentes modelos de IA.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@OpenRouter](https://openrouter.ai/)
-- [@article@What is OpenRouter? A Guide with Practical Examples](https://www.codecademy.com/article/what-is-openrouter)
-- [@video@What is Open Router ?](https://www.youtube.com/watch?v=pfT6l0yMsB0)
+- [@article@O que é OpenRouter? Um Guia com Exemplos Práticos](https://www.codecademy.com/article/what-is-openrouter)
+- [@video@O que é Open Router ?](https://www.youtube.com/watch?v=pfT6l0yMsB0)

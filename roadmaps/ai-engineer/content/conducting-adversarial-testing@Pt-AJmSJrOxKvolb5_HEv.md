@@ -1,8 +1,8 @@
-# Conducting adversarial testing
+# Realizando Testes Adversários
 
-Adversarial testing involves intentionally exposing machine learning models to deceptive, perturbed, or carefully crafted inputs to evaluate their robustness and identify vulnerabilities. The goal is to simulate potential attacks or edge cases where the model might fail, such as subtle manipulations in images, text, or data that cause the model to misclassify or produce incorrect outputs. This type of testing helps to improve model resilience, particularly in sensitive applications like cybersecurity, autonomous systems, and finance.
+Testes adversários envolvem intencionalmente expor modelos de aprendizado de máquina a entradas enganosas, perturbadas ou cuidadosamente criadas para avaliar sua robustez e identificar vulnerabilidades. O objetivo é simular ataques potenciais ou casos limite onde o modelo pode falhar, como manipulações sutis em imagens, texto ou dados que causam o modelo a classificar incorretamente ou produzir saídas incorretas. Esse tipo de teste ajuda a melhorar a resiliência do modelo, especialmente em aplicações sensíveis como segurança cibernética, sistemas autônomos e finanças.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Adversarial Testing for Generative AI](https://developers.google.com/machine-learning/resources/adv-testing)
-- [@article@Adversarial Testing: Definition, Examples and Resources](https://www.leapwork.com/blog/adversarial-testing)
+- [@article@Testes Adversários para IA Gerativa](https://developers.google.com/machine-learning/resources/adv-testing)
+- [@article@Definição, Exemplos e Recursos de Testes Adversários](https://www.leapwork.com/blog/adversarial-testing)

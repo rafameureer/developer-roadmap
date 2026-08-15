@@ -1,9 +1,9 @@
-# Function Calling
+# Chamada de Função
 
-Function calling allows Large Language Models (LLMs) to interact with external tools and APIs. Instead of just generating text, the LLM can be instructed to recognize when a specific function should be called based on the user's input, and then output the arguments needed to execute that function. This enables the LLM to perform actions beyond its training data, such as retrieving real-time information or automating tasks.
+A chamada de função permite que Modelos de Linguagem Grande (LLMs) interajam com ferramentas e APIs externas. Em vez de apenas gerar texto, o LLM pode ser instruído a reconhecer quando uma função específica deve ser chamada com base na entrada do usuário, e então produzir os argumentos necessários para executar aquela função. Isso permite que o LLM execute ações além dos dados de treinamento, como recuperar informações em tempo real ou automatizar tarefas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@A Comprehensive Guide to Function Calling in LLMs](https://thenewstack.io/a-comprehensive-guide-to-function-calling-in-llms/)
-- [@article@Function Calling with LLMs | Prompt Engineering Guide](https://www.promptingguide.ai/applications/function_calling)
-- [@video@LLM Function Calling - AI Tools Deep Dive](https://www.youtube.com/watch?v=gMeTK6zzaO4)
+- [@artigo@Guia Completo sobre Chamada de Função em LLMs](https://thenewstack.io/a-comprehensive-guide-to-function-calling-in-llms/)
+- [@artigo@Chamada de Função com LLMs | Guia de Engenharia de Prompt](https://www.promptingguide.ai/applications/function_calling)
+- [@vídeo@LLM Chamada de Função - Profundidade em Ferramentas AI](https://www.youtube.com/watch?v=gMeTK6zzaO4)

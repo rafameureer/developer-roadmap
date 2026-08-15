@@ -1,8 +1,8 @@
 # Atlan
  
-Atlan is a data catalog and governance platform that helps organizations discover, document, and manage their data assets across warehouses, pipelines, and BI tools. It provides a searchable inventory of datasets along with lineage, ownership, and quality information, so teams know where data comes from and whether it can be trusted. For AI systems, this kind of catalog can act as a source of vetted context, helping ensure that agents pull from data that is current and properly governed rather than from unreliable or duplicate sources. Atlan is offered as a managed, cloud based product rather than a self hosted tool.
+Atlan é um catálogo e plataforma de governança de dados que ajuda organizações a descobrir, documentar e gerenciar seus ativos de dados em diferentes armazéns, pipelines e ferramentas BI. Ele fornece uma lista de inventário pesquisável de conjuntos de dados, juntamente com informações sobre linhagem, propriedade e qualidade, para que os times saibam onde os dados vêm e se podem confiar neles. Para sistemas de IA, um catálogo desse tipo pode atuar como uma fonte de contexto verificado, ajudando a garantir que os agentes busquem dados atualizados e adequadamente governados em vez de dados não confiáveis ou duplicados. Atlan é oferecido como um produto gerenciado na nuvem em vez de uma ferramenta auto-hospedada.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Altan](https://atlan.com/)
-- [@video@What Does Atlan Do? The Context Layer for Enterprise AI](https://www.youtube.com/watch?v=GhtLIRsbUV8)
+- [@official@Atlan](https://atlan.com/)
+- [@video@O Que o Atlan Faz? A Camada de Contexto para IA Corporativa](https://www.youtube.com/watch?v=GhtLIRsbUV8)

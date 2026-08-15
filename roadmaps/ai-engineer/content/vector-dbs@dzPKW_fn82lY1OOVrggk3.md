@@ -1,8 +1,8 @@
-# Vector Databases
+# Bancos de Dados Vetoriais
 
-Vector databases are specialized systems designed to store, index, and retrieve high-dimensional vectors, often used as embeddings that represent data like text, images, or audio. Unlike traditional databases that handle structured data, vector databases excel at managing unstructured data by enabling fast similarity searches, where vectors are compared to find those that are most similar to a query. This makes them essential for tasks like semantic search, recommendation systems, and content discovery, where understanding relationships between items is crucial. Vector databases use indexing techniques such as approximate nearest neighbor (ANN) search to efficiently handle large datasets, ensuring quick and accurate retrieval even at scale.
+Bancos de dados vetoriais são sistemas especializados projetados para armazenar, indexar e recuperar vetores de alta dimensão, frequentemente usados como embeddings que representam dados como texto, imagens ou áudio. Ao contrário dos bancos de dados tradicionais que lidam com dados estruturados, os bancos de dados vetoriais excel em gerenciar dados não estruturados ao permitir buscas de similaridade rápida, onde vetores são comparados para encontrar aqueles que são mais semelhantes a uma consulta. Isso os torna essenciais para tarefas como busca semântica, sistemas de recomendação e descoberta de conteúdo, onde entender as relações entre itens é crucial. Os bancos de dados vetoriais usam técnicas de indexação como busca aproximada de vizinhos mais próximos (ANN) para lidar eficientemente com grandes conjuntos de dados, garantindo a recuperação rápida e precisa mesmo em escala.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Vector Databases](https://developers.cloudflare.com/vectorize/reference/what-is-a-vector-database/)
-- [@article@What are Vector Databases?](https://www.mongodb.com/resources/basics/databases/vector-databases)
+- [@artigo@Bancos de Dados Vetoriais](https://developers.cloudflare.com/vectorize/reference/what-is-a-vector-database/)
+- [@artigo@O que são Bancos de Dados Vetoriais?](https://www.mongodb.com/resources/basics/databases/vector-databases)

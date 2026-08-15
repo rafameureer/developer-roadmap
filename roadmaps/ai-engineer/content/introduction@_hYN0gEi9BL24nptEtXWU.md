@@ -1,9 +1,9 @@
-# Introduction
+# Introdução
 
-AI Engineering is the process of designing and implementing AI systems using pre-trained models and existing AI tools to solve practical problems. AI Engineers focus on applying AI in real-world scenarios, improving user experiences, and automating tasks, without developing new models from scratch. They work to ensure AI systems are efficient, scalable, and can be seamlessly integrated into business applications, distinguishing their role from AI Researchers and ML Engineers, who concentrate more on creating new models or advancing AI theory.
+A Engenharia de IA é o processo de design e implementação de sistemas de IA usando modelos pré-treinados e ferramentas de IA existentes para resolver problemas práticos. Os engenheiros de IA se concentram em aplicar a IA em cenários do mundo real, melhorar as experiências dos usuários e automatizar tarefas, sem desenvolver novos modelos do zero. Eles trabalham para garantir que os sistemas de IA sejam eficientes, escaláveis e possam ser integrados facilmente em aplicações empresariais, distinguindo-se de pesquisadores em IA e engenheiros em aprendizado de máquina (ML), que concentram mais em criar novos modelos ou avançar a teoria da IA.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@AI Engineering](https://en.wikipedia.org/wiki/Artificial_intelligence_engineering)
-- [@video@AI vs Machine Learning](https://www.youtube.com/watch?v=4RixMPF4xis)
-- [@video@AI vs Machine Learning vs Deep Learning vs GenAI](https://youtu.be/qYNweeDHiyU?si=eRJXjtk8Q-RKQ8Ms)
+- [@artigo@Engenharia de IA](https://pt.wikipedia.org/wiki/Engenharia_de_inteligência_artificial)
+- [@vídeo@IA vs Aprendizado de Máquina](https://www.youtube.com/watch?v=4RixMPF4xis)
+- [@vídeo@IA vs Aprendizado de Máquina vs Aprendizagem Profunda vs GenAI](https://youtu.be/qYNweeDHiyU?si=eRJXjtk8Q-RKQ8Ms)

@@ -1,8 +1,8 @@
-# Inference SDK
+# SDK de Inferência
 
-The Hugging Face Inference SDK is a powerful tool that allows developers to easily integrate and run inference on large language models hosted on the Hugging Face Hub. By using the `InferenceClient`, users can make API calls to various models for tasks such as text generation, image creation, and more. The SDK supports both synchronous and asynchronous operations, thus compatible with existing workflows.
+O SDK de Inferência da Hugging Face é uma ferramenta poderosa que permite aos desenvolvedores integrar e executar inferências em modelos de linguagem de grande escala hospedados na Plataforma Hub da Hugging Face. Usando a `InferenceClient`, os usuários podem fazer chamadas à API para diversos modelos para tarefas como geração de texto, criação de imagens e muito mais. O SDK suporta tanto operações síncronas quanto assíncronas, sendo compatível com workflows existentes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Inference](https://huggingface.co/docs/huggingface_hub/en/package_reference/inference_client)
-- [@article@Endpoint Setup](https://www.npmjs.com/package/@huggingface/inference)
+- [@oficial@Inferência](https://huggingface.co/docs/huggingface_hub/en/package_reference/inference_client)
+- [@artigo@Configuração do Endpoint](https://www.npmjs.com/package/@huggingface/inference)

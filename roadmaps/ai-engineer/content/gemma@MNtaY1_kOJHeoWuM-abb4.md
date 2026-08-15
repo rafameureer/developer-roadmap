@@ -1,7 +1,7 @@
 # Gemma
 
-Gemma is a family of open-source large language models (LLMs) developed by Google. These models are designed to be lightweight and high-performing, making them suitable for a variety of tasks, including text generation, question answering, and code completion. Gemma models are available in different sizes, allowing developers to select the best model for their specific resource constraints and performance requirements.
+Gemma é uma família de modelos de linguagem de grande escala (LLMs) de código aberto desenvolvidos pela Google. Esses modelos são projetados para serem leves e de alto desempenho, tornando-os adequados para uma variedade de tarefas, incluindo geração de texto, responder perguntas e conclusão de código. Os modelos Gemma estão disponíveis em diferentes tamanhos, permitindo que os desenvolvedores escolham o melhor modelo para suas restrições específicas de recursos e requisitos de desempenho.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Gemma](https://deepmind.google/models/gemma/)

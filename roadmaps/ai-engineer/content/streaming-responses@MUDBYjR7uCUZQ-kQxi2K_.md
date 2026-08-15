@@ -1,9 +1,9 @@
-# Streaming Responses
+# Respostas em Fluxo
 
-Streamed responses is one of the techniques an AI agent can use to send its answer to the user. With a streamed response, the agent starts sending words as soon as it generates them. The user sees the text grow on the screen in real time. This feels fast and lets the user stop or change the request early. It is useful for long answers and chat-like apps. By contrast, an unstreamed response waits until the whole answer is ready, then sends it all at once. This makes the code on the client side simpler and is easier to cache or log, but the user must wait longer, especially for big outputs.
+As respostas em fluxo são uma técnica que um agente de IA pode usar para enviar sua resposta ao usuário. Com uma resposta em fluxo, o agente começa a enviar palavras assim que as gera. O usuário vê o texto se expandindo na tela em tempo real. Isso parece rápido e permite que o usuário pare ou altere a solicitação cedo. É útil para respostas longas e aplicativos de chat-like. Por contraste, uma resposta não em fluxo espera até que toda a resposta esteja pronta, depois envia tudo de uma vez. Isso torna o código no lado do cliente mais simples e é mais fácil de cachear ou registrar, mas o usuário deve esperar mais, especialmente para saídas grandes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Streaming Responses in AI: How AI Outputs Are Generated in Real Time](https://dev.to/pranshu_kabra_fe98a73547a/streaming-responses-in-ai-how-ai-outputs-are-generated-in-real-time-18kb)
-- [@article@Streaming vs Non-Streaming LLM Responses](https://medium.com/@vasanthancomrads/streaming-vs-non-streaming-llm-responses-db297ba5467e)
-- [@article@AI for Web Devs: Faster Responses with HTTP Streaming](https://austingil.com/ai-for-web-devs-streaming/)
+- [@artigo@Respostas em Fluxo em IA: Como as Saídas da IA São Geradas em Tempo Real](https://dev.to/pranshu_kabra_fe98a73547a/streaming-responses-in-ai-how-ai-outputs-are-generated-in-real-time-18kb)
+- [@artigo@Respostas Em Fluxo vs Não Em Fluxo de Respostas LLM](https://medium.com/@vasanthancomrads/streaming-vs-non-streaming-llm-responses-db297ba5467e)
+- [@artigo@IA para Desenvolvedores Web: Respostas mais Rápidas com Streaming HTTP](https://austingil.com/ai-for-web-devs-streaming/)

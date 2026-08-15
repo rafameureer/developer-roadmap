@@ -1,8 +1,8 @@
-# Manual Implementation of AI Agents
+# Implementação Manual de Agentes AI
 
-Manually implementing AI agents involves crafting their logic and behavior from the ground up, without relying heavily on pre-built frameworks or automated tools. This approach requires writing code to define how the agent perceives its environment, makes decisions, and takes actions, often involving explicit programming of algorithms for tasks like perception, planning, and learning. It offers maximum control and customization but demands a deep understanding of AI principles and software engineering.
+A implementação manual de agentes AI envolve criar sua lógica e comportamento do zero, sem depender fortemente em frameworks pré-construídos ou ferramentas automatizadas. Esse abordagem requer escrever código para definir como o agente percebe seu ambiente, toma decisões e realiza ações, geralmente envolvendo programação explícita de algoritmos para tarefas como percepção, planejamento e aprendizado. Oferece o máximo de controle e personalização, mas exige uma compreensão profunda dos princípios da IA e engenharia de software.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@A practical guide to building agents - OpenAI](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf)
-- [@official@Create custom subagents - Claude](https://code.claude.com/docs/en/sub-agents)
+- [@official@Guia Prático para Construir Agentes - OpenAI](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf)
+- [@official@Criar Subagentes Personalizados - Claude](https://code.claude.com/docs/en/sub-agents)

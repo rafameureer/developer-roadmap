@@ -1,9 +1,9 @@
 # Ollama
 
-Ollama is a platform that offers large language models (LLMs) designed to run locally on personal devices, enabling AI functionality without relying on cloud services. It focuses on privacy, performance, and ease of use by allowing users to deploy models directly on laptops, desktops, or edge devices, providing fast, offline AI capabilities. With tools like the Ollama SDK, developers can integrate these models into their applications for tasks such as text generation, summarization, and more, benefiting from reduced latency, greater data control, and seamless local processing.
+O Ollama é uma plataforma que oferece modelos de linguagem de grande escala (LLMs) projetados para funcionar localmente em dispositivos pessoais, permitindo funcionalidades AI sem depender de serviços na nuvem. Ele se concentra na privacidade, desempenho e facilidade de uso ao permitir que usuários implantem modelos diretamente em laptops, desktops ou dispositivos de borda, fornecendo capacidades AI offline rápidas. Com ferramentas como o SDK do Ollama, os desenvolvedores podem integrar esses modelos em suas aplicações para tarefas como geração de texto, resumo e mais, beneficiando-se da redução de latência, maior controle de dados e processamento local suave.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Ollama](https://ollama.com/)
-- [@article@Ollama: Easily run LLMs locally](https://klu.ai/glossary/ollama)
-- [@video@What is Ollama? Running Local LLMs Made Simple](https://www.youtube.com/watch?v=5RIOQuHOihY)
+- [@oficial@Ollama](https://ollama.com/)
+- [@artigo@Ollama: Execute LLMs Localmente com Facilidade](https://klu.ai/glossary/ollama)
+- [@vídeo@O que é Ollama? Executando LLMs Locais Simplificado](https://www.youtube.com/watch?v=5RIOQuHOihY)

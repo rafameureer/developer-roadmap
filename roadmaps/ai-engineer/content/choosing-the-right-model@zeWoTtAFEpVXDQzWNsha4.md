@@ -1,8 +1,8 @@
-# Choosing the Right Model
+# Escolhendo o Modelo Apropriado
 
-Selecting the appropriate large language model (LLM) involves considering factors like task complexity, budget, and desired performance. Simpler tasks may only require smaller, more efficient models, while more complex problems benefit from larger models with greater capacity. Cost is also a crucial factor, as larger models generally require more computational resources. You'll also need to assess the model's accuracy, speed, and ability to generalize to new, unseen data. Consider fine-tuning existing models on your specific dataset if you need specialized performance.
+Selecionar o modelo de linguagem grande (LLM) apropriado envolve considerar fatores como complexidade da tarefa, orçamento e desempenho desejado. Tarefas mais simples podem exigir modelos menores e mais eficientes, enquanto problemas mais complexos beneficiam de modelos maiores com maior capacidade. O custo também é um fator crucial, pois modelos maiores geralmente requerem mais recursos computacionais. Você também precisará avaliar a precisão do modelo, sua velocidade e sua capacidade de generalizar para novos dados não vistos. Considere o fine-tuning de modelos existentes em seu conjunto de dados específico se você precisar de desempenho especializado.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Choosing the right model](https://bentoml.com/llm/getting-started/choosing-the-right-model)
-- [@article@Beyond vibes: How to properly select the right LLM for the right task](https://aws.amazon.com/blogs/machine-learning/beyond-vibes-how-to-properly-select-the-right-llm-for-the-right-task/)
+- [@artigo@Escolhendo o modelo apropriado](https://bentoml.com/llm/getting-started/choosing-the-right-model)
+- [@artigo@Beyond vibes: Como selecionar adequadamente o LLM certo para a tarefa certa](https://aws.amazon.com/blogs/machine-learning/beyond-vibes-how-to-properly-select-the-right-llm-for-the-right-task/)

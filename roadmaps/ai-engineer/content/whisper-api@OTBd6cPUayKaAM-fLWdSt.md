@@ -1,8 +1,8 @@
-# Whisper API
+# API Whisper
 
-The Whisper API by OpenAI enables developers to integrate speech-to-text capabilities into their applications. It uses OpenAI's Whisper model, a powerful speech recognition system, to convert spoken language into accurate, readable text. The API supports multiple languages and can handle various accents, making it ideal for tasks like transcription, voice commands, and automated captions. With the ability to process audio in real time or from pre-recorded files, the Whisper API simplifies adding robust speech recognition features to applications, enhancing accessibility and enabling new interactive experiences.
+A API Whisper da OpenAI permite aos desenvolvedores integrar capacidades de reconhecimento de fala em texto em suas aplicações. Ela usa o modelo Whisper da OpenAI, um sistema poderoso de reconhecimento de fala, para converter a linguagem falada em texto preciso e legível. A API suporta múltiplos idiomas e pode lidar com diversos acentos, tornando-a ideal para tarefas como transcrição, comandos de voz e legendas automatizadas. Com a capacidade de processar áudio em tempo real ou de arquivos gravados antecipadamente, a API Whisper simplifica a adição de recursos robustos de reconhecimento de fala às aplicações, melhorando a acessibilidade e habilitando novas experiências interativas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@OpenAI Whisper](https://openai.com/index/whisper/)
-- [@opensource@Whisper on GitHub](https://github.com/openai/whisper)
+- [@oficial@OpenAI Whisper](https://openai.com/index/whisper/)
+- [@opensource@Whisper no GitHub](https://github.com/openai/whisper)

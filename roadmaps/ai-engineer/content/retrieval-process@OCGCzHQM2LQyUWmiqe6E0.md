@@ -1,8 +1,8 @@
-# Retrieval Process
+# Processo de Recuperação
 
-The retrieval process in Retrieval-Augmented Generation (RAG) involves finding relevant information from a large dataset or knowledge base to support the generation of accurate, context-aware responses. When a query is received, the system first converts it into a vector (embedding) and uses this vector to search a database of pre-indexed embeddings, identifying the most similar or relevant data points. Techniques like approximate nearest neighbor (ANN) search are often used to speed up this process.
+O processo de recuperação no Aprendizado por Recuperação-Aumentada da Geração (RAG) envolve encontrar informações relevantes em um grande conjunto de dados ou base de conhecimento para suportar a geração de respostas precisas e contextualmente conscientes. Quando uma consulta é recebida, o sistema primeiro a converte em um vetor (embedding) e usa esse vetor para pesquisar um banco de dados de embeddings pré-indexados, identificando os pontos de dados mais semelhantes ou relevantes. Técnicas como busca aproximada de vizinhos próximos (ANN) são frequentemente usadas para acelerar esse processo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Retrieval-Augmented Generation (RAG)?](https://cloud.google.com/use-cases/retrieval-augmented-generation)
-- [@article@What Is Retrieval-Augmented Generation, aka RAG?](https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/)
+- [@article@O que é o Aprendizado por Recuperação-Aumentada da Geração (RAG)?](https://cloud.google.com/use-cases/retrieval-augmented-generation)
+- [@article@O que é o Aprendizado por Recuperação-Aumentada da Geração, ou RAG?](https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/)

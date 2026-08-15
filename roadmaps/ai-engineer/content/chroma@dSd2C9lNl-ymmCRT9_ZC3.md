@@ -1,9 +1,9 @@
 # Chroma
 
-Chroma is an open-source vector database and AI-native embedding database designed to handle and store large-scale embeddings and semantic vectors. It is used in applications that require fast, efficient similarity searches, such as natural language processing (NLP), machine learning (ML), and AI systems dealing with text, images, and other high-dimensional data.
+Chroma é um banco de dados vetorial open-source e uma base de dados de incorporação nativa do AI projetado para lidar e armazenar grandes escalas de incorporações e vetores semânticos. Ele é usado em aplicações que requerem buscas de similaridade rápidas e eficientes, como processamento de linguagem natural (NLP), aprendizado de máquina (ML) e sistemas de IA lidando com texto, imagens e outros dados de alta dimensão.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Chroma](https://www.trychroma.com/)
-- [@article@Chroma Tutorials](https://lablab.ai/tech/chroma)
-- [@video@Chroma - Chroma - Vector Database for LLM Applications](https://youtu.be/Qs_y0lTJAp0?si=Z2-eSmhf6PKrEKCW)
+- [@oficial@Chroma](https://www.trychroma.com/)
+- [@artigo@Tutoriais do Chroma](https://lablab.ai/tech/chroma)
+- [@vídeo@Chroma - Chroma - Banco de Dados Vetorial para Aplicações LLM](https://youtu.be/Qs_y0lTJAp0?si=Z2-eSmhf6PKrEKCW)

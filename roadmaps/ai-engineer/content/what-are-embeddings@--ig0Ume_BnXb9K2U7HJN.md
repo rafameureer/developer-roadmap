@@ -1,9 +1,9 @@
-# What are Embeddings
+# O que são Embeddings
 
-Embeddings are dense, numerical vector representations of data, such as words, sentences, images, or audio, that capture their semantic meaning and relationships. By converting data into fixed-length vectors, embeddings allow machine learning models to process and understand the data more effectively. For example, word embeddings represent similar words with similar vectors, enabling tasks like semantic search, recommendation systems, and clustering. Embeddings make it easier to compare, search, and analyze complex, unstructured data by mapping similar items close together in a high-dimensional space.
+Embeddings são representações vetoriais numéricas densas de dados, como palavras, frases, imagens ou áudio, que capturam seu significado semântico e relações. Convertendo dados em vetores de comprimento fixo, os embeddings permitem que modelos de aprendizado de máquina processem e entendam os dados de maneira mais eficaz. Por exemplo, embeddings de palavras representam palavras similares com vetores similares, permitindo tarefas como busca semântica, sistemas de recomendação e agrupamento. Os embeddings tornam mais fácil comparar, pesquisar e analisar dados complexos e não estruturados mapeando itens semelhantes juntos em um espaço de dimensão alta.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Embedding? -IBM](https://www.ibm.com/topics/embedding)
-- [@article@What are Embeddings in Machine Learning?](https://www.cloudflare.com/en-gb/learning/ai/what-are-embeddings/)
-- [@video@What are Word Embeddings](https://www.youtube.com/watch?v=wgfSDrqYMJ4)
+- [@article@O que é Embedding? -IBM](https://www.ibm.com/topics/embedding)
+- [@article@O que são Embeddings em Aprendizado de Máquina?](https://www.cloudflare.com/en-gb/learning/ai/what-are-embeddings/)
+- [@video@O que são Embeddings de Palavras](https://www.youtube.com/watch?v=wgfSDrqYMJ4)

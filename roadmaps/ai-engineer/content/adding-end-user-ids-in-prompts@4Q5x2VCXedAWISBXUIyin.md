@@ -1,7 +1,7 @@
-# Adding end-user IDs in prompts
+# Adicionando IDs de usuários finais em prompts
 
-Sending end-user IDs in your requests can be a useful tool to help OpenAI monitor and detect abuse. This allows OpenAI to provide your team with more actionable feedback in the event that we detect any policy violations in your application.
+Enviar IDs de usuários finais em suas solicitações pode ser uma ferramenta útil para ajudar a OpenAI a monitorar e detectar abuso. Isso permite que a OpenAI forneça ao seu time mais feedback açãoável no caso de que detectemos qualquer violação de política em sua aplicação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Sending End-user IDs - OpenAI](https://platform.openai.com/docs/guides/safety-best-practices/end-user-ids)
+- [@oficial@Enviando IDs de usuários finais - OpenAI](https://platform.openai.com/docs/guides/safety-best-practices/end-user-ids)

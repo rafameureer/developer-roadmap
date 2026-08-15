@@ -1,8 +1,8 @@
-# Hugging Face Models
+# Modelos da Hugging Face
 
-Hugging Face models are a collection of pre-trained machine learning models available through the Hugging Face platform, covering a wide range of tasks like natural language processing, computer vision, and audio processing. The platform includes models for tasks such as text classification, translation, summarization, question answering, and more, with popular models like BERT, GPT, T5, and CLIP. Hugging Face provides easy-to-use tools and APIs that allow developers to access, fine-tune, and deploy these models, fostering a collaborative community where users can share, modify, and contribute models to improve AI research and application development.
+Os modelos da Hugging Face são uma coleção de modelos de aprendizado de máquina pré-treinados disponíveis através da plataforma da Hugging Face, cobrindo uma ampla gama de tarefas como processamento de linguagem natural, visão computacional e processamento de áudio. A plataforma inclui modelos para tarefas como classificação de texto, tradução, resumo, resposta a perguntas e muito mais, com modelos populares como BERT, GPT, T5 e CLIP. A Hugging Face oferece ferramentas e APIs fáceis de usar que permitem aos desenvolvedores acessar, ajustar e implantar esses modelos, promovendo uma comunidade colaborativa onde usuários podem compartilhar, modificar e contribuir com modelos para melhorar a pesquisa e o desenvolvimento de aplicações de IA.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Hugging Face Models](https://huggingface.co/models)
-- [@video@How to Use Pretrained Models from Hugging Face in a Few Lines of Code](https://www.youtube.com/watch?v=ntz160EnWIc)
+- [@oficial@Modelos da Hugging Face](https://huggingface.co/models)
+- [@vídeo@Como usar modelos pré-treinados da Hugging Face em poucas linhas de código](https://www.youtube.com/watch?v=ntz160EnWIc)

@@ -1,7 +1,7 @@
 # MongoDB Atlas
 
-MongoDB Atlas, traditionally known for its document database capabilities, now includes vector search functionality, making it a strong option as a vector database. This feature allows developers to store and query high-dimensional vector data alongside regular document data. With Atlas’s vector search, users can perform similarity searches on embeddings of text, images, or other complex data, making it ideal for AI and machine learning applications like recommendation systems, image similarity search, and natural language processing tasks. The seamless integration of vector search within the MongoDB ecosystem allows developers to leverage familiar tools and interfaces while benefiting from advanced vector-based operations for sophisticated data analysis and retrieval.
+MongoDB Atlas, tradicionalmente conhecido por suas capacidades de banco de dados de documentos, agora inclui a funcionalidade de busca vetorial, tornando-se uma opção forte como um banco de dados vetorial. Esta funcionalidade permite que os desenvolvedores armazenem e consultem dados vetoriais de alta dimensão junto com dados de documento regulares. Com a busca vetorial do Atlas, os usuários podem realizar buscas semelhantes em embeddings de texto, imagens ou outros dados complexos, tornando-o ideal para aplicações de IA e aprendizado de máquina como sistemas de recomendação, busca por similaridade de imagem e tarefas de processamento de linguagem natural. A integração suave da busca vetorial na ecossistema do MongoDB permite aos desenvolvedores aproveitar ferramentas e interfaces familiares enquanto beneficia-se de operações avançadas baseadas em vetores para análise e recuperação de dados sofisticados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Vector Search in MongoDB Atlas](https://www.mongodb.com/products/platform/atlas-vector-search)
+- [@oficial@Busca Vetorial em MongoDB Atlas](https://www.mongodb.com/products/platform/atlas-vector-search)

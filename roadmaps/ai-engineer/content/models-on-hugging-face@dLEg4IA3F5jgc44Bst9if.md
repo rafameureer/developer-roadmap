@@ -1,8 +1,8 @@
-# Models on Hugging Face
+# Modelos em Hugging Face
 
-Embedding models are used to convert raw data like text, code, or images into high-dimensional vectors that capture semantic meaning. These vector representations allow AI systems to compare, cluster, and retrieve information based on similarity rather than exact matches. Hugging Face provides a wide range of pretrained embedding models, which are commonly used for tasks like semantic search, recommendation systems, duplicate detection, and retrieval-augmented generation (RAG). These models can be accessed through libraries like `transformers` or `sentence-transformers`, making it easy to generate high-quality embeddings for both general-purpose and task-specific applications.
+Os modelos de embedding são usados para converter dados brutos como texto, código ou imagens em vetores de alta dimensão que capturam o significado semântico. Essas representações vectoriais permitem que os sistemas de IA comparem, agrupem e recuperem informações com base na similaridade em vez de correspondências exatas. Hugging Face oferece uma ampla gama de modelos pré-treinados de embedding, que são comumente usados para tarefas como busca semântica, sistemas de recomendação, detecção de duplicata e geração aumentada por recuperação (RAG). Esses modelos podem ser acessados através de bibliotecas como `transformers` ou `sentence-transformers`, tornando fácil gerar embeddings de alta qualidade para aplicações de propósito geral e específicas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Hugging Face Embedding Models](https://huggingface.co/models?pipeline_tag=feature-extraction)
-- [@video@Hugging Face - Text embeddings & semantic search](https://www.youtube.com/watch?v=OATCgQtNX2o)
+- [@oficial@Modelos de Embedding em Hugging Face](https://huggingface.co/models?pipeline_tag=feature-extraction)
+- [@vídeo@Hugging Face - Embeddings de texto e busca semântica](https://www.youtube.com/watch?v=OATCgQtNX2o)

@@ -1,8 +1,8 @@
 # LM Studio
 
-LM Studio is a desktop application designed for discovering, downloading, and running large language models (LLMs) locally on your computer. It provides a user-friendly interface to experiment with different open-source LLMs without needing extensive technical knowledge or cloud infrastructure. Essentially, it helps you manage and interact with LLMs directly on your machine.
+LM Studio é uma aplicação de desktop projetada para descobrir, baixar e executar modelos de linguagem de grande escala (LLMs) localmente em seu computador. Ele fornece uma interface amigável do usuário para experimentar diferentes LLMs open-source sem a necessidade de conhecimento técnico extenso ou infraestrutura na nuvem. Basicamente, ele ajuda você a gerenciar e interagir com os LLMs diretamente em sua máquina.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@LMStudio](https://lmstudio.ai/)
-- [@video@LM Studio Tutorial: Run Large Language Models (LLM) on Your Laptop](https://www.youtube.com/watch?v=ygUEbCpOOLg)
+- [@video@Tutorial do LM Studio: Executar Modelos de Linguagem de Grande Escala (LLM) no Seu Laptop](https://www.youtube.com/watch?v=ygUEbCpOOLg)

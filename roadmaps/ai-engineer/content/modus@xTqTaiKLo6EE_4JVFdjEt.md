@@ -1,8 +1,8 @@
 # modus
- 
-modus is a Context Warehouse, an infrastructure layer that sits between a company's internal data stack and its AI agents. Instead of asking teams to hand-model semantics, it mines context from how the organization already uses its data (query logs, dbt models, dashboards, pipelines, code, docs) and keeps that understanding current as the business changes. At query time it composes only the context relevant to the task, so agents work on signal instead of noise. It runs independently of any specific data warehouse, model, or app platform, and serves context to existing agents over MCP. The typical use is internal, giving any team in the company reliable AI answers about its own business data.
 
-Visit the following resources to learn more:
+modus é um Warehouse de Contexto, uma camada de infraestrutura que se encontra entre a pilha de dados interna de uma empresa e seus agentes de IA. Em vez de pedir aos times para modelar manualmente o sentido, ele minera contexto a partir da maneira como a organização já usa seus dados (logs de consulta, modelos dbt, dashboards, pipelines, código, documentos) e mantém essa compreensão atualizada conforme as negócios mudam. No momento da consulta, ele compõe apenas o contexto relevante para a tarefa, então os agentes trabalham em sinal em vez de ruído. Ele funciona independentemente de qualquer data warehouse específico, modelo ou plataforma de aplicativo e serve contexto aos agentes existentes através do MCP. O uso típico é interno, dando a qualquer equipe na empresa respostas confiáveis de IA sobre seus próprios dados de negócios.
 
-- [@official@modus](https://www.getmodus.com/?utm_source=roadmapsh&utm_medium=referral&utm_campaign=ai-engineer-roadmap&utm_content=modus-node)
-- [@article@How to Build a Context Layer and a Company Brain](https://towardsdatascience.com/how-to-build-a-context-layer-and-a-company-brain/)
+Acesse os seguintes recursos para saber mais:
+
+- [@oficial@modus](https://www.getmodus.com/?utm_source=roadmapsh&utm_medium=referral&utm_campaign=ai-engineer-roadmap&utm_content=modus-node)
+- [@artigo@Como construir uma camada de contexto e um cérebro da empresa](https://towardsdatascience.com/how-to-build-a-context-layer-and-a-company-brain/)

@@ -1,9 +1,9 @@
-# Training
+# Treinamento
 
-Training refers to the process of teaching a machine learning model to recognize patterns and make predictions by exposing it to a dataset. During training, the model learns from the data by adjusting its internal parameters to minimize errors between its predictions and the actual outcomes. This process involves iteratively feeding the model with input data, comparing its outputs to the correct answers, and refining its predictions through techniques like gradient descent. The goal is to enable the model to generalize well so that it can make accurate predictions on new, unseen data.
+O treinamento se refere ao processo de ensinar um modelo de aprendizado de máquina a reconhecer padrões e fazer previsões exposto a um conjunto de dados. Durante o treinamento, o modelo aprende com os dados ajustando seus parâmetros internos para minimizar as diferenças entre suas previsões e os resultados reais. Esse processo envolve iterativamente alimentar o modelo com dados de entrada, comparar seus resultados com as respostas corretas e refiná-las através de técnicas como a descida gradiente. O objetivo é permitir que o modelo generalize bem para que possa fazer previsões precisas em novos dados não vistos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Model Training?](https://oden.io/glossary/model-training/)
-- [@article@Machine learning model training: What it is and why it’s important](https://domino.ai/blog/what-is-machine-learning-model-training)
-- [@article@Training ML Models - Amazon](https://docs.aws.amazon.com/machine-learning/latest/dg/training-ml-models.html)
+- [@artigo@O que é Treinamento de Modelo?](https://oden.io/glossary/model-training/)
+- [@artigo@Treinamento de Modelos de Aprendizado de Máquina: O que é e por que é importante](https://domino.ai/blog/what-is-machine-learning-model-training)
+- [@artigo@Treinando Modelos ML - Amazon](https://docs.aws.amazon.com/machine-learning/latest/dg/training-ml-models.html)

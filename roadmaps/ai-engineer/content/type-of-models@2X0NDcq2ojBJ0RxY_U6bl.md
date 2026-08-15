@@ -1,7 +1,7 @@
-# Types of AI Models
+# Tipos de Modelos AI
 
-AI models come in various forms. Open models provide transparent access to their architecture and training data, fostering collaboration and customization, while closed models keep these details proprietary. Pre-trained models are trained on massive datasets and can be fine-tuned for specific tasks, saving time and resources. Self-hosted models, on the other hand, offer greater control and privacy as they are deployed and managed on your own infrastructure.
+Modelos AI vêm em várias formas. Modelos abertos fornecem acesso transparente à sua arquitetura e dados de treinamento, fomentando a colaboração e a personalização, enquanto modelos fechados mantêm essas detalhes proprietários. Modelos pré-treinados são treinados em conjuntos de dados massivos e podem ser finetunidos para tarefas específicas, economizando tempo e recursos. Por outro lado, modelos auto-hospedados oferecem maior controle e privacidade, pois são implantados e gerenciados na sua própria infraestrutura.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Recap of all types of LLM Agents](http://towardsdatascience.com/recap-of-all-types-of-llm-agents/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)
+- [@article@Resumo de todos os tipos de Agentes LLM](http://towardsdatascience.com/recap-of-all-types-of-llm-agents/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)

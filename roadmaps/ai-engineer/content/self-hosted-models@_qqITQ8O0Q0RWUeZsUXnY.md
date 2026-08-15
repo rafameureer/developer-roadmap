@@ -1,8 +1,8 @@
-# Self-Hosted AI Models
+# Modelos de IA Autônomos
 
-Self-hosted AI models are machine learning models that are deployed and run on your own infrastructure, rather than relying on a third-party service or cloud provider. This means you have complete control over the hardware, software, and data used to run the model, allowing for greater customization, security, and potentially lower long-term costs, depending on your specific needs and scale.
+Modelos de IA autônomos são modelos de aprendizado de máquina que são implantados e executados em sua própria infraestrutura, em vez de depender de um serviço ou provedor de nuvem terceiro. Isso significa que você tem o controle completo sobre a hardware, software e dados usados para executar o modelo, permitindo uma personalização maior, segurança melhor e potencialmente custos mais baixos a longo prazo, dependendo das suas necessidades específicas e escala.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Self-Hosted LLM: A Practical Guide for DevOps](https://www.plural.sh/blog/self-hosting-large-language-models/)
-- [@article@Serverless vs. self-hosted LLM inference](https://bentoml.com/llm/llm-inference-basics/serverless-vs-self-hosted-llm-inference)
+- [@artigo@Self-Hosted LLM: Um Guia Prático para DevOps](https://www.plural.sh/blog/self-hosting-large-language-models/)
+- [@artigo@Serverless vs. Self-Hosted LLM Inference](https://bentoml.com/llm/llm-inference-basics/serverless-vs-self-hosted-llm-inference)

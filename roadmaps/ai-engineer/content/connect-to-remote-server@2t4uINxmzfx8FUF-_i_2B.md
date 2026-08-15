@@ -1,9 +1,9 @@
-# Connect to Remote Server
+# Conectar ao Servidor Remoto
 
-Remote or cloud deployment places the MCP server on a cloud provider instead of a local machine. You package the server as a container or virtual machine, choose a service like AWS, Azure, or GCP, and give it compute, storage, and a public HTTPS address. A load balancer spreads traffic, while auto-scaling adds or removes copies of the server as demand changes. You secure the endpoint with TLS, API keys, and firewalls, and you send logs and metrics to the provider’s monitoring tools. This setup lets the server handle many users, updates are easier, and you avoid local hardware limits, though you must watch costs and protect sensitive data.
+O deploy remoto ou em nuvem coloca o servidor MCP na nuvem em vez de uma máquina local. Você empacota o servidor como um contêiner ou máquina virtual, escolhe um serviço como AWS, Azure ou GCP, e dá a ele recursos computacionais, armazenamento e um endereço HTTPS público. Um balanceador de carga distribui o tráfego, enquanto o auto-escalonamento adiciona ou remove cópias do servidor conforme a demanda muda. Você protege o endpoint com TLS, chaves API e firewalls, e envia logs e métricas para as ferramentas de monitoramento da provedora. Esta configuração permite que o servidor lide com muitos usuários, as atualizações são mais fáceis e você evita limites de hardware locais, embora você precise monitorar os custos e proteger dados sensíveis.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Connect to remote MCP Servers](https://modelcontextprotocol.io/docs/develop/connect-remote-servers)
-- [@article@Remote MCP Servers](https://mcpservers.org/remote-mcp-servers)
-- [@video@Deploy Remote MCP Servers in Python (Step by Step)](https://www.youtube.com/watch?v=wXAqv8uvY0M)
+- [@oficial@Conectar a servidores MCP remotos](https://modelcontextprotocol.io/docs/develop/connect-remote-servers)
+- [@artigo@Servidores MCP Remotos](https://mcpservers.org/remote-mcp-servers)
+- [@vídeo@Implantar Servidores MCP Remotos em Python (Passo a Passo)](https://www.youtube.com/watch?v=wXAqv8uvY0M)

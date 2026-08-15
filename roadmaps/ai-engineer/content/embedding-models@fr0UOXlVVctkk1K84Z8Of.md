@@ -1,8 +1,8 @@
-# Embedding Models
+# Modelos de Inserção
 
-Embedding models transform data, like text or images, into numerical representations called embeddings. These embeddings capture the semantic meaning and relationships within the data in a vector space. By representing data as vectors, we can perform mathematical operations to determine similarity, cluster related items, and feed the data into machine learning models.
+Modelos de inserção transformam dados, como texto ou imagens, em representações numéricas chamadas de embeddings. Esses embeddings capturam o significado semântico e as relações dentro dos dados em um espaço vetorial. Ao representar os dados como vetores, podemos realizar operações matemáticas para determinar similaridade, agrupar itens relacionados e alimentar os dados em modelos de aprendizado de máquina.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What are Embedding Models? An Overview](https://www.couchbase.com/blog/embedding-models/)
-- [@article@Best Open-Source Embedding Models Benchmarked and Ranked](https://supermemory.ai/blog/best-open-source-embedding-models-benchmarked-and-ranked/)
+- [@artigo@O que são Modelos de Inserção? Uma Visão Geral](https://www.couchbase.com/blog/embedding-models/)
+- [@artigo@Melhores Modelos de Inserção Abertos Benchmarkados e Classificados](https://supermemory.ai/blog/best-open-source-embedding-models-benchmarked-and-ranked/)

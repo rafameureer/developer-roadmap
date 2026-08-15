@@ -1,8 +1,8 @@
-# Audio Processing
+# Processamento de Áudio
 
-Audio processing in multimodal AI enables a wide range of use cases by combining sound with other data types, such as text, images, or video, to create more context-aware systems. Use cases include speech recognition paired with real-time transcription and visual analysis in meetings or video conferencing tools, voice-controlled virtual assistants that can interpret commands in conjunction with on-screen visuals, and multimedia content analysis where audio and visual elements are analyzed together for tasks like content moderation or video indexing.
+O processamento de áudio em IA multimodal habilita uma ampla gama de casos de uso combinando som com outros tipos de dados, como texto, imagens ou vídeo, para criar sistemas mais conscientes do contexto. Casos de uso incluem reconhecimento de fala em parceria com transcrição em tempo real e análise visual em reuniões ou ferramentas de conferência de vídeo, assistentes virtuais controlados por voz que podem interpretar comandos em conjunto com visuais na tela, e análise de conteúdo multimídia onde elementos auditivos e visuais são analisados juntos para tarefas como moderação de conteúdo ou indexação de vídeo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@The State of Audio Processing](https://appwrite.io/blog/post/state-of-audio-processing)
-- [@video@Audio Signal Processing for Machine Learning](https://www.youtube.com/watch?v=iCwMQJnKk2c)
+- [@article@O Estado do Processamento de Áudio](https://appwrite.io/blog/post/state-of-audio-processing)
+- [@video@Processamento de Sinal de Áudio para Aprendizado de Máquina](https://www.youtube.com/watch?v=iCwMQJnKk2c)

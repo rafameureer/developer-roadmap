@@ -1,8 +1,8 @@
-# Robust prompt engineering
+# Engenharia de prompts robusta
 
-Robust prompt engineering involves carefully crafting inputs to guide AI models toward producing accurate, relevant, and reliable outputs. It focuses on minimizing ambiguity and maximizing clarity by providing specific instructions, examples, or structured formats. Effective prompts anticipate potential issues, such as misinterpretation or inappropriate responses, and address them through testing and refinement. This approach enhances the consistency and quality of the model's behavior, making it especially useful for complex tasks like multi-step reasoning, content generation, and interactive systems.
+A engenharia de prompts robusta envolve cuidadosamente elaborar entradas para guiar os modelos de IA em direção à produção de saídas precisas, relevantes e confiáveis. Ela se concentra em minimizar a ambiguidade e maximizar a clareza fornecendo instruções específicas, exemplos ou formatos estruturados. Prompts eficazes preveem problemas potenciais, como interpretação incorreta ou respostas inadequadas, e os abordam através de testes e refinamento. Esse abordagem melhora a consistência e qualidade do comportamento do modelo, tornando-o especialmente útil para tarefas complexas como o raciocínio em várias etapas, geração de conteúdo e sistemas interativos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Building Robust Prompt Engineering Capability](https://aimresearch.co/product/building-robust-prompt-engineering-capability)
-- [@article@Effective Prompt Engineering: A Comprehensive Guide](https://medium.com/@nmurugs/effective-prompt-engineering-a-comprehensive-guide-803160c571ed)
+- [@article@Construindo a capacidade de engenharia de prompts robusta](https://aimresearch.co/product/building-robust-prompt-engineering-capability)
+- [@article@Engenharia de prompts eficazes: um guia completo](https://medium.com/@nmurugs/effective-prompt-engineering-a-comprehensive-guide-803160c571ed)

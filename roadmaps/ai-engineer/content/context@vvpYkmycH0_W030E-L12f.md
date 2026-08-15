@@ -1,10 +1,10 @@
-# Context
+# Contexto
 
-Context, in the realm of Large Language Models (LLMs), refers to the information provided to the model alongside the prompt, which it uses to generate a relevant and coherent response. It encompasses the user's query, any supporting text, previous turns in a conversation, or any other data that helps the LLM understand the desired output. Essentially, it's the background knowledge and instructions that guide the LLM's reasoning and generation process.
+No domínio dos Modelos de Linguagem Grande (LLMs), o contexto refere-se às informações fornecidas ao modelo junto com o prompt, que ele usa para gerar uma resposta relevante e coerente. Ele abrange a consulta do usuário, qualquer texto suporte, as turnos anteriores em uma conversa ou qualquer outro dado que ajuda o LLM a entender a saída desejada. Em essência, é o conhecimento de fundo e instruções que guião o processo de raciocínio e geração do LLM.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is a Context Window in AI?](https://www.ibm.com/think/topics/context-window)
-- [@article@What Is an AI Context Window?](https://www.coursera.org/articles/context-window)
-- [@article@Cutting Through the Noise: Smarter Context Management for LLM-Powered Agents](https://blog.jetbrains.com/research/2025/12/efficient-context-management/)
-- [@video@What is a Context Window? Unlocking LLM Secrets](https://www.youtube.com/watch?v=-QVoIxEpFkM)
+- [@artigo@O Que é uma Janela de Contexto em IA?](https://www.ibm.com/think/topics/context-window)
+- [@artigo@O Que É uma Janela de Contexto em IA?](https://www.coursera.org/articles/context-window)
+- [@artigo@Cortando o Ruído: Gerenciamento Inteligente do Contexto para Agentes Baseados em LLMs](https://blog.jetbrains.com/research/2025/12/efficient-context-management/)
+- [@vídeo@O Que é uma Janela de Contexto? Desvendando os Segredos dos LLMs](https://www.youtube.com/watch?v=-QVoIxEpFkM)

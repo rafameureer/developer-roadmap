@@ -3,10 +3,10 @@
 Langchain
 =========
 
-Haystack is an open-source Python framework that helps you build search and question-answering agents fast. You connect your data sources, pick a language model, and set up pipelines that find the best answer to a user’s query. Haystack handles tasks such as indexing documents, retrieving passages, running the model, and ranking results. It works with many back-ends like Elasticsearch, OpenSearch, FAISS, and Pinecone, so you can scale from a laptop to a cluster. You can add features like summarization, translation, and document chat by dropping extra nodes into the pipeline. The framework also offers REST APIs, a web UI, and clear tutorials, making it easy to test and deploy your agent in production.
+Haystack é um framework de código aberto em Python que ajuda você a construir agentes de busca e ferramentas de resposta a perguntas rapidamente. Você conecta suas fontes de dados, escolhe um modelo linguístico e configura pipelines que encontram a melhor resposta para uma consulta do usuário. O Haystack lida com tarefas como indexação de documentos, recuperação de parágrafos, execução do modelo e classificação de resultados. Ele funciona com muitas back-ends como Elasticsearch, OpenSearch, FAISS e Pinecone, permitindo que você escala de um laptop a uma cluster. Você pode adicionar funcionalidades como resumo, tradução e chat em documentos ao inserir nós extras no pipeline. O framework também oferece APIs REST, uma interface web e tutoriais claros, tornando fácil testar e implantar seu agente em produção.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Haystack](https://haystack.deepset.ai/)
-- [@official@Haystack Overview](https://docs.haystack.deepset.ai/docs/intro)
+- [@oficial@Haystack](https://haystack.deepset.ai/)
+- [@oficial@Visão geral do Haystack](https://docs.haystack.deepset.ai/docs/intro)
 - [@opensource@deepset-ai/haystack](https://github.com/deepset-ai/haystack)

@@ -1,8 +1,8 @@
-# Deterministic Evals
+# Avaliações Determinísticas
 
-Deterministic evals use fixed, rule-based checks to score model outputs. Examples include checking whether a response contains a required keyword, matches an expected format, or equals a known correct answer exactly. They are fast, cheap, and fully reproducible, making them a good first layer of evaluation for any system. Their limitation is that they cannot assess open-ended or subjective output quality.
+As avaliações determinísticas usam verificações fixas e baseadas em regras para pontuar as saídas dos modelos. Exemplos incluem verificar se uma resposta contém uma palavra-chave obrigatória, corresponde a um formato esperado ou é igual a uma resposta correta conhecida exatamente. Eles são rápidos, baratos e totalmente reproduzíveis, tornando-se uma boa primeira camada de avaliação para qualquer sistema. Sua limitação é que não podem avaliar a qualidade aberta ou subjetiva das saídas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@How I Built Deterministic LLM Evaluation Metrics for DeepEval](https://www.confident-ai.com/blog/how-i-built-deterministic-llm-evaluation-metrics-for-deepeval)
-- [@article@Demystifying evals for AI agents](https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents)
+- [@article@Como construí métricas de avaliação determinísticas de LLMs para o DeepEval](https://www.confident-ai.com/blog/how-i-built-deterministic-llm-evaluation-metrics-for-deepeval)
+- [@article@Desmistificando as avaliações para agentes AI](https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents)

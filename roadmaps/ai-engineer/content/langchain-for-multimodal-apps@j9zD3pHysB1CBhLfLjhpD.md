@@ -1,8 +1,8 @@
-# LangChain for Multimodal Apps
+# LangChain para Aplicações Multimodais
 
-LangChain is a framework designed to build applications that integrate multiple AI models, especially those focusing on language understanding, generation, and multimodal capabilities. For multimodal apps, LangChain facilitates seamless interaction between text, image, and even audio models, enabling developers to create complex workflows that can process and analyze different types of data.
+LangChain é um framework projetado para construir aplicações que integram múltiplos modelos de IA, especialmente aqueles focados na compreensão, geração e capacidades multimodais. Para aplicativos multimodais, LangChain facilita a interação suave entre modelos de texto, imagem e até mesmo modelos de áudio, permitindo aos desenvolvedores criar fluxos de trabalho complexos que possam processar e analisar diferentes tipos de dados.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@LangChain](https://www.langchain.com/)
-- [@video@Build a Multimodal GenAI App with LangChain and Gemini LLMs](https://www.youtube.com/watch?v=bToMzuiOMhg)
+- [@oficial@LangChain](https://www.langchain.com/)
+- [@vídeo@Construa um Aplicativo GenAI Multimodal com LangChain e LLMs Gemini](https://www.youtube.com/watch?v=bToMzuiOMhg)

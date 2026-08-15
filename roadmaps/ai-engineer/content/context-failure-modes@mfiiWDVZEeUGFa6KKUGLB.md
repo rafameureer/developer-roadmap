@@ -1,10 +1,10 @@
-# Context Failure Modes
- 
-Context failure modes are the common ways a context pipeline can go wrong and degrade an agent's performance. These include context poisoning, where incorrect information gets included and treated as fact, context distraction, where too much irrelevant content pulls the model's attention away from what matters, and context rot, where accuracy drops as the amount of content grows even within the model's stated limits. Other failures include stale data that no longer reflects reality and conflicting information from different sources that the model cannot reconcile.
+# Modos de Falha do Contexto
 
-Visit the following resources to learn more:
+Os modos de falha do contexto são as maneiras comuns em que um pipeline de contexto pode errar e degradar o desempenho de um agente. Isso inclui a contaminação de contexto, onde informações incorretas são incluídas e tratadas como fatos; distração de contexto, onde muito conteúdo irrelevante puxa a atenção do modelo para o que importa; e rotação de contexto, onde a precisão diminui à medida que a quantidade de conteúdo aumenta, mesmo dentro dos limites estabelecidos pelo modelo. Outras falhas incluem dados obsoletos que não refletem mais a realidade e informações em conflito de diferentes fontes que o modelo não consegue reconciliar.
 
-- [@article@How Long Contexts Fail](https://www.dbreunig.com/2025/06/22/how-contexts-fail-and-how-to-fix-them.html)
-- [@article@Understanding LLM Failure Modes (And Why They Matter More Than the Model Itself)](https://medium.com/@RamPrakashD/understanding-llm-failure-modes-and-why-they-matter-more-than-the-model-itself-2104edccf3cd)
-- [@article@Coding Agents Don’t Need Bigger Context Windows — They Need a Context Compiler](https://towardsdatascience.com/coding-agents-dont-need-bigger-context-windows-they-need-a-context-compiler/)
-- [@video@RAG Failure Patterns, Explained](https://www.youtube.com/watch?v=1nI0hX9dvD4&t=32s)
+Acesse os seguintes recursos para saber mais:
+
+- [@artigo@Como Contextos Falham](https://www.dbreunig.com/2025/06/22/how-contexts-fail-and-how-to-fix-them.html)
+- [@artigo@Entendendo Modos de Falha do LLM (E Por Que Eles Importam Mais do que o Modelo Em Si)](https://medium.com/@RamPrakashD/understanding-llm-failure-modes-and-why-they-matter-more-than-the-model-itself-2104edccf3cd)
+- [@artigo@Agentes de Codificação Não Precisam de Janelas de Contexto Maior — Eles Precisam de um Compilador de Contexto](https://towardsdatascience.com/coding-agents-dont-need-bigger-context-windows-they-need-a-context-compiler/)
+- [@vídeo@Modelos RAG: Padrões de Falha Explained](https://www.youtube.com/watch?v=1nI0hX9dvD4&t=32s)

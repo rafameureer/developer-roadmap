@@ -1,8 +1,8 @@
-# Inference
+# Inferência
 
-In artificial intelligence (AI), inference refers to the process by which a trained machine learning model makes predictions or draws conclusions from new, unseen data. Unlike training, inference involves the model applying what it has learned to make decisions without needing examples of the exact result. In essence, inference is the AI model actively functioning. For example, a self-driving car recognizing a stop sign on a road it has never encountered before demonstrates inference. The model identifies the stop sign in a new setting, using its learned knowledge to make a decision in real-time.
+Na inteligência artificial (IA), a inferência refere-se ao processo pelo qual um modelo de aprendizado de máquina treinado faz previsões ou drawing conclusões a partir de novos dados não vistos. Diferentemente da fase de treinamento, a inferência envolve o modelo aplicando o que ele aprendeu para tomar decisões sem precisar de exemplos do resultado exato. Em essência, a inferência é o modelo de IA ativamente funcionando. Por exemplo, um carro autônomo reconhecendo uma sinalização de parada em uma estrada que nunca antes havia visto demonstra inferência. O modelo identifica a sinalização de parada em um novo contexto, usando seu conhecimento aprendido para tomar uma decisão em tempo real.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Inference vs Training](https://www.cloudflare.com/learning/ai/inference-vs-training/)
-- [@article@What is Machine Learning Inference?](https://hazelcast.com/glossary/machine-learning-inference/)
+- [@artigo@Inferência vs Treinamento](https://www.cloudflare.com/learning/ai/inference-vs-training/)
+- [@artigo@O que é a Inferência de Aprendizado de Máquina?](https://hazelcast.com/glossary/machine-learning-inference/)

@@ -1,10 +1,10 @@
-# AI Engineer vs ML Engineer
+# Engenheiro de IA vs Engenheiro de ML
 
-An AI Engineer uses pre-trained models and existing AI tools to improve user experiences. They focus on applying AI in practical ways, without building models from scratch. This is different from AI Researchers and ML Engineers, who focus more on creating new models or developing AI theory.
+Um Engenheiro de IA usa modelos pré-treinados e ferramentas de IA existentes para melhorar a experiência do usuário. Eles se concentram em aplicar IA de maneira prática, sem construir modelos do zero. Isso é diferente dos Pesquisadores de IA e Engenheiros de ML, que se concentram mais em criar novos modelos ou desenvolver teoria de IA.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What does an AI Engineer do?](https://www.codecademy.com/resources/blog/what-does-an-ai-engineer-do/)
-- [@article@What is an ML Engineer?](https://www.coursera.org/articles/what-is-machine-learning-engineer)
-- [@article@Machine Learning vs AI Engineer: What Are the Differences?](https://towardsdatascience.com/machine-learning-vs-ai-engineer-no-confusing-jargon/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)
-- [@video@AI vs ML](https://www.youtube.com/watch?v=4RixMPF4xis)
+- [@artigo@O que um engenheiro de IA faz?](https://www.codecademy.com/resources/blog/what-does-an-ai-engineer-do/)
+- [@artigo@O que é um engenheiro de ML?](https://www.coursera.org/articles/what-is-machine-learning-engineer)
+- [@artigo@Diferenças entre Engenheiro de Machine Learning e Engenheiro de IA: O que são as Diferenças?](https://towardsdatascience.com/machine-learning-vs-ai-engineer-no-confusing-jargon/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)
+- [@vídeo@IA vs ML](https://www.youtube.com/watch?v=4RixMPF4xis)

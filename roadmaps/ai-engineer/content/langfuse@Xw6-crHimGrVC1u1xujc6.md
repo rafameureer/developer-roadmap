@@ -1,8 +1,8 @@
 # LangFuse
 
-LangFuse is an open-source LLM observability platform that provides tracing, prompt management, and evaluation tooling. You can self-host it or use the cloud version. It integrates with most popular frameworks and SDKs through a simple API, and lets you score traces manually or automatically to build up a quality signal over time.
+LangFuse é uma plataforma de observabilidade de LLMs open-source que fornece ferramentas para rastreamento, gerenciamento de prompts e avaliação. Você pode hospedá-lo em sua própria instância ou usar a versão em nuvem. Ele se integra com os principais frameworks e SDKs através de uma simples API e permite pontuar rastreamentos manualmente ou automaticamente para construir um sinal de qualidade ao longo do tempo.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Langfuse Overview](https://langfuse.com/docs)
-- [@video@Get Started with Langfuse - Open-Source LLM Monitoring](https://www.youtube.com/watch?v=epnPfe5am3I&list=PL4v4zZF1rGG5slCdloT33O7Qe_Zq1zHfo)
+- [@oficial@Visão Geral do Langfuse](https://langfuse.com/docs)
+- [@vídeo@Comece com o Langfuse - Monitoramento Open-Source de LLMs](https://www.youtube.com/watch?v=epnPfe5am3I&list=PL4v4zZF1rGG5slCdloT33O7Qe_Zq1zHfo)

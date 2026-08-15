@@ -1,9 +1,9 @@
-# Connect to Local Server
+# Conectar ao Servidor Local
 
-A Local Desktop deployment means running the MCP server directly on your own computer instead of a remote cloud or server. You install the MCP software, needed runtimes, and model files onto your desktop or laptop. The server then listens on a local address like `127.0.0.1:8000`, accessible only from the same machine unless you open ports manually. This setup is great for fast tests, personal demos, or private experiments since you keep full control and avoid cloud costs. However, it's limited by your hardware's speed and memory, and others cannot access it without tunneling tools like ngrok or local port forwarding.
+Uma implantação local de desktop significa executar o servidor MCP diretamente em seu próprio computador, em vez de um nuvem remoto ou servidor. Você instala o software MCP, os tempos de execução necessários e os arquivos do modelo na sua área de trabalho ou laptop. O servidor então escuta em uma endereço local como `127.0.0.1:8000`, acessível apenas da mesma máquina a menos que você abra portas manualmente. Esta configuração é ótima para testes rápidos, demonstrações pessoais ou experimentos privados, já que você mantém o controle completo e evita custos de nuvem. No entanto, ela está limitada pela velocidade e memória do seu hardware, e outras pessoas não podem acessá-la sem ferramentas como ngrok ou encaminhamento de portas locais.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Connect to local MCP servers](https://modelcontextprotocol.io/docs/develop/connect-local-servers)
-- [@article@How to Build and Host Your Own MCP Servers in Easy Steps](ttps://collabnix.com/how-to-build-and-host-your-own-mcp-servers-in-easy-steps/)
-- [@video@Local MCP Servers for Cursor (Step by step)](https://www.youtube.com/watch?v=_Qr0WTgR5EM)
+- [@official@Conectar a servidores MCP locais](https://modelcontextprotocol.io/docs/develop/connect-local-servers)
+- [@article@Como Construir e Hospedar Seus Próprios Servidores MCP em Passos Fáceis](ttps://collabnix.com/how-to-build-and-host-your-own-mcp-servers-in-easy-steps/)
+- [@video@Servidores MCP Locais para Cursor (Passo a passo)](https://www.youtube.com/watch?v=_Qr0WTgR5EM)

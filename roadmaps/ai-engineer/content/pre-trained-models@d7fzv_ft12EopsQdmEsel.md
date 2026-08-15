@@ -1,8 +1,8 @@
-# Pre-trained Models
+# Modelos Pré-treinados
 
-Pre-trained models are Machine Learning (ML) models that have been previously trained on a large dataset to solve a specific task or set of tasks. These models learn patterns, features, and representations from the training data, which can then be fine-tuned or adapted for other related tasks. Pre-training provides a good starting point, reducing the amount of data and computation required to train a new model from scratch.
+Modelos pré-treinados são modelos de Machine Learning (ML) que já foram treinados em um grande conjunto de dados para resolver uma tarefa específica ou um conjunto de tarefas. Esses modelos aprendem padrões, características e representações dos dados de treinamento, o que pode então ser ajustado ou adaptado para outras tarefas relacionadas. O pré-treinamento fornece um bom ponto de partida, reduzindo a quantidade de dados e computação necessária para treinar um novo modelo do zero.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Pre-trained Models: Past, Present and Future](https://www.sciencedirect.com/science/article/pii/S2666651021000231)
-- [@video@Transforming Language with Generative Pre-trained Transformers (GPT)](https://www.youtube.com/watch?v=bdICz_sBI34)
+- [@article@Modelos Pré-treinados: Passado, Presente e Futuro](https://www.sciencedirect.com/science/article/pii/S2666651021000231)
+- [@video@Transformando Linguagem com Transformers de Pré-treinamento Geral (GPT)](https://www.youtube.com/watch?v=bdICz_sBI34)

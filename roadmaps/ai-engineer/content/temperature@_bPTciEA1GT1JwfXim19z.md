@@ -1,9 +1,9 @@
-# Temperature
+# Temperatura
 
-Temperature is a parameter used in language models that controls the randomness of the generated text. A higher temperature value (e.g., 1.0) leads to more diverse and unpredictable outputs, as the model is more likely to sample less probable words. Conversely, a lower temperature value (e.g., 0.2) yields more deterministic, conservative outputs, favoring the most likely words according to the model's training data. Essentially, it influences the probability distribution from which the next word is selected.
+A temperatura é um parâmetro usado em modelos linguísticos que controla a aleatoriedade do texto gerado. Um valor mais alto de temperatura (por exemplo, 1.0) resulta em saídas mais diversas e imprevisíveis, pois o modelo é mais propenso a amostrar palavras menos prováveis. Por outro lado, um valor mais baixo de temperatura (por exemplo, 0.2) produz saídas mais determinísticas e conservadoras, favorecendo as palavras mais prováveis de acordo com os dados de treinamento do modelo. Em essência, ela influencia a distribuição de probabilidade da qual a próxima palavra é selecionada.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What Temperature Means in Natural Language Processing and AI](https://thenewstack.io/what-temperature-means-in-natural-language-processing-and-ai/)
-- [@article@What is LLM Temperature? - IBM](https://www.ibm.com/think/topics/llm-temperature)
-- [@article@How Temperature Settings Transform Your AI Agent's Responses](https://docsbot.ai/article/how-temperature-settings-transform-your-ai-agents-responses)
+- [@artigo@O que Significa Temperatura em Processamento Natural e IA](https://thenewstack.io/what-temperature-means-in-natural-language-processing-and-ai/)
+- [@artigo@O que é a Temperatura do LLM? - IBM](https://www.ibm.com/think/topics/llm-temperature)
+- [@artigo@Como Configurações de Temperatura Transformam as Respostas do Agente AI](https://docsbot.ai/article/how-temperature-settings-transform-your-ai-agents-responses)

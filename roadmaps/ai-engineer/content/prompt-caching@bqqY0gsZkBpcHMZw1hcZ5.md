@@ -1,8 +1,8 @@
-# Prompt Caching
+# Caching de Prompt
 
-Prompt caching is a technique that stores the results of previous LLM prompts, allowing you to quickly retrieve and reuse them instead of re-running the prompt every time. This can significantly improve efficiency and reduce costs when dealing with frequently used or computationally expensive prompts.
+O caching de prompt é uma técnica que armazena os resultados dos prompts LLM anteriores, permitindo que você recupere e reutilize rapidamente em vez de executar o prompt novamente sempre. Isso pode significativamente melhorar a eficiência e reduzir os custos ao lidar com prompts frequentemente usados ou computacionalmente caros.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Prompt Caching?](https://www.ibm.com/think/topics/prompt-caching)
-- [@video@What is Prompt Caching? Optimize LLM Latency with AI Transformers](https://www.youtube.com/watch?v=u57EnkQaUTY)
+- [@artigo@O que é Caching de Prompt?](https://www.ibm.com/think/topics/prompt-caching)
+- [@vídeo@O que é Caching de Prompt? Otimize a Latência do LLM com Transformadores AI](https://www.youtube.com/watch?v=u57EnkQaUTY)

@@ -1,8 +1,8 @@
-# Video Understanding
+# Entendimento de Vídeo
 
-Video understanding with multimodal AI involves analyzing and interpreting both visual and audio content to provide a more comprehensive understanding of videos. Common use cases include video summarization, where AI extracts key scenes and generates summaries; content moderation, where the system detects inappropriate visuals or audio; and video indexing for easier search and retrieval of specific moments within a video. Other applications include enhancing video-based recommendations, security surveillance, and interactive entertainment, where video and audio are processed together for real-time user interaction.
+O entendimento de vídeo com IA multimodal envolve analisar e interpretar tanto o conteúdo visual quanto auditivo para fornecer uma compreensão mais abrangente dos vídeos. Casos de uso comuns incluem resumo de vídeo, onde a IA extrai cenas-chave e gera resumos; moderação de conteúdo, onde o sistema detecta visuais ou áudio inadequados; e indexação de vídeo para facilitar a busca e recuperação de momentos específicos dentro de um vídeo. Outras aplicações incluem melhorar as recomendações baseadas em vídeo, segurança de vigilância e entretenimento interativo, onde o vídeo e o áudio são processados juntos para interações de usuário em tempo real.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@opensource@Awesome LLM for Video Understanding](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding)
-- [@article@Video Understanding](https://dl.acm.org/doi/10.1145/3503161.3551600)
+- [@opensource@LLM incríveis para Entendimento de Vídeo](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding)
+- [@artigo@Entendimento de Vídeo](https://dl.acm.org/doi/10.1145/3503161.3551600)

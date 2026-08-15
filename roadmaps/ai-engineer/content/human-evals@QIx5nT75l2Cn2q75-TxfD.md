@@ -1,8 +1,8 @@
-# Human Evals
+# Avaliações Humanas
 
-Human evals involve people directly reviewing and scoring model outputs against defined criteria. They are the most accurate form of evaluation for nuanced or subjective quality dimensions, and serve as the ground truth that other eval methods are validated against. Human evals are slower and more expensive than automated approaches, so they are typically used for high-stakes decisions, calibrating automated evals, or reviewing edge cases flagged by other methods.
+As avaliações humanas envolvem pessoas revisando e avaliando diretamente as saídas dos modelos em relação a critérios definidos. São o formato mais preciso de avaliação para dimensões de qualidade nuances ou subjetivas, servindo como a verdadeira base que outros métodos de avaliação são validados contra. As avaliações humanas são mais lentas e caras do que abordagens automatizadas, então geralmente são usadas para decisões de alto risco, calibrar avaliações automatizadas ou revisar casos extremos sinalizados por outros métodos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@LLM-as-a-judge vs. human evaluation: Why together is better](https://www.superannotate.com/blog/llm-as-a-judge-vs-human-evaluation)
-- [@article@How to run human-in-the-loop evals for LLM apps](https://www.braintrust.dev/articles/human-in-the-loop-evals-for-llm-apps)
+- [@artigo@LLM como juiz vs. avaliação humana: Por que juntos é melhor](https://www.superannotate.com/blog/llm-as-a-judge-vs-human-evaluation)
+- [@artigo@Como executar avaliações humanas em loop para aplicativos de LLM](https://www.braintrust.dev/articles/human-in-the-loop-evals-for-llm-apps)

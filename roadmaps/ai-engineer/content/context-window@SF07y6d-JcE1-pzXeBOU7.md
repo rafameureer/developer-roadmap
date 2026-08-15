@@ -1,10 +1,10 @@
-# Context Window
+# Janela de Contexto
  
-The context window is the amount of text an LLM can process in a single request, measured in tokens. It includes the system prompt, conversation history, retrieved documents, and the model's own output as it generates a response. Once the total content exceeds this limit, older or lower priority information has to be dropped, summarized, or moved out of the active context. Model providers have expanded context windows significantly over the past few years, but a larger window does not guarantee the model uses all of it well.
+A janela de contexto é a quantidade de texto que um LLM pode processar em uma única solicitação, medida em tokens. Ela inclui o prompt do sistema, o histórico da conversa, os documentos recuperados e a própria saída do modelo enquanto gera uma resposta. Uma vez que o conteúdo total ultrapasse esse limite, informações mais antigas ou de menor prioridade precisam ser descartadas, resumidas ou movidas para fora do contexto ativo. Os provedores de modelos têm expandido significativamente as janelas de contexto nos últimos anos, mas uma maior janela não garante que o modelo use toda ela bem.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is a context window?](https://www.ibm.com/think/topics/context-window)
-- [@article@Coding Agents Don’t Need Bigger Context Windows](https://towardsdatascience.com/coding-agents-dont-need-bigger-context-windows-they-need-a-context-compiler/)
-- [@video@What is a Context Window? Unlocking LLM Secrets](https://www.youtube.com/watch?v=-QVoIxEpFkM)
-- [@video@Why LLMs get dumb (Context Windows Explained)](https://www.youtube.com/watch?v=TeQDr4DkLYo)
+- [@artigo@O que é uma janela de contexto?](https://www.ibm.com/think/topics/context-window)
+- [@artigo@Agentes de Codificação Não Precisam de Janelas de Contexto Maior](https://towardsdatascience.com/coding-agents-dont-need-bigger-context-windows-they-need-a-context-compiler/)
+- [@vídeo@O que é uma Janela de Contexto? Desvendando os segredos dos LLMs](https://www.youtube.com/watch?v=-QVoIxEpFkM)
+- [@vídeo@Por que os LLMs ficam bobos (Janelas de Contexto Explicadas)](https://www.youtube.com/watch?v=TeQDr4DkLYo)

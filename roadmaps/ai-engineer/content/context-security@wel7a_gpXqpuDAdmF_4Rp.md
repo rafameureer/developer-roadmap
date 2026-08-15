@@ -1,8 +1,8 @@
-# Context Security
+# Segurança do Contexto
  
-Context security covers the risks that come from feeding external or untrusted content into an AI system. A malicious document, email, or web page can contain hidden instructions designed to manipulate the model, a technique known as prompt injection. Poor access controls can also let a model surface data to a user who should not see it, or let sensitive information leak through tool calls and logs. Building context pipelines securely means validating sources, applying permission checks before data reaches the model, and treating retrieved content as data rather than as trusted instructions.
+A segurança do contexto cobre os riscos que surgem ao fornecer conteúdo externo ou não confiável para um sistema de IA. Um documento malicioso, e-mail ou página da web pode conter instruções ocultas projetadas para manipular o modelo, uma técnica conhecida como injeção de prompt. Controles de acesso inadequados também podem permitir que um modelo apresente dados a um usuário que não deve vê-los ou permitam que informações sensíveis sejam vazadas através de chamadas de ferramentas e logs. Construir pipelines de contexto com segurança significa validar fontes, aplicar verificações de permissão antes que os dados cheguem ao modelo e tratar o conteúdo recuperado como dados em vez de instruções confiáveis.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Context Engineering Is Security Engineering. RSA 2026 Made the Case.](https://zenity.io/blog/events/context-engineering-security-engineering)
-- [@article@When Data Becomes Instructions: AI Agents Need a Chain of Custody for Context](https://blog.checkpoint.com/ai-security/ai-agent-context-chain-of-custody/)
+- [@artigo@Engenharia de Contexto É Engenharia de Segurança. RSA 2026 Fez o Caso.](https://zenity.io/blog/events/context-engineering-security-engineering)
+- [@artigo@Data se torna instruções: Agentes de IA precisam de uma cadeia de custódia para contexto](https://blog.checkpoint.com/ai-security/ai-agent-context-chain-of-custody/)

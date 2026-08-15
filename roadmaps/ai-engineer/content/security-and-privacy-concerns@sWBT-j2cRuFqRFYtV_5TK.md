@@ -1,8 +1,8 @@
-# Security and Privacy Concerns
+# Segurança e Privacidade em Inteligência Artificial
 
-Security and privacy concerns in AI revolve around the protection of data and the responsible use of models. Key issues include ensuring that sensitive data, such as personal information, is handled securely during collection, processing, and storage, to prevent unauthorized access and breaches. AI models can also inadvertently expose sensitive data if not properly designed, leading to privacy risks through data leakage or misuse. Additionally, there are concerns about model bias, data misuse, and ensuring transparency in how AI decisions are made.
+Os problemas de segurança e privacidade na IA se concentram na proteção dos dados e no uso responsável dos modelos. Os principais desafios incluem garantir que os dados sensíveis, como informações pessoais, sejam tratados com segurança durante a coleta, processamento e armazenamento, para prevenir o acesso não autorizado e violações de segurança. Modelos de IA também podem expor inadvertidamente dados sensíveis se não forem projetados adequadamente, levando a riscos de privacidade através da vazamento de dados ou uso inadequado. Além disso, há preocupações sobre viés nos modelos, o uso inadequado dos dados e garantir a transparência na forma como as decisões de IA são tomadas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Examining Privacy Risks in AI Systems](https://transcend.io/blog/ai-and-privacy)
-- [@video@AI Is Dangerous, but Not for the Reasons You Think | Sasha Luccioni | TED](https://www.youtube.com/watch?v=eXdVDhOGqoE)
+- [@artigo@Examinando os Riscos de Privacidade em Sistemas de IA](https://transcend.io/blog/ai-and-privacy)
+- [@vídeo@IA é Perigosa, mas Não por Razões que Você Acha | Sasha Luccioni | TED](https://www.youtube.com/watch?v=eXdVDhOGqoE)

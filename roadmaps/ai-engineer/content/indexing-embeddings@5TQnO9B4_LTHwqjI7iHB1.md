@@ -1,8 +1,8 @@
-# Indexing Embeddings
+# Indexação de Embeddings
 
-Embeddings are stored in a vector database by first converting data, such as text, images, or audio, into high-dimensional vectors using machine learning models. These vectors, also called embeddings, capture the semantic relationships and patterns within the data. Once generated, each embedding is indexed in the vector database along with its associated metadata, such as the original data (e.g., text or image) or an identifier. The vector database then organizes these embeddings to support efficient similarity searches, typically using techniques like approximate nearest neighbor (ANN) search.
+Os embeddings são armazenados em um banco de dados vetorial convertendo dados, como texto, imagens ou áudio, em vetores de alta dimensão usando modelos de aprendizado de máquina. Esses vetores, também chamados de embeddings, capturam as relações semânticas e padrões dentro dos dados. Uma vez gerados, cada embedding é indexado no banco de dados vetorial junto com suas metadados associados, como os dados originais (por exemplo, texto ou imagem) ou um identificador. O banco de dados vetorial então organiza esses embeddings para suportar buscas de similaridade eficientes, típicamente usando técnicas como busca de vizinhos mais próximos aproximados (ANN).
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Indexing & Embeddings](https://developers.llamaindex.ai/python/framework/understanding/rag/indexing/)
-- [@video@Vector Databases Simply Explained! (Embeddings & Indexes)](https://www.youtube.com/watch?v=dN0lsF2cvm4)
+- [@artigo@Indexação e Embeddings](https://developers.llamaindex.ai/python/framework/understanding/rag/indexing/)
+- [@vídeo@Bancos de Dados Vetoriais Explicados Simplesmente! (Embeddings & Indexes)](https://www.youtube.com/watch?v=dN0lsF2cvm4)

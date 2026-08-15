@@ -1,9 +1,9 @@
 # Replit
 
-Replit is an online integrated development environment (IDE) that allows users to write and run code in various programming languages directly in their web browser. It provides a collaborative coding environment with features like real-time collaboration, version control, and package management, making it easy to build and deploy projects without needing to install software locally. Replit also incorporates AI features like code completion and generation to help streamline the coding process.
+Replit é um ambiente de desenvolvimento integrado (IDE) online que permite aos usuários escrever e executar código em várias linguagens de programação diretamente em seu navegador da web. Ele fornece um ambiente de codificação colaborativa com recursos como colaboração em tempo real, controle de versão e gerenciamento de pacotes, tornando fácil a construção e implantação de projetos sem a necessidade de instalar software localmente. Replit também incorpora funcionalidades de IA como conclusão e geração de código para ajudar a streamlinhar o processo de codificação.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
 - [@official@Replit](https://replit.com/)
-- [@article@What is Replit? An honest look at the AI app builder in 2025](https://www.eesel.ai/blog/replit)
-- [@video@Getting Started with Replit](https://www.youtube.com/watch?v=St95nPOwsa8&list=PLto9KpJAqHMTzEMDAFT4r5LlI4NByngyT)
+- [@article@O que é o Replit? Uma visão honesta do aplicativo construtor de IA em 2025](https://www.eesel.ai/blog/replit)
+- [@video@Começando com o Replit](https://www.youtube.com/watch?v=St95nPOwsa8&list=PLto9KpJAqHMTzEMDAFT4r5LlI4NByngyT)

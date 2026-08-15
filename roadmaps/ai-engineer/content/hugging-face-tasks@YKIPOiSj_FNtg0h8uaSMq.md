@@ -1,9 +1,9 @@
-# Hugging Face Tasks
+# Tarefas da Hugging Face
 
-Hugging Face supports text classification, named entity recognition, question answering, summarization, and translation. It also extends to multimodal tasks that involve both text and images, such as visual question answering (VQA) and image-text matching. Each task is done by various pre-trained models that can be easily accessed and fine-tuned through the Hugging Face library.
+A Hugging Face suporta classificação de texto, reconhecimento de entidades nomeadas, resposta a perguntas, resumo e tradução. Ela também estende-se para tarefas multimodais que envolvem tanto texto quanto imagens, como a pergunta visual (VQA) e correspondência imagem-texto. Cada tarefa é realizada por diversos modelos pré-treinados que podem ser facilmente acessados e ajustados através da biblioteca Hugging Face.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Task and Model](https://huggingface.co/learn/computer-vision-course/en/unit4/multimodal-models/tasks-models-part1)
-- [@official@Task Summary](https://huggingface.co/docs/transformers/v4.14.1/en/task_summary)
-- [@official@Task Manager](https://huggingface.co/docs/optimum/en/exporters/task_manager)
+- [@oficial@Tarefa e Modelo](https://huggingface.co/learn/computer-vision-course/en/unit4/multimodal-models/tasks-models-part1)
+- [@oficial@Resumo da Tarefa](https://huggingface.co/docs/transformers/v4.14.1/en/task_summary)
+- [@oficial@Gerenciador de Tarefas](https://huggingface.co/docs/optimum/en/exporters/task_manager)

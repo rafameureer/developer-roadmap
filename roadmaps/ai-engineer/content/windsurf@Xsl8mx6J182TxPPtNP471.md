@@ -1,9 +1,9 @@
 # Windsurf
 
-Windsurf is a tool specifically designed to enhance code navigation and understanding within large codebases. It leverages AI to provide intelligent code search, relationship discovery between different code elements, and code completion suggestions that are contextually aware. It's intended to reduce the time developers spend exploring and understanding code, enabling them to write more efficient and accurate code.
+O Windsurf é uma ferramenta especificamente projetada para melhorar a navegação e compreensão do código em grandes bases de código. Ele usa inteligência artificial (IA) para fornecer busca de código inteligente, descoberta de relações entre diferentes elementos de código e sugestões de conclusão de código que são cientes do contexto. O objetivo é reduzir o tempo gasto pelos desenvolvedores explorando e entendendo o código, permitindo-lhes escrever código mais eficiente e preciso.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Windsurf Docs](https://docs.windsurf.com/windsurf/getting-started)
-- [@video@Windsurf Tutorial for Beginners (AI Code Editor) - Better than Cursor??](https://www.youtube.com/watch?v=8TcWGk1DJVs)
-- [@video@Windsurf AI Tutorial for Beginners](https://www.youtube.com/watch?v=x1VCmB__TDo)
+- [@official@Documentação do Windsurf](https://docs.windsurf.com/windsurf/getting-started)
+- [@video@Tutorial do Windsurf para iniciantes (Editor de Código com IA) - Melhor que o Cursor??](https://www.youtube.com/watch?v=8TcWGk1DJVs)
+- [@video@Tutorial do Windsurf com IA para iniciantes](https://www.youtube.com/watch?v=x1VCmB__TDo)

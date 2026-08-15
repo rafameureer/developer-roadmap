@@ -1,9 +1,9 @@
-# AI Agents
+# Agentes de Inteligência Artificial
 
-In AI engineering, "agents" refer to autonomous systems or components that can perceive their environment, make decisions, and take actions to achieve specific goals. Agents often interact with external systems, users, or other agents to carry out complex tasks. They can vary in complexity, from simple rule-based bots to sophisticated AI-powered agents that leverage machine learning models, natural language processing, and reinforcement learning.
+Em engenharia de IA, "agentes" se referem a sistemas ou componentes autônomos que conseguem perceber seu ambiente, tomar decisões e agir para atingir objetivos específicos. Os agentes frequentemente interagem com sistemas externos, usuários ou outros agentes para realizar tarefas complexas. Eles podem variar em complexidade, desde robôs baseados em regras simples até agentes de IA sofisticados que usam modelos de aprendizado de máquina, processamento de linguagem natural e aprendizagem por reforço.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Building an AI Agent Tutorial - LangChain](https://python.langchain.com/docs/tutorials/agents/)
-- [@article@AI Agents and Their Types](https://www.digitalocean.com/resources/articles/types-of-ai-agents)
-- [@video@The Complete Guide to Building AI Agents for Beginners](https://youtu.be/MOyl58VF2ak?si=-QjRD_5y3iViprJX)
+- [@artigo@Tutorial de como construir um agente de IA - LangChain](https://python.langchain.com/docs/tutorials/agents/)
+- [@artigo@Agentes de IA e seus tipos](https://www.digitalocean.com/resources/articles/types-of-ai-agents)
+- [@vídeo@Guia Completo para Construir Agentes de IA para Iniciantes](https://youtu.be/MOyl58VF2ak?si=-QjRD_5y3iViprJX)

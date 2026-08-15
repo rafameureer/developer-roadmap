@@ -1,10 +1,10 @@
-# Model Context Protocol (MCP)
+# Protocolo de Contexto do Modelo (MCP)
 
-Model Context Protocol (MCP) provides a standardized way for AI agents to manage and share contextual information. It defines a structure for representing the agent's current understanding of the environment, user, and goals, enabling more effective communication and collaboration between different components of an AI system or across multiple agents. This protocol facilitates the seamless transfer of relevant data, ensuring that each agent has the necessary information to make informed decisions and perform its tasks efficiently.
+O Protocolo de Contexto do Modelo (MCP) fornece uma maneira padrão para que os agentes AI gerenciem e compartilhem informações contextuais. Ele define uma estrutura para representar a compreensão atual do ambiente, do usuário e dos objetivos do agente, permitindo uma comunicação e colaboração mais eficazes entre diferentes componentes de um sistema AI ou em várias agências. Este protocolo facilita a transferência suave de dados relevantes, garantindo que cada agente tenha as informações necessárias para tomar decisões informadas e realizar suas tarefas de forma eficiente.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@Model Context Protocol (MCP) Course](https://huggingface.co/learn/mcp-course/en/unit0/introduction)
-- [@official@Model Context Protocol](https://modelcontextprotocol.io/)
-- [@opensource@Model Context Protocol](https://github.com/modelcontextprotocol)
-- [@article@Discover more aritlces on MCP](https://towardsdatascience.com/tag/mcp/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)
+- [@course@Curso de Protocolo de Contexto do Modelo (MCP)](https://huggingface.co/learn/mcp-course/en/unit0/introduction)
+- [@official@Protocolo de Contexto do Modelo](https://modelcontextprotocol.io/)
+- [@opensource@Protocolo de Contexto do Modelo](https://github.com/modelcontextprotocol)
+- [@article@Descubra mais artigos sobre MCP](https://towardsdatascience.com/tag/mcp/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)

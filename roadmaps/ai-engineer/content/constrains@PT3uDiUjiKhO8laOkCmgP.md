@@ -1,7 +1,7 @@
-# Constraining Prompts
+# Restringindo Prompts
 
-Constraining system prompts involves explicitly defining boundaries and limitations within the instructions given to a large language model (LLM). This technique focuses on guiding the LLM to operate within a specific scope, preventing it from generating irrelevant, harmful, or factually incorrect responses by setting rules and restrictions on its behavior and output format.
+Restringir prompts do sistema envolve definir explicitamente limites e restrições dentro das instruções dadas a um grande modelo de linguagem (LLM). Esta técnica se concentra em guiar o LLM para operar em um escopo específico, impedindo que ele gere respostas irrelevantes, prejudiciais ou incorretas por meio de regras e restrições sobre seu comportamento e formato de saída.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@Introduction: The Power of Clear Instructions](https://codesignal.com/learn/courses/prompting-foundations/lessons/defining-constraints-and-requirements-for-effective-prompts)
+- [@artigo@Introdução: A Potência das Instruções Claras](https://codesignal.com/learn/courses/prompting-foundations/lessons/defining-constraints-and-requirements-for-effective-prompts)

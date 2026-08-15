@@ -1,7 +1,7 @@
-# Performing Similarity Search
+# Realizando Busca de Similaridade
 
-In a similarity search, the process begins by converting the user’s query (such as a piece of text or an image) into an embedding—a vector representation that captures the query’s semantic meaning. This embedding is generated using a pre-trained model, such as BERT for text or a neural network for images. Once the query is converted into a vector, it is compared to the embeddings stored in the vector database.
+Em uma busca de similaridade, o processo começa convertendo a consulta do usuário (como um trecho de texto ou uma imagem) em uma representação vetorial—um vetor que captura o significado semântico da consulta. Essa representação vetorial é gerada usando um modelo pré-treinado, como o BERT para texto ou uma rede neural para imagens. Uma vez que a consulta seja convertida em um vetor, ela é comparada com as representações vetoriais armazenadas na base de dados vetorial.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is Similarity Search & How Does it work?](https://www.truefoundry.com/blog/similarity-search)
+- [@article@O que é Busca de Similaridade & Como Funciona?](https://www.truefoundry.com/blog/similarity-search)

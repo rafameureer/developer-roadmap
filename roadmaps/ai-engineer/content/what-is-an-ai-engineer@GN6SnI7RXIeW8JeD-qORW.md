@@ -1,9 +1,9 @@
-# What is an AI Engineer?
+# O que é um Engenheiro de IA?
 
-AI engineers are professionals who specialize in designing, developing, and implementing artificial intelligence (AI) systems. Their work is essential in various industries, as they create applications that enable machines to perform tasks that typically require human intelligence, such as problem-solving, learning, and decision-making.
+Engenheiros de IA são profissionais especializados em projetar, desenvolver e implementar sistemas de inteligência artificial (IA). Seu trabalho é essencial em várias indústrias, pois criam aplicativos que permitem que máquinas realizem tarefas que normalmente requerem inteligência humana, como resolução de problemas, aprendizado e tomada de decisão.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@How to Become an AI Engineer: Duties, Skills, and Salary](https://www.simplilearn.com/tutorials/artificial-intelligence-tutorial/how-to-become-an-ai-engineer)
-- [@article@AI Engineers: What they do and how to become one](https://www.techtarget.com/whatis/feature/How-to-become-an-artificial-intelligence-engineer)
-- [@article@I Transitioned from Data Science to AI Engineering: Here’s Everything You Need to Know](https://towardsdatascience.com/i-transitioned-from-data-science-to-ai-engineering-heres-everything-you-need-to-know/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)
+- [@artigo@Como se tornar um Engenheiro de IA: Responsabilidades, Habilidades e Salário](https://www.simplilearn.com/tutorials/artificial-intelligence-tutorial/how-to-become-an-ai-engineer)
+- [@artigo@Engenheiros de IA: O que eles fazem e como se tornar um](https://www.techtarget.com/whatis/feature/How-to-become-an-artificial-intelligence-engineer)
+- [@artigo@Eu migrei da Ciência dos Dados para Engenharia de IA: Aqui estão todas as informações necessárias](https://towardsdatascience.com/i-transitioned-from-data-science-to-ai-engineering-heres-everything-you-need-to-know/?utm_source=roadmap&utm_medium=Referral&utm_campaign=TDS+roadmap+integration)

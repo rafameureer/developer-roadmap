@@ -1,9 +1,9 @@
-# MCP Client
+# Cliente MCP
 
-The MCP Client is a software component that allows AI agents to interact with a Model Context Protocol (MCP) server. It handles the communication, serialization, and deserialization of data exchanged between the agent and the server, enabling the agent to access and manage contextual information relevant to its tasks. This client simplifies the process of integrating agents with the MCP ecosystem.
+O Cliente MCP é um componente de software que permite aos agentes AI interagirem com um servidor do Protocolo Contextual de Modelo (MCP). Ele lida com a comunicação, serialização e desserialização dos dados trocados entre o agente e o servidor, permitindo que o agente acesse e gerencie informações contextuais relevantes para suas tarefas. Este cliente simplifica o processo de integração de agentes com o ecossistema MCP.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@Model Context Protocol (MCP) Course](https://huggingface.co/learn/mcp-course/en/unit0/introduction)
-- [@official@Understanding MCP clients](https://modelcontextprotocol.io/docs/learn/client-concepts#understanding-mcp-clients)
-- [@video@The Complete Guide to Building AI Agents for Beginners](https://youtu.be/MOyl58VF2ak?si=-QjRD_5y3iViprJX)
+- [@curso@Curso do Protocolo Contextual de Modelo (MCP)](https://huggingface.co/learn/mcp-course/en/unit0/introduction)
+- [@oficial@Compreendendo clientes MCP](https://modelcontextprotocol.io/docs/learn/client-concepts#understanding-mcp-clients)
+- [@vídeo@Guia Completo para Construir Agentes AI Iniciantes](https://youtu.be/MOyl58VF2ak?si=-QjRD_5y3iViprJX)

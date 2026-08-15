@@ -1,8 +1,8 @@
 # PostHog
- 
-PostHog is a product analytics platform that also offers what it calls a context warehouse, a combined store of product event data, session replays, and business context from tools like Slack and support tickets. Rather than requiring a separate ETL pipeline to move data between systems, PostHog exposes this combined data directly to AI agents through its MCP server, letting an agent query product behavior and business context using the same interface a person would use.
 
-Visit the following resources to learn more:
+O PostHog é uma plataforma de análise de produtos que também oferece o que ele chama de um armazém de contexto, uma loja combinada de dados de eventos do produto, gravações de sessão e contexto empresarial de ferramentas como Slack e chamados de suporte. Em vez de exigir um pipeline ETL separado para mover dados entre sistemas, o PostHog expõe esses dados combinados diretamente a agentes de IA através de seu servidor MCP, permitindo que um agente consulte o comportamento do produto e o contexto empresarial usando a mesma interface que uma pessoa usaria.
 
-- [@official@PostHob Docs](https://posthog.com/handbook)
-- [@video@What is PostHog? (Official Demo & Tutorial)](https://www.youtube.com/watch?v=1FZji2L-LmM)
+Acesse os seguintes recursos para saber mais:
+
+- [@official@Documentação oficial do PostHog](https://posthog.com/handbook)
+- [@video@O que é o PostHog? (Demonstração Oficial e Tutorial)](https://www.youtube.com/watch?v=1FZji2L-LmM)

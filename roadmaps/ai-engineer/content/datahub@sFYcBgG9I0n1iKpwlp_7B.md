@@ -1,8 +1,8 @@
 # DataHub
  
-DataHub is an open source metadata platform originally built at LinkedIn for cataloging and managing data across an organization. It tracks where data lives, how it flows between systems, who owns it, and how it is used, giving teams a searchable map of their data assets. In the context of AI systems, this kind of metadata helps determine which datasets are trustworthy and relevant enough to feed into a model. Because it is open source, teams can self host and extend it rather than relying on a managed vendor.
+DataHub é uma plataforma de metadados de código aberto originalmente construída pelo LinkedIn para catalogar e gerenciar dados em uma organização. Ele rastreia onde os dados estão localizados, como eles fluem entre sistemas, quem os possui e como são usados, fornecendo aos times um mapa pesquisável dos seus ativos de dados. No contexto de sistemas de IA, este tipo de metadados ajuda a determinar quais conjuntos de dados são confiáveis ​​e relevantes o suficiente para alimentar um modelo. Como é de código aberto, os times podem hospedar e estender o sistema em vez de depender de um fornecedor gerenciado.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@DataHub](https://datahub.com/)
-- [@video@DataHub Context Platform demo: AI agent with and without DataHub context](https://www.youtube.com/watch?v=eCW925m_el0)
+- [@oficial@DataHub](https://datahub.com/)
+- [@vídeo@Demonstração do Plataforma Contextual DataHub: Agente de IA com e sem contexto de DataHub](https://www.youtube.com/watch?v=eCW925m_el0)

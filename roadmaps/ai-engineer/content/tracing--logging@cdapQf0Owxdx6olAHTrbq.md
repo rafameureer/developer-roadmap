@@ -1,7 +1,7 @@
 # Tracing & Logging
 
-Tracing records the full lifecycle of a request through your AI system, from the initial user input through any intermediate LLM calls, tool uses, or retrieval steps, all the way to the final response. Logging captures individual events like errors, latency spikes, or unexpected outputs. Together, they let you reconstruct exactly what happened during any given interaction, which is essential for debugging agents and multi-step pipelines.
+O rastreamento registra a totalidade do ciclo de vida de uma solicitação através do seu sistema de IA, desde a entrada inicial do usuário até quaisquer chamadas intermediárias de LLM, uso de ferramentas ou etapas de recuperação, até a resposta final. O registro captura eventos individuais como erros, picos de latência ou saídas inesperadas. Juntos, eles permitem reconstruir exatamente o que aconteceu durante qualquer interação específica, o que é essencial para depurar agentes e pipelines em várias etapas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@A guide to LLM debugging, tracing, and monitoring](https://wandb.ai/onlineinference/genai-research/reports/A-guide-to-LLM-debugging-tracing-and-monitoring--VmlldzoxMzk1MjAyOQ)
+- [@artigo@Um guia sobre a depuração, rastreamento e monitoramento de LLM](https://wandb.ai/onlineinference/genai-research/reports/A-guide-to-LLM-debugging-tracing-and-monitoring--VmlldzoxMzk1MjAyOQ)

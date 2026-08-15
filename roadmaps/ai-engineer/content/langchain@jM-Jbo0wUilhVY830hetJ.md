@@ -1,8 +1,8 @@
 # Langchain
 
-LangChain is a development framework that simplifies building applications powered by language models, enabling seamless integration of multiple AI models and data sources. It focuses on creating chains, or sequences, of operations where language models can interact with databases, APIs, and other models to perform complex tasks. LangChain offers tools for prompt management, data retrieval, and workflow orchestration, making it easier to develop robust, scalable applications like chatbots, automated data analysis, and multi-step reasoning systems.
+LangChain é um framework de desenvolvimento que simplifica a criação de aplicações alimentadas por modelos linguísticos, permitindo uma integração suave de múltiplos modelos e fontes de dados. Ele se concentra na criação de cadeias, ou sequências, de operações onde os modelos linguísticos podem interagir com bancos de dados, APIs e outros modelos para realizar tarefas complexas. LangChain oferece ferramentas para gerenciamento de prompts, recuperação de dados e orquestração de fluxos de trabalho, tornando mais fácil desenvolver aplicativos robustos e escaláveis como chatbots, análise automatizada de dados e sistemas de raciocínio em várias etapas.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@official@Langchain](https://www.langchain.com/)
-- [@video@What is LangChain?](https://www.youtube.com/watch?v=1bUy-1hGZpI)
+- [@oficial@Langchain](https://www.langchain.com/)
+- [@vídeo@O que é LangChain?](https://www.youtube.com/watch?v=1bUy-1hGZpI)

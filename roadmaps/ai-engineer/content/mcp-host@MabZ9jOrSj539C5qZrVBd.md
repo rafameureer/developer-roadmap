@@ -1,8 +1,8 @@
-# MCP Host
+# Host MCP
 
-The MCP Host is a central component within the Model Context Protocol (MCP) framework, responsible for managing and coordinating interactions between AI agents and the environment. It acts as a bridge, providing a standardized interface for agents to access and utilize contextual information, tools, and resources. The host handles requests from agents, ensures proper authorization and security, and facilitates communication with external systems or data sources.
+O Host MCP é um componente central no quadro do Protocolo Contextual de Modelo (MCP), responsável por gerenciar e coordenar as interações entre agentes AI e o ambiente. Ele atua como uma ponte, fornecendo uma interface padrão para que os agentes acessem e utilizem informações contextuais, ferramentas e recursos. O host lida com solicitações dos agentes, garante autorização adequada e segurança e facilita a comunicação com sistemas ou fontes de dados externos.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@Model Context Protocol (MCP) Course](https://huggingface.co/learn/mcp-course/en/unit0/introduction)
-- [@official@Concepts of MCP](https://modelcontextprotocol.io/docs/learn/architecture#concepts-of-mcp)
+- [@curso@Curso do Protocolo Contextual de Modelo (MCP)](https://huggingface.co/learn/mcp-course/en/unit0/introduction)
+- [@oficial Conceitos do MCP](https://modelcontextprotocol.io/docs/learn/architecture#concepts-of-mcp)

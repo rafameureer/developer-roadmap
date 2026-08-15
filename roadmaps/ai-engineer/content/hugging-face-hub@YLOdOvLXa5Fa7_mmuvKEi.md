@@ -1,8 +1,8 @@
-# Hugging Face Hub
+# Hub do Hugging Face
 
-The Hugging Face Hub is a central platform where users can discover, share, and collaborate on pre-trained models, datasets, and demos for machine learning. It hosts a vast repository of resources contributed by the community, allowing users to easily access and integrate these assets into their AI projects. The Hub provides tools for version control, model card documentation, and even web-based deployment, simplifying the process of leveraging existing AI models and contributing back to the open-source community.
+O Hub do Hugging Face é uma plataforma central onde usuários podem descobrir, compartilhar e colaborar em modelos pré-treinados, conjuntos de dados e demonstrações para aprendizado de máquina. Ele hospeda um vasto repositório de recursos contribuídos pela comunidade, permitindo que os usuários acessem facilmente esses ativos e integrem-os em seus projetos de IA. O Hub fornece ferramentas de controle de versão, documentação do cartão do modelo e até mesmo implantação baseada na web, simplificando o processo de aproveitar modelos AI existentes e contribuir para a comunidade aberta.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@course@The Hugging Face Hub (LLM Course)](https://huggingface.co/learn/nlp-course/en/chapter4/1)
-- [@official@Hugging Face Documentation](https://huggingface.co/docs/hub/en/index)
+- [@course@O Hub do Hugging Face (Curso LLM)](https://huggingface.co/learn/nlp-course/en/chapter4/1)
+- [@official@Documentação oficial do Hugging Face](https://huggingface.co/docs/hub/en/index)

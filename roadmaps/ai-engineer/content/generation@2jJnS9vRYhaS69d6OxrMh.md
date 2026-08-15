@@ -1,8 +1,8 @@
-# Generation
+# Geração
 
-Generation refers to the process where a generative language model, such as GPT, creates a response based on the information retrieved during the retrieval phase. After relevant documents or data snippets are identified using embeddings, they are passed to the generative model, which uses this information to produce coherent, context-aware, and informative responses. The retrieved content helps the model stay grounded and factual, enhancing its ability to answer questions, provide summaries, or engage in dialogue by combining retrieved knowledge with its natural language generation capabilities. This synergy between retrieval and generation makes RAG systems effective for tasks that require detailed, accurate, and contextually relevant outputs.
+A geração refere-se ao processo em que um modelo de linguagem gerativa, como o GPT, cria uma resposta com base nas informações recuperadas durante a fase de recuperação. Após os documentos ou trechos de dados relevantes serem identificados usando embeddings, eles são passados para o modelo gerativo, que usa essas informações para produzir respostas coisas, contextualmente conscientes e informativas. O conteúdo recuperado ajuda o modelo a permanecer ancorado e factual, melhorando sua capacidade de responder perguntas, fornecer resumos ou entrar em diálogo combinando o conhecimento recuperado com suas capacidades de geração natural de linguagem. Essa sinergia entre recuperação e geração torna os sistemas RAG eficazes para tarefas que requerem saídas detalhadas, precisas e contextualmente relevantes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is RAG (Retrieval-Augmented Generation)?](https://aws.amazon.com/what-is/retrieval-augmented-generation/)
-- [@video@Retrieval Augmented Generation (RAG) Explained in 8 Minutes!](https://www.youtube.com/watch?v=HREbdmOSQ18)
+- [@article@O que é RAG (Recuperação-Aumentada na Geração)?](https://aws.amazon.com/what-is/retrieval-augmented-generation/)
+- [@video@Explicação de Recuperação Aumentada na Geração (RAG) em 8 minutos!](https://www.youtube.com/watch?v=HREbdmOSQ18)

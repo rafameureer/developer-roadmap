@@ -1,9 +1,9 @@
 # Zero Shot Prompting
 
-Zero-shot prompting is a prompt engineering method that relies on the pretraining of a large language model (LLM) to infer an appropriate response. In contrast to other prompt engineering methods, such as few-shot prompting, models aren’t provided with examples of output when prompting with the zero-shot technique.
+O zero shot prompting é um método de engenharia de prompts que depende da pré-treinamento de um grande modelo linguístico (LLM) para inferir uma resposta apropriada. Em contraste com outros métodos de engenharia de prompts, como o zero-shot, os modelos não são fornecidos com exemplos de saída quando solicitados usando o método zero-shot.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@What is zero-shot prompting?](https://www.ibm.com/think/topics/zero-shot-prompting)
+- [@article@O que é zero shot prompting?](https://www.ibm.com/think/topics/zero-shot-prompting)
 - [@article@Zero-Shot Prompting](https://www.promptingguide.ai/techniques/zeroshot)
-- [@video@Zero-shot, One-shot and Few-shot Prompting Explained | Prompt Engineering 101](https://www.youtube.com/watch?v=sW5xoicq5TY)
+- [@video@Zero-shot, One-shot e Few-shot Prompting Explained | Introdução à Engenharia de Prompts 101](https://www.youtube.com/watch?v=sW5xoicq5TY)

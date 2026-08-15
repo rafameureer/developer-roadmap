@@ -1,8 +1,8 @@
-# Cost & Latency Monitoring
+# Monitoramento de Custo e Latência
 
-Cost and latency monitoring tracks token usage, the resulting financial cost, and response times across your AI system. Without this visibility, production costs can compound quickly and silently, especially when using large reasoning models that charge significantly per token. Tracking these alongside quality metrics lets you make informed tradeoffs, such as routing simpler queries to cheaper models or caching common responses to reduce redundant API calls.
+O monitoramento de custo e latência rastreia o uso de tokens, o custo financeiro resultante e os tempos de resposta em seu sistema AI. Sem esta visibilidade, os custos de produção podem se acumular rapidamente e silenciosamente, especialmente quando usar modelos de razão grande que cobram significativamente por token. Rastreando esses dados junto com métricas de qualidade permite que você faça negociações informadas, como encaminhar consultas mais simples para modelos mais baratos ou armazenar respostas comuns em cache para reduzir chamadas API redundantes.
 
-Visit the following resources to learn more:
+Acesse os seguintes recursos para saber mais:
 
-- [@article@The LLM Inference Trilemma: Throughput, Latency, Cost](https://www.digitalocean.com/blog/llm-inference-tradeoffs)
-- [@article@LLM Cost Optimization: 5 Levers That Cut API Spend 70-85%](https://www.morphllm.com/llm-cost-optimization)
+- [@artigo@O Trilema de Inferência LLM: Throughput, Latência, Custo](https://www.digitalocean.com/blog/llm-inference-tradeoffs)
+- [@artigo@Otimização do Custo dos LLMs: 5 Levers que Reduzem o Gasto em API em 70-85%](https://www.morphllm.com/llm-cost-optimization)
